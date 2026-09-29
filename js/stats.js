@@ -119,7 +119,7 @@ const Stats = (() => {
     const a = document.createElement('a');
     const date = new Date().toISOString().slice(0, 10);
     a.href = url;
-    a.download = `culture-generale-sauvegarde-${date}.json`;
+    a.download = `croc-savoir-sauvegarde-${date}.json`;
     document.body.appendChild(a);
     a.click();
     a.remove();

@@ -5,15 +5,34 @@
       <stop offset="0.5" stop-color="#2f7bff"/>
       <stop offset="1" stop-color="#3a1fb8"/>
     </linearGradient>
-    <linearGradient id="q" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#2f7bff"/>
-      <stop offset="1" stop-color="#6a3cff"/>
+    <linearGradient id="bun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffc55c"/>
+      <stop offset="1" stop-color="#f08f2a"/>
     </linearGradient>
   </defs>
   <rect width="512" height="512" fill="url(#bg)"/>
-  <!-- Bulle de dialogue -->
-  <path d="M256 92c-96 0-168 66-168 150 0 44 20 83 53 110l-17 62c-2 8 7 14 14 9l66-44c16 4 34 7 52 7 96 0 168-66 168-150S352 92 256 92z" fill="#ffffff"/>
-  <!-- Point d'interrogation -->
-  <path d="M206 205c0-30 23-52 52-52s52 20 52 47c0 23-14 34-30 44-16 10-24 20-24 40v10" fill="none" stroke="url(#q)" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="256" cy="345" r="23" fill="url(#q)"/>
+  <g id="art">
+    <!-- Pain du bas -->
+    <path d="M104 350h304c0 34-22 56-50 56H154c-28 0-50-22-50-56z" fill="url(#bun)"/>
+    <!-- Steak -->
+    <rect x="94" y="304" width="324" height="56" rx="28" fill="#6b3b20"/>
+    <!-- Fromage qui coule -->
+    <path d="M100 290h312v14l-30 10v22c0 7-12 7-12 0v-18l-46 10v16c0 7-12 7-12 0v-12l-56 8v24c0 7-12 7-12 0v-22l-58-6v12c0 7-12 7-12 0v-16l-62-12z" fill="#ffd93d"/>
+    <!-- Salade -->
+    <path d="M92 272 q16 -16 32 0 q16 -16 32 0 q16 -16 32 0 q16 -16 32 0 q16 -16 32 0 q16 -16 32 0 q16 -16 32 0 q16 -16 32 0 q16 -16 32 0 q16 -16 32 0 q16 -16 32 0 L420 300 q-16 12 -32 0 q-16 12 -32 0 q-16 12 -32 0 q-16 12 -32 0 q-16 12 -32 0 q-16 12 -32 0 q-16 12 -32 0 q-16 12 -32 0 q-16 12 -32 0 q-16 12 -32 0 q-16 12 -32 0 z" fill="#58d36b"/>
+    <!-- Pain du haut -->
+    <path d="M100 262c0-92 70-154 156-154s156 62 156 154c0 10-8 18-18 18H118c-10 0-18-8-18-18z" fill="url(#bun)"/>
+    <!-- Graines -->
+    <g fill="#fff3d6">
+      <ellipse cx="160" cy="200" rx="8" ry="5" transform="rotate(-25 160 200)"/>
+      <ellipse cx="352" cy="200" rx="8" ry="5" transform="rotate(25 352 200)"/>
+      <ellipse cx="196" cy="150" rx="8" ry="5" transform="rotate(-15 196 150)"/>
+      <ellipse cx="318" cy="150" rx="8" ry="5" transform="rotate(15 318 150)"/>
+      <ellipse cx="140" cy="245" rx="7" ry="4.5"/>
+      <ellipse cx="372" cy="245" rx="7" ry="4.5"/>
+    </g>
+    <!-- Point d'interrogation sur le pain -->
+    <path d="M232 170c0-14 11-24 25-24s25 10 25 23c0 11-7 16-14 21s-11 9-11 18v4" fill="none" stroke="#ffffff" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="257" cy="246" r="11" fill="#ffffff"/>
+  </g>
 </svg>

@@ -686,3 +686,56 @@ body::before {
   .domain-grid { grid-template-columns: repeat(3, 1fr); }
   .btn-next { position: static; }
 }
+
+/* ===================== Bouchée du jour ===================== */
+.daily-card {
+  position: relative;
+  display: flex; align-items: center; gap: 14px;
+  width: 100%; margin-bottom: 14px;
+  padding: 18px 18px;
+  border: 1px solid rgba(255, 200, 90, 0.45);
+  border-radius: var(--radius-xl);
+  background: linear-gradient(135deg, rgba(255, 170, 60, 0.30), rgba(var(--accent-rgb), 0.22) 70%);
+  color: var(--text); text-align: left; cursor: pointer;
+  box-shadow: 0 10px 28px rgba(255, 150, 40, 0.18);
+  transition: transform .12s ease;
+}
+.daily-card:active { transform: scale(0.98); }
+.daily-card.is-done { border-color: var(--border); background: var(--card); box-shadow: var(--shadow-soft); }
+.daily-card__icon {
+  font-size: 30px; width: 56px; height: 56px; flex-shrink: 0;
+  display: flex; align-items: center; justify-content: center;
+  border-radius: 18px; background: rgba(255, 255, 255, 0.10);
+}
+.daily-card__text { display: flex; flex-direction: column; gap: 3px; flex: 1; min-width: 0; }
+.daily-card__title { font-family: var(--font-display); font-size: 19px; font-weight: 800; }
+.daily-card__desc { font-size: 13.5px; color: var(--text-muted); }
+.daily-card__streak {
+  flex-shrink: 0; font-weight: 800; font-size: 15px;
+  padding: 6px 10px; border-radius: 999px;
+  background: rgba(255, 140, 40, 0.18); color: #ffc27a;
+}
+.daily-card__streak[hidden] { display: none; }
+
+.daily-progress { display: flex; gap: 5px; margin: 4px 0 10px; }
+.daily-progress__seg { flex: 1; height: 6px; border-radius: 99px; background: var(--bg-elevated); }
+.daily-progress__seg.is-done { background: linear-gradient(90deg, var(--accent), var(--accent-2)); }
+.daily-progress__seg.is-current { background: rgba(var(--accent-rgb), 0.45); }
+.daily-progress__seg.is-quiz.is-done { background: linear-gradient(90deg, #7b5cff, #a98bff); }
+.daily-step-label { font-size: 13px; font-weight: 700; color: var(--text-muted); margin: 0 2px 12px; }
+
+.daily-end { text-align: center; padding: 24px 4px 8px; display: flex; flex-direction: column; align-items: center; }
+.daily-end__emoji { font-size: 64px; margin-bottom: 6px; }
+.daily-end__title { font-size: 26px; margin: 0; }
+.daily-end__msg { color: var(--text-muted); margin: 6px 0 20px; font-size: 16px; }
+.daily-end__stats { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; width: 100%; margin-bottom: 16px; }
+.daily-end__stat { background: var(--card); border: 1px solid var(--border-soft); border-radius: var(--radius-lg); padding: 16px 10px; display: flex; flex-direction: column; gap: 4px; }
+.daily-end__value { font-family: var(--font-display); font-size: 26px; font-weight: 800; color: var(--accent-2); }
+.daily-end__label { font-size: 13px; color: var(--text-muted); }
+.daily-end__hint { font-size: 13.5px; color: var(--text-faint); margin: 0 0 18px; }
+.daily-end__btn { width: 100%; min-height: 52px; margin-top: 10px; }
+
+/* Accueil un peu plus compact pour loger la bouchée du jour */
+.home-hero { margin: 2vh 0 3vh; }
+.home-hero__logo { width: 72px; height: 72px; margin-bottom: 12px; }
+.home-card { min-height: 112px; }

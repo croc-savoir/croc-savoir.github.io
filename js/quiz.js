@@ -552,5 +552,5 @@ const Quiz = (() => {
     });
   }
 
-  return { initAleatoire, initTheme, startErrorReview };
+  return { initAleatoire, initTheme, startErrorReview, renderQuestion };
 })();

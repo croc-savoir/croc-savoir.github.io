@@ -12,6 +12,8 @@ const Store = (() => {
       fiches: {},   // ficheId -> { views, lastViewed }
       quiz: {},     // questionId -> { ef, interval, reps, due, lastResult, history: [{date, correct}] }
       settings: { accent: 'blue' },
+      daily: null,  // session du jour en cours : { date, ficheIds, quizIds, step, results, done }
+      streak: { count: 0, lastDate: null }, // jours consécutifs avec une bouchée terminée
     };
   }
 
@@ -25,6 +27,7 @@ const Store = (() => {
       if (!data.fiches) data.fiches = {};
       if (!data.quiz) data.quiz = {};
       if (!data.settings) data.settings = { accent: 'blue' };
+      if (!data.streak) data.streak = { count: 0, lastDate: null };
     } catch (e) {
       console.warn('Progression illisible, réinitialisation locale.', e);
       data = blank();
@@ -115,8 +118,15 @@ const Store = (() => {
     }
     data = parsed;
     if (!data.settings) data.settings = { accent: 'blue' };
+    if (!data.streak) data.streak = { count: 0, lastDate: null };
     save();
   }
+
+  // ---------- Bouchée du jour ----------
+  function getDaily() { load(); return data.daily || null; }
+  function setDaily(d) { load(); data.daily = d; save(); }
+  function getStreakRaw() { load(); return data.streak; }
+  function setStreakRaw(st) { load(); data.streak = st; save(); }
 
   function setAccent(name) {
     load();
@@ -136,5 +146,6 @@ const Store = (() => {
     domainStats, globalCounts,
     exportJSON, importJSON,
     setAccent, getAccent,
+    getDaily, setDaily, getStreakRaw, setStreakRaw,
   };
 })();

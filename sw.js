@@ -4,7 +4,7 @@
  *   et à mesure (stale-while-revalidate), pour supporter l'ajout de
  *   nouveaux domaines/lots sans jamais devoir republier le service worker.
  * ================================================================= */
-const SHELL_VERSION = 'v11';
+const SHELL_VERSION = 'v13';
 const SHELL_CACHE = `culture-g-shell-${SHELL_VERSION}`;
 const DATA_CACHE = 'culture-g-data';
 
@@ -20,6 +20,7 @@ const SHELL_FILES = [
   'js/fiches.js',
   'js/quiz.js',
   'js/stats.js',
+  'js/daily.js',
   'js/app.js',
   'fonts/mplus-rounded-500.woff2',
   'fonts/mplus-rounded-700.woff2',
@@ -63,15 +64,16 @@ self.addEventListener('fetch', (event) => {
   // Data JSON : stale-while-revalidate (fonctionne hors-ligne dès le 1er chargement,
   // se met à jour tout seul en tâche de fond dès qu'il y a du réseau).
   if (isDataRequest(url)) {
+    // Données (fiches, quiz) : réseau d'abord pour avoir le contenu à jour dès le
+    // premier rafraîchissement ; copie en cache pour le hors-ligne.
     event.respondWith(
-      caches.open(DATA_CACHE).then(async (cache) => {
-        const cached = await cache.match(req);
-        const network = fetch(req).then(res => {
-          if (res && res.ok) cache.put(req, res.clone());
-          return res;
-        }).catch(() => null);
-        return cached || network || new Response('[]', { headers: { 'Content-Type': 'application/json' } });
-      })
+      fetch(req).then(res => {
+        if (res && res.ok) {
+          const copy = res.clone();
+          caches.open(DATA_CACHE).then(cache => cache.put(req, copy));
+        }
+        return res;
+      }).catch(() => caches.match(req).then(c => c || new Response('[]', { headers: { 'Content-Type': 'application/json' } })))
     );
     return;
   }

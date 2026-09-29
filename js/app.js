@@ -40,6 +40,7 @@ const App = (() => {
     if (name === 'home') renderHome();
     if (name === 'fiches-aleatoire') Fiches.initAleatoire();
     if (name === 'fiches-theme') Fiches.initTheme();
+    if (name === 'daily') Daily.render();
     if (name === 'quiz-aleatoire') Quiz.initAleatoire();
     if (name === 'quiz-theme') Quiz.initTheme();
   }
@@ -106,10 +107,24 @@ const App = (() => {
     };
     document.getElementById('home-greeting').textContent =
       `${nD} thèmes · ${approx(nF, 'fiches')} · ${approx(nQ, 'quiz')}`;
+    renderDailyCard();
     const nErr = Store.getErrorIds().length;
     const errBtn = document.getElementById('btn-errors');
     errBtn.hidden = nErr === 0;
     errBtn.textContent = `🔁 Revoir mes erreurs (${nErr})`;
+  }
+
+  function renderDailyCard() {
+    const s = Daily.summary();
+    const card = document.querySelector('.daily-card');
+    const desc = document.getElementById('daily-card-desc');
+    const streakEl = document.getElementById('daily-card-streak');
+    card.classList.toggle('is-done', s.state === 'done');
+    if (s.state === 'done') desc.textContent = s.score != null ? `Terminée ✓ · ${s.score}/${s.total} · À demain !` : 'Terminée ✓ · À demain !';
+    else if (s.state === 'progress') desc.textContent = `En cours · étape ${s.step + 1} sur ${s.total} · Reprendre`;
+    else desc.textContent = '5 fiches + 5 questions · environ 5 min';
+    streakEl.hidden = s.streak === 0;
+    streakEl.textContent = `🔥 ${s.streak}`;
   }
 
   function openStats() {

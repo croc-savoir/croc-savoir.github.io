@@ -12,6 +12,7 @@ const Store = (() => {
       fiches: {},   // ficheId -> { views, lastViewed }
       quiz: {},     // questionId -> { ef, interval, reps, due, lastResult, history: [{date, correct}] }
       settings: { accent: 'blue' },
+      favorites: {}, // ficheId -> date d'ajout (ISO)
       daily: null,  // session du jour en cours : { date, ficheIds, quizIds, step, results, done }
       streak: { count: 0, lastDate: null }, // jours consécutifs avec une bouchée terminée
     };
@@ -28,6 +29,7 @@ const Store = (() => {
       if (!data.quiz) data.quiz = {};
       if (!data.settings) data.settings = { accent: 'blue' };
       if (!data.streak) data.streak = { count: 0, lastDate: null };
+      if (!data.favorites) data.favorites = {};
     } catch (e) {
       console.warn('Progression illisible, réinitialisation locale.', e);
       data = blank();
@@ -119,7 +121,23 @@ const Store = (() => {
     data = parsed;
     if (!data.settings) data.settings = { accent: 'blue' };
     if (!data.streak) data.streak = { count: 0, lastDate: null };
+    if (!data.favorites) data.favorites = {};
     save();
+  }
+
+  // ---------- Favoris ----------
+  function isFavorite(ficheId) { load(); return !!data.favorites[ficheId]; }
+  function toggleFavorite(ficheId) {
+    load();
+    if (data.favorites[ficheId]) delete data.favorites[ficheId];
+    else data.favorites[ficheId] = new Date().toISOString();
+    save();
+    return !!data.favorites[ficheId];
+  }
+  // Identifiants des favoris, du plus récent au plus ancien.
+  function favoriteIds() {
+    load();
+    return Object.keys(data.favorites).sort((a, b) => data.favorites[b].localeCompare(data.favorites[a]));
   }
 
   // ---------- Bouchée du jour ----------
@@ -146,6 +164,7 @@ const Store = (() => {
     domainStats, globalCounts,
     exportJSON, importJSON,
     setAccent, getAccent,
+    isFavorite, toggleFavorite, favoriteIds,
     getDaily, setDaily, getStreakRaw, setStreakRaw,
   };
 })();

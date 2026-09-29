@@ -26,6 +26,11 @@
       <p class="home-hero__subtitle" id="home-greeting">Un peu de culture, à ton rythme.</p>
     </div>
 
+    <button class="search-pill" type="button" data-go="search">
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+      <span>Rechercher une fiche…</span>
+    </button>
+
     <button class="daily-card" type="button" data-go="daily">
       <span class="daily-card__icon">🍔</span>
       <span class="daily-card__text">
@@ -80,6 +85,14 @@
         </span>
         <span class="mode-card__arrow">›</span>
       </button>
+      <button class="mode-card" type="button" data-go="favoris">
+        <span class="mode-card__icon">⭐</span>
+        <span class="mode-card__text">
+          <span class="mode-card__title">Mes favoris</span>
+          <span class="mode-card__desc" id="fav-mode-desc">Les fiches que tu as mises de côté avec l'étoile.</span>
+        </span>
+        <span class="mode-card__arrow">›</span>
+      </button>
     </div>
   </section>
 
@@ -109,6 +122,22 @@
   <!-- ===== BOUCHÉE DU JOUR ===== -->
   <section class="screen" data-screen="daily" data-title="Bouchée du jour" data-back="home" hidden>
     <div id="daily-content"></div>
+  </section>
+
+  <!-- ===== RECHERCHE ===== -->
+  <section class="screen" data-screen="search" data-title="Rechercher" data-back="home" hidden>
+    <div class="search-bar" id="search-bar">
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+      <input id="search-input" type="search" placeholder="Napoléon, volcan, jazz…" autocomplete="off" autocorrect="off" spellcheck="false" enterkeyhint="search" aria-label="Rechercher une fiche">
+      <button id="search-clear" type="button" aria-label="Effacer" hidden>✕</button>
+    </div>
+    <div id="search-results"></div>
+    <div id="search-fiche" class="card-stage" hidden></div>
+  </section>
+
+  <!-- ===== FAVORIS ===== -->
+  <section class="screen" data-screen="favoris" data-title="Mes favoris" data-back="fiches-menu" hidden>
+    <div id="favorites-content" class="card-stage"></div>
   </section>
 
   <!-- ===== CONTENUS ===== -->
@@ -156,6 +185,7 @@
 <script src="js/quiz.js"></script>
 <script src="js/stats.js"></script>
 <script src="js/daily.js"></script>
+<script src="js/library.js"></script>
 <script src="js/app.js"></script>
 </body>
 </html>

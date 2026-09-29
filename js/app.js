@@ -41,6 +41,14 @@ const App = (() => {
     if (name === 'fiches-aleatoire') Fiches.initAleatoire();
     if (name === 'fiches-theme') Fiches.initTheme();
     if (name === 'daily') Daily.render();
+    if (name === 'search') Library.initSearch();
+    if (name === 'favoris') Library.initFavorites();
+    if (name === 'fiches-menu') {
+      const n = Library.favoritesCount();
+      document.getElementById('fav-mode-desc').textContent = n
+        ? `${n} fiche${n > 1 ? 's' : ''} mise${n > 1 ? 's' : ''} de côté avec l'étoile.`
+        : "Les fiches que tu as mises de côté avec l'étoile.";
+    }
     if (name === 'quiz-aleatoire') Quiz.initAleatoire();
     if (name === 'quiz-theme') Quiz.initTheme();
   }
@@ -62,6 +70,7 @@ const App = (() => {
   function go(name, { prepareScreen = true } = {}) {
     if (prepareScreen) prepare(name);
     render(name);
+    if (name === 'search') Library.focusSearch();
     history.pushState({ screen: name }, '', `#${name}`);
   }
 

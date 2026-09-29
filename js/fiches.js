@@ -104,6 +104,7 @@ const Fiches = (() => {
     wrap.className = 'fiche-card';
     const seen = Store.isFicheSeen(fiche.id);
     wrap.innerHTML = `
+      <button type="button" class="fav-btn" aria-label="Ajouter aux favoris"></button>
       <div class="fiche-card__type">${DataStore.getDomain(fiche.domain)?.emoji || ''} ${escapeHTML(TYPE_LABELS[fiche.type] || 'Fiche')}${fiche.subtheme ? ` · ${escapeHTML(fiche.subtheme)}` : ''}</div>
       <h3 class="fiche-card__title">${escapeHTML(fiche.title)}</h3>
       ${fiche.subtitle ? `<p class="fiche-card__subtitle">${escapeHTML(fiche.subtitle)}</p>` : ''}
@@ -112,6 +113,21 @@ const Fiches = (() => {
       <div class="fiche-details">${detailsHTML(fiche)}${extrasHTML(fiche)}</div>` : ''}
       ${sourceLine(fiche)}
     `;
+    const favBtn = wrap.querySelector('.fav-btn');
+    const paintFav = (on) => {
+      favBtn.classList.toggle('is-on', on);
+      favBtn.textContent = on ? '★' : '☆';
+      favBtn.setAttribute('aria-pressed', on ? 'true' : 'false');
+      favBtn.setAttribute('aria-label', on ? 'Retirer des favoris' : 'Ajouter aux favoris');
+    };
+    paintFav(Store.isFavorite(fiche.id));
+    favBtn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const on = Store.toggleFavorite(fiche.id);
+      paintFav(on);
+      App.toast(on ? '⭐ Ajoutée aux favoris' : 'Retirée des favoris');
+    });
+
     const btn = wrap.querySelector('.btn-approfondir');
     if (btn) {
       btn.addEventListener('click', () => {

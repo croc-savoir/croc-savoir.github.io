@@ -1,0 +1,460 @@
+[
+  {
+    "id": "q-histoire-001",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Qui devient empereur des Français en 1804 ?",
+    "choix": [
+      "Louis XVI",
+      "Napoléon Bonaparte",
+      "Robespierre",
+      "Charlemagne"
+    ],
+    "bonneReponse": 1,
+    "explication": "Napoléon Bonaparte se fait couronner empereur des Français en décembre 1804, après avoir pris le pouvoir par un coup d'État en 1799.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-histoire-002",
+    "domain": "histoire",
+    "format": "vrai-faux",
+    "affirmation": "La prise de la Bastille, le 14 juillet 1789, a permis de libérer des centaines de prisonniers politiques.",
+    "reponse": false,
+    "explication": "Idée reçue fréquente : ce jour-là, la Bastille ne comptait en réalité que sept prisonniers, aucun n'étant une grande figure politique. C'est la valeur symbolique du geste, contre ce lieu de pouvoir royal, qui a marqué les esprits.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-histoire-003",
+    "domain": "histoire",
+    "format": "frise",
+    "question": "Remets ces événements dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Prise de la Bastille",
+        "annee": "1789"
+      },
+      {
+        "label": "Bataille de Waterloo",
+        "annee": "1815"
+      },
+      {
+        "label": "Début de la Première Guerre mondiale",
+        "annee": "1914"
+      },
+      {
+        "label": "Construction du mur de Berlin",
+        "annee": "1961"
+      }
+    ],
+    "explication": "Quatre grandes dates de l'histoire moderne, de la Révolution française à la Guerre froide.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-histoire-004",
+    "domain": "histoire",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née en Corse en 1769.",
+      "Je gravis rapidement les échelons de l'armée pendant la Révolution française.",
+      "Je fais rédiger un code de lois encore utilisé en partie aujourd'hui.",
+      "Je me fais couronner empereur en 1804.",
+      "Je suis définitivement vaincu à Waterloo en 1815."
+    ],
+    "reponse": "Napoléon Bonaparte",
+    "explication": "Napoléon Bonaparte, empereur des Français de 1804 à 1815, reste l'une des figures les plus marquantes de l'histoire européenne.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-histoire-005",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quel chef germanique dépose le dernier empereur romain d'Occident en 476 ?",
+    "choix": [
+      "Attila",
+      "Alaric",
+      "Odoacre",
+      "Clovis"
+    ],
+    "bonneReponse": 2,
+    "explication": "Odoacre dépose Romulus Augustule en 476 et se proclame roi d'Italie. Alaric avait pillé Rome en 410.",
+    "source": "D'après Wikipédia — Odoacre"
+  },
+  {
+    "id": "q-histoire-006",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Dans quelle ville Jeanne d'Arc fait-elle sacrer Charles VII en 1429 ?",
+    "choix": [
+      "Paris",
+      "Orléans",
+      "Reims",
+      "Chinon"
+    ],
+    "bonneReponse": 2,
+    "explication": "Les rois de France étaient traditionnellement sacrés à Reims. Jeanne y conduit Charles VII le 17 juillet 1429.",
+    "source": "D'après Wikipédia — Jeanne d'Arc"
+  },
+  {
+    "id": "q-histoire-007",
+    "domain": "histoire",
+    "format": "vrai-faux",
+    "affirmation": "La guerre de Cent Ans a duré exactement cent ans.",
+    "reponse": false,
+    "explication": "Elle a duré 116 ans, de 1337 à 1453, avec de longues périodes de trêve.",
+    "source": "D'après Wikipédia — Guerre de Cent Ans"
+  },
+  {
+    "id": "q-histoire-008",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Qui a été le précepteur d'Alexandre le Grand ?",
+    "choix": [
+      "Platon",
+      "Socrate",
+      "Aristote",
+      "Pythagore"
+    ],
+    "bonneReponse": 2,
+    "explication": "Philippe II de Macédoine confie l'éducation de son fils à Aristote, alors que celui-ci a environ 13 ans.",
+    "source": "D'après Wikipédia — Alexandre le Grand"
+  },
+  {
+    "id": "q-histoire-009",
+    "domain": "histoire",
+    "format": "frise",
+    "question": "Remets ces événements du Moyen Âge dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Couronnement de Charlemagne",
+        "annee": "800"
+      },
+      {
+        "label": "Bataille d'Hastings",
+        "annee": "1066"
+      },
+      {
+        "label": "Prise de Jérusalem par les croisés",
+        "annee": "1099"
+      },
+      {
+        "label": "Début de la peste noire en Europe",
+        "annee": "1347"
+      },
+      {
+        "label": "Mort de Jeanne d'Arc",
+        "annee": "1431"
+      }
+    ],
+    "explication": "800, 1066, 1099, 1347, 1431 : cinq repères du Moyen Âge européen.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-histoire-010",
+    "domain": "histoire",
+    "format": "vrai-faux",
+    "affirmation": "Les pyramides de Gizeh ont été construites par des esclaves.",
+    "reponse": false,
+    "explication": "Les fouilles du village des ouvriers montrent qu'il s'agissait de travailleurs égyptiens organisés, nourris et soignés, et enterrés près des pyramides.",
+    "source": "D'après Wikipédia — Pyramides de Gizeh"
+  },
+  {
+    "id": "q-histoire-011",
+    "domain": "histoire",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis montée sur le trône à l'âge de 4 ans.",
+      "Enfant, j'ai dû fuir Paris pendant la Fronde.",
+      "Mon ministre Colbert a développé les manufactures.",
+      "J'ai fait de Versailles le siège de la cour en 1682.",
+      "On m'appelle le Roi-Soleil."
+    ],
+    "reponse": "Louis XIV",
+    "explication": "Louis XIV a régné 72 ans, de 1643 à 1715.",
+    "source": "D'après Wikipédia — Louis XIV"
+  },
+  {
+    "id": "q-histoire-012",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quelle bataille de 1066 permet à Guillaume de Normandie de conquérir l'Angleterre ?",
+    "choix": [
+      "Azincourt",
+      "Hastings",
+      "Crécy",
+      "Bouvines"
+    ],
+    "bonneReponse": 1,
+    "explication": "À Hastings, le 14 octobre 1066, le roi Harold II est tué et Guillaume devient « le Conquérant ».",
+    "source": "D'après Wikipédia — Bataille d'Hastings"
+  },
+  {
+    "id": "q-histoire-013",
+    "domain": "histoire",
+    "format": "associer",
+    "question": "Associe chaque personnage à son époque.",
+    "paires": [
+      {
+        "gauche": "Périclès",
+        "droite": "Athènes, Ve s. av. J.-C."
+      },
+      {
+        "gauche": "Charlemagne",
+        "droite": "Empire carolingien"
+      },
+      {
+        "gauche": "Louis XIV",
+        "droite": "Versailles"
+      },
+      {
+        "gauche": "Lénine",
+        "droite": "Révolution russe"
+      }
+    ],
+    "explication": "Quatre grandes figures de quatre périodes différentes.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-histoire-014",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Comment s'appelaient les trois navires de Christophe Colomb en 1492 ?",
+    "choix": [
+      "Santa María, Pinta, Niña",
+      "Victoria, Trinidad, Concepción",
+      "Mayflower, Speedwell, Fortune",
+      "Endeavour, Resolution, Discovery"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Santa María, la Pinta et la Niña quittent Palos le 3 août 1492. Victoria et Trinidad sont des navires de Magellan.",
+    "source": "D'après Wikipédia — Christophe Colomb"
+  },
+  {
+    "id": "q-histoire-015",
+    "domain": "histoire",
+    "format": "vrai-faux",
+    "affirmation": "La révolution d'Octobre 1917 a eu lieu en novembre selon notre calendrier.",
+    "reponse": true,
+    "explication": "La Russie utilisait le calendrier julien, en retard de 13 jours : le 25 octobre correspond au 7 novembre grégorien.",
+    "source": "D'après Wikipédia — Révolution d'Octobre"
+  },
+  {
+    "id": "q-histoire-016",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "D’où vient le mot « quarantaine », apparu lors des épidémies de peste ?",
+    "choix": [
+      "Aucun : c'est la durée d'isolement de 40 jours imposée aux navires",
+      "Un navire nommé Quaranta",
+      "Une loi de 40 articles",
+      "Un hôpital de 40 lits"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pendant les épidémies de peste, Venise et Raguse imposaient aux navires 40 jours d'isolement avant de débarquer.",
+    "source": "D'après Wikipédia — Quarantaine"
+  },
+  {
+    "id": "q-histoire-017",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Qui lance l'appel du 18 juin 1940 ?",
+    "choix": [
+      "Philippe Pétain",
+      "Charles de Gaulle",
+      "Jean Moulin",
+      "Winston Churchill"
+    ],
+    "bonneReponse": 1,
+    "explication": "Depuis Londres, sur la BBC, de Gaulle appelle les Français à poursuivre la lutte.",
+    "source": "D'après Wikipédia — Appel du 18 Juin"
+  },
+  {
+    "id": "q-histoire-018",
+    "domain": "histoire",
+    "format": "difference",
+    "question": "Quelle est la différence entre un armistice et un traité de paix ?",
+    "choix": [
+      "Aucune, ce sont des synonymes",
+      "L'armistice suspend les combats, le traité met fin à la guerre",
+      "Le traité suspend les combats, l'armistice met fin à la guerre",
+      "L'armistice concerne uniquement la marine"
+    ],
+    "bonneReponse": 1,
+    "explication": "L'armistice du 11 novembre 1918 arrête les combats ; la paix est signée à Versailles en 1919.",
+    "source": "D'après Wikipédia — Armistice"
+  },
+  {
+    "id": "q-histoire-019",
+    "domain": "histoire",
+    "format": "frise",
+    "question": "Remets ces événements de la guerre froide dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Blocus de Berlin",
+        "annee": "1948"
+      },
+      {
+        "label": "Construction du mur de Berlin",
+        "annee": "1961"
+      },
+      {
+        "label": "Crise des missiles de Cuba",
+        "annee": "1962"
+      },
+      {
+        "label": "Chute du mur de Berlin",
+        "annee": "1989"
+      },
+      {
+        "label": "Dissolution de l'URSS",
+        "annee": "1991"
+      }
+    ],
+    "explication": "De la première crise (1948) à la fin de l'URSS (1991).",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-histoire-020",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quelle invention a été décisive pour les victoires anglaises de Crécy et d'Azincourt ?",
+    "choix": [
+      "Le canon",
+      "L'arc long",
+      "L'arbalète",
+      "L'étrier"
+    ],
+    "bonneReponse": 1,
+    "explication": "Les archers anglais, armés du longbow, tiraient beaucoup plus vite que les arbalétriers et décimaient la chevalerie française.",
+    "source": "D'après Wikipédia — Bataille d'Azincourt"
+  },
+  {
+    "id": "q-histoire-021",
+    "domain": "histoire",
+    "format": "vrai-faux",
+    "affirmation": "Napoléon Bonaparte était particulièrement petit pour son époque.",
+    "reponse": false,
+    "explication": "Il mesurait environ 1,69 m, dans la moyenne. La légende vient de la différence entre pouces français et anglais et des caricatures britanniques.",
+    "source": "D'après Wikipédia — Napoléon Ier"
+  },
+  {
+    "id": "q-histoire-022",
+    "domain": "histoire",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Porbandar en 1869.",
+      "J'ai été avocat en Afrique du Sud pendant plus de vingt ans.",
+      "J'ai théorisé la satyagraha, la résistance non violente.",
+      "En 1930, j'ai mené la marche du sel.",
+      "On m'appelle Mahatma, la « grande âme »."
+    ],
+    "reponse": "Gandhi",
+    "explication": "Gandhi a mené l'Inde vers l'indépendance par la non-violence ; il est assassiné en 1948.",
+    "source": "D'après Wikipédia — Mohandas Karamchand Gandhi"
+  },
+  {
+    "id": "q-histoire-023",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quel pape lance l'appel à la première croisade en 1095 ?",
+    "choix": [
+      "Grégoire VII",
+      "Urbain II",
+      "Innocent III",
+      "Léon III"
+    ],
+    "bonneReponse": 1,
+    "explication": "Urbain II lance l'appel au concile de Clermont en 1095. Léon III est le pape qui a couronné Charlemagne.",
+    "source": "D'après Wikipédia — Première croisade"
+  },
+  {
+    "id": "q-histoire-024",
+    "domain": "histoire",
+    "format": "associer",
+    "question": "Associe chaque plage du Débarquement à l'armée qui y a débarqué.",
+    "paires": [
+      {
+        "gauche": "Omaha",
+        "droite": "Américains"
+      },
+      {
+        "gauche": "Juno",
+        "droite": "Canadiens"
+      },
+      {
+        "gauche": "Gold",
+        "droite": "Britanniques"
+      }
+    ],
+    "explication": "Utah et Omaha pour les Américains, Gold et Sword pour les Britanniques, Juno pour les Canadiens.",
+    "source": "D'après Wikipédia — Débarquement de Normandie"
+  },
+  {
+    "id": "q-histoire-025",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quelle écriture, ancêtre de nos minuscules, apparaît sous Charlemagne ?",
+    "choix": [
+      "L'onciale",
+      "La minuscule caroline",
+      "La gothique",
+      "La cursive romaine"
+    ],
+    "bonneReponse": 1,
+    "explication": "La minuscule caroline, claire et régulière, facilite la copie des manuscrits et inspire nos caractères d'imprimerie.",
+    "source": "D'après Wikipédia — Minuscule caroline"
+  },
+  {
+    "id": "q-histoire-026",
+    "domain": "histoire",
+    "format": "vrai-faux",
+    "affirmation": "La révocation de l'édit de Nantes par Louis XIV a poussé de nombreux protestants à quitter la France.",
+    "reponse": true,
+    "explication": "En 1685, environ 200 000 huguenots s'exilent, notamment vers la Prusse, les Provinces-Unies, l'Angleterre et la Suisse.",
+    "source": "D'après Wikipédia — Révocation de l'édit de Nantes"
+  },
+  {
+    "id": "q-histoire-027",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quel ingénieur a amélioré la machine à vapeur et joué un rôle clé dans la révolution industrielle ?",
+    "choix": [
+      "James Watt",
+      "Isaac Newton",
+      "Thomas Edison",
+      "George Washington"
+    ],
+    "bonneReponse": 0,
+    "explication": "Son condenseur séparé (brevet de 1769) rend la machine à vapeur bien plus efficace. L'unité de puissance, le watt, porte son nom.",
+    "source": "D'après Wikipédia — James Watt"
+  },
+  {
+    "id": "q-histoire-028",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "En quelle année l'URSS est-elle dissoute ?",
+    "choix": [
+      "1985",
+      "1989",
+      "1991",
+      "1995"
+    ],
+    "bonneReponse": 2,
+    "explication": "L'URSS disparaît en décembre 1991, deux ans après la chute du mur de Berlin.",
+    "source": "D'après Wikipédia — Dislocation de l'URSS"
+  },
+  {
+    "id": "q-histoire-029",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quelle cité italienne est considérée comme le berceau de la Renaissance ?",
+    "choix": [
+      "Florence",
+      "Milan",
+      "Naples",
+      "Turin"
+    ],
+    "bonneReponse": 0,
+    "explication": "Florence, sous le mécénat des Médicis, voit travailler Brunelleschi, Botticelli, Léonard et Michel-Ange.",
+    "source": "D'après Wikipédia — Renaissance italienne"
+  }
+]

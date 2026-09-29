@@ -1,0 +1,471 @@
+[
+  {
+    "id": "q-geo-001",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel est le plus vaste océan du monde ?",
+    "choix": [
+      "L'Atlantique",
+      "L'océan Indien",
+      "Le Pacifique",
+      "L'océan Arctique"
+    ],
+    "bonneReponse": 2,
+    "explication": "Le Pacifique couvre à lui seul environ un tiers de la surface du globe, davantage que toutes les terres émergées réunies.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-geo-002",
+    "domain": "geo",
+    "format": "associer",
+    "question": "Associe chaque pays à sa capitale.",
+    "paires": [
+      {
+        "gauche": "Japon",
+        "droite": "Tokyo"
+      },
+      {
+        "gauche": "Brésil",
+        "droite": "Brasilia"
+      },
+      {
+        "gauche": "Australie",
+        "droite": "Canberra"
+      },
+      {
+        "gauche": "Canada",
+        "droite": "Ottawa"
+      }
+    ],
+    "explication": "Attention aux pièges classiques : la capitale n'est pas toujours la ville la plus connue ou la plus peuplée (Sydney n'est pas la capitale de l'Australie, ni São Paulo celle du Brésil).",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-geo-003",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "La Suisse est une enclave, entièrement entourée par l'Italie.",
+    "reponse": false,
+    "explication": "La Suisse est un pays enclavé (sans accès à la mer), mais elle est entourée par plusieurs pays (France, Allemagne, Autriche, Italie, Liechtenstein) et non un seul, ce qui n'en fait pas une enclave au sens strict.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-geo-004",
+    "domain": "geo",
+    "format": "difference",
+    "question": "Quelle est la différence entre un delta et un estuaire ?",
+    "choix": [
+      "Le delta se divise en plusieurs bras à l'embouchure, l'estuaire reste un chenal unique évasé",
+      "Le delta est en montagne, l'estuaire est toujours en plaine",
+      "Ce sont deux mots strictement synonymes",
+      "Le delta désigne une mer intérieure, l'estuaire un fleuve"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un delta se forme quand les sédiments déposés par le fleuve le divisent en plusieurs bras avant la mer ; un estuaire reste un chenal unique, souvent façonné par les marées.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-geo-005",
+    "domain": "geo",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Venise vers 1254.",
+      "Je pars en voyage vers l'Asie avec mon père et mon oncle, marchands.",
+      "J'atteins la cour d'un empereur mongol en Chine.",
+      "Mon récit de voyage s'intitule Le Livre des merveilles.",
+      "J'inspirerai plus tard Christophe Colomb."
+    ],
+    "reponse": "Marco Polo",
+    "explication": "Marco Polo, marchand vénitien du XIIIe siècle, a marqué durablement l'imaginaire européen avec le récit de ses voyages en Asie.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-geo-006",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quelle est la capitale de l'Australie ?",
+    "choix": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "bonneReponse": 2,
+    "explication": "Canberra a été créée comme compromis entre les deux rivales, Sydney et Melbourne.",
+    "source": "D'après Wikipédia — Canberra"
+  },
+  {
+    "id": "q-geo-007",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel est le lac le plus profond du monde ?",
+    "choix": [
+      "Lac Victoria",
+      "Lac Supérieur",
+      "Lac Baïkal",
+      "Lac Titicaca"
+    ],
+    "bonneReponse": 2,
+    "explication": "Le lac Baïkal, en Sibérie, atteint 1 642 m de profondeur.",
+    "source": "D'après Wikipédia — Lac Baïkal"
+  },
+  {
+    "id": "q-geo-008",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "La Grande Muraille de Chine est visible à l'œil nu depuis la Lune.",
+    "reponse": false,
+    "explication": "C'est un mythe : la muraille est très longue mais étroite (quelques mètres), invisible depuis la Lune.",
+    "source": "D'après Wikipédia — Grande Muraille"
+  },
+  {
+    "id": "q-geo-009",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel détroit sépare la partie européenne et la partie asiatique d'Istanbul ?",
+    "choix": [
+      "Gibraltar",
+      "Bosphore",
+      "Ormuz",
+      "Béring"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le Bosphore relie la mer Noire à la mer de Marmara.",
+    "source": "D'après Wikipédia — Bosphore"
+  },
+  {
+    "id": "q-geo-010",
+    "domain": "geo",
+    "format": "associer",
+    "question": "Associe chaque pays à sa capitale.",
+    "paires": [
+      {
+        "gauche": "Canada",
+        "droite": "Ottawa"
+      },
+      {
+        "gauche": "Turquie",
+        "droite": "Ankara"
+      },
+      {
+        "gauche": "Brésil",
+        "droite": "Brasília"
+      },
+      {
+        "gauche": "Australie",
+        "droite": "Canberra"
+      },
+      {
+        "gauche": "Maroc",
+        "droite": "Rabat"
+      }
+    ],
+    "explication": "Dans tous ces pays, la capitale n'est pas la plus grande ville.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-geo-011",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quelle est l'altitude officielle de l'Everest depuis 2020 ?",
+    "choix": [
+      "8 611 m",
+      "8 848 m",
+      "8 849 m",
+      "9 001 m"
+    ],
+    "bonneReponse": 2,
+    "explication": "La Chine et le Népal ont annoncé ensemble la mesure de 8 849 m en 2020 (contre 8 848 m auparavant).",
+    "source": "D'après Wikipédia — Everest"
+  },
+  {
+    "id": "q-geo-012",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Le plus grand pays du monde par la superficie est le Canada.",
+    "reponse": false,
+    "explication": "C'est la Russie (~17 millions km²). Le Canada est deuxième.",
+    "source": "D'après Wikipédia — Russie"
+  },
+  {
+    "id": "q-geo-013",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Qui ont été les premiers à atteindre le sommet de l'Everest en 1953 ?",
+    "choix": [
+      "Amundsen et Scott",
+      "Hillary et Tenzing",
+      "Mallory et Irvine",
+      "Messner et Habeler"
+    ],
+    "bonneReponse": 1,
+    "explication": "Edmund Hillary et le sherpa Tenzing Norgay atteignent le sommet le 29 mai 1953. Mallory et Irvine ont disparu en 1924.",
+    "source": "D'après Wikipédia — Edmund Hillary"
+  },
+  {
+    "id": "q-geo-014",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel est le plus grand archipel du monde ?",
+    "choix": [
+      "Le Japon",
+      "Les Philippines",
+      "L'Indonésie",
+      "Les Maldives"
+    ],
+    "bonneReponse": 2,
+    "explication": "L'Indonésie compte plus de 17 000 îles.",
+    "source": "D'après Wikipédia — Indonésie"
+  },
+  {
+    "id": "q-geo-015",
+    "domain": "geo",
+    "format": "difference",
+    "question": "Quelle est la différence entre latitude et longitude ?",
+    "choix": [
+      "La latitude se mesure par rapport à l'équateur, la longitude par rapport au méridien de Greenwich",
+      "La latitude se mesure par rapport à Greenwich, la longitude par rapport à l'équateur",
+      "Ce sont deux mots pour la même chose",
+      "La latitude mesure l'altitude"
+    ],
+    "bonneReponse": 0,
+    "explication": "Latitude : nord-sud, par rapport à l'équateur. Longitude : est-ouest, par rapport au méridien d'origine.",
+    "source": "D'après Wikipédia — Coordonnées géographiques"
+  },
+  {
+    "id": "q-geo-016",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel explorateur atteint le premier le pôle Sud en 1911 ?",
+    "choix": [
+      "Robert Scott",
+      "Ernest Shackleton",
+      "Roald Amundsen",
+      "Jean-Baptiste Charcot"
+    ],
+    "bonneReponse": 2,
+    "explication": "Le Norvégien Amundsen arrive le 14 décembre 1911, un mois avant Scott.",
+    "source": "D'après Wikipédia — Roald Amundsen"
+  },
+  {
+    "id": "q-geo-017",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Le Sahara est majoritairement composé de dunes de sable.",
+    "reponse": false,
+    "explication": "Les ergs (dunes) ne représentent qu'environ un quart du Sahara ; le reste est fait de plateaux rocheux, de regs et de montagnes.",
+    "source": "D'après Wikipédia — Sahara"
+  },
+  {
+    "id": "q-geo-018",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel ingénieur français a dirigé la construction du canal de Suez ?",
+    "choix": [
+      "Gustave Eiffel",
+      "Ferdinand de Lesseps",
+      "Haussmann",
+      "Vauban"
+    ],
+    "bonneReponse": 1,
+    "explication": "Ferdinand de Lesseps a dirigé le chantier, inauguré en 1869. Il échouera ensuite à Panama.",
+    "source": "D'après Wikipédia — Ferdinand de Lesseps"
+  },
+  {
+    "id": "q-geo-019",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Combien d'arrondissements compte Paris ?",
+    "choix": [
+      "16",
+      "18",
+      "20",
+      "24"
+    ],
+    "bonneReponse": 2,
+    "explication": "Les 20 arrondissements sont disposés en spirale depuis le centre.",
+    "source": "D'après Wikipédia — Arrondissements de Paris"
+  },
+  {
+    "id": "q-geo-020",
+    "domain": "geo",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née d'une collision de plaques il y a environ 50 millions d'années.",
+      "Je continue de grandir de quelques millimètres par an.",
+      "On m'appelle le château d'eau de l'Asie.",
+      "J'abrite le plus haut sommet du monde."
+    ],
+    "reponse": "Himalaya",
+    "explication": "L'Himalaya est né de la collision entre l'Inde et l'Asie.",
+    "source": "D'après Wikipédia — Himalaya"
+  },
+  {
+    "id": "q-geo-021",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quelle est la température la plus basse jamais mesurée sur Terre ?",
+    "choix": [
+      "-54 °C",
+      "-67,7 °C",
+      "-89,2 °C",
+      "-120 °C"
+    ],
+    "bonneReponse": 2,
+    "explication": "-89,2 °C à la station Vostok, en Antarctique, en 1983. -67,7 °C est le record d'Oïmiakon, en Sibérie.",
+    "source": "D'après Wikipédia — Station Vostok"
+  },
+  {
+    "id": "q-geo-022",
+    "domain": "geo",
+    "format": "associer",
+    "question": "Associe chaque fleuve à son continent.",
+    "paires": [
+      {
+        "gauche": "Amazone",
+        "droite": "Amérique du Sud"
+      },
+      {
+        "gauche": "Nil",
+        "droite": "Afrique"
+      },
+      {
+        "gauche": "Yangzi Jiang",
+        "droite": "Asie"
+      },
+      {
+        "gauche": "Danube",
+        "droite": "Europe"
+      },
+      {
+        "gauche": "Mississippi",
+        "droite": "Amérique du Nord"
+      }
+    ],
+    "explication": "Cinq grands fleuves, cinq continents.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-geo-023",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Istanbul est la capitale de la Turquie.",
+    "reponse": false,
+    "explication": "La capitale est Ankara depuis 1923. Istanbul est la plus grande ville du pays.",
+    "source": "D'après Wikipédia — Ankara"
+  },
+  {
+    "id": "q-geo-024",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel monolithe rouge, sacré pour les Aborigènes, se trouve au centre de l'Australie ?",
+    "choix": [
+      "Uluru",
+      "Table Mountain",
+      "Pain de Sucre",
+      "Monument Valley"
+    ],
+    "bonneReponse": 0,
+    "explication": "Uluru (autrefois appelé Ayers Rock) est un lieu sacré des Anangu.",
+    "source": "D'après Wikipédia — Uluru"
+  },
+  {
+    "id": "q-geo-025",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel fleuve a le plus grand débit du monde ?",
+    "choix": [
+      "Le Nil",
+      "Le Congo",
+      "L'Amazone",
+      "Le Mississippi"
+    ],
+    "bonneReponse": 2,
+    "explication": "L'Amazone déverse environ 20 % de l'eau douce qui arrive aux océans, loin devant le Congo.",
+    "source": "D'après Wikipédia — Amazone (fleuve)"
+  },
+  {
+    "id": "q-geo-026",
+    "domain": "geo",
+    "format": "frise",
+    "question": "Remets ces explorations dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Départ de Marco Polo vers la Chine",
+        "annee": "1271"
+      },
+      {
+        "label": "Colomb atteint l'Amérique",
+        "annee": "1492"
+      },
+      {
+        "label": "Départ de l'expédition de Magellan",
+        "annee": "1519"
+      },
+      {
+        "label": "Amundsen au pôle Sud",
+        "annee": "1911"
+      },
+      {
+        "label": "Premier sommet de l'Everest",
+        "annee": "1953"
+      }
+    ],
+    "explication": "Du XIIIe au XXe siècle, cinq grandes étapes de l'exploration.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-geo-027",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel pays a le plus long littoral du monde ?",
+    "choix": [
+      "Australie",
+      "Russie",
+      "Canada",
+      "Norvège"
+    ],
+    "bonneReponse": 2,
+    "explication": "Le Canada possède environ 243 000 km de côtes grâce à ses milliers d'îles arctiques.",
+    "source": "D'après Wikipédia — Canada"
+  },
+  {
+    "id": "q-geo-028",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Le Sahara était une savane verdoyante il y a environ 8 000 ans.",
+    "reponse": true,
+    "explication": "Pendant la « période humide africaine », le Sahara comptait des lacs et une faune de savane, comme le montrent les peintures rupestres.",
+    "source": "D'après Wikipédia — Sahara vert"
+  },
+  {
+    "id": "q-geo-029",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quelle langue parle-t-on majoritairement au Brésil ?",
+    "choix": [
+      "Espagnol",
+      "Portugais",
+      "Anglais",
+      "Français"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le Brésil a été une colonie portugaise à partir de 1500.",
+    "source": "D'après Wikipédia — Brésil"
+  },
+  {
+    "id": "q-geo-030",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Qui a expliqué le premier la formation des atolls ?",
+    "choix": [
+      "Alfred Wegener",
+      "Charles Darwin",
+      "Jacques Cousteau",
+      "Alexander von Humboldt"
+    ],
+    "bonneReponse": 1,
+    "explication": "Darwin a proposé en 1842 que les atolls naissent autour de volcans qui s'enfoncent lentement.",
+    "source": "D'après Wikipédia — Atoll"
+  }
+]

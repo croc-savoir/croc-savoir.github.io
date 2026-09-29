@@ -1,0 +1,477 @@
+[
+  {
+    "id": "q-philosophie-001",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quelle formule célèbre résume la pensée de Descartes sur la première certitude ?",
+    "choix": [
+      "\"L'enfer, c'est les autres\"",
+      "\"Je pense, donc je suis\"",
+      "\"Dieu est mort\"",
+      "\"L'existence précède l'essence\""
+    ],
+    "bonneReponse": 1,
+    "explication": "\"Cogito ergo sum\" (\"je pense, donc je suis\") est la première certitude que Descartes établit après avoir soumis toutes ses croyances au doute méthodique.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-philosophie-002",
+    "domain": "philosophie",
+    "format": "vrai-faux",
+    "affirmation": "Socrate a lui-même rédigé l'ensemble de son œuvre philosophique.",
+    "reponse": false,
+    "explication": "Socrate n'a rien écrit : sa pensée est connue essentiellement à travers les dialogues rédigés par son élève Platon.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-philosophie-003",
+    "domain": "philosophie",
+    "format": "frise",
+    "question": "Remets ces philosophes dans l'ordre chronologique de leur naissance.",
+    "evenements": [
+      {
+        "label": "Socrate",
+        "annee": "-470"
+      },
+      {
+        "label": "Épictète",
+        "annee": "50"
+      },
+      {
+        "label": "Descartes",
+        "annee": "1596"
+      },
+      {
+        "label": "Kant",
+        "annee": "1724"
+      },
+      {
+        "label": "Sartre",
+        "annee": "1905"
+      }
+    ],
+    "explication": "De l'Antiquité grecque (Socrate) à l'existentialisme du 20e siècle (Sartre), la philosophie occidentale traverse plus de deux millénaires.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-philosophie-004",
+    "domain": "philosophie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis un philosophe allemand du 19e siècle.",
+      "Je critique radicalement la morale héritée du christianisme.",
+      "J'ai proclamé que \"Dieu est mort\".",
+      "Je développe le concept de volonté de puissance.",
+      "J'imagine la figure du \"surhomme\"."
+    ],
+    "reponse": "Friedrich Nietzsche",
+    "explication": "Nietzsche appelle à une réévaluation radicale des valeurs morales traditionnelles et développe les concepts de volonté de puissance et de surhomme.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-philosophie-005",
+    "domain": "philosophie",
+    "format": "difference",
+    "question": "Quelle est la différence entre empirisme et rationalisme ?",
+    "choix": [
+      "L'empirisme fait venir la connaissance de l'expérience, le rationalisme de la raison seule",
+      "Ce sont deux mots pour désigner la même théorie de la connaissance",
+      "L'empirisme concerne la morale, le rationalisme concerne la politique",
+      "Le rationalisme rejette totalement l'usage des sens"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'empirisme fait dériver toute connaissance de l'expérience sensible, tandis que le rationalisme admet que certaines vérités sont accessibles par la raison seule, indépendamment de l'expérience.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-philosophie-006",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Qui a écrit « Je pense, donc je suis » ?",
+    "choix": [
+      "Pascal",
+      "Descartes",
+      "Spinoza",
+      "Kant"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le cogito figure dans le Discours de la méthode (1637).",
+    "source": "D'après Wikipédia — Je pense, donc je suis"
+  },
+  {
+    "id": "q-philosophie-007",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quel philosophe vivait dans une jarre et a dit à Alexandre « Ôte-toi de mon soleil » ?",
+    "choix": [
+      "Socrate",
+      "Épicure",
+      "Diogène",
+      "Zénon"
+    ],
+    "bonneReponse": 2,
+    "explication": "Diogène de Sinope, figure du cynisme antique.",
+    "source": "D'après Wikipédia — Diogène de Sinope"
+  },
+  {
+    "id": "q-philosophie-008",
+    "domain": "philosophie",
+    "format": "vrai-faux",
+    "affirmation": "L'épicurisme recommande de profiter de tous les plaisirs sans limite.",
+    "reponse": false,
+    "explication": "Épicure prône une vie simple et la modération des désirs pour atteindre la paix de l'âme.",
+    "source": "D'après Wikipédia — Épicurisme"
+  },
+  {
+    "id": "q-philosophie-009",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Qui a écrit « On ne naît pas femme : on le devient » ?",
+    "choix": [
+      "Hannah Arendt",
+      "Simone de Beauvoir",
+      "Simone Weil",
+      "Olympe de Gouges"
+    ],
+    "bonneReponse": 1,
+    "explication": "Dans Le Deuxième Sexe (1949).",
+    "source": "D'après Wikipédia — Le Deuxième Sexe"
+  },
+  {
+    "id": "q-philosophie-010",
+    "domain": "philosophie",
+    "format": "associer",
+    "question": "Associe chaque philosophe à son œuvre.",
+    "paires": [
+      {
+        "gauche": "Rousseau",
+        "droite": "Du contrat social"
+      },
+      {
+        "gauche": "Marx",
+        "droite": "Le Capital"
+      },
+      {
+        "gauche": "Pascal",
+        "droite": "Pensées"
+      },
+      {
+        "gauche": "Spinoza",
+        "droite": "Éthique"
+      },
+      {
+        "gauche": "Hobbes",
+        "droite": "Léviathan"
+      }
+    ],
+    "explication": "Cinq œuvres majeures de la philosophie.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-philosophie-011",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quel concept Hannah Arendt a-t-elle forgé lors du procès d'Eichmann ?",
+    "choix": [
+      "Le surhomme",
+      "La banalité du mal",
+      "La mauvaise foi",
+      "La volonté générale"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le mal extrême peut venir de gens ordinaires qui renoncent à penser.",
+    "source": "D'après Wikipédia — Eichmann à Jérusalem"
+  },
+  {
+    "id": "q-philosophie-012",
+    "domain": "philosophie",
+    "format": "qui-suis-je",
+    "indices": [
+      "J'ai inventé une machine à calculer à 19 ans.",
+      "Une unité de pression porte mon nom.",
+      "J'ai parié sur l'existence de Dieu.",
+      "J'ai comparé l'homme à un roseau pensant."
+    ],
+    "reponse": "Blaise Pascal",
+    "explication": "Pascal était à la fois savant et penseur religieux.",
+    "source": "D'après Wikipédia — Blaise Pascal"
+  },
+  {
+    "id": "q-philosophie-013",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Selon Hobbes, comment est l'état de nature ?",
+    "choix": [
+      "Un paradis paisible",
+      "Une guerre de tous contre tous",
+      "Une société d'égaux",
+      "Un état de sagesse"
+    ],
+    "bonneReponse": 1,
+    "explication": "Pour Hobbes, sans pouvoir commun, la vie humaine serait « solitaire, misérable, dangereuse, animale et brève ».",
+    "source": "D'après Wikipédia — Thomas Hobbes"
+  },
+  {
+    "id": "q-philosophie-014",
+    "domain": "philosophie",
+    "format": "vrai-faux",
+    "affirmation": "Rousseau a abandonné ses cinq enfants alors qu'il a écrit un traité d'éducation.",
+    "reponse": true,
+    "explication": "Il les a confiés à l'hospice des Enfants-Trouvés, ce qu'il évoque dans Les Confessions.",
+    "source": "D'après Wikipédia — Jean-Jacques Rousseau"
+  },
+  {
+    "id": "q-philosophie-015",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Qu'est-ce que l'allégorie de la caverne veut illustrer ?",
+    "choix": [
+      "La vie préhistorique",
+      "Le passage de l'ignorance à la connaissance",
+      "La peur du noir",
+      "L'origine du feu"
+    ],
+    "bonneReponse": 1,
+    "explication": "Les prisonniers prennent des ombres pour la réalité ; la philosophie les en libère.",
+    "source": "D'après Wikipédia — Allégorie de la caverne"
+  },
+  {
+    "id": "q-philosophie-016",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quelle formule résume la pensée de Spinoza sur Dieu ?",
+    "choix": [
+      "Dieu est mort",
+      "Deus sive Natura (Dieu, c'est-à-dire la Nature)",
+      "Dieu est amour",
+      "Je crois parce que c'est absurde"
+    ],
+    "bonneReponse": 1,
+    "explication": "Pour Spinoza, Dieu et la Nature sont une seule et même substance.",
+    "source": "D'après Wikipédia — Baruch Spinoza"
+  },
+  {
+    "id": "q-philosophie-017",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Qui a posé le célèbre dilemme du tramway en 1967 ?",
+    "choix": [
+      "John Rawls",
+      "Philippa Foot",
+      "Peter Singer",
+      "Michael Sandel"
+    ],
+    "bonneReponse": 1,
+    "explication": "La philosophe britannique Philippa Foot.",
+    "source": "D'après Wikipédia — Dilemme du tramway"
+  },
+  {
+    "id": "q-philosophie-018",
+    "domain": "philosophie",
+    "format": "difference",
+    "question": "Quelle est la différence entre l'hédonisme et l'eudémonisme ?",
+    "choix": [
+      "L'hédonisme fait du plaisir le souverain bien, l'eudémonisme fait du bonheur le but de la vie",
+      "Ce sont des synonymes",
+      "L'eudémonisme refuse tout plaisir",
+      "L'hédonisme est une religion"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le plaisir est partiel et passager, le bonheur global et durable.",
+    "source": "D'après Wikipédia — Eudémonisme"
+  },
+  {
+    "id": "q-philosophie-019",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Selon Freud, quelle est « la voie royale vers l'inconscient » ?",
+    "choix": [
+      "La méditation",
+      "Le rêve",
+      "L'hypnose",
+      "La lecture"
+    ],
+    "bonneReponse": 1,
+    "explication": "Dans L'Interprétation du rêve (1900).",
+    "source": "D'après Wikipédia — L'Interprétation du rêve"
+  },
+  {
+    "id": "q-philosophie-020",
+    "domain": "philosophie",
+    "format": "vrai-faux",
+    "affirmation": "Sartre a accepté le prix Nobel de littérature en 1964.",
+    "reponse": false,
+    "explication": "Il l'a refusé, ne voulant pas être « transformé en institution ».",
+    "source": "D'après Wikipédia — Jean-Paul Sartre"
+  },
+  {
+    "id": "q-philosophie-021",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Que demande le paradoxe du bateau de Thésée ?",
+    "choix": [
+      "Comment naviguer sans voile",
+      "Si un objet dont on remplace toutes les pièces reste le même",
+      "Qui a construit le premier bateau",
+      "Pourquoi les bateaux flottent"
+    ],
+    "bonneReponse": 1,
+    "explication": "C'est la question de l'identité à travers le changement.",
+    "source": "D'après Wikipédia — Bateau de Thésée"
+  },
+  {
+    "id": "q-philosophie-022",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quel philosophe a été exclu de la communauté juive d'Amsterdam à 23 ans ?",
+    "choix": [
+      "Spinoza",
+      "Leibniz",
+      "Maïmonide",
+      "Mendelssohn"
+    ],
+    "bonneReponse": 0,
+    "explication": "Frappé d'un herem en 1656 pour ses « opinions abominables ».",
+    "source": "D'après Wikipédia — Baruch Spinoza"
+  },
+  {
+    "id": "q-philosophie-023",
+    "domain": "philosophie",
+    "format": "associer",
+    "question": "Associe chaque citation à son auteur.",
+    "paires": [
+      {
+        "gauche": "« L'homme est condamné à être libre »",
+        "droite": "Sartre"
+      },
+      {
+        "gauche": "« Connais-toi toi-même »",
+        "droite": "Socrate"
+      },
+      {
+        "gauche": "« Le cœur a ses raisons… »",
+        "droite": "Pascal"
+      },
+      {
+        "gauche": "« Dieu est mort »",
+        "droite": "Nietzsche"
+      }
+    ],
+    "explication": "Quatre formules devenues célèbres.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-philosophie-024",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Qui a coécrit le Manifeste du Parti communiste avec Marx ?",
+    "choix": [
+      "Lénine",
+      "Friedrich Engels",
+      "Proudhon",
+      "Trotski"
+    ],
+    "bonneReponse": 1,
+    "explication": "Engels, ami et soutien financier de Marx, en 1848.",
+    "source": "D'après Wikipédia — Manifeste du Parti communiste"
+  },
+  {
+    "id": "q-philosophie-025",
+    "domain": "philosophie",
+    "format": "vrai-faux",
+    "affirmation": "Le mot « cynique » vient du grec pour « chien ».",
+    "reponse": true,
+    "explication": "Kuôn, car les cyniques vivaient sans pudeur, comme des chiens.",
+    "source": "D'après Wikipédia — Cynisme"
+  },
+  {
+    "id": "q-philosophie-026",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quel poison Socrate a-t-il bu ?",
+    "choix": [
+      "L'arsenic",
+      "La ciguë",
+      "La belladone",
+      "Le cyanure"
+    ],
+    "bonneReponse": 1,
+    "explication": "Condamné à mort en 399 av. J.-C., il boit la ciguë.",
+    "source": "D'après Wikipédia — Mort de Socrate"
+  },
+  {
+    "id": "q-philosophie-027",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Selon Popper, qu'est-ce qui rend une théorie scientifique ?",
+    "choix": [
+      "Qu'elle soit prouvée",
+      "Qu'elle puisse être réfutée par l'expérience",
+      "Qu'elle soit acceptée par tous",
+      "Qu'elle soit ancienne"
+    ],
+    "bonneReponse": 1,
+    "explication": "C'est le critère de réfutabilité (ou falsifiabilité).",
+    "source": "D'après Wikipédia — Réfutabilité"
+  },
+  {
+    "id": "q-philosophie-028",
+    "domain": "philosophie",
+    "format": "frise",
+    "question": "Remets ces philosophes dans l'ordre de naissance.",
+    "evenements": [
+      {
+        "label": "Socrate",
+        "annee": "-470"
+      },
+      {
+        "label": "Épicure",
+        "annee": "-341"
+      },
+      {
+        "label": "Descartes",
+        "annee": "1596"
+      },
+      {
+        "label": "Rousseau",
+        "annee": "1712"
+      },
+      {
+        "label": "Nietzsche",
+        "annee": "1844"
+      }
+    ],
+    "explication": "De la Grèce antique au XIXe siècle.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-philosophie-029",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quel philosophe des Lumières a théorisé la séparation des pouvoirs ?",
+    "choix": [
+      "Voltaire",
+      "Montesquieu",
+      "Diderot",
+      "Rousseau"
+    ],
+    "bonneReponse": 1,
+    "explication": "Dans De l'esprit des lois (1748).",
+    "source": "D'après Wikipédia — Montesquieu"
+  },
+  {
+    "id": "q-philosophie-030",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Qu'est-ce que l'ataraxie ?",
+    "choix": [
+      "La peur de la mort",
+      "La tranquillité de l'âme",
+      "Le plaisir physique",
+      "L'absence de volonté"
+    ],
+    "bonneReponse": 1,
+    "explication": "Idéal d'absence de trouble, visé par les épicuriens et les stoïciens.",
+    "source": "D'après Wikipédia — Ataraxie"
+  }
+]

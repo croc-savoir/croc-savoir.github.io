@@ -1,0 +1,453 @@
+[
+  {
+    "id": "q-sciences-001",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Que signifie l'équation E=mc², formulée par Einstein ?",
+    "choix": [
+      "L'énergie et la masse sont deux formes équivalentes d'une même réalité",
+      "L'électricité se propage à la vitesse de la lumière",
+      "La masse d'un objet augmente avec sa température",
+      "Le temps s'écoule à la même vitesse partout dans l'univers"
+    ],
+    "bonneReponse": 0,
+    "explication": "E=mc² exprime l'équivalence entre masse (m) et énergie (E), reliées par le carré de la vitesse de la lumière (c). Une petite masse correspond ainsi à une énergie considérable.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-sciences-002",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Un objet a le même poids sur la Terre et sur la Lune.",
+    "reponse": false,
+    "explication": "Idée reçue fréquente : c'est la masse qui reste identique, pas le poids. La gravité lunaire étant plus faible, le poids d'un objet y est environ six fois moindre que sur Terre.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-sciences-003",
+    "domain": "sciences",
+    "format": "associer",
+    "question": "Associe chaque scientifique à sa contribution principale.",
+    "paires": [
+      {
+        "gauche": "Charles Darwin",
+        "droite": "Théorie de l'évolution par sélection naturelle"
+      },
+      {
+        "gauche": "Louis Pasteur",
+        "droite": "Vaccination et pasteurisation"
+      },
+      {
+        "gauche": "Antoine Lavoisier",
+        "droite": "Loi de conservation de la masse"
+      },
+      {
+        "gauche": "Marie Curie",
+        "droite": "Découverte de la radioactivité du radium et du polonium"
+      }
+    ],
+    "explication": "Quatre contributions majeures qui ont chacune fondé un pan entier de la science moderne : biologie évolutive, microbiologie, chimie et physique nucléaire.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-sciences-004",
+    "domain": "sciences",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née en Pologne en 1867, mais je mène l'essentiel de ma carrière en France.",
+      "Je travaille en binôme avec mon mari sur des éléments radioactifs.",
+      "Je découvre deux nouveaux éléments chimiques, dont l'un porte le nom de mon pays natal.",
+      "Je reçois un premier prix Nobel de physique en 1903.",
+      "Je deviens la seule personne à avoir reçu deux prix Nobel dans deux sciences différentes."
+    ],
+    "reponse": "Marie Curie",
+    "explication": "Marie Curie a reçu le prix Nobel de physique en 1903 et celui de chimie en 1911, un exploit resté unique à ce jour.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-sciences-005",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle est la vitesse de la lumière dans le vide, environ ?",
+    "choix": [
+      "300 km/s",
+      "3 000 km/s",
+      "300 000 km/s",
+      "3 millions km/s"
+    ],
+    "bonneReponse": 2,
+    "explication": "Exactement 299 792 458 m/s, soit environ 300 000 km/s.",
+    "source": "D'après Wikipédia — Vitesse de la lumière"
+  },
+  {
+    "id": "q-sciences-006",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle chimiste a réalisé la célèbre « photo 51 » de l'ADN ?",
+    "choix": [
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Dorothy Hodgkin",
+      "Barbara McClintock"
+    ],
+    "bonneReponse": 1,
+    "explication": "Rosalind Franklin a obtenu ce cliché de diffraction en 1952 ; il a guidé Watson et Crick.",
+    "source": "D'après Wikipédia — Rosalind Franklin"
+  },
+  {
+    "id": "q-sciences-007",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Les antibiotiques sont efficaces contre la grippe.",
+    "reponse": false,
+    "explication": "La grippe est due à un virus. Les antibiotiques n'agissent que sur les bactéries.",
+    "source": "D'après Wikipédia — Antibiotique"
+  },
+  {
+    "id": "q-sciences-008",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel est le pH de l'eau pure ?",
+    "choix": [
+      "0",
+      "5",
+      "7",
+      "14"
+    ],
+    "bonneReponse": 2,
+    "explication": "L'eau pure est neutre : pH 7 à 25 °C.",
+    "source": "D'après Wikipédia — Potentiel hydrogène"
+  },
+  {
+    "id": "q-sciences-009",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "La glace est plus dense que l'eau liquide.",
+    "reponse": false,
+    "explication": "C'est l'inverse, et c'est pour cela que la glace flotte. L'eau est la plus dense à 4 °C.",
+    "source": "D'après Wikipédia — Glace"
+  },
+  {
+    "id": "q-sciences-010",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle est la suite logique : 1, 1, 2, 3, 5, 8, … ?",
+    "choix": [
+      "11",
+      "12",
+      "13",
+      "16"
+    ],
+    "bonneReponse": 2,
+    "explication": "Suite de Fibonacci : chaque terme est la somme des deux précédents, 5 + 8 = 13.",
+    "source": "D'après Wikipédia — Suite de Fibonacci"
+  },
+  {
+    "id": "q-sciences-011",
+    "domain": "sciences",
+    "format": "associer",
+    "question": "Associe chaque savant à sa découverte.",
+    "paires": [
+      {
+        "gauche": "Newton",
+        "droite": "Gravitation universelle"
+      },
+      {
+        "gauche": "Darwin",
+        "droite": "Sélection naturelle"
+      },
+      {
+        "gauche": "Lavoisier",
+        "droite": "Conservation de la masse"
+      },
+      {
+        "gauche": "Pasteur",
+        "droite": "Vaccin contre la rage"
+      },
+      {
+        "gauche": "Mendeleïev",
+        "droite": "Tableau périodique"
+      }
+    ],
+    "explication": "Cinq piliers de l'histoire des sciences.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-sciences-012",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Combien de chromosomes contient une cellule humaine ordinaire ?",
+    "choix": [
+      "23",
+      "44",
+      "46",
+      "48"
+    ],
+    "bonneReponse": 2,
+    "explication": "46 chromosomes, soit 23 paires. Les gamètes n'en ont que 23.",
+    "source": "D'après Wikipédia — Chromosome"
+  },
+  {
+    "id": "q-sciences-013",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Pourquoi le ciel est-il bleu ?",
+    "choix": [
+      "Il reflète la couleur des océans",
+      "L'air diffuse davantage la lumière bleue",
+      "L'ozone est bleu",
+      "Le Soleil émet surtout du bleu"
+    ],
+    "bonneReponse": 1,
+    "explication": "C'est la diffusion Rayleigh : les courtes longueurs d'onde (bleu) sont bien plus diffusées par les molécules de l'air.",
+    "source": "D'après Wikipédia — Diffusion Rayleigh"
+  },
+  {
+    "id": "q-sciences-014",
+    "domain": "sciences",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né l'année de la mort de Galilée, selon le calendrier anglais.",
+      "Je me suis disputé avec Leibniz sur l'invention du calcul infinitésimal.",
+      "J'ai montré que la lumière blanche contient toutes les couleurs.",
+      "J'ai publié les Principia en 1687.",
+      "Une pomme est associée à ma légende."
+    ],
+    "reponse": "Isaac Newton",
+    "explication": "Newton (1643-1727) a unifié la mécanique céleste et terrestre.",
+    "source": "D'après Wikipédia — Isaac Newton"
+  },
+  {
+    "id": "q-sciences-015",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Einstein a reçu le prix Nobel pour sa théorie de la relativité.",
+    "reponse": false,
+    "explication": "Il l'a reçu en 1921 pour son explication de l'effet photoélectrique ; la relativité était encore jugée trop controversée.",
+    "source": "D'après Wikipédia — Albert Einstein"
+  },
+  {
+    "id": "q-sciences-016",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quels sont les quatre « lettres » de l'ADN ?",
+    "choix": [
+      "A, T, G, C",
+      "A, U, G, C",
+      "A, B, C, D",
+      "H, O, C, N"
+    ],
+    "bonneReponse": 0,
+    "explication": "Adénine, thymine, guanine, cytosine. Dans l'ARN, l'uracile (U) remplace la thymine.",
+    "source": "D'après Wikipédia — Acide désoxyribonucléique"
+  },
+  {
+    "id": "q-sciences-017",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Comment s'appelle le passage direct de l'état solide à l'état gazeux ?",
+    "choix": [
+      "Fusion",
+      "Vaporisation",
+      "Sublimation",
+      "Condensation"
+    ],
+    "bonneReponse": 2,
+    "explication": "La glace carbonique (CO₂ solide) se sublime à pression atmosphérique.",
+    "source": "D'après Wikipédia — Sublimation (physique)"
+  },
+  {
+    "id": "q-sciences-018",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel mathématicien a introduit les chiffres indo-arabes en Europe en 1202 ?",
+    "choix": [
+      "Euclide",
+      "Fibonacci",
+      "Descartes",
+      "Al-Khwârizmî"
+    ],
+    "bonneReponse": 1,
+    "explication": "Fibonacci (Léonard de Pise), dans son Liber abaci. Al-Khwârizmî les avait diffusés dans le monde arabe au IXe siècle.",
+    "source": "D'après Wikipédia — Leonardo Fibonacci"
+  },
+  {
+    "id": "q-sciences-019",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Au sommet de l'Everest, l'eau bout à une température inférieure à 100 °C.",
+    "reponse": true,
+    "explication": "La pression y est plus faible : l'eau bout vers 70 °C.",
+    "source": "D'après Wikipédia — Point d'ébullition"
+  },
+  {
+    "id": "q-sciences-020",
+    "domain": "sciences",
+    "format": "difference",
+    "question": "Quelle est la différence entre chaleur et température ?",
+    "choix": [
+      "Aucune",
+      "La température mesure l'agitation des particules, la chaleur est un transfert d'énergie",
+      "La chaleur se mesure en degrés, la température en joules",
+      "La température ne concerne que les gaz"
+    ],
+    "bonneReponse": 1,
+    "explication": "La température s'exprime en °C ou K, la chaleur (énergie transférée) en joules.",
+    "source": "D'après Wikipédia — Chaleur"
+  },
+  {
+    "id": "q-sciences-021",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle est la valeur approximative du nombre d'or ?",
+    "choix": [
+      "1,414",
+      "1,618",
+      "2,718",
+      "3,142"
+    ],
+    "bonneReponse": 1,
+    "explication": "φ ≈ 1,618. 1,414 est √2, 2,718 est e, 3,142 est π.",
+    "source": "D'après Wikipédia — Nombre d'or"
+  },
+  {
+    "id": "q-sciences-022",
+    "domain": "sciences",
+    "format": "frise",
+    "question": "Remets ces découvertes dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Principia de Newton",
+        "annee": "1687"
+      },
+      {
+        "label": "L'Origine des espèces de Darwin",
+        "annee": "1859"
+      },
+      {
+        "label": "Tableau de Mendeleïev",
+        "annee": "1869"
+      },
+      {
+        "label": "Relativité restreinte d'Einstein",
+        "annee": "1905"
+      },
+      {
+        "label": "Structure de l'ADN",
+        "annee": "1953"
+      }
+    ],
+    "explication": "Trois siècles de grandes découvertes scientifiques.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-sciences-023",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle maladie a touché Stephen Hawking ?",
+    "choix": [
+      "La sclérose en plaques",
+      "La maladie de Charcot (SLA)",
+      "La maladie de Parkinson",
+      "La myopathie de Duchenne"
+    ],
+    "bonneReponse": 1,
+    "explication": "La sclérose latérale amyotrophique, ou maladie de Charcot, l'a progressivement paralysé.",
+    "source": "D'après Wikipédia — Stephen Hawking"
+  },
+  {
+    "id": "q-sciences-024",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Les oiseaux descendent des dinosaures.",
+    "reponse": true,
+    "explication": "Les oiseaux sont des dinosaures théropodes ayant survécu à l'extinction d'il y a 66 millions d'années.",
+    "source": "D'après Wikipédia — Origine des oiseaux"
+  },
+  {
+    "id": "q-sciences-025",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel savant a été condamné par l'Inquisition en 1633 ?",
+    "choix": [
+      "Copernic",
+      "Kepler",
+      "Galilée",
+      "Giordano Bruno"
+    ],
+    "bonneReponse": 2,
+    "explication": "Galilée a dû abjurer l'héliocentrisme. Giordano Bruno avait été brûlé en 1600 pour d'autres motifs, surtout théologiques.",
+    "source": "D'après Wikipédia — Procès de Galilée"
+  },
+  {
+    "id": "q-sciences-026",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "D'où vient le mot « zéro » ?",
+    "choix": [
+      "Du latin zerus",
+      "De l'arabe sifr, « vide »",
+      "Du grec zeta",
+      "Du sanskrit zira"
+    ],
+    "bonneReponse": 1,
+    "explication": "Sifr a donné zefiro en italien, puis zéro. Le même mot a donné « chiffre ».",
+    "source": "D'après Wikipédia — 0 (nombre)"
+  },
+  {
+    "id": "q-sciences-027",
+    "domain": "sciences",
+    "format": "associer",
+    "question": "Associe chaque substance à son pH approximatif.",
+    "paires": [
+      {
+        "gauche": "Suc gastrique",
+        "droite": "≈ 2"
+      },
+      {
+        "gauche": "Eau pure",
+        "droite": "7"
+      },
+      {
+        "gauche": "Sang",
+        "droite": "≈ 7,4"
+      },
+      {
+        "gauche": "Eau de Javel",
+        "droite": "≈ 12"
+      }
+    ],
+    "explication": "Plus le pH est bas, plus c'est acide ; plus il est haut, plus c'est basique.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-sciences-028",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel état de la matière compose les étoiles ?",
+    "choix": [
+      "Solide",
+      "Liquide",
+      "Gazeux neutre",
+      "Plasma"
+    ],
+    "bonneReponse": 3,
+    "explication": "Le plasma est un gaz ionisé, le plus répandu de l'univers visible.",
+    "source": "D'après Wikipédia — Plasma (physique)"
+  },
+  {
+    "id": "q-sciences-029",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qui a démontré qu'il existe une infinité de nombres premiers ?",
+    "choix": [
+      "Euclide",
+      "Pythagore",
+      "Fermat",
+      "Gauss"
+    ],
+    "bonneReponse": 0,
+    "explication": "La démonstration figure dans les Éléments d'Euclide, vers 300 av. J.-C.",
+    "source": "D'après Wikipédia — Théorème d'Euclide sur les nombres premiers"
+  }
+]

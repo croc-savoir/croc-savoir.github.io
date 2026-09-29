@@ -1,0 +1,1014 @@
+[
+  {
+    "id": "politique-001",
+    "domain": "politique",
+    "subtheme": "Systèmes politiques",
+    "type": "classique",
+    "title": "La démocratie",
+    "summary": "Système politique dans lequel le pouvoir appartient au peuple, qui l'exerce directement ou par l'intermédiaire de représentants élus. Le mot vient du grec \"demos\" (le peuple) et \"kratos\" (le pouvoir).",
+    "details": {
+      "sections": [
+        {
+          "titre": "Origine",
+          "texte": "La démocratie est expérimentée pour la première fois à Athènes au 5e siècle avant notre ère, sous une forme directe où les citoyens (une minorité de la population) votaient eux-mêmes les lois."
+        },
+        {
+          "titre": "Démocratie représentative",
+          "texte": "Dans la plupart des démocraties modernes, les citoyens élisent des représentants (députés, présidents) chargés de gouverner et de légiférer en leur nom."
+        },
+        {
+          "titre": "Principes associés",
+          "texte": "Séparation des pouvoirs, élections libres et régulières, liberté d'expression et de la presse, et État de droit sont généralement considérés comme des piliers d'une démocratie effective."
+        },
+        {
+          "titre": "Directe, représentative, participative",
+          "texte": "Dans la démocratie directe, les citoyens votent eux-mêmes les lois, comme à Athènes ou aujourd'hui dans certains cantons suisses. Dans la démocratie représentative, ils élisent des représentants qui décident en leur nom : c'est le modèle dominant. La démocratie participative associe les citoyens aux décisions entre deux élections (conventions citoyennes, budgets participatifs)."
+        },
+        {
+          "titre": "Plus qu'un vote",
+          "texte": "Une démocratie ne se résume pas aux élections : elle suppose aussi l'État de droit, la séparation des pouvoirs, le pluralisme des partis, la liberté de la presse, le respect des minorités et des droits fondamentaux. Des régimes qui organisent des élections sans ces garanties sont appelés « démocraties illibérales » ou « régimes hybrides »."
+        }
+      ],
+      "wikipedia": "Démocratie",
+      "anecdotes": [
+        "Churchill : « La démocratie est le pire des régimes, à l'exception de tous les autres. »",
+        "Lincoln la définissait comme « le gouvernement du peuple, par le peuple, pour le peuple », formule reprise dans la Constitution française."
+      ]
+    },
+    "source": "D'après Wikipédia — Démocratie"
+  },
+  {
+    "id": "politique-002",
+    "domain": "politique",
+    "subtheme": "Systèmes politiques",
+    "type": "classique",
+    "title": "La séparation des pouvoirs",
+    "summary": "Principe selon lequel le pouvoir politique doit être divisé entre plusieurs institutions distinctes (exécutif, législatif, judiciaire) afin d'éviter la concentration et l'abus de pouvoir.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Origine théorique",
+          "texte": "Le philosophe Montesquieu formalise ce principe au 18e siècle dans \"De l'Esprit des lois\" (1748), en s'inspirant notamment du système britannique."
+        },
+        {
+          "titre": "Les trois pouvoirs",
+          "texte": "Le pouvoir exécutif (gouvernement) applique les lois, le pouvoir législatif (parlement) les vote, et le pouvoir judiciaire (tribunaux) les fait respecter et tranche les litiges."
+        },
+        {
+          "titre": "Application",
+          "texte": "Le degré de séparation varie selon les pays : les régimes présidentiels (États-Unis) séparent plus strictement exécutif et législatif que les régimes parlementaires (Royaume-Uni)."
+        },
+        {
+          "titre": "Montesquieu",
+          "texte": "Dans De l'esprit des lois (1748), inspiré par le modèle anglais, Montesquieu écrit : « Pour qu'on ne puisse abuser du pouvoir, il faut que, par la disposition des choses, le pouvoir arrête le pouvoir. » Il distingue le pouvoir législatif (faire les lois), exécutif (les appliquer) et judiciaire (juger)."
+        },
+        {
+          "titre": "En France",
+          "texte": "Législatif : le Parlement (Assemblée nationale et Sénat). Exécutif : le président de la République et le gouvernement. Judiciaire : les tribunaux, sous le contrôle notamment de la Cour de cassation et du Conseil d'État. Le Conseil constitutionnel vérifie que les lois respectent la Constitution."
+        }
+      ],
+      "wikipedia": "Séparation des pouvoirs",
+      "anecdotes": [
+        "L'article 16 de la Déclaration de 1789 affirme : « Toute société dans laquelle la garantie des droits n'est pas assurée, ni la séparation des pouvoirs déterminée, n'a point de Constitution. »"
+      ]
+    },
+    "source": "D'après Wikipédia — Séparation des pouvoirs"
+  },
+  {
+    "id": "politique-003",
+    "domain": "politique",
+    "subtheme": "Systèmes politiques",
+    "type": "classique",
+    "title": "Régime présidentiel vs régime parlementaire",
+    "summary": "Dans un régime présidentiel, le chef de l'État est élu séparément du parlement et dispose de pouvoirs exécutifs forts ; dans un régime parlementaire, le gouvernement est issu du parlement et responsable devant lui.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Régime présidentiel",
+          "texte": "Le président, élu au suffrage universel, cumule les fonctions de chef de l'État et de chef du gouvernement, et n'est pas responsable devant le parlement (exemple : États-Unis)."
+        },
+        {
+          "titre": "Régime parlementaire",
+          "texte": "Le gouvernement, dirigé par un premier ministre, doit conserver la confiance du parlement, qui peut le renverser par une motion de censure (exemple : Royaume-Uni, Allemagne)."
+        },
+        {
+          "titre": "Régime semi-présidentiel",
+          "texte": "La France combine les deux logiques : un président élu au suffrage universel coexiste avec un premier ministre responsable devant l'Assemblée nationale."
+        },
+        {
+          "titre": "Et la France ?",
+          "texte": "La Ve République est un régime mixte, souvent qualifié de semi-présidentiel : le président est élu au suffrage universel direct et dispose de pouvoirs propres (dissolution, référendum, nomination du Premier ministre), mais le gouvernement est responsable devant l'Assemblée nationale, qui peut le renverser par une motion de censure."
+        },
+        {
+          "titre": "La cohabitation",
+          "texte": "Quand la majorité de l'Assemblée est opposée au président, celui-ci doit nommer un Premier ministre de l'autre camp : c'est la cohabitation. La France l'a connue trois fois : 1986-1988 et 1993-1995 (Mitterrand), 1997-2002 (Chirac avec Jospin)."
+        }
+      ],
+      "wikipedia": "Régime parlementaire"
+    },
+    "source": "D'après Wikipédia — Régime parlementaire"
+  },
+  {
+    "id": "politique-004",
+    "domain": "politique",
+    "subtheme": "Figures politiques",
+    "type": "personnage",
+    "title": "Périclès",
+    "summary": "Homme d'État athénien du 5e siècle avant notre ère, sous l'impulsion duquel la démocratie athénienne et le rayonnement culturel d'Athènes (dont la construction du Parthénon) atteignent leur apogée.",
+    "details": {
+      "epoque": "Vers 495-429 av. J.-C., Athènes",
+      "pourquoiCelebre": "Il renforce la démocratie athénienne en élargissant la participation politique des citoyens et lance d'importants travaux publics, dont le Parthénon sur l'Acropole.",
+      "ideesClefs": [
+        "L'élargissement de la participation démocratique des citoyens athéniens",
+        "Le mécénat culturel et artistique (construction du Parthénon)",
+        "La conduite d'Athènes pendant les débuts de la guerre du Péloponnèse"
+      ],
+      "liens": [],
+      "wikipedia": "Périclès",
+      "sections": [
+        {
+          "titre": "Le siècle de Périclès",
+          "texte": "Stratège (magistrat militaire élu) réélu chaque année de 443 à 429 av. J.-C., Périclès dirige Athènes à son apogée. Il fait construire le Parthénon et les monuments de l'Acropole, avec le sculpteur Phidias, en utilisant en partie le trésor de la ligue de Délos, alliance des cités grecques contre la Perse."
+        },
+        {
+          "titre": "L'oraison funèbre",
+          "texte": "Rapportée par l'historien Thucydide, son oraison funèbre pour les soldats morts en 431 av. J.-C. fait l'éloge de la démocratie athénienne : « Notre constitution est appelée démocratie parce que le pouvoir est entre les mains non d'une minorité, mais du plus grand nombre. » Il meurt en 429 de la peste qui frappe Athènes pendant la guerre du Péloponnèse."
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Périclès"
+  },
+  {
+    "id": "politique-005",
+    "domain": "politique",
+    "subtheme": "Figures politiques",
+    "type": "personnage",
+    "title": "Nelson Mandela",
+    "summary": "Homme d'État sud-africain, figure de la lutte contre l'apartheid, emprisonné 27 ans avant de devenir en 1994 le premier président noir élu démocratiquement d'Afrique du Sud. Prix Nobel de la paix en 1993.",
+    "details": {
+      "epoque": "1918-2013, Afrique du Sud",
+      "pourquoiCelebre": "Après des décennies de lutte et d'emprisonnement, il devient le symbole de la réconciliation nationale sud-africaine à la sortie de l'apartheid, régime de ségrégation raciale institutionnalisée.",
+      "ideesClefs": [
+        "La lutte non-violente puis armée contre l'apartheid",
+        "La réconciliation nationale plutôt que la vengeance après sa libération",
+        "La \"nation arc-en-ciel\" comme projet de société sud-africaine"
+      ],
+      "liens": [],
+      "wikipedia": "Nelson Mandela",
+      "sections": [
+        {
+          "titre": "Contre l'apartheid",
+          "texte": "L'apartheid, instauré en 1948 en Afrique du Sud, organise la séparation et la domination des Blancs sur les Noirs, Métis et Indiens : quartiers, écoles, plages et mariages séparés, pas de droit de vote. Avocat, Mandela devient un leader du Congrès national africain (ANC). Après le massacre de Sharpeville (1960), il se résout à la lutte armée."
+        },
+        {
+          "titre": "27 ans de prison",
+          "texte": "Condamné à la prison à vie en 1964 au procès de Rivonia, il passe 18 ans à Robben Island, cassant des pierres. Devenu symbole mondial, il est libéré le 11 février 1990 par le président Frederik de Klerk. Les deux hommes reçoivent le prix Nobel de la paix en 1993."
+        },
+        {
+          "titre": "Président de la réconciliation",
+          "texte": "Élu en 1994 lors des premières élections multiraciales, il crée la Commission vérité et réconciliation et fait de la Coupe du monde de rugby 1995 un symbole d'unité (film Invictus). Il ne fait qu'un mandat."
+        }
+      ],
+      "anecdotes": [
+        "Le 18 juillet, jour de sa naissance, est devenu la Journée internationale Nelson Mandela."
+      ]
+    },
+    "source": "D'après Wikipédia — Nelson Mandela"
+  },
+  {
+    "id": "politique-006",
+    "domain": "politique",
+    "subtheme": "Figures politiques",
+    "type": "personnage",
+    "title": "Winston Churchill",
+    "summary": "Homme d'État britannique, Premier ministre du Royaume-Uni pendant la Seconde Guerre mondiale, connu pour ses discours de résistance face à l'Allemagne nazie et son rôle dans la victoire alliée.",
+    "details": {
+      "epoque": "1874-1965, Royaume-Uni",
+      "pourquoiCelebre": "Devenu Premier ministre en 1940 alors que la France s'effondre face à l'Allemagne, il refuse toute négociation avec Hitler et maintient la résistance britannique, notamment durant la bataille d'Angleterre.",
+      "ideesClefs": [
+        "La résistance déterminée face au nazisme durant la Seconde Guerre mondiale",
+        "Le discours \"du sang, de la peine, des larmes et de la sueur\" à son arrivée au pouvoir",
+        "Prix Nobel de littérature en 1953 pour ses écrits historiques et ses discours"
+      ],
+      "liens": []
+    },
+    "source": "À vérifier"
+  },
+  {
+    "id": "politique-007",
+    "domain": "politique",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "La Révolution française (1789)",
+    "summary": "En 1789, la prise de la Bastille marque le début d'un processus révolutionnaire qui met fin à la monarchie absolue en France, proclame les droits de l'homme et pose les bases de la France politique moderne.",
+    "details": {
+      "contexte": "La France de la fin du 18e siècle traverse une grave crise financière et sociale, alors que le système politique reste dominé par la monarchie absolue et les privilèges de la noblesse et du clergé.",
+      "causes": "Endettement massif de l'État, inégalités entre les ordres (noblesse, clergé, tiers état), et diffusion des idées des Lumières critiquant l'absolutisme.",
+      "deroulement": "Convocation des États généraux, serment du Jeu de paume, prise de la Bastille le 14 juillet 1789, puis abolition des privilèges et Déclaration des droits de l'homme et du citoyen.",
+      "consequences": "Fin progressive de la monarchie absolue, instauration puis chute de plusieurs régimes politiques successifs, et diffusion des idées révolutionnaires en Europe.",
+      "frise": [
+        {
+          "annee": "1789",
+          "evenement": "Prise de la Bastille et Déclaration des droits de l'homme"
+        },
+        {
+          "annee": "1792",
+          "evenement": "Proclamation de la Première République"
+        },
+        {
+          "annee": "1799",
+          "evenement": "Coup d'État de Napoléon Bonaparte, fin de la Révolution"
+        }
+      ],
+      "wikipedia": "Révolution française",
+      "sections": [
+        {
+          "titre": "Les grandes étapes",
+          "texte": "Mai 1789 : états généraux ; 17 juin : le tiers état se proclame Assemblée nationale ; 14 juillet : prise de la Bastille ; 4 août : abolition des privilèges ; 26 août : Déclaration des droits de l'homme et du citoyen ; 1791 : monarchie constitutionnelle ; 10 août 1792 : chute de la monarchie ; 21 septembre 1792 : proclamation de la République ; 21 janvier 1793 : exécution de Louis XVI ; 1793-1794 : la Terreur ; 1799 : coup d'État de Bonaparte."
+        },
+        {
+          "titre": "L'héritage",
+          "texte": "Souveraineté nationale, égalité devant la loi, droits de l'homme, départements, système métrique, état civil laïque, devise « Liberté, Égalité, Fraternité », drapeau tricolore et Marseillaise : une grande partie de la France contemporaine vient de cette période."
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Révolution française"
+  },
+  {
+    "id": "politique-008",
+    "domain": "politique",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "La chute du mur de Berlin (1989)",
+    "summary": "Le 9 novembre 1989, la chute du mur de Berlin, symbole de la division entre l'Est et l'Ouest pendant la Guerre froide, ouvre la voie à la réunification allemande et à l'effondrement des régimes communistes d'Europe de l'Est.",
+    "details": {
+      "contexte": "Depuis 1961, le mur de Berlin sépare la ville en deux, matérialisant la division entre l'Allemagne de l'Ouest (capitaliste) et l'Allemagne de l'Est (communiste) durant la Guerre froide.",
+      "causes": "Affaiblissement économique et politique des régimes communistes d'Europe de l'Est, réformes engagées en URSS par Mikhaïl Gorbatchev, et pression croissante de la population est-allemande.",
+      "deroulement": "Le 9 novembre 1989, l'annonce d'un assouplissement des règles de circulation provoque un afflux massif de Berlinois de l'Est vers l'Ouest, entraînant la démolition progressive du mur.",
+      "consequences": "Réunification de l'Allemagne en 1990, effondrement des régimes communistes en Europe de l'Est, et fin progressive de la Guerre froide.",
+      "frise": [
+        {
+          "annee": "1961",
+          "evenement": "Construction du mur de Berlin"
+        },
+        {
+          "annee": "1989",
+          "evenement": "Chute du mur de Berlin"
+        },
+        {
+          "annee": "1990",
+          "evenement": "Réunification officielle de l'Allemagne"
+        }
+      ],
+      "wikipedia": "Chute du mur de Berlin",
+      "sections": [
+        {
+          "titre": "Une erreur historique",
+          "texte": "Le 9 novembre 1989, lors d'une conférence de presse, le porte-parole est-allemand Günter Schabowski annonce de nouvelles règles de voyage vers l'Ouest. À la question « Quand ? », il répond, confus : « Immédiatement, sans délai. » Des milliers de Berlinois se précipitent aux postes-frontières ; débordés, les gardes finissent par ouvrir."
+        },
+        {
+          "titre": "Les conséquences",
+          "texte": "Les régimes communistes d'Europe de l'Est tombent en quelques mois (révolution de velours en Tchécoslovaquie, chute de Ceaușescu en Roumanie). L'Allemagne est réunifiée le 3 octobre 1990, et l'URSS disparaît en décembre 1991."
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Chute du mur de Berlin"
+  },
+  {
+    "id": "politique-009",
+    "domain": "politique",
+    "subtheme": "Vocabulaire",
+    "type": "vocabulaire",
+    "title": "Gauche vs droite (politique)",
+    "summary": "Le clivage gauche/droite structure historiquement la vie politique de nombreux pays depuis la Révolution française, associant schématiquement la gauche à plus d'égalité et d'intervention de l'État, la droite à plus de liberté individuelle et économique.",
+    "details": {
+      "definition": "Le clivage tire son origine de la disposition des sièges à l'Assemblée nationale française en 1789 : les partisans du roi siégeaient à droite, ceux favorables au changement à gauche.",
+      "exemple": "Historiquement, les partis de gauche mettent souvent l'accent sur la réduction des inégalités et un rôle actif de l'État ; les partis de droite mettent souvent l'accent sur la liberté économique et une intervention étatique plus limitée — avec de nombreuses nuances selon les pays et les époques.",
+      "confusions": [
+        {
+          "mot": "Centre",
+          "explication": "Position politique qui se situe entre la gauche et la droite, souvent en cherchant un compromis entre leurs orientations respectives."
+        }
+      ],
+      "wikipedia": "Clivage gauche-droite",
+      "sections": [
+        {
+          "titre": "L'origine",
+          "texte": "Le 28 août 1789, lors d'un débat sur le droit de veto du roi, les députés favorables à un veto royal fort se placent à droite du président de l'Assemblée, ceux qui y sont opposés à gauche. Cette disposition devient durable et donne leur nom aux deux camps."
+        },
+        {
+          "titre": "Un clivage discuté",
+          "texte": "On associe traditionnellement la gauche à l'égalité, au changement social et au rôle de l'État, la droite à l'ordre, à la liberté économique et à la tradition. Mais de nombreux sujets (Europe, écologie, immigration, mondialisation) brouillent ce clivage, et certains partis revendiquent de le dépasser."
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Clivage gauche-droite"
+  },
+  {
+    "id": "politique-010",
+    "domain": "politique",
+    "subtheme": "Vocabulaire",
+    "type": "vocabulaire",
+    "title": "République vs monarchie",
+    "summary": "Une république est un régime où le chef de l'État n'est pas un monarque héréditaire mais une personne élue ou désignée pour une durée limitée ; une monarchie est un régime où le chef de l'État hérite de sa fonction, généralement à vie.",
+    "details": {
+      "definition": "République : régime politique où la fonction de chef de l'État n'est pas héréditaire (le mot vient du latin \"res publica\", \"la chose publique\"). Monarchie : régime où le chef de l'État (roi, reine, empereur) accède au pouvoir par hérédité, souvent à vie.",
+      "exemple": "La France est une république depuis 1792 (avec des interruptions) ; le Royaume-Uni reste une monarchie, mais une monarchie parlementaire où le pouvoir réel appartient au parlement.",
+      "confusions": [
+        {
+          "mot": "Monarchie constitutionnelle",
+          "explication": "Monarchie dans laquelle les pouvoirs du monarque sont limités par une constitution, le pouvoir politique réel étant exercé par des institutions élues — à ne pas confondre avec une monarchie absolue."
+        }
+      ]
+    },
+    "source": "À vérifier"
+  },
+  {
+    "id": "politique-011",
+    "domain": "politique",
+    "subtheme": "Vocabulaire",
+    "type": "vocabulaire",
+    "title": "Totalitarisme vs autoritarisme",
+    "summary": "Un régime autoritaire concentre le pouvoir et limite les libertés politiques sans nécessairement contrôler toute la société ; un régime totalitaire cherche en plus à contrôler l'ensemble de la vie sociale, économique et intellectuelle des citoyens.",
+    "details": {
+      "definition": "Autoritarisme : régime qui limite fortement le pluralisme politique et les libertés, tout en laissant souvent une certaine autonomie à la société civile et à l'économie. Totalitarisme : régime qui cherche à contrôler tous les aspects de la vie des individus, y compris leurs pensées, via une idéologie officielle omniprésente.",
+      "exemple": "L'Allemagne nazie et l'URSS stalinienne sont des exemples classiques de régimes totalitaires ; de nombreuses dictatures militaires du 20e siècle sont plutôt qualifiées de régimes autoritaires.",
+      "confusions": [
+        {
+          "mot": "Dictature",
+          "explication": "Terme plus général désignant tout régime où le pouvoir est exercé sans contrôle démocratique réel, qu'il soit autoritaire ou totalitaire au sens strict."
+        }
+      ],
+      "wikipedia": "Totalitarisme",
+      "sections": [
+        {
+          "titre": "Les caractéristiques du totalitarisme",
+          "texte": "Parti unique, chef charismatique, idéologie officielle qui prétend transformer l'homme, terreur policière, contrôle de l'économie, de la culture et de la jeunesse, propagande omniprésente, camps de concentration. Exemples : l'Allemagne nazie, l'URSS stalinienne, la Corée du Nord."
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Totalitarisme"
+  },
+  {
+    "id": "politique-012",
+    "domain": "politique",
+    "subtheme": "Figures politiques",
+    "type": "personnage",
+    "title": "Simone Veil",
+    "summary": "Femme politique française, rescapée de la Shoah, connue pour avoir porté en 1974 la loi légalisant l'interruption volontaire de grossesse (IVG) en France, puis pour avoir été la première présidente élue du Parlement européen en 1979.",
+    "details": {
+      "epoque": "1927-2017, France",
+      "pourquoiCelebre": "Ministre de la Santé, elle défend devant une Assemblée nationale majoritairement masculine et hostile la loi dépénalisant l'avortement, adoptée en 1975 (loi Veil).",
+      "ideesClefs": [
+        "La légalisation de l'IVG en France (loi Veil, 1975)",
+        "La construction européenne, en tant que première présidente élue du Parlement européen",
+        "Le témoignage sur la déportation et la Shoah"
+      ],
+      "liens": [],
+      "wikipedia": "Simone Veil",
+      "sections": [
+        {
+          "titre": "Survivante d'Auschwitz",
+          "texte": "Arrêtée à Nice en 1944 à 16 ans, parce que juive, elle est déportée à Auschwitz-Birkenau avec sa mère et sa sœur. Sa mère meurt du typhus à Bergen-Belsen. Elle porte toute sa vie son numéro de déportée tatoué sur le bras : 78651."
+        },
+        {
+          "titre": "La loi Veil",
+          "texte": "Ministre de la Santé, elle défend en novembre 1974 devant une Assemblée presque exclusivement masculine la loi dépénalisant l'interruption volontaire de grossesse (IVG), sous les insultes. Promulguée en janvier 1975, la loi est un tournant pour les droits des femmes."
+        },
+        {
+          "titre": "L'Europe",
+          "texte": "En 1979, elle devient la première présidente du Parlement européen élu au suffrage universel. Elle entre à l'Académie française en 2010 et au Panthéon en 2018 avec son mari Antoine."
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Simone Veil"
+  },
+  {
+    "id": "politique-013",
+    "domain": "politique",
+    "subtheme": "Systèmes politiques",
+    "type": "classique",
+    "title": "Le suffrage universel",
+    "summary": "Principe selon lequel tous les citoyens majeurs disposent du droit de vote, sans condition de richesse, d'instruction ou (aujourd'hui) de sexe. Son extension progressive est l'un des grands combats démocratiques des 19e et 20e siècles.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Du suffrage censitaire au suffrage universel",
+          "texte": "Au 19e siècle, de nombreux pays réservaient le droit de vote aux citoyens payant un certain montant d'impôt (suffrage censitaire), excluant de fait la majorité de la population."
+        },
+        {
+          "titre": "Le droit de vote des femmes",
+          "texte": "En France, les femmes obtiennent le droit de vote seulement en 1944, bien plus tard que dans certains autres pays comme la Nouvelle-Zélande (1893)."
+        },
+        {
+          "titre": "Débats actuels",
+          "texte": "L'âge du droit de vote, le vote des étrangers résidents ou le vote obligatoire restent des sujets de débat dans de nombreuses démocraties."
+        },
+        {
+          "titre": "Une longue conquête en France",
+          "texte": "1792 : suffrage universel masculin pour élire la Convention, vite abandonné. Sous la Restauration, seul un petit nombre d'hommes riches vote (suffrage censitaire). 1848 : suffrage universel masculin définitif. 1944 : droit de vote des femmes, qui votent pour la première fois en 1945. 1974 : majorité et droit de vote à 18 ans (contre 21 auparavant)."
+        }
+      ],
+      "wikipedia": "Suffrage universel",
+      "anecdotes": [
+        "La Nouvelle-Zélande a été le premier pays à accorder le droit de vote aux femmes, en 1893."
+      ]
+    },
+    "source": "D'après Wikipédia — Suffrage universel"
+  },
+  {
+    "id": "politique-014",
+    "domain": "politique",
+    "subtheme": "Organisations internationales",
+    "type": "classique",
+    "title": "L'Organisation des Nations unies (ONU)",
+    "summary": "Organisation internationale fondée en 1945 après la Seconde Guerre mondiale, réunissant la quasi-totalité des États du monde, avec pour mission principale le maintien de la paix et de la sécurité internationales.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Création",
+          "texte": "Fondée en 1945 à San Francisco, l'ONU succède à la Société des Nations (SDN), qui avait échoué à empêcher la Seconde Guerre mondiale."
+        },
+        {
+          "titre": "Organes principaux",
+          "texte": "L'Assemblée générale réunit tous les États membres ; le Conseil de sécurité, avec cinq membres permanents disposant d'un droit de veto, est chargé des questions de paix et de sécurité."
+        },
+        {
+          "titre": "Missions",
+          "texte": "Au-delà du maintien de la paix, l'ONU coordonne l'action internationale sur des enjeux comme les droits humains, le développement ou l'aide humanitaire, via des agences spécialisées (UNICEF, OMS...)."
+        },
+        {
+          "titre": "Les organes",
+          "texte": "L'Assemblée générale, où chaque État a une voix ; le Conseil de sécurité, avec 5 membres permanents dotés d'un droit de veto (États-Unis, Russie, Chine, Royaume-Uni, France) et 10 membres élus pour deux ans ; le secrétariat général ; la Cour internationale de justice à La Haye. Des agences spécialisées : UNESCO, OMS, UNICEF, HCR, PAM."
+        },
+        {
+          "titre": "Succès et limites",
+          "texte": "L'ONU a contribué à la décolonisation, à l'aide humanitaire et à de nombreuses opérations de maintien de la paix (les Casques bleus, prix Nobel 1988). Mais le droit de veto paralyse souvent le Conseil de sécurité lors des crises impliquant les grandes puissances."
+        }
+      ],
+      "wikipedia": "Organisation des Nations unies",
+      "chiffres": [
+        {
+          "valeur": "193",
+          "label": "États membres"
+        },
+        {
+          "valeur": "1945",
+          "label": "création, à San Francisco"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Organisation des Nations unies"
+  },
+  {
+    "id": "politique-015",
+    "domain": "politique",
+    "subtheme": "Organisations internationales",
+    "type": "classique",
+    "title": "L'Union européenne",
+    "summary": "Union politique et économique regroupant des pays européens, née de la volonté d'assurer la paix sur le continent après la Seconde Guerre mondiale en liant durablement les économies des pays membres.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Origines",
+          "texte": "La Communauté européenne du charbon et de l'acier (CECA), créée en 1951, met en commun deux ressources stratégiques entre six pays fondateurs pour rendre la guerre entre eux \"non seulement impensable, mais matériellement impossible\"."
+        },
+        {
+          "titre": "Institutions principales",
+          "texte": "La Commission européenne propose les lois, le Parlement européen et le Conseil de l'Union européenne les adoptent, et la Cour de justice de l'Union européenne veille au respect du droit européen."
+        },
+        {
+          "titre": "Élargissements",
+          "texte": "De six membres fondateurs, l'Union européenne est progressivement passée à 27 États membres, avec des vagues d'élargissement successives, notamment vers l'Europe centrale et orientale après 2004."
+        },
+        {
+          "titre": "Les étapes",
+          "texte": "1951 : Communauté européenne du charbon et de l'acier (CECA), à six pays (France, Allemagne de l'Ouest, Italie, Belgique, Pays-Bas, Luxembourg), sur une idée de Robert Schuman et Jean Monnet. 1957 : traité de Rome et Communauté économique européenne. 1992 : traité de Maastricht, naissance de l'Union européenne. 2002 : l'euro. 2020 : sortie du Royaume-Uni (Brexit)."
+        },
+        {
+          "titre": "Les institutions",
+          "texte": "La Commission européenne propose les lois et veille à leur application ; le Parlement européen, élu tous les cinq ans, et le Conseil de l'UE (ministres des États) les votent ; le Conseil européen réunit les chefs d'État et de gouvernement ; la Cour de justice de l'UE à Luxembourg."
+        }
+      ],
+      "wikipedia": "Union européenne",
+      "chiffres": [
+        {
+          "valeur": "27",
+          "label": "États membres"
+        },
+        {
+          "valeur": "~450 millions",
+          "label": "d'habitants"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Union européenne"
+  },
+  {
+    "id": "politique-016",
+    "domain": "politique",
+    "subtheme": "Vocabulaire",
+    "type": "vocabulaire",
+    "title": "Référendum vs élection",
+    "summary": "Une élection permet de désigner des représentants (députés, président) ; un référendum permet aux citoyens de se prononcer directement, par oui ou par non, sur une question précise (une loi, une réforme constitutionnelle).",
+    "details": {
+      "definition": "Élection : vote destiné à choisir une ou plusieurs personnes pour exercer une fonction représentative. Référendum : vote destiné à trancher directement une question par les citoyens eux-mêmes, sans intermédiaire.",
+      "exemple": "L'élection présidentielle française désigne une personne pour la fonction de président ; le référendum de 2005 en France portait directement sur la ratification d'un traité européen.",
+      "confusions": [
+        {
+          "mot": "Plébiscite",
+          "explication": "Terme parfois utilisé, souvent avec une connotation critique, pour désigner un référendum utilisé par un dirigeant pour obtenir une légitimation personnelle plutôt que pour trancher une question de fond."
+        }
+      ],
+      "wikipedia": "Référendum",
+      "sections": [
+        {
+          "titre": "Référendums marquants en France",
+          "texte": "1958 : adoption de la Constitution de la Ve République. 1962 : élection du président au suffrage universel direct. 1969 : échec du référendum sur la régionalisation, qui entraîne la démission de De Gaulle. 1992 : traité de Maastricht adopté de justesse (51 %). 2005 : rejet du traité constitutionnel européen (55 % de non)."
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Référendum"
+  },
+  {
+    "id": "politique-017",
+    "domain": "politique",
+    "subtheme": "Figures politiques",
+    "type": "personnage",
+    "title": "Mahatma Gandhi",
+    "summary": "Figure majeure du mouvement d'indépendance de l'Inde vis-à-vis de l'Empire britannique, connu pour sa doctrine de résistance non-violente (satyagraha), qui a influencé de nombreux mouvements politiques et sociaux dans le monde.",
+    "details": {
+      "epoque": "1869-1948, Inde",
+      "pourquoiCelebre": "Il organise des campagnes de désobéissance civile non-violente contre la domination coloniale britannique, contribuant à l'indépendance de l'Inde obtenue en 1947.",
+      "ideesClefs": [
+        "La résistance non-violente (satyagraha) comme moyen de lutte politique",
+        "La désobéissance civile face à des lois jugées injustes",
+        "L'influence durable sur des figures comme Martin Luther King"
+      ],
+      "liens": [
+        {
+          "nom": "Martin Luther King",
+          "relation": "Leader du mouvement des droits civiques aux États-Unis, directement inspiré par sa doctrine de non-violence"
+        }
+      ]
+    },
+    "source": "À vérifier"
+  },
+  {
+    "id": "politique-018",
+    "domain": "politique",
+    "subtheme": "Institutions françaises",
+    "type": "classique",
+    "title": "La Ve République",
+    "summary": "La Ve République est le régime politique de la France depuis 1958. Sa Constitution, voulue par le général de Gaulle, renforce le pouvoir exécutif, en particulier celui du président.\nC'est le deuxième régime le plus long de l'histoire républicaine française.",
+    "details": {
+      "wikipedia": "Cinquième République",
+      "sections": [
+        {
+          "titre": "La naissance",
+          "texte": "En mai 1958, la guerre d'Algérie provoque une crise grave : l'armée prend le pouvoir à Alger. La IVe République, instable (24 gouvernements en 12 ans), fait appel au général de Gaulle. La nouvelle Constitution, rédigée notamment par Michel Debré, est approuvée par référendum le 28 septembre 1958 avec près de 80 % de oui et promulguée le 4 octobre."
+        },
+        {
+          "titre": "Les institutions",
+          "texte": "Le président de la République, élu pour 5 ans (7 ans jusqu'en 2002) au suffrage universel direct depuis 1962, nomme le Premier ministre, peut dissoudre l'Assemblée, soumettre un texte au référendum et dispose de pouvoirs exceptionnels (article 16). Le gouvernement dirige la politique de la nation. Le Parlement vote les lois et contrôle le gouvernement."
+        },
+        {
+          "titre": "Le 49.3",
+          "texte": "L'article 49 alinéa 3 permet au gouvernement de faire adopter un texte sans vote, sauf si une motion de censure est votée par l'Assemblée. Très utilisé et très critiqué, il illustre le « parlementarisme rationalisé » voulu par la Constitution."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "1958",
+          "label": "adoption de la Constitution"
+        },
+        {
+          "valeur": "~25",
+          "label": "révisions de la Constitution"
+        },
+        {
+          "valeur": "5 ans",
+          "label": "durée du mandat présidentiel depuis 2002"
+        }
+      ],
+      "anecdotes": [
+        "La seule République plus longue est la IIIe (1870-1940)."
+      ]
+    },
+    "source": "D'après Wikipédia — Cinquième République"
+  },
+  {
+    "id": "politique-019",
+    "domain": "politique",
+    "subtheme": "Institutions françaises",
+    "type": "vocabulaire",
+    "title": "Assemblée nationale vs Sénat",
+    "summary": "Le Parlement français comprend deux chambres : l'Assemblée nationale, élue au suffrage universel direct, et le Sénat, élu au suffrage indirect.\nEn cas de désaccord sur une loi, c'est l'Assemblée qui a le dernier mot.",
+    "details": {
+      "wikipedia": "Parlement français",
+      "definition": "Assemblée nationale : 577 députés élus pour 5 ans au scrutin majoritaire à deux tours dans des circonscriptions ; siège au Palais-Bourbon. Elle peut renverser le gouvernement par une motion de censure. Sénat : 348 sénateurs élus pour 6 ans par environ 160 000 grands électeurs (surtout des élus locaux), renouvelés par moitié tous les 3 ans ; siège au palais du Luxembourg. Il représente les collectivités territoriales.",
+      "exemple": "Une loi fait la « navette » entre les deux chambres. En cas de désaccord persistant, une commission mixte paritaire (7 députés, 7 sénateurs) cherche un compromis ; si elle échoue, le gouvernement peut demander à l'Assemblée de trancher.",
+      "confusions": [
+        {
+          "mot": "Député / sénateur",
+          "explication": "le député représente la nation ; le sénateur est élu dans un département mais représente aussi la nation"
+        },
+        {
+          "mot": "Congrès",
+          "explication": "réunion des deux chambres à Versailles, notamment pour réviser la Constitution"
+        },
+        {
+          "mot": "Dissolution",
+          "explication": "le président peut dissoudre l'Assemblée, mais pas le Sénat"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Parlement français"
+  },
+  {
+    "id": "politique-020",
+    "domain": "politique",
+    "subtheme": "Institutions françaises",
+    "type": "date",
+    "title": "1789 : La Déclaration des droits de l'homme et du citoyen",
+    "summary": "Adoptée le 26 août 1789 par l'Assemblée nationale constituante, la Déclaration des droits de l'homme et du citoyen proclame que « les hommes naissent et demeurent libres et égaux en droits ».\nElle fait toujours partie de la Constitution française.",
+    "details": {
+      "wikipedia": "Déclaration des droits de l'homme et du citoyen de 1789",
+      "contexte": "Quelques semaines après la prise de la Bastille et l'abolition des privilèges (nuit du 4 août), les députés veulent poser les principes de la future Constitution, inspirés des philosophes des Lumières et de la Déclaration d'indépendance américaine (1776).",
+      "causes": "Mettre fin à l'arbitraire royal (lettres de cachet), à la société d'ordres et aux privilèges, et fonder un nouvel ordre politique sur des droits universels.",
+      "deroulement": "Débattue du 20 au 26 août 1789, la Déclaration compte un préambule et 17 articles. Elle affirme la liberté, la propriété, la sûreté et la résistance à l'oppression comme droits naturels, la souveraineté de la nation, l'égalité devant la loi et l'impôt, la présomption d'innocence, la liberté d'opinion, y compris religieuse, et la liberté d'expression.",
+      "consequences": "Elle inspire de nombreuses constitutions dans le monde et la Déclaration universelle des droits de l'homme de l'ONU (1948). Mais elle ne s'applique pas aux femmes ni aux esclaves des colonies : l'esclavage n'est aboli qu'en 1794, rétabli en 1802, puis aboli définitivement en 1848.",
+      "frise": [
+        {
+          "annee": "1776",
+          "evenement": "Déclaration d'indépendance américaine"
+        },
+        {
+          "annee": "1789",
+          "evenement": "Déclaration des droits de l'homme et du citoyen"
+        },
+        {
+          "annee": "1791",
+          "evenement": "Déclaration des droits de la femme d'Olympe de Gouges"
+        },
+        {
+          "annee": "1948",
+          "evenement": "Déclaration universelle des droits de l'homme"
+        }
+      ],
+      "anecdotes": [
+        "Depuis 1971, le Conseil constitutionnel peut annuler une loi contraire à la Déclaration de 1789."
+      ]
+    },
+    "source": "D'après Wikipédia — Déclaration des droits de l'homme et du citoyen de 1789"
+  },
+  {
+    "id": "politique-021",
+    "domain": "politique",
+    "subtheme": "Institutions françaises",
+    "type": "classique",
+    "title": "Les symboles de la République française",
+    "summary": "La République française a plusieurs symboles officiels ou traditionnels : le drapeau tricolore, La Marseillaise, la devise « Liberté, Égalité, Fraternité », Marianne, le 14 Juillet, le coq gaulois et le sceau.\nLa plupart sont nés pendant la Révolution.",
+    "details": {
+      "wikipedia": "Symboles de la République française",
+      "sections": [
+        {
+          "titre": "Le drapeau et l'hymne",
+          "texte": "Le drapeau bleu-blanc-rouge associerait le blanc de la royauté au bleu et au rouge de Paris, par l'intermédiaire de la cocarde de La Fayette en 1789. La Marseillaise, écrite en 1792 par Rouget de Lisle à Strasbourg comme Chant de guerre pour l'armée du Rhin, doit son nom aux volontaires marseillais qui l'ont chantée en arrivant à Paris. Elle devient l'hymne national en 1795, puis définitivement en 1879."
+        },
+        {
+          "titre": "Marianne",
+          "texte": "Figure allégorique de la République, Marianne porte le bonnet phrygien, symbole de liberté hérité des esclaves affranchis de l'Antiquité. Son buste est présent dans toutes les mairies. Des personnalités lui ont prêté leurs traits : Brigitte Bardot, Catherine Deneuve, Laetitia Casta."
+        },
+        {
+          "titre": "La devise et la fête",
+          "texte": "« Liberté, Égalité, Fraternité » apparaît pendant la Révolution et devient la devise officielle en 1848, inscrite dans la Constitution. Le 14 Juillet est fête nationale depuis 1880."
+        }
+      ],
+      "anecdotes": [
+        "Le coq gaulois vient d'un jeu de mots latin : gallus signifie à la fois « coq » et « Gaulois »."
+      ]
+    },
+    "source": "D'après Wikipédia — Symboles de la République française"
+  },
+  {
+    "id": "politique-022",
+    "domain": "politique",
+    "subtheme": "Figures politiques",
+    "type": "personnage",
+    "title": "Martin Luther King",
+    "summary": "Pasteur baptiste américain (1929-1968), Martin Luther King est la figure majeure du mouvement des droits civiques contre la ségrégation raciale aux États-Unis.\nApôtre de la non-violence, il reçoit le prix Nobel de la paix en 1964 et est assassiné en 1968.",
+    "details": {
+      "wikipedia": "Martin Luther King",
+      "epoque": "Années 1950-1960, États-Unis",
+      "pourquoiCelebre": "Pour son combat non violent qui a abouti à la fin de la ségrégation légale et à l'égalité des droits civiques.",
+      "ideesClefs": [
+        "Boycott des bus de Montgomery (1955-1956), après l'arrestation de Rosa Parks",
+        "Inspiré par Gandhi et la désobéissance civile",
+        "Marche sur Washington (28 août 1963) et discours « I have a dream »",
+        "Civil Rights Act (1964) et Voting Rights Act (1965)",
+        "Marches de Selma à Montgomery (1965) pour le droit de vote",
+        "Assassiné à Memphis le 4 avril 1968 par James Earl Ray"
+      ],
+      "liens": [
+        {
+          "nom": "Rosa Parks",
+          "relation": "couturière arrêtée pour avoir refusé de céder sa place à un Blanc dans un bus"
+        },
+        {
+          "nom": "Malcolm X",
+          "relation": "autre leader afro-américain, défendant une approche plus radicale"
+        },
+        {
+          "nom": "Gandhi",
+          "relation": "modèle de la résistance non violente"
+        }
+      ],
+      "anecdotes": [
+        "Le troisième lundi de janvier est un jour férié aux États-Unis en son honneur.",
+        "Il a été arrêté environ 29 fois au cours de son combat."
+      ]
+    },
+    "source": "D'après Wikipédia — Martin Luther King"
+  },
+  {
+    "id": "politique-023",
+    "domain": "politique",
+    "subtheme": "Figures politiques",
+    "type": "personnage",
+    "title": "Olympe de Gouges",
+    "summary": "Femme de lettres française (1748-1793), Olympe de Gouges est l'autrice de la Déclaration des droits de la femme et de la citoyenne (1791).\nPionnière du féminisme et opposante à l'esclavage, elle est guillotinée sous la Terreur.",
+    "details": {
+      "wikipedia": "Olympe de Gouges",
+      "epoque": "Révolution française",
+      "pourquoiCelebre": "Pour avoir réclamé l'égalité des droits entre hommes et femmes dès 1791.",
+      "ideesClefs": [
+        "De son vrai nom Marie Gouze, née à Montauban",
+        "Écrit des pièces de théâtre dont une dénonçant l'esclavage des Noirs",
+        "Déclaration des droits de la femme et de la citoyenne (1791), calquée sur celle de 1789",
+        "Défend le divorce, la reconnaissance des enfants nés hors mariage",
+        "S'oppose à l'exécution de Louis XVI et aux Montagnards",
+        "Guillotinée le 3 novembre 1793"
+      ],
+      "liens": [
+        {
+          "nom": "Marie-Antoinette",
+          "relation": "reine à qui elle dédie sa Déclaration"
+        },
+        {
+          "nom": "Robespierre",
+          "relation": "qu'elle attaque dans ses écrits"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une phrase restée célèbre",
+          "texte": "Article 10 de sa Déclaration : « La femme a le droit de monter sur l'échafaud ; elle doit avoir également celui de monter à la tribune. » Tragique ironie, elle-même meurt sur l'échafaud deux ans plus tard."
+        }
+      ],
+      "anecdotes": [
+        "Son entrée au Panthéon est régulièrement demandée ; un buste y a été installé en 2016."
+      ]
+    },
+    "source": "D'après Wikipédia — Olympe de Gouges"
+  },
+  {
+    "id": "politique-024",
+    "domain": "politique",
+    "subtheme": "Figures politiques",
+    "type": "personnage",
+    "title": "Jean Jaurès",
+    "summary": "Homme politique français (1859-1914), Jean Jaurès est l'une des grandes figures du socialisme français et le fondateur du journal L'Humanité.\nPacifiste, il est assassiné le 31 juillet 1914, trois jours avant l'entrée en guerre de la France.",
+    "details": {
+      "wikipedia": "Jean Jaurès",
+      "epoque": "IIIe République",
+      "pourquoiCelebre": "Pour son éloquence, sa défense des ouvriers, son engagement pour Dreyfus et son combat contre la guerre.",
+      "ideesClefs": [
+        "Professeur de philosophie, député du Tarn",
+        "Soutient les mineurs de Carmaux en grève (1892)",
+        "Défend Dreyfus avec Zola",
+        "Soutient la loi de séparation des Églises et de l'État (1905)",
+        "Unifie les socialistes dans la SFIO (1905)",
+        "Fonde L'Humanité (1904)",
+        "Tente jusqu'au bout d'empêcher la guerre par une grève générale européenne"
+      ],
+      "liens": [
+        {
+          "nom": "Raoul Villain",
+          "relation": "nationaliste qui l'assassine au café du Croissant, à Paris"
+        },
+        {
+          "nom": "Léon Blum",
+          "relation": "son héritier politique"
+        }
+      ],
+      "anecdotes": [
+        "Son assassin a été acquitté en 1919, et la veuve de Jaurès condamnée aux dépens.",
+        "Il est entré au Panthéon en 1924. Beaucoup de rues et d'écoles en France portent son nom."
+      ]
+    },
+    "source": "D'après Wikipédia — Jean Jaurès"
+  },
+  {
+    "id": "politique-025",
+    "domain": "politique",
+    "subtheme": "Relations internationales",
+    "type": "classique",
+    "title": "L'OTAN",
+    "summary": "L'Organisation du traité de l'Atlantique Nord (OTAN) est une alliance militaire créée en 1949 entre les États-Unis, le Canada et des pays d'Europe de l'Ouest face à l'URSS.\nSon principe : une attaque contre un membre est une attaque contre tous.",
+    "details": {
+      "wikipedia": "Organisation du traité de l'Atlantique nord",
+      "sections": [
+        {
+          "titre": "L'article 5",
+          "texte": "Cœur du traité de Washington (4 avril 1949), l'article 5 prévoit la défense collective. Il n'a été invoqué qu'une seule fois : après les attentats du 11 septembre 2001 contre les États-Unis."
+        },
+        {
+          "titre": "La France et l'OTAN",
+          "texte": "Membre fondateur, la France quitte le commandement militaire intégré en 1966 sous De Gaulle, qui veut une défense indépendante et fait partir les bases américaines. Elle le réintègre en 2009 sous Nicolas Sarkozy."
+        },
+        {
+          "titre": "Après la guerre froide",
+          "texte": "Après la dissolution du pacte de Varsovie, l'OTAN s'élargit à d'anciens pays communistes d'Europe de l'Est, ce que la Russie considère comme une menace. Après l'invasion de l'Ukraine en 2022, la Finlande (2023) et la Suède (2024) y adhèrent."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "32",
+          "label": "pays membres (2024)"
+        },
+        {
+          "valeur": "12",
+          "label": "membres fondateurs en 1949"
+        },
+        {
+          "valeur": "Bruxelles",
+          "label": "siège de l'organisation"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Organisation du traité de l'Atlantique nord"
+  },
+  {
+    "id": "politique-026",
+    "domain": "politique",
+    "subtheme": "Relations internationales",
+    "type": "vocabulaire",
+    "title": "Géopolitique",
+    "summary": "La géopolitique étudie les rivalités de pouvoir sur des territoires, en tenant compte de la géographie, des ressources, des populations et des représentations.\nElle aide à comprendre les conflits et les stratégies des États.",
+    "details": {
+      "wikipedia": "Géopolitique",
+      "definition": "Étude des rapports de force entre acteurs (États, organisations, groupes armés, entreprises) à propos de territoires. Le géographe Yves Lacoste la définit comme l'étude des « rivalités de pouvoir sur des territoires ».",
+      "exemple": "Le détroit d'Ormuz, par où passe environ un cinquième du pétrole mondial, est un enjeu stratégique majeur. La mer de Chine méridionale est disputée pour ses routes maritimes et ses ressources. L'Arctique, avec la fonte des glaces, devient un nouvel espace de rivalités.",
+      "confusions": [
+        {
+          "mot": "Soft power",
+          "explication": "capacité d'influence par la culture, l'attractivité et les valeurs plutôt que par la force (hard power), concept du politologue Joseph Nye"
+        },
+        {
+          "mot": "Puissance",
+          "explication": "capacité d'un acteur à imposer sa volonté ou à influencer les autres"
+        },
+        {
+          "mot": "Guerre hybride",
+          "explication": "combinaison de moyens militaires, économiques, cybernétiques et de désinformation"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Géopolitique"
+  },
+  {
+    "id": "politique-027",
+    "domain": "politique",
+    "subtheme": "Relations internationales",
+    "type": "date",
+    "title": "1948 : La Déclaration universelle des droits de l'homme",
+    "summary": "Adoptée par l'Assemblée générale de l'ONU le 10 décembre 1948 à Paris, la Déclaration universelle des droits de l'homme énonce en 30 articles les droits fondamentaux de tous les êtres humains.\nC'est le document le plus traduit au monde.",
+    "details": {
+      "wikipedia": "Déclaration universelle des droits de l'homme",
+      "contexte": "Après les atrocités de la Seconde Guerre mondiale et de la Shoah, la communauté internationale veut affirmer des droits valables pour tous les humains, partout.",
+      "causes": "La Charte des Nations unies (1945) évoque les droits de l'homme sans les définir. Une commission, présidée par Eleanor Roosevelt, veuve du président américain, est chargée de rédiger une déclaration.",
+      "deroulement": "Le juriste français René Cassin joue un rôle majeur dans la rédaction. Le texte est adopté au palais de Chaillot par 48 voix pour, 0 contre et 8 abstentions (bloc soviétique, Afrique du Sud, Arabie saoudite).",
+      "consequences": "Sans valeur juridique contraignante, elle inspire pourtant de nombreuses constitutions et traités, dont la Convention européenne des droits de l'homme (1950). Le 10 décembre est la Journée des droits de l'homme.",
+      "frise": [
+        {
+          "annee": "1945",
+          "evenement": "Charte des Nations unies"
+        },
+        {
+          "annee": "1948",
+          "evenement": "Adoption de la DUDH à Paris"
+        },
+        {
+          "annee": "1950",
+          "evenement": "Convention européenne des droits de l'homme"
+        },
+        {
+          "annee": "1968",
+          "evenement": "Prix Nobel de la paix pour René Cassin"
+        }
+      ],
+      "anecdotes": [
+        "Article 1 : « Tous les êtres humains naissent libres et égaux en dignité et en droits. »"
+      ]
+    },
+    "source": "D'après Wikipédia — Déclaration universelle des droits de l'homme"
+  },
+  {
+    "id": "politique-028",
+    "domain": "politique",
+    "subtheme": "Notions",
+    "type": "vocabulaire",
+    "title": "État de droit",
+    "summary": "Un État de droit est un État où le pouvoir est soumis au droit : les gouvernants, comme les citoyens, doivent respecter les lois, et des juges indépendants peuvent les sanctionner.\nC'est l'opposé de l'arbitraire.",
+    "details": {
+      "wikipedia": "État de droit",
+      "definition": "Principe selon lequel les normes juridiques sont hiérarchisées (Constitution au-dessus des lois, lois au-dessus des décrets), s'appliquent à tous, y compris à l'État, et sont contrôlées par une justice indépendante. Il suppose la séparation des pouvoirs et le respect des droits fondamentaux.",
+      "exemple": "En France, le Conseil constitutionnel peut censurer une loi contraire à la Constitution ; le Conseil d'État peut annuler une décision du gouvernement ; un citoyen peut saisir la Cour européenne des droits de l'homme contre la France.",
+      "confusions": [
+        {
+          "mot": "Hiérarchie des normes",
+          "explication": "théorisée par le juriste Hans Kelsen : chaque norme doit respecter celles qui lui sont supérieures"
+        },
+        {
+          "mot": "État policier",
+          "explication": "État où la police agit sans contrôle judiciaire réel"
+        },
+        {
+          "mot": "Question prioritaire de constitutionnalité (QPC)",
+          "explication": "depuis 2010, tout justiciable peut contester la constitutionnalité d'une loi lors d'un procès"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — État de droit"
+  },
+  {
+    "id": "politique-029",
+    "domain": "politique",
+    "subtheme": "Notions",
+    "type": "vocabulaire",
+    "title": "Mode de scrutin",
+    "summary": "Le mode de scrutin est la règle qui transforme les voix des électeurs en sièges ou en élus. Les principaux sont le scrutin majoritaire et le scrutin proportionnel.\nLe choix du mode de scrutin a un effet énorme sur la composition des assemblées.",
+    "details": {
+      "wikipedia": "Mode de scrutin",
+      "definition": "Scrutin majoritaire : le candidat ou la liste arrivé en tête l'emporte, à un tour (Royaume-Uni) ou deux tours (législatives françaises). Il favorise les grands partis et des majorités stables. Scrutin proportionnel : les sièges sont répartis selon le pourcentage de voix de chaque liste (élections européennes en France). Il représente mieux la diversité des opinions mais rend les coalitions nécessaires.",
+      "exemple": "En France, les municipales des grandes communes utilisent un système mixte : la liste arrivée en tête reçoit une prime de 50 % des sièges, le reste étant réparti à la proportionnelle. En Allemagne, le Bundestag est élu par un système mixte combinant circonscriptions et proportionnelle.",
+      "confusions": [
+        {
+          "mot": "Suffrage direct / indirect",
+          "explication": "direct : les citoyens élisent eux-mêmes ; indirect : ils élisent des grands électeurs (Sénat français, président américain)"
+        },
+        {
+          "mot": "Majorité absolue / relative",
+          "explication": "absolue : plus de 50 % des voix ; relative : plus de voix que chacun des autres"
+        }
+      ],
+      "anecdotes": [
+        "En 2016, Donald Trump a été élu président des États-Unis avec près de 3 millions de voix de moins qu'Hillary Clinton, grâce au système des grands électeurs."
+      ]
+    },
+    "source": "D'après Wikipédia — Mode de scrutin"
+  },
+  {
+    "id": "politique-030",
+    "domain": "politique",
+    "subtheme": "Notions",
+    "type": "vocabulaire",
+    "title": "Décentralisation",
+    "summary": "La décentralisation consiste à transférer des compétences et des moyens de l'État central vers des collectivités territoriales élues : communes, départements, régions.\nEn France, elle a été lancée par les lois Defferre de 1982.",
+    "details": {
+      "wikipedia": "Décentralisation en France",
+      "definition": "Décentralisation : transfert de pouvoirs à des collectivités qui s'administrent librement par des conseils élus. Déconcentration : l'État délègue des pouvoirs à ses propres représentants locaux, comme les préfets, sans autonomie politique.",
+      "exemple": "Les communes gèrent les écoles maternelles et primaires, l'état civil, l'urbanisme ; les départements l'action sociale (RSA, aide aux personnes âgées) et les collèges ; les régions les lycées, les transports régionaux (TER) et le développement économique.",
+      "confusions": [
+        {
+          "mot": "Intercommunalité",
+          "explication": "regroupement de communes pour gérer ensemble certains services (déchets, eau, transports)"
+        },
+        {
+          "mot": "Préfet",
+          "explication": "représentant de l'État dans le département, créé par Bonaparte en 1800"
+        },
+        {
+          "mot": "État fédéral",
+          "explication": "comme l'Allemagne ou les États-Unis : les États fédérés ont leur propre Constitution et de larges pouvoirs"
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "~34 900",
+          "label": "communes en France, un record européen"
+        },
+        {
+          "valeur": "18",
+          "label": "régions (13 en métropole)"
+        },
+        {
+          "valeur": "101",
+          "label": "départements"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Décentralisation en France"
+  }
+]

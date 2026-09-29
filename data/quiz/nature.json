@@ -1,0 +1,448 @@
+[
+  {
+    "id": "q-nature-001",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel gaz les plantes absorbent-elles principalement pour réaliser la photosynthèse ?",
+    "choix": [
+      "L'oxygène",
+      "Le dioxyde de carbone",
+      "L'azote",
+      "L'hydrogène"
+    ],
+    "bonneReponse": 1,
+    "explication": "Les plantes absorbent le CO2 de l'air et le transforment, avec l'eau et la lumière, en glucose, en rejetant de l'oxygène.",
+    "source": "Consensus scientifique établi"
+  },
+  {
+    "id": "q-nature-002",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Les gymnospermes, comme les conifères, produisent des fruits qui protègent leurs graines.",
+    "reponse": false,
+    "explication": "Les gymnospermes produisent des graines nues, souvent portées par des cônes ; ce sont les angiospermes (plantes à fleurs) qui produisent des fruits.",
+    "source": "Consensus scientifique établi"
+  },
+  {
+    "id": "q-nature-003",
+    "domain": "nature",
+    "format": "associer",
+    "question": "Associe chaque écosystème à sa caractéristique principale.",
+    "paires": [
+      {
+        "gauche": "Toundra",
+        "droite": "Sol gelé en profondeur (permafrost)"
+      },
+      {
+        "gauche": "Savane",
+        "droite": "Alternance marquée saison sèche / saison des pluies"
+      },
+      {
+        "gauche": "Mangrove",
+        "droite": "Forêt littorale adaptée à l'eau salée"
+      },
+      {
+        "gauche": "Forêt tropicale humide",
+        "droite": "Structure en plusieurs étages de végétation"
+      }
+    ],
+    "explication": "Chaque biome se caractérise par des conditions climatiques et une végétation adaptée bien spécifiques.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-nature-004",
+    "domain": "nature",
+    "format": "qui-suis-je",
+    "indices": [
+      "J'ai vécu au 18e siècle.",
+      "J'ai créé un système encore utilisé aujourd'hui pour nommer les espèces.",
+      "Mon système utilise deux mots latins : le genre puis l'espèce.",
+      "Je suis un naturaliste suédois."
+    ],
+    "reponse": "Carl von Linné",
+    "explication": "Carl von Linné a inventé la nomenclature binomiale, toujours utilisée en biologie pour nommer les espèces (par exemple Homo sapiens).",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-nature-005",
+    "domain": "nature",
+    "format": "difference",
+    "question": "Quelle est la différence entre pollinisation et fécondation ?",
+    "choix": [
+      "Ce sont deux mots pour désigner exactement la même étape",
+      "La pollinisation transporte le pollen, la fécondation fusionne ensuite les cellules reproductrices",
+      "La fécondation précède toujours la pollinisation",
+      "La pollinisation ne concerne que les gymnospermes"
+    ],
+    "bonneReponse": 1,
+    "explication": "La pollinisation est le transport du pollen jusqu'au pistil ; la fécondation, qui suit, est la fusion effective des cellules reproductrices mâle et femelle.",
+    "source": "Consensus scientifique établi"
+  },
+  {
+    "id": "q-nature-006",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Le bambou appartient à quelle famille de plantes ?",
+    "choix": [
+      "Les arbres feuillus",
+      "Les graminées (herbes)",
+      "Les fougères",
+      "Les palmiers"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le bambou est une herbe géante, cousine du blé et du maïs.",
+    "source": "D'après Wikipédia — Bambou"
+  },
+  {
+    "id": "q-nature-007",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Au sens botanique, la tomate est un fruit.",
+    "reponse": true,
+    "explication": "Elle provient de la fleur et contient les graines : c'est même une baie.",
+    "source": "D'après Wikipédia — Tomate"
+  },
+  {
+    "id": "q-nature-008",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel est le plus grand être vivant en volume ?",
+    "choix": [
+      "La baleine bleue",
+      "Le séquoia géant",
+      "Le baobab",
+      "L'éléphant d'Afrique"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le General Sherman, un séquoia géant de Californie, pèse environ 1 900 tonnes.",
+    "source": "D'après Wikipédia — General Sherman (arbre)"
+  },
+  {
+    "id": "q-nature-009",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Qui a découvert les lois de l'hérédité en croisant des petits pois ?",
+    "choix": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Carl von Linné",
+      "Louis Pasteur"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le moine Gregor Mendel, dans les années 1860.",
+    "source": "D'après Wikipédia — Gregor Mendel"
+  },
+  {
+    "id": "q-nature-010",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Les coraux sont des plantes.",
+    "reponse": false,
+    "explication": "Ce sont des animaux (polypes) qui vivent en symbiose avec des algues microscopiques.",
+    "source": "D'après Wikipédia — Corail"
+  },
+  {
+    "id": "q-nature-011",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel conifère perd ses aiguilles en hiver ?",
+    "choix": [
+      "Le sapin",
+      "Le pin sylvestre",
+      "Le mélèze",
+      "L'épicéa"
+    ],
+    "bonneReponse": 2,
+    "explication": "Le mélèze est l'un des rares conifères à feuillage caduc.",
+    "source": "D'après Wikipédia — Mélèze"
+  },
+  {
+    "id": "q-nature-012",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle plante produit la plus grande fleur individuelle du monde ?",
+    "choix": [
+      "Le tournesol",
+      "La rafflésie",
+      "Le nénuphar géant",
+      "Le magnolia"
+    ],
+    "bonneReponse": 1,
+    "explication": "Rafflesia arnoldii peut atteindre 1 m de diamètre et 10 kg.",
+    "source": "D'après Wikipédia — Rafflesia arnoldii"
+  },
+  {
+    "id": "q-nature-013",
+    "domain": "nature",
+    "format": "associer",
+    "question": "Associe chaque plante à son adaptation.",
+    "paires": [
+      {
+        "gauche": "Cactus",
+        "droite": "Épines à la place des feuilles"
+      },
+      {
+        "gauche": "Palétuvier",
+        "droite": "Racines-échasses dans la vase salée"
+      },
+      {
+        "gauche": "Dionée",
+        "droite": "Piège à mâchoires"
+      },
+      {
+        "gauche": "Séquoia géant",
+        "droite": "Écorce épaisse contre le feu"
+      }
+    ],
+    "explication": "Chaque plante est adaptée aux contraintes de son milieu.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-nature-014",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pourquoi appelle-t-on le ginkgo un « fossile vivant » ?",
+    "choix": [
+      "Il se transforme en pierre",
+      "Sa lignée existe depuis plus de 200 millions d'années presque sans changement",
+      "Il pousse sur des fossiles",
+      "Il ne vit que dans les musées"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le ginkgo est le dernier survivant d'une lignée qui côtoyait les dinosaures.",
+    "source": "D'après Wikipédia — Ginkgo biloba"
+  },
+  {
+    "id": "q-nature-015",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Qu'est-ce qu'une mycorhize ?",
+    "choix": [
+      "Une maladie des racines",
+      "Une association entre racines et champignons",
+      "Un type de feuille",
+      "Une graine ailée"
+    ],
+    "bonneReponse": 1,
+    "explication": "Environ 90 % des plantes terrestres vivent en association avec des champignons du sol.",
+    "source": "D'après Wikipédia — Mycorhize"
+  },
+  {
+    "id": "q-nature-016",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Les tourbières stockent plus de carbone que toutes les forêts du monde réunies.",
+    "reponse": true,
+    "explication": "Sur environ 3 % des terres, elles stockent environ deux fois plus de carbone que l'ensemble des forêts.",
+    "source": "D'après Wikipédia — Tourbière"
+  },
+  {
+    "id": "q-nature-017",
+    "domain": "nature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je vis surtout à Madagascar, où l'on trouve six de mes neuf espèces.",
+      "On me surnomme « l'arbre à l'envers ».",
+      "Mon fruit s'appelle le pain de singe.",
+      "Mon tronc peut stocker des milliers de litres d'eau.",
+      "Le Petit Prince craint que je n'envahisse sa planète."
+    ],
+    "reponse": "Baobab",
+    "explication": "Le baobab est un arbre emblématique d'Afrique et de Madagascar.",
+    "source": "D'après Wikipédia — Baobab"
+  },
+  {
+    "id": "q-nature-018",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel pourcentage d'énergie passe en moyenne d'un maillon de la chaîne alimentaire au suivant ?",
+    "choix": [
+      "~1 %",
+      "~10 %",
+      "~50 %",
+      "~90 %"
+    ],
+    "bonneReponse": 1,
+    "explication": "Environ 10 % : le reste est dépensé pour vivre ou perdu en chaleur.",
+    "source": "D'après Wikipédia — Réseau trophique"
+  },
+  {
+    "id": "q-nature-019",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Qu'est-ce qui provoque le blanchissement des coraux ?",
+    "choix": [
+      "Le froid",
+      "Une eau trop chaude qui leur fait expulser leurs algues",
+      "Les requins",
+      "La pollution lumineuse"
+    ],
+    "bonneReponse": 1,
+    "explication": "Une hausse de 1 à 2 °C suffit ; privés de leurs algues, les coraux finissent par mourir de faim.",
+    "source": "D'après Wikipédia — Blanchissement des coraux"
+  },
+  {
+    "id": "q-nature-020",
+    "domain": "nature",
+    "format": "difference",
+    "question": "Quelle est la différence entre un arbre caduc et un arbre persistant ?",
+    "choix": [
+      "Le caduc perd toutes ses feuilles à la mauvaise saison, le persistant garde un feuillage toute l'année",
+      "Le caduc est toujours un conifère",
+      "Le persistant ne fait pas de photosynthèse",
+      "Il n'y en a pas"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le chêne est caduc ; le pin et le houx sont persistants.",
+    "source": "D'après Wikipédia — Feuillage caduc"
+  },
+  {
+    "id": "q-nature-021",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "La fraise est botaniquement un « faux fruit ».",
+    "reponse": true,
+    "explication": "Les vrais fruits sont les petits grains à sa surface (akènes) ; la partie rouge est le réceptacle de la fleur gonflé.",
+    "source": "D'après Wikipédia — Fraise (fruit)"
+  },
+  {
+    "id": "q-nature-022",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle exploratrice fut la première femme à faire le tour du monde, déguisée en homme ?",
+    "choix": [
+      "Jeanne Baret",
+      "Alexandra David-Néel",
+      "Isabelle Eberhardt",
+      "Marie Curie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jeanne Baret a embarqué en 1766 avec Bougainville sous le nom de Jean Baret.",
+    "source": "D'après Wikipédia — Jeanne Barret"
+  },
+  {
+    "id": "q-nature-023",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle convention internationale protège les zones humides ?",
+    "choix": [
+      "La convention de Ramsar",
+      "Le protocole de Kyoto",
+      "La CITES",
+      "La convention de Genève"
+    ],
+    "bonneReponse": 0,
+    "explication": "Signée à Ramsar (Iran) en 1971. La CITES régule le commerce des espèces menacées.",
+    "source": "D'après Wikipédia — Convention de Ramsar"
+  },
+  {
+    "id": "q-nature-024",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Qui a inventé la nomenclature en deux noms latins, comme Homo sapiens ?",
+    "choix": [
+      "Buffon",
+      "Linné",
+      "Lamarck",
+      "Cuvier"
+    ],
+    "bonneReponse": 1,
+    "explication": "Carl von Linné, au XVIIIe siècle.",
+    "source": "D'après Wikipédia — Nomenclature binominale"
+  },
+  {
+    "id": "q-nature-025",
+    "domain": "nature",
+    "format": "associer",
+    "question": "Associe chaque biome à une caractéristique.",
+    "paires": [
+      {
+        "gauche": "Toundra",
+        "droite": "Pergélisol"
+      },
+      {
+        "gauche": "Savane",
+        "droite": "Herbes et arbres épars"
+      },
+      {
+        "gauche": "Forêt tropicale",
+        "droite": "Canopée"
+      },
+      {
+        "gauche": "Mangrove",
+        "droite": "Eau salée et marées"
+      }
+    ],
+    "explication": "Quatre grands milieux naturels et leur signature.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-nature-026",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pourquoi les feuilles jaunissent-elles en automne ?",
+    "choix": [
+      "Elles fabriquent du jaune pour attirer les oiseaux",
+      "La chlorophylle se dégrade et révèle des pigments déjà présents",
+      "Le froid les colore",
+      "Elles absorbent la couleur du soleil couchant"
+    ],
+    "bonneReponse": 1,
+    "explication": "Les caroténoïdes jaunes-orangés étaient masqués par le vert de la chlorophylle.",
+    "source": "D'après Wikipédia — Couleurs d'automne"
+  },
+  {
+    "id": "q-nature-027",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Les cactus poussent naturellement sur tous les continents.",
+    "reponse": false,
+    "explication": "Ils sont presque tous originaires des Amériques. Les plantes semblables en Afrique sont surtout des euphorbes.",
+    "source": "D'après Wikipédia — Cactaceae"
+  },
+  {
+    "id": "q-nature-028",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel arbre planté en 1734 est encore vivant au Jardin des Plantes de Paris ?",
+    "choix": [
+      "Un chêne",
+      "Un cèdre du Liban",
+      "Un platane",
+      "Un séquoia"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le cèdre de Bernard de Jussieu, rapporté d'Angleterre selon la légende dans son chapeau.",
+    "source": "D'après Wikipédia — Jardin des Plantes (Paris)"
+  },
+  {
+    "id": "q-nature-029",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle est la croissance record observée chez certains bambous ?",
+    "choix": [
+      "~1 cm par jour",
+      "~10 cm par jour",
+      "~90 cm par jour",
+      "~5 m par jour"
+    ],
+    "bonneReponse": 2,
+    "explication": "Environ 91 cm en 24 heures pour certaines espèces : un record pour une plante.",
+    "source": "D'après Wikipédia — Bambou"
+  },
+  {
+    "id": "q-nature-030",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Combien d'extinctions de masse la Terre a-t-elle connues avant l'époque actuelle ?",
+    "choix": [
+      "Une",
+      "Trois",
+      "Cinq",
+      "Dix"
+    ],
+    "bonneReponse": 2,
+    "explication": "Cinq extinctions majeures ; la dernière, il y a 66 millions d'années, a éliminé les dinosaures non aviens.",
+    "source": "D'après Wikipédia — Extinction massive"
+  }
+]

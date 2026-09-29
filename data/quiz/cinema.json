@@ -1,0 +1,442 @@
+[
+  {
+    "id": "q-cinema-001",
+    "domain": "cinema",
+    "format": "frise",
+    "question": "Remets ces sorties de films dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Blanche-Neige et les Sept Nains",
+        "annee": "1937"
+      },
+      {
+        "label": "Citizen Kane",
+        "annee": "1941"
+      },
+      {
+        "label": "Les Sept Samouraïs",
+        "annee": "1954"
+      },
+      {
+        "label": "Nausicaä de la vallée du vent",
+        "annee": "1984"
+      }
+    ],
+    "explication": "Blanche-Neige (1937), Citizen Kane (1941), Les Sept Samouraïs (1954) et Nausicaä (1984) jalonnent près d'un demi-siècle de cinéma.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-cinema-002",
+    "domain": "cinema",
+    "format": "difference",
+    "question": "Quelle est la différence entre un plan-séquence et un montage classique ?",
+    "choix": [
+      "Le plan-séquence est en noir et blanc, le montage est en couleur",
+      "Le plan-séquence est filmé sans coupe, le montage assemble plusieurs plans",
+      "Le plan-séquence utilise plusieurs caméras, le montage une seule",
+      "Il n'y a aucune différence, ce sont des synonymes"
+    ],
+    "bonneReponse": 1,
+    "explication": "Un plan-séquence est une scène filmée en une seule prise continue, sans coupe, contrairement au montage qui assemble plusieurs plans distincts.",
+    "source": "Définition technique standard"
+  },
+  {
+    "id": "q-cinema-003",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Le studio Ghibli a été fondé avant la sortie de Nausicaä de la vallée du vent.",
+    "reponse": false,
+    "explication": "C'est l'inverse : Nausicaä sort en 1984, et le succès du film permet la fondation officielle du studio Ghibli en 1985.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-cinema-004",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Le néoréalisme italien utilisait souvent des acteurs non professionnels.",
+    "reponse": true,
+    "explication": "Faute de moyens après la guerre, les réalisateurs néoréalistes italiens tournaient souvent en décors réels avec des acteurs amateurs.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-cinema-005",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Où a eu lieu la première projection publique payante du cinématographe Lumière ?",
+    "choix": [
+      "À Lyon",
+      "Au Grand Café à Paris",
+      "À La Ciotat",
+      "À Cannes"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le 28 décembre 1895, au Salon indien du Grand Café, boulevard des Capucines.",
+    "source": "D'après Wikipédia — Auguste et Louis Lumière"
+  },
+  {
+    "id": "q-cinema-006",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Qui a réalisé Le Voyage dans la Lune en 1902 ?",
+    "choix": [
+      "Louis Lumière",
+      "Georges Méliès",
+      "Charlie Chaplin",
+      "Fritz Lang"
+    ],
+    "bonneReponse": 1,
+    "explication": "Méliès, illusionniste, invente les premiers effets spéciaux.",
+    "source": "D'après Wikipédia — Le Voyage dans la Lune"
+  },
+  {
+    "id": "q-cinema-007",
+    "domain": "cinema",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Londres en 1889.",
+      "J'ai cofondé United Artists.",
+      "J'ai parodié Hitler dans un film de 1940.",
+      "Mon personnage porte un chapeau melon et une canne."
+    ],
+    "reponse": "Charlie Chaplin",
+    "explication": "Charlot est l'un des personnages les plus célèbres du cinéma.",
+    "source": "D'après Wikipédia — Charlie Chaplin"
+  },
+  {
+    "id": "q-cinema-008",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Combien d'Oscars Titanic a-t-il remportés ?",
+    "choix": [
+      "5",
+      "8",
+      "11",
+      "14"
+    ],
+    "bonneReponse": 2,
+    "explication": "11 Oscars, record partagé avec Ben-Hur et Le Seigneur des anneaux : le Retour du roi.",
+    "source": "D'après Wikipédia — Titanic (film, 1997)"
+  },
+  {
+    "id": "q-cinema-009",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "George Lucas a renoncé à une partie de son salaire pour Star Wars en échange des droits sur les produits dérivés.",
+    "reponse": true,
+    "explication": "Une décision qui a fait sa fortune.",
+    "source": "D'après Wikipédia — George Lucas"
+  },
+  {
+    "id": "q-cinema-010",
+    "domain": "cinema",
+    "format": "associer",
+    "question": "Associe chaque film à son réalisateur.",
+    "paires": [
+      {
+        "gauche": "Le Parrain",
+        "droite": "Francis Ford Coppola"
+      },
+      {
+        "gauche": "2001 : l'Odyssée de l'espace",
+        "droite": "Stanley Kubrick"
+      },
+      {
+        "gauche": "Le Voyage de Chihiro",
+        "droite": "Hayao Miyazaki"
+      },
+      {
+        "gauche": "Psychose",
+        "droite": "Alfred Hitchcock"
+      },
+      {
+        "gauche": "Les Dents de la mer",
+        "droite": "Steven Spielberg"
+      }
+    ],
+    "explication": "Cinq classiques, cinq maîtres.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-cinema-011",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Qu'est-ce qu'un « plan américain » ?",
+    "choix": [
+      "Un plan tourné aux États-Unis",
+      "Un personnage cadré à mi-cuisses",
+      "Un plan très large",
+      "Un plan en couleur"
+    ],
+    "bonneReponse": 1,
+    "explication": "Né dans les westerns pour montrer le revolver à la ceinture.",
+    "source": "D'après Wikipédia — Plan (cinéma)"
+  },
+  {
+    "id": "q-cinema-012",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel acteur a été le premier acteur noir à recevoir le César du meilleur acteur ?",
+    "choix": [
+      "Jamel Debbouze",
+      "Omar Sy",
+      "Lambert Wilson",
+      "Roschdy Zem"
+    ],
+    "bonneReponse": 1,
+    "explication": "Omar Sy, en 2012, pour Intouchables.",
+    "source": "D'après Wikipédia — Omar Sy"
+  },
+  {
+    "id": "q-cinema-013",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "La Palme d'or est la récompense suprême de la Mostra de Venise.",
+    "reponse": false,
+    "explication": "C'est celle du Festival de Cannes. Venise décerne le Lion d'or.",
+    "source": "D'après Wikipédia — Palme d'or"
+  },
+  {
+    "id": "q-cinema-014",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel mot prononce Charles Foster Kane en mourant dans Citizen Kane ?",
+    "choix": [
+      "Rosebud",
+      "Xanadu",
+      "Mother",
+      "Money"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'enquête sur le sens de « Rosebud » structure tout le film.",
+    "source": "D'après Wikipédia — Citizen Kane"
+  },
+  {
+    "id": "q-cinema-015",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel est le premier long métrage entièrement réalisé en images de synthèse ?",
+    "choix": [
+      "Shrek",
+      "Toy Story",
+      "Le Monde de Nemo",
+      "Tron"
+    ],
+    "bonneReponse": 1,
+    "explication": "Toy Story, de Pixar, en 1995.",
+    "source": "D'après Wikipédia — Toy Story"
+  },
+  {
+    "id": "q-cinema-016",
+    "domain": "cinema",
+    "format": "frise",
+    "question": "Remets ces films dans l'ordre de sortie.",
+    "evenements": [
+      {
+        "label": "Le Voyage dans la Lune",
+        "annee": "1902"
+      },
+      {
+        "label": "Blanche-Neige et les Sept Nains",
+        "annee": "1937"
+      },
+      {
+        "label": "Le Parrain",
+        "annee": "1972"
+      },
+      {
+        "label": "Star Wars (épisode IV)",
+        "annee": "1977"
+      },
+      {
+        "label": "Titanic",
+        "annee": "1997"
+      }
+    ],
+    "explication": "Un siècle de cinéma en cinq films.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-cinema-017",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel acteur jouait Gollum grâce à la capture de mouvement ?",
+    "choix": [
+      "Elijah Wood",
+      "Andy Serkis",
+      "Ian McKellen",
+      "Viggo Mortensen"
+    ],
+    "bonneReponse": 1,
+    "explication": "Andy Serkis est devenu le spécialiste de la performance capture.",
+    "source": "D'après Wikipédia — Andy Serkis"
+  },
+  {
+    "id": "q-cinema-018",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Dans Jurassic Park, les dinosaures sont presque toujours numériques.",
+    "reponse": false,
+    "explication": "Les images de synthèse n'apparaissent que quelques minutes ; la plupart des plans utilisent des animatroniques.",
+    "source": "D'après Wikipédia — Jurassic Park (film)"
+  },
+  {
+    "id": "q-cinema-019",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel réalisateur japonais a inspiré Star Wars avec La Forteresse cachée ?",
+    "choix": [
+      "Hayao Miyazaki",
+      "Akira Kurosawa",
+      "Yasujirō Ozu",
+      "Takeshi Kitano"
+    ],
+    "bonneReponse": 1,
+    "explication": "George Lucas a reconnu l'influence de La Forteresse cachée (1958).",
+    "source": "D'après Wikipédia — La Forteresse cachée"
+  },
+  {
+    "id": "q-cinema-020",
+    "domain": "cinema",
+    "format": "difference",
+    "question": "Quelle est la différence entre un travelling et un panoramique ?",
+    "choix": [
+      "Dans un travelling la caméra se déplace, dans un panoramique elle pivote sur place",
+      "Le panoramique est toujours aérien",
+      "Le travelling est un zoom",
+      "Aucune"
+    ],
+    "bonneReponse": 0,
+    "explication": "Travelling = déplacement, panoramique = rotation.",
+    "source": "D'après Wikipédia — Travelling"
+  },
+  {
+    "id": "q-cinema-021",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle femme a reçu la première la Palme d'or ?",
+    "choix": [
+      "Agnès Varda",
+      "Jane Campion",
+      "Julia Ducournau",
+      "Sofia Coppola"
+    ],
+    "bonneReponse": 1,
+    "explication": "Jane Campion en 1993 pour La Leçon de piano, ex æquo avec Adieu ma concubine.",
+    "source": "D'après Wikipédia — Jane Campion"
+  },
+  {
+    "id": "q-cinema-022",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel « sang » a été utilisé dans la scène de la douche de Psychose ?",
+    "choix": [
+      "Du ketchup",
+      "Du sirop de chocolat",
+      "De la peinture rouge",
+      "Du jus de betterave"
+    ],
+    "bonneReponse": 1,
+    "explication": "En noir et blanc, le sirop de chocolat rendait mieux à l'écran.",
+    "source": "D'après Wikipédia — Psychose (film, 1960)"
+  },
+  {
+    "id": "q-cinema-023",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Chaplin a été empêché de rentrer aux États-Unis en 1952.",
+    "reponse": true,
+    "explication": "Accusé de sympathies communistes, il s'est installé en Suisse.",
+    "source": "D'après Wikipédia — Charlie Chaplin"
+  },
+  {
+    "id": "q-cinema-024",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle est la première Palme d'or à avoir ensuite remporté l'Oscar du meilleur film depuis Marty (1955) ?",
+    "choix": [
+      "Pulp Fiction",
+      "Parasite",
+      "Apocalypse Now",
+      "Titane"
+    ],
+    "bonneReponse": 1,
+    "explication": "Parasite de Bong Joon-ho (2019) a réussi le doublé Palme d'or - Oscar du meilleur film.",
+    "source": "D'après Wikipédia — Parasite (film, 2019)"
+  },
+  {
+    "id": "q-cinema-025",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Que désigne l'effet Koulechov ?",
+    "choix": [
+      "Un effet spécial de fumée",
+      "Le sens créé par le montage entre deux images",
+      "Un mouvement de caméra circulaire",
+      "Le son synchronisé"
+    ],
+    "bonneReponse": 1,
+    "explication": "Un même visage impassible semble exprimer faim, tristesse ou désir selon l'image qui suit.",
+    "source": "D'après Wikipédia — Effet Koulechov"
+  },
+  {
+    "id": "q-cinema-026",
+    "domain": "cinema",
+    "format": "associer",
+    "question": "Associe chaque festival à sa récompense suprême.",
+    "paires": [
+      {
+        "gauche": "Cannes",
+        "droite": "Palme d'or"
+      },
+      {
+        "gauche": "Venise",
+        "droite": "Lion d'or"
+      },
+      {
+        "gauche": "Berlin",
+        "droite": "Ours d'or"
+      }
+    ],
+    "explication": "Les trois grands festivals européens.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-cinema-027",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "En quelle année sort Le Chanteur de jazz, premier long métrage parlant ?",
+    "choix": [
+      "1915",
+      "1927",
+      "1936",
+      "1945"
+    ],
+    "bonneReponse": 1,
+    "explication": "Il marque la fin du muet en quelques années.",
+    "source": "D'après Wikipédia — Le Chanteur de jazz"
+  },
+  {
+    "id": "q-cinema-028",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Qui a joué Michael Corleone dans Le Parrain ?",
+    "choix": [
+      "Robert De Niro",
+      "Al Pacino",
+      "Marlon Brando",
+      "James Caan"
+    ],
+    "bonneReponse": 1,
+    "explication": "Al Pacino, alors peu connu, imposé par Coppola. Brando jouait son père Vito.",
+    "source": "D'après Wikipédia — Michael Corleone"
+  },
+  {
+    "id": "q-cinema-029",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Intouchables est inspiré d'une histoire vraie.",
+    "reponse": true,
+    "explication": "Celle de Philippe Pozzo di Borgo et de son auxiliaire de vie Abdel Sellou.",
+    "source": "D'après Wikipédia — Intouchables"
+  }
+]

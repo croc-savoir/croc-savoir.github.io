@@ -1,0 +1,1241 @@
+[
+  {
+    "id": "geo-001",
+    "domain": "geo",
+    "subtheme": "Reliefs & phénomènes",
+    "type": "classique",
+    "title": "Les volcans",
+    "summary": "Un volcan se forme là où du magma provenant des profondeurs de la Terre parvient à remonter jusqu'à la surface.\nOn distingue les volcans effusifs, aux éruptions plutôt calmes, des volcans explosifs, beaucoup plus dangereux.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Pourquoi ça explose (ou pas)",
+          "texte": "La viscosité du magma détermine le type d'éruption : un magma fluide (basaltique) laisse échapper les gaz en douceur, tandis qu'un magma visqueux emprisonne les gaz jusqu'à une explosion violente."
+        },
+        {
+          "titre": "Où trouve-t-on des volcans ?",
+          "texte": "La majorité des volcans actifs se situent sur les bords des plaques tectoniques, notamment le long de la « ceinture de feu du Pacifique », qui concentre une grande partie de l'activité volcanique et sismique mondiale."
+        },
+        {
+          "titre": "Utilité et dangers",
+          "texte": "Les sols volcaniques, très fertiles, attirent l'agriculture depuis toujours malgré les risques ; certaines éruptions majeures ont eu des conséquences climatiques mondiales, comme celle du Tambora en 1815."
+        },
+        {
+          "titre": "Comment naît un volcan",
+          "texte": "Sous la croûte terrestre, des roches fondent partiellement et forment du magma, moins dense que les roches environnantes. Il remonte et s'accumule dans une chambre magmatique. Quand la pression des gaz dissous devient trop forte, le magma est expulsé : c'est l'éruption. La plupart des volcans se situent aux limites des plaques tectoniques, mais certains, comme Hawaï ou La Réunion, sont au-dessus de points chauds."
+        },
+        {
+          "titre": "Deux grands types d'éruptions",
+          "texte": "Les éruptions effusives émettent une lave fluide et pauvre en silice, qui coule sur des kilomètres (Hawaï, piton de la Fournaise). Les éruptions explosives libèrent un magma visqueux et riche en gaz : panaches de cendres, nuées ardentes (Vésuve en 79, Pinatubo en 1991, mont Saint Helens en 1980)."
+        }
+      ],
+      "wikipedia": "Volcan",
+      "chiffres": [
+        {
+          "valeur": "~1 350",
+          "label": "volcans potentiellement actifs sur Terre"
+        },
+        {
+          "valeur": "~1 200 °C",
+          "label": "température d'une lave basaltique"
+        },
+        {
+          "valeur": "75 %",
+          "label": "des volcans actifs sont autour du Pacifique (ceinture de feu)"
+        }
+      ],
+      "anecdotes": [
+        "L'éruption du Tambora en 1815 a refroidi le climat mondial : 1816 fut « l'année sans été » en Europe.",
+        "Le plus grand volcan connu du système solaire, Olympus Mons, se trouve sur Mars."
+      ]
+    },
+    "source": "D'après Wikipédia — Volcan"
+  },
+  {
+    "id": "geo-002",
+    "domain": "geo",
+    "subtheme": "Reliefs & phénomènes",
+    "type": "vocabulaire",
+    "title": "Isthme",
+    "summary": "Un isthme est une bande de terre étroite reliant deux masses continentales, bordée d'eau de chaque côté.\nIl est souvent stratégique pour le commerce, au point qu'on y creuse parfois un canal.",
+    "details": {
+      "definition": "Étroite langue de terre reliant deux terres plus vastes, et séparant deux étendues d'eau.",
+      "exemple": "L'isthme de Panama relie l'Amérique du Nord à l'Amérique du Sud, entre l'océan Pacifique et la mer des Caraïbes.",
+      "confusions": [
+        {
+          "mot": "Péninsule",
+          "explication": "Une péninsule est une avancée de terre entourée d'eau sur presque tout son pourtour, alors que l'isthme relie deux terres entre deux mers."
+        },
+        {
+          "mot": "Détroit",
+          "explication": "Le détroit est l'équivalent maritime de l'isthme : un bras de mer étroit reliant deux mers, entre deux terres."
+        }
+      ],
+      "wikipedia": "Isthme",
+      "sections": [
+        {
+          "titre": "Isthmes célèbres",
+          "texte": "L'isthme de Panama relie l'Amérique du Nord et l'Amérique du Sud ; son canal (1914) évite le contournement du cap Horn. L'isthme de Suez relie l'Afrique et l'Asie ; son canal (1869) relie la Méditerranée à la mer Rouge. L'isthme de Corinthe relie le Péloponnèse au reste de la Grèce."
+        }
+      ],
+      "anecdotes": [
+        "La fermeture de l'isthme de Panama, il y a environ 3 millions d'années, a permis un grand échange d'animaux entre les deux Amériques."
+      ]
+    },
+    "source": "D'après Wikipédia — Isthme"
+  },
+  {
+    "id": "geo-003",
+    "domain": "geo",
+    "subtheme": "Reliefs & phénomènes",
+    "type": "classique",
+    "title": "Les plaques tectoniques",
+    "summary": "La surface de la Terre est découpée en plaques rigides qui se déplacent très lentement les unes par rapport aux autres.\nLeurs mouvements expliquent la formation des montagnes, des volcans et l'essentiel des tremblements de terre.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Trois types de frontières",
+          "texte": "Les plaques peuvent s'écarter (dorsales océaniques), se rapprocher en s'enfonçant l'une sous l'autre (subduction, qui forme des montagnes et volcans) ou glisser l'une contre l'autre (failles transformantes, source de séismes)."
+        },
+        {
+          "titre": "Une théorie récente",
+          "texte": "L'idée que les continents dérivent a d'abord été proposée par Alfred Wegener au début du XXe siècle, mais ce n'est que dans les années 1960 que la tectonique des plaques s'impose scientifiquement."
+        },
+        {
+          "titre": "Conséquences visibles",
+          "texte": "L'Himalaya continue de grandir chaque année sous l'effet de la collision entre les plaques indienne et eurasienne."
+        },
+        {
+          "titre": "Une théorie récente",
+          "texte": "En 1912, Alfred Wegener propose la dérive des continents en remarquant que les côtes de l'Afrique et de l'Amérique du Sud s'emboîtent et que l'on trouve les mêmes fossiles des deux côtés de l'Atlantique. Il est moqué car il ne peut expliquer le mécanisme. La découverte des dorsales océaniques dans les années 1950-1960 lui donne raison."
+        },
+        {
+          "titre": "Trois types de frontières",
+          "texte": "Divergentes : les plaques s'écartent (dorsale médio-atlantique, Islande). Convergentes : une plaque plonge sous une autre (subduction, Andes, Japon) ou deux continents se heurtent (Himalaya). Transformantes : les plaques coulissent (faille de San Andreas en Californie)."
+        }
+      ],
+      "wikipedia": "Tectonique des plaques",
+      "chiffres": [
+        {
+          "valeur": "2 à 10 cm/an",
+          "label": "vitesse de déplacement des plaques"
+        },
+        {
+          "valeur": "~250 millions d'années",
+          "label": "époque de la Pangée, le supercontinent"
+        },
+        {
+          "valeur": "7",
+          "label": "grandes plaques principales"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Tectonique des plaques"
+  },
+  {
+    "id": "geo-004",
+    "domain": "geo",
+    "subtheme": "Climats",
+    "type": "classique",
+    "title": "Le climat méditerranéen",
+    "summary": "Le climat méditerranéen se caractérise par des étés chauds et secs et des hivers doux et pluvieux.\nOn le retrouve autour de la Méditerranée, mais aussi en Californie, au Chili central ou dans le sud-ouest de l'Australie.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Caractéristiques",
+          "texte": "La sécheresse estivale, combinée à des précipitations concentrées en automne et en hiver, façonne une végétation adaptée : oliviers, pins, garrigue et maquis résistent bien à ces conditions."
+        },
+        {
+          "titre": "Un climat qui se répète ailleurs",
+          "texte": "On observe ce même schéma climatique sur cinq zones du globe, situées entre 30 et 45 degrés de latitude, sur les côtes occidentales des continents."
+        },
+        {
+          "titre": "Enjeux actuels",
+          "texte": "Le changement climatique accentue les sécheresses estivales et les risques d'incendies dans ces régions, déjà sensibles au stress hydrique."
+        },
+        {
+          "titre": "Où le trouve-t-on ?",
+          "texte": "Autour de la Méditerranée, mais aussi en Californie, au centre du Chili, dans la région du Cap en Afrique du Sud et dans le sud-ouest de l'Australie : toujours sur les façades ouest des continents, entre 30° et 45° de latitude."
+        },
+        {
+          "titre": "La végétation",
+          "texte": "Les plantes sont adaptées à la sécheresse estivale : feuilles petites, dures ou cireuses (chêne vert, olivier), plantes aromatiques (lavande, thym, romarin). Maquis et garrigue sont typiques, mais très sensibles aux incendies."
+        }
+      ],
+      "wikipedia": "Climat méditerranéen",
+      "chiffres": [
+        {
+          "valeur": "< 5 %",
+          "label": "des terres émergées"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Climat méditerranéen"
+  },
+  {
+    "id": "geo-005",
+    "domain": "geo",
+    "subtheme": "Climats",
+    "type": "vocabulaire",
+    "title": "Mousson",
+    "summary": "La mousson est un vent saisonnier qui change de direction selon les saisons, apportant une saison sèche et une saison très pluvieuse.\nElle rythme la vie agricole de vastes régions d'Asie du Sud et du Sud-Est.",
+    "details": {
+      "definition": "Vent saisonnier inversant sa direction entre l'été et l'hiver, provoquant en Asie du Sud une saison humide marquée par des pluies abondantes.",
+      "exemple": "La mousson d'été apporte l'essentiel des précipitations annuelles en Inde, essentielles à l'agriculture, mais peut aussi causer de graves inondations.",
+      "confusions": [
+        {
+          "mot": "Cyclone",
+          "explication": "Le cyclone est une tempête tournante intense et ponctuelle, alors que la mousson est un phénomène saisonnier régulier s'étalant sur plusieurs mois."
+        }
+      ],
+      "wikipedia": "Mousson",
+      "sections": [
+        {
+          "titre": "Le mécanisme",
+          "texte": "En été, le continent asiatique chauffe plus vite que l'océan : l'air chaud monte, une dépression se forme et aspire l'air humide venu de l'océan Indien, qui se déverse en pluies. En hiver, c'est l'inverse : le vent souffle du continent froid vers la mer et apporte un temps sec."
+        },
+        {
+          "titre": "Un enjeu vital",
+          "texte": "Plus d'un milliard de personnes dépendent de la mousson pour l'agriculture, notamment le riz. Un retard ou un excès provoque sécheresses ou inondations meurtrières."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "~11 800 mm",
+          "label": "de pluie par an à Mawsynram (Inde), parmi les lieux les plus arrosés"
+        }
+      ],
+      "anecdotes": [
+        "Le mot mousson vient de l'arabe mawsim, « saison »."
+      ]
+    },
+    "source": "D'après Wikipédia — Mousson"
+  },
+  {
+    "id": "geo-006",
+    "domain": "geo",
+    "subtheme": "Pays & capitales",
+    "type": "classique",
+    "title": "Le Japon",
+    "summary": "Archipel montagneux d'Asie de l'Est, le Japon compte quatre îles principales et plus de mille îles plus petites.\nSa capitale, Tokyo, forme avec sa périphérie l'une des plus vastes agglomérations urbaines du monde.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un territoire contraint",
+          "texte": "Très montagneux, le Japon concentre l'essentiel de sa population sur d'étroites plaines côtières, d'où une densité urbaine très élevée dans les grandes villes."
+        },
+        {
+          "titre": "Un pays sismique",
+          "texte": "Situé sur la ceinture de feu du Pacifique, l'archipel est régulièrement soumis à des séismes et à des risques de tsunamis, ce qui a conduit à des normes de construction antisismique parmi les plus avancées au monde."
+        },
+        {
+          "titre": "Capitale",
+          "texte": "Tokyo est la capitale politique et économique du pays depuis 1868, après avoir succédé à Kyoto qui fut la capitale impériale pendant plus d'un millénaire."
+        },
+        {
+          "titre": "Un archipel",
+          "texte": "Le Japon compte plus de 14 000 îles, dont quatre principales : Hokkaidō, Honshū, Shikoku et Kyūshū. Environ 75 % du territoire est montagneux, ce qui concentre la population sur les plaines côtières. La mégapole de Tokyo est la plus grande agglomération du monde."
+        },
+        {
+          "titre": "Une terre à risques",
+          "texte": "Situé à la jonction de quatre plaques, le Japon subit séismes, tsunamis et éruptions. Le séisme de 2011 et le tsunami qui a suivi ont provoqué l'accident nucléaire de Fukushima. Le mont Fuji (3 776 m) est un volcan actif, sa dernière éruption date de 1707."
+        }
+      ],
+      "wikipedia": "Japon",
+      "chiffres": [
+        {
+          "valeur": "~124 millions",
+          "label": "d'habitants"
+        },
+        {
+          "valeur": "~37 millions",
+          "label": "d'habitants dans l'agglomération de Tokyo"
+        },
+        {
+          "valeur": "~29 %",
+          "label": "de la population a 65 ans ou plus"
+        }
+      ],
+      "anecdotes": [
+        "Le Japon s'appelle Nihon ou Nippon, « l'origine du soleil »."
+      ]
+    },
+    "source": "D'après Wikipédia — Japon"
+  },
+  {
+    "id": "geo-007",
+    "domain": "geo",
+    "subtheme": "Pays & capitales",
+    "type": "classique",
+    "title": "Le Brésil",
+    "summary": "Plus grand pays d'Amérique du Sud, le Brésil abrite l'essentiel de la forêt amazonienne.\nSa capitale, Brasilia, a été construite de toutes pièces à partir de 1956 pour favoriser le développement de l'intérieur du pays.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un géant naturel",
+          "texte": "Le Brésil couvre près de la moitié de la superficie de l'Amérique du Sud et abrite la plus grande partie de la forêt amazonienne, essentielle à la régulation du climat mondial."
+        },
+        {
+          "titre": "Une capitale planifiée",
+          "texte": "Contrairement à São Paulo ou Rio de Janeiro, bien plus peuplées, Brasilia a été conçue spécifiquement pour devenir capitale, avec une architecture moderniste très caractéristique."
+        },
+        {
+          "titre": "Une économie diversifiée",
+          "texte": "Agriculture (café, soja), industrie et ressources minières font du Brésil l'une des principales économies émergentes du monde."
+        },
+        {
+          "titre": "Un géant",
+          "texte": "Cinquième pays du monde par la superficie, le Brésil occupe près de la moitié de l'Amérique du Sud et partage une frontière avec tous les pays du continent sauf le Chili et l'Équateur. Sa capitale est Brasília, ville nouvelle inaugurée en 1960, et non Rio ou São Paulo."
+        },
+        {
+          "titre": "L'Amazonie",
+          "texte": "Environ 60 % de la forêt amazonienne se trouve au Brésil. Elle abrite une biodiversité exceptionnelle mais subit une déforestation liée à l'élevage, au soja et aux mines."
+        }
+      ],
+      "wikipedia": "Brésil",
+      "chiffres": [
+        {
+          "valeur": "8,5 millions km²",
+          "label": "superficie"
+        },
+        {
+          "valeur": "~203 millions",
+          "label": "d'habitants"
+        },
+        {
+          "valeur": "5",
+          "label": "Coupes du monde de football gagnées, un record"
+        }
+      ],
+      "anecdotes": [
+        "On y parle portugais, héritage de la colonisation portugaise à partir de 1500."
+      ]
+    },
+    "source": "D'après Wikipédia — Brésil"
+  },
+  {
+    "id": "geo-008",
+    "domain": "geo",
+    "subtheme": "Pays & capitales",
+    "type": "vocabulaire",
+    "title": "Enclave",
+    "summary": "Une enclave est un territoire entièrement entouré par un autre pays.\nCette situation particulière crée souvent des relations diplomatiques et économiques très spécifiques avec le pays qui l'entoure.",
+    "details": {
+      "definition": "Territoire ou État totalement enclos à l'intérieur des frontières d'un autre pays.",
+      "exemple": "Le Lesotho est une enclave complètement entourée par l'Afrique du Sud ; Saint-Marin est enclavé en Italie.",
+      "confusions": [
+        {
+          "mot": "Pays enclavé",
+          "explication": "Un pays enclavé n'a simplement pas d'accès à la mer (comme la Suisse), sans forcément être entouré par un seul et même pays."
+        }
+      ],
+      "wikipedia": "Enclave",
+      "sections": [
+        {
+          "titre": "Exemples",
+          "texte": "Le Vatican et Saint-Marin sont des enclaves dans l'Italie ; le Lesotho est entièrement entouré par l'Afrique du Sud. Kaliningrad est une exclave russe : un territoire russe séparé du reste du pays, entre la Pologne et la Lituanie."
+        }
+      ],
+      "anecdotes": [
+        "Baarle, à la frontière belgo-néerlandaise, compte des dizaines d'enclaves imbriquées : certaines maisons sont traversées par la frontière."
+      ]
+    },
+    "source": "D'après Wikipédia — Enclave"
+  },
+  {
+    "id": "geo-009",
+    "domain": "geo",
+    "subtheme": "Explorateurs",
+    "type": "personnage",
+    "title": "Fernand de Magellan",
+    "subtitle": "Premier tour du monde par voie maritime",
+    "summary": "Navigateur portugais au service de l'Espagne, Magellan organise la première expédition qui parvient à faire le tour du monde.\nIl meurt en cours de route aux Philippines ; seul un de ses navires achève le voyage, en 1522.",
+    "details": {
+      "epoque": "Début du XVIe siècle, grandes découvertes maritimes.",
+      "pourquoiCelebre": "Il est à l'origine de la première circumnavigation du globe, ouvrant une route maritime vers l'Asie par l'ouest en contournant l'Amérique du Sud.",
+      "ideesClefs": [
+        "Découvre le passage reliant l'Atlantique au Pacifique, aujourd'hui appelé détroit de Magellan",
+        "Son expédition prouve concrètement que la Terre est ronde et que les océans sont interconnectés",
+        "Meurt en 1521 aux Philippines avant la fin du voyage"
+      ],
+      "liens": [
+        {
+          "nom": "Juan Sebastián Elcano",
+          "relation": "Navigateur qui termine le tour du monde après la mort de Magellan"
+        }
+      ],
+      "wikipedia": "Fernand de Magellan",
+      "sections": [
+        {
+          "titre": "Le voyage",
+          "texte": "Parti de Séville en 1519 avec cinq navires et environ 240 hommes pour le compte de l'Espagne, Magellan cherche un passage vers les îles aux épices par l'ouest. Il découvre le détroit qui porte son nom en 1520, traverse le Pacifique, qu'il baptise ainsi car la mer y est calme, et arrive aux Philippines, où il est tué en 1521."
+        },
+        {
+          "titre": "Le retour",
+          "texte": "Juan Sebastián Elcano ramène en 1522 un seul navire, la Victoria, avec 18 survivants. C'est la première circumnavigation, qui prouve la rotondité de la Terre et la taille immense du Pacifique."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "~240 → 18",
+          "label": "hommes au départ, survivants au retour"
+        },
+        {
+          "valeur": "3 ans",
+          "label": "durée du voyage (1519-1522)"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Fernand de Magellan"
+  },
+  {
+    "id": "geo-010",
+    "domain": "geo",
+    "subtheme": "Explorateurs",
+    "type": "personnage",
+    "title": "Marco Polo",
+    "subtitle": "Marchand et voyageur vénitien",
+    "summary": "Marchand vénitien du XIIIe siècle, Marco Polo voyage pendant des années à travers l'Asie jusqu'en Chine.\nLe récit de son périple, Le Livre des merveilles, fascine l'Europe et influencera plus tard les grands explorateurs.",
+    "details": {
+      "epoque": "XIIIe siècle.",
+      "pourquoiCelebre": "Il parcourt la route de la soie jusqu'à la cour de l'empereur mongol Kubilai Khan, en Chine, où il aurait séjourné plusieurs années avant de rentrer à Venise.",
+      "ideesClefs": [
+        "Son récit de voyage décrit des richesses et des technologies inconnues en Europe",
+        "Le Livre des merveilles inspirera notamment Christophe Colomb",
+        "L'exactitude de certains détails de son récit reste débattue par les historiens"
+      ],
+      "liens": [
+        {
+          "nom": "Kubilai Khan",
+          "relation": "Empereur mongol à la cour duquel il aurait longtemps séjourné"
+        }
+      ],
+      "wikipedia": "Marco Polo",
+      "sections": [
+        {
+          "titre": "Le voyage",
+          "texte": "Marchand vénitien, il part en 1271 avec son père et son oncle, traverse l'Asie par les routes de la soie et atteint la cour du Grand Khan Kubilai, petit-fils de Gengis Khan. Il y reste environ 17 ans, chargé de missions à travers l'empire, avant de rentrer par la mer en 1295."
+        },
+        {
+          "titre": "Le Devisement du monde",
+          "texte": "Prisonnier des Génois, il dicte ses souvenirs à Rustichello de Pise. Le livre décrit le papier-monnaie, le charbon, les grandes villes chinoises. Il a inspiré Christophe Colomb, qui en possédait un exemplaire annoté."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "~24 ans",
+          "label": "d'absence de Venise"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Marco Polo"
+  },
+  {
+    "id": "geo-011",
+    "domain": "geo",
+    "subtheme": "Océans & fleuves",
+    "type": "classique",
+    "title": "Le Nil",
+    "summary": "Long d'environ 6 650 km, le Nil est souvent considéré comme le plus long fleuve du monde.\nIl traverse plusieurs pays d'Afrique de l'Est et du Nord-Est avant de se jeter dans la Méditerranée.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une civilisation née de ses crues",
+          "texte": "Les crues régulières du Nil déposaient chaque année un limon fertile sur ses rives, permettant le développement de l'agriculture et donc de la civilisation égyptienne antique."
+        },
+        {
+          "titre": "Deux sources principales",
+          "texte": "Le Nil Blanc prend sa source dans la région des Grands Lacs, tandis que le Nil Bleu descend des hauts plateaux éthiopiens ; les deux se rejoignent à Khartoum, au Soudan."
+        },
+        {
+          "titre": "Un enjeu géopolitique",
+          "texte": "Le partage des eaux du Nil entre les pays traversés (Égypte, Soudan, Éthiopie notamment) reste une source de tensions diplomatiques, en particulier autour de grands barrages."
+        },
+        {
+          "titre": "Deux sources",
+          "texte": "Le Nil Blanc naît dans la région des Grands Lacs (lac Victoria) ; le Nil Bleu naît en Éthiopie, au lac Tana. Ils se rejoignent à Khartoum, au Soudan. Le Nil Bleu apporte l'essentiel de l'eau et des limons lors de la crue d'été."
+        },
+        {
+          "titre": "Le barrage d'Assouan",
+          "texte": "Achevé en 1970, le haut barrage d'Assouan régule la crue, produit de l'électricité et crée le lac Nasser. Mais il retient les limons fertiles, ce qui oblige à utiliser des engrais et fait reculer le delta. Les temples d'Abou Simbel ont dû être déplacés pour échapper à la montée des eaux."
+        }
+      ],
+      "wikipedia": "Nil",
+      "chiffres": [
+        {
+          "valeur": "~6 650 km",
+          "label": "longueur (disputée avec l'Amazone)"
+        },
+        {
+          "valeur": "11",
+          "label": "pays traversés par son bassin"
+        }
+      ],
+      "anecdotes": [
+        "Hérodote disait que « l'Égypte est un don du Nil »."
+      ]
+    },
+    "source": "À vérifier (longueur exacte disputée avec l'Amazone selon les méthodes de mesure)"
+  },
+  {
+    "id": "geo-012",
+    "domain": "geo",
+    "subtheme": "Océans & fleuves",
+    "type": "classique",
+    "title": "L'océan Pacifique",
+    "summary": "Le Pacifique est le plus vaste et le plus profond des océans du globe, s'étendant entre l'Asie, l'Océanie et les Amériques.\nIl abrite la fosse des Mariannes, le point le plus profond connu des océans.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un océan démesuré",
+          "texte": "Le Pacifique couvre à lui seul environ un tiers de la surface totale du globe, davantage que l'ensemble des terres émergées réunies."
+        },
+        {
+          "titre": "La ceinture de feu",
+          "texte": "Son pourtour concentre une intense activité volcanique et sismique, en raison des nombreuses zones de subduction entre plaques tectoniques."
+        },
+        {
+          "titre": "Un point extrême",
+          "texte": "La fosse des Mariannes, dans le Pacifique occidental, atteint une profondeur dépassant les 10 000 mètres, plus que la hauteur de l'Everest."
+        },
+        {
+          "titre": "Records",
+          "texte": "Le Pacifique couvre environ un tiers de la surface terrestre, plus que toutes les terres émergées réunies. La fosse des Mariannes y atteint près de 11 000 m de profondeur au point Challenger Deep."
+        },
+        {
+          "titre": "La ceinture de feu",
+          "texte": "Ses bords sont des zones de subduction où se concentrent séismes et volcans : Japon, Indonésie, Andes, Alaska, Californie."
+        }
+      ],
+      "wikipedia": "Océan Pacifique",
+      "chiffres": [
+        {
+          "valeur": "~165 millions km²",
+          "label": "superficie"
+        },
+        {
+          "valeur": "~10 935 m",
+          "label": "profondeur maximale (fosse des Mariannes)"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Océan Pacifique"
+  },
+  {
+    "id": "geo-013",
+    "domain": "geo",
+    "subtheme": "Océans & fleuves",
+    "type": "vocabulaire",
+    "title": "Delta vs Estuaire",
+    "summary": "Delta et estuaire désignent tous deux l'embouchure d'un fleuve, mais leur forme diffère fortement.\nLe delta s'étale en éventail avec plusieurs bras, tandis que l'estuaire reste un chenal unique évasé.",
+    "details": {
+      "definition": "Le delta se forme quand un fleuve dépose tant de sédiments à son embouchure qu'il se divise en plusieurs bras avant la mer. L'estuaire, lui, est une embouchure évasée en forme d'entonnoir, sans division en bras multiples, souvent influencée par les marées.",
+      "exemple": "Le Nil et le Mississippi forment des deltas ; la Gironde, en France, est un estuaire.",
+      "confusions": [
+        {
+          "mot": "Embouchure",
+          "explication": "L'embouchure est le terme général désignant l'endroit où un fleuve rejoint la mer, qu'il prenne la forme d'un delta, d'un estuaire ou d'une simple ouverture directe."
+        }
+      ],
+      "wikipedia": "Delta",
+      "sections": [
+        {
+          "titre": "Pourquoi l'un ou l'autre ?",
+          "texte": "Un delta se forme quand le fleuve apporte beaucoup de sédiments dans une mer à faible marée : ils s'accumulent et le fleuve se divise en bras. Un estuaire se forme quand de fortes marées balaient les sédiments : l'embouchure reste large et unique."
+        }
+      ],
+      "anecdotes": [
+        "Le mot delta vient de la lettre grecque Δ, dont le delta du Nil a la forme."
+      ]
+    },
+    "source": "D'après Wikipédia — Delta"
+  },
+  {
+    "id": "geo-014",
+    "domain": "geo",
+    "subtheme": "Villes du monde",
+    "type": "classique",
+    "title": "Venise",
+    "summary": "Construite sur une lagune de l'Adriatique, Venise est bâtie sur plus d'une centaine de petites îles reliées par des canaux et des ponts.\nAncienne puissance commerciale majeure, elle fait face aujourd'hui à des risques croissants d'inondation.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une cité sur pilotis",
+          "texte": "Les bâtiments de Venise reposent sur des pieux de bois enfoncés dans la vase de la lagune, une technique de fondation qui a permis de construire une ville entière sur l'eau dès le Moyen Âge."
+        },
+        {
+          "titre": "Une ancienne superpuissance commerciale",
+          "texte": "République maritime indépendante pendant près d'un millénaire, Venise a dominé le commerce entre l'Europe et l'Orient avant son déclin face à d'autres puissances européennes."
+        },
+        {
+          "titre": "Le défi de l'acqua alta",
+          "texte": "La montée des eaux et l'affaissement progressif du sol exposent régulièrement la ville à des inondations, ce qui a conduit à la construction d'un système de digues mobiles (le MOSE)."
+        },
+        {
+          "titre": "Une ville sur pilotis",
+          "texte": "Venise est construite sur une centaine d'îlots d'une lagune. Les bâtiments reposent sur des millions de pieux en bois enfoncés dans la vase, qui, privés d'oxygène, ne pourrissent pas. Le Grand Canal, en forme de S, traverse la ville."
+        },
+        {
+          "titre": "La Sérénissime",
+          "texte": "Pendant un millénaire, la République de Venise est une grande puissance maritime et commerciale, reliant l'Europe à l'Orient. Elle disparaît en 1797, conquise par Bonaparte."
+        },
+        {
+          "titre": "Menaces",
+          "texte": "L'acqua alta (marée haute) inonde régulièrement la ville. Le système de digues mobiles MOSE est en service depuis 2020. Le tourisme de masse a fait chuter la population du centre historique sous les 50 000 habitants."
+        }
+      ],
+      "wikipedia": "Venise",
+      "chiffres": [
+        {
+          "valeur": "~118",
+          "label": "îlots"
+        },
+        {
+          "valeur": "~400",
+          "label": "ponts"
+        },
+        {
+          "valeur": "1797",
+          "label": "fin de la République de Venise"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Venise"
+  },
+  {
+    "id": "geo-015",
+    "domain": "geo",
+    "subtheme": "Villes du monde",
+    "type": "classique",
+    "title": "New York",
+    "summary": "Plus grande ville des États-Unis, New York s'est développée autour d'un des meilleurs ports naturels du monde.\nSes gratte-ciel, portés par un sous-sol rocheux solide, en ont fait un symbole mondial de la verticalité urbaine.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Cinq arrondissements",
+          "texte": "New York est divisée en cinq boroughs : Manhattan, Brooklyn, Queens, le Bronx et Staten Island, chacun ayant sa propre identité et densité de population."
+        },
+        {
+          "titre": "Pourquoi tant de gratte-ciel ?",
+          "texte": "Le socle rocheux affleurant de Manhattan (le schiste de Manhattan) offre des fondations particulièrement stables, ce qui a facilité la construction de très hauts bâtiments dès la fin du XIXe siècle."
+        },
+        {
+          "titre": "Un carrefour migratoire",
+          "texte": "Ellis Island a accueilli des millions d'immigrants entre 1892 et 1954, contribuant fortement à la diversité culturelle qui caractérise encore la ville."
+        },
+        {
+          "titre": "Cinq arrondissements",
+          "texte": "La ville compte cinq boroughs : Manhattan, Brooklyn, Queens, le Bronx et Staten Island. Fondée par les Néerlandais sous le nom de New Amsterdam, elle est rebaptisée New York en 1664 par les Anglais."
+        },
+        {
+          "titre": "Porte d'entrée de l'Amérique",
+          "texte": "Entre 1892 et 1954, environ 12 millions d'immigrants passent par Ellis Island. La statue de la Liberté, offerte par la France et inaugurée en 1886, les accueillait à l'entrée du port."
+        }
+      ],
+      "wikipedia": "New York",
+      "chiffres": [
+        {
+          "valeur": "~8,3 millions",
+          "label": "d'habitants dans la ville"
+        },
+        {
+          "valeur": "~800",
+          "label": "langues parlées"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — New York"
+  },
+  {
+    "id": "geo-016",
+    "domain": "geo",
+    "subtheme": "Reliefs & phénomènes",
+    "type": "vocabulaire",
+    "title": "Péninsule",
+    "summary": "Une péninsule est une portion de terre avancée dans la mer, reliée au continent par un seul côté.\nCertaines péninsules sont si vastes qu'elles portent presque le statut de sous-continent.",
+    "details": {
+      "definition": "Étendue de terre entourée d'eau sur la majeure partie de son pourtour, mais rattachée à un continent par au moins un côté.",
+      "exemple": "La péninsule Ibérique (Espagne et Portugal) ou la péninsule Arabique en sont deux exemples emblématiques.",
+      "confusions": [
+        {
+          "mot": "Île",
+          "explication": "Une île est entièrement entourée d'eau, sans aucune attache terrestre, contrairement à la péninsule qui reste reliée à la terre ferme."
+        }
+      ],
+      "wikipedia": "Péninsule",
+      "sections": [
+        {
+          "titre": "Grandes péninsules",
+          "texte": "La péninsule Arabique est la plus grande du monde. En Europe : péninsule Ibérique, italienne, balkanique, scandinave. La Bretagne ou le Cotentin sont des presqu'îles, terme souvent employé pour les plus petites."
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Péninsule"
+  },
+  {
+    "id": "geo-017",
+    "domain": "geo",
+    "subtheme": "Climats",
+    "type": "classique",
+    "title": "Le désert du Sahara",
+    "summary": "Le Sahara est le plus vaste désert chaud du monde, couvrant une large partie de l'Afrique du Nord.\nContrairement à l'image d'un désert uniquement composé de dunes, il présente des paysages très variés : montagnes, plateaux rocheux et oasis.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un désert aux paysages variés",
+          "texte": "Les dunes de sable ne représentent qu'une partie du Sahara ; on y trouve aussi de vastes étendues rocailleuses (regs et hamadas) et des massifs montagneux comme le Hoggar."
+        },
+        {
+          "titre": "Un climat extrême",
+          "texte": "Les écarts de température y sont considérables entre le jour, très chaud, et la nuit, qui peut être froide, en raison de la faible humidité de l'air qui retient mal la chaleur."
+        },
+        {
+          "titre": "Un désert qui a changé",
+          "texte": "Il y a environ 6 000 à 10 000 ans, le Sahara connaissait une période plus humide (le « Sahara vert »), en témoignent des peintures rupestres représentant une faune aujourd'hui absente de la région."
+        },
+        {
+          "titre": "Un désert pas seulement de sable",
+          "texte": "Les dunes (ergs) ne couvrent qu'environ 20 à 25 % du Sahara. Le reste est fait de plateaux rocheux (hamadas), de plaines de graviers (regs) et de massifs montagneux comme le Hoggar ou le Tibesti."
+        },
+        {
+          "titre": "Un Sahara vert",
+          "texte": "Il y a environ 6 000 à 10 000 ans, le Sahara était une savane parsemée de lacs, comme en témoignent les peintures rupestres de girafes et d'hippopotames du Tassili n'Ajjer. Un changement de l'orbite terrestre a déplacé les pluies."
+        }
+      ],
+      "wikipedia": "Sahara",
+      "chiffres": [
+        {
+          "valeur": "~9 millions km²",
+          "label": "superficie, presque les États-Unis"
+        },
+        {
+          "valeur": "11",
+          "label": "pays concernés"
+        },
+        {
+          "valeur": "~50 °C",
+          "label": "températures extrêmes le jour ; gel possible la nuit"
+        }
+      ],
+      "anecdotes": [
+        "L'Antarctique est techniquement un désert plus grand que le Sahara (désert froid)."
+      ]
+    },
+    "source": "D'après Wikipédia — Sahara"
+  },
+  {
+    "id": "geo-018",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "La Chine",
+    "summary": "Deuxième pays le plus peuplé du monde avec environ 1,4 milliard d'habitants, la Chine est aussi une des plus anciennes civilisations continues.\nDeuxième économie mondiale, elle est devenue en quelques décennies « l'atelier du monde ».",
+    "details": {
+      "wikipedia": "Chine",
+      "sections": [
+        {
+          "titre": "Un territoire contrasté",
+          "texte": "L'ouest est fait de hauts plateaux (Tibet) et de déserts (Gobi, Taklamakan), l'est de plaines fertiles et de côtes où se concentre la population. Deux grands fleuves structurent le pays : le Yangzi Jiang (Fleuve Bleu), le plus long d'Asie, et le Huang He (Fleuve Jaune)."
+        },
+        {
+          "titre": "Une histoire millénaire",
+          "texte": "Les dynasties impériales se succèdent pendant plus de 2 000 ans, de l'unification par Qin Shi Huang (221 av. J.-C.) à la chute des Qing en 1912. La République populaire est proclamée par Mao Zedong en 1949. À partir de 1978, Deng Xiaoping ouvre l'économie au marché."
+        },
+        {
+          "titre": "Inventions",
+          "texte": "Papier, imprimerie, boussole et poudre à canon sont les « quatre grandes inventions » chinoises. On lui doit aussi la soie, la porcelaine et le thé."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "~9,6 millions km²",
+          "label": "superficie (4e pays du monde)"
+        },
+        {
+          "valeur": "~1,41 milliard",
+          "label": "d'habitants"
+        },
+        {
+          "valeur": "1",
+          "label": "seul fuseau horaire officiel malgré la taille"
+        }
+      ],
+      "anecdotes": [
+        "La Grande Muraille n'est pas visible à l'œil nu depuis la Lune : c'est un mythe.",
+        "L'Inde a dépassé la Chine en population vers 2023."
+      ]
+    },
+    "source": "D'après Wikipédia — Chine"
+  },
+  {
+    "id": "geo-019",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "L'Inde",
+    "summary": "Pays le plus peuplé du monde depuis 2023, l'Inde est une fédération de 28 États où l'on parle des centaines de langues.\nPlus grande démocratie du monde, elle est indépendante du Royaume-Uni depuis 1947.",
+    "details": {
+      "wikipedia": "Inde",
+      "sections": [
+        {
+          "titre": "Géographie",
+          "texte": "L'Inde forme un sous-continent, séparé du reste de l'Asie par l'Himalaya. Le Gange, fleuve sacré de l'hindouisme, arrose la grande plaine du nord. Le climat est rythmé par la mousson."
+        },
+        {
+          "titre": "Diversité",
+          "texte": "Hindi et anglais sont les langues officielles au niveau fédéral, mais la Constitution reconnaît 22 langues. L'hindouisme est majoritaire (~80 %), mais l'Inde compte aussi plus de 200 millions de musulmans, ainsi que des sikhs, chrétiens, bouddhistes et jaïns."
+        },
+        {
+          "titre": "Économie",
+          "texte": "L'Inde est l'une des économies à la croissance la plus rapide. Bangalore est surnommée la Silicon Valley indienne. Bollywood, à Mumbai, produit plus de films par an que Hollywood."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "~1,43 milliard",
+          "label": "d'habitants"
+        },
+        {
+          "valeur": "3,3 millions km²",
+          "label": "superficie"
+        },
+        {
+          "valeur": "22",
+          "label": "langues reconnues par la Constitution"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Inde"
+  },
+  {
+    "id": "geo-020",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "La Russie",
+    "summary": "La Russie est le plus grand pays du monde : environ 17 millions de km², s'étendant sur 11 fuseaux horaires, de l'Europe au Pacifique.\nSa population, environ 146 millions d'habitants, se concentre surtout dans la partie européenne.",
+    "details": {
+      "wikipedia": "Russie",
+      "sections": [
+        {
+          "titre": "Un territoire immense",
+          "texte": "L'Oural sépare la Russie d'Europe de la Sibérie. Le Transsibérien relie Moscou à Vladivostok sur environ 9 300 km, la plus longue ligne ferroviaire du monde. Le lac Baïkal, en Sibérie, est le lac le plus profond du monde (1 642 m) et contient environ 20 % de l'eau douce liquide de surface."
+        },
+        {
+          "titre": "Ressources et climat",
+          "texte": "Le sous-sol est riche en gaz, pétrole, métaux et diamants. Une grande partie du territoire est couverte de taïga et repose sur le pergélisol (sol gelé en permanence). Oïmiakon, en Sibérie, est l'un des lieux habités les plus froids (-67,7 °C enregistrés)."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "~17,1 millions km²",
+          "label": "superficie, 1/9e des terres émergées"
+        },
+        {
+          "valeur": "11",
+          "label": "fuseaux horaires"
+        },
+        {
+          "valeur": "1 642 m",
+          "label": "profondeur du lac Baïkal"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Russie"
+  },
+  {
+    "id": "geo-021",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "L'Australie",
+    "summary": "L'Australie est à la fois un pays et un continent (on parle d'Océanie). Très vaste mais peu peuplée, sa population vit majoritairement sur les côtes.\nElle abrite une faune unique, comme les kangourous et les koalas, et la Grande Barrière de corail.",
+    "details": {
+      "wikipedia": "Australie",
+      "sections": [
+        {
+          "titre": "L'Outback",
+          "texte": "L'intérieur du pays, aride, est appelé l'Outback. Uluru, un immense monolithe de grès rouge, est un lieu sacré pour les Aborigènes Anangu. Les Aborigènes vivent en Australie depuis au moins 50 000 à 65 000 ans : une des plus anciennes cultures continues au monde."
+        },
+        {
+          "titre": "Une faune isolée",
+          "texte": "Isolée depuis des dizaines de millions d'années, l'Australie a développé des animaux uniques : marsupiaux (kangourous, koalas, wombats) et monotrèmes, des mammifères qui pondent des œufs (ornithorynque, échidné)."
+        },
+        {
+          "titre": "La Grande Barrière de corail",
+          "texte": "Le plus grand ensemble corallien du monde s'étire sur plus de 2 300 km le long du Queensland. Il est menacé par le réchauffement de l'eau, qui provoque le blanchissement des coraux."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "~7,7 millions km²",
+          "label": "superficie"
+        },
+        {
+          "valeur": "~27 millions",
+          "label": "d'habitants"
+        },
+        {
+          "valeur": "Canberra",
+          "label": "capitale (et non Sydney)"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Australie"
+  },
+  {
+    "id": "geo-022",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "Le Canada",
+    "summary": "Deuxième plus grand pays du monde, le Canada est pourtant peu peuplé : la majorité de ses 40 millions d'habitants vit à moins de 200 km de la frontière américaine.\nC'est un pays officiellement bilingue, anglais et français.",
+    "details": {
+      "wikipedia": "Canada",
+      "sections": [
+        {
+          "titre": "Un pays de lacs et de forêts",
+          "texte": "Le Canada possède plus de lacs que tous les autres pays réunis et le plus long littoral du monde. La forêt boréale couvre une grande partie du territoire. Le Grand Nord, arctique, est habité par les Inuits, notamment au Nunavut."
+        },
+        {
+          "titre": "Le français au Canada",
+          "texte": "Le Québec, colonisé par la France à partir de 1608 (fondation de Québec par Champlain), est majoritairement francophone. Des communautés francophones existent aussi au Nouveau-Brunswick (Acadiens), en Ontario et au Manitoba."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "~9,98 millions km²",
+          "label": "superficie"
+        },
+        {
+          "valeur": "~243 000 km",
+          "label": "de côtes, le plus long littoral du monde"
+        },
+        {
+          "valeur": "Ottawa",
+          "label": "capitale"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Canada"
+  },
+  {
+    "id": "geo-023",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "L'Égypte",
+    "summary": "Pays d'Afrique du Nord-Est, l'Égypte est presque entièrement désertique : plus de 95 % de sa population vit le long du Nil et dans son delta.\nBerceau d'une civilisation pharaonique de plus de 3 000 ans, elle contrôle aujourd'hui le canal de Suez.",
+    "details": {
+      "wikipedia": "Égypte",
+      "sections": [
+        {
+          "titre": "Un pays-oasis",
+          "texte": "Seuls environ 5 % du territoire sont habités. Le Caire, la capitale, est l'une des plus grandes métropoles d'Afrique et du monde arabe. L'Égypte déborde sur l'Asie par la péninsule du Sinaï."
+        },
+        {
+          "titre": "Le canal de Suez",
+          "texte": "Inauguré en 1869, construit sous la direction du Français Ferdinand de Lesseps, il relie Méditerranée et mer Rouge et évite le contournement de l'Afrique. Nationalisé par Nasser en 1956, il reste une source majeure de revenus. En 2021, le porte-conteneurs Ever Given l'a bloqué pendant six jours."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "~110 millions",
+          "label": "d'habitants"
+        },
+        {
+          "valeur": "~193 km",
+          "label": "longueur du canal de Suez"
+        },
+        {
+          "valeur": "~12 %",
+          "label": "du commerce mondial passe par Suez"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Égypte"
+  },
+  {
+    "id": "geo-024",
+    "domain": "geo",
+    "subtheme": "Relief et milieux",
+    "type": "classique",
+    "title": "L'Himalaya et l'Everest",
+    "summary": "L'Himalaya est la plus haute chaîne de montagnes du monde. Elle culmine à l'Everest, 8 849 m, à la frontière entre le Népal et la Chine.\nElle est née de la collision entre la plaque indienne et la plaque eurasienne, qui se poursuit encore aujourd'hui.",
+    "details": {
+      "wikipedia": "Himalaya",
+      "sections": [
+        {
+          "titre": "Une montagne jeune qui grandit",
+          "texte": "L'Inde, autrefois une île, a percuté l'Asie il y a environ 50 millions d'années. La collision continue : l'Himalaya s'élève encore de quelques millimètres par an. On trouve des fossiles marins au sommet de l'Everest, preuve que ces roches étaient au fond d'un océan."
+        },
+        {
+          "titre": "Le toit du monde",
+          "texte": "L'Himalaya et le Karakoram voisin regroupent les 14 sommets de plus de 8 000 m. Les glaciers himalayens alimentent de grands fleuves (Gange, Indus, Brahmapoutre) dont dépendent des centaines de millions de personnes : on parle de « château d'eau de l'Asie »."
+        },
+        {
+          "titre": "La conquête de l'Everest",
+          "texte": "Le Néo-Zélandais Edmund Hillary et le sherpa népalais Tenzing Norgay atteignent le sommet le 29 mai 1953. Aujourd'hui, des centaines d'alpinistes le gravissent chaque année, ce qui pose des problèmes d'embouteillages et de déchets."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "8 849 m",
+          "label": "altitude de l'Everest (mesure de 2020)"
+        },
+        {
+          "valeur": "14",
+          "label": "sommets de plus de 8 000 m"
+        },
+        {
+          "valeur": "~2 400 km",
+          "label": "longueur de la chaîne"
+        }
+      ],
+      "anecdotes": [
+        "En népalais, l'Everest s'appelle Sagarmatha ; en tibétain, Chomolungma."
+      ]
+    },
+    "source": "D'après Wikipédia — Himalaya"
+  },
+  {
+    "id": "geo-025",
+    "domain": "geo",
+    "subtheme": "Relief et milieux",
+    "type": "classique",
+    "title": "L'Amazone et la forêt amazonienne",
+    "summary": "L'Amazone est le fleuve au plus grand débit du monde : il déverse à lui seul environ 20 % de l'eau douce qui rejoint les océans.\nSon bassin est couvert par la plus grande forêt tropicale de la planète, partagée entre neuf pays.",
+    "details": {
+      "wikipedia": "Amazone (fleuve)",
+      "sections": [
+        {
+          "titre": "Un fleuve démesuré",
+          "texte": "L'Amazone prend sa source dans les Andes péruviennes et traverse le Brésil jusqu'à l'Atlantique. Sa longueur (environ 6 400 à 7 000 km selon les mesures) rivalise avec celle du Nil. Aucun pont ne le traverse. Son embouchure est si large que l'eau reste douce loin en mer."
+        },
+        {
+          "titre": "La forêt",
+          "texte": "La forêt amazonienne couvre environ 5,5 millions de km². Elle abrite environ 10 % des espèces connues, des centaines de peuples autochtones, et joue un rôle majeur dans le cycle de l'eau et du carbone. La déforestation menace de la faire basculer vers une savane dans certaines zones."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "~209 000 m³/s",
+          "label": "débit moyen à l'embouchure"
+        },
+        {
+          "valeur": "9",
+          "label": "pays se partagent la forêt"
+        },
+        {
+          "valeur": "~390 milliards",
+          "label": "d'arbres estimés"
+        }
+      ],
+      "anecdotes": [
+        "Le nom vient des Amazones de la mythologie grecque : l'explorateur Orellana aurait combattu des guerrières sur ses rives en 1542."
+      ]
+    },
+    "source": "D'après Wikipédia — Amazone (fleuve)"
+  },
+  {
+    "id": "geo-026",
+    "domain": "geo",
+    "subtheme": "Relief et milieux",
+    "type": "classique",
+    "title": "L'Antarctique",
+    "summary": "L'Antarctique est le continent le plus froid, le plus sec et le plus venteux de la Terre. Il est recouvert à 98 % d'une calotte de glace qui atteint près de 5 km d'épaisseur.\nIl n'appartient à aucun pays et est réservé à la science par le traité de l'Antarctique (1959).",
+    "details": {
+      "wikipedia": "Antarctique",
+      "sections": [
+        {
+          "titre": "Records",
+          "texte": "La température la plus basse jamais mesurée sur Terre, -89,2 °C, a été enregistrée à la station russe Vostok en 1983. La calotte contient environ 70 % de l'eau douce de la planète ; si elle fondait entièrement, le niveau des mers monterait d'environ 58 m."
+        },
+        {
+          "titre": "La course au pôle Sud",
+          "texte": "Le Norvégien Roald Amundsen atteint le pôle Sud le 14 décembre 1911. Le Britannique Robert Scott y arrive un mois plus tard et meurt avec ses compagnons sur le chemin du retour."
+        },
+        {
+          "titre": "Un continent de science",
+          "texte": "Le traité de 1959 interdit toute activité militaire et gèle les revendications territoriales. Des milliers de chercheurs y travaillent l'été ; les carottes de glace permettent de reconstituer le climat sur 800 000 ans."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "-89,2 °C",
+          "label": "record de froid (Vostok, 1983)"
+        },
+        {
+          "valeur": "~14 millions km²",
+          "label": "superficie"
+        },
+        {
+          "valeur": "~58 m",
+          "label": "de montée des eaux si toute la glace fondait"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Antarctique"
+  },
+  {
+    "id": "geo-027",
+    "domain": "geo",
+    "subtheme": "Relief et milieux",
+    "type": "vocabulaire",
+    "title": "Méridien vs parallèle",
+    "summary": "Les parallèles sont des cercles horizontaux parallèles à l'équateur ; ils servent à mesurer la latitude. Les méridiens sont des demi-cercles reliant les deux pôles ; ils servent à mesurer la longitude.\nAvec la latitude et la longitude, on peut localiser n'importe quel point du globe.",
+    "details": {
+      "wikipedia": "Coordonnées géographiques",
+      "definition": "Latitude : angle entre un point et l'équateur, de 0° à 90° Nord ou Sud. Longitude : angle entre un point et le méridien de Greenwich, de 0° à 180° Est ou Ouest.",
+      "exemple": "Paris se trouve à environ 48,9° de latitude Nord et 2,3° de longitude Est.",
+      "confusions": [
+        {
+          "mot": "Équateur",
+          "explication": "le parallèle 0°, le plus long, qui partage la Terre en deux hémisphères"
+        },
+        {
+          "mot": "Méridien de Greenwich",
+          "explication": "méridien d'origine (0°) choisi en 1884, passant par l'observatoire de Greenwich à Londres"
+        },
+        {
+          "mot": "Tropiques",
+          "explication": "parallèles à environ 23,4° N (Cancer) et S (Capricorne), limites où le soleil peut être au zénith"
+        }
+      ],
+      "anecdotes": [
+        "La France a longtemps utilisé le méridien de Paris comme référence, jusqu'en 1911 pour l'heure légale."
+      ]
+    },
+    "source": "D'après Wikipédia — Coordonnées géographiques"
+  },
+  {
+    "id": "geo-028",
+    "domain": "geo",
+    "subtheme": "Relief et milieux",
+    "type": "vocabulaire",
+    "title": "Archipel vs atoll",
+    "summary": "Un archipel est un groupe d'îles proches les unes des autres. Un atoll est une île corallienne en forme d'anneau entourant un lagon.\nBeaucoup d'atolls forment eux-mêmes des archipels, comme les Maldives.",
+    "details": {
+      "wikipedia": "Atoll",
+      "definition": "Archipel : ensemble d'îles relativement proches, d'origine quelconque (volcanique, continentale…). Atoll : récif corallien annulaire, né autour d'un volcan qui s'est enfoncé dans l'océan tandis que le corail continuait de pousser vers la surface.",
+      "exemple": "L'Indonésie est le plus grand archipel du monde (plus de 17 000 îles). Mururoa, en Polynésie française, est un atoll.",
+      "confusions": [
+        {
+          "mot": "Lagon",
+          "explication": "étendue d'eau peu profonde protégée par un récif, au centre d'un atoll ou entre une île et sa barrière de corail"
+        },
+        {
+          "mot": "Îlot",
+          "explication": "très petite île"
+        }
+      ],
+      "anecdotes": [
+        "C'est Charles Darwin qui a le premier expliqué la formation des atolls, en 1842."
+      ]
+    },
+    "source": "D'après Wikipédia — Atoll"
+  },
+  {
+    "id": "geo-029",
+    "domain": "geo",
+    "subtheme": "Villes",
+    "type": "classique",
+    "title": "Paris",
+    "summary": "Capitale de la France, Paris compte environ 2,1 millions d'habitants intra-muros mais plus de 12 millions dans son aire urbaine.\nC'est l'une des villes les plus visitées du monde, célèbre pour ses monuments, ses musées et son rôle historique.",
+    "details": {
+      "wikipedia": "Paris",
+      "sections": [
+        {
+          "titre": "Origines",
+          "texte": "À l'origine, Lutèce est la ville des Parisii, un peuple gaulois installé sur l'île de la Cité. Elle devient la capitale du royaume franc sous Clovis au début du VIe siècle."
+        },
+        {
+          "titre": "Le Paris d'Haussmann",
+          "texte": "Sous Napoléon III, le préfet Haussmann transforme la ville (1853-1870) : larges boulevards, immeubles en pierre de taille alignés, parcs, égouts. C'est l'image du Paris actuel."
+        },
+        {
+          "titre": "Organisation",
+          "texte": "La ville est divisée en 20 arrondissements disposés en spirale (en escargot) à partir du centre. La Seine la traverse d'est en ouest, séparant Rive droite et Rive gauche."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "~105 km²",
+          "label": "superficie, très petite pour une capitale"
+        },
+        {
+          "valeur": "20",
+          "label": "arrondissements"
+        },
+        {
+          "valeur": "330 m",
+          "label": "hauteur de la tour Eiffel (1889)"
+        }
+      ],
+      "anecdotes": [
+        "La tour Eiffel devait être démontée au bout de 20 ans ; elle a été sauvée par son utilité pour la radio.",
+        "Le Louvre est le musée le plus visité du monde."
+      ]
+    },
+    "source": "D'après Wikipédia — Paris"
+  },
+  {
+    "id": "geo-030",
+    "domain": "geo",
+    "subtheme": "Villes",
+    "type": "classique",
+    "title": "Istanbul",
+    "summary": "Istanbul est la seule grande ville au monde à cheval sur deux continents, l'Europe et l'Asie, séparés par le détroit du Bosphore.\nSuccessivement Byzance, Constantinople puis Istanbul, elle a été la capitale de deux empires pendant plus de 1 500 ans.",
+    "details": {
+      "wikipedia": "Istanbul",
+      "sections": [
+        {
+          "titre": "Trois noms, trois époques",
+          "texte": "Colonie grecque fondée sous le nom de Byzance, la ville est refondée par l'empereur Constantin en 330 sous le nom de Constantinople, capitale de l'Empire romain d'Orient. En 1453, le sultan ottoman Mehmed II la conquiert : elle devient la capitale de l'Empire ottoman jusqu'en 1922. Le nom Istanbul devient officiel en 1930."
+        },
+        {
+          "titre": "Monuments",
+          "texte": "Sainte-Sophie, basilique byzantine du VIe siècle, fut une mosquée, puis un musée, et de nouveau une mosquée depuis 2020. La Mosquée bleue, le palais de Topkapi et le Grand Bazar comptent parmi les sites les plus visités."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "~15,6 millions",
+          "label": "d'habitants"
+        },
+        {
+          "valeur": "1453",
+          "label": "prise par les Ottomans"
+        }
+      ],
+      "anecdotes": [
+        "Istanbul n'est pas la capitale de la Turquie : c'est Ankara, depuis 1923."
+      ]
+    },
+    "source": "D'après Wikipédia — Istanbul"
+  },
+  {
+    "id": "geo-031",
+    "domain": "geo",
+    "subtheme": "Villes",
+    "type": "vocabulaire",
+    "title": "Capitale vs métropole",
+    "summary": "Une capitale est la ville où siègent le gouvernement et les institutions d'un pays. Une métropole est une grande ville qui concentre population, activités et pouvoir d'attraction.\nLa plus grande ville d'un pays n'est pas toujours sa capitale.",
+    "details": {
+      "wikipedia": "Capitale",
+      "definition": "Capitale : ville siège des pouvoirs publics d'un État. Métropole : grande agglomération exerçant des fonctions de commandement économique, culturel et politique sur un vaste territoire.",
+      "exemple": "Le Canada a pour capitale Ottawa, mais sa plus grande métropole est Toronto. Même chose pour l'Australie (Canberra / Sydney), les États-Unis (Washington / New York), la Turquie (Ankara / Istanbul) ou le Brésil (Brasília / São Paulo).",
+      "confusions": [
+        {
+          "mot": "Mégapole",
+          "explication": "agglomération de plus de 10 millions d'habitants"
+        },
+        {
+          "mot": "Mégalopole",
+          "explication": "chapelet de métropoles reliées entre elles, comme de Boston à Washington"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Capitale"
+  }
+]

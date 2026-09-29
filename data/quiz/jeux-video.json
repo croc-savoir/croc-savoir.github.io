@@ -1,0 +1,492 @@
+[
+  {
+    "id": "q-jeux-video-001",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Qui a créé la série Metal Gear ?",
+    "choix": [
+      "Shigeru Miyamoto",
+      "Hideo Kojima",
+      "Satoshi Tajiri",
+      "Gunpei Yokoi"
+    ],
+    "bonneReponse": 1,
+    "explication": "Hideo Kojima est le créateur de la série Metal Gear, fondatrice du genre de l'infiltration.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-jeux-video-002",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "Tetris a été créé par un ingénieur soviétique.",
+    "reponse": true,
+    "explication": "Tetris a été créé en 1984 par Alexey Pajitnov, ingénieur travaillant à l'Académie des sciences d'URSS.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-jeux-video-003",
+    "domain": "jeux-video",
+    "format": "associer",
+    "question": "Associe chaque créateur à sa franchise.",
+    "paires": [
+      {
+        "gauche": "Shigeru Miyamoto",
+        "droite": "Super Mario / The Legend of Zelda"
+      },
+      {
+        "gauche": "Hironobu Sakaguchi",
+        "droite": "Final Fantasy"
+      },
+      {
+        "gauche": "Satoshi Tajiri",
+        "droite": "Pokémon"
+      },
+      {
+        "gauche": "Gunpei Yokoi",
+        "droite": "Game Boy / Metroid"
+      }
+    ],
+    "explication": "Chacun de ces créateurs est à l'origine d'une franchise majeure du jeu vidéo japonais.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-jeux-video-004",
+    "domain": "jeux-video",
+    "format": "frise",
+    "question": "Remets ces événements du jeu vidéo dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Sortie de Pong",
+        "annee": "1972"
+      },
+      {
+        "label": "Sortie de la Famicom/NES",
+        "annee": "1983"
+      },
+      {
+        "label": "Sortie de la PlayStation",
+        "annee": "1994"
+      },
+      {
+        "label": "Sortie de Minecraft",
+        "annee": "2011"
+      }
+    ],
+    "explication": "De Pong (1972) à Minecraft (2011), en passant par la NES (1983) et la PlayStation (1994).",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-jeux-video-005",
+    "domain": "jeux-video",
+    "format": "difference",
+    "question": "Quelle est la différence entre un roguelike et un rogue-lite ?",
+    "choix": [
+      "Aucune, ce sont des synonymes stricts",
+      "Le roguelike impose une perte totale de progression à la mort, le rogue-lite conserve certains éléments de progression permanente",
+      "Le rogue-lite se joue uniquement à plusieurs",
+      "Le roguelike désigne un jeu de plateforme linéaire"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le rogue-lite adoucit la règle de perte totale du roguelike classique en gardant une progression entre les parties.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-jeux-video-006",
+    "domain": "jeux-video",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis un jeu vidéo sorti officiellement en 2011.",
+      "Mon créateur original est un développeur suédois surnommé « Notch ».",
+      "Mon univers est entièrement composé de blocs que l'on peut casser et assembler.",
+      "Je suis devenu le jeu vidéo le plus vendu de l'histoire."
+    ],
+    "reponse": "Minecraft",
+    "explication": "Minecraft, créé par Markus Persson, est devenu le jeu vidéo le plus vendu de tous les temps.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-jeux-video-007",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Qui a créé Pac-Man ?",
+    "choix": [
+      "Shigeru Miyamoto",
+      "Toru Iwatani",
+      "Hideo Kojima",
+      "Nolan Bushnell"
+    ],
+    "bonneReponse": 1,
+    "explication": "Toru Iwatani, chez Namco, en 1980.",
+    "source": "D'après Wikipédia — Tōru Iwatani"
+  },
+  {
+    "id": "q-jeux-video-008",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quelle entreprise a créé Sonic pour concurrencer Mario ?",
+    "choix": [
+      "Sony",
+      "Sega",
+      "Atari",
+      "Capcom"
+    ],
+    "bonneReponse": 1,
+    "explication": "Sega, en 1991, sur Mega Drive.",
+    "source": "D'après Wikipédia — Sonic the Hedgehog"
+  },
+  {
+    "id": "q-jeux-video-009",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "Nintendo a été fondée au XIXe siècle pour fabriquer des cartes à jouer.",
+    "reponse": true,
+    "explication": "En 1889 à Kyoto, des cartes hanafuda.",
+    "source": "D'après Wikipédia — Nintendo"
+  },
+  {
+    "id": "q-jeux-video-010",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Comment s'appelle la langue imaginaire parlée dans Les Sims ?",
+    "choix": [
+      "Le sindarin",
+      "Le simlish",
+      "Le klingon",
+      "Le na'vi"
+    ],
+    "bonneReponse": 1,
+    "explication": "Une langue sans signification précise pour laisser le joueur interpréter.",
+    "source": "D'après Wikipédia — Simlish"
+  },
+  {
+    "id": "q-jeux-video-011",
+    "domain": "jeux-video",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis un personnage créé en 1995 par Michel Ancel.",
+      "Je n'ai ni bras ni jambes.",
+      "Mes mains et mes pieds flottent.",
+      "Je suis la mascotte historique d'Ubisoft."
+    ],
+    "reponse": "Rayman",
+    "explication": "Ses membres flottants simplifiaient l'animation.",
+    "source": "D'après Wikipédia — Rayman"
+  },
+  {
+    "id": "q-jeux-video-012",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel est le jeu vidéo le plus vendu de l'histoire ?",
+    "choix": [
+      "Tetris",
+      "GTA V",
+      "Minecraft",
+      "Wii Sports"
+    ],
+    "bonneReponse": 2,
+    "explication": "Minecraft dépasse les 300 millions d'exemplaires.",
+    "source": "D'après Wikipédia — Minecraft"
+  },
+  {
+    "id": "q-jeux-video-013",
+    "domain": "jeux-video",
+    "format": "associer",
+    "question": "Associe chaque abréviation à son genre.",
+    "paires": [
+      {
+        "gauche": "FPS",
+        "droite": "Tir à la première personne"
+      },
+      {
+        "gauche": "RPG",
+        "droite": "Jeu de rôle"
+      },
+      {
+        "gauche": "RTS",
+        "droite": "Stratégie en temps réel"
+      },
+      {
+        "gauche": "MOBA",
+        "droite": "Arène de bataille en équipes"
+      }
+    ],
+    "explication": "Les grands genres du jeu vidéo.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-jeux-video-014",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel écrivain a coécrit l'univers d'Elden Ring ?",
+    "choix": [
+      "J.K. Rowling",
+      "George R. R. Martin",
+      "Stephen King",
+      "Neil Gaiman"
+    ],
+    "bonneReponse": 1,
+    "explication": "L'auteur du Trône de fer a écrit la mythologie du monde d'Elden Ring.",
+    "source": "D'après Wikipédia — Elden Ring"
+  },
+  {
+    "id": "q-jeux-video-015",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "La PlayStation est née après que Nintendo a abandonné un partenariat avec Sony.",
+    "reponse": true,
+    "explication": "Sony devait créer un lecteur CD pour la Super Nintendo ; Nintendo s'est allié à Philips en 1991.",
+    "source": "D'après Wikipédia — PlayStation (console)"
+  },
+  {
+    "id": "q-jeux-video-016",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quelle console de salon est la plus vendue de l'histoire ?",
+    "choix": [
+      "La Wii",
+      "La PlayStation 2",
+      "La Xbox 360",
+      "La Nintendo Switch"
+    ],
+    "bonneReponse": 1,
+    "explication": "Environ 155 millions d'unités.",
+    "source": "D'après Wikipédia — PlayStation 2"
+  },
+  {
+    "id": "q-jeux-video-017",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel jeu de 1962, créé au MIT, est l'un des premiers jeux vidéo ?",
+    "choix": [
+      "Pong",
+      "Spacewar!",
+      "Tennis for Two",
+      "Space Invaders"
+    ],
+    "bonneReponse": 1,
+    "explication": "Deux vaisseaux s'affrontent autour d'une étoile, sur un ordinateur PDP-1.",
+    "source": "D'après Wikipédia — Spacewar!"
+  },
+  {
+    "id": "q-jeux-video-018",
+    "domain": "jeux-video",
+    "format": "difference",
+    "question": "Quelle est la différence entre un roguelike et un rogue-lite ?",
+    "choix": [
+      "Le rogue-lite laisse conserver certaines améliorations entre les parties",
+      "Le roguelike est en 3D",
+      "Le rogue-lite n'a pas de mort permanente",
+      "Aucune"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hades ou Dead Cells sont des rogue-lites.",
+    "source": "D'après Wikipédia — Roguelite"
+  },
+  {
+    "id": "q-jeux-video-019",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Que signifie PEGI 18 sur une boîte de jeu ?",
+    "choix": [
+      "Le jeu est très difficile",
+      "Le jeu est déconseillé aux moins de 18 ans",
+      "Le jeu dure 18 heures",
+      "Il y a 18 niveaux"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le PEGI indique l'âge minimum conseillé selon le contenu.",
+    "source": "D'après Wikipédia — Pan European Game Information"
+  },
+  {
+    "id": "q-jeux-video-020",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "Les combos de Street Fighter II sont nés d'un bug que les développeurs ont gardé.",
+    "reponse": true,
+    "explication": "Le timing permettait d'enchaîner les coups ; Capcom a décidé de conserver ce comportement.",
+    "source": "D'après Wikipédia — Street Fighter II"
+  },
+  {
+    "id": "q-jeux-video-021",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "D'où vient le nom « battle royale » ?",
+    "choix": [
+      "D'un jeu de cartes",
+      "D'un film japonais de 2000",
+      "D'un sport anglais",
+      "D'un roman de Tolkien"
+    ],
+    "bonneReponse": 1,
+    "explication": "Battle Royale, film où des collégiens doivent s'affronter sur une île.",
+    "source": "D'après Wikipédia — Battle royale (genre)"
+  },
+  {
+    "id": "q-jeux-video-022",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel créateur français a imaginé Alone in the Dark, ancêtre du survival horror ?",
+    "choix": [
+      "Michel Ancel",
+      "Frédérick Raynal",
+      "Éric Chahi",
+      "David Cage"
+    ],
+    "bonneReponse": 1,
+    "explication": "Alone in the Dark (1992) a inspiré Resident Evil.",
+    "source": "D'après Wikipédia — Frédérick Raynal"
+  },
+  {
+    "id": "q-jeux-video-023",
+    "domain": "jeux-video",
+    "format": "frise",
+    "question": "Remets ces consoles dans l'ordre de sortie.",
+    "evenements": [
+      {
+        "label": "NES / Famicom",
+        "annee": "1983"
+      },
+      {
+        "label": "Game Boy",
+        "annee": "1989"
+      },
+      {
+        "label": "PlayStation",
+        "annee": "1994"
+      },
+      {
+        "label": "Wii",
+        "annee": "2006"
+      },
+      {
+        "label": "Nintendo Switch",
+        "annee": "2017"
+      }
+    ],
+    "explication": "Plus de 30 ans de consoles.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-jeux-video-024",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Qui a réalisé Dark Souls et Elden Ring ?",
+    "choix": [
+      "Hayao Miyazaki",
+      "Hidetaka Miyazaki",
+      "Hideo Kojima",
+      "Shigeru Miyamoto"
+    ],
+    "bonneReponse": 1,
+    "explication": "Hidetaka Miyazaki, de FromSoftware, sans lien avec Hayao Miyazaki.",
+    "source": "D'après Wikipédia — Hidetaka Miyazaki"
+  },
+  {
+    "id": "q-jeux-video-025",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "Pac-Man plante au niveau 256.",
+    "reponse": true,
+    "explication": "Un bug de compteur remplit la moitié de l'écran de symboles incohérents.",
+    "source": "D'après Wikipédia — Pac-Man"
+  },
+  {
+    "id": "q-jeux-video-026",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Combien de joueurs ont assisté en même temps au concert de Travis Scott dans Fortnite en 2020 ?",
+    "choix": [
+      "~120 000",
+      "~1,2 million",
+      "~12 millions",
+      "~120 millions"
+    ],
+    "bonneReponse": 2,
+    "explication": "Plus de 12 millions de joueurs simultanés.",
+    "source": "D'après Wikipédia — Fortnite"
+  },
+  {
+    "id": "q-jeux-video-027",
+    "domain": "jeux-video",
+    "format": "associer",
+    "question": "Associe chaque jeu à son créateur.",
+    "paires": [
+      {
+        "gauche": "Metal Gear",
+        "droite": "Hideo Kojima"
+      },
+      {
+        "gauche": "Final Fantasy",
+        "droite": "Hironobu Sakaguchi"
+      },
+      {
+        "gauche": "Les Sims",
+        "droite": "Will Wright"
+      },
+      {
+        "gauche": "Tetris",
+        "droite": "Alexeï Pajitnov"
+      },
+      {
+        "gauche": "Pokémon",
+        "droite": "Satoshi Tajiri"
+      }
+    ],
+    "explication": "Cinq créateurs, cinq classiques.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-jeux-video-028",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel pays est considéré comme le berceau de l'esport moderne, grâce à StarCraft ?",
+    "choix": [
+      "Le Japon",
+      "La Corée du Sud",
+      "Les États-Unis",
+      "La Chine"
+    ],
+    "bonneReponse": 1,
+    "explication": "La Corée du Sud a eu des chaînes de télévision dédiées dès les années 2000.",
+    "source": "D'après Wikipédia — Sport électronique en Corée du Sud"
+  },
+  {
+    "id": "q-jeux-video-029",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Pourquoi Mario porte-t-il une casquette et une moustache ?",
+    "choix": [
+      "Pour ressembler à Miyamoto",
+      "Parce que c'était plus simple à dessiner en peu de pixels",
+      "Pour représenter l'Italie",
+      "Pour une publicité"
+    ],
+    "bonneReponse": 1,
+    "explication": "Les cheveux et la bouche étaient difficiles à représenter avec si peu de pixels.",
+    "source": "D'après Wikipédia — Mario (personnage)"
+  },
+  {
+    "id": "q-jeux-video-030",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "Le statut de joueur professionnel de jeux vidéo est reconnu par la loi en France.",
+    "reponse": true,
+    "explication": "Depuis la loi pour une République numérique de 2016.",
+    "source": "D'après Wikipédia — Sport électronique en France"
+  },
+  {
+    "id": "q-jeux-video-031",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel jeu Atari de 1982, développé en 5 semaines, est associé au krach du jeu vidéo ?",
+    "choix": [
+      "Pac-Man",
+      "E.T. l'extra-terrestre",
+      "Pong",
+      "Asteroids"
+    ],
+    "bonneReponse": 1,
+    "explication": "Des milliers de cartouches ont été enterrées dans une décharge du Nouveau-Mexique.",
+    "source": "D'après Wikipédia — E.T. the Extra-Terrestrial (jeu vidéo)"
+  }
+]

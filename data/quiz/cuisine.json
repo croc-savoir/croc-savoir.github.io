@@ -1,0 +1,462 @@
+[
+  {
+    "id": "q-cuisine-001",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Que désigne réellement le mot « sushi » ?",
+    "choix": [
+      "Le poisson cru",
+      "Le riz vinaigré",
+      "L'algue nori",
+      "La sauce soja"
+    ],
+    "bonneReponse": 1,
+    "explication": "« Sushi » désigne le riz assaisonné au vinaigre, pas le poisson cru (appelé sashimi lorsqu'il est servi seul).",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-cuisine-002",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "La paella est originaire de Madrid.",
+    "reponse": false,
+    "explication": "La paella est originaire de la région de Valence, pas de Madrid.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-cuisine-003",
+    "domain": "cuisine",
+    "format": "associer",
+    "question": "Associe chaque chef à sa contribution principale.",
+    "paires": [
+      {
+        "gauche": "Auguste Escoffier",
+        "droite": "Codification de la cuisine française classique"
+      },
+      {
+        "gauche": "Julia Child",
+        "droite": "Popularisation de la cuisine française aux États-Unis"
+      },
+      {
+        "gauche": "Paul Bocuse",
+        "droite": "Figure de la nouvelle cuisine française"
+      }
+    ],
+    "explication": "Chacun a marqué la gastronomie à sa manière, à des époques différentes.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-cuisine-004",
+    "domain": "cuisine",
+    "format": "difference",
+    "question": "Quelle est la différence entre blanchir et pocher un aliment ?",
+    "choix": [
+      "Ce sont deux mots pour la même technique",
+      "Blanchir est une cuisson brève suivie d'un arrêt au froid, pocher est une cuisson douce et complète dans un liquide frémissant",
+      "Pocher se fait uniquement à sec, sans liquide",
+      "Blanchir signifie ajouter de la farine"
+    ],
+    "bonneReponse": 1,
+    "explication": "Blanchir est bref et suivi d'un choc froid ; pocher cuit l'aliment entièrement dans un liquide frémissant.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-cuisine-005",
+    "domain": "cuisine",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis une cinquième saveur, reconnue plus tardivement que les quatre autres.",
+      "On me décrit souvent comme un goût de bouillon ou de viande mijotée.",
+      "Le glutamate naturel de certains aliments contribue à moi.",
+      "On me trouve en grande quantité dans le parmesan ou la sauce soja."
+    ],
+    "reponse": "L'umami",
+    "explication": "L'umami est la cinquième saveur de base, décrite au Japon au début du XXe siècle.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-cuisine-006",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quelle pizza a été nommée en l'honneur d'une reine d'Italie ?",
+    "choix": [
+      "La Marinara",
+      "La Margherita",
+      "La Regina",
+      "La Napoletana"
+    ],
+    "bonneReponse": 1,
+    "explication": "En 1889, pour la reine Marguerite de Savoie, aux couleurs du drapeau italien.",
+    "source": "D'après Wikipédia — Pizza Margherita"
+  },
+  {
+    "id": "q-cuisine-007",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Marco Polo a rapporté les pâtes de Chine en Italie.",
+    "reponse": false,
+    "explication": "C'est une légende : les pâtes sèches étaient déjà fabriquées en Sicile au XIIe siècle.",
+    "source": "D'après Wikipédia — Pâtes alimentaires"
+  },
+  {
+    "id": "q-cuisine-008",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "De quel pays le croissant est-il originaire ?",
+    "choix": [
+      "France",
+      "Italie",
+      "Autriche",
+      "Turquie"
+    ],
+    "bonneReponse": 2,
+    "explication": "Il descend du Kipferl viennois, apporté à Paris vers 1838 par August Zang.",
+    "source": "D'après Wikipédia — Croissant (viennoiserie)"
+  },
+  {
+    "id": "q-cuisine-009",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Qui a inventé les nouilles instantanées en 1958 ?",
+    "choix": [
+      "Momofuku Ando",
+      "Kikunae Ikeda",
+      "Hayao Miyazaki",
+      "Akio Morita"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le fondateur de Nissin, qui a aussi créé les Cup Noodles en 1971.",
+    "source": "D'après Wikipédia — Momofuku Andō"
+  },
+  {
+    "id": "q-cuisine-010",
+    "domain": "cuisine",
+    "format": "associer",
+    "question": "Associe chaque plat à sa région.",
+    "paires": [
+      {
+        "gauche": "Bouillabaisse",
+        "droite": "Marseille"
+      },
+      {
+        "gauche": "Choucroute",
+        "droite": "Alsace"
+      },
+      {
+        "gauche": "Cassoulet",
+        "droite": "Occitanie"
+      },
+      {
+        "gauche": "Tartiflette",
+        "droite": "Savoie"
+      },
+      {
+        "gauche": "Kouign-amann",
+        "droite": "Bretagne"
+      }
+    ],
+    "explication": "Chaque région a ses spécialités.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-cuisine-011",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Qu'est-ce que la réaction de Maillard ?",
+    "choix": [
+      "La fermentation du pain",
+      "La réaction qui dore les aliments à la cuisson",
+      "La fonte du chocolat",
+      "La coagulation de l'œuf"
+    ],
+    "bonneReponse": 1,
+    "explication": "Une réaction entre sucres et protéines qui crée couleur et arômes grillés.",
+    "source": "D'après Wikipédia — Réaction de Maillard"
+  },
+  {
+    "id": "q-cuisine-012",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Le thé vert et le thé noir proviennent de la même plante.",
+    "reponse": true,
+    "explication": "Tous deux viennent de Camellia sinensis ; seule l'oxydation des feuilles diffère.",
+    "source": "D'après Wikipédia — Thé"
+  },
+  {
+    "id": "q-cuisine-013",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quelle est l'épice la plus chère du monde ?",
+    "choix": [
+      "La vanille",
+      "Le safran",
+      "La cardamome",
+      "Le poivre"
+    ],
+    "bonneReponse": 1,
+    "explication": "Il faut environ 150 000 fleurs de crocus pour obtenir 1 kg de safran.",
+    "source": "D'après Wikipédia — Safran (épice)"
+  },
+  {
+    "id": "q-cuisine-014",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Laquelle de ces sauces est une sauce mère selon Escoffier ?",
+    "choix": [
+      "La béarnaise",
+      "La béchamel",
+      "La mayonnaise",
+      "La bordelaise"
+    ],
+    "bonneReponse": 1,
+    "explication": "Béchamel, velouté, espagnole, tomate et hollandaise. La béarnaise dérive de la hollandaise.",
+    "source": "D'après Wikipédia — Sauce mère"
+  },
+  {
+    "id": "q-cuisine-015",
+    "domain": "cuisine",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née en 1969 à Valence.",
+      "Mon grand-père et mon père avaient trois étoiles.",
+      "Je suis autodidacte.",
+      "En 2007, je suis devenue la quatrième femme triplement étoilée au Michelin."
+    ],
+    "reponse": "Anne-Sophie Pic",
+    "explication": "La cheffe française la plus étoilée au monde.",
+    "source": "D'après Wikipédia — Anne-Sophie Pic"
+  },
+  {
+    "id": "q-cuisine-016",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Contre quelle île les Néerlandais ont-ils échangé Manhattan en 1667 ?",
+    "choix": [
+      "Java",
+      "Run, une île à muscade",
+      "Ceylan",
+      "Madagascar"
+    ],
+    "bonneReponse": 1,
+    "explication": "La petite île de Run, dans les Moluques, produisait la précieuse muscade.",
+    "source": "D'après Wikipédia — Run (île)"
+  },
+  {
+    "id": "q-cuisine-017",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "La carbonara traditionnelle romaine contient de la crème.",
+    "reponse": false,
+    "explication": "Elle se fait avec guanciale, jaunes d'œufs, pecorino et poivre, sans crème.",
+    "source": "D'après Wikipédia — Spaghetti alla carbonara"
+  },
+  {
+    "id": "q-cuisine-018",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel ingrédient traditionnel n'entre PAS dans la paella valencienne ?",
+    "choix": [
+      "Le poulet",
+      "Le lapin",
+      "Les fruits de mer",
+      "Le safran"
+    ],
+    "bonneReponse": 2,
+    "explication": "La paella valencienne se fait avec poulet, lapin et haricots ; celle aux fruits de mer est une autre recette.",
+    "source": "D'après Wikipédia — Paella"
+  },
+  {
+    "id": "q-cuisine-019",
+    "domain": "cuisine",
+    "format": "difference",
+    "question": "Quelle est la différence entre caramélisation et réaction de Maillard ?",
+    "choix": [
+      "La caramélisation concerne le sucre seul, Maillard les sucres et les protéines",
+      "C'est la même chose",
+      "Maillard se fait à froid",
+      "La caramélisation ne concerne que le lait"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le caramel se fait avec du sucre seul ; la croûte d'un steak résulte de la réaction de Maillard.",
+    "source": "D'après Wikipédia — Caramélisation"
+  },
+  {
+    "id": "q-cuisine-020",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel est le premier producteur mondial de café ?",
+    "choix": [
+      "La Colombie",
+      "L'Éthiopie",
+      "Le Brésil",
+      "Le Vietnam"
+    ],
+    "bonneReponse": 2,
+    "explication": "Le Brésil produit environ un tiers du café mondial.",
+    "source": "D'après Wikipédia — Café"
+  },
+  {
+    "id": "q-cuisine-021",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quelle technique mexicaine consiste à cuire le maïs avec de la chaux ?",
+    "choix": [
+      "La fermentation",
+      "La nixtamalisation",
+      "Le fumage",
+      "Le tempérage"
+    ],
+    "bonneReponse": 1,
+    "explication": "Elle rend le maïs plus digeste et nutritif.",
+    "source": "D'après Wikipédia — Nixtamalisation"
+  },
+  {
+    "id": "q-cuisine-022",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Le chocolat blanc contient de la pâte de cacao.",
+    "reponse": false,
+    "explication": "Il ne contient que du beurre de cacao, du sucre et du lait.",
+    "source": "D'après Wikipédia — Chocolat blanc"
+  },
+  {
+    "id": "q-cuisine-023",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Qui a créé la pêche Melba ?",
+    "choix": [
+      "Paul Bocuse",
+      "Auguste Escoffier",
+      "Marie-Antoine Carême",
+      "Julia Child"
+    ],
+    "bonneReponse": 1,
+    "explication": "Escoffier, en l'honneur de la chanteuse Nellie Melba.",
+    "source": "D'après Wikipédia — Pêche Melba"
+  },
+  {
+    "id": "q-cuisine-024",
+    "domain": "cuisine",
+    "format": "associer",
+    "question": "Associe chaque type de ramen à sa base.",
+    "paires": [
+      {
+        "gauche": "Shoyu",
+        "droite": "Sauce soja"
+      },
+      {
+        "gauche": "Miso",
+        "droite": "Pâte de soja fermentée"
+      },
+      {
+        "gauche": "Shio",
+        "droite": "Sel"
+      },
+      {
+        "gauche": "Tonkotsu",
+        "droite": "Os de porc"
+      }
+    ],
+    "explication": "Les quatre grands styles de ramen.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-cuisine-025",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel pays boit le plus de thé par habitant ?",
+    "choix": [
+      "Le Royaume-Uni",
+      "La Chine",
+      "La Turquie",
+      "Le Japon"
+    ],
+    "bonneReponse": 2,
+    "explication": "La Turquie devance largement les autres pays.",
+    "source": "D'après Wikipédia — Thé en Turquie"
+  },
+  {
+    "id": "q-cuisine-026",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Depuis quand le couscous est-il inscrit au patrimoine immatériel de l'UNESCO ?",
+    "choix": [
+      "2005",
+      "2010",
+      "2020",
+      "Il ne l'est pas"
+    ],
+    "bonneReponse": 2,
+    "explication": "En 2020, à l'initiative commune de quatre pays du Maghreb.",
+    "source": "D'après Wikipédia — Couscous"
+  },
+  {
+    "id": "q-cuisine-027",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "La pizza hawaïenne a été inventée à Hawaï.",
+    "reponse": false,
+    "explication": "Elle a été inventée au Canada en 1962 par Sam Panopoulos.",
+    "source": "D'après Wikipédia — Pizza hawaïenne"
+  },
+  {
+    "id": "q-cuisine-028",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Qu'est-ce qui distingue une AOP d'un label bio ?",
+    "choix": [
+      "L'AOP garantit un lien avec un territoire, le bio un mode de production",
+      "L'AOP interdit les pesticides",
+      "Le bio garantit l'origine",
+      "Aucune différence"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un produit peut être AOP sans être bio, et inversement.",
+    "source": "D'après Wikipédia — Appellation d'origine protégée"
+  },
+  {
+    "id": "q-cuisine-029",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Qui fut la première femme à obtenir trois étoiles au guide Michelin ?",
+    "choix": [
+      "Anne-Sophie Pic",
+      "Eugénie Brazier",
+      "Hélène Darroze",
+      "Julia Child"
+    ],
+    "bonneReponse": 1,
+    "explication": "La Lyonnaise Eugénie Brazier, en 1933, pour ses deux restaurants.",
+    "source": "D'après Wikipédia — Eugénie Brazier"
+  },
+  {
+    "id": "q-cuisine-030",
+    "domain": "cuisine",
+    "format": "frise",
+    "question": "Remets ces dates culinaires dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Vasco de Gama atteint l'Inde, route des épices",
+        "annee": "1498"
+      },
+      {
+        "label": "Chocolat au lait inventé en Suisse",
+        "annee": "1875"
+      },
+      {
+        "label": "Le Guide culinaire d'Escoffier",
+        "annee": "1903"
+      },
+      {
+        "label": "Découverte de l'umami",
+        "annee": "1908"
+      },
+      {
+        "label": "Invention des nouilles instantanées",
+        "annee": "1958"
+      }
+    ],
+    "explication": "Cinq siècles d'histoire de la cuisine.",
+    "source": "À vérifier"
+  }
+]

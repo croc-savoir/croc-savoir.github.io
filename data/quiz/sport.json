@@ -1,0 +1,488 @@
+[
+  {
+    "id": "q-sport-001",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Combien de fois Pelé a-t-il remporté la Coupe du monde avec le Brésil ?",
+    "choix": [
+      "Une fois",
+      "Deux fois",
+      "Trois fois",
+      "Quatre fois"
+    ],
+    "bonneReponse": 2,
+    "explication": "Pelé a remporté la Coupe du monde en 1958, 1962 et 1970, un record toujours inégalé.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-sport-002",
+    "domain": "sport",
+    "format": "vrai-faux",
+    "affirmation": "Au football, une passe en avant à la main est autorisée au rugby à XV.",
+    "reponse": false,
+    "explication": "C'est l'inverse : au rugby, le ballon ne peut être passé à la main que vers l'arrière ou latéralement, jamais vers l'avant.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-sport-003",
+    "domain": "sport",
+    "format": "associer",
+    "question": "Associe chaque athlète à sa discipline principale.",
+    "paires": [
+      {
+        "gauche": "Usain Bolt",
+        "droite": "Sprint (athlétisme)"
+      },
+      {
+        "gauche": "Eddy Merckx",
+        "droite": "Cyclisme"
+      },
+      {
+        "gauche": "Serena Williams",
+        "droite": "Tennis"
+      },
+      {
+        "gauche": "Simone Biles",
+        "droite": "Gymnastique"
+      }
+    ],
+    "explication": "Chacun de ces athlètes est une référence historique de sa discipline.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-sport-004",
+    "domain": "sport",
+    "format": "frise",
+    "question": "Remets ces événements sportifs dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Fondation de la FIFA",
+        "annee": "1904"
+      },
+      {
+        "label": "Premiers Jeux Olympiques modernes",
+        "annee": "1896"
+      },
+      {
+        "label": "Première Coupe du monde de football",
+        "annee": "1930"
+      },
+      {
+        "label": "Premiers Jeux Olympiques d'hiver",
+        "annee": "1924"
+      }
+    ],
+    "explication": "Les JO modernes (1896) précèdent la fondation de la FIFA (1904), puis les premiers JO d'hiver (1924) et la première Coupe du monde (1930).",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-sport-005",
+    "domain": "sport",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis un sport collectif opposant deux équipes de 15 joueurs.",
+      "Le ballon que l'on utilise est de forme ovale.",
+      "On ne peut me passer la balle à la main que vers l'arrière.",
+      "Marquer dans l'en-but adverse s'appelle chez moi un essai."
+    ],
+    "reponse": "Le rugby à XV",
+    "explication": "Le rugby à XV se distingue par sa règle de passe vers l'arrière et son ballon ovale.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-sport-006",
+    "domain": "sport",
+    "format": "difference",
+    "question": "Quelle est la différence entre le Grand Chelem et un Masters 1000 au tennis ?",
+    "choix": [
+      "Aucune, ce sont les mêmes tournois",
+      "Le Grand Chelem désigne les 4 tournois les plus prestigieux, le Masters 1000 une catégorie de tournois importants mais moins prestigieux",
+      "Le Masters 1000 est réservé aux femmes",
+      "Le Grand Chelem se joue uniquement sur terre battue"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le Grand Chelem regroupe l'Open d'Australie, Roland-Garros, Wimbledon et l'US Open ; les Masters 1000 sont une catégorie de tournois d'un rang inférieur.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-sport-007",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Combien de Ballons d'or Lionel Messi a-t-il remportés ?",
+    "choix": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "bonneReponse": 3,
+    "explication": "8 Ballons d'or, un record, le dernier en 2023.",
+    "source": "D'après Wikipédia — Lionel Messi"
+  },
+  {
+    "id": "q-sport-008",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Quel est le record du monde du 100 m établi par Usain Bolt en 2009 ?",
+    "choix": [
+      "9,48 s",
+      "9,58 s",
+      "9,69 s",
+      "9,79 s"
+    ],
+    "bonneReponse": 1,
+    "explication": "9,58 s à Berlin. 9,69 s était son record de Pékin 2008.",
+    "source": "D'après Wikipédia — Usain Bolt"
+  },
+  {
+    "id": "q-sport-009",
+    "domain": "sport",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Marseille en 1972.",
+      "J'ai joué à la Juventus puis au Real Madrid.",
+      "J'ai marqué deux buts de la tête en finale de Coupe du monde.",
+      "Ma carrière s'est terminée sur un coup de tête en 2006."
+    ],
+    "reponse": "Zinédine Zidane",
+    "explication": "Zidane a offert à la France son premier titre mondial en 1998.",
+    "source": "D'après Wikipédia — Zinédine Zidane"
+  },
+  {
+    "id": "q-sport-010",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Qui a inventé le basket-ball en 1891 ?",
+    "choix": [
+      "James Naismith",
+      "Pierre de Coubertin",
+      "Michael Jordan",
+      "William Webb Ellis"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un professeur canadien, à Springfield, avec des paniers à pêches.",
+    "source": "D'après Wikipédia — James Naismith"
+  },
+  {
+    "id": "q-sport-011",
+    "domain": "sport",
+    "format": "vrai-faux",
+    "affirmation": "Michael Phelps est l'athlète le plus médaillé de l'histoire des Jeux olympiques.",
+    "reponse": true,
+    "explication": "28 médailles, dont 23 en or.",
+    "source": "D'après Wikipédia — Michael Phelps"
+  },
+  {
+    "id": "q-sport-012",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Combien de points vaut un essai au rugby à XV ?",
+    "choix": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "bonneReponse": 2,
+    "explication": "5 points, plus 2 pour la transformation.",
+    "source": "D'après Wikipédia — Rugby à XV"
+  },
+  {
+    "id": "q-sport-013",
+    "domain": "sport",
+    "format": "associer",
+    "question": "Associe chaque champion à son sport.",
+    "paires": [
+      {
+        "gauche": "Teddy Riner",
+        "droite": "Judo"
+      },
+      {
+        "gauche": "Muhammad Ali",
+        "droite": "Boxe"
+      },
+      {
+        "gauche": "Eddy Merckx",
+        "droite": "Cyclisme"
+      },
+      {
+        "gauche": "Simone Biles",
+        "droite": "Gymnastique"
+      },
+      {
+        "gauche": "Martin Fourcade",
+        "droite": "Biathlon"
+      }
+    ],
+    "explication": "Cinq légendes de cinq disciplines.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-sport-014",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Pourquoi le marathon mesure-t-il 42,195 km ?",
+    "choix": [
+      "C'est la distance exacte de Marathon à Athènes",
+      "Pour faire partir la course du château de Windsor aux JO de 1908",
+      "C'est un nombre porte-bonheur",
+      "Par erreur de mesure"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le parcours a été allongé pour la famille royale britannique, puis cette distance a été officialisée en 1921.",
+    "source": "D'après Wikipédia — Marathon (sport)"
+  },
+  {
+    "id": "q-sport-015",
+    "domain": "sport",
+    "format": "vrai-faux",
+    "affirmation": "Le mot « tennis » viendrait du français « tenez ! ».",
+    "reponse": true,
+    "explication": "Le jeu de paume français, ancêtre du tennis, utilisait cette interjection au service.",
+    "source": "D'après Wikipédia — Tennis"
+  },
+  {
+    "id": "q-sport-016",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Quel pays a remporté le plus de Coupes du monde de football ?",
+    "choix": [
+      "Allemagne",
+      "Italie",
+      "Argentine",
+      "Brésil"
+    ],
+    "bonneReponse": 3,
+    "explication": "Le Brésil compte 5 titres (1958, 1962, 1970, 1994, 2002).",
+    "source": "D'après Wikipédia — Coupe du monde de football"
+  },
+  {
+    "id": "q-sport-017",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Combien de médailles d'or la France a-t-elle remportées aux JO de Paris 2024 ?",
+    "choix": [
+      "8",
+      "12",
+      "16",
+      "25"
+    ],
+    "bonneReponse": 2,
+    "explication": "16 médailles d'or sur 64 médailles au total.",
+    "source": "D'après Wikipédia — France aux Jeux olympiques d'été de 2024"
+  },
+  {
+    "id": "q-sport-018",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Quel était le nom de naissance de Muhammad Ali ?",
+    "choix": [
+      "Joe Frazier",
+      "Cassius Clay",
+      "George Foreman",
+      "Sonny Liston"
+    ],
+    "bonneReponse": 1,
+    "explication": "Il a changé de nom en 1964 après sa conversion à l'islam.",
+    "source": "D'après Wikipédia — Muhammad Ali"
+  },
+  {
+    "id": "q-sport-019",
+    "domain": "sport",
+    "format": "difference",
+    "question": "Quelle est la différence entre le décathlon et l'heptathlon ?",
+    "choix": [
+      "Le décathlon compte 10 épreuves, l'heptathlon 7",
+      "Le décathlon se fait dans l'eau",
+      "L'heptathlon est un sport d'hiver",
+      "Aucune"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le décathlon est masculin, l'heptathlon féminin, en athlétisme.",
+    "source": "D'après Wikipédia — Heptathlon"
+  },
+  {
+    "id": "q-sport-020",
+    "domain": "sport",
+    "format": "vrai-faux",
+    "affirmation": "Les cartons jaunes et rouges existent depuis les débuts du football au XIXe siècle.",
+    "reponse": false,
+    "explication": "Ils ont été introduits en Coupe du monde en 1970, inspirés des feux de circulation.",
+    "source": "D'après Wikipédia — Carton (football)"
+  },
+  {
+    "id": "q-sport-021",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Quel judoka français a remporté 11 titres de champion du monde ?",
+    "choix": [
+      "David Douillet",
+      "Teddy Riner",
+      "Djamel Bouras",
+      "Clarisse Agbégnénou"
+    ],
+    "bonneReponse": 1,
+    "explication": "Teddy Riner, le judoka le plus titré de l'histoire.",
+    "source": "D'après Wikipédia — Teddy Riner"
+  },
+  {
+    "id": "q-sport-022",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Quelle agence établit la liste des substances dopantes interdites ?",
+    "choix": [
+      "La FIFA",
+      "L'AMA (Agence mondiale antidopage)",
+      "L'ONU",
+      "L'UEFA"
+    ],
+    "bonneReponse": 1,
+    "explication": "Créée en 1999, elle coordonne la lutte antidopage mondiale.",
+    "source": "D'après Wikipédia — Agence mondiale antidopage"
+  },
+  {
+    "id": "q-sport-023",
+    "domain": "sport",
+    "format": "frise",
+    "question": "Remets ces événements sportifs dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Premiers JO modernes à Athènes",
+        "annee": "1896"
+      },
+      {
+        "label": "Premier Tour de France",
+        "annee": "1903"
+      },
+      {
+        "label": "Première Coupe du monde de football",
+        "annee": "1930"
+      },
+      {
+        "label": "Premiers Jeux paralympiques à Rome",
+        "annee": "1960"
+      },
+      {
+        "label": "La France championne du monde de football",
+        "annee": "1998"
+      }
+    ],
+    "explication": "Plus d'un siècle de grands moments sportifs.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-sport-024",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Qui a inspiré les Jeux paralympiques en organisant une compétition à Stoke Mandeville en 1948 ?",
+    "choix": [
+      "Pierre de Coubertin",
+      "Ludwig Guttmann",
+      "Jules Rimet",
+      "Avery Brundage"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le neurologue Ludwig Guttmann, pour des vétérans paraplégiques.",
+    "source": "D'après Wikipédia — Ludwig Guttmann"
+  },
+  {
+    "id": "q-sport-025",
+    "domain": "sport",
+    "format": "vrai-faux",
+    "affirmation": "Lance Armstrong détient toujours le record de 7 victoires sur le Tour de France.",
+    "reponse": false,
+    "explication": "Ses titres lui ont été retirés en 2012 pour dopage. Le record est de 5 victoires.",
+    "source": "D'après Wikipédia — Lance Armstrong"
+  },
+  {
+    "id": "q-sport-026",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "À quelle hauteur est fixé un panier de basket ?",
+    "choix": [
+      "2,50 m",
+      "3,05 m",
+      "3,50 m",
+      "4 m"
+    ],
+    "bonneReponse": 1,
+    "explication": "10 pieds, soit 3,05 m, la hauteur du balcon utilisé par Naismith.",
+    "source": "D'après Wikipédia — Basket-ball"
+  },
+  {
+    "id": "q-sport-027",
+    "domain": "sport",
+    "format": "associer",
+    "question": "Associe chaque tournoi du Grand Chelem à sa surface.",
+    "paires": [
+      {
+        "gauche": "Roland-Garros",
+        "droite": "Terre battue"
+      },
+      {
+        "gauche": "Wimbledon",
+        "droite": "Gazon"
+      },
+      {
+        "gauche": "US Open",
+        "droite": "Dur"
+      }
+    ],
+    "explication": "L'Open d'Australie se joue aussi sur dur.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-sport-028",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Où s'est déroulée la cérémonie d'ouverture des JO de Paris 2024 ?",
+    "choix": [
+      "Au Stade de France",
+      "Sur la Seine",
+      "Au château de Versailles",
+      "Sur les Champs-Élysées"
+    ],
+    "bonneReponse": 1,
+    "explication": "Une première : un défilé de bateaux sur 6 km de Seine.",
+    "source": "D'après Wikipédia — Cérémonie d'ouverture des Jeux olympiques d'été de 2024"
+  },
+  {
+    "id": "q-sport-029",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Quel joueur a remporté le plus de titres à Roland-Garros ?",
+    "choix": [
+      "Björn Borg",
+      "Roger Federer",
+      "Rafael Nadal",
+      "Novak Djokovic"
+    ],
+    "bonneReponse": 2,
+    "explication": "14 titres, un record absolu dans un même tournoi du Grand Chelem.",
+    "source": "D'après Wikipédia — Rafael Nadal"
+  },
+  {
+    "id": "q-sport-030",
+    "domain": "sport",
+    "format": "vrai-faux",
+    "affirmation": "La première Coupe du monde de football s'est jouée en Uruguay.",
+    "reponse": true,
+    "explication": "En 1930 ; l'Uruguay a battu l'Argentine en finale.",
+    "source": "D'après Wikipédia — Coupe du monde de football 1930"
+  },
+  {
+    "id": "q-sport-031",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Avec combien de médailles d'or Michael Phelps a-t-il battu le record de Mark Spitz à Pékin en 2008 ?",
+    "choix": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "bonneReponse": 2,
+    "explication": "8 médailles d'or, contre 7 pour Spitz en 1972.",
+    "source": "D'après Wikipédia — Michael Phelps"
+  }
+]

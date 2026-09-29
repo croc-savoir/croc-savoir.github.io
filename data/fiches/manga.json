@@ -1,0 +1,902 @@
+[
+  {
+    "id": "manga-001",
+    "domain": "manga",
+    "subtheme": "Mangaka",
+    "type": "personnage",
+    "title": "Osamu Tezuka",
+    "subtitle": "Mangaka japonais, 1928-1989",
+    "summary": "Souvent surnommé « le dieu du manga », il a posé les bases visuelles et narratives du manga et de l'anime modernes, notamment avec Astro le petit robot.\nSon style graphique, influencé par les dessins animés occidentaux, a marqué des générations d'auteurs.",
+    "details": {
+      "epoque": "Milieu et seconde moitié du XXe siècle.",
+      "pourquoiCelebre": "A structuré le langage visuel du manga moderne (cadrage cinématographique, expressivité des personnages) et fondé l'un des premiers grands studios d'animation japonais.",
+      "ideesClefs": [
+        "Créateur d'Astro le petit robot (Tetsuwan Atomu), un des premiers grands succès du manga et de l'anime télévisé",
+        "A fondé le studio Mushi Production, pionnier de l'animation japonaise en série"
+      ],
+      "liens": [],
+      "wikipedia": "Osamu Tezuka",
+      "sections": [
+        {
+          "titre": "Le dieu du manga",
+          "texte": "Médecin de formation, Tezuka (1928-1989) révolutionne le manga après la guerre en s'inspirant du cinéma : cadrages variés, découpage dynamique, récits longs. Il crée aussi les grands yeux expressifs inspirés de Disney et de Betty Boop, devenus une convention du style manga."
+        },
+        {
+          "titre": "Une œuvre immense",
+          "texte": "Environ 700 œuvres et plus de 150 000 pages : Astro Boy, Le Roi Léo (Kimba), Princesse Saphir (l'un des premiers shōjo), Black Jack, chirurgien de génie sans licence, Bouddha, L'Histoire des 3 Adolf, et Phénix, son œuvre inachevée. Il fonde le studio Mushi Production et produit la première série animée japonaise hebdomadaire."
+        }
+      ],
+      "anecdotes": [
+        "Ses derniers mots auraient été : « Je vous en supplie, laissez-moi travailler. »",
+        "Le Roi Léo a souvent été comparé au Roi Lion de Disney (1994)."
+      ]
+    },
+    "source": "D'après Wikipédia — Osamu Tezuka"
+  },
+  {
+    "id": "manga-002",
+    "domain": "manga",
+    "subtheme": "Mangaka",
+    "type": "personnage",
+    "title": "Akira Toriyama",
+    "subtitle": "Mangaka japonais, 1955-2024",
+    "summary": "Créateur de Dragon Ball, l'une des séries manga et anime les plus influentes et vendues au monde, publiée à partir de 1984.\nIl a également conçu le design de personnages de plusieurs jeux vidéo japonais célèbres.",
+    "details": {
+      "epoque": "Fin du XXe siècle et début du XXIe siècle.",
+      "pourquoiCelebre": "Créateur de Dragon Ball, série fondatrice du genre shonen d'aventure et d'arts martiaux.",
+      "ideesClefs": [
+        "Dragon Ball a profondément influencé la structure des combats et des tournois dans le shonen moderne",
+        "A aussi conçu des designs de personnages pour des jeux vidéo japonais à succès"
+      ],
+      "liens": [],
+      "wikipedia": "Akira Toriyama",
+      "sections": [
+        {
+          "titre": "Dr Slump et Dragon Ball",
+          "texte": "Toriyama se fait connaître avec Dr Slump (1980), comédie absurde autour du robot Arale. Dragon Ball (1984-1995), d'abord inspiré du roman chinois La Pérégrination vers l'Ouest, devient un phénomène mondial et définit le shōnen de combat moderne."
+        },
+        {
+          "titre": "Dragon Quest",
+          "texte": "Il est aussi le character designer de la série de jeux vidéo Dragon Quest depuis 1986, immensément populaire au Japon, et de Chrono Trigger."
+        }
+      ],
+      "anecdotes": [
+        "Il est mort en mars 2024 ; des hommages ont été rendus dans le monde entier.",
+        "Il a dessiné Dragon Ball depuis sa maison de campagne, loin de Tokyo, contrairement à la plupart des mangakas."
+      ]
+    },
+    "source": "D'après Wikipédia — Akira Toriyama"
+  },
+  {
+    "id": "manga-003",
+    "domain": "manga",
+    "subtheme": "Mangaka",
+    "type": "personnage",
+    "title": "Eiichiro Oda",
+    "subtitle": "Mangaka japonais, né en 1975",
+    "summary": "Créateur de One Piece, publié depuis 1997, devenu la série manga la plus vendue de l'histoire en nombre total d'exemplaires.\nL'histoire suit un équipage de pirates à la recherche d'un trésor légendaire à travers un monde imaginaire.",
+    "details": {
+      "epoque": "Depuis la fin des années 1990.",
+      "pourquoiCelebre": "Auteur de la série manga la plus vendue au monde, publiée en continu depuis plus de vingt-cinq ans.",
+      "ideesClefs": [
+        "One Piece est réputé pour la cohérence de son univers construit sur le très long terme",
+        "La série a été adaptée en anime dès 1999"
+      ],
+      "liens": [],
+      "wikipedia": "Eiichirō Oda",
+      "sections": [
+        {
+          "titre": "Un rythme infernal",
+          "texte": "Oda publie One Piece chaque semaine dans le Weekly Shōnen Jump depuis 1997, avec seulement quelques pauses. Il dormirait environ 3 heures par nuit pendant les périodes de travail intense."
+        },
+        {
+          "titre": "Ses influences",
+          "texte": "Il cite Akira Toriyama et Dragon Ball comme sa principale influence, ainsi que Vicky le Viking, dessin animé de son enfance, pour le thème des pirates."
+        }
+      ],
+      "anecdotes": [
+        "Il a travaillé comme assistant de Nobuhiro Watsuki (Kenshin le vagabond) avant One Piece."
+      ]
+    },
+    "source": "D'après Wikipédia — Eiichirō Oda"
+  },
+  {
+    "id": "manga-004",
+    "domain": "manga",
+    "subtheme": "Mangaka",
+    "type": "personnage",
+    "title": "Hayao Miyazaki",
+    "subtitle": "Réalisateur et cofondateur du Studio Ghibli, né en 1941",
+    "summary": "Réalisateur de films d'animation mondialement reconnus comme Mon voisin Totoro, Princesse Mononoké ou Le Voyage de Chihiro, ce dernier ayant remporté l'Oscar du meilleur film d'animation.\nSes films mêlent souvent thèmes écologiques, enfance et univers fantastiques.",
+    "details": {
+      "epoque": "Depuis les années 1980.",
+      "pourquoiCelebre": "Réalisateur de films d'animation salués dans le monde entier, cofondateur du Studio Ghibli.",
+      "ideesClefs": [
+        "Le Voyage de Chihiro a remporté l'Oscar du meilleur film d'animation en 2003",
+        "Ses œuvres abordent souvent des thèmes écologiques et le passage de l'enfance à l'âge adulte"
+      ],
+      "liens": [
+        {
+          "nom": "Isao Takahata",
+          "relation": "Cofondateur du Studio Ghibli avec Miyazaki, réalisateur du Tombeau des lucioles"
+        }
+      ],
+      "wikipedia": "Hayao Miyazaki",
+      "sections": [
+        {
+          "titre": "Le mangaka",
+          "texte": "On connaît surtout le réalisateur, mais Miyazaki est aussi l'auteur du manga Nausicaä de la vallée du vent (1982-1994), bien plus long et complexe que le film, qu'il a continué à dessiner pendant douze ans entre ses films."
+        },
+        {
+          "titre": "Ses thèmes",
+          "texte": "Des héroïnes jeunes et courageuses, l'aviation (son père fabriquait des pièces d'avions), la nature et l'écologie, le pacifisme, l'enfance. Ses « méchants » sont rarement entièrement mauvais."
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Hayao Miyazaki"
+  },
+  {
+    "id": "manga-005",
+    "domain": "manga",
+    "subtheme": "Mangaka",
+    "type": "personnage",
+    "title": "Naoko Takeuchi",
+    "subtitle": "Mangaka japonaise, née en 1967",
+    "summary": "Créatrice de Sailor Moon, série qui a popularisé le genre « magical girl » (fille magique) à l'international dans les années 1990.\nL'œuvre a marqué des générations de lectrices et téléspectatrices en dehors même du Japon.",
+    "details": {
+      "epoque": "Années 1990.",
+      "pourquoiCelebre": "Créatrice de Sailor Moon, œuvre majeure ayant contribué à l'exportation du manga et de l'anime en Occident.",
+      "ideesClefs": [
+        "Sailor Moon a été un des premiers grands succès d'anime diffusés massivement hors du Japon",
+        "A contribué à populariser le genre des héroïnes magiques transformistes"
+      ],
+      "liens": [],
+      "wikipedia": "Naoko Takeuchi",
+      "sections": [
+        {
+          "titre": "Sailor Moon",
+          "texte": "Sailor Moon (1991-1997) raconte l'histoire d'Usagi Tsukino, collégienne maladroite qui se transforme en guerrière magique pour protéger la Terre avec les autres Sailor Senshi. Le manga combine les codes du magical girl et du sentai (équipes de héros costumés comme les Power Rangers)."
+        },
+        {
+          "titre": "Un impact durable",
+          "texte": "L'anime a été diffusé dans le monde entier et a marqué une génération, notamment en France dans le Club Dorothée. Il a été salué pour ses héroïnes fortes et ses personnages LGBT, parfois censurés dans les versions occidentales."
+        }
+      ],
+      "anecdotes": [
+        "Naoko Takeuchi a une formation de pharmacienne ; plusieurs héroïnes portent des noms liés à la chimie ou à l'astronomie."
+      ]
+    },
+    "source": "D'après Wikipédia — Naoko Takeuchi"
+  },
+  {
+    "id": "manga-006",
+    "domain": "manga",
+    "subtheme": "Mangaka",
+    "type": "personnage",
+    "title": "Hajime Isayama",
+    "subtitle": "Mangaka japonais, né en 1986",
+    "summary": "Créateur de L'Attaque des Titans (Shingeki no Kyojin), série sombre publiée à partir de 2009, mêlant survie, mystère politique et rebondissements narratifs majeurs.\nL'anime adapté a connu un succès international important dans les années 2010.",
+    "details": {
+      "epoque": "Depuis la fin des années 2000.",
+      "pourquoiCelebre": "Créateur de L'Attaque des Titans, série reconnue pour la complexité de son scénario et ses multiples retournements de situation.",
+      "ideesClefs": [
+        "La série aborde des thèmes politiques et moraux complexes derrière son cadre d'action",
+        "L'anime a fortement contribué à populariser la série hors du Japon"
+      ],
+      "liens": [],
+      "wikipedia": "Hajime Isayama",
+      "sections": [
+        {
+          "titre": "L'Attaque des Titans",
+          "texte": "Publié de 2009 à 2021, le manga raconte l'humanité retranchée derrière d'immenses murs pour se protéger de Titans mangeurs d'hommes. Eren Jäger rejoint le bataillon d'exploration après la destruction de son village. La série bascule ensuite vers une réflexion sombre sur la guerre, le cycle de la haine et la liberté."
+        },
+        {
+          "titre": "Un débutant refusé",
+          "texte": "Isayama propose son projet au Weekly Shōnen Jump, qui le refuse en lui conseillant d'améliorer son dessin. Il le publie finalement chez Kōdansha. La série s'est vendue à plus de 140 millions d'exemplaires."
+        }
+      ],
+      "anecdotes": [
+        "L'idée des Titans lui serait venue en travaillant dans un cybercafé, où il a été agressé par un client ivre : la peur d'un humain qu'on ne peut raisonner."
+      ]
+    },
+    "source": "D'après Wikipédia — Hajime Isayama"
+  },
+  {
+    "id": "manga-007",
+    "domain": "manga",
+    "subtheme": "Studios",
+    "type": "classique",
+    "title": "Le Studio Ghibli",
+    "summary": "Studio d'animation japonais fondé en 1985 par Hayao Miyazaki, Isao Takahata et le producteur Toshio Suzuki. Il est réputé pour la qualité de son animation dessinée à la main et la profondeur de ses récits.\nSes films ont conquis un public international bien au-delà des amateurs habituels d'anime.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Fondation",
+          "texte": "Le studio est fondé en 1985 à Tokyo, après le succès du film Nausicaä de la vallée du vent (1984)."
+        },
+        {
+          "titre": "Style",
+          "texte": "Ghibli privilégie longtemps l'animation traditionnelle dessinée à la main, avec un soin particulier porté aux décors et à l'atmosphère."
+        },
+        {
+          "titre": "Reconnaissance internationale",
+          "texte": "Plusieurs films du studio ont été récompensés à l'international, dont Le Voyage de Chihiro, premier film d'animation non anglophone à remporter l'Oscar du meilleur film d'animation."
+        },
+        {
+          "titre": "Un nom d'avion",
+          "texte": "Ghibli est le nom d'un vent chaud du Sahara, que les Italiens ont donné à un avion de reconnaissance de la Seconde Guerre mondiale. Miyazaki, passionné d'aviation, a choisi ce nom pour « souffler un vent nouveau » sur l'animation japonaise."
+        },
+        {
+          "titre": "Les films phares",
+          "texte": "Mon voisin Totoro (1988, Totoro devient le logo du studio), Le Tombeau des lucioles d'Isao Takahata (1988), Kiki la petite sorcière, Princesse Mononoké (1997), Le Voyage de Chihiro (2001, plus gros succès de l'histoire au Japon pendant près de 20 ans), Le Château ambulant, Le Garçon et le Héron (2023)."
+        },
+        {
+          "titre": "Le musée",
+          "texte": "Le musée Ghibli, à Mitaka près de Tokyo, a ouvert en 2001. Le parc Ghibli, près de Nagoya, a ouvert en 2022."
+        }
+      ],
+      "wikipedia": "Studio Ghibli"
+    },
+    "source": "D'après Wikipédia — Studio Ghibli"
+  },
+  {
+    "id": "manga-008",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "One Piece",
+    "summary": "Manga créé par Eiichiro Oda en 1997, suivant Monkey D. Luffy et son équipage à la recherche du « One Piece », un trésor légendaire laissé par le roi des pirates.\nC'est le manga le plus vendu de l'histoire en nombre total d'exemplaires imprimés.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Univers",
+          "texte": "L'histoire se déroule dans un monde fictif largement composé d'océans et d'îles, où la piraterie et les gouvernements mondiaux s'affrontent."
+        },
+        {
+          "titre": "Longévité",
+          "texte": "Publié en feuilleton depuis 1997, le manga reste en cours de publication, ce qui en fait l'une des œuvres les plus longues du genre."
+        },
+        {
+          "titre": "Adaptation",
+          "texte": "L'anime, diffusé depuis 1999, compte plus d'un millier d'épisodes."
+        },
+        {
+          "titre": "L'histoire",
+          "texte": "Monkey D. Luffy, dont le corps est devenu élastique après avoir mangé un fruit du démon, veut devenir le roi des pirates en trouvant le trésor légendaire, le One Piece, laissé par Gol D. Roger. Il réunit un équipage, les pirates au Chapeau de paille : Zoro, Nami, Usopp, Sanji, Chopper, Robin, Franky, Brook et Jinbe."
+        },
+        {
+          "titre": "Des records",
+          "texte": "One Piece détient le Guinness record de la bande dessinée la plus publiée par un seul auteur, avec plus de 500 millions d'exemplaires. L'anime dépasse les 1 100 épisodes. Une adaptation en série live par Netflix a été lancée en 2023."
+        }
+      ],
+      "wikipedia": "One Piece"
+    },
+    "source": "D'après Wikipédia — One Piece"
+  },
+  {
+    "id": "manga-009",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Dragon Ball",
+    "summary": "Manga créé par Akira Toriyama en 1984, suivant les aventures de Son Goku, d'abord jeune garçon puis guerrier surpuissant affrontant des ennemis toujours plus redoutables.\nLa série a fortement influencé la structure des combats à enjeux croissants du genre shonen.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Évolution",
+          "texte": "La série évolue d'une aventure teintée d'humour vers un récit centré sur des combats et des tournois d'arts martiaux, notamment dans sa suite Dragon Ball Z."
+        },
+        {
+          "titre": "Influence",
+          "texte": "Dragon Ball a popularisé à l'international de nombreux codes du shonen : montée en puissance progressive, rivalités, transformations spectaculaires."
+        },
+        {
+          "titre": "Succès mondial",
+          "texte": "La série reste l'une des franchises manga et anime les plus rentables et reconnues dans le monde entier."
+        },
+        {
+          "titre": "De l'aventure au combat",
+          "texte": "La première partie suit Son Goku, enfant doté d'une queue de singe et d'une force surhumaine, à la recherche des sept boules de cristal qui invoquent le dragon Shenron. Dragon Ball Z se concentre sur les combats contre des ennemis de plus en plus puissants : Vegeta, Freezer, Cell, Boo. On découvre que Goku est un Saiyan, un extraterrestre."
+        },
+        {
+          "titre": "En France",
+          "texte": "Diffusé à partir de 1988 dans le Club Dorothée, Dragon Ball est un immense succès, malgré les critiques sur sa violence. La France est l'un des plus grands marchés de Dragon Ball hors du Japon."
+        }
+      ],
+      "wikipedia": "Dragon Ball",
+      "anecdotes": [
+        "Le Super Saiyan a les cheveux blonds en partie parce que c'était plus rapide à dessiner que des cheveux noirs à encrer, selon Toriyama."
+      ]
+    },
+    "source": "D'après Wikipédia — Dragon Ball"
+  },
+  {
+    "id": "manga-010",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Pokémon, un phénomène multimédia",
+    "summary": "Née en 1996 comme jeu vidéo, la franchise Pokémon s'est rapidement étendue à l'anime, au manga, aux cartes à collectionner et aux produits dérivés.\nElle met en scène des dresseurs capturant et entraînant des créatures aux pouvoirs variés.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Origine",
+          "texte": "La franchise démarre avec les jeux vidéo Pokémon Rouge et Vert, sortis en 1996 sur Game Boy au Japon."
+        },
+        {
+          "titre": "Extension",
+          "texte": "Un anime, un jeu de cartes à collectionner et de nombreux mangas dérivés suivent rapidement, faisant de Pokémon l'une des franchises médiatiques les plus rentables au monde."
+        },
+        {
+          "titre": "Principe",
+          "texte": "Les dresseurs capturent, entraînent et font combattre des créatures appelées Pokémon, chacune dotée de types et de capacités propres."
+        },
+        {
+          "titre": "L'origine",
+          "texte": "Satoshi Tajiri, passionné d'insectes enfant, imagine un jeu où l'on capture et échange des créatures. Pokémon Rouge et Vert sortent au Japon en 1996 sur Game Boy. Le câble link permet d'échanger ses Pokémon avec un ami, une mécanique au cœur du succès."
+        },
+        {
+          "titre": "Un empire",
+          "texte": "Pokémon est la franchise médiatique la plus lucrative de l'histoire, devant Mickey et Star Wars : jeux vidéo, cartes à collectionner, anime avec Sacha et Pikachu, films, produits dérivés. Pokémon GO (2016) a fait sortir des millions de joueurs dans la rue grâce à la réalité augmentée."
+        }
+      ],
+      "wikipedia": "Pokémon",
+      "chiffres": [
+        {
+          "valeur": "> 1 000",
+          "label": "espèces de Pokémon"
+        },
+        {
+          "valeur": "~100 milliards $",
+          "label": "de revenus cumulés estimés"
+        }
+      ],
+      "anecdotes": [
+        "Pokémon vient de Pocket Monsters, « monstres de poche »."
+      ]
+    },
+    "source": "D'après Wikipédia — Pokémon"
+  },
+  {
+    "id": "manga-011",
+    "domain": "manga",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "1952 : Astro le petit robot",
+    "summary": "Osamu Tezuka publie en 1952 le manga Astro le petit robot (Tetsuwan Atomu), qui deviendra en 1963 l'une des toutes premières séries animées japonaises diffusées en feuilleton télévisé.\nCette œuvre est considérée comme fondatrice de l'anime de science-fiction moderne.",
+    "details": {
+      "contexte": "Le Japon de l'après-guerre développe une industrie de la bande dessinée en plein essor, portée notamment par Osamu Tezuka.",
+      "causes": "Volonté de Tezuka de raconter des récits de science-fiction accessibles, mêlant robots, émotions humaines et questionnements moraux.",
+      "deroulement": "Le manga est publié à partir de 1952, avant d'être adapté en série télévisée animée en 1963, un des premiers succès du genre au Japon.",
+      "consequences": "Astro le petit robot pose les bases esthétiques et narratives de nombreux animes de science-fiction ultérieurs.",
+      "frise": [
+        {
+          "annee": "1952",
+          "evenement": "Première publication du manga Astro le petit robot"
+        },
+        {
+          "annee": "1963",
+          "evenement": "Diffusion de la première série animée télévisée adaptée"
+        }
+      ]
+    },
+    "source": "À vérifier"
+  },
+  {
+    "id": "manga-012",
+    "domain": "manga",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "1985 : fondation du Studio Ghibli",
+    "summary": "Le Studio Ghibli est fondé en 1985 à Tokyo, à la suite du succès du film Nausicaä de la vallée du vent (1984) de Hayao Miyazaki.\nIl deviendra l'un des studios d'animation les plus reconnus au monde.",
+    "details": {
+      "contexte": "Le succès critique et commercial de Nausicaä de la vallée du vent convainc ses créateurs de fonder une structure dédiée à l'animation cinématographique.",
+      "causes": "Volonté de Miyazaki, Takahata et du producteur Toshio Suzuki de disposer d'un studio stable pour produire des longs métrages ambitieux.",
+      "deroulement": "Le studio est fondé en 1985 ; son premier film, Le Château dans le ciel, sort l'année suivante.",
+      "consequences": "Ghibli produira au fil des décennies plusieurs films majeurs de l'histoire de l'animation, salués internationalement.",
+      "frise": [
+        {
+          "annee": "1984",
+          "evenement": "Sortie de Nausicaä de la vallée du vent"
+        },
+        {
+          "annee": "1985",
+          "evenement": "Fondation officielle du Studio Ghibli"
+        },
+        {
+          "annee": "1986",
+          "evenement": "Sortie du Château dans le ciel, premier film du studio"
+        }
+      ]
+    },
+    "source": "À vérifier"
+  },
+  {
+    "id": "manga-013",
+    "domain": "manga",
+    "subtheme": "Vocabulaire",
+    "type": "vocabulaire",
+    "title": "Isekai",
+    "summary": "Genre narratif où le ou la protagoniste est transporté(e) dans un monde parallèle, souvent fantastique, que ce soit par réincarnation, invocation ou accident.\nCe genre a connu une popularité considérable dans le manga et l'anime au cours des années 2010.",
+    "details": {
+      "definition": "Genre de fiction japonaise où un personnage, généralement originaire de notre monde, se retrouve transporté dans un univers différent, souvent fantastique.",
+      "exemple": "De nombreuses séries populaires des années 2010-2020 reposent sur ce principe de transport ou de réincarnation dans un monde parallèle.",
+      "confusions": [
+        {
+          "mot": "Fantasy",
+          "explication": "Genre plus large englobant tout univers imaginaire à éléments magiques, sans nécessiter de transport depuis notre monde réel."
+        }
+      ],
+      "wikipedia": "Isekai",
+      "sections": [
+        {
+          "titre": "Les codes",
+          "texte": "Le héros, souvent un Japonais ordinaire, meurt (souvent renversé par un camion, devenu une blague récurrente) ou est aspiré dans un monde de fantasy aux règles de jeu vidéo : niveaux, statistiques, compétences. Il y obtient des pouvoirs exceptionnels."
+        },
+        {
+          "titre": "Exemples",
+          "texte": "Sword Art Online (joueurs piégés dans un jeu en réalité virtuelle), Re:Zero, Moi, quand je me réincarne en Slime, Konosuba (parodie du genre), Mushoku Tensei. Le Voyage de Chihiro peut aussi être vu comme un ancêtre du genre."
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Isekai"
+  },
+  {
+    "id": "manga-014",
+    "domain": "manga",
+    "subtheme": "Vocabulaire",
+    "type": "vocabulaire",
+    "title": "Shonen et seinen",
+    "summary": "Le shonen désigne les mangas ciblant principalement un jeune public masculin, souvent centrés sur l'action, l'amitié et le dépassement de soi. Le seinen vise un public plus adulte, avec des thèmes souvent plus sombres ou complexes.\nCes catégories désignent le public visé, pas la qualité ou le style graphique de l'œuvre.",
+    "details": {
+      "definition": "Shonen : catégorie éditoriale visant un jeune public masculin. Seinen : catégorie visant un public masculin plus adulte, avec des récits parfois plus matures.",
+      "exemple": "Dragon Ball ou One Piece sont des shonen classiques ; des œuvres plus sombres ou psychologiques relèvent souvent du seinen.",
+      "confusions": [
+        {
+          "mot": "Shojo",
+          "explication": "Catégorie visant principalement un jeune public féminin, souvent centrée sur les relations et les sentiments."
+        }
+      ],
+      "wikipedia": "Shōnen",
+      "sections": [
+        {
+          "titre": "Les quatre grandes catégories",
+          "texte": "Shōnen : jeunes garçons (One Piece, Naruto). Shōjo : jeunes filles, centré sur les relations et les sentiments (Nana, Fruits Basket). Seinen : jeunes hommes adultes, thèmes plus complexes ou violents (Berserk, Vagabond, Monster). Josei : femmes adultes. Ces catégories désignent le public du magazine de publication, pas le genre de l'histoire."
+        },
+        {
+          "titre": "Les valeurs du shōnen",
+          "texte": "Le Weekly Shōnen Jump, magazine le plus vendu, résume ses valeurs en trois mots : amitié, effort, victoire."
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Shōnen"
+  },
+  {
+    "id": "manga-015",
+    "domain": "manga",
+    "subtheme": "Vocabulaire",
+    "type": "vocabulaire",
+    "title": "OAV / OVA",
+    "summary": "Sigle signifiant « Original Video Animation » (ou Original Animation Video), désignant des épisodes ou films d'animation produits directement pour une sortie vidéo, sans passer par une diffusion télévisée classique.\nCe format offre souvent plus de liberté créative et budgétaire pour des projets de niche.",
+    "details": {
+      "definition": "Production animée japonaise conçue pour une distribution directe en vidéo, sans diffusion télévisée préalable.",
+      "exemple": "Certaines histoires complémentaires ou spin-off d'une série populaire sont produites uniquement en format OAV.",
+      "confusions": [
+        {
+          "mot": "Film d'animation",
+          "explication": "Un film sort en salle de cinéma, tandis qu'un OAV est distribué directement en support vidéo ou en streaming."
+        }
+      ],
+      "wikipedia": "Original video animation",
+      "sections": [
+        {
+          "titre": "Un âge d'or",
+          "texte": "Dans les années 1980, avec l'essor des magnétoscopes, les OAV permettent aux studios de produire des œuvres plus libres, sans contraintes de diffusion télévisée ni de censure, souvent avec de plus gros budgets par épisode. Dallos (1983) est considéré comme le premier OAV."
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Original video animation"
+  },
+  {
+    "id": "manga-016",
+    "domain": "manga",
+    "subtheme": "Vocabulaire",
+    "type": "vocabulaire",
+    "title": "Tsundere",
+    "summary": "Terme désignant un archétype de personnage qui alterne entre froideur, agacement apparent (« tsun ») et douceur ou affection (« dere »), surtout envers une personne précise.\nC'est l'un des archétypes de caractère les plus courants et reconnaissables du manga et de l'anime.",
+    "details": {
+      "definition": "Archétype de personnage combinant une attitude initialement froide ou hostile et une facette plus douce et affectueuse révélée progressivement.",
+      "exemple": "De nombreux personnages secondaires ou d'intérêt romantique dans les animes reprennent cet archétype, notamment dans les comédies romantiques.",
+      "confusions": [
+        {
+          "mot": "Yandere",
+          "explication": "Archétype différent : un personnage en apparence doux et amoureux, mais capable de bascule vers un comportement obsessionnel ou violent."
+        }
+      ],
+      "wikipedia": "Tsundere",
+      "sections": [
+        {
+          "titre": "Et les autres « dere »",
+          "texte": "Yandere : personnage amoureux jusqu'à l'obsession et la violence. Kuudere : froid et impassible en apparence, mais attentionné. Dandere : timide et silencieux, qui s'ouvre avec le temps. Ces archétypes sont très utilisés dans les anime et visual novels."
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Tsundere"
+  },
+  {
+    "id": "manga-017",
+    "domain": "manga",
+    "subtheme": "Œuvres cultes",
+    "type": "classique",
+    "title": "Naruto",
+    "summary": "Créé par Masashi Kishimoto et publié de 1999 à 2014, Naruto raconte l'histoire d'un jeune ninja rejeté par son village qui rêve d'en devenir le chef, le Hokage.\nC'est l'un des mangas les plus vendus au monde.",
+    "details": {
+      "wikipedia": "Naruto",
+      "sections": [
+        {
+          "titre": "L'histoire",
+          "texte": "Naruto Uzumaki porte en lui le démon renard à neuf queues, scellé dans son corps à la naissance, ce qui lui vaut la méfiance des villageois de Konoha. Avec Sasuke, son rival tourmenté, et Sakura, il forme l'équipe 7 sous la direction de Kakashi. La série aborde la solitude, la reconnaissance, le cycle de la vengeance et le pardon."
+        },
+        {
+          "titre": "Un univers riche",
+          "texte": "Les ninjas utilisent le chakra pour réaliser des techniques (jutsu) en formant des signes avec leurs mains. Les grandes familles ont des pouvoirs héréditaires, comme le sharingan du clan Uchiwa. Naruto Shippuden est la suite, et Boruto suit le fils de Naruto."
+        },
+        {
+          "titre": "En France",
+          "texte": "Naruto a été l'un des plus grands succès manga en France dans les années 2000, avec plus de 20 millions d'exemplaires vendus dans le pays."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "72",
+          "label": "tomes"
+        },
+        {
+          "valeur": "> 250 millions",
+          "label": "d'exemplaires dans le monde"
+        }
+      ],
+      "anecdotes": [
+        "La course « ninja » bras tendus en arrière est devenue un mème mondial.",
+        "Naruto est aussi le nom d'un ingrédient des ramen, le narutomaki, que le héros adore."
+      ]
+    },
+    "source": "D'après Wikipédia — Naruto"
+  },
+  {
+    "id": "manga-018",
+    "domain": "manga",
+    "subtheme": "Œuvres cultes",
+    "type": "classique",
+    "title": "Akira",
+    "summary": "Manga de Katsuhiro Otomo (1982-1990) adapté en film d'animation en 1988, Akira se déroule dans un Néo-Tokyo post-apocalyptique ravagé par des gangs de motards et des expériences militaires sur des enfants aux pouvoirs psychiques.\nLe film a fait découvrir l'animation japonaise adulte à l'Occident.",
+    "details": {
+      "wikipedia": "Akira (film)",
+      "sections": [
+        {
+          "titre": "L'histoire",
+          "texte": "En 2019, 31 ans après une explosion qui a détruit Tokyo, Kaneda, chef d'un gang de motards, voit son ami Tetsuo capturé par l'armée. Tetsuo développe des pouvoirs psychiques incontrôlables liés au mystérieux Akira. Le récit mêle critique du militarisme, souvenir d'Hiroshima et angoisse de la modernité."
+        },
+        {
+          "titre": "Une prouesse technique",
+          "texte": "Le film a coûté environ 1,1 milliard de yens, un budget énorme pour l'époque. Il utilise environ 160 000 dessins, 327 couleurs, et les dialogues ont été enregistrés avant l'animation pour synchroniser les lèvres, ce qui était rare au Japon."
+        },
+        {
+          "titre": "Son influence",
+          "texte": "Akira a influencé Matrix, Stranger Things, Chronicle, Kanye West ; la glissade à moto de Kaneda a été reprise dans d'innombrables œuvres, jusque dans Nope de Jordan Peele."
+        }
+      ],
+      "anecdotes": [
+        "Le film se déroule en 2019 et évoque les Jeux olympiques de Tokyo de 2020 ; Tokyo a réellement obtenu les JO de 2020… repoussés à cause d'une pandémie."
+      ]
+    },
+    "source": "D'après Wikipédia — Akira (film)"
+  },
+  {
+    "id": "manga-019",
+    "domain": "manga",
+    "subtheme": "Œuvres cultes",
+    "type": "classique",
+    "title": "Death Note",
+    "summary": "Écrit par Tsugumi Ōba et dessiné par Takeshi Obata (2003-2006), Death Note raconte l'histoire d'un lycéen brillant qui trouve un cahier capable de tuer quiconque dont on y écrit le nom.\nC'est un thriller psychologique, un duel d'intelligence entre deux génies.",
+    "details": {
+      "wikipedia": "Death Note",
+      "sections": [
+        {
+          "titre": "Le duel",
+          "texte": "Light Yagami, élève modèle, décide d'utiliser le Death Note pour éliminer les criminels et créer un monde « parfait » dont il serait le dieu, sous le nom de Kira. Le mystérieux détective L, excentrique et génial, se lance à sa poursuite. Chacun tente de démasquer l'autre sans se révéler."
+        },
+        {
+          "titre": "Les questions morales",
+          "texte": "Le manga interroge la justice, la peine de mort, le pouvoir absolu qui corrompt et la frontière entre justicier et tueur. Le lecteur est tour à tour fasciné et horrifié par Light."
+        },
+        {
+          "titre": "Ryuk",
+          "texte": "Le Death Note appartenait à Ryuk, un dieu de la mort (shinigami) qui s'ennuyait et l'a laissé tomber dans le monde humain pour se divertir. Il ne prend parti pour personne et adore les pommes."
+        }
+      ],
+      "anecdotes": [
+        "Le manga a été interdit dans certaines villes chinoises après que des élèves ont écrit des noms de camarades dans de faux Death Note."
+      ]
+    },
+    "source": "D'après Wikipédia — Death Note"
+  },
+  {
+    "id": "manga-020",
+    "domain": "manga",
+    "subtheme": "Œuvres cultes",
+    "type": "classique",
+    "title": "Demon Slayer",
+    "summary": "Créé par Koyoharu Gotōge (2016-2020), Demon Slayer (Kimetsu no Yaiba) suit Tanjiro, un jeune garçon qui devient chasseur de démons après le massacre de sa famille, pour rendre forme humaine à sa sœur Nezuko, transformée en démone.\nIl a battu des records de ventes au Japon.",
+    "details": {
+      "wikipedia": "Demon Slayer",
+      "sections": [
+        {
+          "titre": "L'histoire",
+          "texte": "Dans le Japon de l'ère Taishō (début du XXe siècle), Tanjiro Kamado rejoint le corps des pourfendeurs de démons. Il apprend la technique du souffle de l'eau et affronte les démons créés par Muzan Kibutsuji. Nezuko, qui porte un tube de bambou dans la bouche pour ne pas mordre, l'accompagne dans une boîte qu'il porte sur son dos, car elle ne supporte pas le soleil."
+        },
+        {
+          "titre": "Un phénomène",
+          "texte": "L'adaptation animée du studio Ufotable (2019), avec ses combats aux effets inspirés des estampes japonaises, a fait exploser les ventes du manga. Le film Le Train de l'infini (2020) est devenu le plus gros succès de l'histoire du box-office japonais, dépassant Le Voyage de Chihiro."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "23",
+          "label": "tomes"
+        },
+        {
+          "valeur": "> 150 millions",
+          "label": "d'exemplaires"
+        }
+      ],
+      "anecdotes": [
+        "La mangaka garde son identité secrète ; elle se représente sous la forme d'un crocodile à lunettes."
+      ]
+    },
+    "source": "D'après Wikipédia — Demon Slayer"
+  },
+  {
+    "id": "manga-021",
+    "domain": "manga",
+    "subtheme": "Œuvres cultes",
+    "type": "classique",
+    "title": "Jujutsu Kaisen",
+    "summary": "Créé par Gege Akutami (2018-2024), Jujutsu Kaisen suit Yuji Itadori, un lycéen qui avale un doigt maudit et devient l'hôte de Sukuna, le plus puissant des fléaux.\nIl devient exorciste pour combattre les fléaux nés des émotions négatives des humains.",
+    "details": {
+      "wikipedia": "Jujutsu Kaisen",
+      "sections": [
+        {
+          "titre": "L'univers",
+          "texte": "Les émotions négatives des humains (peur, haine, regret) donnent naissance à des fléaux, invisibles pour la plupart des gens. Les exorcistes utilisent l'énergie occulte et des techniques spéciales pour les combattre. Satoru Gojo, professeur surpuissant aux yeux bandés, est devenu l'un des personnages les plus populaires du manga récent."
+        },
+        {
+          "titre": "Les thèmes",
+          "texte": "La mort omniprésente et souvent brutale, le sens de mourir « correctement » entouré des siens, le poids des malédictions familiales. Le ton est plus sombre que les shōnen classiques."
+        }
+      ],
+      "anecdotes": [
+        "L'auteur a cité Bleach, Naruto et Hunter × Hunter comme influences."
+      ]
+    },
+    "source": "D'après Wikipédia — Jujutsu Kaisen"
+  },
+  {
+    "id": "manga-022",
+    "domain": "manga",
+    "subtheme": "Œuvres cultes",
+    "type": "classique",
+    "title": "Les Chevaliers du Zodiaque",
+    "summary": "Créé par Masami Kurumada en 1986, Saint Seiya, connu en France sous le nom des Chevaliers du Zodiaque, met en scène des jeunes guerriers protecteurs de la déesse Athéna, revêtus d'armures inspirées des constellations.\nIl a été un énorme succès en France dans le Club Dorothée.",
+    "details": {
+      "wikipedia": "Saint Seiya",
+      "sections": [
+        {
+          "titre": "L'histoire",
+          "texte": "Seiya, chevalier de Pégase, et ses compagnons Shiryu (Dragon), Hyoga (Cygne), Shun (Andromède) et Ikki (Phénix) protègent Saori Kido, réincarnation d'Athéna. Ils affrontent les 12 chevaliers d'or du Sanctuaire, puis les guerriers d'Asgard, les généraux de Poséidon et les spectres d'Hadès."
+        },
+        {
+          "titre": "Mythologie et cosmos",
+          "texte": "La série mélange mythologie grecque, astronomie et arts martiaux. Chaque chevalier puise dans son « cosmos », son énergie intérieure. La bataille des douze maisons, qui correspondent aux signes du zodiaque, est l'arc le plus célèbre."
+        }
+      ],
+      "anecdotes": [
+        "En France, la série a été si populaire que les jouets à armures démontables ont été parmi les plus vendus de la fin des années 1980.",
+        "Le générique français, chanté par Bernard Minet, est devenu culte."
+      ]
+    },
+    "source": "D'après Wikipédia — Saint Seiya"
+  },
+  {
+    "id": "manga-023",
+    "domain": "manga",
+    "subtheme": "Créateurs",
+    "type": "personnage",
+    "title": "Rumiko Takahashi",
+    "summary": "Née en 1957, Rumiko Takahashi est l'une des mangakas les plus vendues de l'histoire, surnommée « la princesse du manga ».\nOn lui doit Lamu, Ranma ½, Maison Ikkoku (Juliette je t'aime) et Inu-Yasha.",
+    "details": {
+      "wikipedia": "Rumiko Takahashi",
+      "epoque": "Depuis 1978",
+      "pourquoiCelebre": "Pour ses comédies loufoques et romantiques, qui ont connu un immense succès au Japon et en France.",
+      "ideesClefs": [
+        "Lamu (Urusei Yatsura, 1978), comédie de science-fiction avec une princesse extraterrestre",
+        "Maison Ikkoku (1980), comédie romantique réaliste",
+        "Ranma ½ (1987), dont le héros se transforme en fille au contact de l'eau froide",
+        "Inu-Yasha (1996), aventure dans le Japon médiéval",
+        "Grand prix du Festival de la bande dessinée d'Angoulême en 2019"
+      ],
+      "liens": [
+        {
+          "nom": "Kazuo Koike",
+          "relation": "scénariste dont elle suit les cours"
+        },
+        {
+          "nom": "Akiko Higashimura",
+          "relation": "mangaka qu'elle a inspirée"
+        }
+      ],
+      "anecdotes": [
+        "Elle est la deuxième autrice japonaise à recevoir le Grand Prix d'Angoulême, après Katsuhiro Otomo (2015)."
+      ]
+    },
+    "source": "D'après Wikipédia — Rumiko Takahashi"
+  },
+  {
+    "id": "manga-024",
+    "domain": "manga",
+    "subtheme": "Créateurs",
+    "type": "personnage",
+    "title": "Katsuhiro Otomo",
+    "summary": "Né en 1954, Katsuhiro Otomo est l'auteur et réalisateur d'Akira, œuvre qui a révolutionné le manga et l'animation.\nSon trait réaliste et détaillé a influencé des générations de dessinateurs.",
+    "details": {
+      "wikipedia": "Katsuhiro Ōtomo",
+      "epoque": "Depuis les années 1970",
+      "pourquoiCelebre": "Pour Akira, manga et film cultes qui ont ouvert l'Occident à l'animation japonaise adulte.",
+      "ideesClefs": [
+        "Influencé par la bande dessinée française, notamment Moebius",
+        "Dômu, rêves d'enfants (1980-1981), thriller psychique primé",
+        "Akira (1982-1990), manga de plus de 2 000 pages",
+        "Réalise le film Akira (1988)",
+        "Scénariste de Memories et de Metropolis (2001), d'après Tezuka",
+        "Grand Prix d'Angoulême en 2015"
+      ],
+      "liens": [
+        {
+          "nom": "Moebius (Jean Giraud)",
+          "relation": "dessinateur français qu'il admire et qui l'a influencé"
+        },
+        {
+          "nom": "Satoshi Kon",
+          "relation": "réalisateur (Perfect Blue) qui a débuté à ses côtés"
+        }
+      ],
+      "anecdotes": [
+        "Otomo a été le premier auteur de manga à recevoir le Grand Prix d'Angoulême."
+      ]
+    },
+    "source": "D'après Wikipédia — Katsuhiro Ōtomo"
+  },
+  {
+    "id": "manga-025",
+    "domain": "manga",
+    "subtheme": "Culture et vocabulaire",
+    "type": "vocabulaire",
+    "title": "Mangaka, anime et otaku",
+    "summary": "Un mangaka est un auteur de manga ; un anime est un dessin animé japonais ; un otaku est un passionné, parfois obsessionnel, de manga, d'anime ou de jeux vidéo.\nCes mots japonais sont entrés dans le vocabulaire des fans du monde entier.",
+    "details": {
+      "wikipedia": "Otaku",
+      "definition": "Manga : bande dessinée japonaise, lue de droite à gauche, souvent en noir et blanc, prépubliée en chapitres dans des magazines hebdomadaires ou mensuels, puis réunie en volumes (tankōbon). Anime : animation japonaise. Mangaka : dessinateur et souvent scénariste, aidé d'assistants. Otaku : au Japon, terme longtemps péjoratif pour un fan replié sur sa passion ; en Occident, il est souvent revendiqué avec fierté.",
+      "exemple": "Le quartier d'Akihabara à Tokyo est le paradis des otaku : boutiques de manga, figurines, jeux vidéo, maid cafés. Un mangaka populaire publie souvent environ 20 pages par semaine.",
+      "confusions": [
+        {
+          "mot": "Manhwa / manhua",
+          "explication": "bandes dessinées coréennes et chinoises ; le webtoon coréen se lit en défilement vertical sur smartphone"
+        },
+        {
+          "mot": "Light novel",
+          "explication": "roman court illustré, souvent adapté en manga et en anime"
+        },
+        {
+          "mot": "Cosplay",
+          "explication": "fait de se costumer en personnage de fiction"
+        }
+      ],
+      "anecdotes": [
+        "La France est le deuxième marché mondial du manga après le Japon."
+      ]
+    },
+    "source": "D'après Wikipédia — Otaku"
+  },
+  {
+    "id": "manga-026",
+    "domain": "manga",
+    "subtheme": "Culture et vocabulaire",
+    "type": "classique",
+    "title": "Le manga en France",
+    "summary": "La France est le deuxième marché mondial du manga, après le Japon. Environ un livre de bande dessinée sur deux vendu en France est un manga.\nCette passion est née avec les dessins animés japonais diffusés à la télévision dans les années 1970-1980.",
+    "details": {
+      "wikipedia": "Manga en France",
+      "sections": [
+        {
+          "titre": "Goldorak et le Club Dorothée",
+          "texte": "En 1978, la diffusion de Goldorak sur Antenne 2 est un phénomène. Puis, de 1987 à 1997, le Club Dorothée sur TF1 diffuse Dragon Ball, Les Chevaliers du Zodiaque, Ken le Survivant, Sailor Moon, Nicky Larson. Critiqué pour la violence de certains programmes, il crée toute une génération de fans."
+        },
+        {
+          "titre": "Le boom éditorial",
+          "texte": "Akira est le premier grand manga publié en France (1990, en couleurs, chez Glénat), puis Dragon Ball en 1993. Des éditeurs spécialisés apparaissent (Kana, Pika, Ki-oon, Kurokawa). Le pass Culture, lancé en 2021, a provoqué une nouvelle explosion des ventes chez les jeunes."
+        },
+        {
+          "titre": "Japan Expo",
+          "texte": "Créée en 2000, la Japan Expo, près de Paris, est l'un des plus grands festivals consacrés à la culture japonaise hors du Japon, avec environ 250 000 visiteurs par an."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "~2e",
+          "label": "marché mondial du manga"
+        },
+        {
+          "valeur": "~45 %",
+          "label": "des BD vendues en France sont des mangas (2021)"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Manga en France"
+  },
+  {
+    "id": "manga-027",
+    "domain": "manga",
+    "subtheme": "Culture et vocabulaire",
+    "type": "vocabulaire",
+    "title": "Mecha",
+    "summary": "Le mecha est un genre de manga et d'anime centré sur des robots géants, généralement pilotés par des humains.\nGoldorak, Gundam et Evangelion en sont les œuvres les plus célèbres.",
+    "details": {
+      "wikipedia": "Mecha",
+      "definition": "Super robot : robot quasi invincible aux attaques spectaculaires, dont le pilote crie le nom (Mazinger Z, Goldorak). Real robot : robots traités comme des armes de guerre réalistes, avec contraintes techniques, maintenance et production en série (Mobile Suit Gundam, 1979).",
+      "exemple": "Neon Genesis Evangelion (1995) d'Hideaki Anno détourne le genre : des adolescents traumatisés pilotent des créatures biomécaniques, dans une œuvre sur la dépression et la solitude. Au Japon, une statue du Gundam à l'échelle 1 (18 m, puis un modèle mobile à Yokohama) attire les touristes.",
+      "confusions": [
+        {
+          "mot": "Kaiju",
+          "explication": "monstre géant comme Godzilla, que les mechas combattent souvent"
+        },
+        {
+          "mot": "Transformers",
+          "explication": "robots américano-japonais qui se transforment en véhicules, issus de jouets Takara et Hasbro"
+        }
+      ],
+      "anecdotes": [
+        "Le film Pacific Rim (2013) de Guillermo del Toro rend hommage au genre mecha et aux kaiju."
+      ]
+    },
+    "source": "D'après Wikipédia — Mecha"
+  },
+  {
+    "id": "manga-028",
+    "domain": "manga",
+    "subtheme": "Culture et vocabulaire",
+    "type": "classique",
+    "title": "Le Weekly Shōnen Jump",
+    "summary": "Le Weekly Shōnen Jump est le magazine de prépublication de manga le plus vendu du Japon. Créé en 1968 par l'éditeur Shūeisha, il a publié Dragon Ball, One Piece, Naruto, Slam Dunk et Demon Slayer.\nSes lecteurs votent chaque semaine pour leurs séries préférées.",
+    "details": {
+      "wikipedia": "Weekly Shōnen Jump",
+      "sections": [
+        {
+          "titre": "Le système des votes",
+          "texte": "Chaque numéro contient un questionnaire où les lecteurs classent les séries. Les séries mal classées sont rapidement arrêtées, parfois après seulement une dizaine de chapitres. Ce système impitoyable pousse les auteurs à des rebondissements permanents."
+        },
+        {
+          "titre": "L'âge d'or",
+          "texte": "Au milieu des années 1990, porté par Dragon Ball et Slam Dunk, le magazine atteint un record de 6,53 millions d'exemplaires pour un seul numéro, début 1995. La fin de Dragon Ball la même année entraîne une baisse des ventes."
+        },
+        {
+          "titre": "À l'ère numérique",
+          "texte": "L'application Shōnen Jump+ et le service Manga Plus publient gratuitement de nombreux chapitres dans le monde entier, le jour même de leur sortie au Japon, pour lutter contre le piratage. Chainsaw Man et Spy × Family y ont connu un grand succès."
+        }
+      ],
+      "anecdotes": [
+        "Le magazine se lit, comme tous les mangas, de droite à gauche, et il est imprimé sur du papier recyclé de couleur."
+      ]
+    },
+    "source": "D'après Wikipédia — Weekly Shōnen Jump"
+  }
+]

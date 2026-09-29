@@ -1,0 +1,473 @@
+[
+  {
+    "id": "q-religions-001",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel événement de 1054 sépare durablement l'Église catholique et l'Église orthodoxe ?",
+    "choix": [
+      "Le concile de Nicée",
+      "Le Grand Schisme",
+      "La Réforme protestante",
+      "Le concile de Trente"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le Grand Schisme de 1054 résulte d'excommunications réciproques entre Rome et Constantinople, créant une rupture qui perdure encore aujourd'hui.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-religions-002",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Le bouddhisme repose sur la croyance en un dieu créateur unique.",
+    "reponse": false,
+    "explication": "Le bouddhisme ne repose pas sur un dieu créateur : il propose une voie de libération de la souffrance par l'éveil, sans nécessiter la croyance en une divinité créatrice.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-religions-003",
+    "domain": "religions",
+    "format": "associer",
+    "question": "Associe chaque religion à son texte fondateur principal.",
+    "paires": [
+      {
+        "gauche": "Islam",
+        "droite": "Le Coran"
+      },
+      {
+        "gauche": "Judaïsme",
+        "droite": "La Torah"
+      },
+      {
+        "gauche": "Hindouisme",
+        "droite": "Les Veda"
+      },
+      {
+        "gauche": "Christianisme",
+        "droite": "La Bible"
+      }
+    ],
+    "explication": "Chaque grande tradition religieuse s'appuie sur un corpus de textes fondateurs, transmis et interprété différemment selon les courants internes.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-religions-004",
+    "domain": "religions",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis un moine et théologien du 16e siècle.",
+      "Je conteste la vente d'indulgences par l'Église catholique.",
+      "J'aurais affiché 95 thèses en 1517.",
+      "Je traduis la Bible en allemand.",
+      "Mon nom est associé au mouvement de la Réforme protestante."
+    ],
+    "reponse": "Martin Luther",
+    "explication": "Martin Luther est la figure centrale de la Réforme protestante initiée en 1517, à l'origine de la division du christianisme occidental.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-religions-005",
+    "domain": "religions",
+    "format": "difference",
+    "question": "Quelle est la différence entre laïcité et athéisme ?",
+    "choix": [
+      "Il n'y a aucune différence, ce sont des synonymes",
+      "La laïcité est un principe d'organisation de l'État neutre envers les cultes ; l'athéisme est une position personnelle de non-croyance",
+      "La laïcité est une religion ; l'athéisme est une loi",
+      "L'athéisme concerne l'État, la laïcité concerne les individus"
+    ],
+    "bonneReponse": 1,
+    "explication": "La laïcité organise la neutralité de l'État vis-à-vis de toutes les croyances (y compris la non-croyance), tandis que l'athéisme est une conviction individuelle de non-croyance en une divinité.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-religions-006",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Combien y a-t-il de piliers de l'islam ?",
+    "choix": [
+      "3",
+      "5",
+      "7",
+      "10"
+    ],
+    "bonneReponse": 1,
+    "explication": "Profession de foi, prière, aumône, jeûne du ramadan et pèlerinage à La Mecque.",
+    "source": "D'après Wikipédia — Piliers de l'islam"
+  },
+  {
+    "id": "q-religions-007",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel est le plus petit État du monde ?",
+    "choix": [
+      "Monaco",
+      "Le Vatican",
+      "Saint-Marin",
+      "Le Liechtenstein"
+    ],
+    "bonneReponse": 1,
+    "explication": "0,44 km², au cœur de Rome.",
+    "source": "D'après Wikipédia — Vatican"
+  },
+  {
+    "id": "q-religions-008",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Qui a fondé le sikhisme ?",
+    "choix": [
+      "Le guru Nanak",
+      "Mahavira",
+      "Confucius",
+      "Gandhi"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le guru Nanak, au XVe siècle, au Pendjab.",
+    "source": "D'après Wikipédia — Guru Nanak"
+  },
+  {
+    "id": "q-religions-009",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Le ramadan a lieu chaque année à la même période du calendrier grégorien.",
+    "reponse": false,
+    "explication": "Le calendrier musulman est lunaire : le ramadan avance d'environ 11 jours chaque année.",
+    "source": "D'après Wikipédia — Ramadan"
+  },
+  {
+    "id": "q-religions-010",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quelle couleur de fumée annonce l'élection d'un nouveau pape ?",
+    "choix": [
+      "Noire",
+      "Blanche",
+      "Rouge",
+      "Jaune"
+    ],
+    "bonneReponse": 1,
+    "explication": "La fumée blanche sort de la cheminée de la chapelle Sixtine.",
+    "source": "D'après Wikipédia — Conclave"
+  },
+  {
+    "id": "q-religions-011",
+    "domain": "religions",
+    "format": "associer",
+    "question": "Associe chaque religion à son livre saint.",
+    "paires": [
+      {
+        "gauche": "Islam",
+        "droite": "Coran"
+      },
+      {
+        "gauche": "Judaïsme",
+        "droite": "Torah"
+      },
+      {
+        "gauche": "Sikhisme",
+        "droite": "Guru Granth Sahib"
+      },
+      {
+        "gauche": "Hindouisme",
+        "droite": "Védas"
+      },
+      {
+        "gauche": "Taoïsme",
+        "droite": "Tao-tö-king"
+      }
+    ],
+    "explication": "Chaque tradition a ses textes fondamentaux.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-religions-012",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Qui est considéré comme l'inventeur de la crèche de Noël vivante ?",
+    "choix": [
+      "Saint Nicolas",
+      "Saint François d'Assise",
+      "Saint Pierre",
+      "Saint Augustin"
+    ],
+    "bonneReponse": 1,
+    "explication": "À Greccio, en Italie, en 1223.",
+    "source": "D'après Wikipédia — François d'Assise"
+  },
+  {
+    "id": "q-religions-013",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Le dalaï-lama vit en exil en Inde depuis 1959.",
+    "reponse": true,
+    "explication": "Il a fui le Tibet après l'échec d'un soulèvement contre la Chine.",
+    "source": "D'après Wikipédia — 14e dalaï-lama"
+  },
+  {
+    "id": "q-religions-014",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quelle est la valeur centrale du jaïnisme ?",
+    "choix": [
+      "La richesse",
+      "La non-violence absolue (ahimsa)",
+      "La guerre sainte",
+      "Le culte des ancêtres"
+    ],
+    "bonneReponse": 1,
+    "explication": "Les jaïns évitent de nuire à tout être vivant, même aux micro-organismes.",
+    "source": "D'après Wikipédia — Ahimsa"
+  },
+  {
+    "id": "q-religions-015",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "En quelle année a été votée la loi française de séparation des Églises et de l'État ?",
+    "choix": [
+      "1789",
+      "1882",
+      "1905",
+      "1958"
+    ],
+    "bonneReponse": 2,
+    "explication": "La loi du 9 décembre 1905 fonde la laïcité française.",
+    "source": "D'après Wikipédia — Loi de séparation des Églises et de l'État"
+  },
+  {
+    "id": "q-religions-016",
+    "domain": "religions",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né vers 551 av. J.-C. en Chine.",
+      "J'ai enseigné la piété filiale et le respect des rites.",
+      "Mes paroles sont réunies dans les Entretiens.",
+      "Les examens impériaux chinois portaient sur mes enseignements."
+    ],
+    "reponse": "Confucius",
+    "explication": "Confucius a façonné la morale et la politique chinoises.",
+    "source": "D'après Wikipédia — Confucius"
+  },
+  {
+    "id": "q-religions-017",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Qu'est-ce que la Kaaba ?",
+    "choix": [
+      "Un livre saint",
+      "Un édifice cubique au centre de la Grande Mosquée de La Mecque",
+      "Une fête musulmane",
+      "Une prière du soir"
+    ],
+    "bonneReponse": 1,
+    "explication": "Les musulmans du monde entier se tournent vers elle pour prier.",
+    "source": "D'après Wikipédia — Kaaba"
+  },
+  {
+    "id": "q-religions-018",
+    "domain": "religions",
+    "format": "difference",
+    "question": "Quelle est la différence entre réincarnation et résurrection ?",
+    "choix": [
+      "La réincarnation est une renaissance dans un nouveau corps, la résurrection un retour à la vie du même être",
+      "La résurrection concerne les animaux",
+      "Ce sont des synonymes",
+      "La réincarnation n'existe que dans le christianisme"
+    ],
+    "bonneReponse": 0,
+    "explication": "Réincarnation : hindouisme, bouddhisme. Résurrection : christianisme, judaïsme, islam.",
+    "source": "D'après Wikipédia — Résurrection"
+  },
+  {
+    "id": "q-religions-019",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que signifie le mot « Christ » ?",
+    "choix": [
+      "Sauveur",
+      "Oint",
+      "Fils",
+      "Roi"
+    ],
+    "bonneReponse": 1,
+    "explication": "Du grec khristos, traduction de l'hébreu mashia'h (messie), « celui qui a reçu l'onction ».",
+    "source": "D'après Wikipédia — Christ (titre)"
+  },
+  {
+    "id": "q-religions-020",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "En Alsace-Moselle, les prêtres, pasteurs et rabbins sont rémunérés par l'État.",
+    "reponse": true,
+    "explication": "Le Concordat de 1801 y est toujours en vigueur car la région était allemande en 1905.",
+    "source": "D'après Wikipédia — Droit local en Alsace et en Moselle"
+  },
+  {
+    "id": "q-religions-021",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel pays compte le plus de musulmans au monde ?",
+    "choix": [
+      "L'Arabie saoudite",
+      "L'Égypte",
+      "L'Indonésie",
+      "L'Iran"
+    ],
+    "bonneReponse": 2,
+    "explication": "L'Indonésie compte plus de 230 millions de musulmans.",
+    "source": "D'après Wikipédia — Islam en Indonésie"
+  },
+  {
+    "id": "q-religions-022",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel symbole taoïste exprime l'équilibre des contraires ?",
+    "choix": [
+      "Le lotus",
+      "Le yin et le yang",
+      "Le mandala",
+      "L'étoile à huit branches"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le cercle noir et blanc où chaque moitié contient un point de l'autre.",
+    "source": "D'après Wikipédia — Yin et yang"
+  },
+  {
+    "id": "q-religions-023",
+    "domain": "religions",
+    "format": "associer",
+    "question": "Associe chaque lieu de culte à sa religion.",
+    "paires": [
+      {
+        "gauche": "Synagogue",
+        "droite": "Judaïsme"
+      },
+      {
+        "gauche": "Mosquée",
+        "droite": "Islam"
+      },
+      {
+        "gauche": "Gurdwara",
+        "droite": "Sikhisme"
+      },
+      {
+        "gauche": "Pagode",
+        "droite": "Bouddhisme"
+      }
+    ],
+    "explication": "Chaque religion a ses lieux de culte.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-religions-024",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Depuis quand la Garde suisse protège-t-elle le pape ?",
+    "choix": [
+      "1054",
+      "1506",
+      "1870",
+      "1929"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le pape Jules II a fait appel à des mercenaires suisses en 1506.",
+    "source": "D'après Wikipédia — Garde suisse pontificale"
+  },
+  {
+    "id": "q-religions-025",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "L'islam considère Jésus comme un prophète.",
+    "reponse": true,
+    "explication": "Issa est un grand prophète en islam, né de la vierge Marie (Maryam), mais pas le fils de Dieu.",
+    "source": "D'après Wikipédia — Jésus dans l'islam"
+  },
+  {
+    "id": "q-religions-026",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Comment s'appelle le repas de rupture du jeûne pendant le ramadan ?",
+    "choix": [
+      "Le sohour",
+      "L'iftar",
+      "L'Aïd",
+      "Le hajj"
+    ],
+    "bonneReponse": 1,
+    "explication": "L'iftar est pris au coucher du soleil ; le sohour avant l'aube.",
+    "source": "D'après Wikipédia — Iftar"
+  },
+  {
+    "id": "q-religions-027",
+    "domain": "religions",
+    "format": "frise",
+    "question": "Remets ces événements religieux dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Hégire de Mahomet",
+        "annee": "622"
+      },
+      {
+        "label": "Grand Schisme d'Orient",
+        "annee": "1054"
+      },
+      {
+        "label": "Naissance du guru Nanak",
+        "annee": "1469"
+      },
+      {
+        "label": "95 thèses de Luther",
+        "annee": "1517"
+      },
+      {
+        "label": "Loi de séparation en France",
+        "annee": "1905"
+      }
+    ],
+    "explication": "Du VIIe au XXe siècle.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-religions-028",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quelle langue Jésus parlait-il probablement ?",
+    "choix": [
+      "Le latin",
+      "Le grec",
+      "L'araméen",
+      "L'arabe"
+    ],
+    "bonneReponse": 2,
+    "explication": "L'araméen était la langue courante en Palestine au Ier siècle.",
+    "source": "D'après Wikipédia — Araméen"
+  },
+  {
+    "id": "q-religions-029",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que distribuent gratuitement les temples sikhs à tous les visiteurs ?",
+    "choix": [
+      "Des livres",
+      "Des repas (langar)",
+      "De l'argent",
+      "Des vêtements"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le langar est un repas végétarien offert à tous, sans distinction.",
+    "source": "D'après Wikipédia — Langar"
+  },
+  {
+    "id": "q-religions-030",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Qui a inventé le mot « agnostique » ?",
+    "choix": [
+      "Voltaire",
+      "Thomas Huxley",
+      "Charles Darwin",
+      "Nietzsche"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le biologiste Thomas Huxley, surnommé « le bouledogue de Darwin », en 1869.",
+    "source": "D'après Wikipédia — Thomas Henry Huxley"
+  }
+]

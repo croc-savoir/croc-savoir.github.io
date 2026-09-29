@@ -1,0 +1,462 @@
+[
+  {
+    "id": "q-animaux-001",
+    "domain": "animaux",
+    "format": "qui-suis-je",
+    "indices": [
+      "On ne me trouve que dans le nord du golfe de Californie.",
+      "Je suis un petit marsouin.",
+      "Il ne resterait que quelques dizaines d'individus de mon espèce.",
+      "Je suis considéré comme le mammifère marin le plus menacé au monde."
+    ],
+    "reponse": "Vaquita",
+    "explication": "La vaquita est menacée par les captures accidentelles dans des filets de pêche illégaux destinés à un autre poisson, le totoaba.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-animaux-002",
+    "domain": "animaux",
+    "format": "frise",
+    "question": "Remets ces étapes de la vie d'un animal hibernant dans l'ordre chronologique au fil d'une année.",
+    "evenements": [
+      {
+        "label": "Constitution de réserves de graisse avant l'hiver",
+        "annee": "1"
+      },
+      {
+        "label": "Entrée en hibernation, ralentissement du métabolisme",
+        "annee": "2"
+      },
+      {
+        "label": "Réveil progressif au printemps",
+        "annee": "3"
+      },
+      {
+        "label": "Reprise de l'alimentation normale",
+        "annee": "4"
+      }
+    ],
+    "explication": "Avant l'hiver, l'animal accumule des réserves, puis ralentit fortement son métabolisme pendant l'hibernation, avant de se réveiller progressivement au printemps.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-animaux-003",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quelle est la principale cause de déclin du pangolin ?",
+    "choix": [
+      "La perte d'habitat uniquement",
+      "Le trafic illégal de ses écailles et de sa viande",
+      "Le changement climatique",
+      "La concurrence avec d'autres espèces"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le pangolin est présenté comme le mammifère sauvage le plus victime de trafic illégal au monde, ses écailles étant utilisées dans certaines médecines traditionnelles.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-animaux-004",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le panda géant est aujourd'hui classé « vulnérable » plutôt que « en danger » grâce aux efforts de conservation en Chine.",
+    "reponse": true,
+    "explication": "Le statut du panda géant s'est amélioré au fil des décennies grâce aux réserves naturelles et aux programmes de reproduction en captivité.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-animaux-005",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque espèce menacée à sa principale zone d'habitat.",
+    "paires": [
+      {
+        "gauche": "Tigre de Sumatra",
+        "droite": "Île de Sumatra, Indonésie"
+      },
+      {
+        "gauche": "Gorille des montagnes",
+        "droite": "Massifs volcaniques d'Afrique centrale"
+      },
+      {
+        "gauche": "Kakapo",
+        "droite": "Îles sanctuaires de Nouvelle-Zélande"
+      },
+      {
+        "gauche": "Rhinocéros noir",
+        "droite": "Savanes d'Afrique de l'Est et australe"
+      }
+    ],
+    "explication": "Chacune de ces espèces menacées dépend d'un habitat très spécifique, ce qui la rend d'autant plus vulnérable à sa destruction.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-animaux-006",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel est l'animal terrestre le plus rapide ?",
+    "choix": [
+      "Le lion",
+      "Le guépard",
+      "L'antilope",
+      "Le lévrier"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le guépard atteint environ 100 à 110 km/h, mais seulement sur quelques centaines de mètres.",
+    "source": "D'après Wikipédia — Guépard"
+  },
+  {
+    "id": "q-animaux-007",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Combien de cœurs possède une pieuvre ?",
+    "choix": [
+      "1",
+      "2",
+      "3",
+      "8"
+    ],
+    "bonneReponse": 2,
+    "explication": "Deux cœurs branchiaux et un cœur systémique. Son sang est bleu.",
+    "source": "D'après Wikipédia — Octopoda"
+  },
+  {
+    "id": "q-animaux-008",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "La fourrure de l'ours polaire est blanche et sa peau est rose.",
+    "reponse": false,
+    "explication": "Ses poils sont transparents et creux, et sa peau est noire pour absorber la chaleur.",
+    "source": "D'après Wikipédia — Ours blanc"
+  },
+  {
+    "id": "q-animaux-009",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel mammifère pond des œufs ?",
+    "choix": [
+      "Le kangourou",
+      "L'ornithorynque",
+      "Le koala",
+      "Le pangolin"
+    ],
+    "bonneReponse": 1,
+    "explication": "L'ornithorynque et les échidnés sont les seuls mammifères ovipares (monotrèmes).",
+    "source": "D'après Wikipédia — Ornithorynque"
+  },
+  {
+    "id": "q-animaux-010",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel est le plus grand poisson du monde ?",
+    "choix": [
+      "Le grand requin blanc",
+      "La baleine bleue",
+      "Le requin-baleine",
+      "Le poisson-lune"
+    ],
+    "bonneReponse": 2,
+    "explication": "Le requin-baleine dépasse 12 m. La baleine bleue est un mammifère, pas un poisson.",
+    "source": "D'après Wikipédia — Requin-baleine"
+  },
+  {
+    "id": "q-animaux-011",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le loup est revenu en France naturellement, depuis l'Italie, en 1992.",
+    "reponse": true,
+    "explication": "Il a été observé dans le parc du Mercantour, sans réintroduction.",
+    "source": "D'après Wikipédia — Loup en France"
+  },
+  {
+    "id": "q-animaux-012",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quelle salamandre mexicaine est célèbre pour régénérer ses membres ?",
+    "choix": [
+      "Le triton",
+      "L'axolotl",
+      "Le protée",
+      "Le necture"
+    ],
+    "bonneReponse": 1,
+    "explication": "L'axolotl régénère pattes, queue, moelle épinière et même une partie de son cœur.",
+    "source": "D'après Wikipédia — Axolotl"
+  },
+  {
+    "id": "q-animaux-013",
+    "domain": "animaux",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis microscopique et j'ai huit pattes.",
+      "On me surnomme « ourson d'eau ».",
+      "Je vis dans les mousses des toits.",
+      "J'ai survécu au vide spatial en 2007."
+    ],
+    "reponse": "Tardigrade",
+    "explication": "Le tardigrade entre en cryptobiose pour survivre à des conditions extrêmes.",
+    "source": "D'après Wikipédia — Tardigrada"
+  },
+  {
+    "id": "q-animaux-014",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Chez quel animal est-ce le mâle qui porte les petits et « accouche » ?",
+    "choix": [
+      "Le manchot empereur",
+      "L'hippocampe",
+      "Le kangourou",
+      "Le crocodile"
+    ],
+    "bonneReponse": 1,
+    "explication": "La femelle hippocampe dépose ses œufs dans la poche ventrale du mâle.",
+    "source": "D'après Wikipédia — Hippocampe (poisson)"
+  },
+  {
+    "id": "q-animaux-015",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque animal à son record.",
+    "paires": [
+      {
+        "gauche": "Baleine bleue",
+        "droite": "Plus grand animal de tous les temps"
+      },
+      {
+        "gauche": "Guépard",
+        "droite": "Plus rapide sur terre"
+      },
+      {
+        "gauche": "Colibri d'Elena",
+        "droite": "Plus petit oiseau"
+      },
+      {
+        "gauche": "Sterne arctique",
+        "droite": "Plus longue migration"
+      },
+      {
+        "gauche": "Éléphant",
+        "droite": "Plus longue gestation (~22 mois)"
+      }
+    ],
+    "explication": "Cinq champions du règne animal.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-animaux-016",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi le vaquita est-il au bord de l'extinction ?",
+    "choix": [
+      "Il est chassé pour sa viande",
+      "Il se noie dans des filets illégaux destinés au totoaba",
+      "Son eau est trop chaude",
+      "Il est mangé par les orques"
+    ],
+    "bonneReponse": 1,
+    "explication": "Il est victime collatérale de la pêche illégale d'un poisson dont la vessie natatoire vaut une fortune.",
+    "source": "D'après Wikipédia — Marsouin du Pacifique"
+  },
+  {
+    "id": "q-animaux-017",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "L'ours brun fait une véritable hibernation, comme la marmotte.",
+    "reponse": false,
+    "explication": "L'ours fait un sommeil hivernal : sa température ne baisse que de quelques degrés.",
+    "source": "D'après Wikipédia — Hibernation"
+  },
+  {
+    "id": "q-animaux-018",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "De quoi est faite la corne de rhinocéros ?",
+    "choix": [
+      "D'os",
+      "D'ivoire",
+      "De kératine",
+      "De cartilage"
+    ],
+    "bonneReponse": 2,
+    "explication": "La même matière que nos ongles et nos cheveux ; elle n'a aucune vertu médicinale prouvée.",
+    "source": "D'après Wikipédia — Rhinocéros"
+  },
+  {
+    "id": "q-animaux-019",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Comment les abeilles indiquent-elles l'emplacement des fleurs à leurs congénères ?",
+    "choix": [
+      "Par un chant",
+      "Par une danse",
+      "Par des couleurs",
+      "Elles ne communiquent pas"
+    ],
+    "bonneReponse": 1,
+    "explication": "La danse frétillante indique direction et distance ; elle a été décodée par Karl von Frisch.",
+    "source": "D'après Wikipédia — Danse des abeilles"
+  },
+  {
+    "id": "q-animaux-020",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Quelle est la différence entre un animal ovipare et un animal vivipare ?",
+    "choix": [
+      "L'ovipare pond des œufs, le vivipare donne naissance à des petits vivants",
+      "L'ovipare vit dans l'eau, le vivipare sur terre",
+      "L'ovipare mange des œufs",
+      "Aucune"
+    ],
+    "bonneReponse": 0,
+    "explication": "La poule est ovipare, le chat vivipare.",
+    "source": "D'après Wikipédia — Viviparité"
+  },
+  {
+    "id": "q-animaux-021",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Qu'est-ce que le panda géant mange principalement ?",
+    "choix": [
+      "Des fruits",
+      "Des poissons",
+      "Du bambou",
+      "Des insectes"
+    ],
+    "bonneReponse": 2,
+    "explication": "Le bambou représente environ 99 % de son alimentation, alors qu'il appartient à l'ordre des carnivores.",
+    "source": "D'après Wikipédia — Panda géant"
+  },
+  {
+    "id": "q-animaux-022",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Les corneilles peuvent reconnaître un visage humain pendant des années.",
+    "reponse": true,
+    "explication": "Des études ont montré qu'elles se souvenaient d'un chercheur masqué et transmettaient leur méfiance aux autres.",
+    "source": "D'après Wikipédia — Corneille d'Amérique"
+  },
+  {
+    "id": "q-animaux-023",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel oiseau de Nouvelle-Zélande est le seul perroquet incapable de voler ?",
+    "choix": [
+      "Le kiwi",
+      "Le kakapo",
+      "Le kéa",
+      "Le moa"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le kakapo est nocturne, incapable de voler, et chaque individu porte un prénom.",
+    "source": "D'après Wikipédia — Kakapo"
+  },
+  {
+    "id": "q-animaux-024",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Combien de temps une femelle orang-outan garde-t-elle son petit auprès d'elle ?",
+    "choix": [
+      "6 mois",
+      "2 ans",
+      "7 à 8 ans",
+      "15 ans"
+    ],
+    "bonneReponse": 2,
+    "explication": "C'est l'intervalle entre naissances le plus long chez les mammifères.",
+    "source": "D'après Wikipédia — Orang-outan"
+  },
+  {
+    "id": "q-animaux-025",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi certaines fourmis découpent-elles des feuilles ?",
+    "choix": [
+      "Pour les manger",
+      "Pour cultiver un champignon dont elles se nourrissent",
+      "Pour construire des toits",
+      "Pour se camoufler"
+    ],
+    "bonneReponse": 1,
+    "explication": "Les fourmis champignonnistes pratiquent une forme d'agriculture depuis des dizaines de millions d'années.",
+    "source": "D'après Wikipédia — Fourmi champignonniste"
+  },
+  {
+    "id": "q-animaux-026",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque animal menacé à son pays ou sa région.",
+    "paires": [
+      {
+        "gauche": "Axolotl",
+        "droite": "Mexique"
+      },
+      {
+        "gauche": "Kakapo",
+        "droite": "Nouvelle-Zélande"
+      },
+      {
+        "gauche": "Gorille des montagnes",
+        "droite": "Rwanda / Ouganda / RD Congo"
+      },
+      {
+        "gauche": "Tigre de Sumatra",
+        "droite": "Indonésie"
+      }
+    ],
+    "explication": "Beaucoup d'espèces menacées vivent dans une zone très réduite.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-animaux-027",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Combien de lynx boréaux vivent environ en France ?",
+    "choix": [
+      "~15",
+      "~150",
+      "~1 500",
+      "~15 000"
+    ],
+    "bonneReponse": 1,
+    "explication": "Environ 150, surtout dans le Jura : une population encore très fragile.",
+    "source": "D'après Wikipédia — Lynx boréal"
+  },
+  {
+    "id": "q-animaux-028",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Les « loups alpha » qui dominent la meute par la force sont la règle chez les loups sauvages.",
+    "reponse": false,
+    "explication": "Cette idée vient de loups captifs non apparentés. Une meute sauvage est une famille menée par les parents.",
+    "source": "D'après Wikipédia — Loup gris"
+  },
+  {
+    "id": "q-animaux-029",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Combien de fois par seconde un colibri bat-il des ailes, en vol normal ?",
+    "choix": [
+      "~5",
+      "~15",
+      "~50 à 80",
+      "~1 000"
+    ],
+    "bonneReponse": 2,
+    "explication": "Ce battement rapide lui permet le vol stationnaire et même le vol en arrière.",
+    "source": "D'après Wikipédia — Trochilidae"
+  },
+  {
+    "id": "q-animaux-030",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi les naturalistes anglais ont-ils cru à un canular en découvrant l'ornithorynque ?",
+    "choix": [
+      "Il parlait",
+      "Il semblait fait de morceaux d'animaux différents cousus ensemble",
+      "Il était invisible",
+      "Il était trop grand"
+    ],
+    "bonneReponse": 1,
+    "explication": "Bec de canard, queue de castor, pattes palmées : George Shaw a cherché des coutures en 1799.",
+    "source": "D'après Wikipédia — Ornithorynque"
+  }
+]

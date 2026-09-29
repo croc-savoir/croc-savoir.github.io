@@ -1,0 +1,466 @@
+[
+  {
+    "id": "q-art-001",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel mouvement pictural doit son nom à une critique moqueuse visant un tableau de Claude Monet ?",
+    "choix": [
+      "Le cubisme",
+      "L'impressionnisme",
+      "Le surréalisme",
+      "L'Art nouveau"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le terme « impressionnisme » vient du tableau \"Impression, soleil levant\" de Monet, moqué par un critique avant d'être adopté par les artistes eux-mêmes.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-art-002",
+    "domain": "art",
+    "format": "qui-suis-je",
+    "indices": [
+      "J'ai vécu à la Renaissance italienne.",
+      "Je tenais des carnets sur l'anatomie et les machines volantes.",
+      "J'ai peint la Cène.",
+      "Mon tableau le plus célèbre est un portrait de femme au sourire énigmatique."
+    ],
+    "reponse": "Léonard de Vinci",
+    "explication": "Léonard de Vinci est l'auteur de la Joconde et incarne l'esprit universel de la Renaissance, entre art et science.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-art-003",
+    "domain": "art",
+    "format": "frise",
+    "question": "Remets ces mouvements artistiques dans l'ordre chronologique d'apparition.",
+    "evenements": [
+      {
+        "label": "Impressionnisme",
+        "annee": "1870"
+      },
+      {
+        "label": "Cubisme",
+        "annee": "1907"
+      },
+      {
+        "label": "Surréalisme",
+        "annee": "1924"
+      },
+      {
+        "label": "Pop art",
+        "annee": "1955"
+      }
+    ],
+    "explication": "Ces mouvements se sont succédé sur moins d'un siècle, chacun réagissant souvent aux codes du précédent.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-art-004",
+    "domain": "art",
+    "format": "vrai-faux",
+    "affirmation": "Le clair-obscur est une technique qui joue sur de forts contrastes entre zones claires et zones sombres.",
+    "reponse": true,
+    "explication": "Le clair-obscur, très utilisé par les peintres baroques comme Caravage, crée du volume et du drame grâce à ce contraste marqué.",
+    "source": "Consensus établi (histoire de l'art)"
+  },
+  {
+    "id": "q-art-005",
+    "domain": "art",
+    "format": "difference",
+    "question": "Quelle est la différence entre une œuvre figurative et une œuvre abstraite ?",
+    "choix": [
+      "Une œuvre figurative représente des formes reconnaissables du réel, une œuvre abstraite s'en détache",
+      "Ce sont deux mots pour désigner la même chose",
+      "L'abstraction est toujours plus ancienne que la figuration",
+      "La figuration ne concerne que la sculpture"
+    ],
+    "bonneReponse": 0,
+    "explication": "La figuration représente des sujets identifiables (personnages, paysages...), tandis que l'abstraction privilégie formes et couleurs pour elles-mêmes.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-art-006",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Qui a peint le plafond de la chapelle Sixtine ?",
+    "choix": [
+      "Raphaël",
+      "Léonard de Vinci",
+      "Michel-Ange",
+      "Botticelli"
+    ],
+    "bonneReponse": 2,
+    "explication": "Michel-Ange l'a peint de 1508 à 1512 à la demande du pape Jules II.",
+    "source": "D'après Wikipédia — Plafond de la chapelle Sixtine"
+  },
+  {
+    "id": "q-art-007",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel tableau de Picasso dénonce le bombardement d'une ville basque en 1937 ?",
+    "choix": [
+      "Les Demoiselles d'Avignon",
+      "Guernica",
+      "La Vie",
+      "Le Vieux Guitariste"
+    ],
+    "bonneReponse": 1,
+    "explication": "Guernica a été peint pour l'Exposition universelle de Paris de 1937.",
+    "source": "D'après Wikipédia — Guernica (tableau)"
+  },
+  {
+    "id": "q-art-008",
+    "domain": "art",
+    "format": "vrai-faux",
+    "affirmation": "La Ronde de nuit de Rembrandt représente une scène nocturne.",
+    "reponse": false,
+    "explication": "La scène est diurne ; le vernis noirci avait trompé les observateurs du XVIIIe siècle.",
+    "source": "D'après Wikipédia — La Ronde de nuit"
+  },
+  {
+    "id": "q-art-009",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel peintre est l'auteur de La Jeune Fille à la perle ?",
+    "choix": [
+      "Rembrandt",
+      "Vermeer",
+      "Rubens",
+      "Van Eyck"
+    ],
+    "bonneReponse": 1,
+    "explication": "Johannes Vermeer, vers 1665. Le tableau est au Mauritshuis de La Haye.",
+    "source": "D'après Wikipédia — La Jeune Fille à la perle"
+  },
+  {
+    "id": "q-art-010",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel tableau a donné son nom à l'impressionnisme ?",
+    "choix": [
+      "Le Déjeuner sur l'herbe",
+      "Impression, soleil levant",
+      "Les Nymphéas",
+      "Bal du moulin de la Galette"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le tableau de Monet, exposé en 1874, a été moqué par un critique qui a inventé le mot.",
+    "source": "D'après Wikipédia — Impression, soleil levant"
+  },
+  {
+    "id": "q-art-011",
+    "domain": "art",
+    "format": "associer",
+    "question": "Associe chaque œuvre à son auteur.",
+    "paires": [
+      {
+        "gauche": "Le Cri",
+        "droite": "Edvard Munch"
+      },
+      {
+        "gauche": "La Naissance de Vénus",
+        "droite": "Botticelli"
+      },
+      {
+        "gauche": "Le Radeau de La Méduse",
+        "droite": "Géricault"
+      },
+      {
+        "gauche": "La Grande Vague de Kanagawa",
+        "droite": "Hokusai"
+      },
+      {
+        "gauche": "La Persistance de la mémoire",
+        "droite": "Salvador Dalí"
+      }
+    ],
+    "explication": "Cinq chefs-d'œuvre de cinq époques.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-art-012",
+    "domain": "art",
+    "format": "vrai-faux",
+    "affirmation": "La Joconde est peinte sur un panneau de bois.",
+    "reponse": true,
+    "explication": "Elle est peinte sur un panneau de peuplier de 77 × 53 cm.",
+    "source": "D'après Wikipédia — La Joconde"
+  },
+  {
+    "id": "q-art-013",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel artiste britannique anonyme a fait s'autodétruire une de ses œuvres lors d'une vente aux enchères ?",
+    "choix": [
+      "Invader",
+      "JR",
+      "Banksy",
+      "Keith Haring"
+    ],
+    "bonneReponse": 2,
+    "explication": "En 2018, La Fille au ballon a été en partie broyée par une broyeuse cachée dans le cadre.",
+    "source": "D'après Wikipédia — Banksy"
+  },
+  {
+    "id": "q-art-014",
+    "domain": "art",
+    "format": "qcm",
+    "question": "De quel liant est faite la peinture tempera traditionnelle ?",
+    "choix": [
+      "Huile de lin",
+      "Jaune d'œuf",
+      "Résine synthétique",
+      "Cire d'abeille"
+    ],
+    "bonneReponse": 1,
+    "explication": "La tempera à l'œuf dominait avant la généralisation de la peinture à l'huile au XVe siècle.",
+    "source": "D'après Wikipédia — Tempera"
+  },
+  {
+    "id": "q-art-015",
+    "domain": "art",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né en 1606 à Leyde.",
+      "J'ai peint près de 80 autoportraits.",
+      "J'ai fait faillite en 1656.",
+      "Mon tableau le plus célèbre est un portrait de milice rebaptisé à tort « de nuit »."
+    ],
+    "reponse": "Rembrandt",
+    "explication": "Rembrandt est le maître du Siècle d'or hollandais.",
+    "source": "D'après Wikipédia — Rembrandt"
+  },
+  {
+    "id": "q-art-016",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel mouvement artistique est né à Rome vers 1600 et cherche à émouvoir par le mouvement et la théâtralité ?",
+    "choix": [
+      "Le classicisme",
+      "Le baroque",
+      "Le rococo",
+      "Le romantisme"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le baroque, avec Bernin, Caravage et Rubens.",
+    "source": "D'après Wikipédia — Art baroque"
+  },
+  {
+    "id": "q-art-017",
+    "domain": "art",
+    "format": "vrai-faux",
+    "affirmation": "Michel-Ange a peint le plafond de la Sixtine allongé sur le dos.",
+    "reponse": false,
+    "explication": "C'est une légende : il peignait debout, la tête renversée, sur un échafaudage de son invention.",
+    "source": "D'après Wikipédia — Plafond de la chapelle Sixtine"
+  },
+  {
+    "id": "q-art-018",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Qui a découvert le tombeau de Toutânkhamon en 1922 ?",
+    "choix": [
+      "Jean-François Champollion",
+      "Howard Carter",
+      "Auguste Mariette",
+      "Heinrich Schliemann"
+    ],
+    "bonneReponse": 1,
+    "explication": "L'égyptologue britannique Howard Carter, financé par Lord Carnarvon.",
+    "source": "D'après Wikipédia — Howard Carter"
+  },
+  {
+    "id": "q-art-019",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel groupe expressionniste a été fondé à Dresde en 1905 ?",
+    "choix": [
+      "Der Blaue Reiter",
+      "Die Brücke",
+      "Le Bauhaus",
+      "Les Fauves"
+    ],
+    "bonneReponse": 1,
+    "explication": "Die Brücke (Le Pont), avec Kirchner. Der Blaue Reiter a été fondé à Munich en 1911.",
+    "source": "D'après Wikipédia — Die Brücke"
+  },
+  {
+    "id": "q-art-020",
+    "domain": "art",
+    "format": "difference",
+    "question": "Quelle est la différence entre l'aquarelle et la gouache ?",
+    "choix": [
+      "L'aquarelle est transparente, la gouache est opaque",
+      "L'aquarelle est à l'huile",
+      "La gouache sèche en plusieurs semaines",
+      "Aucune"
+    ],
+    "bonneReponse": 0,
+    "explication": "Toutes deux sont des peintures à l'eau, mais la gouache couvre.",
+    "source": "D'après Wikipédia — Gouache"
+  },
+  {
+    "id": "q-art-021",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Combien de tableaux sont attribués avec certitude à Vermeer, environ ?",
+    "choix": [
+      "~35",
+      "~150",
+      "~500",
+      "~1 000"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une trentaine seulement, ce qui rend chacun d'eux très précieux.",
+    "source": "D'après Wikipédia — Johannes Vermeer"
+  },
+  {
+    "id": "q-art-022",
+    "domain": "art",
+    "format": "frise",
+    "question": "Remets ces mouvements artistiques dans l'ordre d'apparition.",
+    "evenements": [
+      {
+        "label": "Baroque",
+        "annee": "1600"
+      },
+      {
+        "label": "Romantisme (Radeau de La Méduse)",
+        "annee": "1819"
+      },
+      {
+        "label": "Impressionnisme (1re exposition)",
+        "annee": "1874"
+      },
+      {
+        "label": "Cubisme (Demoiselles d'Avignon)",
+        "annee": "1907"
+      },
+      {
+        "label": "Pop art (soupes Campbell)",
+        "annee": "1962"
+      }
+    ],
+    "explication": "Du baroque au pop art, plus de trois siècles et demi.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-art-023",
+    "domain": "art",
+    "format": "vrai-faux",
+    "affirmation": "Van Gogh n'a vendu aucun tableau de son vivant.",
+    "reponse": false,
+    "explication": "Il a au moins vendu La Vigne rouge en 1890 ; la légende de l'artiste qui n'a rien vendu est exagérée.",
+    "source": "D'après Wikipédia — La Vigne rouge"
+  },
+  {
+    "id": "q-art-024",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quelle technique donne un contour vaporeux au sourire de La Joconde ?",
+    "choix": [
+      "Le pointillisme",
+      "Le sfumato",
+      "L'impasto",
+      "Le glacis doré"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le sfumato superpose de fines couches pour créer des transitions sans contours nets.",
+    "source": "D'après Wikipédia — Sfumato"
+  },
+  {
+    "id": "q-art-025",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quelle célèbre sculpture de Rodin faisait à l'origine partie de La Porte de l'Enfer ?",
+    "choix": [
+      "Le Penseur",
+      "La Vénus de Milo",
+      "Le David",
+      "Le Discobole"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Penseur représentait Dante contemplant les cercles de l'Enfer.",
+    "source": "D'après Wikipédia — Le Penseur"
+  },
+  {
+    "id": "q-art-026",
+    "domain": "art",
+    "format": "associer",
+    "question": "Associe chaque artiste à son pays d'origine.",
+    "paires": [
+      {
+        "gauche": "Frida Kahlo",
+        "droite": "Mexique"
+      },
+      {
+        "gauche": "Edvard Munch",
+        "droite": "Norvège"
+      },
+      {
+        "gauche": "Hokusai",
+        "droite": "Japon"
+      },
+      {
+        "gauche": "Picasso",
+        "droite": "Espagne"
+      }
+    ],
+    "explication": "Quatre pays, quatre artistes majeurs.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-art-027",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel pigment coûteux Vermeer utilisait-il pour ses bleus ?",
+    "choix": [
+      "Le bleu de Prusse",
+      "L'outremer (lapis-lazuli)",
+      "Le bleu de cobalt",
+      "L'indigo"
+    ],
+    "bonneReponse": 1,
+    "explication": "L'outremer naturel, fait de lapis-lazuli broyé importé d'Afghanistan, valait plus cher que l'or.",
+    "source": "D'après Wikipédia — Outremer (pigment)"
+  },
+  {
+    "id": "q-art-028",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Qui a réalisé les entrées Art nouveau du métro parisien ?",
+    "choix": [
+      "Alfons Mucha",
+      "Hector Guimard",
+      "Émile Gallé",
+      "Antoni Gaudí"
+    ],
+    "bonneReponse": 1,
+    "explication": "Hector Guimard a conçu ces entrées en fonte à motifs végétaux vers 1900.",
+    "source": "D'après Wikipédia — Hector Guimard"
+  },
+  {
+    "id": "q-art-029",
+    "domain": "art",
+    "format": "vrai-faux",
+    "affirmation": "Dans l'art égyptien antique, la taille d'un personnage dépendait de son importance.",
+    "reponse": true,
+    "explication": "C'est la perspective hiérarchique : le pharaon est représenté plus grand que ses sujets.",
+    "source": "D'après Wikipédia — Art de l'Égypte antique"
+  },
+  {
+    "id": "q-art-030",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quelle anamorphose célèbre cache un crâne déformé au premier plan ?",
+    "choix": [
+      "Les Ambassadeurs de Holbein",
+      "La Joconde",
+      "Les Ménines de Velázquez",
+      "L'Angélus de Millet"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans Les Ambassadeurs (1533), le crâne n'apparaît correctement que vu de biais.",
+    "source": "D'après Wikipédia — Les Ambassadeurs"
+  }
+]

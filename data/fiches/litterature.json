@@ -1,0 +1,1066 @@
+[
+  {
+    "id": "litterature-001",
+    "domain": "litterature",
+    "subtheme": "Romantisme",
+    "type": "personnage",
+    "title": "Victor Hugo",
+    "summary": "Écrivain et poète français du XIXe siècle, figure centrale du romantisme.\nAuteur des Misérables et de Notre-Dame de Paris, il fut aussi un homme politique engagé, exilé sous le Second Empire.",
+    "details": {
+      "epoque": "1802-1885, XIXe siècle",
+      "pourquoiCelebre": "Chef de file du mouvement romantique français, auteur de romans, poèmes et pièces de théâtre parmi les plus lus au monde.",
+      "ideesClefs": [
+        "Défense des opprimés et critique sociale (Les Misérables)",
+        "Renouvellement du théâtre avec la préface de Cromwell (1827)",
+        "Engagement politique contre Napoléon III, exil à Guernesey"
+      ],
+      "liens": [
+        {
+          "nom": "Alexandre Dumas",
+          "relation": "Contemporain et autre grande figure du romantisme français"
+        },
+        {
+          "nom": "Émile Zola",
+          "relation": "S'inscrit dans sa suite avec le naturalisme, mouvement littéraire suivant"
+        }
+      ],
+      "wikipedia": "Victor Hugo",
+      "sections": [
+        {
+          "titre": "Le chef des romantiques",
+          "texte": "En 1830, la première de sa pièce Hernani provoque une véritable bataille dans la salle entre classiques et romantiques, qui défendent le mélange des genres et la liberté du vers. Hugo devient le chef de file du romantisme. Il écrit aussi Notre-Dame de Paris (1831), dont le succès contribue à sauver la cathédrale, alors délabrée."
+        },
+        {
+          "titre": "L'exilé",
+          "texte": "Opposé au coup d'État de Louis-Napoléon Bonaparte en 1851, il s'exile 19 ans à Jersey puis Guernesey. Il y écrit Les Châtiments, pamphlet contre « Napoléon le Petit », Les Contemplations, marquées par la mort de sa fille Léopoldine noyée en 1843, et Les Misérables. Il refuse l'amnistie et ne rentre qu'en 1870, à la chute de l'Empire."
+        },
+        {
+          "titre": "L'homme politique",
+          "texte": "Pair de France, député, sénateur, il combat la peine de mort (Le Dernier Jour d'un condamné, 1829), la misère, le travail des enfants, et défend l'école gratuite et les « États-Unis d'Europe »."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "1802-1885",
+          "label": "dates de vie"
+        },
+        {
+          "valeur": "~2 millions",
+          "label": "de personnes à ses funérailles nationales"
+        }
+      ],
+      "anecdotes": [
+        "Il est entré au Panthéon, et son corps a d'abord été exposé sous l'Arc de triomphe.",
+        "Pour s'obliger à écrire, il se serait fait enfermer sans vêtements pour ne pas pouvoir sortir."
+      ]
+    },
+    "source": "Dates de naissance/mort vérifiées, biographie générale"
+  },
+  {
+    "id": "litterature-002",
+    "domain": "litterature",
+    "subtheme": "Mouvements littéraires",
+    "type": "classique",
+    "title": "Le romantisme",
+    "summary": "Mouvement littéraire et artistique né en Europe à la fin du XVIIIe siècle.\nIl met en avant les émotions, l'individu et la nature, en réaction au rationalisme des Lumières.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Origines",
+          "texte": "Né en Allemagne et en Angleterre à la fin du XVIIIe siècle, le romantisme arrive en France dans les années 1820."
+        },
+        {
+          "titre": "Thèmes principaux",
+          "texte": "L'expression des sentiments, le culte du moi, la nature comme miroir de l'âme, le goût pour le passé médiéval et l'exotisme."
+        },
+        {
+          "titre": "Auteurs clés",
+          "texte": "Victor Hugo, Alphonse de Lamartine, Alfred de Musset en France ; Goethe en Allemagne ; Lord Byron en Angleterre."
+        },
+        {
+          "titre": "Un mouvement européen",
+          "texte": "Né en Allemagne (Goethe, Les Souffrances du jeune Werther, 1774) et en Angleterre (Byron, Shelley, Keats), le romantisme arrive en France au début du XIXe siècle avec Chateaubriand et Madame de Staël. Il réagit contre le rationalisme des Lumières et la rigidité des règles classiques."
+        },
+        {
+          "titre": "Les grands thèmes",
+          "texte": "L'expression du moi et des sentiments, la mélancolie (le « mal du siècle »), la nature en écho à l'âme, la fuite dans le passé (Moyen Âge) ou l'exotisme, la figure du poète incompris, l'engagement politique. En France : Lamartine (Le Lac), Musset, Vigny, Hugo, Nerval."
+        }
+      ],
+      "wikipedia": "Romantisme"
+    },
+    "source": "D'après Wikipédia — Romantisme"
+  },
+  {
+    "id": "litterature-003",
+    "domain": "litterature",
+    "subtheme": "Vocabulaire littéraire",
+    "type": "vocabulaire",
+    "title": "Métaphore vs comparaison",
+    "summary": "Deux figures de style qui rapprochent deux éléments, mais l'une utilise un mot de liaison et l'autre non.\nLa comparaison est explicite, la métaphore est implicite.",
+    "details": {
+      "definition": "La comparaison relie deux éléments à l'aide d'un mot-outil (comme, tel, pareil à). La métaphore les associe directement, sans mot de liaison.",
+      "exemple": "Comparaison : « Ses yeux brillent comme des étoiles. » Métaphore : « Ses yeux sont des étoiles. »",
+      "confusions": [
+        {
+          "mot": "Allégorie",
+          "explication": "Une métaphore filée et développée sur tout un texte pour représenter une idée abstraite (ex : la Justice représentée par une balance)."
+        }
+      ],
+      "wikipedia": "Métaphore",
+      "sections": [
+        {
+          "titre": "La métaphore filée",
+          "texte": "Quand une métaphore se prolonge sur plusieurs phrases ou vers en développant le même champ lexical, on parle de métaphore filée. Exemple : décrire une ville comme un océan, avec ses vagues de passants, ses courants, ses naufragés."
+        },
+        {
+          "titre": "Les figures voisines",
+          "texte": "La personnification donne des traits humains à une chose (« le vent hurle »). L'allégorie représente une idée abstraite par une figure concrète (la Justice aux yeux bandés avec sa balance). La métonymie remplace un mot par un autre lié logiquement (« boire un verre »)."
+        }
+      ]
+    },
+    "source": "Définition grammaticale standard"
+  },
+  {
+    "id": "litterature-004",
+    "domain": "litterature",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "Publication des Misérables",
+    "summary": "Roman de Victor Hugo publié en 1862, pendant son exil.\nIl retrace le parcours de Jean Valjean dans la France du XIXe siècle, entre misère sociale et rédemption.",
+    "details": {
+      "contexte": "Victor Hugo est en exil à Guernesey depuis 1855, opposé au régime de Napoléon III.",
+      "causes": "Hugo travaille sur le manuscrit depuis les années 1840, sous le titre provisoire « Les Misères ».",
+      "deroulement": "Publication en plusieurs tomes en 1862, immense succès public immédiat malgré des critiques mitigées.",
+      "consequences": "Le roman devient une œuvre majeure de la littérature mondiale, adaptée au théâtre, au cinéma et en comédie musicale.",
+      "frise": [
+        {
+          "annee": "1845",
+          "evenement": "Début de la rédaction"
+        },
+        {
+          "annee": "1851",
+          "evenement": "Interruption due à l'exil"
+        },
+        {
+          "annee": "1862",
+          "evenement": "Publication complète du roman"
+        }
+      ],
+      "wikipedia": "Les Misérables",
+      "sections": [
+        {
+          "titre": "L'histoire",
+          "texte": "Jean Valjean, ancien forçat condamné pour avoir volé du pain, est transformé par la bonté de l'évêque Myriel. Devenu maire sous un faux nom, il est traqué par l'inspecteur Javert. Il recueille Cosette, fille de Fantine, exploitée par les Thénardier. Le roman culmine avec l'insurrection républicaine de juin 1832 à Paris, où meurt le petit Gavroche."
+        },
+        {
+          "titre": "Un phénomène",
+          "texte": "Publié en 1862 simultanément dans plusieurs pays, le roman connaît un succès immense. Il a été adapté des dizaines de fois au cinéma, et la comédie musicale de 1980 est l'une des plus jouées au monde."
+        }
+      ],
+      "anecdotes": [
+        "Hugo aurait envoyé à son éditeur le télégramme « ? » pour s'enquérir des ventes ; réponse : « ! »"
+      ]
+    },
+    "source": "D'après Wikipédia — Les Misérables"
+  },
+  {
+    "id": "litterature-005",
+    "domain": "litterature",
+    "subtheme": "Mouvements littéraires",
+    "type": "classique",
+    "title": "Le réalisme",
+    "summary": "Mouvement littéraire du milieu du XIXe siècle qui cherche à représenter la société telle qu'elle est.\nIl s'oppose aux excès sentimentaux du romantisme.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Principe",
+          "texte": "Décrire la réalité sociale avec précision, sans l'idéaliser, en s'appuyant sur une observation minutieuse."
+        },
+        {
+          "titre": "Auteurs clés",
+          "texte": "Gustave Flaubert (Madame Bovary), Honoré de Balzac avec La Comédie humaine."
+        },
+        {
+          "titre": "Évolution",
+          "texte": "Le réalisme donnera naissance au naturalisme, porté par Émile Zola, qui y ajoute une dimension scientifique et sociale."
+        },
+        {
+          "titre": "Les grands auteurs",
+          "texte": "Balzac et sa Comédie humaine, plus de 90 romans avec des personnages récurrents qui peignent la société française. Stendhal (Le Rouge et le Noir, 1830). Flaubert (Madame Bovary, 1857, poursuivi pour « outrage à la morale »). Puis le naturalisme de Zola, qui applique une méthode quasi scientifique avec Les Rougon-Macquart."
+        },
+        {
+          "titre": "Les méthodes",
+          "texte": "Documentation minutieuse, descriptions détaillées des lieux et des milieux sociaux, personnages ordinaires, refus de l'idéalisation. Flaubert disait vouloir un narrateur « présent partout et visible nulle part »."
+        }
+      ],
+      "wikipedia": "Réalisme (littérature)"
+    },
+    "source": "D'après Wikipédia — Réalisme (littérature)"
+  },
+  {
+    "id": "litterature-006",
+    "domain": "litterature",
+    "subtheme": "Auteurs",
+    "type": "personnage",
+    "title": "Marcel Proust",
+    "summary": "Écrivain français du début du XXe siècle, auteur d'À la recherche du temps perdu.\nSon œuvre explore la mémoire involontaire et le temps à travers une phrase longue et sinueuse.",
+    "details": {
+      "epoque": "1871-1922",
+      "pourquoiCelebre": "À la recherche du temps perdu, cycle de sept romans, est une œuvre majeure de la littérature moderne mondiale.",
+      "ideesClefs": [
+        "La mémoire involontaire, symbolisée par l'épisode de la madeleine",
+        "Une écriture par longues phrases et digressions",
+        "L'exploration du temps psychologique plutôt que chronologique"
+      ],
+      "liens": [
+        {
+          "nom": "James Joyce",
+          "relation": "Contemporain, autre pionnier du roman moderne (flux de conscience)"
+        }
+      ],
+      "wikipedia": "Marcel Proust",
+      "sections": [
+        {
+          "titre": "À la recherche du temps perdu",
+          "texte": "Publié en sept volumes de 1913 à 1927, c'est l'un des romans les plus longs de la littérature (environ 3 000 pages). Le narrateur retrace sa vie dans la haute société de la Belle Époque et découvre que seul l'art permet de retrouver le temps perdu."
+        },
+        {
+          "titre": "La madeleine",
+          "texte": "Dans Du côté de chez Swann, le goût d'une madeleine trempée dans du thé fait ressurgir d'un coup les souvenirs d'enfance du narrateur à Combray : c'est la mémoire involontaire. L'expression « la madeleine de Proust » est passée dans le langage courant."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "1919",
+          "label": "prix Goncourt pour À l'ombre des jeunes filles en fleurs"
+        }
+      ],
+      "anecdotes": [
+        "Le premier tome a été refusé par plusieurs éditeurs, dont Gallimard sur l'avis d'André Gide, qui le regretta ensuite.",
+        "Il écrivait la nuit, dans une chambre tapissée de liège pour s'isoler du bruit."
+      ]
+    },
+    "source": "Dates vérifiées"
+  },
+  {
+    "id": "litterature-007",
+    "domain": "litterature",
+    "subtheme": "Vocabulaire littéraire",
+    "type": "vocabulaire",
+    "title": "Antithèse",
+    "summary": "Figure de style qui rapproche deux idées ou mots opposés dans une même phrase.\nElle crée un effet de contraste marqué.",
+    "details": {
+      "definition": "Mise en relation de deux termes ou idées de sens contraire, pour souligner une opposition.",
+      "exemple": "« Le mariage des grands rois, ce n'est que du sang qui se répand » (Racine) — union et mort mises en contraste.",
+      "confusions": [
+        {
+          "mot": "Oxymore",
+          "explication": "Association de deux mots contradictoires accolés directement (ex : « cette obscure clarté »), alors que l'antithèse oppose deux idées dans une phrase plus large."
+        }
+      ],
+      "wikipedia": "Antithèse",
+      "sections": [
+        {
+          "titre": "Figures proches",
+          "texte": "L'oxymore rapproche deux termes contradictoires dans une même expression (« cette obscure clarté », Corneille ; « un silence assourdissant »). Le chiasme croise deux groupes en ordre inverse (« Il faut manger pour vivre et non pas vivre pour manger »)."
+        }
+      ]
+    },
+    "source": "Définition grammaticale standard"
+  },
+  {
+    "id": "litterature-008",
+    "domain": "litterature",
+    "subtheme": "Mouvements littéraires",
+    "type": "classique",
+    "title": "Le surréalisme",
+    "summary": "Mouvement artistique et littéraire du XXe siècle né en France dans les années 1920.\nIl explore le rêve, l'inconscient et l'écriture automatique.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Manifeste",
+          "texte": "André Breton publie le Manifeste du surréalisme en 1924, posant les bases théoriques du mouvement."
+        },
+        {
+          "titre": "Méthodes",
+          "texte": "L'écriture automatique consiste à écrire sans contrôle rationnel, pour laisser émerger l'inconscient."
+        },
+        {
+          "titre": "Figures clés",
+          "texte": "André Breton, Paul Éluard, Louis Aragon en littérature ; le mouvement influence aussi la peinture (Dalí, Magritte)."
+        }
+      ]
+    },
+    "source": "À vérifier"
+  },
+  {
+    "id": "litterature-009",
+    "domain": "litterature",
+    "subtheme": "Auteurs",
+    "type": "personnage",
+    "title": "Albert Camus",
+    "summary": "Écrivain et philosophe français né en Algérie, prix Nobel de littérature en 1957.\nIl développe la philosophie de l'absurde à travers des romans comme L'Étranger.",
+    "details": {
+      "epoque": "1913-1960",
+      "pourquoiCelebre": "Auteur de L'Étranger, La Peste et Le Mythe de Sisyphe, il explore l'absurdité de la condition humaine.",
+      "ideesClefs": [
+        "La philosophie de l'absurde : l'absence de sens ultime à l'existence",
+        "L'engagement contre le totalitarisme et la peine de mort",
+        "Une écriture sobre et distanciée, notamment dans L'Étranger"
+      ],
+      "liens": [
+        {
+          "nom": "Jean-Paul Sartre",
+          "relation": "Ami puis rival intellectuel, tenant de l'existentialisme"
+        }
+      ],
+      "wikipedia": "Albert Camus",
+      "sections": [
+        {
+          "titre": "L'absurde et la révolte",
+          "texte": "Pour Camus, l'absurde naît du divorce entre l'homme, qui cherche un sens, et le monde, qui n'en donne pas. Dans Le Mythe de Sisyphe (1942), il conclut qu'« il faut imaginer Sisyphe heureux ». Dans La Peste (1947) et L'Homme révolté (1951), il passe à la révolte : la solidarité face au mal."
+        },
+        {
+          "titre": "Engagement",
+          "texte": "Né en Algérie dans une famille pauvre, orphelin de père, il est résistant et rédacteur en chef du journal Combat. Sa rupture avec Sartre en 1952 porte sur la violence révolutionnaire et le communisme. Il meurt dans un accident de voiture en 1960."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "1957",
+          "label": "prix Nobel de littérature, à 44 ans"
+        }
+      ],
+      "anecdotes": [
+        "Dans la voiture accidentée, on a retrouvé le manuscrit inachevé du Premier Homme, publié en 1994."
+      ]
+    },
+    "source": "Dates et prix Nobel vérifiés"
+  },
+  {
+    "id": "litterature-010",
+    "domain": "litterature",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "Publication de L'Étranger",
+    "summary": "Roman d'Albert Camus publié en 1942, en pleine Occupation.\nIl raconte l'histoire de Meursault, un homme indifférent aux conventions sociales, jusqu'à un meurtre absurde.",
+    "details": {
+      "contexte": "La France est occupée par l'Allemagne nazie ; Camus travaille aussi comme journaliste résistant.",
+      "causes": "Le roman s'inscrit dans la réflexion de Camus sur l'absurde, développée en parallèle dans son essai Le Mythe de Sisyphe.",
+      "deroulement": "Publication en 1942 chez Gallimard, accueil critique rapide et durable.",
+      "consequences": "Le roman devient une œuvre de référence du XXe siècle, étudiée dans le monde entier.",
+      "frise": [
+        {
+          "annee": "1940",
+          "evenement": "Camus achève le manuscrit"
+        },
+        {
+          "annee": "1942",
+          "evenement": "Publication de L'Étranger"
+        },
+        {
+          "annee": "1957",
+          "evenement": "Camus reçoit le prix Nobel de littérature"
+        }
+      ]
+    },
+    "source": "À vérifier"
+  },
+  {
+    "id": "litterature-011",
+    "domain": "litterature",
+    "subtheme": "Vocabulaire littéraire",
+    "type": "vocabulaire",
+    "title": "Épopée vs conte",
+    "summary": "Deux genres narratifs anciens, mais de nature très différente.\nL'épopée est un long récit héroïque en vers, le conte est un court récit merveilleux en prose.",
+    "details": {
+      "definition": "L'épopée narre en vers les exploits de héros à portée collective (ex : L'Iliade). Le conte est un récit bref, souvent en prose, mettant en scène le merveilleux (ex : contes de Perrault).",
+      "exemple": "L'Odyssée d'Homère est une épopée ; Cendrillon est un conte.",
+      "confusions": [
+        {
+          "mot": "Fable",
+          "explication": "Court récit, souvent en vers, mettant en scène des animaux pour délivrer une morale (ex : les fables de La Fontaine)."
+        }
+      ]
+    },
+    "source": "Définitions de genres littéraires classiques"
+  },
+  {
+    "id": "litterature-012",
+    "domain": "litterature",
+    "subtheme": "Auteurs",
+    "type": "personnage",
+    "title": "Molière",
+    "summary": "Dramaturge et comédien français du XVIIe siècle, maître de la comédie classique.\nSes pièces comme Le Tartuffe ou Le Malade imaginaire critiquent les travers de la société de son temps.",
+    "details": {
+      "epoque": "1622-1673, règne de Louis XIV",
+      "pourquoiCelebre": "Considéré comme le plus grand dramaturge comique de la langue française, protégé puis parfois censuré par la cour.",
+      "ideesClefs": [
+        "Utilisation de la comédie pour critiquer l'hypocrisie religieuse et sociale",
+        "Création de types de personnages devenus universels (l'avare, le hâbleur)",
+        "Mort sur scène en jouant Le Malade imaginaire, selon la tradition"
+      ],
+      "liens": [
+        {
+          "nom": "Jean Racine",
+          "relation": "Contemporain, mais spécialiste de la tragédie plutôt que de la comédie"
+        }
+      ],
+      "wikipedia": "Molière",
+      "sections": [
+        {
+          "titre": "Un homme de troupe",
+          "texte": "Jean-Baptiste Poquelin, fils d'un tapissier du roi, abandonne cette charge pour le théâtre et prend le nom de Molière. Sa troupe parcourt la province pendant 13 ans avant de s'installer à Paris, où Louis XIV la protège."
+        },
+        {
+          "titre": "Les pièces",
+          "texte": "Il dénonce les travers de son temps : l'hypocrisie religieuse (Tartuffe, interdit pendant cinq ans), l'avarice (L'Avare), la prétention (Les Précieuses ridicules, Le Bourgeois gentilhomme), la médecine (Le Malade imaginaire), la misanthropie (Le Misanthrope). Il invente avec Lully la comédie-ballet."
+        }
+      ],
+      "anecdotes": [
+        "Il a été pris d'un malaise en jouant Le Malade imaginaire et est mort quelques heures plus tard, le 17 février 1673.",
+        "On dit « la langue de Molière » pour désigner le français."
+      ]
+    },
+    "source": "Dates vérifiées"
+  },
+  {
+    "id": "litterature-013",
+    "domain": "litterature",
+    "subtheme": "Mouvements littéraires",
+    "type": "classique",
+    "title": "Le classicisme",
+    "summary": "Mouvement littéraire et artistique du XVIIe siècle en France, sous le règne de Louis XIV.\nIl valorise la raison, l'ordre et le respect de règles strictes.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Valeurs",
+          "texte": "Recherche de l'équilibre, de la clarté et de la mesure, inspirée des modèles antiques gréco-romains."
+        },
+        {
+          "titre": "Règle des trois unités",
+          "texte": "Au théâtre, une pièce classique doit respecter l'unité de temps, de lieu et d'action."
+        },
+        {
+          "titre": "Figures clés",
+          "texte": "Molière (comédie), Jean Racine (tragédie), Jean de La Fontaine (fables), Madame de La Fayette (roman)."
+        },
+        {
+          "titre": "La règle des trois unités",
+          "texte": "Au théâtre classique, l'action doit être unique (unité d'action), se dérouler en un seul lieu (unité de lieu) et en une journée maximum (unité de temps). Boileau la résume : « Qu'en un lieu, qu'en un jour, un seul fait accompli / Tienne jusqu'à la fin le théâtre rempli. »"
+        },
+        {
+          "titre": "Les auteurs",
+          "texte": "Corneille (Le Cid, 1637), Racine (Phèdre, Andromaque), Molière, La Fontaine (Fables), Boileau (L'Art poétique), Madame de La Fayette (La Princesse de Clèves), La Bruyère."
+        }
+      ],
+      "wikipedia": "Classicisme"
+    },
+    "source": "D'après Wikipédia — Classicisme"
+  },
+  {
+    "id": "litterature-014",
+    "domain": "litterature",
+    "subtheme": "Vocabulaire littéraire",
+    "type": "vocabulaire",
+    "title": "Tragédie vs comédie",
+    "summary": "Deux genres théâtraux opposés par leur ton et leur dénouement.\nLa tragédie finit mal et traite de sujets graves, la comédie finit bien et fait rire.",
+    "details": {
+      "definition": "La tragédie met en scène des personnages nobles confrontés à un destin funeste. La comédie met en scène des travers humains avec un ton léger et une fin heureuse.",
+      "exemple": "Phèdre de Racine est une tragédie ; Le Malade imaginaire de Molière est une comédie.",
+      "confusions": [
+        {
+          "mot": "Drame",
+          "explication": "Genre plus tardif (XVIIIe-XIXe siècle) qui mélange tons tragique et comique, sans respecter les règles classiques strictes."
+        }
+      ]
+    },
+    "source": "Définitions de genres littéraires classiques"
+  },
+  {
+    "id": "litterature-015",
+    "domain": "litterature",
+    "subtheme": "Auteurs",
+    "type": "personnage",
+    "title": "Jane Austen",
+    "summary": "Romancière anglaise du début du XIXe siècle, connue pour ses romans de mœurs.\nOrgueil et Préjugés reste l'un des romans les plus lus de la littérature anglaise.",
+    "details": {
+      "epoque": "1775-1817, Angleterre géorgienne",
+      "pourquoiCelebre": "Ses romans dépeignent avec ironie la vie sociale et matrimoniale de la petite noblesse anglaise.",
+      "ideesClefs": [
+        "Critique subtile des conventions sociales et du mariage d'intérêt",
+        "Narration à l'ironie fine, souvent via le discours indirect libre",
+        "Publication initiale sous anonymat (« by a Lady »)"
+      ],
+      "liens": [
+        {
+          "nom": "Charlotte Brontë",
+          "relation": "Romancière anglaise postérieure, autre grande figure du roman féminin britannique"
+        }
+      ],
+      "wikipedia": "Jane Austen",
+      "sections": [
+        {
+          "titre": "Les six romans",
+          "texte": "Raison et Sentiments (1811), Orgueil et Préjugés (1813), Mansfield Park (1814), Emma (1815), puis, à titre posthume, Northanger Abbey et Persuasion (1817). Elle y dépeint avec ironie la petite noblesse rurale anglaise, où le mariage est souvent une question d'argent pour les femmes."
+        },
+        {
+          "titre": "Une autrice anonyme",
+          "texte": "Ses livres sont publiés sans son nom, signés « By a Lady ». Elle meurt à 41 ans, probablement de la maladie d'Addison ou d'un lymphome."
+        }
+      ],
+      "anecdotes": [
+        "Elle figure sur le billet de 10 livres sterling depuis 2017."
+      ]
+    },
+    "source": "Dates vérifiées"
+  },
+  {
+    "id": "litterature-016",
+    "domain": "litterature",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "Publication d'Orgueil et Préjugés",
+    "summary": "Roman de Jane Austen publié en 1813 en Angleterre.\nIl suit Elizabeth Bennet et son évolution face aux préjugés sociaux et à Mr Darcy.",
+    "details": {
+      "contexte": "L'Angleterre géorgienne impose des règles sociales strictes autour du mariage et de l'héritage.",
+      "causes": "Austen retravaille pendant plus de dix ans un premier manuscrit intitulé « First Impressions »",
+      "deroulement": "Publication anonyme en 1813, succès progressif au fil du XIXe siècle.",
+      "consequences": "Le roman devient un classique de la littérature anglaise, adapté de nombreuses fois au cinéma et à la télévision.",
+      "frise": [
+        {
+          "annee": "1797",
+          "evenement": "Premier manuscrit, « First Impressions »"
+        },
+        {
+          "annee": "1813",
+          "evenement": "Publication sous le titre Orgueil et Préjugés"
+        }
+      ],
+      "wikipedia": "Orgueil et Préjugés",
+      "sections": [
+        {
+          "titre": "L'histoire",
+          "texte": "Mrs Bennet veut marier ses cinq filles. Elizabeth, la deuxième, intelligente et vive, juge l'orgueilleux Mr Darcy sur une première impression désastreuse ; lui la méprise pour sa famille. Chacun doit surmonter son orgueil et ses préjugés."
+        }
+      ],
+      "anecdotes": [
+        "La première phrase est l'une des plus célèbres de la littérature anglaise : « C'est une vérité universellement reconnue qu'un célibataire en possession d'une belle fortune doit être à la recherche d'une épouse. »"
+      ]
+    },
+    "source": "D'après Wikipédia — Orgueil et Préjugés"
+  },
+  {
+    "id": "litterature-017",
+    "domain": "litterature",
+    "subtheme": "Auteurs",
+    "type": "personnage",
+    "title": "William Shakespeare",
+    "summary": "Poète et dramaturge anglais (1564-1616), Shakespeare est considéré comme le plus grand écrivain de langue anglaise.\nSes pièces, de Roméo et Juliette à Hamlet, sont jouées dans le monde entier depuis plus de quatre siècles.",
+    "details": {
+      "wikipedia": "William Shakespeare",
+      "epoque": "Fin du XVIe - début du XVIIe siècle, règnes d'Élisabeth Ire et de Jacques Ier",
+      "pourquoiCelebre": "Il a écrit des tragédies, comédies et drames historiques d'une richesse psychologique et poétique inégalée, et a profondément marqué la langue anglaise.",
+      "ideesClefs": [
+        "Environ 37 à 39 pièces et 154 sonnets",
+        "Tragédies : Roméo et Juliette, Hamlet, Othello, Le Roi Lear, Macbeth",
+        "Comédies : Le Songe d'une nuit d'été, Beaucoup de bruit pour rien, La Nuit des rois",
+        "Drames historiques : Richard III, Henri V",
+        "Mélange du tragique et du comique, qui inspirera les romantiques"
+      ],
+      "liens": [
+        {
+          "nom": "Christopher Marlowe",
+          "relation": "dramaturge contemporain et rival"
+        },
+        {
+          "nom": "Victor Hugo",
+          "relation": "admirateur qui fera de lui un modèle du drame romantique ; son fils François-Victor l'a traduit"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le Globe",
+          "texte": "Ses pièces étaient jouées au théâtre du Globe, à Londres, un bâtiment en bois circulaire à ciel ouvert. Les spectateurs pauvres restaient debout devant la scène. Tous les rôles, y compris féminins, étaient joués par des hommes. Le Globe a brûlé en 1613 lors d'une représentation d'Henri VIII ; une reconstruction existe depuis 1997."
+        },
+        {
+          "titre": "Un inventeur de mots",
+          "texte": "On attribue à Shakespeare la première utilisation écrite de centaines de mots et expressions anglaises. « Être ou ne pas être, telle est la question » (Hamlet) est sans doute la réplique la plus célèbre du théâtre."
+        }
+      ],
+      "anecdotes": [
+        "On sait très peu de choses sur sa vie, ce qui a nourri des théories (peu crédibles) selon lesquelles quelqu'un d'autre aurait écrit ses pièces.",
+        "Il serait mort le 23 avril 1616, jour anniversaire de sa naissance supposée ; le 23 avril est devenu la Journée mondiale du livre."
+      ]
+    },
+    "source": "D'après Wikipédia — William Shakespeare"
+  },
+  {
+    "id": "litterature-018",
+    "domain": "litterature",
+    "subtheme": "Auteurs",
+    "type": "personnage",
+    "title": "Émile Zola",
+    "summary": "Romancier français (1840-1902), Émile Zola est le chef de file du naturalisme, avec sa grande saga des Rougon-Macquart.\nIl est aussi célèbre pour son engagement dans l'affaire Dreyfus avec l'article « J'accuse… ! ».",
+    "details": {
+      "wikipedia": "Émile Zola",
+      "epoque": "Seconde moitié du XIXe siècle, Second Empire et IIIe République",
+      "pourquoiCelebre": "Il a décrit toute la société de son temps avec une précision documentaire, et a incarné la figure de l'intellectuel engagé.",
+      "ideesClefs": [
+        "Les Rougon-Macquart : 20 romans sur une famille sous le Second Empire (1871-1893)",
+        "L'Assommoir (1877) sur l'alcoolisme ouvrier, Germinal (1885) sur les mineurs, Au Bonheur des Dames sur les grands magasins, Nana, La Bête humaine",
+        "Méthode naturaliste : enquêtes sur le terrain, carnets de notes, influence de l'hérédité et du milieu",
+        "« J'accuse… ! » publié dans L'Aurore le 13 janvier 1898"
+      ],
+      "liens": [
+        {
+          "nom": "Paul Cézanne",
+          "relation": "ami d'enfance à Aix-en-Provence"
+        },
+        {
+          "nom": "Alfred Dreyfus",
+          "relation": "capitaine injustement condamné qu'il défend"
+        },
+        {
+          "nom": "Guy de Maupassant",
+          "relation": "écrivain du groupe naturaliste de Médan"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "J'accuse… !",
+          "texte": "Dans cette lettre ouverte au président de la République, Zola accuse nommément l'état-major d'avoir condamné Dreyfus, officier juif, sur des preuves fabriquées. Condamné pour diffamation, il s'exile un an en Angleterre. Dreyfus sera finalement réhabilité en 1906."
+        }
+      ],
+      "anecdotes": [
+        "Il est mort asphyxié par le monoxyde de carbone de sa cheminée bouchée en 1902 ; certains soupçonnent un acte criminel d'un antidreyfusard.",
+        "Aux funérailles, des mineurs scandaient « Germinal ! Germinal ! »."
+      ]
+    },
+    "source": "D'après Wikipédia — Émile Zola"
+  },
+  {
+    "id": "litterature-019",
+    "domain": "litterature",
+    "subtheme": "Auteurs",
+    "type": "personnage",
+    "title": "Charles Baudelaire",
+    "summary": "Poète français (1821-1867), Charles Baudelaire est l'auteur des Fleurs du mal (1857), recueil qui fonde la poésie moderne.\nCondamné pour « outrage à la morale publique », il a su tirer la beauté du laid et du quotidien.",
+    "details": {
+      "wikipedia": "Charles Baudelaire",
+      "epoque": "Milieu du XIXe siècle, Paris",
+      "pourquoiCelebre": "Il fait entrer la ville moderne, l'ennui et la part sombre de l'âme dans la poésie, et ouvre la voie à Verlaine, Rimbaud et Mallarmé.",
+      "ideesClefs": [
+        "Les Fleurs du mal : tension entre le « Spleen » (ennui, angoisse) et l'« Idéal »",
+        "Poèmes célèbres : L'Albatros, Correspondances, Invitation au voyage, Une charogne",
+        "Petits poèmes en prose (Le Spleen de Paris), poèmes sans vers",
+        "Traducteur d'Edgar Allan Poe",
+        "Critique d'art, défenseur de Delacroix et de la « modernité »"
+      ],
+      "liens": [
+        {
+          "nom": "Edgar Allan Poe",
+          "relation": "écrivain américain qu'il traduit et admire"
+        },
+        {
+          "nom": "Arthur Rimbaud",
+          "relation": "qui le qualifie de « premier voyant, roi des poètes »"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le procès de 1857",
+          "texte": "L'année même où Flaubert est poursuivi pour Madame Bovary, Baudelaire est condamné à une amende et à la suppression de six poèmes jugés obscènes. La condamnation n'a été annulée qu'en 1949."
+        },
+        {
+          "titre": "Correspondances",
+          "texte": "Dans ce sonnet, il développe l'idée que « les parfums, les couleurs et les sons se répondent » : ce sont les synesthésies, qui inspireront les symbolistes."
+        }
+      ],
+      "anecdotes": [
+        "Il dilapida une partie de son héritage en dandy, si bien que sa famille le plaça sous tutelle financière."
+      ]
+    },
+    "source": "D'après Wikipédia — Charles Baudelaire"
+  },
+  {
+    "id": "litterature-020",
+    "domain": "litterature",
+    "subtheme": "Auteurs",
+    "type": "personnage",
+    "title": "Arthur Rimbaud",
+    "summary": "Poète français (1854-1891), Arthur Rimbaud a écrit toute son œuvre entre 15 et 20 ans, avant de renoncer à la poésie pour une vie d'aventurier en Afrique.\nIl est l'une des figures les plus fascinantes de la littérature.",
+    "details": {
+      "wikipedia": "Arthur Rimbaud",
+      "epoque": "Années 1870",
+      "pourquoiCelebre": "Pour son génie précoce, ses innovations poétiques (vers libre, poème en prose) et sa vie de révolte.",
+      "ideesClefs": [
+        "Le Dormeur du val, Ma bohème, Le Bateau ivre, écrits adolescent",
+        "La Lettre du voyant (1871) : « Je est un autre », le poète doit se faire voyant par un « dérèglement de tous les sens »",
+        "Une saison en enfer (1873), seul livre qu'il fait publier lui-même",
+        "Illuminations, poèmes en prose",
+        "Abandonne la poésie vers 20 ans, devient négociant en Éthiopie et au Yémen"
+      ],
+      "liens": [
+        {
+          "nom": "Paul Verlaine",
+          "relation": "poète avec qui il a une liaison orageuse ; Verlaine lui tire dessus à Bruxelles en 1873"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le poème Voyelles",
+          "texte": "« A noir, E blanc, I rouge, U vert, O bleu : voyelles » : Rimbaud associe couleurs et sons, dans la lignée des correspondances de Baudelaire."
+        }
+      ],
+      "anecdotes": [
+        "Il est mort à 37 ans à Marseille, amputé d'une jambe à cause d'un cancer.",
+        "« On n'est pas sérieux, quand on a dix-sept ans » est le premier vers de son poème Roman."
+      ]
+    },
+    "source": "D'après Wikipédia — Arthur Rimbaud"
+  },
+  {
+    "id": "litterature-021",
+    "domain": "litterature",
+    "subtheme": "Auteurs",
+    "type": "personnage",
+    "title": "Jean de La Fontaine",
+    "summary": "Poète français (1621-1695), Jean de La Fontaine est célèbre pour ses Fables, qui mettent en scène des animaux pour critiquer les travers humains et la société de Louis XIV.\nElles sont apprises par cœur à l'école depuis plus de trois siècles.",
+    "details": {
+      "wikipedia": "Jean de La Fontaine",
+      "epoque": "XVIIe siècle, classicisme",
+      "pourquoiCelebre": "Il a fait de la fable, genre mineur, un chef-d'œuvre de style et de sagesse ironique.",
+      "ideesClefs": [
+        "243 fables en 12 livres, publiées de 1668 à 1694",
+        "Reprend Ésope (Grèce antique) et Phèdre (Rome), mais aussi des sources indiennes",
+        "Le Corbeau et le Renard, La Cigale et la Fourmi, Le Loup et l'Agneau, Le Lièvre et la Tortue",
+        "Morales passées en proverbes : « La raison du plus fort est toujours la meilleure »",
+        "Critique voilée du pouvoir royal et de la cour"
+      ],
+      "liens": [
+        {
+          "nom": "Nicolas Fouquet",
+          "relation": "surintendant des Finances, son protecteur, disgracié par Louis XIV"
+        },
+        {
+          "nom": "Ésope",
+          "relation": "fabuliste grec qui l'a inspiré"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une critique cachée",
+          "texte": "Le lion représente souvent le roi, le renard le courtisan flatteur, le loup les puissants. La Fontaine, resté fidèle à Fouquet emprisonné, était mal vu de Louis XIV, qui retarda son élection à l'Académie française."
+        }
+      ],
+      "anecdotes": [
+        "« Rien ne sert de courir ; il faut partir à point » vient du Lièvre et la Tortue."
+      ]
+    },
+    "source": "D'après Wikipédia — Jean de La Fontaine"
+  },
+  {
+    "id": "litterature-022",
+    "domain": "litterature",
+    "subtheme": "Auteurs",
+    "type": "personnage",
+    "title": "Voltaire",
+    "summary": "Écrivain et philosophe des Lumières (1694-1778), Voltaire a combattu toute sa vie l'intolérance religieuse, l'injustice et l'arbitraire.\nIl est l'auteur de contes philosophiques comme Candide et d'une immense correspondance.",
+    "details": {
+      "wikipedia": "Voltaire",
+      "epoque": "XVIIIe siècle, siècle des Lumières",
+      "pourquoiCelebre": "Pour son ironie mordante mise au service de la tolérance et de la liberté d'expression.",
+      "ideesClefs": [
+        "Candide ou l'Optimisme (1759), qui se moque de l'idée que « tout est pour le mieux dans le meilleur des mondes possibles »",
+        "Lettres philosophiques (1734), éloge des libertés anglaises",
+        "Traité sur la tolérance (1763) après l'affaire Calas",
+        "« Écrasez l'infâme » : combat contre le fanatisme religieux",
+        "Plus de 20 000 lettres conservées"
+      ],
+      "liens": [
+        {
+          "nom": "Frédéric II de Prusse",
+          "relation": "roi philosophe qui l'accueille à sa cour, avant une brouille"
+        },
+        {
+          "nom": "Jean-Jacques Rousseau",
+          "relation": "autre philosophe des Lumières avec qui il se déchire"
+        },
+        {
+          "nom": "Émilie du Châtelet",
+          "relation": "mathématicienne, sa compagne, traductrice de Newton"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "L'affaire Calas",
+          "texte": "En 1762, le protestant Jean Calas est roué vif à Toulouse, accusé à tort d'avoir tué son fils qui voulait se convertir au catholicisme. Voltaire mène une campagne acharnée qui aboutit à sa réhabilitation en 1765. C'est un modèle d'engagement d'un écrivain pour une cause judiciaire."
+        }
+      ],
+      "anecdotes": [
+        "Voltaire est un pseudonyme : il s'appelait François-Marie Arouet.",
+        "Il a été emprisonné deux fois à la Bastille.",
+        "La phrase « Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous puissiez le dire » ne vient pas de lui, mais d'une biographe anglaise en 1906."
+      ]
+    },
+    "source": "D'après Wikipédia — Voltaire"
+  },
+  {
+    "id": "litterature-023",
+    "domain": "litterature",
+    "subtheme": "Auteurs",
+    "type": "personnage",
+    "title": "George Sand",
+    "summary": "Romancière française (1804-1876), George Sand est l'une des écrivaines les plus lues de son siècle.\nPar ses romans et sa vie libre, elle a défié les conventions imposées aux femmes.",
+    "details": {
+      "wikipedia": "George Sand",
+      "epoque": "XIXe siècle, romantisme",
+      "pourquoiCelebre": "Pour son œuvre abondante, ses romans champêtres, son engagement républicain et sa liberté de femme.",
+      "ideesClefs": [
+        "Pseudonyme masculin pour être publiée : son vrai nom est Aurore Dupin",
+        "Indiana (1832), roman sur la condition des femmes dans le mariage",
+        "Romans champêtres : La Mare au diable, La Petite Fadette, François le Champi",
+        "Porte parfois des vêtements d'homme pour circuler librement dans Paris",
+        "Engagée pour la République en 1848"
+      ],
+      "liens": [
+        {
+          "nom": "Frédéric Chopin",
+          "relation": "compagnon pendant neuf ans"
+        },
+        {
+          "nom": "Alfred de Musset",
+          "relation": "liaison passionnée et orageuse à Venise"
+        },
+        {
+          "nom": "Gustave Flaubert",
+          "relation": "ami et correspondant fidèle"
+        }
+      ],
+      "anecdotes": [
+        "Sa maison de Nohant, dans le Berry, accueillait Delacroix, Liszt, Balzac, Flaubert.",
+        "Elle a écrit plus de 70 romans et une correspondance de plus de 20 000 lettres."
+      ]
+    },
+    "source": "D'après Wikipédia — George Sand"
+  },
+  {
+    "id": "litterature-024",
+    "domain": "litterature",
+    "subtheme": "Œuvres",
+    "type": "classique",
+    "title": "Le Petit Prince",
+    "summary": "Publié en 1943, Le Petit Prince d'Antoine de Saint-Exupéry raconte la rencontre d'un aviateur perdu dans le désert avec un petit garçon venu d'un astéroïde.\nC'est l'un des livres les plus traduits au monde.",
+    "details": {
+      "wikipedia": "Le Petit Prince",
+      "sections": [
+        {
+          "titre": "L'histoire",
+          "texte": "Le petit prince a quitté sa planète, l'astéroïde B 612, où il a laissé une rose capricieuse. Il visite des planètes habitées par des adultes absurdes : un roi sans sujets, un vaniteux, un buveur, un businessman qui compte les étoiles, un allumeur de réverbères, un géographe. Sur Terre, il rencontre un renard qui lui apprend ce que signifie « apprivoiser »."
+        },
+        {
+          "titre": "Un conte pour adultes",
+          "texte": "Sous l'apparence d'un livre pour enfants, c'est une réflexion sur l'amitié, l'amour, la perte et le regard des adultes qui ont oublié l'essentiel. « On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux. »"
+        },
+        {
+          "titre": "L'auteur",
+          "texte": "Saint-Exupéry était aviateur de l'Aéropostale et s'est lui-même écrasé dans le désert du Sahara en 1935. Il a écrit et illustré le livre à New York, en exil. Il disparaît en mer en 1944 lors d'une mission de reconnaissance ; sa gourmette a été retrouvée par un pêcheur en 1998 au large de Marseille."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "> 500",
+          "label": "langues et dialectes de traduction"
+        },
+        {
+          "valeur": "> 200 millions",
+          "label": "d'exemplaires vendus (estimation)"
+        }
+      ],
+      "anecdotes": [
+        "Le livre a d'abord été publié aux États-Unis, en anglais et en français, avant de paraître en France en 1946."
+      ]
+    },
+    "source": "D'après Wikipédia — Le Petit Prince"
+  },
+  {
+    "id": "litterature-025",
+    "domain": "litterature",
+    "subtheme": "Œuvres",
+    "type": "classique",
+    "title": "Don Quichotte",
+    "summary": "Publié en deux parties (1605 et 1615) par l'Espagnol Miguel de Cervantes, Don Quichotte raconte les aventures d'un gentilhomme qui, à force de lire des romans de chevalerie, se prend pour un chevalier errant.\nIl est souvent considéré comme le premier roman moderne.",
+    "details": {
+      "wikipedia": "Don Quichotte",
+      "sections": [
+        {
+          "titre": "L'histoire",
+          "texte": "Alonso Quichano se rebaptise Don Quichotte de la Manche, enfourche son vieux cheval Rossinante et part redresser les torts, accompagné de Sancho Panza, paysan réaliste et gourmand, à qui il promet une île. Il dédie ses exploits à Dulcinée, une paysanne qu'il imagine en princesse."
+        },
+        {
+          "titre": "Les moulins à vent",
+          "texte": "L'épisode le plus célèbre : Don Quichotte prend des moulins à vent pour des géants et les charge, lance en avant, avant d'être projeté à terre. L'expression « se battre contre des moulins à vent » signifie lutter contre des ennemis imaginaires."
+        },
+        {
+          "titre": "Pourquoi moderne ?",
+          "texte": "Le roman joue avec la fiction : dans la seconde partie, les personnages ont lu la première et connaissent Don Quichotte. Il mêle humour et mélancolie, et interroge la frontière entre illusion et réalité."
+        }
+      ],
+      "anecdotes": [
+        "Cervantes a perdu l'usage de sa main gauche à la bataille de Lépante (1571) et a été captif cinq ans à Alger.",
+        "L'adjectif « donquichottesque » désigne un idéalisme généreux mais irréaliste."
+      ]
+    },
+    "source": "D'après Wikipédia — Don Quichotte"
+  },
+  {
+    "id": "litterature-026",
+    "domain": "litterature",
+    "subtheme": "Œuvres",
+    "type": "classique",
+    "title": "L'Odyssée",
+    "summary": "Attribuée à Homère (VIIIe siècle av. J.-C.), L'Odyssée raconte le retour mouvementé d'Ulysse, roi d'Ithaque, après la guerre de Troie : dix ans d'errance en mer.\nAvec L'Iliade, c'est l'un des textes fondateurs de la littérature occidentale.",
+    "details": {
+      "wikipedia": "Odyssée",
+      "sections": [
+        {
+          "titre": "Les épreuves d'Ulysse",
+          "texte": "Le cyclope Polyphème, qu'il aveugle après lui avoir dit s'appeler « Personne » ; la magicienne Circé, qui transforme ses compagnons en porcs ; les Sirènes, dont il écoute le chant attaché au mât ; Charybde et Scylla ; la nymphe Calypso, qui le retient sept ans ; la descente aux Enfers."
+        },
+        {
+          "titre": "Le retour à Ithaque",
+          "texte": "Pendant ce temps, sa femme Pénélope repousse des prétendants en tissant le jour une toile qu'elle défait la nuit. Ulysse revient déguisé en mendiant, est reconnu par son vieux chien Argos, réussit l'épreuve de l'arc et massacre les prétendants avec son fils Télémaque."
+        },
+        {
+          "titre": "Iliade et Odyssée",
+          "texte": "L'Iliade raconte quelques semaines de la guerre de Troie, autour de la colère d'Achille. L'Odyssée raconte le retour d'Ulysse. Le cheval de Troie, ruse d'Ulysse, n'apparaît que brièvement dans L'Odyssée."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "~12 000",
+          "label": "vers"
+        },
+        {
+          "valeur": "24",
+          "label": "chants"
+        }
+      ],
+      "anecdotes": [
+        "Le mot « odyssée » désigne aujourd'hui tout long voyage plein d'aventures.",
+        "L'existence d'Homère lui-même est débattue ; les poèmes viennent d'une longue tradition orale."
+      ]
+    },
+    "source": "D'après Wikipédia — Odyssée"
+  },
+  {
+    "id": "litterature-027",
+    "domain": "litterature",
+    "subtheme": "Œuvres",
+    "type": "classique",
+    "title": "1984 de George Orwell",
+    "summary": "Publié en 1949, 1984 de George Orwell décrit un État totalitaire où Big Brother surveille chaque citoyen et où le Parti contrôle jusqu'à la pensée et la langue.\nC'est devenu la référence pour parler de surveillance de masse et de manipulation.",
+    "details": {
+      "wikipedia": "1984 (roman)",
+      "sections": [
+        {
+          "titre": "L'histoire",
+          "texte": "Winston Smith travaille au ministère de la Vérité, où il réécrit les archives pour les adapter à la version officielle du moment. Il tient un journal secret, tombe amoureux de Julia et rêve de rejoindre une résistance. Il est arrêté, torturé dans la salle 101 et finit par « aimer Big Brother »."
+        },
+        {
+          "titre": "Des concepts devenus courants",
+          "texte": "Big Brother (« Big Brother vous regarde »), les télécrans qui filment en permanence, la Police de la pensée, la novlangue (une langue appauvrie pour rendre la dissidence impensable), la double pensée (croire deux idées contradictoires), les slogans « La guerre, c'est la paix. La liberté, c'est l'esclavage. L'ignorance, c'est la force. »"
+        },
+        {
+          "titre": "L'auteur",
+          "texte": "George Orwell, pseudonyme d'Eric Blair, a combattu dans la guerre d'Espagne et observé les méthodes staliniennes. Il avait déjà publié La Ferme des animaux (1945), fable satirique sur la révolution russe. Il meurt de la tuberculose en 1950."
+        }
+      ],
+      "anecdotes": [
+        "L'adjectif « orwellien » désigne une société de surveillance et de manipulation du langage.",
+        "L'émission de télé-réalité Big Brother tire son nom du roman."
+      ]
+    },
+    "source": "D'après Wikipédia — 1984 (roman)"
+  },
+  {
+    "id": "litterature-028",
+    "domain": "litterature",
+    "subtheme": "Genres et notions",
+    "type": "vocabulaire",
+    "title": "Sonnet",
+    "summary": "Le sonnet est une forme poétique fixe de 14 vers, composée de deux quatrains (strophes de 4 vers) suivis de deux tercets (strophes de 3 vers).\nNé en Italie, il a été illustré par Pétrarque, Ronsard, Shakespeare et Baudelaire.",
+    "details": {
+      "wikipedia": "Sonnet",
+      "definition": "Poème de 14 vers souvent en alexandrins (12 syllabes) en français, avec des rimes organisées selon des schémas précis. Le dernier vers, appelé la chute ou la pointe, apporte souvent une conclusion frappante.",
+      "exemple": "« Mignonne, allons voir si la rose » est une ode de Ronsard, mais « Quand vous serez bien vieille » est un de ses sonnets célèbres. Le Dormeur du val de Rimbaud est un sonnet dont le dernier vers révèle que le soldat est mort : « Il a deux trous rouges au côté droit. »",
+      "confusions": [
+        {
+          "mot": "Sonnet anglais (shakespearien)",
+          "explication": "trois quatrains et un distique final (2 vers)"
+        },
+        {
+          "mot": "Alexandrin",
+          "explication": "vers de 12 syllabes, le plus utilisé de la poésie française classique"
+        },
+        {
+          "mot": "Ballade / rondeau",
+          "explication": "autres formes fixes, plus anciennes, du Moyen Âge"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Sonnet"
+  },
+  {
+    "id": "litterature-029",
+    "domain": "litterature",
+    "subtheme": "Genres et notions",
+    "type": "vocabulaire",
+    "title": "Roman épistolaire",
+    "summary": "Un roman épistolaire est un roman écrit sous forme de lettres échangées entre les personnages.\nCe genre a connu son âge d'or au XVIIIe siècle.",
+    "details": {
+      "wikipedia": "Roman épistolaire",
+      "definition": "Récit composé entièrement ou principalement de lettres, sans narrateur extérieur. Le lecteur reconstitue l'histoire à partir des points de vue des différents correspondants.",
+      "exemple": "Les Liaisons dangereuses de Choderlos de Laclos (1782), où la marquise de Merteuil et le vicomte de Valmont manipulent leur entourage. Les Lettres persanes de Montesquieu (1721), où deux Persans découvrent la France avec un regard critique. Plus récemment, Dracula de Bram Stoker mêle lettres et journaux intimes.",
+      "confusions": [
+        {
+          "mot": "Journal intime",
+          "explication": "un seul auteur écrit pour lui-même, sans destinataire"
+        },
+        {
+          "mot": "Correspondance",
+          "explication": "lettres réelles d'un écrivain, publiées comme document et non comme fiction"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Roman épistolaire"
+  },
+  {
+    "id": "litterature-030",
+    "domain": "litterature",
+    "subtheme": "Genres et notions",
+    "type": "vocabulaire",
+    "title": "Prix Goncourt",
+    "summary": "Le prix Goncourt est le plus prestigieux prix littéraire français. Décerné chaque année début novembre, il récompense un roman en langue française.\nLe chèque n'est que de 10 euros, mais le prix fait exploser les ventes.",
+    "details": {
+      "wikipedia": "Prix Goncourt",
+      "definition": "Prix créé par le testament d'Edmond de Goncourt, décerné pour la première fois en 1903 par l'Académie Goncourt, composée de dix écrivains qui se réunissent au restaurant Drouant, à Paris.",
+      "exemple": "Lauréats célèbres : Marcel Proust (1919), André Malraux pour La Condition humaine (1933), Simone de Beauvoir pour Les Mandarins (1954), Marguerite Duras pour L'Amant (1984). Un lauréat vend souvent plusieurs centaines de milliers d'exemplaires.",
+      "confusions": [
+        {
+          "mot": "Prix Nobel de littérature",
+          "explication": "prix international récompensant l'ensemble d'une œuvre, décerné en Suède"
+        },
+        {
+          "mot": "Renaudot, Femina, Médicis",
+          "explication": "autres grands prix d'automne en France"
+        }
+      ],
+      "anecdotes": [
+        "Romain Gary est le seul à l'avoir reçu deux fois : en 1956, puis en 1975 sous le pseudonyme d'Émile Ajar pour La Vie devant soi, une supercherie révélée après sa mort."
+      ]
+    },
+    "source": "D'après Wikipédia — Prix Goncourt"
+  }
+]

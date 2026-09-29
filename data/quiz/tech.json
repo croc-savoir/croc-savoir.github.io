@@ -1,0 +1,492 @@
+[
+  {
+    "id": "q-tech-001",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Qui a inventé le World Wide Web ?",
+    "choix": [
+      "Alan Turing",
+      "Tim Berners-Lee",
+      "Thomas Edison",
+      "Ada Lovelace"
+    ],
+    "bonneReponse": 1,
+    "explication": "Tim Berners-Lee a conçu le World Wide Web entre 1989 et 1991, alors qu'il travaillait au CERN.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-tech-002",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Thomas Edison a inventé le concept de l'ampoule électrique à partir de rien.",
+    "reponse": false,
+    "explication": "Plusieurs inventeurs avaient déjà travaillé sur des ampoules avant lui ; Edison en a surtout mis au point une version fiable et commercialisable.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-tech-003",
+    "domain": "tech",
+    "format": "associer",
+    "question": "Associe chaque personnage à sa contribution.",
+    "paires": [
+      {
+        "gauche": "Ada Lovelace",
+        "droite": "Premier algorithme destiné à une machine"
+      },
+      {
+        "gauche": "Alan Turing",
+        "droite": "Décryptage du code Enigma"
+      },
+      {
+        "gauche": "Nikola Tesla",
+        "droite": "Développement du courant alternatif"
+      },
+      {
+        "gauche": "Tim Berners-Lee",
+        "droite": "Invention du World Wide Web"
+      }
+    ],
+    "explication": "Chacun a posé une pierre fondatrice de l'informatique ou de l'électricité moderne.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-tech-004",
+    "domain": "tech",
+    "format": "frise",
+    "question": "Remets ces inventions dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Invention de l'imprimerie de Gutenberg",
+        "annee": "1450"
+      },
+      {
+        "label": "Dépôt du brevet du téléphone",
+        "annee": "1876"
+      },
+      {
+        "label": "Mise en service d'ARPANET",
+        "annee": "1969"
+      },
+      {
+        "label": "Invention du World Wide Web",
+        "annee": "1990"
+      }
+    ],
+    "explication": "De l'imprimerie (1450) au web (1990), en passant par le téléphone (1876) et ARPANET (1969).",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-tech-005",
+    "domain": "tech",
+    "format": "difference",
+    "question": "Quelle est la différence entre un logiciel open source et un logiciel gratuit ?",
+    "choix": [
+      "Aucune, ce sont les mêmes",
+      "L'open source rend le code source public et modifiable ; la gratuité concerne seulement le prix, pas l'accès au code",
+      "Un logiciel gratuit est toujours open source",
+      "L'open source signifie que le logiciel ne fonctionne que hors-ligne"
+    ],
+    "bonneReponse": 1,
+    "explication": "Un logiciel peut être gratuit sans être open source (code fermé), et inversement un logiciel open source peut être payant.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-tech-006",
+    "domain": "tech",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis un composant électronique inventé en 1947.",
+      "J'ai été mis au point dans les laboratoires Bell.",
+      "J'ai remplacé les grosses lampes à vide dans l'électronique.",
+      "Des milliards de mes semblables sont gravés sur chaque puce de processeur moderne."
+    ],
+    "reponse": "Le transistor",
+    "explication": "Le transistor, inventé en 1947, est le composant de base de toute l'électronique moderne.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-tech-007",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Qui a réalisé le premier vol motorisé contrôlé en 1903 ?",
+    "choix": [
+      "Louis Blériot",
+      "Les frères Wright",
+      "Clément Ader",
+      "Santos-Dumont"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le 17 décembre 1903 à Kitty Hawk : 12 secondes, 37 mètres.",
+    "source": "D'après Wikipédia — Frères Wright"
+  },
+  {
+    "id": "q-tech-008",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel était le premier message envoyé sur ARPANET en 1969 ?",
+    "choix": [
+      "HELLO",
+      "LO",
+      "TEST",
+      "LOGIN"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le système a planté après les deux premières lettres de « LOGIN ».",
+    "source": "D'après Wikipédia — ARPANET"
+  },
+  {
+    "id": "q-tech-009",
+    "domain": "tech",
+    "format": "qui-suis-je",
+    "indices": [
+      "J'étais une star d'Hollywood.",
+      "J'ai fui l'Autriche et un mari marchand d'armes.",
+      "J'ai coinventé un système de saut de fréquence en 1942.",
+      "Mon invention est à la base du Wi-Fi et du Bluetooth."
+    ],
+    "reponse": "Hedy Lamarr",
+    "explication": "Actrice et inventrice, longtemps méconnue.",
+    "source": "D'après Wikipédia — Hedy Lamarr"
+  },
+  {
+    "id": "q-tech-010",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Le mot « ordinateur » a été inventé pour IBM France en 1955.",
+    "reponse": true,
+    "explication": "Proposé par le linguiste Jacques Perret, à partir d'un terme théologique désignant Dieu qui met de l'ordre dans le monde.",
+    "source": "D'après Wikipédia — Ordinateur"
+  },
+  {
+    "id": "q-tech-011",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Combien de bits contient un octet ?",
+    "choix": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "bonneReponse": 2,
+    "explication": "8 bits, soit 256 valeurs possibles.",
+    "source": "D'après Wikipédia — Octet"
+  },
+  {
+    "id": "q-tech-012",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Qui a créé le premier compilateur de l'histoire ?",
+    "choix": [
+      "Ada Lovelace",
+      "Grace Hopper",
+      "Alan Turing",
+      "John von Neumann"
+    ],
+    "bonneReponse": 1,
+    "explication": "Grace Hopper, en 1952, avec le compilateur A-0.",
+    "source": "D'après Wikipédia — Grace Hopper"
+  },
+  {
+    "id": "q-tech-013",
+    "domain": "tech",
+    "format": "associer",
+    "question": "Associe chaque unité à sa grandeur.",
+    "paires": [
+      {
+        "gauche": "Volt",
+        "droite": "Tension"
+      },
+      {
+        "gauche": "Ampère",
+        "droite": "Intensité"
+      },
+      {
+        "gauche": "Ohm",
+        "droite": "Résistance"
+      },
+      {
+        "gauche": "Watt",
+        "droite": "Puissance"
+      }
+    ],
+    "explication": "Chaque unité porte le nom d'un savant.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-tech-014",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "En quelle année l'iPhone a-t-il été présenté ?",
+    "choix": [
+      "2003",
+      "2005",
+      "2007",
+      "2010"
+    ],
+    "bonneReponse": 2,
+    "explication": "Le 9 janvier 2007 par Steve Jobs.",
+    "source": "D'après Wikipédia — iPhone"
+  },
+  {
+    "id": "q-tech-015",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "La plus ancienne photographie connue a été prise par un Français.",
+    "reponse": true,
+    "explication": "Nicéphore Niépce, vers 1827, depuis sa fenêtre en Bourgogne.",
+    "source": "D'après Wikipédia — Point de vue du Gras"
+  },
+  {
+    "id": "q-tech-016",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel programme a battu le champion du monde d'échecs Garry Kasparov en 1997 ?",
+    "choix": [
+      "AlphaGo",
+      "Deep Blue",
+      "Watson",
+      "ChatGPT"
+    ],
+    "bonneReponse": 1,
+    "explication": "Deep Blue d'IBM. AlphaGo a battu le champion de go en 2016.",
+    "source": "D'après Wikipédia — Deep Blue"
+  },
+  {
+    "id": "q-tech-017",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "D'où vient le mot « bug » en informatique, selon une anecdote célèbre ?",
+    "choix": [
+      "D'un papillon de nuit coincé dans un ordinateur en 1947",
+      "D'une marque d'ordinateurs",
+      "D'un acronyme",
+      "D'un jeu vidéo"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'équipe de Grace Hopper l'a collé dans le cahier de bord du Harvard Mark II.",
+    "source": "D'après Wikipédia — Bug (informatique)"
+  },
+  {
+    "id": "q-tech-018",
+    "domain": "tech",
+    "format": "difference",
+    "question": "Quelle est la différence entre un virus et un rançongiciel ?",
+    "choix": [
+      "Le virus se propage dans des fichiers, le rançongiciel chiffre les données et exige une rançon",
+      "Le rançongiciel est inoffensif",
+      "Le virus est un matériel",
+      "Aucune"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le rançongiciel est un type de logiciel malveillant qui prend les données en otage.",
+    "source": "D'après Wikipédia — Rançongiciel"
+  },
+  {
+    "id": "q-tech-019",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quelle unité James Watt a-t-il créée pour vendre ses machines ?",
+    "choix": [
+      "Le joule",
+      "Le cheval-vapeur",
+      "Le kilowatt-heure",
+      "Le newton"
+    ],
+    "bonneReponse": 1,
+    "explication": "Il comparait la puissance de ses machines à celle des chevaux.",
+    "source": "D'après Wikipédia — Cheval-vapeur"
+  },
+  {
+    "id": "q-tech-020",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Le CERN a breveté le World Wide Web.",
+    "reponse": false,
+    "explication": "En 1993, le CERN l'a placé dans le domaine public, sans brevet ni redevance.",
+    "source": "D'après Wikipédia — World Wide Web"
+  },
+  {
+    "id": "q-tech-021",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Qui a inventé la pile électrique en 1800 ?",
+    "choix": [
+      "Ampère",
+      "Volta",
+      "Faraday",
+      "Franklin"
+    ],
+    "bonneReponse": 1,
+    "explication": "Alessandro Volta ; le volt porte son nom.",
+    "source": "D'après Wikipédia — Pile voltaïque"
+  },
+  {
+    "id": "q-tech-022",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel Français a reçu le prix Turing 2018 pour ses travaux sur l'apprentissage profond ?",
+    "choix": [
+      "Yann LeCun",
+      "Cédric Villani",
+      "Louis Pouzin",
+      "Xavier Niel"
+    ],
+    "bonneReponse": 0,
+    "explication": "Avec Geoffrey Hinton et Yoshua Bengio.",
+    "source": "D'après Wikipédia — Yann Le Cun"
+  },
+  {
+    "id": "q-tech-023",
+    "domain": "tech",
+    "format": "frise",
+    "question": "Remets ces inventions dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Imprimerie de Gutenberg",
+        "annee": "1450"
+      },
+      {
+        "label": "Machine à vapeur de Watt",
+        "annee": "1769"
+      },
+      {
+        "label": "Téléphone de Bell",
+        "annee": "1876"
+      },
+      {
+        "label": "Premier vol des frères Wright",
+        "annee": "1903"
+      },
+      {
+        "label": "ENIAC",
+        "annee": "1945"
+      },
+      {
+        "label": "World Wide Web",
+        "annee": "1989"
+      }
+    ],
+    "explication": "Cinq siècles d'inventions majeures.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-tech-024",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel pourcentage environ de l'électricité française vient du nucléaire ?",
+    "choix": [
+      "~10 %",
+      "~35 %",
+      "~65 à 70 %",
+      "~95 %"
+    ],
+    "bonneReponse": 2,
+    "explication": "La France est le pays le plus nucléarisé au monde en proportion.",
+    "source": "D'après Wikipédia — Électricité en France"
+  },
+  {
+    "id": "q-tech-025",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Alan Turing a été gracié à titre posthume par la reine Élisabeth II.",
+    "reponse": true,
+    "explication": "En 2013, pour sa condamnation pour homosexualité en 1952.",
+    "source": "D'après Wikipédia — Alan Turing"
+  },
+  {
+    "id": "q-tech-026",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Combien pesait l'ENIAC, l'un des premiers ordinateurs ?",
+    "choix": [
+      "300 kg",
+      "3 tonnes",
+      "30 tonnes",
+      "300 tonnes"
+    ],
+    "bonneReponse": 2,
+    "explication": "30 tonnes et 167 m² au sol.",
+    "source": "D'après Wikipédia — ENIAC"
+  },
+  {
+    "id": "q-tech-027",
+    "domain": "tech",
+    "format": "associer",
+    "question": "Associe chaque entreprise à son cofondateur.",
+    "paires": [
+      {
+        "gauche": "Apple",
+        "droite": "Steve Jobs"
+      },
+      {
+        "gauche": "Microsoft",
+        "droite": "Bill Gates"
+      },
+      {
+        "gauche": "Intel",
+        "droite": "Gordon Moore"
+      },
+      {
+        "gauche": "Linux (projet)",
+        "droite": "Linus Torvalds"
+      }
+    ],
+    "explication": "Quatre acteurs clés de l'informatique.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-tech-028",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Que dit la loi de Moore ?",
+    "choix": [
+      "La vitesse d'Internet double chaque année",
+      "Le nombre de transistors sur une puce double environ tous les deux ans",
+      "Les ordinateurs deviennent moins chers de moitié chaque mois",
+      "Un ordinateur dure 10 ans"
+    ],
+    "bonneReponse": 1,
+    "explication": "Observation de Gordon Moore en 1965, vérifiée pendant des décennies.",
+    "source": "D'après Wikipédia — Loi de Moore"
+  },
+  {
+    "id": "q-tech-029",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Pourquoi les passants n'apparaissent-ils pas sur les premiers daguerréotypes de rues ?",
+    "choix": [
+      "Ils étaient effacés à la main",
+      "La pose était trop longue et ils bougeaient",
+      "Les rues étaient vides",
+      "L'appareil ne captait que les bâtiments"
+    ],
+    "bonneReponse": 1,
+    "explication": "Seul un homme immobile, qui se faisait cirer les chaussures, apparaît sur une vue de Paris de 1838.",
+    "source": "D'après Wikipédia — Daguerréotype"
+  },
+  {
+    "id": "q-tech-030",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Kodak a inventé le premier appareil photo numérique, puis a fait faillite faute d'avoir pris le virage du numérique.",
+    "reponse": true,
+    "explication": "Prototype en 1975 par Steven Sasson ; faillite en 2012.",
+    "source": "D'après Wikipédia — Kodak"
+  },
+  {
+    "id": "q-tech-031",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Qui a montré que la foudre est électrique avec un cerf-volant ?",
+    "choix": [
+      "Benjamin Franklin",
+      "Thomas Edison",
+      "Isaac Newton",
+      "Nikola Tesla"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1752 ; il invente ensuite le paratonnerre.",
+    "source": "D'après Wikipédia — Benjamin Franklin"
+  }
+]

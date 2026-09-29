@@ -1,0 +1,457 @@
+[
+  {
+    "id": "q-litterature-001",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel roman de Victor Hugo suit le parcours de Jean Valjean ?",
+    "choix": [
+      "Notre-Dame de Paris",
+      "Les Misérables",
+      "Les Contemplations",
+      "Ruy Blas"
+    ],
+    "bonneReponse": 1,
+    "explication": "Les Misérables, publié en 1862, raconte la rédemption de Jean Valjean dans la France du XIXe siècle.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-litterature-002",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "La métaphore utilise toujours un mot de comparaison comme « comme » ou « tel ».",
+    "reponse": false,
+    "explication": "C'est la comparaison qui utilise un mot-outil. La métaphore associe deux éléments directement, sans mot de liaison.",
+    "source": "Définition grammaticale standard"
+  },
+  {
+    "id": "q-litterature-003",
+    "domain": "litterature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis un écrivain et philosophe français du XXe siècle.",
+      "Je suis né en Algérie en 1913.",
+      "J'ai développé une philosophie centrée sur l'absurde.",
+      "J'ai reçu le prix Nobel de littérature en 1957.",
+      "J'ai écrit L'Étranger et La Peste."
+    ],
+    "reponse": "Albert Camus",
+    "explication": "Albert Camus a exploré l'absurdité de la condition humaine dans des œuvres comme L'Étranger et Le Mythe de Sisyphe.",
+    "source": "Dates et prix Nobel vérifiés"
+  },
+  {
+    "id": "q-litterature-004",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel mouvement littéraire est associé à l'écriture automatique et à l'exploration du rêve ?",
+    "choix": [
+      "Le classicisme",
+      "Le réalisme",
+      "Le surréalisme",
+      "Le romantisme"
+    ],
+    "bonneReponse": 2,
+    "explication": "Le surréalisme, théorisé par André Breton dans son Manifeste de 1924, explore l'inconscient via l'écriture automatique.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-litterature-005",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "Molière serait mort peu après avoir joué sur scène Le Malade imaginaire.",
+    "reponse": true,
+    "explication": "Selon la tradition, Molière est pris de malaise en jouant cette pièce et meurt peu après, en 1673.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-litterature-006",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Qui a écrit Candide ?",
+    "choix": [
+      "Rousseau",
+      "Voltaire",
+      "Diderot",
+      "Montesquieu"
+    ],
+    "bonneReponse": 1,
+    "explication": "Candide ou l'Optimisme (1759) est le conte philosophique le plus célèbre de Voltaire.",
+    "source": "D'après Wikipédia — Candide"
+  },
+  {
+    "id": "q-litterature-007",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel poète a écrit Les Fleurs du mal ?",
+    "choix": [
+      "Verlaine",
+      "Rimbaud",
+      "Baudelaire",
+      "Mallarmé"
+    ],
+    "bonneReponse": 2,
+    "explication": "Baudelaire, en 1857. Le recueil lui valut un procès.",
+    "source": "D'après Wikipédia — Les Fleurs du mal"
+  },
+  {
+    "id": "q-litterature-008",
+    "domain": "litterature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Charleville en 1854.",
+      "J'ai écrit toute mon œuvre avant 21 ans.",
+      "Verlaine m'a tiré dessus à Bruxelles.",
+      "J'ai écrit Le Bateau ivre et Une saison en enfer.",
+      "J'ai fini négociant en Éthiopie."
+    ],
+    "reponse": "Arthur Rimbaud",
+    "explication": "Rimbaud a renoncé à la poésie vers 20 ans.",
+    "source": "D'après Wikipédia — Arthur Rimbaud"
+  },
+  {
+    "id": "q-litterature-009",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Combien de vers compte un sonnet ?",
+    "choix": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "bonneReponse": 2,
+    "explication": "Deux quatrains et deux tercets : 4 + 4 + 3 + 3 = 14.",
+    "source": "D'après Wikipédia — Sonnet"
+  },
+  {
+    "id": "q-litterature-010",
+    "domain": "litterature",
+    "format": "associer",
+    "question": "Associe chaque œuvre à son auteur.",
+    "paires": [
+      {
+        "gauche": "Germinal",
+        "droite": "Émile Zola"
+      },
+      {
+        "gauche": "Don Quichotte",
+        "droite": "Cervantes"
+      },
+      {
+        "gauche": "Hamlet",
+        "droite": "Shakespeare"
+      },
+      {
+        "gauche": "1984",
+        "droite": "George Orwell"
+      },
+      {
+        "gauche": "Le Petit Prince",
+        "droite": "Saint-Exupéry"
+      }
+    ],
+    "explication": "Cinq classiques de la littérature mondiale.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-litterature-011",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "George Sand était le vrai nom de l'écrivaine.",
+    "reponse": false,
+    "explication": "Elle s'appelait Aurore Dupin ; elle a pris un pseudonyme masculin pour être publiée.",
+    "source": "D'après Wikipédia — George Sand"
+  },
+  {
+    "id": "q-litterature-012",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Comment s'appelle le cheval de Don Quichotte ?",
+    "choix": [
+      "Bucéphale",
+      "Rossinante",
+      "Pégase",
+      "Jolly Jumper"
+    ],
+    "bonneReponse": 1,
+    "explication": "Rossinante, un vieux cheval maigre. Bucéphale était le cheval d'Alexandre le Grand.",
+    "source": "D'après Wikipédia — Rossinante"
+  },
+  {
+    "id": "q-litterature-013",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel nom Ulysse donne-t-il au cyclope Polyphème pour le tromper ?",
+    "choix": [
+      "Nemo",
+      "Personne",
+      "Ithaque",
+      "Zeus"
+    ],
+    "bonneReponse": 1,
+    "explication": "Quand Polyphème appelle à l'aide en criant « Personne m'a blessé ! », les autres cyclopes ne viennent pas.",
+    "source": "D'après Wikipédia — Polyphème"
+  },
+  {
+    "id": "q-litterature-014",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Dans quel journal Zola publie-t-il « J'accuse… ! » en 1898 ?",
+    "choix": [
+      "Le Figaro",
+      "L'Aurore",
+      "Le Monde",
+      "Libération"
+    ],
+    "bonneReponse": 1,
+    "explication": "L'Aurore, journal dirigé par Clemenceau, qui trouve le titre.",
+    "source": "D'après Wikipédia — J'accuse…!"
+  },
+  {
+    "id": "q-litterature-015",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "Molière est mort sur scène en jouant Le Malade imaginaire.",
+    "reponse": false,
+    "explication": "Il a été pris d'un malaise sur scène mais est mort quelques heures plus tard chez lui.",
+    "source": "D'après Wikipédia — Molière"
+  },
+  {
+    "id": "q-litterature-016",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel écrivain a reçu deux fois le prix Goncourt ?",
+    "choix": [
+      "Marcel Proust",
+      "Romain Gary",
+      "Albert Camus",
+      "Michel Houellebecq"
+    ],
+    "bonneReponse": 1,
+    "explication": "En 1956 sous son nom, puis en 1975 sous le pseudonyme d'Émile Ajar.",
+    "source": "D'après Wikipédia — Romain Gary"
+  },
+  {
+    "id": "q-litterature-017",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Qu'est-ce que la « novlangue » dans 1984 ?",
+    "choix": [
+      "Une langue étrangère",
+      "Une langue appauvrie pour empêcher de penser contre le Parti",
+      "Un code secret des résistants",
+      "La langue des machines"
+    ],
+    "bonneReponse": 1,
+    "explication": "En supprimant des mots, le Parti rend certaines idées impensables.",
+    "source": "D'après Wikipédia — Novlangue"
+  },
+  {
+    "id": "q-litterature-018",
+    "domain": "litterature",
+    "format": "frise",
+    "question": "Remets ces œuvres dans l'ordre de publication.",
+    "evenements": [
+      {
+        "label": "Don Quichotte (1re partie)",
+        "annee": "1605"
+      },
+      {
+        "label": "Les Fables de La Fontaine (1er recueil)",
+        "annee": "1668"
+      },
+      {
+        "label": "Candide",
+        "annee": "1759"
+      },
+      {
+        "label": "Les Misérables",
+        "annee": "1862"
+      },
+      {
+        "label": "Le Petit Prince",
+        "annee": "1943"
+      }
+    ],
+    "explication": "Du XVIIe au XXe siècle.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-litterature-019",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Dans quelle fable la morale est-elle « Rien ne sert de courir ; il faut partir à point » ?",
+    "choix": [
+      "Le Corbeau et le Renard",
+      "La Cigale et la Fourmi",
+      "Le Lièvre et la Tortue",
+      "Le Loup et l'Agneau"
+    ],
+    "bonneReponse": 2,
+    "explication": "La tortue, partie à temps, bat le lièvre trop sûr de lui.",
+    "source": "D'après Wikipédia — Le Lièvre et la Tortue (La Fontaine)"
+  },
+  {
+    "id": "q-litterature-020",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "Shakespeare a écrit Roméo et Juliette.",
+    "reponse": true,
+    "explication": "La tragédie date d'environ 1595.",
+    "source": "D'après Wikipédia — Roméo et Juliette"
+  },
+  {
+    "id": "q-litterature-021",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel roman épistolaire met en scène Valmont et la marquise de Merteuil ?",
+    "choix": [
+      "Les Lettres persanes",
+      "Les Liaisons dangereuses",
+      "La Nouvelle Héloïse",
+      "Madame Bovary"
+    ],
+    "bonneReponse": 1,
+    "explication": "Les Liaisons dangereuses de Choderlos de Laclos (1782).",
+    "source": "D'après Wikipédia — Les Liaisons dangereuses"
+  },
+  {
+    "id": "q-litterature-022",
+    "domain": "litterature",
+    "format": "difference",
+    "question": "Quelle est la différence entre une antithèse et un oxymore ?",
+    "choix": [
+      "L'antithèse oppose deux idées dans une phrase ; l'oxymore unit deux termes contradictoires dans une même expression",
+      "C'est la même chose",
+      "L'oxymore est une comparaison",
+      "L'antithèse n'existe qu'en poésie"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Cette obscure clarté » est un oxymore ; « Je vis, je meurs » est une antithèse.",
+    "source": "D'après Wikipédia — Oxymore"
+  },
+  {
+    "id": "q-litterature-023",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel est le vrai nom de Voltaire ?",
+    "choix": [
+      "François-Marie Arouet",
+      "Jean-Baptiste Poquelin",
+      "Henri Beyle",
+      "Aurore Dupin"
+    ],
+    "bonneReponse": 0,
+    "explication": "Poquelin est Molière, Henri Beyle est Stendhal, Aurore Dupin est George Sand.",
+    "source": "D'après Wikipédia — Voltaire"
+  },
+  {
+    "id": "q-litterature-024",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Que tisse Pénélope pendant l'absence d'Ulysse ?",
+    "choix": [
+      "Une voile de bateau",
+      "Un linceul qu'elle défait la nuit",
+      "Un tapis pour Ulysse",
+      "Une robe de mariée"
+    ],
+    "bonneReponse": 1,
+    "explication": "Elle promet d'épouser un prétendant quand le linceul de Laërte sera fini, et défait son travail chaque nuit.",
+    "source": "D'après Wikipédia — Pénélope"
+  },
+  {
+    "id": "q-litterature-025",
+    "domain": "litterature",
+    "format": "associer",
+    "question": "Associe chaque écrivain à son vrai nom.",
+    "paires": [
+      {
+        "gauche": "Molière",
+        "droite": "Jean-Baptiste Poquelin"
+      },
+      {
+        "gauche": "George Sand",
+        "droite": "Aurore Dupin"
+      },
+      {
+        "gauche": "George Orwell",
+        "droite": "Eric Blair"
+      },
+      {
+        "gauche": "Stendhal",
+        "droite": "Henri Beyle"
+      }
+    ],
+    "explication": "Beaucoup d'écrivains ont écrit sous pseudonyme.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-litterature-026",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "La célèbre phrase « Je ne suis pas d'accord avec ce que vous dites, mais je me battrai… » est de Voltaire.",
+    "reponse": false,
+    "explication": "Elle a été écrite en 1906 par la biographe Evelyn Beatrice Hall pour résumer sa pensée.",
+    "source": "D'après Wikipédia — Evelyn Beatrice Hall"
+  },
+  {
+    "id": "q-litterature-027",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Qu'apprend le renard au Petit Prince ?",
+    "choix": [
+      "À voler",
+      "Ce que signifie « apprivoiser »",
+      "À compter les étoiles",
+      "À dessiner un mouton"
+    ],
+    "bonneReponse": 1,
+    "explication": "« On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux. »",
+    "source": "D'après Wikipédia — Le Petit Prince"
+  },
+  {
+    "id": "q-litterature-028",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel mouvement littéraire Zola dirige-t-il ?",
+    "choix": [
+      "Le romantisme",
+      "Le symbolisme",
+      "Le naturalisme",
+      "Le surréalisme"
+    ],
+    "bonneReponse": 2,
+    "explication": "Le naturalisme prolonge le réalisme avec une méthode quasi scientifique.",
+    "source": "D'après Wikipédia — Naturalisme (littérature)"
+  },
+  {
+    "id": "q-litterature-029",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel poète a écrit « A noir, E blanc, I rouge, U vert, O bleu » ?",
+    "choix": [
+      "Baudelaire",
+      "Rimbaud",
+      "Hugo",
+      "Apollinaire"
+    ],
+    "bonneReponse": 1,
+    "explication": "C'est le premier vers du sonnet Voyelles de Rimbaud.",
+    "source": "D'après Wikipédia — Voyelles (poème)"
+  },
+  {
+    "id": "q-litterature-030",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "À quel âge Victor Hugo est-il parti en exil sous le Second Empire, et pour combien de temps ?",
+    "choix": [
+      "30 ans, 2 ans",
+      "49 ans, 19 ans",
+      "60 ans, 5 ans",
+      "Il n'a jamais été exilé"
+    ],
+    "bonneReponse": 1,
+    "explication": "Parti fin 1851, il ne revient qu'en 1870, à la chute de Napoléon III.",
+    "source": "D'après Wikipédia — Victor Hugo"
+  }
+]

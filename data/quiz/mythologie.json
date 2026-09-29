@@ -1,0 +1,464 @@
+[
+  {
+    "id": "q-mythologie-001",
+    "domain": "mythologie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis une divinité de la mythologie nordique.",
+      "Je suis le fils d'Odin, roi des dieux.",
+      "Je combats souvent les géants ennemis des dieux.",
+      "Mon arme est un marteau magique qui revient toujours dans ma main.",
+      "Je m'appelle Mjöllnir... non, c'est le nom de mon arme. Mon nom est celui du dieu du tonnerre."
+    ],
+    "reponse": "Thor",
+    "explication": "Thor est le dieu nordique du tonnerre, fils d'Odin, protecteur d'Asgard grâce à son marteau Mjöllnir.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-mythologie-002",
+    "domain": "mythologie",
+    "format": "associer",
+    "question": "Associe chaque dieu égyptien à son domaine.",
+    "paires": [
+      {
+        "gauche": "Osiris",
+        "droite": "Au-delà et résurrection"
+      },
+      {
+        "gauche": "Isis",
+        "droite": "Magie et maternité"
+      },
+      {
+        "gauche": "Anubis",
+        "droite": "Momification et jugement des morts"
+      },
+      {
+        "gauche": "Rê",
+        "droite": "Soleil"
+      }
+    ],
+    "explication": "Chaque grande divinité égyptienne est associée à un domaine précis de la vie ou de l'au-delà.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-mythologie-003",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Qui a renversé les Titans pour devenir roi des dieux grecs ?",
+    "choix": [
+      "Cronos",
+      "Zeus",
+      "Poséidon",
+      "Hadès"
+    ],
+    "bonneReponse": 1,
+    "explication": "Zeus renverse son père Cronos, un Titan, lors de la Titanomachie, pour devenir le chef des dieux Olympiens.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-mythologie-004",
+    "domain": "mythologie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis une déesse grecque liée au cycle des saisons.",
+      "Ma mère est Déméter, déesse des moissons.",
+      "J'ai été enlevée pour régner aux côtés d'un dieu des Enfers.",
+      "Mon absence sur terre plonge le monde dans l'hiver.",
+      "Je suis l'épouse d'Hadès."
+    ],
+    "reponse": "Perséphone",
+    "explication": "Perséphone partage son temps entre les Enfers, aux côtés d'Hadès, et le monde des vivants, ce qui explique mythologiquement le cycle des saisons.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-mythologie-005",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Dans quelle mythologie trouve-t-on l'arbre cosmique Yggdrasil ?",
+    "choix": [
+      "Mythologie grecque",
+      "Mythologie égyptienne",
+      "Mythologie nordique",
+      "Mythologie japonaise"
+    ],
+    "bonneReponse": 2,
+    "explication": "Yggdrasil est l'arbre cosmique qui relie les neuf mondes dans la cosmologie nordique.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-mythologie-006",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quel est le seul point faible d'Achille ?",
+    "choix": [
+      "Son cœur",
+      "Son talon",
+      "Ses yeux",
+      "Son dos"
+    ],
+    "bonneReponse": 1,
+    "explication": "Sa mère l'a plongé dans le Styx en le tenant par le talon.",
+    "source": "D'après Wikipédia — Achille"
+  },
+  {
+    "id": "q-mythologie-007",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Qui a eu l'idée du cheval de Troie ?",
+    "choix": [
+      "Achille",
+      "Agamemnon",
+      "Ulysse",
+      "Hector"
+    ],
+    "bonneReponse": 2,
+    "explication": "La ruse vient d'Ulysse, le plus rusé des Grecs.",
+    "source": "D'après Wikipédia — Cheval de Troie"
+  },
+  {
+    "id": "q-mythologie-008",
+    "domain": "mythologie",
+    "format": "associer",
+    "question": "Associe chaque dieu grec à son nom romain.",
+    "paires": [
+      {
+        "gauche": "Zeus",
+        "droite": "Jupiter"
+      },
+      {
+        "gauche": "Aphrodite",
+        "droite": "Vénus"
+      },
+      {
+        "gauche": "Arès",
+        "droite": "Mars"
+      },
+      {
+        "gauche": "Hermès",
+        "droite": "Mercure"
+      },
+      {
+        "gauche": "Poséidon",
+        "droite": "Neptune"
+      }
+    ],
+    "explication": "Nos planètes portent les noms romains des dieux.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-mythologie-009",
+    "domain": "mythologie",
+    "format": "vrai-faux",
+    "affirmation": "Dans le mythe d'Hésiode, Pandore ouvre une jarre et non une boîte.",
+    "reponse": true,
+    "explication": "La « boîte » vient d'une erreur de traduction d'Érasme au XVIe siècle.",
+    "source": "D'après Wikipédia — Boîte de Pandore"
+  },
+  {
+    "id": "q-mythologie-010",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quel objet permet à Thésée de sortir du labyrinthe ?",
+    "choix": [
+      "Une épée magique",
+      "Le fil d'Ariane",
+      "Des ailes de cire",
+      "Une carte de Dédale"
+    ],
+    "bonneReponse": 1,
+    "explication": "Ariane lui donne une pelote de fil qu'il déroule en entrant.",
+    "source": "D'après Wikipédia — Fil d'Ariane"
+  },
+  {
+    "id": "q-mythologie-011",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Pourquoi la mer Égée porte-t-elle ce nom ?",
+    "choix": [
+      "Du nom d'une île",
+      "Du roi Égée, qui s'y est jeté en voyant une voile noire",
+      "D'une déesse de la mer",
+      "D'un mot grec signifiant « bleu »"
+    ],
+    "bonneReponse": 1,
+    "explication": "Thésée avait oublié de hisser la voile blanche promise.",
+    "source": "D'après Wikipédia — Égée"
+  },
+  {
+    "id": "q-mythologie-012",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Qui est condamné à porter la voûte céleste sur ses épaules ?",
+    "choix": [
+      "Prométhée",
+      "Atlas",
+      "Cronos",
+      "Sisyphe"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le Titan Atlas a donné son nom aux recueils de cartes.",
+    "source": "D'après Wikipédia — Atlas (mythologie)"
+  },
+  {
+    "id": "q-mythologie-013",
+    "domain": "mythologie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon regard change les êtres en pierre.",
+      "Je suis la seule mortelle de trois sœurs.",
+      "Mes cheveux sont des serpents.",
+      "Persée m'a décapitée en regardant mon reflet."
+    ],
+    "reponse": "Méduse",
+    "explication": "Pégase est né de son cou tranché.",
+    "source": "D'après Wikipédia — Méduse (mythologie)"
+  },
+  {
+    "id": "q-mythologie-014",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Qu'est-ce que le Valhalla ?",
+    "choix": [
+      "Le marteau de Thor",
+      "La salle d'Odin où vont les guerriers morts au combat",
+      "L'arbre du monde",
+      "Le monde des géants"
+    ],
+    "bonneReponse": 1,
+    "explication": "Les Valkyries y conduisent les guerriers choisis.",
+    "source": "D'après Wikipédia — Valhalla"
+  },
+  {
+    "id": "q-mythologie-015",
+    "domain": "mythologie",
+    "format": "vrai-faux",
+    "affirmation": "Orphée a réussi à ramener Eurydice des Enfers.",
+    "reponse": false,
+    "explication": "Il s'est retourné avant d'être sorti et l'a perdue à jamais.",
+    "source": "D'après Wikipédia — Eurydice"
+  },
+  {
+    "id": "q-mythologie-016",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quelle est la réponse à l'énigme du Sphinx posée à Œdipe ?",
+    "choix": [
+      "Le soleil",
+      "L'homme",
+      "Le temps",
+      "Le cheval"
+    ],
+    "bonneReponse": 1,
+    "explication": "L'homme marche à quatre pattes bébé, sur deux jambes adulte, avec une canne vieux.",
+    "source": "D'après Wikipédia — Sphinx (mythologie grecque)"
+  },
+  {
+    "id": "q-mythologie-017",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Qui a allaité Romulus et Remus selon la légende ?",
+    "choix": [
+      "Une chèvre",
+      "Une louve",
+      "Une ourse",
+      "Une biche"
+    ],
+    "bonneReponse": 1,
+    "explication": "La louve capitoline est le symbole de Rome.",
+    "source": "D'après Wikipédia — Romulus et Rémus"
+  },
+  {
+    "id": "q-mythologie-018",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quel animal figure sur le drapeau mexicain, en lien avec la fondation de Tenochtitlan ?",
+    "choix": [
+      "Un jaguar",
+      "Un aigle sur un cactus dévorant un serpent",
+      "Un quetzal",
+      "Un serpent à plumes"
+    ],
+    "bonneReponse": 1,
+    "explication": "C'est le signe qui devait indiquer aux Aztèques où fonder leur capitale.",
+    "source": "D'après Wikipédia — Drapeau du Mexique"
+  },
+  {
+    "id": "q-mythologie-019",
+    "domain": "mythologie",
+    "format": "associer",
+    "question": "Associe chaque Muse à son domaine.",
+    "paires": [
+      {
+        "gauche": "Clio",
+        "droite": "Histoire"
+      },
+      {
+        "gauche": "Uranie",
+        "droite": "Astronomie"
+      },
+      {
+        "gauche": "Terpsichore",
+        "droite": "Danse"
+      },
+      {
+        "gauche": "Melpomène",
+        "droite": "Tragédie"
+      }
+    ],
+    "explication": "Les neuf Muses sont filles de Zeus et de Mnémosyne.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-mythologie-020",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quelle fête celte est un ancêtre d'Halloween ?",
+    "choix": [
+      "Beltaine",
+      "Samain",
+      "Imbolc",
+      "Lughnasadh"
+    ],
+    "bonneReponse": 1,
+    "explication": "Samain, le 1er novembre, ouvrait la frontière entre vivants et morts.",
+    "source": "D'après Wikipédia — Samain"
+  },
+  {
+    "id": "q-mythologie-021",
+    "domain": "mythologie",
+    "format": "vrai-faux",
+    "affirmation": "Odin a sacrifié un œil pour obtenir la sagesse.",
+    "reponse": true,
+    "explication": "Il l'a donné au géant Mímir pour boire à la source de la sagesse.",
+    "source": "D'après Wikipédia — Odin"
+  },
+  {
+    "id": "q-mythologie-022",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Pourquoi Icare tombe-t-il dans la mer ?",
+    "choix": [
+      "Zeus le foudroie",
+      "La cire de ses ailes fond au soleil",
+      "Un aigle l'attaque",
+      "Il s'endort en vol"
+    ],
+    "bonneReponse": 1,
+    "explication": "Grisé par le vol, il monte trop près du soleil malgré les conseils de Dédale.",
+    "source": "D'après Wikipédia — Icare"
+  },
+  {
+    "id": "q-mythologie-023",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quel héros a accompli les douze travaux ?",
+    "choix": [
+      "Persée",
+      "Thésée",
+      "Héraclès",
+      "Jason"
+    ],
+    "bonneReponse": 2,
+    "explication": "Héraclès (Hercule chez les Romains) les accomplit pour expier ses crimes.",
+    "source": "D'après Wikipédia — Travaux d'Héraclès"
+  },
+  {
+    "id": "q-mythologie-024",
+    "domain": "mythologie",
+    "format": "difference",
+    "question": "Quelle est la différence entre une naïade et une néréide ?",
+    "choix": [
+      "La naïade vit dans les sources et rivières, la néréide dans la mer",
+      "La naïade est un monstre",
+      "La néréide vit dans les arbres",
+      "Aucune"
+    ],
+    "bonneReponse": 0,
+    "explication": "Deux types de nymphes liées à l'eau douce ou salée.",
+    "source": "D'après Wikipédia — Néréide"
+  },
+  {
+    "id": "q-mythologie-025",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quelle déesse a lancé la pomme de discorde « à la plus belle » ?",
+    "choix": [
+      "Aphrodite",
+      "Héra",
+      "Éris",
+      "Athéna"
+    ],
+    "bonneReponse": 2,
+    "explication": "Éris, déesse de la discorde, vexée de ne pas avoir été invitée aux noces de Thétis et Pélée.",
+    "source": "D'après Wikipédia — Éris"
+  },
+  {
+    "id": "q-mythologie-026",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quel dieu aztèque est appelé le « serpent à plumes » ?",
+    "choix": [
+      "Tlaloc",
+      "Quetzalcóatl",
+      "Huitzilopochtli",
+      "Tezcatlipoca"
+    ],
+    "bonneReponse": 1,
+    "explication": "Quetzalcóatl est le dieu du vent et de la connaissance.",
+    "source": "D'après Wikipédia — Quetzalcoatl"
+  },
+  {
+    "id": "q-mythologie-027",
+    "domain": "mythologie",
+    "format": "vrai-faux",
+    "affirmation": "Pégase est né du cou de Méduse décapitée.",
+    "reponse": true,
+    "explication": "Avec le géant Chrysaor, il jaillit quand Persée tranche la tête de la Gorgone.",
+    "source": "D'après Wikipédia — Pégase"
+  },
+  {
+    "id": "q-mythologie-028",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quel personnage tombe amoureux de son propre reflet ?",
+    "choix": [
+      "Écho",
+      "Narcisse",
+      "Adonis",
+      "Ganymède"
+    ],
+    "bonneReponse": 1,
+    "explication": "Il a donné son nom à la fleur et au narcissisme.",
+    "source": "D'après Wikipédia — Narcisse (mythologie)"
+  },
+  {
+    "id": "q-mythologie-029",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quel fruit lie Perséphone aux Enfers ?",
+    "choix": [
+      "Une pomme",
+      "Une figue",
+      "Des graines de grenade",
+      "Du raisin"
+    ],
+    "bonneReponse": 2,
+    "explication": "Pour avoir mangé des graines de grenade, elle doit passer une partie de l'année aux Enfers.",
+    "source": "D'après Wikipédia — Perséphone"
+  },
+  {
+    "id": "q-mythologie-030",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quel archéologue a fouillé le site de Troie en 1871 ?",
+    "choix": [
+      "Howard Carter",
+      "Heinrich Schliemann",
+      "Arthur Evans",
+      "Champollion"
+    ],
+    "bonneReponse": 1,
+    "explication": "Schliemann a fouillé Hissarlik, en Turquie. Arthur Evans a fouillé Cnossos.",
+    "source": "D'après Wikipédia — Heinrich Schliemann"
+  }
+]

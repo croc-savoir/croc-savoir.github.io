@@ -1,0 +1,463 @@
+[
+  {
+    "id": "q-economie-001",
+    "domain": "economie",
+    "format": "difference",
+    "question": "Quelle est la différence entre inflation et hyperinflation ?",
+    "choix": [
+      "Il n'y a pas de différence, ce sont deux mots pour la même chose",
+      "L'hyperinflation est une inflation extrêmement rapide et incontrôlée, contrairement à une inflation modérée",
+      "L'inflation concerne les salaires, l'hyperinflation concerne les prix",
+      "L'hyperinflation est une baisse rapide des prix"
+    ],
+    "bonneReponse": 1,
+    "explication": "L'hyperinflation désigne une inflation extrêmement rapide (parfois plusieurs dizaines de pourcents par mois), qui fait perdre presque toute valeur à la monnaie, contrairement à une inflation modérée maîtrisable.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-economie-002",
+    "domain": "economie",
+    "format": "difference",
+    "question": "Quelle est la différence entre désinflation et déflation ?",
+    "choix": [
+      "La désinflation est un ralentissement de la hausse des prix ; la déflation est une baisse effective des prix",
+      "Ce sont des synonymes stricts",
+      "La désinflation concerne les salaires, la déflation les prix",
+      "La déflation est plus fréquente que la désinflation"
+    ],
+    "bonneReponse": 0,
+    "explication": "En désinflation, les prix continuent d'augmenter mais moins vite ; en déflation, les prix baissent réellement d'une période à l'autre.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-economie-003",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Le PIB prend en compte les inégalités de répartition des richesses au sein d'un pays.",
+    "reponse": false,
+    "explication": "Le PIB mesure la richesse totale produite mais ne dit rien sur sa répartition entre les habitants : deux pays peuvent avoir le même PIB par habitant avec des niveaux d'inégalités très différents.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-economie-004",
+    "domain": "economie",
+    "format": "associer",
+    "question": "Associe chaque économiste à l'idée qui lui est le plus souvent associée.",
+    "paires": [
+      {
+        "gauche": "Adam Smith",
+        "droite": "La main invisible du marché"
+      },
+      {
+        "gauche": "John Maynard Keynes",
+        "droite": "La relance par la dépense publique"
+      },
+      {
+        "gauche": "Milton Friedman",
+        "droite": "Le contrôle de la masse monétaire"
+      }
+    ],
+    "explication": "Ces trois économistes incarnent des courants différents : le libéralisme classique, l'interventionnisme keynésien et le monétarisme.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-economie-005",
+    "domain": "economie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis un économiste britannique du 20e siècle.",
+      "Ma théorie répond à la Grande Dépression des années 1930.",
+      "Je justifie l'intervention de l'État dans l'économie.",
+      "Je préconise la relance par la dépense publique en période de crise.",
+      "Mon nom a donné naissance à un courant appelé le keynésianisme."
+    ],
+    "reponse": "John Maynard Keynes",
+    "explication": "Keynes défend l'idée qu'une économie peut rester durablement en sous-emploi sans intervention de l'État, et prône une relance budgétaire en temps de crise.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-economie-006",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Qui a formulé la théorie des avantages comparatifs ?",
+    "choix": [
+      "Adam Smith",
+      "David Ricardo",
+      "Karl Marx",
+      "Keynes"
+    ],
+    "bonneReponse": 1,
+    "explication": "Ricardo, en 1817, avec l'exemple du vin portugais et du drap anglais.",
+    "source": "D'après Wikipédia — Avantage comparatif"
+  },
+  {
+    "id": "q-economie-007",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quelle est la différence entre le déficit public et la dette publique ?",
+    "choix": [
+      "Aucune",
+      "Le déficit est annuel, la dette est l'accumulation des emprunts",
+      "La dette est annuelle, le déficit est cumulé",
+      "Le déficit concerne les entreprises"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le déficit est un flux, la dette un stock.",
+    "source": "D'après Wikipédia — Dette publique"
+  },
+  {
+    "id": "q-economie-008",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Le nombre total de bitcoins est limité à 21 millions.",
+    "reponse": true,
+    "explication": "C'est inscrit dans le protocole créé par Satoshi Nakamoto.",
+    "source": "D'après Wikipédia — Bitcoin"
+  },
+  {
+    "id": "q-economie-009",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Qui a inventé l'expression « Trente Glorieuses » ?",
+    "choix": [
+      "Jean Fourastié",
+      "Charles de Gaulle",
+      "Jean Monnet",
+      "Raymond Aron"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'économiste Jean Fourastié, dans un livre de 1979.",
+    "source": "D'après Wikipédia — Jean Fourastié"
+  },
+  {
+    "id": "q-economie-010",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel économiste a popularisé l'idée de « destruction créatrice » ?",
+    "choix": [
+      "Friedman",
+      "Schumpeter",
+      "Keynes",
+      "Hayek"
+    ],
+    "bonneReponse": 1,
+    "explication": "Joseph Schumpeter, dans Capitalisme, socialisme et démocratie (1942).",
+    "source": "D'après Wikipédia — Destruction créatrice"
+  },
+  {
+    "id": "q-economie-011",
+    "domain": "economie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née à Paris en 1972.",
+      "Je suis professeure au MIT.",
+      "J'utilise des essais randomisés pour lutter contre la pauvreté.",
+      "J'ai reçu le prix Nobel d'économie en 2019."
+    ],
+    "reponse": "Esther Duflo",
+    "explication": "Deuxième femme et plus jeune lauréate du Nobel d'économie.",
+    "source": "D'après Wikipédia — Esther Duflo"
+  },
+  {
+    "id": "q-economie-012",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Qu'est-ce qu'une licorne en économie ?",
+    "choix": [
+      "Une entreprise publique",
+      "Une start-up non cotée valorisée à plus d'un milliard de dollars",
+      "Une banque centrale",
+      "Une entreprise en faillite"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le terme a été inventé en 2013 par l'investisseuse Aileen Lee.",
+    "source": "D'après Wikipédia — Licorne (économie)"
+  },
+  {
+    "id": "q-economie-013",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Le prix Nobel d'économie fait partie des prix Nobel créés par Alfred Nobel.",
+    "reponse": false,
+    "explication": "Il a été créé en 1968 par la Banque de Suède en mémoire d'Alfred Nobel.",
+    "source": "D'après Wikipédia — Prix de la Banque de Suède en sciences économiques en mémoire d'Alfred Nobel"
+  },
+  {
+    "id": "q-economie-014",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel choc a mis fin aux Trente Glorieuses ?",
+    "choix": [
+      "La chute du mur de Berlin",
+      "Le premier choc pétrolier de 1973",
+      "Mai 68",
+      "La crise de 2008"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le prix du pétrole est multiplié par quatre, provoquant stagflation et chômage.",
+    "source": "D'après Wikipédia — Premier choc pétrolier"
+  },
+  {
+    "id": "q-economie-015",
+    "domain": "economie",
+    "format": "associer",
+    "question": "Associe chaque notion à sa définition.",
+    "paires": [
+      {
+        "gauche": "Monopole",
+        "droite": "Un seul vendeur"
+      },
+      {
+        "gauche": "Oligopole",
+        "droite": "Quelques vendeurs dominants"
+      },
+      {
+        "gauche": "Monopsone",
+        "droite": "Un seul acheteur"
+      },
+      {
+        "gauche": "Cartel",
+        "droite": "Entente illégale sur les prix"
+      }
+    ],
+    "explication": "Quatre structures de marché.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-economie-016",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Selon la « règle de 72 », en combien d'années un capital placé à 6 % double-t-il ?",
+    "choix": [
+      "6 ans",
+      "12 ans",
+      "18 ans",
+      "72 ans"
+    ],
+    "bonneReponse": 1,
+    "explication": "72 / 6 = 12 ans, grâce aux intérêts composés.",
+    "source": "D'après Wikipédia — Règle de 72"
+  },
+  {
+    "id": "q-economie-017",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel était le prix de l'once d'or en dollars dans le système de Bretton Woods ?",
+    "choix": [
+      "10 $",
+      "35 $",
+      "100 $",
+      "1 000 $"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le dollar était convertible en or à 35 $ l'once jusqu'en 1971.",
+    "source": "D'après Wikipédia — Accords de Bretton Woods"
+  },
+  {
+    "id": "q-economie-018",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Henry Ford a doublé le salaire de ses ouvriers en 1914.",
+    "reponse": true,
+    "explication": "Le « five dollars day » visait à réduire le turnover et à faire des ouvriers des clients.",
+    "source": "D'après Wikipédia — Henry Ford"
+  },
+  {
+    "id": "q-economie-019",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quelle banque américaine a fait faillite le 15 septembre 2008 ?",
+    "choix": [
+      "Goldman Sachs",
+      "Lehman Brothers",
+      "JP Morgan",
+      "Bank of America"
+    ],
+    "bonneReponse": 1,
+    "explication": "La plus grande faillite de l'histoire américaine.",
+    "source": "D'après Wikipédia — Faillite de Lehman Brothers"
+  },
+  {
+    "id": "q-economie-020",
+    "domain": "economie",
+    "format": "difference",
+    "question": "Quelle est la différence entre le taux d'intérêt nominal et réel ?",
+    "choix": [
+      "Le réel tient compte de l'inflation",
+      "Le nominal tient compte de l'inflation",
+      "Ce sont les mêmes",
+      "Le réel est fixé par l'État"
+    ],
+    "bonneReponse": 0,
+    "explication": "Taux réel ≈ taux nominal − inflation.",
+    "source": "D'après Wikipédia — Taux d'intérêt réel"
+  },
+  {
+    "id": "q-economie-021",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Qui se cache derrière le pseudonyme Satoshi Nakamoto ?",
+    "choix": [
+      "Elon Musk",
+      "Mark Zuckerberg",
+      "Personne ne le sait avec certitude",
+      "Bill Gates"
+    ],
+    "bonneReponse": 2,
+    "explication": "L'identité du créateur du Bitcoin reste un mystère.",
+    "source": "D'après Wikipédia — Satoshi Nakamoto"
+  },
+  {
+    "id": "q-economie-022",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quelle est la cible d'inflation de la Banque centrale européenne ?",
+    "choix": [
+      "0 %",
+      "2 %",
+      "5 %",
+      "10 %"
+    ],
+    "bonneReponse": 1,
+    "explication": "La BCE vise une inflation de 2 % à moyen terme.",
+    "source": "D'après Wikipédia — Banque centrale européenne"
+  },
+  {
+    "id": "q-economie-023",
+    "domain": "economie",
+    "format": "frise",
+    "question": "Remets ces événements économiques dans l'ordre.",
+    "evenements": [
+      {
+        "label": "La Richesse des nations d'Adam Smith",
+        "annee": "1776"
+      },
+      {
+        "label": "Krach de Wall Street",
+        "annee": "1929"
+      },
+      {
+        "label": "Accords de Bretton Woods",
+        "annee": "1944"
+      },
+      {
+        "label": "Premier choc pétrolier",
+        "annee": "1973"
+      },
+      {
+        "label": "Billets en euros en circulation",
+        "annee": "2002"
+      }
+    ],
+    "explication": "Plus de deux siècles d'histoire économique.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-economie-024",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Le PIB augmente quand il y a des accidents de la route.",
+    "reponse": true,
+    "explication": "Réparations, soins et assurances sont des activités économiques comptabilisées. C'est une limite connue du PIB.",
+    "source": "D'après Wikipédia — Produit intérieur brut"
+  },
+  {
+    "id": "q-economie-025",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel est le nom de l'indice des 40 principales valeurs de la Bourse de Paris ?",
+    "choix": [
+      "Dow Jones",
+      "Nikkei",
+      "CAC 40",
+      "DAX"
+    ],
+    "bonneReponse": 2,
+    "explication": "Le DAX est l'indice allemand, le Nikkei le japonais, le Dow Jones l'américain.",
+    "source": "D'après Wikipédia — CAC 40"
+  },
+  {
+    "id": "q-economie-026",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quelle méthode d'organisation japonaise a succédé au fordisme ?",
+    "choix": [
+      "Le taylorisme",
+      "Le toyotisme",
+      "Le keynésianisme",
+      "Le monétarisme"
+    ],
+    "bonneReponse": 1,
+    "explication": "Juste-à-temps, zéro stock et ouvriers polyvalents chez Toyota.",
+    "source": "D'après Wikipédia — Toyotisme"
+  },
+  {
+    "id": "q-economie-027",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Qu'est-ce que la stagflation ?",
+    "choix": [
+      "Une croissance rapide sans inflation",
+      "La combinaison d'une croissance faible et d'une forte inflation",
+      "Une baisse générale des prix",
+      "Une hausse des taux d'intérêt"
+    ],
+    "bonneReponse": 1,
+    "explication": "Elle a frappé les pays développés après les chocs pétroliers des années 1970.",
+    "source": "D'après Wikipédia — Stagflation"
+  },
+  {
+    "id": "q-economie-028",
+    "domain": "economie",
+    "format": "associer",
+    "question": "Associe chaque économiste à son idée.",
+    "paires": [
+      {
+        "gauche": "Adam Smith",
+        "droite": "Main invisible"
+      },
+      {
+        "gauche": "Keynes",
+        "droite": "Relance par la demande"
+      },
+      {
+        "gauche": "Friedman",
+        "droite": "Monétarisme"
+      },
+      {
+        "gauche": "Ricardo",
+        "droite": "Avantages comparatifs"
+      },
+      {
+        "gauche": "Schumpeter",
+        "droite": "Destruction créatrice"
+      }
+    ],
+    "explication": "Cinq idées fondatrices de la pensée économique.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-economie-029",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Qu'est-ce que l'indice Big Mac ?",
+    "choix": [
+      "Un indice de santé publique",
+      "Un outil pour comparer le pouvoir d'achat entre pays",
+      "Le cours de l'action McDonald's",
+      "Un indice de l'obésité"
+    ],
+    "bonneReponse": 1,
+    "explication": "Créé par The Economist en 1986 pour illustrer la parité de pouvoir d'achat.",
+    "source": "D'après Wikipédia — Indice Big Mac"
+  },
+  {
+    "id": "q-economie-030",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "La dette publique de la France dépasse 100 % de son PIB.",
+    "reponse": true,
+    "explication": "Elle est d'environ 110 % du PIB, soit plus de 3 000 milliards d'euros.",
+    "source": "D'après Wikipédia — Dette publique de la France"
+  }
+]

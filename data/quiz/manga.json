@@ -1,0 +1,498 @@
+[
+  {
+    "id": "q-manga-001",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Qui a créé le manga One Piece ?",
+    "choix": [
+      "Akira Toriyama",
+      "Eiichiro Oda",
+      "Hayao Miyazaki",
+      "Naoko Takeuchi"
+    ],
+    "bonneReponse": 1,
+    "explication": "One Piece a été créé par Eiichiro Oda et publié à partir de 1997.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-manga-002",
+    "domain": "manga",
+    "format": "vrai-faux",
+    "affirmation": "Le Studio Ghibli a été fondé par Osamu Tezuka.",
+    "reponse": false,
+    "explication": "Le Studio Ghibli a été fondé en 1985 par Hayao Miyazaki, Isao Takahata et Toshio Suzuki, pas par Tezuka.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-manga-003",
+    "domain": "manga",
+    "format": "associer",
+    "question": "Associe chaque mangaka à son œuvre principale.",
+    "paires": [
+      {
+        "gauche": "Akira Toriyama",
+        "droite": "Dragon Ball"
+      },
+      {
+        "gauche": "Eiichiro Oda",
+        "droite": "One Piece"
+      },
+      {
+        "gauche": "Naoko Takeuchi",
+        "droite": "Sailor Moon"
+      },
+      {
+        "gauche": "Hajime Isayama",
+        "droite": "L'Attaque des Titans"
+      }
+    ],
+    "explication": "Chacun de ces auteurs a créé une série devenue emblématique du manga japonais.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-manga-004",
+    "domain": "manga",
+    "format": "difference",
+    "question": "Quelle est la différence entre shonen et seinen ?",
+    "choix": [
+      "Ce sont deux mots identiques pour désigner le même public",
+      "Le shonen cible un jeune public masculin, le seinen un public masculin plus adulte",
+      "Le shonen est réservé aux filles",
+      "Le seinen désigne uniquement les films d'animation"
+    ],
+    "bonneReponse": 1,
+    "explication": "Ces catégories désignent le public visé par l'œuvre, pas son style graphique.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-manga-005",
+    "domain": "manga",
+    "format": "frise",
+    "question": "Remets ces dates clés du manga et de l'anime dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Publication d'Astro le petit robot",
+        "annee": "1952"
+      },
+      {
+        "label": "Fondation du Studio Ghibli",
+        "annee": "1985"
+      },
+      {
+        "label": "Début de la publication de Dragon Ball",
+        "annee": "1984"
+      },
+      {
+        "label": "Début de la publication de One Piece",
+        "annee": "1997"
+      }
+    ],
+    "explication": "Astro le petit robot (1952) précède Dragon Ball (1984), la fondation de Ghibli (1985), puis One Piece (1997).",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-manga-006",
+    "domain": "manga",
+    "format": "qui-suis-je",
+    "indices": [
+      "On me surnomme parfois « le dieu du manga ».",
+      "J'ai vécu au Japon au XXe siècle.",
+      "J'ai créé un petit robot capable de voler et doté de sentiments humains.",
+      "Mon style a influencé la façon de dessiner des expressions dans tout le manga moderne."
+    ],
+    "reponse": "Osamu Tezuka",
+    "explication": "Osamu Tezuka, créateur d'Astro le petit robot, est considéré comme un pionnier du manga et de l'anime modernes.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-manga-007",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quel démon est scellé dans le corps de Naruto ?",
+    "choix": [
+      "Un dragon",
+      "Un renard à neuf queues",
+      "Un tigre blanc",
+      "Un loup géant"
+    ],
+    "bonneReponse": 1,
+    "explication": "Kurama, le démon renard à neuf queues, a été scellé en lui à sa naissance.",
+    "source": "D'après Wikipédia — Naruto Uzumaki"
+  },
+  {
+    "id": "q-manga-008",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Qui est l'auteur d'Akira ?",
+    "choix": [
+      "Osamu Tezuka",
+      "Katsuhiro Otomo",
+      "Hayao Miyazaki",
+      "Akira Toriyama"
+    ],
+    "bonneReponse": 1,
+    "explication": "Katsuhiro Otomo, qui a aussi réalisé le film en 1988.",
+    "source": "D'après Wikipédia — Katsuhiro Ōtomo"
+  },
+  {
+    "id": "q-manga-009",
+    "domain": "manga",
+    "format": "vrai-faux",
+    "affirmation": "La France est le deuxième marché mondial du manga.",
+    "reponse": true,
+    "explication": "Juste derrière le Japon.",
+    "source": "D'après Wikipédia — Manga en France"
+  },
+  {
+    "id": "q-manga-010",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Comment s'appelle le dieu de la mort qui laisse tomber le Death Note ?",
+    "choix": [
+      "Ryuk",
+      "L",
+      "Kira",
+      "Rem"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ryuk, un shinigami qui s'ennuie et adore les pommes. Kira est le surnom de Light.",
+    "source": "D'après Wikipédia — Death Note"
+  },
+  {
+    "id": "q-manga-011",
+    "domain": "manga",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née en 1957.",
+      "On me surnomme « la princesse du manga ».",
+      "J'ai créé un héros qui se transforme en fille au contact de l'eau froide.",
+      "J'ai aussi créé Lamu et Inu-Yasha."
+    ],
+    "reponse": "Rumiko Takahashi",
+    "explication": "Grand Prix d'Angoulême 2019.",
+    "source": "D'après Wikipédia — Rumiko Takahashi"
+  },
+  {
+    "id": "q-manga-012",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quel film d'animation a dépassé Le Voyage de Chihiro au box-office japonais en 2020 ?",
+    "choix": [
+      "Your Name",
+      "Demon Slayer : le Train de l'infini",
+      "One Piece Film Red",
+      "Suzume"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le film de Demon Slayer est devenu le plus gros succès de l'histoire du box-office japonais.",
+    "source": "D'après Wikipédia — Demon Slayer: Kimetsu no Yaiba – Le Train de l'infini"
+  },
+  {
+    "id": "q-manga-013",
+    "domain": "manga",
+    "format": "associer",
+    "question": "Associe chaque œuvre à son auteur.",
+    "paires": [
+      {
+        "gauche": "Naruto",
+        "droite": "Masashi Kishimoto"
+      },
+      {
+        "gauche": "L'Attaque des Titans",
+        "droite": "Hajime Isayama"
+      },
+      {
+        "gauche": "Dragon Ball",
+        "droite": "Akira Toriyama"
+      },
+      {
+        "gauche": "One Piece",
+        "droite": "Eiichiro Oda"
+      },
+      {
+        "gauche": "Sailor Moon",
+        "droite": "Naoko Takeuchi"
+      }
+    ],
+    "explication": "Cinq piliers du manga.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-manga-014",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quels sont les trois mots d'ordre du Weekly Shōnen Jump ?",
+    "choix": [
+      "Force, courage, honneur",
+      "Amitié, effort, victoire",
+      "Paix, amour, justice",
+      "Rêve, travail, succès"
+    ],
+    "bonneReponse": 1,
+    "explication": "Ces valeurs se retrouvent dans One Piece, Naruto ou Dragon Ball.",
+    "source": "D'après Wikipédia — Weekly Shōnen Jump"
+  },
+  {
+    "id": "q-manga-015",
+    "domain": "manga",
+    "format": "vrai-faux",
+    "affirmation": "Le mot « shōnen » désigne un genre d'histoires de combat.",
+    "reponse": false,
+    "explication": "Il désigne le public visé (jeunes garçons), pas un genre. Un shōnen peut être une comédie ou un récit de sport.",
+    "source": "D'après Wikipédia — Shōnen"
+  },
+  {
+    "id": "q-manga-016",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quel dessin animé japonais, diffusé en 1978, a été un phénomène en France ?",
+    "choix": [
+      "Goldorak",
+      "Pokémon",
+      "Naruto",
+      "Totoro"
+    ],
+    "bonneReponse": 0,
+    "explication": "Goldorak, diffusé sur Antenne 2, a lancé la passion française pour l'animation japonaise.",
+    "source": "D'après Wikipédia — Goldorak"
+  },
+  {
+    "id": "q-manga-017",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Qu'est-ce qu'un mecha ?",
+    "choix": [
+      "Un monstre géant",
+      "Un robot géant piloté",
+      "Un samouraï",
+      "Une école de magie"
+    ],
+    "bonneReponse": 1,
+    "explication": "Goldorak, Gundam et Evangelion sont des œuvres mecha.",
+    "source": "D'après Wikipédia — Mecha"
+  },
+  {
+    "id": "q-manga-018",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Dans Demon Slayer, pourquoi Nezuko voyage-t-elle dans une boîte ?",
+    "choix": [
+      "Elle est malade",
+      "Elle ne supporte pas le soleil",
+      "Elle est trop petite",
+      "Elle se cache de son frère"
+    ],
+    "bonneReponse": 1,
+    "explication": "Transformée en démone, elle mourrait exposée au soleil.",
+    "source": "D'après Wikipédia — Demon Slayer"
+  },
+  {
+    "id": "q-manga-019",
+    "domain": "manga",
+    "format": "difference",
+    "question": "Quelle est la différence entre un manga et un manhwa ?",
+    "choix": [
+      "Le manga est japonais, le manhwa coréen",
+      "Le manhwa est toujours en noir et blanc",
+      "Le manga est un dessin animé",
+      "Aucune"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le manhua, lui, est chinois ; le webtoon coréen se lit en défilement vertical.",
+    "source": "D'après Wikipédia — Manhwa"
+  },
+  {
+    "id": "q-manga-020",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quel est le premier grand manga publié en France, en 1990 ?",
+    "choix": [
+      "Dragon Ball",
+      "Akira",
+      "Naruto",
+      "One Piece"
+    ],
+    "bonneReponse": 1,
+    "explication": "Akira, chez Glénat, dans une version colorisée.",
+    "source": "D'après Wikipédia — Akira (manga)"
+  },
+  {
+    "id": "q-manga-021",
+    "domain": "manga",
+    "format": "vrai-faux",
+    "affirmation": "Satoru Gojo est un personnage de Jujutsu Kaisen.",
+    "reponse": true,
+    "explication": "Professeur surpuissant aux yeux bandés, l'un des personnages les plus populaires du manga récent.",
+    "source": "D'après Wikipédia — Jujutsu Kaisen"
+  },
+  {
+    "id": "q-manga-022",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quel chevalier porte l'armure de Pégase dans Les Chevaliers du Zodiaque ?",
+    "choix": [
+      "Shiryu",
+      "Hyoga",
+      "Seiya",
+      "Ikki"
+    ],
+    "bonneReponse": 2,
+    "explication": "Seiya ; Shiryu est le Dragon, Hyoga le Cygne, Ikki le Phénix.",
+    "source": "D'après Wikipédia — Saint Seiya"
+  },
+  {
+    "id": "q-manga-023",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Qui a été le premier auteur de manga à recevoir le Grand Prix d'Angoulême ?",
+    "choix": [
+      "Osamu Tezuka",
+      "Katsuhiro Otomo",
+      "Rumiko Takahashi",
+      "Jirō Taniguchi"
+    ],
+    "bonneReponse": 1,
+    "explication": "Otomo en 2015, puis Takahashi en 2019.",
+    "source": "D'après Wikipédia — Grand prix de la ville d'Angoulême"
+  },
+  {
+    "id": "q-manga-024",
+    "domain": "manga",
+    "format": "frise",
+    "question": "Remets ces manga dans l'ordre de début de publication.",
+    "evenements": [
+      {
+        "label": "Astro Boy",
+        "annee": "1952"
+      },
+      {
+        "label": "Akira",
+        "annee": "1982"
+      },
+      {
+        "label": "Dragon Ball",
+        "annee": "1984"
+      },
+      {
+        "label": "One Piece",
+        "annee": "1997"
+      },
+      {
+        "label": "L'Attaque des Titans",
+        "annee": "2009"
+      }
+    ],
+    "explication": "Soixante ans de manga.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-manga-025",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quel quartier de Tokyo est le paradis des otaku ?",
+    "choix": [
+      "Shibuya",
+      "Akihabara",
+      "Shinjuku",
+      "Asakusa"
+    ],
+    "bonneReponse": 1,
+    "explication": "Akihabara est célèbre pour ses boutiques d'électronique, de manga et de figurines.",
+    "source": "D'après Wikipédia — Akihabara"
+  },
+  {
+    "id": "q-manga-026",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quelle émission télévisée a diffusé Dragon Ball et Sailor Moon en France ?",
+    "choix": [
+      "Récré A2",
+      "Le Club Dorothée",
+      "Téléchat",
+      "Les Minikeums"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le Club Dorothée, sur TF1, de 1987 à 1997.",
+    "source": "D'après Wikipédia — Club Dorothée"
+  },
+  {
+    "id": "q-manga-027",
+    "domain": "manga",
+    "format": "vrai-faux",
+    "affirmation": "L'Attaque des Titans avait d'abord été refusé par le Weekly Shōnen Jump.",
+    "reponse": true,
+    "explication": "Isayama l'a finalement publié chez Kōdansha.",
+    "source": "D'après Wikipédia — L'Attaque des Titans"
+  },
+  {
+    "id": "q-manga-028",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Comment s'appelle le héros de Jujutsu Kaisen qui avale un doigt maudit ?",
+    "choix": [
+      "Yuji Itadori",
+      "Tanjiro Kamado",
+      "Izuku Midoriya",
+      "Eren Jäger"
+    ],
+    "bonneReponse": 0,
+    "explication": "Il devient l'hôte du fléau Sukuna.",
+    "source": "D'après Wikipédia — Jujutsu Kaisen"
+  },
+  {
+    "id": "q-manga-029",
+    "domain": "manga",
+    "format": "associer",
+    "question": "Associe chaque catégorie de manga à son public.",
+    "paires": [
+      {
+        "gauche": "Shōnen",
+        "droite": "Jeunes garçons"
+      },
+      {
+        "gauche": "Shōjo",
+        "droite": "Jeunes filles"
+      },
+      {
+        "gauche": "Seinen",
+        "droite": "Hommes adultes"
+      },
+      {
+        "gauche": "Josei",
+        "droite": "Femmes adultes"
+      }
+    ],
+    "explication": "Les catégories éditoriales japonaises.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-manga-030",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Dans quelle ville fictive se déroule Akira ?",
+    "choix": [
+      "Néo-Tokyo",
+      "Konoha",
+      "Midgar",
+      "Neo-Osaka"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une Tokyo reconstruite après une explosion mystérieuse.",
+    "source": "D'après Wikipédia — Akira (film)"
+  },
+  {
+    "id": "q-manga-031",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Combien d'exemplaires a atteint le numéro record du Weekly Shōnen Jump en 1995 ?",
+    "choix": [
+      "~650 000",
+      "~2 millions",
+      "~6,5 millions",
+      "~15 millions"
+    ],
+    "bonneReponse": 2,
+    "explication": "6,53 millions, porté par Dragon Ball et Slam Dunk.",
+    "source": "D'après Wikipédia — Weekly Shōnen Jump"
+  }
+]

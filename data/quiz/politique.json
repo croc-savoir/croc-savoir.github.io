@@ -1,0 +1,466 @@
+[
+  {
+    "id": "q-politique-001",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel philosophe des Lumières a théorisé la séparation des pouvoirs ?",
+    "choix": [
+      "Voltaire",
+      "Jean-Jacques Rousseau",
+      "Montesquieu",
+      "Denis Diderot"
+    ],
+    "bonneReponse": 2,
+    "explication": "Montesquieu formalise ce principe dans \"De l'Esprit des lois\" (1748), en distinguant pouvoirs exécutif, législatif et judiciaire.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-politique-002",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "La France est un régime parlementaire pur, sans président élu au suffrage universel direct.",
+    "reponse": false,
+    "explication": "La France est un régime semi-présidentiel : le président est élu au suffrage universel direct, tandis que le gouvernement reste responsable devant l'Assemblée nationale.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-politique-003",
+    "domain": "politique",
+    "format": "frise",
+    "question": "Remets ces événements politiques dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Prise de la Bastille",
+        "annee": "1789"
+      },
+      {
+        "label": "Droit de vote des femmes en France",
+        "annee": "1944"
+      },
+      {
+        "label": "Chute du mur de Berlin",
+        "annee": "1989"
+      },
+      {
+        "label": "Élection de Nelson Mandela",
+        "annee": "1994"
+      }
+    ],
+    "explication": "De la Révolution française à la fin de l'apartheid, ces dates jalonnent deux siècles d'évolutions politiques majeures.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-politique-004",
+    "domain": "politique",
+    "format": "associer",
+    "question": "Associe chaque figure politique à ce pour quoi elle est connue.",
+    "paires": [
+      {
+        "gauche": "Nelson Mandela",
+        "droite": "La fin de l'apartheid en Afrique du Sud"
+      },
+      {
+        "gauche": "Simone Veil",
+        "droite": "La légalisation de l'IVG en France"
+      },
+      {
+        "gauche": "Mahatma Gandhi",
+        "droite": "La résistance non-violente"
+      },
+      {
+        "gauche": "Winston Churchill",
+        "droite": "La résistance britannique face au nazisme"
+      }
+    ],
+    "explication": "Ces figures du 20e siècle ont chacune marqué durablement l'histoire politique de leur pays et du monde.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-politique-005",
+    "domain": "politique",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis un homme d'État sud-africain du 20e siècle.",
+      "J'ai été emprisonné pendant 27 ans.",
+      "Je me suis battu contre un régime de ségrégation raciale.",
+      "J'ai reçu le prix Nobel de la paix en 1993.",
+      "Je suis devenu en 1994 le premier président noir élu d'Afrique du Sud."
+    ],
+    "reponse": "Nelson Mandela",
+    "explication": "Nelson Mandela incarne la lutte contre l'apartheid et la réconciliation nationale en Afrique du Sud après sa libération en 1990.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-politique-006",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "En quelle année a été adoptée la Constitution de la Ve République ?",
+    "choix": [
+      "1946",
+      "1958",
+      "1962",
+      "1981"
+    ],
+    "bonneReponse": 1,
+    "explication": "Approuvée par référendum le 28 septembre 1958 et promulguée le 4 octobre.",
+    "source": "D'après Wikipédia — Constitution française du 4 octobre 1958"
+  },
+  {
+    "id": "q-politique-007",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Combien de députés siègent à l'Assemblée nationale ?",
+    "choix": [
+      "348",
+      "450",
+      "577",
+      "650"
+    ],
+    "bonneReponse": 2,
+    "explication": "577 députés. 348 est le nombre de sénateurs ; 650 celui des députés britanniques.",
+    "source": "D'après Wikipédia — Assemblée nationale (France)"
+  },
+  {
+    "id": "q-politique-008",
+    "domain": "politique",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née à Montauban en 1748.",
+      "J'ai écrit des pièces contre l'esclavage.",
+      "J'ai rédigé la Déclaration des droits de la femme et de la citoyenne.",
+      "J'ai été guillotinée en 1793."
+    ],
+    "reponse": "Olympe de Gouges",
+    "explication": "Pionnière du féminisme sous la Révolution.",
+    "source": "D'après Wikipédia — Olympe de Gouges"
+  },
+  {
+    "id": "q-politique-009",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "L'article 5 de l'OTAN n'a été invoqué qu'une seule fois, après le 11 septembre 2001.",
+    "reponse": true,
+    "explication": "Les alliés ont considéré les attentats comme une attaque contre tous.",
+    "source": "D'après Wikipédia — Organisation du traité de l'Atlantique nord"
+  },
+  {
+    "id": "q-politique-010",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Qui a écrit La Marseillaise ?",
+    "choix": [
+      "Hector Berlioz",
+      "Rouget de Lisle",
+      "Victor Hugo",
+      "Danton"
+    ],
+    "bonneReponse": 1,
+    "explication": "Rouget de Lisle, à Strasbourg, en 1792.",
+    "source": "D'après Wikipédia — La Marseillaise"
+  },
+  {
+    "id": "q-politique-011",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel juriste français a joué un rôle majeur dans la rédaction de la Déclaration universelle des droits de l'homme ?",
+    "choix": [
+      "René Cassin",
+      "Robert Badinter",
+      "Jean Monnet",
+      "Robert Schuman"
+    ],
+    "bonneReponse": 0,
+    "explication": "Il a reçu le prix Nobel de la paix en 1968.",
+    "source": "D'après Wikipédia — René Cassin"
+  },
+  {
+    "id": "q-politique-012",
+    "domain": "politique",
+    "format": "associer",
+    "question": "Associe chaque collectivité à une compétence.",
+    "paires": [
+      {
+        "gauche": "Commune",
+        "droite": "Écoles primaires"
+      },
+      {
+        "gauche": "Département",
+        "droite": "Collèges et RSA"
+      },
+      {
+        "gauche": "Région",
+        "droite": "Lycées et TER"
+      }
+    ],
+    "explication": "La décentralisation répartit les compétences entre les niveaux.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-politique-013",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Qu'a prononcé Martin Luther King lors de la marche sur Washington en 1963 ?",
+    "choix": [
+      "Yes we can",
+      "I have a dream",
+      "Ich bin ein Berliner",
+      "We shall overcome"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le discours « I have a dream », le 28 août 1963.",
+    "source": "D'après Wikipédia — I have a dream"
+  },
+  {
+    "id": "q-politique-014",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Le président de la République peut dissoudre le Sénat.",
+    "reponse": false,
+    "explication": "Il peut seulement dissoudre l'Assemblée nationale.",
+    "source": "D'après Wikipédia — Dissolution de l'Assemblée nationale"
+  },
+  {
+    "id": "q-politique-015",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Pourquoi le coq est-il un symbole de la France ?",
+    "choix": [
+      "C'est l'animal préféré de Louis XIV",
+      "À cause d'un jeu de mots latin : gallus veut dire coq et Gaulois",
+      "Il chante La Marseillaise",
+      "Il est né à Paris"
+    ],
+    "bonneReponse": 1,
+    "explication": "Les Romains jouaient déjà sur ce double sens.",
+    "source": "D'après Wikipédia — Coq gaulois"
+  },
+  {
+    "id": "q-politique-016",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quand la France a-t-elle quitté le commandement intégré de l'OTAN ?",
+    "choix": [
+      "1949",
+      "1966",
+      "1989",
+      "2009"
+    ],
+    "bonneReponse": 1,
+    "explication": "En 1966 sous De Gaulle ; elle l'a réintégré en 2009.",
+    "source": "D'après Wikipédia — La France et l'OTAN"
+  },
+  {
+    "id": "q-politique-017",
+    "domain": "politique",
+    "format": "difference",
+    "question": "Quelle est la différence entre décentralisation et déconcentration ?",
+    "choix": [
+      "La décentralisation transfère des pouvoirs à des collectivités élues, la déconcentration à des représentants de l'État",
+      "C'est la même chose",
+      "La déconcentration crée des régions",
+      "La décentralisation supprime les préfets"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le maire est un élu (décentralisation), le préfet un représentant de l'État (déconcentration).",
+    "source": "D'après Wikipédia — Déconcentration"
+  },
+  {
+    "id": "q-politique-018",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Qui a été assassiné le 31 juillet 1914 au café du Croissant ?",
+    "choix": [
+      "Clemenceau",
+      "Jean Jaurès",
+      "Léon Blum",
+      "Aristide Briand"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le pacifiste Jean Jaurès, trois jours avant l'entrée en guerre.",
+    "source": "D'après Wikipédia — Assassinat de Jean Jaurès"
+  },
+  {
+    "id": "q-politique-019",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "La Déclaration des droits de l'homme de 1789 fait toujours partie de la Constitution française.",
+    "reponse": true,
+    "explication": "Elle est intégrée au « bloc de constitutionnalité » via le préambule de 1958.",
+    "source": "D'après Wikipédia — Bloc de constitutionnalité"
+  },
+  {
+    "id": "q-politique-020",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Que permet l'article 49.3 de la Constitution ?",
+    "choix": [
+      "Dissoudre l'Assemblée",
+      "Faire adopter un texte sans vote, sauf motion de censure",
+      "Organiser un référendum",
+      "Donner les pleins pouvoirs au président"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le gouvernement engage sa responsabilité ; le texte est adopté si aucune motion de censure n'est votée.",
+    "source": "D'après Wikipédia — Article 49 de la Constitution de la Cinquième République française"
+  },
+  {
+    "id": "q-politique-021",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel pays a accordé le premier le droit de vote aux femmes ?",
+    "choix": [
+      "La France",
+      "La Nouvelle-Zélande",
+      "Les États-Unis",
+      "Le Royaume-Uni"
+    ],
+    "bonneReponse": 1,
+    "explication": "En 1893. La France ne l'a fait qu'en 1944.",
+    "source": "D'après Wikipédia — Droit de vote des femmes"
+  },
+  {
+    "id": "q-politique-022",
+    "domain": "politique",
+    "format": "frise",
+    "question": "Remets ces textes dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Déclaration d'indépendance américaine",
+        "annee": "1776"
+      },
+      {
+        "label": "Déclaration des droits de l'homme et du citoyen",
+        "annee": "1789"
+      },
+      {
+        "label": "Déclaration des droits de la femme d'Olympe de Gouges",
+        "annee": "1791"
+      },
+      {
+        "label": "Déclaration universelle des droits de l'homme",
+        "annee": "1948"
+      },
+      {
+        "label": "Constitution de la Ve République",
+        "annee": "1958"
+      }
+    ],
+    "explication": "Des Lumières à la Ve République.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-politique-023",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Qu'est-ce que le soft power ?",
+    "choix": [
+      "La puissance militaire",
+      "L'influence par la culture et l'attractivité",
+      "Une arme nucléaire",
+      "Une stratégie économique agressive"
+    ],
+    "bonneReponse": 1,
+    "explication": "Concept du politologue Joseph Nye, opposé au hard power.",
+    "source": "D'après Wikipédia — Soft power"
+  },
+  {
+    "id": "q-politique-024",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Rosa Parks a été arrêtée pour avoir refusé de céder sa place à un Blanc dans un bus.",
+    "reponse": true,
+    "explication": "Le 1er décembre 1955 à Montgomery, ce qui a déclenché un boycott de 381 jours.",
+    "source": "D'après Wikipédia — Rosa Parks"
+  },
+  {
+    "id": "q-politique-025",
+    "domain": "politique",
+    "format": "associer",
+    "question": "Associe chaque mode de scrutin à une élection française.",
+    "paires": [
+      {
+        "gauche": "Majoritaire à deux tours",
+        "droite": "Élections législatives"
+      },
+      {
+        "gauche": "Proportionnel",
+        "droite": "Élections européennes"
+      },
+      {
+        "gauche": "Suffrage indirect",
+        "droite": "Élections sénatoriales"
+      }
+    ],
+    "explication": "Chaque élection a ses règles.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-politique-026",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Qu'est-ce que la cohabitation ?",
+    "choix": [
+      "Deux présidents en même temps",
+      "Un président et un Premier ministre de camps opposés",
+      "Une alliance de partis",
+      "Le partage de l'Élysée"
+    ],
+    "bonneReponse": 1,
+    "explication": "Trois cohabitations : 1986-1988, 1993-1995, 1997-2002.",
+    "source": "D'après Wikipédia — Cohabitation (politique)"
+  },
+  {
+    "id": "q-politique-027",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Combien de pays membres compte l'OTAN en 2024 ?",
+    "choix": [
+      "12",
+      "27",
+      "32",
+      "50"
+    ],
+    "bonneReponse": 2,
+    "explication": "32 membres après l'adhésion de la Suède en 2024.",
+    "source": "D'après Wikipédia — Organisation du traité de l'Atlantique nord"
+  },
+  {
+    "id": "q-politique-028",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "D'où viennent les termes « gauche » et « droite » en politique ?",
+    "choix": [
+      "De la Grèce antique",
+      "De la place des députés dans l'Assemblée en 1789",
+      "Du Parlement anglais",
+      "De la guerre froide"
+    ],
+    "bonneReponse": 1,
+    "explication": "Lors du débat sur le veto royal, les partisans du roi se placent à droite.",
+    "source": "D'après Wikipédia — Clivage gauche-droite"
+  },
+  {
+    "id": "q-politique-029",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Le préfet est élu par les habitants du département.",
+    "reponse": false,
+    "explication": "Il est nommé par le président de la République en Conseil des ministres.",
+    "source": "D'après Wikipédia — Préfet (France)"
+  },
+  {
+    "id": "q-politique-030",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Combien de temps Nelson Mandela a-t-il passé en prison ?",
+    "choix": [
+      "5 ans",
+      "12 ans",
+      "27 ans",
+      "40 ans"
+    ],
+    "bonneReponse": 2,
+    "explication": "De 1962 à 1990, dont 18 ans à Robben Island.",
+    "source": "D'après Wikipédia — Nelson Mandela"
+  }
+]

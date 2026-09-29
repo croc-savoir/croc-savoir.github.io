@@ -1,0 +1,978 @@
+[
+  {
+    "id": "tech-001",
+    "domain": "tech",
+    "subtheme": "Inventeurs",
+    "type": "personnage",
+    "title": "Thomas Edison",
+    "subtitle": "Inventeur et entrepreneur américain, 1847-1931",
+    "summary": "Titulaire de plus de mille brevets aux États-Unis, il a notamment amélioré l'ampoule électrique à incandescence et développé le phonographe.\nIl a fondé un des premiers grands laboratoires de recherche industrielle organisés, à Menlo Park.",
+    "details": {
+      "epoque": "Seconde moitié du XIXe siècle et début du XXe siècle.",
+      "pourquoiCelebre": "Amélioration de l'ampoule à incandescence et invention du phonographe, pionnier de la recherche industrielle organisée.",
+      "ideesClefs": [
+        "Ne fut pas l'inventeur de l'ampoule électrique, mais rendit sa version commercialement viable",
+        "A fondé la société General Electric",
+        "Défenseur du courant continu lors de la « guerre des courants » contre Nikola Tesla et George Westinghouse"
+      ],
+      "liens": [
+        {
+          "nom": "Nikola Tesla",
+          "relation": "Ancien employé devenu rival lors de la guerre des courants (courant continu vs alternatif)"
+        }
+      ],
+      "wikipedia": "Thomas Edison",
+      "sections": [
+        {
+          "titre": "L'usine à inventions",
+          "texte": "À Menlo Park, dans le New Jersey, Edison crée en 1876 le premier laboratoire de recherche industrielle, où des équipes travaillent sur des inventions en série. Il dépose plus de 1 000 brevets aux États-Unis : phonographe (1877), ampoule à incandescence durable (1879), kinétoscope (ancêtre du cinéma), système de distribution électrique."
+        },
+        {
+          "titre": "La guerre des courants",
+          "texte": "Edison défend le courant continu ; Westinghouse et Tesla le courant alternatif, plus facile à transporter sur de longues distances. Edison mène une campagne de dénigrement, allant jusqu'à électrocuter publiquement des animaux. Le courant alternatif l'emporte."
+        }
+      ],
+      "anecdotes": [
+        "« Le génie, c'est 1 % d'inspiration et 99 % de transpiration. »",
+        "Il était presque sourd depuis l'adolescence."
+      ]
+    },
+    "source": "D'après Wikipédia — Thomas Edison"
+  },
+  {
+    "id": "tech-002",
+    "domain": "tech",
+    "subtheme": "Inventeurs",
+    "type": "personnage",
+    "title": "Nikola Tesla",
+    "subtitle": "Ingénieur et inventeur serbo-américain, 1856-1943",
+    "summary": "Pionnier du courant alternatif, aujourd'hui utilisé dans la majorité des réseaux électriques mondiaux. Il a déposé de nombreux brevets sur les moteurs électriques et la transmission d'énergie.\nSon nom a été donné à l'unité de mesure du champ magnétique (le tesla) et à une célèbre marque de voitures électriques.",
+    "details": {
+      "epoque": "Fin du XIXe siècle et début du XXe siècle.",
+      "pourquoiCelebre": "Développement du courant alternatif et de moteurs électriques associés, aujourd'hui à la base des réseaux électriques modernes.",
+      "ideesClefs": [
+        "A travaillé avec George Westinghouse pour promouvoir le courant alternatif",
+        "A mené des expériences précoces sur la transmission sans fil de l'énergie"
+      ],
+      "liens": [
+        {
+          "nom": "Thomas Edison",
+          "relation": "Ancien employeur devenu rival lors de la guerre des courants"
+        }
+      ],
+      "wikipedia": "Nikola Tesla",
+      "sections": [
+        {
+          "titre": "Le courant alternatif",
+          "texte": "Né en 1856 dans l'actuelle Croatie, Tesla émigre aux États-Unis en 1884 et travaille brièvement pour Edison. Il invente le moteur à induction à courant alternatif et vend ses brevets à George Westinghouse. En 1893, l'Exposition universelle de Chicago est éclairée en courant alternatif, et en 1895 la centrale des chutes du Niagara adopte son système."
+        },
+        {
+          "titre": "Le visionnaire",
+          "texte": "Bobine Tesla, travaux pionniers sur la radio (la Cour suprême reconnaît en 1943 l'antériorité de certains de ses brevets sur ceux de Marconi), télécommande, rêves de transmission d'énergie sans fil avec la tour de Wardenclyffe, jamais achevée. Il meurt pauvre et solitaire à New York en 1943."
+        }
+      ],
+      "anecdotes": [
+        "L'unité de mesure du champ magnétique, le tesla, porte son nom, tout comme la marque de voitures électriques."
+      ]
+    },
+    "source": "D'après Wikipédia — Nikola Tesla"
+  },
+  {
+    "id": "tech-003",
+    "domain": "tech",
+    "subtheme": "Informatique",
+    "type": "personnage",
+    "title": "Ada Lovelace",
+    "subtitle": "Mathématicienne britannique, 1815-1852",
+    "summary": "Considérée comme l'autrice du premier programme informatique de l'histoire, conçu pour la machine analytique de Charles Babbage, un ordinateur mécanique jamais construit de son vivant.\nElle a anticipé que les machines pourraient un jour manipuler autre chose que des nombres, comme de la musique.",
+    "details": {
+      "epoque": "Première moitié du XIXe siècle, en Angleterre.",
+      "pourquoiCelebre": "Rédaction du premier algorithme destiné à être exécuté par une machine, pour la machine analytique de Babbage.",
+      "ideesClefs": [
+        "A traduit et annoté un article sur la machine analytique, ajoutant des notes plus longues que le texte original",
+        "A anticipé des usages non numériques des ordinateurs"
+      ],
+      "liens": [
+        {
+          "nom": "Charles Babbage",
+          "relation": "Concepteur de la machine analytique pour laquelle Lovelace a écrit son algorithme"
+        }
+      ]
+    },
+    "source": "À vérifier"
+  },
+  {
+    "id": "tech-004",
+    "domain": "tech",
+    "subtheme": "Internet",
+    "type": "personnage",
+    "title": "Tim Berners-Lee",
+    "subtitle": "Informaticien britannique, né en 1955",
+    "summary": "Inventeur du World Wide Web en 1989-1991 alors qu'il travaillait au CERN, en Suisse. Il a créé les bases techniques du web : HTML, HTTP et les adresses URL.\nIl a choisi de ne pas breveter son invention afin qu'elle reste libre et gratuite pour tous.",
+    "details": {
+      "epoque": "Fin du XXe siècle.",
+      "pourquoiCelebre": "Invention du World Wide Web, système qui a rendu Internet accessible et navigable au grand public.",
+      "ideesClefs": [
+        "A conçu le HTML, le HTTP et le système d'adresses URL",
+        "A renoncé à breveter le web pour le laisser libre d'accès"
+      ],
+      "liens": [],
+      "wikipedia": "Tim Berners-Lee",
+      "sections": [
+        {
+          "titre": "Au CERN",
+          "texte": "En mars 1989, ce physicien britannique travaillant au CERN, près de Genève, propose un système pour partager l'information entre chercheurs. Son chef annote : « Vague mais excitant ». En 1990-1991, il crée les trois piliers du Web : le langage HTML, le protocole HTTP et les adresses URL, ainsi que le premier navigateur et le premier serveur."
+        },
+        {
+          "titre": "Un cadeau à l'humanité",
+          "texte": "En 1993, le CERN met la technologie du Web dans le domaine public, sans brevet ni redevance, ce qui permet son expansion fulgurante. Berners-Lee fonde en 1994 le W3C, qui établit les standards du Web."
+        }
+      ],
+      "anecdotes": [
+        "Le premier site web, info.cern.ch, est toujours en ligne.",
+        "Lors de la cérémonie d'ouverture des JO de Londres 2012, il a tweeté en direct : « This is for everyone »."
+      ]
+    },
+    "source": "D'après Wikipédia — Tim Berners-Lee"
+  },
+  {
+    "id": "tech-005",
+    "domain": "tech",
+    "subtheme": "Informatique",
+    "type": "personnage",
+    "title": "Alan Turing",
+    "subtitle": "Mathématicien britannique, 1912-1954",
+    "summary": "Pionnier de l'informatique théorique, il a formalisé le concept de « machine universelle », base conceptuelle des ordinateurs modernes.\nPendant la Seconde Guerre mondiale, il a contribué à casser le code de la machine allemande Enigma, raccourcissant selon plusieurs historiens la durée du conflit.",
+    "details": {
+      "epoque": "Première moitié du XXe siècle.",
+      "pourquoiCelebre": "Formalisation théorique de l'ordinateur (« machine de Turing ») et contribution majeure au décryptage du code Enigma.",
+      "ideesClefs": [
+        "A proposé le « test de Turing » pour évaluer l'intelligence d'une machine",
+        "A travaillé à Bletchley Park sur le décryptage des communications militaires allemandes"
+      ],
+      "liens": [],
+      "wikipedia": "Alan Turing",
+      "sections": [
+        {
+          "titre": "La machine de Turing",
+          "texte": "En 1936, à 24 ans, Turing imagine une machine abstraite qui lit et écrit des symboles sur un ruban infini selon des règles. Il montre qu'une machine universelle peut simuler n'importe quelle autre : c'est le fondement théorique de l'ordinateur."
+        },
+        {
+          "titre": "Bletchley Park",
+          "texte": "Pendant la Seconde Guerre mondiale, il joue un rôle clé dans le déchiffrement d'Enigma, la machine de chiffrement allemande, en concevant la « bombe », machine électromécanique. Ces travaux auraient raccourci la guerre, peut-être de deux ans."
+        },
+        {
+          "titre": "Le test de Turing",
+          "texte": "En 1950, dans « Computing Machinery and Intelligence », il propose de juger si une machine pense en vérifiant si un humain peut la distinguer d'un autre humain lors d'une conversation écrite."
+        },
+        {
+          "titre": "Une fin tragique",
+          "texte": "Condamné en 1952 pour homosexualité, alors illégale au Royaume-Uni, il subit une castration chimique. Il meurt en 1954 d'un empoisonnement au cyanure, probablement un suicide. Il est gracié à titre posthume en 2013, et son portrait figure sur le billet de 50 livres depuis 2021."
+        }
+      ],
+      "anecdotes": [
+        "Le prix Turing est considéré comme le « Nobel de l'informatique »."
+      ]
+    },
+    "source": "D'après Wikipédia — Alan Turing"
+  },
+  {
+    "id": "tech-006",
+    "domain": "tech",
+    "subtheme": "Inventions clés",
+    "type": "date",
+    "title": "L'imprimerie de Gutenberg",
+    "summary": "Vers 1450, Johannes Gutenberg met au point en Europe un système d'imprimerie à caractères mobiles métalliques, révolutionnant la diffusion des textes.\nCette invention a considérablement accéléré la circulation des idées et des connaissances en Europe.",
+    "details": {
+      "contexte": "Avant Gutenberg, les livres étaient copiés à la main ou imprimés à partir de planches gravées entières, un processus long et coûteux.",
+      "causes": "Volonté de reproduire des textes plus rapidement et à moindre coût, notamment des Bibles.",
+      "deroulement": "Gutenberg développe des caractères mobiles métalliques réutilisables et une presse adaptée, permettant d'imprimer des ouvrages comme la célèbre Bible à 42 lignes.",
+      "consequences": "Diffusion massive des livres, accélération de l'alphabétisation et circulation plus rapide des idées, notamment lors de la Réforme protestante.",
+      "frise": [
+        {
+          "annee": "1450",
+          "evenement": "Mise au point de l'imprimerie à caractères mobiles par Gutenberg"
+        },
+        {
+          "annee": "1455",
+          "evenement": "Impression de la célèbre Bible à 42 lignes"
+        }
+      ],
+      "wikipedia": "Imprimerie",
+      "sections": [
+        {
+          "titre": "L'invention",
+          "texte": "Vers 1450, à Mayence, Johannes Gutenberg combine plusieurs innovations : des caractères mobiles en alliage de plomb, d'étain et d'antimoine, fondus dans un moule réglable ; une encre grasse adaptée ; et une presse inspirée des pressoirs à vin. La Bible de Gutenberg (vers 1455), imprimée à environ 180 exemplaires, en est le chef-d'œuvre."
+        },
+        {
+          "titre": "Une révolution",
+          "texte": "En 1500, environ 20 millions de livres ont déjà été imprimés en Europe. L'imprimerie permet la diffusion rapide de la Réforme protestante, des idées humanistes et des découvertes scientifiques, et favorise l'alphabétisation."
+        }
+      ],
+      "anecdotes": [
+        "Des caractères mobiles existaient déjà en Chine (Bi Sheng, XIe siècle) et en Corée, où le plus ancien livre imprimé avec des caractères métalliques date de 1377.",
+        "Gutenberg, ruiné par un procès avec son associé, n'a pas profité de son invention."
+      ]
+    },
+    "source": "D'après Wikipédia — Imprimerie"
+  },
+  {
+    "id": "tech-007",
+    "domain": "tech",
+    "subtheme": "Inventions clés",
+    "type": "date",
+    "title": "L'invention du téléphone",
+    "summary": "En 1876, Alexander Graham Bell dépose un brevet pour un appareil transmettant la voix humaine par voie électrique. D'autres inventeurs, comme Elisha Gray, travaillaient sur des idées similaires à la même époque.\nCette invention a transformé les communications à distance.",
+    "details": {
+      "contexte": "Plusieurs inventeurs cherchent, dans les années 1870, à transmettre la voix humaine via des lignes télégraphiques déjà existantes.",
+      "causes": "Développement antérieur du télégraphe électrique et volonté d'améliorer la rapidité des communications à distance.",
+      "deroulement": "Alexander Graham Bell dépose son brevet en 1876, peu avant un dépôt concurrent d'Elisha Gray, ce qui a nourri une controverse historique sur la paternité de l'invention.",
+      "consequences": "Développement rapide des réseaux téléphoniques, transformant profondément les communications personnelles et professionnelles.",
+      "frise": [
+        {
+          "annee": "1876",
+          "evenement": "Dépôt du brevet du téléphone par Alexander Graham Bell"
+        },
+        {
+          "annee": "1877",
+          "evenement": "Fondation de la Bell Telephone Company"
+        }
+      ],
+      "wikipedia": "Téléphone",
+      "sections": [
+        {
+          "titre": "Bell et Meucci",
+          "texte": "Alexander Graham Bell dépose son brevet le 14 février 1876, quelques heures avant Elisha Gray. L'Italien Antonio Meucci avait mis au point un appareil vers 1860, mais n'avait pas les moyens de le breveter ; en 2002, la Chambre des représentants américaine a reconnu son rôle."
+        },
+        {
+          "titre": "Les premiers mots",
+          "texte": "Le 10 mars 1876, Bell appelle son assistant : « Mr. Watson, come here, I want to see you. » Les premiers réseaux utilisent des standardistes qui branchent manuellement les appels ; le premier central automatique date de 1892."
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Téléphone"
+  },
+  {
+    "id": "tech-008",
+    "domain": "tech",
+    "subtheme": "Internet",
+    "type": "date",
+    "title": "ARPANET, l'ancêtre d'Internet",
+    "summary": "En 1969, le réseau ARPANET relie plusieurs universités américaines, posant les bases techniques d'Internet. Il est financé par l'agence américaine de recherche militaire avancée (ARPA).\nCe réseau expérimental deviendra, des décennies plus tard, le socle du réseau mondial que l'on connaît aujourd'hui.",
+    "details": {
+      "contexte": "Le gouvernement américain cherche dans les années 1960 à développer un réseau de communication robuste entre centres de recherche.",
+      "causes": "Financement par l'ARPA, agence de recherche du département de la Défense des États-Unis, pour connecter des ordinateurs universitaires.",
+      "deroulement": "En 1969, les premiers nœuds du réseau ARPANET relient plusieurs universités américaines, permettant l'échange de données à distance.",
+      "consequences": "Développement progressif des protocoles réseau qui aboutiront à Internet tel qu'on le connaît, avec l'adoption du protocole TCP/IP dans les années 1980.",
+      "frise": [
+        {
+          "annee": "1969",
+          "evenement": "Mise en service du réseau ARPANET"
+        },
+        {
+          "annee": "1983",
+          "evenement": "Adoption officielle du protocole TCP/IP"
+        }
+      ],
+      "wikipedia": "ARPANET",
+      "sections": [
+        {
+          "titre": "Le premier message",
+          "texte": "Le 29 octobre 1969, l'université UCLA tente d'envoyer le mot « LOGIN » à Stanford. Le système plante après « LO » : le premier message de l'histoire d'Internet est donc « LO »."
+        },
+        {
+          "titre": "TCP/IP",
+          "texte": "En 1974, Vint Cerf et Bob Kahn conçoivent le protocole TCP/IP, qui permet à des réseaux différents de communiquer. ARPANET l'adopte le 1er janvier 1983, date souvent considérée comme la naissance d'Internet. Le Français Louis Pouzin, avec le réseau Cyclades, avait inventé le datagramme, principe repris par TCP/IP."
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — ARPANET"
+  },
+  {
+    "id": "tech-009",
+    "domain": "tech",
+    "subtheme": "Internet",
+    "type": "date",
+    "title": "L'invention du World Wide Web",
+    "summary": "Entre 1989 et 1991, Tim Berners-Lee conçoit au CERN le World Wide Web, un système permettant de naviguer entre des pages reliées par des liens hypertextes.\nCette invention a rendu Internet accessible au grand public, au-delà des seuls chercheurs et informaticiens.",
+    "details": {
+      "contexte": "Internet existe déjà techniquement, mais reste difficile d'accès et peu structuré pour un usage grand public.",
+      "causes": "Besoin, au CERN, de faciliter le partage de documents scientifiques entre chercheurs répartis dans le monde entier.",
+      "deroulement": "Tim Berners-Lee développe le HTML, le HTTP et le système d'URL entre 1989 et 1991, puis met en ligne le premier site web.",
+      "consequences": "Explosion de l'usage d'Internet dans les années 1990, avec l'apparition des premiers navigateurs grand public.",
+      "frise": [
+        {
+          "annee": "1989",
+          "evenement": "Proposition initiale du World Wide Web par Tim Berners-Lee"
+        },
+        {
+          "annee": "1991",
+          "evenement": "Mise en ligne du premier site web"
+        }
+      ]
+    },
+    "source": "À vérifier"
+  },
+  {
+    "id": "tech-010",
+    "domain": "tech",
+    "subtheme": "Inventions clés",
+    "type": "classique",
+    "title": "L'ampoule électrique",
+    "summary": "Dispositif produisant de la lumière grâce au passage d'un courant électrique dans un filament. Plusieurs inventeurs y ont contribué avant que Thomas Edison n'en propose une version durable et commercialisable.\nElle a profondément changé la vie quotidienne en rendant l'éclairage artificiel accessible et pratique.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Principe",
+          "texte": "Un courant électrique traverse un filament qui chauffe et émet de la lumière (incandescence), à l'intérieur d'une ampoule sous vide ou remplie de gaz inerte."
+        },
+        {
+          "titre": "Contributions multiples",
+          "texte": "Plusieurs inventeurs, dont Joseph Swan au Royaume-Uni, ont travaillé sur des ampoules avant qu'Edison ne mette au point une version fiable et durable dans les années 1870-1880."
+        },
+        {
+          "titre": "Impact",
+          "texte": "L'éclairage électrique a transformé les foyers, les villes et l'organisation du travail, en rendant la lumière artificielle plus sûre et plus pratique que les lampes à gaz ou à huile."
+        },
+        {
+          "titre": "Plusieurs inventeurs",
+          "texte": "Humphry Davy produit un arc électrique lumineux dès 1802. Le Britannique Joseph Swan met au point une lampe à filament de carbone en 1878-1879, presque en même temps qu'Edison. Edison trouve un filament de bambou carbonisé durant 1 200 heures et surtout crée tout un système commercial : centrales, câbles, compteurs."
+        },
+        {
+          "titre": "Après l'incandescence",
+          "texte": "L'ampoule à incandescence ne transforme qu'environ 5 % de l'énergie en lumière, le reste en chaleur. Elle a été progressivement interdite en Europe à partir de 2009 au profit des lampes fluocompactes puis des LED, jusqu'à 10 fois plus efficaces."
+        }
+      ],
+      "wikipedia": "Lampe à incandescence",
+      "anecdotes": [
+        "Une ampoule de caserne de pompiers à Livermore, en Californie, brille presque sans interruption depuis 1901."
+      ]
+    },
+    "source": "D'après Wikipédia — Lampe à incandescence"
+  },
+  {
+    "id": "tech-011",
+    "domain": "tech",
+    "subtheme": "Inventions clés",
+    "type": "classique",
+    "title": "Le moteur à combustion interne",
+    "summary": "Moteur produisant de l'énergie mécanique par la combustion d'un carburant à l'intérieur de cylindres. Développé au XIXe siècle, il est à la base de l'automobile moderne.\nIl a profondément transformé les transports et l'organisation des sociétés industrielles.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Principe",
+          "texte": "Le carburant brûle dans une chambre fermée (cylindre), produisant une expansion de gaz qui pousse un piston et génère un mouvement mécanique."
+        },
+        {
+          "titre": "Développement",
+          "texte": "Plusieurs ingénieurs européens, dont Nikolaus Otto et Rudolf Diesel, perfectionnent ce type de moteur dans la seconde moitié du XIXe siècle."
+        },
+        {
+          "titre": "Impact",
+          "texte": "Ce moteur rend possible l'essor de l'automobile individuelle au XXe siècle, transformant les villes, les transports et l'économie mondiale."
+        }
+      ]
+    },
+    "source": "À vérifier"
+  },
+  {
+    "id": "tech-012",
+    "domain": "tech",
+    "subtheme": "Informatique",
+    "type": "classique",
+    "title": "Le transistor",
+    "summary": "Composant électronique inventé en 1947 dans les laboratoires Bell, capable d'amplifier ou de commuter un signal électrique. Il a remplacé les grosses lampes à vide des débuts de l'électronique.\nSa miniaturisation continue est à l'origine de tous les appareils électroniques modernes, des ordinateurs aux smartphones.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Invention",
+          "texte": "Le transistor est inventé en 1947 par John Bardeen, Walter Brattain et William Shockley, dans les laboratoires Bell aux États-Unis."
+        },
+        {
+          "titre": "Avantage clé",
+          "texte": "Beaucoup plus petit, robuste et économe en énergie que les lampes à vide qu'il remplace progressivement dans l'électronique."
+        },
+        {
+          "titre": "Miniaturisation",
+          "texte": "La capacité à graver des milliards de transistors sur une même puce de silicium est à la base de tous les processeurs modernes."
+        },
+        {
+          "titre": "La loi de Moore",
+          "texte": "En 1965, Gordon Moore, cofondateur d'Intel, observe que le nombre de transistors sur une puce double environ tous les deux ans. Cette « loi » s'est vérifiée pendant des décennies : une puce moderne contient des dizaines de milliards de transistors, de quelques nanomètres."
+        },
+        {
+          "titre": "Silicon Valley",
+          "texte": "William Shockley, coinventeur du transistor, fonde une entreprise en Californie en 1956. Huit de ses employés partent fonder Fairchild Semiconductor, puis certains Intel : c'est le début de la Silicon Valley, qui tire son nom du silicium des puces."
+        }
+      ],
+      "wikipedia": "Transistor"
+    },
+    "source": "D'après Wikipédia — Transistor"
+  },
+  {
+    "id": "tech-013",
+    "domain": "tech",
+    "subtheme": "Inventions clés",
+    "type": "classique",
+    "title": "Le GPS",
+    "summary": "Système de positionnement par satellites, initialement développé par l'armée américaine, permettant de déterminer une position géographique précise n'importe où sur Terre.\nOuvert à un usage civil à partir des années 1980-1990, il est aujourd'hui intégré à la majorité des smartphones.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Principe",
+          "texte": "Un récepteur GPS calcule sa position en mesurant le temps mis par les signaux d'au moins quatre satellites à lui parvenir."
+        },
+        {
+          "titre": "Origine militaire",
+          "texte": "Le système est développé par le département de la Défense américain à partir des années 1970, pour un usage initialement militaire."
+        },
+        {
+          "titre": "Usage civil",
+          "texte": "L'accès civil complet et précis au GPS est progressivement ouvert dans les années 1990 et 2000, popularisant la navigation par satellite grand public."
+        },
+        {
+          "titre": "Comment ça marche",
+          "texte": "Chaque satellite émet en permanence un signal indiquant sa position et l'heure exacte de son horloge atomique. Le récepteur mesure le temps de trajet des signaux d'au moins quatre satellites et en déduit sa position par trilatération. Une erreur d'un millionième de seconde fausserait la position d'environ 300 mètres."
+        },
+        {
+          "titre": "Un système militaire",
+          "texte": "Développé par l'armée américaine à partir de 1973, le GPS est ouvert aux civils après qu'un avion de ligne coréen égaré a été abattu par l'URSS en 1983. Jusqu'en 2000, la précision civile était volontairement dégradée. L'Europe a développé son propre système, Galileo."
+        }
+      ],
+      "wikipedia": "Global Positioning System",
+      "chiffres": [
+        {
+          "valeur": "~31",
+          "label": "satellites GPS opérationnels"
+        },
+        {
+          "valeur": "~20 200 km",
+          "label": "altitude des satellites"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Global Positioning System"
+  },
+  {
+    "id": "tech-014",
+    "domain": "tech",
+    "subtheme": "Vocabulaire tech",
+    "type": "vocabulaire",
+    "title": "Open source",
+    "summary": "Se dit d'un logiciel dont le code source est rendu public, permettant à quiconque de le consulter, le modifier et le redistribuer, généralement sous certaines conditions de licence.\nCe modèle s'oppose aux logiciels « propriétaires », dont le code reste fermé.",
+    "details": {
+      "definition": "Modèle de développement logiciel où le code source est librement accessible, modifiable et redistribuable, encadré par une licence spécifique.",
+      "exemple": "Le système d'exploitation Linux et le navigateur Firefox sont des logiciels open source.",
+      "confusions": [
+        {
+          "mot": "Gratuit",
+          "explication": "Un logiciel open source est souvent gratuit, mais les deux notions sont distinctes : un logiciel gratuit peut rester fermé, et l'open source peut être vendu sous conditions."
+        }
+      ],
+      "wikipedia": "Open source",
+      "sections": [
+        {
+          "titre": "Linux et les autres",
+          "texte": "En 1991, l'étudiant finlandais Linus Torvalds publie le noyau Linux, qui fait aujourd'hui tourner la quasi-totalité des serveurs d'Internet, les supercalculateurs et Android. Autres logiciels libres : Firefox, VLC (créé par des étudiants de l'École centrale Paris), Wikipédia pour le contenu, LibreOffice."
+        },
+        {
+          "titre": "Libre ou open source ?",
+          "texte": "Richard Stallman lance en 1983 le projet GNU et défend le « logiciel libre » comme une question éthique de liberté des utilisateurs. Le terme « open source » (1998) met plutôt l'accent sur les avantages pratiques du développement collaboratif."
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Open source"
+  },
+  {
+    "id": "tech-015",
+    "domain": "tech",
+    "subtheme": "Vocabulaire tech",
+    "type": "vocabulaire",
+    "title": "Algorithme",
+    "summary": "Suite finie et précise d'instructions permettant de résoudre un problème ou d'effectuer une tâche, indépendamment du langage de programmation utilisé pour l'écrire.\nLe mot vient du nom du mathématicien perse Al-Khwarizmi.",
+    "details": {
+      "definition": "Ensemble ordonné d'étapes permettant de résoudre un problème donné, que ce soit à la main ou exécuté par un ordinateur.",
+      "exemple": "Une recette de cuisine est une forme simple d'algorithme : une suite d'étapes précises à suivre pour obtenir un résultat.",
+      "confusions": [
+        {
+          "mot": "Programme",
+          "explication": "Un programme est la traduction concrète d'un algorithme dans un langage de programmation donné ; l'algorithme reste abstrait et indépendant du langage."
+        }
+      ],
+      "wikipedia": "Algorithme",
+      "sections": [
+        {
+          "titre": "Origine du mot",
+          "texte": "Le mot vient du nom du mathématicien persan Al-Khwârizmî (IXe siècle), dont les traités ont introduit en Europe les chiffres indiens et des méthodes de calcul. Son livre sur l'al-jabr a aussi donné le mot « algèbre »."
+        },
+        {
+          "titre": "Au quotidien",
+          "texte": "Les algorithmes de recommandation (YouTube, Netflix, TikTok) proposent des contenus selon nos comportements passés ; ceux des moteurs de recherche classent les pages ; ceux du GPS calculent le plus court chemin (algorithme de Dijkstra). Ils posent des questions de transparence et de biais."
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Algorithme"
+  },
+  {
+    "id": "tech-016",
+    "domain": "tech",
+    "subtheme": "Vocabulaire tech",
+    "type": "vocabulaire",
+    "title": "Cloud computing",
+    "summary": "Modèle consistant à utiliser des ressources informatiques (stockage, calcul, logiciels) hébergées à distance sur des serveurs, accessibles via Internet plutôt que sur son propre appareil.\nCela permet d'accéder à ses fichiers ou applications depuis n'importe quel appareil connecté.",
+    "details": {
+      "definition": "Utilisation, via Internet, de serveurs distants pour stocker des données ou exécuter des applications, plutôt que sur son ordinateur local.",
+      "exemple": "Stocker ses photos sur un service en ligne plutôt que sur le disque dur de son téléphone est une forme de cloud computing.",
+      "confusions": [
+        {
+          "mot": "Stockage local",
+          "explication": "Contrairement au cloud, le stockage local conserve les données uniquement sur l'appareil de l'utilisateur, sans dépendre d'une connexion Internet."
+        }
+      ],
+      "wikipedia": "Cloud computing",
+      "sections": [
+        {
+          "titre": "Les data centers",
+          "texte": "Le « nuage » est bien réel : ce sont d'immenses centres de données remplis de serveurs, souvent refroidis par de gros systèmes de climatisation. Les centres de données consommeraient environ 1 à 2 % de l'électricité mondiale, une part en forte hausse avec l'intelligence artificielle."
+        },
+        {
+          "titre": "Les géants",
+          "texte": "Amazon Web Services (lancé en 2006), Microsoft Azure et Google Cloud dominent le marché. La question de la souveraineté des données pousse l'Europe à développer ses propres offres."
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Cloud computing"
+  },
+  {
+    "id": "tech-017",
+    "domain": "tech",
+    "subtheme": "Inventeurs",
+    "type": "personnage",
+    "title": "Steve Jobs",
+    "summary": "Cofondateur d'Apple en 1976 avec Steve Wozniak, Steve Jobs (1955-2011) a transformé l'informatique personnelle, la musique, la téléphonie et le cinéma d'animation.\nIl a lancé le Macintosh, l'iPod, l'iPhone et l'iPad.",
+    "details": {
+      "wikipedia": "Steve Jobs",
+      "epoque": "1976-2011",
+      "pourquoiCelebre": "Pour son sens du design et sa capacité à rendre la technologie simple et désirable.",
+      "ideesClefs": [
+        "Fonde Apple dans le garage familial en 1976",
+        "Macintosh (1984), premier ordinateur grand public à interface graphique et souris",
+        "Évincé d'Apple en 1985, il fonde NeXT et rachète Pixar",
+        "Pixar produit Toy Story (1995), premier long métrage en images de synthèse",
+        "Revient chez Apple en 1997 : iMac, iPod (2001), iTunes, iPhone (2007), iPad (2010)",
+        "Meurt d'un cancer du pancréas en 2011"
+      ],
+      "liens": [
+        {
+          "nom": "Steve Wozniak",
+          "relation": "cofondateur et génie technique des premiers ordinateurs Apple"
+        },
+        {
+          "nom": "Bill Gates",
+          "relation": "rival et parfois partenaire"
+        }
+      ],
+      "anecdotes": [
+        "L'interface graphique du Macintosh s'inspirait d'un prototype vu au centre de recherche Xerox PARC.",
+        "Son discours à Stanford en 2005 se terminait par « Stay hungry, stay foolish »."
+      ]
+    },
+    "source": "D'après Wikipédia — Steve Jobs"
+  },
+  {
+    "id": "tech-018",
+    "domain": "tech",
+    "subtheme": "Inventeurs",
+    "type": "personnage",
+    "title": "Bill Gates",
+    "summary": "Né en 1955, Bill Gates cofonde Microsoft en 1975 avec Paul Allen. Son ambition : « un ordinateur sur chaque bureau et dans chaque maison ».\nWindows et Office ont fait de lui l'homme le plus riche du monde pendant de nombreuses années.",
+    "details": {
+      "wikipedia": "Bill Gates",
+      "epoque": "Depuis 1975",
+      "pourquoiCelebre": "Pour avoir bâti le géant des logiciels, puis consacré sa fortune à la philanthropie.",
+      "ideesClefs": [
+        "Quitte l'université Harvard pour fonder Microsoft",
+        "Vend en 1980 à IBM le système MS-DOS, en gardant les droits de licence",
+        "Windows (1985) devient le système d'exploitation dominant",
+        "Poursuites pour abus de position dominante aux États-Unis et en Europe",
+        "Fonde la Fondation Bill-et-Melinda-Gates (2000), l'une des plus riches du monde",
+        "Engagement pour la vaccination, notamment contre la polio"
+      ],
+      "liens": [
+        {
+          "nom": "Paul Allen",
+          "relation": "ami d'enfance et cofondateur de Microsoft"
+        },
+        {
+          "nom": "Warren Buffett",
+          "relation": "investisseur qui a donné une grande partie de sa fortune à sa fondation"
+        }
+      ],
+      "anecdotes": [
+        "MS-DOS était en fait basé sur un système racheté à une petite entreprise pour environ 50 000 dollars.",
+        "Il a été arrêté en 1977 pour excès de vitesse ; sa photo d'identité judiciaire est célèbre."
+      ]
+    },
+    "source": "D'après Wikipédia — Bill Gates"
+  },
+  {
+    "id": "tech-019",
+    "domain": "tech",
+    "subtheme": "Inventeurs",
+    "type": "personnage",
+    "title": "Grace Hopper",
+    "summary": "Mathématicienne et officière de la marine américaine (1906-1992), Grace Hopper est une pionnière de la programmation.\nElle a créé le premier compilateur et contribué au langage COBOL, encore utilisé dans les banques.",
+    "details": {
+      "wikipedia": "Grace Hopper",
+      "epoque": "Des années 1940 aux années 1980",
+      "pourquoiCelebre": "Pour avoir rendu la programmation plus accessible en permettant d'écrire des programmes avec des mots proches de l'anglais.",
+      "ideesClefs": [
+        "Docteure en mathématiques à Yale en 1934",
+        "Programme le Harvard Mark I pendant la Seconde Guerre mondiale",
+        "Crée le premier compilateur (A-0) en 1952, qui traduit un langage humain en code machine",
+        "Contribue à la création du COBOL (1959)",
+        "Prend sa retraite de la marine à 79 ans avec le grade de contre-amiral"
+      ],
+      "liens": [
+        {
+          "nom": "Howard Aiken",
+          "relation": "concepteur du Harvard Mark I"
+        },
+        {
+          "nom": "Ada Lovelace",
+          "relation": "autre pionnière de la programmation, un siècle plus tôt"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le premier « bug »",
+          "texte": "En 1947, l'équipe de Hopper trouve un papillon de nuit coincé dans un relais du Harvard Mark II. Elle le colle dans le cahier de bord avec la mention « premier cas réel de bug trouvé ». Le mot bug désignait déjà une anomalie, mais l'anecdote l'a popularisé."
+        }
+      ],
+      "anecdotes": [
+        "Elle distribuait des bouts de fil de 30 cm pour montrer ce qu'est une nanoseconde : la distance parcourue par la lumière dans ce temps."
+      ]
+    },
+    "source": "D'après Wikipédia — Grace Hopper"
+  },
+  {
+    "id": "tech-020",
+    "domain": "tech",
+    "subtheme": "Inventeurs",
+    "type": "personnage",
+    "title": "Les frères Wright",
+    "summary": "Le 17 décembre 1903, à Kitty Hawk, en Caroline du Nord, Orville et Wilbur Wright réalisent le premier vol motorisé et contrôlé d'un avion plus lourd que l'air.\nLe premier vol dure 12 secondes et couvre 37 mètres.",
+    "details": {
+      "wikipedia": "Frères Wright",
+      "epoque": "Début du XXe siècle",
+      "pourquoiCelebre": "Pour avoir résolu le problème du contrôle en vol, clé de l'aviation.",
+      "ideesClefs": [
+        "Fabricants de bicyclettes à Dayton, dans l'Ohio",
+        "Étudient le vol des oiseaux et les planeurs d'Otto Lilienthal",
+        "Construisent leur propre soufflerie pour tester des centaines de profils d'aile",
+        "Inventent le gauchissement des ailes pour contrôler le roulis",
+        "Flyer I : quatre vols le 17 décembre 1903, le plus long de 59 secondes et 260 m",
+        "Démonstrations triomphales en France en 1908, au Mans"
+      ],
+      "liens": [
+        {
+          "nom": "Otto Lilienthal",
+          "relation": "pionnier allemand du vol plané, mort en 1896"
+        },
+        {
+          "nom": "Clément Ader",
+          "relation": "Français qui aurait décollé brièvement en 1890, sans vol contrôlé reconnu"
+        },
+        {
+          "nom": "Louis Blériot",
+          "relation": "premier à traverser la Manche en avion, en 1909"
+        }
+      ],
+      "anecdotes": [
+        "Un morceau de tissu du Flyer a voyagé sur la Lune avec Apollo 11, puis sur Mars avec l'hélicoptère Ingenuity.",
+        "Ils ont tiré à pile ou face pour savoir qui piloterait en premier ; Wilbur a gagné mais a raté son essai, Orville a fait le premier vol réussi."
+      ]
+    },
+    "source": "D'après Wikipédia — Frères Wright"
+  },
+  {
+    "id": "tech-021",
+    "domain": "tech",
+    "subtheme": "Inventeurs",
+    "type": "personnage",
+    "title": "Hedy Lamarr",
+    "summary": "Actrice hollywoodienne célèbre (1914-2000), Hedy Lamarr était aussi inventrice. Pendant la Seconde Guerre mondiale, elle a coinventé un système de saut de fréquence pour guider des torpilles sans être brouillé.\nCe principe est aujourd'hui à la base du Wi-Fi, du Bluetooth et du GPS.",
+    "details": {
+      "wikipedia": "Hedy Lamarr",
+      "epoque": "Années 1930-1940",
+      "pourquoiCelebre": "Pour son double destin de star de cinéma et d'inventrice longtemps méconnue.",
+      "ideesClefs": [
+        "Née à Vienne, elle fuit un mari marchand d'armes proche des nazis",
+        "Star d'Hollywood, surnommée « la plus belle femme du monde »",
+        "Brevet déposé en 1942 avec le compositeur George Antheil",
+        "Le signal saute d'une fréquence à l'autre selon une séquence connue seulement de l'émetteur et du récepteur",
+        "L'US Navy n'utilise pas l'invention pendant la guerre",
+        "Reconnaissance tardive dans les années 1990"
+      ],
+      "liens": [
+        {
+          "nom": "George Antheil",
+          "relation": "compositeur coinventeur, qui avait synchronisé des pianos mécaniques"
+        }
+      ],
+      "anecdotes": [
+        "En Autriche, en Allemagne et en Suisse, le 9 novembre, jour de sa naissance, est la Journée de l'inventeur."
+      ]
+    },
+    "source": "D'après Wikipédia — Hedy Lamarr"
+  },
+  {
+    "id": "tech-022",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "date",
+    "title": "1769 : La machine à vapeur de Watt",
+    "summary": "En 1769, l'Écossais James Watt dépose le brevet d'un condenseur séparé qui rend la machine à vapeur beaucoup plus efficace.\nSa machine devient le moteur de la révolution industrielle.",
+    "details": {
+      "wikipedia": "Machine à vapeur",
+      "contexte": "Dès 1712, Thomas Newcomen utilise une machine à vapeur pour pomper l'eau des mines. Mais elle gaspille énormément de charbon car le cylindre est chauffé et refroidi à chaque cycle.",
+      "causes": "En réparant une machine de Newcomen pour l'université de Glasgow, Watt a l'idée de condenser la vapeur dans une chambre séparée, ce qui permet de garder le cylindre chaud en permanence.",
+      "deroulement": "Avec l'industriel Matthew Boulton, Watt fabrique des machines à partir de 1775. Il les améliore : double effet, mouvement rotatif pour entraîner des machines, régulateur à boules. Il crée l'unité « cheval-vapeur » pour vendre ses machines en comparant leur puissance à celle des chevaux.",
+      "consequences": "La vapeur actionne les usines textiles, les mines, puis les locomotives (Stephenson, 1825) et les bateaux. Les usines ne dépendent plus des rivières et se concentrent dans les villes. La consommation de charbon explose, début de l'ère des énergies fossiles.",
+      "frise": [
+        {
+          "annee": "1712",
+          "evenement": "Machine de Newcomen"
+        },
+        {
+          "annee": "1769",
+          "evenement": "Brevet du condenseur de Watt"
+        },
+        {
+          "annee": "1804",
+          "evenement": "Première locomotive de Trevithick"
+        },
+        {
+          "annee": "1825",
+          "evenement": "Première ligne de chemin de fer publique (Stockton-Darlington)"
+        }
+      ],
+      "anecdotes": [
+        "Le watt, unité de puissance, porte son nom.",
+        "Le Français Denis Papin avait imaginé dès 1690 un piston actionné par la vapeur."
+      ]
+    },
+    "source": "D'après Wikipédia — Machine à vapeur"
+  },
+  {
+    "id": "tech-023",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "L'ordinateur",
+    "summary": "D'énormes machines de calcul des années 1940 aux smartphones actuels, l'ordinateur a connu une miniaturisation et une accélération fulgurantes.\nIl repose sur un principe simple : tout traiter sous forme de 0 et de 1.",
+    "details": {
+      "wikipedia": "Ordinateur",
+      "sections": [
+        {
+          "titre": "Les premiers géants",
+          "texte": "L'ENIAC (1945), aux États-Unis, pèse 30 tonnes, occupe 167 m² et contient 17 468 tubes électroniques. Il sert à calculer des trajectoires d'artillerie. Six femmes, les « ENIAC girls », en sont les premières programmeuses. L'architecture de von Neumann (1945) stocke programme et données dans la même mémoire, principe de presque tous les ordinateurs actuels."
+        },
+        {
+          "titre": "La miniaturisation",
+          "texte": "Transistor (1947), circuit intégré (1958), microprocesseur (Intel 4004, 1971). Dans les années 1970-1980 arrivent les ordinateurs personnels : Apple II (1977), IBM PC (1981), Macintosh (1984). Le mot « ordinateur » a été proposé en 1955 par le linguiste Jacques Perret pour IBM France."
+        },
+        {
+          "titre": "Le binaire",
+          "texte": "Toute information (texte, image, son) est codée en bits, 0 ou 1, qui correspondent au passage ou non du courant dans un transistor. Un octet = 8 bits, soit 256 valeurs possibles."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "30 t",
+          "label": "poids de l'ENIAC"
+        },
+        {
+          "valeur": "> 1 million de fois",
+          "label": "plus de puissance dans un smartphone que dans l'ordinateur d'Apollo 11"
+        }
+      ],
+      "anecdotes": [
+        "En anglais, computer désignait d'abord des personnes, souvent des femmes, chargées de calculs à la main."
+      ]
+    },
+    "source": "D'après Wikipédia — Ordinateur"
+  },
+  {
+    "id": "tech-024",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "Le smartphone",
+    "summary": "Le smartphone combine téléphone, ordinateur, appareil photo, GPS et accès à Internet dans un objet de poche.\nDepuis la présentation de l'iPhone en 2007, il a transformé nos modes de vie : on en compte plus de 6 milliards dans le monde.",
+    "details": {
+      "wikipedia": "Smartphone",
+      "sections": [
+        {
+          "titre": "Avant l'iPhone",
+          "texte": "Le premier téléphone mobile portatif, le Motorola DynaTAC, est présenté en 1973 et commercialisé en 1983 : il pèse près d'1 kg. L'IBM Simon (1994) est souvent considéré comme le premier smartphone. Les BlackBerry, avec leur clavier, dominent chez les professionnels au début des années 2000."
+        },
+        {
+          "titre": "La révolution tactile",
+          "texte": "Le 9 janvier 2007, Steve Jobs présente l'iPhone, avec un grand écran tactile multipoint sans clavier physique. En 2008, l'App Store et le système Android de Google lancent l'économie des applications. Android équipe aujourd'hui environ 70 % des smartphones."
+        },
+        {
+          "titre": "Ce qu'il contient",
+          "texte": "Un smartphone contient des dizaines d'éléments chimiques : lithium et cobalt de la batterie, terres rares des haut-parleurs, or, étain, tantale. Leur extraction pose des problèmes environnementaux et humains, notamment en République démocratique du Congo."
+        }
+      ],
+      "anecdotes": [
+        "Le premier appel sur mobile a été passé en 1973 par Martin Cooper, de Motorola… à son concurrent chez AT&T.",
+        "La nomophobie est la peur d'être séparé de son téléphone."
+      ]
+    },
+    "source": "D'après Wikipédia — Smartphone"
+  },
+  {
+    "id": "tech-025",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "L'intelligence artificielle",
+    "summary": "L'intelligence artificielle (IA) désigne les techniques qui permettent à des machines de réaliser des tâches qui semblaient demander de l'intelligence humaine : reconnaître des images, traduire, jouer, écrire.\nDepuis les années 2010, l'apprentissage profond a provoqué des progrès spectaculaires.",
+    "details": {
+      "wikipedia": "Intelligence artificielle",
+      "sections": [
+        {
+          "titre": "Les débuts",
+          "texte": "Le terme est inventé lors d'une conférence à Dartmouth en 1956. Les premiers programmes jouent aux échecs ou démontrent des théorèmes. Après des promesses excessives, le domaine connaît des « hivers de l'IA », périodes de désillusion et de baisse des financements."
+        },
+        {
+          "titre": "Les grandes victoires",
+          "texte": "En 1997, Deep Blue d'IBM bat le champion du monde d'échecs Garry Kasparov. En 2016, AlphaGo de DeepMind bat le champion de go Lee Sedol, un jeu jugé bien plus complexe. En 2020, AlphaFold prédit la structure des protéines, ce qui vaut un prix Nobel de chimie en 2024."
+        },
+        {
+          "titre": "L'apprentissage profond",
+          "texte": "Les réseaux de neurones artificiels, inspirés du cerveau, apprennent à partir d'énormes quantités de données plutôt qu'avec des règles écrites à la main. Le Français Yann LeCun, Geoffrey Hinton et Yoshua Bengio ont reçu le prix Turing 2018 pour ces travaux. Les grands modèles de langage, popularisés par ChatGPT fin 2022, génèrent du texte et répondent à des questions."
+        },
+        {
+          "titre": "Les débats",
+          "texte": "Biais dans les données, désinformation et deepfakes, impact sur l'emploi, consommation d'énergie, droits d'auteur, contrôle des systèmes les plus puissants. L'Union européenne a adopté en 2024 le premier grand règlement sur l'IA (AI Act)."
+        }
+      ],
+      "anecdotes": [
+        "ChatGPT a atteint 100 millions d'utilisateurs en environ deux mois, un record à l'époque."
+      ]
+    },
+    "source": "D'après Wikipédia — Intelligence artificielle"
+  },
+  {
+    "id": "tech-026",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "La photographie",
+    "summary": "La photographie est née en France dans les années 1820-1830 : Nicéphore Niépce réalise la plus ancienne photographie connue, puis Louis Daguerre invente le daguerréotype en 1839.\nElle a bouleversé l'art, l'information et la mémoire.",
+    "details": {
+      "wikipedia": "Photographie",
+      "sections": [
+        {
+          "titre": "Niépce et Daguerre",
+          "texte": "Vers 1827, Niépce obtient Point de vue du Gras, vue de sa fenêtre à Saint-Loup-de-Varennes, avec une pose de plusieurs heures, voire plusieurs jours. Daguerre, son associé, perfectionne le procédé : le daguerréotype, image unique sur plaque de cuivre argentée, est offert au monde par l'État français en 1839."
+        },
+        {
+          "titre": "De la plaque au numérique",
+          "texte": "L'Anglais Fox Talbot invente le négatif, qui permet de tirer plusieurs copies. Kodak lance en 1888 un appareil simple avec le slogan « Vous appuyez sur le bouton, nous faisons le reste ». La couleur arrive avec l'autochrome des frères Lumière (1907). Le premier appareil numérique est créé chez Kodak en 1975 ; ironie de l'histoire, Kodak fera faillite en 2012 faute d'avoir pris le virage du numérique."
+        }
+      ],
+      "anecdotes": [
+        "Sur les premiers daguerréotypes de rues, les passants n'apparaissent pas : ils bougeaient trop pendant la longue pose. Seul un homme se faisant cirer les chaussures, immobile, est visible sur une vue de Paris de 1838.",
+        "On prend aujourd'hui des milliards de photos par jour dans le monde."
+      ]
+    },
+    "source": "D'après Wikipédia — Photographie"
+  },
+  {
+    "id": "tech-027",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "L'électricité, des débuts à nos prises",
+    "summary": "L'électricité est connue depuis l'Antiquité sous forme d'électricité statique, mais c'est au XIXe siècle qu'on apprend à la produire et à la transporter.\nElle a transformé l'industrie, l'éclairage, les communications et la vie quotidienne.",
+    "details": {
+      "wikipedia": "Électricité",
+      "sections": [
+        {
+          "titre": "Les pionniers",
+          "texte": "Benjamin Franklin montre en 1752, avec son cerf-volant, que la foudre est électrique, et invente le paratonnerre. Alessandro Volta invente la pile en 1800. Michael Faraday découvre l'induction électromagnétique en 1831, principe des générateurs et des transformateurs. James Clerk Maxwell unifie électricité et magnétisme en 1865."
+        },
+        {
+          "titre": "Les unités",
+          "texte": "Le volt (tension, Volta), l'ampère (intensité, Ampère), l'ohm (résistance, Ohm), le watt (puissance, Watt), le coulomb (charge, Coulomb). En France, le courant domestique est alternatif, à 230 volts et 50 hertz ; aux États-Unis, 120 volts et 60 hertz."
+        },
+        {
+          "titre": "Produire l'électricité",
+          "texte": "La plupart des centrales font tourner un alternateur grâce à une turbine, mue par de la vapeur (charbon, gaz, nucléaire), de l'eau (barrages) ou le vent. Les panneaux photovoltaïques, eux, convertissent directement la lumière en électricité. En France, environ 65 à 70 % de l'électricité vient du nucléaire."
+        }
+      ],
+      "anecdotes": [
+        "Le mot électricité vient du grec êlektron, l'ambre, qui attire les petits objets quand on le frotte."
+      ]
+    },
+    "source": "D'après Wikipédia — Électricité"
+  },
+  {
+    "id": "tech-028",
+    "domain": "tech",
+    "subtheme": "Notions",
+    "type": "vocabulaire",
+    "title": "Bit, octet et leurs multiples",
+    "summary": "Le bit est la plus petite unité d'information en informatique : il vaut 0 ou 1. Un octet regroupe 8 bits.\nLes tailles de fichiers et de mémoires s'expriment en kilo-, méga-, giga-, téraoctets.",
+    "details": {
+      "wikipedia": "Octet",
+      "definition": "Bit (binary digit) : 0 ou 1. Octet (byte en anglais) : 8 bits, soit 256 combinaisons possibles, de quoi coder une lettre en ASCII. Ko = 1 000 octets ; Mo = 1 million ; Go = 1 milliard ; To = 1 000 milliards. Les puissances de 2 (1 024) sont notées Kio, Mio, Gio.",
+      "exemple": "Un caractère de texte : environ 1 octet. Une photo de smartphone : quelques Mo. Un film en haute définition : plusieurs Go. Le débit Internet se mesure en bits par seconde : une connexion à 1 Gbit/s transfère environ 125 Mo par seconde.",
+      "confusions": [
+        {
+          "mot": "Mo / Mb",
+          "explication": "mégaoctet (MB en anglais) et mégabit (Mb) : un facteur 8 de différence"
+        },
+        {
+          "mot": "Mémoire vive (RAM) / stockage",
+          "explication": "la RAM est rapide et temporaire, le stockage (SSD, disque dur) conserve les données éteint"
+        }
+      ],
+      "anecdotes": [
+        "La mémoire de l'ordinateur de guidage d'Apollo 11 était d'environ 4 Ko de mémoire vive."
+      ]
+    },
+    "source": "D'après Wikipédia — Octet"
+  },
+  {
+    "id": "tech-029",
+    "domain": "tech",
+    "subtheme": "Notions",
+    "type": "vocabulaire",
+    "title": "Cybersécurité : virus, phishing et rançongiciel",
+    "summary": "La cybersécurité protège les ordinateurs, réseaux et données contre les attaques. Les menaces les plus courantes sont les logiciels malveillants, le phishing et les rançongiciels.\nLa plupart des attaques réussies exploitent une erreur humaine.",
+    "details": {
+      "wikipedia": "Sécurité de l'information",
+      "definition": "Virus : programme qui s'insère dans d'autres fichiers et se propage. Ver : se propage seul sur le réseau. Cheval de Troie : logiciel d'apparence inoffensive qui cache une fonction malveillante. Phishing (hameçonnage) : faux message imitant une banque ou un service pour voler des identifiants. Rançongiciel (ransomware) : chiffre les fichiers et exige une rançon.",
+      "exemple": "En 2017, le rançongiciel WannaCry infecte plus de 200 000 ordinateurs dans 150 pays, dont des hôpitaux britanniques. En France, de nombreux hôpitaux et collectivités ont été touchés par des rançongiciels.",
+      "confusions": [
+        {
+          "mot": "Hacker",
+          "explication": "à l'origine, passionné d'informatique qui explore les systèmes ; « hacker éthique » ou « white hat » pour ceux qui testent la sécurité légalement"
+        },
+        {
+          "mot": "Authentification à deux facteurs",
+          "explication": "combiner mot de passe et second élément (code SMS, application) : une des meilleures protections"
+        }
+      ],
+      "anecdotes": [
+        "« 123456 » reste l'un des mots de passe les plus utilisés au monde."
+      ]
+    },
+    "source": "D'après Wikipédia — Sécurité de l'information"
+  }
+]

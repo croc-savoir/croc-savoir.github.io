@@ -1,0 +1,447 @@
+[
+  {
+    "id": "q-musique-001",
+    "domain": "musique",
+    "format": "associer",
+    "question": "Associe chaque compositeur à son époque musicale.",
+    "paires": [
+      {
+        "gauche": "Johann Sebastian Bach",
+        "droite": "Baroque"
+      },
+      {
+        "gauche": "Wolfgang Amadeus Mozart",
+        "droite": "Classicisme"
+      },
+      {
+        "gauche": "Frédéric Chopin",
+        "droite": "Romantisme"
+      },
+      {
+        "gauche": "Claude Debussy",
+        "droite": "Impressionnisme"
+      }
+    ],
+    "explication": "Chaque compositeur est associé à la période musicale dans laquelle il a principalement composé.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-musique-002",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel compositeur a continué à composer alors qu'il devenait sourd ?",
+    "choix": [
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Antonio Vivaldi",
+      "Claude Debussy"
+    ],
+    "bonneReponse": 1,
+    "explication": "Beethoven a composé certaines de ses œuvres les plus célèbres, dont sa 9e symphonie, alors qu'il était presque totalement sourd.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-musique-003",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Le tempo désigne l'organisation des durées des notes dans le temps.",
+    "reponse": false,
+    "explication": "C'est le rythme qui organise les durées des notes. Le tempo désigne la vitesse d'exécution d'un morceau.",
+    "source": "Définition musicale standard"
+  },
+  {
+    "id": "q-musique-004",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Le hip-hop est né dans le Bronx à New York dans les années 1970.",
+    "reponse": true,
+    "explication": "Le hip-hop émerge lors de block parties organisées dans le Bronx au début des années 1970, avant de se diffuser mondialement.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-musique-005",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Qui a composé Le Lac des cygnes ?",
+    "choix": [
+      "Stravinsky",
+      "Tchaïkovski",
+      "Prokofiev",
+      "Rachmaninov"
+    ],
+    "bonneReponse": 1,
+    "explication": "Tchaïkovski l'a composé en 1875-1876 ; la création de 1877 fut un échec.",
+    "source": "D'après Wikipédia — Le Lac des cygnes"
+  },
+  {
+    "id": "q-musique-006",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Combien de touches compte un piano standard ?",
+    "choix": [
+      "66",
+      "76",
+      "88",
+      "100"
+    ],
+    "bonneReponse": 2,
+    "explication": "88 touches : 52 blanches et 36 noires.",
+    "source": "D'après Wikipédia — Piano"
+  },
+  {
+    "id": "q-musique-007",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Beethoven était complètement sourd lorsqu'il a composé sa Neuvième Symphonie.",
+    "reponse": true,
+    "explication": "Il était totalement sourd lors de sa création en 1824.",
+    "source": "D'après Wikipédia — Symphonie nº 9 de Beethoven"
+  },
+  {
+    "id": "q-musique-008",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel instrument donne le la pour accorder l'orchestre ?",
+    "choix": [
+      "Le violon",
+      "Le piano",
+      "Le hautbois",
+      "La trompette"
+    ],
+    "bonneReponse": 2,
+    "explication": "Le hautbois, dont le son est stable et perçant.",
+    "source": "D'après Wikipédia — Hautbois"
+  },
+  {
+    "id": "q-musique-009",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel est l'album le plus vendu de tous les temps ?",
+    "choix": [
+      "Abbey Road",
+      "Thriller",
+      "The Dark Side of the Moon",
+      "Back in Black"
+    ],
+    "bonneReponse": 1,
+    "explication": "Thriller de Michael Jackson (1982), environ 70 millions d'exemplaires.",
+    "source": "D'après Wikipédia — Thriller (album)"
+  },
+  {
+    "id": "q-musique-010",
+    "domain": "musique",
+    "format": "associer",
+    "question": "Associe chaque œuvre à son compositeur.",
+    "paires": [
+      {
+        "gauche": "Boléro",
+        "droite": "Ravel"
+      },
+      {
+        "gauche": "Les Quatre Saisons",
+        "droite": "Vivaldi"
+      },
+      {
+        "gauche": "La Traviata",
+        "droite": "Verdi"
+      },
+      {
+        "gauche": "Casse-Noisette",
+        "droite": "Tchaïkovski"
+      },
+      {
+        "gauche": "Prélude à l'après-midi d'un faune",
+        "droite": "Debussy"
+      }
+    ],
+    "explication": "Cinq œuvres emblématiques.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-musique-011",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "De quelle ville viennent les Beatles ?",
+    "choix": [
+      "Londres",
+      "Manchester",
+      "Liverpool",
+      "Birmingham"
+    ],
+    "bonneReponse": 2,
+    "explication": "Le groupe s'est formé à Liverpool à la fin des années 1950.",
+    "source": "D'après Wikipédia — The Beatles"
+  },
+  {
+    "id": "q-musique-012",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "La flûte traversière en métal fait partie de la famille des cuivres.",
+    "reponse": false,
+    "explication": "C'est un bois : ce qui compte, c'est la façon de produire le son, pas la matière.",
+    "source": "D'après Wikipédia — Flûte traversière"
+  },
+  {
+    "id": "q-musique-013",
+    "domain": "musique",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née à Paris en 1915.",
+      "J'ai commencé en chantant dans la rue.",
+      "Mon surnom signifie « moineau ».",
+      "J'ai écrit les paroles de La Vie en rose.",
+      "J'ai chanté Non, je ne regrette rien."
+    ],
+    "reponse": "Édith Piaf",
+    "explication": "La « Môme Piaf » est une icône de la chanson française.",
+    "source": "D'après Wikipédia — Édith Piaf"
+  },
+  {
+    "id": "q-musique-014",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "D'où vient le nom des notes do, ré, mi… ?",
+    "choix": [
+      "Des planètes",
+      "D'un hymne latin à saint Jean-Baptiste",
+      "Des chiffres arabes",
+      "D'un poème de Ronsard"
+    ],
+    "bonneReponse": 1,
+    "explication": "Guido d'Arezzo a tiré les syllabes du début de chaque vers de l'hymne Ut queant laxis.",
+    "source": "D'après Wikipédia — Guido d'Arezzo"
+  },
+  {
+    "id": "q-musique-015",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Dans quelle ville est né le jazz ?",
+    "choix": [
+      "New York",
+      "Chicago",
+      "La Nouvelle-Orléans",
+      "Memphis"
+    ],
+    "bonneReponse": 2,
+    "explication": "Au début du XXe siècle, à La Nouvelle-Orléans.",
+    "source": "D'après Wikipédia — Jazz"
+  },
+  {
+    "id": "q-musique-016",
+    "domain": "musique",
+    "format": "difference",
+    "question": "Quelle est la différence entre une symphonie et un concerto ?",
+    "choix": [
+      "La symphonie est pour orchestre seul, le concerto met en valeur un soliste",
+      "Le concerto est toujours chanté",
+      "La symphonie est pour piano seul",
+      "Il n'y en a pas"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans un concerto, le soliste dialogue avec l'orchestre, notamment dans la cadence.",
+    "source": "D'après Wikipédia — Concerto"
+  },
+  {
+    "id": "q-musique-017",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel pays est le berceau du reggae ?",
+    "choix": [
+      "Cuba",
+      "La Jamaïque",
+      "Le Brésil",
+      "Trinité-et-Tobago"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le reggae naît en Jamaïque à la fin des années 1960.",
+    "source": "D'après Wikipédia — Reggae"
+  },
+  {
+    "id": "q-musique-018",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Le Boléro de Ravel repose sur la répétition d'un même rythme de caisse claire du début à la fin.",
+    "reponse": true,
+    "explication": "Deux mélodies se répètent sur un rythme immuable, avec un crescendo orchestral continu.",
+    "source": "D'après Wikipédia — Boléro (Ravel)"
+  },
+  {
+    "id": "q-musique-019",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Qui a inventé le piano vers 1700 ?",
+    "choix": [
+      "Bach",
+      "Bartolomeo Cristofori",
+      "Steinway",
+      "Mozart"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le Florentin Bartolomeo Cristofori a créé le « gravicembalo col piano e forte ».",
+    "source": "D'après Wikipédia — Bartolomeo Cristofori"
+  },
+  {
+    "id": "q-musique-020",
+    "domain": "musique",
+    "format": "frise",
+    "question": "Remets ces compositeurs dans l'ordre de naissance.",
+    "evenements": [
+      {
+        "label": "Vivaldi",
+        "annee": "1678"
+      },
+      {
+        "label": "Mozart",
+        "annee": "1756"
+      },
+      {
+        "label": "Beethoven",
+        "annee": "1770"
+      },
+      {
+        "label": "Chopin",
+        "annee": "1810"
+      },
+      {
+        "label": "Debussy",
+        "annee": "1862"
+      }
+    ],
+    "explication": "Du baroque au début du XXe siècle.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-musique-021",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Combien de mesures compte la grille du blues classique ?",
+    "choix": [
+      "8",
+      "12",
+      "16",
+      "32"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le blues en 12 mesures utilise trois accords.",
+    "source": "D'après Wikipédia — Blues"
+  },
+  {
+    "id": "q-musique-022",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quelle chanson de Claude François est devenue My Way de Frank Sinatra ?",
+    "choix": [
+      "Alexandrie Alexandra",
+      "Comme d'habitude",
+      "Le Téléphone pleure",
+      "Belles ! Belles ! Belles !"
+    ],
+    "bonneReponse": 1,
+    "explication": "Adaptée en anglais par Paul Anka en 1969.",
+    "source": "D'après Wikipédia — Comme d'habitude"
+  },
+  {
+    "id": "q-musique-023",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Mozart a été empoisonné par Salieri.",
+    "reponse": false,
+    "explication": "C'est une légende popularisée par Pouchkine puis par le film Amadeus ; il est probablement mort d'une maladie.",
+    "source": "D'après Wikipédia — Antonio Salieri"
+  },
+  {
+    "id": "q-musique-024",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel guitariste jouait sur une guitare de droitier retournée car il était gaucher ?",
+    "choix": [
+      "Eric Clapton",
+      "Jimi Hendrix",
+      "Jimmy Page",
+      "B.B. King"
+    ],
+    "bonneReponse": 1,
+    "explication": "Jimi Hendrix retournait ses Stratocaster et inversait les cordes.",
+    "source": "D'après Wikipédia — Jimi Hendrix"
+  },
+  {
+    "id": "q-musique-025",
+    "domain": "musique",
+    "format": "associer",
+    "question": "Associe chaque instrument à sa famille.",
+    "paires": [
+      {
+        "gauche": "Violoncelle",
+        "droite": "Cordes"
+      },
+      {
+        "gauche": "Clarinette",
+        "droite": "Bois"
+      },
+      {
+        "gauche": "Trombone",
+        "droite": "Cuivres"
+      },
+      {
+        "gauche": "Timbales",
+        "droite": "Percussions"
+      }
+    ],
+    "explication": "Les quatre familles de l'orchestre symphonique.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-musique-026",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel slogan patriotique italien cachait le nom de Verdi ?",
+    "choix": [
+      "Viva VERDI = Vittorio Emanuele Re D'Italia",
+      "VERDI = Vive l'Europe Réunie",
+      "C'est le nom d'un parti",
+      "Aucun"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pendant le Risorgimento, crier « Viva Verdi » revenait à acclamer le futur roi d'Italie.",
+    "source": "D'après Wikipédia — Giuseppe Verdi"
+  },
+  {
+    "id": "q-musique-027",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Où repose le cœur de Chopin ?",
+    "choix": [
+      "Au Père-Lachaise à Paris",
+      "Dans une église de Varsovie",
+      "À Nohant",
+      "À Vienne"
+    ],
+    "bonneReponse": 1,
+    "explication": "Son corps est au Père-Lachaise, mais son cœur est à l'église Sainte-Croix de Varsovie.",
+    "source": "D'après Wikipédia — Frédéric Chopin"
+  },
+  {
+    "id": "q-musique-028",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "En quelle année naît symboliquement le hip-hop dans le Bronx ?",
+    "choix": [
+      "1963",
+      "1973",
+      "1983",
+      "1993"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le 11 août 1973, lors d'une fête animée par DJ Kool Herc.",
+    "source": "D'après Wikipédia — Hip-hop"
+  },
+  {
+    "id": "q-musique-029",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Les radios françaises doivent diffuser un quota de chansons en français.",
+    "reponse": true,
+    "explication": "Depuis 1996, au moins 40 % de chansons d'expression française.",
+    "source": "D'après Wikipédia — Quotas radiophoniques"
+  }
+]

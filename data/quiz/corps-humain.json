@@ -1,0 +1,463 @@
+[
+  {
+    "id": "q-corps-humain-001",
+    "domain": "corps-humain",
+    "format": "difference",
+    "question": "Quelle est la différence entre une artère et une veine ?",
+    "choix": [
+      "Une artère transporte toujours du sang riche en oxygène, une veine toujours du sang pauvre en oxygène",
+      "Une artère transporte le sang du cœur vers les organes, une veine le ramène des organes vers le cœur",
+      "Il n'y a aucune différence, ce sont deux noms pour le même vaisseau",
+      "Une artère ne se trouve que dans les bras et les jambes"
+    ],
+    "bonneReponse": 1,
+    "explication": "La distinction se fait par le sens de circulation par rapport au cœur, pas par la richesse en oxygène (l'artère pulmonaire transporte par exemple du sang pauvre en oxygène).",
+    "source": "Consensus scientifique établi"
+  },
+  {
+    "id": "q-corps-humain-002",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Le squelette humain adulte compte environ 206 os.",
+    "reponse": true,
+    "explication": "Le nombre d'os diminue entre la naissance et l'âge adulte car certains os se soudent entre eux en grandissant.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-corps-humain-003",
+    "domain": "corps-humain",
+    "format": "associer",
+    "question": "Associe chaque organe à sa fonction principale.",
+    "paires": [
+      {
+        "gauche": "Cœur",
+        "droite": "Pomper le sang dans tout le corps"
+      },
+      {
+        "gauche": "Poumons",
+        "droite": "Échanger oxygène et dioxyde de carbone"
+      },
+      {
+        "gauche": "Intestin grêle",
+        "droite": "Absorber l'essentiel des nutriments"
+      },
+      {
+        "gauche": "Cristallin",
+        "droite": "Faire converger la lumière vers la rétine"
+      }
+    ],
+    "explication": "Chaque organe assure une fonction spécialisée essentielle au fonctionnement global du corps.",
+    "source": "Consensus scientifique établi"
+  },
+  {
+    "id": "q-corps-humain-004",
+    "domain": "corps-humain",
+    "format": "frise",
+    "question": "Remets ces découvertes médicales dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Première vaccination expérimentale par Edward Jenner",
+        "annee": "1796"
+      },
+      {
+        "label": "Découverte de l'effet antibactérien de la pénicilline par Fleming",
+        "annee": "1928"
+      },
+      {
+        "label": "L'OMS déclare la variole éradiquée dans le monde",
+        "annee": "1980"
+      }
+    ],
+    "explication": "De la première vaccination à l'éradication mondiale de la variole, ces jalons couvrent près de deux siècles de médecine.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-corps-humain-005",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quelle cellule est l'unité de base du système nerveux ?",
+    "choix": [
+      "Le globule rouge",
+      "Le neurone",
+      "La cellule osseuse",
+      "Le lymphocyte"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le neurone transmet les signaux électriques et chimiques qui constituent la base du fonctionnement du système nerveux.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-corps-humain-006",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quel est le plus grand organe du corps humain ?",
+    "choix": [
+      "Le foie",
+      "Le cerveau",
+      "La peau",
+      "L'intestin"
+    ],
+    "bonneReponse": 2,
+    "explication": "La peau couvre environ 2 m² et pèse environ 4 kg. Le foie est le plus gros organe interne.",
+    "source": "D'après Wikipédia — Peau"
+  },
+  {
+    "id": "q-corps-humain-007",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quel organe peut se régénérer après en avoir retiré une grande partie ?",
+    "choix": [
+      "Le cœur",
+      "Le foie",
+      "Le rein",
+      "Le pancréas"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le foie peut repousser après l'ablation d'environ deux tiers de son volume.",
+    "source": "D'après Wikipédia — Foie"
+  },
+  {
+    "id": "q-corps-humain-008",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Nous n'utilisons que 10 % de notre cerveau.",
+    "reponse": false,
+    "explication": "C'est un mythe : l'imagerie cérébrale montre que toutes les zones du cerveau sont utilisées.",
+    "source": "D'après Wikipédia — Mythe des 10 % du cerveau"
+  },
+  {
+    "id": "q-corps-humain-009",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quel groupe sanguin est donneur universel de globules rouges ?",
+    "choix": [
+      "A+",
+      "B−",
+      "AB+",
+      "O−"
+    ],
+    "bonneReponse": 3,
+    "explication": "O− ne porte ni marqueur A, ni B, ni Rhésus.",
+    "source": "D'après Wikipédia — Groupe sanguin"
+  },
+  {
+    "id": "q-corps-humain-010",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Qui a découvert les rayons X en 1895 ?",
+    "choix": [
+      "Marie Curie",
+      "Wilhelm Röntgen",
+      "Henri Becquerel",
+      "Thomas Edison"
+    ],
+    "bonneReponse": 1,
+    "explication": "Röntgen reçoit pour cela le premier prix Nobel de physique en 1901.",
+    "source": "D'après Wikipédia — Wilhelm Röntgen"
+  },
+  {
+    "id": "q-corps-humain-011",
+    "domain": "corps-humain",
+    "format": "associer",
+    "question": "Associe chaque organe à sa fonction principale.",
+    "paires": [
+      {
+        "gauche": "Reins",
+        "droite": "Filtrer le sang"
+      },
+      {
+        "gauche": "Poumons",
+        "droite": "Échanges d'oxygène et de CO₂"
+      },
+      {
+        "gauche": "Pancréas",
+        "droite": "Produire l'insuline"
+      },
+      {
+        "gauche": "Cochlée",
+        "droite": "Audition"
+      },
+      {
+        "gauche": "Moelle osseuse",
+        "droite": "Produire les cellules du sang"
+      }
+    ],
+    "explication": "Chaque organe a une ou plusieurs fonctions vitales.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-corps-humain-012",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Combien de temps dure environ un cycle de sommeil ?",
+    "choix": [
+      "20 minutes",
+      "90 minutes",
+      "3 heures",
+      "6 heures"
+    ],
+    "bonneReponse": 1,
+    "explication": "Une nuit compte 4 à 6 cycles d'environ 90 minutes.",
+    "source": "D'après Wikipédia — Cycle du sommeil"
+  },
+  {
+    "id": "q-corps-humain-013",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Le sang est bleu dans les veines.",
+    "reponse": false,
+    "explication": "Il est toujours rouge, plus sombre quand il est pauvre en oxygène. La couleur bleue des veines est un effet optique.",
+    "source": "D'après Wikipédia — Sang"
+  },
+  {
+    "id": "q-corps-humain-014",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Qui est considéré comme le père de la médecine occidentale ?",
+    "choix": [
+      "Galien",
+      "Hippocrate",
+      "Avicenne",
+      "Vésale"
+    ],
+    "bonneReponse": 1,
+    "explication": "Hippocrate, au Ve siècle av. J.-C., cherche des causes naturelles aux maladies.",
+    "source": "D'après Wikipédia — Hippocrate"
+  },
+  {
+    "id": "q-corps-humain-015",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Comment s'appellent les trois osselets de l'oreille moyenne ?",
+    "choix": [
+      "Marteau, enclume, étrier",
+      "Tympan, cochlée, vestibule",
+      "Atlas, axis, coccyx",
+      "Radius, cubitus, humérus"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ce sont les plus petits os du corps ; l'étrier mesure environ 3 mm.",
+    "source": "D'après Wikipédia — Osselet (anatomie)"
+  },
+  {
+    "id": "q-corps-humain-016",
+    "domain": "corps-humain",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née à Florence en 1820, d'où mon prénom.",
+      "J'ai soigné les soldats pendant la guerre de Crimée.",
+      "J'ai utilisé des graphiques pour montrer les causes de décès.",
+      "On m'appelait « la dame à la lampe »."
+    ],
+    "reponse": "Florence Nightingale",
+    "explication": "Elle a fondé les soins infirmiers modernes.",
+    "source": "D'après Wikipédia — Florence Nightingale"
+  },
+  {
+    "id": "q-corps-humain-017",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quelle substance a été utilisée lors de la première démonstration publique d'anesthésie en 1846 ?",
+    "choix": [
+      "Le chloroforme",
+      "L'éther",
+      "La morphine",
+      "Le protoxyde d'azote"
+    ],
+    "bonneReponse": 1,
+    "explication": "William Morton a utilisé l'éther à Boston le 16 octobre 1846.",
+    "source": "D'après Wikipédia — Anesthésie"
+  },
+  {
+    "id": "q-corps-humain-018",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "On peut vivre normalement avec un seul rein.",
+    "reponse": true,
+    "explication": "Un seul rein suffit à filtrer le sang, ce qui permet le don de rein entre vivants.",
+    "source": "D'après Wikipédia — Don d'organes"
+  },
+  {
+    "id": "q-corps-humain-019",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quelle hormone favorise l'endormissement, sécrétée quand la lumière baisse ?",
+    "choix": [
+      "L'adrénaline",
+      "L'insuline",
+      "La mélatonine",
+      "Le cortisol"
+    ],
+    "bonneReponse": 2,
+    "explication": "La mélatonine est sécrétée le soir ; la lumière bleue des écrans peut la retarder.",
+    "source": "D'après Wikipédia — Mélatonine"
+  },
+  {
+    "id": "q-corps-humain-020",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Combien d'os compte le squelette d'un adulte ?",
+    "choix": [
+      "106",
+      "206",
+      "306",
+      "406"
+    ],
+    "bonneReponse": 1,
+    "explication": "206 os, alors qu'un nouveau-né en a environ 300, dont certains fusionnent.",
+    "source": "D'après Wikipédia — Squelette humain"
+  },
+  {
+    "id": "q-corps-humain-021",
+    "domain": "corps-humain",
+    "format": "difference",
+    "question": "Quelle est la différence entre une hormone et un neurotransmetteur ?",
+    "choix": [
+      "L'hormone circule dans le sang, le neurotransmetteur agit dans une synapse entre neurones",
+      "L'hormone agit plus vite",
+      "Le neurotransmetteur est produit par les glandes",
+      "Aucune"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les hormones agissent à distance et plus lentement ; les neurotransmetteurs localement et très vite.",
+    "source": "D'après Wikipédia — Neurotransmetteur"
+  },
+  {
+    "id": "q-corps-humain-022",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quelle moisissure est à l'origine de la pénicilline ?",
+    "choix": [
+      "Aspergillus",
+      "Penicillium",
+      "Candida",
+      "Levure de bière"
+    ],
+    "bonneReponse": 1,
+    "explication": "Fleming a observé en 1928 qu'un Penicillium tuait les staphylocoques autour de lui.",
+    "source": "D'après Wikipédia — Pénicilline"
+  },
+  {
+    "id": "q-corps-humain-023",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "La « carte de la langue » avec des zones dédiées au sucré, au salé, etc., est un mythe.",
+    "reponse": true,
+    "explication": "Toutes les zones de la langue perçoivent toutes les saveurs.",
+    "source": "D'après Wikipédia — Carte de la langue"
+  },
+  {
+    "id": "q-corps-humain-024",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quelle est la seule maladie humaine totalement éradiquée grâce à la vaccination ?",
+    "choix": [
+      "La polio",
+      "La rougeole",
+      "La variole",
+      "La tuberculose"
+    ],
+    "bonneReponse": 2,
+    "explication": "La variole est déclarée éradiquée en 1980. La polio est proche de l'éradication.",
+    "source": "D'après Wikipédia — Variole"
+  },
+  {
+    "id": "q-corps-humain-025",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quel lobe du cerveau traite principalement la vision ?",
+    "choix": [
+      "Frontal",
+      "Pariétal",
+      "Temporal",
+      "Occipital"
+    ],
+    "bonneReponse": 3,
+    "explication": "Le lobe occipital, à l'arrière du crâne, est le centre de la vision.",
+    "source": "D'après Wikipédia — Lobe occipital"
+  },
+  {
+    "id": "q-corps-humain-026",
+    "domain": "corps-humain",
+    "format": "frise",
+    "question": "Remets ces découvertes médicales dans l'ordre.",
+    "evenements": [
+      {
+        "label": "La Fabrica de Vésale",
+        "annee": "1543"
+      },
+      {
+        "label": "Premier vaccin de Jenner",
+        "annee": "1796"
+      },
+      {
+        "label": "Première anesthésie à l'éther",
+        "annee": "1846"
+      },
+      {
+        "label": "Découverte des rayons X",
+        "annee": "1895"
+      },
+      {
+        "label": "Découverte de la pénicilline",
+        "annee": "1928"
+      }
+    ],
+    "explication": "Quatre siècles de progrès médicaux.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-corps-humain-027",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quelle protéine des globules rouges transporte l'oxygène ?",
+    "choix": [
+      "La kératine",
+      "L'hémoglobine",
+      "L'insuline",
+      "Le collagène"
+    ],
+    "bonneReponse": 1,
+    "explication": "L'hémoglobine contient du fer, qui fixe l'oxygène et donne sa couleur rouge au sang.",
+    "source": "D'après Wikipédia — Hémoglobine"
+  },
+  {
+    "id": "q-corps-humain-028",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Le cerveau ne ressent pas la douleur.",
+    "reponse": true,
+    "explication": "Il n'a pas de récepteurs de la douleur, ce qui permet certaines opérations sur patient éveillé.",
+    "source": "D'après Wikipédia — Chirurgie éveillée"
+  },
+  {
+    "id": "q-corps-humain-029",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "D'où vient la chair de poule ?",
+    "choix": [
+      "D'un manque de vitamines",
+      "Du redressement des poils, vestige de nos ancêtres à fourrure",
+      "D'une allergie",
+      "De la contraction du cœur"
+    ],
+    "bonneReponse": 1,
+    "explication": "Chez les animaux à fourrure, le redressement des poils isole du froid ou fait paraître plus gros.",
+    "source": "D'après Wikipédia — Chair de poule"
+  },
+  {
+    "id": "q-corps-humain-030",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quel pourcentage de l'énergie du corps le cerveau consomme-t-il environ ?",
+    "choix": [
+      "2 %",
+      "20 %",
+      "50 %",
+      "75 %"
+    ],
+    "bonneReponse": 1,
+    "explication": "Environ 20 %, alors qu'il ne représente qu'environ 2 % du poids du corps.",
+    "source": "D'après Wikipédia — Cerveau humain"
+  }
+]

@@ -1,0 +1,970 @@
+[
+  {
+    "id": "cuisine-001",
+    "domain": "cuisine",
+    "subtheme": "Techniques",
+    "type": "classique",
+    "title": "La fermentation",
+    "summary": "Processus biologique où des micro-organismes (levures, bactéries) transforment des sucres en alcool, en gaz ou en acides. C'est la base du pain, du fromage, du vin, de la bière ou de la choucroute.\nElle permet aussi de conserver certains aliments plus longtemps.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Principe",
+          "texte": "Des micro-organismes consomment les sucres d'un aliment et produisent en échange de l'alcool, du gaz carbonique ou des acides, ce qui transforme le goût et la texture."
+        },
+        {
+          "titre": "Exemples courants",
+          "texte": "Le pain (levure), le yaourt et le fromage (bactéries lactiques), le vin et la bière (levures), la choucroute et le kimchi (fermentation lactique des légumes)."
+        },
+        {
+          "titre": "Intérêt",
+          "texte": "Au-delà du goût, la fermentation aide à conserver les aliments et peut faciliter leur digestion."
+        },
+        {
+          "titre": "Plusieurs fermentations",
+          "texte": "La fermentation alcoolique, par des levures, transforme les sucres en alcool et en CO₂ : vin, bière, cidre, et la pâte à pain qui lève. La fermentation lactique, par des bactéries, produit de l'acide lactique : yaourt, choucroute, kimchi, cornichons, saucisson. La fermentation acétique transforme l'alcool en vinaigre."
+        },
+        {
+          "titre": "Pourquoi fermenter ?",
+          "texte": "Avant le réfrigérateur, fermenter permettait de conserver les aliments, l'acidité ou l'alcool empêchant les microbes dangereux de se développer. La fermentation crée aussi des arômes, rend certains aliments plus digestes et produit parfois des vitamines."
+        }
+      ],
+      "wikipedia": "Fermentation",
+      "anecdotes": [
+        "C'est Pasteur qui a démontré en 1857 que la fermentation est due à des micro-organismes vivants.",
+        "Le kimchi coréen se conservait autrefois dans des jarres enterrées pour passer l'hiver."
+      ]
+    },
+    "source": "D'après Wikipédia — Fermentation"
+  },
+  {
+    "id": "cuisine-002",
+    "domain": "cuisine",
+    "subtheme": "Plats emblématiques",
+    "type": "classique",
+    "title": "Le sushi",
+    "summary": "Plat japonais à base de riz vinaigré, souvent accompagné de poisson cru, de fruits de mer ou de légumes. Contrairement à une idée reçue, le mot « sushi » désigne le riz assaisonné, pas le poisson cru.\nIl existe de nombreuses variantes : nigiri, maki, temaki, chirashi.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Origine",
+          "texte": "Le sushi trouve son origine dans une technique de conservation du poisson par fermentation avec du riz, apparue en Asie du Sud-Est puis développée au Japon."
+        },
+        {
+          "titre": "Variantes principales",
+          "texte": "Nigiri (riz surmonté d'une tranche de poisson), maki (riz et garniture roulés dans une algue nori), temaki (cône d'algue), chirashi (riz et poisson émietté dans un bol)."
+        },
+        {
+          "titre": "Idée reçue",
+          "texte": "Le terme « sushi » fait référence au riz vinaigré et non au poisson cru lui-même, appelé « sashimi » lorsqu'il est servi seul."
+        },
+        {
+          "titre": "Des origines de conservation",
+          "texte": "À l'origine, le narezushi était un procédé de conservation du poisson dans du riz fermenté, venu d'Asie du Sud-Est ; on jetait le riz. Au XIXe siècle, à Edo (Tokyo), Hanaya Yohei popularise le nigiri : du poisson frais sur une bouchée de riz vinaigré, une sorte de fast-food de rue."
+        },
+        {
+          "titre": "Les variétés",
+          "texte": "Nigiri (boulette de riz surmontée de poisson), maki (rouleau enveloppé d'algue nori), uramaki ou california roll (riz à l'extérieur, inventé aux États-Unis), temaki (cornet), chirashi (bol de riz garni). Le sashimi, lui, n'est que du poisson cru, sans riz."
+        }
+      ],
+      "wikipedia": "Sushi",
+      "anecdotes": [
+        "Le mot sushi désigne le riz vinaigré, pas le poisson cru.",
+        "Devenir chef de sushi au Japon peut demander une dizaine d'années d'apprentissage, dont plusieurs rien que pour apprendre à cuire le riz."
+      ]
+    },
+    "source": "D'après Wikipédia — Sushi"
+  },
+  {
+    "id": "cuisine-003",
+    "domain": "cuisine",
+    "subtheme": "Plats emblématiques",
+    "type": "classique",
+    "title": "La baguette de pain",
+    "summary": "Pain long et fin à la croûte croustillante, symbole de la boulangerie française. Sa recette encadrée impose une liste d'ingrédients très courte : farine, eau, sel et levure ou levain.\nL'artisanat de la baguette française a été inscrit au patrimoine culturel immatériel de l'UNESCO en 2022.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Origine",
+          "texte": "La forme allongée de la baguette se popularise en France au XIXe et surtout au XXe siècle, sans qu'une origine unique et certaine ne soit établie."
+        },
+        {
+          "titre": "Réglementation",
+          "texte": "En France, la « baguette de tradition » est encadrée par un décret qui limite les ingrédients autorisés et interdit la surgélation."
+        },
+        {
+          "titre": "Reconnaissance internationale",
+          "texte": "En 2022, l'UNESCO inscrit le savoir-faire et la culture de la baguette de pain française au patrimoine culturel immatériel de l'humanité."
+        },
+        {
+          "titre": "Une histoire récente",
+          "texte": "Le pain long existe depuis le XVIIIe siècle, mais la baguette telle qu'on la connaît se généralise au XXe siècle. Une loi de 1919 interdisant le travail des boulangers avant 4 h du matin aurait favorisé ce pain fin, qui cuit plus vite qu'une grosse miche."
+        },
+        {
+          "titre": "La baguette de tradition",
+          "texte": "Le décret pain de 1993 définit la « baguette de tradition française » : seulement de la farine, de l'eau, du sel et de la levure ou du levain, sans aucun additif, et pétrie, façonnée et cuite sur place."
+        }
+      ],
+      "wikipedia": "Baguette",
+      "chiffres": [
+        {
+          "valeur": "~6 milliards",
+          "label": "de baguettes vendues par an en France"
+        },
+        {
+          "valeur": "~250 g",
+          "label": "poids habituel d'une baguette"
+        },
+        {
+          "valeur": "2022",
+          "label": "inscription au patrimoine culturel immatériel de l'UNESCO"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Baguette"
+  },
+  {
+    "id": "cuisine-004",
+    "domain": "cuisine",
+    "subtheme": "Techniques",
+    "type": "classique",
+    "title": "L'affinage du fromage",
+    "summary": "Étape durant laquelle un fromage frais développe son goût, sa texture et sa croûte, sous l'effet de bactéries, moisissures ou levures. La durée varie de quelques semaines à plusieurs années.\nElle se déroule souvent dans des caves à température et humidité contrôlées.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Rôle des micro-organismes",
+          "texte": "Bactéries, levures et moisissures transforment progressivement la pâte du fromage, développant arômes et texture."
+        },
+        {
+          "titre": "Durée variable",
+          "texte": "Un fromage frais peut ne pas être affiné du tout, tandis qu'un comté ou un parmesan peut être affiné plusieurs mois, voire plusieurs années."
+        },
+        {
+          "titre": "Conditions de cave",
+          "texte": "L'affinage nécessite souvent une température fraîche et une humidité élevée, dans des caves naturelles ou climatisées."
+        },
+        {
+          "titre": "Les grandes familles",
+          "texte": "Pâtes fraîches (fromage blanc), pâtes molles à croûte fleurie (camembert, brie), à croûte lavée (munster, époisses, maroilles), pâtes persillées (roquefort, bleu d'Auvergne), pâtes pressées non cuites (reblochon, cantal, tomme), pâtes pressées cuites (comté, beaufort, emmental), fromages de chèvre."
+        },
+        {
+          "titre": "Les AOP",
+          "texte": "La France compte environ 45 fromages AOP (appellation d'origine protégée). Le roquefort a été le premier fromage à obtenir une appellation d'origine, dès 1925 ; il doit être affiné dans les caves naturelles du Combalou, à Roquefort-sur-Soulzon."
+        }
+      ],
+      "wikipedia": "Affinage (fromage)",
+      "anecdotes": [
+        "Le général de Gaulle aurait dit : « Comment voulez-vous gouverner un pays où il existe 246 variétés de fromage ? »",
+        "Les trous de l'emmental sont dus au CO₂ produit par des bactéries pendant l'affinage."
+      ]
+    },
+    "source": "D'après Wikipédia — Affinage (fromage)"
+  },
+  {
+    "id": "cuisine-005",
+    "domain": "cuisine",
+    "subtheme": "Plats emblématiques",
+    "type": "classique",
+    "title": "Du cacao au chocolat",
+    "summary": "Le chocolat est fabriqué à partir des fèves du cacaoyer, un arbre originaire d'Amérique centrale et du Sud. Les fèves sont fermentées, séchées, torréfiées puis broyées pour obtenir la pâte de cacao.\nLes civilisations précolombiennes consommaient déjà le cacao, sous forme de boisson amère et épicée.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Origine",
+          "texte": "Le cacaoyer est cultivé depuis des millénaires en Mésoamérique ; Mayas et Aztèques consommaient une boisson à base de cacao, sans sucre."
+        },
+        {
+          "titre": "Transformation",
+          "texte": "Après récolte, les fèves sont fermentées, séchées puis torréfiées avant d'être broyées pour obtenir la pâte de cacao, base de tous les chocolats."
+        },
+        {
+          "titre": "Arrivée en Europe",
+          "texte": "Le cacao est introduit en Europe au XVIe siècle, où il est sucré et transformé progressivement en boisson puis en chocolat solide."
+        },
+        {
+          "titre": "La boisson des dieux",
+          "texte": "Les Olmèques, les Mayas puis les Aztèques consommaient le cacao sous forme de boisson amère, épicée au piment, lors de cérémonies. Les fèves servaient même de monnaie. Les Espagnols ramènent le cacao en Europe au XVIe siècle, où on le sucre."
+        },
+        {
+          "titre": "Les étapes",
+          "texte": "Les cabosses sont récoltées, les fèves fermentées quelques jours, séchées, torréfiées, puis broyées en une pâte de cacao. On en sépare le beurre de cacao et la poudre. Le chocolat est obtenu en mélangeant pâte, beurre de cacao et sucre, puis par le conchage (brassage prolongé, inventé par Rodolphe Lindt en 1879) et le tempérage."
+        }
+      ],
+      "wikipedia": "Chocolat",
+      "chiffres": [
+        {
+          "valeur": "~40 %",
+          "label": "du cacao mondial vient de Côte d'Ivoire"
+        },
+        {
+          "valeur": "1875",
+          "label": "invention du chocolat au lait en Suisse"
+        }
+      ],
+      "anecdotes": [
+        "Le chocolat blanc ne contient pas de pâte de cacao, seulement du beurre de cacao, du sucre et du lait."
+      ]
+    },
+    "source": "D'après Wikipédia — Chocolat"
+  },
+  {
+    "id": "cuisine-006",
+    "domain": "cuisine",
+    "subtheme": "Boissons",
+    "type": "classique",
+    "title": "La vinification",
+    "summary": "Processus de transformation du raisin en vin, reposant sur la fermentation des sucres du jus par des levures. Le vin rouge fermente avec la peau du raisin, le vin blanc généralement sans elle.\nLa qualité du raisin, le terroir et le savoir-faire du vigneron influencent fortement le résultat final.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Étapes principales",
+          "texte": "Vendange, foulage, fermentation alcoolique (transformation du sucre en alcool par les levures), puis élevage, souvent en cuve ou en fût."
+        },
+        {
+          "titre": "Rouge vs blanc",
+          "texte": "Pour le vin rouge, le jus fermente avec les peaux de raisin, ce qui lui donne sa couleur et ses tanins ; le vin blanc est généralement pressé avant fermentation."
+        },
+        {
+          "titre": "Rôle du terroir",
+          "texte": "Le sol, le climat et l'exposition du vignoble influencent fortement les arômes du vin final, un concept central en viticulture française."
+        },
+        {
+          "titre": "Rouge, blanc, rosé",
+          "texte": "Le jus de presque tous les raisins est incolore. Pour le vin rouge, on laisse macérer le jus avec les peaux de raisins noirs, qui lui donnent couleur et tanins. Pour le blanc, on presse les raisins (souvent blancs) et on ne garde que le jus. Pour le rosé, la macération avec les peaux noires est très courte."
+        },
+        {
+          "titre": "Le champagne",
+          "texte": "La méthode champenoise consiste à faire une seconde fermentation en bouteille, en ajoutant sucre et levures : le CO₂ produit reste prisonnier et crée les bulles. Les dépôts de levures sont ensuite rassemblés dans le goulot et expulsés (dégorgement)."
+        }
+      ],
+      "wikipedia": "Vinification",
+      "anecdotes": [
+        "Dom Pérignon n'a pas inventé le champagne : il cherchait même à éviter les bulles, qui faisaient exploser les bouteilles."
+      ]
+    },
+    "source": "D'après Wikipédia — Vinification"
+  },
+  {
+    "id": "cuisine-007",
+    "domain": "cuisine",
+    "subtheme": "Plats emblématiques",
+    "type": "classique",
+    "title": "Le curry",
+    "summary": "Terme regroupant de nombreux plats mijotés épicés originaires du sous-continent indien, à base d'un mélange d'épices variable selon la région et la recette.\nLe mot « curry » vient du tamoul « kari », désignant une sauce épicée.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Diversité",
+          "texte": "Il n'existe pas un curry unique mais des centaines de recettes régionales, chacune avec son propre mélange d'épices (curcuma, cumin, coriandre, piment...)."
+        },
+        {
+          "titre": "Étymologie",
+          "texte": "Le mot vient du tamoul « kari », qui désigne une sauce épicée accompagnant le riz."
+        },
+        {
+          "titre": "Diffusion mondiale",
+          "texte": "Popularisé au Royaume-Uni via la colonisation britannique de l'Inde, le curry est aujourd'hui un plat mondialement répandu, avec des variantes locales (japonaise, thaïlandaise...)."
+        },
+        {
+          "titre": "Un mot anglais",
+          "texte": "En Inde, il n'existe pas un curry mais d'innombrables plats en sauce. Le mot vient probablement du tamoul kari, « sauce ». Les Britanniques l'ont généralisé pendant la colonisation, et la poudre de curry a été créée pour reproduire ces saveurs en Angleterre."
+        },
+        {
+          "titre": "Les épices",
+          "texte": "Un mélange typique (garam masala ou poudre de curry) peut contenir curcuma (qui donne la couleur jaune), coriandre, cumin, cardamome, clou de girofle, cannelle, poivre, fenugrec, piment. Le curry thaïlandais, lui, est une pâte à base de piments frais, de citronnelle et de galanga."
+        }
+      ],
+      "wikipedia": "Curry",
+      "anecdotes": [
+        "Le chicken tikka masala, souvent présenté comme typiquement indien, a probablement été créé dans un restaurant britannique."
+      ]
+    },
+    "source": "D'après Wikipédia — Curry"
+  },
+  {
+    "id": "cuisine-008",
+    "domain": "cuisine",
+    "subtheme": "Plats emblématiques",
+    "type": "classique",
+    "title": "La paella",
+    "summary": "Plat espagnol à base de riz, originaire de la région de Valence, traditionnellement cuit dans une large poêle plate qui lui donne son nom.\nLa recette originelle utilisait poulet, lapin et légumes ; la version aux fruits de mer est une variante plus tardive et plus connue à l'international.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Origine régionale",
+          "texte": "La paella est originaire de la région de Valence, en Espagne, où elle était un plat paysan préparé en plein air."
+        },
+        {
+          "titre": "Nom",
+          "texte": "« Paella » désigne à l'origine la poêle large et peu profonde utilisée pour la cuisson, avant de désigner le plat lui-même."
+        },
+        {
+          "titre": "Variantes",
+          "texte": "La paella valencienne traditionnelle contient poulet, lapin et haricots verts ; la paella aux fruits de mer, plus connue hors d'Espagne, en est une variante."
+        },
+        {
+          "titre": "La vraie paella valencienne",
+          "texte": "La recette traditionnelle de Valence contient du riz, du poulet, du lapin, des haricots verts plats, des haricots blancs (garrofó), de la tomate, de l'huile d'olive, du safran et parfois des escargots. Pas de fruits de mer ni de chorizo ! La paella de marisco (aux fruits de mer) est une autre recette."
+        },
+        {
+          "titre": "Le socarrat",
+          "texte": "La couche de riz légèrement caramélisée et croustillante au fond du plat s'appelle le socarrat : c'est la partie la plus recherchée."
+        }
+      ],
+      "wikipedia": "Paella",
+      "anecdotes": [
+        "Le mot paella désigne d'abord la poêle large et plate, du latin patella."
+      ]
+    },
+    "source": "D'après Wikipédia — Paella"
+  },
+  {
+    "id": "cuisine-009",
+    "domain": "cuisine",
+    "subtheme": "Chefs célèbres",
+    "type": "personnage",
+    "title": "Auguste Escoffier",
+    "subtitle": "Chef cuisinier français, 1846-1935",
+    "summary": "Surnommé « le roi des cuisiniers et le cuisinier des rois », il a modernisé et codifié la cuisine française classique. Son ouvrage « Le Guide culinaire » (1903) reste une référence majeure.\nIl a aussi organisé la brigade de cuisine sous forme hiérarchisée, encore utilisée aujourd'hui.",
+    "details": {
+      "epoque": "Fin du XIXe siècle et début du XXe siècle.",
+      "pourquoiCelebre": "Codification de la cuisine française classique et organisation moderne des brigades de cuisine.",
+      "ideesClefs": [
+        "Auteur du « Guide culinaire », ouvrage de référence de la gastronomie française",
+        "A instauré une organisation hiérarchisée des cuisines de restaurant (chef, sous-chef, commis...)"
+      ],
+      "liens": [
+        {
+          "nom": "César Ritz",
+          "relation": "Association professionnelle dans plusieurs grands hôtels de luxe européens"
+        }
+      ],
+      "wikipedia": "Auguste Escoffier",
+      "sections": [
+        {
+          "titre": "La brigade de cuisine",
+          "texte": "Inspiré par l'organisation militaire, Escoffier structure la cuisine en postes spécialisés sous l'autorité du chef : saucier, rôtisseur, poissonnier, entremétier, garde-manger, pâtissier. Ce système, la brigade, est toujours utilisé dans les grands restaurants."
+        },
+        {
+          "titre": "Le Guide culinaire",
+          "texte": "Publié en 1903, cet ouvrage de plus de 5 000 recettes codifie la cuisine française classique et ses sauces mères (béchamel, velouté, espagnole, tomate, hollandaise). Avec César Ritz, il dirige les cuisines des palaces Savoy et Ritz à Londres."
+        }
+      ],
+      "anecdotes": [
+        "Il a créé la pêche Melba en l'honneur de la chanteuse d'opéra Nellie Melba.",
+        "Surnommé « le roi des cuisiniers et le cuisinier des rois »."
+      ]
+    },
+    "source": "D'après Wikipédia — Auguste Escoffier"
+  },
+  {
+    "id": "cuisine-010",
+    "domain": "cuisine",
+    "subtheme": "Chefs célèbres",
+    "type": "personnage",
+    "title": "Julia Child",
+    "subtitle": "Cheffe et animatrice culinaire américaine, 1912-2004",
+    "summary": "Elle a fait connaître la cuisine française aux Américains grâce à son livre « Mastering the Art of French Cooking » (1961) et à ses émissions de télévision.\nElle est devenue une figure culturelle majeure de la cuisine aux États-Unis.",
+    "details": {
+      "epoque": "Seconde moitié du XXe siècle.",
+      "pourquoiCelebre": "Popularisation de la cuisine française classique auprès du grand public américain, via ses livres et émissions télévisées.",
+      "ideesClefs": [
+        "Autrice du best-seller « Mastering the Art of French Cooking »",
+        "Pionnière de l'émission culinaire télévisée aux États-Unis"
+      ],
+      "liens": [],
+      "wikipedia": "Julia Child",
+      "sections": [
+        {
+          "titre": "De l'espionnage à la cuisine",
+          "texte": "Pendant la Seconde Guerre mondiale, Julia Child travaille pour l'OSS, ancêtre de la CIA, notamment sur un répulsif contre les requins. Installée à Paris avec son mari diplomate, elle découvre la cuisine française et suit les cours du Cordon Bleu à 37 ans."
+        },
+        {
+          "titre": "La télévision",
+          "texte": "Son livre Mastering the Art of French Cooking (1961) et son émission The French Chef (1963) font découvrir la cuisine française aux Américains, avec humour et simplicité. Le film Julie & Julia (2009), avec Meryl Streep, raconte son histoire."
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Julia Child"
+  },
+  {
+    "id": "cuisine-011",
+    "domain": "cuisine",
+    "subtheme": "Chefs célèbres",
+    "type": "personnage",
+    "title": "Paul Bocuse",
+    "subtitle": "Chef cuisinier français, 1926-2018",
+    "summary": "Figure majeure de la gastronomie française du XXe siècle, il est l'un des chefs de file de la « nouvelle cuisine », plus légère et créative que la tradition classique.\nSon restaurant près de Lyon a conservé trois étoiles au guide Michelin pendant plusieurs décennies.",
+    "details": {
+      "epoque": "Seconde moitié du XXe siècle.",
+      "pourquoiCelebre": "Figure de proue de la nouvelle cuisine française et ambassadeur mondial de la gastronomie française.",
+      "ideesClefs": [
+        "Associé au mouvement de la nouvelle cuisine dans les années 1970",
+        "Le concours international « Bocuse d'Or » porte son nom"
+      ],
+      "liens": [],
+      "wikipedia": "Paul Bocuse",
+      "sections": [
+        {
+          "titre": "Le pape de la gastronomie",
+          "texte": "Son restaurant de Collonges-au-Mont-d'Or, près de Lyon, a gardé trois étoiles Michelin de 1965 à 2020, un record. Il a été l'un des chefs emblématiques de la nouvelle cuisine dans les années 1970, plus légère, et le premier chef à devenir une star médiatique."
+        },
+        {
+          "titre": "Le Bocuse d'Or",
+          "texte": "Créé en 1987, ce concours international de cuisine se déroule à Lyon tous les deux ans. Il est souvent surnommé les « Jeux olympiques de la gastronomie »."
+        }
+      ],
+      "anecdotes": [
+        "Il a créé la soupe aux truffes noires VGE pour le président Valéry Giscard d'Estaing en 1975."
+      ]
+    },
+    "source": "D'après Wikipédia — Paul Bocuse"
+  },
+  {
+    "id": "cuisine-012",
+    "domain": "cuisine",
+    "subtheme": "Vocabulaire culinaire",
+    "type": "vocabulaire",
+    "title": "Umami",
+    "summary": "Cinquième saveur de base identifiée, aux côtés du sucré, du salé, de l'acide et de l'amer. Elle correspond à un goût savoureux, proche du bouillon ou de la viande mijotée.\nElle a été décrite au début du XXe siècle par un chercheur japonais.",
+    "details": {
+      "definition": "Saveur riche et savoureuse, souvent décrite comme un goût de bouillon ou de viande, due notamment au glutamate présent naturellement dans certains aliments.",
+      "exemple": "Le parmesan, la sauce soja, les champignons ou les tomates mûres sont riches en umami.",
+      "confusions": [
+        {
+          "mot": "Glutamate monosodique",
+          "explication": "Additif qui exalte artificiellement la saveur umami, à ne pas confondre avec l'umami naturellement présent dans les aliments."
+        }
+      ],
+      "wikipedia": "Umami",
+      "sections": [
+        {
+          "titre": "La découverte",
+          "texte": "En 1908, le chimiste japonais Kikunae Ikeda cherche ce qui donne son goût au dashi, bouillon d'algue kombu. Il identifie le glutamate et nomme cette saveur umami, « savoureux ». Des récepteurs spécifiques sur la langue ne sont découverts qu'au début des années 2000, ce qui en fait officiellement la cinquième saveur."
+        },
+        {
+          "titre": "Où le trouver",
+          "texte": "Parmesan, tomates mûres, champignons shiitake, sauce soja, anchois, bouillons de viande, algues. Le lait maternel est riche en glutamate. Ikeda a aussi créé le glutamate monosodique (GMS), utilisé comme exhausteur de goût."
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Umami"
+  },
+  {
+    "id": "cuisine-013",
+    "domain": "cuisine",
+    "subtheme": "Vocabulaire culinaire",
+    "type": "vocabulaire",
+    "title": "Déglacer",
+    "summary": "Technique consistant à verser un liquide (vin, bouillon, eau) dans une poêle ou casserole chaude après cuisson, pour décoller les sucs caramélisés restés au fond.\nC'est souvent la première étape pour préparer une sauce.",
+    "details": {
+      "definition": "Action de dissoudre les résidus de cuisson caramélisés au fond d'un plat à l'aide d'un liquide, afin de récupérer les arômes pour une sauce.",
+      "exemple": "Après avoir saisi une viande, on déglace la poêle au vin blanc pour créer la base d'une sauce.",
+      "confusions": [
+        {
+          "mot": "Dégraisser",
+          "explication": "Action distincte consistant à retirer l'excès de graisse d'un plat ou d'un liquide de cuisson."
+        }
+      ]
+    },
+    "source": "À vérifier"
+  },
+  {
+    "id": "cuisine-014",
+    "domain": "cuisine",
+    "subtheme": "Vocabulaire culinaire",
+    "type": "vocabulaire",
+    "title": "Al dente",
+    "summary": "Expression italienne signifiant « à la dent », utilisée pour décrire une cuisson de pâtes (ou de riz, de légumes) encore légèrement ferme sous la dent, ni trop molle ni crue.\nC'est la cuisson traditionnellement recherchée en Italie pour les pâtes.",
+    "details": {
+      "definition": "Degré de cuisson où l'aliment, en particulier les pâtes, conserve une légère fermeté au centre.",
+      "exemple": "Des spaghettis cuits al dente restent fermes sous la dent, contrairement à des pâtes trop cuites et molles.",
+      "confusions": [
+        {
+          "mot": "Cuisson complète",
+          "explication": "Terme plus général désignant un aliment entièrement cuit et tendre, sans notion de fermeté recherchée."
+        }
+      ]
+    },
+    "source": "À vérifier"
+  },
+  {
+    "id": "cuisine-015",
+    "domain": "cuisine",
+    "subtheme": "Vocabulaire culinaire",
+    "type": "vocabulaire",
+    "title": "Blanchir vs pocher",
+    "summary": "Blanchir consiste à plonger brièvement un aliment dans l'eau bouillante puis à l'arrêter net dans l'eau glacée, souvent pour préparer une cuisson ultérieure ou retirer une peau.\nPocher consiste à cuire doucement un aliment dans un liquide frémissant, sans ébullition forte, jusqu'à cuisson complète.",
+    "details": {
+      "definition": "Blanchir : cuisson très brève suivie d'un arrêt immédiat au froid. Pocher : cuisson douce et complète dans un liquide frémissant.",
+      "exemple": "On blanchit des amandes pour retirer leur peau ; on poche un œuf ou un poisson dans un bouillon frémissant.",
+      "confusions": [
+        {
+          "mot": "Bouillir",
+          "explication": "Cuisson à gros bouillons, plus vigoureuse que le pochage, qui se fait à une température plus basse et sans remous."
+        }
+      ]
+    },
+    "source": "À vérifier"
+  },
+  {
+    "id": "cuisine-016",
+    "domain": "cuisine",
+    "subtheme": "Boissons",
+    "type": "classique",
+    "title": "Le café, de la cerise à la tasse",
+    "summary": "Le café provient des graines (« cerises ») du caféier, un arbuste originaire d'Éthiopie. Après récolte, les graines sont séchées, torréfiées puis moulues pour être infusées.\nLe degré de torréfaction influence fortement l'amertume et les arômes de la boisson finale.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Origine",
+          "texte": "Le caféier est originaire des hauts plateaux d'Éthiopie ; sa consommation se répand ensuite dans le monde arabe puis en Europe à partir du XVIIe siècle."
+        },
+        {
+          "titre": "Étapes de transformation",
+          "texte": "Récolte des cerises, extraction des graines, séchage, torréfaction puis mouture avant infusion."
+        },
+        {
+          "titre": "Rôle de la torréfaction",
+          "texte": "Une torréfaction légère donne un café plus acidulé et fruité, une torréfaction poussée un café plus amer et corsé."
+        },
+        {
+          "titre": "La légende de Kaldi",
+          "texte": "Selon la légende, un berger éthiopien nommé Kaldi aurait remarqué que ses chèvres devenaient très excitées après avoir mangé les baies d'un arbuste. Le café est d'abord cultivé au Yémen, d'où il part du port de Moka, puis se répand dans le monde musulman et en Europe au XVIIe siècle."
+        },
+        {
+          "titre": "Arabica et robusta",
+          "texte": "L'arabica (environ 60 % de la production), plus doux et aromatique, pousse en altitude. Le robusta, plus amer et plus riche en caféine, est plus résistant. Le Brésil est de loin le premier producteur mondial, suivi du Vietnam."
+        }
+      ],
+      "wikipedia": "Café",
+      "anecdotes": [
+        "Le café a été introduit en Martinique vers 1720 par Gabriel de Clieu, qui aurait partagé sa ration d'eau avec son plant pendant la traversée."
+      ]
+    },
+    "source": "D'après Wikipédia — Café"
+  },
+  {
+    "id": "cuisine-017",
+    "domain": "cuisine",
+    "subtheme": "Spécialités du monde",
+    "type": "classique",
+    "title": "La pizza napolitaine",
+    "summary": "La pizza est née à Naples au XVIIIe siècle comme nourriture populaire, vendue dans la rue.\nLa pizza napolitaine authentique obéit à des règles strictes et l'art des pizzaiolos napolitains est inscrit au patrimoine immatériel de l'UNESCO depuis 2017.",
+    "details": {
+      "wikipedia": "Pizza napolitaine",
+      "sections": [
+        {
+          "titre": "La Margherita",
+          "texte": "Selon la tradition, en 1889, le pizzaiolo Raffaele Esposito crée une pizza aux couleurs du drapeau italien (tomate rouge, mozzarella blanche, basilic vert) en l'honneur de la reine Marguerite de Savoie. L'histoire est probablement embellie, mais la pizza porte toujours son nom."
+        },
+        {
+          "titre": "Les règles",
+          "texte": "Pâte de farine, eau, sel et levure, pétrie à la main et étalée sans rouleau, levée longtemps. Cuisson de 60 à 90 secondes dans un four à bois à environ 430-480 °C. Le bord (cornicione) doit être gonflé et légèrement taché. Deux recettes classiques : la Margherita et la Marinara (tomate, ail, origan, sans fromage)."
+        },
+        {
+          "titre": "Le tour du monde",
+          "texte": "Les immigrés italiens l'emportent aux États-Unis à la fin du XIXe siècle ; la première pizzeria américaine ouvre à New York en 1905. Les soldats américains de retour d'Italie après 1945 la popularisent. Elle devient l'un des plats les plus consommés du monde."
+        }
+      ],
+      "anecdotes": [
+        "La France est l'un des plus gros consommateurs de pizzas au monde par habitant.",
+        "La pizza hawaïenne à l'ananas a été inventée au Canada en 1962 par un restaurateur d'origine grecque."
+      ]
+    },
+    "source": "D'après Wikipédia — Pizza napolitaine"
+  },
+  {
+    "id": "cuisine-018",
+    "domain": "cuisine",
+    "subtheme": "Spécialités du monde",
+    "type": "classique",
+    "title": "Les pâtes",
+    "summary": "Les pâtes sont un pilier de la cuisine italienne, avec des centaines de formes différentes adaptées chacune à certaines sauces.\nContrairement à la légende, elles n'ont pas été rapportées de Chine par Marco Polo.",
+    "details": {
+      "wikipedia": "Pâtes alimentaires",
+      "sections": [
+        {
+          "titre": "Une vieille histoire",
+          "texte": "Des pâtes de blé existaient en Méditerranée bien avant Marco Polo : le géographe arabe Al-Idrissi décrit dès 1154 une fabrication de pâtes sèches en Sicile. Les nouilles chinoises ont une histoire indépendante et très ancienne : des nouilles de millet vieilles d'environ 4 000 ans ont été retrouvées en Chine."
+        },
+        {
+          "titre": "Blé dur et forme",
+          "texte": "Les pâtes sèches sont faites de semoule de blé dur et d'eau ; les pâtes fraîches contiennent souvent des œufs. Les pâtes longues (spaghetti, linguine) vont avec des sauces fluides à base d'huile ou de tomate ; les pâtes courtes creuses ou striées (penne, rigatoni) retiennent les sauces épaisses ; les pâtes larges (tagliatelle, pappardelle) accompagnent les sauces à la viande."
+        },
+        {
+          "titre": "Les vraies recettes",
+          "texte": "La carbonara romaine se prépare avec guanciale (joue de porc), jaunes d'œufs, pecorino et poivre, sans crème. Les spaghetti bolognaise n'existent pas à Bologne, où l'on sert le ragù avec des tagliatelle."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "~23 kg",
+          "label": "de pâtes par an et par habitant en Italie"
+        },
+        {
+          "valeur": "> 300",
+          "label": "formes de pâtes"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Pâtes alimentaires"
+  },
+  {
+    "id": "cuisine-019",
+    "domain": "cuisine",
+    "subtheme": "Spécialités du monde",
+    "type": "classique",
+    "title": "Le ramen",
+    "summary": "Le ramen est une soupe de nouilles de blé dans un bouillon, garnie de viande, d'œuf et de légumes. Venu de Chine, il est devenu au XXe siècle un plat emblématique du Japon.\nChaque région japonaise a son style.",
+    "details": {
+      "wikipedia": "Ramen",
+      "sections": [
+        {
+          "titre": "Les bouillons",
+          "texte": "On distingue quatre grands types selon l'assaisonnement ou la base : shio (sel), shoyu (sauce soja), miso (pâte de soja fermentée, spécialité de Sapporo) et tonkotsu (os de porc cuits pendant de longues heures jusqu'à obtenir un bouillon laiteux, spécialité de Fukuoka)."
+        },
+        {
+          "titre": "Les garnitures",
+          "texte": "Chashu (porc braisé), ajitama (œuf mollet mariné dans la sauce soja), menma (pousses de bambou fermentées), nori, oignons verts, narutomaki (galette de poisson à spirale rose)."
+        },
+        {
+          "titre": "Les nouilles instantanées",
+          "texte": "En 1958, Momofuku Ando, fondateur de Nissin, invente les nouilles instantanées (Chicken Ramen), puis en 1971 les Cup Noodles. Plus de 100 milliards de portions sont consommées chaque année dans le monde."
+        }
+      ],
+      "anecdotes": [
+        "Au Japon, aspirer bruyamment ses nouilles est poli : cela montre qu'on apprécie et refroidit les nouilles.",
+        "Un musée des nouilles instantanées existe à Osaka et à Yokohama."
+      ]
+    },
+    "source": "D'après Wikipédia — Ramen"
+  },
+  {
+    "id": "cuisine-020",
+    "domain": "cuisine",
+    "subtheme": "Spécialités du monde",
+    "type": "classique",
+    "title": "Le couscous",
+    "summary": "Le couscous est un plat de semoule de blé dur roulée et cuite à la vapeur, accompagnée de légumes, de viande ou de poisson.\nPlat emblématique du Maghreb, il est inscrit depuis 2020 au patrimoine immatériel de l'UNESCO, à l'initiative commune de l'Algérie, du Maroc, de la Tunisie et de la Mauritanie.",
+    "details": {
+      "wikipedia": "Couscous",
+      "sections": [
+        {
+          "titre": "Une origine berbère",
+          "texte": "Le couscous est attribué aux Berbères (Amazighs) d'Afrique du Nord. Les premières traces écrites remontent au XIIIe siècle. Le mot viendrait du berbère seksu."
+        },
+        {
+          "titre": "La préparation",
+          "texte": "La semoule est roulée à la main avec de l'eau, puis cuite à la vapeur dans le haut d'un couscoussier, au-dessus du bouillon où mijotent légumes et viandes. On l'aère entre les cuissons. Les variantes sont infinies : couscous aux sept légumes, au poisson en Tunisie, sucré avec raisins et cannelle (seffa)."
+        },
+        {
+          "titre": "En France",
+          "texte": "Arrivé avec les rapatriés et les immigrés d'Afrique du Nord, le couscous est régulièrement cité parmi les plats préférés des Français dans les sondages."
+        }
+      ],
+      "anecdotes": [
+        "Le merguez-couscous est une invention plutôt française ; au Maghreb, le couscous se mange traditionnellement le vendredi en famille."
+      ]
+    },
+    "source": "D'après Wikipédia — Couscous"
+  },
+  {
+    "id": "cuisine-021",
+    "domain": "cuisine",
+    "subtheme": "Spécialités du monde",
+    "type": "classique",
+    "title": "Les tacos et la cuisine mexicaine",
+    "summary": "La cuisine mexicaine repose sur le trio maïs, haricot et piment, cultivés depuis des millénaires. Elle est inscrite au patrimoine immatériel de l'UNESCO depuis 2010.\nLe taco, une galette de maïs garnie, en est le plat le plus populaire.",
+    "details": {
+      "wikipedia": "Cuisine mexicaine",
+      "sections": [
+        {
+          "titre": "Le maïs et la nixtamalisation",
+          "texte": "Pour faire les tortillas, le maïs est cuit dans de l'eau avec de la chaux : c'est la nixtamalisation, technique inventée il y a environ 3 500 ans en Mésoamérique. Elle rend le maïs plus digeste et libère la vitamine B3, ce qui protège d'une maladie grave, la pellagre."
+        },
+        {
+          "titre": "Des plats variés",
+          "texte": "Tacos al pastor (porc mariné cuit à la broche, inspiré du kebab apporté par des immigrés libanais), mole (sauce complexe au piment et au chocolat), guacamole, tamales cuits dans des feuilles de maïs, pozole, chiles en nogada."
+        },
+        {
+          "titre": "Tex-mex",
+          "texte": "Le chili con carne, les nachos au fromage fondu ou les burritos géants sont surtout des créations du Texas et du sud des États-Unis : la cuisine tex-mex."
+        }
+      ],
+      "anecdotes": [
+        "Le Mexique a donné au monde la tomate, l'avocat, la vanille, le cacao et le piment.",
+        "Le « french tacos » vendu en France, avec frites et sauce fromagère, a été inventé dans la région lyonnaise dans les années 2000."
+      ]
+    },
+    "source": "D'après Wikipédia — Cuisine mexicaine"
+  },
+  {
+    "id": "cuisine-022",
+    "domain": "cuisine",
+    "subtheme": "Cuisine française",
+    "type": "classique",
+    "title": "Le repas gastronomique des Français",
+    "summary": "En 2010, le « repas gastronomique des Français » a été inscrit au patrimoine culturel immatériel de l'UNESCO.\nCe n'est pas une recette qui est protégée, mais une pratique sociale : l'art de bien manger et de bien boire ensemble.",
+    "details": {
+      "wikipedia": "Repas gastronomique des Français",
+      "sections": [
+        {
+          "titre": "Ce qui est reconnu",
+          "texte": "L'UNESCO décrit un repas festif pour célébrer les moments importants de la vie : choix soigné des produits, accords mets et vins, belle table, gestes spécifiques (humer, goûter), conversation sur la nourriture."
+        },
+        {
+          "titre": "Le déroulé",
+          "texte": "Le repas suit un schéma établi : apéritif, entrée, plat (poisson et/ou viande avec légumes), fromage, dessert, puis café et digestif. Le service « à la russe », où les plats arrivent l'un après l'autre, a remplacé au XIXe siècle le service « à la française », où tout était posé sur la table en même temps."
+        }
+      ],
+      "anecdotes": [
+        "La France compte d'autres éléments culinaires à l'UNESCO : la baguette (2022)."
+      ]
+    },
+    "source": "D'après Wikipédia — Repas gastronomique des Français"
+  },
+  {
+    "id": "cuisine-023",
+    "domain": "cuisine",
+    "subtheme": "Cuisine française",
+    "type": "classique",
+    "title": "Le croissant et la viennoiserie",
+    "summary": "Emblème du petit-déjeuner français, le croissant est pourtant d'origine autrichienne.\nSa pâte feuilletée levée, riche en beurre, est l'une des plus techniques de la boulangerie.",
+    "details": {
+      "wikipedia": "Croissant (viennoiserie)",
+      "sections": [
+        {
+          "titre": "De Vienne à Paris",
+          "texte": "Le Kipferl, petit pain viennois en forme de croissant, existe en Autriche depuis longtemps. En 1838-1839, l'officier autrichien August Zang ouvre à Paris une boulangerie viennoise, rue de Richelieu. Au début du XXe siècle, les boulangers français remplacent la pâte briochée par une pâte feuilletée levée au beurre : le croissant moderne est né."
+        },
+        {
+          "titre": "Le feuilletage",
+          "texte": "La pâte levée est pliée plusieurs fois avec une couche de beurre (le « tourage »), ce qui crée de nombreuses fines couches alternées de pâte et de beurre. À la cuisson, l'eau du beurre se transforme en vapeur et sépare les couches, donnant le feuilleté."
+        },
+        {
+          "titre": "Les viennoiseries",
+          "texte": "Pain au chocolat (ou chocolatine dans le Sud-Ouest), pain aux raisins, chausson aux pommes, brioche. On les appelle « viennoiseries » en référence à leur origine viennoise."
+        }
+      ],
+      "anecdotes": [
+        "La légende selon laquelle le croissant aurait été inventé pour célébrer la victoire contre les Ottomans à Vienne en 1683 n'est pas prouvée.",
+        "En France, un croissant « au beurre » est souvent droit, un croissant à la margarine courbé."
+      ]
+    },
+    "source": "D'après Wikipédia — Croissant (viennoiserie)"
+  },
+  {
+    "id": "cuisine-024",
+    "domain": "cuisine",
+    "subtheme": "Cuisine française",
+    "type": "classique",
+    "title": "Les grands plats régionaux français",
+    "summary": "Chaque région de France a ses plats emblématiques, liés à ses produits et à son histoire : cassoulet, choucroute, bouillabaisse, bœuf bourguignon, tartiflette, crêpes…\nCette diversité fait la richesse de la gastronomie française.",
+    "details": {
+      "wikipedia": "Cuisine française",
+      "sections": [
+        {
+          "titre": "Quelques plats phares",
+          "texte": "Le cassoulet (Occitanie), mijoté de haricots blancs, confit de canard et saucisse, dont Castelnaudary, Carcassonne et Toulouse revendiquent la vraie recette. La choucroute (Alsace), chou fermenté avec charcuteries. La bouillabaisse (Marseille), soupe de poissons de roche servie avec rouille et croûtons. Le bœuf bourguignon, mijoté au vin rouge. La blanquette de veau. Le gratin dauphinois, sans fromage dans la recette traditionnelle."
+        },
+        {
+          "titre": "Montagne et Bretagne",
+          "texte": "La tartiflette savoyarde (pommes de terre, reblochon, lardons, oignons) a été popularisée dans les années 1980 par l'interprofession du reblochon pour en relancer les ventes. La raclette et la fondue sont partagées avec la Suisse. En Bretagne, galettes de sarrasin et crêpes de froment, kouign-amann (« gâteau au beurre » en breton)."
+        }
+      ],
+      "anecdotes": [
+        "La quiche lorraine traditionnelle ne contient pas de fromage.",
+        "Une charte de la bouillabaisse, signée en 1980, fixe les poissons autorisés."
+      ]
+    },
+    "source": "D'après Wikipédia — Cuisine française"
+  },
+  {
+    "id": "cuisine-025",
+    "domain": "cuisine",
+    "subtheme": "Techniques",
+    "type": "vocabulaire",
+    "title": "La réaction de Maillard",
+    "summary": "La réaction de Maillard est une série de réactions chimiques entre sucres et protéines qui se produit à la cuisson, au-dessus d'environ 140 °C.\nElle donne la couleur dorée et les arômes grillés de la croûte du pain, de la viande saisie ou du café torréfié.",
+    "details": {
+      "wikipedia": "Réaction de Maillard",
+      "definition": "Réaction entre des sucres réducteurs et des acides aminés, décrite en 1912 par le chimiste français Louis-Camille Maillard. Elle produit des centaines de molécules aromatiques et des pigments bruns (mélanoïdines).",
+      "exemple": "Saisir un steak à feu vif, dorer des oignons, griller du pain, torréfier du café ou du cacao. C'est pourquoi une viande bouillie (100 °C) n'a pas le même goût qu'une viande grillée.",
+      "confusions": [
+        {
+          "mot": "Caramélisation",
+          "explication": "transformation du sucre seul sous l'effet de la chaleur, sans protéines, vers 160-180 °C"
+        },
+        {
+          "mot": "Brûlé",
+          "explication": "au-delà, la carbonisation produit de l'amertume et des composés indésirables"
+        },
+        {
+          "mot": "Saisir",
+          "explication": "cuire à feu vif pour colorer la surface, ce qui ne « retient » pas les jus contrairement à une idée reçue"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Réaction de Maillard"
+  },
+  {
+    "id": "cuisine-026",
+    "domain": "cuisine",
+    "subtheme": "Techniques",
+    "type": "vocabulaire",
+    "title": "Les sauces mères",
+    "summary": "En cuisine française classique, les sauces mères sont des sauces de base à partir desquelles on prépare de nombreuses sauces dérivées.\nAuguste Escoffier en a fixé cinq au début du XXe siècle.",
+    "details": {
+      "wikipedia": "Sauce mère",
+      "definition": "Béchamel : lait épaissi par un roux blanc (beurre et farine). Velouté : fond blanc de volaille, de veau ou de poisson épaissi par un roux. Espagnole : fond brun épaissi par un roux brun. Sauce tomate. Hollandaise : émulsion chaude de jaunes d'œufs et de beurre, parfumée au citron.",
+      "exemple": "De la béchamel dérive la sauce Mornay (avec fromage) ; de la hollandaise, la béarnaise (avec estragon et échalote) ; de l'espagnole, la sauce bordelaise (au vin rouge) ou la demi-glace.",
+      "confusions": [
+        {
+          "mot": "Roux",
+          "explication": "mélange cuit de beurre et de farine qui sert à épaissir"
+        },
+        {
+          "mot": "Émulsion",
+          "explication": "mélange stable de deux liquides qui ne se mélangent pas naturellement, comme l'huile et l'eau (mayonnaise, vinaigrette, hollandaise)"
+        },
+        {
+          "mot": "Mayonnaise",
+          "explication": "émulsion froide d'huile et de jaune d'œuf, souvent classée parmi les sauces de base"
+        }
+      ],
+      "anecdotes": [
+        "Le nom de la béchamel viendrait de Louis de Béchameil, maître d'hôtel de Louis XIV, qui ne l'a probablement pas inventée."
+      ]
+    },
+    "source": "D'après Wikipédia — Sauce mère"
+  },
+  {
+    "id": "cuisine-027",
+    "domain": "cuisine",
+    "subtheme": "Techniques",
+    "type": "vocabulaire",
+    "title": "Appellation d'origine (AOC / AOP)",
+    "summary": "Une appellation d'origine protège un produit dont les qualités sont liées à un territoire et à un savoir-faire : champagne, roquefort, piment d'Espelette, lentille verte du Puy…\nSeuls les producteurs de la zone qui respectent un cahier des charges peuvent utiliser le nom.",
+    "details": {
+      "wikipedia": "Appellation d'origine protégée",
+      "definition": "AOC (appellation d'origine contrôlée) : label français. AOP (appellation d'origine protégée) : équivalent européen, qui a pris le relais. IGP (indication géographique protégée) : lien au territoire moins strict, au moins une étape de production dans la zone. Label Rouge : qualité supérieure, sans lien obligatoire à un territoire.",
+      "exemple": "Seul un vin effervescent produit en Champagne selon la méthode traditionnelle peut s'appeler champagne ; ailleurs, on parle de crémant ou de vin mousseux. Le jambon de Bayonne est une IGP.",
+      "confusions": [
+        {
+          "mot": "Terroir",
+          "explication": "ensemble des caractéristiques naturelles (sol, climat) et humaines d'un lieu qui donnent une identité à un produit"
+        },
+        {
+          "mot": "Bio (AB)",
+          "explication": "label sur le mode de production (sans pesticides de synthèse), sans lien avec l'origine géographique"
+        }
+      ],
+      "anecdotes": [
+        "La première loi sur les appellations d'origine en France date de 1919 ; le roquefort a été protégé dès 1925."
+      ]
+    },
+    "source": "D'après Wikipédia — Appellation d'origine protégée"
+  },
+  {
+    "id": "cuisine-028",
+    "domain": "cuisine",
+    "subtheme": "Grands chefs",
+    "type": "personnage",
+    "title": "Anne-Sophie Pic",
+    "summary": "Née en 1969, Anne-Sophie Pic est la cheffe française la plus étoilée au monde.\nEn 2007, elle devient la quatrième femme de l'histoire à obtenir trois étoiles au guide Michelin, pour la Maison Pic à Valence.",
+    "details": {
+      "wikipedia": "Anne-Sophie Pic",
+      "epoque": "Depuis les années 1990",
+      "pourquoiCelebre": "Pour avoir reconquis les trois étoiles familiales et imposé une cuisine subtile fondée sur les arômes.",
+      "ideesClefs": [
+        "Héritière d'une dynastie : son grand-père André et son père Jacques avaient obtenu trois étoiles",
+        "Autodidacte, d'abord formée au commerce",
+        "Reprend le restaurant après la mort de son père en 1992 ; l'établissement perd sa troisième étoile en 1995",
+        "Reconquiert les trois étoiles en 2007",
+        "Cuisine fondée sur les associations aromatiques inattendues (thé, épices, fleurs)",
+        "Restaurants à Paris, Lausanne, Londres, Singapour"
+      ],
+      "liens": [
+        {
+          "nom": "Eugénie Brazier",
+          "relation": "première femme triplement étoilée, en 1933, à Lyon"
+        },
+        {
+          "nom": "Paul Bocuse",
+          "relation": "ancien élève d'Eugénie Brazier"
+        }
+      ],
+      "anecdotes": [
+        "Le guide Michelin est né en 1900 pour donner envie aux automobilistes de voyager… et d'user leurs pneus."
+      ]
+    },
+    "source": "D'après Wikipédia — Anne-Sophie Pic"
+  },
+  {
+    "id": "cuisine-029",
+    "domain": "cuisine",
+    "subtheme": "Produits",
+    "type": "classique",
+    "title": "Les épices et la route des épices",
+    "summary": "Poivre, cannelle, clou de girofle, noix de muscade : pendant des siècles, les épices d'Asie valaient une fortune en Europe.\nLeur commerce a motivé les grandes découvertes et la création d'empires coloniaux.",
+    "details": {
+      "wikipedia": "Route des épices",
+      "sections": [
+        {
+          "titre": "Plus précieuses que l'or",
+          "texte": "Au Moyen Âge, les épices arrivaient d'Inde et des îles Moluques par des routes terrestres et maritimes contrôlées par les marchands arabes, puis vénitiens. À chaque intermédiaire, le prix augmentait. Le poivre servait parfois de monnaie ou de dot."
+        },
+        {
+          "titre": "La course aux épices",
+          "texte": "Pour contourner ces intermédiaires, les Portugais cherchent une route maritime : Vasco de Gama atteint l'Inde en 1498. Colomb cherche les Indes par l'ouest. Au XVIIe siècle, la Compagnie néerlandaise des Indes orientales (VOC) prend le contrôle des îles de la muscade et du girofle, parfois par des massacres."
+        },
+        {
+          "titre": "Le Français Pierre Poivre",
+          "texte": "Au XVIIIe siècle, l'intendant Pierre Poivre fait voler des plants de girofliers et de muscadiers pour les acclimater à l'île Maurice, brisant le monopole néerlandais."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "~1 000 fleurs",
+          "label": "de crocus pour environ 6 g de safran, l'épice la plus chère"
+        }
+      ],
+      "anecdotes": [
+        "En 1667, les Néerlandais ont échangé l'île de Manhattan (New York) contre l'île de Run, petite île à muscade des Moluques, contrôlée par les Anglais."
+      ]
+    },
+    "source": "D'après Wikipédia — Route des épices"
+  },
+  {
+    "id": "cuisine-030",
+    "domain": "cuisine",
+    "subtheme": "Produits",
+    "type": "classique",
+    "title": "Le thé",
+    "summary": "Le thé est la boisson la plus consommée au monde après l'eau. Toutes ses variétés (vert, noir, blanc, oolong) viennent de la même plante, le théier (Camellia sinensis).\nC'est la transformation des feuilles qui fait la différence.",
+    "details": {
+      "wikipedia": "Thé",
+      "sections": [
+        {
+          "titre": "Une plante, plusieurs thés",
+          "texte": "Thé vert : les feuilles sont chauffées rapidement pour empêcher l'oxydation (Chine, Japon). Thé noir (appelé « thé rouge » en Chine) : les feuilles sont totalement oxydées. Oolong : partiellement oxydé. Thé blanc : bourgeons simplement flétris et séchés. Les infusions (verveine, camomille, rooibos) ne sont pas du thé."
+        },
+        {
+          "titre": "Une histoire mondiale",
+          "texte": "Selon la légende, l'empereur chinois Shennong découvre le thé vers 2737 av. J.-C. quand des feuilles tombent dans son eau chaude. Le thé arrive en Europe au XVIIe siècle. Les Britanniques, grands buveurs, développent des plantations en Inde (Darjeeling, Assam) et à Ceylan (Sri Lanka) au XIXe siècle."
+        },
+        {
+          "titre": "Rituels",
+          "texte": "La cérémonie du thé japonaise (chanoyu) avec le matcha, le thé à la menthe au Maghreb, le chai épicé en Inde, l'afternoon tea britannique."
+        }
+      ],
+      "anecdotes": [
+        "La Boston Tea Party (1773), où des colons jettent des cargaisons de thé à la mer pour protester contre les taxes britanniques, est un prélude à l'indépendance américaine.",
+        "La Turquie est le pays qui boit le plus de thé par habitant."
+      ]
+    },
+    "source": "D'après Wikipédia — Thé"
+  }
+]

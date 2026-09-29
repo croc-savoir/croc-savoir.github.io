@@ -1,0 +1,441 @@
+[
+  {
+    "id": "q-astronomie-001",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quelle planète est surnommée « la planète rouge » ?",
+    "choix": [
+      "Vénus",
+      "Mars",
+      "Jupiter",
+      "Mercure"
+    ],
+    "bonneReponse": 1,
+    "explication": "Mars doit sa teinte rougeâtre à l'oxyde de fer présent en abondance à sa surface.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-astronomie-002",
+    "domain": "astronomie",
+    "format": "frise",
+    "question": "Remets ces jalons de la conquête spatiale dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Lancement de Spoutnik 1",
+        "annee": "1957"
+      },
+      {
+        "label": "Premier vol spatial habité (Gagarine)",
+        "annee": "1961"
+      },
+      {
+        "label": "Premier pas sur la Lune (Apollo 11)",
+        "annee": "1969"
+      },
+      {
+        "label": "Dernière mission lunaire habitée (Apollo 17)",
+        "annee": "1972"
+      }
+    ],
+    "explication": "En quinze ans, l'humanité passe du premier satellite artificiel aux dernières missions lunaires habitées du programme Apollo.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-astronomie-003",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Les saisons sur Terre sont dues à la distance variable entre la Terre et le Soleil au cours de l'année.",
+    "reponse": false,
+    "explication": "Idée reçue très répandue : les saisons sont en réalité causées par l'inclinaison de l'axe de rotation de la Terre, pas par sa distance au Soleil (la Terre est même légèrement plus proche du Soleil en hiver dans l'hémisphère nord).",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-astronomie-004",
+    "domain": "astronomie",
+    "format": "difference",
+    "question": "Quelle est la différence entre une étoile filante (météore) et une météorite ?",
+    "choix": [
+      "Le météore se consume entièrement dans l'atmosphère, la météorite atteint le sol",
+      "Le météore est une vraie étoile, la météorite un fragment de planète",
+      "Ce sont deux mots strictement synonymes",
+      "La météorite se produit uniquement le jour, le météore uniquement la nuit"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un météore est la traînée lumineuse d'un fragment qui se désintègre en entrant dans l'atmosphère ; s'il en survit un morceau jusqu'au sol, ce fragment est alors appelé météorite.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-astronomie-005",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quelle est la plus grosse planète du système solaire ?",
+    "choix": [
+      "Saturne",
+      "Jupiter",
+      "Neptune",
+      "Uranus"
+    ],
+    "bonneReponse": 1,
+    "explication": "Jupiter pourrait contenir plus de 1 300 Terres.",
+    "source": "D'après Wikipédia — Jupiter (planète)"
+  },
+  {
+    "id": "q-astronomie-006",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quelle est la planète la plus chaude du système solaire ?",
+    "choix": [
+      "Mercure",
+      "Vénus",
+      "Mars",
+      "Jupiter"
+    ],
+    "bonneReponse": 1,
+    "explication": "Vénus (~465 °C) est plus chaude que Mercure à cause de son effet de serre extrême.",
+    "source": "D'après Wikipédia — Vénus (planète)"
+  },
+  {
+    "id": "q-astronomie-007",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Pluton est officiellement une planète naine depuis 2006.",
+    "reponse": true,
+    "explication": "L'UAI l'a reclassée car elle n'a pas « fait le ménage » sur son orbite.",
+    "source": "D'après Wikipédia — Pluton (planète naine)"
+  },
+  {
+    "id": "q-astronomie-008",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quel astronome a calculé la position de Neptune avant qu'elle ne soit observée ?",
+    "choix": [
+      "William Herschel",
+      "Urbain Le Verrier",
+      "Johannes Kepler",
+      "Edwin Hubble"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le Verrier a calculé sa position à partir des perturbations d'Uranus ; Galle l'a observée en 1846.",
+    "source": "D'après Wikipédia — Urbain Le Verrier"
+  },
+  {
+    "id": "q-astronomie-009",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quel est l'âge estimé de l'univers ?",
+    "choix": [
+      "4,6 milliards d'années",
+      "13,8 milliards d'années",
+      "100 milliards d'années",
+      "Il est infini"
+    ],
+    "bonneReponse": 1,
+    "explication": "13,8 milliards d'années. 4,6 milliards, c'est l'âge du système solaire.",
+    "source": "D'après Wikipédia — Âge de l'univers"
+  },
+  {
+    "id": "q-astronomie-010",
+    "domain": "astronomie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née en 1937 dans un village près de Iaroslavl.",
+      "J'étais ouvrière du textile et parachutiste amatrice.",
+      "Mon indicatif radio était « la mouette ».",
+      "En 1963, je suis devenue la première femme dans l'espace."
+    ],
+    "reponse": "Valentina Terechkova",
+    "explication": "Terechkova a volé à bord de Vostok 6 le 16 juin 1963.",
+    "source": "D'après Wikipédia — Valentina Terechkova"
+  },
+  {
+    "id": "q-astronomie-011",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Sur Vénus, un jour dure plus longtemps qu'une année.",
+    "reponse": true,
+    "explication": "Vénus tourne sur elle-même en 243 jours terrestres et autour du Soleil en 225 jours.",
+    "source": "D'après Wikipédia — Vénus (planète)"
+  },
+  {
+    "id": "q-astronomie-012",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Combien de constellations l'UAI reconnaît-elle officiellement ?",
+    "choix": [
+      "12",
+      "48",
+      "88",
+      "150"
+    ],
+    "bonneReponse": 2,
+    "explication": "88 constellations couvrent tout le ciel. Ptolémée en listait 48.",
+    "source": "D'après Wikipédia — Constellation"
+  },
+  {
+    "id": "q-astronomie-013",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Qui a proposé le premier l'idée d'un univers en expansion issu d'un « atome primitif » ?",
+    "choix": [
+      "Albert Einstein",
+      "Edwin Hubble",
+      "Georges Lemaître",
+      "Stephen Hawking"
+    ],
+    "bonneReponse": 2,
+    "explication": "Le prêtre et physicien belge Georges Lemaître, en 1927.",
+    "source": "D'après Wikipédia — Georges Lemaître"
+  },
+  {
+    "id": "q-astronomie-014",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Tous les combien d'années revient la comète de Halley ?",
+    "choix": [
+      "Environ 12 ans",
+      "Environ 33 ans",
+      "Environ 76 ans",
+      "Environ 250 ans"
+    ],
+    "bonneReponse": 2,
+    "explication": "Environ 75-76 ans. Son prochain passage est prévu en 2061.",
+    "source": "D'après Wikipédia — Comète de Halley"
+  },
+  {
+    "id": "q-astronomie-015",
+    "domain": "astronomie",
+    "format": "associer",
+    "question": "Associe chaque lune à sa planète.",
+    "paires": [
+      {
+        "gauche": "Titan",
+        "droite": "Saturne"
+      },
+      {
+        "gauche": "Europe",
+        "droite": "Jupiter"
+      },
+      {
+        "gauche": "Phobos",
+        "droite": "Mars"
+      },
+      {
+        "gauche": "Triton",
+        "droite": "Neptune"
+      }
+    ],
+    "explication": "Titan et Encelade tournent autour de Saturne ; Io, Europe, Ganymède et Callisto autour de Jupiter ; Phobos et Deimos autour de Mars.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-astronomie-016",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Les astronautes flottent dans l'ISS parce qu'il n'y a plus de gravité à 400 km d'altitude.",
+    "reponse": false,
+    "explication": "La gravité y est encore d'environ 90 %. Ils flottent car ils sont en chute libre permanente avec la station.",
+    "source": "D'après Wikipédia — Impesanteur"
+  },
+  {
+    "id": "q-astronomie-017",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Pourquoi la Lune devient-elle rouge pendant une éclipse totale de Lune ?",
+    "choix": [
+      "Elle chauffe",
+      "L'atmosphère terrestre dévie la lumière rouge vers elle",
+      "Le Soleil devient rouge",
+      "C'est une illusion d'optique"
+    ],
+    "bonneReponse": 1,
+    "explication": "La lumière rouge des couchers de soleil de la Terre est réfractée vers la Lune.",
+    "source": "D'après Wikipédia — Éclipse lunaire"
+  },
+  {
+    "id": "q-astronomie-018",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Où se trouve le télescope James Webb ?",
+    "choix": [
+      "En orbite basse comme Hubble",
+      "Sur la Lune",
+      "Autour du point de Lagrange L2",
+      "Au sommet du Mauna Kea"
+    ],
+    "bonneReponse": 2,
+    "explication": "Il orbite autour du point L2, à 1,5 million de km de la Terre.",
+    "source": "D'après Wikipédia — James Webb Space Telescope"
+  },
+  {
+    "id": "q-astronomie-019",
+    "domain": "astronomie",
+    "format": "frise",
+    "question": "Remets ces étapes de la conquête spatiale dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Spoutnik 1",
+        "annee": "1957"
+      },
+      {
+        "label": "Vol de Gagarine",
+        "annee": "1961"
+      },
+      {
+        "label": "Terechkova, première femme dans l'espace",
+        "annee": "1963"
+      },
+      {
+        "label": "Apollo 11 sur la Lune",
+        "annee": "1969"
+      },
+      {
+        "label": "Lancement des sondes Voyager",
+        "annee": "1977"
+      },
+      {
+        "label": "Premier équipage permanent de l'ISS",
+        "annee": "2000"
+      }
+    ],
+    "explication": "De Spoutnik à l'ISS, 43 ans d'histoire spatiale.",
+    "source": "À vérifier"
+  },
+  {
+    "id": "q-astronomie-020",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quelle planète tourne « couchée » sur son orbite, avec un axe incliné d'environ 98° ?",
+    "choix": [
+      "Neptune",
+      "Uranus",
+      "Saturne",
+      "Mars"
+    ],
+    "bonneReponse": 1,
+    "explication": "Uranus roule sur son orbite : chaque pôle connaît 42 ans de jour puis 42 ans de nuit.",
+    "source": "D'après Wikipédia — Uranus (planète)"
+  },
+  {
+    "id": "q-astronomie-021",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "De quelle couleur sont le plus souvent les aurores polaires ?",
+    "choix": [
+      "Rouge",
+      "Vert",
+      "Bleu",
+      "Blanc"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le vert, dû à l'oxygène vers 100-250 km d'altitude, est la couleur la plus fréquente.",
+    "source": "D'après Wikipédia — Aurore polaire"
+  },
+  {
+    "id": "q-astronomie-022",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "La face cachée de la Lune est toujours plongée dans l'obscurité.",
+    "reponse": false,
+    "explication": "Elle est cachée pour nous, pas pour le Soleil : elle est éclairée lors de la nouvelle Lune.",
+    "source": "D'après Wikipédia — Face cachée de la Lune"
+  },
+  {
+    "id": "q-astronomie-023",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Qu'est-ce qu'une naine blanche ?",
+    "choix": [
+      "Une étoile en formation",
+      "Le cœur restant d'une étoile comme le Soleil en fin de vie",
+      "Une petite planète glacée",
+      "Une galaxie naine"
+    ],
+    "bonneReponse": 1,
+    "explication": "Après la phase de géante rouge, il reste un cœur très dense de la taille de la Terre.",
+    "source": "D'après Wikipédia — Naine blanche"
+  },
+  {
+    "id": "q-astronomie-024",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quelle sonde est l'objet humain le plus éloigné de la Terre ?",
+    "choix": [
+      "Pioneer 10",
+      "Voyager 1",
+      "New Horizons",
+      "Cassini"
+    ],
+    "bonneReponse": 1,
+    "explication": "Voyager 1, lancée en 1977, est à plus de 24 milliards de km.",
+    "source": "D'après Wikipédia — Voyager 1"
+  },
+  {
+    "id": "q-astronomie-025",
+    "domain": "astronomie",
+    "format": "difference",
+    "question": "Quelle est la différence entre une météorite et un météore ?",
+    "choix": [
+      "Aucune",
+      "Le météore est la traînée lumineuse, la météorite le fragment tombé au sol",
+      "La météorite est la traînée lumineuse, le météore le fragment au sol",
+      "Le météore vient de la Lune"
+    ],
+    "bonneReponse": 1,
+    "explication": "Météoroïde dans l'espace, météore dans l'atmosphère, météorite au sol.",
+    "source": "D'après Wikipédia — Météorite"
+  },
+  {
+    "id": "q-astronomie-026",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quel est le plus haut volcan du système solaire ?",
+    "choix": [
+      "Mauna Kea",
+      "Everest",
+      "Olympus Mons",
+      "Maxwell Montes"
+    ],
+    "bonneReponse": 2,
+    "explication": "Olympus Mons, sur Mars, s'élève à environ 22 km au-dessus des plaines.",
+    "source": "D'après Wikipédia — Olympus Mons"
+  },
+  {
+    "id": "q-astronomie-027",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quel astronome a montré en 1929 que les galaxies s'éloignent de nous ?",
+    "choix": [
+      "Edwin Hubble",
+      "Carl Sagan",
+      "Fred Hoyle",
+      "Tycho Brahe"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hubble a montré que la vitesse d'éloignement des galaxies augmente avec leur distance.",
+    "source": "D'après Wikipédia — Edwin Hubble"
+  },
+  {
+    "id": "q-astronomie-028",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Le Soleil représente plus de 99 % de la masse du système solaire.",
+    "reponse": true,
+    "explication": "Environ 99,86 %. Jupiter représente l'essentiel du reste.",
+    "source": "D'après Wikipédia — Soleil"
+  },
+  {
+    "id": "q-astronomie-029",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quel Français a été le premier commandant de l'ISS de son pays ?",
+    "choix": [
+      "Jean-Loup Chrétien",
+      "Thomas Pesquet",
+      "Claudie Haigneré",
+      "Philippe Perrin"
+    ],
+    "bonneReponse": 1,
+    "explication": "Thomas Pesquet a commandé l'ISS en 2021. Jean-Loup Chrétien a été le premier Français dans l'espace (1982).",
+    "source": "D'après Wikipédia — Thomas Pesquet"
+  }
+]

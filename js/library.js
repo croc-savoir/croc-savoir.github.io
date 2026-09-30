@@ -105,10 +105,6 @@ const Library = (() => {
       root.appendChild(emptyState('🤷', `Aucune fiche ne correspond à « ${escapeHTML(q)} ».`));
       return;
     }
-    const count = document.createElement('div');
-    count.className = 'lib-count';
-    count.textContent = results.length >= MAX_RESULTS ? `${MAX_RESULTS}+ fiches` : `${results.length} fiche${results.length > 1 ? 's' : ''}`;
-    root.appendChild(count);
     const list = document.createElement('div');
     list.className = 'fiche-list';
     results.forEach(f => list.appendChild(ficheRow(f, openFromSearch)));
@@ -139,10 +135,6 @@ const Library = (() => {
       root.appendChild(emptyState('⭐', 'Aucun favori pour l’instant.<br>Touche l’étoile ☆ en haut d’une fiche pour la retrouver ici.'));
       return;
     }
-    const count = document.createElement('div');
-    count.className = 'lib-count';
-    count.textContent = `${favs.length} fiche${favs.length > 1 ? 's' : ''} en favori`;
-    root.appendChild(count);
     const list = document.createElement('div');
     list.className = 'fiche-list';
     favs.forEach(f => list.appendChild(ficheRow(f, openFromFavorites)));

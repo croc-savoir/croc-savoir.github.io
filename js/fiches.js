@@ -209,15 +209,13 @@ const Fiches = (() => {
     root.innerHTML = '';
 
     if (themeState.level === 'domains') {
-      const counts = DataStore.domainCounts();
       const grid = document.createElement('div');
       grid.className = 'domain-grid';
       DataStore.getDomains().forEach(d => {
-        const n = counts[d.id]?.fiches || 0;
         const tile = document.createElement('button');
         tile.className = 'domain-tile';
         tile.type = 'button';
-        tile.innerHTML = `<span class="domain-tile__emoji">${d.emoji}</span><span class="domain-tile__label">${escapeHTML(d.label)}</span><span class="domain-tile__count">${n} fiche${n > 1 ? 's' : ''}</span>`;
+        tile.innerHTML = `<span class="domain-tile__emoji">${d.emoji}</span><span class="domain-tile__label">${escapeHTML(d.label)}</span>`;
         tile.addEventListener('click', () => {
           goDeeper({ level: 'subthemes', domainId: d.id, subtheme: null, ficheId: null });
         });
@@ -241,7 +239,7 @@ const Fiches = (() => {
         const row = document.createElement('button');
         row.type = 'button';
         row.className = 'subtheme-row';
-        row.innerHTML = `<span class="subtheme-row__label">${escapeHTML(label)}</span><span class="subtheme-row__count">${fiches.length} →</span>`;
+        row.innerHTML = `<span class="subtheme-row__label">${escapeHTML(label)}</span><span class="subtheme-row__count">›</span>`;
         row.addEventListener('click', () => {
           goDeeper({ level: 'fiches', domainId: themeState.domainId, subtheme: label, ficheId: null });
         });
@@ -261,7 +259,7 @@ const Fiches = (() => {
       fiches.forEach(f => {
         const item = document.createElement('button');
         item.type = 'button';
-        item.className = 'fiche-list-item' + (Store.isFicheSeen(f.id) ? ' is-seen' : '');
+        item.className = 'fiche-list-item';
         item.innerHTML = `<span class="fiche-list-item__title">${escapeHTML(f.title)}</span><span class="fiche-list-item__type">${escapeHTML(TYPE_LABELS[f.type] || '')}</span>`;
         item.addEventListener('click', () => {
           goDeeper({ level: 'fiche', domainId: themeState.domainId, subtheme: themeState.subtheme, ficheId: f.id });

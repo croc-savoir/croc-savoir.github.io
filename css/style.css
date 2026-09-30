@@ -793,3 +793,5 @@ body::before {
 .lib-row__text { display: flex; flex-direction: column; gap: 3px; flex: 1; min-width: 0; }
 .lib-row__star { color: #ffcf4a; font-size: 18px; flex-shrink: 0; }
 .empty-state strong { color: var(--text-muted); }
+
+.subtheme-row__count { font-size: 22px; line-height: 1; }

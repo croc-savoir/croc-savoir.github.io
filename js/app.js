@@ -43,12 +43,6 @@ const App = (() => {
     if (name === 'daily') Daily.render();
     if (name === 'search') Library.initSearch();
     if (name === 'favoris') Library.initFavorites();
-    if (name === 'fiches-menu') {
-      const n = Library.favoritesCount();
-      document.getElementById('fav-mode-desc').textContent = n
-        ? `${n} fiche${n > 1 ? 's' : ''} mise${n > 1 ? 's' : ''} de côté avec l'étoile.`
-        : "Les fiches que tu as mises de côté avec l'étoile.";
-    }
     if (name === 'quiz-aleatoire') Quiz.initAleatoire();
     if (name === 'quiz-theme') Quiz.initTheme();
   }
@@ -100,14 +94,9 @@ const App = (() => {
   }
 
   function renderHome() {
-    const g = Store.globalCounts();
     const nF = DataStore.getAllFiches().length;
     const nQ = DataStore.getAllQuiz().length;
     const nD = DataStore.getDomains().length;
-    document.getElementById('home-fiches-meta').textContent =
-      nF ? `${g.fichesVues} / ${nF} lues` : '';
-    document.getElementById('home-quiz-meta').textContent =
-      nQ ? `${nQ} questions` : '';
     // Chiffres arrondis à la centaine inférieure : « +600 fiches ».
     const approx = (n, mot) => {
       if (n < 100) return `${n} ${mot}`;

@@ -1,10 +1,10 @@
 /* ===================== Service Worker ==========================
  * - "shell" : app (html/css/js/polices/icônes) → précaché, versionné.
- * - "data"  : data/*.json (fiches, quiz, domaines) → mis en cache au fur
+ * - "data"  : data/app/index.json + détails à la demande → mis en cache au fur
  *   et à mesure (stale-while-revalidate), pour supporter l'ajout de
  *   nouveaux domaines/lots sans jamais devoir republier le service worker.
  * ================================================================= */
-const SHELL_VERSION = 'v21';
+const SHELL_VERSION = 'v22';
 const SHELL_CACHE = `culture-g-shell-${SHELL_VERSION}`;
 const DATA_CACHE = 'culture-g-data';
 
@@ -73,6 +73,27 @@ self.addEventListener('fetch', (event) => {
         if (cached) return cached;
         const res = await fetch(req);
         if (res && res.ok) cache.put(req, res.clone());
+        return res;
+      })
+    );
+    return;
+  }
+
+  // Détails des fiches : URL versionnée (?v=…), contenu immuable → cache d'abord.
+  // À chaque nouvelle version, les anciennes copies du même fichier sont supprimées.
+  if (url.pathname.includes('/data/app/details/')) {
+    event.respondWith(
+      caches.open(DATA_CACHE).then(async (cache) => {
+        const cached = await cache.match(req);
+        if (cached) return cached;
+        const res = await fetch(req);
+        if (res && res.ok) {
+          const old = await cache.keys();
+          await Promise.all(old
+            .filter(k => new URL(k.url).pathname === url.pathname && k.url !== req.url)
+            .map(k => cache.delete(k)));
+          await cache.put(req, res.clone());
+        }
         return res;
       })
     );

@@ -109,3 +109,4 @@ if (essai) { console.log('✅ Essai OK, rien d’écrit. ' + bilan); process.exi
 ecrireJSON(fP, fiches);
 ecrireJSON(qP, quiz);
 console.log('✅ ' + bilan);
+console.log('   Appli : ' + require('./construire').construire());

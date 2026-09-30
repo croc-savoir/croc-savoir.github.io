@@ -90,12 +90,16 @@ const Fiches = (() => {
     }
     const wikiUrl = d.wikipedia
       ? `https://fr.wikipedia.org/wiki/${encodeURIComponent(d.wikipedia.replace(/ /g, '_'))}`
-      : `https://fr.wikipedia.org/w/index.php?search=${encodeURIComponent(fiche.title.replace(/^[-ds]+:s*/, ''))}`;
+      : `https://fr.wikipedia.org/w/index.php?search=${encodeURIComponent(fiche.title.replace(/^[-\d\s]+:\s*/, ''))}`;
     h += `<a class="wiki-link" href="${wikiUrl}" target="_blank" rel="noopener">📖 Lire l'article sur Wikipédia</a>`;
     return h;
   }
 
   function hasDetails(fiche) {
+    return !!(fiche.hasDetails || (fiche.details && Object.keys(fiche.details).length));
+  }
+
+  function detailsLoaded(fiche) {
     return !!(fiche.details && Object.keys(fiche.details).length);
   }
 
@@ -110,7 +114,7 @@ const Fiches = (() => {
       ${fiche.subtitle ? `<p class="fiche-card__subtitle">${escapeHTML(fiche.subtitle)}</p>` : ''}
       <div class="fiche-card__summary">${paragraphs(fiche.summary)}</div>
       ${hasDetails(fiche) ? `<button type="button" class="btn btn-ghost btn-approfondir" style="margin-top:14px;width:100%;">🔎 Approfondir</button>
-      <div class="fiche-details">${detailsHTML(fiche)}${extrasHTML(fiche)}</div>` : ''}
+      <div class="fiche-details">${detailsLoaded(fiche) ? detailsHTML(fiche) + extrasHTML(fiche) : ''}</div>` : ''}
       ${sourceLine(fiche)}
     `;
     const favBtn = wrap.querySelector('.fav-btn');
@@ -130,8 +134,23 @@ const Fiches = (() => {
 
     const btn = wrap.querySelector('.btn-approfondir');
     if (btn) {
-      btn.addEventListener('click', () => {
+      btn.addEventListener('click', async () => {
         const det = wrap.querySelector('.fiche-details');
+        if (!det.innerHTML.trim()) {
+          // Détails chargés à la demande (voir DataStore.loadDetails).
+          btn.disabled = true;
+          btn.textContent = '⏳ Chargement…';
+          try {
+            await DataStore.loadDetails(fiche);
+          } catch (e) {
+            btn.disabled = false;
+            btn.textContent = '🔎 Approfondir';
+            App.toast('Pas de connexion : réessaie une fois en ligne');
+            return;
+          }
+          btn.disabled = false;
+          det.innerHTML = detailsHTML(fiche) + extrasHTML(fiche);
+        }
         const open = det.classList.toggle('is-open');
         btn.textContent = open ? '▲ Réduire' : '🔎 Approfondir';
       });

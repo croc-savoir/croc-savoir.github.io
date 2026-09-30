@@ -101,6 +101,10 @@ async function main() {
     }
   }
 
+  // Fichiers lus par l'appli (data/app) générés à partir des sources
+  const obsoletes = require('./construire').verifierAJour();
+  if (obsoletes.length) erreurs.push(`Fichiers de l'appli pas à jour (${obsoletes.join(', ')}) → node tools/construire.js`);
+
   // Rapport
   console.log(`\n${nbF} fiches, ${nbQ} questions, ${domaines().length} thèmes\n`);
   if (erreurs.length) {

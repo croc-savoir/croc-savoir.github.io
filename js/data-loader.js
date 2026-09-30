@@ -1,19 +1,25 @@
 /* ===================== Chargement des données ==========================
- * Convention : pour ajouter un domaine, il suffit de déposer
- *   data/fiches/<domainId>.json  et/ou  data/quiz/<domainId>.json
- * Un fichier manquant est simplement ignoré (404 silencieux).
+ * Au démarrage : data/app/index.json (thèmes, fiches SANS détails, questions),
+ * généré par tools/construire.js à partir de data/fiches et data/quiz.
+ * Les détails (« Approfondir ») sont dans data/app/details/<domaine>.json,
+ * chargés à la demande, puis tous préchargés en tâche de fond (une fois par
+ * version) pour rester disponibles hors ligne.
+ * Secours : si l'index manque, on charge les fichiers sources complets.
  * ========================================================================= */
 const DataStore = (() => {
+  const PREFETCH_KEY = 'culture-g:details';
   let domains = [];
   let fichesByDomain = {};
   let quizByDomain = {};
   let allFichesFlat = [];
   let allQuizFlat = [];
+  let detailHashes = {};
+  const detailLoads = {}; // domaine -> Promise
   let ready = false;
 
-  async function fetchJsonSafe(url) {
+  async function fetchJsonSafe(url, cache = 'no-cache') {
     try {
-      const res = await fetch(url, { cache: 'no-cache' });
+      const res = await fetch(url, { cache });
       if (!res.ok) return null;
       return await res.json();
     } catch (e) {
@@ -21,10 +27,8 @@ const DataStore = (() => {
     }
   }
 
-  async function init() {
-    if (ready) return;
+  async function initFromSources() {
     domains = (await fetchJsonSafe('data/domains.json')) || [];
-
     await Promise.all(domains.map(async (d) => {
       const [fiches, quiz] = await Promise.all([
         fetchJsonSafe(`data/fiches/${d.id}.json`),
@@ -33,10 +37,66 @@ const DataStore = (() => {
       fichesByDomain[d.id] = fiches || [];
       quizByDomain[d.id] = quiz || [];
     }));
+  }
+
+  async function init() {
+    if (ready) return;
+    const idx = await fetchJsonSafe('data/app/index.json');
+    if (idx && Array.isArray(idx.fiches) && idx.fiches.length) {
+      domains = idx.domains || [];
+      detailHashes = idx.details || {};
+      domains.forEach(d => { fichesByDomain[d.id] = []; quizByDomain[d.id] = []; });
+      idx.fiches.forEach(f => { (fichesByDomain[f.domain] = fichesByDomain[f.domain] || []).push(f); });
+      idx.quiz.forEach(q => { (quizByDomain[q.domain] = quizByDomain[q.domain] || []).push(q); });
+    } else {
+      await initFromSources();
+    }
 
     allFichesFlat = domains.flatMap(d => fichesByDomain[d.id]);
     allQuizFlat = domains.flatMap(d => quizByDomain[d.id]);
     ready = true;
+    schedulePrefetch();
+  }
+
+  // ---------- Détails à la demande ----------
+  function loadDomainDetails(domainId) {
+    if (!detailHashes[domainId]) return Promise.resolve();
+    if (!detailLoads[domainId]) {
+      // URL versionnée : le contenu ne change jamais pour une même version.
+      detailLoads[domainId] = fetch(`data/app/details/${domainId}.json?v=${detailHashes[domainId]}`)
+        .then(res => { if (!res.ok) throw new Error('HTTP ' + res.status); return res.json(); })
+        .then(map => {
+          (fichesByDomain[domainId] || []).forEach(f => { if (map[f.id]) f.details = map[f.id]; });
+        })
+        .catch(e => { delete detailLoads[domainId]; throw e; });
+    }
+    return detailLoads[domainId];
+  }
+
+  async function loadDetails(fiche) {
+    if (!fiche.details && fiche.hasDetails) await loadDomainDetails(fiche.domain);
+    return fiche.details || {};
+  }
+
+  // Précharge tous les détails quand le téléphone est libre, une seule fois par
+  // version de chaque thème (le service worker les garde pour le hors-ligne).
+  function schedulePrefetch() {
+    const todo = Object.keys(detailHashes);
+    if (!todo.length) return;
+    const idle = window.requestIdleCallback || ((fn) => setTimeout(fn, 2000));
+    idle(async () => {
+      let done = {};
+      try { done = JSON.parse(localStorage.getItem(PREFETCH_KEY)) || {}; } catch (e) { done = {}; }
+      for (const dom of todo) {
+        if (done[dom] === detailHashes[dom]) continue;
+        if (navigator.onLine === false) return;
+        try {
+          await loadDomainDetails(dom);
+          done[dom] = detailHashes[dom];
+          try { localStorage.setItem(PREFETCH_KEY, JSON.stringify(done)); } catch (e) { /* stockage indisponible */ }
+        } catch (e) { return; }
+      }
+    }, { timeout: 5000 });
   }
 
   function getDomains() { return domains; }
@@ -85,6 +145,6 @@ const DataStore = (() => {
     getDomains, getDomain,
     getFiches, getQuiz,
     getAllFiches, getAllQuiz, getAllQuizById,
-    domainCounts, subthemesFor, ficheById,
+    domainCounts, subthemesFor, ficheById, loadDetails,
   };
 })();

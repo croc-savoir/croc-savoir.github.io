@@ -26,8 +26,8 @@
         "explication": "Debussy (1862-1918) invente des couleurs sonores souvent rapprochées de l'impressionnisme en peinture."
       }
     ],
-    "explication": "Chaque compositeur est associé à la période musicale dans laquelle il a principalement composé.",
-    "source": "À vérifier"
+    "explication": "Bach (1685-1750) est le maître du baroque, avec ses fugues et son contrepoint. Mozart (1756-1791) incarne le classicisme viennois, élégant et équilibré. Chopin (1810-1849), poète du piano, est une figure du romantisme. Debussy (1862-1918) invente des couleurs sonores souvent rapprochées de l'impressionnisme en peinture.",
+    "source": "D'après Wikipédia — Histoire de la musique classique occidentale"
   },
   {
     "id": "q-musique-002",
@@ -42,7 +42,7 @@
     ],
     "bonneReponse": 1,
     "explication": "Beethoven a composé certaines de ses œuvres les plus célèbres, dont sa 9e symphonie, alors qu'il était presque totalement sourd.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Ludwig van Beethoven"
   },
   {
     "id": "q-musique-003",
@@ -50,7 +50,7 @@
     "format": "vrai-faux",
     "affirmation": "Le tempo désigne l'organisation des durées des notes dans le temps.",
     "reponse": false,
-    "explication": "C'est le rythme qui organise les durées des notes. Le tempo désigne la vitesse d'exécution d'un morceau.",
+    "explication": "Le tempo, c'est la vitesse d'un morceau, mesurée en battements par minute : lent (adagio), modéré (andante), rapide (allegro). Le rythme, c'est l'organisation des durées des notes, longues et courtes, et des accents. On peut jouer un même rythme à des tempos différents.",
     "source": "Définition musicale standard"
   },
   {
@@ -60,7 +60,7 @@
     "affirmation": "Le hip-hop est né dans le Bronx à New York dans les années 1970.",
     "reponse": true,
     "explication": "Le hip-hop émerge lors de block parties organisées dans le Bronx au début des années 1970, avant de se diffuser mondialement.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Hip-hop"
   },
   {
     "id": "q-musique-005",
@@ -74,7 +74,7 @@
       "Rachmaninov"
     ],
     "bonneReponse": 1,
-    "explication": "Tchaïkovski l'a composé en 1875-1876 ; la création de 1877 fut un échec.",
+    "explication": "Tchaïkovski compose Le Lac des cygnes en 1875-1876 pour le Bolchoï de Moscou. La première, en 1877, est un échec, à cause d'une chorégraphie et d'un orchestre médiocres. Le ballet ne triomphe qu'en 1895, après la mort du compositeur, dans la version de Petipa et Ivanov à Saint-Pétersbourg.",
     "source": "D'après Wikipédia — Le Lac des cygnes"
   },
   {
@@ -89,7 +89,7 @@
       "100"
     ],
     "bonneReponse": 2,
-    "explication": "88 touches : 52 blanches et 36 noires.",
+    "explication": "Un piano standard compte 88 touches : 52 blanches et 36 noires, soit un peu plus de sept octaves. Les touches noires, groupées par deux et par trois, correspondent aux dièses et aux bémols. Le piano est à la fois un instrument à cordes et à percussion : des marteaux frappent les cordes.",
     "source": "D'après Wikipédia — Piano"
   },
   {
@@ -98,8 +98,16 @@
     "format": "vrai-faux",
     "affirmation": "Beethoven était complètement sourd lorsqu'il a composé sa Neuvième Symphonie.",
     "reponse": true,
-    "explication": "Il était totalement sourd lors de sa création en 1824.",
-    "source": "D'après Wikipédia — Symphonie nº 9 de Beethoven"
+    "explication": "Mozart crée La Flûte enchantée à Vienne en septembre 1791, deux mois avant sa mort. Cet opéra en allemand, mêlant conte merveilleux et symboles franc-maçons, contient le célèbre air de la Reine de la nuit, avec ses notes suraiguës. C'est l'un des opéras les plus joués au monde.",
+    "source": "D'après Wikipédia — La Flûte enchantée",
+    "question": "Quel compositeur a écrit l'opéra La Flûte enchantée ?",
+    "choix": [
+      "Mozart",
+      "Beethoven",
+      "Bach",
+      "Haydn"
+    ],
+    "bonneReponse": 0
   },
   {
     "id": "q-musique-008",
@@ -113,7 +121,7 @@
       "La trompette"
     ],
     "bonneReponse": 2,
-    "explication": "Le hautbois, dont le son est stable et perçant.",
+    "explication": "Avant chaque concert, le hautbois joue un la, sur lequel tous les musiciens s'accordent. Son son est stable, perçant et facile à entendre au milieu de l'orchestre, et il est difficile de modifier sa hauteur. Ce la est généralement fixé à 440 ou 442 vibrations par seconde (hertz).",
     "source": "D'après Wikipédia — Hautbois"
   },
   {
@@ -128,7 +136,7 @@
       "Back in Black"
     ],
     "bonneReponse": 1,
-    "explication": "Thriller de Michael Jackson (1982), environ 70 millions d'exemplaires.",
+    "explication": "Thriller, sorti en 1982, s'est vendu à environ 70 millions d'exemplaires. Produit par Quincy Jones, il contient Billie Jean, Beat It et Thriller, dont le clip de 14 minutes a révolutionné les vidéos musicales. Michael Jackson y impose aussi le moonwalk, présenté à la télévision en 1983.",
     "source": "D'après Wikipédia — Thriller (album)"
   },
   {
@@ -163,8 +171,8 @@
         "explication": "Debussy écrit en 1894 cette œuvre souvent vue comme le début de la musique moderne."
       }
     ],
-    "explication": "Cinq œuvres emblématiques.",
-    "source": "À vérifier"
+    "explication": "Ravel compose le Boléro en 1928 ; Vivaldi Les Quatre Saisons vers 1725 ; Verdi crée l'opéra La Traviata en 1853 ; Tchaïkovski écrit le ballet Casse-Noisette en 1892 ; Debussy compose le Prélude à l'après-midi d'un faune en 1894, souvent vu comme le début de la musique moderne.",
+    "source": "D'après Wikipédia — Musique classique"
   },
   {
     "id": "q-musique-011",
@@ -178,7 +186,7 @@
       "Birmingham"
     ],
     "bonneReponse": 2,
-    "explication": "Le groupe s'est formé à Liverpool à la fin des années 1950.",
+    "explication": "John Lennon, Paul McCartney, George Harrison et Ringo Starr viennent de Liverpool, grand port du nord de l'Angleterre. Le groupe fait ses débuts au Cavern Club et dans les clubs de Hambourg, avant la « Beatlemania » des années 1960. Les Beatles sont le groupe le plus vendu de l'histoire.",
     "source": "D'après Wikipédia — The Beatles"
   },
   {
@@ -187,7 +195,7 @@
     "format": "vrai-faux",
     "affirmation": "La flûte traversière en métal fait partie de la famille des cuivres.",
     "reponse": false,
-    "explication": "C'est un bois : ce qui compte, c'est la façon de produire le son, pas la matière.",
+    "explication": "La flûte traversière est un bois, même en métal. Ce qui définit la famille d'un instrument, c'est la façon de produire le son, pas la matière : dans la flûte, le son vient d'un souffle d'air contre un biseau. Dans les cuivres, comme la trompette, ce sont les lèvres qui vibrent dans l'embouchure.",
     "source": "D'après Wikipédia — Flûte traversière"
   },
   {
@@ -202,7 +210,7 @@
       "J'ai chanté Non, je ne regrette rien."
     ],
     "reponse": "Édith Piaf",
-    "explication": "La « Môme Piaf » est une icône de la chanson française.",
+    "explication": "Née à Paris en 1915, Édith Piaf chante d'abord dans les rues, avant d'être découverte en 1935 par Louis Leplée, qui la surnomme la « Môme Piaf » (piaf veut dire moineau). Elle écrit elle-même les paroles de La Vie en rose (1946) et chante Non, je ne regrette rien en 1960. Elle meurt en 1963, à 47 ans.",
     "source": "D'après Wikipédia — Édith Piaf"
   },
   {
@@ -217,7 +225,7 @@
       "D'un poème de Ronsard"
     ],
     "bonneReponse": 1,
-    "explication": "Guido d'Arezzo a tiré les syllabes du début de chaque vers de l'hymne Ut queant laxis.",
+    "explication": "Au XIe siècle, le moine italien Guido d'Arezzo nomme les notes avec la première syllabe de chaque vers d'un hymne à saint Jean-Baptiste, dont chaque vers commence une note plus haut : UT queant laxis, REsonare fibris, MIra gestorum… Le « ut » est devenu « do » au XVIIe siècle, plus facile à chanter.",
     "source": "D'après Wikipédia — Guido d'Arezzo"
   },
   {
@@ -232,7 +240,7 @@
       "Memphis"
     ],
     "bonneReponse": 2,
-    "explication": "Au début du XXe siècle, à La Nouvelle-Orléans.",
+    "explication": "Le jazz naît au début du XXe siècle à La Nouvelle-Orléans, port de Louisiane où se mêlent cultures africaines, créoles et européennes. Il puise dans le blues, le ragtime et les fanfares. Louis Armstrong, trompettiste né dans cette ville, en devient la première grande star dans les années 1920.",
     "source": "D'après Wikipédia — Jazz"
   },
   {
@@ -247,7 +255,7 @@
       "Il n'y en a pas"
     ],
     "bonneReponse": 0,
-    "explication": "Dans un concerto, le soliste dialogue avec l'orchestre, notamment dans la cadence.",
+    "explication": "Une symphonie est une grande œuvre pour orchestre seul, souvent en quatre mouvements. Un concerto met en valeur un soliste (piano, violon…) qui dialogue avec l'orchestre, souvent en trois mouvements. Dans la cadence, l'orchestre se tait et le soliste montre toute sa virtuosité.",
     "source": "D'après Wikipédia — Concerto"
   },
   {
@@ -262,7 +270,7 @@
       "Trinité-et-Tobago"
     ],
     "bonneReponse": 1,
-    "explication": "Le reggae naît en Jamaïque à la fin des années 1960.",
+    "explication": "Le reggae naît en Jamaïque à la fin des années 1960, à partir du ska et du rocksteady, avec son rythme lent qui accentue les contretemps. Bob Marley et les Wailers le font connaître dans le monde entier dans les années 1970. Il est inscrit au patrimoine culturel immatériel de l'UNESCO depuis 2018.",
     "source": "D'après Wikipédia — Reggae"
   },
   {
@@ -271,7 +279,7 @@
     "format": "vrai-faux",
     "affirmation": "Le Boléro de Ravel repose sur la répétition d'un même rythme de caisse claire du début à la fin.",
     "reponse": true,
-    "explication": "Deux mélodies se répètent sur un rythme immuable, avec un crescendo orchestral continu.",
+    "explication": "Le Boléro de Ravel (1928) repose sur un rythme de caisse claire répété sans changement pendant environ 15 minutes. Par-dessus, deux mélodies reviennent sans cesse, jouées à chaque fois par de nouveaux instruments, dans un crescendo continu jusqu'à l'explosion finale. Ravel le voyait comme une expérience d'orchestration.",
     "source": "D'après Wikipédia — Boléro (Ravel)"
   },
   {
@@ -286,7 +294,7 @@
       "Mozart"
     ],
     "bonneReponse": 1,
-    "explication": "Le Florentin Bartolomeo Cristofori a créé le « gravicembalo col piano e forte ».",
+    "explication": "Vers 1700, à Florence, le facteur d'instruments Bartolomeo Cristofori invente un clavecin dont les cordes sont frappées par des marteaux au lieu d'être pincées : on peut enfin jouer doux (piano) ou fort (forte) selon la force du toucher. D'où le nom de pianoforte, abrégé en piano.",
     "source": "D'après Wikipédia — Bartolomeo Cristofori"
   },
   {
@@ -316,8 +324,8 @@
         "annee": "1862"
       }
     ],
-    "explication": "Du baroque au début du XXe siècle.",
-    "source": "À vérifier"
+    "explication": "Vivaldi naît en 1678 à Venise, Mozart en 1756 à Salzbourg, Beethoven en 1770 à Bonn, Chopin en 1810 près de Varsovie et Debussy en 1862 près de Paris. Ils couvrent le baroque, le classicisme, le romantisme et le début de la musique moderne.",
+    "source": "D'après Wikipédia — Histoire de la musique classique occidentale"
   },
   {
     "id": "q-musique-021",
@@ -331,7 +339,7 @@
       "32"
     ],
     "bonneReponse": 1,
-    "explication": "Le blues en 12 mesures utilise trois accords.",
+    "explication": "Le blues classique suit une grille de 12 mesures construite sur trois accords. Les paroles répètent souvent le premier vers avant d'y répondre. Cette structure simple, née chez les Afro-Américains du sud des États-Unis, a servi de base au jazz, au rock and roll et à une grande partie de la musique populaire.",
     "source": "D'après Wikipédia — Blues"
   },
   {
@@ -346,7 +354,7 @@
       "Belles ! Belles ! Belles !"
     ],
     "bonneReponse": 1,
-    "explication": "Adaptée en anglais par Paul Anka en 1969.",
+    "explication": "Comme d'habitude, chanson de Claude François sortie en 1967, est adaptée en anglais par Paul Anka, qui en réécrit complètement les paroles. Chantée par Frank Sinatra en 1969 sous le titre My Way, elle devient l'une des chansons les plus reprises au monde, notamment par Elvis Presley.",
     "source": "D'après Wikipédia — Comme d'habitude"
   },
   {
@@ -355,7 +363,7 @@
     "format": "vrai-faux",
     "affirmation": "Mozart a été empoisonné par Salieri.",
     "reponse": false,
-    "explication": "C'est une légende popularisée par Pouchkine puis par le film Amadeus ; il est probablement mort d'une maladie.",
+    "explication": "Salieri, compositeur respecté de la cour de Vienne, n'a jamais empoisonné Mozart. La rumeur, née après la mort de Mozart en 1791, a été popularisée par une pièce de Pouchkine puis par le film Amadeus (1984). Mozart est probablement mort d'une maladie infectieuse, à 35 ans.",
     "source": "D'après Wikipédia — Antonio Salieri"
   },
   {
@@ -370,7 +378,7 @@
       "B.B. King"
     ],
     "bonneReponse": 1,
-    "explication": "Jimi Hendrix retournait ses Stratocaster et inversait les cordes.",
+    "explication": "Gaucher, Jimi Hendrix jouait sur des guitares de droitier, surtout des Fender Stratocaster, qu'il retournait et dont il inversait les cordes. Il a révolutionné la guitare électrique à la fin des années 1960, utilisant même le larsen comme effet musical. Il est mort en 1970, à 27 ans.",
     "source": "D'après Wikipédia — Jimi Hendrix"
   },
   {
@@ -400,8 +408,8 @@
         "explication": "Les timbales sont des percussions, accordées en tendant plus ou moins leur peau."
       }
     ],
-    "explication": "Les quatre familles de l'orchestre symphonique.",
-    "source": "À vérifier"
+    "explication": "Le violoncelle est un instrument à cordes frottées avec un archet. La clarinette est un bois : le son vient d'une anche en roseau qui vibre. Le trombone est un cuivre : ce sont les lèvres du musicien qui vibrent dans l'embouchure. Les timbales sont des percussions, accordées en tendant plus ou moins leur peau.",
+    "source": "D'après Wikipédia — Orchestre symphonique"
   },
   {
     "id": "q-musique-026",
@@ -415,7 +423,7 @@
       "Aucun"
     ],
     "bonneReponse": 0,
-    "explication": "Pendant le Risorgimento, crier « Viva Verdi » revenait à acclamer le futur roi d'Italie.",
+    "explication": "Au XIXe siècle, l'Italie est divisée et en partie dominée par l'Autriche. Les patriotes écrivent « Viva VERDI » sur les murs : officiellement un hommage au compositeur, en réalité un acronyme pour « Viva Vittorio Emanuele Re D'Italia », le futur roi de l'Italie unifiée. Le chœur de Nabucco devient leur hymne.",
     "source": "D'après Wikipédia — Giuseppe Verdi"
   },
   {
@@ -430,7 +438,7 @@
       "À Vienne"
     ],
     "bonneReponse": 1,
-    "explication": "Son corps est au Père-Lachaise, mais son cœur est à l'église Sainte-Croix de Varsovie.",
+    "explication": "Chopin meurt de la tuberculose à Paris en 1849 et est enterré au cimetière du Père-Lachaise. Mais, selon sa volonté, sa sœur ramène clandestinement son cœur en Pologne, conservé dans un bocal de cognac. Il repose depuis dans un pilier de l'église Sainte-Croix de Varsovie.",
     "source": "D'après Wikipédia — Frédéric Chopin"
   },
   {
@@ -445,7 +453,7 @@
       "1993"
     ],
     "bonneReponse": 1,
-    "explication": "Le 11 août 1973, lors d'une fête animée par DJ Kool Herc.",
+    "explication": "Le 11 août 1973, lors d'une fête dans un immeuble du Bronx, le DJ Kool Herc utilise deux platines pour prolonger les passages instrumentaux des disques funk, les « breaks », sur lesquels les danseurs se déchaînent. Cette soirée est considérée comme la naissance symbolique du hip-hop.",
     "source": "D'après Wikipédia — Hip-hop"
   },
   {
@@ -454,7 +462,7 @@
     "format": "vrai-faux",
     "affirmation": "Les radios françaises doivent diffuser un quota de chansons en français.",
     "reponse": true,
-    "explication": "Depuis 1996, au moins 40 % de chansons d'expression française.",
+    "explication": "Depuis 1996, une loi impose aux radios françaises de diffuser au moins 40 % de chansons d'expression française, dont la moitié de nouveaux talents ou de nouvelles productions, aux heures de grande écoute. Le but est de soutenir la chanson francophone face à la musique anglophone.",
     "source": "D'après Wikipédia — Radio en France"
   }
 ]

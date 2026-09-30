@@ -50,8 +50,8 @@
         "explication": "La forêt tropicale s'organise en étages : sol, sous-bois, canopée et arbres émergents."
       }
     ],
-    "explication": "Chaque biome se caractérise par des conditions climatiques et une végétation adaptée bien spécifiques.",
-    "source": "À vérifier"
+    "explication": "Chaque milieu a sa signature : un sol gelé en permanence sous la toundra, une longue saison sèche puis une saison des pluies dans la savane, des arbres qui supportent l'eau salée dans la mangrove, et une végétation étagée jusqu'à 40 m de haut dans la forêt tropicale.",
+    "source": "D'après Wikipédia — Biome"
   },
   {
     "id": "q-nature-004",
@@ -65,7 +65,7 @@
     ],
     "reponse": "Carl von Linné",
     "explication": "Carl von Linné a inventé la nomenclature binomiale, toujours utilisée en biologie pour nommer les espèces (par exemple Homo sapiens).",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Carl von Linné"
   },
   {
     "id": "q-nature-005",
@@ -94,7 +94,7 @@
       "Les palmiers"
     ],
     "bonneReponse": 1,
-    "explication": "Le bambou est une herbe géante, cousine du blé et du maïs.",
+    "explication": "Malgré sa taille, le bambou n'est pas un arbre : c'est une herbe géante de la famille des graminées, comme le blé, le riz ou le maïs. Sa tige creuse et segmentée ne forme pas de vrai bois. Certaines espèces dépassent 30 m de haut.",
     "source": "D'après Wikipédia — Bambou"
   },
   {
@@ -103,7 +103,7 @@
     "format": "vrai-faux",
     "affirmation": "Au sens botanique, la tomate est un fruit.",
     "reponse": true,
-    "explication": "Elle provient de la fleur et contient les graines : c'est même une baie.",
+    "explication": "En botanique, un fruit est ce qui se forme à partir de la fleur et contient les graines : la tomate en est un, et même une baie, comme le raisin. « Légume » est une catégorie de cuisine, pas de botanique : la courgette, le poivron ou l'avocat sont aussi des fruits au sens botanique.",
     "source": "D'après Wikipédia — Tomate"
   },
   {
@@ -118,7 +118,7 @@
       "L'éléphant d'Afrique"
     ],
     "bonneReponse": 1,
-    "explication": "Le General Sherman, un séquoia géant de Californie, pèse environ 1 900 tonnes.",
+    "explication": "Le plus grand être vivant en volume est un séquoia géant de Californie, le General Sherman : 84 m de haut, environ 1 500 m³ de bois et près de 1 900 tonnes, soit bien plus qu'une baleine bleue (environ 150 tonnes). Il aurait environ 2 200 ans.",
     "source": "D'après Wikipédia — General Sherman (arbre)"
   },
   {
@@ -133,7 +133,7 @@
       "Louis Pasteur"
     ],
     "bonneReponse": 1,
-    "explication": "Le moine Gregor Mendel, dans les années 1860.",
+    "explication": "Dans le jardin de son monastère de Brno, le moine Gregor Mendel croise environ 28 000 plants de petits pois entre 1856 et 1863. Il découvre que les caractères (couleur, forme des graines) se transmettent selon des proportions prévisibles. Publiés en 1866, ses travaux restent ignorés jusqu'en 1900 ; ils fondent la génétique.",
     "source": "D'après Wikipédia — Gregor Mendel"
   },
   {
@@ -142,7 +142,7 @@
     "format": "vrai-faux",
     "affirmation": "Les coraux sont des plantes.",
     "reponse": false,
-    "explication": "Ce sont des animaux (polypes) qui vivent en symbiose avec des algues microscopiques.",
+    "explication": "Les coraux sont des animaux, cousins des méduses : de minuscules polypes qui vivent en colonies et fabriquent un squelette de calcaire. Ils hébergent dans leurs tissus des algues microscopiques qui leur fournissent jusqu'à 90 % de leur énergie par photosynthèse, d'où leur ressemblance avec des plantes.",
     "source": "D'après Wikipédia — Corail"
   },
   {
@@ -157,7 +157,7 @@
       "L'épicéa"
     ],
     "bonneReponse": 2,
-    "explication": "Le mélèze est l'un des rares conifères à feuillage caduc.",
+    "explication": "Le mélèze est l'un des rares conifères à feuillage caduc : ses aiguilles jaunissent à l'automne puis tombent, et il repousse au printemps. Cela lui permet de supporter les hivers très froids des montagnes et de la Sibérie. Le cyprès chauve de Louisiane fait de même.",
     "source": "D'après Wikipédia — Mélèze"
   },
   {
@@ -172,7 +172,7 @@
       "Le magnolia"
     ],
     "bonneReponse": 1,
-    "explication": "Rafflesia arnoldii peut atteindre 1 m de diamètre et 10 kg.",
+    "explication": "Rafflesia arnoldii, des forêts de Sumatra et de Bornéo, produit une fleur pouvant atteindre 1 m de diamètre et 10 kg. C'est une plante parasite, sans feuilles ni tige, qui vit à l'intérieur d'une liane. Sa fleur sent la viande pourrie pour attirer les mouches qui la pollinisent.",
     "source": "D'après Wikipédia — Rafflesia arnoldii"
   },
   {
@@ -202,8 +202,8 @@
         "explication": "Son écorce spongieuse, jusqu'à 60 cm d'épaisseur, le protège des incendies de forêt."
       }
     ],
-    "explication": "Chaque plante est adaptée aux contraintes de son milieu.",
-    "source": "À vérifier"
+    "explication": "Chaque plante répond à une contrainte de son milieu : la sécheresse pour le cactus, dont les épines sont des feuilles transformées ; la vase salée pour le palétuvier ; un sol pauvre en azote pour la dionée, qui capture des insectes ; les incendies pour le séquoia, protégé par une écorce épaisse.",
+    "source": "D'après Wikipédia — Adaptation (biologie)"
   },
   {
     "id": "q-nature-014",
@@ -217,7 +217,7 @@
       "Il ne vit que dans les musées"
     ],
     "bonneReponse": 1,
-    "explication": "Le ginkgo est le dernier survivant d'une lignée qui côtoyait les dinosaures.",
+    "explication": "Le ginkgo existe presque sans changement depuis plus de 200 millions d'années : il a côtoyé les dinosaures. C'est le dernier survivant de toute une lignée de plantes. Très résistant, il a même survécu à la bombe d'Hiroshima : plusieurs ginkgos proches de l'explosion ont repoussé.",
     "source": "D'après Wikipédia — Ginkgo biloba"
   },
   {
@@ -232,7 +232,7 @@
       "Une graine ailée"
     ],
     "bonneReponse": 1,
-    "explication": "Environ 90 % des plantes terrestres vivent en association avec des champignons du sol.",
+    "explication": "Une mycorhize est une association entre les racines d'une plante et un champignon du sol. Les filaments du champignon, bien plus fins et longs que les racines, apportent eau et minéraux ; en échange, la plante lui donne des sucres. Environ 90 % des plantes terrestres vivent ainsi.",
     "source": "D'après Wikipédia — Mycorhize"
   },
   {
@@ -241,7 +241,7 @@
     "format": "vrai-faux",
     "affirmation": "Les tourbières stockent plus de carbone que toutes les forêts du monde réunies.",
     "reponse": true,
-    "explication": "Sur environ 3 % des terres, elles stockent environ deux fois plus de carbone que l'ensemble des forêts.",
+    "explication": "Dans les tourbières, l'eau et le manque d'oxygène empêchent les plantes mortes de se décomposer : elles s'accumulent en tourbe pendant des milliers d'années. Sur environ 3 % des terres émergées, elles stockent environ deux fois plus de carbone que toutes les forêts du monde. Les assécher libère ce carbone.",
     "source": "D'après Wikipédia — Tourbière"
   },
   {
@@ -256,7 +256,7 @@
       "Le Petit Prince craint que je n'envahisse sa planète."
     ],
     "reponse": "Baobab",
-    "explication": "Le baobab est un arbre emblématique d'Afrique et de Madagascar.",
+    "explication": "Le baobab est l'arbre emblématique des savanes d'Afrique et de Madagascar, où vivent six des neuf espèces. Son énorme tronc stocke des milliers de litres d'eau pour la saison sèche, et ses branches nues ressemblent à des racines, d'où son surnom d'« arbre à l'envers ». Son fruit, le pain de singe, est riche en vitamine C.",
     "source": "D'après Wikipédia — Baobab"
   },
   {
@@ -271,7 +271,7 @@
       "~90 %"
     ],
     "bonneReponse": 1,
-    "explication": "Environ 10 % : le reste est dépensé pour vivre ou perdu en chaleur.",
+    "explication": "En moyenne, seulement 10 % environ de l'énergie passe d'un maillon au suivant : le reste est dépensé pour vivre (se déplacer, respirer, garder sa chaleur) ou perdu. Il faut donc beaucoup d'herbe pour nourrir un lapin, et beaucoup de lapins pour un renard : c'est pourquoi les prédateurs sont bien moins nombreux que leurs proies.",
     "source": "D'après Wikipédia — Réseau trophique"
   },
   {
@@ -286,7 +286,7 @@
       "La pollution lumineuse"
     ],
     "bonneReponse": 1,
-    "explication": "Une hausse de 1 à 2 °C suffit ; privés de leurs algues, les coraux finissent par mourir de faim.",
+    "explication": "Quand l'eau devient trop chaude, même de 1 à 2 °C au-dessus de la normale pendant quelques semaines, les coraux expulsent les algues qui vivent dans leurs tissus et leur donnent leurs couleurs : ils deviennent blancs. Privés de leur principale source d'énergie, ils meurent si le stress dure. Le réchauffement climatique multiplie ces épisodes.",
     "source": "D'après Wikipédia — Blanchissement des coraux"
   },
   {
@@ -301,7 +301,7 @@
       "Il n'y en a pas"
     ],
     "bonneReponse": 0,
-    "explication": "Le chêne est caduc ; le pin et le houx sont persistants.",
+    "explication": "Un arbre caduc, comme le chêne ou l'érable, perd toutes ses feuilles à la mauvaise saison pour limiter les pertes d'eau quand le sol est gelé. Un arbre persistant, comme le pin, le houx ou l'olivier, garde un feuillage toute l'année et le renouvelle petit à petit. Attention : le mélèze est un conifère caduc.",
     "source": "D'après Wikipédia — Feuillage caduc"
   },
   {
@@ -310,7 +310,7 @@
     "format": "vrai-faux",
     "affirmation": "La fraise est botaniquement un « faux fruit ».",
     "reponse": true,
-    "explication": "Les vrais fruits sont les petits grains à sa surface (akènes) ; la partie rouge est le réceptacle de la fleur gonflé.",
+    "explication": "Botaniquement, la partie rouge et charnue de la fraise est le réceptacle de la fleur, qui a gonflé. Les vrais fruits sont les petits grains à sa surface, les akènes, qui contiennent chacun une graine. On parle donc de « faux fruit ».",
     "source": "D'après Wikipédia — Fraise (fruit)"
   },
   {
@@ -325,7 +325,7 @@
       "Marie Curie"
     ],
     "bonneReponse": 0,
-    "explication": "Jeanne Baret a embarqué en 1766 avec Bougainville sous le nom de Jean Baret.",
+    "explication": "La Marine interdisait les femmes à bord. En 1766, Jeanne Baret embarque déguisée en homme, sous le nom de Jean Baret, comme assistante du botaniste Philibert Commerson dans l'expédition de Bougainville. Elle récolte des milliers de plantes, dont le bougainvillier, et devient la première femme connue à avoir fait le tour du monde.",
     "source": "D'après Wikipédia — Jeanne Barret"
   },
   {
@@ -340,7 +340,7 @@
       "La convention de Genève"
     ],
     "bonneReponse": 0,
-    "explication": "Signée à Ramsar (Iran) en 1971. La CITES régule le commerce des espèces menacées.",
+    "explication": "Signée en 1971 à Ramsar, en Iran, cette convention internationale protège les zones humides : marais, tourbières, mangroves, lagunes. Plus de 2 500 sites sont inscrits dans le monde, dont la Camargue. Le 2 février est la Journée mondiale des zones humides. La CITES, elle, encadre le commerce des espèces menacées.",
     "source": "D'après Wikipédia — Convention de Ramsar"
   },
   {
@@ -355,7 +355,7 @@
       "Cuvier"
     ],
     "bonneReponse": 1,
-    "explication": "Carl von Linné, au XVIIIe siècle.",
+    "explication": "Au XVIIIe siècle, le naturaliste suédois Carl von Linné donne à chaque espèce un nom latin en deux mots : le genre, puis l'espèce. Homo sapiens pour l'être humain, Canis lupus pour le loup, Quercus robur pour le chêne. Ce système universel évite les confusions entre les noms des différentes langues.",
     "source": "D'après Wikipédia — Nomenclature binominale"
   },
   {
@@ -385,8 +385,8 @@
         "explication": "La mangrove est inondée par les marées ; ses arbres supportent le sel."
       }
     ],
-    "explication": "Quatre grands milieux naturels et leur signature.",
-    "source": "À vérifier"
+    "explication": "Chaque biome a son élément marquant : le pergélisol, un sol gelé en permanence, sous la toundra ; des herbes hautes parsemées d'arbres isolés dans la savane ; la canopée, l'étage des cimes où vit l'essentiel des animaux de la forêt tropicale ; et l'eau salée, avec le va-et-vient des marées, dans la mangrove.",
+    "source": "D'après Wikipédia — Biome"
   },
   {
     "id": "q-nature-026",
@@ -400,7 +400,7 @@
       "Elles absorbent la couleur du soleil couchant"
     ],
     "bonneReponse": 1,
-    "explication": "Les caroténoïdes jaunes-orangés étaient masqués par le vert de la chlorophylle.",
+    "explication": "Les feuilles contiennent aussi des pigments jaunes et orangés, les caroténoïdes, masqués l'été par le vert de la chlorophylle. En automne, quand les jours raccourcissent, l'arbre cesse de fabriquer de la chlorophylle et la dégrade : les autres couleurs apparaissent. Les rouges (anthocyanes), eux, sont fabriqués à ce moment-là.",
     "source": "D'après Wikipédia — Couleurs d'automne"
   },
   {
@@ -409,7 +409,7 @@
     "format": "vrai-faux",
     "affirmation": "Les cactus poussent naturellement sur tous les continents.",
     "reponse": false,
-    "explication": "Ils sont presque tous originaires des Amériques. Les plantes semblables en Afrique sont surtout des euphorbes.",
+    "explication": "Les cactus sont presque tous originaires des Amériques, du Canada à la Patagonie. Les plantes grasses à épines d'Afrique sont surtout des euphorbes, d'une autre famille : elles ont développé les mêmes formes face à la même sécheresse, un bel exemple de convergence évolutive.",
     "source": "D'après Wikipédia — Cactaceae"
   },
   {
@@ -424,7 +424,7 @@
       "Un séquoia"
     ],
     "bonneReponse": 1,
-    "explication": "Le cèdre de Bernard de Jussieu, rapporté d'Angleterre selon la légende dans son chapeau.",
+    "explication": "En 1734, le botaniste Bernard de Jussieu plante au Jardin des Plantes un cèdre du Liban ; la légende raconte qu'il l'avait rapporté d'Angleterre dans son chapeau. Il est toujours vivant, près du labyrinthe du jardin. C'est l'un des plus vieux arbres de Paris.",
     "source": "D'après Wikipédia — Jardin des Plantes (Paris)"
   },
   {
@@ -439,7 +439,7 @@
       "~5 m par jour"
     ],
     "bonneReponse": 2,
-    "explication": "Environ 91 cm en 24 heures pour certaines espèces : un record pour une plante.",
+    "explication": "Certaines espèces de bambous grandissent de près d'un mètre en 24 heures : environ 91 cm ont été mesurés, un record pour une plante. La pousse sort de terre avec déjà son diamètre définitif, et tous ses segments s'allongent en même temps, comme une longue-vue qui se déplie.",
     "source": "D'après Wikipédia — Bambou"
   },
   {
@@ -454,7 +454,7 @@
       "Dix"
     ],
     "bonneReponse": 2,
-    "explication": "Cinq extinctions majeures ; la dernière, il y a 66 millions d'années, a éliminé les dinosaures non aviens.",
+    "explication": "La Terre a connu cinq grandes extinctions de masse. La pire, il y a environ 252 millions d'années (fin du Permien), a fait disparaître environ 90 % des espèces marines. La plus connue, il y a 66 millions d'années, a éliminé les dinosaures non aviens, sans doute après la chute d'un astéroïde au Mexique.",
     "source": "D'après Wikipédia — Extinction massive"
   }
 ]

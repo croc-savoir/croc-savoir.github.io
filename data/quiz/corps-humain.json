@@ -20,8 +20,8 @@
     "format": "vrai-faux",
     "affirmation": "Le squelette humain adulte compte environ 206 os.",
     "reponse": true,
-    "explication": "Le nombre d'os diminue entre la naissance et l'âge adulte car certains os se soudent entre eux en grandissant.",
-    "source": "À vérifier"
+    "explication": "Un adulte a 206 os, alors qu'un nouveau-né en compte environ 300 : en grandissant, certains se soudent, comme les os du crâne ou ceux du bassin. Plus de la moitié de nos os se trouvent dans les mains et les pieds. Le plus petit, l'étrier, se trouve dans l'oreille et mesure environ 3 mm.",
+    "source": "D'après Wikipédia — Squelette humain"
   },
   {
     "id": "q-corps-humain-003",
@@ -50,7 +50,7 @@
         "explication": "Cette lentille de l'œil change de forme pour faire la mise au point sur la rétine."
       }
     ],
-    "explication": "Chaque organe assure une fonction spécialisée essentielle au fonctionnement global du corps.",
+    "explication": "Le cœur pompe le sang dans tout le corps, environ 100 000 battements par jour. Les poumons font entrer l'oxygène dans le sang et en sortent le CO₂. L'intestin grêle, long d'environ 7 m, absorbe l'essentiel des nutriments. Le cristallin, lentille de l'œil, fait la mise au point de l'image sur la rétine.",
     "source": "Consensus scientifique établi"
   },
   {
@@ -95,8 +95,8 @@
       "Le lymphocyte"
     ],
     "bonneReponse": 1,
-    "explication": "Le neurone transmet les signaux électriques et chimiques qui constituent la base du fonctionnement du système nerveux.",
-    "source": "À vérifier"
+    "explication": "Le neurone est la cellule de base du système nerveux : il reçoit des signaux par ses dendrites et transmet un influx électrique le long de son axone, parfois long de plus d'un mètre. Entre deux neurones, le message passe par des substances chimiques, les neurotransmetteurs. Notre cerveau compte environ 86 milliards de neurones.",
+    "source": "D'après Wikipédia — Neurone"
   },
   {
     "id": "q-corps-humain-006",
@@ -110,7 +110,7 @@
       "L'intestin"
     ],
     "bonneReponse": 2,
-    "explication": "La peau couvre environ 2 m² et pèse environ 4 kg. Le foie est le plus gros organe interne.",
+    "explication": "La peau est le plus grand organe du corps : environ 2 m² et 4 kg chez un adulte. Elle nous protège des microbes et des UV, régule la température par la transpiration et nous permet de sentir le toucher, le chaud et le froid. Elle se renouvelle entièrement environ tous les mois. Le foie, lui, est le plus gros organe interne.",
     "source": "D'après Wikipédia — Peau"
   },
   {
@@ -125,7 +125,7 @@
       "Le pancréas"
     ],
     "bonneReponse": 1,
-    "explication": "Le foie peut repousser après l'ablation d'environ deux tiers de son volume.",
+    "explication": "Le foie est le seul organe capable de repousser presque entièrement : après l'ablation d'environ deux tiers de son volume, il retrouve une taille presque normale en quelques semaines. C'est ce qui permet de greffer une partie du foie d'un donneur vivant. Dans la mythologie grecque, le foie de Prométhée repoussait chaque nuit.",
     "source": "D'après Wikipédia — Foie"
   },
   {
@@ -134,7 +134,7 @@
     "format": "vrai-faux",
     "affirmation": "Nous n'utilisons que 10 % de notre cerveau.",
     "reponse": false,
-    "explication": "C'est un mythe : l'imagerie cérébrale montre que toutes les zones du cerveau sont utilisées.",
+    "explication": "C'est un mythe tenace. L'imagerie cérébrale montre que toutes les zones du cerveau sont actives au cours d'une journée, même si elles ne le sont pas toutes en même temps. Le cerveau consomme environ 20 % de notre énergie : l'évolution n'aurait pas gardé un organe aussi coûteux s'il était inutile à 90 %.",
     "source": "D'après Wikipédia — Mythe de l'utilisation incomplète du cerveau"
   },
   {
@@ -149,7 +149,7 @@
       "O−"
     ],
     "bonneReponse": 3,
-    "explication": "O− ne porte ni marqueur A, ni B, ni Rhésus.",
+    "explication": "Les globules rouges O− ne portent ni marqueur A, ni B, ni le facteur Rhésus : le système immunitaire du receveur ne les attaque pas, quel que soit son groupe. On les utilise donc en urgence, quand on n'a pas le temps de connaître le groupe du blessé. À l'inverse, AB+ est receveur universel.",
     "source": "D'après Wikipédia — Groupe sanguin"
   },
   {
@@ -164,7 +164,7 @@
       "Thomas Edison"
     ],
     "bonneReponse": 1,
-    "explication": "Röntgen reçoit pour cela le premier prix Nobel de physique en 1901.",
+    "explication": "En novembre 1895, le physicien allemand Wilhelm Röntgen découvre par hasard un rayonnement invisible qui traverse la matière ; il le nomme « X », comme une inconnue. Sa radiographie de la main de sa femme fait le tour du monde. Il reçoit en 1901 le tout premier prix Nobel de physique et refuse de breveter sa découverte.",
     "source": "D'après Wikipédia — Wilhelm Röntgen"
   },
   {
@@ -199,8 +199,8 @@
         "explication": "La moelle osseuse, à l'intérieur des os, fabrique globules rouges, globules blancs et plaquettes."
       }
     ],
-    "explication": "Chaque organe a une ou plusieurs fonctions vitales.",
-    "source": "À vérifier"
+    "explication": "Les reins filtrent environ 180 litres de sang par jour. Les poumons échangent oxygène et CO₂ avec le sang. Le pancréas produit l'insuline, qui règle le taux de sucre. La cochlée, dans l'oreille interne, transforme les vibrations en influx nerveux. La moelle osseuse fabrique les globules rouges, les globules blancs et les plaquettes.",
+    "source": "D'après Wikipédia — Organe (anatomie)"
   },
   {
     "id": "q-corps-humain-012",
@@ -214,7 +214,7 @@
       "6 heures"
     ],
     "bonneReponse": 1,
-    "explication": "Une nuit compte 4 à 6 cycles d'environ 90 minutes.",
+    "explication": "Une nuit se compose de 4 à 6 cycles d'environ 90 minutes. Chacun enchaîne du sommeil léger, du sommeil lent profond, qui répare le corps et consolide la mémoire, et du sommeil paradoxal, pendant lequel on fait les rêves les plus vifs. Se réveiller en fin de cycle rend le réveil plus facile.",
     "source": "D'après Wikipédia — Cycle du sommeil"
   },
   {
@@ -223,7 +223,7 @@
     "format": "vrai-faux",
     "affirmation": "Le sang est bleu dans les veines.",
     "reponse": false,
-    "explication": "Il est toujours rouge, plus sombre quand il est pauvre en oxygène. La couleur bleue des veines est un effet optique.",
+    "explication": "Le sang est toujours rouge : rouge vif quand il est chargé d'oxygène, rouge plus sombre quand il en manque. Si les veines paraissent bleues, c'est un effet d'optique : la peau absorbe et diffuse la lumière de façon différente selon les couleurs, et c'est surtout le bleu qui nous parvient.",
     "source": "D'après Wikipédia — Sang"
   },
   {
@@ -238,7 +238,7 @@
       "Vésale"
     ],
     "bonneReponse": 1,
-    "explication": "Hippocrate, au Ve siècle av. J.-C., cherche des causes naturelles aux maladies.",
+    "explication": "Au Ve siècle av. J.-C., sur l'île grecque de Cos, Hippocrate cherche des causes naturelles aux maladies, au lieu d'y voir la colère des dieux. Il insiste sur l'observation du malade et l'hygiène de vie. Le serment d'Hippocrate, qui engage les médecins à ne pas nuire, est toujours prononcé aujourd'hui, sous une forme modernisée.",
     "source": "D'après Wikipédia — Hippocrate"
   },
   {
@@ -253,7 +253,7 @@
       "Radius, cubitus, humérus"
     ],
     "bonneReponse": 0,
-    "explication": "Ce sont les plus petits os du corps ; l'étrier mesure environ 3 mm.",
+    "explication": "Le marteau, l'enclume et l'étrier sont trois minuscules os de l'oreille moyenne. Quand le tympan vibre, ils transmettent et amplifient la vibration jusqu'à l'oreille interne. L'étrier, d'environ 3 mm, est le plus petit os du corps humain.",
     "source": "D'après Wikipédia — Osselet de l'ouïe"
   },
   {
@@ -267,7 +267,7 @@
       "On m'appelait « la dame à la lampe »."
     ],
     "reponse": "Florence Nightingale",
-    "explication": "Elle a fondé les soins infirmiers modernes.",
+    "explication": "Pendant la guerre de Crimée (1854-1856), l'infirmière britannique Florence Nightingale impose l'hygiène dans l'hôpital militaire de Scutari, et la mortalité due aux maladies chute. Elle invente un graphique circulaire pour convaincre le gouvernement, puis fonde en 1860 la première école d'infirmières laïque. On la surnommait la dame à la lampe, pour ses rondes de nuit.",
     "source": "D'après Wikipédia — Florence Nightingale"
   },
   {
@@ -282,7 +282,7 @@
       "Le protoxyde d'azote"
     ],
     "bonneReponse": 1,
-    "explication": "William Morton a utilisé l'éther à Boston le 16 octobre 1846.",
+    "explication": "Le 16 octobre 1846, à l'hôpital général du Massachusetts, à Boston, le dentiste William Morton fait respirer de l'éther à un patient : le chirurgien lui retire une tumeur du cou sans qu'il ne sente rien. Avant cela, on opérait à vif, et les chirurgiens devaient aller le plus vite possible.",
     "source": "D'après Wikipédia — Anesthésie"
   },
   {
@@ -291,7 +291,7 @@
     "format": "vrai-faux",
     "affirmation": "On peut vivre normalement avec un seul rein.",
     "reponse": true,
-    "explication": "Un seul rein suffit à filtrer le sang, ce qui permet le don de rein entre vivants.",
+    "explication": "Un seul rein en bonne santé suffit à filtrer tout le sang : il grossit un peu pour compenser. C'est ce qui permet le don de rein entre vivants, souvent entre membres d'une même famille. En cas d'insuffisance rénale, la dialyse remplace artificiellement la filtration en attendant une greffe.",
     "source": "D'après Wikipédia — Don d'organes"
   },
   {
@@ -306,23 +306,23 @@
       "Le cortisol"
     ],
     "bonneReponse": 2,
-    "explication": "La mélatonine est sécrétée le soir ; la lumière bleue des écrans peut la retarder.",
+    "explication": "Quand la lumière baisse le soir, une petite glande du cerveau sécrète la mélatonine, l'hormone qui prépare au sommeil. La lumière, en particulier la lumière bleue des écrans, retarde cette sécrétion, ce qui peut rendre l'endormissement plus difficile. C'est pour cela qu'on conseille d'éviter les écrans avant de dormir.",
     "source": "D'après Wikipédia — Mélatonine"
   },
   {
     "id": "q-corps-humain-020",
     "domain": "corps-humain",
     "format": "qcm",
-    "question": "Combien d'os compte le squelette d'un adulte ?",
+    "question": "Quel est le plus long os du corps humain ?",
     "choix": [
-      "106",
-      "206",
-      "306",
-      "406"
+      "Le fémur",
+      "Le tibia",
+      "L'humérus",
+      "La colonne vertébrale"
     ],
-    "bonneReponse": 1,
-    "explication": "206 os, alors qu'un nouveau-né en a environ 300, dont certains fusionnent.",
-    "source": "D'après Wikipédia — Squelette humain"
+    "bonneReponse": 0,
+    "explication": "Le fémur, l'os de la cuisse, représente environ un quart de la taille d'une personne : autour de 45 cm chez un adulte. C'est aussi l'un des os les plus solides du corps. La colonne vertébrale n'est pas un os unique : elle en compte 33.",
+    "source": "D'après Wikipédia — Fémur"
   },
   {
     "id": "q-corps-humain-021",
@@ -336,7 +336,7 @@
       "Aucune"
     ],
     "bonneReponse": 0,
-    "explication": "Les hormones agissent à distance et plus lentement ; les neurotransmetteurs localement et très vite.",
+    "explication": "Une hormone est libérée par une glande dans le sang et agit à distance, souvent lentement : l'insuline, l'adrénaline ou la mélatonine. Un neurotransmetteur est libéré par un neurone dans une synapse et agit localement, en une fraction de seconde, sur la cellule voisine : la dopamine ou la sérotonine. L'adrénaline joue les deux rôles.",
     "source": "D'après Wikipédia — Neurotransmetteur"
   },
   {
@@ -351,7 +351,7 @@
       "Levure de bière"
     ],
     "bonneReponse": 1,
-    "explication": "Fleming a observé en 1928 qu'un Penicillium tuait les staphylocoques autour de lui.",
+    "explication": "En septembre 1928, Alexander Fleming remarque qu'une moisissure, Penicillium, a contaminé une boîte de bactéries et les a tuées tout autour d'elle. Il ne parvient pas à purifier la substance ; ce sont Howard Florey et Ernst Chain qui y arrivent vers 1940. La pénicilline, premier antibiotique, sauve des millions de vies.",
     "source": "D'après Wikipédia — Pénicilline"
   },
   {
@@ -360,7 +360,7 @@
     "format": "vrai-faux",
     "affirmation": "La « carte de la langue » avec des zones dédiées au sucré, au salé, etc., est un mythe.",
     "reponse": true,
-    "explication": "Toutes les zones de la langue perçoivent toutes les saveurs.",
+    "explication": "La célèbre carte de la langue, avec le sucré au bout et l'amer au fond, vient d'une mauvaise interprétation d'une étude allemande de 1901. En réalité, toutes les zones de la langue perçoivent les cinq saveurs : sucré, salé, acide, amer et umami. L'essentiel du « goût » vient d'ailleurs de l'odorat.",
     "source": "D'après Wikipédia — Carte de la langue"
   },
   {
@@ -375,7 +375,7 @@
       "La tuberculose"
     ],
     "bonneReponse": 2,
-    "explication": "La variole est déclarée éradiquée en 1980. La polio est proche de l'éradication.",
+    "explication": "La variole, qui aurait tué environ 300 millions de personnes au XXe siècle, est déclarée éradiquée par l'OMS en 1980, grâce à une campagne mondiale de vaccination. C'est la seule maladie humaine totalement éliminée. La poliomyélite en est proche : elle ne circule plus que dans très peu de pays.",
     "source": "D'après Wikipédia — Variole"
   },
   {
@@ -390,7 +390,7 @@
       "Occipital"
     ],
     "bonneReponse": 3,
-    "explication": "Le lobe occipital, à l'arrière du crâne, est le centre de la vision.",
+    "explication": "Le lobe occipital, à l'arrière du crâne, traite les informations visuelles envoyées par les yeux : formes, couleurs, mouvements. C'est pour cela qu'un choc à l'arrière de la tête peut faire « voir des étoiles ». Le lobe frontal gère la décision, le pariétal le toucher et le temporal l'audition.",
     "source": "D'après Wikipédia — Lobe occipital"
   },
   {
@@ -420,8 +420,8 @@
         "annee": "1928"
       }
     ],
-    "explication": "Quatre siècles de progrès médicaux.",
-    "source": "À vérifier"
+    "explication": "1543 : Vésale publie la Fabrica, premier grand atlas d'anatomie. 1796 : Jenner réalise la première vaccination, contre la variole. 1846 : première anesthésie publique à l'éther. 1895 : Röntgen découvre les rayons X. 1928 : Fleming découvre la pénicilline.",
+    "source": "D'après Wikipédia — Histoire de la médecine"
   },
   {
     "id": "q-corps-humain-027",
@@ -435,7 +435,7 @@
       "Le collagène"
     ],
     "bonneReponse": 1,
-    "explication": "L'hémoglobine contient du fer, qui fixe l'oxygène et donne sa couleur rouge au sang.",
+    "explication": "L'hémoglobine, protéine des globules rouges, contient du fer qui fixe l'oxygène dans les poumons et le libère dans les organes. C'est elle qui donne sa couleur rouge au sang. Un manque de fer diminue la production d'hémoglobine et provoque une anémie, qui fatigue.",
     "source": "D'après Wikipédia — Hémoglobine"
   },
   {
@@ -444,7 +444,7 @@
     "format": "vrai-faux",
     "affirmation": "Le cerveau ne ressent pas la douleur.",
     "reponse": true,
-    "explication": "Il n'a pas de récepteurs de la douleur, ce qui permet certaines opérations sur patient éveillé.",
+    "explication": "Le cerveau analyse la douleur venue du reste du corps, mais lui-même ne possède pas de récepteurs de la douleur. C'est ce qui permet certaines opérations sur patient éveillé : sous anesthésie locale du cuir chevelu, le patient parle ou bouge pendant que le chirurgien vérifie qu'il ne touche pas les zones du langage ou du mouvement.",
     "source": "D'après Wikipédia — Neurochirurgie"
   },
   {
@@ -459,7 +459,7 @@
       "De la contraction du cœur"
     ],
     "bonneReponse": 1,
-    "explication": "Chez les animaux à fourrure, le redressement des poils isole du froid ou fait paraître plus gros.",
+    "explication": "Quand on a froid ou qu'on est ému, de minuscules muscles à la base des poils se contractent et les redressent : c'est la chair de poule. Chez nos ancêtres à fourrure, et chez les animaux aujourd'hui, les poils redressés emprisonnent de l'air chaud ou font paraître plus gros face à un ennemi. Chez nous, c'est un réflexe devenu presque inutile.",
     "source": "D'après Wikipédia — Chair de poule"
   },
   {
@@ -474,7 +474,7 @@
       "75 %"
     ],
     "bonneReponse": 1,
-    "explication": "Environ 20 %, alors qu'il ne représente qu'environ 2 % du poids du corps.",
+    "explication": "Le cerveau ne représente qu'environ 2 % du poids du corps, mais il consomme environ 20 % de son énergie, même au repos. Ses 86 milliards de neurones ont besoin en permanence de glucose et d'oxygène : quelques minutes sans oxygène suffisent à l'endommager.",
     "source": "D'après Wikipédia — Cerveau humain"
   }
 ]

@@ -12,7 +12,7 @@
     ],
     "bonneReponse": 1,
     "explication": "Napoléon Bonaparte se fait couronner empereur des Français en décembre 1804, après avoir pris le pouvoir par un coup d'État en 1799.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Sacre de Napoléon Ier"
   },
   {
     "id": "q-histoire-002",
@@ -21,7 +21,7 @@
     "affirmation": "La prise de la Bastille, le 14 juillet 1789, a permis de libérer des centaines de prisonniers politiques.",
     "reponse": false,
     "explication": "Idée reçue fréquente : ce jour-là, la Bastille ne comptait en réalité que sept prisonniers, aucun n'étant une grande figure politique. C'est la valeur symbolique du geste, contre ce lieu de pouvoir royal, qui a marqué les esprits.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Prise de la Bastille"
   },
   {
     "id": "q-histoire-003",
@@ -46,8 +46,8 @@
         "annee": "1961"
       }
     ],
-    "explication": "Quatre grandes dates de l'histoire moderne, de la Révolution française à la Guerre froide.",
-    "source": "À vérifier"
+    "explication": "1789 : la prise de la Bastille lance la Révolution française. 1815 : défaite définitive de Napoléon à Waterloo. 1914 : l'assassinat de l'archiduc François-Ferdinand déclenche la Première Guerre mondiale. 1961 : la RDA construit le mur de Berlin pour stopper la fuite de sa population vers l'Ouest.",
+    "source": "D'après Wikipédia — Histoire de l'Europe"
   },
   {
     "id": "q-histoire-004",
@@ -62,7 +62,7 @@
     ],
     "reponse": "Napoléon Bonaparte",
     "explication": "Napoléon Bonaparte, empereur des Français de 1804 à 1815, reste l'une des figures les plus marquantes de l'histoire européenne.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Napoléon Ier"
   },
   {
     "id": "q-histoire-005",
@@ -76,7 +76,7 @@
       "Clovis"
     ],
     "bonneReponse": 2,
-    "explication": "Odoacre dépose Romulus Augustule en 476 et se proclame roi d'Italie. Alaric avait pillé Rome en 410.",
+    "explication": "Chef des mercenaires germaniques au service de Rome, Odoacre dépose le jeune Romulus Augustule en 476 sans le tuer, et renvoie les insignes impériaux à Constantinople. Cette date marque traditionnellement la fin de l'Antiquité. Alaric, lui, avait pillé Rome en 410.",
     "source": "D'après Wikipédia — Odoacre"
   },
   {
@@ -91,7 +91,7 @@
       "Chinon"
     ],
     "bonneReponse": 2,
-    "explication": "Les rois de France étaient traditionnellement sacrés à Reims. Jeanne y conduit Charles VII le 17 juillet 1429.",
+    "explication": "Depuis Clovis, les rois de France sont sacrés à Reims avec l'huile de la Sainte Ampoule. En y conduisant Charles VII le 17 juillet 1429, en pleine guerre de Cent Ans, Jeanne d'Arc lui donne une légitimité face au roi d'Angleterre, qui revendiquait aussi la couronne.",
     "source": "D'après Wikipédia — Jeanne d'Arc"
   },
   {
@@ -100,7 +100,7 @@
     "format": "vrai-faux",
     "affirmation": "La guerre de Cent Ans a duré exactement cent ans.",
     "reponse": false,
-    "explication": "Elle a duré 116 ans, de 1337 à 1453, avec de longues périodes de trêve.",
+    "explication": "Elle a duré 116 ans, de 1337 à 1453, mais avec de longues trêves : ce n'est pas un combat continu. Elle commence par une querelle de succession (le roi d'Angleterre Édouard III revendique la couronne de France) et se termine par la victoire française de Castillon.",
     "source": "D'après Wikipédia — Guerre de Cent Ans"
   },
   {
@@ -115,7 +115,7 @@
       "Pythagore"
     ],
     "bonneReponse": 2,
-    "explication": "Philippe II de Macédoine confie l'éducation de son fils à Aristote, alors que celui-ci a environ 13 ans.",
+    "explication": "En 343 av. J.-C., Philippe II de Macédoine confie l'éducation de son fils, alors âgé d'environ 13 ans, au philosophe Aristote. Pendant trois ans, il lui enseigne la philosophie, la médecine, les sciences et la littérature grecque : Alexandre aurait dormi avec un exemplaire de l'Iliade annoté par son maître.",
     "source": "D'après Wikipédia — Alexandre le Grand"
   },
   {
@@ -145,8 +145,8 @@
         "annee": "1431"
       }
     ],
-    "explication": "800, 1066, 1099, 1347, 1431 : cinq repères du Moyen Âge européen.",
-    "source": "À vérifier"
+    "explication": "800 : Charlemagne est couronné empereur à Rome. 1066 : Guillaume de Normandie conquiert l'Angleterre à Hastings. 1099 : les croisés prennent Jérusalem lors de la première croisade. 1347 : la peste noire arrive en Europe et tue jusqu'à la moitié de la population. 1431 : Jeanne d'Arc est brûlée à Rouen.",
+    "source": "D'après Wikipédia — Moyen Âge"
   },
   {
     "id": "q-histoire-010",
@@ -169,7 +169,7 @@
       "On m'appelle le Roi-Soleil."
     ],
     "reponse": "Louis XIV",
-    "explication": "Louis XIV a régné 72 ans, de 1643 à 1715.",
+    "explication": "Devenu roi à 4 ans en 1643, marqué enfant par la révolte de la Fronde, Louis XIV gouverne seul à partir de 1661 et installe la cour à Versailles en 1682 pour mieux contrôler la noblesse. Ses 72 ans de règne (1643-1715) sont un record en Europe.",
     "source": "D'après Wikipédia — Louis XIV"
   },
   {
@@ -184,7 +184,7 @@
       "Bouvines"
     ],
     "bonneReponse": 1,
-    "explication": "À Hastings, le 14 octobre 1066, le roi Harold II est tué et Guillaume devient « le Conquérant ».",
+    "explication": "Le 14 octobre 1066, Guillaume, duc de Normandie, bat le roi anglo-saxon Harold II, tué pendant la bataille. Devenu « le Conquérant », il installe une aristocratie normande : c'est pour cela qu'environ un tiers du vocabulaire anglais vient du français. La tapisserie de Bayeux raconte cette conquête.",
     "source": "D'après Wikipédia — Bataille d'Hastings"
   },
   {
@@ -214,8 +214,8 @@
         "explication": "Lénine mène les bolcheviks au pouvoir lors de la révolution d'Octobre 1917."
       }
     ],
-    "explication": "Quatre grandes figures de quatre périodes différentes.",
-    "source": "À vérifier"
+    "explication": "Chaque personnage est associé au lieu ou à l'événement qui symbolise son époque : l'Athènes démocratique pour Périclès, l'empire qui porte le nom de Charlemagne, le château de Versailles pour Louis XIV, et la révolution d'Octobre 1917 pour Lénine.",
+    "source": "D'après Wikipédia — Histoire"
   },
   {
     "id": "q-histoire-014",
@@ -229,7 +229,7 @@
       "Endeavour, Resolution, Discovery"
     ],
     "bonneReponse": 0,
-    "explication": "La Santa María, la Pinta et la Niña quittent Palos le 3 août 1492. Victoria et Trinidad sont des navires de Magellan.",
+    "explication": "La Santa María, la plus grande, était la caraque de Colomb ; la Pinta et la Niña étaient des caravelles, plus petites et rapides. Elles quittent le port de Palos, en Espagne, le 3 août 1492. La Santa María s'échoue à Noël 1492 près d'Haïti. Victoria et Trinidad sont des navires de l'expédition de Magellan.",
     "source": "D'après Wikipédia — Christophe Colomb"
   },
   {
@@ -238,7 +238,7 @@
     "format": "vrai-faux",
     "affirmation": "La révolution d'Octobre 1917 a eu lieu en novembre selon notre calendrier.",
     "reponse": true,
-    "explication": "La Russie utilisait le calendrier julien, en retard de 13 jours : le 25 octobre correspond au 7 novembre grégorien.",
+    "explication": "La Russie tsariste utilisait encore le calendrier julien, en retard de 13 jours sur notre calendrier grégorien : le 25 octobre 1917 y correspond à notre 7 novembre. Les bolcheviks adoptent le calendrier grégorien en 1918, c'est pourquoi l'URSS fêtait la révolution « d'Octobre » en novembre.",
     "source": "D'après Wikipédia — Révolution d'Octobre"
   },
   {
@@ -253,7 +253,7 @@
       "Un hôpital de 40 lits"
     ],
     "bonneReponse": 0,
-    "explication": "Pendant les épidémies de peste, Venise et Raguse imposaient aux navires 40 jours d'isolement avant de débarquer.",
+    "explication": "Pendant les épidémies de peste, Venise et Raguse (Dubrovnik) imposent aux navires venus de régions touchées une période d'isolement avant de débarquer : d'abord 30 jours (trentena), puis 40 jours (quaranta giorni), d'où le mot « quarantaine ». On ignorait les microbes, mais on avait compris la contagion.",
     "source": "D'après Wikipédia — Quarantaine"
   },
   {
@@ -268,7 +268,7 @@
       "Winston Churchill"
     ],
     "bonneReponse": 1,
-    "explication": "Depuis Londres, sur la BBC, de Gaulle appelle les Français à poursuivre la lutte.",
+    "explication": "Le 18 juin 1940, au lendemain de l'appel de Pétain à cesser le combat, le général de Gaulle, réfugié à Londres, appelle à la BBC les Français à continuer la guerre. Peu l'ont entendu en direct, mais ce discours fonde la France libre et fait de lui le chef de la Résistance extérieure.",
     "source": "D'après Wikipédia — Appel du 18 Juin"
   },
   {
@@ -283,7 +283,7 @@
       "L'armistice concerne uniquement la marine"
     ],
     "bonneReponse": 1,
-    "explication": "L'armistice du 11 novembre 1918 arrête les combats ; la paix est signée à Versailles en 1919.",
+    "explication": "Un armistice est un accord entre militaires pour cesser les combats ; il ne règle rien sur le fond. Le traité de paix, signé par les gouvernements, fixe ensuite les frontières, les réparations et met officiellement fin à la guerre : armistice le 11 novembre 1918, traité de Versailles le 28 juin 1919.",
     "source": "D'après Wikipédia — Armistice"
   },
   {
@@ -313,8 +313,8 @@
         "annee": "1991"
       }
     ],
-    "explication": "De la première crise (1948) à la fin de l'URSS (1991).",
-    "source": "À vérifier"
+    "explication": "1948 : l'URSS bloque Berlin-Ouest, ravitaillé par un pont aérien. 1961 : construction du mur de Berlin. 1962 : la crise des missiles de Cuba fait frôler la guerre nucléaire. 1989 : chute du mur de Berlin. 1991 : dissolution de l'URSS, qui met fin à la guerre froide.",
+    "source": "D'après Wikipédia — Guerre froide"
   },
   {
     "id": "q-histoire-020",
@@ -352,7 +352,7 @@
       "On m'appelle Mahatma, la « grande âme »."
     ],
     "reponse": "Gandhi",
-    "explication": "Gandhi a mené l'Inde vers l'indépendance par la non-violence ; il est assassiné en 1948.",
+    "explication": "Avocat formé à Londres, Gandhi découvre la discrimination raciale en Afrique du Sud et y invente la satyagraha, une résistance non violente. En Inde, il mène le combat pour l'indépendance, notamment avec la marche du sel en 1930. L'Inde devient indépendante en 1947 ; il est assassiné en 1948.",
     "source": "D'après Wikipédia — Mohandas Karamchand Gandhi"
   },
   {
@@ -367,7 +367,7 @@
       "Léon III"
     ],
     "bonneReponse": 1,
-    "explication": "Urbain II lance l'appel au concile de Clermont en 1095. Léon III est le pape qui a couronné Charlemagne.",
+    "explication": "Au concile de Clermont, en 1095, le pape Urbain II appelle les chevaliers d'Occident à secourir les chrétiens d'Orient et à reprendre Jérusalem, promettant la rémission des péchés. La première croisade prend Jérusalem en 1099. Léon III, lui, est le pape qui a couronné Charlemagne en 800.",
     "source": "D'après Wikipédia — Première croisade"
   },
   {
@@ -392,7 +392,7 @@
         "explication": "Les Britanniques ont pris Gold Beach (et Sword Beach)."
       }
     ],
-    "explication": "Utah et Omaha pour les Américains, Gold et Sword pour les Britanniques, Juno pour les Canadiens.",
+    "explication": "Le 6 juin 1944, cinq plages sont attaquées : Utah et Omaha par les Américains, Gold et Sword par les Britanniques, Juno par les Canadiens. Omaha Beach est la plus meurtrière. Environ 156 000 soldats débarquent ce jour-là, le plus grand débarquement de l'histoire.",
     "source": "D'après Wikipédia — Débarquement de Normandie"
   },
   {
@@ -407,7 +407,7 @@
       "La cursive romaine"
     ],
     "bonneReponse": 1,
-    "explication": "La minuscule caroline, claire et régulière, facilite la copie des manuscrits et inspire nos caractères d'imprimerie.",
+    "explication": "À l'époque de Charlemagne, les moines copistes développent la minuscule caroline, une écriture ronde, claire et régulière, bien plus lisible que les écritures précédentes. Redécouverte par les humanistes de la Renaissance, elle a inspiré les caractères d'imprimerie : nos lettres minuscules en descendent.",
     "source": "D'après Wikipédia — Minuscule caroline"
   },
   {
@@ -416,7 +416,7 @@
     "format": "vrai-faux",
     "affirmation": "La révocation de l'édit de Nantes par Louis XIV a poussé de nombreux protestants à quitter la France.",
     "reponse": true,
-    "explication": "En 1685, environ 200 000 huguenots s'exilent, notamment vers la Prusse, les Provinces-Unies, l'Angleterre et la Suisse.",
+    "explication": "En 1685, Louis XIV révoque l'édit de Nantes qui, depuis Henri IV (1598), accordait la liberté de culte aux protestants. Temples détruits, conversions forcées : environ 200 000 huguenots fuient vers la Prusse, les Provinces-Unies, l'Angleterre ou la Suisse, emportant souvent leurs savoir-faire.",
     "source": "D'après Wikipédia — Révocation de l'édit de Nantes"
   },
   {
@@ -446,7 +446,7 @@
       "1995"
     ],
     "bonneReponse": 2,
-    "explication": "L'URSS disparaît en décembre 1991, deux ans après la chute du mur de Berlin.",
+    "explication": "Après l'échec d'un putsch contre Gorbatchev en août 1991, les républiques soviétiques proclament leur indépendance les unes après les autres. Le 8 décembre, la Russie, l'Ukraine et la Biélorussie constatent la fin de l'URSS ; Gorbatchev démissionne le 25 décembre 1991.",
     "source": "D'après Wikipédia — Dislocation de l'URSS"
   },
   {
@@ -461,7 +461,7 @@
       "Turin"
     ],
     "bonneReponse": 0,
-    "explication": "Florence, sous le mécénat des Médicis, voit travailler Brunelleschi, Botticelli, Léonard et Michel-Ange.",
+    "explication": "Au XVe siècle, Florence, riche du commerce et de la banque, devient le cœur de la Renaissance grâce au mécénat de la famille Médicis. Brunelleschi y construit la coupole de la cathédrale, et Botticelli, Léonard de Vinci et Michel-Ange y travaillent.",
     "source": "D'après Wikipédia — Renaissance italienne"
   }
 ]

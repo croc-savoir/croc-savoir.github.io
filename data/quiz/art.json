@@ -12,7 +12,7 @@
     ],
     "bonneReponse": 1,
     "explication": "Le terme « impressionnisme » vient du tableau \"Impression, soleil levant\" de Monet, moqué par un critique avant d'être adopté par les artistes eux-mêmes.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Impressionnisme"
   },
   {
     "id": "q-art-002",
@@ -25,8 +25,8 @@
       "Mon tableau le plus célèbre est un portrait de femme au sourire énigmatique."
     ],
     "reponse": "Léonard de Vinci",
-    "explication": "Léonard de Vinci est l'auteur de la Joconde et incarne l'esprit universel de la Renaissance, entre art et science.",
-    "source": "À vérifier"
+    "explication": "Peintre, ingénieur, anatomiste et inventeur, Léonard de Vinci (1452-1519) incarne l'esprit universel de la Renaissance. Il peint la Cène sur un mur de Milan et la Joconde, qu'il emporte en France, où il meurt au service de François Ier. Ses carnets, écrits en miroir, fourmillent de dessins de machines et d'études du corps humain.",
+    "source": "D'après Wikipédia — Léonard de Vinci"
   },
   {
     "id": "q-art-003",
@@ -51,8 +51,8 @@
         "annee": "1955"
       }
     ],
-    "explication": "Ces mouvements se sont succédé sur moins d'un siècle, chacun réagissant souvent aux codes du précédent.",
-    "source": "À vérifier"
+    "explication": "L'impressionnisme naît dans les années 1870 avec Monet et Renoir. Le cubisme apparaît en 1907 avec Les Demoiselles d'Avignon de Picasso. Le surréalisme est lancé en 1924 par le Manifeste d'André Breton. Le pop art, né au milieu des années 1950 en Angleterre, explose aux États-Unis avec Andy Warhol.",
+    "source": "D'après Wikipédia — Art moderne"
   },
   {
     "id": "q-art-004",
@@ -76,7 +76,7 @@
     ],
     "bonneReponse": 0,
     "explication": "La figuration représente des sujets identifiables (personnages, paysages...), tandis que l'abstraction privilégie formes et couleurs pour elles-mêmes.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Art abstrait"
   },
   {
     "id": "q-art-006",
@@ -90,7 +90,7 @@
       "Botticelli"
     ],
     "bonneReponse": 2,
-    "explication": "Michel-Ange l'a peint de 1508 à 1512 à la demande du pape Jules II.",
+    "explication": "De 1508 à 1512, à la demande du pape Jules II, Michel-Ange peint les quelque 500 m² de la voûte de la chapelle Sixtine, avec La Création d'Adam et plus de 300 personnages. Lui qui se considérait avant tout comme sculpteur y revient 25 ans plus tard pour peindre Le Jugement dernier sur le mur de l'autel.",
     "source": "D'après Wikipédia — Plafond de la chapelle Sixtine"
   },
   {
@@ -105,7 +105,7 @@
       "Le Vieux Guitariste"
     ],
     "bonneReponse": 1,
-    "explication": "Guernica a été peint pour l'Exposition universelle de Paris de 1937.",
+    "explication": "Le 26 avril 1937, pendant la guerre d'Espagne, l'aviation nazie alliée de Franco bombarde la ville basque de Guernica. Picasso peint en un peu plus d'un mois une immense toile en noir et blanc, près de 8 m de large, pour l'Exposition universelle de Paris. Elle est devenue un symbole universel contre la guerre.",
     "source": "D'après Wikipédia — Guernica (tableau)"
   },
   {
@@ -114,7 +114,7 @@
     "format": "vrai-faux",
     "affirmation": "La Ronde de nuit de Rembrandt représente une scène nocturne.",
     "reponse": false,
-    "explication": "La scène est diurne ; le vernis noirci avait trompé les observateurs du XVIIIe siècle.",
+    "explication": "La scène se passe en plein jour : c'est le départ d'une compagnie de la milice d'Amsterdam, peint en 1642. Au XVIIIe siècle, le vernis avait tellement noirci qu'on a cru à une scène nocturne, d'où son surnom. Le vrai titre évoque la compagnie du capitaine Frans Banninck Cocq.",
     "source": "D'après Wikipédia — La Ronde de nuit"
   },
   {
@@ -129,23 +129,23 @@
       "Van Eyck"
     ],
     "bonneReponse": 1,
-    "explication": "Johannes Vermeer, vers 1665. Le tableau est au Mauritshuis de La Haye.",
+    "explication": "Johannes Vermeer peint La Jeune Fille à la perle vers 1665 à Delft. Ce n'est pas un portrait mais une « tronie », une étude de visage avec un turban exotique. La perle, trop grosse pour être vraie, était peut-être en verre. Le tableau est conservé au Mauritshuis, à La Haye.",
     "source": "D'après Wikipédia — La Jeune Fille à la perle"
   },
   {
     "id": "q-art-010",
     "domain": "art",
     "format": "qcm",
-    "question": "Quel tableau a donné son nom à l'impressionnisme ?",
+    "question": "Quel peintre a réalisé La Nuit étoilée, avec son ciel tourbillonnant ?",
     "choix": [
-      "Le Déjeuner sur l'herbe",
-      "Impression, soleil levant",
-      "Les Nymphéas",
-      "Bal du moulin de la Galette"
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Paul Gauguin",
+      "Paul Cézanne"
     ],
-    "bonneReponse": 1,
-    "explication": "Le tableau de Monet, exposé en 1874, a été moqué par un critique qui a inventé le mot.",
-    "source": "D'après Wikipédia — Impression, soleil levant"
+    "bonneReponse": 0,
+    "explication": "Van Gogh peint La Nuit étoilée en juin 1889, depuis sa chambre de l'asile de Saint-Rémy-de-Provence, où il s'était fait interner. Le village et le cyprès en flammes sont en partie imaginés. Le tableau, aujourd'hui au MoMA de New York, est l'un des plus reproduits au monde.",
+    "source": "D'après Wikipédia — La Nuit étoilée (1889)"
   },
   {
     "id": "q-art-011",
@@ -179,8 +179,8 @@
         "explication": "Les célèbres montres molles du peintre surréaliste espagnol datent de 1931."
       }
     ],
-    "explication": "Cinq chefs-d'œuvre de cinq époques.",
-    "source": "À vérifier"
+    "explication": "Le Cri, du Norvégien Munch (1893), symbolise l'angoisse moderne. La Naissance de Vénus, de Botticelli (vers 1485), est un sommet de la Renaissance florentine. Le Radeau de La Méduse, de Géricault (1819), dénonce un naufrage réel. La Grande Vague, de Hokusai (vers 1831), est l'estampe japonaise la plus célèbre. Les montres molles de Dalí datent de 1931.",
+    "source": "D'après Wikipédia — Histoire de la peinture"
   },
   {
     "id": "q-art-012",
@@ -188,7 +188,7 @@
     "format": "vrai-faux",
     "affirmation": "La Joconde est peinte sur un panneau de bois.",
     "reponse": true,
-    "explication": "Elle est peinte sur un panneau de peuplier de 77 × 53 cm.",
+    "explication": "La Joconde n'est pas peinte sur toile mais sur un panneau de bois de peuplier, de seulement 77 × 53 cm, bien plus petit qu'on ne l'imagine. Léonard y a travaillé pendant des années, entre 1503 et 1519 environ. Le bois s'est légèrement bombé avec le temps, et le tableau est conservé sous vitre blindée au Louvre.",
     "source": "D'après Wikipédia — La Joconde"
   },
   {
@@ -203,7 +203,7 @@
       "Keith Haring"
     ],
     "bonneReponse": 2,
-    "explication": "En 2018, La Fille au ballon a été en partie broyée par une broyeuse cachée dans le cadre.",
+    "explication": "En 2018, juste après la vente de La Fille au ballon pour plus d'un million de livres, une broyeuse cachée dans le cadre découpe la toile à moitié devant le public. Rebaptisée L'amour est dans la poubelle, l'œuvre s'est revendue 18,6 millions de livres en 2021. L'identité de Banksy reste officiellement inconnue.",
     "source": "D'après Wikipédia — Banksy"
   },
   {
@@ -218,7 +218,7 @@
       "Cire d'abeille"
     ],
     "bonneReponse": 1,
-    "explication": "La tempera à l'œuf dominait avant la généralisation de la peinture à l'huile au XVe siècle.",
+    "explication": "La tempera est une peinture dont les pigments sont liés au jaune d'œuf. Elle sèche très vite et donne des couleurs mates et lumineuses. Elle domine en Europe jusqu'au XVe siècle, quand les peintres flamands comme Van Eyck perfectionnent la peinture à l'huile, plus souple et qui permet les glacis.",
     "source": "D'après Wikipédia — Tempera"
   },
   {
@@ -232,7 +232,7 @@
       "Mon tableau le plus célèbre est un portrait de milice rebaptisé à tort « de nuit »."
     ],
     "reponse": "Rembrandt",
-    "explication": "Rembrandt est le maître du Siècle d'or hollandais.",
+    "explication": "Rembrandt (1606-1669), maître du Siècle d'or hollandais, est célèbre pour son clair-obscur et sa profondeur psychologique. Il a peint, dessiné ou gravé près de 80 autoportraits, qui racontent toute sa vie. Ruiné en 1656, il continue de peindre jusqu'à sa mort. Son tableau le plus connu est La Ronde de nuit (1642).",
     "source": "D'après Wikipédia — Rembrandt"
   },
   {
@@ -247,7 +247,7 @@
       "Le romantisme"
     ],
     "bonneReponse": 1,
-    "explication": "Le baroque, avec Bernin, Caravage et Rubens.",
+    "explication": "Né à Rome vers 1600, dans le contexte de la Contre-Réforme catholique, le baroque cherche à émouvoir et à impressionner : mouvement, contrastes de lumière, décors spectaculaires. Ses grands noms sont le sculpteur et architecte Bernin, le Caravage et le Flamand Rubens. En musique, on parle aussi de baroque pour Vivaldi ou Bach.",
     "source": "D'après Wikipédia — Art baroque"
   },
   {
@@ -256,7 +256,7 @@
     "format": "vrai-faux",
     "affirmation": "Michel-Ange a peint le plafond de la Sixtine allongé sur le dos.",
     "reponse": false,
-    "explication": "C'est une légende : il peignait debout, la tête renversée, sur un échafaudage de son invention.",
+    "explication": "Contrairement à la légende, Michel-Ange ne peignait pas allongé : il travaillait debout sur un échafaudage de sa conception, la tête renversée en arrière pendant des heures. Il s'en plaint avec humour dans un poème, où il décrit sa barbe pointée vers le ciel et la peinture qui lui coule sur le visage.",
     "source": "D'après Wikipédia — Plafond de la chapelle Sixtine"
   },
   {
@@ -271,7 +271,7 @@
       "Heinrich Schliemann"
     ],
     "bonneReponse": 1,
-    "explication": "L'égyptologue britannique Howard Carter, financé par Lord Carnarvon.",
+    "explication": "Le 4 novembre 1922, dans la Vallée des Rois, en Égypte, l'égyptologue britannique Howard Carter découvre l'entrée du tombeau de Toutânkhamon, presque intact, après des années de recherches financées par Lord Carnarvon. Il contient plus de 5 000 objets, dont le célèbre masque funéraire en or.",
     "source": "D'après Wikipédia — Howard Carter"
   },
   {
@@ -286,7 +286,7 @@
       "Les Fauves"
     ],
     "bonneReponse": 1,
-    "explication": "Die Brücke (Le Pont), avec Kirchner. Der Blaue Reiter a été fondé à Munich en 1911.",
+    "explication": "Die Brücke (« Le Pont ») est fondé en 1905 à Dresde par de jeunes étudiants en architecture, dont Ernst Ludwig Kirchner. Ils peignent avec des couleurs violentes et des formes déformées pour exprimer leurs émotions : c'est l'expressionnisme. Un autre groupe, Der Blaue Reiter, naît à Munich en 1911 avec Kandinsky.",
     "source": "D'après Wikipédia — Die Brücke"
   },
   {
@@ -301,7 +301,7 @@
       "Aucune"
     ],
     "bonneReponse": 0,
-    "explication": "Toutes deux sont des peintures à l'eau, mais la gouache couvre.",
+    "explication": "L'aquarelle et la gouache sont toutes deux des peintures à l'eau. L'aquarelle est transparente : on voit le blanc du papier à travers, et on ne peut presque pas corriger. La gouache contient plus de pigment et une charge blanche : elle est opaque et couvre ce qu'il y a dessous.",
     "source": "D'après Wikipédia — Gouache"
   },
   {
@@ -316,7 +316,7 @@
       "~1 000"
     ],
     "bonneReponse": 0,
-    "explication": "Une trentaine seulement, ce qui rend chacun d'eux très précieux.",
+    "explication": "On attribue avec certitude à Vermeer seulement une trentaine à une quarantaine de tableaux, peints lentement avec des pigments coûteux. Oublié pendant près de deux siècles, il est redécouvert vers 1860. Cette rareté explique la valeur immense de chacune de ses œuvres et les nombreux faux, comme ceux du faussaire Van Meegeren.",
     "source": "D'après Wikipédia — Johannes Vermeer"
   },
   {
@@ -346,8 +346,8 @@
         "annee": "1962"
       }
     ],
-    "explication": "Du baroque au pop art, plus de trois siècles et demi.",
-    "source": "À vérifier"
+    "explication": "Le baroque naît à Rome vers 1600. Le romantisme s'affirme avec Le Radeau de La Méduse de Géricault (1819). La première exposition impressionniste a lieu en 1874. Le cubisme naît avec Les Demoiselles d'Avignon de Picasso (1907). Andy Warhol peint ses boîtes de soupe Campbell en 1962.",
+    "source": "D'après Wikipédia — Histoire de la peinture"
   },
   {
     "id": "q-art-023",
@@ -355,7 +355,7 @@
     "format": "vrai-faux",
     "affirmation": "Van Gogh n'a vendu aucun tableau de son vivant.",
     "reponse": false,
-    "explication": "Il a au moins vendu La Vigne rouge en 1890 ; la légende de l'artiste qui n'a rien vendu est exagérée.",
+    "explication": "La légende du génie qui n'a jamais rien vendu est exagérée : Van Gogh a vendu au moins La Vigne rouge, en 1890, à la peintre belge Anna Boch, pour 400 francs. Il a aussi échangé ou vendu quelques dessins. Mais il a vécu surtout grâce à l'argent de son frère Théo, marchand d'art.",
     "source": "D'après Wikipédia — La Vigne rouge"
   },
   {
@@ -370,7 +370,7 @@
       "Le glacis doré"
     ],
     "bonneReponse": 1,
-    "explication": "Le sfumato superpose de fines couches pour créer des transitions sans contours nets.",
+    "explication": "Le sfumato, de l'italien fumo, « fumée », consiste à superposer de très fines couches de peinture translucide pour créer des passages de lumière sans contours nets. C'est ce qui donne au sourire de la Joconde son aspect vaporeux et ambigu : il semble changer selon qu'on regarde ses yeux ou sa bouche.",
     "source": "D'après Wikipédia — Sfumato"
   },
   {
@@ -385,7 +385,7 @@
       "Le Discobole"
     ],
     "bonneReponse": 0,
-    "explication": "Le Penseur représentait Dante contemplant les cercles de l'Enfer.",
+    "explication": "Rodin travaille pendant 37 ans à La Porte de l'Enfer, inspirée de La Divine Comédie de Dante, pour un musée qui ne sera jamais construit. Parmi ses quelque 180 figures, Le Penseur représentait à l'origine Dante lui-même, méditant au-dessus des cercles de l'Enfer. Agrandi, il est devenu une œuvre indépendante.",
     "source": "D'après Wikipédia — Le Penseur"
   },
   {
@@ -415,8 +415,8 @@
         "explication": "Picasso est né à Malaga, en Espagne, même s'il a passé l'essentiel de sa vie en France."
       }
     ],
-    "explication": "Quatre pays, quatre artistes majeurs.",
-    "source": "À vérifier"
+    "explication": "Frida Kahlo est mexicaine et a vécu dans la Casa Azul, près de Mexico. Edvard Munch, auteur du Cri, est norvégien. Hokusai est un maître japonais de l'estampe. Picasso est né à Malaga, en Espagne, même s'il a passé l'essentiel de sa vie en France.",
+    "source": "D'après Wikipédia — Histoire de l'art"
   },
   {
     "id": "q-art-027",
@@ -430,7 +430,7 @@
       "L'indigo"
     ],
     "bonneReponse": 1,
-    "explication": "L'outremer naturel, fait de lapis-lazuli broyé importé d'Afghanistan, valait plus cher que l'or.",
+    "explication": "Pour ses bleus intenses, comme le turban de La Jeune Fille à la perle, Vermeer utilisait l'outremer naturel, obtenu en broyant du lapis-lazuli, une pierre importée d'Afghanistan. Il coûtait plus cher que l'or. Une version synthétique, bien moins chère, n'a été inventée qu'en 1826.",
     "source": "D'après Wikipédia — Bleu outremer"
   },
   {
@@ -445,7 +445,7 @@
       "Antoni Gaudí"
     ],
     "bonneReponse": 1,
-    "explication": "Hector Guimard a conçu ces entrées en fonte à motifs végétaux vers 1900.",
+    "explication": "Vers 1900, l'architecte Hector Guimard dessine pour le tout nouveau métro parisien des entrées en fonte verte inspirées de tiges et de fleurs, surmontées de l'inscription « Métropolitain ». Elles sont devenues l'un des symboles de l'Art nouveau ; environ 90 sont encore visibles à Paris.",
     "source": "D'après Wikipédia — Hector Guimard"
   },
   {
@@ -454,7 +454,7 @@
     "format": "vrai-faux",
     "affirmation": "Dans l'art égyptien antique, la taille d'un personnage dépendait de son importance.",
     "reponse": true,
-    "explication": "C'est la perspective hiérarchique : le pharaon est représenté plus grand que ses sujets.",
+    "explication": "Dans l'art égyptien antique, la taille d'un personnage ne dépend pas de sa distance mais de son importance : le pharaon est représenté plus grand que ses serviteurs ou ses ennemis. On parle de perspective hiérarchique. La perspective réaliste, avec le point de fuite, ne sera théorisée qu'à la Renaissance.",
     "source": "D'après Wikipédia — Art de l'Égypte antique"
   },
   {
@@ -469,7 +469,7 @@
       "L'Angélus de Millet"
     ],
     "bonneReponse": 0,
-    "explication": "Dans Les Ambassadeurs (1533), le crâne n'apparaît correctement que vu de biais.",
+    "explication": "Au premier plan des Ambassadeurs, peint par Hans Holbein en 1533, flotte une forme étrange : un crâne déformé, qui n'apparaît correctement que si l'on regarde le tableau de biais, depuis le côté. C'est une anamorphose. Ce crâne rappelle que la mort guette même les hommes puissants et savants représentés.",
     "source": "D'après Wikipédia — Les Ambassadeurs"
   }
 ]

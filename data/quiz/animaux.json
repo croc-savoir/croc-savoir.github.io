@@ -11,7 +11,7 @@
     ],
     "reponse": "Vaquita",
     "explication": "La vaquita est menacée par les captures accidentelles dans des filets de pêche illégaux destinés à un autre poisson, le totoaba.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Marsouin du Pacifique"
   },
   {
     "id": "q-animaux-002",
@@ -37,7 +37,7 @@
       }
     ],
     "explication": "Avant l'hiver, l'animal accumule des réserves, puis ralentit fortement son métabolisme pendant l'hibernation, avant de se réveiller progressivement au printemps.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Hibernation"
   },
   {
     "id": "q-animaux-003",
@@ -52,7 +52,7 @@
     ],
     "bonneReponse": 1,
     "explication": "Le pangolin est présenté comme le mammifère sauvage le plus victime de trafic illégal au monde, ses écailles étant utilisées dans certaines médecines traditionnelles.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Pangolin"
   },
   {
     "id": "q-animaux-004",
@@ -61,7 +61,7 @@
     "affirmation": "Le panda géant est aujourd'hui classé « vulnérable » plutôt que « en danger » grâce aux efforts de conservation en Chine.",
     "reponse": true,
     "explication": "Le statut du panda géant s'est amélioré au fil des décennies grâce aux réserves naturelles et aux programmes de reproduction en captivité.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Panda géant"
   },
   {
     "id": "q-animaux-005",
@@ -91,7 +91,7 @@
       }
     ],
     "explication": "Chacune de ces espèces menacées dépend d'un habitat très spécifique, ce qui la rend d'autant plus vulnérable à sa destruction.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Espèce menacée"
   },
   {
     "id": "q-animaux-006",
@@ -105,7 +105,7 @@
       "Le lévrier"
     ],
     "bonneReponse": 1,
-    "explication": "Le guépard atteint environ 100 à 110 km/h, mais seulement sur quelques centaines de mètres.",
+    "explication": "Le guépard atteint environ 100 à 110 km/h et passe de 0 à 100 km/h en 3 secondes grâce à sa colonne vertébrale très souple et ses griffes qui accrochent le sol comme des crampons. Mais il s'épuise vite : son sprint ne dure que quelques centaines de mètres.",
     "source": "D'après Wikipédia — Guépard"
   },
   {
@@ -120,7 +120,7 @@
       "8"
     ],
     "bonneReponse": 2,
-    "explication": "Deux cœurs branchiaux et un cœur systémique. Son sang est bleu.",
+    "explication": "La pieuvre a trois cœurs : deux envoient le sang vers les branchies, le troisième vers le reste du corps. Son sang est bleu, car il transporte l'oxygène grâce à l'hémocyanine, à base de cuivre, et non à l'hémoglobine, à base de fer, comme le nôtre.",
     "source": "D'après Wikipédia — Octopoda"
   },
   {
@@ -129,7 +129,7 @@
     "format": "vrai-faux",
     "affirmation": "La fourrure de l'ours polaire est blanche et sa peau est rose.",
     "reponse": false,
-    "explication": "Ses poils sont transparents et creux, et sa peau est noire pour absorber la chaleur.",
+    "explication": "Les poils de l'ours polaire sont en réalité transparents et creux : ils paraissent blancs parce qu'ils diffusent la lumière, comme la neige. Sa peau est noire, ce qui l'aide à absorber la chaleur du soleil. Une couche de graisse de 10 cm complète son isolation.",
     "source": "D'après Wikipédia — Ours blanc"
   },
   {
@@ -144,7 +144,7 @@
       "Le pangolin"
     ],
     "bonneReponse": 1,
-    "explication": "L'ornithorynque et les échidnés sont les seuls mammifères ovipares (monotrèmes).",
+    "explication": "L'ornithorynque et les échidnés sont les seuls mammifères qui pondent des œufs : on les appelle les monotrèmes. Ils vivent en Australie et en Nouvelle-Guinée. Une fois les petits éclos, la mère les allaite, mais sans tétines : le lait suinte directement de la peau de son ventre.",
     "source": "D'après Wikipédia — Ornithorynque"
   },
   {
@@ -159,7 +159,7 @@
       "Le poisson-lune"
     ],
     "bonneReponse": 2,
-    "explication": "Le requin-baleine dépasse 12 m. La baleine bleue est un mammifère, pas un poisson.",
+    "explication": "Le requin-baleine peut dépasser 12 m de long : c'est le plus grand poisson du monde. Malgré sa taille, il est inoffensif et se nourrit de plancton qu'il filtre en nageant bouche ouverte. La baleine bleue, bien plus grande, n'est pas un poisson mais un mammifère : elle respire de l'air et allaite ses petits.",
     "source": "D'après Wikipédia — Requin-baleine"
   },
   {
@@ -168,7 +168,7 @@
     "format": "vrai-faux",
     "affirmation": "Le loup est revenu en France naturellement, depuis l'Italie, en 1992.",
     "reponse": true,
-    "explication": "Il a été observé dans le parc du Mercantour, sans réintroduction.",
+    "explication": "Disparu de France dans les années 1930, le loup y est revenu seul : deux loups venus d'Italie sont observés en 1992 dans le parc du Mercantour, sans aucune réintroduction. Strictement protégé, il a depuis gagné les Alpes, le Jura, les Vosges et les Pyrénées ; on estime aujourd'hui qu'il y en a environ un millier.",
     "source": "D'après Wikipédia — Loup en France"
   },
   {
@@ -183,7 +183,7 @@
       "Le necture"
     ],
     "bonneReponse": 1,
-    "explication": "L'axolotl régénère pattes, queue, moelle épinière et même une partie de son cœur.",
+    "explication": "L'axolotl, une salamandre qui ne vit plus à l'état sauvage que près de Mexico, peut régénérer une patte, sa queue, sa moelle épinière et même une partie de son cœur ou de son cerveau, sans cicatrice. Les chercheurs l'étudient pour comprendre comment réparer les tissus humains.",
     "source": "D'après Wikipédia — Axolotl"
   },
   {
@@ -197,7 +197,7 @@
       "J'ai survécu au vide spatial en 2007."
     ],
     "reponse": "Tardigrade",
-    "explication": "Le tardigrade entre en cryptobiose pour survivre à des conditions extrêmes.",
+    "explication": "Le tardigrade, animal d'un demi-millimètre, survit à la sécheresse en expulsant presque toute son eau et en se recroquevillant : c'est la cryptobiose. Dans cet état, il résiste au froid extrême, à des radiations mortelles pour nous et même au vide spatial, testé en 2007. Une goutte d'eau suffit à le réveiller.",
     "source": "D'après Wikipédia — Tardigrada"
   },
   {
@@ -212,7 +212,7 @@
       "Le crocodile"
     ],
     "bonneReponse": 1,
-    "explication": "La femelle hippocampe dépose ses œufs dans la poche ventrale du mâle.",
+    "explication": "Chez l'hippocampe, la femelle dépose ses œufs dans une poche sur le ventre du mâle, qui les féconde et les porte pendant deux à quatre semaines. Il les expulse ensuite par contractions, parfois plusieurs centaines de petits d'un coup : c'est le seul cas où le mâle « accouche ».",
     "source": "D'après Wikipédia — Hippocampe (poisson)"
   },
   {
@@ -247,8 +247,8 @@
         "explication": "Environ 22 mois de gestation : le petit naît déjà gros d'une centaine de kilos."
       }
     ],
-    "explication": "Cinq champions du règne animal.",
-    "source": "À vérifier"
+    "explication": "La baleine bleue (jusqu'à 30 m) est le plus grand animal ayant jamais existé ; le guépard le plus rapide sur terre ; le colibri d'Elena, à Cuba, le plus petit oiseau (environ 2 g) ; la sterne arctique fait la plus longue migration (environ 70 000 km par an) ; l'éléphant a la plus longue gestation (environ 22 mois).",
+    "source": "D'après Wikipédia — Animal"
   },
   {
     "id": "q-animaux-016",
@@ -262,7 +262,7 @@
       "Il est mangé par les orques"
     ],
     "bonneReponse": 1,
-    "explication": "Il est victime collatérale de la pêche illégale d'un poisson dont la vessie natatoire vaut une fortune.",
+    "explication": "Le vaquita, plus petit cétacé du monde, ne vit que dans le nord du golfe de Californie. Il n'est pas chassé : il se noie dans les filets maillants posés illégalement pour pêcher le totoaba, un poisson dont la vessie natatoire se vend à prix d'or en Asie. Il n'en resterait qu'une dizaine.",
     "source": "D'après Wikipédia — Marsouin du Pacifique"
   },
   {
@@ -271,7 +271,7 @@
     "format": "vrai-faux",
     "affirmation": "L'ours brun fait une véritable hibernation, comme la marmotte.",
     "reponse": false,
-    "explication": "L'ours fait un sommeil hivernal : sa température ne baisse que de quelques degrés.",
+    "explication": "L'ours brun ne fait pas une vraie hibernation mais un sommeil hivernal : sa température ne baisse que de quelques degrés et il peut se réveiller rapidement. La femelle met même bas pendant cette période. La marmotte, elle, hiberne vraiment : sa température descend vers 5 °C et son cœur bat moins de 10 fois par minute.",
     "source": "D'après Wikipédia — Hibernation"
   },
   {
@@ -286,7 +286,7 @@
       "De cartilage"
     ],
     "bonneReponse": 2,
-    "explication": "La même matière que nos ongles et nos cheveux ; elle n'a aucune vertu médicinale prouvée.",
+    "explication": "La corne de rhinocéros est faite de kératine, la même matière que nos ongles et nos cheveux. Elle n'a aucune vertu médicinale prouvée, mais elle se vend plus cher que l'or au marché noir, ce qui alimente un braconnage massif. Certains parcs coupent préventivement les cornes pour décourager les braconniers.",
     "source": "D'après Wikipédia — Rhinocéros"
   },
   {
@@ -301,7 +301,7 @@
       "Elles ne communiquent pas"
     ],
     "bonneReponse": 1,
-    "explication": "La danse frétillante indique direction et distance ; elle a été décodée par Karl von Frisch.",
+    "explication": "Une abeille qui a trouvé des fleurs revient à la ruche et exécute une « danse frétillante » : l'angle de sa danse indique la direction par rapport au soleil, et sa durée la distance. Ce langage a été décodé par le chercheur autrichien Karl von Frisch, prix Nobel en 1973.",
     "source": "D'après Wikipédia — Danse des abeilles"
   },
   {
@@ -316,7 +316,7 @@
       "Aucune"
     ],
     "bonneReponse": 0,
-    "explication": "La poule est ovipare, le chat vivipare.",
+    "explication": "Un animal ovipare pond des œufs qui se développent hors de son corps, comme les oiseaux, la plupart des reptiles et des poissons. Un animal vivipare porte ses petits dans son ventre et les met au monde vivants, comme presque tous les mammifères. Entre les deux, les ovovivipares, comme la vipère, gardent les œufs dans leur corps jusqu'à l'éclosion.",
     "source": "D'après Wikipédia — Viviparité"
   },
   {
@@ -331,7 +331,7 @@
       "Des insectes"
     ],
     "bonneReponse": 2,
-    "explication": "Le bambou représente environ 99 % de son alimentation, alors qu'il appartient à l'ordre des carnivores.",
+    "explication": "Le bambou représente environ 99 % du régime du panda, qui en mange 12 à 38 kg par jour. Pourtant, le panda appartient à l'ordre des carnivores et son intestin digère mal les plantes : il doit manger presque toute la journée. Un faux pouce, un os du poignet allongé, l'aide à tenir les tiges.",
     "source": "D'après Wikipédia — Panda géant"
   },
   {
@@ -340,7 +340,7 @@
     "format": "vrai-faux",
     "affirmation": "Les corneilles peuvent reconnaître un visage humain pendant des années.",
     "reponse": true,
-    "explication": "Des études ont montré qu'elles se souvenaient d'un chercheur masqué et transmettaient leur méfiance aux autres.",
+    "explication": "Des chercheurs de l'université de Washington ont capturé des corneilles en portant un masque. Des années plus tard, les oiseaux criaient encore à la vue de ce masque, et même des corneilles qui n'avaient jamais été capturées avaient appris à s'en méfier. Les corvidés comptent parmi les animaux les plus intelligents.",
     "source": "D'après Wikipédia — Corneille d'Amérique"
   },
   {
@@ -355,7 +355,7 @@
       "Le moa"
     ],
     "bonneReponse": 1,
-    "explication": "Le kakapo est nocturne, incapable de voler, et chaque individu porte un prénom.",
+    "explication": "Le kakapo, perroquet de Nouvelle-Zélande, est incapable de voler : il a évolué sans prédateurs mammifères. C'est aussi le perroquet le plus lourd, jusqu'à 4 kg, et il est nocturne. Il n'en reste qu'environ 250, tous suivis individuellement et portant un prénom, sur des îles débarrassées des prédateurs introduits.",
     "source": "D'après Wikipédia — Kakapo"
   },
   {
@@ -370,7 +370,7 @@
       "15 ans"
     ],
     "bonneReponse": 2,
-    "explication": "C'est l'intervalle entre naissances le plus long chez les mammifères.",
+    "explication": "Une femelle orang-outan garde son petit auprès d'elle pendant 7 à 8 ans, le temps de lui apprendre à trouver sa nourriture et à construire un nid chaque soir. Elle n'a donc qu'un petit tous les 7 à 8 ans environ, le plus long intervalle de tous les mammifères, ce qui rend l'espèce très vulnérable.",
     "source": "D'après Wikipédia — Orang-outan"
   },
   {
@@ -385,7 +385,7 @@
       "Pour se camoufler"
     ],
     "bonneReponse": 1,
-    "explication": "Les fourmis champignonnistes pratiquent une forme d'agriculture depuis des dizaines de millions d'années.",
+    "explication": "Les fourmis champignonnistes, ou fourmis coupe-feuilles, ne mangent pas les feuilles qu'elles découpent. Elles les mâchent pour nourrir un champignon qu'elles cultivent dans leur nid, et c'est ce champignon qu'elles mangent. Elles pratiquent cette forme d'agriculture depuis des dizaines de millions d'années.",
     "source": "D'après Wikipédia — Fourmi champignonniste"
   },
   {
@@ -415,8 +415,8 @@
         "explication": "Il ne vit que sur l'île de Sumatra, en Indonésie, où il en reste moins de 600."
       }
     ],
-    "explication": "Beaucoup d'espèces menacées vivent dans une zone très réduite.",
-    "source": "À vérifier"
+    "explication": "Ces quatre espèces ne vivent que dans une zone très réduite : l'axolotl dans les canaux de Xochimilco, près de Mexico ; le kakapo sur quelques îles néo-zélandaises ; le gorille des montagnes sur les volcans entre Rwanda, Ouganda et RD Congo ; le tigre de Sumatra sur cette seule île indonésienne. Une aire aussi petite les rend très vulnérables.",
+    "source": "D'après Wikipédia — Espèce menacée"
   },
   {
     "id": "q-animaux-027",
@@ -430,7 +430,7 @@
       "~15 000"
     ],
     "bonneReponse": 1,
-    "explication": "Environ 150, surtout dans le Jura : une population encore très fragile.",
+    "explication": "Disparu de France au début du XXe siècle, le lynx boréal est revenu grâce à des réintroductions en Suisse et dans les Vosges dans les années 1970-1980. Il en reste environ 150, surtout dans le Jura. Les collisions avec les voitures et le braconnage menacent encore cette petite population.",
     "source": "D'après Wikipédia — Lynx boréal"
   },
   {
@@ -439,7 +439,7 @@
     "format": "vrai-faux",
     "affirmation": "Les « loups alpha » qui dominent la meute par la force sont la règle chez les loups sauvages.",
     "reponse": false,
-    "explication": "Cette idée vient de loups captifs non apparentés. Une meute sauvage est une famille menée par les parents.",
+    "explication": "L'image du « loup alpha » vient d'études sur des loups captifs, sans lien de parenté, réunis de force dans un enclos. Dans la nature, une meute est simplement une famille : un couple de parents et leurs petits des années précédentes. Le chercheur à l'origine du terme, David Mech, a lui-même demandé qu'on l'abandonne.",
     "source": "D'après Wikipédia — Loup gris"
   },
   {
@@ -454,7 +454,7 @@
       "~1 000"
     ],
     "bonneReponse": 2,
-    "explication": "Ce battement rapide lui permet le vol stationnaire et même le vol en arrière.",
+    "explication": "En vol normal, un colibri bat des ailes 50 à 80 fois par seconde, et jusqu'à 200 fois lors des parades. Ses ailes décrivent un 8 couché, ce qui lui permet de faire du surplace devant une fleur et même de voler en arrière. Pour tenir ce rythme, il consomme chaque jour environ la moitié de son poids en nectar.",
     "source": "D'après Wikipédia — Trochilidae"
   },
   {
@@ -469,7 +469,7 @@
       "Il était trop grand"
     ],
     "bonneReponse": 1,
-    "explication": "Bec de canard, queue de castor, pattes palmées : George Shaw a cherché des coutures en 1799.",
+    "explication": "Quand le premier spécimen d'ornithorynque arrive en Angleterre en 1799, le naturaliste George Shaw cherche des points de couture : un bec de canard, une queue de castor, des pattes palmées et un pelage de mammifère sur le même animal, cela ressemblait à une farce de taxidermiste. On a découvert ensuite qu'il pond des œufs.",
     "source": "D'après Wikipédia — Ornithorynque"
   }
 ]

@@ -12,7 +12,7 @@
     ],
     "bonneReponse": 2,
     "explication": "Le Pacifique couvre à lui seul environ un tiers de la surface du globe, davantage que toutes les terres émergées réunies.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Océan Pacifique"
   },
   {
     "id": "q-geo-002",
@@ -42,7 +42,7 @@
       }
     ],
     "explication": "Attention aux pièges classiques : la capitale n'est pas toujours la ville la plus connue ou la plus peuplée (Sydney n'est pas la capitale de l'Australie, ni São Paulo celle du Brésil).",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Capitale"
   },
   {
     "id": "q-geo-003",
@@ -51,7 +51,7 @@
     "affirmation": "La Suisse est une enclave, entièrement entourée par l'Italie.",
     "reponse": false,
     "explication": "La Suisse est un pays enclavé (sans accès à la mer), mais elle est entourée par plusieurs pays (France, Allemagne, Autriche, Italie, Liechtenstein) et non un seul, ce qui n'en fait pas une enclave au sens strict.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Enclave et exclave"
   },
   {
     "id": "q-geo-004",
@@ -66,7 +66,7 @@
     ],
     "bonneReponse": 0,
     "explication": "Un delta se forme quand les sédiments déposés par le fleuve le divisent en plusieurs bras avant la mer ; un estuaire reste un chenal unique, souvent façonné par les marées.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Estuaire"
   },
   {
     "id": "q-geo-005",
@@ -81,7 +81,7 @@
     ],
     "reponse": "Marco Polo",
     "explication": "Marco Polo, marchand vénitien du XIIIe siècle, a marqué durablement l'imaginaire européen avec le récit de ses voyages en Asie.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Marco Polo"
   },
   {
     "id": "q-geo-006",
@@ -95,7 +95,7 @@
       "Perth"
     ],
     "bonneReponse": 2,
-    "explication": "Canberra a été créée comme compromis entre les deux rivales, Sydney et Melbourne.",
+    "explication": "Sydney et Melbourne se disputaient le titre de capitale. En 1908, on choisit un site entre les deux, et Canberra est construite de toutes pièces à partir de 1913, sur les plans des architectes américains Walter Burley Griffin et Marion Mahony Griffin. Le Parlement s'y installe en 1927.",
     "source": "D'après Wikipédia — Canberra"
   },
   {
@@ -110,7 +110,7 @@
       "Lac Titicaca"
     ],
     "bonneReponse": 2,
-    "explication": "Le lac Baïkal, en Sibérie, atteint 1 642 m de profondeur.",
+    "explication": "Le lac Baïkal, en Sibérie, atteint 1 642 m de profondeur. C'est aussi le plus ancien lac du monde, environ 25 millions d'années, et il contient à lui seul environ 20 % de l'eau douce liquide de surface de la planète. Il abrite une espèce unique de phoque d'eau douce, le phoque du Baïkal.",
     "source": "D'après Wikipédia — Lac Baïkal"
   },
   {
@@ -119,7 +119,7 @@
     "format": "vrai-faux",
     "affirmation": "La Grande Muraille de Chine est visible à l'œil nu depuis la Lune.",
     "reponse": false,
-    "explication": "C'est un mythe : la muraille est très longue mais étroite (quelques mètres), invisible depuis la Lune.",
+    "explication": "C'est un mythe. La Grande Muraille est très longue (plus de 20 000 km avec toutes ses sections), mais elle ne mesure que quelques mètres de large et a la couleur du sol : même depuis l'orbite basse, à 400 km, on la distingue à peine. La Lune est à environ 384 000 km.",
     "source": "D'après Wikipédia — Grande Muraille"
   },
   {
@@ -134,7 +134,7 @@
       "Béring"
     ],
     "bonneReponse": 1,
-    "explication": "Le Bosphore relie la mer Noire à la mer de Marmara.",
+    "explication": "Le Bosphore, long d'environ 30 km, relie la mer Noire à la mer de Marmara et sépare Istanbul en deux : une rive européenne et une rive asiatique, reliées par des ponts et des tunnels. C'est l'un des détroits les plus fréquentés et les plus stratégiques du monde.",
     "source": "D'après Wikipédia — Bosphore"
   },
   {
@@ -169,8 +169,8 @@
         "explication": "Rabat est la capitale ; Casablanca est la plus grande ville et le poumon économique du Maroc."
       }
     ],
-    "explication": "Dans tous ces pays, la capitale n'est pas la plus grande ville.",
-    "source": "À vérifier"
+    "explication": "Dans chacun de ces pays, la capitale n'est pas la plus grande ville : Ottawa plutôt que Toronto, Ankara plutôt qu'Istanbul, Brasília plutôt que São Paulo, Canberra plutôt que Sydney, Rabat plutôt que Casablanca. Souvent, c'est un choix politique de compromis ou de rupture avec le passé.",
+    "source": "D'après Wikipédia — Capitale"
   },
   {
     "id": "q-geo-011",
@@ -184,7 +184,7 @@
       "9 001 m"
     ],
     "bonneReponse": 2,
-    "explication": "La Chine et le Népal ont annoncé ensemble la mesure de 8 849 m en 2020 (contre 8 848 m auparavant).",
+    "explication": "En 2020, la Chine et le Népal, qui se partagent le sommet, ont annoncé ensemble une nouvelle mesure de 8 848,86 m, arrondie à 8 849 m. L'ancienne valeur de 8 848 m datait de 1955. La hauteur varie légèrement avec la neige, les séismes et la lente surrection de l'Himalaya.",
     "source": "D'après Wikipédia — Everest"
   },
   {
@@ -193,7 +193,7 @@
     "format": "vrai-faux",
     "affirmation": "Le plus grand pays du monde par la superficie est le Canada.",
     "reponse": false,
-    "explication": "C'est la Russie (~17 millions km²). Le Canada est deuxième.",
+    "explication": "C'est la Russie, avec environ 17,1 millions de km², soit près du double du Canada (environ 10 millions de km²), qui est deuxième. La Russie s'étend sur 11 fuseaux horaires, de la mer Baltique à l'océan Pacifique.",
     "source": "D'après Wikipédia — Russie"
   },
   {
@@ -208,7 +208,7 @@
       "Messner et Habeler"
     ],
     "bonneReponse": 1,
-    "explication": "Edmund Hillary et le sherpa Tenzing Norgay atteignent le sommet le 29 mai 1953. Mallory et Irvine ont disparu en 1924.",
+    "explication": "Le 29 mai 1953, le Néo-Zélandais Edmund Hillary et le sherpa népalais Tenzing Norgay atteignent le sommet lors d'une expédition britannique. En 1924, George Mallory et Andrew Irvine avaient disparu près du sommet ; on ignore toujours s'ils l'ont atteint. Le corps de Mallory n'a été retrouvé qu'en 1999.",
     "source": "D'après Wikipédia — Edmund Hillary"
   },
   {
@@ -223,7 +223,7 @@
       "Les Maldives"
     ],
     "bonneReponse": 2,
-    "explication": "L'Indonésie compte plus de 17 000 îles.",
+    "explication": "L'Indonésie compte plus de 17 000 îles, dont environ 6 000 habitées, réparties sur plus de 5 000 km entre l'océan Indien et le Pacifique. Les plus grandes sont Sumatra, Java (l'île la plus peuplée du monde), Bornéo (partagée avec la Malaisie et Brunei), Sulawesi et la Nouvelle-Guinée.",
     "source": "D'après Wikipédia — Indonésie"
   },
   {
@@ -238,7 +238,7 @@
       "La latitude mesure l'altitude"
     ],
     "bonneReponse": 0,
-    "explication": "Latitude : nord-sud, par rapport à l'équateur. Longitude : est-ouest, par rapport au méridien d'origine.",
+    "explication": "La latitude mesure la position nord-sud, de 0° à l'équateur à 90° aux pôles. La longitude mesure la position est-ouest, de 0° au méridien de Greenwich (Londres) à 180°. Paris est à environ 48,9° de latitude Nord et 2,3° de longitude Est.",
     "source": "D'après Wikipédia — Coordonnées géographiques"
   },
   {
@@ -253,7 +253,7 @@
       "Jean-Baptiste Charcot"
     ],
     "bonneReponse": 2,
-    "explication": "Le Norvégien Amundsen arrive le 14 décembre 1911, un mois avant Scott.",
+    "explication": "Le Norvégien Roald Amundsen atteint le pôle Sud le 14 décembre 1911, grâce à des chiens de traîneau et à sa connaissance des techniques inuites. Le Britannique Robert Scott y arrive le 17 janvier 1912, découvre le drapeau norvégien et meurt avec ses compagnons sur le chemin du retour.",
     "source": "D'après Wikipédia — Roald Amundsen"
   },
   {
@@ -277,7 +277,7 @@
       "Vauban"
     ],
     "bonneReponse": 1,
-    "explication": "Ferdinand de Lesseps a dirigé le chantier, inauguré en 1869. Il échouera ensuite à Panama.",
+    "explication": "Le diplomate Ferdinand de Lesseps obtient la concession du vice-roi d'Égypte et dirige le chantier du canal de Suez, inauguré en 1869 : il relie la Méditerranée à la mer Rouge et évite le contournement de l'Afrique. Il échoue ensuite à Panama, dans un scandale financier retentissant (1892).",
     "source": "D'après Wikipédia — Ferdinand de Lesseps"
   },
   {
@@ -292,7 +292,7 @@
       "24"
     ],
     "bonneReponse": 2,
-    "explication": "Les 20 arrondissements sont disposés en spirale depuis le centre.",
+    "explication": "Depuis 1860, quand Napoléon III annexe les communes voisines, Paris compte 20 arrondissements. Ils sont numérotés en spirale dans le sens des aiguilles d'une montre, à partir du centre (le Louvre dans le 1er). Depuis 2020, les quatre premiers sont regroupés sous le nom de « Paris Centre » pour la mairie.",
     "source": "D'après Wikipédia — Arrondissements de Paris"
   },
   {
@@ -306,7 +306,7 @@
       "J'abrite le plus haut sommet du monde."
     ],
     "reponse": "Himalaya",
-    "explication": "L'Himalaya est né de la collision entre l'Inde et l'Asie.",
+    "explication": "L'Himalaya est né de la collision entre la plaque indienne et la plaque eurasienne, commencée il y a environ 50 millions d'années, et qui continue : la chaîne s'élève encore de quelques millimètres par an. Ses glaciers alimentent le Gange, l'Indus et le Brahmapoutre, d'où son surnom de château d'eau de l'Asie.",
     "source": "D'après Wikipédia — Himalaya"
   },
   {
@@ -321,7 +321,7 @@
       "-120 °C"
     ],
     "bonneReponse": 2,
-    "explication": "-89,2 °C à la station Vostok, en Antarctique, en 1983. -67,7 °C est le record d'Oïmiakon, en Sibérie.",
+    "explication": "Le record officiel est de -89,2 °C, mesuré le 21 juillet 1983 à la station russe Vostok, en Antarctique, à 3 500 m d'altitude. Oïmiakon, en Sibérie, détient le record du lieu habité en permanence le plus froid, avec -67,7 °C. Des satellites ont même détecté près de -94 °C en surface, mais ce n'est pas une mesure officielle.",
     "source": "D'après Wikipédia — Base antarctique Vostok"
   },
   {
@@ -356,8 +356,8 @@
         "explication": "Le Mississippi traverse les États-Unis du nord au sud jusqu'au golfe du Mexique."
       }
     ],
-    "explication": "Cinq grands fleuves, cinq continents.",
-    "source": "À vérifier"
+    "explication": "L'Amazone traverse le Brésil jusqu'à l'Atlantique ; le Nil coule du centre de l'Afrique jusqu'à la Méditerranée ; le Yangzi Jiang, en Chine, est le plus long fleuve d'Asie ; le Danube traverse 10 pays européens ; le Mississippi traverse les États-Unis jusqu'au golfe du Mexique.",
+    "source": "D'après Wikipédia — Liste des plus longs cours d'eau"
   },
   {
     "id": "q-geo-023",
@@ -365,7 +365,7 @@
     "format": "vrai-faux",
     "affirmation": "Istanbul est la capitale de la Turquie.",
     "reponse": false,
-    "explication": "La capitale est Ankara depuis 1923. Istanbul est la plus grande ville du pays.",
+    "explication": "Depuis 1923, la capitale de la Turquie est Ankara, choisie par Mustafa Kemal Atatürk pour rompre avec l'Empire ottoman, dont Istanbul était la capitale depuis 1453. Istanbul reste de loin la plus grande ville du pays, avec plus de 15 millions d'habitants, et son cœur économique.",
     "source": "D'après Wikipédia — Ankara"
   },
   {
@@ -380,7 +380,7 @@
       "Monument Valley"
     ],
     "bonneReponse": 0,
-    "explication": "Uluru (autrefois appelé Ayers Rock) est un lieu sacré des Anangu.",
+    "explication": "Uluru est un immense monolithe de grès qui s'élève à environ 350 m au-dessus de la plaine, au cœur de l'Australie. Il change de couleur selon la lumière, du rouge à l'orange. Sacré pour les Aborigènes Anangu, il leur a été rendu en 1985, et son ascension est interdite depuis 2019.",
     "source": "D'après Wikipédia — Uluru"
   },
   {
@@ -395,7 +395,7 @@
       "Le Mississippi"
     ],
     "bonneReponse": 2,
-    "explication": "L'Amazone déverse environ 20 % de l'eau douce qui arrive aux océans, loin devant le Congo.",
+    "explication": "L'Amazone déverse en moyenne environ 209 000 m³ d'eau par seconde dans l'Atlantique, environ 20 % de l'eau douce qui arrive aux océans, soit plus que les sept fleuves suivants réunis. Le Congo, deuxième, en déverse environ 40 000 m³/s. Pour la longueur, l'Amazone et le Nil restent en compétition.",
     "source": "D'après Wikipédia — Amazone (fleuve)"
   },
   {
@@ -425,8 +425,8 @@
         "annee": "1953"
       }
     ],
-    "explication": "Du XIIIe au XXe siècle, cinq grandes étapes de l'exploration.",
-    "source": "À vérifier"
+    "explication": "1271 : Marco Polo part pour la Chine du Grand Khan. 1492 : Christophe Colomb atteint l'Amérique. 1519 : Magellan part pour le premier tour du monde, achevé en 1522. 1911 : Amundsen atteint le pôle Sud. 1953 : Hillary et Tenzing gravissent l'Everest.",
+    "source": "D'après Wikipédia — Grandes découvertes"
   },
   {
     "id": "q-geo-027",
@@ -440,7 +440,7 @@
       "Norvège"
     ],
     "bonneReponse": 2,
-    "explication": "Le Canada possède environ 243 000 km de côtes grâce à ses milliers d'îles arctiques.",
+    "explication": "Avec ses milliers d'îles de l'archipel arctique, le Canada possède environ 243 000 km de côtes, soit plus de six fois le tour de la Terre. C'est de loin le plus long littoral du monde, devant ceux de l'Indonésie et de la Norvège, très découpés par les fjords.",
     "source": "D'après Wikipédia — Canada"
   },
   {
@@ -464,7 +464,7 @@
       "Français"
     ],
     "bonneReponse": 1,
-    "explication": "Le Brésil a été une colonie portugaise à partir de 1500.",
+    "explication": "Le navigateur portugais Pedro Álvares Cabral aborde le Brésil en 1500, et le pays reste une colonie portugaise jusqu'à son indépendance en 1822. Avec plus de 200 millions d'habitants, le Brésil est aujourd'hui le premier pays lusophone du monde, loin devant le Portugal.",
     "source": "D'après Wikipédia — Brésil"
   },
   {
@@ -479,7 +479,7 @@
       "Alexander von Humboldt"
     ],
     "bonneReponse": 1,
-    "explication": "Darwin a proposé en 1842 que les atolls naissent autour de volcans qui s'enfoncent lentement.",
+    "explication": "Lors du voyage du Beagle, Charles Darwin imagine que les atolls se forment autour d'îles volcaniques qui s'enfoncent lentement dans l'océan, pendant que le corail continue de pousser vers la surface : il ne reste qu'un anneau autour d'un lagon. Il publie cette théorie en 1842 ; des forages l'ont confirmée dans les années 1950.",
     "source": "D'après Wikipédia — Atoll"
   }
 ]

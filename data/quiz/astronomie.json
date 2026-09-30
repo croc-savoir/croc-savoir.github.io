@@ -11,8 +11,8 @@
       "Mercure"
     ],
     "bonneReponse": 1,
-    "explication": "Mars doit sa teinte rougeâtre à l'oxyde de fer présent en abondance à sa surface.",
-    "source": "À vérifier"
+    "explication": "Mars doit sa couleur à l'oxyde de fer, autrement dit de la rouille, présent en abondance dans ses roches et sa poussière. Les tempêtes soulèvent cette poussière et teintent même le ciel martien d'ocre. Les Romains lui ont donné le nom de leur dieu de la guerre, à cause de cette couleur de sang.",
+    "source": "D'après Wikipédia — Mars (planète)"
   },
   {
     "id": "q-astronomie-002",
@@ -38,7 +38,7 @@
       }
     ],
     "explication": "En quinze ans, l'humanité passe du premier satellite artificiel aux dernières missions lunaires habitées du programme Apollo.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Course à l'espace"
   },
   {
     "id": "q-astronomie-003",
@@ -47,7 +47,7 @@
     "affirmation": "Les saisons sur Terre sont dues à la distance variable entre la Terre et le Soleil au cours de l'année.",
     "reponse": false,
     "explication": "Idée reçue très répandue : les saisons sont en réalité causées par l'inclinaison de l'axe de rotation de la Terre, pas par sa distance au Soleil (la Terre est même légèrement plus proche du Soleil en hiver dans l'hémisphère nord).",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Saison"
   },
   {
     "id": "q-astronomie-004",
@@ -62,7 +62,7 @@
     ],
     "bonneReponse": 0,
     "explication": "Un météore est la traînée lumineuse d'un fragment qui se désintègre en entrant dans l'atmosphère ; s'il en survit un morceau jusqu'au sol, ce fragment est alors appelé météorite.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Météore"
   },
   {
     "id": "q-astronomie-005",
@@ -76,7 +76,7 @@
       "Uranus"
     ],
     "bonneReponse": 1,
-    "explication": "Jupiter pourrait contenir plus de 1 300 Terres.",
+    "explication": "Jupiter est une géante gazeuse, faite surtout d'hydrogène et d'hélium, si grande qu'elle pourrait contenir plus de 1 300 Terres. Elle est deux fois et demie plus massive que toutes les autres planètes réunies. Sa Grande Tache rouge est une tempête plus large que la Terre, observée depuis au moins deux siècles.",
     "source": "D'après Wikipédia — Jupiter (planète)"
   },
   {
@@ -91,7 +91,7 @@
       "Jupiter"
     ],
     "bonneReponse": 1,
-    "explication": "Vénus (~465 °C) est plus chaude que Mercure à cause de son effet de serre extrême.",
+    "explication": "Vénus est plus chaude que Mercure, pourtant plus proche du Soleil, à cause de son atmosphère épaisse composée à 96 % de dioxyde de carbone. Cet effet de serre emballé piège la chaleur : sa surface atteint environ 465 °C, jour et nuit, assez pour faire fondre le plomb.",
     "source": "D'après Wikipédia — Vénus (planète)"
   },
   {
@@ -100,7 +100,7 @@
     "format": "vrai-faux",
     "affirmation": "Pluton est officiellement une planète naine depuis 2006.",
     "reponse": true,
-    "explication": "L'UAI l'a reclassée car elle n'a pas « fait le ménage » sur son orbite.",
+    "explication": "En 2006, l'Union astronomique internationale définit une planète comme un corps qui tourne autour du Soleil, assez massif pour être rond, et qui a « fait le ménage » sur son orbite. Pluton partage la sienne avec de nombreux objets de la ceinture de Kuiper : elle devient une planète naine, comme Éris ou Cérès.",
     "source": "D'après Wikipédia — Pluton (planète naine)"
   },
   {
@@ -115,7 +115,7 @@
       "Edwin Hubble"
     ],
     "bonneReponse": 1,
-    "explication": "Le Verrier a calculé sa position à partir des perturbations d'Uranus ; Galle l'a observée en 1846.",
+    "explication": "L'orbite d'Uranus présentait des irrégularités inexpliquées. Le Français Urbain Le Verrier suppose qu'une planète inconnue la perturbe et calcule sa position. Le 23 septembre 1846, l'Allemand Johann Galle pointe son télescope à l'endroit indiqué et trouve Neptune : une planète découverte au crayon avant d'être vue.",
     "source": "D'après Wikipédia — Urbain Le Verrier"
   },
   {
@@ -130,7 +130,7 @@
       "Il est infini"
     ],
     "bonneReponse": 1,
-    "explication": "13,8 milliards d'années. 4,6 milliards, c'est l'âge du système solaire.",
+    "explication": "D'après le modèle du Big Bang et les mesures du fond diffus cosmologique, la lumière fossile de l'univers primitif, l'univers a environ 13,8 milliards d'années. Le Soleil et le système solaire sont bien plus jeunes : environ 4,6 milliards d'années.",
     "source": "D'après Wikipédia — Âge de l'univers"
   },
   {
@@ -144,7 +144,7 @@
       "En 1963, je suis devenue la première femme dans l'espace."
     ],
     "reponse": "Valentina Terechkova",
-    "explication": "Terechkova a volé à bord de Vostok 6 le 16 juin 1963.",
+    "explication": "Ouvrière du textile et parachutiste amatrice, Valentina Terechkova est choisie parmi plus de 400 candidates. Le 16 juin 1963, à bord de Vostok 6, elle devient la première femme dans l'espace et fait 48 fois le tour de la Terre en près de 3 jours. Son indicatif radio était « Tchaïka », la mouette.",
     "source": "D'après Wikipédia — Valentina Terechkova"
   },
   {
@@ -153,7 +153,7 @@
     "format": "vrai-faux",
     "affirmation": "Sur Vénus, un jour dure plus longtemps qu'une année.",
     "reponse": true,
-    "explication": "Vénus tourne sur elle-même en 243 jours terrestres et autour du Soleil en 225 jours.",
+    "explication": "Vénus tourne très lentement sur elle-même, et à l'envers par rapport à la plupart des planètes : une rotation prend 243 jours terrestres, alors qu'elle fait le tour du Soleil en 225 jours. Son « jour » est donc plus long que son « année », et le Soleil s'y lève à l'ouest.",
     "source": "D'après Wikipédia — Vénus (planète)"
   },
   {
@@ -168,7 +168,7 @@
       "150"
     ],
     "bonneReponse": 2,
-    "explication": "88 constellations couvrent tout le ciel. Ptolémée en listait 48.",
+    "explication": "Depuis 1922, l'Union astronomique internationale reconnaît 88 constellations, qui découpent tout le ciel comme des départements. Au IIe siècle, l'astronome grec Ptolémée en listait 48, surtout visibles depuis l'hémisphère Nord ; les autres ont été ajoutées par les navigateurs européens explorant le ciel austral.",
     "source": "D'après Wikipédia — Constellation"
   },
   {
@@ -183,7 +183,7 @@
       "Stephen Hawking"
     ],
     "bonneReponse": 2,
-    "explication": "Le prêtre et physicien belge Georges Lemaître, en 1927.",
+    "explication": "Dès 1927, Georges Lemaître, prêtre catholique et physicien belge, propose que l'univers est en expansion et qu'il est né d'un « atome primitif ». Deux ans plus tard, Edwin Hubble observe que les galaxies s'éloignent. Le nom moqueur de « Big Bang » a été donné en 1949 par l'astronome Fred Hoyle, qui n'y croyait pas.",
     "source": "D'après Wikipédia — Georges Lemaître"
   },
   {
@@ -198,7 +198,7 @@
       "Environ 250 ans"
     ],
     "bonneReponse": 2,
-    "explication": "Environ 75-76 ans. Son prochain passage est prévu en 2061.",
+    "explication": "La comète de Halley revient environ tous les 75 à 76 ans. En 1705, Edmond Halley a prédit son retour pour 1758 en comprenant que les comètes de 1531, 1607 et 1682 étaient la même ; elle est revenue après sa mort et porte son nom. Dernier passage en 1986, prochain en 2061.",
     "source": "D'après Wikipédia — Comète de Halley"
   },
   {
@@ -229,7 +229,7 @@
       }
     ],
     "explication": "Titan et Encelade tournent autour de Saturne ; Io, Europe, Ganymède et Callisto autour de Jupiter ; Phobos et Deimos autour de Mars.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Satellites naturels du Système solaire"
   },
   {
     "id": "q-astronomie-016",
@@ -237,7 +237,7 @@
     "format": "vrai-faux",
     "affirmation": "Les astronautes flottent dans l'ISS parce qu'il n'y a plus de gravité à 400 km d'altitude.",
     "reponse": false,
-    "explication": "La gravité y est encore d'environ 90 %. Ils flottent car ils sont en chute libre permanente avec la station.",
+    "explication": "À 400 km d'altitude, la gravité est encore d'environ 90 % de celle du sol. Si les astronautes flottent, c'est parce que la station et tout ce qu'elle contient sont en chute libre permanente autour de la Terre : ils tombent en même temps que l'ISS, mais vont si vite (28 000 km/h) qu'ils ne cessent de rater la Terre.",
     "source": "D'après Wikipédia — Impesanteur"
   },
   {
@@ -252,7 +252,7 @@
       "C'est une illusion d'optique"
     ],
     "bonneReponse": 1,
-    "explication": "La lumière rouge des couchers de soleil de la Terre est réfractée vers la Lune.",
+    "explication": "Pendant une éclipse totale, la Lune passe dans l'ombre de la Terre, mais ne disparaît pas. L'atmosphère terrestre dévie vers elle un peu de lumière solaire, en filtrant le bleu : il ne reste que le rouge, comme si tous les couchers de soleil de la Terre l'éclairaient à la fois. On parle de « Lune de sang ».",
     "source": "D'après Wikipédia — Éclipse lunaire"
   },
   {
@@ -267,7 +267,7 @@
       "Au sommet du Mauna Kea"
     ],
     "bonneReponse": 2,
-    "explication": "Il orbite autour du point L2, à 1,5 million de km de la Terre.",
+    "explication": "Le télescope James Webb n'orbite pas autour de la Terre comme Hubble : il tourne autour du point de Lagrange L2, à 1,5 million de km, à l'opposé du Soleil. Là, il garde toujours le Soleil, la Terre et la Lune du même côté, derrière son pare-soleil, pour rester à environ -230 °C, indispensable pour observer l'infrarouge.",
     "source": "D'après Wikipédia — James Webb Space Telescope"
   },
   {
@@ -301,8 +301,8 @@
         "annee": "2000"
       }
     ],
-    "explication": "De Spoutnik à l'ISS, 43 ans d'histoire spatiale.",
-    "source": "À vérifier"
+    "explication": "1957 : Spoutnik 1, premier satellite artificiel. 1961 : Youri Gagarine, premier homme dans l'espace. 1963 : Valentina Terechkova, première femme dans l'espace. 1969 : Apollo 11 et les premiers pas sur la Lune. 1977 : lancement des sondes Voyager. 2000 : premier équipage permanent de la Station spatiale internationale.",
+    "source": "D'après Wikipédia — Course à l'espace"
   },
   {
     "id": "q-astronomie-020",
@@ -316,7 +316,7 @@
       "Mars"
     ],
     "bonneReponse": 1,
-    "explication": "Uranus roule sur son orbite : chaque pôle connaît 42 ans de jour puis 42 ans de nuit.",
+    "explication": "L'axe de rotation d'Uranus est incliné d'environ 98° : la planète roule sur son orbite comme une bille, sans doute à cause d'une collision géante dans sa jeunesse. Comme elle met 84 ans à faire le tour du Soleil, chaque pôle connaît environ 42 ans de jour continu puis 42 ans de nuit.",
     "source": "D'après Wikipédia — Uranus (planète)"
   },
   {
@@ -331,7 +331,7 @@
       "Blanc"
     ],
     "bonneReponse": 1,
-    "explication": "Le vert, dû à l'oxygène vers 100-250 km d'altitude, est la couleur la plus fréquente.",
+    "explication": "Les aurores naissent quand des particules du vent solaire, guidées par le champ magnétique terrestre vers les pôles, percutent les atomes de la haute atmosphère. Le vert, le plus fréquent, vient de l'oxygène vers 100 à 250 km d'altitude ; le rouge vient de l'oxygène plus haut, le bleu et le violet de l'azote.",
     "source": "D'après Wikipédia — Aurore polaire"
   },
   {
@@ -340,7 +340,7 @@
     "format": "vrai-faux",
     "affirmation": "La face cachée de la Lune est toujours plongée dans l'obscurité.",
     "reponse": false,
-    "explication": "Elle est cachée pour nous, pas pour le Soleil : elle est éclairée lors de la nouvelle Lune.",
+    "explication": "La Lune tourne sur elle-même dans le même temps qu'elle tourne autour de la Terre : on voit donc toujours la même face. La face « cachée » l'est pour nous, pas pour le Soleil : elle est éclairée pendant notre nouvelle Lune. Le terme « face sombre » est donc trompeur.",
     "source": "D'après Wikipédia — Face cachée de la Lune"
   },
   {
@@ -355,7 +355,7 @@
       "Une galaxie naine"
     ],
     "bonneReponse": 1,
-    "explication": "Après la phase de géante rouge, il reste un cœur très dense de la taille de la Terre.",
+    "explication": "Une étoile comme le Soleil, en fin de vie, gonfle en géante rouge puis expulse ses couches externes. Il reste son cœur, une naine blanche : une boule de la taille de la Terre mais aussi massive qu'une étoile. Une cuillère à café de sa matière pèserait plusieurs tonnes. Le Soleil deviendra une naine blanche dans environ 5 milliards d'années.",
     "source": "D'après Wikipédia — Naine blanche"
   },
   {
@@ -370,23 +370,23 @@
       "Cassini"
     ],
     "bonneReponse": 1,
-    "explication": "Voyager 1, lancée en 1977, est à plus de 24 milliards de km.",
+    "explication": "Lancée en 1977, la sonde Voyager 1 a survolé Jupiter et Saturne, puis quitté la zone d'influence du Soleil en 2012 pour entrer dans l'espace interstellaire. À plus de 24 milliards de km, ses signaux mettent plus de 22 heures à nous parvenir. Elle emporte un disque d'or destiné à d'éventuels extraterrestres.",
     "source": "D'après Wikipédia — Voyager 1"
   },
   {
     "id": "q-astronomie-025",
     "domain": "astronomie",
     "format": "difference",
-    "question": "Quelle est la différence entre une météorite et un météore ?",
+    "question": "Quelle est la différence entre une étoile et une planète ?",
     "choix": [
-      "Aucune",
-      "Le météore est la traînée lumineuse, la météorite le fragment tombé au sol",
-      "La météorite est la traînée lumineuse, le météore le fragment au sol",
-      "Le météore vient de la Lune"
+      "Une étoile produit sa propre lumière par fusion nucléaire, une planète ne fait que refléter celle d'une étoile",
+      "Une étoile est toujours plus petite qu'une planète",
+      "Une planète scintille, une étoile non",
+      "Aucune, ce sont deux noms pour le même objet"
     ],
-    "bonneReponse": 1,
-    "explication": "Météoroïde dans l'espace, météore dans l'atmosphère, météorite au sol.",
-    "source": "D'après Wikipédia — Météorite"
+    "bonneReponse": 0,
+    "explication": "Une étoile, comme le Soleil, produit sa lumière et sa chaleur par fusion nucléaire en son cœur. Une planète n'émet pas de lumière visible : elle réfléchit celle de son étoile. À l'œil nu, un indice : les étoiles scintillent, alors que les planètes brillent d'un éclat plus fixe.",
+    "source": "D'après Wikipédia — Étoile"
   },
   {
     "id": "q-astronomie-026",
@@ -400,7 +400,7 @@
       "Maxwell Montes"
     ],
     "bonneReponse": 2,
-    "explication": "Olympus Mons, sur Mars, s'élève à environ 22 km au-dessus des plaines.",
+    "explication": "Olympus Mons, sur Mars, est un volcan bouclier qui s'élève à environ 22 km au-dessus des plaines voisines, près de trois fois l'Everest, et sa base est aussi large que la France. La faible gravité martienne et l'absence de plaques tectoniques en mouvement ont permis à la lave de s'accumuler au même endroit pendant des millions d'années.",
     "source": "D'après Wikipédia — Olympus Mons"
   },
   {
@@ -415,7 +415,7 @@
       "Tycho Brahe"
     ],
     "bonneReponse": 0,
-    "explication": "Hubble a montré que la vitesse d'éloignement des galaxies augmente avec leur distance.",
+    "explication": "En 1929, l'Américain Edwin Hubble montre que les galaxies s'éloignent de nous d'autant plus vite qu'elles sont lointaines : c'est la loi de Hubble-Lemaître. C'est une preuve majeure de l'expansion de l'univers et donc du modèle du Big Bang. Le télescope spatial Hubble porte son nom.",
     "source": "D'après Wikipédia — Edwin Hubble"
   },
   {
@@ -424,14 +424,14 @@
     "format": "vrai-faux",
     "affirmation": "Le Soleil représente plus de 99 % de la masse du système solaire.",
     "reponse": true,
-    "explication": "Environ 99,86 %. Jupiter représente l'essentiel du reste.",
+    "explication": "Le Soleil concentre environ 99,86 % de la masse du système solaire. Le reste est surtout constitué de Jupiter, puis de Saturne ; la Terre n'en représente qu'une infime fraction. C'est cette masse énorme qui maintient toutes les planètes en orbite autour de lui.",
     "source": "D'après Wikipédia — Soleil"
   },
   {
     "id": "q-astronomie-029",
     "domain": "astronomie",
     "format": "qcm",
-    "question": "Quel Français a été le premier commandant de l'ISS de son pays ?",
+    "question": "Quel astronaute a été le premier Français à commander la Station spatiale internationale ?",
     "choix": [
       "Jean-Loup Chrétien",
       "Thomas Pesquet",
@@ -439,7 +439,7 @@
       "Philippe Perrin"
     ],
     "bonneReponse": 1,
-    "explication": "Thomas Pesquet a commandé l'ISS en 2021. Jean-Loup Chrétien a été le premier Français dans l'espace (1982).",
+    "explication": "Thomas Pesquet a commandé l'ISS en 2021, lors de sa deuxième mission de longue durée. Ce n'est pas le premier Français dans l'espace : c'est Jean-Loup Chrétien, en 1982, à bord de la station soviétique Saliout 7. Claudie Haigneré est la première Française dans l'espace (1996).",
     "source": "D'après Wikipédia — Thomas Pesquet"
   }
 ]

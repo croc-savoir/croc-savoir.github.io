@@ -12,7 +12,7 @@
     ],
     "bonneReponse": 0,
     "explication": "E=mc² exprime l'équivalence entre masse (m) et énergie (E), reliées par le carré de la vitesse de la lumière (c). Une petite masse correspond ainsi à une énergie considérable.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — E=mc2"
   },
   {
     "id": "q-sciences-002",
@@ -21,7 +21,7 @@
     "affirmation": "Un objet a le même poids sur la Terre et sur la Lune.",
     "reponse": false,
     "explication": "Idée reçue fréquente : c'est la masse qui reste identique, pas le poids. La gravité lunaire étant plus faible, le poids d'un objet y est environ six fois moindre que sur Terre.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Poids"
   },
   {
     "id": "q-sciences-003",
@@ -51,7 +51,7 @@
       }
     ],
     "explication": "Quatre contributions majeures qui ont chacune fondé un pan entier de la science moderne : biologie évolutive, microbiologie, chimie et physique nucléaire.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Histoire des sciences"
   },
   {
     "id": "q-sciences-004",
@@ -65,8 +65,8 @@
       "Je deviens la seule personne à avoir reçu deux prix Nobel dans deux sciences différentes."
     ],
     "reponse": "Marie Curie",
-    "explication": "Marie Curie a reçu le prix Nobel de physique en 1903 et celui de chimie en 1911, un exploit resté unique à ce jour.",
-    "source": "À vérifier"
+    "explication": "Née Maria Skłodowska à Varsovie, Marie Curie découvre avec son mari Pierre le polonium, nommé d'après la Pologne, et le radium en 1898. Elle reçoit le prix Nobel de physique en 1903 et celui de chimie en 1911 : elle reste la seule personne récompensée dans deux sciences différentes.",
+    "source": "D'après Wikipédia — Marie Curie"
   },
   {
     "id": "q-sciences-005",
@@ -80,7 +80,7 @@
       "3 millions km/s"
     ],
     "bonneReponse": 2,
-    "explication": "Exactement 299 792 458 m/s, soit environ 300 000 km/s.",
+    "explication": "Dans le vide, la lumière va exactement à 299 792 458 m/s, soit environ 300 000 km/s : elle ferait plus de sept fois le tour de la Terre en une seconde. Depuis 1983, cette valeur est fixée par définition, et c'est elle qui sert à définir le mètre.",
     "source": "D'après Wikipédia — Vitesse de la lumière"
   },
   {
@@ -95,7 +95,7 @@
       "Barbara McClintock"
     ],
     "bonneReponse": 1,
-    "explication": "Rosalind Franklin a obtenu ce cliché de diffraction en 1952 ; il a guidé Watson et Crick.",
+    "explication": "En 1952, Rosalind Franklin obtient par diffraction aux rayons X la « photo 51 », dont le motif en X révèle une structure en hélice. Montrée à James Watson sans qu'elle le sache, elle l'aide, avec Francis Crick, à proposer la double hélice de l'ADN en 1953. Franklin, morte en 1958, n'a pas eu le prix Nobel.",
     "source": "D'après Wikipédia — Rosalind Franklin"
   },
   {
@@ -104,7 +104,7 @@
     "format": "vrai-faux",
     "affirmation": "Les antibiotiques sont efficaces contre la grippe.",
     "reponse": false,
-    "explication": "La grippe est due à un virus. Les antibiotiques n'agissent que sur les bactéries.",
+    "explication": "La grippe est causée par un virus. Les antibiotiques ne tuent que les bactéries : ils sont totalement inefficaces contre les virus. En prendre sans raison favorise même l'apparition de bactéries résistantes. Contre la grippe, la prévention passe par le vaccin.",
     "source": "D'après Wikipédia — Antibiotique"
   },
   {
@@ -119,7 +119,7 @@
       "14"
     ],
     "bonneReponse": 2,
-    "explication": "L'eau pure est neutre : pH 7 à 25 °C.",
+    "explication": "L'échelle de pH va de 0 (très acide) à 14 (très basique). L'eau pure, à 25 °C, est neutre : pH 7. En dessous, c'est acide, comme le jus de citron (environ 2) ; au-dessus, c'est basique, comme l'eau de Javel (environ 12). Chaque unité correspond à un facteur 10.",
     "source": "D'après Wikipédia — Potentiel hydrogène"
   },
   {
@@ -128,7 +128,7 @@
     "format": "vrai-faux",
     "affirmation": "La glace est plus dense que l'eau liquide.",
     "reponse": false,
-    "explication": "C'est l'inverse, et c'est pour cela que la glace flotte. L'eau est la plus dense à 4 °C.",
+    "explication": "C'est l'inverse : en gelant, les molécules d'eau s'organisent en un réseau hexagonal plein de vides, ce qui rend la glace environ 9 % moins dense que l'eau liquide. C'est pourquoi les glaçons flottent et les lacs gèlent par la surface, protégeant la vie aquatique en dessous. L'eau est la plus dense à 4 °C.",
     "source": "D'après Wikipédia — Glace"
   },
   {
@@ -143,7 +143,7 @@
       "16"
     ],
     "bonneReponse": 2,
-    "explication": "Suite de Fibonacci : chaque terme est la somme des deux précédents, 5 + 8 = 13.",
+    "explication": "C'est la suite de Fibonacci : chaque nombre est la somme des deux précédents, donc 5 + 8 = 13, puis 21, 34, 55… Le rapport entre deux termes successifs se rapproche du nombre d'or (environ 1,618). On la retrouve dans les spirales des tournesols et des pommes de pin.",
     "source": "D'après Wikipédia — Suite de Fibonacci"
   },
   {
@@ -178,8 +178,8 @@
         "explication": "Mendeleïev range les éléments en 1869 en laissant des cases pour ceux qui restaient à découvrir."
       }
     ],
-    "explication": "Cinq piliers de l'histoire des sciences.",
-    "source": "À vérifier"
+    "explication": "Newton explique en 1687 que la même force fait tomber les objets et fait tourner les planètes. Darwin montre en 1859 que les espèces évoluent par sélection naturelle. Lavoisier prouve que la masse se conserve lors des réactions chimiques. Pasteur met au point le vaccin contre la rage en 1885. Mendeleïev classe les éléments en 1869.",
+    "source": "D'après Wikipédia — Histoire des sciences"
   },
   {
     "id": "q-sciences-012",
@@ -193,7 +193,7 @@
       "48"
     ],
     "bonneReponse": 2,
-    "explication": "46 chromosomes, soit 23 paires. Les gamètes n'en ont que 23.",
+    "explication": "Une cellule humaine ordinaire contient 46 chromosomes, organisés en 23 paires : un chromosome de chaque paire vient de la mère, l'autre du père. Les gamètes (spermatozoïdes et ovules) n'en contiennent que 23, pour qu'à la fécondation l'embryon retrouve 46 chromosomes.",
     "source": "D'après Wikipédia — Chromosome"
   },
   {
@@ -208,7 +208,7 @@
       "Le Soleil émet surtout du bleu"
     ],
     "bonneReponse": 1,
-    "explication": "C'est la diffusion Rayleigh : les courtes longueurs d'onde (bleu) sont bien plus diffusées par les molécules de l'air.",
+    "explication": "La lumière du Soleil contient toutes les couleurs. En traversant l'atmosphère, elle rencontre les molécules de l'air, qui dévient beaucoup plus les courtes longueurs d'onde, le bleu, que le rouge : c'est la diffusion Rayleigh. Au coucher du soleil, la lumière traverse plus d'air, le bleu est dispersé et il reste l'orange et le rouge.",
     "source": "D'après Wikipédia — Diffusion Rayleigh"
   },
   {
@@ -223,7 +223,7 @@
       "Une pomme est associée à ma légende."
     ],
     "reponse": "Isaac Newton",
-    "explication": "Newton (1643-1727) a unifié la mécanique céleste et terrestre.",
+    "explication": "Isaac Newton (1643-1727) publie en 1687 les Principia, où il formule les lois du mouvement et la gravitation universelle. Il décompose aussi la lumière blanche avec un prisme et invente le calcul infinitésimal, en même temps que Leibniz, avec qui il se dispute violemment la paternité.",
     "source": "D'après Wikipédia — Isaac Newton"
   },
   {
@@ -247,7 +247,7 @@
       "H, O, C, N"
     ],
     "bonneReponse": 0,
-    "explication": "Adénine, thymine, guanine, cytosine. Dans l'ARN, l'uracile (U) remplace la thymine.",
+    "explication": "L'ADN s'écrit avec quatre bases : adénine (A), thymine (T), guanine (G) et cytosine (C). Elles s'associent toujours par paires, A avec T et G avec C, ce qui permet de copier la molécule. Dans l'ARN, l'uracile (U) remplace la thymine.",
     "source": "D'après Wikipédia — Acide désoxyribonucléique"
   },
   {
@@ -262,7 +262,7 @@
       "Condensation"
     ],
     "bonneReponse": 2,
-    "explication": "La glace carbonique (CO₂ solide) se sublime à pression atmosphérique.",
+    "explication": "La sublimation est le passage direct de l'état solide à l'état gazeux, sans passer par le liquide. La glace carbonique (CO₂ solide) se sublime à pression normale, d'où sa « fumée ». Le givre qui se forme sur une vitre est le phénomène inverse, la condensation solide.",
     "source": "D'après Wikipédia — Sublimation (physique)"
   },
   {
@@ -277,7 +277,7 @@
       "Al-Khwârizmî"
     ],
     "bonneReponse": 1,
-    "explication": "Fibonacci (Léonard de Pise), dans son Liber abaci. Al-Khwârizmî les avait diffusés dans le monde arabe au IXe siècle.",
+    "explication": "Le mathématicien italien Léonard de Pise, dit Fibonacci, découvre les chiffres indo-arabes et le zéro en Afrique du Nord, puis les fait connaître en Europe dans son Liber abaci en 1202. Ils mettront des siècles à remplacer les chiffres romains. Le Persan Al-Khwârizmî les avait diffusés dans le monde arabe au IXe siècle.",
     "source": "D'après Wikipédia — Leonardo Fibonacci"
   },
   {
@@ -286,7 +286,7 @@
     "format": "vrai-faux",
     "affirmation": "Au sommet de l'Everest, l'eau bout à une température inférieure à 100 °C.",
     "reponse": true,
-    "explication": "La pression y est plus faible : l'eau bout vers 70 °C.",
+    "explication": "L'eau bout quand la pression de sa vapeur égale la pression de l'air. Au sommet de l'Everest, la pression atmosphérique n'est plus qu'environ un tiers de celle du niveau de la mer : l'eau bout vers 70 °C, ce qui rend la cuisson des pâtes très longue. À l'inverse, la cocotte-minute augmente la pression pour dépasser 100 °C.",
     "source": "D'après Wikipédia — Point d'ébullition"
   },
   {
@@ -301,7 +301,7 @@
       "La température ne concerne que les gaz"
     ],
     "bonneReponse": 1,
-    "explication": "La température s'exprime en °C ou K, la chaleur (énergie transférée) en joules.",
+    "explication": "La température mesure l'agitation des particules d'un corps ; elle s'exprime en degrés Celsius ou en kelvins. La chaleur est une quantité d'énergie qui passe d'un corps chaud vers un corps froid ; elle s'exprime en joules. Une baignoire tiède contient plus d'énergie thermique qu'une allumette, pourtant bien plus chaude.",
     "source": "D'après Wikipédia — Chaleur (thermodynamique)"
   },
   {
@@ -316,7 +316,7 @@
       "3,142"
     ],
     "bonneReponse": 1,
-    "explication": "φ ≈ 1,618. 1,414 est √2, 2,718 est e, 3,142 est π.",
+    "explication": "Le nombre d'or, noté φ (phi), vaut (1 + √5) / 2, soit environ 1,618. On le retrouve dans la suite de Fibonacci et dans certaines formes naturelles. Les autres choix sont des constantes célèbres : √2 ≈ 1,414, e ≈ 2,718 et π ≈ 3,142.",
     "source": "D'après Wikipédia — Nombre d'or"
   },
   {
@@ -346,8 +346,8 @@
         "annee": "1953"
       }
     ],
-    "explication": "Trois siècles de grandes découvertes scientifiques.",
-    "source": "À vérifier"
+    "explication": "1687 : Newton publie les lois du mouvement et de la gravitation. 1859 : Darwin publie L'Origine des espèces. 1869 : Mendeleïev présente son tableau périodique des éléments. 1905 : Einstein publie la relativité restreinte. 1953 : Watson et Crick décrivent la double hélice de l'ADN.",
+    "source": "D'après Wikipédia — Histoire des sciences"
   },
   {
     "id": "q-sciences-023",
@@ -361,7 +361,7 @@
       "La myopathie de Duchenne"
     ],
     "bonneReponse": 1,
-    "explication": "La sclérose latérale amyotrophique, ou maladie de Charcot, l'a progressivement paralysé.",
+    "explication": "Stephen Hawking est atteint dès 21 ans de la sclérose latérale amyotrophique, ou maladie de Charcot, qui paralyse progressivement les muscles. Les médecins lui donnaient deux ans à vivre ; il vit encore 55 ans, communique avec une voix de synthèse et révolutionne l'étude des trous noirs.",
     "source": "D'après Wikipédia — Stephen Hawking"
   },
   {
@@ -370,7 +370,7 @@
     "format": "vrai-faux",
     "affirmation": "Les oiseaux descendent des dinosaures.",
     "reponse": true,
-    "explication": "Les oiseaux sont des dinosaures théropodes ayant survécu à l'extinction d'il y a 66 millions d'années.",
+    "explication": "Les oiseaux descendent de petits dinosaures carnivores à plumes, les théropodes, la même famille que le tyrannosaure. Des fossiles comme l'Archaeopteryx montrent la transition. Les oiseaux sont donc des dinosaures qui ont survécu à l'extinction d'il y a 66 millions d'années.",
     "source": "D'après Wikipédia — Histoire évolutive des oiseaux"
   },
   {
@@ -400,7 +400,7 @@
       "Du sanskrit zira"
     ],
     "bonneReponse": 1,
-    "explication": "Sifr a donné zefiro en italien, puis zéro. Le même mot a donné « chiffre ».",
+    "explication": "Le mot vient de l'arabe sifr, qui signifie « vide ». Il est passé à l'italien sous la forme zefiro, puis zero, avant d'arriver en français. Le même mot arabe a aussi donné « chiffre ». Le zéro comme nombre à part entière a été formalisé en Inde au VIIe siècle.",
     "source": "D'après Wikipédia — 0 (nombre)"
   },
   {
@@ -430,8 +430,8 @@
         "explication": "L'eau de Javel est très basique, d'où son pouvoir corrosif et désinfectant."
       }
     ],
-    "explication": "Plus le pH est bas, plus c'est acide ; plus il est haut, plus c'est basique.",
-    "source": "À vérifier"
+    "explication": "Le suc gastrique, riche en acide chlorhydrique, est très acide (pH ≈ 2). L'eau pure est neutre (7). Le sang est légèrement basique et doit rester entre 7,35 et 7,45. L'eau de Javel est très basique (≈ 12), d'où son pouvoir corrosif.",
+    "source": "D'après Wikipédia — Potentiel hydrogène"
   },
   {
     "id": "q-sciences-028",
@@ -445,7 +445,7 @@
       "Plasma"
     ],
     "bonneReponse": 3,
-    "explication": "Le plasma est un gaz ionisé, le plus répandu de l'univers visible.",
+    "explication": "Les étoiles sont faites de plasma, un gaz si chaud que les électrons sont arrachés aux atomes. C'est le quatrième état de la matière, après le solide, le liquide et le gaz, et le plus répandu dans l'univers visible. On en trouve aussi sur Terre dans les éclairs et les aurores polaires.",
     "source": "D'après Wikipédia — Plasma (physique)"
   },
   {
@@ -460,7 +460,7 @@
       "Gauss"
     ],
     "bonneReponse": 0,
-    "explication": "La démonstration figure dans les Éléments d'Euclide, vers 300 av. J.-C.",
+    "explication": "Vers 300 av. J.-C., Euclide démontre dans ses Éléments qu'il existe une infinité de nombres premiers. Son raisonnement : si on multiplie tous les nombres premiers d'une liste finie et qu'on ajoute 1, le résultat n'est divisible par aucun d'eux, donc la liste est forcément incomplète.",
     "source": "D'après Wikipédia — Théorème d'Euclide sur les nombres premiers"
   }
 ]

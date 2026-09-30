@@ -887,3 +887,29 @@ body::before {
 .dt-q .dt-flag--tiny, .dt-q .dt-flag--opt { display: block; margin: 0; }
 .dt-q .dt-flag--tiny { width: 56px; max-width: 56px; }
 .dt-q .dt-flag--opt { width: 100%; max-width: none; }
+
+/* Dragon Tour — maîtrise et réponse tapée */
+.dt-dots { display: inline-flex; gap: 5px; margin-top: 4px; }
+.dt-dot { width: 9px; height: 9px; border-radius: 50%; background: var(--bg-elevated); border: 1px solid var(--border); }
+.dt-dot.is-on { background: #34d399; border-color: #34d399; box-shadow: 0 0 6px rgba(52, 211, 153, 0.6); }
+.dt-mastery { display: inline-flex; align-items: center; gap: 8px; margin-left: auto; font-size: 12.5px; font-weight: 700; color: var(--text-muted); }
+.dt-mastery .dt-dots { margin-top: 0; }
+.crumb-row { justify-content: space-between; }
+
+.dt-type { display: flex; gap: 8px; }
+.dt-type__input {
+  flex: 1; min-width: 0; height: 52px; padding: 0 14px;
+  border: 2px solid var(--border); border-radius: var(--radius-md);
+  background: var(--bg-elevated); color: var(--text);
+  font-size: 16px; font-family: inherit; outline: none;
+}
+.dt-type__input:focus { border-color: var(--accent); }
+.dt-type__input.is-correct { border-color: var(--success); background: var(--success-bg); }
+.dt-type__input.is-wrong { border-color: var(--danger); background: var(--danger-bg); }
+.dt-type__ok { min-height: 52px; padding: 0 18px; }
+.dt-type__skip {
+  display: block; margin: 12px auto 0; padding: 10px 16px; min-height: 44px;
+  border: none; background: none; color: var(--text-faint);
+  font-size: 14px; font-weight: 700; text-decoration: underline; cursor: pointer;
+}
+.dt-type__skip[hidden] { display: none; }

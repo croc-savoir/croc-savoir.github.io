@@ -86,6 +86,8 @@ const Dragon = (() => {
     if (state.level === 'decouvrir') return renderDecouvrir(root);
     if (state.level === 'entrainer') return renderEntrainerSetup(root);
     if (state.level === 'entrainer-run') return renderEntrainer(root);
+    if (state.level === 'maitriser') return renderMaitriserSetup(root);
+    if (state.level === 'maitriser-run') return renderMaitriser(root);
   }
 
   // ---------- Groupes ----------
@@ -106,6 +108,7 @@ const Dragon = (() => {
         <span class="dt-group__text">
           <span class="dt-group__label">${escapeHTML(g.label)}</span>
           ${g.desc ? `<span class="dt-group__desc">${escapeHTML(g.desc)}</span>` : ''}
+          ${dotsHTML(groupMastery(g.id))}
         </span>`;
       btn.addEventListener('click', () => goDeeper({ level: 'modes', groupId: g.id }));
       list.appendChild(btn);
@@ -118,13 +121,13 @@ const Dragon = (() => {
     const g = group(state.groupId);
     const title = document.createElement('div');
     title.className = 'crumb-row';
-    title.innerHTML = `<span class="crumb-title">${g.emoji} ${escapeHTML(g.label)}</span>`;
+    title.innerHTML = `<span class="crumb-title">${g.emoji} ${escapeHTML(g.label)}</span><span class="dt-mastery">${dotsHTML(groupMastery(g.id))}<span>${masteryWord(groupMastery(g.id))}</span></span>`;
     root.appendChild(title);
 
     const modes = [
       { id: 'decouvrir', emoji: '🃏', label: 'Découvrir', desc: 'Des cartes à retourner : le drapeau d’un côté, le pays et sa capitale de l’autre.' },
       { id: 'entrainer', emoji: '🎯', label: 'S’entraîner', desc: 'QCM à 4 choix : drapeaux, pays et capitales dans tous les sens.' },
-      { id: 'maitriser', emoji: '✍️', label: 'Maîtriser', desc: 'Tape toi-même la réponse. Les accents et petites fautes sont tolérés.', soon: true },
+      { id: 'maitriser', emoji: '✍️', label: 'Maîtriser', desc: 'Tape toi-même la réponse. Les accents et petites fautes sont tolérés.' },
     ];
     const list = document.createElement('div');
     list.className = 'mode-list';
@@ -305,13 +308,13 @@ const Dragon = (() => {
   // Ratés d'abord, puis jamais vus, puis déjà sus.
   function pickSeries(groupId, kind) {
     const members = QuizGen.shuffle(membersOf(groupId)).filter(p => questionTypesFor(kind, p).length);
-    const rank = p => {
+    const prio = p => {
       const m = Store.getDragonMeta(p.code);
-      if (m && m.lastKnown === false) return 0;
-      if (!m) return 1;
-      return 2;
+      if (m && m.lastKnown === false) return 1000 + Math.random() * 10;
+      return SRS.priority(m) + Math.random() * 10;
     };
-    members.sort((a, b) => rank(a) - rank(b));
+    const weights = new Map(members.map(p => [p.code, prio(p)]));
+    members.sort((a, b) => weights.get(b.code) - weights.get(a.code));
     return members.slice(0, SERIES_SIZE).map(p => {
       const types = questionTypesFor(kind, p);
       return { code: p.code, type: types[Math.floor(Math.random() * types.length)] };
@@ -454,6 +457,214 @@ const Dragon = (() => {
     div.appendChild(again);
     div.appendChild(back);
     root.appendChild(div);
+  }
+
+  // ---------- Maîtrise (0 à 3 par pays, points par groupe) ----------
+  // 0 : jamais su · 1 et 2 : bonnes réponses d'affilée · 3 : trois d'affilée ET déjà tapé juste en « Maîtriser ».
+  function level(code) {
+    const m = Store.getDragonMeta(code);
+    if (!m || !m.reps) return 0;
+    if (m.reps >= 3 && m.typedOk) return 3;
+    return Math.min(m.reps, 2);
+  }
+
+  function groupMastery(groupId) {
+    const members = membersOf(groupId);
+    if (!members.length) return 0;
+    const sum = members.reduce((s, p) => s + level(p.code), 0);
+    return sum / (members.length * 3);
+  }
+
+  function dotsHTML(frac) {
+    // Le premier point s'allume dès qu'on a commencé le groupe.
+    const on = frac > 0 ? Math.max(1, Math.round(frac * 4)) : 0;
+    let h = '<span class="dt-dots" aria-label="Maîtrise">';
+    for (let i = 0; i < 4; i++) h += `<span class="dt-dot${i < on ? ' is-on' : ''}"></span>`;
+    return h + '</span>';
+  }
+
+  function masteryWord(frac) {
+    if (frac >= 0.999) return 'Maîtrisé';
+    if (frac >= 0.625) return 'Avancé';
+    if (frac >= 0.375) return 'En progrès';
+    if (frac > 0) return 'Débutant';
+    return 'À découvrir';
+  }
+
+  // ---------- Maîtriser (réponse tapée) ----------
+  const KINDS_TYPED = [
+    { id: 'mix', emoji: '🎲', label: 'Tout mélangé', desc: 'Pays à partir du drapeau, capitales dans les deux sens.' },
+    { id: 'drapeaux', emoji: '🏳️', label: 'Drapeaux', desc: 'Écris le nom du pays à partir de son drapeau.' },
+    { id: 'capitales', emoji: '🏛️', label: 'Capitales', desc: 'Écris la capitale d’un pays, ou le pays d’une capitale.' },
+  ];
+
+  function renderMaitriserSetup(root) {
+    const g = group(state.groupId);
+    const title = document.createElement('div');
+    title.className = 'crumb-row';
+    title.innerHTML = `<span class="crumb-title">✍️ Maîtriser · ${escapeHTML(g.label)}</span>`;
+    root.appendChild(title);
+    const list = document.createElement('div');
+    list.className = 'mode-list';
+    KINDS_TYPED.forEach(k => {
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'mode-card';
+      btn.innerHTML = `
+        <span class="mode-card__icon">${k.emoji}</span>
+        <span class="mode-card__text">
+          <span class="mode-card__title">${k.label}</span>
+          <span class="mode-card__desc">${k.desc}</span>
+        </span>
+        <span class="mode-card__arrow">›</span>`;
+      btn.addEventListener('click', () => goDeeper({ level: 'maitriser-run', groupId: state.groupId, kind: k.id, series: null }));
+      list.appendChild(btn);
+    });
+    root.appendChild(list);
+  }
+
+  function typedTypesFor(kind, p) {
+    const flags = ['flag2pays'];
+    const caps = [];
+    if (p.capitale) caps.push('pays2cap');
+    if (!trivialCapital(p)) caps.push('cap2pays');
+    if (kind === 'drapeaux') return flags;
+    if (kind === 'capitales') return caps;
+    return flags.concat(caps);
+  }
+
+  // Ratés d'abord, puis les pays déjà vus qu'il est temps de revoir, puis les autres.
+  function pickTyped(groupId, kind) {
+    const now = Date.now();
+    const prio = p => {
+      const m = Store.getDragonMeta(p.code);
+      if (!m) return 50 + Math.random() * 10;
+      if (m.lastKnown === false) return 1000 + Math.random() * 10;
+      const due = m.due ? new Date(m.due).getTime() : 0;
+      if (due <= now) return 500 + (now - due) / 86400000 + Math.random() * 10;
+      return 10 + Math.random() * 10;
+    };
+    const members = membersOf(groupId).filter(p => typedTypesFor(kind, p).length)
+      .map(p => ({ p, w: prio(p) }))
+      .sort((a, b) => b.w - a.w)
+      .map(x => x.p);
+    return members.slice(0, SERIES_SIZE).map(p => {
+      const types = typedTypesFor(kind, p);
+      return { code: p.code, type: types[Math.floor(Math.random() * types.length)] };
+    });
+  }
+
+  // Comparaison tolérante : sans accents, majuscules ni articles ; quelques fautes selon la longueur.
+  function canon(s) {
+    return norm(s).replace(/\b(le|la|les|l|the)\b/g, ' ').replace(/\s+/g, ' ').trim();
+  }
+  function matchTyped(guess, answers) {
+    const g = canon(guess);
+    if (!g) return { ok: false, exact: false };
+    for (const a of answers) {
+      const c = canon(a);
+      if (!c) continue;
+      if (g === c || g.replace(/ /g, '') === c.replace(/ /g, '')) return { ok: true, exact: true, answer: a };
+      const tol = c.length <= 4 ? 0 : c.length <= 8 ? 1 : 2;
+      if (QuizGen.levenshtein(g.replace(/ /g, ''), c.replace(/ /g, '')) <= tol) return { ok: true, exact: false, answer: a };
+    }
+    return { ok: false, exact: false };
+  }
+
+  function renderMaitriser(root) {
+    if (!state.series) {
+      state.series = { items: pickTyped(state.groupId, state.kind), index: 0, results: [] };
+    }
+    const se = state.series;
+    if (!se.items.length) {
+      root.innerHTML = '<div class="empty-state"><div class="empty-state__emoji">🤷</div><div>Pas de question possible pour ce groupe.</div></div>';
+      return;
+    }
+    if (se.index >= se.items.length) return renderSeriesEnd(root, se);
+
+    const bar = document.createElement('div');
+    bar.className = 'daily-progress';
+    se.items.forEach((_, i) => {
+      const seg = document.createElement('span');
+      const r = se.results[i];
+      seg.className = 'daily-progress__seg' + (r === true ? ' is-done' : r === false ? ' is-miss' : i === se.index ? ' is-current' : '');
+      bar.appendChild(seg);
+    });
+    root.appendChild(bar);
+
+    const { code, type } = se.items[se.index];
+    const p = pays.find(x => x.code === code);
+    const wantCapital = type === 'pays2cap';
+    const answers = wantCapital
+      ? [p.capitale, ...(p.autresCapitales || [])]
+      : [p.nom, ...(p.autresNoms || [])];
+
+    const card = document.createElement('div');
+    card.className = 'quiz-card dt-q';
+    let prompt = '';
+    if (type === 'flag2pays') prompt = `${flagImg(p)}<p class="quiz-card__question dt-q__text">Quel est ce pays ?</p>`;
+    if (type === 'pays2cap') prompt = `<p class="quiz-card__question dt-q__text">Quelle est la capitale ${escapeHTML(p.de)} ?</p>`;
+    if (type === 'cap2pays') prompt = `<p class="quiz-card__question dt-q__text">${escapeHTML(p.capitale)} est la capitale de quel pays ?</p>`;
+    card.innerHTML = prompt + `
+      <form class="dt-type" autocomplete="off">
+        <input class="dt-type__input" type="text" inputmode="text" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="done"
+          placeholder="${wantCapital ? 'Écris la capitale…' : 'Écris le pays…'}" aria-label="Ta réponse">
+        <button class="btn btn-primary dt-type__ok" type="submit">Valider</button>
+      </form>
+      <button class="dt-type__skip" type="button">Je ne sais pas</button>`;
+    root.appendChild(card);
+
+    const form = card.querySelector('.dt-type');
+    const input = card.querySelector('.dt-type__input');
+    const skip = card.querySelector('.dt-type__skip');
+    let answered = false;
+
+    const finish = (guess) => {
+      if (answered) return;
+      answered = true;
+      const res = guess == null ? { ok: false, exact: false } : matchTyped(guess, answers);
+      input.disabled = true;
+      card.querySelector('.dt-type__ok').disabled = true;
+      skip.hidden = true;
+      input.classList.add(res.ok ? 'is-correct' : 'is-wrong');
+      se.results[se.index] = res.ok;
+      Store.recordDragonSeen(p.code, res.ok, { typed: true });
+
+      const expected = answers[0];
+      let detail = '';
+      if (res.ok && !res.exact) detail = `<small>Orthographe exacte : <strong>${escapeHTML(res.answer)}</strong></small>`;
+      if (!res.ok) detail = `<small>La bonne réponse : <strong>${escapeHTML(expected)}</strong>${answers.length > 1 ? ` (ou ${answers.slice(1).map(escapeHTML).join(', ')})` : ''}</small>`;
+      const info = document.createElement('div');
+      info.className = 'dt-answer ' + (res.ok ? 'is-correct' : 'is-wrong');
+      info.innerHTML = `
+        ${flagImg(p, 'dt-flag dt-flag--tiny')}
+        <div class="dt-answer__text">
+          <strong>${res.ok ? '✓ Bonne réponse' : guess == null ? '✕ Pas grave, retiens-le' : '✕ Raté'}</strong>
+          <span>${escapeHTML(p.nom)}${p.capitale ? ' · ' + escapeHTML(p.capitale) : ''}</span>
+          ${detail}
+          ${p.note ? `<small>${escapeHTML(p.note)}</small>` : ''}
+        </div>`;
+      card.appendChild(info);
+
+      const next = document.createElement('button');
+      next.type = 'button';
+      next.className = 'btn btn-primary btn-next';
+      next.textContent = se.index === se.items.length - 1 ? 'Voir mon score →' : 'Suivante →';
+      next.addEventListener('click', () => { se.index += 1; render(); });
+      root.appendChild(next);
+      next.focus();
+    };
+
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      if (!input.value.trim()) { input.focus(); return; }
+      finish(input.value);
+    });
+    skip.addEventListener('click', () => finish(null));
+
+    input.focus();
+    const nextItem = se.items[se.index + 1];
+    if (nextItem) { const img = new Image(); img.src = FLAG_DIR + nextItem.code + '.svg'; }
   }
 
   return { init };

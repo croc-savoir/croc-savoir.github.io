@@ -56,5 +56,5 @@ const QuizGen = (() => {
     return dp[m][n];
   }
 
-  return { shuffle, normalize, fuzzyMatch };
+  return { shuffle, normalize, fuzzyMatch, levenshtein };
 })();

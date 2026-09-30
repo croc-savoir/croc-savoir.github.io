@@ -130,12 +130,17 @@ const Store = (() => {
 
   // ---------- Dragon Tour ----------
   function getDragonMeta(code) { load(); return data.dragon[code] || null; }
-  function recordDragonSeen(code, known) {
+  // Met à jour la répétition espacée du pays (SM-2 simplifié, cf. srs.js).
+  // opts.typed : réponse tapée en mode « Maîtriser » (nécessaire pour le niveau 3).
+  function recordDragonSeen(code, known, opts = {}) {
     load();
     const cur = data.dragon[code] || { seen: 0 };
-    cur.seen += 1;
+    const srs = SRS.update(cur.reps != null ? cur : null, known);
+    Object.assign(cur, srs);
+    cur.seen = (cur.seen || 0) + 1;
     cur.lastKnown = known;
     cur.lastSeen = new Date().toISOString();
+    if (opts.typed && known) cur.typedOk = true;
     data.dragon[code] = cur;
     save();
   }

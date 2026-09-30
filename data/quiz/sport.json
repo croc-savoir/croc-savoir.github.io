@@ -11,8 +11,8 @@
       "Quatre fois"
     ],
     "bonneReponse": 2,
-    "explication": "Pelé a remporté la Coupe du monde en 1958, 1962 et 1970, un record toujours inégalé.",
-    "source": "À vérifier"
+    "explication": "Pelé est le seul joueur à avoir gagné trois Coupes du monde : en 1958 en Suède, où il marque deux buts en finale à 17 ans, en 1962, blessé dès le deuxième match, puis en 1970 au Mexique, dans une équipe souvent considérée comme la plus belle de l'histoire. Il aurait marqué plus de 1 000 buts dans sa carrière.",
+    "source": "D'après Wikipédia — Pelé"
   },
   {
     "id": "q-sport-002",
@@ -21,37 +21,38 @@
     "affirmation": "Au football, une passe en avant à la main est autorisée au rugby à XV.",
     "reponse": false,
     "explication": "C'est l'inverse : au rugby, le ballon ne peut être passé à la main que vers l'arrière ou latéralement, jamais vers l'avant.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Rugby à XV",
+    "question": "Au rugby à XV, une passe à la main vers l'avant est autorisée."
   },
   {
     "id": "q-sport-003",
     "domain": "sport",
     "format": "associer",
-    "question": "Associe chaque athlète à sa discipline principale.",
+    "question": "Associe chaque champion à son sport.",
     "paires": [
       {
-        "gauche": "Usain Bolt",
-        "droite": "Sprint (athlétisme)",
-        "explication": "Usain Bolt détient les records du monde du 100 m (9,58 s) et du 200 m (19,19 s)."
+        "gauche": "Michael Jordan",
+        "droite": "Basket-ball",
+        "explication": "Six titres NBA avec les Chicago Bulls dans les années 1990, et deux médailles d'or olympiques."
       },
       {
-        "gauche": "Eddy Merckx",
-        "droite": "Cyclisme",
-        "explication": "Eddy Merckx, « le Cannibale », a gagné 5 Tours de France et plus de 500 courses."
-      },
-      {
-        "gauche": "Serena Williams",
+        "gauche": "Roger Federer",
         "droite": "Tennis",
-        "explication": "Serena Williams a remporté 23 titres du Grand Chelem en simple."
+        "explication": "Le Suisse a remporté 20 tournois du Grand Chelem, dont 8 fois Wimbledon, un record masculin."
       },
       {
-        "gauche": "Simone Biles",
-        "droite": "Gymnastique",
-        "explication": "Simone Biles est la gymnaste la plus titrée de l'histoire."
+        "gauche": "Tiger Woods",
+        "droite": "Golf",
+        "explication": "Vainqueur de 15 tournois majeurs, il a été numéro un mondial pendant plus de 680 semaines."
+      },
+      {
+        "gauche": "Sébastien Loeb",
+        "droite": "Rallye automobile",
+        "explication": "L'Alsacien a été sacré champion du monde des rallyes neuf fois de suite, de 2004 à 2012."
       }
     ],
-    "explication": "Chacun de ces athlètes est une référence historique de sa discipline.",
-    "source": "À vérifier"
+    "explication": "Ces quatre champions ont dominé leur sport pendant plus d'une décennie. Chacun détient des records qui en font une référence : titres NBA pour Jordan, Grand Chelem pour Federer, tournois majeurs pour Woods, titres mondiaux consécutifs pour Loeb.",
+    "source": "D'après Wikipédia — Michael Jordan"
   },
   {
     "id": "q-sport-004",
@@ -60,24 +61,24 @@
     "question": "Remets ces événements sportifs dans l'ordre chronologique.",
     "evenements": [
       {
-        "label": "Fondation de la FIFA",
-        "annee": "1904"
+        "label": "Fondation de la Football Association en Angleterre",
+        "annee": "1863"
       },
       {
-        "label": "Premiers Jeux Olympiques modernes",
-        "annee": "1896"
+        "label": "Premier tournoi de Wimbledon",
+        "annee": "1877"
       },
       {
-        "label": "Première Coupe du monde de football",
-        "annee": "1930"
+        "label": "Invention du basket-ball",
+        "annee": "1891"
       },
       {
-        "label": "Premiers Jeux Olympiques d'hiver",
+        "label": "Premiers Jeux olympiques d'hiver à Chamonix",
         "annee": "1924"
       }
     ],
-    "explication": "Les JO modernes (1896) précèdent la fondation de la FIFA (1904), puis les premiers JO d'hiver (1924) et la première Coupe du monde (1930).",
-    "source": "À vérifier"
+    "explication": "1863 : la Football Association fixe les premières règles communes du football. 1877 : premier tournoi de Wimbledon, le plus ancien du tennis. 1891 : James Naismith invente le basket-ball aux États-Unis. 1924 : Chamonix accueille les premiers Jeux olympiques d'hiver.",
+    "source": "D'après Wikipédia — Histoire du sport"
   },
   {
     "id": "q-sport-005",
@@ -90,8 +91,8 @@
       "Marquer dans l'en-but adverse s'appelle chez moi un essai."
     ],
     "reponse": "Le rugby à XV",
-    "explication": "Le rugby à XV se distingue par sa règle de passe vers l'arrière et son ballon ovale.",
-    "source": "À vérifier"
+    "explication": "Le rugby à XV oppose deux équipes de quinze joueurs, avec un ballon ovale qu'on ne peut passer à la main que vers l'arrière. L'essai, qui vaut 5 points, consiste à aplatir le ballon dans l'en-but adverse. Selon la légende, le jeu serait né en 1823 au collège de Rugby, en Angleterre.",
+    "source": "D'après Wikipédia — Rugby à XV"
   },
   {
     "id": "q-sport-006",
@@ -106,7 +107,7 @@
     ],
     "bonneReponse": 1,
     "explication": "Le Grand Chelem regroupe l'Open d'Australie, Roland-Garros, Wimbledon et l'US Open ; les Masters 1000 sont une catégorie de tournois d'un rang inférieur.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Grand Chelem de tennis"
   },
   {
     "id": "q-sport-007",
@@ -120,7 +121,7 @@
       "8"
     ],
     "bonneReponse": 3,
-    "explication": "8 Ballons d'or, un record, le dernier en 2023.",
+    "explication": "Lionel Messi a remporté 8 Ballons d'or, un record : six avec le FC Barcelone (2009 à 2012, 2015, 2019), un avec le Paris Saint-Germain (2021) et le dernier en 2023, après son titre de champion du monde avec l'Argentine au Qatar. Cristiano Ronaldo en compte 5.",
     "source": "D'après Wikipédia — Lionel Messi"
   },
   {
@@ -135,7 +136,7 @@
       "9,79 s"
     ],
     "bonneReponse": 1,
-    "explication": "9,58 s à Berlin. 9,69 s était son record de Pékin 2008.",
+    "explication": "Le 16 août 2009, aux championnats du monde de Berlin, Usain Bolt court le 100 m en 9,58 secondes, améliorant de 11 centièmes son propre record de Pékin (9,69 s). Il atteint une vitesse de pointe d'environ 44 km/h. Quatre jours plus tard, il bat aussi le record du 200 m en 19,19 s.",
     "source": "D'après Wikipédia — Usain Bolt"
   },
   {
@@ -149,7 +150,7 @@
       "Ma carrière s'est terminée sur un coup de tête en 2006."
     ],
     "reponse": "Zinédine Zidane",
-    "explication": "Zidane a offert à la France son premier titre mondial en 1998.",
+    "explication": "Né à Marseille, Zinédine Zidane marque deux buts de la tête en finale de la Coupe du monde 1998 contre le Brésil, offrant à la France son premier titre mondial. En finale de 2006 contre l'Italie, pour son dernier match, il est expulsé pour un coup de tête sur Marco Materazzi. Entraîneur, il gagne trois Ligues des champions avec le Real Madrid.",
     "source": "D'après Wikipédia — Zinédine Zidane"
   },
   {
@@ -164,7 +165,7 @@
       "William Webb Ellis"
     ],
     "bonneReponse": 0,
-    "explication": "Un professeur canadien, à Springfield, avec des paniers à pêches.",
+    "explication": "En décembre 1891, à Springfield, dans le Massachusetts, le professeur d'éducation physique canadien James Naismith invente un sport d'intérieur pour occuper ses élèves pendant l'hiver. Il fixe deux paniers à pêches au balcon du gymnase. Il fallait récupérer le ballon à la main après chaque panier, le fond n'étant pas ouvert.",
     "source": "D'après Wikipédia — James Naismith"
   },
   {
@@ -173,7 +174,7 @@
     "format": "vrai-faux",
     "affirmation": "Michael Phelps est l'athlète le plus médaillé de l'histoire des Jeux olympiques.",
     "reponse": true,
-    "explication": "28 médailles, dont 23 en or.",
+    "explication": "Le nageur américain Michael Phelps a remporté 28 médailles olympiques, dont 23 en or, entre 2004 et 2016. Il détient aussi le record de 8 médailles d'or en une seule édition, à Pékin en 2008. Il devance la gymnaste soviétique Larissa Latynina, longtemps recordwoman avec 18 médailles.",
     "source": "D'après Wikipédia — Michael Phelps"
   },
   {
@@ -188,7 +189,7 @@
       "7"
     ],
     "bonneReponse": 2,
-    "explication": "5 points, plus 2 pour la transformation.",
+    "explication": "Un essai vaut 5 points depuis 1992 (il n'en valait que 4 auparavant). L'équipe peut ensuite tenter une transformation, un coup de pied entre les poteaux qui rapporte 2 points de plus. Une pénalité ou un drop réussis valent 3 points.",
     "source": "D'après Wikipédia — Rugby à XV"
   },
   {
@@ -223,8 +224,8 @@
         "explication": "Martin Fourcade est le Français le plus titré des Jeux d'hiver, avec 5 médailles d'or en biathlon."
       }
     ],
-    "explication": "Cinq légendes de cinq disciplines.",
-    "source": "À vérifier"
+    "explication": "Teddy Riner est le judoka le plus titré de l'histoire, Muhammad Ali le boxeur le plus célèbre, Eddy Merckx, surnommé le « Cannibale », le plus grand coureur cycliste, Simone Biles la gymnaste la plus médaillée, et Martin Fourcade le biathlète français aux cinq titres olympiques.",
+    "source": "D'après Wikipédia — Sport"
   },
   {
     "id": "q-sport-014",
@@ -238,7 +239,7 @@
       "Par erreur de mesure"
     ],
     "bonneReponse": 1,
-    "explication": "Le parcours a été allongé pour la famille royale britannique, puis cette distance a été officialisée en 1921.",
+    "explication": "Aux JO de Londres en 1908, le parcours du marathon part du château de Windsor pour que les enfants royaux puissent voir le départ, et se termine devant la loge royale du stade : il mesure 42,195 km. Cette distance devient officielle en 1921. Aux premiers JO de 1896, la course faisait environ 40 km.",
     "source": "D'après Wikipédia — Marathon (sport)"
   },
   {
@@ -247,7 +248,7 @@
     "format": "vrai-faux",
     "affirmation": "Le mot « tennis » viendrait du français « tenez ! ».",
     "reponse": true,
-    "explication": "Le jeu de paume français, ancêtre du tennis, utilisait cette interjection au service.",
+    "explication": "Le tennis descend du jeu de paume, pratiqué en France dès le Moyen Âge, d'abord à main nue puis avec une raquette. Le joueur qui servait criait « Tenez ! » à son adversaire. Les Anglais, qui ont adopté le jeu, auraient déformé ce mot en « tennis ». Le tennis moderne est codifié en Angleterre en 1874.",
     "source": "D'après Wikipédia — Tennis"
   },
   {
@@ -262,7 +263,7 @@
       "Brésil"
     ],
     "bonneReponse": 3,
-    "explication": "Le Brésil compte 5 titres (1958, 1962, 1970, 1994, 2002).",
+    "explication": "Le Brésil a remporté 5 Coupes du monde : 1958, 1962 et 1970 avec Pelé, 1994, puis 2002 avec Ronaldo. C'est aussi le seul pays à avoir participé à toutes les phases finales. Il devance l'Allemagne et l'Italie (4 titres chacune), puis l'Argentine (3 titres).",
     "source": "D'après Wikipédia — Coupe du monde de football"
   },
   {
@@ -277,7 +278,7 @@
       "25"
     ],
     "bonneReponse": 2,
-    "explication": "16 médailles d'or sur 64 médailles au total.",
+    "explication": "Aux Jeux de Paris 2024, la France remporte 16 médailles d'or et 64 médailles au total, son meilleur bilan depuis 1900. Léon Marchand, avec 4 titres en natation, en est la grande star. Teddy Riner y gagne aussi deux médailles d'or, en individuel et par équipes.",
     "source": "D'après Wikipédia — France aux Jeux olympiques d'été de 2024"
   },
   {
@@ -292,7 +293,7 @@
       "Sonny Liston"
     ],
     "bonneReponse": 1,
-    "explication": "Il a changé de nom en 1964 après sa conversion à l'islam.",
+    "explication": "Né Cassius Clay en 1942 à Louisville, il devient champion olympique en 1960 puis champion du monde des lourds en 1964. Converti à l'islam, il prend le nom de Muhammad Ali. En 1967, il refuse de partir au Vietnam : il est privé de son titre et de licence pendant plus de trois ans, avant de redevenir champion.",
     "source": "D'après Wikipédia — Muhammad Ali"
   },
   {
@@ -307,7 +308,7 @@
       "Aucune"
     ],
     "bonneReponse": 0,
-    "explication": "Le décathlon est masculin, l'heptathlon féminin, en athlétisme.",
+    "explication": "Le décathlon réunit 10 épreuves d'athlétisme sur deux jours, courses, sauts et lancers, et se pratique surtout chez les hommes. L'heptathlon, son équivalent féminin aux JO, en compte 7. Les points de chaque épreuve s'additionnent, ce qui récompense les athlètes les plus complets.",
     "source": "D'après Wikipédia — Heptathlon"
   },
   {
@@ -316,7 +317,7 @@
     "format": "vrai-faux",
     "affirmation": "Les cartons jaunes et rouges existent depuis les débuts du football au XIXe siècle.",
     "reponse": false,
-    "explication": "Ils ont été introduits en Coupe du monde en 1970, inspirés des feux de circulation.",
+    "explication": "L'arbitre anglais Ken Aston a eu l'idée des cartons en 1966, arrêté à un feu de circulation : jaune pour « attention », rouge pour « stop ». Ils sont utilisés pour la première fois à la Coupe du monde 1970 au Mexique, pour que les joueurs de toutes les langues comprennent les décisions.",
     "source": "D'après Wikipédia — Carton rouge"
   },
   {
@@ -331,7 +332,7 @@
       "Clarisse Agbégnénou"
     ],
     "bonneReponse": 1,
-    "explication": "Teddy Riner, le judoka le plus titré de l'histoire.",
+    "explication": "Teddy Riner a remporté 11 titres de champion du monde entre 2007 et 2023, un record. Il compte aussi cinq titres olympiques : trois en individuel (2012, 2016, 2024) et deux par équipes (2021, 2024). Il est resté invaincu pendant près de dix ans, de 2010 à 2020.",
     "source": "D'après Wikipédia — Teddy Riner"
   },
   {
@@ -346,7 +347,7 @@
       "L'UEFA"
     ],
     "bonneReponse": 1,
-    "explication": "Créée en 1999, elle coordonne la lutte antidopage mondiale.",
+    "explication": "L'Agence mondiale antidopage (AMA) est créée en 1999, après l'affaire Festina qui éclabousse le Tour de France 1998. Installée à Montréal, elle publie chaque année la liste des substances et méthodes interdites, qui s'applique dans la plupart des sports et des pays.",
     "source": "D'après Wikipédia — Agence mondiale antidopage"
   },
   {
@@ -376,8 +377,8 @@
         "annee": "1998"
       }
     ],
-    "explication": "Plus d'un siècle de grands moments sportifs.",
-    "source": "À vérifier"
+    "explication": "1896 : Pierre de Coubertin relance les JO à Athènes. 1903 : le premier Tour de France est organisé par le journal L'Auto. 1930 : l'Uruguay accueille la première Coupe du monde. 1960 : Rome accueille les premiers Jeux paralympiques. 1998 : la France devient championne du monde à domicile.",
+    "source": "D'après Wikipédia — Histoire du sport"
   },
   {
     "id": "q-sport-024",
@@ -391,7 +392,7 @@
       "Avery Brundage"
     ],
     "bonneReponse": 1,
-    "explication": "Le neurologue Ludwig Guttmann, pour des vétérans paraplégiques.",
+    "explication": "Ludwig Guttmann, neurologue juif allemand réfugié en Angleterre, soigne à l'hôpital de Stoke Mandeville des soldats blessés à la moelle épinière. Il utilise le sport pour leur rééducation et organise en 1948, le jour de l'ouverture des JO de Londres, une compétition de tir à l'arc en fauteuil. Elle mène aux premiers Jeux paralympiques en 1960.",
     "source": "D'après Wikipédia — Ludwig Guttmann"
   },
   {
@@ -400,7 +401,7 @@
     "format": "vrai-faux",
     "affirmation": "Lance Armstrong détient toujours le record de 7 victoires sur le Tour de France.",
     "reponse": false,
-    "explication": "Ses titres lui ont été retirés en 2012 pour dopage. Le record est de 5 victoires.",
+    "explication": "Lance Armstrong avait remporté sept Tours de France consécutifs, de 1999 à 2005. En 2012, une enquête de l'agence antidopage américaine prouve un dopage organisé : tous ses titres lui sont retirés, sans être attribués à d'autres. Le record officiel est de 5 victoires, établi par Jacques Anquetil puis égalé par Merckx, Hinault et Indurain.",
     "source": "D'après Wikipédia — Lance Armstrong"
   },
   {
@@ -415,7 +416,7 @@
       "4 m"
     ],
     "bonneReponse": 1,
-    "explication": "10 pieds, soit 3,05 m, la hauteur du balcon utilisé par Naismith.",
+    "explication": "Le panier est fixé à 3,05 m, soit 10 pieds. C'est la hauteur de la balustrade du gymnase de Springfield où James Naismith avait accroché les premiers paniers en 1891. Elle n'a jamais changé depuis, alors que les joueurs sont devenus bien plus grands et peuvent désormais smasher.",
     "source": "D'après Wikipédia — Basket-ball"
   },
   {
@@ -440,8 +441,8 @@
         "explication": "L'US Open se joue sur dur, comme l'Open d'Australie."
       }
     ],
-    "explication": "L'Open d'Australie se joue aussi sur dur.",
-    "source": "À vérifier"
+    "explication": "Chaque tournoi du Grand Chelem a sa surface. La terre battue de Roland-Garros ralentit la balle et favorise les longs échanges. Le gazon de Wimbledon rend la balle rapide et basse. Le dur de l'US Open et de l'Open d'Australie est intermédiaire. Peu de joueurs ont gagné sur les trois.",
+    "source": "D'après Wikipédia — Court de tennis"
   },
   {
     "id": "q-sport-028",
@@ -455,7 +456,7 @@
       "Sur les Champs-Élysées"
     ],
     "bonneReponse": 1,
-    "explication": "Une première : un défilé de bateaux sur 6 km de Seine.",
+    "explication": "Le 26 juillet 2024, pour la première fois, la cérémonie d'ouverture des Jeux olympiques ne se déroule pas dans un stade : les athlètes défilent sur environ 85 bateaux, sur 6 km de Seine, du pont d'Austerlitz jusqu'au Trocadéro. La vasque olympique, une montgolfière, s'élève ensuite près du Louvre.",
     "source": "D'après Wikipédia — Cérémonie d'ouverture des Jeux olympiques d'été de 2024"
   },
   {
@@ -470,7 +471,7 @@
       "Novak Djokovic"
     ],
     "bonneReponse": 2,
-    "explication": "14 titres, un record absolu dans un même tournoi du Grand Chelem.",
+    "explication": "Rafael Nadal a remporté 14 fois Roland-Garros, entre 2005 et 2022, avec seulement 4 défaites en 116 matchs. C'est le record de victoires dans un même tournoi du Grand Chelem. Surnommé le « roi de la terre battue », il a reçu une statue à son effigie à Roland-Garros en 2021.",
     "source": "D'après Wikipédia — Rafael Nadal"
   },
   {
@@ -479,7 +480,7 @@
     "format": "vrai-faux",
     "affirmation": "La première Coupe du monde de football s'est jouée en Uruguay.",
     "reponse": true,
-    "explication": "En 1930 ; l'Uruguay a battu l'Argentine en finale.",
+    "explication": "Pour la première Coupe du monde, en 1930, la FIFA choisit l'Uruguay, double champion olympique en titre, qui fête aussi le centenaire de sa Constitution. Seules quatre équipes européennes font le voyage en bateau. En finale à Montevideo, l'Uruguay bat l'Argentine 4 à 2.",
     "source": "D'après Wikipédia — Coupe du monde de football 1930"
   },
   {
@@ -494,7 +495,7 @@
       "9"
     ],
     "bonneReponse": 2,
-    "explication": "8 médailles d'or, contre 7 pour Spitz en 1972.",
+    "explication": "Aux JO de Munich en 1972, le nageur américain Mark Spitz remporte 7 médailles d'or, un record qui tient 36 ans. À Pékin en 2008, Michael Phelps en gagne 8, dont une septième avec un centième d'avance au 100 m papillon. Il bat aussi 7 records du monde durant ces Jeux.",
     "source": "D'après Wikipédia — Michael Phelps"
   }
 ]

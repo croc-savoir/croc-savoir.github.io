@@ -5,14 +5,14 @@
     "format": "qui-suis-je",
     "indices": [
       "Je suis une divinité de la mythologie nordique.",
-      "Je suis le fils d'Odin, roi des dieux.",
-      "Je combats souvent les géants ennemis des dieux.",
-      "Mon arme est un marteau magique qui revient toujours dans ma main.",
-      "Je m'appelle Mjöllnir... non, c'est le nom de mon arme. Mon nom est celui du dieu du tonnerre."
+      "Mes deux boucs tirent mon char à travers le ciel.",
+      "Je combats sans relâche les géants, ennemis des dieux.",
+      "Mon marteau magique, Mjöllnir, revient toujours dans ma main.",
+      "Je suis le fils d'Odin et le dieu du tonnerre."
     ],
     "reponse": "Thor",
-    "explication": "Thor est le dieu nordique du tonnerre, fils d'Odin, protecteur d'Asgard grâce à son marteau Mjöllnir.",
-    "source": "À vérifier"
+    "explication": "Thor, fils d'Odin, est le dieu du tonnerre et le protecteur des dieux et des humains contre les géants. Son marteau Mjöllnir, forgé par des nains, revient toujours dans sa main. Très populaire chez les Vikings, il a donné son nom au jeudi en anglais, Thursday.",
+    "source": "D'après Wikipédia — Thor"
   },
   {
     "id": "q-mythologie-002",
@@ -41,8 +41,8 @@
         "explication": "Rê, dieu du Soleil, traverse le ciel en barque le jour et le monde souterrain la nuit."
       }
     ],
-    "explication": "Chaque grande divinité égyptienne est associée à un domaine précis de la vie ou de l'au-delà.",
-    "source": "À vérifier"
+    "explication": "Osiris, tué par son frère Seth puis ressuscité, devient le roi des morts. Isis, son épouse, est la grande magicienne et la mère d'Horus. Anubis, à tête de chacal, préside à la momification et à la pesée du cœur des défunts. Rê est le dieu du Soleil, qui traverse le ciel en barque.",
+    "source": "D'après Wikipédia — Divinités égyptiennes"
   },
   {
     "id": "q-mythologie-003",
@@ -56,8 +56,8 @@
       "Hadès"
     ],
     "bonneReponse": 1,
-    "explication": "Zeus renverse son père Cronos, un Titan, lors de la Titanomachie, pour devenir le chef des dieux Olympiens.",
-    "source": "À vérifier"
+    "explication": "Cronos, un Titan, avalait ses enfants à la naissance de peur d'être détrôné. Sauvé par sa mère Rhéa, qui fait avaler à Cronos une pierre à sa place, Zeus libère ses frères et sœurs et mène avec eux la guerre contre les Titans, la Titanomachie. Vainqueur, il devient le roi des dieux de l'Olympe.",
+    "source": "D'après Wikipédia — Titanomachie"
   },
   {
     "id": "q-mythologie-004",
@@ -72,7 +72,7 @@
     ],
     "reponse": "Perséphone",
     "explication": "Perséphone partage son temps entre les Enfers, aux côtés d'Hadès, et le monde des vivants, ce qui explique mythologiquement le cycle des saisons.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Perséphone"
   },
   {
     "id": "q-mythologie-005",
@@ -86,8 +86,8 @@
       "Mythologie japonaise"
     ],
     "bonneReponse": 2,
-    "explication": "Yggdrasil est l'arbre cosmique qui relie les neuf mondes dans la cosmologie nordique.",
-    "source": "À vérifier"
+    "explication": "Dans la mythologie nordique, Yggdrasil est un frêne gigantesque dont les branches et les racines relient les neuf mondes, dont Asgard (les dieux), Midgard (les humains) et le royaume des morts. Odin s'y est pendu neuf jours pour découvrir le secret des runes.",
+    "source": "D'après Wikipédia — Yggdrasil"
   },
   {
     "id": "q-mythologie-006",
@@ -101,7 +101,7 @@
       "Son dos"
     ],
     "bonneReponse": 1,
-    "explication": "Sa mère l'a plongé dans le Styx en le tenant par le talon.",
+    "explication": "Pour le rendre invulnérable, sa mère, la nymphe Thétis, plonge le bébé Achille dans le Styx, le fleuve des Enfers, en le tenant par le talon, qui n'est pas mouillé. Pendant la guerre de Troie, il est tué par une flèche de Pâris, guidée par Apollon, à cet endroit précis. D'où le « tendon d'Achille ».",
     "source": "D'après Wikipédia — Achille"
   },
   {
@@ -116,7 +116,7 @@
       "Hector"
     ],
     "bonneReponse": 2,
-    "explication": "La ruse vient d'Ulysse, le plus rusé des Grecs.",
+    "explication": "Après dix ans de siège, Ulysse, le plus rusé des Grecs, propose de construire un immense cheval de bois, d'y cacher des guerriers et de faire semblant de partir. Les Troyens font entrer le cheval dans leur ville ; la nuit, les Grecs en sortent et ouvrent les portes. Aujourd'hui, un « cheval de Troie » est aussi un virus informatique déguisé.",
     "source": "D'après Wikipédia — Cheval de Troie"
   },
   {
@@ -151,8 +151,8 @@
         "explication": "Le dieu de la mer devient Neptune, dont le symbole est le trident."
       }
     ],
-    "explication": "Nos planètes portent les noms romains des dieux.",
-    "source": "À vérifier"
+    "explication": "Les Romains ont adopté les dieux grecs en leur donnant des noms latins : Zeus devient Jupiter, Aphrodite Vénus, Arès Mars, Hermès Mercure et Poséidon Neptune. Ce sont ces noms romains que portent nos planètes, et même certains jours de la semaine : mardi (Mars), mercredi (Mercure), vendredi (Vénus).",
+    "source": "D'après Wikipédia — Mythologie romaine"
   },
   {
     "id": "q-mythologie-009",
@@ -160,7 +160,7 @@
     "format": "vrai-faux",
     "affirmation": "Dans le mythe d'Hésiode, Pandore ouvre une jarre et non une boîte.",
     "reponse": true,
-    "explication": "La « boîte » vient d'une erreur de traduction d'Érasme au XVIe siècle.",
+    "explication": "Chez le poète grec Hésiode, Pandore ouvre une grande jarre (pithos) qui libère tous les maux du monde, et n'y laisse que l'espérance. La « boîte » vient d'une erreur de l'humaniste Érasme, au XVIe siècle, qui a confondu pithos avec pyxis, « boîte ». L'expression « boîte de Pandore » est pourtant restée.",
     "source": "D'après Wikipédia — Boîte de Pandore"
   },
   {
@@ -175,7 +175,7 @@
       "Une carte de Dédale"
     ],
     "bonneReponse": 1,
-    "explication": "Ariane lui donne une pelote de fil qu'il déroule en entrant.",
+    "explication": "Ariane, fille du roi Minos, tombe amoureuse de Thésée venu tuer le Minotaure. Elle lui donne une pelote de fil qu'il déroule en entrant dans le labyrinthe construit par Dédale ; il n'a qu'à le suivre pour ressortir. Aujourd'hui, le « fil d'Ariane » désigne ce qui guide dans une situation compliquée.",
     "source": "D'après Wikipédia — Ariane (mythologie)"
   },
   {
@@ -190,7 +190,7 @@
       "D'un mot grec signifiant « bleu »"
     ],
     "bonneReponse": 1,
-    "explication": "Thésée avait oublié de hisser la voile blanche promise.",
+    "explication": "Thésée avait promis à son père Égée, roi d'Athènes, de hisser une voile blanche s'il revenait vivant de Crète. Il oublie et rentre avec la voile noire. Égée, qui guette le navire depuis la côte, croit son fils mort et se jette dans la mer, qui porte depuis son nom : la mer Égée.",
     "source": "D'après Wikipédia — Égée (mythologie)"
   },
   {
@@ -205,7 +205,7 @@
       "Sisyphe"
     ],
     "bonneReponse": 1,
-    "explication": "Le Titan Atlas a donné son nom aux recueils de cartes.",
+    "explication": "Pour avoir combattu les dieux de l'Olympe aux côtés des Titans, Atlas est condamné par Zeus à porter la voûte céleste sur ses épaules pour l'éternité. Au XVIe siècle, le géographe Mercator place une figure d'Atlas en tête de son recueil de cartes : depuis, un « atlas » désigne un livre de cartes.",
     "source": "D'après Wikipédia — Atlas (mythologie)"
   },
   {
@@ -219,7 +219,7 @@
       "Persée m'a décapitée en regardant mon reflet."
     ],
     "reponse": "Méduse",
-    "explication": "Pégase est né de son cou tranché.",
+    "explication": "Méduse est la seule mortelle des trois Gorgones ; ses cheveux sont des serpents et son regard change en pierre quiconque la regarde. Le héros Persée la décapite en ne la regardant qu'à travers le reflet de son bouclier poli, offert par Athéna. De son cou jaillissent le cheval ailé Pégase et le géant Chrysaor.",
     "source": "D'après Wikipédia — Méduse (mythologie)"
   },
   {
@@ -234,7 +234,7 @@
       "Le monde des géants"
     ],
     "bonneReponse": 1,
-    "explication": "Les Valkyries y conduisent les guerriers choisis.",
+    "explication": "Dans la mythologie nordique, le Valhalla est l'immense salle d'Odin, au toit couvert de boucliers. Les Valkyries y conduisent la moitié des guerriers morts au combat. Ils s'y battent chaque jour et festoient chaque soir, en attendant le Ragnarök, la bataille de la fin du monde.",
     "source": "D'après Wikipédia — Valhalla"
   },
   {
@@ -243,7 +243,7 @@
     "format": "vrai-faux",
     "affirmation": "Orphée a réussi à ramener Eurydice des Enfers.",
     "reponse": false,
-    "explication": "Il s'est retourné avant d'être sorti et l'a perdue à jamais.",
+    "explication": "Orphée, dont le chant charme même les pierres, descend aux Enfers chercher sa femme Eurydice, morte d'une morsure de serpent. Hadès accepte de la lui rendre, à condition qu'il ne se retourne pas avant d'être sorti. Au dernier moment, pris de doute, Orphée se retourne, et Eurydice disparaît pour toujours.",
     "source": "D'après Wikipédia — Eurydice"
   },
   {
@@ -258,7 +258,7 @@
       "Le cheval"
     ],
     "bonneReponse": 1,
-    "explication": "L'homme marche à quatre pattes bébé, sur deux jambes adulte, avec une canne vieux.",
+    "explication": "Le Sphinx, qui terrorise la ville de Thèbes, dévore ceux qui ne résolvent pas son énigme : « Quel être marche à quatre pattes le matin, à deux le midi et à trois le soir ? » Œdipe répond : l'homme, qui marche à quatre pattes bébé, debout adulte, et avec une canne dans la vieillesse. Vaincu, le Sphinx se jette dans le vide.",
     "source": "D'après Wikipédia — Sphinx (mythologie grecque)"
   },
   {
@@ -273,7 +273,7 @@
       "Une biche"
     ],
     "bonneReponse": 1,
-    "explication": "La louve capitoline est le symbole de Rome.",
+    "explication": "Selon la légende, les jumeaux Romulus et Remus, fils du dieu Mars, sont abandonnés sur le Tibre. Une louve les recueille et les allaite, avant qu'un berger ne les élève. Devenus adultes, ils fondent Rome en 753 av. J.-C. ; Romulus tue Remus lors d'une dispute et devient le premier roi. La louve est restée le symbole de Rome.",
     "source": "D'après Wikipédia — Romulus et Rémus"
   },
   {
@@ -288,7 +288,7 @@
       "Un serpent à plumes"
     ],
     "bonneReponse": 1,
-    "explication": "C'est le signe qui devait indiquer aux Aztèques où fonder leur capitale.",
+    "explication": "Selon la légende, le dieu Huitzilopochtli indique aux Aztèques de s'établir là où ils verront un aigle posé sur un cactus, dévorant un serpent. Ils le trouvent sur une île du lac Texcoco et y fondent Tenochtitlan en 1325, aujourd'hui Mexico. Cette scène figure au centre du drapeau mexicain.",
     "source": "D'après Wikipédia — Drapeau du Mexique"
   },
   {
@@ -318,8 +318,8 @@
         "explication": "Melpomène, Muse de la tragédie, est souvent représentée avec un masque tragique."
       }
     ],
-    "explication": "Les neuf Muses sont filles de Zeus et de Mnémosyne.",
-    "source": "À vérifier"
+    "explication": "Les neuf Muses, filles de Zeus et de Mnémosyne (la Mémoire), inspirent les artistes et les savants. Clio est la Muse de l'histoire, Uranie celle de l'astronomie, Terpsichore celle de la danse et Melpomène celle de la tragédie. Le mot « musée » vient du Mouseîon, le temple des Muses.",
+    "source": "D'après Wikipédia — Muses"
   },
   {
     "id": "q-mythologie-020",
@@ -333,7 +333,7 @@
       "Lughnasadh"
     ],
     "bonneReponse": 1,
-    "explication": "Samain, le 1er novembre, ouvrait la frontière entre vivants et morts.",
+    "explication": "Samain, fêté vers le 1er novembre, marquait chez les Celtes la fin des récoltes et le début de l'année. Cette nuit-là, on pensait que la frontière entre le monde des vivants et celui des morts s'ouvrait. Christianisée en Toussaint, puis emportée en Amérique par les Irlandais, la fête est devenue Halloween.",
     "source": "D'après Wikipédia — Samain (mythologie)"
   },
   {
@@ -342,7 +342,7 @@
     "format": "vrai-faux",
     "affirmation": "Odin a sacrifié un œil pour obtenir la sagesse.",
     "reponse": true,
-    "explication": "Il l'a donné au géant Mímir pour boire à la source de la sagesse.",
+    "explication": "Odin, le roi des dieux nordiques, est prêt à tout pour le savoir. Il sacrifie un œil au géant Mímir pour boire à la source de la sagesse. Il reste aussi pendu neuf jours et neuf nuits à l'arbre Yggdrasil pour découvrir le secret des runes. Il est souvent représenté borgne, avec ses deux corbeaux.",
     "source": "D'après Wikipédia — Odin"
   },
   {
@@ -357,7 +357,7 @@
       "Il s'endort en vol"
     ],
     "bonneReponse": 1,
-    "explication": "Grisé par le vol, il monte trop près du soleil malgré les conseils de Dédale.",
+    "explication": "Enfermés dans le labyrinthe par le roi Minos, l'architecte Dédale et son fils Icare s'échappent avec des ailes de plumes collées à la cire. Dédale prévient Icare de ne voler ni trop bas ni trop haut. Grisé, Icare monte vers le soleil : la cire fond et il tombe dans la mer. Le mythe symbolise l'orgueil et l'excès.",
     "source": "D'après Wikipédia — Icare"
   },
   {
@@ -372,7 +372,7 @@
       "Jason"
     ],
     "bonneReponse": 2,
-    "explication": "Héraclès (Hercule chez les Romains) les accomplit pour expier ses crimes.",
+    "explication": "Rendu fou par la déesse Héra, Héraclès tue sa famille. Pour expier, il doit accomplir douze travaux pour le roi Eurysthée : tuer le lion de Némée et l'hydre de Lerne, nettoyer les écuries d'Augias, ramener Cerbère des Enfers… Les Romains l'appelaient Hercule ; il finit parmi les dieux de l'Olympe.",
     "source": "D'après Wikipédia — Travaux d'Héraclès"
   },
   {
@@ -387,7 +387,7 @@
       "Aucune"
     ],
     "bonneReponse": 0,
-    "explication": "Deux types de nymphes liées à l'eau douce ou salée.",
+    "explication": "Les naïades et les néréides sont deux familles de nymphes, jeunes divinités de la nature. Les naïades habitent les sources, les rivières et les lacs, l'eau douce. Les néréides, les cinquante filles du dieu marin Nérée, vivent dans la mer ; la plus connue est Thétis, mère d'Achille.",
     "source": "D'après Wikipédia — Néréides"
   },
   {
@@ -402,7 +402,7 @@
       "Athéna"
     ],
     "bonneReponse": 2,
-    "explication": "Éris, déesse de la discorde, vexée de ne pas avoir été invitée aux noces de Thétis et Pélée.",
+    "explication": "Vexée de ne pas être invitée aux noces de Thétis et Pélée, Éris, déesse de la discorde, lance une pomme d'or portant l'inscription « À la plus belle ». Héra, Athéna et Aphrodite se la disputent ; Pâris choisit Aphrodite, qui lui promet Hélène. Cet enlèvement déclenche la guerre de Troie.",
     "source": "D'après Wikipédia — Éris"
   },
   {
@@ -417,7 +417,7 @@
       "Tezcatlipoca"
     ],
     "bonneReponse": 1,
-    "explication": "Quetzalcóatl est le dieu du vent et de la connaissance.",
+    "explication": "Quetzalcóatl, le « serpent à plumes », est l'un des grands dieux de Mésoamérique, vénéré par les Toltèques puis les Aztèques. Dieu du vent, de la connaissance et des arts, il aurait donné le maïs et le calendrier aux humains. Son nom associe le quetzal, un oiseau aux plumes précieuses, et le serpent.",
     "source": "D'après Wikipédia — Quetzalcóatl"
   },
   {
@@ -426,7 +426,7 @@
     "format": "vrai-faux",
     "affirmation": "Pégase est né du cou de Méduse décapitée.",
     "reponse": true,
-    "explication": "Avec le géant Chrysaor, il jaillit quand Persée tranche la tête de la Gorgone.",
+    "explication": "Quand Persée tranche la tête de Méduse, le cheval ailé Pégase et le géant Chrysaor jaillissent de son cou ; ils étaient les enfants de Méduse et de Poséidon. Pégase aide ensuite le héros Bellérophon à tuer la Chimère, avant de devenir une constellation.",
     "source": "D'après Wikipédia — Pégase"
   },
   {
@@ -441,7 +441,7 @@
       "Ganymède"
     ],
     "bonneReponse": 1,
-    "explication": "Il a donné son nom à la fleur et au narcissisme.",
+    "explication": "Le jeune et très beau Narcisse repousse tous ceux qui l'aiment, dont la nymphe Écho. Pour le punir, les dieux le font tomber amoureux de son propre reflet dans l'eau d'une source ; incapable de s'en détacher, il dépérit et se transforme en fleur. Il a donné son nom au narcisse et au narcissisme.",
     "source": "D'après Wikipédia — Narcisse (mythologie)"
   },
   {
@@ -456,7 +456,7 @@
       "Du raisin"
     ],
     "bonneReponse": 2,
-    "explication": "Pour avoir mangé des graines de grenade, elle doit passer une partie de l'année aux Enfers.",
+    "explication": "Enlevée par Hadès, Perséphone mange quelques graines de grenade aux Enfers. Or, quiconque y mange quelque chose est lié à ce monde. Zeus décide donc qu'elle passera une partie de l'année aux Enfers, et le reste avec sa mère Déméter : c'est l'explication grecque de l'hiver et du retour du printemps.",
     "source": "D'après Wikipédia — Perséphone"
   },
   {
@@ -471,7 +471,7 @@
       "Champollion"
     ],
     "bonneReponse": 1,
-    "explication": "Schliemann a fouillé Hissarlik, en Turquie. Arthur Evans a fouillé Cnossos.",
+    "explication": "Passionné par l'Iliade depuis l'enfance, le riche marchand allemand Heinrich Schliemann fouille en 1871 la colline d'Hissarlik, en Turquie, et y découvre plusieurs villes superposées, dont une détruite vers 1200 av. J.-C. Ses méthodes brutales ont abîmé le site. L'Anglais Arthur Evans, lui, a fouillé le palais de Cnossos, en Crète.",
     "source": "D'après Wikipédia — Heinrich Schliemann"
   }
 ]

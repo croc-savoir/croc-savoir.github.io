@@ -11,8 +11,8 @@
       "Gunpei Yokoi"
     ],
     "bonneReponse": 1,
-    "explication": "Hideo Kojima est le créateur de la série Metal Gear, fondatrice du genre de l'infiltration.",
-    "source": "À vérifier"
+    "explication": "Hideo Kojima crée Metal Gear en 1987 chez Konami. Faute de pouvoir afficher beaucoup d'ennemis à l'écran, il imagine un jeu où il faut éviter les combats et se cacher : c'est la naissance du jeu d'infiltration. Metal Gear Solid (1998) le rend célèbre pour ses mises en scène de cinéma. Il a depuis fondé son propre studio.",
+    "source": "D'après Wikipédia — Hideo Kojima"
   },
   {
     "id": "q-jeux-video-002",
@@ -20,8 +20,8 @@
     "format": "vrai-faux",
     "affirmation": "Tetris a été créé par un ingénieur soviétique.",
     "reponse": true,
-    "explication": "Tetris a été créé en 1984 par Alexey Pajitnov, ingénieur travaillant à l'Académie des sciences d'URSS.",
-    "source": "À vérifier"
+    "explication": "En 1984, à Moscou, Alexeï Pajitnov, chercheur en informatique à l'Académie des sciences d'URSS, crée Tetris, inspiré d'un jeu de pentaminos. Le nom mêle « tétra » (quatre, le nombre de carrés par pièce) et tennis, son sport préféré. Le jeu appartenant à l'État soviétique, Pajitnov n'en touche les droits qu'à partir de 1996.",
+    "source": "D'après Wikipédia — Tetris"
   },
   {
     "id": "q-jeux-video-003",
@@ -31,27 +31,27 @@
     "paires": [
       {
         "gauche": "Shigeru Miyamoto",
-        "droite": "Super Mario / The Legend of Zelda",
-        "explication": "Chez Nintendo, Miyamoto a créé Mario (1981-1985) et Zelda (1986)."
+        "droite": "Super Mario",
+        "explication": "Chez Nintendo, il crée Mario en 1981 dans Donkey Kong, puis Super Mario Bros. (1985) et The Legend of Zelda (1986)."
       },
       {
-        "gauche": "Hironobu Sakaguchi",
-        "droite": "Final Fantasy",
-        "explication": "Sakaguchi crée Final Fantasy en 1987 chez Square, alors au bord de la faillite, d'où le mot « Final »."
+        "gauche": "Yuji Naka",
+        "droite": "Sonic",
+        "explication": "Programmeur de Sega, il crée en 1991 le hérisson bleu ultra-rapide pour rivaliser avec Mario."
       },
       {
-        "gauche": "Satoshi Tajiri",
-        "droite": "Pokémon",
-        "explication": "Passionné d'insectes enfant, Tajiri imagine Pokémon, sorti en 1996 sur Game Boy."
+        "gauche": "Sid Meier",
+        "droite": "Civilization",
+        "explication": "En 1991, il imagine un jeu de stratégie où l'on guide une civilisation de la préhistoire à la conquête spatiale."
       },
       {
-        "gauche": "Gunpei Yokoi",
-        "droite": "Game Boy / Metroid",
-        "explication": "Yokoi a inventé la Game Boy (1989) et produit Metroid ; on lui doit aussi la croix directionnelle."
+        "gauche": "John Carmack et John Romero",
+        "droite": "Doom",
+        "explication": "Chez id Software, ils sortent Doom en 1993, qui popularise le jeu de tir à la première personne."
       }
     ],
-    "explication": "Chacun de ces créateurs est à l'origine d'une franchise majeure du jeu vidéo japonais.",
-    "source": "À vérifier"
+    "explication": "Ces créateurs ont chacun inventé ou popularisé un genre : la plateforme avec Mario, la vitesse avec Sonic, la stratégie au tour par tour avec Civilization et le tir à la première personne avec Doom. Leurs jeux ont inspiré des milliers d'autres.",
+    "source": "D'après Wikipédia — Histoire du jeu vidéo"
   },
   {
     "id": "q-jeux-video-004",
@@ -64,20 +64,24 @@
         "annee": "1972"
       },
       {
-        "label": "Sortie de la Famicom/NES",
-        "annee": "1983"
+        "label": "Sortie de Space Invaders",
+        "annee": "1978"
       },
       {
-        "label": "Sortie de la PlayStation",
-        "annee": "1994"
+        "label": "Sortie de Super Mario Bros.",
+        "annee": "1985"
       },
       {
-        "label": "Sortie de Minecraft",
+        "label": "Sortie de Pokémon Rouge et Vert au Japon",
+        "annee": "1996"
+      },
+      {
+        "label": "Sortie officielle de Minecraft",
         "annee": "2011"
       }
     ],
-    "explication": "De Pong (1972) à Minecraft (2011), en passant par la NES (1983) et la PlayStation (1994).",
-    "source": "À vérifier"
+    "explication": "1972 : Pong, simple tennis électronique d'Atari, lance l'industrie. 1978 : Space Invaders fait fureur dans les salles d'arcade. 1985 : Super Mario Bros. relance le jeu vidéo après le krach de 1983. 1996 : Pokémon sort sur Game Boy au Japon. 2011 : Minecraft sort officiellement, avant de devenir le jeu le plus vendu de l'histoire.",
+    "source": "D'après Wikipédia — Histoire du jeu vidéo"
   },
   {
     "id": "q-jeux-video-005",
@@ -91,8 +95,8 @@
       "Le roguelike désigne un jeu de plateforme linéaire"
     ],
     "bonneReponse": 1,
-    "explication": "Le rogue-lite adoucit la règle de perte totale du roguelike classique en gardant une progression entre les parties.",
-    "source": "À vérifier"
+    "explication": "Le nom vient de Rogue (1980), où chaque partie se déroule dans un donjon généré au hasard et où la mort est définitive : il faut tout recommencer. Le rogue-lite garde le hasard et la mort, mais laisse conserver des améliorations d'une partie à l'autre, comme dans Hades ou Dead Cells, ce qui le rend moins punitif.",
+    "source": "D'après Wikipédia — Roguelike"
   },
   {
     "id": "q-jeux-video-006",
@@ -105,8 +109,8 @@
       "Je suis devenu le jeu vidéo le plus vendu de l'histoire."
     ],
     "reponse": "Minecraft",
-    "explication": "Minecraft, créé par Markus Persson, est devenu le jeu vidéo le plus vendu de tous les temps.",
-    "source": "À vérifier"
+    "explication": "Le Suédois Markus Persson, dit « Notch », publie une première version de Minecraft en 2009 et la version officielle en 2011. Dans ce monde de cubes quasi infini, on récolte, on construit et on survit. Microsoft rachète le studio Mojang en 2014 pour 2,5 milliards de dollars. Le jeu a dépassé 300 millions d'exemplaires vendus.",
+    "source": "D'après Wikipédia — Minecraft"
   },
   {
     "id": "q-jeux-video-007",
@@ -120,7 +124,7 @@
       "Nolan Bushnell"
     ],
     "bonneReponse": 1,
-    "explication": "Toru Iwatani, chez Namco, en 1980.",
+    "explication": "En 1980, Toru Iwatani, chez Namco, veut créer un jeu qui plaise aussi aux femmes, loin des jeux de guerre spatiale. Il imagine un personnage qui mange, inspiré, selon lui, d'une pizza à laquelle manquait une part. Pac-Man devient l'un des jeux d'arcade les plus populaires de l'histoire.",
     "source": "D'après Wikipédia — Tōru Iwatani"
   },
   {
@@ -135,7 +139,7 @@
       "Capcom"
     ],
     "bonneReponse": 1,
-    "explication": "Sega, en 1991, sur Mega Drive.",
+    "explication": "Au début des années 1990, Sega cherche une mascotte pour concurrencer Mario et Nintendo. Le hérisson bleu Sonic, créé par Yuji Naka et Naoto Ōshima, sort en 1991 sur Mega Drive. Sa vitesse et son attitude rebelle séduisent les adolescents, et la « guerre des consoles » entre Sega et Nintendo fait rage.",
     "source": "D'après Wikipédia — Sonic the Hedgehog"
   },
   {
@@ -144,7 +148,7 @@
     "format": "vrai-faux",
     "affirmation": "Nintendo a été fondée au XIXe siècle pour fabriquer des cartes à jouer.",
     "reponse": true,
-    "explication": "En 1889 à Kyoto, des cartes hanafuda.",
+    "explication": "Nintendo est fondée en 1889 à Kyoto par Fusajirō Yamauchi pour fabriquer des hanafuda, des cartes à jouer japonaises illustrées de fleurs. L'entreprise essaie ensuite les taxis, les hôtels ou les jouets, avant de se lancer dans le jeu vidéo dans les années 1970. Elle vend encore des cartes aujourd'hui.",
     "source": "D'après Wikipédia — Nintendo"
   },
   {
@@ -159,7 +163,7 @@
       "Le na'vi"
     ],
     "bonneReponse": 1,
-    "explication": "Une langue sans signification précise pour laisser le joueur interpréter.",
+    "explication": "Dans Les Sims (2000), les personnages parlent le simlish, une langue inventée sans vocabulaire fixe. Le créateur Will Wright voulait éviter les répétitions et les traductions, et laisser chaque joueur imaginer les conversations. Des chanteurs comme Katy Perry ont même réenregistré leurs tubes en simlish.",
     "source": "D'après Wikipédia — Simlish"
   },
   {
@@ -173,23 +177,23 @@
       "Je suis la mascotte historique d'Ubisoft."
     ],
     "reponse": "Rayman",
-    "explication": "Ses membres flottants simplifiaient l'animation.",
+    "explication": "Rayman, créé par le Français Michel Ancel, sort en 1995 chez Ubisoft. Son corps sans bras, sans jambes ni cou, avec des mains et des pieds qui flottent, simplifiait l'animation avec les moyens de l'époque. Il est devenu la mascotte de l'éditeur français, avant les Lapins crétins, apparus dans ses jeux.",
     "source": "D'après Wikipédia — Rayman (série de jeux vidéo)"
   },
   {
     "id": "q-jeux-video-012",
     "domain": "jeux-video",
     "format": "qcm",
-    "question": "Quel est le jeu vidéo le plus vendu de l'histoire ?",
+    "question": "Dans la série The Legend of Zelda, comment s'appelle le héros que l'on dirige ?",
     "choix": [
-      "Tetris",
-      "GTA V",
-      "Minecraft",
-      "Wii Sports"
+      "Link",
+      "Zelda",
+      "Ganon",
+      "Epona"
     ],
-    "bonneReponse": 2,
-    "explication": "Minecraft dépasse les 300 millions d'exemplaires.",
-    "source": "D'après Wikipédia — Minecraft"
+    "bonneReponse": 0,
+    "explication": "On confond souvent : le héros au bonnet vert s'appelle Link, et Zelda est la princesse du royaume d'Hyrule, qu'il doit généralement sauver du méchant Ganon. Son nom, « lien » en anglais, devait relier le joueur au jeu. Créée en 1986 par Shigeru Miyamoto, la série s'inspire de ses explorations d'enfant dans la campagne japonaise.",
+    "source": "D'après Wikipédia — The Legend of Zelda"
   },
   {
     "id": "q-jeux-video-013",
@@ -218,8 +222,8 @@
         "explication": "Multiplayer Online Battle Arena : deux équipes s'affrontent dans une arène, comme League of Legends."
       }
     ],
-    "explication": "Les grands genres du jeu vidéo.",
-    "source": "À vérifier"
+    "explication": "Dans un FPS, on voit par les yeux du personnage et on tire (Doom, Call of Duty). Dans un RPG, on fait évoluer un héros au fil d'une histoire (Final Fantasy). Dans un RTS, on gère une armée et des ressources en temps réel (StarCraft). Dans un MOBA, deux équipes de cinq s'affrontent pour détruire la base adverse (League of Legends).",
+    "source": "D'après Wikipédia — Genre de jeu vidéo"
   },
   {
     "id": "q-jeux-video-014",
@@ -233,7 +237,7 @@
       "Neil Gaiman"
     ],
     "bonneReponse": 1,
-    "explication": "L'auteur du Trône de fer a écrit la mythologie du monde d'Elden Ring.",
+    "explication": "Pour Elden Ring (2022), le studio FromSoftware a demandé à George R. R. Martin, auteur du Trône de fer, d'écrire la mythologie de l'univers : l'histoire ancienne des demi-dieux et de l'Entre-terre. Hidetaka Miyazaki a ensuite construit le jeu à partir de ce récit. Le jeu a dépassé 25 millions de ventes.",
     "source": "D'après Wikipédia — Elden Ring"
   },
   {
@@ -242,23 +246,23 @@
     "format": "vrai-faux",
     "affirmation": "La PlayStation est née après que Nintendo a abandonné un partenariat avec Sony.",
     "reponse": true,
-    "explication": "Sony devait créer un lecteur CD pour la Super Nintendo ; Nintendo s'est allié à Philips en 1991.",
+    "explication": "Sony devait fabriquer un lecteur de CD pour la Super Nintendo. En 1991, Nintendo annonce publiquement qu'il s'associe finalement à Philips, humiliant Sony. L'ingénieur Ken Kutaragi convainc alors Sony de créer sa propre console : la PlayStation sort en 1994 et devient un énorme succès.",
     "source": "D'après Wikipédia — PlayStation"
   },
   {
     "id": "q-jeux-video-016",
     "domain": "jeux-video",
     "format": "qcm",
-    "question": "Quelle console de salon est la plus vendue de l'histoire ?",
+    "question": "Quelle console Nintendo, sortie en 2006, se jouait avec une manette détectant les mouvements ?",
     "choix": [
       "La Wii",
-      "La PlayStation 2",
-      "La Xbox 360",
-      "La Nintendo Switch"
+      "La GameCube",
+      "La Nintendo 64",
+      "La Switch"
     ],
-    "bonneReponse": 1,
-    "explication": "Environ 155 millions d'unités.",
-    "source": "D'après Wikipédia — PlayStation 2"
+    "bonneReponse": 0,
+    "explication": "Sortie fin 2006, la Wii se joue avec la Wiimote, une manette en forme de télécommande qui détecte les gestes : on mime un coup de raquette ou un lancer de bowling. Elle attire les familles et les personnes âgées qui ne jouaient pas, et se vend à plus de 100 millions d'exemplaires, bien plus que ses concurrentes plus puissantes.",
+    "source": "D'après Wikipédia — Wii"
   },
   {
     "id": "q-jeux-video-017",
@@ -272,23 +276,23 @@
       "Space Invaders"
     ],
     "bonneReponse": 1,
-    "explication": "Deux vaisseaux s'affrontent autour d'une étoile, sur un ordinateur PDP-1.",
+    "explication": "En 1962, des étudiants du MIT, menés par Steve Russell, programment Spacewar! sur un ordinateur PDP-1, grand comme plusieurs armoires. Deux joueurs dirigent des vaisseaux qui s'affrontent autour d'une étoile dont la gravité les attire. Le jeu, copié d'université en université, inspire les premiers jeux d'arcade.",
     "source": "D'après Wikipédia — Spacewar!"
   },
   {
     "id": "q-jeux-video-018",
     "domain": "jeux-video",
     "format": "difference",
-    "question": "Quelle est la différence entre un roguelike et un rogue-lite ?",
+    "question": "Quelle entreprise française édite la série Assassin's Creed ?",
     "choix": [
-      "Le rogue-lite laisse conserver certaines améliorations entre les parties",
-      "Le roguelike est en 3D",
-      "Le rogue-lite n'a pas de mort permanente",
-      "Aucune"
+      "Ubisoft",
+      "Ankama",
+      "Quantic Dream",
+      "Gameloft"
     ],
     "bonneReponse": 0,
-    "explication": "Hades ou Dead Cells sont des rogue-lites.",
-    "source": "D'après Wikipédia — Roguelite"
+    "explication": "Ubisoft, fondée en 1986 en Bretagne par les cinq frères Guillemot, lance Assassin's Creed en 2007, développé dans son studio de Montréal. Chaque épisode plonge le joueur dans une époque historique reconstituée, de la Révolution française à l'Égypte antique. Ubisoft édite aussi Rayman et Just Dance.",
+    "source": "D'après Wikipédia — Ubisoft"
   },
   {
     "id": "q-jeux-video-019",
@@ -302,7 +306,7 @@
       "Il y a 18 niveaux"
     ],
     "bonneReponse": 1,
-    "explication": "Le PEGI indique l'âge minimum conseillé selon le contenu.",
+    "explication": "Le PEGI (Pan European Game Information), créé en 2003, indique l'âge minimum conseillé pour un jeu : 3, 7, 12, 16 ou 18 ans. Des pictogrammes précisent le contenu : violence, langage grossier, peur, jeux d'argent, achats en jeu. C'est une recommandation, pas une interdiction légale en France.",
     "source": "D'après Wikipédia — Pan European Game Information"
   },
   {
@@ -311,7 +315,7 @@
     "format": "vrai-faux",
     "affirmation": "Les combos de Street Fighter II sont nés d'un bug que les développeurs ont gardé.",
     "reponse": true,
-    "explication": "Le timing permettait d'enchaîner les coups ; Capcom a décidé de conserver ce comportement.",
+    "explication": "En développant Street Fighter II (1991), l'équipe de Capcom remarque qu'on peut enchaîner certains coups avant que l'adversaire ne récupère. Jugé trop difficile à réussir pour être gênant, ce bug est conservé. Les joueurs s'en emparent, et le combo devient un élément central de tous les jeux de combat.",
     "source": "D'après Wikipédia — Street Fighter II"
   },
   {
@@ -326,7 +330,7 @@
       "D'un roman de Tolkien"
     ],
     "bonneReponse": 1,
-    "explication": "Battle Royale, film où des collégiens doivent s'affronter sur une île.",
+    "explication": "Battle Royale, film japonais de Kinji Fukasaku (2000), adapté d'un roman, montre une classe de collégiens forcés de s'entretuer sur une île jusqu'au dernier survivant. Le principe inspire des jeux où une centaine de joueurs s'affrontent sur une carte qui rétrécit, comme PUBG (2017) et Fortnite.",
     "source": "D'après Wikipédia — Battle royale (genre de jeu vidéo)"
   },
   {
@@ -341,7 +345,7 @@
       "David Cage"
     ],
     "bonneReponse": 1,
-    "explication": "Alone in the Dark (1992) a inspiré Resident Evil.",
+    "explication": "En 1992, le Français Frédérick Raynal crée Alone in the Dark chez Infogrames : on explore un manoir hanté inspiré de l'écrivain Lovecraft, avec des personnages en 3D sur des décors fixes. Il invente les bases du survival horror, que Capcom reprend dans Resident Evil (1996). Raynal crée ensuite Little Big Adventure.",
     "source": "D'après Wikipédia — Frédérick Raynal"
   },
   {
@@ -371,8 +375,8 @@
         "annee": "2017"
       }
     ],
-    "explication": "Plus de 30 ans de consoles.",
-    "source": "À vérifier"
+    "explication": "1983 : Nintendo sort la Famicom au Japon, devenue NES en Occident. 1989 : la Game Boy rend le jeu portable, avec Tetris. 1994 : Sony lance la PlayStation et le jeu en 3D sur CD. 2006 : la Wii popularise la détection de mouvements. 2017 : la Switch se joue à la fois sur la télé et en portable.",
+    "source": "D'après Wikipédia — Console de jeux vidéo"
   },
   {
     "id": "q-jeux-video-024",
@@ -386,7 +390,7 @@
       "Shigeru Miyamoto"
     ],
     "bonneReponse": 1,
-    "explication": "Hidetaka Miyazaki, de FromSoftware, sans lien avec Hayao Miyazaki.",
+    "explication": "Hidetaka Miyazaki, président du studio FromSoftware, réalise Demon's Souls (2009), Dark Souls (2011), Bloodborne, Sekiro puis Elden Ring (2022). Ses jeux, très difficiles, ont créé le genre « soulslike ». Il n'a aucun lien avec Hayao Miyazaki, le réalisateur des films du Studio Ghibli.",
     "source": "D'après Wikipédia — Hidetaka Miyazaki"
   },
   {
@@ -395,7 +399,7 @@
     "format": "vrai-faux",
     "affirmation": "Pac-Man plante au niveau 256.",
     "reponse": true,
-    "explication": "Un bug de compteur remplit la moitié de l'écran de symboles incohérents.",
+    "explication": "Le compteur de niveaux de Pac-Man est stocké sur un seul octet, qui ne peut dépasser 255. Au niveau 256, le calcul du dessin des fruits déborde et remplit la moitié droite de l'écran de symboles incohérents : il devient impossible de finir le niveau. En 1999, Billy Mitchell réalise la première partie parfaite jusqu'à ce niveau.",
     "source": "D'après Wikipédia — Pac-Man"
   },
   {
@@ -410,7 +414,7 @@
       "~120 millions"
     ],
     "bonneReponse": 2,
-    "explication": "Plus de 12 millions de joueurs simultanés.",
+    "explication": "En avril 2020, pendant le confinement, le rappeur Travis Scott donne dans Fortnite un concert virtuel où son avatar géant marche au milieu de l'île. Plus de 12 millions de joueurs y assistent en même temps, un record pour le jeu. D'autres artistes ont suivi, comme Ariana Grande en 2021.",
     "source": "D'après Wikipédia — Fortnite"
   },
   {
@@ -445,8 +449,8 @@
         "explication": "Tajiri, fondateur de Game Freak, crée Pokémon en 1996."
       }
     ],
-    "explication": "Cinq créateurs, cinq classiques.",
-    "source": "À vérifier"
+    "explication": "Hideo Kojima invente l'infiltration avec Metal Gear (1987). Hironobu Sakaguchi crée Final Fantasy (1987), pensé comme son dernier jeu, d'où le titre. Will Wright imagine Les Sims (2000). Alexeï Pajitnov crée Tetris (1984) en URSS. Satoshi Tajiri, passionné par les insectes dans son enfance, invente Pokémon (1996).",
+    "source": "D'après Wikipédia — Histoire du jeu vidéo"
   },
   {
     "id": "q-jeux-video-028",
@@ -460,7 +464,7 @@
       "La Chine"
     ],
     "bonneReponse": 1,
-    "explication": "La Corée du Sud a eu des chaînes de télévision dédiées dès les années 2000.",
+    "explication": "Après la crise de 1997, la Corée du Sud développe massivement Internet haut débit et les salles de jeux en réseau, les PC bang. StarCraft (1998) y devient un phénomène national : les matchs passent à la télévision sur des chaînes dédiées et les meilleurs joueurs deviennent des stars. C'est la naissance de l'esport professionnel.",
     "source": "D'après Wikipédia — Jeu vidéo en Corée du Sud"
   },
   {
@@ -475,7 +479,7 @@
       "Pour une publicité"
     ],
     "bonneReponse": 1,
-    "explication": "Les cheveux et la bouche étaient difficiles à représenter avec si peu de pixels.",
+    "explication": "Dans Donkey Kong (1981), Mario est dessiné avec très peu de pixels. Shigeru Miyamoto lui donne une casquette pour éviter d'animer ses cheveux, une moustache pour ne pas dessiner sa bouche, et une salopette pour que ses bras se voient bien quand il bouge. Il s'appelait alors Jumpman.",
     "source": "D'après Wikipédia — Mario (personnage)"
   },
   {
@@ -484,7 +488,7 @@
     "format": "vrai-faux",
     "affirmation": "Le statut de joueur professionnel de jeux vidéo est reconnu par la loi en France.",
     "reponse": true,
-    "explication": "Depuis la loi pour une République numérique de 2016.",
+    "explication": "La loi pour une République numérique de 2016, portée par Axelle Lemaire, reconnaît le statut de joueur professionnel salarié de jeux vidéo en France. Elle encadre aussi les compétitions d'esport, qui relevaient auparavant des règles des loteries. Les joueurs pros peuvent ainsi signer de vrais contrats de travail.",
     "source": "D'après Wikipédia — Esport"
   },
   {
@@ -499,7 +503,7 @@
       "Asteroids"
     ],
     "bonneReponse": 1,
-    "explication": "Des milliers de cartouches ont été enterrées dans une décharge du Nouveau-Mexique.",
+    "explication": "Pour sortir à Noël 1982, le jeu E.T. l'extra-terrestre est programmé en seulement cinq semaines par Howard Scott Warshaw. Confus et frustrant, il est un échec : Atari enterre des milliers de cartouches invendues dans une décharge d'Alamogordo, au Nouveau-Mexique, retrouvées lors de fouilles en 2014. Le krach de 1983 suit.",
     "source": "D'après Wikipédia — E.T. the Extra-Terrestrial (jeu vidéo)"
   }
 ]

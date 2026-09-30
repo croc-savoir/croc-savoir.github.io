@@ -12,7 +12,7 @@
     ],
     "bonneReponse": 1,
     "explication": "L'hyperinflation désigne une inflation extrêmement rapide (parfois plusieurs dizaines de pourcents par mois), qui fait perdre presque toute valeur à la monnaie, contrairement à une inflation modérée maîtrisable.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Hyperinflation"
   },
   {
     "id": "q-economie-002",
@@ -27,7 +27,7 @@
     ],
     "bonneReponse": 0,
     "explication": "En désinflation, les prix continuent d'augmenter mais moins vite ; en déflation, les prix baissent réellement d'une période à l'autre.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Déflation"
   },
   {
     "id": "q-economie-003",
@@ -36,32 +36,32 @@
     "affirmation": "Le PIB prend en compte les inégalités de répartition des richesses au sein d'un pays.",
     "reponse": false,
     "explication": "Le PIB mesure la richesse totale produite mais ne dit rien sur sa répartition entre les habitants : deux pays peuvent avoir le même PIB par habitant avec des niveaux d'inégalités très différents.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Produit intérieur brut"
   },
   {
     "id": "q-economie-004",
     "domain": "economie",
     "format": "associer",
-    "question": "Associe chaque économiste à l'idée qui lui est le plus souvent associée.",
+    "question": "Associe chaque institution à son rôle.",
     "paires": [
       {
-        "gauche": "Adam Smith",
-        "droite": "La main invisible du marché",
-        "explication": "Pour Smith (1776), en poursuivant son propre intérêt, chacun contribue sans le vouloir à la richesse de tous."
+        "gauche": "Banque centrale européenne",
+        "droite": "Gérer l'euro et la politique monétaire",
+        "explication": "Installée à Francfort, la BCE fixe les taux d'intérêt de la zone euro pour maintenir l'inflation proche de 2 %."
       },
       {
-        "gauche": "John Maynard Keynes",
-        "droite": "La relance par la dépense publique",
-        "explication": "Face au chômage de masse des années 1930, Keynes défend l'intervention de l'État pour relancer l'économie."
+        "gauche": "Fonds monétaire international",
+        "droite": "Prêter aux pays en crise financière",
+        "explication": "Créé à Bretton Woods en 1944, le FMI prête aux États en difficulté, souvent en échange de réformes."
       },
       {
-        "gauche": "Milton Friedman",
-        "droite": "Le contrôle de la masse monétaire",
-        "explication": "Pour Friedman, l'inflation vient d'une création trop rapide de monnaie : la banque centrale doit la maîtriser."
+        "gauche": "Organisation mondiale du commerce",
+        "droite": "Fixer les règles du commerce international",
+        "explication": "Née en 1995 à Genève, l'OMC négocie la baisse des droits de douane et arbitre les conflits commerciaux."
       }
     ],
-    "explication": "Ces trois économistes incarnent des courants différents : le libéralisme classique, l'interventionnisme keynésien et le monétarisme.",
-    "source": "À vérifier"
+    "explication": "Ces trois institutions encadrent l'économie mondiale : la BCE pilote la monnaie de vingt pays européens, le FMI joue le pompier des crises financières, et l'OMC arbitre le commerce entre ses 166 membres.",
+    "source": "D'après Wikipédia — Fonds monétaire international"
   },
   {
     "id": "q-economie-005",
@@ -76,7 +76,7 @@
     ],
     "reponse": "John Maynard Keynes",
     "explication": "Keynes défend l'idée qu'une économie peut rester durablement en sous-emploi sans intervention de l'État, et prône une relance budgétaire en temps de crise.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — John Maynard Keynes"
   },
   {
     "id": "q-economie-006",
@@ -90,7 +90,7 @@
       "Keynes"
     ],
     "bonneReponse": 1,
-    "explication": "Ricardo, en 1817, avec l'exemple du vin portugais et du drap anglais.",
+    "explication": "En 1817, David Ricardo montre que deux pays gagnent à échanger même si l'un est meilleur partout. Le Portugal produit vin et drap plus efficacement que l'Angleterre, mais son avantage est plus grand pour le vin : il doit s'y spécialiser, et l'Angleterre dans le drap. Cette idée fonde le libre-échange.",
     "source": "D'après Wikipédia — Avantage comparatif"
   },
   {
@@ -105,7 +105,7 @@
       "Le déficit concerne les entreprises"
     ],
     "bonneReponse": 1,
-    "explication": "Le déficit est un flux, la dette un stock.",
+    "explication": "Le déficit public, c'est l'écart, sur une année, entre ce que l'État dépense et ce qu'il gagne : c'est un flux. Pour le combler, il emprunte. La dette publique est la somme de tous les emprunts non remboursés, accumulés année après année : c'est un stock. Un déficit chaque année fait donc grossir la dette.",
     "source": "D'après Wikipédia — Dette publique"
   },
   {
@@ -114,7 +114,7 @@
     "format": "vrai-faux",
     "affirmation": "Le nombre total de bitcoins est limité à 21 millions.",
     "reponse": true,
-    "explication": "C'est inscrit dans le protocole créé par Satoshi Nakamoto.",
+    "explication": "Le protocole créé en 2008 par Satoshi Nakamoto limite à 21 millions le nombre de bitcoins. Ils sont créés peu à peu en récompense des « mineurs », et cette récompense est divisée par deux environ tous les quatre ans. Le dernier bitcoin devrait être créé vers 2140. Cette rareté programmée imite celle de l'or.",
     "source": "D'après Wikipédia — Bitcoin"
   },
   {
@@ -129,7 +129,7 @@
       "Raymond Aron"
     ],
     "bonneReponse": 0,
-    "explication": "L'économiste Jean Fourastié, dans un livre de 1979.",
+    "explication": "Dans son livre Les Trente Glorieuses (1979), l'économiste Jean Fourastié désigne ainsi la période 1945-1975 en France : croissance d'environ 5 % par an, quasi plein emploi, et arrivée de la voiture, du réfrigérateur et de la télévision dans les foyers. Le titre fait écho aux « Trois Glorieuses », la révolution de 1830.",
     "source": "D'après Wikipédia — Jean Fourastié"
   },
   {
@@ -144,7 +144,7 @@
       "Hayek"
     ],
     "bonneReponse": 1,
-    "explication": "Joseph Schumpeter, dans Capitalisme, socialisme et démocratie (1942).",
+    "explication": "Pour Joseph Schumpeter, dans Capitalisme, socialisme et démocratie (1942), le capitalisme avance par vagues d'innovations : les nouvelles technologies détruisent des entreprises et des métiers anciens, tout en créant de nouvelles activités. La voiture a fait disparaître les calèches, mais a créé l'industrie automobile.",
     "source": "D'après Wikipédia — Destruction créatrice"
   },
   {
@@ -158,7 +158,7 @@
       "J'ai reçu le prix Nobel d'économie en 2019."
     ],
     "reponse": "Esther Duflo",
-    "explication": "Deuxième femme et plus jeune lauréate du Nobel d'économie.",
+    "explication": "Esther Duflo reçoit en 2019 le prix Nobel d'économie avec Abhijit Banerjee et Michael Kremer, à 46 ans : elle est la plus jeune lauréate et la deuxième femme. Elle teste les politiques contre la pauvreté comme des médicaments, en comparant au hasard des groupes qui en bénéficient ou non.",
     "source": "D'après Wikipédia — Esther Duflo"
   },
   {
@@ -173,7 +173,7 @@
       "Une entreprise en faillite"
     ],
     "bonneReponse": 1,
-    "explication": "Le terme a été inventé en 2013 par l'investisseuse Aileen Lee.",
+    "explication": "En 2013, l'investisseuse américaine Aileen Lee appelle « licornes » les start-up non cotées en Bourse valant plus d'un milliard de dollars, parce qu'elles étaient alors aussi rares que l'animal légendaire. Il en existe aujourd'hui plus d'un millier dans le monde, comme BlaBlaCar, Doctolib ou Mistral AI en France.",
     "source": "D'après Wikipédia — Licorne (économie)"
   },
   {
@@ -182,7 +182,7 @@
     "format": "vrai-faux",
     "affirmation": "Le prix Nobel d'économie fait partie des prix Nobel créés par Alfred Nobel.",
     "reponse": false,
-    "explication": "Il a été créé en 1968 par la Banque de Suède en mémoire d'Alfred Nobel.",
+    "explication": "Alfred Nobel, inventeur de la dynamite, crée par testament en 1895 cinq prix : physique, chimie, médecine, littérature et paix. Le prix d'économie est créé en 1968 par la Banque de Suède pour ses 300 ans. Son nom officiel est « prix de la Banque de Suède en sciences économiques en mémoire d'Alfred Nobel ».",
     "source": "D'après Wikipédia — Prix de la Banque de Suède en sciences économiques en mémoire d'Alfred Nobel"
   },
   {
@@ -197,7 +197,7 @@
       "La crise de 2008"
     ],
     "bonneReponse": 1,
-    "explication": "Le prix du pétrole est multiplié par quatre, provoquant stagflation et chômage.",
+    "explication": "En octobre 1973, pendant la guerre du Kippour, les pays arabes producteurs de pétrole réduisent leur production et imposent un embargo aux alliés d'Israël. Le prix du baril est multiplié par quatre en quelques mois. Les pays occidentaux connaissent alors à la fois inflation et chômage : la stagflation.",
     "source": "D'après Wikipédia — Premier choc pétrolier"
   },
   {
@@ -227,8 +227,8 @@
         "explication": "Des concurrents s'entendent en secret sur les prix ou les quantités, ce qui est interdit et sanctionné."
       }
     ],
-    "explication": "Quatre structures de marché.",
-    "source": "À vérifier"
+    "explication": "Selon le nombre de vendeurs et d'acheteurs, un marché est plus ou moins concurrentiel. Moins il y a d'acteurs, plus ils peuvent imposer leurs prix. C'est pourquoi les autorités de la concurrence surveillent les monopoles et sanctionnent les cartels par de lourdes amendes.",
+    "source": "D'après Wikipédia — Concentration d'un marché"
   },
   {
     "id": "q-economie-016",
@@ -242,7 +242,7 @@
       "72 ans"
     ],
     "bonneReponse": 1,
-    "explication": "72 / 6 = 12 ans, grâce aux intérêts composés.",
+    "explication": "Pour savoir en combien d'années un placement double, on divise 72 par le taux d'intérêt annuel : à 6 %, 72 / 6 = 12 ans. Cela marche grâce aux intérêts composés : chaque année, les intérêts s'ajoutent au capital et rapportent à leur tour des intérêts. À 2 %, il faut 36 ans.",
     "source": "D'après Wikipédia — Règle des 72"
   },
   {
@@ -257,7 +257,7 @@
       "1 000 $"
     ],
     "bonneReponse": 1,
-    "explication": "Le dollar était convertible en or à 35 $ l'once jusqu'en 1971.",
+    "explication": "Les accords de Bretton Woods (1944) organisent le système monétaire d'après-guerre : les monnaies sont liées au dollar, lui-même convertible en or à 35 $ l'once (environ 31 grammes). En 1971, face à la baisse de ses réserves d'or, le président Nixon suspend cette convertibilité : c'est la fin du système.",
     "source": "D'après Wikipédia — Accords de Bretton Woods"
   },
   {
@@ -266,7 +266,7 @@
     "format": "vrai-faux",
     "affirmation": "Henry Ford a doublé le salaire de ses ouvriers en 1914.",
     "reponse": true,
-    "explication": "Le « five dollars day » visait à réduire le turnover et à faire des ouvriers des clients.",
+    "explication": "En janvier 1914, Henry Ford porte le salaire de ses ouvriers à 5 dollars par jour, environ le double de la moyenne. Le travail à la chaîne était si pénible que beaucoup partaient vite. Ce salaire réduit ces départs et permet aux ouvriers d'acheter la Ford T qu'ils fabriquent.",
     "source": "D'après Wikipédia — Henry Ford"
   },
   {
@@ -281,7 +281,7 @@
       "Bank of America"
     ],
     "bonneReponse": 1,
-    "explication": "La plus grande faillite de l'histoire américaine.",
+    "explication": "Le 15 septembre 2008, la banque d'affaires Lehman Brothers, très exposée aux crédits immobiliers à risque (subprimes), fait faillite : le gouvernement américain refuse de la sauver. C'est la plus grande faillite de l'histoire des États-Unis. Elle provoque une panique mondiale et la pire crise depuis 1929.",
     "source": "D'après Wikipédia — Lehman Brothers"
   },
   {
@@ -296,7 +296,7 @@
       "Le réel est fixé par l'État"
     ],
     "bonneReponse": 0,
-    "explication": "Taux réel ≈ taux nominal − inflation.",
+    "explication": "Le taux nominal est celui affiché par la banque. Le taux réel tient compte de l'inflation : il mesure ce que l'on gagne vraiment en pouvoir d'achat. Si un livret rapporte 3 % alors que les prix augmentent de 5 %, le taux réel est d'environ −2 % : l'épargnant s'appauvrit.",
     "source": "D'après Wikipédia — Taux d'intérêt réel"
   },
   {
@@ -311,7 +311,7 @@
       "Bill Gates"
     ],
     "bonneReponse": 2,
-    "explication": "L'identité du créateur du Bitcoin reste un mystère.",
+    "explication": "En 2008, un certain Satoshi Nakamoto publie le texte fondateur du Bitcoin, puis lance le réseau en 2009. Il disparaît en 2011 sans avoir révélé son identité. On ignore s'il s'agit d'une personne ou d'un groupe. Il posséderait environ un million de bitcoins, jamais utilisés.",
     "source": "D'après Wikipédia — Satoshi Nakamoto"
   },
   {
@@ -326,7 +326,7 @@
       "10 %"
     ],
     "bonneReponse": 1,
-    "explication": "La BCE vise une inflation de 2 % à moyen terme.",
+    "explication": "La BCE vise une inflation de 2 % à moyen terme. Une inflation trop forte fait perdre du pouvoir d'achat, mais une baisse des prix (déflation) est aussi dangereuse : les ménages repoussent leurs achats et l'économie ralentit. Pour atteindre cet objectif, la BCE monte ou baisse ses taux d'intérêt.",
     "source": "D'après Wikipédia — Banque centrale européenne"
   },
   {
@@ -356,8 +356,8 @@
         "annee": "2002"
       }
     ],
-    "explication": "Plus de deux siècles d'histoire économique.",
-    "source": "À vérifier"
+    "explication": "1776 : Adam Smith publie La Richesse des nations, acte de naissance de l'économie moderne. 1929 : le krach de Wall Street déclenche la Grande Dépression. 1944 : Bretton Woods organise le système monétaire d'après-guerre. 1973 : le premier choc pétrolier met fin aux Trente Glorieuses. 2002 : les billets en euros arrivent.",
+    "source": "D'après Wikipédia — Histoire économique"
   },
   {
     "id": "q-economie-024",
@@ -365,7 +365,7 @@
     "format": "vrai-faux",
     "affirmation": "Le PIB augmente quand il y a des accidents de la route.",
     "reponse": true,
-    "explication": "Réparations, soins et assurances sont des activités économiques comptabilisées. C'est une limite connue du PIB.",
+    "explication": "Le PIB mesure la valeur de tout ce qui est produit et vendu, sans juger si c'est utile ou non. Un accident entraîne des réparations de voitures, des soins et des frais d'assurance, qui s'ajoutent au PIB. À l'inverse, le bénévolat ou le travail domestique, non payés, n'y figurent pas.",
     "source": "D'après Wikipédia — Produit intérieur brut"
   },
   {
@@ -380,7 +380,7 @@
       "DAX"
     ],
     "bonneReponse": 2,
-    "explication": "Le DAX est l'indice allemand, le Nikkei le japonais, le Dow Jones l'américain.",
+    "explication": "Le CAC 40, créé en 1987, suit l'évolution des 40 plus grandes entreprises cotées à la Bourse de Paris, comme LVMH, TotalEnergies ou L'Oréal. Ses équivalents étrangers sont le DAX à Francfort, le Nikkei à Tokyo, le FTSE 100 à Londres, et le Dow Jones ou le S&P 500 à New York.",
     "source": "D'après Wikipédia — CAC 40"
   },
   {
@@ -395,7 +395,7 @@
       "Le monétarisme"
     ],
     "bonneReponse": 1,
-    "explication": "Juste-à-temps, zéro stock et ouvriers polyvalents chez Toyota.",
+    "explication": "Développé chez Toyota après 1945 par l'ingénieur Taiichi Ōno, le toyotisme produit « juste à temps » : on fabrique seulement ce qui est déjà commandé, pour limiter les stocks. Les ouvriers, polyvalents, peuvent arrêter la chaîne dès qu'ils voient un défaut. Il s'oppose au fordisme, production de masse standardisée.",
     "source": "D'après Wikipédia — Toyotisme"
   },
   {
@@ -410,7 +410,7 @@
       "Une hausse des taux d'intérêt"
     ],
     "bonneReponse": 1,
-    "explication": "Elle a frappé les pays développés après les chocs pétroliers des années 1970.",
+    "explication": "Le mot combine stagnation et inflation. Les économistes pensaient que chômage et inflation évoluaient en sens inverse. Mais après les chocs pétroliers des années 1970, les pays développés ont connu à la fois une croissance faible, un chômage élevé et une forte hausse des prix, ce qui a remis en cause les politiques keynésiennes.",
     "source": "D'après Wikipédia — Stagflation"
   },
   {
@@ -445,8 +445,8 @@
         "explication": "Schumpeter : les innovations détruisent les anciennes activités tout en en créant de nouvelles, moteur du capitalisme."
       }
     ],
-    "explication": "Cinq idées fondatrices de la pensée économique.",
-    "source": "À vérifier"
+    "explication": "Ces cinq idées ont façonné la pensée économique : le libéralisme classique de Smith et Ricardo, l'interventionnisme de l'État défendu par Keynes, le monétarisme de Friedman, et l'innovation vue par Schumpeter comme le moteur du capitalisme. Elles inspirent encore les débats économiques actuels.",
+    "source": "D'après Wikipédia — Histoire de la pensée économique"
   },
   {
     "id": "q-economie-029",
@@ -460,7 +460,7 @@
       "Un indice de l'obésité"
     ],
     "bonneReponse": 1,
-    "explication": "Créé par The Economist en 1986 pour illustrer la parité de pouvoir d'achat.",
+    "explication": "Créé en 1986 par l'hebdomadaire britannique The Economist, l'indice Big Mac compare le prix de ce burger, identique dans le monde entier, d'un pays à l'autre. Si le Big Mac est bien moins cher dans un pays une fois converti en dollars, sa monnaie est probablement sous-évaluée. C'est une illustration ludique de la parité de pouvoir d'achat.",
     "source": "D'après Wikipédia — Indice Big Mac"
   },
   {
@@ -469,7 +469,7 @@
     "format": "vrai-faux",
     "affirmation": "La dette publique de la France dépasse 100 % de son PIB.",
     "reponse": true,
-    "explication": "Elle est d'environ 110 % du PIB, soit plus de 3 000 milliards d'euros.",
+    "explication": "La dette publique française dépasse 110 % du PIB, soit plus de 3 000 milliards d'euros, contre environ 20 % en 1980. Elle a fortement augmenté après la crise de 2008 et la pandémie de Covid-19. Les traités européens fixent un plafond de 60 %, que beaucoup de pays dépassent.",
     "source": "D'après Wikipédia — Dette publique de la France"
   }
 ]

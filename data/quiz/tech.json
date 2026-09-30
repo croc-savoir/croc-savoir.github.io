@@ -11,8 +11,8 @@
       "Ada Lovelace"
     ],
     "bonneReponse": 1,
-    "explication": "Tim Berners-Lee a conçu le World Wide Web entre 1989 et 1991, alors qu'il travaillait au CERN.",
-    "source": "À vérifier"
+    "explication": "En 1989, au CERN près de Genève, l'informaticien britannique Tim Berners-Lee propose un système pour partager des documents reliés par des liens. Il crée le langage HTML, l'adresse web (URL), le protocole HTTP, le premier navigateur et le premier site, mis en ligne fin 1990. Le Web n'est qu'un service d'Internet, qui existait avant lui.",
+    "source": "D'après Wikipédia — World Wide Web"
   },
   {
     "id": "q-tech-002",
@@ -21,7 +21,7 @@
     "affirmation": "Thomas Edison a inventé le concept de l'ampoule électrique à partir de rien.",
     "reponse": false,
     "explication": "Plusieurs inventeurs avaient déjà travaillé sur des ampoules avant lui ; Edison en a surtout mis au point une version fiable et commercialisable.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Lampe à incandescence"
   },
   {
     "id": "q-tech-003",
@@ -50,8 +50,8 @@
         "explication": "Au CERN en 1989-1991, Berners-Lee crée le Web (HTML, HTTP, URL) et le laisse libre de droits."
       }
     ],
-    "explication": "Chacun a posé une pierre fondatrice de l'informatique ou de l'électricité moderne.",
-    "source": "À vérifier"
+    "explication": "Ada Lovelace imagine en 1843 le premier programme pour une machine à calculer. Alan Turing pose les bases théoriques de l'ordinateur et aide à casser Enigma pendant la guerre. Nikola Tesla développe le courant alternatif qui alimente nos prises. Tim Berners-Lee invente le Web en 1989.",
+    "source": "D'après Wikipédia — Histoire de l'informatique"
   },
   {
     "id": "q-tech-004",
@@ -60,24 +60,24 @@
     "question": "Remets ces inventions dans l'ordre chronologique.",
     "evenements": [
       {
-        "label": "Invention de l'imprimerie de Gutenberg",
-        "annee": "1450"
+        "label": "Télégraphe électrique de Samuel Morse",
+        "annee": "1837"
       },
       {
-        "label": "Dépôt du brevet du téléphone",
-        "annee": "1876"
+        "label": "Première automobile à essence de Carl Benz",
+        "annee": "1886"
       },
       {
-        "label": "Mise en service d'ARPANET",
-        "annee": "1969"
+        "label": "Première démonstration de la télévision par John Logie Baird",
+        "annee": "1926"
       },
       {
-        "label": "Invention du World Wide Web",
-        "annee": "1990"
+        "label": "Premier appel depuis un téléphone portable",
+        "annee": "1973"
       }
     ],
-    "explication": "De l'imprimerie (1450) au web (1990), en passant par le téléphone (1876) et ARPANET (1969).",
-    "source": "À vérifier"
+    "explication": "1837 : Samuel Morse met au point son télégraphe et son alphabet de points et de traits. 1886 : l'Allemand Carl Benz brevette la première automobile à moteur à essence. 1926 : l'Écossais John Logie Baird montre les premières images télévisées. 1973 : Martin Cooper, de Motorola, passe le premier appel depuis un téléphone portable, dans une rue de New York.",
+    "source": "D'après Wikipédia — Invention (technique)"
   },
   {
     "id": "q-tech-005",
@@ -92,7 +92,7 @@
     ],
     "bonneReponse": 1,
     "explication": "Un logiciel peut être gratuit sans être open source (code fermé), et inversement un logiciel open source peut être payant.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Open source"
   },
   {
     "id": "q-tech-006",
@@ -105,8 +105,8 @@
       "Des milliards de mes semblables sont gravés sur chaque puce de processeur moderne."
     ],
     "reponse": "Le transistor",
-    "explication": "Le transistor, inventé en 1947, est le composant de base de toute l'électronique moderne.",
-    "source": "À vérifier"
+    "explication": "En 1947, aux laboratoires Bell, John Bardeen, Walter Brattain et William Shockley inventent le transistor, un petit interrupteur électronique sans pièce mobile. Il remplace les lampes à vide, grosses, fragiles et gourmandes en énergie. Un processeur moderne en contient des dizaines de milliards, gravés sur quelques centimètres carrés.",
+    "source": "D'après Wikipédia — Transistor"
   },
   {
     "id": "q-tech-007",
@@ -120,7 +120,7 @@
       "Santos-Dumont"
     ],
     "bonneReponse": 1,
-    "explication": "Le 17 décembre 1903 à Kitty Hawk : 12 secondes, 37 mètres.",
+    "explication": "Le 17 décembre 1903, à Kitty Hawk, en Caroline du Nord, Orville Wright pilote le Flyer, un avion construit avec son frère Wilbur, fabricants de vélos. Le premier vol dure 12 secondes sur 37 mètres ; le quatrième du jour atteint 260 mètres en 59 secondes. Six ans plus tard, Louis Blériot traverse la Manche.",
     "source": "D'après Wikipédia — Frères Wright"
   },
   {
@@ -135,7 +135,7 @@
       "LOGIN"
     ],
     "bonneReponse": 1,
-    "explication": "Le système a planté après les deux premières lettres de « LOGIN ».",
+    "explication": "Le 29 octobre 1969, un étudiant de l'université de Los Angeles tente d'envoyer le mot « LOGIN » à un ordinateur de Stanford, à 500 km, via ARPANET, l'ancêtre d'Internet financé par l'armée américaine. Le système plante après les deux premières lettres : le premier message de l'histoire d'Internet est donc « LO ».",
     "source": "D'après Wikipédia — ARPANET"
   },
   {
@@ -149,7 +149,7 @@
       "Mon invention est à la base du Wi-Fi et du Bluetooth."
     ],
     "reponse": "Hedy Lamarr",
-    "explication": "Actrice et inventrice, longtemps méconnue.",
+    "explication": "Hedy Lamarr, star d'Hollywood des années 1940, fait breveter en 1942, avec le compositeur George Antheil, un système de « saut de fréquence » pour que les torpilles radioguidées ne puissent pas être brouillées. L'armée l'ignore sur le moment, mais ce principe est aujourd'hui utilisé par le Wi-Fi, le Bluetooth et le GPS.",
     "source": "D'après Wikipédia — Hedy Lamarr"
   },
   {
@@ -173,7 +173,7 @@
       "16"
     ],
     "bonneReponse": 2,
-    "explication": "8 bits, soit 256 valeurs possibles.",
+    "explication": "Un bit est la plus petite unité d'information : 0 ou 1. Un octet regroupe 8 bits, ce qui permet 2⁸ = 256 combinaisons, de quoi coder par exemple une lettre ou un nombre de 0 à 255. En anglais, l'octet se dit byte : un mégaoctet (Mo) correspond à environ un million d'octets.",
     "source": "D'après Wikipédia — Octet"
   },
   {
@@ -188,7 +188,7 @@
       "John von Neumann"
     ],
     "bonneReponse": 1,
-    "explication": "Grace Hopper, en 1952, avec le compilateur A-0.",
+    "explication": "En 1952, la mathématicienne et officière de la marine américaine Grace Hopper crée le compilateur A-0, un programme qui traduit des instructions proches du langage humain en code machine. On pensait alors que les ordinateurs ne comprendraient jamais que des calculs. Elle a ensuite inspiré le langage COBOL.",
     "source": "D'après Wikipédia — Grace Hopper"
   },
   {
@@ -218,8 +218,8 @@
         "explication": "Le watt mesure la puissance (tension × intensité) ; il vient de James Watt."
       }
     ],
-    "explication": "Chaque unité porte le nom d'un savant.",
-    "source": "À vérifier"
+    "explication": "Le volt, unité de tension électrique, honore l'Italien Alessandro Volta. L'ampère, unité d'intensité du courant, le Français André-Marie Ampère. L'ohm, unité de résistance, l'Allemand Georg Ohm. Le watt, unité de puissance, l'Écossais James Watt, le perfectionneur de la machine à vapeur.",
+    "source": "D'après Wikipédia — Système international d'unités"
   },
   {
     "id": "q-tech-014",
@@ -233,7 +233,7 @@
       "2010"
     ],
     "bonneReponse": 2,
-    "explication": "Le 9 janvier 2007 par Steve Jobs.",
+    "explication": "Le 9 janvier 2007, à San Francisco, Steve Jobs présente l'iPhone comme « un iPod, un téléphone et un navigateur Internet » réunis dans un seul appareil à écran tactile, sans clavier. Mis en vente en juin 2007, il transforme le téléphone en ordinateur de poche. L'App Store arrive en 2008.",
     "source": "D'après Wikipédia — iPhone"
   },
   {
@@ -242,7 +242,7 @@
     "format": "vrai-faux",
     "affirmation": "La plus ancienne photographie connue a été prise par un Français.",
     "reponse": true,
-    "explication": "Nicéphore Niépce, vers 1827, depuis sa fenêtre en Bourgogne.",
+    "explication": "Vers 1827, Nicéphore Niépce fixe sur une plaque d'étain l'image de la vue depuis la fenêtre de sa maison de Saint-Loup-de-Varennes, en Bourgogne. Il a fallu une exposition de plusieurs heures, voire plusieurs jours. Associé ensuite à Louis Daguerre, il ouvre la voie au daguerréotype, présenté en 1839.",
     "source": "D'après Wikipédia — Point de vue du Gras"
   },
   {
@@ -257,7 +257,7 @@
       "ChatGPT"
     ],
     "bonneReponse": 1,
-    "explication": "Deep Blue d'IBM. AlphaGo a battu le champion de go en 2016.",
+    "explication": "En mai 1997, à New York, l'ordinateur Deep Blue d'IBM bat le champion du monde d'échecs Garry Kasparov, 3,5 à 2,5 en six parties. Il calculait environ 200 millions de positions par seconde. En 2016, le programme AlphaGo de Google DeepMind bat Lee Sedol au jeu de go, bien plus complexe.",
     "source": "D'après Wikipédia — Deep Blue"
   },
   {
@@ -272,7 +272,7 @@
       "D'un jeu vidéo"
     ],
     "bonneReponse": 0,
-    "explication": "L'équipe de Grace Hopper l'a collé dans le cahier de bord du Harvard Mark II.",
+    "explication": "Le 9 septembre 1947, l'équipe de Grace Hopper trouve un papillon de nuit coincé dans un relais de l'ordinateur Harvard Mark II. Elle le colle dans le cahier de bord avec la mention « premier cas réel de bug trouvé ». Le mot bug (insecte) désignait déjà les pannes chez les ingénieurs, mais l'anecdote l'a popularisé.",
     "source": "D'après Wikipédia — Bug (informatique)"
   },
   {
@@ -287,7 +287,7 @@
       "Aucune"
     ],
     "bonneReponse": 0,
-    "explication": "Le rançongiciel est un type de logiciel malveillant qui prend les données en otage.",
+    "explication": "Un virus informatique est un programme qui s'insère dans d'autres fichiers pour se propager, comme un virus biologique. Un rançongiciel (ransomware) chiffre les fichiers de la victime et exige une rançon, souvent en cryptomonnaie, pour les débloquer. Des hôpitaux et des mairies en ont été victimes.",
     "source": "D'après Wikipédia — Rançongiciel"
   },
   {
@@ -302,7 +302,7 @@
       "Le newton"
     ],
     "bonneReponse": 1,
-    "explication": "Il comparait la puissance de ses machines à celle des chevaux.",
+    "explication": "Pour convaincre les propriétaires de mines d'acheter ses machines à vapeur, James Watt compare leur puissance à celle des chevaux qu'elles remplacent. Il estime qu'un cheval soulève 33 000 livres d'un pied en une minute : c'est le cheval-vapeur, environ 736 watts, encore utilisé pour les voitures.",
     "source": "D'après Wikipédia — Cheval-vapeur"
   },
   {
@@ -311,7 +311,7 @@
     "format": "vrai-faux",
     "affirmation": "Le CERN a breveté le World Wide Web.",
     "reponse": false,
-    "explication": "En 1993, le CERN l'a placé dans le domaine public, sans brevet ni redevance.",
+    "explication": "Le 30 avril 1993, le CERN place le logiciel du World Wide Web dans le domaine public : tout le monde peut l'utiliser et l'améliorer gratuitement, sans brevet ni redevance. Ce choix, voulu par Tim Berners-Lee, explique en grande partie l'explosion du Web dans les années qui suivent.",
     "source": "D'après Wikipédia — World Wide Web"
   },
   {
@@ -326,7 +326,7 @@
       "Franklin"
     ],
     "bonneReponse": 1,
-    "explication": "Alessandro Volta ; le volt porte son nom.",
+    "explication": "En 1800, le physicien italien Alessandro Volta empile des disques de zinc et de cuivre séparés par du carton imbibé d'eau salée : il obtient la première source de courant électrique continu, la pile. Le mot « pile » vient de cet empilement. Napoléon le fait comte, et l'unité de tension, le volt, porte son nom.",
     "source": "D'après Wikipédia — Pile voltaïque"
   },
   {
@@ -341,7 +341,7 @@
       "Xavier Niel"
     ],
     "bonneReponse": 0,
-    "explication": "Avec Geoffrey Hinton et Yoshua Bengio.",
+    "explication": "En 2019, le Français Yann LeCun reçoit le prix Turing 2018, souvent appelé « prix Nobel de l'informatique », avec Geoffrey Hinton et Yoshua Bengio. Leurs travaux sur les réseaux de neurones artificiels ont rendu possibles la reconnaissance d'images et de la voix, puis les intelligences artificielles actuelles.",
     "source": "D'après Wikipédia — Yann Le Cun"
   },
   {
@@ -375,8 +375,8 @@
         "annee": "1989"
       }
     ],
-    "explication": "Cinq siècles d'inventions majeures.",
-    "source": "À vérifier"
+    "explication": "1450 : Gutenberg imprime avec des caractères mobiles. 1769 : James Watt brevette sa machine à vapeur améliorée. 1876 : Graham Bell dépose le brevet du téléphone. 1903 : premier vol motorisé des frères Wright. 1945 : l'ENIAC, l'un des premiers ordinateurs. 1989 : Tim Berners-Lee invente le Web.",
+    "source": "D'après Wikipédia — Invention (technique)"
   },
   {
     "id": "q-tech-024",
@@ -390,7 +390,7 @@
       "~95 %"
     ],
     "bonneReponse": 2,
-    "explication": "La France est le pays le plus nucléarisé au monde en proportion.",
+    "explication": "Avec 57 réacteurs, le nucléaire produit environ 65 à 70 % de l'électricité française, la plus forte proportion au monde. Ce choix date du plan Messmer, lancé en 1974 après le premier choc pétrolier. Il rend l'électricité française très peu émettrice de CO₂, mais pose la question des déchets radioactifs.",
     "source": "D'après Wikipédia — Électricité en France"
   },
   {
@@ -399,7 +399,7 @@
     "format": "vrai-faux",
     "affirmation": "Alan Turing a été gracié à titre posthume par la reine Élisabeth II.",
     "reponse": true,
-    "explication": "En 2013, pour sa condamnation pour homosexualité en 1952.",
+    "explication": "Alan Turing, qui a aidé à casser le code Enigma, est condamné en 1952 pour homosexualité, alors illégale au Royaume-Uni, et subit une castration chimique. Il meurt en 1954, probablement par suicide. Le gouvernement britannique s'excuse en 2009, puis la reine le gracie en 2013. Il figure sur le billet de 50 livres depuis 2021.",
     "source": "D'après Wikipédia — Alan Turing"
   },
   {
@@ -414,7 +414,7 @@
       "300 tonnes"
     ],
     "bonneReponse": 2,
-    "explication": "30 tonnes et 167 m² au sol.",
+    "explication": "Mis en service en 1945 à l'université de Pennsylvanie, l'ENIAC pesait 30 tonnes, occupait 167 m² et contenait près de 18 000 lampes à vide. Il servait à calculer des tables de tir pour l'artillerie. Un smartphone actuel est des millions de fois plus puissant et tient dans la poche.",
     "source": "D'après Wikipédia — ENIAC"
   },
   {
@@ -444,8 +444,8 @@
         "explication": "Linus Torvalds, étudiant finlandais, publie en 1991 le noyau Linux, logiciel libre."
       }
     ],
-    "explication": "Quatre acteurs clés de l'informatique.",
-    "source": "À vérifier"
+    "explication": "Steve Jobs cofonde Apple en 1976 avec Steve Wozniak, dans un garage californien. Bill Gates crée Microsoft en 1975 avec Paul Allen. Gordon Moore cofonde Intel en 1968 avec Robert Noyce. Le Finlandais Linus Torvalds lance en 1991 le noyau Linux, logiciel libre qui fait tourner Android et la plupart des serveurs.",
+    "source": "D'après Wikipédia — Histoire de l'informatique"
   },
   {
     "id": "q-tech-028",
@@ -459,7 +459,7 @@
       "Un ordinateur dure 10 ans"
     ],
     "bonneReponse": 1,
-    "explication": "Observation de Gordon Moore en 1965, vérifiée pendant des décennies.",
+    "explication": "En 1965, Gordon Moore, futur cofondateur d'Intel, constate que le nombre de transistors sur une puce double chaque année ; il corrige en 1975 à tous les deux ans. Cette « loi », qui est une observation et non une loi physique, s'est vérifiée pendant des décennies, mais ralentit aujourd'hui car les transistors approchent la taille des atomes.",
     "source": "D'après Wikipédia — Loi de Moore"
   },
   {
@@ -474,7 +474,7 @@
       "L'appareil ne captait que les bâtiments"
     ],
     "bonneReponse": 1,
-    "explication": "Seul un homme immobile, qui se faisait cirer les chaussures, apparaît sur une vue de Paris de 1838.",
+    "explication": "Les premiers daguerréotypes demandaient plusieurs minutes de pose. Sur la vue du boulevard du Temple prise par Daguerre en 1838, les passants et les voitures bougeaient trop pour laisser une trace. Seul un homme resté immobile pour se faire cirer les chaussures apparaît : c'est peut-être le premier humain photographié.",
     "source": "D'après Wikipédia — Daguerréotype"
   },
   {
@@ -483,7 +483,7 @@
     "format": "vrai-faux",
     "affirmation": "Kodak a inventé le premier appareil photo numérique, puis a fait faillite faute d'avoir pris le virage du numérique.",
     "reponse": true,
-    "explication": "Prototype en 1975 par Steven Sasson ; faillite en 2012.",
+    "explication": "En 1975, Steven Sasson, ingénieur chez Kodak, fabrique le premier appareil photo numérique : 4 kg, 0,01 mégapixel, 23 secondes pour enregistrer une image sur cassette. Kodak, qui gagne des fortunes avec la pellicule, freine le numérique. Dépassé par la concurrence et les smartphones, il fait faillite en 2012.",
     "source": "D'après Wikipédia — Kodak"
   },
   {
@@ -498,7 +498,7 @@
       "Nikola Tesla"
     ],
     "bonneReponse": 0,
-    "explication": "En 1752 ; il invente ensuite le paratonnerre.",
+    "explication": "En 1752, Benjamin Franklin fait voler par temps d'orage un cerf-volant muni d'une clé métallique au bout du fil : des étincelles jaillissent de la clé, prouvant que la foudre est de l'électricité. L'expérience était très dangereuse. Il invente ensuite le paratonnerre, une tige de métal qui conduit la foudre vers le sol.",
     "source": "D'après Wikipédia — Benjamin Franklin"
   }
 ]

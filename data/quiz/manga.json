@@ -11,8 +11,8 @@
       "Naoko Takeuchi"
     ],
     "bonneReponse": 1,
-    "explication": "One Piece a été créé par Eiichiro Oda et publié à partir de 1997.",
-    "source": "À vérifier"
+    "explication": "Eiichiro Oda lance One Piece en 1997 dans le Weekly Shōnen Jump. Luffy, un garçon au corps élastique, part à la recherche du trésor du pirate Gol D. Roger pour devenir roi des pirates. Avec plus de 500 millions d'exemplaires vendus, c'est le manga le plus vendu de l'histoire, et il est toujours en cours.",
+    "source": "D'après Wikipédia — One Piece"
   },
   {
     "id": "q-manga-002",
@@ -20,79 +20,83 @@
     "format": "vrai-faux",
     "affirmation": "Le Studio Ghibli a été fondé par Osamu Tezuka.",
     "reponse": false,
-    "explication": "Le Studio Ghibli a été fondé en 1985 par Hayao Miyazaki, Isao Takahata et Toshio Suzuki, pas par Tezuka.",
-    "source": "À vérifier"
+    "explication": "Le Studio Ghibli est fondé en 1985 par les réalisateurs Hayao Miyazaki et Isao Takahata, avec le producteur Toshio Suzuki, après le succès de Nausicaä. Son nom vient d'un avion italien et d'un vent chaud du Sahara. Osamu Tezuka, lui, avait fondé le studio Mushi Production en 1961.",
+    "source": "D'après Wikipédia — Studio Ghibli"
   },
   {
     "id": "q-manga-003",
     "domain": "manga",
     "format": "associer",
-    "question": "Associe chaque mangaka à son œuvre principale.",
+    "question": "Associe chaque mangaka à son œuvre.",
     "paires": [
       {
-        "gauche": "Akira Toriyama",
-        "droite": "Dragon Ball",
-        "explication": "Toriyama publie Dragon Ball de 1984 à 1995 ; il a aussi dessiné les personnages de Dragon Quest."
+        "gauche": "Koyoharu Gotōge",
+        "droite": "Demon Slayer",
+        "explication": "Publié de 2016 à 2020, ce manga sur un garçon qui chasse les démons pour sauver sa sœur a battu des records de ventes."
       },
       {
-        "gauche": "Eiichiro Oda",
-        "droite": "One Piece",
-        "explication": "Oda publie One Piece depuis 1997, la BD la plus vendue au monde par un seul auteur."
+        "gauche": "Gege Akutami",
+        "droite": "Jujutsu Kaisen",
+        "explication": "Lancé en 2018, il suit des exorcistes qui combattent les fléaux, nés des émotions négatives des humains."
       },
       {
-        "gauche": "Naoko Takeuchi",
-        "droite": "Sailor Moon",
-        "explication": "Takeuchi crée Sailor Moon (1991), qui a marqué une génération de magical girls."
+        "gauche": "Tite Kubo",
+        "droite": "Bleach",
+        "explication": "De 2001 à 2016, Ichigo, un lycéen qui voit les fantômes, devient faucheur d'âmes."
       },
       {
-        "gauche": "Hajime Isayama",
-        "droite": "L'Attaque des Titans",
-        "explication": "Isayama publie L'Attaque des Titans de 2009 à 2021, après un refus du Weekly Shōnen Jump."
+        "gauche": "Yoshihiro Togashi",
+        "droite": "Hunter × Hunter",
+        "explication": "Commencé en 1998, ce manga d'aventure est célèbre pour ses très longues pauses de publication."
       }
     ],
-    "explication": "Chacun de ces auteurs a créé une série devenue emblématique du manga japonais.",
-    "source": "À vérifier"
+    "explication": "Ces quatre mangakas ont tous publié leur série phare dans le Weekly Shōnen Jump, le magazine qui a aussi accueilli Dragon Ball, Naruto et One Piece. Demon Slayer et Jujutsu Kaisen font partie des plus grands succès récents.",
+    "source": "D'après Wikipédia — Weekly Shōnen Jump"
   },
   {
     "id": "q-manga-004",
     "domain": "manga",
     "format": "difference",
-    "question": "Quelle est la différence entre shonen et seinen ?",
+    "question": "Quelle est la différence entre un manga et un anime ?",
     "choix": [
-      "Ce sont deux mots identiques pour désigner le même public",
-      "Le shonen cible un jeune public masculin, le seinen un public masculin plus adulte",
-      "Le shonen est réservé aux filles",
-      "Le seinen désigne uniquement les films d'animation"
+      "Le manga est une bande dessinée, l'anime un dessin animé",
+      "Le manga est en couleur, l'anime en noir et blanc",
+      "Le manga est pour les enfants, l'anime pour les adultes",
+      "Aucune, ce sont deux mots pour la même chose"
     ],
-    "bonneReponse": 1,
-    "explication": "Ces catégories désignent le public visé par l'œuvre, pas son style graphique.",
-    "source": "À vérifier"
+    "bonneReponse": 0,
+    "explication": "Le manga est la bande dessinée japonaise, publiée en noir et blanc dans des magazines puis en volumes, et lue de droite à gauche. L'anime est le dessin animé japonais, pour la télévision ou le cinéma. Beaucoup d'animes adaptent un manga à succès, comme Dragon Ball ou One Piece, mais certains sont des créations originales.",
+    "source": "D'après Wikipédia — Anime"
   },
   {
     "id": "q-manga-005",
     "domain": "manga",
     "format": "frise",
-    "question": "Remets ces dates clés du manga et de l'anime dans l'ordre chronologique.",
+    "question": "Remets ces dates clés de l'animation japonaise dans l'ordre.",
     "evenements": [
       {
-        "label": "Publication d'Astro le petit robot",
-        "annee": "1952"
+        "label": "Première série animée d'Astro le petit robot à la télévision japonaise",
+        "annee": "1963"
       },
       {
-        "label": "Fondation du Studio Ghibli",
-        "annee": "1985"
+        "label": "Arrivée de Goldorak à la télévision française",
+        "annee": "1978"
       },
       {
-        "label": "Début de la publication de Dragon Ball",
-        "annee": "1984"
+        "label": "Sortie du film Akira au cinéma",
+        "annee": "1988"
       },
       {
-        "label": "Début de la publication de One Piece",
-        "annee": "1997"
+        "label": "Sortie du Voyage de Chihiro",
+        "annee": "2001"
+      },
+      {
+        "label": "Record historique de Demon Slayer au box-office japonais",
+        "annee": "2020"
       }
     ],
-    "explication": "Astro le petit robot (1952) précède Dragon Ball (1984), la fondation de Ghibli (1985), puis One Piece (1997).",
-    "source": "À vérifier"
+    "explication": "1963 : Astro devient la première grande série animée japonaise à la télévision. 1978 : Goldorak lance la passion des Français pour l'anime. 1988 : le film Akira impressionne l'Occident. 2001 : Le Voyage de Chihiro gagne l'Ours d'or puis l'Oscar. 2020 : Demon Slayer bat le record du box-office japonais.",
+    "source": "D'après Wikipédia — Anime"
   },
   {
     "id": "q-manga-006",
@@ -105,8 +109,8 @@
       "Mon style a influencé la façon de dessiner des expressions dans tout le manga moderne."
     ],
     "reponse": "Osamu Tezuka",
-    "explication": "Osamu Tezuka, créateur d'Astro le petit robot, est considéré comme un pionnier du manga et de l'anime modernes.",
-    "source": "À vérifier"
+    "explication": "Osamu Tezuka (1928-1989), médecin de formation, a dessiné plus de 150 000 pages. Avec Astro le petit robot (1952), il invente les grands yeux expressifs et un découpage cinématographique qui marquent tout le manga. Il lance aussi en 1963 la première grande série animée à la télévision japonaise.",
+    "source": "D'après Wikipédia — Osamu Tezuka"
   },
   {
     "id": "q-manga-007",
@@ -120,7 +124,7 @@
       "Un loup géant"
     ],
     "bonneReponse": 1,
-    "explication": "Kurama, le démon renard à neuf queues, a été scellé en lui à sa naissance.",
+    "explication": "Douze ans avant le début de l'histoire, le démon renard à neuf queues, Kurama, attaque le village de Konoha. Le quatrième Hokage, père de Naruto, le scelle dans le corps de son fils nouveau-né, au prix de sa vie. Les villageois rejettent alors l'enfant, qui rêve de devenir Hokage pour être reconnu.",
     "source": "D'après Wikipédia — Naruto Uzumaki"
   },
   {
@@ -135,7 +139,7 @@
       "Akira Toriyama"
     ],
     "bonneReponse": 1,
-    "explication": "Katsuhiro Otomo, qui a aussi réalisé le film en 1988.",
+    "explication": "Katsuhiro Otomo publie Akira de 1982 à 1990 : dans un Néo-Tokyo post-apocalyptique, le jeune Tetsuo développe des pouvoirs psychiques incontrôlables. Il en réalise lui-même l'adaptation animée en 1988, un chef-d'œuvre qui fait découvrir l'animation japonaise adulte à l'Occident.",
     "source": "D'après Wikipédia — Katsuhiro Ōtomo"
   },
   {
@@ -144,7 +148,7 @@
     "format": "vrai-faux",
     "affirmation": "La France est le deuxième marché mondial du manga.",
     "reponse": true,
-    "explication": "Juste derrière le Japon.",
+    "explication": "La France est le deuxième marché du manga au monde, derrière le Japon : près d'une bande dessinée sur deux vendues en France est un manga. Cette passion remonte aux dessins animés japonais des années 1980 et au Club Dorothée. Le Pass Culture a encore accéléré les ventes depuis 2021.",
     "source": "D'après Wikipédia — Manga"
   },
   {
@@ -159,7 +163,7 @@
       "Rem"
     ],
     "bonneReponse": 0,
-    "explication": "Ryuk, un shinigami qui s'ennuie et adore les pommes. Kira est le surnom de Light.",
+    "explication": "Dans Death Note (2003-2006), Ryuk, un dieu de la mort (shinigami) qui s'ennuie, laisse tomber son carnet dans le monde des humains. Le lycéen Light Yagami le trouve : tout humain dont il écrit le nom meurt. Il veut éliminer les criminels et se fait appeler Kira. Ryuk observe, en croquant des pommes.",
     "source": "D'après Wikipédia — Death Note"
   },
   {
@@ -173,7 +177,7 @@
       "J'ai aussi créé Lamu et Inu-Yasha."
     ],
     "reponse": "Rumiko Takahashi",
-    "explication": "Grand Prix d'Angoulême 2019.",
+    "explication": "Rumiko Takahashi, surnommée « la princesse du manga », a créé Urusei Yatsura (Lamu), Maison Ikkoku, Ranma ½, dont le héros se transforme en fille au contact de l'eau froide, et Inu-Yasha. Elle a vendu plus de 200 millions d'exemplaires et reçoit le Grand Prix d'Angoulême en 2019.",
     "source": "D'après Wikipédia — Rumiko Takahashi"
   },
   {
@@ -188,7 +192,7 @@
       "Suzume"
     ],
     "bonneReponse": 1,
-    "explication": "Le film de Demon Slayer est devenu le plus gros succès de l'histoire du box-office japonais.",
+    "explication": "Sorti en octobre 2020, en pleine pandémie, Demon Slayer : le Train de l'infini devient en quelques semaines le plus gros succès du box-office japonais, avec plus de 40 milliards de yens de recettes. Il détrône Le Voyage de Chihiro de Miyazaki, qui détenait ce record depuis 2001.",
     "source": "D'après Wikipédia — Demon Slayer: Kimetsu no Yaiba, le film : Le Train de l'Infini"
   },
   {
@@ -223,8 +227,8 @@
         "explication": "Naoko Takeuchi crée Usagi Tsukino et les guerrières Sailor en 1991."
       }
     ],
-    "explication": "Cinq piliers du manga.",
-    "source": "À vérifier"
+    "explication": "Ces cinq séries ont vendu des centaines de millions de volumes. Toriyama et Oda publient Dragon Ball et One Piece dans le Weekly Shōnen Jump, comme Kishimoto pour Naruto. Isayama publie L'Attaque des Titans chez Kōdansha, et Takeuchi Sailor Moon, grand succès de manga pour filles, dans le magazine Nakayoshi.",
+    "source": "D'après Wikipédia — Manga"
   },
   {
     "id": "q-manga-014",
@@ -238,7 +242,7 @@
       "Rêve, travail, succès"
     ],
     "bonneReponse": 1,
-    "explication": "Ces valeurs se retrouvent dans One Piece, Naruto ou Dragon Ball.",
+    "explication": "Le Weekly Shōnen Jump, créé en 1968 par l'éditeur Shūeisha, fonde ses séries sur trois valeurs : l'amitié, l'effort et la victoire. Les héros s'entraînent, se dépassent et gagnent grâce à leurs amis. Les lecteurs votent chaque semaine, et les séries les moins populaires sont arrêtées.",
     "source": "D'après Wikipédia — Weekly Shōnen Jump"
   },
   {
@@ -247,7 +251,7 @@
     "format": "vrai-faux",
     "affirmation": "Le mot « shōnen » désigne un genre d'histoires de combat.",
     "reponse": false,
-    "explication": "Il désigne le public visé (jeunes garçons), pas un genre. Un shōnen peut être une comédie ou un récit de sport.",
+    "explication": "Shōnen signifie « jeune garçon » : c'est une catégorie éditoriale qui désigne le public visé par le magazine, pas un genre. Un shōnen peut être un récit de combat comme Dragon Ball, mais aussi de sport comme Slam Dunk, une comédie ou une histoire d'horreur. De même, le shōjo vise les jeunes filles.",
     "source": "D'après Wikipédia — Shōnen"
   },
   {
@@ -262,7 +266,7 @@
       "Totoro"
     ],
     "bonneReponse": 0,
-    "explication": "Goldorak, diffusé sur Antenne 2, a lancé la passion française pour l'animation japonaise.",
+    "explication": "Le 3 juillet 1978, Antenne 2 diffuse Goldorak, un robot géant piloté par le prince Actarus, dans l'émission Récré A2. C'est un triomphe : jusqu'à 100 % de part d'audience chez les enfants. Des parents et des politiques critiquent sa violence, mais le succès ouvre la voie à des centaines de dessins animés japonais.",
     "source": "D'après Wikipédia — Goldorak"
   },
   {
@@ -277,7 +281,7 @@
       "Une école de magie"
     ],
     "bonneReponse": 1,
-    "explication": "Goldorak, Gundam et Evangelion sont des œuvres mecha.",
+    "explication": "Un mecha est un robot géant, généralement piloté par un humain installé à l'intérieur. Ce genre, très populaire au Japon, comprend Goldorak, Mobile Suit Gundam (1979), qui présente les robots comme des armes réalistes, et Neon Genesis Evangelion (1995), plus psychologique. Tokyo expose un Gundam grandeur nature.",
     "source": "D'après Wikipédia — Mecha"
   },
   {
@@ -292,7 +296,7 @@
       "Elle se cache de son frère"
     ],
     "bonneReponse": 1,
-    "explication": "Transformée en démone, elle mourrait exposée au soleil.",
+    "explication": "Dans Demon Slayer, la famille de Tanjirō est massacrée par un démon, et sa sœur Nezuko est transformée en démone. Comme tous les démons, elle mourrait au contact du soleil : Tanjirō la transporte donc le jour dans une boîte en bois sur son dos, pendant qu'il cherche un remède pour la redevenir humaine.",
     "source": "D'après Wikipédia — Demon Slayer"
   },
   {
@@ -307,7 +311,7 @@
       "Aucune"
     ],
     "bonneReponse": 0,
-    "explication": "Le manhua, lui, est chinois ; le webtoon coréen se lit en défilement vertical.",
+    "explication": "Manga, manhwa et manhua désignent la bande dessinée au Japon, en Corée et en Chine. Le manga se lit de droite à gauche, le manhwa de gauche à droite. Le webtoon, format coréen né sur Internet, se lit en faisant défiler verticalement sur téléphone, en couleurs, comme Solo Leveling.",
     "source": "D'après Wikipédia — Manhwa"
   },
   {
@@ -322,7 +326,7 @@
       "One Piece"
     ],
     "bonneReponse": 1,
-    "explication": "Akira, chez Glénat, dans une version colorisée.",
+    "explication": "En 1990, l'éditeur Glénat publie Akira de Katsuhiro Otomo en France, en fascicules et dans une version colorisée, lue de gauche à droite comme les BD françaises. C'est le premier grand succès du manga en France. Dragon Ball suit en 1993, en format de poche, lançant vraiment le phénomène.",
     "source": "D'après Wikipédia — Akira (manga)"
   },
   {
@@ -331,7 +335,7 @@
     "format": "vrai-faux",
     "affirmation": "Satoru Gojo est un personnage de Jujutsu Kaisen.",
     "reponse": true,
-    "explication": "Professeur surpuissant aux yeux bandés, l'un des personnages les plus populaires du manga récent.",
+    "explication": "Satoru Gojo est le professeur des héros de Jujutsu Kaisen, manga de Gege Akutami lancé en 2018. Considéré comme l'exorciste le plus puissant, il porte un bandeau sur les yeux pour cacher ses « Six Yeux » qui voient l'énergie occulte. Son humour et sa puissance en ont fait l'un des personnages les plus populaires.",
     "source": "D'après Wikipédia — Jujutsu Kaisen"
   },
   {
@@ -346,7 +350,7 @@
       "Ikki"
     ],
     "bonneReponse": 2,
-    "explication": "Seiya ; Shiryu est le Dragon, Hyoga le Cygne, Ikki le Phénix.",
+    "explication": "Dans Les Chevaliers du Zodiaque (Saint Seiya), manga de Masami Kurumada lancé en 1986, de jeunes guerriers portent des armures liées aux constellations pour protéger la déesse Athéna. Seiya porte celle de Pégase, Shiryu du Dragon, Hyoga du Cygne, Shun d'Andromède et Ikki du Phénix.",
     "source": "D'après Wikipédia — Saint Seiya"
   },
   {
@@ -361,7 +365,7 @@
       "Jirō Taniguchi"
     ],
     "bonneReponse": 1,
-    "explication": "Otomo en 2015, puis Takahashi en 2019.",
+    "explication": "En 2015, le Festival international de la bande dessinée d'Angoulême décerne son Grand Prix, la plus haute récompense de la BD, à Katsuhiro Otomo, l'auteur d'Akira : c'est le premier mangaka ainsi honoré. Rumiko Takahashi, créatrice de Ranma ½, le reçoit en 2019, preuve de la reconnaissance du manga en Europe.",
     "source": "D'après Wikipédia — Grand prix de la ville d'Angoulême"
   },
   {
@@ -391,8 +395,8 @@
         "annee": "2009"
       }
     ],
-    "explication": "Soixante ans de manga.",
-    "source": "À vérifier"
+    "explication": "1952 : Tezuka lance Astro le petit robot. 1982 : Otomo publie Akira. 1984 : Toriyama commence Dragon Ball. 1997 : Oda démarre One Piece. 2009 : Isayama lance L'Attaque des Titans. Chacune de ces séries a marqué une génération de lecteurs.",
+    "source": "D'après Wikipédia — Manga"
   },
   {
     "id": "q-manga-025",
@@ -406,7 +410,7 @@
       "Asakusa"
     ],
     "bonneReponse": 1,
-    "explication": "Akihabara est célèbre pour ses boutiques d'électronique, de manga et de figurines.",
+    "explication": "Akihabara, surnommé « Akiba », était après la guerre le quartier de l'électronique de Tokyo. Depuis les années 1990, il est devenu le paradis des otaku, les fans de manga, d'anime et de jeux vidéo : boutiques de figurines, salles d'arcade, maid cafés. Le mot otaku désigne un passionné, parfois obsessionnel.",
     "source": "D'après Wikipédia — Akihabara"
   },
   {
@@ -421,7 +425,7 @@
       "Les Minikeums"
     ],
     "bonneReponse": 1,
-    "explication": "Le Club Dorothée, sur TF1, de 1987 à 1997.",
+    "explication": "De 1987 à 1997, le Club Dorothée, sur TF1, diffuse chaque jour des dessins animés japonais : Dragon Ball, Les Chevaliers du Zodiaque, Sailor Moon, Nicky Larson… Critiqué pour la violence de certains épisodes, il a formé toute une génération de fans et préparé le succès du manga en France.",
     "source": "D'après Wikipédia — Club Dorothée"
   },
   {
@@ -430,7 +434,7 @@
     "format": "vrai-faux",
     "affirmation": "L'Attaque des Titans avait d'abord été refusé par le Weekly Shōnen Jump.",
     "reponse": true,
-    "explication": "Isayama l'a finalement publié chez Kōdansha.",
+    "explication": "Hajime Isayama présente L'Attaque des Titans au Weekly Shōnen Jump, qui lui demande de revoir complètement son dessin, jugé trop maladroit. Il refuse et publie la série en 2009 chez Kōdansha, dans le Bessatsu Shōnen Magazine. Elle se vend à plus de 140 millions d'exemplaires.",
     "source": "D'après Wikipédia — L'Attaque des Titans"
   },
   {
@@ -445,7 +449,7 @@
       "Eren Jäger"
     ],
     "bonneReponse": 0,
-    "explication": "Il devient l'hôte du fléau Sukuna.",
+    "explication": "Dans Jujutsu Kaisen, le lycéen Yuji Itadori avale un doigt de Ryomen Sukuna, le plus puissant des fléaux, pour sauver ses amis. Il devient l'hôte de Sukuna, qui partage désormais son corps. Plutôt que de l'exécuter, les exorcistes décident de lui faire avaler tous les doigts pour détruire Sukuna avec lui.",
     "source": "D'après Wikipédia — Jujutsu Kaisen"
   },
   {
@@ -475,8 +479,8 @@
         "explication": "Josei : femmes adultes, récits souvent plus réalistes sur la vie professionnelle et amoureuse."
       }
     ],
-    "explication": "Les catégories éditoriales japonaises.",
-    "source": "À vérifier"
+    "explication": "Au Japon, les mangas sont classés selon le public du magazine qui les publie : shōnen pour les jeunes garçons, shōjo pour les jeunes filles, seinen pour les hommes adultes, josei pour les femmes adultes. Ce ne sont pas des genres : on trouve de l'action, de la romance ou de l'horreur dans chaque catégorie.",
+    "source": "D'après Wikipédia — Manga"
   },
   {
     "id": "q-manga-030",
@@ -490,7 +494,7 @@
       "Neo-Osaka"
     ],
     "bonneReponse": 0,
-    "explication": "Une Tokyo reconstruite après une explosion mystérieuse.",
+    "explication": "Akira commence en 1982 par l'explosion de Tokyo, qui déclenche la Troisième Guerre mondiale. En 2019, sur les ruines, s'élève Néo-Tokyo, une mégalopole rongée par les gangs et la corruption, qui doit accueillir les Jeux olympiques de 2020 : une coïncidence troublante avec les vrais JO de Tokyo.",
     "source": "D'après Wikipédia — Akira (film d'animation)"
   },
   {
@@ -505,7 +509,7 @@
       "~15 millions"
     ],
     "bonneReponse": 2,
-    "explication": "6,53 millions, porté par Dragon Ball et Slam Dunk.",
+    "explication": "Au début de l'année 1995, le Weekly Shōnen Jump atteint 6,53 millions d'exemplaires vendus chaque semaine, un record jamais égalé pour un magazine de bande dessinée. Il publiait alors Dragon Ball et Slam Dunk. La fin de Dragon Ball, en 1995, entraîne une baisse des ventes.",
     "source": "D'après Wikipédia — Weekly Shōnen Jump"
   }
 ]

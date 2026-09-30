@@ -36,7 +36,7 @@ for (const [titre, extra] of Object.entries(lot.enrich || {})) {
     if (k === 'sections' && f.details.sections) f.details.sections = f.details.sections.concat(v);
     else f.details[k] = v;
   }
-  if (extra.wikipedia && (!f.source || /^à vérifier$/i.test(f.source.trim()))) f.source = sourceWiki(extra.wikipedia);
+  if (extra.wikipedia && !/Wikipédia/.test(f.source || '')) f.source = sourceWiki(extra.wikipedia);
   nEnr++;
 }
 

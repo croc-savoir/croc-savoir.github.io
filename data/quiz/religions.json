@@ -12,7 +12,7 @@
     ],
     "bonneReponse": 1,
     "explication": "Le Grand Schisme de 1054 résulte d'excommunications réciproques entre Rome et Constantinople, créant une rupture qui perdure encore aujourd'hui.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Schisme de 1054"
   },
   {
     "id": "q-religions-002",
@@ -21,7 +21,7 @@
     "affirmation": "Le bouddhisme repose sur la croyance en un dieu créateur unique.",
     "reponse": false,
     "explication": "Le bouddhisme ne repose pas sur un dieu créateur : il propose une voie de libération de la souffrance par l'éveil, sans nécessiter la croyance en une divinité créatrice.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Bouddhisme"
   },
   {
     "id": "q-religions-003",
@@ -51,7 +51,7 @@
       }
     ],
     "explication": "Chaque grande tradition religieuse s'appuie sur un corpus de textes fondateurs, transmis et interprété différemment selon les courants internes.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Livre sacré"
   },
   {
     "id": "q-religions-004",
@@ -66,7 +66,7 @@
     ],
     "reponse": "Martin Luther",
     "explication": "Martin Luther est la figure centrale de la Réforme protestante initiée en 1517, à l'origine de la division du christianisme occidental.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Martin Luther"
   },
   {
     "id": "q-religions-005",
@@ -81,7 +81,7 @@
     ],
     "bonneReponse": 1,
     "explication": "La laïcité organise la neutralité de l'État vis-à-vis de toutes les croyances (y compris la non-croyance), tandis que l'athéisme est une conviction individuelle de non-croyance en une divinité.",
-    "source": "À vérifier"
+    "source": "D'après Wikipédia — Laïcité"
   },
   {
     "id": "q-religions-006",
@@ -95,7 +95,7 @@
       "10"
     ],
     "bonneReponse": 1,
-    "explication": "Profession de foi, prière, aumône, jeûne du ramadan et pèlerinage à La Mecque.",
+    "explication": "Les cinq piliers de l'islam sont les obligations de tout musulman : la profession de foi (chahada), la prière cinq fois par jour tourné vers La Mecque, l'aumône aux plus pauvres (zakat), le jeûne du mois de ramadan, et le pèlerinage à La Mecque (hajj) au moins une fois dans sa vie pour qui en a les moyens.",
     "source": "D'après Wikipédia — Piliers de l'islam"
   },
   {
@@ -110,7 +110,7 @@
       "Le Liechtenstein"
     ],
     "bonneReponse": 1,
-    "explication": "0,44 km², au cœur de Rome.",
+    "explication": "Avec 0,44 km², moins que la plupart des parcs parisiens, le Vatican est le plus petit État du monde. Enclavé dans Rome, il est le siège du pape et de l'Église catholique. Il est né en 1929 des accords du Latran avec l'Italie et compte environ 800 habitants, surtout des religieux et des gardes suisses.",
     "source": "D'après Wikipédia — Vatican"
   },
   {
@@ -125,7 +125,7 @@
       "Gandhi"
     ],
     "bonneReponse": 0,
-    "explication": "Le guru Nanak, au XVe siècle, au Pendjab.",
+    "explication": "Le sikhisme est fondé au XVe siècle au Pendjab, dans le nord de l'Inde, par le guru Nanak (1469-1539). Religion monothéiste, elle prône l'égalité entre tous les humains, sans distinction de caste. Neuf autres gurus lui succèdent, puis le livre saint, le Guru Granth Sahib, devient le guide éternel.",
     "source": "D'après Wikipédia — Guru Nanak"
   },
   {
@@ -134,7 +134,7 @@
     "format": "vrai-faux",
     "affirmation": "Le ramadan a lieu chaque année à la même période du calendrier grégorien.",
     "reponse": false,
-    "explication": "Le calendrier musulman est lunaire : le ramadan avance d'environ 11 jours chaque année.",
+    "explication": "Le calendrier musulman suit les phases de la Lune : son année compte environ 354 jours, soit environ 11 de moins que notre année solaire. Le ramadan avance donc d'environ 11 jours chaque année et passe par toutes les saisons en à peu près 33 ans. Son début dépend de l'observation du croissant de lune.",
     "source": "D'après Wikipédia — Ramadan"
   },
   {
@@ -149,43 +149,43 @@
       "Jaune"
     ],
     "bonneReponse": 1,
-    "explication": "La fumée blanche sort de la cheminée de la chapelle Sixtine.",
+    "explication": "Pendant le conclave, les cardinaux votent dans la chapelle Sixtine et brûlent les bulletins dans un poêle. Si aucun pape n'est élu, on ajoute un produit qui donne une fumée noire ; en cas d'élection, la fumée est blanche, et les cloches de Saint-Pierre sonnent. Puis un cardinal annonce au balcon : « Habemus papam ».",
     "source": "D'après Wikipédia — Conclave"
   },
   {
     "id": "q-religions-011",
     "domain": "religions",
     "format": "associer",
-    "question": "Associe chaque religion à son livre saint.",
+    "question": "Associe chaque fête à sa religion.",
     "paires": [
       {
-        "gauche": "Islam",
-        "droite": "Coran",
-        "explication": "Le Coran est récité en arabe et divisé en 114 sourates."
+        "gauche": "Pessah",
+        "droite": "Judaïsme",
+        "explication": "La Pâque juive commémore la sortie d'Égypte des Hébreux, guidés par Moïse ; on y mange du pain sans levain, la matsa."
       },
       {
-        "gauche": "Judaïsme",
-        "droite": "Torah",
-        "explication": "La Torah, rouleau conservé dans l'arche de la synagogue, contient la Loi transmise à Moïse."
+        "gauche": "Aïd al-Fitr",
+        "droite": "Islam",
+        "explication": "La « fête de la rupture » célèbre la fin du jeûne du ramadan, avec prières, repas festifs et aumône aux plus pauvres."
       },
       {
-        "gauche": "Sikhisme",
-        "droite": "Guru Granth Sahib",
-        "explication": "Le Guru Granth Sahib est traité par les sikhs comme un guru vivant depuis 1708."
+        "gauche": "Diwali",
+        "droite": "Hindouisme",
+        "explication": "La fête des lumières célèbre la victoire du bien sur le mal ; on allume des lampes à huile et des feux d'artifice."
       },
       {
-        "gauche": "Hindouisme",
-        "droite": "Védas",
-        "explication": "Les Védas, en sanskrit, sont les plus anciens textes sacrés de l'hindouisme."
+        "gauche": "Pâques",
+        "droite": "Christianisme",
+        "explication": "La fête chrétienne la plus importante célèbre la résurrection de Jésus, trois jours après sa crucifixion."
       },
       {
-        "gauche": "Taoïsme",
-        "droite": "Tao-tö-king",
-        "explication": "Attribué à Laozi, le Tao-tö-king enseigne à suivre la Voie (Tao)."
+        "gauche": "Vesak",
+        "droite": "Bouddhisme",
+        "explication": "Célébrée à la pleine lune de mai, elle commémore la naissance, l'Éveil et la mort du Bouddha."
       }
     ],
-    "explication": "Chaque tradition a ses textes fondamentaux.",
-    "source": "À vérifier"
+    "explication": "Chaque grande religion rythme l'année par ses fêtes, souvent liées à un événement fondateur (sortie d'Égypte, résurrection, Éveil du Bouddha) ou au cycle de la Lune. C'est pourquoi Pessah, l'Aïd, Diwali ou Vesak changent de date chaque année dans notre calendrier solaire.",
+    "source": "D'après Wikipédia — Fête religieuse"
   },
   {
     "id": "q-religions-012",
@@ -199,7 +199,7 @@
       "Saint Augustin"
     ],
     "bonneReponse": 1,
-    "explication": "À Greccio, en Italie, en 1223.",
+    "explication": "À Noël 1223, dans une grotte du village de Greccio, en Italie, François d'Assise fait installer une mangeoire avec un bœuf et un âne vivants pour faire revivre la naissance de Jésus aux habitants. Cette mise en scène est à l'origine de la tradition de la crèche de Noël.",
     "source": "D'après Wikipédia — François d'Assise"
   },
   {
@@ -208,7 +208,7 @@
     "format": "vrai-faux",
     "affirmation": "Le dalaï-lama vit en exil en Inde depuis 1959.",
     "reponse": true,
-    "explication": "Il a fui le Tibet après l'échec d'un soulèvement contre la Chine.",
+    "explication": "En 1959, après l'échec d'un soulèvement tibétain contre la Chine, le 14e dalaï-lama, Tenzin Gyatso, fuit à pied vers l'Inde. Il installe un gouvernement tibétain en exil à Dharamsala, où il vit toujours. Prix Nobel de la paix en 1989, il défend une large autonomie du Tibet par la non-violence.",
     "source": "D'après Wikipédia — 14e dalaï-lama"
   },
   {
@@ -223,7 +223,7 @@
       "Le culte des ancêtres"
     ],
     "bonneReponse": 1,
-    "explication": "Les jaïns évitent de nuire à tout être vivant, même aux micro-organismes.",
+    "explication": "Le jaïnisme, né en Inde au VIe siècle av. J.-C., place au cœur de sa pratique l'ahimsa, la non-violence absolue envers tous les êtres vivants. Les jaïns sont strictement végétariens ; certains moines portent un masque devant la bouche pour ne pas avaler d'insectes. Gandhi a été influencé par cette idée.",
     "source": "D'après Wikipédia — Ahimsa"
   },
   {
@@ -238,7 +238,7 @@
       "1958"
     ],
     "bonneReponse": 2,
-    "explication": "La loi du 9 décembre 1905 fonde la laïcité française.",
+    "explication": "La loi du 9 décembre 1905 sépare les Églises et l'État en France : la République garantit la liberté de conscience et de culte, mais « ne reconnaît, ne salarie ni ne subventionne aucun culte ». Elle met fin au Concordat de 1801 et fonde la laïcité française, inscrite dans la Constitution.",
     "source": "D'après Wikipédia — Loi de séparation des Églises et de l'État"
   },
   {
@@ -252,7 +252,7 @@
       "Les examens impériaux chinois portaient sur mes enseignements."
     ],
     "reponse": "Confucius",
-    "explication": "Confucius a façonné la morale et la politique chinoises.",
+    "explication": "Confucius (vers 551-479 av. J.-C.) enseigne une morale fondée sur la bienveillance, le respect des rites, la piété filiale envers les parents et les ancêtres, et le bon gouvernement par l'exemple. Ses paroles sont réunies par ses disciples dans les Entretiens. Pendant deux mille ans, les examens pour devenir fonctionnaire en Chine portaient sur ses textes.",
     "source": "D'après Wikipédia — Confucius"
   },
   {
@@ -267,7 +267,7 @@
       "Une prière du soir"
     ],
     "bonneReponse": 1,
-    "explication": "Les musulmans du monde entier se tournent vers elle pour prier.",
+    "explication": "La Kaaba est un édifice cubique recouvert d'un voile noir brodé d'or, au centre de la Grande Mosquée de La Mecque. Selon la tradition musulmane, elle a été construite par Abraham et son fils Ismaël. Les musulmans du monde entier se tournent vers elle pour prier, et les pèlerins en font sept fois le tour.",
     "source": "D'après Wikipédia — Kaaba"
   },
   {
@@ -282,7 +282,7 @@
       "La réincarnation n'existe que dans le christianisme"
     ],
     "bonneReponse": 0,
-    "explication": "Réincarnation : hindouisme, bouddhisme. Résurrection : christianisme, judaïsme, islam.",
+    "explication": "La réincarnation est la renaissance de l'âme dans un nouveau corps après la mort, selon les actes de la vie passée (le karma) : c'est une idée centrale de l'hindouisme et du bouddhisme, qui cherchent à en sortir. La résurrection est le retour à la vie du même être, comme celle de Jésus, ou de tous les morts à la fin des temps dans le christianisme, le judaïsme et l'islam.",
     "source": "D'après Wikipédia — Résurrection"
   },
   {
@@ -297,7 +297,7 @@
       "Roi"
     ],
     "bonneReponse": 1,
-    "explication": "Du grec khristos, traduction de l'hébreu mashia'h (messie), « celui qui a reçu l'onction ».",
+    "explication": "« Christ » vient du grec khristos, qui traduit l'hébreu mashia'h, messie : « celui qui a reçu l'onction », c'est-à-dire une huile sainte réservée aux rois et aux prêtres. Appeler Jésus « le Christ », c'est affirmer qu'il est le messie attendu. Ce n'est donc pas un nom de famille, mais un titre.",
     "source": "D'après Wikipédia — Christ (titre)"
   },
   {
@@ -306,7 +306,7 @@
     "format": "vrai-faux",
     "affirmation": "En Alsace-Moselle, les prêtres, pasteurs et rabbins sont rémunérés par l'État.",
     "reponse": true,
-    "explication": "Le Concordat de 1801 y est toujours en vigueur car la région était allemande en 1905.",
+    "explication": "En 1905, quand la France vote la séparation des Églises et de l'État, l'Alsace et la Moselle sont allemandes depuis 1871. Revenues à la France en 1918, elles ont gardé le régime du Concordat de 1801 : les prêtres, pasteurs et rabbins y sont payés par l'État, et l'enseignement religieux existe à l'école publique.",
     "source": "D'après Wikipédia — Droit local en Alsace et en Moselle"
   },
   {
@@ -321,7 +321,7 @@
       "L'Iran"
     ],
     "bonneReponse": 2,
-    "explication": "L'Indonésie compte plus de 230 millions de musulmans.",
+    "explication": "L'Indonésie, avec plus de 230 millions de musulmans, est le pays qui en compte le plus au monde, devant le Pakistan et l'Inde. L'islam y est arrivé surtout par les marchands, à partir du XIIIe siècle. La plupart des musulmans du monde ne sont pas arabes : ils vivent en Asie.",
     "source": "D'après Wikipédia — Islam en Indonésie"
   },
   {
@@ -336,7 +336,7 @@
       "L'étoile à huit branches"
     ],
     "bonneReponse": 1,
-    "explication": "Le cercle noir et blanc où chaque moitié contient un point de l'autre.",
+    "explication": "Le yin et le yang, cercle mi-noir mi-blanc où chaque moitié contient un point de l'autre, exprime l'idée taoïste que les contraires sont complémentaires : l'ombre et la lumière, le froid et le chaud, le repos et le mouvement. L'équilibre du monde vient de leur alternance, chacun contenant le germe de l'autre.",
     "source": "D'après Wikipédia — Yin et yang"
   },
   {
@@ -366,8 +366,8 @@
         "explication": "La pagode, à plusieurs toits superposés, est un édifice bouddhiste typique d'Asie."
       }
     ],
-    "explication": "Chaque religion a ses lieux de culte.",
-    "source": "À vérifier"
+    "explication": "La synagogue est le lieu de prière et d'étude des juifs, où sont conservés les rouleaux de la Torah. La mosquée est le lieu de prière des musulmans, orienté vers La Mecque. Le gurdwara est le temple des sikhs, ouvert à tous. La pagode, aux toits superposés, est un édifice bouddhiste d'Asie.",
+    "source": "D'après Wikipédia — Lieu de culte"
   },
   {
     "id": "q-religions-024",
@@ -381,7 +381,7 @@
       "1929"
     ],
     "bonneReponse": 1,
-    "explication": "Le pape Jules II a fait appel à des mercenaires suisses en 1506.",
+    "explication": "En 1506, le pape Jules II fait appel à des mercenaires suisses, réputés pour leur loyauté et leur courage, pour assurer sa protection. En 1527, lors du sac de Rome, 147 d'entre eux meurent en protégeant la fuite du pape Clément VII. La Garde suisse, en uniforme rayé bleu, jaune et rouge, veille toujours sur le Vatican.",
     "source": "D'après Wikipédia — Garde suisse pontificale"
   },
   {
@@ -390,7 +390,7 @@
     "format": "vrai-faux",
     "affirmation": "L'islam considère Jésus comme un prophète.",
     "reponse": true,
-    "explication": "Issa est un grand prophète en islam, né de la vierge Marie (Maryam), mais pas le fils de Dieu.",
+    "explication": "En islam, Jésus, appelé Issa, est l'un des plus grands prophètes, né de la vierge Marie (Maryam), qui a une sourate à son nom dans le Coran. Mais il n'est pas considéré comme le fils de Dieu, et le Coran affirme qu'il n'a pas été crucifié. Mahomet est vu comme le dernier des prophètes.",
     "source": "D'après Wikipédia — Jésus dans l'islam"
   },
   {
@@ -405,7 +405,7 @@
       "Le hajj"
     ],
     "bonneReponse": 1,
-    "explication": "L'iftar est pris au coucher du soleil ; le sohour avant l'aube.",
+    "explication": "Pendant le ramadan, les musulmans jeûnent de l'aube au coucher du soleil. L'iftar est le repas qui rompt le jeûne au coucher du soleil, souvent commencé par des dattes et de l'eau, et partagé en famille. Le sohour est le repas pris avant l'aube, avant de recommencer à jeûner.",
     "source": "D'après Wikipédia — Iftar"
   },
   {
@@ -435,8 +435,8 @@
         "annee": "1905"
       }
     ],
-    "explication": "Du VIIe au XXe siècle.",
-    "source": "À vérifier"
+    "explication": "622 : l'Hégire, départ de Mahomet de La Mecque vers Médine, début du calendrier musulman. 1054 : le Grand Schisme sépare catholiques et orthodoxes. 1469 : naissance du guru Nanak, fondateur du sikhisme. 1517 : les 95 thèses de Luther lancent la Réforme protestante. 1905 : la loi de séparation fonde la laïcité en France.",
+    "source": "D'après Wikipédia — Histoire des religions"
   },
   {
     "id": "q-religions-028",
@@ -450,7 +450,7 @@
       "L'arabe"
     ],
     "bonneReponse": 2,
-    "explication": "L'araméen était la langue courante en Palestine au Ier siècle.",
+    "explication": "Jésus parlait probablement l'araméen, la langue courante des habitants de Galilée et de Judée au Ier siècle. Il connaissait sans doute l'hébreu, langue des textes religieux, et peut-être un peu de grec. Les Évangiles ont été écrits en grec, mais ils conservent quelques mots araméens, comme « Abba » (père).",
     "source": "D'après Wikipédia — Araméen"
   },
   {
@@ -465,7 +465,7 @@
       "Des vêtements"
     ],
     "bonneReponse": 1,
-    "explication": "Le langar est un repas végétarien offert à tous, sans distinction.",
+    "explication": "Chaque gurdwara, temple sikh, possède une cuisine commune, le langar, qui offre gratuitement un repas végétarien à tous les visiteurs, quelles que soient leur religion ou leur origine. Tout le monde mange assis ensemble au sol, pour affirmer l'égalité. Le Temple d'or d'Amritsar sert jusqu'à 100 000 repas par jour.",
     "source": "D'après Wikipédia — Langar"
   },
   {
@@ -480,7 +480,7 @@
       "Nietzsche"
     ],
     "bonneReponse": 1,
-    "explication": "Le biologiste Thomas Huxley, surnommé « le bouledogue de Darwin », en 1869.",
+    "explication": "En 1869, le biologiste anglais Thomas Huxley invente le mot « agnostique » pour décrire sa position : on ne peut pas savoir si Dieu existe ou non. C'est différent de l'athéisme, qui affirme que Dieu n'existe pas. Grand défenseur de la théorie de Darwin, il était surnommé « le bouledogue de Darwin ».",
     "source": "D'après Wikipédia — Thomas Henry Huxley"
   }
 ]

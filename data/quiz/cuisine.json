@@ -11,8 +11,8 @@
       "La sauce soja"
     ],
     "bonneReponse": 1,
-    "explication": "« Sushi » désigne le riz assaisonné au vinaigre, pas le poisson cru (appelé sashimi lorsqu'il est servi seul).",
-    "source": "À vérifier"
+    "explication": "Au Japon, « sushi » désigne le riz assaisonné de vinaigre, de sucre et de sel, garni de poisson, de légumes ou d'œuf. Le poisson cru servi seul, sans riz, s'appelle sashimi. À l'origine, le riz servait à faire fermenter et conserver le poisson ; on le jetait avant de manger le poisson.",
+    "source": "D'après Wikipédia — Sushi"
   },
   {
     "id": "q-cuisine-002",
@@ -20,8 +20,8 @@
     "format": "vrai-faux",
     "affirmation": "La paella est originaire de Madrid.",
     "reponse": false,
-    "explication": "La paella est originaire de la région de Valence, pas de Madrid.",
-    "source": "À vérifier"
+    "explication": "La paella vient de la région de Valence, dans l'est de l'Espagne, où l'on cultive le riz depuis l'époque arabe. Son nom désigne la grande poêle plate dans laquelle on la cuit, en valencien. Les paysans la préparaient au feu de bois dans les champs, avec ce qu'ils avaient sous la main : poulet, lapin, haricots.",
+    "source": "D'après Wikipédia — Paella"
   },
   {
     "id": "q-cuisine-003",
@@ -45,8 +45,8 @@
         "explication": "Bocuse, trois étoiles pendant plus de 50 ans près de Lyon, a été l'une des figures de la nouvelle cuisine des années 1970."
       }
     ],
-    "explication": "Chacun a marqué la gastronomie à sa manière, à des époques différentes.",
-    "source": "À vérifier"
+    "explication": "Escoffier a organisé les cuisines en brigades et fixé les recettes classiques dans son Guide culinaire (1903). Julia Child a fait découvrir la cuisine française aux Américains par ses livres et ses émissions de télévision. Paul Bocuse, trois étoiles pendant plus de 50 ans, a incarné la nouvelle cuisine et fait des chefs des stars.",
+    "source": "D'après Wikipédia — Cuisine française"
   },
   {
     "id": "q-cuisine-004",
@@ -60,8 +60,8 @@
       "Blanchir signifie ajouter de la farine"
     ],
     "bonneReponse": 1,
-    "explication": "Blanchir est bref et suivi d'un choc froid ; pocher cuit l'aliment entièrement dans un liquide frémissant.",
-    "source": "À vérifier"
+    "explication": "Blanchir, c'est plonger un aliment quelques instants dans l'eau bouillante puis dans l'eau glacée : on fixe la couleur des légumes, on facilite l'épluchage des tomates, ou on les prépare avant congélation. Pocher, c'est cuire entièrement un aliment dans un liquide frémissant, sans bouillir, comme un œuf poché ou une poire au vin.",
+    "source": "D'après Wikipédia — Pochage"
   },
   {
     "id": "q-cuisine-005",
@@ -74,8 +74,8 @@
       "On me trouve en grande quantité dans le parmesan ou la sauce soja."
     ],
     "reponse": "L'umami",
-    "explication": "L'umami est la cinquième saveur de base, décrite au Japon au début du XXe siècle.",
-    "source": "À vérifier"
+    "explication": "En 1908, le chimiste japonais Kikunae Ikeda découvre que le goût du bouillon d'algue kombu vient du glutamate. Il nomme cette saveur umami, « goût délicieux ». Elle s'ajoute au sucré, au salé, à l'acide et à l'amer. On la trouve dans le parmesan, la sauce soja, les tomates mûres ou les champignons.",
+    "source": "D'après Wikipédia — Umami"
   },
   {
     "id": "q-cuisine-006",
@@ -89,7 +89,7 @@
       "La Napoletana"
     ],
     "bonneReponse": 1,
-    "explication": "En 1889, pour la reine Marguerite de Savoie, aux couleurs du drapeau italien.",
+    "explication": "Selon la tradition, en 1889, le pizzaïolo napolitain Raffaele Esposito prépare pour la reine Marguerite de Savoie une pizza aux couleurs du drapeau italien : tomate rouge, mozzarella blanche et basilic vert. La reine l'apprécie, et la pizza prend son nom. L'art du pizzaïolo napolitain est inscrit à l'UNESCO depuis 2017.",
     "source": "D'après Wikipédia — Pizza Margherita"
   },
   {
@@ -98,7 +98,7 @@
     "format": "vrai-faux",
     "affirmation": "Marco Polo a rapporté les pâtes de Chine en Italie.",
     "reponse": false,
-    "explication": "C'est une légende : les pâtes sèches étaient déjà fabriquées en Sicile au XIIe siècle.",
+    "explication": "Marco Polo revient de Chine en 1295. Or, dès 1154, le géographe arabe al-Idrissi décrit une fabrique de pâtes sèches en Sicile, exportées dans toute la Méditerranée. La légende du retour de Marco Polo avec les pâtes a surtout été popularisée au XXe siècle par une revue publicitaire américaine de fabricants de pâtes.",
     "source": "D'après Wikipédia — Pâtes alimentaires"
   },
   {
@@ -113,7 +113,7 @@
       "Turquie"
     ],
     "bonneReponse": 2,
-    "explication": "Il descend du Kipferl viennois, apporté à Paris vers 1838 par August Zang.",
+    "explication": "Le croissant descend du kipferl, une viennoiserie autrichienne en forme de croissant. Vers 1838, l'officier autrichien August Zang ouvre à Paris une boulangerie viennoise, rue de Richelieu, qui le fait connaître. Au début du XXe siècle, les boulangers français le transforment en l'actuel croissant feuilleté au beurre.",
     "source": "D'après Wikipédia — Croissant (viennoiserie)"
   },
   {
@@ -128,7 +128,7 @@
       "Akio Morita"
     ],
     "bonneReponse": 0,
-    "explication": "Le fondateur de Nissin, qui a aussi créé les Cup Noodles en 1971.",
+    "explication": "Au Japon, après la guerre, Momofuku Ando voit de longues files d'attente devant les stands de nouilles. Après un an d'essais dans son jardin, il invente en 1958 les nouilles instantanées : des nouilles frites puis séchées, prêtes en deux minutes dans l'eau chaude. Il fonde Nissin et crée les Cup Noodles en 1971.",
     "source": "D'après Wikipédia — Momofuku Andō"
   },
   {
@@ -163,8 +163,8 @@
         "explication": "« Gâteau au beurre » en breton, spécialité de Douarnenez."
       }
     ],
-    "explication": "Chaque région a ses spécialités.",
-    "source": "À vérifier"
+    "explication": "La bouillabaisse est une soupe de poissons de roche des pêcheurs marseillais. La choucroute, du chou fermenté servi avec charcuteries, est alsacienne. Le cassoulet, aux haricots blancs et confit de canard, vient du Lauragais, en Occitanie. La tartiflette savoyarde date des années 1980. Le kouign-amann est un gâteau breton au beurre.",
+    "source": "D'après Wikipédia — Cuisine française"
   },
   {
     "id": "q-cuisine-011",
@@ -178,7 +178,7 @@
       "La coagulation de l'œuf"
     ],
     "bonneReponse": 1,
-    "explication": "Une réaction entre sucres et protéines qui crée couleur et arômes grillés.",
+    "explication": "En 1912, le chimiste français Louis Camille Maillard décrit la réaction entre les sucres et les protéines qui se produit à plus de 140 °C environ. Elle donne leur couleur brune et leurs arômes grillés à la croûte du pain, à la viande saisie, au café torréfié ou aux frites. C'est pourquoi une viande bouillie ne dore pas.",
     "source": "D'après Wikipédia — Réaction de Maillard"
   },
   {
@@ -187,7 +187,7 @@
     "format": "vrai-faux",
     "affirmation": "Le thé vert et le thé noir proviennent de la même plante.",
     "reponse": true,
-    "explication": "Tous deux viennent de Camellia sinensis ; seule l'oxydation des feuilles diffère.",
+    "explication": "Tous les thés viennent des feuilles d'un même arbuste, Camellia sinensis. Pour le thé vert, on chauffe les feuilles juste après la cueillette pour empêcher leur oxydation. Pour le thé noir, on les laisse s'oxyder entièrement, ce qui les fonce et change leur goût. Le thé oolong est à mi-chemin.",
     "source": "D'après Wikipédia — Thé"
   },
   {
@@ -202,7 +202,7 @@
       "Le poivre"
     ],
     "bonneReponse": 1,
-    "explication": "Il faut environ 150 000 fleurs de crocus pour obtenir 1 kg de safran.",
+    "explication": "Le safran est formé des stigmates rouges d'une fleur, le crocus à safran, cueillis un à un à la main à l'automne. Il faut environ 150 000 fleurs pour obtenir 1 kg d'épice, qui peut se vendre plusieurs milliers d'euros. L'Iran en produit l'essentiel. Il donne sa couleur jaune à la paella et au risotto milanais.",
     "source": "D'après Wikipédia — Safran (épice)"
   },
   {
@@ -217,7 +217,7 @@
       "La bordelaise"
     ],
     "bonneReponse": 1,
-    "explication": "Béchamel, velouté, espagnole, tomate et hollandaise. La béarnaise dérive de la hollandaise.",
+    "explication": "Dans son Guide culinaire (1903), Auguste Escoffier retient cinq sauces mères, dont dérivent toutes les autres : la béchamel (lait et roux), le velouté (fond blanc), l'espagnole (fond brun), la sauce tomate et la hollandaise (jaunes d'œufs et beurre). La béarnaise est une variante de la hollandaise.",
     "source": "D'après Wikipédia — Sauce mère"
   },
   {
@@ -231,7 +231,7 @@
       "En 2007, je suis devenue la quatrième femme triplement étoilée au Michelin."
     ],
     "reponse": "Anne-Sophie Pic",
-    "explication": "La cheffe française la plus étoilée au monde.",
+    "explication": "Fille et petite-fille de chefs triplement étoilés, Anne-Sophie Pic reprend sans formation de cuisinière le restaurant familial de Valence, dans la Drôme. En 2007, elle récupère la troisième étoile perdue après la mort de son père. Elle est aujourd'hui la cheffe la plus étoilée au monde.",
     "source": "D'après Wikipédia — Anne-Sophie Pic"
   },
   {
@@ -246,7 +246,7 @@
       "Madagascar"
     ],
     "bonneReponse": 1,
-    "explication": "La petite île de Run, dans les Moluques, produisait la précieuse muscade.",
+    "explication": "Au XVIIe siècle, la noix de muscade valait plus que l'or, et la petite île de Run, dans les Moluques (Indonésie), en était l'une des rares sources. En 1667, par le traité de Breda, l'Angleterre cède Run aux Néerlandais, qui lui laissent en échange La Nouvelle-Amsterdam, rebaptisée New York.",
     "source": "D'après Wikipédia — Run (île)"
   },
   {
@@ -255,7 +255,7 @@
     "format": "vrai-faux",
     "affirmation": "La carbonara traditionnelle romaine contient de la crème.",
     "reponse": false,
-    "explication": "Elle se fait avec guanciale, jaunes d'œufs, pecorino et poivre, sans crème.",
+    "explication": "La vraie carbonara romaine se prépare avec du guanciale (joue de porc séchée), des jaunes d'œufs, du pecorino romano et beaucoup de poivre noir. C'est le mélange d'œufs, de fromage et d'un peu d'eau de cuisson des pâtes qui la rend crémeuse. La crème et les lardons fumés sont des adaptations étrangères.",
     "source": "D'après Wikipédia — Pâtes à la carbonara"
   },
   {
@@ -270,7 +270,7 @@
       "Le safran"
     ],
     "bonneReponse": 2,
-    "explication": "La paella valencienne se fait avec poulet, lapin et haricots ; celle aux fruits de mer est une autre recette.",
+    "explication": "La recette de la paella valencienne, protégée depuis 2012, comprend riz, poulet, lapin, haricots verts plats, haricots blancs, tomate, huile d'olive et safran, parfois des escargots. La paella aux fruits de mer, plus connue des touristes, est une recette différente, née sur la côte.",
     "source": "D'après Wikipédia — Paella"
   },
   {
@@ -285,7 +285,7 @@
       "La caramélisation ne concerne que le lait"
     ],
     "bonneReponse": 0,
-    "explication": "Le caramel se fait avec du sucre seul ; la croûte d'un steak résulte de la réaction de Maillard.",
+    "explication": "La caramélisation est la transformation du sucre seul sous l'effet de la chaleur, vers 160 °C : il brunit et prend un goût de caramel. La réaction de Maillard, plus complexe, fait réagir sucres et protéines : c'est elle qui dore la croûte du pain, les frites ou un steak.",
     "source": "D'après Wikipédia — Caramélisation"
   },
   {
@@ -300,7 +300,7 @@
       "Le Vietnam"
     ],
     "bonneReponse": 2,
-    "explication": "Le Brésil produit environ un tiers du café mondial.",
+    "explication": "Le Brésil produit environ un tiers du café mondial, devant le Vietnam, la Colombie et l'Indonésie. Le caféier y est arrivé en 1727, rapporté en contrebande de Guyane. Au XIXe siècle, le café y est devenu la première richesse, cultivé dans d'immenses plantations par des esclaves.",
     "source": "D'après Wikipédia — Café"
   },
   {
@@ -315,7 +315,7 @@
       "Le tempérage"
     ],
     "bonneReponse": 1,
-    "explication": "Elle rend le maïs plus digeste et nutritif.",
+    "explication": "Depuis plus de 3 000 ans, les peuples d'Amérique centrale font cuire le maïs dans de l'eau avec de la chaux. Cette nixtamalisation ramollit les grains, les rend plus digestes et libère la vitamine B3. Sans elle, les Européens qui ont adopté le maïs ont souffert d'une maladie grave par carence, la pellagre.",
     "source": "D'après Wikipédia — Nixtamalisation"
   },
   {
@@ -324,7 +324,7 @@
     "format": "vrai-faux",
     "affirmation": "Le chocolat blanc contient de la pâte de cacao.",
     "reponse": false,
-    "explication": "Il ne contient que du beurre de cacao, du sucre et du lait.",
+    "explication": "Le chocolat blanc contient seulement du beurre de cacao, la matière grasse extraite des fèves, avec du sucre et du lait. Il ne contient pas de pâte de cacao, qui donne au chocolat sa couleur brune et son goût intense. Il doit contenir au moins 20 % de beurre de cacao pour porter le nom de chocolat.",
     "source": "D'après Wikipédia — Chocolat blanc"
   },
   {
@@ -339,7 +339,7 @@
       "Julia Child"
     ],
     "bonneReponse": 1,
-    "explication": "Escoffier, en l'honneur de la chanteuse Nellie Melba.",
+    "explication": "En 1893, au Savoy de Londres, Escoffier crée pour la cantatrice australienne Nellie Melba un dessert servi sur un cygne sculpté dans la glace, en hommage à l'opéra Lohengrin. Il le perfectionne en 1900 : pêches pochées, glace vanille et coulis de framboise. Il a aussi créé les toasts Melba pour elle.",
     "source": "D'après Wikipédia — Pêche Melba"
   },
   {
@@ -369,8 +369,8 @@
         "explication": "Le tonkotsu est un bouillon laiteux d'os de porc cuits pendant des heures, spécialité de Fukuoka."
       }
     ],
-    "explication": "Les quatre grands styles de ramen.",
-    "source": "À vérifier"
+    "explication": "Les ramens sont des nouilles de blé servies dans un bouillon, arrivées de Chine au Japon à la fin du XIXe siècle. On les classe selon l'assaisonnement du bouillon : sauce soja pour le shoyu, pâte de soja fermentée pour le miso, sel pour le shio, et os de porc longuement bouillis pour le tonkotsu, blanc et épais.",
+    "source": "D'après Wikipédia — Ramen"
   },
   {
     "id": "q-cuisine-025",
@@ -384,7 +384,7 @@
       "Le Japon"
     ],
     "bonneReponse": 2,
-    "explication": "La Turquie devance largement les autres pays.",
+    "explication": "Chaque Turc boit en moyenne plus de 3 kg de thé par an, soit plusieurs verres par jour, bien plus que les Britanniques ou les Chinois. Le thé noir, cultivé dans la région de Rize, au bord de la mer Noire, est servi dans de petits verres en forme de tulipe, préparé dans une double théière.",
     "source": "D'après Wikipédia — Thé en Turquie"
   },
   {
@@ -399,7 +399,7 @@
       "Il ne l'est pas"
     ],
     "bonneReponse": 2,
-    "explication": "En 2020, à l'initiative commune de quatre pays du Maghreb.",
+    "explication": "En décembre 2020, l'UNESCO inscrit les savoirs et pratiques liés au couscous au patrimoine culturel immatériel de l'humanité. La candidature a été portée ensemble par l'Algérie, le Maroc, la Mauritanie et la Tunisie, un exemple rare de coopération entre ces pays autour de leur héritage commun.",
     "source": "D'après Wikipédia — Couscous"
   },
   {
@@ -408,7 +408,7 @@
     "format": "vrai-faux",
     "affirmation": "La pizza hawaïenne a été inventée à Hawaï.",
     "reponse": false,
-    "explication": "Elle a été inventée au Canada en 1962 par Sam Panopoulos.",
+    "explication": "En 1962, dans son restaurant de Chatham, en Ontario (Canada), Sam Panopoulos, un immigré grec, a l'idée d'ajouter de l'ananas en conserve sur une pizza au jambon. Il l'appelle « hawaïenne » d'après la marque de la boîte d'ananas. Le mélange sucré-salé divise encore les amateurs de pizza.",
     "source": "D'après Wikipédia — Pizza hawaïenne"
   },
   {
@@ -423,7 +423,7 @@
       "Aucune différence"
     ],
     "bonneReponse": 0,
-    "explication": "Un produit peut être AOP sans être bio, et inversement.",
+    "explication": "L'AOP (appellation d'origine protégée) garantit qu'un produit est fabriqué dans une zone précise selon un savoir-faire local, comme le roquefort ou le comté. Le label bio garantit un mode de production sans pesticides ni engrais chimiques de synthèse, où que ce soit. Un produit peut avoir les deux, l'un ou aucun.",
     "source": "D'après Wikipédia — Appellation d'origine protégée"
   },
   {
@@ -438,7 +438,7 @@
       "Julia Child"
     ],
     "bonneReponse": 1,
-    "explication": "La Lyonnaise Eugénie Brazier, en 1933, pour ses deux restaurants.",
+    "explication": "En 1933, la Lyonnaise Eugénie Brazier obtient trois étoiles pour chacun de ses deux restaurants, soit six étoiles en tout : un exploit resté inégalé pendant plus de 60 ans. Surnommée « la mère Brazier », elle a formé le jeune Paul Bocuse. Son poulet de Bresse demi-deuil est resté célèbre.",
     "source": "D'après Wikipédia — Eugénie Brazier"
   },
   {
@@ -468,7 +468,7 @@
         "annee": "1958"
       }
     ],
-    "explication": "Cinq siècles d'histoire de la cuisine.",
-    "source": "À vérifier"
+    "explication": "1498 : Vasco de Gama ouvre la route maritime des épices vers l'Inde. 1875 : le Suisse Daniel Peter crée le chocolat au lait avec le lait concentré d'Henri Nestlé. 1903 : Escoffier publie Le Guide culinaire. 1908 : Kikunae Ikeda découvre l'umami. 1958 : Momofuku Ando invente les nouilles instantanées.",
+    "source": "D'après Wikipédia — Histoire de l'alimentation"
   }
 ]

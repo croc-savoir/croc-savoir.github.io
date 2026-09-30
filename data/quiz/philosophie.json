@@ -145,23 +145,28 @@
     "paires": [
       {
         "gauche": "Rousseau",
-        "droite": "Du contrat social"
+        "droite": "Du contrat social",
+        "explication": "Rousseau (1762) : la souveraineté appartient au peuple, qui exprime la volonté générale."
       },
       {
         "gauche": "Marx",
-        "droite": "Le Capital"
+        "droite": "Le Capital",
+        "explication": "Marx (1867) analyse le capitalisme et l'exploitation des travailleurs."
       },
       {
         "gauche": "Pascal",
-        "droite": "Pensées"
+        "droite": "Pensées",
+        "explication": "Les notes de Pascal, publiées après sa mort (1670), méditent sur la misère et la grandeur de l'homme."
       },
       {
         "gauche": "Spinoza",
-        "droite": "Éthique"
+        "droite": "Éthique",
+        "explication": "Spinoza rédige son Éthique « à la manière des géomètres », publiée en 1677 après sa mort."
       },
       {
         "gauche": "Hobbes",
-        "droite": "Léviathan"
+        "droite": "Léviathan",
+        "explication": "Hobbes (1651) justifie un État tout-puissant pour sortir de la « guerre de tous contre tous »."
       }
     ],
     "explication": "Cinq œuvres majeures de la philosophie.",
@@ -342,19 +347,23 @@
     "paires": [
       {
         "gauche": "« L'homme est condamné à être libre »",
-        "droite": "Sartre"
+        "droite": "Sartre",
+        "explication": "Pour Sartre, l'homme n'a pas de nature fixée d'avance : il se définit par ses choix, et en est responsable."
       },
       {
         "gauche": "« Connais-toi toi-même »",
-        "droite": "Socrate"
+        "droite": "Socrate",
+        "explication": "Inscrite au temple de Delphes, cette devise résume la démarche de Socrate : commencer par s'examiner soi-même."
       },
       {
         "gauche": "« Le cœur a ses raisons… »",
-        "droite": "Pascal"
+        "droite": "Pascal",
+        "explication": "« … que la raison ne connaît point » : Pascal rappelle que la foi et les sentiments échappent à la raison."
       },
       {
         "gauche": "« Dieu est mort »",
-        "droite": "Nietzsche"
+        "droite": "Nietzsche",
+        "explication": "Nietzsche constate que les valeurs chrétiennes ne fondent plus la société, et qu'il faut en créer de nouvelles."
       }
     ],
     "explication": "Quatre formules devenues célèbres.",

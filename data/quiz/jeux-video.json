@@ -31,19 +31,23 @@
     "paires": [
       {
         "gauche": "Shigeru Miyamoto",
-        "droite": "Super Mario / The Legend of Zelda"
+        "droite": "Super Mario / The Legend of Zelda",
+        "explication": "Chez Nintendo, Miyamoto a créé Mario (1981-1985) et Zelda (1986)."
       },
       {
         "gauche": "Hironobu Sakaguchi",
-        "droite": "Final Fantasy"
+        "droite": "Final Fantasy",
+        "explication": "Sakaguchi crée Final Fantasy en 1987 chez Square, alors au bord de la faillite, d'où le mot « Final »."
       },
       {
         "gauche": "Satoshi Tajiri",
-        "droite": "Pokémon"
+        "droite": "Pokémon",
+        "explication": "Passionné d'insectes enfant, Tajiri imagine Pokémon, sorti en 1996 sur Game Boy."
       },
       {
         "gauche": "Gunpei Yokoi",
-        "droite": "Game Boy / Metroid"
+        "droite": "Game Boy / Metroid",
+        "explication": "Yokoi a inventé la Game Boy (1989) et produit Metroid ; on lui doit aussi la croix directionnelle."
       }
     ],
     "explication": "Chacun de ces créateurs est à l'origine d'une franchise majeure du jeu vidéo japonais.",
@@ -195,19 +199,23 @@
     "paires": [
       {
         "gauche": "FPS",
-        "droite": "Tir à la première personne"
+        "droite": "Tir à la première personne",
+        "explication": "First-Person Shooter : jeu de tir en vue subjective, comme Doom ou Call of Duty."
       },
       {
         "gauche": "RPG",
-        "droite": "Jeu de rôle"
+        "droite": "Jeu de rôle",
+        "explication": "Role-Playing Game : on incarne un personnage qui progresse, comme dans Final Fantasy ou The Witcher."
       },
       {
         "gauche": "RTS",
-        "droite": "Stratégie en temps réel"
+        "droite": "Stratégie en temps réel",
+        "explication": "Real-Time Strategy : stratégie en temps réel, comme StarCraft ou Age of Empires."
       },
       {
         "gauche": "MOBA",
-        "droite": "Arène de bataille en équipes"
+        "droite": "Arène de bataille en équipes",
+        "explication": "Multiplayer Online Battle Arena : deux équipes s'affrontent dans une arène, comme League of Legends."
       }
     ],
     "explication": "Les grands genres du jeu vidéo.",
@@ -413,23 +421,28 @@
     "paires": [
       {
         "gauche": "Metal Gear",
-        "droite": "Hideo Kojima"
+        "droite": "Hideo Kojima",
+        "explication": "Kojima crée Metal Gear en 1987, pionnier du jeu d'infiltration."
       },
       {
         "gauche": "Final Fantasy",
-        "droite": "Hironobu Sakaguchi"
+        "droite": "Hironobu Sakaguchi",
+        "explication": "Sakaguchi lance Final Fantasy en 1987 chez Square."
       },
       {
         "gauche": "Les Sims",
-        "droite": "Will Wright"
+        "droite": "Will Wright",
+        "explication": "Will Wright, déjà créateur de SimCity, sort Les Sims en 2000."
       },
       {
         "gauche": "Tetris",
-        "droite": "Alexeï Pajitnov"
+        "droite": "Alexeï Pajitnov",
+        "explication": "Pajitnov, chercheur soviétique, crée Tetris en 1984 à Moscou."
       },
       {
         "gauche": "Pokémon",
-        "droite": "Satoshi Tajiri"
+        "droite": "Satoshi Tajiri",
+        "explication": "Tajiri, fondateur de Game Freak, crée Pokémon en 1996."
       }
     ],
     "explication": "Cinq créateurs, cinq classiques.",

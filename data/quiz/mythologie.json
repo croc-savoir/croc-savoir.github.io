@@ -22,19 +22,23 @@
     "paires": [
       {
         "gauche": "Osiris",
-        "droite": "Au-delà et résurrection"
+        "droite": "Au-delà et résurrection",
+        "explication": "Tué et découpé par son frère Seth, Osiris est ressuscité par Isis et devient le roi des morts."
       },
       {
         "gauche": "Isis",
-        "droite": "Magie et maternité"
+        "droite": "Magie et maternité",
+        "explication": "Épouse d'Osiris et mère d'Horus, Isis est la grande magicienne et la mère protectrice."
       },
       {
         "gauche": "Anubis",
-        "droite": "Momification et jugement des morts"
+        "droite": "Momification et jugement des morts",
+        "explication": "Le dieu à tête de chacal préside à l'embaumement et à la pesée du cœur des défunts."
       },
       {
         "gauche": "Rê",
-        "droite": "Soleil"
+        "droite": "Soleil",
+        "explication": "Rê, dieu du Soleil, traverse le ciel en barque le jour et le monde souterrain la nuit."
       }
     ],
     "explication": "Chaque grande divinité égyptienne est associée à un domaine précis de la vie ou de l'au-delà.",
@@ -123,23 +127,28 @@
     "paires": [
       {
         "gauche": "Zeus",
-        "droite": "Jupiter"
+        "droite": "Jupiter",
+        "explication": "Le roi des dieux devient Jupiter à Rome, qui a donné son nom à la plus grosse planète."
       },
       {
         "gauche": "Aphrodite",
-        "droite": "Vénus"
+        "droite": "Vénus",
+        "explication": "La déesse de l'amour devient Vénus, nom de la planète la plus brillante du ciel."
       },
       {
         "gauche": "Arès",
-        "droite": "Mars"
+        "droite": "Mars",
+        "explication": "Le dieu de la guerre devient Mars, qui a donné son nom au mois de mars et à la planète rouge."
       },
       {
         "gauche": "Hermès",
-        "droite": "Mercure"
+        "droite": "Mercure",
+        "explication": "Le messager des dieux devient Mercure, la planète la plus rapide autour du Soleil."
       },
       {
         "gauche": "Poséidon",
-        "droite": "Neptune"
+        "droite": "Neptune",
+        "explication": "Le dieu de la mer devient Neptune, dont le symbole est le trident."
       }
     ],
     "explication": "Nos planètes portent les noms romains des dieux.",
@@ -290,19 +299,23 @@
     "paires": [
       {
         "gauche": "Clio",
-        "droite": "Histoire"
+        "droite": "Histoire",
+        "explication": "Clio, Muse de l'histoire, est représentée avec un rouleau de parchemin."
       },
       {
         "gauche": "Uranie",
-        "droite": "Astronomie"
+        "droite": "Astronomie",
+        "explication": "Uranie, Muse de l'astronomie, tient un globe céleste ; son nom vient d'ouranos, « le ciel »."
       },
       {
         "gauche": "Terpsichore",
-        "droite": "Danse"
+        "droite": "Danse",
+        "explication": "Terpsichore, Muse de la danse, a donné l'adjectif « terpsichorien »."
       },
       {
         "gauche": "Melpomène",
-        "droite": "Tragédie"
+        "droite": "Tragédie",
+        "explication": "Melpomène, Muse de la tragédie, est souvent représentée avec un masque tragique."
       }
     ],
     "explication": "Les neuf Muses sont filles de Zeus et de Mnémosyne.",

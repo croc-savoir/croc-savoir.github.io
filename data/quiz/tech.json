@@ -31,19 +31,23 @@
     "paires": [
       {
         "gauche": "Ada Lovelace",
-        "droite": "Premier algorithme destiné à une machine"
+        "droite": "Premier algorithme destiné à une machine",
+        "explication": "En 1843, Ada Lovelace décrit un calcul pour la machine analytique de Babbage : c'est le premier programme publié."
       },
       {
         "gauche": "Alan Turing",
-        "droite": "Décryptage du code Enigma"
+        "droite": "Décryptage du code Enigma",
+        "explication": "Pendant la Seconde Guerre mondiale, Turing contribue à casser Enigma, le code secret allemand."
       },
       {
         "gauche": "Nikola Tesla",
-        "droite": "Développement du courant alternatif"
+        "droite": "Développement du courant alternatif",
+        "explication": "Tesla invente le moteur à courant alternatif, qui l'emporte sur le courant continu d'Edison."
       },
       {
         "gauche": "Tim Berners-Lee",
-        "droite": "Invention du World Wide Web"
+        "droite": "Invention du World Wide Web",
+        "explication": "Au CERN en 1989-1991, Berners-Lee crée le Web (HTML, HTTP, URL) et le laisse libre de droits."
       }
     ],
     "explication": "Chacun a posé une pierre fondatrice de l'informatique ou de l'électricité moderne.",
@@ -195,19 +199,23 @@
     "paires": [
       {
         "gauche": "Volt",
-        "droite": "Tension"
+        "droite": "Tension",
+        "explication": "Le volt mesure la tension, la « pression » qui pousse le courant ; il vient de Volta, inventeur de la pile."
       },
       {
         "gauche": "Ampère",
-        "droite": "Intensité"
+        "droite": "Intensité",
+        "explication": "L'ampère mesure l'intensité, la quantité de courant qui circule ; il vient d'André-Marie Ampère."
       },
       {
         "gauche": "Ohm",
-        "droite": "Résistance"
+        "droite": "Résistance",
+        "explication": "L'ohm mesure la résistance, qui freine le passage du courant ; il vient de Georg Ohm."
       },
       {
         "gauche": "Watt",
-        "droite": "Puissance"
+        "droite": "Puissance",
+        "explication": "Le watt mesure la puissance (tension × intensité) ; il vient de James Watt."
       }
     ],
     "explication": "Chaque unité porte le nom d'un savant.",
@@ -417,19 +425,23 @@
     "paires": [
       {
         "gauche": "Apple",
-        "droite": "Steve Jobs"
+        "droite": "Steve Jobs",
+        "explication": "Steve Jobs fonde Apple en 1976 avec Steve Wozniak, dans un garage californien."
       },
       {
         "gauche": "Microsoft",
-        "droite": "Bill Gates"
+        "droite": "Bill Gates",
+        "explication": "Bill Gates fonde Microsoft en 1975 avec Paul Allen."
       },
       {
         "gauche": "Intel",
-        "droite": "Gordon Moore"
+        "droite": "Gordon Moore",
+        "explication": "Gordon Moore cofonde Intel en 1968 ; il a donné son nom à la « loi de Moore »."
       },
       {
         "gauche": "Linux (projet)",
-        "droite": "Linus Torvalds"
+        "droite": "Linus Torvalds",
+        "explication": "Linus Torvalds, étudiant finlandais, publie en 1991 le noyau Linux, logiciel libre."
       }
     ],
     "explication": "Quatre acteurs clés de l'informatique.",

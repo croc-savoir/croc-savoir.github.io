@@ -31,19 +31,23 @@
     "paires": [
       {
         "gauche": "Islam",
-        "droite": "Le Coran"
+        "droite": "Le Coran",
+        "explication": "Pour les musulmans, le Coran est la parole de Dieu révélée à Mahomet, en 114 sourates."
       },
       {
         "gauche": "Judaïsme",
-        "droite": "La Torah"
+        "droite": "La Torah",
+        "explication": "La Torah regroupe les cinq premiers livres de la Bible hébraïque, au cœur du judaïsme."
       },
       {
         "gauche": "Hindouisme",
-        "droite": "Les Veda"
+        "droite": "Les Veda",
+        "explication": "Les Veda sont les textes les plus anciens de l'hindouisme, composés en sanskrit il y a plus de 3 000 ans."
       },
       {
         "gauche": "Christianisme",
-        "droite": "La Bible"
+        "droite": "La Bible",
+        "explication": "La Bible chrétienne réunit l'Ancien et le Nouveau Testament, qui contient les Évangiles."
       }
     ],
     "explication": "Chaque grande tradition religieuse s'appuie sur un corpus de textes fondateurs, transmis et interprété différemment selon les courants internes.",
@@ -156,23 +160,28 @@
     "paires": [
       {
         "gauche": "Islam",
-        "droite": "Coran"
+        "droite": "Coran",
+        "explication": "Le Coran est récité en arabe et divisé en 114 sourates."
       },
       {
         "gauche": "Judaïsme",
-        "droite": "Torah"
+        "droite": "Torah",
+        "explication": "La Torah, rouleau conservé dans l'arche de la synagogue, contient la Loi transmise à Moïse."
       },
       {
         "gauche": "Sikhisme",
-        "droite": "Guru Granth Sahib"
+        "droite": "Guru Granth Sahib",
+        "explication": "Le Guru Granth Sahib est traité par les sikhs comme un guru vivant depuis 1708."
       },
       {
         "gauche": "Hindouisme",
-        "droite": "Védas"
+        "droite": "Védas",
+        "explication": "Les Védas, en sanskrit, sont les plus anciens textes sacrés de l'hindouisme."
       },
       {
         "gauche": "Taoïsme",
-        "droite": "Tao-tö-king"
+        "droite": "Tao-tö-king",
+        "explication": "Attribué à Laozi, le Tao-tö-king enseigne à suivre la Voie (Tao)."
       }
     ],
     "explication": "Chaque tradition a ses textes fondamentaux.",
@@ -338,19 +347,23 @@
     "paires": [
       {
         "gauche": "Synagogue",
-        "droite": "Judaïsme"
+        "droite": "Judaïsme",
+        "explication": "La synagogue, lieu de prière et d'étude juif, abrite l'arche contenant les rouleaux de la Torah."
       },
       {
         "gauche": "Mosquée",
-        "droite": "Islam"
+        "droite": "Islam",
+        "explication": "La mosquée comporte un mihrab indiquant la direction de La Mecque, et souvent un minaret."
       },
       {
         "gauche": "Gurdwara",
-        "droite": "Sikhisme"
+        "droite": "Sikhisme",
+        "explication": "Le gurdwara sikh accueille tout le monde et offre des repas gratuits (le langar)."
       },
       {
         "gauche": "Pagode",
-        "droite": "Bouddhisme"
+        "droite": "Bouddhisme",
+        "explication": "La pagode, à plusieurs toits superposés, est un édifice bouddhiste typique d'Asie."
       }
     ],
     "explication": "Chaque religion a ses lieux de culte.",

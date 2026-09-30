@@ -155,23 +155,28 @@
     "paires": [
       {
         "gauche": "Le Cri",
-        "droite": "Edvard Munch"
+        "droite": "Edvard Munch",
+        "explication": "Le peintre norvégien a peint ce symbole de l'angoisse moderne en 1893, en plusieurs versions."
       },
       {
         "gauche": "La Naissance de Vénus",
-        "droite": "Botticelli"
+        "droite": "Botticelli",
+        "explication": "Vers 1485 à Florence, Botticelli montre la déesse arrivant sur le rivage debout sur une coquille."
       },
       {
         "gauche": "Le Radeau de La Méduse",
-        "droite": "Géricault"
+        "droite": "Géricault",
+        "explication": "Géricault peint en 1819 les naufragés d'un vrai drame maritime, une toile de plus de 7 m de large."
       },
       {
         "gauche": "La Grande Vague de Kanagawa",
-        "droite": "Hokusai"
+        "droite": "Hokusai",
+        "explication": "Estampe japonaise d'environ 1831, tirée à des milliers d'exemplaires, qui a inspiré Monet et Van Gogh."
       },
       {
         "gauche": "La Persistance de la mémoire",
-        "droite": "Salvador Dalí"
+        "droite": "Salvador Dalí",
+        "explication": "Les célèbres montres molles du peintre surréaliste espagnol datent de 1931."
       }
     ],
     "explication": "Cinq chefs-d'œuvre de cinq époques.",
@@ -391,19 +396,23 @@
     "paires": [
       {
         "gauche": "Frida Kahlo",
-        "droite": "Mexique"
+        "droite": "Mexique",
+        "explication": "Frida Kahlo a vécu à Mexico, dans la Casa Azul ; son œuvre mêle culture populaire mexicaine et autoportraits."
       },
       {
         "gauche": "Edvard Munch",
-        "droite": "Norvège"
+        "droite": "Norvège",
+        "explication": "Edvard Munch est le grand peintre norvégien, auteur du Cri."
       },
       {
         "gauche": "Hokusai",
-        "droite": "Japon"
+        "droite": "Japon",
+        "explication": "Hokusai est un maître japonais de l'estampe de l'époque d'Edo."
       },
       {
         "gauche": "Picasso",
-        "droite": "Espagne"
+        "droite": "Espagne",
+        "explication": "Picasso est né à Malaga, en Espagne, même s'il a passé l'essentiel de sa vie en France."
       }
     ],
     "explication": "Quatre pays, quatre artistes majeurs.",

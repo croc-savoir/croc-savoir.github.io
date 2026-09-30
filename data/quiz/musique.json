@@ -7,19 +7,23 @@
     "paires": [
       {
         "gauche": "Johann Sebastian Bach",
-        "droite": "Baroque"
+        "droite": "Baroque",
+        "explication": "Bach (1685-1750) est le maître du baroque et du contrepoint."
       },
       {
         "gauche": "Wolfgang Amadeus Mozart",
-        "droite": "Classicisme"
+        "droite": "Classicisme",
+        "explication": "Mozart (1756-1791) incarne le classicisme viennois, avec Haydn et le jeune Beethoven."
       },
       {
         "gauche": "Frédéric Chopin",
-        "droite": "Romantisme"
+        "droite": "Romantisme",
+        "explication": "Chopin (1810-1849), poète du piano, est une figure du romantisme."
       },
       {
         "gauche": "Claude Debussy",
-        "droite": "Impressionnisme"
+        "droite": "Impressionnisme",
+        "explication": "Debussy (1862-1918) invente des couleurs sonores souvent rapprochées de l'impressionnisme en peinture."
       }
     ],
     "explication": "Chaque compositeur est associé à la période musicale dans laquelle il a principalement composé.",
@@ -135,23 +139,28 @@
     "paires": [
       {
         "gauche": "Boléro",
-        "droite": "Ravel"
+        "droite": "Ravel",
+        "explication": "Ravel compose en 1928 ce crescendo de 15 minutes sur un seul rythme de caisse claire."
       },
       {
         "gauche": "Les Quatre Saisons",
-        "droite": "Vivaldi"
+        "droite": "Vivaldi",
+        "explication": "Vivaldi compose vers 1725 ces quatre concertos pour violon qui décrivent les saisons."
       },
       {
         "gauche": "La Traviata",
-        "droite": "Verdi"
+        "droite": "Verdi",
+        "explication": "Verdi crée La Traviata en 1853, l'un des opéras les plus joués au monde."
       },
       {
         "gauche": "Casse-Noisette",
-        "droite": "Tchaïkovski"
+        "droite": "Tchaïkovski",
+        "explication": "Tchaïkovski compose ce ballet de Noël en 1892, avec la Danse de la fée Dragée."
       },
       {
         "gauche": "Prélude à l'après-midi d'un faune",
-        "droite": "Debussy"
+        "droite": "Debussy",
+        "explication": "Debussy écrit en 1894 cette œuvre souvent vue comme le début de la musique moderne."
       }
     ],
     "explication": "Cinq œuvres emblématiques.",
@@ -372,19 +381,23 @@
     "paires": [
       {
         "gauche": "Violoncelle",
-        "droite": "Cordes"
+        "droite": "Cordes",
+        "explication": "Le violoncelle fait vibrer ses cordes avec un archet : c'est un instrument à cordes frottées."
       },
       {
         "gauche": "Clarinette",
-        "droite": "Bois"
+        "droite": "Bois",
+        "explication": "La clarinette est un bois, car le son vient d'une anche en roseau qui vibre."
       },
       {
         "gauche": "Trombone",
-        "droite": "Cuivres"
+        "droite": "Cuivres",
+        "explication": "Le trombone est un cuivre : le son vient de la vibration des lèvres dans l'embouchure."
       },
       {
         "gauche": "Timbales",
-        "droite": "Percussions"
+        "droite": "Percussions",
+        "explication": "Les timbales sont des percussions, accordées en tendant plus ou moins leur peau."
       }
     ],
     "explication": "Les quatre familles de l'orchestre symphonique.",

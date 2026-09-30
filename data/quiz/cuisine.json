@@ -31,15 +31,18 @@
     "paires": [
       {
         "gauche": "Auguste Escoffier",
-        "droite": "Codification de la cuisine française classique"
+        "droite": "Codification de la cuisine française classique",
+        "explication": "Escoffier a organisé la brigade de cuisine et fixé les sauces mères dans son Guide culinaire (1903)."
       },
       {
         "gauche": "Julia Child",
-        "droite": "Popularisation de la cuisine française aux États-Unis"
+        "droite": "Popularisation de la cuisine française aux États-Unis",
+        "explication": "Par son livre et son émission de télévision des années 1960, Julia Child a fait découvrir la cuisine française aux Américains."
       },
       {
         "gauche": "Paul Bocuse",
-        "droite": "Figure de la nouvelle cuisine française"
+        "droite": "Figure de la nouvelle cuisine française",
+        "explication": "Bocuse, trois étoiles pendant plus de 50 ans près de Lyon, a été l'une des figures de la nouvelle cuisine des années 1970."
       }
     ],
     "explication": "Chacun a marqué la gastronomie à sa manière, à des époques différentes.",
@@ -136,23 +139,28 @@
     "paires": [
       {
         "gauche": "Bouillabaisse",
-        "droite": "Marseille"
+        "droite": "Marseille",
+        "explication": "Soupe de poissons de roche marseillaise, servie avec rouille et croûtons."
       },
       {
         "gauche": "Choucroute",
-        "droite": "Alsace"
+        "droite": "Alsace",
+        "explication": "Chou fermenté accompagné de charcuteries, emblème de la cuisine alsacienne."
       },
       {
         "gauche": "Cassoulet",
-        "droite": "Occitanie"
+        "droite": "Occitanie",
+        "explication": "Mijoté de haricots blancs et de confit de canard, que se disputent Castelnaudary, Carcassonne et Toulouse."
       },
       {
         "gauche": "Tartiflette",
-        "droite": "Savoie"
+        "droite": "Savoie",
+        "explication": "Pommes de terre, reblochon, lardons et oignons : un plat savoyard popularisé dans les années 1980."
       },
       {
         "gauche": "Kouign-amann",
-        "droite": "Bretagne"
+        "droite": "Bretagne",
+        "explication": "« Gâteau au beurre » en breton, spécialité de Douarnenez."
       }
     ],
     "explication": "Chaque région a ses spécialités.",
@@ -342,19 +350,23 @@
     "paires": [
       {
         "gauche": "Shoyu",
-        "droite": "Sauce soja"
+        "droite": "Sauce soja",
+        "explication": "Le shoyu est un bouillon assaisonné à la sauce soja, le style le plus classique à Tokyo."
       },
       {
         "gauche": "Miso",
-        "droite": "Pâte de soja fermentée"
+        "droite": "Pâte de soja fermentée",
+        "explication": "Le ramen miso, à base de pâte de soja fermentée, est la spécialité de Sapporo."
       },
       {
         "gauche": "Shio",
-        "droite": "Sel"
+        "droite": "Sel",
+        "explication": "Le shio, simplement salé, donne le bouillon le plus clair et le plus léger."
       },
       {
         "gauche": "Tonkotsu",
-        "droite": "Os de porc"
+        "droite": "Os de porc",
+        "explication": "Le tonkotsu est un bouillon laiteux d'os de porc cuits pendant des heures, spécialité de Fukuoka."
       }
     ],
     "explication": "Les quatre grands styles de ramen.",

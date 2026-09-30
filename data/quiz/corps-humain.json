@@ -31,19 +31,23 @@
     "paires": [
       {
         "gauche": "Cœur",
-        "droite": "Pomper le sang dans tout le corps"
+        "droite": "Pomper le sang dans tout le corps",
+        "explication": "Le cœur bat environ 100 000 fois par jour et envoie le sang dans tout l'organisme."
       },
       {
         "gauche": "Poumons",
-        "droite": "Échanger oxygène et dioxyde de carbone"
+        "droite": "Échanger oxygène et dioxyde de carbone",
+        "explication": "Dans les alvéoles pulmonaires, l'oxygène passe dans le sang et le CO₂ en sort."
       },
       {
         "gauche": "Intestin grêle",
-        "droite": "Absorber l'essentiel des nutriments"
+        "droite": "Absorber l'essentiel des nutriments",
+        "explication": "Grâce à ses replis, l'intestin grêle offre environ 200 m² de surface d'absorption."
       },
       {
         "gauche": "Cristallin",
-        "droite": "Faire converger la lumière vers la rétine"
+        "droite": "Faire converger la lumière vers la rétine",
+        "explication": "Cette lentille de l'œil change de forme pour faire la mise au point sur la rétine."
       }
     ],
     "explication": "Chaque organe assure une fonction spécialisée essentielle au fonctionnement global du corps.",
@@ -163,23 +167,28 @@
     "paires": [
       {
         "gauche": "Reins",
-        "droite": "Filtrer le sang"
+        "droite": "Filtrer le sang",
+        "explication": "Les reins filtrent environ 180 litres de sang par jour pour produire environ 1,5 litre d'urine."
       },
       {
         "gauche": "Poumons",
-        "droite": "Échanges d'oxygène et de CO₂"
+        "droite": "Échanges d'oxygène et de CO₂",
+        "explication": "Les poumons assurent les échanges gazeux dans leurs quelque 480 millions d'alvéoles."
       },
       {
         "gauche": "Pancréas",
-        "droite": "Produire l'insuline"
+        "droite": "Produire l'insuline",
+        "explication": "Le pancréas sécrète l'insuline, qui fait baisser le taux de sucre dans le sang."
       },
       {
         "gauche": "Cochlée",
-        "droite": "Audition"
+        "droite": "Audition",
+        "explication": "La cochlée, en forme d'escargot, transforme les vibrations sonores en influx nerveux."
       },
       {
         "gauche": "Moelle osseuse",
-        "droite": "Produire les cellules du sang"
+        "droite": "Produire les cellules du sang",
+        "explication": "La moelle osseuse, à l'intérieur des os, fabrique globules rouges, globules blancs et plaquettes."
       }
     ],
     "explication": "Chaque organe a une ou plusieurs fonctions vitales.",

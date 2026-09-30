@@ -46,15 +46,18 @@
     "paires": [
       {
         "gauche": "Adam Smith",
-        "droite": "La main invisible du marché"
+        "droite": "La main invisible du marché",
+        "explication": "Pour Smith (1776), en poursuivant son propre intérêt, chacun contribue sans le vouloir à la richesse de tous."
       },
       {
         "gauche": "John Maynard Keynes",
-        "droite": "La relance par la dépense publique"
+        "droite": "La relance par la dépense publique",
+        "explication": "Face au chômage de masse des années 1930, Keynes défend l'intervention de l'État pour relancer l'économie."
       },
       {
         "gauche": "Milton Friedman",
-        "droite": "Le contrôle de la masse monétaire"
+        "droite": "Le contrôle de la masse monétaire",
+        "explication": "Pour Friedman, l'inflation vient d'une création trop rapide de monnaie : la banque centrale doit la maîtriser."
       }
     ],
     "explication": "Ces trois économistes incarnent des courants différents : le libéralisme classique, l'interventionnisme keynésien et le monétarisme.",
@@ -205,19 +208,23 @@
     "paires": [
       {
         "gauche": "Monopole",
-        "droite": "Un seul vendeur"
+        "droite": "Un seul vendeur",
+        "explication": "Une seule entreprise fournit le marché et peut donc fixer ses prix, comme EDF autrefois pour l'électricité."
       },
       {
         "gauche": "Oligopole",
-        "droite": "Quelques vendeurs dominants"
+        "droite": "Quelques vendeurs dominants",
+        "explication": "Quelques grandes entreprises se partagent le marché, comme Airbus et Boeing ou les opérateurs téléphoniques."
       },
       {
         "gauche": "Monopsone",
-        "droite": "Un seul acheteur"
+        "droite": "Un seul acheteur",
+        "explication": "L'inverse du monopole : un seul acheteur face à de nombreux vendeurs, qui peut imposer ses conditions."
       },
       {
         "gauche": "Cartel",
-        "droite": "Entente illégale sur les prix"
+        "droite": "Entente illégale sur les prix",
+        "explication": "Des concurrents s'entendent en secret sur les prix ou les quantités, ce qui est interdit et sanctionné."
       }
     ],
     "explication": "Quatre structures de marché.",
@@ -414,23 +421,28 @@
     "paires": [
       {
         "gauche": "Adam Smith",
-        "droite": "Main invisible"
+        "droite": "Main invisible",
+        "explication": "Selon Smith, l'intérêt personnel de chacun, guidé par le marché, profite à tous « comme par une main invisible »."
       },
       {
         "gauche": "Keynes",
-        "droite": "Relance par la demande"
+        "droite": "Relance par la demande",
+        "explication": "Keynes (1936) : quand la demande est trop faible, l'État doit dépenser pour relancer l'activité et l'emploi."
       },
       {
         "gauche": "Friedman",
-        "droite": "Monétarisme"
+        "droite": "Monétarisme",
+        "explication": "Friedman (école de Chicago) : l'inflation est toujours un phénomène monétaire, il faut contrôler la masse monétaire."
       },
       {
         "gauche": "Ricardo",
-        "droite": "Avantages comparatifs"
+        "droite": "Avantages comparatifs",
+        "explication": "Ricardo (1817) : deux pays gagnent à se spécialiser dans ce qu'ils font relativement le mieux, puis à échanger."
       },
       {
         "gauche": "Schumpeter",
-        "droite": "Destruction créatrice"
+        "droite": "Destruction créatrice",
+        "explication": "Schumpeter : les innovations détruisent les anciennes activités tout en en créant de nouvelles, moteur du capitalisme."
       }
     ],
     "explication": "Cinq idées fondatrices de la pensée économique.",

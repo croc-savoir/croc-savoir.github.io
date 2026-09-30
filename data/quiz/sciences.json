@@ -31,19 +31,23 @@
     "paires": [
       {
         "gauche": "Charles Darwin",
-        "droite": "Théorie de l'évolution par sélection naturelle"
+        "droite": "Théorie de l'évolution par sélection naturelle",
+        "explication": "Dans L'Origine des espèces (1859), Darwin explique comment les espèces évoluent par sélection naturelle."
       },
       {
         "gauche": "Louis Pasteur",
-        "droite": "Vaccination et pasteurisation"
+        "droite": "Vaccination et pasteurisation",
+        "explication": "Pasteur invente la pasteurisation et met au point des vaccins, dont celui contre la rage (1885)."
       },
       {
         "gauche": "Antoine Lavoisier",
-        "droite": "Loi de conservation de la masse"
+        "droite": "Loi de conservation de la masse",
+        "explication": "Lavoisier montre grâce à des pesées que « rien ne se perd, rien ne se crée, tout se transforme »."
       },
       {
         "gauche": "Marie Curie",
-        "droite": "Découverte de la radioactivité du radium et du polonium"
+        "droite": "Découverte de la radioactivité du radium et du polonium",
+        "explication": "Avec Pierre Curie, Marie Curie découvre le polonium et le radium en 1898 ; elle obtient deux prix Nobel."
       }
     ],
     "explication": "Quatre contributions majeures qui ont chacune fondé un pan entier de la science moderne : biologie évolutive, microbiologie, chimie et physique nucléaire.",
@@ -150,23 +154,28 @@
     "paires": [
       {
         "gauche": "Newton",
-        "droite": "Gravitation universelle"
+        "droite": "Gravitation universelle",
+        "explication": "Newton explique en 1687 que la même force fait tomber une pomme et retient la Lune."
       },
       {
         "gauche": "Darwin",
-        "droite": "Sélection naturelle"
+        "droite": "Sélection naturelle",
+        "explication": "Darwin montre que les individus les mieux adaptés survivent et transmettent leurs traits."
       },
       {
         "gauche": "Lavoisier",
-        "droite": "Conservation de la masse"
+        "droite": "Conservation de la masse",
+        "explication": "Lavoisier prouve que la masse totale ne change pas pendant une réaction chimique."
       },
       {
         "gauche": "Pasteur",
-        "droite": "Vaccin contre la rage"
+        "droite": "Vaccin contre la rage",
+        "explication": "Pasteur vaccine le jeune Joseph Meister contre la rage en 1885."
       },
       {
         "gauche": "Mendeleïev",
-        "droite": "Tableau périodique"
+        "droite": "Tableau périodique",
+        "explication": "Mendeleïev range les éléments en 1869 en laissant des cases pour ceux qui restaient à découvrir."
       }
     ],
     "explication": "Cinq piliers de l'histoire des sciences.",
@@ -402,19 +411,23 @@
     "paires": [
       {
         "gauche": "Suc gastrique",
-        "droite": "≈ 2"
+        "droite": "≈ 2",
+        "explication": "Très acide : l'acide chlorhydrique de l'estomac aide à digérer et tue de nombreux microbes."
       },
       {
         "gauche": "Eau pure",
-        "droite": "7"
+        "droite": "7",
+        "explication": "L'eau pure est neutre, pile au milieu de l'échelle de 0 à 14."
       },
       {
         "gauche": "Sang",
-        "droite": "≈ 7,4"
+        "droite": "≈ 7,4",
+        "explication": "Le sang est légèrement basique et reste toujours entre 7,35 et 7,45 ; au-delà, c'est dangereux."
       },
       {
         "gauche": "Eau de Javel",
-        "droite": "≈ 12"
+        "droite": "≈ 12",
+        "explication": "L'eau de Javel est très basique, d'où son pouvoir corrosif et désinfectant."
       }
     ],
     "explication": "Plus le pH est bas, plus c'est acide ; plus il est haut, plus c'est basique.",

@@ -927,3 +927,15 @@ body::before {
 }
 .home-card__badge[hidden] { display: none; }
 .home-card { position: relative; }
+
+/* Questions « associer » : paires finales et explications par paire */
+.pair-board.is-final .pair-item.is-matched { opacity: 1; }
+.pair-board.is-final .pair-col:first-child .pair-item { border-right-width: 3px; }
+.pair-explain { list-style: none; margin: 12px 0 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+.pair-explain li {
+  display: flex; flex-direction: column; gap: 3px;
+  padding: 11px 13px; border-radius: var(--radius-sm);
+  background: var(--bg-elevated); border-left: 3px solid var(--accent);
+  font-size: 14px; line-height: 1.5; color: var(--text-muted);
+}
+.pair-explain strong { color: var(--text); font-size: 14px; }

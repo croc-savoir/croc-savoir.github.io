@@ -31,19 +31,23 @@
     "paires": [
       {
         "gauche": "Toundra",
-        "droite": "Sol gelé en profondeur (permafrost)"
+        "droite": "Sol gelé en profondeur (permafrost)",
+        "explication": "Sous la toundra, le sol reste gelé toute l'année ; seule une fine couche dégèle l'été."
       },
       {
         "gauche": "Savane",
-        "droite": "Alternance marquée saison sèche / saison des pluies"
+        "droite": "Alternance marquée saison sèche / saison des pluies",
+        "explication": "La savane alterne longue saison sèche et saison des pluies, ce qui empêche la forêt de s'installer."
       },
       {
         "gauche": "Mangrove",
-        "droite": "Forêt littorale adaptée à l'eau salée"
+        "droite": "Forêt littorale adaptée à l'eau salée",
+        "explication": "Les palétuviers de la mangrove poussent dans l'eau salée des côtes tropicales, entre terre et mer."
       },
       {
         "gauche": "Forêt tropicale humide",
-        "droite": "Structure en plusieurs étages de végétation"
+        "droite": "Structure en plusieurs étages de végétation",
+        "explication": "La forêt tropicale s'organise en étages : sol, sous-bois, canopée et arbres émergents."
       }
     ],
     "explication": "Chaque biome se caractérise par des conditions climatiques et une végétation adaptée bien spécifiques.",
@@ -179,19 +183,23 @@
     "paires": [
       {
         "gauche": "Cactus",
-        "droite": "Épines à la place des feuilles"
+        "droite": "Épines à la place des feuilles",
+        "explication": "Les épines sont des feuilles transformées qui limitent l'évaporation ; c'est la tige qui fait la photosynthèse."
       },
       {
         "gauche": "Palétuvier",
-        "droite": "Racines-échasses dans la vase salée"
+        "droite": "Racines-échasses dans la vase salée",
+        "explication": "Ses racines-échasses le stabilisent dans la vase salée et l'aident à respirer à marée basse."
       },
       {
         "gauche": "Dionée",
-        "droite": "Piège à mâchoires"
+        "droite": "Piège à mâchoires",
+        "explication": "Ses feuilles se referment en une fraction de seconde sur l'insecte qui touche deux fois ses poils sensibles."
       },
       {
         "gauche": "Séquoia géant",
-        "droite": "Écorce épaisse contre le feu"
+        "droite": "Écorce épaisse contre le feu",
+        "explication": "Son écorce spongieuse, jusqu'à 60 cm d'épaisseur, le protège des incendies de forêt."
       }
     ],
     "explication": "Chaque plante est adaptée aux contraintes de son milieu.",
@@ -358,19 +366,23 @@
     "paires": [
       {
         "gauche": "Toundra",
-        "droite": "Pergélisol"
+        "droite": "Pergélisol",
+        "explication": "Le pergélisol, sol gelé en permanence, empêche les arbres de s'enraciner dans la toundra."
       },
       {
         "gauche": "Savane",
-        "droite": "Herbes et arbres épars"
+        "droite": "Herbes et arbres épars",
+        "explication": "Dans la savane, de grandes herbes sont parsemées d'arbres isolés comme l'acacia ou le baobab."
       },
       {
         "gauche": "Forêt tropicale",
-        "droite": "Canopée"
+        "droite": "Canopée",
+        "explication": "La canopée, à 30-45 m de haut, abrite l'essentiel de la vie de la forêt tropicale."
       },
       {
         "gauche": "Mangrove",
-        "droite": "Eau salée et marées"
+        "droite": "Eau salée et marées",
+        "explication": "La mangrove est inondée par les marées ; ses arbres supportent le sel."
       }
     ],
     "explication": "Quatre grands milieux naturels et leur signature.",

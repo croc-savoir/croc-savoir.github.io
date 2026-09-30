@@ -195,19 +195,23 @@
     "paires": [
       {
         "gauche": "Périclès",
-        "droite": "Athènes, Ve s. av. J.-C."
+        "droite": "Athènes, Ve s. av. J.-C.",
+        "explication": "Périclès dirige Athènes à son apogée au Ve siècle av. J.-C. et fait construire le Parthénon."
       },
       {
         "gauche": "Charlemagne",
-        "droite": "Empire carolingien"
+        "droite": "Empire carolingien",
+        "explication": "Couronné empereur en 800, Charlemagne règne sur l'Empire carolingien, qui porte son nom (Carolus en latin)."
       },
       {
         "gauche": "Louis XIV",
-        "droite": "Versailles"
+        "droite": "Versailles",
+        "explication": "Louis XIV installe la cour à Versailles en 1682, vitrine de la monarchie absolue."
       },
       {
         "gauche": "Lénine",
-        "droite": "Révolution russe"
+        "droite": "Révolution russe",
+        "explication": "Lénine mène les bolcheviks au pouvoir lors de la révolution d'Octobre 1917."
       }
     ],
     "explication": "Quatre grandes figures de quatre périodes différentes.",
@@ -374,15 +378,18 @@
     "paires": [
       {
         "gauche": "Omaha",
-        "droite": "Américains"
+        "droite": "Américains",
+        "explication": "Omaha Beach, la plage la plus meurtrière du 6 juin 1944, a été attaquée par les Américains (avec Utah Beach)."
       },
       {
         "gauche": "Juno",
-        "droite": "Canadiens"
+        "droite": "Canadiens",
+        "explication": "Les Canadiens ont débarqué à Juno Beach, entre les deux plages britanniques."
       },
       {
         "gauche": "Gold",
-        "droite": "Britanniques"
+        "droite": "Britanniques",
+        "explication": "Les Britanniques ont pris Gold Beach (et Sword Beach)."
       }
     ],
     "explication": "Utah et Omaha pour les Américains, Gold et Sword pour les Britanniques, Juno pour les Canadiens.",

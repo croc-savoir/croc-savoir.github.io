@@ -134,23 +134,28 @@
     "paires": [
       {
         "gauche": "Le Parrain",
-        "droite": "Francis Ford Coppola"
+        "droite": "Francis Ford Coppola",
+        "explication": "Coppola a réalisé la saga mafieuse des Corleone en 1972, avec Marlon Brando et Al Pacino."
       },
       {
         "gauche": "2001 : l'Odyssée de l'espace",
-        "droite": "Stanley Kubrick"
+        "droite": "Stanley Kubrick",
+        "explication": "Kubrick signe en 1968 ce film de science-fiction avec l'ordinateur HAL 9000."
       },
       {
         "gauche": "Le Voyage de Chihiro",
-        "droite": "Hayao Miyazaki"
+        "droite": "Hayao Miyazaki",
+        "explication": "Le chef-d'œuvre de Miyazaki et du Studio Ghibli, Oscar du meilleur film d'animation en 2003."
       },
       {
         "gauche": "Psychose",
-        "droite": "Alfred Hitchcock"
+        "droite": "Alfred Hitchcock",
+        "explication": "Le maître du suspense signe en 1960 ce thriller et sa célèbre scène de la douche."
       },
       {
         "gauche": "Les Dents de la mer",
-        "droite": "Steven Spielberg"
+        "droite": "Steven Spielberg",
+        "explication": "En 1975, Spielberg invente le blockbuster d'été avec son requin mécanique."
       }
     ],
     "explication": "Cinq classiques, cinq maîtres.",
@@ -386,15 +391,18 @@
     "paires": [
       {
         "gauche": "Cannes",
-        "droite": "Palme d'or"
+        "droite": "Palme d'or",
+        "explication": "Le Festival de Cannes, en mai, décerne la Palme d'or depuis 1955."
       },
       {
         "gauche": "Venise",
-        "droite": "Lion d'or"
+        "droite": "Lion d'or",
+        "explication": "La Mostra de Venise, le plus ancien festival (1932), récompense par le Lion d'or, emblème de la ville."
       },
       {
         "gauche": "Berlin",
-        "droite": "Ours d'or"
+        "droite": "Ours d'or",
+        "explication": "La Berlinale décerne l'Ours d'or : l'ours est le symbole de Berlin."
       }
     ],
     "explication": "Les trois grands festivals européens.",

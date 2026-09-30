@@ -31,19 +31,23 @@
     "paires": [
       {
         "gauche": "Akira Toriyama",
-        "droite": "Dragon Ball"
+        "droite": "Dragon Ball",
+        "explication": "Toriyama publie Dragon Ball de 1984 à 1995 ; il a aussi dessiné les personnages de Dragon Quest."
       },
       {
         "gauche": "Eiichiro Oda",
-        "droite": "One Piece"
+        "droite": "One Piece",
+        "explication": "Oda publie One Piece depuis 1997, la BD la plus vendue au monde par un seul auteur."
       },
       {
         "gauche": "Naoko Takeuchi",
-        "droite": "Sailor Moon"
+        "droite": "Sailor Moon",
+        "explication": "Takeuchi crée Sailor Moon (1991), qui a marqué une génération de magical girls."
       },
       {
         "gauche": "Hajime Isayama",
-        "droite": "L'Attaque des Titans"
+        "droite": "L'Attaque des Titans",
+        "explication": "Isayama publie L'Attaque des Titans de 2009 à 2021, après un refus du Weekly Shōnen Jump."
       }
     ],
     "explication": "Chacun de ces auteurs a créé une série devenue emblématique du manga japonais.",
@@ -195,23 +199,28 @@
     "paires": [
       {
         "gauche": "Naruto",
-        "droite": "Masashi Kishimoto"
+        "droite": "Masashi Kishimoto",
+        "explication": "Masashi Kishimoto publie Naruto de 1999 à 2014, l'histoire d'un jeune ninja qui rêve de devenir Hokage."
       },
       {
         "gauche": "L'Attaque des Titans",
-        "droite": "Hajime Isayama"
+        "droite": "Hajime Isayama",
+        "explication": "Hajime Isayama imagine l'humanité retranchée derrière des murs face aux Titans."
       },
       {
         "gauche": "Dragon Ball",
-        "droite": "Akira Toriyama"
+        "droite": "Akira Toriyama",
+        "explication": "Akira Toriyama crée Son Goku et les boules de cristal en 1984."
       },
       {
         "gauche": "One Piece",
-        "droite": "Eiichiro Oda"
+        "droite": "Eiichiro Oda",
+        "explication": "Eiichiro Oda raconte depuis 1997 les aventures de Luffy et de l'équipage au Chapeau de paille."
       },
       {
         "gauche": "Sailor Moon",
-        "droite": "Naoko Takeuchi"
+        "droite": "Naoko Takeuchi",
+        "explication": "Naoko Takeuchi crée Usagi Tsukino et les guerrières Sailor en 1991."
       }
     ],
     "explication": "Cinq piliers du manga.",
@@ -447,19 +456,23 @@
     "paires": [
       {
         "gauche": "Shōnen",
-        "droite": "Jeunes garçons"
+        "droite": "Jeunes garçons",
+        "explication": "Shōnen (« jeune garçon ») : publics adolescents masculins, avec les valeurs amitié, effort, victoire."
       },
       {
         "gauche": "Shōjo",
-        "droite": "Jeunes filles"
+        "droite": "Jeunes filles",
+        "explication": "Shōjo (« jeune fille ») : récits centrés sur les sentiments et les relations, comme Nana ou Fruits Basket."
       },
       {
         "gauche": "Seinen",
-        "droite": "Hommes adultes"
+        "droite": "Hommes adultes",
+        "explication": "Seinen : jeunes hommes adultes, thèmes plus complexes ou violents, comme Berserk ou Monster."
       },
       {
         "gauche": "Josei",
-        "droite": "Femmes adultes"
+        "droite": "Femmes adultes",
+        "explication": "Josei : femmes adultes, récits souvent plus réalistes sur la vie professionnelle et amoureuse."
       }
     ],
     "explication": "Les catégories éditoriales japonaises.",

@@ -57,19 +57,23 @@
     "paires": [
       {
         "gauche": "Nelson Mandela",
-        "droite": "La fin de l'apartheid en Afrique du Sud"
+        "droite": "La fin de l'apartheid en Afrique du Sud",
+        "explication": "Après 27 ans de prison, Mandela devient en 1994 le premier président noir d'Afrique du Sud."
       },
       {
         "gauche": "Simone Veil",
-        "droite": "La légalisation de l'IVG en France"
+        "droite": "La légalisation de l'IVG en France",
+        "explication": "Ministre de la Santé, Simone Veil fait voter en 1975 la loi dépénalisant l'avortement."
       },
       {
         "gauche": "Mahatma Gandhi",
-        "droite": "La résistance non-violente"
+        "droite": "La résistance non-violente",
+        "explication": "Gandhi a mené l'Inde vers l'indépendance par la désobéissance civile non violente."
       },
       {
         "gauche": "Winston Churchill",
-        "droite": "La résistance britannique face au nazisme"
+        "droite": "La résistance britannique face au nazisme",
+        "explication": "Premier ministre en mai 1940, Churchill refuse de négocier avec Hitler et soude le Royaume-Uni."
       }
     ],
     "explication": "Ces figures du 20e siècle ont chacune marqué durablement l'histoire politique de leur pays et du monde.",
@@ -181,15 +185,18 @@
     "paires": [
       {
         "gauche": "Commune",
-        "droite": "Écoles primaires"
+        "droite": "Écoles primaires",
+        "explication": "La commune gère les écoles maternelles et élémentaires, l'état civil et l'urbanisme."
       },
       {
         "gauche": "Département",
-        "droite": "Collèges et RSA"
+        "droite": "Collèges et RSA",
+        "explication": "Le département gère les collèges et l'action sociale, dont le RSA et l'aide aux personnes âgées."
       },
       {
         "gauche": "Région",
-        "droite": "Lycées et TER"
+        "droite": "Lycées et TER",
+        "explication": "La région gère les lycées, les trains régionaux (TER) et le développement économique."
       }
     ],
     "explication": "La décentralisation répartit les compétences entre les niveaux.",
@@ -380,15 +387,18 @@
     "paires": [
       {
         "gauche": "Majoritaire à deux tours",
-        "droite": "Élections législatives"
+        "droite": "Élections législatives",
+        "explication": "Les 577 députés sont élus dans des circonscriptions au scrutin majoritaire à deux tours."
       },
       {
         "gauche": "Proportionnel",
-        "droite": "Élections européennes"
+        "droite": "Élections européennes",
+        "explication": "Pour les européennes, les sièges sont répartis à la proportionnelle des voix obtenues par chaque liste."
       },
       {
         "gauche": "Suffrage indirect",
-        "droite": "Élections sénatoriales"
+        "droite": "Élections sénatoriales",
+        "explication": "Les sénateurs sont élus par environ 160 000 grands électeurs, surtout des élus locaux."
       }
     ],
     "explication": "Chaque élection a ses règles.",

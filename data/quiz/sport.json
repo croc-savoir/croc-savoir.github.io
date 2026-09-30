@@ -31,19 +31,23 @@
     "paires": [
       {
         "gauche": "Usain Bolt",
-        "droite": "Sprint (athlétisme)"
+        "droite": "Sprint (athlétisme)",
+        "explication": "Usain Bolt détient les records du monde du 100 m (9,58 s) et du 200 m (19,19 s)."
       },
       {
         "gauche": "Eddy Merckx",
-        "droite": "Cyclisme"
+        "droite": "Cyclisme",
+        "explication": "Eddy Merckx, « le Cannibale », a gagné 5 Tours de France et plus de 500 courses."
       },
       {
         "gauche": "Serena Williams",
-        "droite": "Tennis"
+        "droite": "Tennis",
+        "explication": "Serena Williams a remporté 23 titres du Grand Chelem en simple."
       },
       {
         "gauche": "Simone Biles",
-        "droite": "Gymnastique"
+        "droite": "Gymnastique",
+        "explication": "Simone Biles est la gymnaste la plus titrée de l'histoire."
       }
     ],
     "explication": "Chacun de ces athlètes est une référence historique de sa discipline.",
@@ -195,23 +199,28 @@
     "paires": [
       {
         "gauche": "Teddy Riner",
-        "droite": "Judo"
+        "droite": "Judo",
+        "explication": "Teddy Riner compte 11 titres mondiaux et 5 médailles d'or olympiques en judo."
       },
       {
         "gauche": "Muhammad Ali",
-        "droite": "Boxe"
+        "droite": "Boxe",
+        "explication": "Muhammad Ali a été trois fois champion du monde des poids lourds."
       },
       {
         "gauche": "Eddy Merckx",
-        "droite": "Cyclisme"
+        "droite": "Cyclisme",
+        "explication": "Eddy Merckx a gagné les trois grands tours cyclistes et 3 championnats du monde."
       },
       {
         "gauche": "Simone Biles",
-        "droite": "Gymnastique"
+        "droite": "Gymnastique",
+        "explication": "Simone Biles a plusieurs figures de gymnastique qui portent son nom."
       },
       {
         "gauche": "Martin Fourcade",
-        "droite": "Biathlon"
+        "droite": "Biathlon",
+        "explication": "Martin Fourcade est le Français le plus titré des Jeux d'hiver, avec 5 médailles d'or en biathlon."
       }
     ],
     "explication": "Cinq légendes de cinq disciplines.",
@@ -417,15 +426,18 @@
     "paires": [
       {
         "gauche": "Roland-Garros",
-        "droite": "Terre battue"
+        "droite": "Terre battue",
+        "explication": "La terre battue ocre de Roland-Garros ralentit la balle et favorise les longs échanges."
       },
       {
         "gauche": "Wimbledon",
-        "droite": "Gazon"
+        "droite": "Gazon",
+        "explication": "Wimbledon se joue sur gazon, la surface la plus rapide, avec une tenue presque entièrement blanche."
       },
       {
         "gauche": "US Open",
-        "droite": "Dur"
+        "droite": "Dur",
+        "explication": "L'US Open se joue sur dur, comme l'Open d'Australie."
       }
     ],
     "explication": "L'Open d'Australie se joue aussi sur dur.",

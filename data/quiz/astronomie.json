@@ -209,19 +209,23 @@
     "paires": [
       {
         "gauche": "Titan",
-        "droite": "Saturne"
+        "droite": "Saturne",
+        "explication": "Titan, plus grande que Mercure, a une atmosphère épaisse et des lacs de méthane."
       },
       {
         "gauche": "Europe",
-        "droite": "Jupiter"
+        "droite": "Jupiter",
+        "explication": "Europe cache un océan d'eau liquide sous sa croûte de glace."
       },
       {
         "gauche": "Phobos",
-        "droite": "Mars"
+        "droite": "Mars",
+        "explication": "Phobos (« peur ») et Deimos (« terreur ») sont les deux petites lunes de Mars, sans doute des astéroïdes capturés."
       },
       {
         "gauche": "Triton",
-        "droite": "Neptune"
+        "droite": "Neptune",
+        "explication": "Triton tourne à l'envers autour de Neptune et crache des geysers d'azote."
       }
     ],
     "explication": "Titan et Encelade tournent autour de Saturne ; Io, Europe, Ganymède et Callisto autour de Jupiter ; Phobos et Deimos autour de Mars.",

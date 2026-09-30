@@ -71,19 +71,23 @@
     "paires": [
       {
         "gauche": "Tigre de Sumatra",
-        "droite": "Île de Sumatra, Indonésie"
+        "droite": "Île de Sumatra, Indonésie",
+        "explication": "Le plus petit tigre du monde ne vit que sur cette île indonésienne, dont les forêts reculent devant les plantations de palmiers à huile."
       },
       {
         "gauche": "Gorille des montagnes",
-        "droite": "Massifs volcaniques d'Afrique centrale"
+        "droite": "Massifs volcaniques d'Afrique centrale",
+        "explication": "Il vit dans les forêts d'altitude des volcans Virunga (Rwanda, Ouganda, RD Congo) et de Bwindi, entre 2 500 et 4 000 m."
       },
       {
         "gauche": "Kakapo",
-        "droite": "Îles sanctuaires de Nouvelle-Zélande"
+        "droite": "Îles sanctuaires de Nouvelle-Zélande",
+        "explication": "Ce perroquet incapable de voler n'a survécu qu'en étant déplacé sur de petites îles débarrassées des chats et hermines introduits."
       },
       {
         "gauche": "Rhinocéros noir",
-        "droite": "Savanes d'Afrique de l'Est et australe"
+        "droite": "Savanes d'Afrique de l'Est et australe",
+        "explication": "Il vit dans les savanes et brousses d'Afrique de l'Est et australe, où il broute feuilles et branches grâce à sa lèvre pointue."
       }
     ],
     "explication": "Chacune de ces espèces menacées dépend d'un habitat très spécifique, ce qui la rend d'autant plus vulnérable à sa destruction.",
@@ -219,23 +223,28 @@
     "paires": [
       {
         "gauche": "Baleine bleue",
-        "droite": "Plus grand animal de tous les temps"
+        "droite": "Plus grand animal de tous les temps",
+        "explication": "Jusqu'à 30 m et 150 tonnes : plus lourde que n'importe quel dinosaure connu."
       },
       {
         "gauche": "Guépard",
-        "droite": "Plus rapide sur terre"
+        "droite": "Plus rapide sur terre",
+        "explication": "Il atteint environ 100 à 110 km/h en sprint, mais seulement sur quelques centaines de mètres."
       },
       {
         "gauche": "Colibri d'Elena",
-        "droite": "Plus petit oiseau"
+        "droite": "Plus petit oiseau",
+        "explication": "Il pèse environ 2 g et vit à Cuba ; il est à peine plus grand qu'une abeille."
       },
       {
         "gauche": "Sterne arctique",
-        "droite": "Plus longue migration"
+        "droite": "Plus longue migration",
+        "explication": "Elle fait chaque année l'aller-retour Arctique-Antarctique, environ 70 000 km."
       },
       {
         "gauche": "Éléphant",
-        "droite": "Plus longue gestation (~22 mois)"
+        "droite": "Plus longue gestation (~22 mois)",
+        "explication": "Environ 22 mois de gestation : le petit naît déjà gros d'une centaine de kilos."
       }
     ],
     "explication": "Cinq champions du règne animal.",
@@ -387,19 +396,23 @@
     "paires": [
       {
         "gauche": "Axolotl",
-        "droite": "Mexique"
+        "droite": "Mexique",
+        "explication": "Cette salamandre ne vit à l'état sauvage que dans les canaux de Xochimilco, près de Mexico."
       },
       {
         "gauche": "Kakapo",
-        "droite": "Nouvelle-Zélande"
+        "droite": "Nouvelle-Zélande",
+        "explication": "Ce perroquet nocturne est endémique de Nouvelle-Zélande ; il ne reste qu'environ 250 individus."
       },
       {
         "gauche": "Gorille des montagnes",
-        "droite": "Rwanda / Ouganda / RD Congo"
+        "droite": "Rwanda / Ouganda / RD Congo",
+        "explication": "Il vit uniquement dans les montagnes à la frontière de ces trois pays d'Afrique centrale."
       },
       {
         "gauche": "Tigre de Sumatra",
-        "droite": "Indonésie"
+        "droite": "Indonésie",
+        "explication": "Il ne vit que sur l'île de Sumatra, en Indonésie, où il en reste moins de 600."
       }
     ],
     "explication": "Beaucoup d'espèces menacées vivent dans une zone très réduite.",

@@ -22,19 +22,23 @@
     "paires": [
       {
         "gauche": "Japon",
-        "droite": "Tokyo"
+        "droite": "Tokyo",
+        "explication": "Tokyo, capitale du Japon, forme la plus grande agglomération du monde (environ 37 millions d'habitants)."
       },
       {
         "gauche": "Brésil",
-        "droite": "Brasilia"
+        "droite": "Brasilia",
+        "explication": "Brasília, ville nouvelle construite au centre du pays, a remplacé Rio de Janeiro comme capitale en 1960."
       },
       {
         "gauche": "Australie",
-        "droite": "Canberra"
+        "droite": "Canberra",
+        "explication": "Canberra a été créée comme compromis entre les deux grandes rivales, Sydney et Melbourne."
       },
       {
         "gauche": "Canada",
-        "droite": "Ottawa"
+        "droite": "Ottawa",
+        "explication": "Ottawa, à la frontière entre l'Ontario anglophone et le Québec francophone, et non Toronto ou Montréal."
       }
     ],
     "explication": "Attention aux pièges classiques : la capitale n'est pas toujours la ville la plus connue ou la plus peuplée (Sydney n'est pas la capitale de l'Australie, ni São Paulo celle du Brésil).",
@@ -141,23 +145,28 @@
     "paires": [
       {
         "gauche": "Canada",
-        "droite": "Ottawa"
+        "droite": "Ottawa",
+        "explication": "Ottawa, pas Toronto : la capitale a été choisie à la limite entre régions anglophone et francophone."
       },
       {
         "gauche": "Turquie",
-        "droite": "Ankara"
+        "droite": "Ankara",
+        "explication": "Ankara est la capitale depuis 1923, choisie par Atatürk ; Istanbul reste la plus grande ville."
       },
       {
         "gauche": "Brésil",
-        "droite": "Brasília"
+        "droite": "Brasília",
+        "explication": "Brasília a été inaugurée en 1960 au centre du pays, loin de Rio et São Paulo."
       },
       {
         "gauche": "Australie",
-        "droite": "Canberra"
+        "droite": "Canberra",
+        "explication": "Canberra, et non Sydney : une ville construite spécialement pour être capitale."
       },
       {
         "gauche": "Maroc",
-        "droite": "Rabat"
+        "droite": "Rabat",
+        "explication": "Rabat est la capitale ; Casablanca est la plus grande ville et le poumon économique du Maroc."
       }
     ],
     "explication": "Dans tous ces pays, la capitale n'est pas la plus grande ville.",
@@ -323,23 +332,28 @@
     "paires": [
       {
         "gauche": "Amazone",
-        "droite": "Amérique du Sud"
+        "droite": "Amérique du Sud",
+        "explication": "Le fleuve au plus grand débit du monde traverse la forêt amazonienne, surtout au Brésil."
       },
       {
         "gauche": "Nil",
-        "droite": "Afrique"
+        "droite": "Afrique",
+        "explication": "Le Nil traverse l'Afrique du Nord-Est jusqu'à la Méditerranée ; l'Égypte en dépend presque entièrement."
       },
       {
         "gauche": "Yangzi Jiang",
-        "droite": "Asie"
+        "droite": "Asie",
+        "explication": "Le Yangzi Jiang (Fleuve Bleu), en Chine, est le plus long fleuve d'Asie."
       },
       {
         "gauche": "Danube",
-        "droite": "Europe"
+        "droite": "Europe",
+        "explication": "Le Danube traverse 10 pays et 4 capitales européennes, dont Vienne et Budapest."
       },
       {
         "gauche": "Mississippi",
-        "droite": "Amérique du Nord"
+        "droite": "Amérique du Nord",
+        "explication": "Le Mississippi traverse les États-Unis du nord au sud jusqu'au golfe du Mexique."
       }
     ],
     "explication": "Cinq grands fleuves, cinq continents.",

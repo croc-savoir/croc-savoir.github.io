@@ -130,23 +130,28 @@
     "paires": [
       {
         "gauche": "Germinal",
-        "droite": "Émile Zola"
+        "droite": "Émile Zola",
+        "explication": "Zola publie Germinal en 1885, roman sur la grève des mineurs du Nord."
       },
       {
         "gauche": "Don Quichotte",
-        "droite": "Cervantes"
+        "droite": "Cervantes",
+        "explication": "Cervantes publie Don Quichotte en 1605 et 1615, souvent vu comme le premier roman moderne."
       },
       {
         "gauche": "Hamlet",
-        "droite": "Shakespeare"
+        "droite": "Shakespeare",
+        "explication": "Shakespeare écrit Hamlet vers 1600 ; on lui doit « Être ou ne pas être »."
       },
       {
         "gauche": "1984",
-        "droite": "George Orwell"
+        "droite": "George Orwell",
+        "explication": "Orwell publie 1984 en 1949 : Big Brother, novlangue et surveillance totale."
       },
       {
         "gauche": "Le Petit Prince",
-        "droite": "Saint-Exupéry"
+        "droite": "Saint-Exupéry",
+        "explication": "Saint-Exupéry publie Le Petit Prince en 1943, à New York, pendant son exil."
       }
     ],
     "explication": "Cinq classiques de la littérature mondiale.",
@@ -367,19 +372,23 @@
     "paires": [
       {
         "gauche": "Molière",
-        "droite": "Jean-Baptiste Poquelin"
+        "droite": "Jean-Baptiste Poquelin",
+        "explication": "Fils d'un tapissier du roi, Jean-Baptiste Poquelin prend le nom de Molière en montant sa troupe."
       },
       {
         "gauche": "George Sand",
-        "droite": "Aurore Dupin"
+        "droite": "Aurore Dupin",
+        "explication": "Aurore Dupin a pris un pseudonyme masculin pour être publiée et lue au XIXe siècle."
       },
       {
         "gauche": "George Orwell",
-        "droite": "Eric Blair"
+        "droite": "Eric Blair",
+        "explication": "Eric Arthur Blair a signé ses livres George Orwell, du nom d'une rivière anglaise."
       },
       {
         "gauche": "Stendhal",
-        "droite": "Henri Beyle"
+        "droite": "Henri Beyle",
+        "explication": "Henri Beyle, auteur du Rouge et le Noir, a utilisé plus d'une centaine de pseudonymes, dont Stendhal."
       }
     ],
     "explication": "Beaucoup d'écrivains ont écrit sous pseudonyme.",

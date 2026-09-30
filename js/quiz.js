@@ -94,6 +94,14 @@ const Quiz = (() => {
       box.innerHTML = `<strong>Explication —</strong> ${escapeHTML(item.explication)}`;
       container.appendChild(box);
     }
+    // Questions « associer » : une phrase d'explication par paire.
+    if (item.paires && item.paires.some(p => p.explication)) {
+      const list = document.createElement('ul');
+      list.className = 'pair-explain';
+      list.innerHTML = item.paires.map(p => `
+        <li><strong>${escapeHTML(p.gauche)} → ${escapeHTML(p.droite)}</strong><span>${escapeHTML(p.explication || '')}</span></li>`).join('');
+      container.appendChild(list);
+    }
     if (extra) container.appendChild(extra);
 
     if (item.source) {
@@ -285,6 +293,12 @@ const Quiz = (() => {
 
     function finish() {
       const correct = mistakes === 0;
+      // Réaligne la colonne de droite sur celle de gauche : on lit les bonnes paires ligne par ligne.
+      paires.forEach((_, i) => {
+        const b = rightBtns.find(r => Number(r.dataset.idx) === i);
+        if (b) rightCol.appendChild(b);
+      });
+      board.classList.add('is-final');
       const after = document.createElement('div');
       answeredWrap(after, item, correct);
       after.appendChild(nextButton(next));

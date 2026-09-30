@@ -11,6 +11,17 @@ const DOSSIERS = path.join(__dirname, 'dossiers');
 const MAX_FR = 14000; // caractères gardés par article : assez pour une fiche, pas trop pour l'agent
 const MAX_EN = 9000;
 
+// Proposition d'« Œuvres principales » (Wikidata), à trier par l'agent.
+async function blocOeuvres(qid) {
+  if (!qid) return '';
+  try {
+    const o = await require('./oeuvres').oeuvresDe(qid, 12);
+    if (o.length < 3) return '';
+    const lignes = o.map(x => `- ${x.titre}${x.annee ? ` (${x.annee})` : ''}`).join('\n');
+    return `## Œuvres (proposition Wikidata, à trier)\n${lignes}\n\n`;
+  } catch (e) { return ''; }
+}
+
 const nomFichier = t => t.normalize('NFC').replace(/[\\/:*?"<>|]/g, '_').slice(0, 120);
 
 // Titre préfixé par « en: » : sujet sans article français, on part de l'article anglais.
@@ -36,6 +47,7 @@ async function dossier(titre) {
   fs.writeFileSync(base + '.md',
     `# ${d.titre}\n\nTitre Wikipédia exact à citer : « ${d.titre} »\n\n` +
     `## Faits Wikidata\n${wd ? wd.description + '\n' : ''}${faits}\n\n` +
+    await blocOeuvres(fr.qid) +
     `## Article Wikipédia (français)\n\n${d.fr}\n\n` +
     (d.en ? `## Article Wikipédia (anglais) — « ${d.enTitre} »\n\n${d.en}\n` : '## Article anglais : aucun\n'));
   return { titre: d.titre, fr: d.fr.length, en: d.en.length, faits: wd ? Object.keys(wd.faits).length : 0, fichier: base + '.md' };
@@ -57,7 +69,8 @@ async function dossierAnglais(titreEn) {
   const faits = wd ? Object.entries(wd.faits).map(([k, v]) => `- ${k} : ${v.join(', ')}`).join('\n') : '(aucun)';
   fs.writeFileSync(base + '.md',
     `# ${d.titre}\n\n⚠️ Pas d'article en français : la fiche cite « ${d.titre} » dans le champ wikipediaEn (pas wikipedia).\n\n` +
-    `## Faits Wikidata\n${wd ? wd.description + '\n' : ''}${faits}\n\n## Article Wikipédia (anglais)\n\n${d.en}\n`);
+    `## Faits Wikidata\n${wd ? wd.description + '\n' : ''}${faits}\n\n` +
+    await blocOeuvres(en.qid) + `## Article Wikipédia (anglais)\n\n${d.en}\n`);
   return { titre: d.titre, fr: 0, en: d.en.length, faits: wd ? Object.keys(wd.faits).length : 0, fichier: base + '.md' };
 }
 

@@ -82,6 +82,9 @@ const Fiches = (() => {
     if (fiche.type !== 'classique' && d.sections?.length) {
       d.sections.forEach(s => { h += `<h4>${escapeHTML(s.titre)}</h4>${paragraphs(s.texte)}`; });
     }
+    if (d.oeuvres?.length) {
+      h += `<h4>Œuvres principales</h4><ul class="timeline oeuvres">${d.oeuvres.map(o => `<li>${o.annee ? `<span class="tl-year">${escapeHTML(o.annee)}</span>` : ''}${escapeHTML(o.titre)}</li>`).join('')}</ul>`;
+    }
     if (d.chiffres?.length) {
       h += `<h4>En chiffres</h4><ul class="key-figures">${d.chiffres.map(c => `<li><span class="kf-value">${escapeHTML(c.valeur)}</span><span class="kf-label">${escapeHTML(c.label)}</span></li>`).join('')}</ul>`;
     }

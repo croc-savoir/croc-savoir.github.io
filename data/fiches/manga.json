@@ -29,6 +29,36 @@
       "anecdotes": [
         "Ses derniers mots auraient été : « Je vous en supplie, laissez-moi travailler. »",
         "Le Roi Léo a souvent été comparé au Roi Lion de Disney (1994)."
+      ],
+      "oeuvres": [
+        {
+          "titre": "La Nouvelle Île au trésor",
+          "annee": "1947"
+        },
+        {
+          "titre": "Le Roi Léo",
+          "annee": "1950"
+        },
+        {
+          "titre": "Astro, le petit robot",
+          "annee": "1952"
+        },
+        {
+          "titre": "Princesse Saphir",
+          "annee": "1953"
+        },
+        {
+          "titre": "Phénix",
+          "annee": "1954"
+        },
+        {
+          "titre": "Dororo",
+          "annee": "1967"
+        },
+        {
+          "titre": "Black Jack",
+          "annee": "1973"
+        }
       ]
     },
     "source": "D'après Wikipédia — Osamu Tezuka"
@@ -63,6 +93,32 @@
       "anecdotes": [
         "Il est mort en mars 2024 ; des hommages ont été rendus dans le monde entier.",
         "Il a dessiné Dragon Ball depuis sa maison de campagne, loin de Tokyo, contrairement à la plupart des mangakas."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Dr. Slump",
+          "annee": "1980"
+        },
+        {
+          "titre": "Dragon Ball",
+          "annee": "1984"
+        },
+        {
+          "titre": "Dragon Quest (personnages)",
+          "annee": "1986"
+        },
+        {
+          "titre": "Chrono Trigger (personnages)",
+          "annee": "1995"
+        },
+        {
+          "titre": "Sand Land",
+          "annee": "2000"
+        },
+        {
+          "titre": "Dragon Ball Super",
+          "annee": "2015"
+        }
       ]
     },
     "source": "D'après Wikipédia — Akira Toriyama"
@@ -96,6 +152,20 @@
       ],
       "anecdotes": [
         "Il a travaillé comme assistant de Nobuhiro Watsuki (Kenshin le vagabond) avant One Piece."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Romance Dawn",
+          "annee": "1996"
+        },
+        {
+          "titre": "One Piece",
+          "annee": "1997"
+        },
+        {
+          "titre": "Wanted! (recueil d'histoires courtes)",
+          "annee": "1998"
+        }
       ]
     },
     "source": "D'après Wikipédia — Eiichirō Oda"
@@ -131,6 +201,48 @@
           "titre": "Ses thèmes",
           "texte": "Des héroïnes jeunes et courageuses, l'aviation (son père fabriquait des pièces d'avions), la nature et l'écologie, le pacifisme, l'enfance. Ses « méchants » sont rarement entièrement mauvais."
         }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Le Château de Cagliostro",
+          "annee": "1979"
+        },
+        {
+          "titre": "Nausicaä de la Vallée du Vent",
+          "annee": "1984"
+        },
+        {
+          "titre": "Le Château dans le ciel",
+          "annee": "1986"
+        },
+        {
+          "titre": "Mon voisin Totoro",
+          "annee": "1988"
+        },
+        {
+          "titre": "Kiki la petite sorcière",
+          "annee": "1989"
+        },
+        {
+          "titre": "Porco Rosso",
+          "annee": "1992"
+        },
+        {
+          "titre": "Princesse Mononoké",
+          "annee": "1997"
+        },
+        {
+          "titre": "Le Voyage de Chihiro",
+          "annee": "2001"
+        },
+        {
+          "titre": "Le Château ambulant",
+          "annee": "2004"
+        },
+        {
+          "titre": "Le Garçon et le Héron",
+          "annee": "2023"
+        }
       ]
     },
     "source": "D'après Wikipédia — Hayao Miyazaki"
@@ -164,6 +276,20 @@
       ],
       "anecdotes": [
         "Naoko Takeuchi a une formation de pharmacienne ; plusieurs héroïnes portent des noms liés à la chimie ou à l'astronomie."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Sailor V",
+          "annee": "1991"
+        },
+        {
+          "titre": "Sailor Moon",
+          "annee": "1991"
+        },
+        {
+          "titre": "PQ Angels",
+          "annee": "1997"
+        }
       ]
     },
     "source": "D'après Wikipédia — Naoko Takeuchi"
@@ -235,7 +361,49 @@
           "texte": "Le musée Ghibli, à Mitaka près de Tokyo, a ouvert en 2001. Le parc Ghibli, près de Nagoya, a ouvert en 2022."
         }
       ],
-      "wikipedia": "Studio Ghibli"
+      "wikipedia": "Studio Ghibli",
+      "oeuvres": [
+        {
+          "titre": "Le Château dans le ciel",
+          "annee": "1986"
+        },
+        {
+          "titre": "Mon voisin Totoro",
+          "annee": "1988"
+        },
+        {
+          "titre": "Le Tombeau des lucioles",
+          "annee": "1988"
+        },
+        {
+          "titre": "Kiki la petite sorcière",
+          "annee": "1989"
+        },
+        {
+          "titre": "Porco Rosso",
+          "annee": "1992"
+        },
+        {
+          "titre": "Princesse Mononoké",
+          "annee": "1997"
+        },
+        {
+          "titre": "Le Voyage de Chihiro",
+          "annee": "2001"
+        },
+        {
+          "titre": "Le Château ambulant",
+          "annee": "2004"
+        },
+        {
+          "titre": "Arrietty, le petit monde des chapardeurs",
+          "annee": "2010"
+        },
+        {
+          "titre": "Le Garçon et le Héron",
+          "annee": "2023"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Studio Ghibli"
   },
@@ -739,6 +907,36 @@
       ],
       "anecdotes": [
         "Elle est la deuxième autrice japonaise à recevoir le Grand Prix d'Angoulême, après Katsuhiro Otomo (2015)."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Urusei Yatsura (Lamu)",
+          "annee": "1978"
+        },
+        {
+          "titre": "Maison Ikkoku",
+          "annee": "1980"
+        },
+        {
+          "titre": "Mermaid Forest",
+          "annee": "1984"
+        },
+        {
+          "titre": "Ranma ½",
+          "annee": "1987"
+        },
+        {
+          "titre": "Inu-Yasha",
+          "annee": "1996"
+        },
+        {
+          "titre": "Rinne",
+          "annee": "2009"
+        },
+        {
+          "titre": "Mao",
+          "annee": "2019"
+        }
       ]
     },
     "source": "D'après Wikipédia — Rumiko Takahashi"
@@ -774,6 +972,32 @@
       ],
       "anecdotes": [
         "Otomo a été le premier auteur de manga à recevoir le Grand Prix d'Angoulême."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Rêves d'enfants (Dōmu)",
+          "annee": "1980"
+        },
+        {
+          "titre": "Akira (manga)",
+          "annee": "1982"
+        },
+        {
+          "titre": "Akira (film)",
+          "annee": "1988"
+        },
+        {
+          "titre": "Memories",
+          "annee": "1995"
+        },
+        {
+          "titre": "Metropolis (scénario)",
+          "annee": "2001"
+        },
+        {
+          "titre": "Steamboy",
+          "annee": "2004"
+        }
       ]
     },
     "source": "D'après Wikipédia — Katsuhiro Ōtomo"
@@ -936,7 +1160,41 @@
       "anecdotes": [
         "Le Tombeau des lucioles est sorti au cinéma au Japon en programme double avec Mon voisin Totoro, en 1988."
       ],
-      "wikipedia": "Isao Takahata"
+      "wikipedia": "Isao Takahata",
+      "oeuvres": [
+        {
+          "titre": "Heidi",
+          "annee": "1974"
+        },
+        {
+          "titre": "Marco",
+          "annee": "1976"
+        },
+        {
+          "titre": "Anne… la maison aux pignons verts",
+          "annee": "1979"
+        },
+        {
+          "titre": "Le Tombeau des lucioles",
+          "annee": "1988"
+        },
+        {
+          "titre": "Souvenirs goutte à goutte",
+          "annee": "1991"
+        },
+        {
+          "titre": "Pompoko",
+          "annee": "1994"
+        },
+        {
+          "titre": "Mes voisins les Yamada",
+          "annee": "1999"
+        },
+        {
+          "titre": "Le Conte de la princesse Kaguya",
+          "annee": "2013"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Isao Takahata"
   },
@@ -1011,7 +1269,33 @@
       "anecdotes": [
         "Goldorak a été diffusé en France à partir de juillet 1978 sur Antenne 2 et a atteint des records d'audience chez les enfants."
       ],
-      "wikipedia": "Gō Nagai"
+      "wikipedia": "Gō Nagai",
+      "oeuvres": [
+        {
+          "titre": "Devilman",
+          "annee": "1972"
+        },
+        {
+          "titre": "Mazinger Z",
+          "annee": "1972"
+        },
+        {
+          "titre": "Cutie Honey",
+          "annee": "1973"
+        },
+        {
+          "titre": "Dororon Enma-kun",
+          "annee": "1973"
+        },
+        {
+          "titre": "Violence Jack",
+          "annee": "1973"
+        },
+        {
+          "titre": "Goldorak",
+          "annee": "1975"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Gō Nagai"
   },
@@ -1043,7 +1327,37 @@
           "texte": "Passionné de rock, Urasawa est aussi guitariste et chanteur. La musique joue un rôle central dans 20th Century Boys, dont le titre vient d'une chanson du groupe T. Rex."
         }
       ],
-      "wikipedia": "Naoki Urasawa"
+      "wikipedia": "Naoki Urasawa",
+      "oeuvres": [
+        {
+          "titre": "Yawara!",
+          "annee": "1986"
+        },
+        {
+          "titre": "Master Keaton",
+          "annee": "1988"
+        },
+        {
+          "titre": "Happy!",
+          "annee": "1993"
+        },
+        {
+          "titre": "Monster",
+          "annee": "1994"
+        },
+        {
+          "titre": "20th Century Boys",
+          "annee": "1999"
+        },
+        {
+          "titre": "Pluto",
+          "annee": "2003"
+        },
+        {
+          "titre": "Billy Bat",
+          "annee": "2008"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Naoki Urasawa"
   },
@@ -1078,7 +1392,25 @@
       "anecdotes": [
         "En 2004, Inoue a dessiné une suite de Slam Dunk de Slam Dunk à la craie sur les tableaux noirs d'un lycée désaffecté, pour une exposition."
       ],
-      "wikipedia": "Takehiko Inoue"
+      "wikipedia": "Takehiko Inoue",
+      "oeuvres": [
+        {
+          "titre": "Slam Dunk",
+          "annee": "1990"
+        },
+        {
+          "titre": "Vagabond",
+          "annee": "1998"
+        },
+        {
+          "titre": "Real",
+          "annee": "1999"
+        },
+        {
+          "titre": "The First Slam Dunk (film)",
+          "annee": "2022"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Takehiko Inoue"
   },
@@ -1108,7 +1440,29 @@
       "anecdotes": [
         "Beaucoup de lecteurs ont longtemps cru que l'auteur de Fullmetal Alchemist était un homme, à cause de son prénom de plume Hiromu."
       ],
-      "wikipedia": "Hiromu Arakawa"
+      "wikipedia": "Hiromu Arakawa",
+      "oeuvres": [
+        {
+          "titre": "Fullmetal Alchemist",
+          "annee": "2001"
+        },
+        {
+          "titre": "Nobles paysans",
+          "annee": "2006"
+        },
+        {
+          "titre": "Silver Spoon",
+          "annee": "2011"
+        },
+        {
+          "titre": "The Heroic Legend of Arslân (dessin)",
+          "annee": "2013"
+        },
+        {
+          "titre": "Tsugai - Daemons of the Shadow Realm",
+          "annee": "2021"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Hiromu Arakawa"
   },
@@ -1140,7 +1494,41 @@
           "texte": "Shinkai a commencé en réalisant presque seul, sur son ordinateur personnel, le court métrage La Voix des étoiles (2002), qui raconte l'histoire d'amour d'une lycéenne partie combattre dans l'espace et d'un garçon resté sur Terre, dont les messages mettent des années à arriver."
         }
       ],
-      "wikipedia": "Makoto Shinkai"
+      "wikipedia": "Makoto Shinkai",
+      "oeuvres": [
+        {
+          "titre": "La Voix des étoiles",
+          "annee": "2002"
+        },
+        {
+          "titre": "La Tour au-delà des nuages",
+          "annee": "2004"
+        },
+        {
+          "titre": "5 centimètres par seconde",
+          "annee": "2007"
+        },
+        {
+          "titre": "Voyage vers Agartha",
+          "annee": "2011"
+        },
+        {
+          "titre": "The Garden of Words",
+          "annee": "2013"
+        },
+        {
+          "titre": "Your Name.",
+          "annee": "2016"
+        },
+        {
+          "titre": "Les Enfants du temps",
+          "annee": "2019"
+        },
+        {
+          "titre": "Suzume",
+          "annee": "2022"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Makoto Shinkai"
   },
@@ -1175,7 +1563,33 @@
       "anecdotes": [
         "Atteint d'un cancer, Kon a écrit avant sa mort un long message d'adieu publié sur son blog, qui a beaucoup ému ses fans."
       ],
-      "wikipedia": "Satoshi Kon"
+      "wikipedia": "Satoshi Kon",
+      "oeuvres": [
+        {
+          "titre": "Memories (scénario de Magnetic Rose)",
+          "annee": "1995"
+        },
+        {
+          "titre": "Perfect Blue",
+          "annee": "1997"
+        },
+        {
+          "titre": "Millennium Actress",
+          "annee": "2001"
+        },
+        {
+          "titre": "Tokyo Godfathers",
+          "annee": "2003"
+        },
+        {
+          "titre": "Paranoia Agent",
+          "annee": "2004"
+        },
+        {
+          "titre": "Paprika",
+          "annee": "2006"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Satoshi Kon"
   },
@@ -1207,7 +1621,29 @@
           "texte": "Les deux musiciens de Daft Punk avaient grandi avec Albator. Ils ont demandé à Matsumoto de superviser Interstella 5555 (2003), un film d'animation sans dialogues qui illustre tout leur album Discovery, dont les clips de One More Time et Aerodynamic."
         }
       ],
-      "wikipedia": "Leiji Matsumoto"
+      "wikipedia": "Leiji Matsumoto",
+      "oeuvres": [
+        {
+          "titre": "Space Battleship Yamato",
+          "annee": "1974"
+        },
+        {
+          "titre": "Galaxy Express 999",
+          "annee": "1977"
+        },
+        {
+          "titre": "Albator (Capitaine Harlock)",
+          "annee": "1977"
+        },
+        {
+          "titre": "Queen Emeraldas",
+          "annee": "1978"
+        },
+        {
+          "titre": "Interstella 5555 (avec Daft Punk)",
+          "annee": "2003"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Leiji Matsumoto"
   },
@@ -1239,7 +1675,21 @@
           "texte": "Hunter × Hunter est célèbre pour ses interruptions de plusieurs années, dues notamment aux graves douleurs de dos de Togashi. Chaque reprise de publication est un événement pour les fans, qui savent qu'elle peut s'arrêter à tout moment."
         }
       ],
-      "wikipedia": "Yoshihiro Togashi"
+      "wikipedia": "Yoshihiro Togashi",
+      "oeuvres": [
+        {
+          "titre": "YuYu Hakusho",
+          "annee": "1990"
+        },
+        {
+          "titre": "Level E",
+          "annee": "1995"
+        },
+        {
+          "titre": "Hunter × Hunter",
+          "annee": "1998"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Yoshihiro Togashi"
   },
@@ -1271,7 +1721,33 @@
           "texte": "Hosoda s'inspire souvent de sa propre famille : Summer Wars est né de sa rencontre avec la famille de sa femme, Les Enfants loups de son envie de devenir père, et Miraï de l'arrivée de sa fille, qui a bouleversé la vie de son fils aîné."
         }
       ],
-      "wikipedia": "Mamoru Hosoda"
+      "wikipedia": "Mamoru Hosoda",
+      "oeuvres": [
+        {
+          "titre": "La Traversée du temps",
+          "annee": "2006"
+        },
+        {
+          "titre": "Summer Wars",
+          "annee": "2009"
+        },
+        {
+          "titre": "Les Enfants loups, Ame et Yuki",
+          "annee": "2012"
+        },
+        {
+          "titre": "Le Garçon et la Bête",
+          "annee": "2015"
+        },
+        {
+          "titre": "Miraï, ma petite sœur",
+          "annee": "2018"
+        },
+        {
+          "titre": "Belle",
+          "annee": "2021"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Mamoru Hosoda"
   },
@@ -1303,7 +1779,30 @@
           "texte": "Quartier lointain a reçu à Angoulême en 2003 le prix du meilleur scénario. Le Sommet des dieux a été adapté en film d'animation français par Patrick Imbert (2021), récompensé par le César du meilleur film d'animation."
         }
       ],
-      "wikipedia": "Jirō Taniguchi"
+      "wikipedia": "Jirō Taniguchi",
+      "oeuvres": [
+        {
+          "titre": "L'Homme qui marche"
+        },
+        {
+          "titre": "Le Gourmet solitaire",
+          "annee": "1994"
+        },
+        {
+          "titre": "Le Journal de mon père"
+        },
+        {
+          "titre": "Quartier lointain",
+          "annee": "1998"
+        },
+        {
+          "titre": "Le Sommet des dieux"
+        },
+        {
+          "titre": "Les Gardiens du Louvre",
+          "annee": "2014"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Jirō Taniguchi"
   },
@@ -2303,7 +2802,41 @@
           "texte": "Miyazaki et Takahata débutent chez Toei dans les années 1960 et travaillent ensemble sur Horus, prince du soleil (1968), réalisé par Takahata. Ils y sont aussi très engagés dans le syndicat des animateurs, où ils se lient d'amitié."
         }
       ],
-      "wikipedia": "Toei Animation"
+      "wikipedia": "Toei Animation",
+      "oeuvres": [
+        {
+          "titre": "Goldorak",
+          "annee": "1975"
+        },
+        {
+          "titre": "Candy Candy",
+          "annee": "1976"
+        },
+        {
+          "titre": "Dragon Ball",
+          "annee": "1986"
+        },
+        {
+          "titre": "Les Chevaliers du Zodiaque",
+          "annee": "1986"
+        },
+        {
+          "titre": "Dragon Ball Z",
+          "annee": "1989"
+        },
+        {
+          "titre": "Sailor Moon",
+          "annee": "1992"
+        },
+        {
+          "titre": "Digimon Adventure",
+          "annee": "1999"
+        },
+        {
+          "titre": "One Piece",
+          "annee": "1999"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Toei Animation"
   },
@@ -2326,7 +2859,33 @@
           "texte": "Le 18 juillet 2019, un homme met le feu au principal bâtiment du studio : 36 personnes meurent. C'est l'un des crimes les plus meurtriers de l'histoire du Japon d'après-guerre. Des dons ont afflué du monde entier, et le studio a repris ses productions."
         }
       ],
-      "wikipedia": "Kyoto Animation"
+      "wikipedia": "Kyoto Animation",
+      "oeuvres": [
+        {
+          "titre": "La Mélancolie de Haruhi Suzumiya",
+          "annee": "2006"
+        },
+        {
+          "titre": "K-On!",
+          "annee": "2009"
+        },
+        {
+          "titre": "Hyōka",
+          "annee": "2012"
+        },
+        {
+          "titre": "Free!",
+          "annee": "2013"
+        },
+        {
+          "titre": "A Silent Voice",
+          "annee": "2016"
+        },
+        {
+          "titre": "Violet Evergarden",
+          "annee": "2018"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Kyoto Animation"
   },
@@ -2349,7 +2908,37 @@
           "texte": "Le studio est souvent critiqué pour les délais très courts imposés à ses animateurs, symbole des conditions de travail difficiles dans l'industrie de l'animation japonaise, où beaucoup sont payés à la pièce."
         }
       ],
-      "wikipedia": "MAPPA"
+      "wikipedia": "MAPPA",
+      "oeuvres": [
+        {
+          "titre": "Dans un recoin de ce monde",
+          "annee": "2016"
+        },
+        {
+          "titre": "Yuri on Ice",
+          "annee": "2016"
+        },
+        {
+          "titre": "Dororo",
+          "annee": "2019"
+        },
+        {
+          "titre": "Jujutsu Kaisen",
+          "annee": "2020"
+        },
+        {
+          "titre": "L'Attaque des Titans (saison finale)",
+          "annee": "2020"
+        },
+        {
+          "titre": "Chainsaw Man",
+          "annee": "2022"
+        },
+        {
+          "titre": "Vinland Saga (saison 2)",
+          "annee": "2023"
+        }
+      ]
     },
     "source": "D'après Wikipédia — MAPPA"
   },
@@ -3173,7 +3762,20 @@
           "texte": "En 2003, un grand prix au concours de Square Enix lance sa carrière. Sa série Sumomomo Momomo paraît dans Young Gangan, un magazine pour jeunes adultes, et devient un succès adapté en animé. Mais Ohtaka rêve d'un magazine de shōnen : en 2009, elle rejoint le Weekly Shōnen Sunday pour y lancer Magi, qui éclipse son premier succès."
         }
       ],
-      "wikipedia": "Shinobu Ohtaka"
+      "wikipedia": "Shinobu Ohtaka",
+      "oeuvres": [
+        {
+          "titre": "Sumomomo Momomo"
+        },
+        {
+          "titre": "Magi",
+          "annee": "2009"
+        },
+        {
+          "titre": "Orient - Samurai Quest",
+          "annee": "2018"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Shinobu Ohtaka"
   },
@@ -3212,7 +3814,29 @@
       "anecdotes": [
         "Le geste « Gwash », lancé par le héros de Makoto-chan, est devenu sa signature : Umezu le reproduisait lui-même devant le public."
       ],
-      "wikipedia": "Kazuo Umezu"
+      "wikipedia": "Kazuo Umezu",
+      "oeuvres": [
+        {
+          "titre": "La Femme-serpent",
+          "annee": "1965"
+        },
+        {
+          "titre": "L'École emportée",
+          "annee": "1972"
+        },
+        {
+          "titre": "Makoto-chan",
+          "annee": "1976"
+        },
+        {
+          "titre": "Je suis Shingo",
+          "annee": "1982"
+        },
+        {
+          "titre": "Fourteen",
+          "annee": "1990"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Kazuo Umezu"
   },
@@ -3238,7 +3862,25 @@
       "anecdotes": [
         "Plusieurs anciens producteurs de 8-Bit ont fondé leur propre studio, comme Pine Jam en 2015 ou Staple Entertainment en 2020."
       ],
-      "wikipedia": "8-Bit"
+      "wikipedia": "8-Bit",
+      "oeuvres": [
+        {
+          "titre": "IS <Infinite Stratos>",
+          "annee": "2011"
+        },
+        {
+          "titre": "Moi, quand je me réincarne en Slime",
+          "annee": "2018"
+        },
+        {
+          "titre": "Stars Align",
+          "annee": "2019"
+        },
+        {
+          "titre": "Blue Lock",
+          "annee": "2022"
+        }
+      ]
     },
     "source": "D'après Wikipédia — 8-Bit"
   },
@@ -3264,7 +3906,33 @@
       "anecdotes": [
         "Le studio travaille aussi pour la musique et le jeu vidéo : il a animé le clip de Passion d'Utada Hikaru, chanson de Kingdom Hearts II, et des séquences de la série Ace Combat."
       ],
-      "wikipedia": "Studio 4°C"
+      "wikipedia": "Studio 4°C",
+      "oeuvres": [
+        {
+          "titre": "Memories",
+          "annee": "1995"
+        },
+        {
+          "titre": "Animatrix",
+          "annee": "2003"
+        },
+        {
+          "titre": "Mind Game",
+          "annee": "2004"
+        },
+        {
+          "titre": "Amer Béton",
+          "annee": "2006"
+        },
+        {
+          "titre": "Berserk : L'Âge d'or",
+          "annee": "2012"
+        },
+        {
+          "titre": "Les Enfants de la mer",
+          "annee": "2019"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Studio 4°C"
   }

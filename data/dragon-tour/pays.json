@@ -1,0 +1,1743 @@
+[
+ {
+  "code": "al",
+  "nom": "Albanie",
+  "de": "de l'Albanie",
+  "capitale": "Tirana",
+  "continent": "europe"
+ },
+ {
+  "code": "ad",
+  "nom": "Andorre",
+  "de": "d'Andorre",
+  "capitale": "Andorre-la-Vieille",
+  "continent": "europe"
+ },
+ {
+  "code": "at",
+  "nom": "Autriche",
+  "de": "de l'Autriche",
+  "capitale": "Vienne",
+  "continent": "europe"
+ },
+ {
+  "code": "by",
+  "nom": "Biélorussie",
+  "de": "de la Biélorussie",
+  "capitale": "Minsk",
+  "continent": "europe",
+  "autresNoms": [
+   "Bélarus"
+  ]
+ },
+ {
+  "code": "be",
+  "nom": "Belgique",
+  "de": "de la Belgique",
+  "capitale": "Bruxelles",
+  "continent": "europe"
+ },
+ {
+  "code": "ba",
+  "nom": "Bosnie-Herzégovine",
+  "de": "de la Bosnie-Herzégovine",
+  "capitale": "Sarajevo",
+  "continent": "europe",
+  "autresNoms": [
+   "Bosnie"
+  ]
+ },
+ {
+  "code": "bg",
+  "nom": "Bulgarie",
+  "de": "de la Bulgarie",
+  "capitale": "Sofia",
+  "continent": "europe"
+ },
+ {
+  "code": "hr",
+  "nom": "Croatie",
+  "de": "de la Croatie",
+  "capitale": "Zagreb",
+  "continent": "europe"
+ },
+ {
+  "code": "cy",
+  "nom": "Chypre",
+  "de": "de Chypre",
+  "capitale": "Nicosie",
+  "continent": "europe"
+ },
+ {
+  "code": "cz",
+  "nom": "Tchéquie",
+  "de": "de la Tchéquie",
+  "capitale": "Prague",
+  "continent": "europe",
+  "autresNoms": [
+   "République tchèque"
+  ]
+ },
+ {
+  "code": "dk",
+  "nom": "Danemark",
+  "de": "du Danemark",
+  "capitale": "Copenhague",
+  "continent": "europe"
+ },
+ {
+  "code": "ee",
+  "nom": "Estonie",
+  "de": "de l'Estonie",
+  "capitale": "Tallinn",
+  "continent": "europe"
+ },
+ {
+  "code": "fi",
+  "nom": "Finlande",
+  "de": "de la Finlande",
+  "capitale": "Helsinki",
+  "continent": "europe"
+ },
+ {
+  "code": "fr",
+  "nom": "France",
+  "de": "de la France",
+  "capitale": "Paris",
+  "continent": "europe"
+ },
+ {
+  "code": "de",
+  "nom": "Allemagne",
+  "de": "de l'Allemagne",
+  "capitale": "Berlin",
+  "continent": "europe"
+ },
+ {
+  "code": "gr",
+  "nom": "Grèce",
+  "de": "de la Grèce",
+  "capitale": "Athènes",
+  "continent": "europe"
+ },
+ {
+  "code": "hu",
+  "nom": "Hongrie",
+  "de": "de la Hongrie",
+  "capitale": "Budapest",
+  "continent": "europe"
+ },
+ {
+  "code": "is",
+  "nom": "Islande",
+  "de": "de l'Islande",
+  "capitale": "Reykjavik",
+  "continent": "europe"
+ },
+ {
+  "code": "ie",
+  "nom": "Irlande",
+  "de": "de l'Irlande",
+  "capitale": "Dublin",
+  "continent": "europe"
+ },
+ {
+  "code": "it",
+  "nom": "Italie",
+  "de": "de l'Italie",
+  "capitale": "Rome",
+  "continent": "europe"
+ },
+ {
+  "code": "lv",
+  "nom": "Lettonie",
+  "de": "de la Lettonie",
+  "capitale": "Riga",
+  "continent": "europe"
+ },
+ {
+  "code": "li",
+  "nom": "Liechtenstein",
+  "de": "du Liechtenstein",
+  "capitale": "Vaduz",
+  "continent": "europe"
+ },
+ {
+  "code": "lt",
+  "nom": "Lituanie",
+  "de": "de la Lituanie",
+  "capitale": "Vilnius",
+  "continent": "europe"
+ },
+ {
+  "code": "lu",
+  "nom": "Luxembourg",
+  "de": "du Luxembourg",
+  "capitale": "Luxembourg",
+  "continent": "europe"
+ },
+ {
+  "code": "mt",
+  "nom": "Malte",
+  "de": "de Malte",
+  "capitale": "La Valette",
+  "continent": "europe"
+ },
+ {
+  "code": "md",
+  "nom": "Moldavie",
+  "de": "de la Moldavie",
+  "capitale": "Chișinău",
+  "continent": "europe",
+  "autresCapitales": [
+   "Chisinau"
+  ]
+ },
+ {
+  "code": "mc",
+  "nom": "Monaco",
+  "de": "de Monaco",
+  "capitale": "Monaco",
+  "continent": "europe"
+ },
+ {
+  "code": "me",
+  "nom": "Monténégro",
+  "de": "du Monténégro",
+  "capitale": "Podgorica",
+  "continent": "europe"
+ },
+ {
+  "code": "nl",
+  "nom": "Pays-Bas",
+  "de": "des Pays-Bas",
+  "capitale": "Amsterdam",
+  "continent": "europe",
+  "autresNoms": [
+   "Hollande"
+  ],
+  "note": "Amsterdam est la capitale officielle, mais le gouvernement et le Parlement siègent à La Haye."
+ },
+ {
+  "code": "mk",
+  "nom": "Macédoine du Nord",
+  "de": "de la Macédoine du Nord",
+  "capitale": "Skopje",
+  "continent": "europe",
+  "autresNoms": [
+   "Macédoine"
+  ]
+ },
+ {
+  "code": "no",
+  "nom": "Norvège",
+  "de": "de la Norvège",
+  "capitale": "Oslo",
+  "continent": "europe"
+ },
+ {
+  "code": "pl",
+  "nom": "Pologne",
+  "de": "de la Pologne",
+  "capitale": "Varsovie",
+  "continent": "europe"
+ },
+ {
+  "code": "pt",
+  "nom": "Portugal",
+  "de": "du Portugal",
+  "capitale": "Lisbonne",
+  "continent": "europe"
+ },
+ {
+  "code": "ro",
+  "nom": "Roumanie",
+  "de": "de la Roumanie",
+  "capitale": "Bucarest",
+  "continent": "europe"
+ },
+ {
+  "code": "ru",
+  "nom": "Russie",
+  "de": "de la Russie",
+  "capitale": "Moscou",
+  "continent": "europe",
+  "note": "Pays transcontinental (Europe et Asie), classé ici en Europe."
+ },
+ {
+  "code": "sm",
+  "nom": "Saint-Marin",
+  "de": "de Saint-Marin",
+  "capitale": "Saint-Marin",
+  "continent": "europe"
+ },
+ {
+  "code": "rs",
+  "nom": "Serbie",
+  "de": "de la Serbie",
+  "capitale": "Belgrade",
+  "continent": "europe"
+ },
+ {
+  "code": "sk",
+  "nom": "Slovaquie",
+  "de": "de la Slovaquie",
+  "capitale": "Bratislava",
+  "continent": "europe"
+ },
+ {
+  "code": "si",
+  "nom": "Slovénie",
+  "de": "de la Slovénie",
+  "capitale": "Ljubljana",
+  "continent": "europe"
+ },
+ {
+  "code": "es",
+  "nom": "Espagne",
+  "de": "de l'Espagne",
+  "capitale": "Madrid",
+  "continent": "europe"
+ },
+ {
+  "code": "se",
+  "nom": "Suède",
+  "de": "de la Suède",
+  "capitale": "Stockholm",
+  "continent": "europe"
+ },
+ {
+  "code": "ch",
+  "nom": "Suisse",
+  "de": "de la Suisse",
+  "capitale": "Berne",
+  "continent": "europe",
+  "note": "La Constitution suisse ne désigne pas de capitale : Berne est officiellement la « ville fédérale »."
+ },
+ {
+  "code": "ua",
+  "nom": "Ukraine",
+  "de": "de l'Ukraine",
+  "capitale": "Kiev",
+  "continent": "europe",
+  "autresCapitales": [
+   "Kyiv"
+  ]
+ },
+ {
+  "code": "gb",
+  "nom": "Royaume-Uni",
+  "de": "du Royaume-Uni",
+  "capitale": "Londres",
+  "continent": "europe",
+  "autresNoms": [
+   "Grande-Bretagne"
+  ]
+ },
+ {
+  "code": "va",
+  "nom": "Vatican",
+  "de": "du Vatican",
+  "capitale": "Cité du Vatican",
+  "continent": "europe",
+  "autresCapitales": [
+   "Vatican"
+  ],
+  "autresNoms": [
+   "Saint-Siège"
+  ],
+  "note": "Plus petit État du monde, enclavé dans Rome."
+ },
+ {
+  "code": "dz",
+  "nom": "Algérie",
+  "de": "de l'Algérie",
+  "capitale": "Alger",
+  "continent": "afrique"
+ },
+ {
+  "code": "ao",
+  "nom": "Angola",
+  "de": "de l'Angola",
+  "capitale": "Luanda",
+  "continent": "afrique"
+ },
+ {
+  "code": "bj",
+  "nom": "Bénin",
+  "de": "du Bénin",
+  "capitale": "Porto-Novo",
+  "continent": "afrique",
+  "note": "Porto-Novo est la capitale officielle ; le gouvernement siège à Cotonou."
+ },
+ {
+  "code": "bw",
+  "nom": "Botswana",
+  "de": "du Botswana",
+  "capitale": "Gaborone",
+  "continent": "afrique"
+ },
+ {
+  "code": "bf",
+  "nom": "Burkina Faso",
+  "de": "du Burkina Faso",
+  "capitale": "Ouagadougou",
+  "continent": "afrique",
+  "autresNoms": [
+   "Burkina"
+  ]
+ },
+ {
+  "code": "bi",
+  "nom": "Burundi",
+  "de": "du Burundi",
+  "capitale": "Gitega",
+  "continent": "afrique",
+  "autresCapitales": [
+   "Bujumbura"
+  ],
+  "note": "Gitega est la capitale politique depuis 2019 ; Bujumbura reste la capitale économique."
+ },
+ {
+  "code": "cv",
+  "nom": "Cap-Vert",
+  "de": "du Cap-Vert",
+  "capitale": "Praia",
+  "continent": "afrique"
+ },
+ {
+  "code": "cm",
+  "nom": "Cameroun",
+  "de": "du Cameroun",
+  "capitale": "Yaoundé",
+  "continent": "afrique"
+ },
+ {
+  "code": "cf",
+  "nom": "République centrafricaine",
+  "de": "de la République centrafricaine",
+  "capitale": "Bangui",
+  "continent": "afrique",
+  "autresNoms": [
+   "Centrafrique"
+  ]
+ },
+ {
+  "code": "td",
+  "nom": "Tchad",
+  "de": "du Tchad",
+  "capitale": "N'Djaména",
+  "continent": "afrique"
+ },
+ {
+  "code": "km",
+  "nom": "Comores",
+  "de": "des Comores",
+  "capitale": "Moroni",
+  "continent": "afrique"
+ },
+ {
+  "code": "cg",
+  "nom": "République du Congo",
+  "de": "de la République du Congo",
+  "capitale": "Brazzaville",
+  "continent": "afrique",
+  "autresNoms": [
+   "Congo",
+   "Congo-Brazzaville"
+  ]
+ },
+ {
+  "code": "cd",
+  "nom": "République démocratique du Congo",
+  "de": "de la République démocratique du Congo",
+  "capitale": "Kinshasa",
+  "continent": "afrique",
+  "autresNoms": [
+   "RDC",
+   "Congo-Kinshasa"
+  ]
+ },
+ {
+  "code": "ci",
+  "nom": "Côte d'Ivoire",
+  "de": "de la Côte d'Ivoire",
+  "capitale": "Yamoussoukro",
+  "continent": "afrique",
+  "note": "Yamoussoukro est la capitale officielle ; Abidjan est la capitale économique et la plus grande ville."
+ },
+ {
+  "code": "dj",
+  "nom": "Djibouti",
+  "de": "de Djibouti",
+  "capitale": "Djibouti",
+  "continent": "afrique"
+ },
+ {
+  "code": "eg",
+  "nom": "Égypte",
+  "de": "de l'Égypte",
+  "capitale": "Le Caire",
+  "continent": "afrique"
+ },
+ {
+  "code": "gq",
+  "nom": "Guinée équatoriale",
+  "de": "de la Guinée équatoriale",
+  "capitale": "Malabo",
+  "continent": "afrique",
+  "autresCapitales": [
+   "Ciudad de la Paz"
+  ],
+  "note": "Le pays transfère sa capitale vers Ciudad de la Paz, une ville nouvelle construite sur le continent."
+ },
+ {
+  "code": "er",
+  "nom": "Érythrée",
+  "de": "de l'Érythrée",
+  "capitale": "Asmara",
+  "continent": "afrique"
+ },
+ {
+  "code": "sz",
+  "nom": "Eswatini",
+  "de": "de l'Eswatini",
+  "capitale": "Mbabane",
+  "continent": "afrique",
+  "autresCapitales": [
+   "Lobamba"
+  ],
+  "autresNoms": [
+   "Swaziland"
+  ],
+  "note": "Mbabane est la capitale administrative ; Lobamba est la capitale royale et législative."
+ },
+ {
+  "code": "et",
+  "nom": "Éthiopie",
+  "de": "de l'Éthiopie",
+  "capitale": "Addis-Abeba",
+  "continent": "afrique"
+ },
+ {
+  "code": "ga",
+  "nom": "Gabon",
+  "de": "du Gabon",
+  "capitale": "Libreville",
+  "continent": "afrique"
+ },
+ {
+  "code": "gm",
+  "nom": "Gambie",
+  "de": "de la Gambie",
+  "capitale": "Banjul",
+  "continent": "afrique"
+ },
+ {
+  "code": "gh",
+  "nom": "Ghana",
+  "de": "du Ghana",
+  "capitale": "Accra",
+  "continent": "afrique"
+ },
+ {
+  "code": "gn",
+  "nom": "Guinée",
+  "de": "de la Guinée",
+  "capitale": "Conakry",
+  "continent": "afrique"
+ },
+ {
+  "code": "gw",
+  "nom": "Guinée-Bissau",
+  "de": "de la Guinée-Bissau",
+  "capitale": "Bissau",
+  "continent": "afrique"
+ },
+ {
+  "code": "ke",
+  "nom": "Kenya",
+  "de": "du Kenya",
+  "capitale": "Nairobi",
+  "continent": "afrique"
+ },
+ {
+  "code": "ls",
+  "nom": "Lesotho",
+  "de": "du Lesotho",
+  "capitale": "Maseru",
+  "continent": "afrique"
+ },
+ {
+  "code": "lr",
+  "nom": "Liberia",
+  "de": "du Liberia",
+  "capitale": "Monrovia",
+  "continent": "afrique"
+ },
+ {
+  "code": "ly",
+  "nom": "Libye",
+  "de": "de la Libye",
+  "capitale": "Tripoli",
+  "continent": "afrique"
+ },
+ {
+  "code": "mg",
+  "nom": "Madagascar",
+  "de": "de Madagascar",
+  "capitale": "Antananarivo",
+  "continent": "afrique",
+  "autresCapitales": [
+   "Tananarive"
+  ]
+ },
+ {
+  "code": "mw",
+  "nom": "Malawi",
+  "de": "du Malawi",
+  "capitale": "Lilongwe",
+  "continent": "afrique"
+ },
+ {
+  "code": "ml",
+  "nom": "Mali",
+  "de": "du Mali",
+  "capitale": "Bamako",
+  "continent": "afrique"
+ },
+ {
+  "code": "mr",
+  "nom": "Mauritanie",
+  "de": "de la Mauritanie",
+  "capitale": "Nouakchott",
+  "continent": "afrique"
+ },
+ {
+  "code": "mu",
+  "nom": "Maurice",
+  "de": "de Maurice",
+  "capitale": "Port-Louis",
+  "continent": "afrique",
+  "autresNoms": [
+   "Île Maurice"
+  ]
+ },
+ {
+  "code": "ma",
+  "nom": "Maroc",
+  "de": "du Maroc",
+  "capitale": "Rabat",
+  "continent": "afrique"
+ },
+ {
+  "code": "mz",
+  "nom": "Mozambique",
+  "de": "du Mozambique",
+  "capitale": "Maputo",
+  "continent": "afrique"
+ },
+ {
+  "code": "na",
+  "nom": "Namibie",
+  "de": "de la Namibie",
+  "capitale": "Windhoek",
+  "continent": "afrique"
+ },
+ {
+  "code": "ne",
+  "nom": "Niger",
+  "de": "du Niger",
+  "capitale": "Niamey",
+  "continent": "afrique"
+ },
+ {
+  "code": "ng",
+  "nom": "Nigeria",
+  "de": "du Nigeria",
+  "capitale": "Abuja",
+  "continent": "afrique"
+ },
+ {
+  "code": "rw",
+  "nom": "Rwanda",
+  "de": "du Rwanda",
+  "capitale": "Kigali",
+  "continent": "afrique"
+ },
+ {
+  "code": "st",
+  "nom": "Sao Tomé-et-Principe",
+  "de": "de Sao Tomé-et-Principe",
+  "capitale": "São Tomé",
+  "continent": "afrique"
+ },
+ {
+  "code": "sn",
+  "nom": "Sénégal",
+  "de": "du Sénégal",
+  "capitale": "Dakar",
+  "continent": "afrique"
+ },
+ {
+  "code": "sc",
+  "nom": "Seychelles",
+  "de": "des Seychelles",
+  "capitale": "Victoria",
+  "continent": "afrique"
+ },
+ {
+  "code": "sl",
+  "nom": "Sierra Leone",
+  "de": "de la Sierra Leone",
+  "capitale": "Freetown",
+  "continent": "afrique"
+ },
+ {
+  "code": "so",
+  "nom": "Somalie",
+  "de": "de la Somalie",
+  "capitale": "Mogadiscio",
+  "continent": "afrique"
+ },
+ {
+  "code": "za",
+  "nom": "Afrique du Sud",
+  "de": "de l'Afrique du Sud",
+  "capitale": "Pretoria",
+  "continent": "afrique",
+  "autresCapitales": [
+   "Le Cap",
+   "Bloemfontein"
+  ],
+  "note": "L'Afrique du Sud a trois capitales : Pretoria (exécutif), Le Cap (Parlement) et Bloemfontein (justice)."
+ },
+ {
+  "code": "ss",
+  "nom": "Soudan du Sud",
+  "de": "du Soudan du Sud",
+  "capitale": "Djouba",
+  "continent": "afrique",
+  "autresCapitales": [
+   "Juba"
+  ]
+ },
+ {
+  "code": "sd",
+  "nom": "Soudan",
+  "de": "du Soudan",
+  "capitale": "Khartoum",
+  "continent": "afrique"
+ },
+ {
+  "code": "tz",
+  "nom": "Tanzanie",
+  "de": "de la Tanzanie",
+  "capitale": "Dodoma",
+  "continent": "afrique",
+  "note": "Dodoma est la capitale officielle ; Dar es Salam reste la plus grande ville."
+ },
+ {
+  "code": "tg",
+  "nom": "Togo",
+  "de": "du Togo",
+  "capitale": "Lomé",
+  "continent": "afrique"
+ },
+ {
+  "code": "tn",
+  "nom": "Tunisie",
+  "de": "de la Tunisie",
+  "capitale": "Tunis",
+  "continent": "afrique"
+ },
+ {
+  "code": "ug",
+  "nom": "Ouganda",
+  "de": "de l'Ouganda",
+  "capitale": "Kampala",
+  "continent": "afrique"
+ },
+ {
+  "code": "zm",
+  "nom": "Zambie",
+  "de": "de la Zambie",
+  "capitale": "Lusaka",
+  "continent": "afrique"
+ },
+ {
+  "code": "zw",
+  "nom": "Zimbabwe",
+  "de": "du Zimbabwe",
+  "capitale": "Harare",
+  "continent": "afrique"
+ },
+ {
+  "code": "af",
+  "nom": "Afghanistan",
+  "de": "de l'Afghanistan",
+  "capitale": "Kaboul",
+  "continent": "asie"
+ },
+ {
+  "code": "am",
+  "nom": "Arménie",
+  "de": "de l'Arménie",
+  "capitale": "Erevan",
+  "continent": "asie",
+  "note": "Pays du Caucase, parfois rattaché à l'Europe."
+ },
+ {
+  "code": "az",
+  "nom": "Azerbaïdjan",
+  "de": "de l'Azerbaïdjan",
+  "capitale": "Bakou",
+  "continent": "asie",
+  "note": "Pays du Caucase, parfois rattaché à l'Europe."
+ },
+ {
+  "code": "bh",
+  "nom": "Bahreïn",
+  "de": "de Bahreïn",
+  "capitale": "Manama",
+  "continent": "asie"
+ },
+ {
+  "code": "bd",
+  "nom": "Bangladesh",
+  "de": "du Bangladesh",
+  "capitale": "Dacca",
+  "continent": "asie",
+  "autresCapitales": [
+   "Dhaka"
+  ]
+ },
+ {
+  "code": "bt",
+  "nom": "Bhoutan",
+  "de": "du Bhoutan",
+  "capitale": "Thimphou",
+  "continent": "asie"
+ },
+ {
+  "code": "bn",
+  "nom": "Brunei",
+  "de": "de Brunei",
+  "capitale": "Bandar Seri Begawan",
+  "continent": "asie"
+ },
+ {
+  "code": "kh",
+  "nom": "Cambodge",
+  "de": "du Cambodge",
+  "capitale": "Phnom Penh",
+  "continent": "asie"
+ },
+ {
+  "code": "cn",
+  "nom": "Chine",
+  "de": "de la Chine",
+  "capitale": "Pékin",
+  "continent": "asie",
+  "autresCapitales": [
+   "Beijing"
+  ]
+ },
+ {
+  "code": "ge",
+  "nom": "Géorgie",
+  "de": "de la Géorgie",
+  "capitale": "Tbilissi",
+  "continent": "asie",
+  "note": "Pays du Caucase, parfois rattaché à l'Europe."
+ },
+ {
+  "code": "in",
+  "nom": "Inde",
+  "de": "de l'Inde",
+  "capitale": "New Delhi",
+  "continent": "asie",
+  "autresCapitales": [
+   "Delhi"
+  ]
+ },
+ {
+  "code": "id",
+  "nom": "Indonésie",
+  "de": "de l'Indonésie",
+  "capitale": "Jakarta",
+  "continent": "asie",
+  "note": "Une nouvelle capitale, Nusantara, est en construction sur l'île de Bornéo."
+ },
+ {
+  "code": "ir",
+  "nom": "Iran",
+  "de": "de l'Iran",
+  "capitale": "Téhéran",
+  "continent": "asie"
+ },
+ {
+  "code": "iq",
+  "nom": "Irak",
+  "de": "de l'Irak",
+  "capitale": "Bagdad",
+  "continent": "asie",
+  "autresNoms": [
+   "Iraq"
+  ]
+ },
+ {
+  "code": "il",
+  "nom": "Israël",
+  "de": "d'Israël",
+  "capitale": "Jérusalem",
+  "continent": "asie",
+  "note": "Israël a proclamé Jérusalem capitale, mais ce statut n'est pas reconnu par la plupart des pays, dont les ambassades sont à Tel-Aviv."
+ },
+ {
+  "code": "jp",
+  "nom": "Japon",
+  "de": "du Japon",
+  "capitale": "Tokyo",
+  "continent": "asie"
+ },
+ {
+  "code": "jo",
+  "nom": "Jordanie",
+  "de": "de la Jordanie",
+  "capitale": "Amman",
+  "continent": "asie"
+ },
+ {
+  "code": "kz",
+  "nom": "Kazakhstan",
+  "de": "du Kazakhstan",
+  "capitale": "Astana",
+  "continent": "asie",
+  "note": "Pays transcontinental, classé ici en Asie."
+ },
+ {
+  "code": "kw",
+  "nom": "Koweït",
+  "de": "du Koweït",
+  "capitale": "Koweït",
+  "continent": "asie"
+ },
+ {
+  "code": "kg",
+  "nom": "Kirghizistan",
+  "de": "du Kirghizistan",
+  "capitale": "Bichkek",
+  "continent": "asie"
+ },
+ {
+  "code": "la",
+  "nom": "Laos",
+  "de": "du Laos",
+  "capitale": "Vientiane",
+  "continent": "asie"
+ },
+ {
+  "code": "lb",
+  "nom": "Liban",
+  "de": "du Liban",
+  "capitale": "Beyrouth",
+  "continent": "asie"
+ },
+ {
+  "code": "my",
+  "nom": "Malaisie",
+  "de": "de la Malaisie",
+  "capitale": "Kuala Lumpur",
+  "continent": "asie",
+  "note": "Le siège du gouvernement est à Putrajaya."
+ },
+ {
+  "code": "mv",
+  "nom": "Maldives",
+  "de": "des Maldives",
+  "capitale": "Malé",
+  "continent": "asie"
+ },
+ {
+  "code": "mn",
+  "nom": "Mongolie",
+  "de": "de la Mongolie",
+  "capitale": "Oulan-Bator",
+  "continent": "asie"
+ },
+ {
+  "code": "mm",
+  "nom": "Birmanie",
+  "de": "de la Birmanie",
+  "capitale": "Naypyidaw",
+  "continent": "asie",
+  "autresNoms": [
+   "Myanmar"
+  ],
+  "note": "Naypyidaw remplace Rangoun comme capitale depuis 2005."
+ },
+ {
+  "code": "np",
+  "nom": "Népal",
+  "de": "du Népal",
+  "capitale": "Katmandou",
+  "continent": "asie"
+ },
+ {
+  "code": "kp",
+  "nom": "Corée du Nord",
+  "de": "de la Corée du Nord",
+  "capitale": "Pyongyang",
+  "continent": "asie"
+ },
+ {
+  "code": "om",
+  "nom": "Oman",
+  "de": "d'Oman",
+  "capitale": "Mascate",
+  "continent": "asie"
+ },
+ {
+  "code": "pk",
+  "nom": "Pakistan",
+  "de": "du Pakistan",
+  "capitale": "Islamabad",
+  "continent": "asie"
+ },
+ {
+  "code": "ps",
+  "nom": "Palestine",
+  "de": "de la Palestine",
+  "capitale": "Jérusalem-Est",
+  "continent": "asie",
+  "autresCapitales": [
+   "Ramallah"
+  ],
+  "autresNoms": [
+   "État de Palestine"
+  ],
+  "note": "Capitale revendiquée ; l'Autorité palestinienne siège à Ramallah. État observateur à l'ONU."
+ },
+ {
+  "code": "ph",
+  "nom": "Philippines",
+  "de": "des Philippines",
+  "capitale": "Manille",
+  "continent": "asie"
+ },
+ {
+  "code": "qa",
+  "nom": "Qatar",
+  "de": "du Qatar",
+  "capitale": "Doha",
+  "continent": "asie"
+ },
+ {
+  "code": "sa",
+  "nom": "Arabie saoudite",
+  "de": "de l'Arabie saoudite",
+  "capitale": "Riyad",
+  "continent": "asie"
+ },
+ {
+  "code": "sg",
+  "nom": "Singapour",
+  "de": "de Singapour",
+  "capitale": "Singapour",
+  "continent": "asie"
+ },
+ {
+  "code": "kr",
+  "nom": "Corée du Sud",
+  "de": "de la Corée du Sud",
+  "capitale": "Séoul",
+  "continent": "asie"
+ },
+ {
+  "code": "lk",
+  "nom": "Sri Lanka",
+  "de": "du Sri Lanka",
+  "capitale": "Sri Jayawardenapura Kotte",
+  "continent": "asie",
+  "autresCapitales": [
+   "Colombo"
+  ],
+  "autresNoms": [
+   "Ceylan"
+  ],
+  "note": "Sri Jayawardenapura Kotte est la capitale officielle ; Colombo est la capitale économique et la plus grande ville."
+ },
+ {
+  "code": "sy",
+  "nom": "Syrie",
+  "de": "de la Syrie",
+  "capitale": "Damas",
+  "continent": "asie"
+ },
+ {
+  "code": "tj",
+  "nom": "Tadjikistan",
+  "de": "du Tadjikistan",
+  "capitale": "Douchanbé",
+  "continent": "asie"
+ },
+ {
+  "code": "th",
+  "nom": "Thaïlande",
+  "de": "de la Thaïlande",
+  "capitale": "Bangkok",
+  "continent": "asie"
+ },
+ {
+  "code": "tl",
+  "nom": "Timor oriental",
+  "de": "du Timor oriental",
+  "capitale": "Dili",
+  "continent": "asie",
+  "autresNoms": [
+   "Timor-Leste"
+  ]
+ },
+ {
+  "code": "tr",
+  "nom": "Turquie",
+  "de": "de la Turquie",
+  "capitale": "Ankara",
+  "continent": "asie",
+  "note": "Pays transcontinental, classé ici en Asie. Istanbul est sa plus grande ville."
+ },
+ {
+  "code": "tm",
+  "nom": "Turkménistan",
+  "de": "du Turkménistan",
+  "capitale": "Achgabat",
+  "continent": "asie"
+ },
+ {
+  "code": "ae",
+  "nom": "Émirats arabes unis",
+  "de": "des Émirats arabes unis",
+  "capitale": "Abou Dabi",
+  "continent": "asie",
+  "autresCapitales": [
+   "Abu Dhabi"
+  ],
+  "autresNoms": [
+   "Émirats",
+   "EAU"
+  ]
+ },
+ {
+  "code": "uz",
+  "nom": "Ouzbékistan",
+  "de": "de l'Ouzbékistan",
+  "capitale": "Tachkent",
+  "continent": "asie"
+ },
+ {
+  "code": "vn",
+  "nom": "Viêt Nam",
+  "de": "du Viêt Nam",
+  "capitale": "Hanoï",
+  "continent": "asie",
+  "autresNoms": [
+   "Vietnam"
+  ]
+ },
+ {
+  "code": "ye",
+  "nom": "Yémen",
+  "de": "du Yémen",
+  "capitale": "Sanaa",
+  "continent": "asie"
+ },
+ {
+  "code": "ag",
+  "nom": "Antigua-et-Barbuda",
+  "de": "d'Antigua-et-Barbuda",
+  "capitale": "Saint John's",
+  "continent": "amerique-nord"
+ },
+ {
+  "code": "bs",
+  "nom": "Bahamas",
+  "de": "des Bahamas",
+  "capitale": "Nassau",
+  "continent": "amerique-nord"
+ },
+ {
+  "code": "bb",
+  "nom": "Barbade",
+  "de": "de la Barbade",
+  "capitale": "Bridgetown",
+  "continent": "amerique-nord"
+ },
+ {
+  "code": "bz",
+  "nom": "Belize",
+  "de": "du Belize",
+  "capitale": "Belmopan",
+  "continent": "amerique-nord"
+ },
+ {
+  "code": "ca",
+  "nom": "Canada",
+  "de": "du Canada",
+  "capitale": "Ottawa",
+  "continent": "amerique-nord"
+ },
+ {
+  "code": "cr",
+  "nom": "Costa Rica",
+  "de": "du Costa Rica",
+  "capitale": "San José",
+  "continent": "amerique-nord"
+ },
+ {
+  "code": "cu",
+  "nom": "Cuba",
+  "de": "de Cuba",
+  "capitale": "La Havane",
+  "continent": "amerique-nord"
+ },
+ {
+  "code": "dm",
+  "nom": "Dominique",
+  "de": "de la Dominique",
+  "capitale": "Roseau",
+  "continent": "amerique-nord"
+ },
+ {
+  "code": "do",
+  "nom": "République dominicaine",
+  "de": "de la République dominicaine",
+  "capitale": "Saint-Domingue",
+  "continent": "amerique-nord"
+ },
+ {
+  "code": "sv",
+  "nom": "Salvador",
+  "de": "du Salvador",
+  "capitale": "San Salvador",
+  "continent": "amerique-nord",
+  "autresNoms": [
+   "El Salvador"
+  ]
+ },
+ {
+  "code": "gd",
+  "nom": "Grenade",
+  "de": "de la Grenade",
+  "capitale": "Saint-Georges",
+  "continent": "amerique-nord"
+ },
+ {
+  "code": "gt",
+  "nom": "Guatemala",
+  "de": "du Guatemala",
+  "capitale": "Guatemala",
+  "continent": "amerique-nord"
+ },
+ {
+  "code": "ht",
+  "nom": "Haïti",
+  "de": "d'Haïti",
+  "capitale": "Port-au-Prince",
+  "continent": "amerique-nord"
+ },
+ {
+  "code": "hn",
+  "nom": "Honduras",
+  "de": "du Honduras",
+  "capitale": "Tegucigalpa",
+  "continent": "amerique-nord"
+ },
+ {
+  "code": "jm",
+  "nom": "Jamaïque",
+  "de": "de la Jamaïque",
+  "capitale": "Kingston",
+  "continent": "amerique-nord"
+ },
+ {
+  "code": "mx",
+  "nom": "Mexique",
+  "de": "du Mexique",
+  "capitale": "Mexico",
+  "continent": "amerique-nord"
+ },
+ {
+  "code": "ni",
+  "nom": "Nicaragua",
+  "de": "du Nicaragua",
+  "capitale": "Managua",
+  "continent": "amerique-nord"
+ },
+ {
+  "code": "pa",
+  "nom": "Panama",
+  "de": "du Panama",
+  "capitale": "Panama",
+  "continent": "amerique-nord"
+ },
+ {
+  "code": "kn",
+  "nom": "Saint-Christophe-et-Niévès",
+  "de": "de Saint-Christophe-et-Niévès",
+  "capitale": "Basseterre",
+  "continent": "amerique-nord",
+  "autresNoms": [
+   "Saint-Kitts-et-Nevis"
+  ]
+ },
+ {
+  "code": "lc",
+  "nom": "Sainte-Lucie",
+  "de": "de Sainte-Lucie",
+  "capitale": "Castries",
+  "continent": "amerique-nord"
+ },
+ {
+  "code": "vc",
+  "nom": "Saint-Vincent-et-les-Grenadines",
+  "de": "de Saint-Vincent-et-les-Grenadines",
+  "capitale": "Kingstown",
+  "continent": "amerique-nord"
+ },
+ {
+  "code": "tt",
+  "nom": "Trinité-et-Tobago",
+  "de": "de Trinité-et-Tobago",
+  "capitale": "Port-d'Espagne",
+  "continent": "amerique-nord"
+ },
+ {
+  "code": "us",
+  "nom": "États-Unis",
+  "de": "des États-Unis",
+  "capitale": "Washington",
+  "continent": "amerique-nord",
+  "autresNoms": [
+   "USA"
+  ]
+ },
+ {
+  "code": "ar",
+  "nom": "Argentine",
+  "de": "de l'Argentine",
+  "capitale": "Buenos Aires",
+  "continent": "amerique-sud"
+ },
+ {
+  "code": "bo",
+  "nom": "Bolivie",
+  "de": "de la Bolivie",
+  "capitale": "Sucre",
+  "continent": "amerique-sud",
+  "autresCapitales": [
+   "La Paz"
+  ],
+  "note": "Sucre est la capitale constitutionnelle ; le gouvernement siège à La Paz."
+ },
+ {
+  "code": "br",
+  "nom": "Brésil",
+  "de": "du Brésil",
+  "capitale": "Brasília",
+  "continent": "amerique-sud"
+ },
+ {
+  "code": "cl",
+  "nom": "Chili",
+  "de": "du Chili",
+  "capitale": "Santiago",
+  "continent": "amerique-sud"
+ },
+ {
+  "code": "co",
+  "nom": "Colombie",
+  "de": "de la Colombie",
+  "capitale": "Bogota",
+  "continent": "amerique-sud"
+ },
+ {
+  "code": "ec",
+  "nom": "Équateur",
+  "de": "de l'Équateur",
+  "capitale": "Quito",
+  "continent": "amerique-sud"
+ },
+ {
+  "code": "gy",
+  "nom": "Guyana",
+  "de": "du Guyana",
+  "capitale": "Georgetown",
+  "continent": "amerique-sud"
+ },
+ {
+  "code": "py",
+  "nom": "Paraguay",
+  "de": "du Paraguay",
+  "capitale": "Asuncion",
+  "continent": "amerique-sud"
+ },
+ {
+  "code": "pe",
+  "nom": "Pérou",
+  "de": "du Pérou",
+  "capitale": "Lima",
+  "continent": "amerique-sud"
+ },
+ {
+  "code": "sr",
+  "nom": "Suriname",
+  "de": "du Suriname",
+  "capitale": "Paramaribo",
+  "continent": "amerique-sud"
+ },
+ {
+  "code": "uy",
+  "nom": "Uruguay",
+  "de": "de l'Uruguay",
+  "capitale": "Montevideo",
+  "continent": "amerique-sud"
+ },
+ {
+  "code": "ve",
+  "nom": "Venezuela",
+  "de": "du Venezuela",
+  "capitale": "Caracas",
+  "continent": "amerique-sud"
+ },
+ {
+  "code": "au",
+  "nom": "Australie",
+  "de": "de l'Australie",
+  "capitale": "Canberra",
+  "continent": "oceanie"
+ },
+ {
+  "code": "fj",
+  "nom": "Fidji",
+  "de": "des Fidji",
+  "capitale": "Suva",
+  "continent": "oceanie"
+ },
+ {
+  "code": "ki",
+  "nom": "Kiribati",
+  "de": "des Kiribati",
+  "capitale": "Tarawa-Sud",
+  "continent": "oceanie",
+  "autresCapitales": [
+   "Tarawa"
+  ]
+ },
+ {
+  "code": "mh",
+  "nom": "Îles Marshall",
+  "de": "des Îles Marshall",
+  "capitale": "Majuro",
+  "continent": "oceanie",
+  "autresNoms": [
+   "Marshall"
+  ]
+ },
+ {
+  "code": "fm",
+  "nom": "Micronésie",
+  "de": "de la Micronésie",
+  "capitale": "Palikir",
+  "continent": "oceanie"
+ },
+ {
+  "code": "nr",
+  "nom": "Nauru",
+  "de": "de Nauru",
+  "capitale": "Yaren",
+  "continent": "oceanie",
+  "note": "Nauru n'a pas de capitale officielle ; Yaren abrite le Parlement et le gouvernement."
+ },
+ {
+  "code": "nz",
+  "nom": "Nouvelle-Zélande",
+  "de": "de la Nouvelle-Zélande",
+  "capitale": "Wellington",
+  "continent": "oceanie"
+ },
+ {
+  "code": "pw",
+  "nom": "Palaos",
+  "de": "des Palaos",
+  "capitale": "Ngerulmud",
+  "continent": "oceanie",
+  "autresNoms": [
+   "Palau"
+  ]
+ },
+ {
+  "code": "pg",
+  "nom": "Papouasie-Nouvelle-Guinée",
+  "de": "de la Papouasie-Nouvelle-Guinée",
+  "capitale": "Port Moresby",
+  "continent": "oceanie",
+  "autresNoms": [
+   "Papouasie"
+  ]
+ },
+ {
+  "code": "ws",
+  "nom": "Samoa",
+  "de": "des Samoa",
+  "capitale": "Apia",
+  "continent": "oceanie"
+ },
+ {
+  "code": "sb",
+  "nom": "Îles Salomon",
+  "de": "des Îles Salomon",
+  "capitale": "Honiara",
+  "continent": "oceanie",
+  "autresNoms": [
+   "Salomon"
+  ]
+ },
+ {
+  "code": "to",
+  "nom": "Tonga",
+  "de": "des Tonga",
+  "capitale": "Nuku'alofa",
+  "continent": "oceanie"
+ },
+ {
+  "code": "tv",
+  "nom": "Tuvalu",
+  "de": "des Tuvalu",
+  "capitale": "Funafuti",
+  "continent": "oceanie"
+ },
+ {
+  "code": "vu",
+  "nom": "Vanuatu",
+  "de": "du Vanuatu",
+  "capitale": "Port-Vila",
+  "continent": "oceanie"
+ },
+ {
+  "code": "xk",
+  "nom": "Kosovo",
+  "de": "du Kosovo",
+  "capitale": "Pristina",
+  "continent": "europe",
+  "note": "Statut particulier : indépendance proclamée en 2008, reconnue par une partie des pays seulement ; la Serbie la conteste.",
+  "territoire": true
+ },
+ {
+  "code": "tw",
+  "nom": "Taïwan",
+  "de": "de Taïwan",
+  "capitale": "Taipei",
+  "continent": "asie",
+  "autresCapitales": [
+   "Taipeh"
+  ],
+  "note": "Statut particulier : gouverné de façon autonome, mais revendiqué par la Chine ; reconnu comme État par peu de pays.",
+  "territoire": true
+ },
+ {
+  "code": "gl",
+  "nom": "Groenland",
+  "de": "du Groenland",
+  "capitale": "Nuuk",
+  "continent": "amerique-nord",
+  "note": "Territoire autonome rattaché au Danemark.",
+  "territoire": true
+ },
+ {
+  "code": "pr",
+  "nom": "Porto Rico",
+  "de": "de Porto Rico",
+  "capitale": "San Juan",
+  "continent": "amerique-nord",
+  "note": "Territoire associé aux États-Unis.",
+  "territoire": true
+ },
+ {
+  "code": "hk",
+  "nom": "Hong Kong",
+  "de": "de Hong Kong",
+  "capitale": null,
+  "continent": "asie",
+  "note": "Région administrative spéciale de la Chine.",
+  "territoire": true
+ },
+ {
+  "code": "mo",
+  "nom": "Macao",
+  "de": "de Macao",
+  "capitale": null,
+  "continent": "asie",
+  "autresNoms": [
+   "Macau"
+  ],
+  "note": "Région administrative spéciale de la Chine.",
+  "territoire": true
+ },
+ {
+  "code": "nc",
+  "nom": "Nouvelle-Calédonie",
+  "de": "de la Nouvelle-Calédonie",
+  "capitale": "Nouméa",
+  "continent": "oceanie",
+  "note": "Collectivité française du Pacifique.",
+  "territoire": true
+ },
+ {
+  "code": "pf",
+  "nom": "Polynésie française",
+  "de": "de la Polynésie française",
+  "capitale": "Papeete",
+  "continent": "oceanie",
+  "autresNoms": [
+   "Tahiti"
+  ],
+  "note": "Collectivité française du Pacifique.",
+  "territoire": true
+ },
+ {
+  "code": "eh",
+  "nom": "Sahara occidental",
+  "de": "du Sahara occidental",
+  "capitale": "Laâyoune",
+  "continent": "afrique",
+  "note": "Statut particulier : territoire disputé entre le Maroc, qui en contrôle la majeure partie, et le Front Polisario.",
+  "territoire": true
+ },
+ {
+  "code": "fo",
+  "nom": "Îles Féroé",
+  "de": "des Îles Féroé",
+  "capitale": "Tórshavn",
+  "continent": "europe",
+  "autresCapitales": [
+   "Torshavn"
+  ],
+  "autresNoms": [
+   "Féroé"
+  ],
+  "note": "Territoire autonome rattaché au Danemark.",
+  "territoire": true
+ },
+ {
+  "code": "bm",
+  "nom": "Bermudes",
+  "de": "des Bermudes",
+  "capitale": "Hamilton",
+  "continent": "amerique-nord",
+  "note": "Territoire britannique d'outre-mer.",
+  "territoire": true
+ },
+ {
+  "code": "gu",
+  "nom": "Guam",
+  "de": "de Guam",
+  "capitale": "Hagåtña",
+  "continent": "oceanie",
+  "autresCapitales": [
+   "Hagatna"
+  ],
+  "note": "Territoire des États-Unis.",
+  "territoire": true
+ },
+ {
+  "code": "gi",
+  "nom": "Gibraltar",
+  "de": "de Gibraltar",
+  "capitale": "Gibraltar",
+  "continent": "europe",
+  "note": "Territoire britannique d'outre-mer, revendiqué par l'Espagne.",
+  "territoire": true
+ },
+ {
+  "code": "aw",
+  "nom": "Aruba",
+  "de": "d'Aruba",
+  "capitale": "Oranjestad",
+  "continent": "amerique-nord",
+  "note": "Pays constitutif du royaume des Pays-Bas.",
+  "territoire": true
+ },
+ {
+  "code": "cw",
+  "nom": "Curaçao",
+  "de": "de Curaçao",
+  "capitale": "Willemstad",
+  "continent": "amerique-nord",
+  "note": "Pays constitutif du royaume des Pays-Bas.",
+  "territoire": true
+ },
+ {
+  "code": "ky",
+  "nom": "Îles Caïmans",
+  "de": "des Îles Caïmans",
+  "capitale": "George Town",
+  "continent": "amerique-nord",
+  "autresNoms": [
+   "Caïmans"
+  ],
+  "note": "Territoire britannique d'outre-mer.",
+  "territoire": true
+ },
+ {
+  "code": "im",
+  "nom": "Île de Man",
+  "de": "de l'Île de Man",
+  "capitale": "Douglas",
+  "continent": "europe",
+  "note": "Dépendance de la Couronne britannique.",
+  "territoire": true
+ },
+ {
+  "code": "je",
+  "nom": "Jersey",
+  "de": "de Jersey",
+  "capitale": "Saint-Hélier",
+  "continent": "europe",
+  "autresCapitales": [
+   "St Helier"
+  ],
+  "note": "Dépendance de la Couronne britannique.",
+  "territoire": true
+ },
+ {
+  "code": "gb-eng",
+  "nom": "Angleterre",
+  "de": "de l'Angleterre",
+  "capitale": "Londres",
+  "continent": "europe",
+  "note": "Nation constitutive du Royaume-Uni.",
+  "territoire": true
+ },
+ {
+  "code": "gb-sct",
+  "nom": "Écosse",
+  "de": "de l'Écosse",
+  "capitale": "Édimbourg",
+  "continent": "europe",
+  "note": "Nation constitutive du Royaume-Uni.",
+  "territoire": true
+ },
+ {
+  "code": "gb-wls",
+  "nom": "Pays de Galles",
+  "de": "du Pays de Galles",
+  "capitale": "Cardiff",
+  "continent": "europe",
+  "autresNoms": [
+   "Galles"
+  ],
+  "note": "Nation constitutive du Royaume-Uni.",
+  "territoire": true
+ }
+]

@@ -795,3 +795,66 @@ body::before {
 .empty-state strong { color: var(--text-muted); }
 
 .subtheme-row__count { font-size: 22px; line-height: 1; }
+
+/* ===================== Dragon Tour ===================== */
+.home-card--dragon { background: linear-gradient(140deg, rgba(16, 185, 129, 0.34), var(--card) 65%); }
+.home-card { min-height: 100px; padding: 18px 20px; }
+.home-choices { gap: 12px; }
+
+.dt-groups { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.dt-group {
+  display: flex; flex-direction: column; align-items: flex-start; gap: 8px;
+  min-height: 96px; padding: 16px 14px;
+  background: var(--card); color: var(--text); text-align: left;
+  border: 1px solid var(--border-soft); border-radius: var(--radius-lg);
+  cursor: pointer; transition: transform .12s ease, border-color .15s ease;
+}
+.dt-group:active { transform: scale(0.97); border-color: var(--accent); }
+.dt-group--wide { grid-column: 1 / -1; flex-direction: row; align-items: center; gap: 14px; }
+.dt-group--wide:first-child { background: linear-gradient(135deg, rgba(16, 185, 129, 0.25), var(--card) 70%); }
+.dt-group__emoji { font-size: 28px; }
+.dt-group__text { display: flex; flex-direction: column; gap: 3px; }
+.dt-group__label { font-family: var(--font-display); font-weight: 800; font-size: 16px; }
+.dt-group__desc { font-size: 13px; color: var(--text-muted); line-height: 1.4; }
+
+.mode-card.is-soon { opacity: 0.5; cursor: default; }
+.dt-soon {
+  display: inline-block; vertical-align: middle; margin-left: 6px;
+  font-size: 11px; font-weight: 700; letter-spacing: .03em; text-transform: uppercase;
+  padding: 3px 8px; border-radius: 999px; background: var(--bg-elevated); color: var(--text-faint);
+}
+
+/* Carte à retourner */
+.dt-card { perspective: 1200px; cursor: pointer; margin-bottom: 16px; }
+.dt-card__inner {
+  position: relative; min-height: 360px;
+  transition: transform .5s cubic-bezier(.2, .8, .2, 1);
+  transform-style: preserve-3d;
+}
+.dt-card.is-flipped .dt-card__inner { transform: rotateY(180deg); }
+.dt-card__face {
+  position: absolute; inset: 0;
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;
+  padding: 24px 20px; text-align: center;
+  background: linear-gradient(165deg, var(--card), var(--bg-soft));
+  border: 1px solid var(--border-soft); border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-soft);
+  backface-visibility: hidden; -webkit-backface-visibility: hidden;
+}
+.dt-card__back { transform: rotateY(180deg); }
+.dt-flag {
+  width: 100%; max-width: 300px; aspect-ratio: 4 / 3; object-fit: cover;
+  border-radius: 12px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+  background: var(--bg-elevated);
+}
+.dt-flag--small { max-width: 150px; border-radius: 8px; }
+.dt-card__prompt { font-family: var(--font-display); font-weight: 800; font-size: 20px; margin: 10px 0 0; }
+.dt-card__hint { font-size: 13px; color: var(--text-faint); margin: 0; }
+.dt-card__name { font-size: 26px; margin: 6px 0 0; line-height: 1.2; }
+.dt-card__cap { display: flex; flex-direction: column; gap: 2px; margin: 0; font-size: 19px; font-weight: 700; color: var(--accent-2); }
+.dt-card__cap span { font-size: 12px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--text-faint); }
+.dt-card__note { font-size: 13.5px; line-height: 1.5; color: var(--text-muted); margin: 4px 0 0; max-width: 340px; }
+
+.dt-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.dt-actions[hidden] { display: none; }
+.dt-actions .btn { min-height: 54px; font-size: 16px; }

@@ -55,6 +55,13 @@
           <span class="home-card__desc">Tester ce que tu sais</span>
         </span>
       </button>
+      <button class="home-card home-card--dragon" type="button" data-go="dragon">
+        <span class="home-card__icon">🐉</span>
+        <span class="home-card__text">
+          <span class="home-card__title">Dragon Tour</span>
+          <span class="home-card__desc">Drapeaux et capitales du monde</span>
+        </span>
+      </button>
     </div>
 
     <div class="home-footer">
@@ -138,6 +145,11 @@
     <div id="favorites-content" class="card-stage"></div>
   </section>
 
+  <!-- ===== DRAGON TOUR ===== -->
+  <section class="screen" data-screen="dragon" data-title="Dragon Tour" data-back="home" hidden>
+    <div id="dragon-content"></div>
+  </section>
+
   <!-- ===== CONTENUS ===== -->
   <section class="screen" data-screen="fiches-aleatoire" data-title="Fiches · Aléatoire" data-back="fiches-menu" hidden>
     <div id="fiches-aleatoire-card" class="card-stage"></div>
@@ -184,6 +196,7 @@
 <script src="js/stats.js"></script>
 <script src="js/daily.js"></script>
 <script src="js/library.js"></script>
+<script src="js/dragon.js"></script>
 <script src="js/app.js"></script>
 </body>
 </html>

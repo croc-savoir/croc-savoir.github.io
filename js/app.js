@@ -41,6 +41,7 @@ const App = (() => {
     if (name === 'fiches-aleatoire') Fiches.initAleatoire();
     if (name === 'fiches-theme') Fiches.initTheme();
     if (name === 'daily') Daily.render();
+    if (name === 'dragon') Dragon.init();
     if (name === 'search') Library.initSearch();
     if (name === 'favoris') Library.initFavorites();
     if (name === 'quiz-aleatoire') Quiz.initAleatoire();

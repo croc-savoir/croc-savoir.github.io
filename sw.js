@@ -4,7 +4,7 @@
  *   et à mesure (stale-while-revalidate), pour supporter l'ajout de
  *   nouveaux domaines/lots sans jamais devoir republier le service worker.
  * ================================================================= */
-const SHELL_VERSION = 'v15';
+const SHELL_VERSION = 'v16';
 const SHELL_CACHE = `culture-g-shell-${SHELL_VERSION}`;
 const DATA_CACHE = 'culture-g-data';
 
@@ -22,6 +22,7 @@ const SHELL_FILES = [
   'js/stats.js',
   'js/daily.js',
   'js/library.js',
+  'js/dragon.js',
   'js/app.js',
   'fonts/mplus-rounded-500.woff2',
   'fonts/mplus-rounded-700.woff2',
@@ -64,6 +65,20 @@ self.addEventListener('fetch', (event) => {
 
   // Data JSON : stale-while-revalidate (fonctionne hors-ligne dès le 1er chargement,
   // se met à jour tout seul en tâche de fond dès qu'il y a du réseau).
+  // Drapeaux : ils ne changent jamais → cache d'abord, réseau sinon.
+  if (url.pathname.includes('/data/dragon-tour/drapeaux/')) {
+    event.respondWith(
+      caches.open(DATA_CACHE).then(async (cache) => {
+        const cached = await cache.match(req);
+        if (cached) return cached;
+        const res = await fetch(req);
+        if (res && res.ok) cache.put(req, res.clone());
+        return res;
+      })
+    );
+    return;
+  }
+
   if (isDataRequest(url)) {
     // Données (fiches, quiz) : réseau d'abord pour avoir le contenu à jour dès le
     // premier rafraîchissement ; copie en cache pour le hors-ligne.

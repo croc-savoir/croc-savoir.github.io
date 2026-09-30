@@ -12,6 +12,7 @@ const Store = (() => {
       fiches: {},   // ficheId -> { views, lastViewed }
       quiz: {},     // questionId -> { ef, interval, reps, due, lastResult, history: [{date, correct}] }
       settings: { accent: 'blue' },
+      dragon: {},    // code pays -> { seen, lastKnown, lastSeen }
       favorites: {}, // ficheId -> date d'ajout (ISO)
       daily: null,  // session du jour en cours : { date, ficheIds, quizIds, step, results, done }
       streak: { count: 0, lastDate: null }, // jours consécutifs avec une bouchée terminée
@@ -30,6 +31,7 @@ const Store = (() => {
       if (!data.settings) data.settings = { accent: 'blue' };
       if (!data.streak) data.streak = { count: 0, lastDate: null };
       if (!data.favorites) data.favorites = {};
+      if (!data.dragon) data.dragon = {};
     } catch (e) {
       console.warn('Progression illisible, réinitialisation locale.', e);
       data = blank();
@@ -122,6 +124,19 @@ const Store = (() => {
     if (!data.settings) data.settings = { accent: 'blue' };
     if (!data.streak) data.streak = { count: 0, lastDate: null };
     if (!data.favorites) data.favorites = {};
+    if (!data.dragon) data.dragon = {};
+    save();
+  }
+
+  // ---------- Dragon Tour ----------
+  function getDragonMeta(code) { load(); return data.dragon[code] || null; }
+  function recordDragonSeen(code, known) {
+    load();
+    const cur = data.dragon[code] || { seen: 0 };
+    cur.seen += 1;
+    cur.lastKnown = known;
+    cur.lastSeen = new Date().toISOString();
+    data.dragon[code] = cur;
     save();
   }
 
@@ -164,6 +179,7 @@ const Store = (() => {
     domainStats, globalCounts,
     exportJSON, importJSON,
     setAccent, getAccent,
+    getDragonMeta, recordDragonSeen,
     isFavorite, toggleFavorite, favoriteIds,
     getDaily, setDaily, getStreakRaw, setStreakRaw,
   };

@@ -22,7 +22,7 @@ const qP = path.join(DATA, 'quiz', dom + '.json');
 const fiches = lireJSON(fP);
 const quiz = lireJSON(qP);
 const erreurs = [];
-const sourceWiki = w => (w ? `D'après Wikipédia — ${w}` : 'À vérifier');
+const sourceWiki = (w, en) => (w ? `D'après Wikipédia — ${w}` : en ? `D'après Wikipédia (en anglais) — ${en}` : 'À vérifier');
 const prochain = arr => Math.max(0, ...arr.map(x => +(/-(\d+)$/.exec(x.id)?.[1] || 0))) + 1;
 const num = n => String(n).padStart(3, '0');
 
@@ -51,7 +51,7 @@ for (const f of lot.fiches || []) {
   fiches.push({
     id: `${dom}-${num(n++)}`, domain: dom, subtheme: f.subtheme, type: f.type,
     title: f.title, ...(f.subtitle ? { subtitle: f.subtitle } : {}), summary: f.summary, details: f.details,
-    source: f.source || sourceWiki(f.details?.wikipedia),
+    source: f.source || sourceWiki(f.details?.wikipedia, f.details?.wikipediaEn),
   });
   nF++;
 }
@@ -77,9 +77,9 @@ let qn = prochain(quiz), nQ = 0;
 for (const q of lot.quiz || []) {
   const ou = JSON.stringify(q).slice(0, 70);
   valider(q, ou);
-  const { wikipedia, ...rest } = q;
+  const { wikipedia, wikipediaEn, ...rest } = q;
   for (const k of Object.keys(rest)) if (k.startsWith('_')) delete rest[k]; // champs de travail
-  quiz.push({ id: `q-${dom}-${num(qn++)}`, domain: dom, ...rest, source: rest.source || sourceWiki(wikipedia) });
+  quiz.push({ id: `q-${dom}-${num(qn++)}`, domain: dom, ...rest, source: rest.source || sourceWiki(wikipedia, wikipediaEn) });
   nQ++;
 }
 
@@ -88,9 +88,9 @@ let nMaj = 0;
 for (const [id, maj] of Object.entries(lot.quizMaj || {})) {
   const q = quiz.find(x => x.id === id);
   if (!q) { erreurs.push(`quizMaj : question introuvable ${id}`); continue; }
-  const { wikipedia, ...rest } = maj;
+  const { wikipedia, wikipediaEn, ...rest } = maj;
   Object.assign(q, rest);
-  if (wikipedia) q.source = sourceWiki(wikipedia);
+  if (wikipedia || wikipediaEn) q.source = sourceWiki(wikipedia, wikipediaEn);
   valider(q, id);
   nMaj++;
 }

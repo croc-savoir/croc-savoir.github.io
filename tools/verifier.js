@@ -35,7 +35,7 @@ async function main() {
       if (titres.has(t)) warn('Titres identiques entre thèmes', `« ${f.title} » : ${titres.get(t)} et ${f.id}`);
       else titres.set(t, f.id);
       if (!f.details || !Object.keys(f.details).length) warn('Fiches sans « Approfondir »', ou);
-      if (!titreWikipedia(f)) warn('Fiches sans article Wikipédia désigné', ou);
+      if (!titreWikipedia(f) && !f.details?.wikipediaEn) warn('Fiches sans article Wikipédia désigné', ou);
       if (/vérifier/i.test(f.source || '')) warn('Fiches à source « À vérifier »', ou);
     }
 
@@ -88,6 +88,14 @@ async function main() {
     for (const d of domaines()) for (const o of [...tout[d.id].fiches, ...tout[d.id].quiz]) {
       const t = titreWikipedia(o);
       if (t) (cites.get(t) || cites.set(t, []).get(t)).push(o.id);
+    }
+    // Sources en anglais (sujets sans article français) : champ details.wikipediaEn ou source « (en anglais) »
+    const S = require('./sources');
+    for (const d of domaines()) for (const o of [...tout[d.id].fiches, ...tout[d.id].quiz]) {
+      const en = o.details?.wikipediaEn || (/^D'après Wikipédia \(en anglais\) — (.+)$/.exec(o.source || '') || [])[1];
+      if (!en) continue;
+      const r = await S.article(en, 'en');
+      if (r.introuvable) warn('Articles Wikipédia introuvables', `« ${en} » (anglais, ${o.id})`);
     }
     let i = 0;
     for (const [t, qui] of cites) {

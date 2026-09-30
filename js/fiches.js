@@ -90,8 +90,10 @@ const Fiches = (() => {
     }
     const wikiUrl = d.wikipedia
       ? `https://fr.wikipedia.org/wiki/${encodeURIComponent(d.wikipedia.replace(/ /g, '_'))}`
+      : d.wikipediaEn
+      ? `https://en.wikipedia.org/wiki/${encodeURIComponent(d.wikipediaEn.replace(/ /g, '_'))}`
       : `https://fr.wikipedia.org/w/index.php?search=${encodeURIComponent(fiche.title.replace(/^[-\d\s]+:\s*/, ''))}`;
-    h += `<a class="wiki-link" href="${wikiUrl}" target="_blank" rel="noopener">📖 Lire l'article sur Wikipédia</a>`;
+    h += `<a class="wiki-link" href="${wikiUrl}" target="_blank" rel="noopener">📖 Lire l'article sur Wikipédia${!d.wikipedia && d.wikipediaEn ? ' (en anglais)' : ''}</a>`;
     return h;
   }
 

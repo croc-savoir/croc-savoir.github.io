@@ -39,6 +39,7 @@ function chargerTout() {
 function titreWikipedia(obj) {
   if (obj.details && obj.details.wikipedia) return obj.details.wikipedia;
   if (obj.wikipedia) return obj.wikipedia;
+  if (/^D'après Wikipédia \(en anglais\)/.test(obj.source || '')) return null;
   const m = /^D'après Wikipédia — (.+)$/.exec(obj.source || '');
   return m ? m[1] : null;
 }

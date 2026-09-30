@@ -88,6 +88,7 @@ const Dragon = (() => {
     if (state.level === 'entrainer-run') return renderEntrainer(root);
     if (state.level === 'maitriser') return renderMaitriserSetup(root);
     if (state.level === 'maitriser-run') return renderMaitriser(root);
+    if (state.level === 'revision') return renderRevision(root);
   }
 
   // ---------- Groupes ----------
@@ -99,10 +100,16 @@ const Dragon = (() => {
 
     const list = document.createElement('div');
     list.className = 'dt-groups';
+    const rev = document.createElement('button');
+    rev.type = 'button';
+    rev.className = 'dt-group dt-group--wide dt-revision' + (hasDue() ? ' is-due' : ' is-idle');
+    rev.innerHTML = revisionCardHTML();
+    rev.addEventListener('click', () => { if (hasDue()) goDeeper({ level: 'revision', groupId: 'monde', series: null }); });
+    list.appendChild(rev);
     GROUPS.forEach(g => {
       const btn = document.createElement('button');
       btn.type = 'button';
-      btn.className = 'dt-group' + (g.id === 'monde' ? ' dt-group--wide' : '') + (g.id === 'territoires' ? ' dt-group--wide dt-group--terr' : '');
+      btn.className = 'dt-group' + (g.id === 'monde' ? ' dt-group--wide dt-group--monde' : '') + (g.id === 'territoires' ? ' dt-group--wide dt-group--terr' : '');
       btn.innerHTML = `
         <span class="dt-group__emoji">${g.emoji}</span>
         <span class="dt-group__text">
@@ -447,12 +454,13 @@ const Dragon = (() => {
     const again = document.createElement('button');
     again.type = 'button';
     again.className = 'btn btn-primary daily-end__btn';
-    again.textContent = '🎯 Nouvelle série';
+    again.textContent = se.revision ? '🔁 Continuer la révision' : '🎯 Nouvelle série';
+    if (se.revision && !hasDue()) again.hidden = true;
     again.addEventListener('click', () => { state.series = null; render(); });
     const back = document.createElement('button');
     back.type = 'button';
     back.className = 'btn btn-ghost daily-end__btn';
-    back.textContent = 'Changer de type';
+    back.textContent = se.revision ? 'Retour à Dragon Tour' : 'Changer de type';
     back.addEventListener('click', () => App.back());
     div.appendChild(again);
     div.appendChild(back);
@@ -667,5 +675,80 @@ const Dragon = (() => {
     if (nextItem) { const img = new Image(); img.src = FLAG_DIR + nextItem.code + '.svg'; }
   }
 
-  return { init };
+  // ---------- Révision du jour ----------
+  const REVISION_MAX = 15;
+
+  // Pays déjà vus qu'il est temps de revoir : ratés, ou échéance de répétition espacée dépassée.
+  // Ne lit que la progression enregistrée (pas besoin de charger la liste des pays).
+  function dueCodes() {
+    const now = Date.now();
+    const all = Store.dragonProgress();
+    const out = [];
+    for (const code in all) {
+      const m = all[code];
+      const due = m.due ? new Date(m.due).getTime() : 0;
+      if (m.lastKnown === false) out.push({ code, w: 1e12 + (now - due) });
+      else if (due <= now) out.push({ code, w: now - due });
+    }
+    return out.sort((a, b) => b.w - a.w).map(x => x.code);
+  }
+
+  function hasDue() { return dueCodes().length > 0; }
+
+  // Série adaptée au niveau : QCM si le pays est encore fragile, réponse tapée s'il est bien connu.
+  function buildRevision() {
+    const items = [];
+    for (const code of dueCodes()) {
+      const p = pays.find(x => x.code === code);
+      if (!p) continue;
+      const typed = level(code) >= 2;
+      const types = typed ? typedTypesFor('mix', p) : questionTypesFor('mix', p);
+      if (!types.length) continue;
+      items.push({ code, type: types[Math.floor(Math.random() * types.length)], mode: typed ? 'typed' : 'qcm' });
+      if (items.length >= REVISION_MAX) break;
+    }
+    return items;
+  }
+
+  function revisionCardHTML() {
+    const seenAny = Object.keys(Store.dragonProgress()).length > 0;
+    const due = hasDue();
+    const desc = due ? 'À revoir aujourd’hui · tous continents mélangés'
+      : seenAny ? '✓ Tout est à jour, reviens demain'
+        : 'Découvre d’abord quelques pays dans un continent';
+    return `
+      <span class="dt-group__emoji">🔁</span>
+      <span class="dt-group__text">
+        <span class="dt-group__label">Révision du jour</span>
+        <span class="dt-group__desc">${desc}</span>
+      </span>
+      ${due ? '<span class="dt-revision__arrow">›</span>' : ''}`;
+  }
+
+  function renderRevision(root) {
+    if (!state.series) {
+      state.series = { items: buildRevision(), index: 0, results: [], revision: true };
+    }
+    const se = state.series;
+    if (!se.items.length) {
+      const div = document.createElement('div');
+      div.className = 'daily-end';
+      div.innerHTML = `
+        <div class="daily-end__emoji">✅</div>
+        <h2 class="daily-end__title">Tout est à jour !</h2>
+        <p class="daily-end__msg">Aucun pays à revoir pour l’instant. Reviens demain, ou découvre de nouveaux pays.</p>`;
+      const back = document.createElement('button');
+      back.type = 'button';
+      back.className = 'btn btn-primary daily-end__btn';
+      back.textContent = 'Retour à Dragon Tour';
+      back.addEventListener('click', () => App.back());
+      div.appendChild(back);
+      root.appendChild(div);
+      return;
+    }
+    if (se.index >= se.items.length) return renderSeriesEnd(root, se);
+    return se.items[se.index].mode === 'typed' ? renderMaitriser(root) : renderEntrainer(root);
+  }
+
+  return { init, hasDue };
 })();

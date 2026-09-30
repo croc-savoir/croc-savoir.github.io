@@ -811,7 +811,7 @@ body::before {
 }
 .dt-group:active { transform: scale(0.97); border-color: var(--accent); }
 .dt-group--wide { grid-column: 1 / -1; flex-direction: row; align-items: center; gap: 14px; }
-.dt-group--wide:first-child { background: linear-gradient(135deg, rgba(16, 185, 129, 0.25), var(--card) 70%); }
+.dt-group--monde { background: linear-gradient(135deg, rgba(16, 185, 129, 0.25), var(--card) 70%); }
 .dt-group__emoji { font-size: 28px; }
 .dt-group__text { display: flex; flex-direction: column; gap: 3px; }
 .dt-group__label { font-family: var(--font-display); font-weight: 800; font-size: 16px; }
@@ -913,3 +913,17 @@ body::before {
   font-size: 14px; font-weight: 700; text-decoration: underline; cursor: pointer;
 }
 .dt-type__skip[hidden] { display: none; }
+
+/* Dragon Tour — révision du jour */
+.dt-revision { position: relative; }
+.dt-revision.is-due { border-color: rgba(52, 211, 153, 0.55); background: linear-gradient(135deg, rgba(52, 211, 153, 0.22), var(--card) 75%); box-shadow: 0 8px 22px rgba(52, 211, 153, 0.15); }
+.dt-revision.is-idle { opacity: 0.75; cursor: default; }
+.dt-revision.is-idle:active { transform: none; border-color: var(--border-soft); }
+.dt-revision__arrow { margin-left: auto; font-size: 26px; color: var(--text-faint); }
+.home-card__badge {
+  position: absolute; top: 12px; right: 14px;
+  font-size: 12px; font-weight: 800; padding: 4px 9px; border-radius: 999px;
+  background: rgba(52, 211, 153, 0.18); color: #6ee7b7;
+}
+.home-card__badge[hidden] { display: none; }
+.home-card { position: relative; }

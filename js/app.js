@@ -107,6 +107,7 @@ const App = (() => {
     document.getElementById('home-greeting').textContent =
       `${nD} thèmes · ${approx(nF, 'fiches')} · ${approx(nQ, 'quiz')}`;
     renderDailyCard();
+    document.getElementById('dragon-badge').hidden = !Dragon.hasDue();
     const nErr = Store.getErrorIds().length;
     const errBtn = document.getElementById('btn-errors');
     errBtn.hidden = nErr === 0;

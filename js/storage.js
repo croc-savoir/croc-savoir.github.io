@@ -129,6 +129,7 @@ const Store = (() => {
   }
 
   // ---------- Dragon Tour ----------
+  function dragonProgress() { load(); return data.dragon; }
   function getDragonMeta(code) { load(); return data.dragon[code] || null; }
   // Met à jour la répétition espacée du pays (SM-2 simplifié, cf. srs.js).
   // opts.typed : réponse tapée en mode « Maîtriser » (nécessaire pour le niveau 3).
@@ -184,7 +185,7 @@ const Store = (() => {
     domainStats, globalCounts,
     exportJSON, importJSON,
     setAccent, getAccent,
-    getDragonMeta, recordDragonSeen,
+    getDragonMeta, recordDragonSeen, dragonProgress,
     isFavorite, toggleFavorite, favoriteIds,
     getDaily, setDaily, getStreakRaw, setStreakRaw,
   };

@@ -2,7 +2,7 @@
   {
     "id": "manga-001",
     "domain": "manga",
-    "subtheme": "Mangaka",
+    "subtheme": "Mangakas et réalisateurs",
     "type": "personnage",
     "title": "Osamu Tezuka",
     "subtitle": "Mangaka japonais, 1928-1989",
@@ -36,7 +36,7 @@
   {
     "id": "manga-002",
     "domain": "manga",
-    "subtheme": "Mangaka",
+    "subtheme": "Mangakas et réalisateurs",
     "type": "personnage",
     "title": "Akira Toriyama",
     "subtitle": "Mangaka japonais, 1955-2024",
@@ -70,7 +70,7 @@
   {
     "id": "manga-003",
     "domain": "manga",
-    "subtheme": "Mangaka",
+    "subtheme": "Mangakas et réalisateurs",
     "type": "personnage",
     "title": "Eiichiro Oda",
     "subtitle": "Mangaka japonais, né en 1975",
@@ -103,7 +103,7 @@
   {
     "id": "manga-004",
     "domain": "manga",
-    "subtheme": "Mangaka",
+    "subtheme": "Mangakas et réalisateurs",
     "type": "personnage",
     "title": "Hayao Miyazaki",
     "subtitle": "Réalisateur et cofondateur du Studio Ghibli, né en 1941",
@@ -138,7 +138,7 @@
   {
     "id": "manga-005",
     "domain": "manga",
-    "subtheme": "Mangaka",
+    "subtheme": "Mangakas et réalisateurs",
     "type": "personnage",
     "title": "Naoko Takeuchi",
     "subtitle": "Mangaka japonaise, née en 1967",
@@ -171,7 +171,7 @@
   {
     "id": "manga-006",
     "domain": "manga",
-    "subtheme": "Mangaka",
+    "subtheme": "Mangakas et réalisateurs",
     "type": "personnage",
     "title": "Hajime Isayama",
     "subtitle": "Mangaka japonais, né en 1986",
@@ -204,7 +204,7 @@
   {
     "id": "manga-007",
     "domain": "manga",
-    "subtheme": "Studios",
+    "subtheme": "Films et studios",
     "type": "classique",
     "title": "Le Studio Ghibli",
     "summary": "Studio d'animation japonais fondé en 1985 par Hayao Miyazaki, Isao Takahata et le producteur Toshio Suzuki. Il est réputé pour la qualité de son animation dessinée à la main et la profondeur de ses récits.\nSes films ont conquis un public international bien au-delà des amateurs habituels d'anime.",
@@ -416,7 +416,7 @@
   {
     "id": "manga-013",
     "domain": "manga",
-    "subtheme": "Vocabulaire",
+    "subtheme": "Culture et vocabulaire",
     "type": "vocabulaire",
     "title": "Isekai",
     "summary": "Genre narratif où le ou la protagoniste est transporté(e) dans un monde parallèle, souvent fantastique, que ce soit par réincarnation, invocation ou accident.\nCe genre a connu une popularité considérable dans le manga et l'anime au cours des années 2010.",
@@ -446,7 +446,7 @@
   {
     "id": "manga-014",
     "domain": "manga",
-    "subtheme": "Vocabulaire",
+    "subtheme": "Culture et vocabulaire",
     "type": "vocabulaire",
     "title": "Shonen et seinen",
     "summary": "Le shonen désigne les mangas ciblant principalement un jeune public masculin, souvent centrés sur l'action, l'amitié et le dépassement de soi. Le seinen vise un public plus adulte, avec des thèmes souvent plus sombres ou complexes.\nCes catégories désignent le public visé, pas la qualité ou le style graphique de l'œuvre.",
@@ -476,7 +476,7 @@
   {
     "id": "manga-015",
     "domain": "manga",
-    "subtheme": "Vocabulaire",
+    "subtheme": "Culture et vocabulaire",
     "type": "vocabulaire",
     "title": "OAV / OVA",
     "summary": "Sigle signifiant « Original Video Animation » (ou Original Animation Video), désignant des épisodes ou films d'animation produits directement pour une sortie vidéo, sans passer par une diffusion télévisée classique.\nCe format offre souvent plus de liberté créative et budgétaire pour des projets de niche.",
@@ -502,7 +502,7 @@
   {
     "id": "manga-016",
     "domain": "manga",
-    "subtheme": "Vocabulaire",
+    "subtheme": "Culture et vocabulaire",
     "type": "vocabulaire",
     "title": "Tsundere",
     "summary": "Terme désignant un archétype de personnage qui alterne entre froideur, agacement apparent (« tsun ») et douceur ou affection (« dere »), surtout envers une personne précise.\nC'est l'un des archétypes de caractère les plus courants et reconnaissables du manga et de l'anime.",
@@ -528,7 +528,7 @@
   {
     "id": "manga-017",
     "domain": "manga",
-    "subtheme": "Œuvres cultes",
+    "subtheme": "Séries cultes",
     "type": "classique",
     "title": "Naruto",
     "summary": "Créé par Masashi Kishimoto et publié de 1999 à 2014, Naruto raconte l'histoire d'un jeune ninja rejeté par son village qui rêve d'en devenir le chef, le Hokage.\nC'est l'un des mangas les plus vendus au monde.",
@@ -568,7 +568,7 @@
   {
     "id": "manga-018",
     "domain": "manga",
-    "subtheme": "Œuvres cultes",
+    "subtheme": "Séries cultes",
     "type": "classique",
     "title": "Akira",
     "summary": "Manga de Katsuhiro Otomo (1982-1990) adapté en film d'animation en 1988, Akira se déroule dans un Néo-Tokyo post-apocalyptique ravagé par des gangs de motards et des expériences militaires sur des enfants aux pouvoirs psychiques.\nLe film a fait découvrir l'animation japonaise adulte à l'Occident.",
@@ -597,7 +597,7 @@
   {
     "id": "manga-019",
     "domain": "manga",
-    "subtheme": "Œuvres cultes",
+    "subtheme": "Séries cultes",
     "type": "classique",
     "title": "Death Note",
     "summary": "Écrit par Tsugumi Ōba et dessiné par Takeshi Obata (2003-2006), Death Note raconte l'histoire d'un lycéen brillant qui trouve un cahier capable de tuer quiconque dont on y écrit le nom.\nC'est un thriller psychologique, un duel d'intelligence entre deux génies.",
@@ -626,7 +626,7 @@
   {
     "id": "manga-020",
     "domain": "manga",
-    "subtheme": "Œuvres cultes",
+    "subtheme": "Séries cultes",
     "type": "classique",
     "title": "Demon Slayer",
     "summary": "Créé par Koyoharu Gotōge (2016-2020), Demon Slayer (Kimetsu no Yaiba) suit Tanjiro, un jeune garçon qui devient chasseur de démons après le massacre de sa famille, pour rendre forme humaine à sa sœur Nezuko, transformée en démone.\nIl a battu des records de ventes au Japon.",
@@ -661,7 +661,7 @@
   {
     "id": "manga-021",
     "domain": "manga",
-    "subtheme": "Œuvres cultes",
+    "subtheme": "Séries cultes",
     "type": "classique",
     "title": "Jujutsu Kaisen",
     "summary": "Créé par Gege Akutami (2018-2024), Jujutsu Kaisen suit Yuji Itadori, un lycéen qui avale un doigt maudit et devient l'hôte de Sukuna, le plus puissant des fléaux.\nIl devient exorciste pour combattre les fléaux nés des émotions négatives des humains.",
@@ -686,7 +686,7 @@
   {
     "id": "manga-022",
     "domain": "manga",
-    "subtheme": "Œuvres cultes",
+    "subtheme": "Séries cultes",
     "type": "classique",
     "title": "Les Chevaliers du Zodiaque",
     "summary": "Créé par Masami Kurumada en 1986, Saint Seiya, connu en France sous le nom des Chevaliers du Zodiaque, met en scène des jeunes guerriers protecteurs de la déesse Athéna, revêtus d'armures inspirées des constellations.\nIl a été un énorme succès en France dans le Club Dorothée.",
@@ -712,7 +712,7 @@
   {
     "id": "manga-023",
     "domain": "manga",
-    "subtheme": "Créateurs",
+    "subtheme": "Mangakas et réalisateurs",
     "type": "personnage",
     "title": "Rumiko Takahashi",
     "summary": "Née en 1957, Rumiko Takahashi est l'une des mangakas les plus vendues de l'histoire, surnommée « la princesse du manga ».\nOn lui doit Lamu, Ranma ½, Maison Ikkoku (Juliette je t'aime) et Inu-Yasha.",
@@ -746,7 +746,7 @@
   {
     "id": "manga-024",
     "domain": "manga",
-    "subtheme": "Créateurs",
+    "subtheme": "Mangakas et réalisateurs",
     "type": "personnage",
     "title": "Katsuhiro Otomo",
     "summary": "Né en 1954, Katsuhiro Otomo est l'auteur et réalisateur d'Akira, œuvre qui a révolutionné le manga et l'animation.\nSon trait réaliste et détaillé a influencé des générations de dessinateurs.",
@@ -900,5 +900,2092 @@
       ]
     },
     "source": "D'après Wikipédia — Weekly Shōnen Jump"
+  },
+  {
+    "id": "manga-029",
+    "domain": "manga",
+    "subtheme": "Mangakas et réalisateurs",
+    "type": "personnage",
+    "title": "Isao Takahata",
+    "subtitle": "Réalisateur japonais, cofondateur du Studio Ghibli, 1935-2018",
+    "summary": "Moins connu que son ami Hayao Miyazaki, Isao Takahata est l'autre pilier du Studio Ghibli, qu'ils fondent ensemble en 1985.\nSon film le plus célèbre, Le Tombeau des lucioles (1988), raconte la survie de deux enfants orphelins dans le Japon bombardé de 1945.",
+    "details": {
+      "epoque": "De la fin des années 1960 aux années 2010.",
+      "pourquoiCelebre": "Réalisateur d'œuvres réalistes et bouleversantes, il a montré que l'animation pouvait raconter des histoires graves pour adultes.",
+      "ideesClefs": [
+        "Réalise la série Heidi (1974), avec Miyazaki à la mise en page des décors",
+        "Le Tombeau des lucioles (1988) est considéré comme l'un des plus grands films sur la guerre",
+        "Le Conte de la princesse Kaguya (2013), au style d'estampe aquarellée, est nommé aux Oscars"
+      ],
+      "liens": [
+        {
+          "nom": "Hayao Miyazaki",
+          "relation": "Collègue depuis Toei Animation dans les années 1960, puis cofondateur de Ghibli"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un style qui change à chaque film",
+          "texte": "Contrairement à Miyazaki, Takahata ne dessinait pas : il pensait chaque film comme un défi technique différent. Pompoko (1994) met en scène des tanukis qui luttent contre l'urbanisation de Tokyo ; Mes voisins les Yamada (1999) imite des strips de journal au trait très simple ; Kaguya ressemble à un dessin au pinceau en mouvement."
+        },
+        {
+          "titre": "Un perfectionniste",
+          "texte": "Ses films prenaient des années : Kaguya a demandé environ huit ans de travail. Miyazaki, qui le considérait comme son maître, reconnaissait que personne ne le poussait aussi loin que lui."
+        }
+      ],
+      "anecdotes": [
+        "Le Tombeau des lucioles est sorti au cinéma au Japon en programme double avec Mon voisin Totoro, en 1988."
+      ],
+      "wikipedia": "Isao Takahata"
+    },
+    "source": "D'après Wikipédia — Isao Takahata"
+  },
+  {
+    "id": "manga-030",
+    "domain": "manga",
+    "subtheme": "Mangakas et réalisateurs",
+    "type": "personnage",
+    "title": "Masashi Kishimoto",
+    "subtitle": "Mangaka japonais, créateur de Naruto, né en 1974",
+    "summary": "Masashi Kishimoto publie Naruto dans le Weekly Shōnen Jump de 1999 à 2014 : 72 volumes, vendus à plus de 250 millions d'exemplaires dans le monde.\nL'histoire d'un jeune ninja rejeté par son village, qui rêve de devenir Hokage, a marqué toute une génération.",
+    "details": {
+      "epoque": "Depuis la fin des années 1990.",
+      "pourquoiCelebre": "Créateur de Naruto, l'un des trois grands shōnen des années 2000 avec One Piece et Bleach.",
+      "ideesClefs": [
+        "Naruto mêle ninjas, amitié, rivalité (avec Sasuke) et quête de reconnaissance",
+        "La série a été adaptée en plus de 700 épisodes d'anime",
+        "Il reste impliqué dans la suite, Boruto, qui suit le fils de Naruto"
+      ],
+      "liens": [
+        {
+          "nom": "Akira Toriyama",
+          "relation": "Son modèle : Kishimoto a voulu devenir mangaka en lisant Dragon Ball"
+        },
+        {
+          "nom": "Eiichiro Oda",
+          "relation": "Rival amical au Weekly Shōnen Jump à la même époque"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une affaire de famille",
+          "texte": "Son frère jumeau, Seishi Kishimoto, est lui aussi mangaka : il est l'auteur de 666 Satan. Les deux frères ont des styles si proches que certains lecteurs ont accusé Seishi de copier Naruto."
+        },
+        {
+          "titre": "D'où vient Naruto",
+          "texte": "Le nom Naruto désigne une rondelle de surimi en spirale posée sur les ramens, le plat préféré du héros, et aussi un détroit japonais aux célèbres tourbillons. Le motif de spirale se retrouve partout dans la série."
+        }
+      ],
+      "wikipedia": "Masashi Kishimoto"
+    },
+    "source": "D'après Wikipédia — Masashi Kishimoto"
+  },
+  {
+    "id": "manga-031",
+    "domain": "manga",
+    "subtheme": "Mangakas et réalisateurs",
+    "type": "personnage",
+    "title": "Gō Nagai",
+    "subtitle": "Mangaka japonais, créateur de Goldorak et Mazinger Z, né en 1945",
+    "summary": "Gō Nagai a inventé dans les années 1970 plusieurs genres majeurs du manga, dont le grand robot piloté de l'intérieur avec Mazinger Z (1972).\nEn France, il est surtout connu pour Goldorak, dessin animé qui a lancé la passion des Français pour l'animation japonaise en 1978.",
+    "details": {
+      "epoque": "Des années 1960 à aujourd'hui.",
+      "pourquoiCelebre": "Pionnier des robots géants et du manga provocateur, créateur de Mazinger Z, Goldorak, Devilman et Cutie Honey.",
+      "ideesClefs": [
+        "Mazinger Z (1972) : pour la première fois, un héros monte dans le cockpit de son robot géant",
+        "Goldorak (1975) prolonge la saga des robots de Nagai",
+        "Devilman (1972), récit sombre de démons, a influencé de nombreux auteurs"
+      ],
+      "liens": [
+        {
+          "nom": "Osamu Tezuka",
+          "relation": "Ses mangas ont inspiré les débuts de Nagai, qui a d'abord été assistant de Shōtarō Ishinomori, lui-même disciple de Tezuka"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "L'idée du cockpit",
+          "texte": "Nagai raconte avoir eu l'idée de Mazinger Z coincé dans un embouteillage : il s'est imaginé piloter une voiture géante qui enjamberait les autres. Avant lui, les robots géants comme Tetsujin 28 étaient télécommandés de l'extérieur."
+        }
+      ],
+      "anecdotes": [
+        "Goldorak a été diffusé en France à partir de juillet 1978 sur Antenne 2 et a atteint des records d'audience chez les enfants."
+      ],
+      "wikipedia": "Gō Nagai"
+    },
+    "source": "D'après Wikipédia — Gō Nagai"
+  },
+  {
+    "id": "manga-032",
+    "domain": "manga",
+    "subtheme": "Mangakas et réalisateurs",
+    "type": "personnage",
+    "title": "Naoki Urasawa",
+    "subtitle": "Mangaka japonais, maître du thriller, né en 1960",
+    "summary": "Naoki Urasawa est l'auteur de Monster et de 20th Century Boys, deux thrillers au suspense redoutable, souvent cités parmi les meilleurs mangas pour adultes.\nSon dessin réaliste et ses personnages très humains l'ont rendu célèbre bien au-delà des amateurs de manga.",
+    "details": {
+      "epoque": "Depuis les années 1980.",
+      "pourquoiCelebre": "Maître du seinen à suspense, récompensé à de nombreuses reprises au Japon et en Europe.",
+      "ideesClefs": [
+        "Monster (1994-2001) : un chirurgien japonais en Allemagne traque le tueur qu'il a sauvé enfant",
+        "20th Century Boys (1999-2006) : des amis d'enfance affrontent une secte qui reproduit leurs jeux d'enfants",
+        "Pluto (2003-2009) réinvente un épisode d'Astro le petit robot d'Osamu Tezuka en polar"
+      ],
+      "liens": [
+        {
+          "nom": "Osamu Tezuka",
+          "relation": "Urasawa rend hommage à son maître dans Pluto, avec l'accord de la famille Tezuka"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un musicien",
+          "texte": "Passionné de rock, Urasawa est aussi guitariste et chanteur. La musique joue un rôle central dans 20th Century Boys, dont le titre vient d'une chanson du groupe T. Rex."
+        }
+      ],
+      "wikipedia": "Naoki Urasawa"
+    },
+    "source": "D'après Wikipédia — Naoki Urasawa"
+  },
+  {
+    "id": "manga-033",
+    "domain": "manga",
+    "subtheme": "Mangakas et réalisateurs",
+    "type": "personnage",
+    "title": "Takehiko Inoue",
+    "subtitle": "Mangaka japonais, auteur de Slam Dunk et Vagabond, né en 1967",
+    "summary": "Takehiko Inoue a fait découvrir le basket à des millions de Japonais avec Slam Dunk (1990-1996), l'un des mangas les plus vendus du Weekly Shōnen Jump.\nIl est aussi l'auteur de Vagabond, qui retrace la vie du sabreur Miyamoto Musashi avec un dessin au pinceau spectaculaire.",
+    "details": {
+      "epoque": "Depuis la fin des années 1980.",
+      "pourquoiCelebre": "Considéré comme l'un des plus grands dessinateurs du manga, il a popularisé le basket au Japon.",
+      "ideesClefs": [
+        "Slam Dunk suit Hanamichi Sakuragi, voyou qui se met au basket pour plaire à une fille",
+        "Vagabond (depuis 1998) s'inspire du roman Musashi d'Eiji Yoshikawa",
+        "Real traite du basket en fauteuil roulant et du handicap"
+      ],
+      "liens": [
+        {
+          "nom": "Tsukasa Hōjō",
+          "relation": "Inoue a été son assistant sur City Hunter (Nicky Larson) avant ses débuts"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le retour au cinéma",
+          "texte": "En 2022, Inoue réalise lui-même le film The First Slam Dunk, qui raconte le match final de la série du point de vue du meneur Ryota Miyagi. Le film est un énorme succès au Japon et en Chine."
+        }
+      ],
+      "anecdotes": [
+        "En 2004, Inoue a dessiné une suite de Slam Dunk de Slam Dunk à la craie sur les tableaux noirs d'un lycée désaffecté, pour une exposition."
+      ],
+      "wikipedia": "Takehiko Inoue"
+    },
+    "source": "D'après Wikipédia — Takehiko Inoue"
+  },
+  {
+    "id": "manga-034",
+    "domain": "manga",
+    "subtheme": "Mangakas et réalisateurs",
+    "type": "personnage",
+    "title": "Hiromu Arakawa",
+    "subtitle": "Mangaka japonaise, autrice de Fullmetal Alchemist, née en 1973",
+    "summary": "Hiromu Arakawa est l'autrice de Fullmetal Alchemist (2001-2010), l'histoire de deux frères alchimistes qui cherchent à réparer une expérience interdite qui leur a coûté très cher.\nFille d'agriculteurs d'Hokkaidō, elle raconte ensuite la vie d'un lycée agricole dans Silver Spoon.",
+    "details": {
+      "epoque": "Depuis la fin des années 1990.",
+      "pourquoiCelebre": "Autrice d'un des shōnen les plus acclamés, salué pour son scénario parfaitement maîtrisé du début à la fin.",
+      "ideesClefs": [
+        "Fullmetal Alchemist compte 27 volumes et deux adaptations animées",
+        "La série aborde la guerre, le deuil et la responsabilité morale de la science",
+        "Silver Spoon (2011-2019) s'inspire de sa jeunesse dans une ferme laitière"
+      ],
+      "liens": [],
+      "sections": [
+        {
+          "titre": "Une vache à la place du visage",
+          "texte": "Arakawa ne montre jamais son visage : dans ses livres et ses interviews dessinées, elle se représente sous les traits d'une vache à lunettes, en souvenir des sept années passées à travailler dans la ferme familiale avant de devenir mangaka."
+        }
+      ],
+      "anecdotes": [
+        "Beaucoup de lecteurs ont longtemps cru que l'auteur de Fullmetal Alchemist était un homme, à cause de son prénom de plume Hiromu."
+      ],
+      "wikipedia": "Hiromu Arakawa"
+    },
+    "source": "D'après Wikipédia — Hiromu Arakawa"
+  },
+  {
+    "id": "manga-035",
+    "domain": "manga",
+    "subtheme": "Mangakas et réalisateurs",
+    "type": "personnage",
+    "title": "Makoto Shinkai",
+    "subtitle": "Réalisateur japonais de Your Name, né en 1973",
+    "summary": "Makoto Shinkai est le réalisateur de Your Name (2016), un film où un lycéen de Tokyo et une lycéenne de la campagne échangent mystérieusement leurs corps pendant leur sommeil.\nSes films sont reconnaissables à leurs ciels, leurs lumières et leurs gares d'un réalisme éblouissant.",
+    "details": {
+      "epoque": "Depuis le début des années 2000.",
+      "pourquoiCelebre": "Considéré comme l'un des successeurs de Miyazaki, il a signé plusieurs des plus grands succès de l'animation japonaise.",
+      "ideesClefs": [
+        "Your Name (2016) devient à sa sortie le film d'animation japonais le plus rentable dans le monde",
+        "Les Enfants du temps (2019) et Suzume (2022) confirment son succès",
+        "Ses films parlent de rencontres manquées, de distance et de catastrophes naturelles"
+      ],
+      "liens": [
+        {
+          "nom": "Hayao Miyazaki",
+          "relation": "Souvent présenté comme son héritier, même si leurs styles sont très différents"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Seul devant son ordinateur",
+          "texte": "Shinkai a commencé en réalisant presque seul, sur son ordinateur personnel, le court métrage La Voix des étoiles (2002), qui raconte l'histoire d'amour d'une lycéenne partie combattre dans l'espace et d'un garçon resté sur Terre, dont les messages mettent des années à arriver."
+        }
+      ],
+      "wikipedia": "Makoto Shinkai"
+    },
+    "source": "D'après Wikipédia — Makoto Shinkai"
+  },
+  {
+    "id": "manga-036",
+    "domain": "manga",
+    "subtheme": "Mangakas et réalisateurs",
+    "type": "personnage",
+    "title": "Satoshi Kon",
+    "subtitle": "Réalisateur japonais, 1963-2010",
+    "summary": "Satoshi Kon n'a réalisé que quatre longs métrages, mais chacun est devenu culte : Perfect Blue, Millennium Actress, Tokyo Godfathers et Paprika.\nSes films brouillent la frontière entre rêve, souvenir et réalité, et ont inspiré des cinéastes d'Hollywood.",
+    "details": {
+      "epoque": "Des années 1990 à 2010.",
+      "pourquoiCelebre": "Réalisateur d'animation pour adultes, au montage virtuose, mort à 46 ans en pleine création.",
+      "ideesClefs": [
+        "Perfect Blue (1997) : une chanteuse devenue actrice perd pied, traquée par un fan",
+        "Tokyo Godfathers (2003) : trois sans-abri trouvent un bébé la nuit de Noël",
+        "Paprika (2006) : une machine permet d'entrer dans les rêves des autres"
+      ],
+      "liens": [
+        {
+          "nom": "Katsuhiro Otomo",
+          "relation": "Kon a travaillé avec lui avant de devenir réalisateur, notamment sur Memories"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une influence mondiale",
+          "texte": "Le réalisateur américain Darren Aronofsky a acheté les droits de Perfect Blue pour pouvoir reproduire une de ses scènes dans Requiem for a Dream, et Black Swan lui est souvent comparé. Beaucoup ont aussi rapproché Inception de Christopher Nolan de Paprika."
+        }
+      ],
+      "anecdotes": [
+        "Atteint d'un cancer, Kon a écrit avant sa mort un long message d'adieu publié sur son blog, qui a beaucoup ému ses fans."
+      ],
+      "wikipedia": "Satoshi Kon"
+    },
+    "source": "D'après Wikipédia — Satoshi Kon"
+  },
+  {
+    "id": "manga-037",
+    "domain": "manga",
+    "subtheme": "Mangakas et réalisateurs",
+    "type": "personnage",
+    "title": "Leiji Matsumoto",
+    "subtitle": "Mangaka japonais, créateur d'Albator, 1938-2023",
+    "summary": "Leiji Matsumoto est le créateur d'Albator, le pirate de l'espace balafré au grand manteau noir, et de Galaxy Express 999, un train qui voyage entre les étoiles.\nSes récits de science-fiction mélancoliques ont marqué les enfants français, qui ont découvert Albator au début des années 1980.",
+    "details": {
+      "epoque": "Des années 1950 aux années 2020.",
+      "pourquoiCelebre": "Grand maître du space opera japonais, au style reconnaissable : héros au visage émacié, héroïnes élancées et vaisseaux baroques.",
+      "ideesClefs": [
+        "Albator (Capitaine Harlock, 1977) : un pirate libre qui défend la Terre malgré elle",
+        "Galaxy Express 999 (1977) : un garçon voyage en train spatial pour obtenir un corps mécanique",
+        "Il participe à Space Battleship Yamato (1974), série fondatrice de l'animation spatiale"
+      ],
+      "liens": [
+        {
+          "nom": "Daft Punk",
+          "relation": "Le groupe français lui confie en 2003 les images d'Interstella 5555, film muet sur leur album Discovery"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Daft Punk",
+          "texte": "Les deux musiciens de Daft Punk avaient grandi avec Albator. Ils ont demandé à Matsumoto de superviser Interstella 5555 (2003), un film d'animation sans dialogues qui illustre tout leur album Discovery, dont les clips de One More Time et Aerodynamic."
+        }
+      ],
+      "wikipedia": "Leiji Matsumoto"
+    },
+    "source": "D'après Wikipédia — Leiji Matsumoto"
+  },
+  {
+    "id": "manga-038",
+    "domain": "manga",
+    "subtheme": "Mangakas et réalisateurs",
+    "type": "personnage",
+    "title": "Yoshihiro Togashi",
+    "subtitle": "Mangaka japonais, auteur de YuYu Hakusho et Hunter × Hunter, né en 1966",
+    "summary": "Yoshihiro Togashi a signé deux grands succès du Weekly Shōnen Jump : YuYu Hakusho (1990-1994), sur un voyou devenu détective du monde des esprits, et Hunter × Hunter (depuis 1998).\nSes scénarios très inventifs sont admirés par beaucoup d'autres mangakas.",
+    "details": {
+      "epoque": "Depuis la fin des années 1980.",
+      "pourquoiCelebre": "Auteur de shōnen aux règles de combat complexes et aux retournements imprévisibles.",
+      "ideesClefs": [
+        "YuYu Hakusho commence par la mort du héros, Yusuke, renversé en sauvant un enfant",
+        "Hunter × Hunter suit Gon, qui passe l'examen de Hunter pour retrouver son père",
+        "Son système de pouvoirs, le Nen, est souvent cité comme l'un des mieux pensés du manga"
+      ],
+      "liens": [
+        {
+          "nom": "Naoko Takeuchi",
+          "relation": "La créatrice de Sailor Moon est son épouse depuis 1999"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Des pauses légendaires",
+          "texte": "Hunter × Hunter est célèbre pour ses interruptions de plusieurs années, dues notamment aux graves douleurs de dos de Togashi. Chaque reprise de publication est un événement pour les fans, qui savent qu'elle peut s'arrêter à tout moment."
+        }
+      ],
+      "wikipedia": "Yoshihiro Togashi"
+    },
+    "source": "D'après Wikipédia — Yoshihiro Togashi"
+  },
+  {
+    "id": "manga-039",
+    "domain": "manga",
+    "subtheme": "Mangakas et réalisateurs",
+    "type": "personnage",
+    "title": "Mamoru Hosoda",
+    "subtitle": "Réalisateur japonais, né en 1967",
+    "summary": "Mamoru Hosoda est le réalisateur de La Traversée du temps, Summer Wars, Les Enfants loups et Miraï, ma petite sœur.\nSes films parlent de famille, de l'enfance qui grandit et de mondes virtuels, avec beaucoup de tendresse.",
+    "details": {
+      "epoque": "Depuis la fin des années 1990.",
+      "pourquoiCelebre": "L'un des réalisateurs d'animation les plus reconnus depuis les années 2000, avec son propre studio, le Studio Chizu.",
+      "ideesClefs": [
+        "Les Enfants loups (2012) : une mère élève seule deux enfants mi-humains mi-loups",
+        "Miraï, ma petite sœur (2018) est nommé à l'Oscar du meilleur film d'animation",
+        "Summer Wars (2009) et Belle (2021) se déroulent en partie dans d'immenses mondes virtuels"
+      ],
+      "liens": [
+        {
+          "nom": "Hayao Miyazaki",
+          "relation": "Hosoda devait réaliser Le Château ambulant chez Ghibli avant de quitter le projet, repris par Miyazaki"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Des films nés de sa vie",
+          "texte": "Hosoda s'inspire souvent de sa propre famille : Summer Wars est né de sa rencontre avec la famille de sa femme, Les Enfants loups de son envie de devenir père, et Miraï de l'arrivée de sa fille, qui a bouleversé la vie de son fils aîné."
+        }
+      ],
+      "wikipedia": "Mamoru Hosoda"
+    },
+    "source": "D'après Wikipédia — Mamoru Hosoda"
+  },
+  {
+    "id": "manga-040",
+    "domain": "manga",
+    "subtheme": "Mangakas et réalisateurs",
+    "type": "personnage",
+    "title": "Jirō Taniguchi",
+    "subtitle": "Mangaka japonais, 1947-2017",
+    "summary": "Jirō Taniguchi est le mangaka le plus admiré en France : ses récits contemplatifs, comme Quartier lointain ou Le Gourmet solitaire, touchent aussi des lecteurs qui ne lisent pas de manga.\nSon dessin précis et calme s'inspire en partie de la bande dessinée européenne.",
+    "details": {
+      "epoque": "Des années 1970 aux années 2010.",
+      "pourquoiCelebre": "Pont entre le manga et la BD européenne, récompensé à Angoulême et fait chevalier des Arts et des Lettres en France.",
+      "ideesClefs": [
+        "Quartier lointain : un homme de 48 ans se réveille dans son corps d'adolescent, l'année où son père a disparu",
+        "Le Gourmet solitaire (scénario de Masayuki Qusumi) : un homme savoure seul des repas simples",
+        "Le Sommet des dieux (scénario de Baku Yumemakura) raconte l'obsession d'alpinistes pour l'Everest"
+      ],
+      "liens": [
+        {
+          "nom": "Mœbius",
+          "relation": "Le dessinateur français, qu'il admirait, a collaboré avec lui sur Icare"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un succès français",
+          "texte": "Quartier lointain a reçu à Angoulême en 2003 le prix du meilleur scénario. Le Sommet des dieux a été adapté en film d'animation français par Patrick Imbert (2021), récompensé par le César du meilleur film d'animation."
+        }
+      ],
+      "wikipedia": "Jirō Taniguchi"
+    },
+    "source": "D'après Wikipédia — Jirō Taniguchi"
+  },
+  {
+    "id": "manga-041",
+    "domain": "manga",
+    "subtheme": "Personnages cultes",
+    "type": "classique",
+    "title": "Son Goku",
+    "subtitle": "Le héros de Dragon Ball",
+    "summary": "Son Goku est le héros de Dragon Ball, créé par Akira Toriyama en 1984 : un garçon à queue de singe, naïf et incroyablement fort, qui ne vit que pour manger et se battre contre des adversaires toujours plus puissants.\nIl est sans doute le héros de manga le plus célèbre au monde.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un singe légendaire",
+          "texte": "Goku s'inspire de Sun Wukong, le Roi des singes du roman chinois Le Voyage vers l'Ouest (XVIe siècle), appelé Son Gokū en japonais. Comme lui, le jeune Goku a une queue de singe, un bâton qui s'allonge et un nuage magique."
+        },
+        {
+          "titre": "Un extraterrestre",
+          "texte": "On découvre plus tard que Goku est un Saiyan, peuple guerrier extraterrestre, envoyé bébé sur Terre. Sa transformation en Super Saiyan, cheveux dorés hérissés, lors du combat contre Freezer (1991), est l'une des scènes les plus célèbres du manga."
+        },
+        {
+          "titre": "Le Kamehameha",
+          "texte": "Son attaque signature, une vague d'énergie lancée à deux mains, a été baptisée par l'épouse de Toriyama : Kamehameha est le nom d'un roi d'Hawaï du XIXe siècle."
+        }
+      ],
+      "anecdotes": [
+        "En France, Goku est doublé par Patrick Borg depuis la diffusion de Dragon Ball Z au Club Dorothée."
+      ],
+      "wikipedia": "Son Goku"
+    },
+    "source": "D'après Wikipédia — Son Goku"
+  },
+  {
+    "id": "manga-042",
+    "domain": "manga",
+    "subtheme": "Personnages cultes",
+    "type": "classique",
+    "title": "Monkey D. Luffy",
+    "subtitle": "Le héros de One Piece",
+    "summary": "Monkey D. Luffy est le capitaine au chapeau de paille de One Piece, le manga d'Eiichiro Oda. Enfant, il mange par erreur un fruit du démon qui rend son corps élastique comme du caoutchouc, mais l'empêche de nager.\nSon rêve : trouver le trésor légendaire, le One Piece, et devenir le roi des pirates.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le chapeau de paille",
+          "texte": "Son chapeau lui a été confié par le pirate Shanks, qui a perdu un bras en le sauvant d'un monstre marin. Luffy promet de le lui rendre quand il sera devenu un grand pirate : ce chapeau symbolise sa promesse."
+        },
+        {
+          "titre": "Un héros simple",
+          "texte": "Luffy n'est ni rusé ni cultivé : il est gourmand, têtu et d'une loyauté absolue envers ses amis. Il recrute un par un les membres de son équipage, chacun avec son propre rêve, qu'il s'engage à protéger."
+        }
+      ],
+      "anecdotes": [
+        "En 2023, Netflix a adapté One Piece en série avec de vrais acteurs, avec Iñaki Godoy dans le rôle de Luffy."
+      ],
+      "wikipedia": "Monkey D. Luffy"
+    },
+    "source": "D'après Wikipédia — Monkey D. Luffy"
+  },
+  {
+    "id": "manga-043",
+    "domain": "manga",
+    "subtheme": "Personnages cultes",
+    "type": "classique",
+    "title": "Pikachu",
+    "subtitle": "La mascotte de Pokémon",
+    "summary": "Pikachu est un Pokémon de type électrique en forme de souris jaune, aux joues rouges qui lancent des éclairs. Numéro 25 du Pokédex, il apparaît dès les premiers jeux, Pokémon Rouge et Vert, en 1996.\nGrâce à l'anime, où il accompagne Sacha, il est devenu la mascotte de toute la franchise.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Son nom",
+          "texte": "Pikachu associe deux onomatopées japonaises : « pika », le bruit d'une étincelle électrique, et « chu », le couinement d'une souris. Il a été dessiné par Atsuko Nishida, qui s'est inspirée d'un daifuku, une pâtisserie ronde, avant que Ken Sugimori ne finalise son apparence."
+        },
+        {
+          "titre": "Pourquoi lui ?",
+          "texte": "Dans l'anime lancé en 1997, les producteurs choisissent Pikachu comme compagnon de Sacha plutôt que Mélofée, pour plaire à la fois aux garçons et aux filles. Le succès est tel que Nintendo sort Pokémon Jaune (1998), où Pikachu suit le joueur hors de sa Poké Ball."
+        }
+      ],
+      "anecdotes": [
+        "Pikachu est l'un des ballons géants de la grande parade de Thanksgiving à New York depuis 2001."
+      ],
+      "wikipedia": "Pikachu"
+    },
+    "source": "D'après Wikipédia — Pikachu"
+  },
+  {
+    "id": "manga-044",
+    "domain": "manga",
+    "subtheme": "Personnages cultes",
+    "type": "classique",
+    "title": "Doraemon",
+    "subtitle": "Le chat-robot venu du futur",
+    "summary": "Doraemon est un chat-robot bleu venu du XXIIe siècle pour aider Nobita, un écolier maladroit et paresseux. Dans sa poche ventrale, il cache des centaines de gadgets magiques, comme une porte qui mène n'importe où.\nCréé en 1969 par Fujiko F. Fujio, il est une véritable icône nationale au Japon.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un chat sans oreilles",
+          "texte": "Doraemon était à l'origine jaune et avait des oreilles. Selon l'histoire, une souris robot les lui a rongées ; de chagrin, il aurait pleuré jusqu'à perdre sa couleur. Depuis, il est terrifié par les souris."
+        },
+        {
+          "titre": "Un ambassadeur",
+          "texte": "En 2008, le ministère japonais des Affaires étrangères a nommé Doraemon « ambassadeur de l'anime », chargé de représenter la culture japonaise dans le monde. Il est très populaire dans toute l'Asie, bien plus qu'en Europe."
+        }
+      ],
+      "anecdotes": [
+        "Fujiko Fujio était au départ le pseudonyme commun de deux amis, Hiroshi Fujimoto et Motoo Abiko ; Doraemon est l'œuvre de Fujimoto, signée Fujiko F. Fujio."
+      ],
+      "wikipedia": "Doraemon"
+    },
+    "source": "D'après Wikipédia — Doraemon"
+  },
+  {
+    "id": "manga-045",
+    "domain": "manga",
+    "subtheme": "Personnages cultes",
+    "type": "classique",
+    "title": "Lupin III",
+    "subtitle": "Le petit-fils du gentleman cambrioleur",
+    "summary": "Lupin III, créé en 1967 par le mangaka Monkey Punch, est présenté comme le petit-fils d'Arsène Lupin, le célèbre cambrioleur des romans de Maurice Leblanc.\nCharmeur, farceur et génial, il vole des trésors impossibles avec sa bande, poursuivi sans relâche par l'inspecteur Zenigata.",
+    "details": {
+      "sections": [
+        {
+          "titre": "La bande",
+          "texte": "Lupin est accompagné du tireur d'élite Jigen, du samouraï Goemon, qui tranche tout avec son sabre, et de Fujiko, voleuse séduisante qui trahit souvent le groupe. L'inspecteur Zenigata, d'Interpol, a juré de l'arrêter."
+        },
+        {
+          "titre": "Le premier film de Miyazaki",
+          "texte": "Le Château de Cagliostro (1979), aventure de Lupin dans un petit pays européen, est le premier long métrage réalisé par Hayao Miyazaki. Plein de poursuites et d'humour, il a inspiré de nombreux réalisateurs, dont les créateurs d'Aladdin chez Disney."
+        }
+      ],
+      "anecdotes": [
+        "Faute d'accord sur les droits d'Arsène Lupin, le personnage a été rebaptisé « Edgar de la Cambriole » dans certaines versions françaises des années 1980."
+      ],
+      "wikipedia": "Lupin III"
+    },
+    "source": "D'après Wikipédia — Lupin III"
+  },
+  {
+    "id": "manga-046",
+    "domain": "manga",
+    "subtheme": "Personnages cultes",
+    "type": "classique",
+    "title": "Détective Conan",
+    "subtitle": "Le lycéen détective devenu enfant",
+    "summary": "Détective Conan, créé par Gosho Aoyama en 1994, raconte l'histoire de Shinichi Kudo, un lycéen détective de génie, empoisonné par des criminels : au lieu de mourir, il retrouve un corps d'enfant de 7 ans.\nSous le nom de Conan Edogawa, il résout des meurtres en cachant son identité, tout en traquant l'Organisation des hommes en noir.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un nom de deux écrivains",
+          "texte": "Conan Edogawa associe les noms d'Arthur Conan Doyle, créateur de Sherlock Holmes, et d'Edogawa Ranpo, père du roman policier japonais, dont le pseudonyme imitait lui-même Edgar Allan Poe. Aoyama glisse des références aux grands détectives dans toute la série."
+        },
+        {
+          "titre": "Un marathon",
+          "texte": "Toujours en cours, le manga a dépassé les 100 volumes et l'anime les 1 000 épisodes. Un nouveau film de Détective Conan sort chaque année au Japon, et ce sont souvent les plus gros succès du box-office de l'année."
+        }
+      ],
+      "wikipedia": "Détective Conan"
+    },
+    "source": "D'après Wikipédia — Détective Conan"
+  },
+  {
+    "id": "manga-047",
+    "domain": "manga",
+    "subtheme": "Personnages cultes",
+    "type": "classique",
+    "title": "Nicky Larson (City Hunter)",
+    "subtitle": "Le détective privé au grand cœur de Tsukasa Hōjō",
+    "summary": "Nicky Larson est le nom français de Ryo Saeba, héros du manga City Hunter de Tsukasa Hōjō (1985-1991). Nettoyeur à Tokyo, il est un tireur d'élite redoutable, mais aussi un séducteur ridicule.\nSa partenaire, Laura (Kaori en VO), le calme à coups de massue géante.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Au Club Dorothée",
+          "texte": "L'anime arrive en France à la fin des années 1980 dans le Club Dorothée. Comme beaucoup d'animes de l'époque, il est rebaptisé et partiellement censuré, mais devient un grand classique des enfants français."
+        },
+        {
+          "titre": "Le film français",
+          "texte": "En 2019, Philippe Lacheau réalise et interprète Nicky Larson et le Parfum de Cupidon, adaptation française avec de vrais acteurs. Le film a été salué par Tsukasa Hōjō lui-même."
+        }
+      ],
+      "anecdotes": [
+        "Le mangaka Takehiko Inoue, futur auteur de Slam Dunk, a été assistant de Tsukasa Hōjō sur City Hunter."
+      ],
+      "wikipedia": "City Hunter"
+    },
+    "source": "D'après Wikipédia — City Hunter"
+  },
+  {
+    "id": "manga-048",
+    "domain": "manga",
+    "subtheme": "Personnages cultes",
+    "type": "classique",
+    "title": "Olive et Tom (Captain Tsubasa)",
+    "subtitle": "Le manga de football qui a inspiré des champions",
+    "summary": "Captain Tsubasa, créé en 1981 par Yōichi Takahashi, suit Tsubasa Ōzora (Olive Atton en français), un jeune prodige du football, et son rival le gardien Genzo Wakabayashi (Thomas Price).\nEn France, l'anime diffusé à la fin des années 1980 sous le titre Olive et Tom a marqué toute une génération.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un terrain sans fin",
+          "texte": "L'anime est resté célèbre pour ses terrains qui semblent faire des kilomètres : une seule course vers le but peut durer un épisode entier, avec des tirs spectaculaires comme le « tir de l'aigle »."
+        },
+        {
+          "titre": "Des champions inspirés",
+          "texte": "À une époque où le football était peu populaire au Japon, le manga a donné envie à des milliers d'enfants de jouer. Des joueurs comme Hidetoshi Nakata, Alessandro Del Piero, Fernando Torres ou Andrés Iniesta ont dit avoir grandi avec Captain Tsubasa."
+        }
+      ],
+      "wikipedia": "Captain Tsubasa"
+    },
+    "source": "D'après Wikipédia — Captain Tsubasa"
+  },
+  {
+    "id": "manga-049",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "L'Attaque des Titans",
+    "subtitle": "Manga de Hajime Isayama, 2009-2021",
+    "summary": "Dans L'Attaque des Titans, les derniers humains vivent retranchés derrière trois immenses murs concentriques, pour se protéger des Titans, des géants qui dévorent les hommes. Quand un Titan colossal brise le mur, le jeune Eren Jäger voit sa mère mourir et jure de tous les exterminer.\nLa série devient au fil des volumes une réflexion sombre sur la guerre, la liberté et le cycle de la haine.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un monde de mystères",
+          "texte": "Pourquoi les Titans existent-ils ? Qu'y a-t-il au-delà des murs ? Que cache la cave du père d'Eren ? Isayama distille les révélations sur 34 volumes, et chaque réponse retourne complètement la façon de voir l'histoire. Les soldats du Bataillon d'exploration combattent grâce à l'équipement tridimensionnel, qui leur permet de voltiger à l'aide de câbles."
+        },
+        {
+          "titre": "Un succès mondial",
+          "texte": "Refusé par le Weekly Shōnen Jump, le manga paraît chez Kōdansha. L'anime, produit par Wit Studio puis par MAPPA pour la saison finale, achevée en 2023, est l'un des plus regardés au monde. La ville natale d'Isayama, Hita, a installé des statues des héros."
+        }
+      ],
+      "wikipedia": "L'Attaque des Titans"
+    },
+    "source": "D'après Wikipédia — L'Attaque des Titans"
+  },
+  {
+    "id": "manga-050",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Fullmetal Alchemist",
+    "subtitle": "Manga de Hiromu Arakawa, 2001-2010",
+    "summary": "Les frères Edward et Alphonse Elric tentent de ramener leur mère à la vie par l'alchimie, une science interdite pour les humains. L'expérience tourne au désastre : Edward perd une jambe et un bras, et Alphonse tout son corps, son âme étant fixée dans une armure vide.\nLes deux frères partent à la recherche de la pierre philosophale pour retrouver leurs corps.",
+    "details": {
+      "sections": [
+        {
+          "titre": "L'échange équivalent",
+          "texte": "La règle de base de l'alchimie dans la série : « Pour obtenir quelque chose, il faut sacrifier quelque chose de valeur égale. » Cette loi, que les frères apprennent dans la douleur, est au cœur des questions morales de l'histoire."
+        },
+        {
+          "titre": "Deux animes",
+          "texte": "Une première adaptation sort en 2003, alors que le manga n'est pas fini : elle invente sa propre fin. Fullmetal Alchemist: Brotherhood (2009) suit fidèlement le manga jusqu'au bout et figure régulièrement en tête des classements des meilleurs animes."
+        }
+      ],
+      "wikipedia": "Fullmetal Alchemist"
+    },
+    "source": "D'après Wikipédia — Fullmetal Alchemist"
+  },
+  {
+    "id": "manga-051",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Hunter × Hunter",
+    "subtitle": "Manga de Yoshihiro Togashi, depuis 1998",
+    "summary": "Gon Freecss, 12 ans, découvre que son père, qu'il n'a jamais connu, est un Hunter, un aventurier d'élite qui chasse les trésors, les créatures rares ou les criminels. Il décide de passer le très dangereux examen de Hunter pour le retrouver.\nIl y rencontre Kirua, fils d'une famille d'assassins, qui devient son meilleur ami.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le Nen",
+          "texte": "Les combattants utilisent le Nen, l'énergie vitale, répartie en six catégories selon la personnalité de chacun. Les combats ressemblent davantage à des parties d'échecs qu'à des concours de force : il faut deviner les règles du pouvoir adverse. Ce système est souvent cité comme l'un des plus intelligents du manga."
+        },
+        {
+          "titre": "Deux animes",
+          "texte": "La série a été adaptée en 1999 puis de nouveau en 2011 par le studio Madhouse, en 148 épisodes. La version de 2011 est considérée comme l'un des meilleurs animes d'aventure."
+        }
+      ],
+      "wikipedia": "Hunter × Hunter"
+    },
+    "source": "D'après Wikipédia — Hunter × Hunter"
+  },
+  {
+    "id": "manga-052",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Bleach",
+    "subtitle": "Manga de Tite Kubo, 2001-2016",
+    "summary": "Ichigo Kurosaki, lycéen capable de voir les fantômes, reçoit les pouvoirs d'une shinigami, Rukia, pour protéger sa famille d'un Hollow, une âme devenue monstre. Il devient à son tour un shinigami, un gardien des âmes armé d'un sabre.\nAvec One Piece et Naruto, Bleach forme les « trois grands » du Weekly Shōnen Jump des années 2000.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un style élégant",
+          "texte": "Tite Kubo est admiré pour le design de ses personnages, très stylés, et ses couvertures épurées. Chaque volume s'ouvre sur un court poème. La série compte 74 volumes."
+        },
+        {
+          "titre": "Le grand retour",
+          "texte": "L'anime s'était arrêté en 2012 sans adapter le dernier arc. Il revient en 2022 avec Thousand-Year Blood War, qui adapte la guerre finale contre les Quincy, avec une animation saluée par les fans."
+        }
+      ],
+      "wikipedia": "Bleach (manga)"
+    },
+    "source": "D'après Wikipédia — Bleach (manga)"
+  },
+  {
+    "id": "manga-053",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Slam Dunk",
+    "subtitle": "Manga de Takehiko Inoue, 1990-1996",
+    "summary": "Hanamichi Sakuragi, grand voyou roux au caractère explosif, s'inscrit au club de basket de son lycée pour impressionner une fille. Débutant complet, il se découvre peu à peu un vrai talent et une vraie passion.\nSlam Dunk est l'un des mangas de sport les plus vendus de l'histoire, avec plus de 100 millions d'exemplaires.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le basket au Japon",
+          "texte": "Au début des années 1990, le basket était peu pratiqué au Japon. Le manga, publié pendant l'âge d'or de Michael Jordan, a provoqué une ruée des jeunes vers les clubs."
+        },
+        {
+          "titre": "L'équipe de Shōhoku",
+          "texte": "Autour de Sakuragi : Rukawa, la star froide et son rival, Akagi, le capitaine surnommé « le gorille », Miyagi, le petit meneur rapide, et Mitsui, ancien prodige revenu après avoir mal tourné."
+        }
+      ],
+      "wikipedia": "Slam Dunk (manga)"
+    },
+    "source": "D'après Wikipédia — Slam Dunk (manga)"
+  },
+  {
+    "id": "manga-054",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Sailor Moon",
+    "subtitle": "Manga de Naoko Takeuchi, 1991-1997",
+    "summary": "Usagi Tsukino, collégienne pleurnicharde et gourmande, découvre grâce à une chatte qui parle qu'elle est Sailor Moon, une guerrière chargée de combattre les forces du mal. Elle forme une équipe avec d'autres guerrières, chacune liée à une planète.\nL'anime, arrivé en France en 1993 au Club Dorothée, a marqué toute une génération.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Magical girl et super-héroïnes",
+          "texte": "Sailor Moon mélange deux genres : la magical girl, jeune fille qui se transforme grâce à un objet magique, et le sentai, équipe de héros costumés à la façon des Power Rangers. Ce mélange a créé un modèle repris par des dizaines de séries."
+        },
+        {
+          "titre": "Les guerrières des planètes",
+          "texte": "Sailor Mercury, Mars, Jupiter, Venus, puis Uranus, Neptune, Pluto et Saturn : chaque guerrière porte le nom d'un astre et possède son pouvoir. Le manga est publié dans Nakayoshi, magazine de shōjo, ce qui en fait un succès aussi bien chez les filles que chez les garçons."
+        }
+      ],
+      "wikipedia": "Sailor Moon"
+    },
+    "source": "D'après Wikipédia — Sailor Moon"
+  },
+  {
+    "id": "manga-055",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Neon Genesis Evangelion",
+    "subtitle": "Série animée de Hideaki Anno, 1995-1996",
+    "summary": "En 2015, des créatures géantes appelées Anges attaquent la ville de Tokyo-3. Pour les combattre, l'organisation secrète NERV utilise des robots géants, les EVA, que seuls des adolescents de 14 ans peuvent piloter. Shinji Ikari, fils du directeur de NERV, est forcé d'en piloter un.\nSous ses airs de série de robots, Evangelion est une œuvre sur la dépression, la solitude et la peur des autres.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une fin qui a divisé",
+          "texte": "Faute de budget et de temps, les deux derniers épisodes se déroulent presque entièrement dans la tête des personnages, sans combat. Une partie des fans est furieuse ; le film The End of Evangelion (1997) propose une autre fin, spectaculaire et traumatisante."
+        },
+        {
+          "titre": "Une œuvre personnelle",
+          "texte": "Le réalisateur Hideaki Anno sortait d'une longue dépression quand il a conçu la série, et y a mis ses propres angoisses. Il a ensuite réalisé une nouvelle version en quatre films, conclue en 2021, et Shin Godzilla (2016)."
+        }
+      ],
+      "wikipedia": "Neon Genesis Evangelion"
+    },
+    "source": "D'après Wikipédia — Neon Genesis Evangelion"
+  },
+  {
+    "id": "manga-056",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Cowboy Bebop",
+    "subtitle": "Série animée de Shinichirō Watanabe, 1998",
+    "summary": "En 2071, l'humanité a colonisé le Système solaire. À bord du vaisseau Bebop, Spike Spiegel, ancien membre d'un syndicat du crime, et Jet Black, ex-policier, chassent des primes pour survivre, bientôt rejoints par Faye Valentine, la jeune hackeuse Ed et le chien Ein.\nSes 26 épisodes mêlent western, polar et science-fiction.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une série jazz",
+          "texte": "La musique de Yoko Kanno et de son groupe, les Seatbelts, est inséparable de la série : jazz, blues, rock. Le générique, Tank!, est l'un des plus célèbres de l'animation. Chaque épisode s'appelle une « session », comme un morceau de jazz."
+        },
+        {
+          "titre": "Une porte d'entrée",
+          "texte": "Diffusée aux États-Unis en 2001, la série a fait découvrir l'animation japonaise pour adultes à beaucoup d'Occidentaux. Netflix en a tiré une adaptation avec de vrais acteurs en 2021, arrêtée après une seule saison."
+        }
+      ],
+      "wikipedia": "Cowboy Bebop"
+    },
+    "source": "D'après Wikipédia — Cowboy Bebop"
+  },
+  {
+    "id": "manga-057",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Ghost in the Shell",
+    "subtitle": "Manga de Masamune Shirow (1989) et film de Mamoru Oshii (1995)",
+    "summary": "Dans un futur où les humains peuvent remplacer leur corps par des prothèses et connecter leur cerveau à Internet, la Major Motoko Kusanagi, cyborg presque entièrement artificiel, traque les pirates informatiques.\nLe titre oppose le « ghost », l'esprit ou l'âme, au « shell », la coquille du corps : qu'est-ce qui fait encore de nous des humains ?",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le film de 1995",
+          "texte": "Adapté par Mamoru Oshii, le film est un choc visuel et philosophique. Les réalisateurs de Matrix, les Wachowski, l'ont montré à leur producteur pour expliquer ce qu'ils voulaient faire, et en ont repris plusieurs idées, comme le code informatique vert qui défile."
+        },
+        {
+          "titre": "L'adaptation hollywoodienne",
+          "texte": "En 2017, Hollywood en tire un film avec Scarlett Johansson. Le choix d'une actrice américaine pour un personnage japonais a déclenché une polémique, et le film a été un échec commercial."
+        }
+      ],
+      "wikipedia": "Ghost in the Shell"
+    },
+    "source": "D'après Wikipédia — Ghost in the Shell"
+  },
+  {
+    "id": "manga-058",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Berserk",
+    "subtitle": "Manga de Kentaro Miura, depuis 1989",
+    "summary": "Dans un monde médiéval sombre, Guts, le Guerrier noir, parcourt les routes avec une épée gigantesque, traqué chaque nuit par des démons. Son histoire remonte à sa jeunesse de mercenaire dans la Troupe du Faucon, menée par le charismatique Griffith.\nBerserk est le manga fondateur de la dark fantasy japonaise.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une influence immense",
+          "texte": "Le dessin de Miura, d'une précision incroyable, et son univers ont influencé de nombreuses œuvres, notamment les jeux vidéo Dark Souls et Elden Ring, dont le créateur Hidetaka Miyazaki cite Berserk comme une inspiration majeure."
+        },
+        {
+          "titre": "Après Miura",
+          "texte": "Kentaro Miura meurt en 2021, à 54 ans, sans avoir achevé son œuvre. Son ami d'enfance, le mangaka Kōji Mori, qui connaissait la fin prévue, poursuit la série avec les assistants de Miura depuis 2022."
+        }
+      ],
+      "wikipedia": "Berserk"
+    },
+    "source": "D'après Wikipédia — Berserk"
+  },
+  {
+    "id": "manga-059",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Monster",
+    "subtitle": "Manga de Naoki Urasawa, 1994-2001",
+    "summary": "En 1986, à Düsseldorf, le docteur Kenzō Tenma, brillant neurochirurgien japonais, choisit d'opérer un petit garçon plutôt que le maire de la ville. Neuf ans plus tard, il découvre que l'enfant qu'il a sauvé, Johan, est devenu un tueur en série.\nTenma abandonne tout pour le retrouver, accusé lui-même des meurtres.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un thriller européen",
+          "texte": "L'histoire se déroule en Allemagne et en Tchécoslovaquie après la chute du mur de Berlin, et explore les expériences menées sur des orphelins dans l'ancien bloc de l'Est. La question centrale : la vie d'une personne vaut-elle plus que celle d'une autre ?"
+        },
+        {
+          "titre": "Une adaptation fidèle",
+          "texte": "Le studio Madhouse en a tiré en 2004 un anime de 74 épisodes, très fidèle au manga, régulièrement cité parmi les meilleurs thrillers animés."
+        }
+      ],
+      "wikipedia": "Monster (manga)"
+    },
+    "source": "D'après Wikipédia — Monster (manga)"
+  },
+  {
+    "id": "manga-060",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "JoJo's Bizarre Adventure",
+    "subtitle": "Manga de Hirohiko Araki, depuis 1987",
+    "summary": "JoJo's Bizarre Adventure raconte, sur plus d'un siècle, les combats des membres de la famille Joestar, dont chaque héros porte le surnom de JoJo. Chaque partie change d'époque, de lieu et de héros, de l'Angleterre victorienne au Japon moderne.\nLa série est célèbre pour ses poses extravagantes, ses combats de stratégie et ses références au rock.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Les Stands",
+          "texte": "À partir de la troisième partie (1989), les combattants utilisent des Stands, manifestations visibles de leur esprit, chacune avec un pouvoir unique. La plupart portent des noms de groupes ou de chansons : Killer Queen, Star Platinum, Gold Experience. Cette idée a influencé tout le shōnen de combat."
+        },
+        {
+          "titre": "Araki au Louvre",
+          "texte": "Passionné d'art, Araki s'inspire de la sculpture italienne et de la mode pour ses poses. Le musée du Louvre l'a invité à créer une histoire pour sa collection de bandes dessinées, publiée en 2010 : Rohan au Louvre."
+        }
+      ],
+      "anecdotes": [
+        "Araki est célèbre au Japon pour son apparence qui semble ne pas vieillir, ce qui alimente de nombreuses blagues chez les fans."
+      ],
+      "wikipedia": "JoJo's Bizarre Adventure"
+    },
+    "source": "D'après Wikipédia — JoJo's Bizarre Adventure"
+  },
+  {
+    "id": "manga-061",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "My Hero Academia",
+    "subtitle": "Manga de Kōhei Horikoshi, 2014-2024",
+    "summary": "Dans ce monde, 80 % des humains naissent avec un super-pouvoir appelé « Alter ». Izuku Midoriya, lui, n'en a aucun, mais rêve de devenir un héros comme son idole, All Might. Touché par son courage, All Might lui transmet son propre pouvoir, One For All.\nIzuku entre alors à Yuei, l'académie qui forme les futurs super-héros professionnels.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le Japon rencontre les comics",
+          "texte": "Horikoshi, grand lecteur de comics américains, mêle l'univers des super-héros à la Marvel aux codes du shōnen : école, entraînement, tournois et rivalités. Les héros y sont des professionnels classés, sponsorisés et médiatisés comme des stars."
+        },
+        {
+          "titre": "Une fin en 2024",
+          "texte": "Le manga s'est achevé en août 2024 après dix ans de publication dans le Weekly Shōnen Jump. Son adaptation animée, lancée en 2016, compte plusieurs saisons et films."
+        }
+      ],
+      "wikipedia": "My Hero Academia"
+    },
+    "source": "D'après Wikipédia — My Hero Academia"
+  },
+  {
+    "id": "manga-062",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Chainsaw Man",
+    "subtitle": "Manga de Tatsuki Fujimoto, depuis 2018",
+    "summary": "Denji, adolescent écrasé par les dettes de son père, chasse les démons pour la mafia avec son chien-démon Pochita, doté d'une tronçonneuse sur la tête. Trahi et tué, il fusionne avec Pochita et devient Chainsaw Man, un hybride capable de faire jaillir des tronçonneuses de son corps.\nSes rêves sont pourtant tout simples : manger à sa faim et avoir une petite amie.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un shōnen à contre-courant",
+          "texte": "Violent, imprévisible et souvent absurde, Chainsaw Man casse les codes du shōnen : le héros ne rêve pas de sauver le monde, les personnages principaux peuvent mourir à tout moment, et le cinéma y est une référence constante. La deuxième partie paraît depuis 2022 sur l'application Shōnen Jump+."
+        },
+        {
+          "titre": "Un auteur à suivre",
+          "texte": "Tatsuki Fujimoto est aussi l'auteur de Fire Punch et de Look Back, histoire courte sur deux jeunes dessinatrices adaptée en film en 2024. L'anime de Chainsaw Man est produit par le studio MAPPA depuis 2022."
+        }
+      ],
+      "wikipedia": "Chainsaw Man"
+    },
+    "source": "D'après Wikipédia — Chainsaw Man"
+  },
+  {
+    "id": "manga-063",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Spy × Family",
+    "subtitle": "Manga de Tatsuya Endō, depuis 2019",
+    "summary": "Pour une mission secrète, l'espion surnommé Twilight doit fonder une famille en quelques jours. Il adopte Anya, une petite fille, et épouse Yor, une employée de mairie. Ce qu'il ignore : Yor est une tueuse à gages, et Anya lit dans les pensées.\nChacun cache son secret aux autres, pour le plus grand bonheur du lecteur.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une comédie d'espionnage",
+          "texte": "Dans un pays imaginaire inspiré de l'Allemagne de la guerre froide, la famille Forger enchaîne les situations comiques. Anya, qui sait tout mais doit faire semblant de ne rien savoir, est devenue l'un des personnages les plus populaires du manga récent."
+        },
+        {
+          "titre": "Un succès numérique",
+          "texte": "Le manga est publié en ligne sur Shōnen Jump+, l'application de l'éditeur Shūeisha. L'anime, lancé en 2022, a fait de Spy × Family l'un des plus grands succès de ces dernières années."
+        }
+      ],
+      "wikipedia": "Spy × Family"
+    },
+    "source": "D'après Wikipédia — Spy × Family"
+  },
+  {
+    "id": "manga-064",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Goldorak",
+    "subtitle": "Série animée de Gō Nagai et Toei Animation, 1975",
+    "summary": "Actarus, prince de la planète Euphor détruite par les armées de Véga, s'est réfugié sur Terre avec Goldorak, un robot géant. Quand Véga attaque la Terre, il reprend les commandes de son robot pour la défendre.\nDiffusé en France à partir de juillet 1978 dans Récré A2, Goldorak déclenche un phénomène sans précédent.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un phénomène français",
+          "texte": "Plus populaire en France et en Italie qu'au Japon, Goldorak atteint des audiences record chez les enfants. Sa violence choque certains parents et hommes politiques, mais il ouvre la voie à des centaines de dessins animés japonais à la télévision française."
+        },
+        {
+          "titre": "Le retour",
+          "texte": "En 2021, cinq auteurs de bande dessinée français publient une nouvelle aventure de Goldorak, avec l'accord de Gō Nagai. L'album est un grand succès de librairie."
+        }
+      ],
+      "anecdotes": [
+        "Le générique français, « Goldorak, go ! », chanté par Noam, est l'un des plus connus de la télévision française."
+      ],
+      "wikipedia": "Goldorak"
+    },
+    "source": "D'après Wikipédia — Goldorak"
+  },
+  {
+    "id": "manga-065",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Gundam",
+    "subtitle": "Saga animée lancée par Yoshiyuki Tomino en 1979",
+    "summary": "Mobile Suit Gundam (1979) raconte une guerre entre la Fédération terrienne et la principauté de Zeon, des colonies spatiales qui réclament leur indépendance. Le jeune Amuro Ray se retrouve par hasard aux commandes d'un robot prototype, le Gundam.\nLa saga compte aujourd'hui des dizaines de séries et de films.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le « real robot »",
+          "texte": "Avant Gundam, les robots géants étaient des héros uniques et presque magiques. Ici, ils sont des armes fabriquées en série, qui tombent en panne et manquent de munitions, et la guerre n'a ni vrais gentils ni vrais méchants. Ce réalisme a donné naissance au genre « real robot »."
+        },
+        {
+          "titre": "Les Gunpla",
+          "texte": "Les maquettes de Gundam à assembler, les « Gunpla », se vendent par centaines de millions depuis 1980. Une statue grandeur nature de près de 20 mètres se dresse à Odaiba, à Tokyo."
+        }
+      ],
+      "wikipedia": "Gundam"
+    },
+    "source": "D'après Wikipédia — Gundam"
+  },
+  {
+    "id": "manga-066",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "La Rose de Versailles (Lady Oscar)",
+    "subtitle": "Manga de Riyoko Ikeda, 1972-1973",
+    "summary": "Oscar François de Jarjayes, fille d'un général, a été élevée comme un garçon pour succéder à son père. Elle devient commandante de la garde de Marie-Antoinette à Versailles, puis choisit le camp du peuple lors de la Révolution française.\nCe shōjo historique est connu en France sous le nom de Lady Oscar.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un shōjo révolutionnaire",
+          "texte": "Riyoko Ikeda, passionnée par la biographie de Marie-Antoinette par Stefan Zweig, impose au magazine Margaret un récit historique ambitieux. Le succès est immense et l'œuvre est adaptée en comédie musicale par la troupe féminine de Takarazuka dès 1974."
+        },
+        {
+          "titre": "En France",
+          "texte": "Le cinéaste Jacques Demy en tire un film avec de vrais acteurs en 1979, tourné en anglais. L'anime, diffusé en France sous le titre Lady Oscar, fait découvrir la Révolution à de nombreux enfants. Riyoko Ikeda a reçu la Légion d'honneur en 2009."
+        }
+      ],
+      "wikipedia": "La Rose de Versailles"
+    },
+    "source": "D'après Wikipédia — La Rose de Versailles"
+  },
+  {
+    "id": "manga-067",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Candy Candy",
+    "subtitle": "Manga de Kyōko Mizuki et Yumiko Igarashi, 1975-1979",
+    "summary": "Candy, orpheline au caractère joyeux, grandit à la Maison de Pony, en Amérique, au début du XXe siècle. Adoptée, maltraitée, puis envoyée en pension à Londres, elle traverse les épreuves et les chagrins d'amour sans perdre son optimisme.\nL'anime a fait pleurer des millions d'enfants en Europe à la fin des années 1970.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un mélodrame",
+          "texte": "Candy Candy suit les codes du roman sentimental : amours impossibles, morts tragiques, rivalités. Candy finit par devenir infirmière pendant la Première Guerre mondiale. Son histoire a été l'un des plus grands succès du shōjo."
+        },
+        {
+          "titre": "Une œuvre bloquée",
+          "texte": "Dans les années 1990, un conflit juridique oppose la scénariste Kyōko Mizuki à la dessinatrice Yumiko Igarashi sur les droits de l'œuvre. Depuis, le manga et l'anime ne sont presque plus réédités ni rediffusés."
+        }
+      ],
+      "wikipedia": "Candy Candy"
+    },
+    "source": "D'après Wikipédia — Candy Candy"
+  },
+  {
+    "id": "manga-068",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Les Mystérieuses Cités d'or",
+    "subtitle": "Série animée franco-japonaise, 1982",
+    "summary": "En 1532, le jeune Esteban embarque d'Espagne vers le Nouveau Monde à la recherche de son père et des légendaires cités d'or. Il est accompagné de Zia, une jeune Inca, et de Tao, dernier descendant de l'empire englouti de Mu.\nCette coproduction entre la France et le Japon est l'un des dessins animés préférés des Français.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une série éducative",
+          "texte": "Chaque épisode se terminait par un court documentaire sur les civilisations précolombiennes — Incas, Mayas, Aztèques — et sur les lieux visités par les héros. Le dessin animé est ainsi devenu, pour beaucoup d'enfants, une première leçon d'histoire."
+        },
+        {
+          "titre": "Une coproduction",
+          "texte": "La série est produite par le studio français DIC et le studio japonais Pierrot, avec la NHK. Une suite a été produite en France à partir de 2012, trente ans après la série originale."
+        }
+      ],
+      "wikipedia": "Les Mystérieuses Cités d'or (série télévisée d'animation, 1982)"
+    },
+    "source": "D'après Wikipédia — Les Mystérieuses Cités d'or (série télévisée d'animation, 1982)"
+  },
+  {
+    "id": "manga-069",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Haikyū!!",
+    "subtitle": "Manga de Haruichi Furudate, 2012-2020",
+    "summary": "Shōyō Hinata, lycéen de petite taille, rêve de devenir un grand joueur de volley malgré son physique. Au lycée Karasuno, il doit faire équipe avec son rival, le passeur surdoué mais tyrannique Tobio Kageyama.\nEnsemble, ils inventent une attaque ultra-rapide qui surprend tous leurs adversaires.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un vrai manga de sport",
+          "texte": "Haikyū!! est salué pour son réalisme : les règles, les postes et les tactiques du volley sont expliqués avec précision, et chaque équipe adverse a son histoire. Il a fait augmenter le nombre de jeunes joueurs de volley au Japon."
+        },
+        {
+          "titre": "Au cinéma",
+          "texte": "Le film de 2024 qui adapte le match tant attendu contre le lycée rival de Nekoma, a été l'un des plus grands succès du box-office japonais de l'année."
+        }
+      ],
+      "wikipedia": "Haikyū!!"
+    },
+    "source": "D'après Wikipédia — Haikyū!!"
+  },
+  {
+    "id": "manga-070",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Frieren",
+    "subtitle": "Manga de Kanehito Yamada et Tsukasa Abe, depuis 2020",
+    "summary": "Frieren commence là où les autres histoires se terminent : le héros et ses compagnons viennent de vaincre le Roi démon. Frieren, une mage elfe qui vit plus de mille ans, voit ses amis humains vieillir puis mourir.\nElle entreprend alors un nouveau voyage pour comprendre les humains qu'elle n'a pas su connaître.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une fantasy mélancolique",
+          "texte": "Loin des combats spectaculaires, la série parle du temps qui passe, du deuil et des souvenirs. Les petites choses — une fleur, un sort inutile, un repas — y prennent autant d'importance que les batailles."
+        },
+        {
+          "titre": "Un succès récent",
+          "texte": "Le manga a reçu le prix Manga Taishō en 2021. L'anime du studio Madhouse, lancé en 2023, a pris la première place du classement des animes du site de fans MyAnimeList."
+        }
+      ],
+      "wikipedia": "Frieren"
+    },
+    "source": "D'après Wikipédia — Frieren"
+  },
+  {
+    "id": "manga-071",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "One-Punch Man",
+    "subtitle": "Manga de ONE et Yusuke Murata, depuis 2012",
+    "summary": "Saitama est un super-héros si puissant qu'il bat n'importe quel ennemi d'un seul coup de poing. Résultat : il s'ennuie terriblement, et personne ne le prend au sérieux, lui qui n'est qu'un héros « pour le fun ».\nOne-Punch Man est à la fois une parodie des mangas de combat et un excellent manga de combat.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un entraînement très simple",
+          "texte": "Saitama affirme avoir acquis sa force par un entraînement quotidien : 100 pompes, 100 abdominaux, 100 flexions et 10 km de course par jour, pendant trois ans. Il y a perdu tous ses cheveux. Beaucoup de fans ont tenté de relever le défi."
+        },
+        {
+          "titre": "D'un webcomic à un best-seller",
+          "texte": "ONE publie d'abord One-Punch Man en 2009 sur Internet, avec un dessin très simple. Le dessinateur Yusuke Murata le redessine à partir de 2012 avec un talent spectaculaire. L'anime de 2015, du studio Madhouse, en fait un phénomène mondial."
+        }
+      ],
+      "wikipedia": "One Punch Man"
+    },
+    "source": "D'après Wikipédia — One Punch Man"
+  },
+  {
+    "id": "manga-072",
+    "domain": "manga",
+    "subtheme": "Séries cultes",
+    "type": "classique",
+    "title": "Vinland Saga",
+    "subtitle": "Manga de Makoto Yukimura, commencé en 2005",
+    "summary": "Au XIe siècle, le jeune Thorfinn grandit parmi les Vikings avec un seul but : venger son père, tué par le chef mercenaire Askeladd. Il devient un guerrier redoutable au service de son pire ennemi, en attendant le duel.\nL'histoire se transforme ensuite en une quête de paix, vers le Vinland, la terre lointaine découverte par Leif Erikson.",
+    "details": {
+      "sections": [
+        {
+          "titre": "De la vengeance à la paix",
+          "texte": "Dans la deuxième partie, Thorfinn, devenu esclave dans une ferme, doit affronter la violence qu'il a commise. Il rêve alors de fonder au Vinland une terre sans guerre ni esclavage. Ce changement de ton a d'abord surpris, puis conquis les lecteurs."
+        },
+        {
+          "titre": "Une base historique",
+          "texte": "Le Vinland correspond à une partie de l'Amérique du Nord, atteinte par les Vikings vers l'an 1000, cinq siècles avant Christophe Colomb. Des personnages réels apparaissent dans le manga, comme le roi Knut le Grand et l'explorateur Leif Erikson."
+        }
+      ],
+      "wikipedia": "Vinland Saga"
+    },
+    "source": "D'après Wikipédia — Vinland Saga"
+  },
+  {
+    "id": "manga-073",
+    "domain": "manga",
+    "subtheme": "Films et studios",
+    "type": "classique",
+    "title": "Mon voisin Totoro",
+    "subtitle": "Film de Hayao Miyazaki, 1988",
+    "summary": "Dans le Japon rural des années 1950, les sœurs Satsuki et Mei s'installent à la campagne avec leur père, pour se rapprocher de leur mère hospitalisée. Dans la forêt voisine, elles rencontrent Totoro, un gros esprit de la forêt, doux et silencieux.\nSans méchant ni vraie aventure, le film est devenu l'un des plus aimés de l'animation japonaise.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une histoire personnelle",
+          "texte": "Pendant l'enfance de Miyazaki, sa mère a été soignée pendant des années pour la tuberculose. La maman hospitalisée du film, et l'inquiétude des deux filles, s'inspirent de ce souvenir."
+        },
+        {
+          "titre": "Le logo de Ghibli",
+          "texte": "À sa sortie, en programme double avec Le Tombeau des lucioles, le film n'est qu'un succès modeste. Ce sont les rediffusions à la télévision et les peluches qui en font un phénomène. Totoro devient le logo du Studio Ghibli, et le Chatbus, un chat-autobus à douze pattes, l'une de ses créatures les plus célèbres."
+        }
+      ],
+      "anecdotes": [
+        "Le nom Totoro vient de la façon dont la petite Mei prononce le mot « troll » (tororu en japonais)."
+      ],
+      "wikipedia": "Mon voisin Totoro"
+    },
+    "source": "D'après Wikipédia — Mon voisin Totoro"
+  },
+  {
+    "id": "manga-074",
+    "domain": "manga",
+    "subtheme": "Films et studios",
+    "type": "classique",
+    "title": "Le Voyage de Chihiro",
+    "subtitle": "Film de Hayao Miyazaki, 2001",
+    "summary": "En route vers leur nouvelle maison, Chihiro, 10 ans, et ses parents pénètrent dans un étrange village abandonné. Ses parents, qui se goinfrent sans permission, sont changés en cochons : Chihiro se retrouve seule dans le monde des esprits.\nPour les sauver, elle doit travailler dans les bains de la sorcière Yubaba, qui lui vole son nom.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un record",
+          "texte": "Le film attire plus de 23 millions de spectateurs au Japon et reste le plus grand succès du box-office japonais pendant près de vingt ans, jusqu'à Demon Slayer en 2020. Il remporte l'Ours d'or à Berlin en 2002, puis l'Oscar du meilleur film d'animation en 2003."
+        },
+        {
+          "titre": "Grandir",
+          "texte": "Chihiro, capricieuse au début, apprend le courage et le travail. Le film parle aussi de la surconsommation et de la pollution : un esprit puant qui vient se laver aux bains se révèle être l'esprit d'une rivière souillée par les déchets humains."
+        }
+      ],
+      "anecdotes": [
+        "Sans-Visage, l'esprit masqué qui offre de l'or à tout le monde, est devenu l'un des personnages les plus reconnaissables de Ghibli."
+      ],
+      "wikipedia": "Le Voyage de Chihiro"
+    },
+    "source": "D'après Wikipédia — Le Voyage de Chihiro"
+  },
+  {
+    "id": "manga-075",
+    "domain": "manga",
+    "subtheme": "Films et studios",
+    "type": "classique",
+    "title": "Princesse Mononoké",
+    "subtitle": "Film de Hayao Miyazaki, 1997",
+    "summary": "Dans le Japon médiéval, le prince Ashitaka est frappé d'une malédiction mortelle en combattant un sanglier démon. Parti vers l'ouest en chercher la cause, il découvre une guerre entre la cité des forges de dame Eboshi, qui rase la forêt, et les dieux animaux, défendus par San, une jeune fille élevée par des loups.\nMiyazaki refuse d'y désigner un camp des gentils et un camp des méchants.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Pas de méchant",
+          "texte": "Dame Eboshi détruit la forêt, mais elle recueille les lépreux et les femmes rejetées, à qui elle donne du travail. San défend la nature, mais hait les humains. Le film pose la question : comment vivre avec la nature sans la détruire ?"
+        },
+        {
+          "titre": "Pas de coupure",
+          "texte": "Quand le distributeur américain Miramax veut raccourcir le film, le producteur de Ghibli, Toshio Suzuki, lui aurait envoyé un vrai sabre japonais avec un message : « Pas de coupure ». Le film est sorti intact."
+        }
+      ],
+      "wikipedia": "Princesse Mononoké"
+    },
+    "source": "D'après Wikipédia — Princesse Mononoké"
+  },
+  {
+    "id": "manga-076",
+    "domain": "manga",
+    "subtheme": "Films et studios",
+    "type": "classique",
+    "title": "Le Tombeau des lucioles",
+    "subtitle": "Film d'Isao Takahata, 1988",
+    "summary": "En 1945, après le bombardement de Kobe qui tue leur mère, l'adolescent Seita et sa petite sœur Setsuko, 4 ans, tentent de survivre seuls. Le film commence par la mort de Seita : on sait dès le départ que l'histoire finira mal.\nC'est l'un des films les plus bouleversants jamais réalisés sur la guerre.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une histoire vraie",
+          "texte": "Le film adapte une nouvelle d'Akiyuki Nosaka (1967), en partie autobiographique : pendant la guerre, l'écrivain a perdu sa petite sœur adoptive, morte de malnutrition. Il a écrit ce récit pour exprimer sa culpabilité."
+        },
+        {
+          "titre": "La boîte de bonbons",
+          "texte": "La petite boîte métallique de bonbons aux fruits de Setsuko est devenue un symbole du film. La marque qui les fabriquait a même vendu des boîtes à l'effigie des deux enfants."
+        }
+      ],
+      "wikipedia": "Le Tombeau des lucioles"
+    },
+    "source": "D'après Wikipédia — Le Tombeau des lucioles"
+  },
+  {
+    "id": "manga-077",
+    "domain": "manga",
+    "subtheme": "Films et studios",
+    "type": "classique",
+    "title": "Nausicaä de la Vallée du Vent",
+    "subtitle": "Film de Hayao Miyazaki, 1984",
+    "summary": "Mille ans après une guerre qui a ravagé la Terre, une forêt toxique, peuplée d'insectes géants, s'étend et menace les derniers humains. Nausicaä, princesse d'une petite vallée, vole sur son planeur et cherche à comprendre cette forêt plutôt qu'à la combattre.\nLe succès du film permet à Miyazaki et Takahata de fonder le Studio Ghibli l'année suivante.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Du manga au film",
+          "texte": "Miyazaki publie d'abord Nausicaä en manga à partir de 1982 dans le magazine Animage. Le film n'adapte que le début de ce récit, que Miyazaki poursuivra jusqu'en 1994, bien plus sombre et complexe."
+        },
+        {
+          "titre": "Une écologie avant l'heure",
+          "texte": "La forêt toxique purifie en réalité la terre polluée par les humains. Les Ômus, gigantesques insectes à carapace, ne sont dangereux que lorsqu'on les attaque. Ce message écologique traverse ensuite toute l'œuvre de Miyazaki."
+        }
+      ],
+      "wikipedia": "Nausicaä de la Vallée du Vent (film d'animation)"
+    },
+    "source": "D'après Wikipédia — Nausicaä de la Vallée du Vent (film d'animation)"
+  },
+  {
+    "id": "manga-078",
+    "domain": "manga",
+    "subtheme": "Films et studios",
+    "type": "classique",
+    "title": "Le Château dans le ciel",
+    "subtitle": "Film de Hayao Miyazaki, 1986",
+    "summary": "Sheeta, une jeune fille poursuivie par l'armée et par des pirates de l'air, tombe littéralement du ciel dans les bras de Pazu, un jeune mineur. Elle porte une pierre mystérieuse liée à Laputa, une île volante légendaire.\nC'est le premier film officiel du Studio Ghibli.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un nom de Swift",
+          "texte": "Laputa est le nom d'une île volante dans Les Voyages de Gulliver, de Jonathan Swift (1726). Miyazaki imagine une cité abandonnée, envahie par la végétation, gardée par des robots géants devenus jardiniers."
+        },
+        {
+          "titre": "Le pays de Galles",
+          "texte": "Pour dessiner la ville minière de Pazu, Miyazaki s'est rendu au pays de Galles en 1984, pendant la grande grève des mineurs britanniques. Il a été marqué par la solidarité des communautés ouvrières qui se battaient pour sauver leurs mines."
+        }
+      ],
+      "wikipedia": "Le Château dans le ciel"
+    },
+    "source": "D'après Wikipédia — Le Château dans le ciel"
+  },
+  {
+    "id": "manga-079",
+    "domain": "manga",
+    "subtheme": "Films et studios",
+    "type": "classique",
+    "title": "Kiki la petite sorcière",
+    "subtitle": "Film de Hayao Miyazaki, 1989",
+    "summary": "Selon la tradition, une sorcière de 13 ans doit quitter sa famille et vivre seule un an dans une ville inconnue. Kiki s'installe dans une ville au bord de la mer avec son chat noir Jiji, et crée un service de livraison sur son balai.\nLe film parle de l'indépendance et du doute qui accompagne le passage à l'âge adulte.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Perdre ses pouvoirs",
+          "texte": "À un moment, Kiki ne parvient plus à voler et n'entend plus Jiji parler. Miyazaki compare ce passage à la panne d'inspiration d'un artiste : on ne sait plus pourquoi on fait ce qu'on faisait si facilement."
+        },
+        {
+          "titre": "Une ville européenne",
+          "texte": "La ville de Koriko mélange des souvenirs de Stockholm et de Visby, en Suède, avec d'autres villes européennes. Le film adapte un roman d'Eiko Kadono publié en 1985."
+        }
+      ],
+      "wikipedia": "Kiki la petite sorcière"
+    },
+    "source": "D'après Wikipédia — Kiki la petite sorcière"
+  },
+  {
+    "id": "manga-080",
+    "domain": "manga",
+    "subtheme": "Films et studios",
+    "type": "classique",
+    "title": "Le Garçon et le Héron",
+    "subtitle": "Film de Hayao Miyazaki, 2023",
+    "summary": "Pendant la guerre du Pacifique, le jeune Mahito perd sa mère dans un incendie et part vivre à la campagne. Un héron cendré qui parle l'attire dans une tour mystérieuse, porte d'entrée vers un monde fantastique.\nMiyazaki, qui avait annoncé sa retraite en 2013, revient avec ce film très personnel à plus de 80 ans.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un titre venu d'un roman",
+          "texte": "Le titre japonais, Kimitachi wa dō ikiru ka (« Et vous, comment vivrez-vous ? »), reprend celui d'un roman de Genzaburō Yoshino (1937) que Miyazaki avait lu enfant. Le film est souvent vu comme une réflexion sur sa vie et l'héritage qu'il laisse."
+        },
+        {
+          "titre": "Sans publicité, puis l'Oscar",
+          "texte": "Au Japon, le film sort sans bande-annonce ni résumé, avec une seule affiche : un pari inédit. Il remporte en 2024 l'Oscar du meilleur film d'animation, le deuxième de Miyazaki après Le Voyage de Chihiro."
+        }
+      ],
+      "wikipedia": "Le Garçon et le Héron"
+    },
+    "source": "D'après Wikipédia — Le Garçon et le Héron"
+  },
+  {
+    "id": "manga-081",
+    "domain": "manga",
+    "subtheme": "Films et studios",
+    "type": "classique",
+    "title": "Your Name",
+    "subtitle": "Film de Makoto Shinkai, 2016",
+    "summary": "Mitsuha, lycéenne qui s'ennuie dans son village de montagne, et Taki, lycéen de Tokyo, se réveillent certains matins dans le corps de l'autre. Ils communiquent par des notes laissées sur leurs téléphones, jusqu'à ce que les échanges s'arrêtent brusquement.\nLe passage d'une comète au-dessus du Japon est au cœur du mystère.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un triomphe",
+          "texte": "Your Name devient à sa sortie le film d'animation japonais le plus rentable au monde, dépassant Le Voyage de Chihiro à l'international. Il fait de Makoto Shinkai l'un des réalisateurs les plus importants de sa génération."
+        },
+        {
+          "titre": "Musique et paysages",
+          "texte": "Les chansons du groupe de rock RADWIMPS rythment le film. Les décors, d'un réalisme éblouissant, ont provoqué des pèlerinages de fans vers les lieux réels qui les ont inspirés, comme un escalier du quartier de Yotsuya, à Tokyo."
+        }
+      ],
+      "wikipedia": "Your Name."
+    },
+    "source": "D'après Wikipédia — Your Name."
+  },
+  {
+    "id": "manga-082",
+    "domain": "manga",
+    "subtheme": "Films et studios",
+    "type": "classique",
+    "title": "Toei Animation",
+    "subtitle": "Le plus ancien grand studio d'animation japonais, fondé en 1956",
+    "summary": "Toei Animation est le studio de Dragon Ball, Sailor Moon, Les Chevaliers du Zodiaque, One Piece, Goldorak et Candy Candy : une grande partie des dessins animés japonais diffusés en France sort de ses ateliers.\nSurnommé à ses débuts le « Disney de l'Orient », il a formé des générations d'animateurs.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Les débuts",
+          "texte": "En 1958, le studio sort Le Serpent blanc, premier long métrage d'animation japonais en couleur, inspiré d'une légende chinoise. Hayao Miyazaki racontera plus tard que ce film lui a donné envie de devenir animateur."
+        },
+        {
+          "titre": "L'école de Miyazaki",
+          "texte": "Miyazaki et Takahata débutent chez Toei dans les années 1960 et travaillent ensemble sur Horus, prince du soleil (1968), réalisé par Takahata. Ils y sont aussi très engagés dans le syndicat des animateurs, où ils se lient d'amitié."
+        }
+      ],
+      "wikipedia": "Toei Animation"
+    },
+    "source": "D'après Wikipédia — Toei Animation"
+  },
+  {
+    "id": "manga-083",
+    "domain": "manga",
+    "subtheme": "Films et studios",
+    "type": "classique",
+    "title": "Kyoto Animation",
+    "subtitle": "Studio d'animation japonais, fondé en 1981",
+    "summary": "Installé à Uji, près de Kyoto, Kyoto Animation est réputé pour la finesse de son animation et le soin porté aux émotions de ses personnages, dans des séries comme K-On!, Violet Evergarden ou le film A Silent Voice.\nContrairement à la plupart des studios, il emploie ses animateurs comme salariés et les forme lui-même.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un style reconnaissable",
+          "texte": "Le studio est connu pour ses histoires du quotidien, ses gestes animés avec précision et ses lumières douces. A Silent Voice (2016), réalisé par Naoko Yamada, raconte comment un ancien harceleur tente de se racheter auprès d'une camarade sourde."
+        },
+        {
+          "titre": "La tragédie de 2019",
+          "texte": "Le 18 juillet 2019, un homme met le feu au principal bâtiment du studio : 36 personnes meurent. C'est l'un des crimes les plus meurtriers de l'histoire du Japon d'après-guerre. Des dons ont afflué du monde entier, et le studio a repris ses productions."
+        }
+      ],
+      "wikipedia": "Kyoto Animation"
+    },
+    "source": "D'après Wikipédia — Kyoto Animation"
+  },
+  {
+    "id": "manga-084",
+    "domain": "manga",
+    "subtheme": "Films et studios",
+    "type": "classique",
+    "title": "MAPPA",
+    "subtitle": "Studio d'animation japonais, fondé en 2011",
+    "summary": "MAPPA est le studio derrière plusieurs des plus grands succès récents : Jujutsu Kaisen, Chainsaw Man, la saison finale de L'Attaque des Titans ou la deuxième saison de Vinland Saga.\nEn une dizaine d'années, il est devenu l'un des studios les plus puissants du Japon.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un fondateur légendaire",
+          "texte": "MAPPA est fondé par Masao Maruyama, cofondateur du studio Madhouse, où il avait produit les films de Satoshi Kon. À plus de 70 ans, il crée MAPPA pour produire Dans un recoin de ce monde (2016), un film sur la vie près d'Hiroshima pendant la guerre."
+        },
+        {
+          "titre": "La rançon du succès",
+          "texte": "Le studio est souvent critiqué pour les délais très courts imposés à ses animateurs, symbole des conditions de travail difficiles dans l'industrie de l'animation japonaise, où beaucoup sont payés à la pièce."
+        }
+      ],
+      "wikipedia": "MAPPA"
+    },
+    "source": "D'après Wikipédia — MAPPA"
+  },
+  {
+    "id": "manga-085",
+    "domain": "manga",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "1814 : les « Hokusai Manga »",
+    "summary": "En 1814, le célèbre peintre Katsushika Hokusai publie le premier volume de ses carnets de croquis, intitulés Hokusai Manga. On y trouve des milliers de dessins d'humains, d'animaux, de paysages et de créatures fantastiques.\nC'est l'un des premiers usages connus du mot « manga », qui signifie à peu près « dessins au fil du pinceau ».",
+    "details": {
+      "contexte": "Au Japon de l'époque d'Edo, les estampes et les livres illustrés sont très populaires dans les villes.",
+      "causes": "Hokusai veut offrir à ses élèves et aux artisans des modèles de dessin variés.",
+      "deroulement": "Quinze volumes paraissent entre 1814 et 1878, les derniers après sa mort. Les dessins, souvent humoristiques, saisissent les gestes de la vie quotidienne.",
+      "consequences": "Les Hokusai Manga circulent en Europe au XIXe siècle et fascinent les impressionnistes. Le mot manga désignera plus tard la bande dessinée japonaise.",
+      "frise": [
+        {
+          "annee": "1814",
+          "evenement": "Premier volume des Hokusai Manga"
+        },
+        {
+          "annee": "1831",
+          "evenement": "Hokusai publie La Grande Vague de Kanagawa"
+        },
+        {
+          "annee": "1878",
+          "evenement": "Dernier volume, publié après sa mort"
+        }
+      ],
+      "wikipedia": "Hokusai manga"
+    },
+    "source": "D'après Wikipédia — Hokusai manga"
+  },
+  {
+    "id": "manga-086",
+    "domain": "manga",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "1917 : les premiers dessins animés japonais",
+    "summary": "En 1917, plusieurs pionniers japonais réalisent les premiers dessins animés du pays, inspirés des courts métrages venus d'Europe et des États-Unis. Parmi eux, Namakura Gatana de Jun'ichi Kōuchi, qui montre un samouraï ridicule avec un sabre émoussé.\nRetrouvé en 2008, ce film de deux minutes est le plus ancien anime japonais conservé.",
+    "details": {
+      "contexte": "Au début du XXe siècle, les dessins animés occidentaux sont projetés dans les cinémas japonais et intriguent les artistes.",
+      "causes": "Des caricaturistes et des peintres, comme Ōten Shimokawa, Seitarō Kitayama et Jun'ichi Kōuchi, veulent créer des films animés japonais.",
+      "deroulement": "Ils expérimentent des techniques artisanales : dessins à la craie effacés et redessinés, papiers découpés, dessins sur papier.",
+      "consequences": "L'animation japonaise se développe lentement, surtout avec des films éducatifs et de propagande, avant l'essor des années 1950 et 1960.",
+      "frise": [
+        {
+          "annee": "1917",
+          "evenement": "Premiers dessins animés japonais, dont Namakura Gatana"
+        },
+        {
+          "annee": "1958",
+          "evenement": "Le Serpent blanc, premier long métrage d'animation japonais en couleur"
+        },
+        {
+          "annee": "1963",
+          "evenement": "Astro le petit robot, première grande série animée télévisée"
+        }
+      ],
+      "wikipedia": "Namakura Gatana"
+    },
+    "source": "D'après Wikipédia — Namakura Gatana"
+  },
+  {
+    "id": "manga-087",
+    "domain": "manga",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "1947 : La Nouvelle Île au trésor",
+    "summary": "En 1947, le jeune Osamu Tezuka, à peine 18 ans, publie avec Shichima Sakai La Nouvelle Île au trésor, une aventure de pirates vendue à environ 400 000 exemplaires dans un Japon en ruines.\nSon découpage inspiré du cinéma, avec des gros plans et des scènes en mouvement, marque la naissance du manga moderne.",
+    "details": {
+      "contexte": "Après la guerre, le papier est rare et les Japonais pauvres : les « akahon », petits livres bon marché à couverture rouge, se vendent dans les rues d'Osaka.",
+      "causes": "Tezuka, passionné par les films de Disney et les films d'aventure, veut que ses pages donnent l'impression de regarder un film.",
+      "deroulement": "Le livre raconte la chasse au trésor d'un jeune garçon. Sa première double page montre une voiture qui fonce vers le lecteur, image par image, comme au cinéma.",
+      "consequences": "Toute une génération de futurs mangakas découvre le manga avec ce livre. Tezuka s'installe à Tokyo et devient « le dieu du manga ».",
+      "frise": [
+        {
+          "annee": "1947",
+          "evenement": "La Nouvelle Île au trésor"
+        },
+        {
+          "annee": "1950",
+          "evenement": "Tezuka lance Le Roi Léo"
+        },
+        {
+          "annee": "1952",
+          "evenement": "Début d'Astro le petit robot"
+        }
+      ],
+      "wikipedia": "La Nouvelle Île au trésor"
+    },
+    "source": "D'après Wikipédia — La Nouvelle Île au trésor"
+  },
+  {
+    "id": "manga-088",
+    "domain": "manga",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "1978 : l'animation japonaise arrive à la télé française",
+    "summary": "Le 3 juillet 1978, Antenne 2 diffuse le premier épisode de Goldorak dans l'émission Récré A2. Les enfants français découvrent un robot géant, des combats spectaculaires et une histoire à suivre d'épisode en épisode.\nLe succès est immédiat et ouvre la voie à des centaines de dessins animés japonais.",
+    "details": {
+      "contexte": "Les chaînes françaises cherchent des programmes pour les enfants ; les séries japonaises sont beaucoup moins chères que les productions françaises ou américaines.",
+      "causes": "Jacqueline Joubert, responsable des programmes jeunesse d'Antenne 2, fait le pari d'acheter Goldorak.",
+      "deroulement": "Goldorak est présenté par Dorothée dans Récré A2. Il est suivi d'Albator, de Candy, du Capitaine Flam et de bien d'autres.",
+      "consequences": "Certains parents et hommes politiques dénoncent la violence de ces séries. Mais une génération de fans est née, qui fera plus tard de la France le deuxième marché mondial du manga.",
+      "frise": [
+        {
+          "annee": "1978",
+          "evenement": "Premier épisode de Goldorak sur Antenne 2"
+        },
+        {
+          "annee": "1987",
+          "evenement": "Lancement du Club Dorothée sur TF1"
+        },
+        {
+          "annee": "1990",
+          "evenement": "Akira arrive en librairie"
+        }
+      ],
+      "wikipedia": "Récré A2"
+    },
+    "source": "D'après Wikipédia — Récré A2"
+  },
+  {
+    "id": "manga-089",
+    "domain": "manga",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "1987 : le lancement du Club Dorothée",
+    "summary": "En septembre 1987, TF1 lance le Club Dorothée, émission pour enfants animée par Dorothée et ses complices. Pendant dix ans, elle diffuse chaque jour des dizaines de dessins animés japonais : Dragon Ball, Les Chevaliers du Zodiaque, Nicky Larson, Sailor Moon…\nLe Club Dorothée a forgé la culture de toute une génération de Français.",
+    "details": {
+      "contexte": "TF1, privatisée en 1987, cherche à attirer les enfants avec des programmes populaires et peu coûteux.",
+      "causes": "La société AB Productions achète en masse des séries japonaises bon marché et les double en français.",
+      "deroulement": "Les séries sont souvent coupées, renommées (Ryo Saeba devient Nicky Larson) et leurs scènes violentes censurées, parfois maladroitement.",
+      "consequences": "En 1989, Ségolène Royal critique ces programmes dans un livre, Le Ras-le-bol des bébés zappeurs. L'émission s'arrête en 1997, mais ses fans nourrissent le succès du manga en France.",
+      "frise": [
+        {
+          "annee": "1987",
+          "evenement": "Première émission du Club Dorothée"
+        },
+        {
+          "annee": "1988",
+          "evenement": "Diffusion de Dragon Ball"
+        },
+        {
+          "annee": "1997",
+          "evenement": "Dernière émission"
+        }
+      ],
+      "wikipedia": "Club Dorothée"
+    },
+    "source": "D'après Wikipédia — Club Dorothée"
+  },
+  {
+    "id": "manga-090",
+    "domain": "manga",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "1990 : le manga entre dans les librairies françaises",
+    "summary": "En mars 1990, l'éditeur grenoblois Glénat publie Akira de Katsuhiro Otomo, en fascicules colorisés et lus de gauche à droite comme les BD françaises. C'est le premier grand succès du manga en France.\nTrois ans plus tard, Dragon Ball, publié en petit format, lance vraiment le phénomène.",
+    "details": {
+      "contexte": "Les jeunes Français connaissent les dessins animés japonais grâce à la télévision, mais les mangas eux-mêmes ne sont presque pas traduits.",
+      "causes": "Jacques Glénat, fondateur de la maison d'édition, découvre le phénomène au Japon et parie sur Akira, déjà publié aux États-Unis.",
+      "deroulement": "Les premières éditions adaptent le manga aux habitudes françaises : couleur, sens de lecture inversé. Peu à peu, les éditeurs choisissent de respecter le sens de lecture japonais, de droite à gauche.",
+      "consequences": "De nombreux éditeurs se lancent (Kana en 1996, Pika en 2000…). En quelques décennies, la France devient le deuxième marché du manga au monde.",
+      "frise": [
+        {
+          "annee": "1990",
+          "evenement": "Akira chez Glénat"
+        },
+        {
+          "annee": "1993",
+          "evenement": "Dragon Ball chez Glénat"
+        },
+        {
+          "annee": "1996",
+          "evenement": "Création de l'éditeur Kana"
+        }
+      ],
+      "wikipedia": "Akira (manga)"
+    },
+    "source": "D'après Wikipédia — Akira (manga)"
+  },
+  {
+    "id": "manga-091",
+    "domain": "manga",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "1997 : le « choc Pokémon »",
+    "summary": "Le 16 décembre 1997, un épisode de l'anime Pokémon diffuse une explosion avec des flashs rouges et bleus alternés très rapidement. Des centaines d'enfants japonais sont pris de malaises, de nausées et parfois de convulsions, et près de 700 sont conduits à l'hôpital.\nL'événement fait le tour du monde et change les règles de la télévision.",
+    "details": {
+      "contexte": "L'anime Pokémon, lancé en avril 1997, est l'un des programmes les plus regardés par les enfants japonais.",
+      "causes": "Dans l'épisode Dennō Senshi Porygon, une scène clignote pendant plusieurs secondes à un rythme capable de déclencher des crises chez les personnes sensibles à la lumière (épilepsie photosensible).",
+      "deroulement": "Les symptômes apparaissent chez des enfants dans tout le Japon en quelques minutes. La diffusion de l'anime est suspendue pendant quatre mois.",
+      "consequences": "Les chaînes japonaises adoptent des règles strictes sur les flashs lumineux. Porygon, le Pokémon de l'épisode pourtant innocent, n'est presque plus jamais réapparu dans l'anime.",
+      "frise": [
+        {
+          "annee": "1996",
+          "evenement": "Sortie de Pokémon Rouge et Vert"
+        },
+        {
+          "annee": "1997",
+          "evenement": "Lancement de l'anime puis choc Pokémon"
+        },
+        {
+          "annee": "1998",
+          "evenement": "Reprise de l'anime au Japon"
+        }
+      ],
+      "wikipedia": "Dennō Senshi Porigon"
+    },
+    "source": "D'après Wikipédia — Dennō Senshi Porigon"
+  },
+  {
+    "id": "manga-092",
+    "domain": "manga",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "1999 : la première Japan Expo",
+    "summary": "En 1999, une petite association de fans organise à Paris la première Japan Expo, un salon consacré au manga, à l'anime et à la culture japonaise. Elle accueille quelques milliers de visiteurs.\nElle est devenue l'un des plus grands festivals de culture japonaise au monde hors du Japon, avec plus de 200 000 visiteurs chaque été.",
+    "details": {
+      "contexte": "À la fin des années 1990, les fans de manga en France se retrouvent dans de petites conventions et des boutiques spécialisées.",
+      "causes": "Trois passionnés veulent créer un grand rendez-vous où se retrouvent fans, éditeurs et artistes japonais.",
+      "deroulement": "Le salon grandit d'année en année et s'installe au parc des expositions de Paris-Nord Villepinte. On y croise des milliers de cosplayeurs, des mangakas invités et des concerts.",
+      "consequences": "Japan Expo symbolise la place unique du manga et de la pop culture japonaise en France.",
+      "frise": [
+        {
+          "annee": "1999",
+          "evenement": "Première Japan Expo"
+        },
+        {
+          "annee": "2019",
+          "evenement": "Vingtième anniversaire du salon"
+        },
+        {
+          "annee": "2020",
+          "evenement": "Édition annulée à cause de la pandémie de Covid-19"
+        }
+      ],
+      "wikipedia": "Japan Expo"
+    },
+    "source": "D'après Wikipédia — Japan Expo"
+  },
+  {
+    "id": "manga-093",
+    "domain": "manga",
+    "subtheme": "Culture et vocabulaire",
+    "type": "vocabulaire",
+    "title": "Shōjo",
+    "summary": "Le shōjo (« jeune fille ») désigne les mangas publiés dans des magazines destinés aux adolescentes, comme Nakayoshi, Ribon ou Margaret. On y trouve des histoires d'amour, mais aussi de la fantasy, de l'histoire, du sport ou de l'horreur.\nSailor Moon, La Rose de Versailles ou Fruits Basket en sont des classiques.",
+    "details": {
+      "definition": "Catégorie éditoriale du manga visant un public de jeunes filles, définie par le magazine de publication et non par le genre de l'histoire.",
+      "exemple": "Sailor Moon est un shōjo publié dans Nakayoshi, alors qu'il contient autant de combats qu'un shōnen.",
+      "confusions": [
+        {
+          "mot": "Josei",
+          "explication": "Mangas destinés aux femmes adultes, aux histoires plus réalistes."
+        },
+        {
+          "mot": "Shōnen",
+          "explication": "Mangas destinés aux jeunes garçons, comme One Piece ou Naruto."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "La révolution des autrices",
+          "texte": "Au début, les shōjo étaient surtout dessinés par des hommes. Dans les années 1970, une génération d'autrices nées vers 1949, surnommée le « Groupe de l'an 24 », dont Moto Hagio et Keiko Takemiya, le transforme en genre ambitieux, avec des récits de science-fiction, historiques ou psychologiques."
+        },
+        {
+          "titre": "Un style visuel",
+          "texte": "Grands yeux brillants remplis d'étoiles, fleurs en arrière-plan, cases éclatées qui expriment les émotions : le shōjo a inventé un langage graphique très reconnaissable."
+        }
+      ],
+      "wikipedia": "Shōjo"
+    },
+    "source": "D'après Wikipédia — Shōjo"
+  },
+  {
+    "id": "manga-094",
+    "domain": "manga",
+    "subtheme": "Culture et vocabulaire",
+    "type": "vocabulaire",
+    "title": "Kawaii",
+    "summary": "Kawaii signifie « mignon » en japonais. C'est bien plus qu'un adjectif : c'est une véritable culture de l'adorable, présente partout au Japon, des mascottes de villes aux panneaux de chantier.\nHello Kitty, Pikachu ou les mascottes régionales en sont les symboles.",
+    "details": {
+      "definition": "Qualité de ce qui est mignon, attendrissant, enfantin ; par extension, esthétique japonaise fondée sur les formes rondes, les couleurs pastel et les grands yeux.",
+      "exemple": "Même la police japonaise a des mascottes kawaii, comme Pipo-kun, la mascotte de la police de Tokyo.",
+      "confusions": [
+        {
+          "mot": "Moe",
+          "explication": "Sentiment d'affection intense d'un fan pour un personnage, souvent de fiction."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Hello Kitty",
+          "texte": "Créée en 1974 par l'entreprise Sanrio, Hello Kitty, petite chatte blanche sans bouche avec un nœud rouge, est devenue l'une des marques les plus rentables du monde. Sanrio précise qu'elle n'est pas un chat mais une petite fille vivant à Londres."
+        },
+        {
+          "titre": "Les mascottes",
+          "texte": "Chaque ville ou région japonaise a sa mascotte, appelée yuru-chara. Kumamon, l'ours noir aux joues rouges de la préfecture de Kumamoto, a rapporté des centaines de millions d'euros à sa région grâce aux produits dérivés."
+        }
+      ],
+      "wikipedia": "Kawaii"
+    },
+    "source": "D'après Wikipédia — Kawaii"
+  },
+  {
+    "id": "manga-095",
+    "domain": "manga",
+    "subtheme": "Culture et vocabulaire",
+    "type": "vocabulaire",
+    "title": "Cosplay",
+    "summary": "Le cosplay consiste à se déguiser en personnage de manga, d'anime, de jeu vidéo ou de film, en reproduisant son costume, sa coiffure et parfois ses attitudes.\nLes cosplayeurs passent souvent des mois à fabriquer eux-mêmes leurs costumes, qu'ils présentent dans les conventions comme Japan Expo.",
+    "details": {
+      "definition": "Contraction des mots anglais « costume » et « play » : jouer à incarner un personnage en portant son costume.",
+      "exemple": "À Japan Expo, des milliers de cosplayeurs incarnent Naruto, Sailor Moon ou Link.",
+      "confusions": [
+        {
+          "mot": "Déguisement",
+          "explication": "Terme plus général ; le cosplay vise la reproduction fidèle d'un personnage précis."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "L'origine du mot",
+          "texte": "Le Japonais Nobuyuki Takahashi invente le mot en 1984, après avoir vu des fans déguisés à une convention de science-fiction à Los Angeles. Il l'utilise dans ses articles pour décrire cette pratique aux lecteurs japonais."
+        },
+        {
+          "titre": "Une compétition",
+          "texte": "Le World Cosplay Summit, organisé chaque année à Nagoya depuis 2003, réunit des équipes du monde entier."
+        }
+      ],
+      "wikipedia": "Cosplay"
+    },
+    "source": "D'après Wikipédia — Cosplay"
+  },
+  {
+    "id": "manga-096",
+    "domain": "manga",
+    "subtheme": "Culture et vocabulaire",
+    "type": "vocabulaire",
+    "title": "Chibi (super deformed)",
+    "summary": "Le chibi, ou « super deformed », est un style de dessin où les personnages sont représentés avec une tête énorme et un tout petit corps, comme des poupées.\nIl sert souvent à rendre une scène comique, à alléger un moment dramatique ou à créer des produits dérivés adorables.",
+    "details": {
+      "definition": "Style de dessin qui déforme les proportions d'un personnage : la tête peut être aussi grande que le reste du corps, les traits sont simplifiés.",
+      "exemple": "Dans de nombreux mangas, un personnage furieux devient soudain chibi pendant une case, pour montrer que la scène est comique.",
+      "confusions": [
+        {
+          "mot": "Kawaii",
+          "explication": "Le kawaii désigne tout ce qui est mignon ; le chibi est un style de dessin précis."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "D'où vient le mot",
+          "texte": "Chibi signifie « petit » ou « minus » en japonais familier. Le terme super deformed, venu de l'anglais, s'est popularisé dans les années 1980 avec des figurines de robots Gundam aux proportions écrasées."
+        }
+      ],
+      "wikipedia": "Super deformed"
+    },
+    "source": "D'après Wikipédia — Super deformed"
+  },
+  {
+    "id": "manga-097",
+    "domain": "manga",
+    "subtheme": "Culture et vocabulaire",
+    "type": "vocabulaire",
+    "title": "Tankōbon",
+    "summary": "Au Japon, les mangas paraissent d'abord chapitre par chapitre dans des magazines épais et bon marché, imprimés sur du papier recyclé. Les chapitres sont ensuite regroupés dans des volumes reliés : les tankōbon.\nCe sont ces volumes que l'on achète en France.",
+    "details": {
+      "definition": "Volume relié regroupant une dizaine de chapitres d'un manga déjà parus en magazine.",
+      "exemple": "Un chapitre de One Piece paraît chaque semaine dans le Weekly Shōnen Jump ; environ tous les trois mois, un nouveau tankōbon réunit les derniers chapitres.",
+      "confusions": [
+        {
+          "mot": "Magazine de prépublication",
+          "explication": "Revue hebdomadaire ou mensuelle, comme le Weekly Shōnen Jump, où paraissent les chapitres avant les volumes."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un rythme infernal",
+          "texte": "Dans un hebdomadaire, un mangaka doit livrer environ 20 pages par semaine, aidé de ses assistants. C'est pourquoi beaucoup d'auteurs dorment très peu et que certaines séries s'interrompent pour raisons de santé."
+        }
+      ],
+      "wikipedia": "Tankōbon"
+    },
+    "source": "D'après Wikipédia — Tankōbon"
+  },
+  {
+    "id": "manga-098",
+    "domain": "manga",
+    "subtheme": "Culture et vocabulaire",
+    "type": "vocabulaire",
+    "title": "Seiyū",
+    "summary": "Un seiyū est un comédien de doublage japonais, qui prête sa voix aux personnages d'anime et de jeux vidéo. Au Japon, les seiyū les plus célèbres sont de véritables stars, avec des fans, des concerts et des émissions.\nCertains doublent le même personnage pendant plusieurs décennies.",
+    "details": {
+      "definition": "Comédien spécialisé dans le doublage de voix, surtout pour l'animation, les jeux vidéo et les fictions audio au Japon.",
+      "exemple": "Masako Nozawa, née en 1936, prête sa voix à Goku depuis 1986 : dans la version japonaise, le héros de Dragon Ball, enfant comme adulte, est donc doublé par une femme.",
+      "confusions": [
+        {
+          "mot": "Doubleur",
+          "explication": "Comédien qui remplace la voix originale dans une autre langue, comme les voix françaises des animes."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Des voix de femmes pour les garçons",
+          "texte": "Il est courant au Japon que des héros jeunes garçons soient doublés par des femmes, dont la voix reste plus aiguë : Luffy (One Piece), Naruto ou Gon (Hunter × Hunter) sont doublés par des actrices."
+        }
+      ],
+      "wikipedia": "Seiyū"
+    },
+    "source": "D'après Wikipédia — Seiyū"
+  },
+  {
+    "id": "manga-099",
+    "domain": "manga",
+    "subtheme": "Culture et vocabulaire",
+    "type": "vocabulaire",
+    "title": "Light novel",
+    "summary": "Les light novels sont des romans japonais pour adolescents et jeunes adultes, courts, faciles à lire et illustrés de dessins dans le style manga. Beaucoup de séries animées récentes sont adaptées de light novels plutôt que de mangas.\nLe genre isekai y est particulièrement présent.",
+    "details": {
+      "definition": "Roman japonais illustré, au style simple et souvent dialogué, publié en format poche et destiné à un jeune public.",
+      "exemple": "Sword Art Online, Re:Zero et Konosuba sont d'abord des light novels, adaptés ensuite en manga et en anime.",
+      "confusions": [
+        {
+          "mot": "Visual novel",
+          "explication": "Jeu vidéo narratif où l'on lit une histoire illustrée et fait des choix."
+        },
+        {
+          "mot": "Manga",
+          "explication": "Bande dessinée : l'histoire est racontée par les images et les bulles."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Des titres à rallonge",
+          "texte": "Les light novels récents sont connus pour leurs titres très longs qui résument l'histoire, comme « Moi, quand je me réincarne en Slime ». Ces titres servent à attirer les lecteurs sur les sites de publication en ligne, où beaucoup de séries commencent."
+        }
+      ],
+      "wikipedia": "Light novel"
+    },
+    "source": "D'après Wikipédia — Light novel"
+  },
+  {
+    "id": "manga-100",
+    "domain": "manga",
+    "subtheme": "Culture et vocabulaire",
+    "type": "vocabulaire",
+    "title": "Dōjinshi",
+    "summary": "Les dōjinshi sont des mangas auto-édités par des amateurs, souvent des histoires parallèles avec des personnages de séries célèbres. Ils se vendent dans d'immenses salons, dont le plus grand est le Comiket, à Tokyo.\nDe nombreux mangakas professionnels ont commencé par là.",
+    "details": {
+      "definition": "Publication auto-éditée par un auteur ou un groupe d'amateurs, équivalent japonais du fanzine.",
+      "exemple": "Le collectif CLAMP, autrices de Cardcaptor Sakura, a commencé par publier des dōjinshi avant de devenir professionnel.",
+      "confusions": [
+        {
+          "mot": "Fan art",
+          "explication": "Dessin isolé d'un fan, alors que le dōjinshi est une publication complète."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le Comiket",
+          "texte": "Le Comic Market, ou Comiket, créé en 1975, se tient deux fois par an au Tokyo Big Sight. Des dizaines de milliers de cercles d'auteurs y vendent leurs créations à des centaines de milliers de visiteurs, ce qui en fait l'un des plus grands rassemblements de fans au monde."
+        },
+        {
+          "titre": "Une tolérance japonaise",
+          "texte": "Les dōjinshi reprennent souvent des personnages protégés par le droit d'auteur. Les éditeurs japonais les tolèrent généralement, car ils entretiennent la passion des fans et font émerger de nouveaux talents."
+        }
+      ],
+      "wikipedia": "Dōjinshi"
+    },
+    "source": "D'après Wikipédia — Dōjinshi"
+  },
+  {
+    "id": "manga-101",
+    "domain": "manga",
+    "subtheme": "Culture et vocabulaire",
+    "type": "vocabulaire",
+    "title": "Webtoon",
+    "summary": "Le webtoon est une bande dessinée numérique née en Corée du Sud au début des années 2000, conçue pour être lue sur téléphone : les cases s'enchaînent de haut en bas en faisant défiler l'écran, et tout est en couleurs.\nDes séries comme Solo Leveling ou Tower of God ont conquis le monde.",
+    "details": {
+      "definition": "Bande dessinée publiée en ligne sous forme d'un long ruban vertical, pensée pour la lecture sur smartphone.",
+      "exemple": "Solo Leveling, webtoon coréen sur un chasseur de monstres qui devient de plus en plus fort, a été adapté en anime au Japon en 2024.",
+      "confusions": [
+        {
+          "mot": "Manhwa",
+          "explication": "Bande dessinée coréenne en général, y compris sur papier."
+        },
+        {
+          "mot": "Manga",
+          "explication": "Bande dessinée japonaise, en noir et blanc, lue par pages de droite à gauche."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un modèle gratuit",
+          "texte": "La plupart des webtoons se lisent gratuitement, un épisode par semaine, sur des plateformes comme Naver Webtoon, lancée en 2004. On peut payer pour lire les épisodes en avance. Beaucoup de séries coréennes à succès, comme Sweet Home, sont adaptées de webtoons."
+        }
+      ],
+      "wikipedia": "Webtoon"
+    },
+    "source": "D'après Wikipédia — Webtoon"
+  },
+  {
+    "id": "manga-102",
+    "domain": "manga",
+    "subtheme": "Culture et vocabulaire",
+    "type": "classique",
+    "title": "Lire un manga de droite à gauche",
+    "summary": "Au Japon, on lit traditionnellement de droite à gauche et de haut en bas. Les mangas s'ouvrent donc « à l'envers » pour un lecteur français : on commence par ce qui serait pour nous la dernière page, et on lit les cases et les bulles de droite à gauche.\nAprès quelques pages, l'œil s'habitue très vite.",
+    "details": {
+      "sections": [
+        {
+          "titre": "L'ordre des cases",
+          "texte": "Sur une page, on commence par la case en haut à droite, puis on se déplace vers la gauche, rangée par rangée. Dans les bulles, le texte japonais est écrit en colonnes verticales, lues de droite à gauche ; les éditions françaises le remplacent par du texte horizontal."
+        },
+        {
+          "titre": "La fin du « miroir »",
+          "texte": "Les premières éditions françaises, comme Akira en 1990, retournaient les pages en miroir pour qu'on lise de gauche à droite. Mais cela rendait les personnages gauchers et abîmait le travail des auteurs. Depuis le milieu des années 1990, les éditeurs respectent le sens de lecture japonais."
+        }
+      ],
+      "anecdotes": [
+        "Beaucoup de mangas français se terminent par une page d'avertissement du type « Stop ! Vous lisez dans le mauvais sens », pour les lecteurs qui ouvrent le livre par la fin."
+      ],
+      "wikipedia": "Manga"
+    },
+    "source": "D'après Wikipédia — Manga"
+  },
+  {
+    "id": "manga-103",
+    "domain": "manga",
+    "subtheme": "Culture et vocabulaire",
+    "type": "classique",
+    "title": "Les onomatopées dans le manga",
+    "summary": "Les mangas sont remplis d'onomatopées dessinées à la main, qui font partie de l'image : explosions, pas, battements de cœur… Le japonais possède aussi des milliers de mots qui décrivent non des sons, mais des états ou des sensations.\nOn trouve ainsi dans les cases des « bruits » pour le silence ou pour un sourire.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des bruits qui n'en sont pas",
+          "texte": "Le japonais distingue les giongo, qui imitent de vrais sons (« don » pour un choc), et les gitaigo, qui décrivent un état : « shiin » pour un silence pesant, « kira kira » pour ce qui scintille, « niko » pour un sourire. Un manga peut ainsi « écrire » le silence d'une pièce."
+        },
+        {
+          "titre": "Traduire ou non",
+          "texte": "Comme elles sont dessinées dans l'image, les onomatopées sont difficiles à traduire. Certains éditeurs les redessinent en français, d'autres les laissent en japonais avec une petite traduction à côté. Le célèbre « ゴゴゴ » (go go go) de JoJo's Bizarre Adventure, qui signale une menace, est devenu un mème."
+        }
+      ],
+      "wikipedia": "Onomatopée"
+    },
+    "source": "D'après Wikipédia — Onomatopée"
+  },
+  {
+    "id": "manga-104",
+    "domain": "manga",
+    "subtheme": "Culture et vocabulaire",
+    "type": "vocabulaire",
+    "title": "Yōkai",
+    "summary": "Les yōkai sont les créatures surnaturelles du folklore japonais : esprits, monstres, fantômes ou objets qui prennent vie. Le kappa des rivières, le renard kitsune ou le tanuki farceur en sont des exemples célèbres.\nIls peuplent d'innombrables mangas, animes et jeux vidéo.",
+    "details": {
+      "definition": "Terme général désignant les êtres surnaturels et phénomènes étranges des légendes japonaises, ni vraiment dieux ni vraiment démons.",
+      "exemple": "Dans Le Voyage de Chihiro, les bains de Yubaba accueillent de nombreux esprits inspirés des yōkai et des divinités japonaises.",
+      "confusions": [
+        {
+          "mot": "Kami",
+          "explication": "Divinités du shintoïsme, vénérées dans les sanctuaires."
+        },
+        {
+          "mot": "Yūrei",
+          "explication": "Fantômes de défunts, souvent vêtus de blanc et aux longs cheveux noirs."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Shigeru Mizuki",
+          "texte": "Le mangaka Shigeru Mizuki (1922-2015) a popularisé les yōkai avec Kitaro le repoussant, dont le héros est un jeune yōkai borgne. Sa ville natale, Sakaiminato, a installé plus de cent statues de yōkai dans une rue qui porte son nom. Plus tard, le jeu Yo-kai Watch a fait découvrir ces créatures aux enfants du monde entier."
+        }
+      ],
+      "wikipedia": "Yōkai"
+    },
+    "source": "D'après Wikipédia — Yōkai"
+  },
+  {
+    "id": "manga-105",
+    "domain": "manga",
+    "subtheme": "Culture et vocabulaire",
+    "type": "vocabulaire",
+    "title": "Magical girl",
+    "summary": "La magical girl (mahō shōjo) est une jeune fille qui obtient des pouvoirs magiques, souvent grâce à un objet ou à un petit compagnon animal, et qui se transforme en héroïne dans une séquence de transformation spectaculaire.\nSailor Moon et Cardcaptor Sakura sont les plus célèbres.",
+    "details": {
+      "definition": "Genre de manga et d'anime centré sur une jeune héroïne dotée de pouvoirs magiques, qui mène souvent une double vie d'écolière et de justicière.",
+      "exemple": "Sakura, dans Cardcaptor Sakura du collectif CLAMP, doit retrouver des cartes magiques échappées d'un livre.",
+      "confusions": [
+        {
+          "mot": "Shōjo",
+          "explication": "Catégorie éditoriale de mangas pour jeunes filles, qui comprend la magical girl mais aussi bien d'autres genres."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Des origines à la déconstruction",
+          "texte": "Sally la petite sorcière (1966), inspirée de la série américaine Ma sorcière bien-aimée, est considérée comme le premier anime de magical girl. En 2011, Puella Magi Madoka Magica reprend les codes du genre pour en faire une histoire sombre et tragique, qui a bouleversé les fans."
+        }
+      ],
+      "wikipedia": "Magical girl"
+    },
+    "source": "D'après Wikipédia — Magical girl"
+  },
+  {
+    "id": "manga-106",
+    "domain": "manga",
+    "subtheme": "Culture et vocabulaire",
+    "type": "vocabulaire",
+    "title": "Les suffixes -san, -kun, -chan",
+    "summary": "En japonais, on ajoute après le nom d'une personne un suffixe qui indique la relation qu'on a avec elle : respect, familiarité, affection. Beaucoup de traductions de mangas les conservent.\nOublier le suffixe peut être très familier, voire impoli.",
+    "details": {
+      "definition": "Suffixes honorifiques accolés aux noms ou prénoms, qui expriment le degré de politesse, de proximité ou de hiérarchie entre deux personnes.",
+      "exemple": "-san est la formule de politesse courante ; -kun s'emploie pour les garçons ou les cadets ; -chan pour les enfants et les proches ; -sama marque un très grand respect ; senpai désigne un aîné, à l'école ou au travail.",
+      "confusions": [
+        {
+          "mot": "Senpai et kōhai",
+          "explication": "Le senpai est l'aîné, plus ancien dans le club ou l'entreprise ; le kōhai, le cadet."
+        },
+        {
+          "mot": "Sensei",
+          "explication": "Titre donné aux professeurs, aux médecins, et aussi aux mangakas."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Dans les mangas",
+          "texte": "Les suffixes en disent long : quand deux personnages passent de -san à leur prénom sans suffixe, c'est qu'ils sont devenus très proches. L'expression « Remarque-moi, senpai ! » est devenue une blague sur les personnages qui attendent l'attention d'un aîné admiré."
+        }
+      ],
+      "wikipedia": "Dénomination d'une personne en japonais"
+    },
+    "source": "D'après Wikipédia — Dénomination d'une personne en japonais"
   }
 ]

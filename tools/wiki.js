@@ -16,9 +16,13 @@ async function politesse() {
   derniere = Date.now();
 }
 
+// L'empreinte distingue « Namakura Gatana » de « Namakura gatana » : sous Windows,
+// les noms de fichiers ignorent la casse, alors que les titres Wikipédia non.
 function fichierCache(titre) {
-  const nom = titre.normalize('NFC').replace(/[\\/:*?"<>|]/g, '_').slice(0, 150);
-  return path.join(CACHE, nom + '.json');
+  const t = titre.normalize('NFC');
+  const nom = t.replace(/[\\/:*?"<>|]/g, '_').slice(0, 140);
+  const empreinte = require('crypto').createHash('sha1').update(t).digest('hex').slice(0, 8);
+  return path.join(CACHE, `${nom}.${empreinte}.json`);
 }
 
 // Résumé d'un article : { titre, extrait, url, homonymie, introuvable }

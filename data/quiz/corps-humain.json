@@ -60,8 +60,16 @@
     "question": "Remets ces découvertes médicales dans l'ordre chronologique.",
     "evenements": [
       {
+        "label": "Vésale publie la Fabrica, premier grand atlas d'anatomie humaine",
+        "annee": "1543"
+      },
+      {
         "label": "Première vaccination expérimentale par Edward Jenner",
         "annee": "1796"
+      },
+      {
+        "label": "Röntgen découvre les rayons X",
+        "annee": "1895"
       },
       {
         "label": "Découverte de l'effet antibactérien de la pénicilline par Fleming",
@@ -72,8 +80,8 @@
         "annee": "1980"
       }
     ],
-    "explication": "De la première vaccination à l'éradication mondiale de la variole, ces jalons couvrent près de deux siècles de médecine.",
-    "source": "À vérifier"
+    "explication": "Vésale corrige Galien en disséquant de vrais corps (1543). Jenner invente la vaccination contre la variole (1796). Röntgen découvre les rayons X, qui permettent de voir l'intérieur du corps sans l'ouvrir (1895). Fleming observe l'effet de la pénicilline (1928). Grâce à la vaccination, la variole est déclarée éradiquée en 1980.",
+    "source": "D'après Wikipédia — Histoire de la médecine"
   },
   {
     "id": "q-corps-humain-005",
@@ -127,7 +135,7 @@
     "affirmation": "Nous n'utilisons que 10 % de notre cerveau.",
     "reponse": false,
     "explication": "C'est un mythe : l'imagerie cérébrale montre que toutes les zones du cerveau sont utilisées.",
-    "source": "D'après Wikipédia — Mythe des 10 % du cerveau"
+    "source": "D'après Wikipédia — Mythe de l'utilisation incomplète du cerveau"
   },
   {
     "id": "q-corps-humain-009",
@@ -246,7 +254,7 @@
     ],
     "bonneReponse": 0,
     "explication": "Ce sont les plus petits os du corps ; l'étrier mesure environ 3 mm.",
-    "source": "D'après Wikipédia — Osselet (anatomie)"
+    "source": "D'après Wikipédia — Osselet de l'ouïe"
   },
   {
     "id": "q-corps-humain-016",
@@ -437,7 +445,7 @@
     "affirmation": "Le cerveau ne ressent pas la douleur.",
     "reponse": true,
     "explication": "Il n'a pas de récepteurs de la douleur, ce qui permet certaines opérations sur patient éveillé.",
-    "source": "D'après Wikipédia — Chirurgie éveillée"
+    "source": "D'après Wikipédia — Neurochirurgie"
   },
   {
     "id": "q-corps-humain-029",

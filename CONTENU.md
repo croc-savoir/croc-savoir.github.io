@@ -103,3 +103,8 @@ réflexe à avoir.
 > projet (types personnage/vocabulaire/classique, champ source, règle sur les
 > araignées). Retourne uniquement le tableau JSON, prêt à coller dans
 > data/fiches/philosophie.json (en fusionnant avec l'existant).
+
+## Outils
+
+Des scripts de vérification et d'intégration sont dans `tools/` (voir `tools/README.md`).
+Avant de publier un lot : `node tools/verifier.js --liens`.

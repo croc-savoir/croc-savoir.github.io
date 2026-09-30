@@ -161,18 +161,21 @@ const Quiz = (() => {
     body.appendChild(list);
 
     let answered = false;
-    item.choix.forEach((choix, i) => {
+    // Ordre des réponses mélangé à chaque affichage : la bonne réponse n'a pas de place fixe.
+    const order = QuizGen.shuffle(item.choix.map((_, i) => i));
+    const good = order.indexOf(item.bonneReponse);
+    order.forEach((orig, i) => {
       const btn = document.createElement('button');
       btn.className = 'opt-btn';
       btn.type = 'button';
-      btn.textContent = choix;
+      btn.textContent = item.choix[orig];
       btn.addEventListener('click', () => {
         if (answered) return;
         answered = true;
-        const correct = i === item.bonneReponse;
+        const correct = i === good;
         [...list.children].forEach((b, j) => {
           b.disabled = true;
-          if (j === item.bonneReponse) b.classList.add('is-correct');
+          if (j === good) b.classList.add('is-correct');
           else if (j === i) b.classList.add('is-wrong');
           else b.classList.add('is-dim');
         });

@@ -505,5 +505,1155 @@
     "bonneReponse": 1,
     "explication": "Pour sortir à Noël 1982, le jeu E.T. l'extra-terrestre est programmé en seulement cinq semaines par Howard Scott Warshaw. Confus et frustrant, il est un échec : Atari enterre des milliers de cartouches invendues dans une décharge d'Alamogordo, au Nouveau-Mexique, retrouvées lors de fouilles en 2014. Le krach de 1983 suit.",
     "source": "D'après Wikipédia — E.T. the Extra-Terrestrial (jeu vidéo)"
+  },
+  {
+    "id": "q-jeux-video-032",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quelle est la première console de jeux vidéo de salon, inventée par Ralph Baer ?",
+    "choix": [
+      "La Magnavox Odyssey",
+      "L'Atari 2600",
+      "La Famicom",
+      "La ColecoVision"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Magnavox Odyssey sort en 1972 aux États-Unis. Elle est issue de la « Brown Box », un prototype de Ralph Baer. Sans son ni couleur, elle affichait des carrés lumineux ; des calques en plastique posés sur l'écran figuraient les décors.",
+    "source": "D'après Wikipédia — Magnavox Odyssey"
+  },
+  {
+    "id": "q-jeux-video-033",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "Ralph Baer, l'inventeur de la première console de salon, a aussi coinventé le jeu électronique Simon.",
+    "reponse": true,
+    "explication": "Vrai. En 1977, Ralph Baer coinvente Simon avec Howard Morrison. Ce jouet à quatre touches de couleur, qui demande de répéter des suites de sons et de lumières de plus en plus longues, est commercialisé par Milton Bradley à partir de 1978.",
+    "source": "D'après Wikipédia — Ralph Baer"
+  },
+  {
+    "id": "q-jeux-video-034",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quelle chaîne de restaurants-salles de jeux Nolan Bushnell, le cofondateur d'Atari, a-t-il créée en 1977 ?",
+    "choix": [
+      "Chuck E. Cheese",
+      "Pizza Hut",
+      "Dave & Buster's",
+      "Planet Hollywood"
+    ],
+    "bonneReponse": 0,
+    "explication": "Passionné par les parcs d'attractions, Nolan Bushnell ouvre en 1977 le premier Chuck E. Cheese : des pizzas, des bornes de jeux et des animaux animatroniques qui chantent. Il avait vendu Atari à Warner l'année précédente. La chaîne existe toujours aux États-Unis.",
+    "source": "D'après Wikipédia — Nolan Bushnell"
+  },
+  {
+    "id": "q-jeux-video-035",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Sous quel nom Pac-Man est-il sorti au Japon en 1980 ?",
+    "choix": [
+      "Puck-Man",
+      "Paku-Man",
+      "Pizza-Man",
+      "Pac-Land"
+    ],
+    "bonneReponse": 0,
+    "explication": "Toru Iwatani l'avait appelé Puck-Man, d'après « paku paku », l'onomatopée japonaise d'une bouche qui croque. Pour l'export, Namco le rebaptise Pac-Man : en anglais, il aurait suffi de changer le P en F pour obtenir un mot grossier.",
+    "source": "D'après Wikipédia — Pac-Man"
+  },
+  {
+    "id": "q-jeux-video-036",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "De quelle idée est né SimCity, le jeu de Will Wright sorti en 1989 ?",
+    "choix": [
+      "Il préférait dessiner les îles de son jeu d'hélicoptère plutôt que les bombarder",
+      "Il voulait adapter un jeu de société sur l'urbanisme",
+      "La mairie d'Atlanta lui avait commandé un simulateur de ville",
+      "Il venait de perdre sa maison dans un incendie"
+    ],
+    "bonneReponse": 0,
+    "explication": "En créant Raid on Bungeling Bay (1984), où l'on bombarde des îles en hélicoptère, Will Wright s'amuse surtout avec l'éditeur de niveaux. Il imagine alors un jeu où l'on construit au lieu de détruire : SimCity, publié par son studio Maxis.",
+    "source": "D'après Wikipédia — Will Wright"
+  },
+  {
+    "id": "q-jeux-video-037",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel prix a remporté Dennis Fong en gagnant un tournoi de Quake en 1997 ?",
+    "choix": [
+      "La Ferrari de John Carmack",
+      "Un poste chez id Software",
+      "Un million de dollars",
+      "Une Nintendo 64 en or"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1997, Dennis Fong remporte le tournoi Red Annihilation et repart avec la Ferrari 328 de John Carmack. Le programmeur de Doom et Quake était un passionné de voitures de sport.",
+    "source": "D'après Wikipédia — John Carmack"
+  },
+  {
+    "id": "q-jeux-video-038",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "Dans le premier Halo, on découvre le visage de Master Chief à la fin du jeu.",
+    "reponse": false,
+    "explication": "Faux. Master Chief ne montre jamais vraiment son visage : quand il retire son casque, la caméra le cache. Les créateurs de Bungie voulaient que chaque joueur puisse s'imaginer sous l'armure de ce super-soldat, de son vrai nom John-117.",
+    "source": "D'après Wikipédia — Spartan John-117"
+  },
+  {
+    "id": "q-jeux-video-039",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "D'où vient le nom de Kirby, la boule rose créée par Masahiro Sakurai ?",
+    "choix": [
+      "D'un avocat qui avait défendu Nintendo",
+      "D'un personnage de dessin animé américain",
+      "Du chat de Masahiro Sakurai",
+      "D'un mot japonais qui signifie « rond »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Kirby rend hommage à John Kirby, avocat de Nintendo lors du procès lancé par Universal, qui accusait Donkey Kong de copier King Kong. Nintendo a gagné. Le personnage n'était au départ qu'une boule provisoire, que l'équipe a fini par garder.",
+    "source": "D'après Wikipédia — Kirby (personnage)"
+  },
+  {
+    "id": "q-jeux-video-040",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "C'est Shenmue, le jeu de Yu Suzuki, qui a donné le nom de « QTE » aux scènes où il faut appuyer sur la bonne touche au bon moment.",
+    "reponse": true,
+    "explication": "Vrai. Avec Shenmue (1999), sur Dreamcast, Yu Suzuki baptise ces séquences « Quick Time Event ». Le principe est ensuite repris par de nombreux jeux, de Resident Evil 4 à God of War. Shenmue était alors le jeu le plus cher jamais développé.",
+    "source": "D'après Wikipédia — Yū Suzuki"
+  },
+  {
+    "id": "q-jeux-video-041",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel jeu de 1991, réalisé presque seul par le Français Éric Chahi, est entré au MoMA de New York ?",
+    "choix": [
+      "Another World",
+      "Flashback",
+      "Alone in the Dark",
+      "Rayman"
+    ],
+    "bonneReponse": 0,
+    "explication": "Another World sort en 1991 sur Amiga et Atari ST. Éric Chahi en assure la conception, la programmation et les graphismes. Sans aucun texte à l'écran, il raconte son histoire par l'image. Il entre dans les collections du MoMA en 2012.",
+    "source": "D'après Wikipédia — Another World (jeu vidéo)"
+  },
+  {
+    "id": "q-jeux-video-042",
+    "domain": "jeux-video",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née en 1953 en Californie.",
+      "Mon premier jeu, Mystery House (1980), s'inspirait d'un roman d'Agatha Christie.",
+      "Avec mon mari Ken, j'ai fondé la société qui est devenue Sierra On-Line.",
+      "J'ai créé la série de jeux d'aventure King's Quest."
+    ],
+    "reponse": "Roberta Williams",
+    "explication": "Roberta Williams imagine Mystery House, premier jeu d'aventure avec des images, que son mari Ken programme sur Apple II. Le couple fonde Sierra On-Line, où Roberta crée King's Quest (1984), l'une des grandes séries du jeu d'aventure.",
+    "source": "D'après Wikipédia — Roberta Williams"
+  },
+  {
+    "id": "q-jeux-video-043",
+    "domain": "jeux-video",
+    "format": "associer",
+    "question": "Associe chaque héros à sa série de jeux.",
+    "paires": [
+      {
+        "gauche": "Master Chief",
+        "droite": "Halo",
+        "explication": "Ce super-soldat en armure verte combat les Covenants depuis 2001, sur la Xbox de Microsoft."
+      },
+      {
+        "gauche": "Kratos",
+        "droite": "God of War",
+        "explication": "Ce guerrier spartiate affronte les dieux grecs, puis nordiques, depuis 2005 sur PlayStation."
+      },
+      {
+        "gauche": "Geralt de Riv",
+        "droite": "The Witcher",
+        "explication": "Ce chasseur de monstres aux cheveux blancs vient des romans du Polonais Andrzej Sapkowski."
+      },
+      {
+        "gauche": "Solid Snake",
+        "droite": "Metal Gear",
+        "explication": "Ce spécialiste de l'infiltration, créé par Hideo Kojima, se cache même sous un carton."
+      },
+      {
+        "gauche": "Samus Aran",
+        "droite": "Metroid",
+        "explication": "Cette chasseuse de primes en armure explore des planètes hostiles depuis 1986, chez Nintendo."
+      }
+    ],
+    "explication": "Ces héros incarnent chacun une grande série : Halo pour la Xbox, God of War pour la PlayStation, Metroid chez Nintendo, Metal Gear chez Konami et The Witcher chez le studio polonais CD Projekt Red.",
+    "source": "D'après Wikipédia — Personnage de jeu vidéo"
+  },
+  {
+    "id": "q-jeux-video-044",
+    "domain": "jeux-video",
+    "format": "frise",
+    "question": "Remets ces héros de jeux vidéo dans l'ordre de leur première apparition.",
+    "evenements": [
+      {
+        "label": "Donkey Kong",
+        "annee": "1981"
+      },
+      {
+        "label": "Samus Aran",
+        "annee": "1986"
+      },
+      {
+        "label": "Kirby",
+        "annee": "1992"
+      },
+      {
+        "label": "Lara Croft",
+        "annee": "1996"
+      },
+      {
+        "label": "Master Chief",
+        "annee": "2001"
+      },
+      {
+        "label": "Kratos",
+        "annee": "2005"
+      }
+    ],
+    "explication": "1981 : Donkey Kong, dans le jeu d'arcade de Miyamoto. 1986 : Samus Aran dans Metroid. 1992 : Kirby sur Game Boy. 1996 : Lara Croft dans Tomb Raider. 2001 : Master Chief dans Halo. 2005 : Kratos dans God of War, sur PlayStation 2.",
+    "source": "D'après Wikipédia — Personnage de jeu vidéo"
+  },
+  {
+    "id": "q-jeux-video-045",
+    "domain": "jeux-video",
+    "format": "qui-suis-je",
+    "indices": [
+      "Pendant ma création, on m'appelait Willie the Wombat.",
+      "J'ai été créé par le studio Naughty Dog et je suis apparu en 1996.",
+      "Mon ennemi juré est le savant fou Neo Cortex.",
+      "Mon nom vient du bruit des caisses que je casse.",
+      "Je suis un marsupial orange qui tourbillonne sur lui-même."
+    ],
+    "reponse": "Crash Bandicoot",
+    "explication": "Crash Bandicoot apparaît en 1996 sur PlayStation. Sony n'avait pas de mascotte face à Mario et Sonic : ce bandicoot orange, petit marsupial d'Australie, a tenu ce rôle. Son nom vient du fracas des caisses qu'il brise.",
+    "source": "D'après Wikipédia — Crash Bandicoot (personnage)"
+  },
+  {
+    "id": "q-jeux-video-046",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "À quoi ressemblait le premier héros imaginé par Toby Gard, avant Lara Croft ?",
+    "choix": [
+      "Un aventurier avec un fouet et un chapeau",
+      "Un robot explorateur",
+      "Une princesse égyptienne",
+      "Un chevalier en armure"
+    ],
+    "bonneReponse": 0,
+    "explication": "Toby Gard pensait d'abord à un aventurier masculin, avec fouet et chapeau, jugé trop proche d'Indiana Jones. Il choisit une héroïne, d'abord nommée Laura Cruz, puis Lara Croft, un nom plus britannique. Tomb Raider sort en 1996.",
+    "source": "D'après Wikipédia — Lara Croft"
+  },
+  {
+    "id": "q-jeux-video-047",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Que découvrent les joueurs les plus rapides à la fin de Metroid (1986) ?",
+    "choix": [
+      "Que Samus Aran est une femme",
+      "Que Samus Aran est un robot",
+      "Que Samus Aran est un clone",
+      "Que Samus Aran est le vrai méchant du jeu"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tout au long de Metroid, on ne voit jamais le visage du héros en armure. Si l'on finit le jeu assez vite, Samus retire son casque, voire son armure : c'est une femme, l'une des premières héroïnes jouables du jeu vidéo.",
+    "source": "D'après Wikipédia — Samus Aran"
+  },
+  {
+    "id": "q-jeux-video-048",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Avec quel héros les Lapins crétins partagent-ils un jeu de stratégie sorti en 2017 sur Switch ?",
+    "choix": [
+      "Mario",
+      "Rayman",
+      "Link",
+      "Sonic"
+    ],
+    "bonneReponse": 0,
+    "explication": "Mario + The Lapins Crétins: Kingdom Battle (2017) réunit le héros de Nintendo et les mascottes d'Ubisoft. Les Lapins crétins étaient apparus en 2006 comme ennemis de Rayman, avant de voler la vedette au héros de Michel Ancel.",
+    "source": "D'après Wikipédia — Lapins crétins"
+  },
+  {
+    "id": "q-jeux-video-049",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Dans Space Invaders, pourquoi les extraterrestres accélèrent-ils à mesure qu'on les détruit ?",
+    "choix": [
+      "Moins il en reste, plus la machine les affiche vite : un effet imprévu que le créateur a gardé",
+      "C'est un bonus caché ajouté par Taito après la sortie",
+      "Pour imiter l'invasion décrite dans La Guerre des mondes",
+      "Parce que le joueur change de niveau à chaque alien détruit"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1978, Tomohiro Nishikado constate que sa borne, qui peine à afficher les 55 aliens, les déplace plus vite quand il en reste peu. Cet accident lui plaît : il le garde, et la musique accélère avec eux. La tension monte jusqu'au dernier envahisseur, le plus rapide de tous.",
+    "source": "D'après Wikipédia — Space Invaders"
+  },
+  {
+    "id": "q-jeux-video-050",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "Le premier épisode de Doom pouvait être copié et joué gratuitement.",
+    "reponse": true,
+    "explication": "En décembre 1993, id Software diffuse le premier des trois épisodes de Doom en shareware : chacun peut le copier et le partager, puis acheter la suite. Des millions de téléchargements font de ce pari un triomphe et popularisent le jeu de tir à la première personne.",
+    "source": "D'après Wikipédia — Doom (jeu vidéo, 1993)"
+  },
+  {
+    "id": "q-jeux-video-051",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel grand oiseau jaune sert de monture dans presque tous les Final Fantasy ?",
+    "choix": [
+      "Le Chocobo",
+      "Le Mog",
+      "Yoshi",
+      "Le Béhémoth"
+    ],
+    "bonneReponse": 0,
+    "explication": "Apparu dans Final Fantasy II (1988), le Chocobo, mi-poulet mi-autruche, sert de monture dans presque tous les épisodes. Son nom viendrait d'une friandise japonaise, le chocoball. Les Mogs, petites créatures rondes, et un personnage nommé Cid sont d'autres repères fidèles de la série.",
+    "source": "D'après Wikipédia — Final Fantasy"
+  },
+  {
+    "id": "q-jeux-video-052",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Sous quel nom la série Resident Evil est-elle connue au Japon ?",
+    "choix": [
+      "Biohazard",
+      "Zombie Panic",
+      "Dead Rising",
+      "Silent Hill"
+    ],
+    "bonneReponse": 0,
+    "explication": "Au Japon, Capcom a appelé la série Biohazard, « danger biologique ». Aux États-Unis, ce nom appartenait déjà à un groupe de musique : le jeu de 1996 est donc devenu Resident Evil. Réalisé par Shinji Mikami, il a défini le survival horror, où munitions et soins sont rares.",
+    "source": "D'après Wikipédia — Resident Evil"
+  },
+  {
+    "id": "q-jeux-video-053",
+    "domain": "jeux-video",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis docteur en physique théorique.",
+      "Je travaille au centre de recherche secret de Black Mesa, au Nouveau-Mexique.",
+      "Je ne prononce jamais un seul mot dans mes aventures.",
+      "Mon arme emblématique est un pied-de-biche.",
+      "Je suis le héros de Half-Life, sorti en 1998."
+    ],
+    "reponse": "Gordon Freeman",
+    "explication": "Dans Half-Life (Valve, 1998), Gordon Freeman déclenche malgré lui une catastrophe : une expérience ratée ouvre un passage vers le monde extraterrestre de Xen. Il ne parle jamais, et le jeu raconte son histoire sans couper l'action. Lunettes, combinaison orange et pied-de-biche en ont fait une icône.",
+    "source": "D'après Wikipédia — Half-Life (jeu vidéo)"
+  },
+  {
+    "id": "q-jeux-video-054",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "En 2005, quel incident inattendu dans World of Warcraft a intéressé des épidémiologistes ?",
+    "choix": [
+      "Une épidémie virtuelle, le « sang vicié », propagée à cause d'un bug",
+      "Une panne mondiale des serveurs pendant un mois",
+      "Un virus informatique caché dans une mise à jour",
+      "Une grève massive des joueurs contre l'abonnement"
+    ],
+    "bonneReponse": 0,
+    "explication": "En septembre 2005, un sort contagieux prévu pour rester dans un donjon s'échappe à cause d'un bug : familiers et personnages non joueurs le propagent dans les villes. Les joueurs fuient, certains répandent la maladie exprès. Des chercheurs y ont vu un modèle pour étudier les épidémies réelles.",
+    "source": "D'après Wikipédia — Incident du sang vicié"
+  },
+  {
+    "id": "q-jeux-video-055",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "Red Dead Redemption II raconte ce qui se passe après le premier Red Dead Redemption.",
+    "reponse": false,
+    "explication": "Red Dead Redemption II (2018) est une préquelle : il se déroule en 1899, douze ans avant le premier jeu (2010), situé en 1911. On y suit Arthur Morgan, membre du gang de Dutch van der Linde, dont fait aussi partie John Marston, le héros du premier épisode.",
+    "source": "D'après Wikipédia — Red Dead Redemption II"
+  },
+  {
+    "id": "q-jeux-video-056",
+    "domain": "jeux-video",
+    "format": "difference",
+    "question": "Quelle est la différence entre World of Warcraft et League of Legends ?",
+    "choix": [
+      "Dans WoW, on fait progresser son personnage dans un monde permanent ; dans LoL, chaque partie repart de zéro",
+      "WoW est gratuit, alors que LoL demande un abonnement mensuel",
+      "WoW se joue uniquement seul, LoL uniquement à deux",
+      "Aucune : ce sont deux jeux de stratégie en temps réel du même studio"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans World of Warcraft (2004), jeu à abonnement, le personnage progresse pendant des mois dans un monde partagé en permanence. Dans League of Legends (2009), gratuit, deux équipes de cinq s'affrontent une demi-heure environ : l'or et les niveaux gagnés disparaissent à la fin de la partie.",
+    "source": "D'après Wikipédia — League of Legends"
+  },
+  {
+    "id": "q-jeux-video-057",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Dans quel conflit se déroulait le premier Call of Duty, sorti en 2003 ?",
+    "choix": [
+      "La Seconde Guerre mondiale",
+      "La guerre du Viêt Nam",
+      "La Première Guerre mondiale",
+      "La guerre du Golfe"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le premier Call of Duty, développé par Infinity Ward pour Activision, se déroule pendant la Seconde Guerre mondiale, comme son rival Medal of Honor. Il faut attendre Call of Duty 4: Modern Warfare (2007) pour que la série passe aux conflits modernes. Elle a dépassé 400 millions de ventes.",
+    "source": "D'après Wikipédia — Call of Duty"
+  },
+  {
+    "id": "q-jeux-video-058",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Dans Mario Kart, quel objet fonce automatiquement sur le joueur en tête de la course ?",
+    "choix": [
+      "La carapace bleue",
+      "La carapace verte",
+      "La peau de banane",
+      "L'étoile"
+    ],
+    "bonneReponse": 0,
+    "explication": "Apparue dans Mario Kart 64 (1996), la carapace bleue file vers le premier de la course pour le faire exploser. Redoutée des meilleurs, elle illustre l'esprit de la série : les joueurs en retard reçoivent de meilleurs objets, ce qui permet aux débutants de rivaliser.",
+    "source": "D'après Wikipédia — Mario Kart"
+  },
+  {
+    "id": "q-jeux-video-059",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "Dans Animal Crossing, le temps suit l'horloge de la console : s'il fait nuit chez vous, il fait nuit dans le village.",
+    "reponse": true,
+    "explication": "Depuis le premier épisode, en 2001, Animal Crossing utilise l'horloge et le calendrier de la console : les boutiques ferment le soir, les saisons passent et certains événements tombent à des dates précises. Ce rythme a fait de New Horizons (2020) un rendez-vous quotidien pour des millions de joueurs.",
+    "source": "D'après Wikipédia — Animal Crossing"
+  },
+  {
+    "id": "q-jeux-video-060",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Que promet l'intelligence artificielle GLaDOS à l'héroïne de Portal si elle réussit tous les tests ?",
+    "choix": [
+      "Un gâteau",
+      "Sa liberté",
+      "Une médaille",
+      "Un nouveau pistolet"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans Portal (Valve, 2007), GLaDOS promet sans cesse un gâteau à Chell. Une inscription cachée sur un mur prévient pourtant : « The cake is a lie », le gâteau est un mensonge. La phrase est devenue un mème et le symbole de l'humour noir du jeu.",
+    "source": "D'après Wikipédia — Portal (jeu vidéo)"
+  },
+  {
+    "id": "q-jeux-video-061",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Qu'est-ce qui a inspiré l'épidémie de The Last of Us ?",
+    "choix": [
+      "Un champignon parasite qui contrôle des fourmis, vu dans un documentaire",
+      "L'épidémie de grippe espagnole de 1918",
+      "Un roman de Stephen King",
+      "Le virus imaginé dans Resident Evil"
+    ],
+    "bonneReponse": 0,
+    "explication": "Neil Druckmann et Bruce Straley, de Naughty Dog, ont eu l'idée en regardant Planète Terre, de la BBC : une fourmi y est infectée par le cordyceps, un champignon qui prend le contrôle de son hôte. Le jeu, sorti en 2013, imagine ce champignon s'attaquant aux humains.",
+    "source": "D'après Wikipédia — The Last of Us (jeu vidéo)"
+  },
+  {
+    "id": "q-jeux-video-062",
+    "domain": "jeux-video",
+    "format": "associer",
+    "question": "Associe chaque jeu au studio qui l'a créé.",
+    "paires": [
+      {
+        "gauche": "Resident Evil",
+        "droite": "Capcom",
+        "explication": "L'éditeur japonais lance la série en 1996 sur PlayStation, sous le nom de Biohazard au Japon."
+      },
+      {
+        "gauche": "Half-Life",
+        "droite": "Valve",
+        "explication": "Premier jeu de ce studio fondé par deux anciens de Microsoft, il sort en 1998 sur PC."
+      },
+      {
+        "gauche": "World of Warcraft",
+        "droite": "Blizzard",
+        "explication": "Déjà auteur de Warcraft et StarCraft, le studio lance en 2004 son jeu de rôle en ligne."
+      },
+      {
+        "gauche": "Red Dead Redemption",
+        "droite": "Rockstar Games",
+        "explication": "Les créateurs de GTA transposent en 2010 leur savoir-faire du monde ouvert au Far West."
+      },
+      {
+        "gauche": "League of Legends",
+        "droite": "Riot Games",
+        "explication": "Fondé en 2006, ce studio américain sort LoL en 2009 et en fait un géant de l'esport."
+      }
+    ],
+    "explication": "Chacun de ces studios reste associé à un genre : Capcom au survival horror, Valve au jeu de tir qui raconte une histoire (et à Steam), Blizzard au jeu de rôle en ligne, Rockstar aux mondes ouverts et Riot Games à l'arène de bataille en ligne.",
+    "source": "D'après Wikipédia — Blizzard Entertainment"
+  },
+  {
+    "id": "q-jeux-video-063",
+    "domain": "jeux-video",
+    "format": "associer",
+    "question": "Associe chaque appareil à ce qui a fait son succès.",
+    "paires": [
+      {
+        "gauche": "Atari 2600 (1977)",
+        "droite": "Des jeux sur cartouches interchangeables",
+        "explication": "Elle popularise les cartouches, alors que beaucoup de consoles ne proposaient que des variantes de Pong."
+      },
+      {
+        "gauche": "Game Boy (1989)",
+        "droite": "Un écran sans couleur, économe en piles",
+        "explication": "Son écran en nuances de gris lui offre une longue autonomie, et Tetris l'accompagne en Occident."
+      },
+      {
+        "gauche": "Nintendo 64 (1996)",
+        "droite": "Un stick analogique pour la 3D",
+        "explication": "Super Mario 64 l'utilise pour faire courir Mario plus ou moins vite, dans toutes les directions."
+      },
+      {
+        "gauche": "iPhone (2007)",
+        "droite": "Un magasin d'applications et un écran tactile",
+        "explication": "L'App Store, ouvert en 2008, permet à n'importe quel studio d'y vendre facilement ses jeux."
+      }
+    ],
+    "explication": "Chaque étape a élargi le public du jeu vidéo : l'Atari 2600 l'installe dans les salons, la Game Boy le glisse dans les poches, la Nintendo 64 le fait passer à la 3D, et l'iPhone le met dans le téléphone de presque tout le monde.",
+    "source": "D'après Wikipédia — Atari 2600"
+  },
+  {
+    "id": "q-jeux-video-064",
+    "domain": "jeux-video",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire du jeu vidéo dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Tennis for Two sur un oscilloscope",
+        "annee": "1958"
+      },
+      {
+        "label": "Sortie de l'Atari VCS (2600)",
+        "annee": "1977"
+      },
+      {
+        "label": "Krach du jeu vidéo aux États-Unis",
+        "annee": "1983"
+      },
+      {
+        "label": "Sortie de la Game Boy",
+        "annee": "1989"
+      },
+      {
+        "label": "Super Mario 64 passe à la 3D",
+        "annee": "1996"
+      },
+      {
+        "label": "Ouverture de l'App Store",
+        "annee": "2008"
+      }
+    ],
+    "explication": "1958 : Tennis for Two amuse les visiteurs d'un laboratoire américain. 1977 : l'Atari VCS popularise les cartouches. 1983 : le marché américain s'effondre. 1989 : la Game Boy rend le jeu portable. 1996 : Mario passe à la 3D. 2008 : l'App Store lance le jeu mobile.",
+    "source": "D'après Wikipédia — Tennis for Two"
+  },
+  {
+    "id": "q-jeux-video-065",
+    "domain": "jeux-video",
+    "format": "frise",
+    "question": "Remets la sortie de ces jeux dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Final Fantasy",
+        "annee": "1987"
+      },
+      {
+        "label": "Doom",
+        "annee": "1993"
+      },
+      {
+        "label": "Resident Evil",
+        "annee": "1996"
+      },
+      {
+        "label": "Half-Life",
+        "annee": "1998"
+      },
+      {
+        "label": "World of Warcraft",
+        "annee": "2004"
+      },
+      {
+        "label": "Portal",
+        "annee": "2007"
+      }
+    ],
+    "explication": "1987 : Final Fantasy, dernier espoir de Sakaguchi, est un succès. 1993 : Doom popularise le jeu de tir à la première personne. 1996 : Resident Evil définit le survival horror. 1998 : Half-Life raconte une histoire sans couper l'action. 2004 : World of Warcraft. 2007 : Portal et ses portails.",
+    "source": "D'après Wikipédia — Doom (jeu vidéo, 1993)"
+  },
+  {
+    "id": "q-jeux-video-066",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "D'où vient le nom de l'entreprise Atari ?",
+    "choix": [
+      "D'un terme du jeu de go",
+      "Du prénom de la fille de son fondateur",
+      "D'une ville du Japon",
+      "D'un mot hawaïen signifiant « jeu »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Au jeu de go, « atari » signifie qu'une pierre ou un groupe de pierres est sur le point d'être capturé, un peu comme « échec » aux échecs. Nolan Bushnell, amateur de go, choisit ce nom en 1972 car Syzygy, son premier choix, était déjà pris.",
+    "source": "D'après Wikipédia — Atari Inc."
+  },
+  {
+    "id": "q-jeux-video-067",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "D'où vient le nom de la console Xbox de Microsoft ?",
+    "choix": [
+      "De DirectX, la technologie de Microsoft pour les jeux sur PC",
+      "Du chiffre romain X, car c'était le dixième projet de console",
+      "De la lettre X, choisie pour évoquer l'extrême",
+      "Du nom de code d'un processeur Intel"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Xbox est conçue comme un PC, avec une version de Windows et DirectX, la technologie qui fait tourner les jeux sur ordinateur. Son nom est la contraction de « DirectX Box », et le grand X du logo rappelle cette origine. Elle sort en 2001 face à la PlayStation 2.",
+    "source": "D'après Wikipédia — Xbox (console)"
+  },
+  {
+    "id": "q-jeux-video-068",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Comment est né le jeu Counter-Strike ?",
+    "choix": [
+      "Comme une modification amateur du jeu Half-Life",
+      "Comme un logiciel d'entraînement de l'armée américaine",
+      "Comme l'adaptation d'un film d'action",
+      "Comme une suite officielle de Doom"
+    ],
+    "bonneReponse": 0,
+    "explication": "Counter-Strike est d'abord un « mod » de Half-Life, créé par deux passionnés, Minh Le et Jess Cliffe. Devant son succès, Valve, le studio de Half-Life, en rachète les droits, et la version officielle sort en 2000. Il oppose terroristes et antiterroristes en manches courtes.",
+    "source": "D'après Wikipédia — Counter-Strike (jeu vidéo)"
+  },
+  {
+    "id": "q-jeux-video-069",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quelle blague a inspiré le jeu Pokémon Go ?",
+    "choix": [
+      "Un poisson d'avril de Google Maps en 2014",
+      "Une fausse publicité de Nintendo pour une console",
+      "Un sketch d'une émission de télévision japonaise",
+      "Un faux Pokémon inventé par des internautes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 1er avril 2014, Google propose, pour rire, de capturer des Pokémon cachés sur Google Maps. L'idée séduit John Hanke, de Niantic, le studio du jeu Ingress. Pokémon Go sort en juillet 2016 et devient un phénomène mondial en quelques semaines.",
+    "source": "D'après Wikipédia — Pokémon Go"
+  },
+  {
+    "id": "q-jeux-video-070",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel studio, après avoir développé les premiers Guitar Hero, a créé la série rivale Rock Band ?",
+    "choix": [
+      "Harmonix",
+      "Neversoft",
+      "Konami",
+      "Ubisoft"
+    ],
+    "bonneReponse": 0,
+    "explication": "Harmonix développe Guitar Hero (2005) avec RedOctane, un fabricant de manettes. Quand Activision rachète la licence, le studio est racheté par MTV et crée Rock Band (2007), qui ajoute batterie et micro. Guitar Hero est alors confié à Neversoft, le studio des jeux Tony Hawk.",
+    "source": "D'après Wikipédia — Harmonix Music Systems"
+  },
+  {
+    "id": "q-jeux-video-071",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "De quelle série d'Ubisoft est né le concept de Just Dance ?",
+    "choix": [
+      "Les Lapins crétins",
+      "Assassin's Creed",
+      "Prince of Persia",
+      "Far Cry"
+    ],
+    "bonneReponse": 0,
+    "explication": "Just Dance vient d'un mini-jeu de danse d'un épisode des Lapins crétins sur Wii. Ubisoft Paris en fait un jeu à part entière en 2009 : malgré des critiques sévères, il se vend à plus de 4 millions d'exemplaires et lance une série annuelle.",
+    "source": "D'après Wikipédia — Just Dance (jeu vidéo)"
+  },
+  {
+    "id": "q-jeux-video-072",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "D'où vient le nom de l'éditeur japonais Capcom ?",
+    "choix": [
+      "De « Capsule Computers »",
+      "De « Captain Commando »",
+      "De « Capital Company »",
+      "De « Cape Comics »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Capcom est la contraction de « Capsule Computers », le nom donné à ses premières machines d'arcade. La capsule évoquait un contenant rempli de divertissement, protégé contre le piratage. Fondée en 1983 à Osaka, Capcom crée ensuite Street Fighter et Resident Evil.",
+    "source": "D'après Wikipédia — Capcom"
+  },
+  {
+    "id": "q-jeux-video-073",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel célèbre mangaka a dessiné les personnages et les monstres de Dragon Quest ?",
+    "choix": [
+      "Akira Toriyama",
+      "Osamu Tezuka",
+      "Eiichirō Oda",
+      "Masashi Kishimoto"
+    ],
+    "bonneReponse": 0,
+    "explication": "Akira Toriyama, le créateur de Dragon Ball, dessine les personnages de Dragon Quest dès le premier épisode, en 1986, dont le célèbre Slime, devenu la mascotte de la série. Avec le scénariste Yūji Horii et le compositeur Kōichi Sugiyama, il forme le trio fondateur.",
+    "source": "D'après Wikipédia — Dragon Quest"
+  },
+  {
+    "id": "q-jeux-video-074",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quelle possibilité originale offre Undertale lors des combats ?",
+    "choix": [
+      "Épargner les monstres au lieu de les tuer",
+      "Échanger son corps avec celui de l'ennemi",
+      "Appeler un autre joueur à l'aide par téléphone",
+      "Rejouer le combat en incarnant l'ennemi"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans Undertale (2015), on peut parler aux monstres, les consoler ou les faire rire pour les épargner, sans tuer personne. Ces choix changent les dialogues, les personnages et la fin. L'Américain Toby Fox a créé le jeu presque seul, musique comprise.",
+    "source": "D'après Wikipédia — Undertale"
+  },
+  {
+    "id": "q-jeux-video-075",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel projet est à l'origine du premier Assassin's Creed ?",
+    "choix": [
+      "Une suite de Prince of Persia",
+      "Un film sur les croisades",
+      "Un jeu éducatif pour les musées",
+      "Une adaptation du Da Vinci Code"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ubisoft Montréal imagine d'abord une suite de Prince of Persia : Les Sables du Temps, où l'on jouerait un Assassin protégeant le prince. L'éditeur préfère lancer une nouvelle série : Assassin's Creed sort en 2007, inspiré du roman Alamut de Vladimir Bartol.",
+    "source": "D'après Wikipédia — Assassin's Creed"
+  },
+  {
+    "id": "q-jeux-video-076",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "Sega a été fondée par des Américains.",
+    "reponse": true,
+    "explication": "Vrai. Sega vient de Service Games, une société fondée par des Américains qui fournissait juke-boxes et machines de jeu aux bases militaires américaines au Japon. Son nom est la contraction de SErvice GAmes. L'entreprise, installée à Tokyo, est devenue japonaise.",
+    "source": "D'après Wikipédia — Sega"
+  },
+  {
+    "id": "q-jeux-video-077",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "Among Us a connu un succès immédiat dès sa sortie en 2018.",
+    "reponse": false,
+    "explication": "Faux. À sa sortie en 2018, Among Us ne réunit que quelques dizaines de joueurs à la fois, et le studio Innersloth songe plusieurs fois à l'abandonner. Le succès arrive en 2020, pendant la pandémie, quand de grands streamers y jouent sur Twitch et YouTube.",
+    "source": "D'après Wikipédia — Among Us"
+  },
+  {
+    "id": "q-jeux-video-078",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "Dans Baldur's Gate 3, de nombreuses actions se jouent sur un lancer de dé à vingt faces, comme dans Donjons et Dragons.",
+    "reponse": true,
+    "explication": "Vrai. Baldur's Gate 3 (2023), du studio belge Larian, adapte les règles de Donjons et Dragons. Pour réussir une attaque, une ruse ou une discussion, on lance souvent un dé à vingt faces. Le jeu a remporté un nombre record de prix du jeu de l'année.",
+    "source": "D'après Wikipédia — Baldur's Gate III"
+  },
+  {
+    "id": "q-jeux-video-079",
+    "domain": "jeux-video",
+    "format": "associer",
+    "question": "Associe chaque jeu au pays de son studio.",
+    "paires": [
+      {
+        "gauche": "Baldur's Gate 3",
+        "droite": "Belgique",
+        "explication": "Larian Studios, basé à Gand, était connu pour la série Divinity avant ce triomphe de 2023."
+      },
+      {
+        "gauche": "Hollow Knight",
+        "droite": "Australie",
+        "explication": "Team Cherry, petit studio d'Adélaïde, a financé en partie le jeu grâce à une campagne Kickstarter."
+      },
+      {
+        "gauche": "Candy Crush Saga",
+        "droite": "Suède",
+        "explication": "Le studio King, d'origine suédoise et basé à Stockholm, lance Candy Crush sur Facebook en 2012."
+      },
+      {
+        "gauche": "Just Dance",
+        "droite": "France",
+        "explication": "Le premier épisode est développé en 2009 par Ubisoft Paris, studio de l'éditeur français Ubisoft."
+      },
+      {
+        "gauche": "Dragon Quest",
+        "droite": "Japon",
+        "explication": "Créée en 1986 par Yūji Horii chez Enix, c'est la série de jeux de rôle la plus populaire du Japon."
+      }
+    ],
+    "explication": "Le Japon et les États-Unis dominent longtemps le jeu vidéo, mais de grands succès viennent d'ailleurs : Baldur's Gate 3 est belge, Hollow Knight australien, Candy Crush suédois et Just Dance français. Dragon Quest reste, lui, un monument japonais.",
+    "source": "D'après Wikipédia — Industrie vidéoludique"
+  },
+  {
+    "id": "q-jeux-video-080",
+    "domain": "jeux-video",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon créateur m'a développé seul pendant environ cinq ans.",
+      "Je devais d'abord m'appeler Sprout Valley.",
+      "Je rends hommage à la série japonaise Harvest Moon.",
+      "On y reprend la ferme de son grand-père défunt pour cultiver, pêcher et se marier."
+    ],
+    "reponse": "Stardew Valley",
+    "explication": "Stardew Valley (2016) est l'œuvre d'Eric Barone, qui a tout fait seul : code, dessins et musique. Placeur dans un théâtre de Seattle faute d'emploi dans le jeu vidéo, il voulait faire mieux que Harvest Moon. Son succès a relancé la mode des jeux de ferme.",
+    "source": "D'après Wikipédia — Stardew Valley"
+  },
+  {
+    "id": "q-jeux-video-081",
+    "domain": "jeux-video",
+    "format": "frise",
+    "question": "Remets ces événements dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Fondation d'Atari",
+        "annee": "1972"
+      },
+      {
+        "label": "Sortie du premier Dragon Quest",
+        "annee": "1986"
+      },
+      {
+        "label": "Sortie de Prince of Persia",
+        "annee": "1989"
+      },
+      {
+        "label": "Sortie de la première Xbox",
+        "annee": "2001"
+      },
+      {
+        "label": "Lancement de la plateforme Steam",
+        "annee": "2003"
+      },
+      {
+        "label": "Sortie de Pokémon Go",
+        "annee": "2016"
+      }
+    ],
+    "explication": "1972 : Atari naît en Californie et lance Pong. 1986 : Dragon Quest popularise le jeu de rôle sur console. 1989 : Prince of Persia épate par ses animations. 2001 : Microsoft entre dans le jeu avec la Xbox. 2003 : Valve lance Steam. 2016 : Pokémon Go envahit les rues.",
+    "source": "D'après Wikipédia — Histoire du jeu vidéo"
+  },
+  {
+    "id": "q-jeux-video-082",
+    "domain": "jeux-video",
+    "format": "difference",
+    "question": "Quelle est la différence entre Valve et Steam ?",
+    "choix": [
+      "Valve est une entreprise ; Steam est sa plateforme en ligne pour acheter et lancer des jeux",
+      "Valve est une console de salon ; Steam est sa manette",
+      "Steam est l'entreprise ; Valve est son jeu le plus célèbre",
+      "Ce sont deux éditeurs concurrents, l'un américain, l'autre japonais"
+    ],
+    "bonneReponse": 0,
+    "explication": "Valve est le studio américain fondé en 1996 par Gabe Newell et Mike Harrington, créateur de Half-Life et Portal. Steam est la plateforme qu'il lance en 2003 pour vendre, installer et mettre à jour les jeux sur ordinateur, devenue la principale du PC.",
+    "source": "D'après Wikipédia — Steam"
+  },
+  {
+    "id": "q-jeux-video-083",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Dans quel jeu de 1979 un développeur a-t-il caché son nom dans une salle secrète, lançant la tradition des Easter eggs ?",
+    "choix": [
+      "Adventure, sur Atari 2600",
+      "Pong",
+      "Space Invaders",
+      "Pac-Man"
+    ],
+    "bonneReponse": 0,
+    "explication": "Atari ne citait pas ses développeurs. Warren Robinett cache donc son nom dans une salle secrète d'Adventure (1979). Plutôt que de retirer ce secret, trop coûteux à effacer, Atari décide d'encourager ces « œufs de Pâques » que les joueurs doivent dénicher.",
+    "source": "D'après Wikipédia — Easter egg"
+  },
+  {
+    "id": "q-jeux-video-084",
+    "domain": "jeux-video",
+    "format": "difference",
+    "question": "Quelle est la différence entre un Easter egg et un glitch ?",
+    "choix": [
+      "L'Easter egg est un secret placé exprès par les développeurs, le glitch est un bug involontaire",
+      "Le glitch est un secret placé exprès, l'Easter egg un bug involontaire",
+      "L'Easter egg n'existe qu'au cinéma, le glitch seulement dans les jeux",
+      "Ce sont deux noms pour un même code de triche"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un Easter egg est voulu : message caché, salle secrète, clin d'œil glissé par l'équipe du jeu. Un glitch est une erreur, comme un personnage qui traverse un mur. Les deux font pourtant la joie des curieux, qui passent des heures à les chercher.",
+    "source": "D'après Wikipédia — Glitch"
+  },
+  {
+    "id": "q-jeux-video-085",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "On trouve déjà un boss dans un jeu vidéo de 1974.",
+    "reponse": true,
+    "explication": "Dans dnd, un jeu de rôle inspiré de Donjons et Dragons créé en 1974 sur le système informatique PLATO, chaque trésor est gardé par un monstre plus fort que les autres, jusqu'au Dragon d'or final. Le principe se généralise ensuite dans les années 1980.",
+    "source": "D'après Wikipédia — Boss"
+  },
+  {
+    "id": "q-jeux-video-086",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel contenu vendait le tout premier DLC du jeu de rôle Oblivion, en 2006, devenu le symbole des achats jugés superflus ?",
+    "choix": [
+      "Une armure pour le cheval du héros",
+      "Une nouvelle coiffure pour le héros",
+      "Un chapeau de pirate",
+      "Une épée en or décorative"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 3 avril 2006, Bethesda vend une armure… pour le cheval du joueur. Le rapport qualité-prix fait scandale et l'objet devient une blague récurrente chez les joueurs. Il se vend pourtant très bien et marque un tournant dans l'essor des contenus payants.",
+    "source": "D'après Wikipédia — The Elder Scrolls IV: Oblivion"
+  },
+  {
+    "id": "q-jeux-video-087",
+    "domain": "jeux-video",
+    "format": "difference",
+    "question": "Quelle est la différence entre un free-to-play et un pay-to-win ?",
+    "choix": [
+      "Le free-to-play est gratuit à jouer ; dans un pay-to-win, payer donne un vrai avantage",
+      "Le pay-to-win est gratuit et n'a aucune boutique",
+      "Le free-to-play se joue sur mobile, le pay-to-win sur console",
+      "Le free-to-play impose un abonnement mensuel obligatoire"
+    ],
+    "bonneReponse": 0,
+    "explication": "Free-to-play décrit un modèle économique : le jeu est gratuit et se finance par des achats facultatifs. Pay-to-win dénonce un travers : quand ces achats rendent plus fort. Un free-to-play qui ne vend que des tenues n'est donc pas un pay-to-win.",
+    "source": "D'après Wikipédia — Free-to-play"
+  },
+  {
+    "id": "q-jeux-video-088",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "La Belgique a jugé en 2018 que les loot boxes payantes relevaient des jeux de hasard.",
+    "reponse": true,
+    "explication": "En avril 2018, le ministre belge de la Justice estime que ces coffres payants au contenu aléatoire enfreignent la loi sur les jeux de hasard. Des éditeurs, comme Nintendo, retirent certains jeux du pays, et d'autres désactivent ces achats pour les joueurs belges.",
+    "source": "D'après Wikipédia — Loot box"
+  },
+  {
+    "id": "q-jeux-video-089",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel célèbre glitch des premiers jeux Pokémon faisait apparaître une créature à l'image brouillée ?",
+    "choix": [
+      "MissingNo.",
+      "Mew",
+      "Métamorph",
+      "Porygon"
+    ],
+    "bonneReponse": 0,
+    "explication": "MissingNo., pour « numéro manquant », apparaît dans Pokémon Rouge et Bleu quand le jeu cherche un Pokémon qui n'existe pas. En 1999, Nintendo lui-même prévenait que tout contact pouvait effacer la sauvegarde ou brouiller les graphismes.",
+    "source": "D'après Wikipédia — MissingNo."
+  },
+  {
+    "id": "q-jeux-video-090",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "Le mot « lag » vient d'un terme japonais qui signifie « lenteur ».",
+    "reponse": false,
+    "explication": "Lag est un mot anglais qui signifie « retard » ou « décalage ». Dans les jeux en ligne, il désigne le délai entre l'action du joueur et sa prise en compte, dû le plus souvent à une connexion lente ou instable avec le serveur du jeu.",
+    "source": "D'après Wikipédia — Latence (informatique)"
+  },
+  {
+    "id": "q-jeux-video-091",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel artiste de rue français installe depuis 1996 des mosaïques en forme de Space Invaders sur les murs des villes ?",
+    "choix": [
+      "Invader",
+      "Banksy",
+      "JR",
+      "Miss.Tic"
+    ],
+    "bonneReponse": 0,
+    "explication": "Invader, né à Paris en 1969, colle ses mosaïques inspirées des aliens pixelisés de Space Invaders (1978) dans de nombreuses métropoles du monde. Ses petits carreaux carrés imitent les pixels : le pixel art des premiers jeux est ainsi descendu dans la rue.",
+    "source": "D'après Wikipédia — Invader (artiste)"
+  },
+  {
+    "id": "q-jeux-video-092",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quelle console miniature Nintendo a-t-elle sortie en 2016, avec trente jeux préinstallés ?",
+    "choix": [
+      "La NES Mini",
+      "La Game Boy Micro",
+      "La Virtual Boy",
+      "La Wii Mini"
+    ],
+    "bonneReponse": 0,
+    "explication": "En novembre 2016, Nintendo sort la NES Mini, réplique miniature de sa console des années 1980, avec trente classiques comme Super Mario Bros. et The Legend of Zelda. Victime de son succès, elle est en rupture de stock pendant des mois : le rétrogaming est devenu un vrai marché.",
+    "source": "D'après Wikipédia — Rétrogaming"
+  },
+  {
+    "id": "q-jeux-video-093",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel terme la Commission d'enrichissement de la langue française recommande-t-elle pour remplacer « retrogaming » ?",
+    "choix": [
+      "Rétrojeu vidéo",
+      "Vieux-jeu vidéo",
+      "Paléoludisme",
+      "Jeu d'antan"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Rétrojeu vidéo » a été publié au Journal officiel comme équivalent de retrogaming, le fait de jouer à des jeux anciens ou de les collectionner. Le Québec propose « rétrojeu ». Dans l'usage, l'anglicisme reste pourtant le plus courant.",
+    "source": "D'après Wikipédia — Retrogaming"
+  },
+  {
+    "id": "q-jeux-video-094",
+    "domain": "jeux-video",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née de la branche jeux vidéo d'un site appelé Justin.tv.",
+      "Mon émoticône la plus célèbre s'appelle « Kappa ».",
+      "Amazon m'a rachetée en 2014, devant Google.",
+      "Le ZEvent et des milliers de streameurs diffusent chez moi en direct."
+    ],
+    "reponse": "Twitch",
+    "explication": "Twitch, lancée en 2011, est la grande plateforme de diffusion en direct de jeux vidéo. Amazon l'a rachetée pour près d'un milliard de dollars. Les spectateurs y discutent en direct avec les streameurs, qui en vivent grâce aux abonnements et aux dons.",
+    "source": "D'après Wikipédia — Twitch"
+  },
+  {
+    "id": "q-jeux-video-095",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel streameur a créé le ZEvent, marathon caritatif sur Twitch, avec son associé Dach ?",
+    "choix": [
+      "ZeratoR",
+      "Squeezie",
+      "Gotaga",
+      "Domingo"
+    ],
+    "bonneReponse": 0,
+    "explication": "ZeratoR, streameur né à Montpellier, lance l'événement avec Dach en 2016. Les streameurs y jouent et relèvent des défis pendant trois jours. En 2019, l'édition au profit de l'Institut Pasteur récolte 3,5 millions d'euros, un record mondial pour un événement caritatif sur Twitch.",
+    "source": "D'après Wikipédia — ZEvent"
+  },
+  {
+    "id": "q-jeux-video-096",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "La célèbre musique de Tetris sur Game Boy a été composée spécialement pour le jeu.",
+    "reponse": false,
+    "explication": "C'est un air populaire russe du XIXe siècle, Korobeïniki, qui raconte la rencontre d'un colporteur et d'une jeune fille. Arrangé en 1989 pour la version Game Boy, il est devenu, hors de Russie, indissociable du jeu de blocs d'Alexeï Pajitnov.",
+    "source": "D'après Wikipédia — Musique de jeu vidéo"
+  },
+  {
+    "id": "q-jeux-video-097",
+    "domain": "jeux-video",
+    "format": "associer",
+    "question": "Associe chaque compositeur au jeu ou à la série dont il a signé la musique.",
+    "paires": [
+      {
+        "gauche": "Kōji Kondō",
+        "droite": "Super Mario",
+        "explication": "Chez Nintendo depuis 1984, il compose toute la musique de Super Mario Bros. (1985) et des thèmes de Zelda."
+      },
+      {
+        "gauche": "Nobuo Uematsu",
+        "droite": "Final Fantasy",
+        "explication": "Recruté chez Square par Hironobu Sakaguchi, il signe la musique de Final Fantasy dès le premier épisode, en 1987."
+      },
+      {
+        "gauche": "Kōichi Sugiyama",
+        "droite": "Dragon Quest",
+        "explication": "Il compose la musique de Dragon Quest (1986) et la fait jouer par de vrais orchestres symphoniques."
+      },
+      {
+        "gauche": "Lorien Testard",
+        "droite": "Clair Obscur: Expedition 33",
+        "explication": "Recruté sur un forum, ce compositeur français signe en 2025 une bande originale écoutée des centaines de millions de fois."
+      }
+    ],
+    "explication": "Ces compositeurs ont donné une identité sonore à leurs jeux. Kondō, Uematsu et Sugiyama ont créé des mélodies avec des machines aux sons très limités, puis les ont vues jouées par des orchestres. Lorien Testard illustre le succès récent d'une bande originale française.",
+    "source": "D'après Wikipédia — Musique de jeu vidéo"
+  },
+  {
+    "id": "q-jeux-video-098",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel surnom donne-t-on parfois au jeu vidéo, dans la liste des arts ?",
+    "choix": [
+      "Le dixième art",
+      "Le septième art",
+      "Le neuvième art",
+      "Le premier art"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le cinéma est surnommé le septième art et la bande dessinée le neuvième art. Le jeu vidéo est parfois appelé le dixième art, signe de sa reconnaissance culturelle : en France, le ministère de la Culture le reconnaît comme une forme d'expression artistique dès 2006.",
+    "source": "D'après Wikipédia — Classification des arts"
+  },
+  {
+    "id": "q-jeux-video-099",
+    "domain": "jeux-video",
+    "format": "frise",
+    "question": "Remets ces étapes de la reconnaissance du jeu vidéo dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Le dépôt légal français s'étend aux logiciels",
+        "annee": "1992"
+      },
+      {
+        "label": "Le ministère de la Culture reconnaît le jeu vidéo comme expression artistique",
+        "annee": "2006"
+      },
+      {
+        "label": "Baba Yetu, de Civilization IV, remporte un Grammy Award",
+        "annee": "2011"
+      },
+      {
+        "label": "Le MoMA fait entrer 14 jeux dans sa collection",
+        "annee": "2012"
+      },
+      {
+        "label": "Ouverture du World Video Game Hall of Fame",
+        "annee": "2015"
+      }
+    ],
+    "explication": "1992 : la loi étend le dépôt légal aux logiciels, et la BnF conserve aussi les jeux. 2006 : la France parle d'expression artistique. 2011 : premier Grammy pour une musique de jeu. 2012 : le MoMA collectionne des jeux. 2015 : un panthéon du jeu vidéo ouvre aux États-Unis.",
+    "source": "D'après Wikipédia — Classification des arts"
+  },
+  {
+    "id": "q-jeux-video-100",
+    "domain": "jeux-video",
+    "format": "associer",
+    "question": "Associe chaque studio français au jeu qui l'a rendu célèbre.",
+    "paires": [
+      {
+        "gauche": "Sandfall Interactive",
+        "droite": "Clair Obscur: Expedition 33",
+        "explication": "Premier jeu de ce studio de Montpellier, sacré jeu de l'année aux Game Awards 2025 avec neuf prix."
+      },
+      {
+        "gauche": "Quantic Dream",
+        "droite": "Detroit: Become Human",
+        "explication": "Le studio parisien de David Cage y fait vivre en 2018 le destin d'androïdes qui prennent conscience d'eux-mêmes."
+      },
+      {
+        "gauche": "Don't Nod",
+        "droite": "Life Is Strange",
+        "explication": "En 2015, ce studio parisien raconte l'histoire d'une étudiante capable de remonter le temps."
+      },
+      {
+        "gauche": "Motion Twin",
+        "droite": "Dead Cells",
+        "explication": "Ce studio bordelais sort en 2018 un jeu d'action exigeant, mélange de roguelike et de metroidvania."
+      }
+    ],
+    "explication": "Ces studios montrent la variété de la création française : récits interactifs, jeux d'action indépendants ou grand jeu de rôle. Depuis 2008, un crédit d'impôt soutient la création de jeux vidéo en France, où des studios sont installés dans de nombreuses villes.",
+    "source": "D'après Wikipédia — Jeu vidéo en France"
   }
 ]

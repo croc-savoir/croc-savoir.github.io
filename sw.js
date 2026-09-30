@@ -4,7 +4,7 @@
  *   et à mesure (stale-while-revalidate), pour supporter l'ajout de
  *   nouveaux domaines/lots sans jamais devoir republier le service worker.
  * ================================================================= */
-const SHELL_VERSION = 'v22';
+const SHELL_VERSION = 'v23';
 const SHELL_CACHE = `culture-g-shell-${SHELL_VERSION}`;
 const DATA_CACHE = 'culture-g-data';
 
@@ -118,8 +118,13 @@ self.addEventListener('fetch', (event) => {
   // App shell (page, JS, CSS, polices) : réseau d'abord pour avoir toujours la
   // dernière version en ligne ; cache en secours hors-ligne.
   const cacheKey = req.mode === 'navigate' ? 'index.html' : req;
+  // cache: 'no-cache' → le navigateur revalide auprès du serveur (réponse 304 légère)
+  // au lieu de resservir une vieille copie de son cache HTTP.
+  const fresh = req.mode === 'navigate'
+    ? fetch(req.url, { cache: 'no-cache', credentials: 'same-origin' })
+    : fetch(req, { cache: 'no-cache' });
   event.respondWith(
-    fetch(req).then(res => {
+    fresh.then(res => {
       if (res && res.ok && (req.mode === 'navigate' || SHELL_FILES.some(f => req.url.endsWith(f)))) {
         const copy = res.clone();
         caches.open(SHELL_CACHE).then(cache => cache.put(cacheKey, copy));

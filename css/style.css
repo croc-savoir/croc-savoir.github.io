@@ -858,3 +858,32 @@ body::before {
 .dt-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
 .dt-actions[hidden] { display: none; }
 .dt-actions .btn { min-height: 54px; font-size: 16px; }
+
+/* Dragon Tour — S'entraîner */
+.dt-q .dt-flag { display: block; margin: 0 auto 6px; max-width: 260px; }
+.dt-q__text { text-align: center; margin-bottom: 16px; }
+.dt-flag-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.dt-flag-opt {
+  padding: 8px; border: 2px solid var(--border); border-radius: var(--radius-md);
+  background: var(--bg-elevated); cursor: pointer;
+  transition: border-color .15s ease, opacity .15s ease;
+}
+.dt-flag--opt { max-width: none; border-radius: 6px; box-shadow: none; }
+.dt-flag-opt.is-correct { border-color: var(--success); background: var(--success-bg); }
+.dt-flag-opt.is-wrong { border-color: var(--danger); background: var(--danger-bg); }
+.dt-flag-opt.is-dim { opacity: 0.4; }
+.dt-flag--tiny { width: 56px; max-width: 56px; flex-shrink: 0; border-radius: 5px; box-shadow: none; }
+.dt-answer { display: flex; align-items: center; gap: 12px; margin-top: 16px; padding: 12px 14px; border-radius: var(--radius-sm); }
+.dt-answer.is-correct { background: var(--success-bg); }
+.dt-answer.is-wrong { background: var(--danger-bg); }
+.dt-answer__text { display: flex; flex-direction: column; gap: 2px; font-size: 14.5px; }
+.dt-answer__text small { color: var(--text-muted); font-size: 12.5px; line-height: 1.4; }
+.dt-answer.is-correct strong { color: #b7ecc6; }
+.dt-answer.is-wrong strong { color: #ffc3c9; }
+.daily-progress__seg.is-miss { background: var(--danger); }
+.dt-missed { width: 100%; text-align: left; margin: 0 0 8px; background: var(--card); border: 1px solid var(--border-soft); border-radius: var(--radius-lg); padding: 14px; }
+.dt-missed h3 { margin: 0 0 10px; font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--text-faint); }
+.dt-missed__row { display: flex; align-items: center; gap: 12px; padding: 6px 0; font-size: 14.5px; }
+.dt-q .dt-flag--tiny, .dt-q .dt-flag--opt { display: block; margin: 0; }
+.dt-q .dt-flag--tiny { width: 56px; max-width: 56px; }
+.dt-q .dt-flag--opt { width: 100%; max-width: none; }

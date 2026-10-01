@@ -102,6 +102,9 @@ for (const f of lot.fiches || []) {
   const t = f.details?.wikipedia || f.details?.wikipediaEn;
   controler(`Fiche « ${f.title} »`, texteFiche(f), t);
 }
+for (const [titre, extra] of Object.entries(lot.enrich || {})) {
+  controler(`Ajout à « ${titre} »`, texteFiche({ details: extra }), extra.wikipedia);
+}
 for (const q of lot.quiz || []) {
   controler(`Question « ${(q.question || q.affirmation || q.reponse || '').slice(0, 60)} »`, texteQuestion(q), q.wikipedia || q.wikipediaEn);
 }

@@ -110,7 +110,7 @@
   {
     "id": "astronomie-003",
     "domain": "astronomie",
-    "subtheme": "Vocabulaire astro",
+    "subtheme": "Vocabulaire",
     "type": "vocabulaire",
     "title": "Périhélie vs Aphélie",
     "summary": "Le périhélie est le point de l'orbite d'une planète le plus proche du Soleil.\nL'aphélie, à l'inverse, désigne le point le plus éloigné.",
@@ -181,7 +181,7 @@
   {
     "id": "astronomie-005",
     "domain": "astronomie",
-    "subtheme": "Vocabulaire astro",
+    "subtheme": "Vocabulaire",
     "type": "vocabulaire",
     "title": "Magnitude apparente",
     "summary": "La magnitude apparente mesure la luminosité d'un astre telle qu'on la perçoit depuis la Terre.\nPlus la valeur est basse (voire négative), plus l'objet paraît brillant dans le ciel.",
@@ -210,7 +210,7 @@
   {
     "id": "astronomie-006",
     "domain": "astronomie",
-    "subtheme": "Étoiles & galaxies",
+    "subtheme": "Étoiles et galaxies",
     "type": "classique",
     "title": "La Voie lactée",
     "summary": "La Voie lactée est la galaxie qui abrite notre système solaire, parmi des centaines de milliards d'étoiles.\nElle a une forme de spirale, et notre Soleil se situe sur l'un de ses bras, loin du centre.",
@@ -258,7 +258,7 @@
   {
     "id": "astronomie-007",
     "domain": "astronomie",
-    "subtheme": "Étoiles & galaxies",
+    "subtheme": "Étoiles et galaxies",
     "type": "classique",
     "title": "Les trous noirs",
     "summary": "Un trou noir est une région de l'espace où la gravité est si intense que rien, pas même la lumière, ne peut s'en échapper.\nIls se forment notamment lors de l'effondrement d'étoiles massives en fin de vie.",
@@ -306,7 +306,7 @@
   {
     "id": "astronomie-008",
     "domain": "astronomie",
-    "subtheme": "Vocabulaire astro",
+    "subtheme": "Vocabulaire",
     "type": "vocabulaire",
     "title": "Année-lumière",
     "summary": "Une année-lumière est la distance parcourue par la lumière en une année, soit environ 9 460 milliards de kilomètres.\nC'est une unité de distance, pas de temps, malgré ce que son nom pourrait laisser penser.",
@@ -342,7 +342,7 @@
   {
     "id": "astronomie-009",
     "domain": "astronomie",
-    "subtheme": "Exploration spatiale",
+    "subtheme": "Astronomes et astronautes",
     "type": "personnage",
     "title": "Galilée",
     "subtitle": "Astronome et physicien italien",
@@ -418,7 +418,7 @@
   {
     "id": "astronomie-010",
     "domain": "astronomie",
-    "subtheme": "Exploration spatiale",
+    "subtheme": "Astronomes et astronautes",
     "type": "personnage",
     "title": "Youri Gagarine",
     "subtitle": "Premier homme dans l'espace",
@@ -458,7 +458,7 @@
   {
     "id": "astronomie-011",
     "domain": "astronomie",
-    "subtheme": "Exploration spatiale",
+    "subtheme": "Astronomes et astronautes",
     "type": "personnage",
     "title": "Neil Armstrong",
     "subtitle": "Premier homme sur la Lune",
@@ -657,7 +657,7 @@
   {
     "id": "astronomie-015",
     "domain": "astronomie",
-    "subtheme": "Vocabulaire astro",
+    "subtheme": "Vocabulaire",
     "type": "vocabulaire",
     "title": "Étoile filante",
     "summary": "Une « étoile filante » n'est en réalité pas une étoile, mais un petit fragment de roche ou de poussière qui se consume en entrant dans l'atmosphère terrestre.\nLe terme scientifique exact pour ce phénomène lumineux est « météore ».",
@@ -690,7 +690,7 @@
   {
     "id": "astronomie-016",
     "domain": "astronomie",
-    "subtheme": "Étoiles & galaxies",
+    "subtheme": "Étoiles et galaxies",
     "type": "classique",
     "title": "Les exoplanètes",
     "summary": "Une exoplanète est une planète qui orbite autour d'une étoile autre que le Soleil.\nDepuis leur première détection confirmée en 1995, plusieurs milliers d'exoplanètes ont été identifiées.",
@@ -738,7 +738,7 @@
   {
     "id": "astronomie-017",
     "domain": "astronomie",
-    "subtheme": "Étoiles & galaxies",
+    "subtheme": "Astronomes et astronautes",
     "type": "personnage",
     "title": "Nicolas Copernic",
     "subtitle": "Astronome polonais",
@@ -1277,7 +1277,7 @@
   {
     "id": "astronomie-030",
     "domain": "astronomie",
-    "subtheme": "Exploration spatiale",
+    "subtheme": "Astronomes et astronautes",
     "type": "personnage",
     "title": "Valentina Terechkova",
     "summary": "Le 16 juin 1963, la Soviétique Valentina Terechkova devient la première femme dans l'espace, à bord de Vostok 6.\nElle reste à ce jour la seule femme à avoir effectué un vol spatial en solo.",
@@ -1382,5 +1382,2203 @@
       ]
     },
     "source": "D'après Wikipédia — Aurore polaire"
+  },
+  {
+    "id": "astronomie-033",
+    "domain": "astronomie",
+    "subtheme": "Système solaire",
+    "type": "classique",
+    "title": "La Terre",
+    "subtitle": "Troisième planète du Système solaire, âgée de 4,54 milliards d'années",
+    "summary": "La Terre est la troisième planète en partant du Soleil, dont elle est séparée d'environ 150 millions de kilomètres. C'est le seul astre connu qui abrite la vie, grâce à son eau liquide, son atmosphère et son champ magnétique.\nElle est née voilà 4,54 milliards d'années. L'eau couvre environ 71 % de sa surface, et la Lune, son unique satellite naturel, l'accompagne presque depuis le début.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une planète record",
+          "texte": "Des quatre planètes rocheuses, la Terre est la plus grande et la plus massive. C'est aussi la plus dense de tout le Système solaire. Elle tourne sur elle-même en 23 h 56 min environ et boucle son tour du Soleil en un peu plus de 365 jours. Son axe, penché d'environ 23°, est la cause des saisons."
+        },
+        {
+          "titre": "Un moteur dans le ventre",
+          "texte": "Sous la croûte, les plaques tectoniques dérivent de quelques centimètres par an, poussées par les mouvements lents du manteau. Au centre, un noyau de fer, solide au cœur et liquide autour, agit comme une dynamo : il crée le champ magnétique qui protège l'atmosphère du vent solaire depuis environ 3,5 milliards d'années."
+        }
+      ],
+      "anecdotes": [
+        "Selon l'hypothèse la plus admise, la Lune est née d'une collision géante entre la Terre et Théia, un astre de la taille de Mars : une partie des débris projetés dans l'espace s'est ensuite rassemblée pour former notre satellite."
+      ],
+      "wikipedia": "Terre"
+    },
+    "source": "D'après Wikipédia — Terre"
+  },
+  {
+    "id": "astronomie-034",
+    "domain": "astronomie",
+    "subtheme": "Système solaire",
+    "type": "classique",
+    "title": "Les satellites galiléens",
+    "subtitle": "Les quatre grandes lunes de Jupiter, découvertes par Galilée en 1610",
+    "summary": "Io, Europe, Ganymède et Callisto sont les quatre plus grandes lunes de Jupiter. Galilée les repère en janvier 1610 avec sa lunette : jamais encore on n'avait vu des astres tourner autour d'une planète autre que la Terre.\nLa découverte ébranle l'idée d'un Univers où tout tourne autour de nous. Ces quatre mondes, tous plus grands que les planètes naines, sont très différents les uns des autres.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Quatre mondes, quatre caractères",
+          "texte": "Io, la plus proche de Jupiter, compte plus de 400 volcans actifs : c'est l'astre le plus agité du Système solaire. Europe a la surface la plus lisse connue, une croûte de glace qui cacherait un océan. Ganymède est la plus grande lune du Système solaire, plus large que Mercure. Callisto, la plus lointaine, est criblée de cratères et n'a presque pas changé depuis des milliards d'années."
+        },
+        {
+          "titre": "Une affaire de noms",
+          "texte": "Galilée veut flatter ses protecteurs, les Médicis, et baptise les lunes « étoiles médicéennes ». Mais ce sont les noms proposés par l'Allemand Simon Marius, sur une idée de Kepler, qui sont restés : des amours de Zeus, l'équivalent grec de Jupiter. Pendant près de trois siècles, ces quatre lunes sont les seules connues autour de Jupiter, jusqu'à la découverte d'Amalthée en 1892."
+        }
+      ],
+      "anecdotes": [
+        "Io, Europe et Ganymède tournent en cadence : quand Ganymède fait un tour de Jupiter, Europe en fait deux et Io quatre. C'est le seul exemple connu de ce type de résonance dans le Système solaire."
+      ],
+      "wikipedia": "Satellites galiléens"
+    },
+    "source": "D'après Wikipédia — Satellites galiléens"
+  },
+  {
+    "id": "astronomie-035",
+    "domain": "astronomie",
+    "subtheme": "Système solaire",
+    "type": "classique",
+    "title": "Titan, la lune de Saturne",
+    "subtitle": "Plus grand satellite de Saturne, découvert par Huygens en 1655",
+    "summary": "Titan est la plus grande lune de Saturne et la deuxième du Système solaire, juste derrière Ganymède. Elle est même plus large que la planète Mercure. Le Néerlandais Christiaan Huygens l'a découverte en 1655.\nC'est la seule lune entourée d'une atmosphère épaisse. Sous ce voile orangé se cachent des lacs, des rivières et des pluies… de méthane liquide, par environ -179 °C.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une Terre au congélateur",
+          "texte": "L'air de Titan est fait surtout d'azote, comme le nôtre, et la pression au sol est 1,5 fois plus forte que chez nous. Le méthane y joue le rôle de l'eau : il forme des nuages, tombe en pluie, creuse des vallées et remplit des lacs près des pôles. Avec ses dunes et ses côtes, Titan ressemble à une Terre primitive figée par le froid."
+        },
+        {
+          "titre": "Huygens se pose",
+          "texte": "La brume orangée a longtemps caché le sol, au point qu'on a cru Titan plus grande que Ganymède jusqu'au passage de Voyager 1 en 1980. Il a fallu attendre la mission Cassini-Huygens : en 2005, le module européen Huygens s'y pose et photographie des collines de glace sillonnées de rivières sombres, puis une plaine semée de galets de glace."
+        }
+      ],
+      "anecdotes": [
+        "L'équipe de la sonde Huygens a comparé la prise d'images pendant la descente au fait de photographier un parking goudronné au crépuscule, tant la lumière est faible sous la brume."
+      ],
+      "wikipedia": "Titan (lune)"
+    },
+    "source": "D'après Wikipédia — Titan (lune)"
+  },
+  {
+    "id": "astronomie-036",
+    "domain": "astronomie",
+    "subtheme": "Système solaire",
+    "type": "classique",
+    "title": "Encelade, la lune aux geysers",
+    "subtitle": "Petite lune glacée de Saturne, découverte par William Herschel en 1789",
+    "summary": "Encelade est une petite lune de Saturne, d'environ 500 km de diamètre : elle tiendrait à l'intérieur de la Grande-Bretagne. Couverte de neige fraîche, c'est l'astre le plus réfléchissant du Système solaire.\nPrès de son pôle sud, des geysers projettent de la vapeur d'eau et des grains de glace dans l'espace. Ils trahissent un océan d'eau liquide caché sous la glace, l'un des lieux les plus prometteurs pour chercher la vie.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Les rayures de tigre",
+          "texte": "En 2005, la sonde Cassini frôle Encelade et découvre, au pôle sud, de longues fractures surnommées « rayures de tigre ». Elles crachent en continu des jets d'eau, de sel et de molécules organiques. Une partie retombe en neige ; le reste alimente l'anneau E de Saturne, le plus large et le plus ténu, dans lequel Encelade circule."
+        },
+        {
+          "titre": "Pourquoi si active ?",
+          "texte": "Une lune aussi petite devrait être gelée depuis longtemps. Mais Encelade fait exactement deux tours de Saturne pendant que sa voisine Dioné en fait un. Ce rythme maintient son orbite légèrement allongée : la gravité de Saturne la déforme sans cesse, et ce frottement interne produit la chaleur qui garde l'océan liquide."
+        }
+      ],
+      "anecdotes": [
+        "Les reliefs d'Encelade portent des noms tirés des Mille et Une Nuits. Le nom de la lune, lui, est celui d'un géant grec terrassé par la déesse Athéna puis enterré sous la Sicile."
+      ],
+      "wikipedia": "Encelade (lune)"
+    },
+    "source": "D'après Wikipédia — Encelade (lune)"
+  },
+  {
+    "id": "astronomie-037",
+    "domain": "astronomie",
+    "subtheme": "Système solaire",
+    "type": "classique",
+    "title": "La ceinture d'astéroïdes",
+    "subtitle": "Anneau de petits corps rocheux entre Mars et Jupiter",
+    "summary": "Entre Mars et Jupiter tournent des centaines de milliers d'astéroïdes connus, et sans doute des millions. Ce sont des restes de la formation du Système solaire, qui ne sont jamais parvenus à s'assembler en planète.\nContrairement aux films de science-fiction, la ceinture est presque vide : deux astéroïdes voisins sont en moyenne séparés d'un million de kilomètres. Bien des sondes l'ont traversée sans encombre.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une planète manquée",
+          "texte": "Toute la ceinture ne pèse que quelques pour cent de la masse de la Lune. Cérès, Vesta, Pallas et Hygie en rassemblent à eux seuls près de la moitié, et Cérès environ un tiers. L'attraction de Jupiter, toute proche, a empêché ces blocs de s'agglomérer : au lieu de se coller, ils se percutaient et se brisaient."
+        },
+        {
+          "titre": "À la recherche de la planète perdue",
+          "texte": "Au XVIIIe siècle, une règle mathématique, la loi de Titius-Bode, prédit une planète entre Mars et Jupiter. Une équipe de 24 astronomes, surnommée la « police céleste », se lance à sa recherche. C'est pourtant Giuseppe Piazzi qui trouve Cérès en 1801 ; suivent Pallas, Junon et Vesta. William Herschel invente pour ces astres le mot « astéroïde », « semblable à une étoile »."
+        }
+      ],
+      "anecdotes": [
+        "La ceinture compte des « trous », les lacunes de Kirkwood : à ces distances, un astéroïde ferait un nombre entier de tours pendant un tour de Jupiter, et la planète géante finit par le chasser de son orbite."
+      ],
+      "wikipedia": "Ceinture d'astéroïdes"
+    },
+    "source": "D'après Wikipédia — Ceinture d'astéroïdes"
+  },
+  {
+    "id": "astronomie-038",
+    "domain": "astronomie",
+    "subtheme": "Système solaire",
+    "type": "classique",
+    "title": "Cérès, la planète naine des astéroïdes",
+    "subtitle": "Premier astéroïde découvert (1801), planète naine depuis 2006",
+    "summary": "Cérès est le plus gros objet de la ceinture d'astéroïdes, avec environ 950 km de diamètre. Giuseppe Piazzi l'a découverte depuis Palerme le 1er janvier 1801, premier jour du XIXe siècle.\nTour à tour planète, puis astéroïde, elle est classée planète naine depuis 2006. C'est la seule de sa catégorie entre Mars et Jupiter, et la plus petite des planètes naines reconnues.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Perdue puis retrouvée",
+          "texte": "Piazzi cherchait une étoile de catalogue quand il remarque un point qui se déplace : il croit d'abord à une comète. Peu après, Cérès disparaît dans l'éclat du Soleil. Le jeune mathématicien Carl Friedrich Gauss invente alors une méthode pour calculer une orbite à partir de quelques observations, et Cérès est retrouvée le 31 décembre 1801, presque à l'endroit prévu."
+        },
+        {
+          "titre": "Un monde d'eau et de sel",
+          "texte": "La sonde Dawn, de la NASA, se place en orbite autour de Cérès en 2015. Elle révèle un sol fait de glace, d'argiles et de carbonates, et même des traces de matière organique. Un océan de saumure pourrait subsister en profondeur, et des volcans de glace, comme Ahuna Mons, s'y forment encore."
+        }
+      ],
+      "anecdotes": [
+        "Le cérium, un élément chimique découvert en 1803, doit son nom à Cérès. Elle-même porte celui de la déesse romaine des moissons, protectrice de la Sicile, l'île de son découvreur."
+      ],
+      "wikipedia": "(1) Cérès"
+    },
+    "source": "D'après Wikipédia — (1) Cérès"
+  },
+  {
+    "id": "astronomie-039",
+    "domain": "astronomie",
+    "subtheme": "Système solaire",
+    "type": "classique",
+    "title": "La ceinture de Kuiper",
+    "subtitle": "Anneau de corps glacés au-delà de Neptune, exploré depuis 1992",
+    "summary": "Au-delà de Neptune, entre 30 et 55 fois la distance Terre-Soleil, s'étend la ceinture de Kuiper. Elle ressemble à la ceinture d'astéroïdes, mais en 20 fois plus large et bien plus massive.\nSes habitants ne sont pas des rochers mais des corps glacés, faits de méthane, d'ammoniac et d'eau gelés. Pluton en est le plus grand membre connu, aux côtés d'autres planètes naines comme Makémaké et Hauméa.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une ceinture longtemps imaginée",
+          "texte": "Après la découverte de Pluton en 1930, plusieurs astronomes se doutent qu'elle n'est pas seule. Kenneth Edgeworth en 1943, puis Gerard Kuiper en 1951, imaginent une foule de petits corps au-delà de Neptune. Il faut pourtant attendre 1992 : après cinq ans de traque, David Jewitt et Jane Luu repèrent le premier objet, aujourd'hui appelé Albion."
+        },
+        {
+          "titre": "Sous la coupe de Neptune",
+          "texte": "La gravité de Neptune façonne la ceinture. Certains objets tournent à un rythme lié au sien : les plutinos, comme Pluton, font deux tours du Soleil pendant que Neptune en fait trois. D'autres zones, aux orbites instables, restent presque vides. Neptune se serait d'ailleurs formée plus près du Soleil, avant de migrer vers l'extérieur en bousculant tout sur son passage."
+        }
+      ],
+      "anecdotes": [
+        "Les objets de la région la plus calme de la ceinture sont surnommés « cubewanos » : c'est ainsi qu'on prononce, à l'anglaise, QB1, le premier nom de code d'Albion."
+      ],
+      "wikipedia": "Ceinture de Kuiper"
+    },
+    "source": "D'après Wikipédia — Ceinture de Kuiper"
+  },
+  {
+    "id": "astronomie-040",
+    "domain": "astronomie",
+    "subtheme": "Système solaire",
+    "type": "classique",
+    "title": "Le nuage de Oort",
+    "subtitle": "Réservoir de comètes aux confins du Système solaire, proposé en 1950",
+    "summary": "Le nuage de Oort serait une immense sphère de corps glacés entourant tout le Système solaire, à des milliers de fois la distance Terre-Soleil. Son bord extérieur se trouverait à plus d'une année-lumière, au quart du chemin vers l'étoile la plus proche.\nPersonne ne l'a jamais observé directement. Mais les orbites des comètes venues de très loin trahissent son existence : ce serait leur réservoir.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le paradoxe des comètes",
+          "texte": "Chaque passage près du Soleil use une comète. Si toutes existaient depuis la naissance du Système solaire, il n'en resterait plus aucune. En 1950, le Néerlandais Jan Oort, reprenant une idée de l'Estonien Ernst Öpik, propose une réserve lointaine qui envoie régulièrement de nouvelles comètes vers nous. Il s'appuie sur les orbites d'une cinquantaine de comètes bien observées."
+        },
+        {
+          "titre": "Des blocs éjectés par les géantes",
+          "texte": "Ces corps ne seraient pas nés si loin. Formés près du Soleil, comme les planètes, ils auraient été projetés au loin par la gravité des planètes géantes. À cette distance, le Soleil les retient à peine : le passage d'une étoile ou l'attraction de la Voie lactée suffit à en dévier un, qui plonge alors vers le Soleil et devient une comète."
+        }
+      ],
+      "anecdotes": [
+        "Le nuage contiendrait des milliers de milliards de noyaux de comètes, séparés les uns des autres par des dizaines de millions de kilomètres."
+      ],
+      "wikipedia": "Nuage de Oort"
+    },
+    "source": "D'après Wikipédia — Nuage de Oort"
+  },
+  {
+    "id": "astronomie-041",
+    "domain": "astronomie",
+    "subtheme": "Système solaire",
+    "type": "classique",
+    "title": "Les météorites",
+    "subtitle": "Pierres venues de l'espace et tombées au sol",
+    "summary": "Une météorite est un morceau de roche ou de métal venu de l'espace qui a survécu à la traversée de l'atmosphère et atteint le sol. La traînée lumineuse de sa chute, elle, s'appelle un météore.\nLa plupart sont des fragments d'astéroïdes ; quelques-unes viennent de la Lune ou de Mars. Fin 2021, on en avait répertorié plus de 67 000, et ce sont souvent les roches les plus anciennes qu'on puisse tenir en main.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des pierres longtemps niées",
+          "texte": "Pendant des siècles, les savants jugent absurde que des pierres tombent du ciel. En 1768, Lavoisier lui-même conclut qu'un échantillon n'est qu'une roche terrestre. Le physicien Ernst Chladni défend en 1794 leur origine spatiale, et la chute de L'Aigle, en Normandie, en 1803, achève de convaincre : Jean-Baptiste Biot enquête sur place et rassemble les témoignages."
+        },
+        {
+          "titre": "Les archives du Système solaire",
+          "texte": "Environ 86 % des météorites sont des chondrites, des pierres parsemées de petites billes fondues dans l'espace : elles datent de la naissance du Système solaire. D'autres, en fer et nickel, viennent du cœur d'anciens astéroïdes brisés. En 1956, Clair Patterson date une météorite à 4,55 milliards d'années, ce qui donne aussi l'âge de la Terre."
+        }
+      ],
+      "anecdotes": [
+        "Une dague de Toutânkhamon a été forgée dans du fer météorique, et les Inuits ont longtemps taillé des lames dans la météorite du cap York."
+      ],
+      "wikipedia": "Météorite"
+    },
+    "source": "D'après Wikipédia — Météorite"
+  },
+  {
+    "id": "astronomie-042",
+    "domain": "astronomie",
+    "subtheme": "Système solaire",
+    "type": "classique",
+    "title": "Le vent solaire",
+    "subtitle": "Flux continu de particules émis par le Soleil",
+    "summary": "Le Soleil souffle en permanence un flot de particules électriquement chargées, surtout des protons et des électrons : c'est le vent solaire. Il file en moyenne à 450 km/s, plus d'un million et demi de kilomètres à l'heure.\nChaque seconde, le Soleil perd ainsi environ un million de tonnes de matière. Ce vent sculpte la queue des comètes et allume les aurores polaires.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une bulle autour du Système solaire",
+          "texte": "Le vent naît dans la couronne, l'atmosphère du Soleil chauffée à environ un million de degrés. En s'éloignant, il gonfle une immense bulle dans le gaz qui sépare les étoiles. Sa limite, l'héliopause, passe pour la frontière du Système solaire et se situe bien au-delà de l'orbite de Pluton. Le champ magnétique terrestre nous en protège comme un bouclier."
+        },
+        {
+          "titre": "Quand le vent devient tempête",
+          "texte": "Les éruptions du Soleil envoient parfois des rafales bien plus violentes : les tempêtes solaires. Elles perturbent satellites et radios, et peuvent surcharger les lignes électriques. En 1989, un orage magnétique a privé d'électricité environ six millions de clients d'Hydro-Québec, au Canada."
+        }
+      ],
+      "anecdotes": [
+        "C'est l'Américain Eugene Parker qui a prédit le vent solaire et lui a donné son nom, dans les années 1950. Selon lui, les calculs nécessaires tenaient en « quatre lignes d'algèbre »."
+      ],
+      "wikipedia": "Vent solaire"
+    },
+    "source": "D'après Wikipédia — Vent solaire"
+  },
+  {
+    "id": "astronomie-043",
+    "domain": "astronomie",
+    "subtheme": "L'Univers",
+    "type": "classique",
+    "title": "Le fond diffus cosmologique",
+    "subtitle": "Lumière fossile émise 380 000 ans après le Big Bang, détectée en 1964",
+    "summary": "Le fond diffus cosmologique est une faible lueur de micro-ondes qui arrive de toutes les directions du ciel. C'est la plus vieille lumière de l'Univers : elle a été émise environ 380 000 ans après le Big Bang, quand l'Univers est devenu transparent.\nÉtirée et refroidie par l'expansion, elle ne vaut plus qu'environ 3 degrés au-dessus du zéro absolu. Sa découverte, par hasard, a imposé la théorie du Big Bang.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une lumière libérée",
+          "texte": "Au début, l'Univers est un brouillard brûlant de particules : la lumière ne peut pas y voyager, sans cesse arrêtée par les électrons. Vers 380 000 ans, la température tombe à environ 3 000 kelvins et les électrons s'accrochent aux noyaux pour former des atomes. La lumière file alors librement, et c'est elle que nous captons aujourd'hui, transformée en micro-ondes."
+        },
+        {
+          "titre": "Une carte de bébé Univers",
+          "texte": "Cette lueur est d'une régularité stupéfiante : d'un point à l'autre du ciel, sa température ne varie que d'environ une part sur 25 000. Mais ces minuscules taches sont précieuses : ce sont les graines des futures galaxies. Les satellites COBE (résultats publiés en 1992), WMAP puis Planck les ont cartographiées pour en déduire l'âge, la composition et la forme de l'Univers."
+        }
+      ],
+      "anecdotes": [
+        "Sans l'expansion de l'Univers, qui a refroidi ce rayonnement, le ciel nocturne brillerait aussi fort que le Soleil."
+      ],
+      "wikipedia": "Fond diffus cosmologique"
+    },
+    "source": "D'après Wikipédia — Fond diffus cosmologique"
+  },
+  {
+    "id": "astronomie-044",
+    "domain": "astronomie",
+    "subtheme": "L'Univers",
+    "type": "classique",
+    "title": "L'énergie noire",
+    "subtitle": "Énergie mystérieuse qui accélère l'expansion de l'Univers, mise en évidence en 1998",
+    "summary": "L'énergie noire, ou énergie sombre, est le nom donné à la cause inconnue qui accélère l'expansion de l'Univers. Elle remplirait l'espace de façon uniforme et agirait comme une gravité qui repousse au lieu d'attirer.\nPersonne ne sait ce qu'elle est. Pourtant, elle représenterait environ 68 % du contenu de l'Univers, loin devant la matière noire et la matière ordinaire.",
+    "details": {
+      "sections": [
+        {
+          "titre": "La surprise de 1998",
+          "texte": "On s'attendait à ce que la gravité freine peu à peu l'expansion de l'Univers. En 1998, deux équipes, menées notamment par Saul Perlmutter et Adam Riess, mesurent la distance de supernovas lointaines, des explosions d'étoiles dont l'éclat est connu. En comparant leur distance à leur vitesse de fuite, elles aboutissent à une conclusion inattendue : l'expansion accélère ! L'expression « énergie sombre » naît la même année."
+        },
+        {
+          "titre": "Le retour de « l'erreur » d'Einstein",
+          "texte": "Pour obtenir un Univers immobile, Einstein avait ajouté à ses équations une constante cosmologique, une sorte d'énergie du vide qui contrebalance la gravité. Une fois l'expansion découverte, il l'aurait qualifiée de plus grande erreur de sa vie. C'est aujourd'hui l'explication la plus simple de l'énergie noire, mais la théorie prédit une valeur démesurément plus grande que celle mesurée."
+        }
+      ],
+      "anecdotes": [
+        "Malgré son poids dans le bilan de l'Univers, l'énergie noire est incroyablement diluée : elle ne compte que parce qu'elle remplit uniformément tout l'espace, même les régions vides."
+      ],
+      "wikipedia": "Énergie sombre"
+    },
+    "source": "D'après Wikipédia — Énergie sombre"
+  },
+  {
+    "id": "astronomie-045",
+    "domain": "astronomie",
+    "subtheme": "L'Univers",
+    "type": "classique",
+    "title": "L'expansion de l'Univers",
+    "subtitle": "Dilatation de l'espace découverte dans les années 1920",
+    "summary": "À grande échelle, les galaxies lointaines s'éloignent de nous, et d'autant plus vite qu'elles sont loin. Ce n'est pas qu'elles foncent à travers l'espace : c'est l'espace lui-même qui se dilate et les entraîne.\nCette découverte des années 1920 a une conséquence vertigineuse : l'Univers était autrefois plus dense et plus chaud. C'est le point de départ de la théorie du Big Bang.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une découverte à plusieurs mains",
+          "texte": "Dès les années 1910, Vesto Slipher remarque que la lumière de la plupart des « nébuleuses » est décalée vers le rouge : elles s'éloignent. En 1922, le Russe Alexandre Friedmann montre que les équations d'Einstein permettent un Univers en expansion. Le Belge Georges Lemaître relie distance et vitesse en 1927, et Edwin Hubble confirme cette relation par l'observation en 1929."
+        },
+        {
+          "titre": "Nous ne grandissons pas",
+          "texte": "L'expansion n'étire ni les atomes, ni les planètes, ni les galaxies : leurs forces internes, comme la gravité, les tiennent soudées. Imaginez une toile élastique sur laquelle on a collé des pièces : en tirant, les pièces s'écartent, mais gardent leur taille. Et l'expansion n'est pas régulière : après avoir ralenti, elle accélère depuis environ 4 milliards d'années."
+        }
+      ],
+      "anecdotes": [
+        "Des galaxies très lointaines s'éloignent de nous plus vite que la lumière. Ce n'est pas contraire à la relativité : rien ne voyage plus vite que la lumière à travers l'espace, mais l'espace lui-même peut s'étirer à ce rythme."
+      ],
+      "wikipedia": "Expansion de l'Univers"
+    },
+    "source": "D'après Wikipédia — Expansion de l'Univers"
+  },
+  {
+    "id": "astronomie-046",
+    "domain": "astronomie",
+    "subtheme": "L'Univers",
+    "type": "classique",
+    "title": "L'Univers observable",
+    "subtitle": "La partie de l'Univers dont la lumière a eu le temps de nous parvenir",
+    "summary": "L'Univers observable, c'est tout ce que nous pouvons voir depuis la Terre : une immense boule centrée sur nous. Sa limite n'est pas un mur, mais un horizon : au-delà, la lumière n'a pas encore eu le temps d'arriver depuis le Big Bang.\nGrâce à l'expansion, son rayon atteint environ 46,5 milliards d'années-lumière, pour un Univers âgé de 13,8 milliards d'années. L'Univers entier, lui, est peut-être infini.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Regarder loin, c'est regarder tôt",
+          "texte": "La lumière voyage à une vitesse finie : plus un astre est lointain, plus l'image qui nous arrive est ancienne. Les galaxies les plus éloignées apparaissent donc telles qu'elles étaient dans leur jeunesse. Au fond du décor, on bute sur le fond diffus cosmologique, la lumière émise environ 380 000 ans après le Big Bang : impossible de voir plus loin avec la lumière."
+        },
+        {
+          "titre": "Pourquoi pas 13,8 milliards ?",
+          "texte": "La lumière la plus ancienne a voyagé 13,8 milliards d'années. Mais pendant ce temps, l'espace s'est dilaté : les objets qui l'ont émise sont aujourd'hui bien plus loin, à environ 46,5 milliards d'années-lumière. D'où un diamètre d'environ 93 milliards d'années-lumière. Et cette bulle n'est sans doute qu'une petite partie de l'Univers, au plus 2 % selon certaines mesures."
+        }
+      ],
+      "anecdotes": [
+        "L'Univers observable compterait jusqu'à deux mille milliards de galaxies selon certaines estimations, et davantage d'étoiles que de grains de sable sur toutes les plages de la Terre."
+      ],
+      "wikipedia": "Univers observable"
+    },
+    "source": "D'après Wikipédia — Univers observable"
+  },
+  {
+    "id": "astronomie-047",
+    "domain": "astronomie",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "1610 : Galilée et le Messager des étoiles",
+    "subtitle": "Premier livre d'astronomie fondé sur des observations à la lunette",
+    "summary": "Le 13 mars 1610, Galilée publie à Venise le Sidereus nuncius, « Le Messager des étoiles ». Ce petit traité en latin est le premier ouvrage scientifique fondé sur des observations faites à la lunette.\nEn quelques pages, il bouscule la vision du ciel : la Lune a des montagnes, la Voie lactée est faite d'étoiles innombrables, et quatre lunes tournent autour de Jupiter.",
+    "details": {
+      "contexte": "Les premières lunettes apparaissent aux Pays-Bas en 1608. L'année suivante, Galilée, professeur de mathématiques à Padoue, en construit sa propre version, polit lui-même ses lentilles et atteint un grossissement de 20 fois.",
+      "causes": "En janvier 1610, il découvre quatre petits astres qui accompagnent Jupiter. Pressé d'annoncer la nouvelle, et en quête d'un protecteur, il rédige son livre en six semaines et l'offre à Cosme II de Médicis, qui règne sur la Toscane.",
+      "deroulement": "Le traité décrit une Lune rugueuse, aux montagnes hautes de plusieurs kilomètres, et des étoiles dix fois plus nombreuses qu'à l'œil nu : trente-cinq dans les Pléiades au lieu de six. Il se termine sur les croquis, nuit après nuit, des « astres médicéens » qui dansent autour de Jupiter.",
+      "consequences": "Le livre contredit Aristote, pour qui les astres étaient des sphères parfaites, et fragilise l'idée que tout tourne autour de la Terre. Beaucoup accusent la lunette de créer des illusions, mais Kepler soutient publiquement Galilée dès avril 1610.",
+      "frise": [
+        {
+          "annee": "1608",
+          "evenement": "Premières lunettes aux Pays-Bas"
+        },
+        {
+          "annee": "1610",
+          "evenement": "Galilée publie le Sidereus nuncius à Venise"
+        },
+        {
+          "annee": "1992",
+          "evenement": "Jean-Paul II reçoit les conclusions de la commission sur l'affaire Galilée"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un livre qui attire les faussaires",
+          "texte": "Imprimé à 550 exemplaires en 1610, le livre n'est plus connu aujourd'hui qu'à 82 exemplaires. Un exemplaire décoré d'aquarelles, apparu à New York en 2005 et d'abord jugé authentique, s'est révélé en 2012 être un faux. Et la Bibliothèque nationale d'Espagne a découvert par hasard, en 2014, que son exemplaire avait été volé et remplacé par une copie."
+        }
+      ],
+      "wikipedia": "Sidereus nuncius"
+    },
+    "source": "D'après Wikipédia — Sidereus nuncius"
+  },
+  {
+    "id": "astronomie-048",
+    "domain": "astronomie",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "1846 : La découverte de Neptune",
+    "subtitle": "Première planète trouvée par le calcul avant d'être vue",
+    "summary": "Dans la nuit du 23 au 24 septembre 1846, l'astronome berlinois Johann Galle pointe sa lunette là où Urbain Le Verrier lui a dit de chercher. En moins d'une heure, il repère un astre inconnu, à moins d'un degré de l'endroit prévu.\nC'est la première fois qu'un astre est découvert par le calcul avant d'être observé : un triomphe pour la gravitation de Newton.",
+    "details": {
+      "contexte": "Uranus, découverte en 1781, ne suit pas exactement la route prévue par les tables qu'Alexis Bouvard a publiées en 1821. Erreurs de mesure, gravité différente si loin du Soleil, ou planète inconnue qui la tire ? Le débat est ouvert.",
+      "causes": "En 1845, François Arago confie le problème au jeune Urbain Le Verrier. Après des mois de calculs à la main, celui-ci présente à l'Académie des sciences la masse, l'orbite et la position de la planète perturbatrice. En Angleterre, John Couch Adams mène des calculs semblables.",
+      "deroulement": "Faute de bonnes cartes du ciel à Paris, Le Verrier écrit à des astronomes étrangers, dont Galle. Galle reçoit la lettre le 23 septembre et cherche le soir même ; son étudiant Heinrich d'Arrest compare les étoiles vues à une carte récente. L'astre absent de la carte se déplace : c'est la planète.",
+      "consequences": "La découverte déclenche une vive querelle entre Français et Anglais, qui réclament le mérite pour Adams. À Cambridge, James Challis avait même observé Neptune deux fois en août sans la reconnaître. Dix-sept jours après la découverte, William Lassell trouve Triton, sa plus grosse lune.",
+      "frise": [
+        {
+          "annee": "1612",
+          "evenement": "Galilée note Neptune dans ses carnets, mais la prend pour une étoile"
+        },
+        {
+          "annee": "1821",
+          "evenement": "Alexis Bouvard publie des tables d'Uranus qui se révèlent fausses"
+        },
+        {
+          "annee": "1846",
+          "evenement": "Galle observe Neptune grâce aux calculs de Le Verrier"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Vue bien avant 1846",
+          "texte": "Neptune est trop pâle pour l'œil nu, mais pas pour une lunette. Les croquis de Galilée montrent qu'il l'a observée fin décembre 1612 et en janvier 1613, en la prenant pour une étoile fixe. Les équipes de Lalande à Paris l'ont notée en 1795, et John Herschel en 1830. Ces vieilles observations ont ensuite servi à préciser son orbite."
+        }
+      ],
+      "wikipedia": "Découverte de Neptune"
+    },
+    "source": "D'après Wikipédia — Découverte de Neptune"
+  },
+  {
+    "id": "astronomie-049",
+    "domain": "astronomie",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "1995 : La première exoplanète",
+    "subtitle": "51 Pegasi b, première planète trouvée autour d'une étoile semblable au Soleil",
+    "summary": "Le 6 octobre 1995, à Florence, deux astronomes de l'observatoire de Genève, Michel Mayor et Didier Queloz, annoncent avoir trouvé une planète autour de 51 Pegasi, une étoile comparable au Soleil dans la constellation de Pégase.\nC'est la première planète découverte autour d'une étoile ordinaire. Elle ouvre la chasse aux exoplanètes et vaut à ses découvreurs le prix Nobel de physique en 2019.",
+    "details": {
+      "contexte": "On ne connaissait jusque-là que des planètes autour d'un pulsar, le cadavre d'une étoile. Et les théories prévoyaient que les planètes géantes, comme Jupiter, se forment loin de leur étoile.",
+      "causes": "Mayor et Queloz utilisent ÉLODIE, un spectrographe installé à l'observatoire de Haute-Provence. Il détecte le léger va-et-vient d'une étoile tirée par une planète invisible : c'est la méthode des vitesses radiales.",
+      "deroulement": "De septembre 1994 à septembre 1995, ils suivent 51 Pegasi. L'étoile oscille, à environ 70 mètres par seconde, avec un rythme d'à peine plus de quatre jours. Une semaine après l'annonce, une autre équipe, à l'observatoire Lick, en Californie, confirme la découverte.",
+      "consequences": "La planète bouscule les théories : une géante de la moitié de la masse de Jupiter qui tourne plus près de son étoile que Mercure du Soleil. Elle devient le prototype d'une nouvelle famille, les « Jupiter chauds », et pousse les astronomes à imaginer que les planètes migrent.",
+      "frise": [
+        {
+          "annee": "1995",
+          "evenement": "Annonce de la découverte de 51 Pegasi b"
+        },
+        {
+          "annee": "2015",
+          "evenement": "La planète est baptisée Dimidium à l'issue d'un concours de l'UAI"
+        },
+        {
+          "annee": "2019",
+          "evenement": "Prix Nobel de physique pour Mayor et Queloz"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Dimidium, la moitié",
+          "texte": "En 2015, un concours de l'Union astronomique internationale donne à la planète le nom de Dimidium, proposé par une société d'astronomie de Lucerne : le mot signifie « moitié » en latin, clin d'œil à sa masse d'environ une demi-Jupiter, soit quelque 150 Terres. Elle boucle son année en quatre jours, sous une chaleur d'environ 1 000 °C, et présente toujours la même face à son étoile."
+        }
+      ],
+      "wikipedia": "51 Pegasi b"
+    },
+    "source": "D'après Wikipédia — 51 Pegasi b"
+  },
+  {
+    "id": "astronomie-050",
+    "domain": "astronomie",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "2019 : La première image d'un trou noir",
+    "subtitle": "Le trou noir de la galaxie M87 photographié par l'Event Horizon Telescope",
+    "summary": "Le 10 avril 2019, lors de six conférences de presse simultanées dans le monde, l'Event Horizon Telescope dévoile la toute première image d'un trou noir. On y voit un anneau lumineux autour d'une ombre sombre, au cœur de la galaxie M87.\nCe monstre pèse environ 6,5 milliards de fois la masse du Soleil et se trouve à 55 millions d'années-lumière. Pour le voir, il a fallu un télescope grand comme la Terre.",
+    "details": {
+      "contexte": "Un trou noir n'émet aucune lumière, mais la matière qui tourbillonne autour de lui brille intensément. Vue depuis la Terre, cette zone est minuscule : aucun télescope isolé n'a assez de finesse pour la distinguer.",
+      "causes": "L'Event Horizon Telescope relie des radiotélescopes répartis sur plusieurs continents, du Chili au pôle Sud en passant par NOEMA, dans les Hautes-Alpes. Chaque antenne date ses mesures avec une horloge atomique, et leur combinaison forme un télescope virtuel aussi large que la planète.",
+      "deroulement": "Les observations ont lieu en avril 2017. Les données, trop volumineuses pour internet, voyagent sur des disques durs par avion jusqu'aux centres de calcul, aux États-Unis et en Allemagne. Quatre équipes indépendantes reconstruisent l'image pour s'assurer qu'elle est fiable.",
+      "consequences": "L'ombre observée correspond à ce que prévoit la relativité générale d'Einstein, testée ici dans des conditions extrêmes. En 2021, la collaboration publie une image en lumière polarisée, puis, en 2022, celle de Sagittarius A*, le trou noir du centre de la Voie lactée.",
+      "frise": [
+        {
+          "annee": "2017",
+          "evenement": "Campagne d'observation de M87* par le réseau de radiotélescopes"
+        },
+        {
+          "annee": "2019",
+          "evenement": "Publication de la première image d'un trou noir"
+        },
+        {
+          "annee": "2022",
+          "evenement": "Première image de Sagittarius A*, au centre de notre galaxie"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Des données venues du froid",
+          "texte": "Le télescope du pôle Sud a retardé tout le monde : aucun avion ne s'y pose pendant l'hiver austral, d'avril à octobre. Ses disques durs ne sont arrivés qu'en décembre 2017. Le résultat valait l'attente : l'horizon du trou noir mesure environ 40 milliards de kilomètres, et l'ombre visible sur l'image est encore 2,5 fois plus grande."
+        }
+      ],
+      "wikipedia": "Event Horizon Telescope"
+    },
+    "source": "D'après Wikipédia — Event Horizon Telescope"
+  },
+  {
+    "id": "astronomie-051",
+    "domain": "astronomie",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "2015 : Les ondes gravitationnelles détectées",
+    "subtitle": "Première détection directe des vibrations de l'espace-temps",
+    "summary": "Le 14 septembre 2015, les deux détecteurs américains LIGO captent un infime frisson de l'espace-temps : une onde gravitationnelle, née de la fusion de deux trous noirs à 1,3 milliard d'années-lumière.\nAnnoncée le 11 février 2016, cette détection confirme une prédiction faite par Einstein un siècle plus tôt et ouvre une nouvelle façon d'observer l'Univers : l'écouter vibrer.",
+    "details": {
+      "contexte": "En 1916, Einstein déduit de la relativité générale que des masses en mouvement accéléré font onduler l'espace-temps, comme des ronds dans l'eau, à la vitesse de la lumière. Il en doutera lui-même plusieurs fois, et le débat ne sera tranché qu'en 1957.",
+      "causes": "Un premier indice vient d'un couple d'étoiles à neutrons, le pulsar binaire de Hulse et Taylor, dont l'orbite rétrécit exactement comme si elle perdait de l'énergie en ondes gravitationnelles. Il faut pourtant des détecteurs d'une sensibilité inouïe pour les capter directement.",
+      "deroulement": "Les détecteurs LIGO de Livingston, en Louisiane, et de Hanford, dans l'État de Washington, enregistrent le même signal. L'effet est minuscule : la Terre entière ne serait déformée que d'une longueur mille fois plus petite qu'un atome.",
+      "consequences": "Rainer Weiss, Kip Thorne et Barry Barish reçoivent le prix Nobel de physique en 2017. La même année, une fusion d'étoiles à neutrons est captée à la fois en ondes gravitationnelles et en lumière : c'est la naissance de l'astronomie dite multimessager.",
+      "frise": [
+        {
+          "annee": "1916",
+          "evenement": "Einstein prédit l'existence des ondes gravitationnelles"
+        },
+        {
+          "annee": "1974",
+          "evenement": "Le pulsar binaire de Hulse et Taylor fournit une preuve indirecte"
+        },
+        {
+          "annee": "2015",
+          "evenement": "LIGO détecte directement une onde gravitationnelle"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Écouter l'invisible",
+          "texte": "Contrairement à la lumière, les ondes gravitationnelles traversent la matière sans être arrêtées. Elles révèlent donc des événements invisibles aux télescopes, comme la fusion de deux trous noirs. Pour le physicien Thibault Damour, la détection de 2015 prouve aussi directement, pour la première fois, que les trous noirs existent."
+        }
+      ],
+      "wikipedia": "Onde gravitationnelle"
+    },
+    "source": "D'après Wikipédia — Onde gravitationnelle"
+  },
+  {
+    "id": "astronomie-052",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "L'étoile Polaire",
+    "subtitle": "Étoile de la Petite Ourse, repère du nord",
+    "summary": "L'étoile Polaire, ou Polaris, est l'étoile la plus brillante de la Petite Ourse. Elle se trouve presque pile dans l'axe autour duquel tourne la Terre : toute la nuit, elle reste fixe pendant que les autres étoiles tournent autour d'elle.\nC'est pourquoi elle indique le nord depuis des siècles. Sa hauteur au-dessus de l'horizon donne même la latitude de l'observateur.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un titre qui change de main",
+          "texte": "L'axe de la Terre décrit lentement un cercle dans le ciel, un mouvement appelé précession des équinoxes, qui boucle un tour en 26 000 ans environ. L'étoile polaire change donc avec les époques : vers 3000 av. J.-C., c'était Thuban, dans la constellation du Dragon. Le pôle sera au plus près de Polaris vers 2100, puis s'en éloignera. Véga, elle, a déjà tenu ce rôle il y a environ 14 000 ans, de façon assez approximative."
+        },
+        {
+          "titre": "Et dans l'hémisphère Sud ?",
+          "texte": "Le Sud n'a pas d'étoile polaire digne de ce nom. Sigma Octantis est bien placée, à environ un degré du pôle, mais elle est à peine visible à l'œil nu. Les navigateurs se servent plutôt de la Croix du Sud : en prolongeant sa grande branche d'environ quatre fois et demie sa longueur, on arrive à moins de 3° du point qui marque le pôle Sud du ciel."
+        }
+      ],
+      "anecdotes": [
+        "Dans l'Angleterre anglo-saxonne du Xe siècle, on la surnommait « l'étoile du navire », preuve de son importance pour les marins. Elle n'est pourtant que la 48e étoile la plus brillante du ciel."
+      ],
+      "wikipedia": "Étoile polaire"
+    },
+    "source": "D'après Wikipédia — Étoile polaire"
+  },
+  {
+    "id": "astronomie-053",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Sirius",
+    "subtitle": "Étoile double du Grand Chien, la plus brillante de la nuit",
+    "summary": "Aucune étoile ne brille plus que Sirius dans le ciel de la nuit : sa magnitude atteint -1,46. Elle se trouve dans la constellation du Grand Chien, d'où son surnom d'« étoile du Chien ». Son éclat tient surtout à sa proximité : elle n'est qu'à 8,6 années-lumière.\nEn réalité, Sirius est double : une étoile blanche environ deux fois plus massive que le Soleil, accompagnée d'une petite naine blanche.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Sirius B, la compagne cachée",
+          "texte": "Sirius B a été la première naine blanche découverte, en 1862, par Alvan Graham Clark. Elle a à peu près la taille de la Terre, mais une masse proche de celle du Soleil. Les deux astres tournent l'un autour de l'autre en 50 ans environ. Paradoxe : Sirius B était au départ la plus massive du couple. Elle a donc vieilli plus vite, puis perdu la plus grande partie de sa matière."
+        },
+        {
+          "titre": "L'étoile du Nil",
+          "texte": "Dans l'Égypte antique, le retour de Sirius à l'aube, après des semaines d'absence, annonçait la crue du Nil, indispensable aux cultures. Les Égyptiens la vénéraient sous le nom de Sopdet, une déesse plus tard associée à Isis. Chez les Grecs, son apparition matinale marquait au contraire les chaleurs étouffantes de l'été : son nom vient d'un mot grec qui signifie « brûlant »."
+        }
+      ],
+      "anecdotes": [
+        "En latin, Sirius était aussi appelée Canicula : son lever à l'aube annonçait la période des grandes chaleurs, d'où notre mot « canicule »."
+      ],
+      "wikipedia": "Sirius"
+    },
+    "source": "D'après Wikipédia — Sirius"
+  },
+  {
+    "id": "astronomie-054",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Bételgeuse",
+    "subtitle": "Supergéante rouge de la constellation d'Orion",
+    "summary": "Bételgeuse est une supergéante rouge qui marque l'épaule d'Orion. Son rayon est des centaines de fois plus grand que celui du Soleil : placée au centre du système solaire, elle engloutirait les orbites des planètes jusqu'à Mars.\nC'est une étoile en fin de vie. Elle finira en supernova, si brillante qu'on la verra depuis la Terre même en plein jour.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le grand assombrissement",
+          "texte": "Fin 2019, Bételgeuse a brutalement perdu de son éclat, au point de tomber à la 21e place des étoiles les plus brillantes en 2020. Certains ont cru l'explosion imminente. L'explication était plus simple : l'étoile avait éjecté une grande quantité de gaz, qui s'est refroidie en poussière et l'a voilée comme un rideau. Son éclat est ensuite revenu à la normale."
+        },
+        {
+          "titre": "Une géante pressée",
+          "texte": "Bételgeuse a moins de 10 millions d'années, ce qui est très jeune pour une étoile. Mais une étoile massive brûle son combustible à toute allure : pesant environ quinze à vingt fois le Soleil, elle a déjà quitté la phase adulte. Sa supernova pourrait survenir d'ici 100 000 ans. Il ne restera alors qu'un cœur d'une vingtaine de kilomètres, sans doute une étoile à neutrons."
+        }
+      ],
+      "anecdotes": [
+        "Son nom vient de l'arabe yad al-jawzā', « la main d'al-Jawzā' ». Au Moyen Âge, une erreur de lecture a transformé le « y » initial en « b ». Au Québec, le film Beetlejuice est d'ailleurs sorti sous le titre Bételgeuse."
+      ],
+      "wikipedia": "Bételgeuse"
+    },
+    "source": "D'après Wikipédia — Bételgeuse"
+  },
+  {
+    "id": "astronomie-055",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Les supernovas",
+    "subtitle": "Explosion d'une étoile en fin de vie",
+    "summary": "Une supernova est l'explosion d'une étoile en fin de vie. Pendant quelques semaines, elle peut briller autant qu'une galaxie entière. Vue de la Terre, on croit voir apparaître une « étoile nouvelle », alors qu'une étoile est en train de mourir.\nCes explosions dispersent dans l'espace les éléments chimiques fabriqués par les étoiles, et leur onde de choc aide de nouvelles étoiles à naître.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Deux façons d'exploser",
+          "texte": "Premier scénario : une étoile de plus de huit masses solaires épuise son combustible. Son cœur de fer s'effondre en quelques millisecondes, puis les couches externes sont soufflées ; il reste une étoile à neutrons ou un trou noir. Second scénario : une naine blanche aspire la matière d'une voisine jusqu'à dépasser une masse critique, puis se désintègre entièrement. C'est le type Ia."
+        },
+        {
+          "titre": "Des explosions historiques",
+          "texte": "Des astronomes chinois ont noté en 1054 l'explosion qui a donné la nébuleuse du Crabe. Tycho Brahe en 1572, puis Kepler en 1604, en ont observé deux autres dans notre galaxie : ce sont les dernières vues à l'œil nu dans la Voie lactée. La plus proche observée depuis, SN 1987A, a éclaté en 1987 dans le Grand Nuage de Magellan, une galaxie voisine."
+        }
+      ],
+      "anecdotes": [
+        "Les supernovas de type Ia atteignent toutes à peu près le même éclat maximal. En les observant dans des galaxies lointaines, on a découvert en 1998 que l'expansion de l'Univers accélère."
+      ],
+      "wikipedia": "Supernova"
+    },
+    "source": "D'après Wikipédia — Supernova"
+  },
+  {
+    "id": "astronomie-056",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Les pulsars",
+    "subtitle": "Étoiles à neutrons en rotation, découvertes en 1967",
+    "summary": "Un pulsar est une étoile à neutrons, le reste ultra-dense d'une étoile massive, qui tourne très vite sur elle-même. Il émet deux faisceaux de rayonnement qui balaient l'espace comme ceux d'un phare.\nChaque fois qu'un faisceau croise la Terre, on capte une impulsion. Ces signaux reviennent avec une régularité d'horloge, toutes les quelques secondes ou même toutes les quelques millisecondes.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Les « petits hommes verts »",
+          "texte": "En 1967, Jocelyn Bell, doctorante de 24 ans à Cambridge, repère un signal radio qui revient toutes les 1,337 secondes. Il est si régulier que l'équipe le surnomme LGM-1, pour « Little Green Men », comme s'il venait d'extraterrestres. La découverte d'un second signal, dans une autre région du ciel, écarte cette piste : il s'agit d'étoiles à neutrons en rotation."
+        },
+        {
+          "titre": "Un Nobel controversé",
+          "texte": "En 1974, le prix Nobel de physique récompense Antony Hewish, le directeur de thèse de Jocelyn Bell, et Martin Ryle : c'est le premier Nobel attribué pour des travaux d'astronomie. Bell est laissée de côté, ce qui indigne plusieurs scientifiques, dont Fred Hoyle. Elle a pourtant toujours affirmé ne pas en garder d'amertume et soutenu la décision du comité."
+        }
+      ],
+      "anecdotes": [
+        "Les toutes premières planètes découvertes hors du système solaire, en 1992, tournaient autour d'un pulsar, PSR B1257+12."
+      ],
+      "wikipedia": "Pulsar"
+    },
+    "source": "D'après Wikipédia — Pulsar"
+  },
+  {
+    "id": "astronomie-057",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Les nébuleuses",
+    "subtitle": "Nuages de gaz et de poussières entre les étoiles",
+    "summary": "Une nébuleuse est un nuage de gaz et de poussières qui flotte entre les étoiles. Son nom vient du latin nebula, « nuage ». Certaines brillent, d'autres reflètent la lumière d'étoiles voisines, d'autres encore sont sombres et masquent ce qui se trouve derrière elles.\nCe sont à la fois des berceaux et des tombeaux d'étoiles.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Berceaux et tombeaux",
+          "texte": "Dans les nébuleuses les plus denses, le gaz s'effondre sous son propre poids et donne naissance à des étoiles : c'est le cas de la nébuleuse d'Orion, visible à l'œil nu. À l'autre bout de la vie, une étoile comme le Soleil expulse ses couches externes en une nébuleuse planétaire. Une étoile massive qui explose laisse, elle, un rémanent de supernova, comme la nébuleuse du Crabe."
+        },
+        {
+          "titre": "Un mot trompeur",
+          "texte": "Avant les années 1920, on appelait « nébuleuse » toute tache floue du ciel, y compris les galaxies : on parlait ainsi de la « nébuleuse d'Andromède ». Quant aux nébuleuses planétaires, elles n'ont rien à voir avec les planètes. Petites, rondes et assez brillantes, elles ressemblaient simplement à des planètes dans les instruments des premiers astronomes."
+        }
+      ],
+      "anecdotes": [
+        "Les nébuleuses sont incroyablement ténues : un morceau de nébuleuse grand comme la Terre ne pèserait que quelques kilogrammes.",
+        "Charles Messier a dressé son célèbre catalogue d'objets flous pour ne plus les confondre avec les comètes, qu'il traquait."
+      ],
+      "wikipedia": "Nébuleuse"
+    },
+    "source": "D'après Wikipédia — Nébuleuse"
+  },
+  {
+    "id": "astronomie-058",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "La galaxie d'Andromède",
+    "subtitle": "Grande galaxie spirale voisine de la Voie lactée (M31)",
+    "summary": "La galaxie d'Andromède, ou M31, est la grande galaxie spirale la plus proche de la nôtre, à environ 2,5 millions d'années-lumière. Par une nuit sans lune, on la voit à l'œil nu comme une tache floue, plus de six fois plus large que la Lune.\nC'est le plus grand membre du Groupe local, la famille de galaxies dont fait partie la Voie lactée. Elle compterait environ mille milliards d'étoiles.",
+    "details": {
+      "sections": [
+        {
+          "titre": "La preuve qu'il existe d'autres galaxies",
+          "texte": "Longtemps, on l'a appelée « grande nébuleuse d'Andromède », en la croyant située à l'intérieur de notre galaxie. En 1925, Edwin Hubble y repère des céphéides, des étoiles variables qui permettent de mesurer les distances. Verdict : Andromède est bien trop lointaine pour appartenir à la Voie lactée. L'Univers compte donc d'autres galaxies que la nôtre."
+        },
+        {
+          "titre": "Une collision possible",
+          "texte": "Andromède et la Voie lactée ont des masses du même ordre. Selon les estimations actuelles, elles ont environ 50 % de chances d'entrer en collision dans les 10 prochains milliards d'années, pour fusionner en une immense galaxie elliptique ou lenticulaire. Rien n'est joué : l'attraction d'autres galaxies voisines pourrait empêcher cette fusion."
+        }
+      ],
+      "anecdotes": [
+        "La première mention connue d'Andromède date de 964 : l'astronome perse al-Soufi la décrit comme un « petit nuage ». C'est aussi la plus ancienne mention connue d'une autre galaxie que la nôtre."
+      ],
+      "wikipedia": "Galaxie d'Andromède"
+    },
+    "source": "D'après Wikipédia — Galaxie d'Andromède"
+  },
+  {
+    "id": "astronomie-059",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Les Nuages de Magellan",
+    "subtitle": "Deux galaxies naines voisines, visibles du Sud",
+    "summary": "Les Nuages de Magellan sont deux petites galaxies voisines de la Voie lactée, visibles à l'œil nu depuis l'hémisphère Sud. On dirait deux morceaux détachés de la Voie lactée.\nLe Grand Nuage se trouve à environ 157 000 années-lumière, le Petit à environ 197 000. Le Petit Nuage abrite quelque 3 milliards d'étoiles, le Grand peut-être 30 milliards.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un nom contesté",
+          "texte": "Les peuples de l'hémisphère Sud les connaissaient depuis toujours, et l'astronome perse al-Soufi mentionnait déjà le Grand Nuage au Xe siècle. Ils portent pourtant le nom de Fernand de Magellan, dont l'expédition autour du monde (1519-1522) les a décrits. En 2023, des astronomes ont demandé qu'on les renomme, en raison du rôle de Magellan dans la colonisation."
+        },
+        {
+          "titre": "Des voisins de passage ?",
+          "texte": "On les a longtemps crus en orbite tranquille autour de notre galaxie. Mais des mesures du télescope Hubble, publiées en 2006, suggèrent qu'ils vont trop vite : ils seraient peut-être seulement de passage, lors d'une première approche. Les deux Nuages sont reliés par un pont de gaz et d'étoiles, le pont magellanique, où des étoiles du Petit filent vers le Grand."
+        }
+      ],
+      "anecdotes": [
+        "En 1987, le Grand Nuage de Magellan a accueilli la supernova SN 1987A, la plus brillante observée depuis plus de quatre siècles."
+      ],
+      "wikipedia": "Nuages de Magellan"
+    },
+    "source": "D'après Wikipédia — Nuages de Magellan"
+  },
+  {
+    "id": "astronomie-060",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Les Pléiades",
+    "subtitle": "Amas d'étoiles du Taureau, les « Sept Sœurs » (M45)",
+    "summary": "Les Pléiades, ou M45, sont un amas d'étoiles jeunes situé dans la constellation du Taureau, à environ 444 années-lumière. À l'œil nu, on distingue six ou sept points bleutés serrés les uns contre les autres, d'où leur surnom de « Sept Sœurs ».\nL'amas compte en réalité plus d'un millier d'étoiles, nées il y a environ 100 millions d'années.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un calendrier dans le ciel",
+          "texte": "Pour de nombreux peuples, leur apparition rythmait l'année. Le poète grec Hésiode conseillait de commencer la moisson à leur lever et le labour à leur coucher. En Polynésie, leur retour vers le 20 novembre annonçait la saison d'abondance. On les reconnaît déjà sur le disque de Nebra, un objet de l'âge du bronze trouvé en Allemagne et daté d'environ 1600 av. J.-C."
+        },
+        {
+          "titre": "Sept sœurs et une poussinière",
+          "texte": "Dans la mythologie grecque, les Pléiades sont les sept filles d'Atlas et de Pléioné. Les paysans français, eux, y voyaient la « Poussinière », une poule entourée de ses poussins, image que les Arabes employaient déjà. Au Japon, l'amas s'appelle Subaru, d'un verbe qui signifie « se rassembler ». Partout, ce petit groupe d'étoiles a frappé les imaginations."
+        }
+      ],
+      "anecdotes": [
+        "L'amas ne durera pas éternellement : dans environ 250 millions d'années, ses étoiles se seront dispersées."
+      ],
+      "wikipedia": "Pléiades (astronomie)"
+    },
+    "source": "D'après Wikipédia — Pléiades (astronomie)"
+  },
+  {
+    "id": "astronomie-061",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Les quasars",
+    "subtitle": "Cœurs de galaxies lointaines, les objets les plus lumineux connus",
+    "summary": "Un quasar est le cœur extrêmement lumineux d'une galaxie lointaine, alimenté par un trou noir supermassif qui engloutit du gaz. Ce sont les objets les plus lumineux de l'Univers : les plus puissants brillent des milliers de fois plus qu'une galaxie entière comme la Voie lactée.\nVus au télescope, ils ressemblent pourtant à de simples points, comme des étoiles.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un moteur glouton",
+          "texte": "Autour du trou noir, la matière tourne dans un disque d'accrétion et s'échauffe énormément par frottement avant d'être engloutie. Ce mécanisme transforme en énergie environ 10 % de la masse qui tombe, contre 0,7 % pour la fusion nucléaire qui fait briller les étoiles. Les quasars les plus brillants avaleraient l'équivalent de 1 000 Soleils par an."
+        },
+        {
+          "titre": "L'énigme de 3C 273",
+          "texte": "Repérés comme d'étranges sources radio à la fin des années 1950, ces objets intriguent. En 1962, une occultation par la Lune permet de localiser 3C 273, et Maarten Schmidt comprend que son spectre montre les raies de l'hydrogène, mais déplacées de 15,8 % vers le rouge. L'objet s'éloigne à 47 000 km/s : il est donc très lointain, et incroyablement puissant. Le mot « quasar » naît en 1964."
+        }
+      ],
+      "anecdotes": [
+        "Le quasar 3C 273 se trouve à 2,44 milliards d'années-lumière. Placé à seulement 33 années-lumière, il brillerait dans notre ciel autant que le Soleil."
+      ],
+      "wikipedia": "Quasar"
+    },
+    "source": "D'après Wikipédia — Quasar"
+  },
+  {
+    "id": "astronomie-062",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Sagittarius A*",
+    "subtitle": "Le trou noir géant qui siège au cœur de notre galaxie",
+    "summary": "Sagittarius A* est le trou noir supermassif qui occupe le centre de la Voie lactée, à 26 673 années-lumière de nous selon les mesures les plus précises. Sa masse atteint environ 4,3 millions de fois celle du Soleil.\nIl est très discret, car il avale aujourd'hui peu de matière. Ce sont les étoiles qui tournent à toute vitesse autour de lui qui ont trahi sa présence.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Trahi par ses étoiles",
+          "texte": "Le trou noir lui-même est invisible. Mais dans les années 1990, des équipes suivent des étoiles qui tournent autour d'un point apparemment vide ; la plus rapide boucle son orbite en 9,9 ans. Ces orbites révèlent une masse énorme concentrée dans un espace minuscule : seul un trou noir peut l'expliquer. Reinhard Genzel et Andrea Ghez ont reçu pour cela le prix Nobel de physique 2020."
+        },
+        {
+          "titre": "Un nom et une image",
+          "texte": "La source radio a été repérée en 1974 à l'observatoire de Green Bank, aux États-Unis. L'astérisque de son nom vient de la physique atomique, où il désigne un état « excité ». Le 12 mai 2022, la collaboration Event Horizon Telescope a dévoilé sa première image : un anneau lumineux autour d'une ombre, la deuxième image de trou noir de l'histoire après celle de M87*."
+        }
+      ],
+      "anecdotes": [
+        "Au début du XIXe siècle, Sagittarius A* aurait connu quelques mois de frénésie : il aurait englouti tant de matière qu'il aurait brillé presque comme un quasar."
+      ],
+      "wikipedia": "Sagittarius A*"
+    },
+    "source": "D'après Wikipédia — Sagittarius A*"
+  },
+  {
+    "id": "astronomie-063",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "La matière noire",
+    "subtitle": "Matière invisible et hypothétique, connue par sa gravité",
+    "summary": "La matière noire est une forme de matière invisible : elle n'émet pas de lumière et n'interagit presque pas avec la matière ordinaire. On ne la repère que par son attraction gravitationnelle sur les étoiles et les galaxies.\nSelon le modèle cosmologique standard, elle serait au moins cinq fois plus abondante que la matière ordinaire. Mais personne ne sait encore de quoi elle est faite.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des galaxies qui tournent trop vite",
+          "texte": "En 1933, Fritz Zwicky constate que les galaxies de l'amas de Coma bougent bien trop vite pour la masse visible : il évoque une « matière noire ». Dans les années 1970, Vera Rubin remarque que les étoiles en périphérie des galaxies spirales tournent presque aussi vite que celles proches du centre. Il faut donc une masse cachée : un vaste halo invisible entourerait les galaxies."
+        },
+        {
+          "titre": "Une énigme ouverte",
+          "texte": "Les candidats ne manquent pas : des particules encore inconnues, comme les WIMP ou les axions, ou bien des trous noirs primordiaux. Des détecteurs installés sous terre les traquent, sans résultat décisif jusqu'ici. Une minorité de chercheurs préfère modifier les lois de la gravitation, mais aucune de ces théories n'explique à elle seule toutes les observations."
+        }
+      ],
+      "anecdotes": [
+        "En 2006, l'amas de la Balle, né de la collision de deux amas de galaxies, a permis de repérer la matière noire séparément de la matière ordinaire, grâce à la façon dont elle dévie la lumière."
+      ],
+      "wikipedia": "Matière noire"
+    },
+    "source": "D'après Wikipédia — Matière noire"
+  },
+  {
+    "id": "astronomie-064",
+    "domain": "astronomie",
+    "subtheme": "Vocabulaire",
+    "type": "vocabulaire",
+    "title": "Unité astronomique",
+    "subtitle": "Unité de distance du système solaire (au)",
+    "summary": "L'unité astronomique (symbole au) équivaut à peu près à l'écart moyen qui sépare la Terre du Soleil : environ 150 millions de kilomètres. Depuis 2012, elle vaut exactement 149 597 870 700 mètres.\nLa lumière la parcourt en un peu plus de 8 minutes. C'est l'unité idéale pour mesurer les distances à l'intérieur du système solaire.",
+    "details": {
+      "definition": "Unité de longueur fixée à 149 597 870 700 mètres, très proche de l'écart moyen entre notre planète et le Soleil.",
+      "exemple": "Jupiter tourne à environ 5 au du Soleil et Neptune à environ 30 au : on voit tout de suite que Neptune est à peu près six fois plus loin que Jupiter.",
+      "confusions": [
+        {
+          "mot": "Année-lumière",
+          "explication": "Unité bien plus grande, utilisée pour les étoiles : une année-lumière vaut environ 63 241 unités astronomiques."
+        },
+        {
+          "mot": "Parsec",
+          "explication": "Autre unité des astronomes, encore plus grande, définie à partir de l'unité astronomique et d'un angle d'une seconde d'arc."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "D'une estimation à une valeur fixe",
+          "texte": "Dès l'Antiquité, Aristarque de Samos tente d'estimer la distance du Soleil, mais il la sous-estime largement. Les mesures radar et le suivi des sondes spatiales ont ensuite permis une précision extrême. En 2012, l'Union astronomique internationale, réunie à Pékin, a figé sa valeur au mètre près : elle ne dépend plus de l'orbite réelle de la Terre, qui varie légèrement."
+        }
+      ],
+      "wikipedia": "Unité astronomique"
+    },
+    "source": "D'après Wikipédia — Unité astronomique"
+  },
+  {
+    "id": "astronomie-065",
+    "domain": "astronomie",
+    "subtheme": "Vocabulaire",
+    "type": "vocabulaire",
+    "title": "Parsec",
+    "subtitle": "Unité de distance des astronomes (pc)",
+    "summary": "Le parsec (symbole pc) est l'unité de distance préférée des astronomes pour les étoiles et les galaxies. Il vaut environ 3,26 années-lumière, soit 206 264 fois la distance entre la Terre et le Soleil.\nSon nom contracte « parallaxe » et « seconde » : il rappelle la méthode géométrique qui a permis de mesurer les premières distances d'étoiles.",
+    "details": {
+      "definition": "Distance à laquelle l'écart Terre-Soleil n'occuperait plus qu'une seconde d'arc dans le ciel, soit environ 3,26 années-lumière.",
+      "exemple": "Proxima du Centaure, l'étoile la plus proche du Soleil, se trouve à environ 1,3 parsec, c'est-à-dire un peu plus de 4 années-lumière.",
+      "confusions": [
+        {
+          "mot": "Année-lumière",
+          "explication": "Distance parcourue par la lumière en un an ; un parsec en vaut environ 3,26. Le grand public préfère l'année-lumière, les chercheurs le parsec."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "La méthode de la parallaxe",
+          "texte": "Quand la Terre passe d'un côté à l'autre de son orbite, en six mois, les étoiles proches semblent se décaler un peu devant les étoiles lointaines. Plus ce décalage est petit, plus l'étoile est loin. L'astuce du parsec : la distance en parsecs est simplement l'inverse de ce décalage mesuré en secondes d'arc. Friedrich Bessel a ainsi mesuré la distance de l'étoile 61 Cygni en 1838."
+        }
+      ],
+      "wikipedia": "Parsec"
+    },
+    "source": "D'après Wikipédia — Parsec"
+  },
+  {
+    "id": "astronomie-066",
+    "domain": "astronomie",
+    "subtheme": "Vocabulaire",
+    "type": "vocabulaire",
+    "title": "Écliptique",
+    "subtitle": "Plan de l'orbite terrestre et trajet apparent du Soleil",
+    "summary": "L'écliptique est le plan dans lequel la Terre tourne autour du Soleil. Vu depuis la Terre, c'est aussi la ligne que le Soleil semble parcourir parmi les étoiles au fil de l'année, en traversant les constellations du zodiaque.\nLes planètes et la Lune restent toujours proches de cette ligne, car leurs orbites se trouvent presque dans le même plan.",
+    "details": {
+      "definition": "Plan dans lequel la Terre accomplit sa course annuelle autour du Soleil ; sur la voûte céleste, c'est le trajet que le Soleil semble suivre en un an.",
+      "exemple": "Les planètes visibles à l'œil nu, comme Vénus ou Jupiter, apparaissent toujours le long d'une même bande du ciel, de part et d'autre de l'écliptique.",
+      "confusions": [
+        {
+          "mot": "Équateur céleste",
+          "explication": "Projection de l'équateur terrestre sur le ciel ; il est incliné d'environ 23,4° sur l'écliptique, à cause de l'inclinaison de l'axe de la Terre."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Pourquoi « écliptique » ?",
+          "texte": "Le mot signifie « relatif aux éclipses ». Les Anciens avaient remarqué que les éclipses ne surviennent que lorsque la Lune croise cette ligne. L'orbite lunaire est en effet inclinée d'environ 5° : la plupart du temps, la Lune passe un peu au-dessus ou au-dessous du Soleil. Il faut une nouvelle lune ou une pleine lune près d'un des deux points de croisement, les nœuds, pour qu'une éclipse ait lieu."
+        }
+      ],
+      "wikipedia": "Écliptique"
+    },
+    "source": "D'après Wikipédia — Écliptique"
+  },
+  {
+    "id": "astronomie-067",
+    "domain": "astronomie",
+    "subtheme": "Vocabulaire",
+    "type": "vocabulaire",
+    "title": "Orbite géostationnaire",
+    "subtitle": "Orbite des satellites immobiles dans le ciel",
+    "summary": "Une orbite géostationnaire est une orbite circulaire située à 35 786 km au-dessus de l'équateur. Un satellite y fait le tour de la Terre exactement au rythme où la Terre tourne sur elle-même.\nRésultat : vu du sol, il paraît immobile dans le ciel. C'est pourquoi une antenne parabolique de télévision peut rester pointée en permanence dans la même direction.",
+    "details": {
+      "definition": "Orbite circulaire dans le plan de l'équateur, dont la période est égale à la rotation de la Terre : le satellite reste au-dessus du même point.",
+      "exemple": "Les satellites météorologiques Meteosat observent sans interruption la même moitié du globe, ce qui permet de suivre heure par heure l'évolution des nuages et des tempêtes.",
+      "confusions": [
+        {
+          "mot": "Orbite géosynchrone",
+          "explication": "Même période que la rotation terrestre, mais l'orbite peut être inclinée : le satellite oscille alors vers le nord et le sud au lieu de rester fixe."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une idée d'écrivain",
+          "texte": "Le principe a été décrit par Herman Potočnik à la fin des années 1920, puis popularisé en 1945 par l'écrivain de science-fiction Arthur C. Clarke, qui y voyait l'avenir des télécommunications. On parle d'ailleurs parfois d'« orbite de Clarke ». Le premier satellite placé en orbite géostationnaire, Syncom 3, lancé en 1964, a retransmis les Jeux olympiques de Tokyo jusqu'en Amérique."
+        },
+        {
+          "titre": "Un défaut : le délai",
+          "texte": "À cette altitude, un signal met environ 240 millisecondes pour monter jusqu'au satellite, et autant pour redescendre. Ce délai gêne le téléphone et certaines applications informatiques. Ces satellites servent donc surtout à diffuser la télévision, dans un seul sens. En fin de vie, on les pousse vers une « orbite cimetière » pour libérer leur place."
+        }
+      ],
+      "wikipedia": "Orbite géostationnaire"
+    },
+    "source": "D'après Wikipédia — Orbite géostationnaire"
+  },
+  {
+    "id": "astronomie-068",
+    "domain": "astronomie",
+    "subtheme": "Vocabulaire",
+    "type": "vocabulaire",
+    "title": "Point de Lagrange",
+    "subtitle": "Point d'équilibre entre deux astres (L1 à L5)",
+    "summary": "Un point de Lagrange est un endroit de l'espace où un petit objet, attiré par deux grands astres comme le Soleil et la Terre, peut tourner avec eux sans que sa position change par rapport à eux.\nIl en existe cinq pour chaque couple d'astres, notés L1 à L5. Certains servent de places de stationnement très prisées pour les télescopes spatiaux.",
+    "details": {
+      "definition": "Point où les attractions de deux astres en orbite et l'effet centrifuge se compensent pour un troisième corps de masse négligeable.",
+      "exemple": "Le télescope James Webb tourne autour du point L2 du système Soleil-Terre, à environ 1,5 million de kilomètres de la Terre, du côté opposé au Soleil.",
+      "confusions": [
+        {
+          "mot": "Orbite géostationnaire",
+          "explication": "Orbite autour de la Terre seule, où un satellite suit la rotation terrestre ; un point de Lagrange dépend de deux astres et se trouve bien plus loin."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Stables ou instables",
+          "texte": "L1, L2 et L3 sont alignés avec les deux astres. Ils sont instables : un engin placé là doit corriger régulièrement sa position, mais cela coûte peu de carburant. L4 et L5, situés à 60° en avant et en arrière sur l'orbite, forment des triangles équilatéraux avec les deux astres. Ils sont stables et retiennent naturellement des objets : Jupiter y entraîne plus d'un million d'astéroïdes."
+        },
+        {
+          "titre": "Euler puis Lagrange",
+          "texte": "Leonhard Euler a trouvé les trois points alignés en 1765. Joseph-Louis Lagrange a découvert les deux autres en 1772, en étudiant un petit corps soumis à l'attraction du Soleil et d'une planète. Les astéroïdes de Jupiter situés en L4 et L5 portent des noms de héros de l'Iliade : les Grecs en avant de la planète, les Troyens en arrière."
+        }
+      ],
+      "wikipedia": "Point de Lagrange"
+    },
+    "source": "D'après Wikipédia — Point de Lagrange"
+  },
+  {
+    "id": "astronomie-069",
+    "domain": "astronomie",
+    "subtheme": "Exploration spatiale",
+    "type": "classique",
+    "title": "Laïka, la chienne de l'espace",
+    "subtitle": "Chienne du programme spatial soviétique (vers 1954 – 1957)",
+    "summary": "Le 3 novembre 1957, une chienne errante ramassée dans les rues de Moscou devient le premier être vivant placé en orbite autour de la Terre, à bord de Spoutnik 2.\nLaïka n'avait aucune chance de revenir : on ne savait pas encore ramener un engin depuis l'orbite. Elle meurt quelques heures après le décollage, victime de la chaleur et du stress.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une mission montée dans l'urgence",
+          "texte": "Après le succès de Spoutnik 1, Nikita Khrouchtchev réclame un nouvel exploit pour le 40e anniversaire de la révolution d'Octobre, le 7 novembre 1957. Sergueï Korolev promet d'envoyer un chien. Il reste moins de quatre semaines : Spoutnik 2 est construit d'après de simples croquis, sans essais. Dans la cabine, la chienne peut se tenir debout, assise ou couchée, mais pas se retourner."
+        },
+        {
+          "titre": "Une vérité cachée pendant 45 ans",
+          "texte": "L'URSS a laissé circuler plusieurs versions : Laïka aurait vécu des jours, ou aurait été endormie par une nourriture empoisonnée. En 2002, le scientifique Dimitri Malachenkov révèle la vérité : le dernier étage de la fusée ne s'était pas détaché, l'isolation s'était déchirée et la cabine avait atteint 40 °C. La chienne a survécu cinq à sept heures."
+        }
+      ],
+      "anecdotes": [
+        "En 1998, Oleg Gazenko, l'un des scientifiques qui l'avaient préparée, a exprimé ses regrets : selon lui, la mission n'avait pas appris assez de choses pour justifier la mort de la chienne."
+      ],
+      "wikipedia": "Laïka"
+    },
+    "source": "D'après Wikipédia — Laïka"
+  },
+  {
+    "id": "astronomie-070",
+    "domain": "astronomie",
+    "subtheme": "Exploration spatiale",
+    "type": "classique",
+    "title": "Le programme Apollo",
+    "subtitle": "Programme lunaire habité de la NASA (1961-1972)",
+    "summary": "Lancé par John F. Kennedy le 25 mai 1961, en pleine guerre froide, le programme Apollo devait faire marcher un Américain sur la Lune avant que les années 1960 ne s'achèvent. Pari tenu le 21 juillet 1969 avec Apollo 11.\nEn tout, six missions se sont posées sur la Lune jusqu'en décembre 1972 : douze astronautes y ont marché et rapporté 382 kg de roches lunaires.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une course contre l'URSS",
+          "texte": "Quand Kennedy fixe l'objectif, les Soviétiques mènent la course : Spoutnik, Laïka, puis Youri Gagarine le 12 avril 1961. Les États-Unis n'ont alors encore réussi aucun vol orbital habité. L'effort est colossal : le budget de la NASA passe de 400 millions de dollars en 1960 à 5,9 milliards en 1966, et le programme fait travailler jusqu'à 400 000 personnes."
+        },
+        {
+          "titre": "Une méthode audacieuse",
+          "texte": "Pour aller sur la Lune, la NASA retient le rendez-vous en orbite lunaire, défendu par l'ingénieur John Houbolt : un module lunaire se pose avec deux astronautes, pendant que le troisième attend en orbite dans le module de commande. Ce scénario, plus léger, permet de tout lancer avec une seule fusée géante : la Saturn V, un colosse de 3 000 tonnes."
+        },
+        {
+          "titre": "Drames et héritage",
+          "texte": "Le programme a connu deux accidents graves : l'incendie au sol d'Apollo 1 en 1967, qui tue tout l'équipage, puis l'explosion d'un réservoir d'Apollo 13, dont les astronautes réchappent de justesse. Il laisse aussi des images marquantes : la Terre colorée et isolée dans le noir, vue depuis la Lune, a fait prendre conscience de la fragilité de notre planète."
+        }
+      ],
+      "anecdotes": [
+        "Le nom Apollo a été choisi par Abe Silverstein, un responsable de la NASA : l'image du dieu grec traversant le ciel sur son char solaire lui semblait à la hauteur du projet."
+      ],
+      "wikipedia": "Programme Apollo"
+    },
+    "source": "D'après Wikipédia — Programme Apollo"
+  },
+  {
+    "id": "astronomie-071",
+    "domain": "astronomie",
+    "subtheme": "Exploration spatiale",
+    "type": "classique",
+    "title": "Apollo 13",
+    "subtitle": "Mission lunaire américaine interrompue (11-17 avril 1970)",
+    "summary": "Partie vers la Lune le 11 avril 1970, Apollo 13 tourne au cauchemar deux jours plus tard : un réservoir d'oxygène explose et prive le vaisseau d'électricité, d'eau et d'air.\nL'alunissage est abandonné. Jim Lovell, Jack Swigert et Fred Haise se réfugient dans le module lunaire Aquarius, font le tour de la Lune et rentrent sains et saufs le 17 avril.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un module lunaire en canot de sauvetage",
+          "texte": "Aquarius était prévu pour deux hommes pendant deux jours ; il doit en abriter trois pendant quatre jours. À Houston, le centre de contrôle invente des procédures pour économiser chaque ampère et chaque goutte d'eau. L'équipage grelotte dans une cabine froide et humide, et doit bricoler les cartouches du module de commande pour éliminer le gaz carbonique."
+        },
+        {
+          "titre": "Un remplaçant de dernière minute",
+          "texte": "Ken Mattingly, prévu comme pilote du module de commande, a été exposé à la rubéole et n'était pas immunisé : il est remplacé juste avant le départ par Jack Swigert. Il n'est jamais tombé malade et a volé plus tard sur Apollo 16. L'enquête a montré que l'explosion venait d'une isolation électrique abîmée à l'intérieur du réservoir, qui a pris feu lors d'un simple brassage de l'oxygène."
+        }
+      ],
+      "anecdotes": [
+        "L'aventure a inspiré le film Apollo 13, sorti en 1995, adapté du livre de souvenirs coécrit par Jim Lovell."
+      ],
+      "wikipedia": "Apollo 13"
+    },
+    "source": "D'après Wikipédia — Apollo 13"
+  },
+  {
+    "id": "astronomie-072",
+    "domain": "astronomie",
+    "subtheme": "Exploration spatiale",
+    "type": "classique",
+    "title": "La navette spatiale américaine",
+    "subtitle": "Véhicule spatial partiellement réutilisable de la NASA (1981-2011)",
+    "summary": "De 1981 à 2011, la navette spatiale a été l'emblème de la NASA : un avion spatial qui décollait comme une fusée et revenait se poser en planant sur une piste.\nElle devait rendre l'espace bon marché grâce à la réutilisation. En réalité, elle s'est révélée complexe et coûteuse : 135 vols, mais deux accidents qui ont coûté la vie à 14 astronautes.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Trois éléments au décollage",
+          "texte": "Seul l'orbiteur, l'avion spatial, va en orbite. Au départ, il est fixé à un énorme réservoir jetable rempli d'hydrogène et d'oxygène liquides, et à deux propulseurs à poudre récupérés en mer sous parachute. La navette emporte jusqu'à 8 astronautes et, dans sa soute, jusqu'à 29,5 tonnes de matériel : satellites, laboratoire, morceaux de station."
+        },
+        {
+          "titre": "Grandes missions et tragédies",
+          "texte": "La navette a lancé le télescope Hubble et la sonde Galileo, rendu visite à la station russe Mir et assemblé une grande partie de l'ISS. Mais Challenger est détruite en 1986, puis Columbia en 2003. Après sa retraite, les Américains ont dû compter sur les Soyouz russes jusqu'au premier vol habité du Crew Dragon de SpaceX, en 2020."
+        }
+      ],
+      "anecdotes": [
+        "Quand l'orbiteur atterrissait en Californie, il rentrait en Floride porté sur le dos d'un Boeing 747 spécialement modifié."
+      ],
+      "wikipedia": "Navette spatiale américaine"
+    },
+    "source": "D'après Wikipédia — Navette spatiale américaine"
+  },
+  {
+    "id": "astronomie-073",
+    "domain": "astronomie",
+    "subtheme": "Exploration spatiale",
+    "type": "classique",
+    "title": "La station spatiale Mir",
+    "subtitle": "Station spatiale soviétique puis russe (1986-2001)",
+    "summary": "Mir, qui signifie « paix » et « monde » en russe, a été la première station spatiale formée de plusieurs modules. Son premier élément est lancé le 19 février 1986, puis elle grandit en orbite pendant dix ans.\nHabitée douze ans et demi sur quinze, elle a reçu 105 visiteurs de 12 pays avant d'être volontairement détruite dans l'atmosphère en mars 2001.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un jeu de construction en orbite",
+          "texte": "Six modules sont venus s'ajouter au module central jusqu'en 1996, chacun avec sa spécialité. Ils étaient lancés par des fusées Proton, sauf le module d'amarrage, apporté par la navette américaine Atlantis. La station circulait entre 296 et 421 km d'altitude, à environ 27 700 km/h, et bouclait 15,7 tours de la Terre par jour."
+        },
+        {
+          "titre": "Records et coopération",
+          "texte": "C'est à bord de Mir que le Russe Valeri Poliakov a battu le record du plus long séjour d'un homme dans l'espace : 437 jours sans revenir sur Terre. Après la chute de l'URSS, la station accueille des astronautes américains dans le cadre du programme Shuttle-Mir : une expérience précieuse pour concevoir la Station spatiale internationale."
+        }
+      ],
+      "anecdotes": [
+        "Pendant 3 644 jours d'affilée, Mir n'a jamais été vide : un record d'occupation continue que seule l'ISS a battu, en 2010."
+      ],
+      "wikipedia": "Mir (station spatiale)"
+    },
+    "source": "D'après Wikipédia — Mir (station spatiale)"
+  },
+  {
+    "id": "astronomie-074",
+    "domain": "astronomie",
+    "subtheme": "Exploration spatiale",
+    "type": "classique",
+    "title": "Le télescope spatial Hubble",
+    "subtitle": "Télescope spatial de la NASA et de l'ESA, lancé en 1990",
+    "summary": "Lancé le 24 avril 1990 par la navette Discovery, Hubble observe le ciel depuis l'orbite terrestre, au-dessus de l'atmosphère qui brouille la vue des télescopes au sol.\nAvec son miroir de 2,4 m, il a aidé à mesurer le rythme d'expansion de l'Univers et à confirmer la présence de trous noirs géants au centre des galaxies spirales.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un miroir raté, puis réparé",
+          "texte": "Peu après le lancement, mauvaise surprise : le miroir principal a été mal poli et les images sont floues. Heureusement, Hubble avait été pensé pour être entretenu par des astronautes. En 1993, une mission de la navette corrige son optique. Quatre autres visites, jusqu'en 2009, remplacent ses cinq instruments et ses équipements usés."
+        },
+        {
+          "titre": "Une longue gestation",
+          "texte": "L'idée remonte à 1946, quand l'astronome Lyman Spitzer vante les atouts d'un observatoire spatial : plus de turbulences de l'air, et accès aux rayons ultraviolets et infrarouges. Freiné par les budgets puis par l'accident de Challenger en 1986, le projet coûte finalement 2 milliards de dollars : l'instrument scientifique le plus cher de son époque."
+        }
+      ],
+      "anecdotes": [
+        "C'est le seul télescope conçu pour être réparé dans l'espace : sa surface est couverte de mains courantes peintes en jaune vif pour guider les astronautes."
+      ],
+      "wikipedia": "Hubble (télescope spatial)"
+    },
+    "source": "D'après Wikipédia — Hubble (télescope spatial)"
+  },
+  {
+    "id": "astronomie-075",
+    "domain": "astronomie",
+    "subtheme": "Exploration spatiale",
+    "type": "classique",
+    "title": "Les fusées Ariane",
+    "subtitle": "Famille de lanceurs européens, depuis 1979",
+    "summary": "Ariane est la fusée de l'Europe. Le programme naît en 1973, poussé par la France, qui veut mettre ses satellites en orbite sans devoir passer par les Américains ou les Soviétiques. Ariane 1 s'envole pour la première fois le 24 décembre 1979.\nTirées depuis Kourou, en Guyane, les Ariane ont conquis le marché des satellites de télécommunications : environ la moitié de ce marché en 2009.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Née d'un échec",
+          "texte": "Avant Ariane, l'Europe avait tenté la fusée Europa, assemblage d'étages britannique, français et allemand. Faute de vrai pilote du projet, elle accumule les échecs et est abandonnée. Pour Ariane, la France paie 60 % du budget et prend la direction des opérations, confiée au CNES. Le nom, celui de l'héroïne de la mythologie grecque, est choisi par le ministre Jean Charbonnel."
+        },
+        {
+          "titre": "D'Ariane 1 à Ariane 6",
+          "texte": "Les versions se succèdent pour suivre des satellites toujours plus lourds : Ariane 4 en 1988, puis Ariane 5, entièrement repensée, en 1996, capable d'emporter plus de 10 tonnes vers l'orbite géostationnaire. Ariane 5 a notamment lancé le télescope James Webb, le jour de Noël 2021. Ariane 6 a pris le relais le 9 juillet 2024."
+        }
+      ],
+      "anecdotes": [
+        "En 1996, le satellite français Cerise a été percuté par un morceau d'un ancien étage d'Ariane : le premier cas vérifié de collision avec un débris spatial catalogué."
+      ],
+      "wikipedia": "Ariane (fusée)"
+    },
+    "source": "D'après Wikipédia — Ariane (fusée)"
+  },
+  {
+    "id": "astronomie-076",
+    "domain": "astronomie",
+    "subtheme": "Exploration spatiale",
+    "type": "classique",
+    "title": "Rosetta et Philae",
+    "subtitle": "Mission européenne vers une comète (2004-2016)",
+    "summary": "Lancée le 2 mars 2004 par une Ariane 5, la sonde européenne Rosetta a voyagé dix ans pour rejoindre la comète 67P/Tchourioumov-Guérassimenko, surnommée « Tchouri ».\nElle a été le premier engin à tourner autour d'une comète, et le 12 novembre 2014, son petit atterrisseur Philae a réussi le premier atterrissage sur un noyau de comète.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un voyage de dix ans",
+          "texte": "Pour se caler sur l'orbite de la comète, Rosetta prend de l'élan à quatre reprises en frôlant la Terre et Mars, et survole au passage deux astéroïdes, Šteins et Lutèce. Trop loin du Soleil pour ses panneaux solaires, elle est mise en sommeil pendant 31 mois, puis réveillée en janvier 2014. Philae, une fois posé, transmet des données pendant environ trois jours."
+        },
+        {
+          "titre": "Des noms venus d'Égypte",
+          "texte": "La sonde doit son nom à la pierre de Rosette, qui a permis à Champollion de déchiffrer les hiéroglyphes. Philae évoque un obélisque qui a aidé à compléter ce travail. L'idée : ces engins devaient aider à décoder les comètes, vestiges de la formation du Système solaire. La mission s'achève le 30 septembre 2016, quand Rosetta se pose à son tour sur la comète."
+        }
+      ],
+      "anecdotes": [
+        "En 2007, lors d'un survol de la Terre, Rosetta a été brièvement prise par un astronome pour un petit astéroïde passant près de notre planète, au point de recevoir une désignation provisoire."
+      ],
+      "wikipedia": "Rosetta (sonde spatiale)"
+    },
+    "source": "D'après Wikipédia — Rosetta (sonde spatiale)"
+  },
+  {
+    "id": "astronomie-077",
+    "domain": "astronomie",
+    "subtheme": "Exploration spatiale",
+    "type": "classique",
+    "title": "Cassini-Huygens",
+    "subtitle": "Mission américano-européenne vers Saturne (1997-2017)",
+    "summary": "Lancée le 15 octobre 1997, Cassini a été la première sonde à se placer en orbite autour de Saturne, en 2004. Elle y a passé 13 ans à étudier la planète, ses anneaux et ses lunes.\nSon passager européen, Huygens, s'est posé sur Titan le 14 janvier 2005 : le premier atterrissage dans le Système solaire lointain, et sur une autre lune que la nôtre.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des découvertes en cascade",
+          "texte": "Cassini a révélé des lacs de méthane liquide et des dunes sur Titan, et des geysers sur Encelade, indices d'un océan caché sous la glace qui pourrait peut-être abriter la vie. Elle a découvert de petites lunes inconnues et aidé à dater les anneaux de Saturne : ils se seraient formés voilà moins de 100 millions d'années."
+        },
+        {
+          "titre": "Un grand final",
+          "texte": "Pour ne pas risquer de contaminer une lune potentiellement habitable avec des microbes terrestres, la NASA a choisi de sacrifier la sonde. Après une série de passages risqués entre la planète et ses anneaux, Cassini s'est jetée dans Saturne le 15 septembre 2017. Avec 5,7 tonnes au départ, c'était le plus gros engin lancé vers les planètes lointaines."
+        }
+      ],
+      "anecdotes": [
+        "Les deux engins portent les noms de deux astronomes : l'Italien Giovanni Domenico Cassini, qui a repéré des divisions dans les anneaux de Saturne, et le Néerlandais Christiaan Huygens, qui a découvert Titan."
+      ],
+      "wikipedia": "Cassini-Huygens"
+    },
+    "source": "D'après Wikipédia — Cassini-Huygens"
+  },
+  {
+    "id": "astronomie-078",
+    "domain": "astronomie",
+    "subtheme": "Exploration spatiale",
+    "type": "classique",
+    "title": "New Horizons",
+    "subtitle": "Sonde de la NASA vers Pluton, lancée en 2006",
+    "summary": "Lancée le 19 janvier 2006, New Horizons a été la première sonde à explorer Pluton. Après plus de neuf ans de voyage, elle l'a frôlée le 14 juillet 2015.\nSes images ont bouleversé l'idée d'un petit monde gelé et figé : Pluton est restée géologiquement active, avec des paysages qui rivalisent en variété avec ceux de Mars.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un bolide endormi",
+          "texte": "Au départ, la sonde file à plus de 16 km/s par rapport au Soleil : aucun engin n'avait quitté la Terre aussi vite en moyenne. En 2007, elle frôle Jupiter, qui lui donne 4 km/s de plus. Elle passe ensuite l'essentiel du trajet en sommeil, avant d'être réveillée le 6 décembre 2014 pour préparer la rencontre avec Pluton."
+        },
+        {
+          "titre": "Plus loin que Pluton",
+          "texte": "Sa mission ne s'arrête pas là. Le 1er janvier 2019, New Horizons frôle Arrokoth, à 3 500 km de distance : un petit corps glacé de la ceinture de Kuiper, découvert seulement en 2014. C'est la première mission à explorer cette région lointaine, peuplée de petits mondes qui gardent la mémoire de la naissance du Système solaire."
+        }
+      ],
+      "anecdotes": [
+        "La sonde emporte environ 30 grammes des cendres de Clyde Tombaugh, l'astronome américain qui avait découvert Pluton en 1930."
+      ],
+      "wikipedia": "New Horizons"
+    },
+    "source": "D'après Wikipédia — New Horizons"
+  },
+  {
+    "id": "astronomie-079",
+    "domain": "astronomie",
+    "subtheme": "Exploration spatiale",
+    "type": "classique",
+    "title": "Perseverance et la mission Mars 2020",
+    "subtitle": "Mission martienne de la NASA, lancée en 2020",
+    "summary": "Lancée le 30 juillet 2020, la mission Mars 2020 a déposé le 18 février 2021 le rover Perseverance dans le cratère Jezero, le lit d'un ancien lac martien.\nSon but : chercher des traces d'une vie passée et prélever des carottes de roche, rangées dans des tubes que de futures missions devront rapporter sur Terre. Il était accompagné d'Ingenuity, un minuscule hélicoptère.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un atterrissage de précision",
+          "texte": "L'engin entre dans l'atmosphère martienne à 12 000 km/h et doit s'arrêter en huit minutes environ. Un bouclier thermique qui chauffe jusqu'à 1 450 °C, un parachute de 21,5 m, puis des moteurs-fusées le freinent, avant qu'un étage de descente dépose le rover comme un hélicoptère-grue. Un système qui reconnaît le relief l'aide à éviter les obstacles."
+        },
+        {
+          "titre": "Un rover bien équipé",
+          "texte": "Perseverance, un engin de plus d'une tonne dérivé de Curiosity, emporte caméras, spectromètres, station météo et radar pour sonder le sous-sol. Il teste aussi MOXIE, qui fabrique de l'oxygène à partir de l'air martien. Et ses deux micros ont permis d'écouter Mars : le 30 avril 2021, il a même enregistré le bruit d'Ingenuity en vol."
+        }
+      ],
+      "anecdotes": [
+        "Ingenuity, qui pèse moins de 2 kg, a fonctionné sur Mars pendant près de trois ans, avant d'être mis à la retraite en janvier 2024 à cause de pales endommagées."
+      ],
+      "wikipedia": "Mars 2020 (mission spatiale)"
+    },
+    "source": "D'après Wikipédia — Mars 2020 (mission spatiale)"
+  },
+  {
+    "id": "astronomie-080",
+    "domain": "astronomie",
+    "subtheme": "Exploration spatiale",
+    "type": "classique",
+    "title": "SpaceX",
+    "subtitle": "Entreprise spatiale américaine, fondée en 2002",
+    "summary": "Fondée en 2002 par Elon Musk, SpaceX s'est donné un but : faire chuter le coût de l'accès à l'espace grâce à des fusées réutilisables. Elle a bousculé un secteur dominé par les agences d'État.\nSa Falcon 9 a été la première fusée orbitale dont le premier étage revient se poser, et son vaisseau Crew Dragon transporte des astronautes pour la NASA depuis 2020.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Au bord de la faillite",
+          "texte": "Les trois premiers tirs de la petite Falcon 1, entre 2006 et 2008, échouent tous, et l'entreprise frôle la ruine. Le quatrième, le 28 septembre 2008, est enfin un succès : SpaceX devient la première société privée à placer en orbite une fusée à ergols liquides de sa conception. En décembre, un contrat de 1,6 milliard de dollars avec la NASA la sauve."
+        },
+        {
+          "titre": "Des fusées qui reviennent",
+          "texte": "En 2012, un cargo Dragon devient le premier vaisseau privé à s'amarrer à l'ISS. En 2015, un premier étage de Falcon 9 réussit à se poser après un lancement orbital ; en 2017, un étage déjà utilisé repart dans l'espace. SpaceX déploie aussi Starlink, une constellation de satellites pour Internet, et développe Starship, la plus grande fusée de l'histoire."
+        }
+      ],
+      "anecdotes": [
+        "Pour le premier vol de la Falcon Heavy, en 2018, SpaceX a envoyé dans l'espace la Tesla Roadster rouge d'Elon Musk, avec au volant un mannequin baptisé Starman."
+      ],
+      "wikipedia": "SpaceX"
+    },
+    "source": "D'après Wikipédia — SpaceX"
+  },
+  {
+    "id": "astronomie-081",
+    "domain": "astronomie",
+    "subtheme": "Exploration spatiale",
+    "type": "classique",
+    "title": "Le programme Artemis",
+    "subtitle": "Programme lunaire de la NASA, lancé en 2017",
+    "summary": "Artemis doit ramener des astronautes sur la Lune pour la première fois depuis Apollo 17, en 1972, et cette fois pour s'y installer durablement, en préparation de futurs voyages vers Mars.\nDécidé par Donald Trump en 2017 et baptisé en 2019, le programme a franchi sa première étape en 2022 avec Artemis I, un vol sans équipage autour de la Lune.",
+    "details": {
+      "sections": [
+        {
+          "titre": "La sœur d'Apollo",
+          "texte": "Dans la mythologie grecque, Artémis, déesse de la Lune, est la sœur jumelle d'Apollon : un clin d'œil au programme des années 1960. Artemis repose sur une fusée géante, le SLS, et sur le vaisseau Orion, hérités du programme Constellation, abandonné en 2010. Leur premier vol, le 16 novembre 2022, envoie une capsule Orion chargée de mannequins autour de la Lune."
+        },
+        {
+          "titre": "Un programme ouvert au privé",
+          "texte": "Contrairement à Apollo, la NASA confie une grande partie du travail à des entreprises : pour l'atterrisseur lunaire, elle choisit le Starship de SpaceX en 2021, puis le Blue Moon de Blue Origin en 2023, pour les mettre en concurrence. L'Europe fournit le module de service d'Orion. La cible : le pôle Sud de la Lune, où de la glace d'eau pourrait aider à bâtir une base."
+        }
+      ],
+      "anecdotes": [
+        "Dès 2020, des pays ont été invités à signer les accords Artemis, qui fixent des règles de bonne conduite pour les activités autour de la Lune."
+      ],
+      "wikipedia": "Programme Artemis"
+    },
+    "source": "D'après Wikipédia — Programme Artemis"
+  },
+  {
+    "id": "astronomie-082",
+    "domain": "astronomie",
+    "subtheme": "Exploration spatiale",
+    "type": "personnage",
+    "title": "Thomas Pesquet",
+    "subtitle": "Astronaute français, né en 1978",
+    "summary": "Né à Rouen en 1978, Thomas Pesquet est le dixième Français parti dans l'espace. Ingénieur, puis pilote de ligne chez Air France, il est retenu en 2009 par l'Agence spatiale européenne parmi 8 413 candidats.\nIl a fait deux longs séjours dans la Station spatiale internationale, en 2016-2017 puis en 2021, et en est devenu le premier commandant français.",
+    "details": {
+      "epoque": "Astronaute de l'Agence spatiale européenne depuis 2009.",
+      "pourquoiCelebre": "Premier Français à commander la Station spatiale internationale, il est l'astronaute européen qui a passé le plus de temps dans l'espace.",
+      "ideesClefs": [
+        "Mission Proxima (novembre 2016 – juin 2017) : six mois à bord de l'ISS, une centaine d'expériences et deux sorties dans l'espace.",
+        "Mission Alpha (avril – novembre 2021) : premier Européen à voler à bord d'un Crew Dragon de SpaceX, quatre sorties dans l'espace.",
+        "Record européen de temps passé en sortie extravéhiculaire : 39 heures et 54 minutes au total."
+      ],
+      "liens": [
+        {
+          "nom": "Peggy Whitson",
+          "relation": "Astronaute américaine, sa coéquipière dans le Soyouz MS-03 qui l'a emmené vers l'ISS en 2016."
+        },
+        {
+          "nom": "Shane Kimbrough",
+          "relation": "Astronaute américain avec qui il a effectué ses sorties dans l'espace en 2017, puis en 2021."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Proxima, le baptême",
+          "texte": "Le 17 novembre 2016, il décolle de Baïkonour, au Kazakhstan, à bord d'un Soyouz. Sa mission s'appelle Proxima, en référence à l'étoile Proxima du Centaure, selon la tradition qui donne aux missions françaises des noms d'étoiles. Il passe six mois dans l'ISS et sort deux fois dans le vide. Très suivi par les médias, ce séjour fait de lui une célébrité en France."
+        },
+        {
+          "titre": "Alpha, le commandement",
+          "texte": "Le 23 avril 2021, il repart, cette fois à bord d'un Crew Dragon de SpaceX. Pendant la mission Alpha, il réalise quatre sorties, notamment pour installer de nouveaux panneaux solaires sur la station. Le 4 octobre 2021, il en prend le commandement. Il rentre sur Terre début novembre, après environ 200 jours en orbite et 134 expériences."
+        }
+      ],
+      "anecdotes": [
+        "Le nom de sa première mission, Proxima, a été trouvé lors d'un concours par un collégien toulousain de 13 ans."
+      ],
+      "wikipedia": "Thomas Pesquet"
+    },
+    "source": "D'après Wikipédia — Thomas Pesquet"
+  },
+  {
+    "id": "astronomie-083",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "Claude Ptolémée",
+    "subtitle": "Astronome et géographe grec d'Alexandrie, IIe siècle",
+    "summary": "Savant grec qui vivait à Alexandrie, dans l'Égypte romaine, au IIe siècle, Claude Ptolémée a rassemblé le savoir astronomique de l'Antiquité dans un traité monumental, l'Almageste.\nSon modèle place la Terre immobile au centre de l'Univers. Il a servi de référence en Europe, dans le monde arabe et à Byzance pendant plus de mille ans, jusqu'à Copernic.",
+    "details": {
+      "epoque": "IIe siècle de notre ère (né vers 100, mort vers 168).",
+      "pourquoiCelebre": "Auteur de l'Almageste, le seul grand traité d'astronomie antique parvenu complet jusqu'à nous, qui a imposé le modèle géocentrique pour des siècles.",
+      "ideesClefs": [
+        "L'Almageste reprend le système des épicycles d'Hipparque et le perfectionne en ajoutant l'équant",
+        "Son catalogue décrit 1 022 étoiles réparties en quarante-huit constellations, ancêtres des nôtres",
+        "Sa Géographie attribue des coordonnées à environ 8 000 lieux d'Europe, d'Asie et d'Afrique"
+      ],
+      "liens": [
+        {
+          "nom": "Nicolas Copernic",
+          "relation": "Son modèle héliocentrique, publié en 1543, a fini par remplacer celui de Ptolémée"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un monde centré sur la Terre",
+          "texte": "Pour Ptolémée, la Terre ne bouge pas et les astres tournent autour d'elle. Pour coller aux observations, chaque planète décrit un petit cercle, l'épicycle, dont le centre parcourt lui-même un grand cercle. Détail moins connu : il ne croyait pas aux sphères de cristal d'Aristote et imaginait les astres se déplaçant librement dans un fluide sans résistance."
+        },
+        {
+          "titre": "Le géographe",
+          "texte": "Dans sa Géographie, Ptolémée estime le tour de la Terre à 180 000 stades, bien moins que les 40 008 km mesurés aujourd'hui. Cette valeur, trop basse d'environ 14 %, se retrouve dans l'Imago mundi de Pierre d'Ailly, un livre qui a inspiré Christophe Colomb. Ses cartes, orientées vers le nord, ont guidé les voyageurs jusqu'au XVIe siècle."
+        }
+      ],
+      "anecdotes": [
+        "Le nom « Almageste » vient de l'arabe : c'est la déformation d'un surnom grec signifiant « la très grande »."
+      ],
+      "wikipedia": "Claude Ptolémée",
+      "oeuvres": [
+        {
+          "titre": "Almageste"
+        },
+        {
+          "titre": "Géographie"
+        },
+        {
+          "titre": "Tetrabiblos"
+        },
+        {
+          "titre": "Harmoniques"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Claude Ptolémée"
+  },
+  {
+    "id": "astronomie-084",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "Tycho Brahe",
+    "subtitle": "Astronome danois, 1546-1601",
+    "summary": "Noble danois du XVIe siècle, Tycho Brahe est le plus grand observateur du ciel d'avant la lunette. Ses mesures, faites à l'œil nu, surpassaient en précision, d'un facteur dix au moins, tout ce qu'on faisait avant lui en Europe.\nIl a prouvé que le ciel pouvait changer, et ses relevés de la planète Mars ont permis à son assistant Johannes Kepler de découvrir les lois du mouvement des planètes.",
+    "details": {
+      "epoque": "Seconde moitié du XVIe siècle.",
+      "pourquoiCelebre": "Il a fait de l'observation précise et systématique la base de l'astronomie, et ses données ont servi à Kepler.",
+      "ideesClefs": [
+        "En 1572, il observe une « nouvelle étoile » (une supernova) et montre qu'elle se trouve bien au-delà de la Lune",
+        "Il prouve que la grande comète de 1577 n'est pas un phénomène de l'atmosphère",
+        "Il propose un système mixte : les planètes tournent autour du Soleil, qui tourne lui-même autour de la Terre immobile"
+      ],
+      "liens": [
+        {
+          "nom": "Johannes Kepler",
+          "relation": "Son assistant à Prague, qui hérite de ses observations à sa mort en 1601"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "L'île de l'astronome",
+          "texte": "Grâce au roi Frédéric II, Tycho obtient l'île de Ven et de quoi y bâtir Uraniborg, premier grand observatoire de l'Europe chrétienne. Il y réunit ateliers d'instruments, imprimerie et étudiants : un vrai centre de recherche avant l'heure. Privé de soutien par le nouveau roi Christian IV, il quitte le Danemark en 1597 et devient l'astronome de l'empereur Rodolphe II, à Prague."
+        },
+        {
+          "titre": "Un nez en métal",
+          "texte": "En 1566, à 20 ans, Tycho se dispute avec un cousin pour savoir lequel des deux est le meilleur mathématicien. L'affaire se règle par un duel à l'épée, dans l'obscurité, et il y perd l'arête du nez. Il porte ensuite une prothèse que l'on disait en or et en argent ; l'analyse de ses restes, exhumés en 2010, a révélé qu'elle était en laiton."
+        }
+      ],
+      "anecdotes": [
+        "Son frère jumeau est mort avant d'être baptisé : le premier texte publié de Tycho, en 1572, est une ode en latin à sa mémoire."
+      ],
+      "wikipedia": "Tycho Brahe",
+      "oeuvres": [
+        {
+          "titre": "De nova stella",
+          "annee": "1573"
+        },
+        {
+          "titre": "Astronomiae instauratae mechanica",
+          "annee": "1598"
+        },
+        {
+          "titre": "Astronomiae instauratae progymnasmata",
+          "annee": "1602"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Tycho Brahe"
+  },
+  {
+    "id": "astronomie-085",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "Johannes Kepler",
+    "subtitle": "Astronome allemand, 1571-1630",
+    "summary": "Johannes Kepler est l'astronome allemand qui a découvert que les planètes ne tournent pas en cercles parfaits autour du Soleil, mais sur des ellipses.\nEn exploitant les mesures très précises de Tycho Brahe, il énonce trois lois qui décrivent leurs mouvements. Isaac Newton s'appuiera sur elles pour bâtir sa théorie de la gravitation universelle.",
+    "details": {
+      "epoque": "Fin du XVIe et début du XVIIe siècle.",
+      "pourquoiCelebre": "Ses trois lois du mouvement des planètes ont transformé l'héliocentrisme de Copernic en un modèle mathématique précis.",
+      "ideesClefs": [
+        "Astronomia nova (1609) publie ses deux premières lois, dont celle des orbites elliptiques",
+        "Sa troisième loi, trouvée en 1618, relie la durée de révolution d'une planète à la taille de son orbite",
+        "Ses Tables rudolphines (1627) prédisent la position des planètes avec une précision inédite"
+      ],
+      "liens": [
+        {
+          "nom": "Tycho Brahe",
+          "relation": "Kepler devient son assistant à Prague en 1600 et hérite de ses observations"
+        },
+        {
+          "nom": "Isaac Newton",
+          "relation": "A utilisé les lois de Kepler pour fonder sa théorie de la gravitation"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une vie d'épreuves",
+          "texte": "Né prématuré, de santé fragile, la vue abîmée par la variole, Kepler est chassé de Graz en 1600 parce qu'il refuse de devenir catholique. Il perd plusieurs enfants et sa première femme. Plus tard, sa mère est accusée de sorcellerie : il passe six ans à la défendre devant les tribunaux, jusqu'à ce qu'elle soit blanchie en 1621. Il meurt dans la misère en 1630."
+        },
+        {
+          "titre": "Le père de la science-fiction",
+          "texte": "Pour faire comprendre la pesanteur, Kepler imagine dans Le Songe un trajet depuis notre planète jusqu'à la Lune : un départ brutal, un poids qui s'efface en chemin, puis l'attraction plus faible de la Lune. Ce récit est souvent vu comme le premier livre de science-fiction. Kepler fonde aussi l'optique moderne et améliore la lunette astronomique de Galilée."
+        }
+      ],
+      "anecdotes": [
+        "À six ans, sa mère l'emmène sur une colline pour admirer la grande comète de 1577."
+      ],
+      "wikipedia": "Johannes Kepler",
+      "oeuvres": [
+        {
+          "titre": "Mysterium cosmographicum",
+          "annee": "1596"
+        },
+        {
+          "titre": "Astronomiae pars optica",
+          "annee": "1604"
+        },
+        {
+          "titre": "Astronomia nova",
+          "annee": "1609"
+        },
+        {
+          "titre": "Harmonices mundi",
+          "annee": "1619"
+        },
+        {
+          "titre": "Epitome astronomiae copernicanae",
+          "annee": "1621"
+        },
+        {
+          "titre": "Tables rudolphines",
+          "annee": "1627"
+        },
+        {
+          "titre": "Le Songe",
+          "annee": "1634"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Johannes Kepler"
+  },
+  {
+    "id": "astronomie-086",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "Edmond Halley",
+    "subtitle": "Astronome anglais, 1656-1742",
+    "summary": "Edmond Halley est l'astronome anglais qui a compris que certaines comètes reviennent à intervalles réguliers. Il annonce le retour de celle de 1682, qui porte depuis son nom.\nTouche-à-tout, il a aussi dressé une carte du ciel austral, financé la publication du chef-d'œuvre de Newton, testé une cloche de plongée et dessiné les premières cartes des vents.",
+    "details": {
+      "epoque": "Fin du XVIIe et début du XVIIIe siècle.",
+      "pourquoiCelebre": "Il a calculé l'orbite de la comète qui porte son nom et prédit son retour, observé en 1758, après sa mort.",
+      "ideesClefs": [
+        "Encore étudiant, il part sur l'île Sainte-Hélène établir le premier catalogue télescopique du ciel austral",
+        "Il paie de sa poche la publication des Principia de Newton, en 1687",
+        "Il devient en 1720 le deuxième astronome royal de Grande-Bretagne"
+      ],
+      "liens": [
+        {
+          "nom": "Isaac Newton",
+          "relation": "Ami proche, dont il a encouragé et financé les Principia"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "La comète qui revient",
+          "texte": "À l'époque, on pense qu'une comète ne passe qu'une fois. Halley, armé de la gravitation de Newton, compare les comètes observées dans le passé et publie en 1705 une étude de leurs orbites. Il y annonce le retour de la comète de 1682. Elle réapparaît comme prévu en 1758, seize ans après sa mort, et reçoit son nom."
+        },
+        {
+          "titre": "Un savant de la mer",
+          "texte": "Vers 1690, Halley descend dans la Tamise avec une cloche de plongée ravitaillée en air par des barils lestés, et y reste plus d'une heure et demie. Quelques années plus tard, il commande un navire, le Paramore, pour étudier le magnétisme terrestre, et il dresse des cartes des vents et des variations de la boussole."
+        }
+      ],
+      "anecdotes": [
+        "Les officiers du Paramore refusaient d'obéir à un civil : il a fallu nommer Halley capitaine temporaire de la Royal Navy."
+      ],
+      "wikipedia": "Edmond Halley"
+    },
+    "source": "D'après Wikipédia — Edmond Halley"
+  },
+  {
+    "id": "astronomie-087",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "William Herschel",
+    "subtitle": "Astronome et compositeur germano-britannique, 1738-1822",
+    "summary": "Musicien allemand installé en Angleterre, William Herschel s'est passionné pour le ciel au point de fabriquer lui-même ses télescopes. En 1781, depuis son jardin de Bath, il découvre Uranus, la première planète trouvée depuis l'Antiquité.\nAvec sa sœur Caroline, il recense des milliers de nébuleuses et d'étoiles doubles, et il découvre en 1800 le rayonnement infrarouge.",
+    "details": {
+      "epoque": "Seconde moitié du XVIIIe siècle et début du XIXe.",
+      "pourquoiCelebre": "Il a découvert Uranus, première planète inconnue des Anciens, ainsi que le rayonnement infrarouge.",
+      "ideesClefs": [
+        "Repère Uranus le 13 mars 1781, d'abord prise pour une comète",
+        "Découvre deux lunes d'Uranus (Titania et Obéron) et deux de Saturne (Mimas et Encelade)",
+        "Montre que de nombreuses étoiles doubles forment de vrais couples liés"
+      ],
+      "liens": [
+        {
+          "nom": "Caroline Herschel",
+          "relation": "Sa sœur et assistante, première femme payée pour un travail scientifique"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "De l'orgue au télescope",
+          "texte": "Fils d'un hautboïste militaire de Hanovre, Herschel gagne sa vie comme musicien en Angleterre : il compose 24 symphonies et devient organiste à Bath. Trop pauvre pour s'offrir un instrument d'astronomie, il polit lui-même des miroirs de métal, parfois 16 heures d'affilée, pendant que Caroline le nourrit pour qu'il n'ait pas à s'arrêter."
+        },
+        {
+          "titre": "Le roi et la planète",
+          "texte": "Herschel veut baptiser sa planète « Astre georgien », en l'honneur du roi George III. Le nom passe mal, surtout en France, où l'on parle de « planète Herschel », et c'est finalement Uranus qui s'impose. Le roi le nomme quand même astronome du roi en 1782, avec une pension qui lui permet de se consacrer entièrement au ciel."
+        }
+      ],
+      "anecdotes": [
+        "En 1787, il crut apercevoir des volcans en éruption sur la partie sombre de la Lune."
+      ],
+      "wikipedia": "William Herschel"
+    },
+    "source": "D'après Wikipédia — William Herschel"
+  },
+  {
+    "id": "astronomie-088",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "Urbain Le Verrier",
+    "subtitle": "Astronome et mathématicien français, 1811-1877",
+    "summary": "Urbain Le Verrier est l'astronome français qui a trouvé Neptune sans regarder le ciel, par le seul calcul, en 1846. Il avait déduit sa position des petites irrégularités de l'orbite d'Uranus.\nDirecteur de l'Observatoire de Paris, il a aussi fondé la météorologie moderne en France, avec un réseau de stations reliées par télégraphe.",
+    "details": {
+      "epoque": "XIXe siècle.",
+      "pourquoiCelebre": "Il a prédit par le calcul l'existence et la position de Neptune, repérée le soir même où sa lettre est arrivée à Berlin.",
+      "ideesClefs": [
+        "Le 23 septembre 1846, Johann Galle trouve Neptune à moins d'un degré de la position calculée",
+        "Il signale en 1859 une anomalie de l'orbite de Mercure, expliquée plus tard par la relativité d'Einstein",
+        "Ses tables des mouvements des planètes servent de référence jusque vers 1912"
+      ],
+      "liens": [
+        {
+          "nom": "John Couch Adams",
+          "relation": "Astronome anglais qui avait mené des calculs semblables, mais sans les publier à temps"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "« Au bout de sa plume »",
+          "texte": "Uranus ne suit pas tout à fait la route prévue par les lois de Newton. Le Verrier suppose qu'une planète inconnue la dérange et passe des mois à calculer sa masse et sa place. Il envoie le résultat à Johann Galle, à Berlin, qui la repère le jour même. Arago résume l'exploit : Le Verrier a découvert cette planète « au bout de sa plume »."
+        },
+        {
+          "titre": "Un patron redouté",
+          "texte": "Nommé directeur de l'Observatoire de Paris en 1854, il le dirige d'une main de fer, au point qu'une soixantaine d'astronomes démissionnent. Renvoyé en 1870, il est rappelé en 1873 après la noyade de son successeur. Après une tempête qui coule 41 navires en mer Noire, il organise un réseau d'observatoires météorologiques pour prévenir les marins."
+        }
+      ],
+      "anecdotes": [
+        "Son nom figure parmi les 72 savants inscrits sur la tour Eiffel."
+      ],
+      "wikipedia": "Urbain Le Verrier"
+    },
+    "source": "D'après Wikipédia — Urbain Le Verrier"
+  },
+  {
+    "id": "astronomie-089",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "Edwin Hubble",
+    "subtitle": "Astronome américain, 1889-1953",
+    "summary": "Edwin Hubble est l'astronome américain qui a agrandi l'Univers. En 1924, il prouve que certaines « nébuleuses » sont en fait d'autres galaxies, situées bien au-delà de la Voie lactée.\nIl montre ensuite que les galaxies s'éloignent d'autant plus vite qu'elles sont lointaines, un indice majeur de l'expansion de l'Univers. Le célèbre télescope spatial porte son nom.",
+    "details": {
+      "epoque": "Première moitié du XXe siècle.",
+      "pourquoiCelebre": "Il a démontré l'existence d'autres galaxies et mesuré le lien entre leur distance et leur vitesse d'éloignement.",
+      "ideesClefs": [
+        "Avec le télescope Hooker du mont Wilson, il repère des céphéides dans la nébuleuse d'Andromède",
+        "Il classe les galaxies d'après leur forme : c'est la séquence de Hubble, toujours utilisée",
+        "En 1929, avec Milton Humason, il établit la loi aujourd'hui appelée loi de Hubble-Lemaître"
+      ],
+      "liens": [
+        {
+          "nom": "Henrietta Swan Leavitt",
+          "relation": "Sa relation entre période et luminosité des céphéides lui a servi à mesurer les distances"
+        },
+        {
+          "nom": "Georges Lemaître",
+          "relation": "Avait prévu dès 1927 le lien entre distance et vitesse, d'où le nom de loi de Hubble-Lemaître"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le Grand Débat tranché",
+          "texte": "Au début des années 1920, beaucoup pensent encore que la Voie lactée constitue tout l'Univers. En mesurant la distance de céphéides situées dans des nébuleuses spirales, Hubble montre qu'elles sont bien trop lointaines pour en faire partie. Il l'annonce fin 1924 : ces nébuleuses sont des galaxies à part entière, des « univers-îles »."
+        },
+        {
+          "titre": "Un sportif devenu astronome",
+          "texte": "Jeune, Hubble brille surtout en sport : athlétisme, baseball, basket. Pour tenir une promesse faite à son père, il étudie le droit à Oxford, puis revient à l'astronomie. Pendant la Seconde Guerre mondiale, il dirige des recherches en balistique pour l'armée. Peu avant sa mort, il est le premier à utiliser le grand télescope Hale du mont Palomar."
+        }
+      ],
+      "anecdotes": [
+        "Ses distances étaient trop petites, parfois d'un facteur sept environ, mais elles restaient proportionnelles aux vraies : sa loi tenait quand même."
+      ],
+      "wikipedia": "Edwin Hubble"
+    },
+    "source": "D'après Wikipédia — Edwin Hubble"
+  },
+  {
+    "id": "astronomie-090",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "Georges Lemaître",
+    "subtitle": "Prêtre et astrophysicien belge, 1894-1966",
+    "summary": "Chanoine catholique et physicien belge, Georges Lemaître est le premier à avoir proposé que l'Univers est né d'un état extrêmement dense : son « atome primitif », ancêtre de la théorie du Big Bang.\nDès 1927, il montre que l'Univers est en expansion et relie la vitesse d'éloignement des galaxies à leur distance, deux ans avant Edwin Hubble.",
+    "details": {
+      "epoque": "XXe siècle.",
+      "pourquoiCelebre": "Père de la théorie du Big Bang, il a le premier relié l'éloignement des galaxies à un Univers en expansion.",
+      "ideesClefs": [
+        "Son article de 1927, écrit en français, décrit un univers « de rayon croissant »",
+        "Sa traduction anglaise de 1931 omet, à sa propre demande, son estimation de la constante de Hubble",
+        "Il préside l'Académie pontificale des sciences à partir de 1960"
+      ],
+      "liens": [
+        {
+          "nom": "Albert Einstein",
+          "relation": "Rencontré au congrès Solvay de 1927, puis à plusieurs reprises aux États-Unis"
+        },
+        {
+          "nom": "Edwin Hubble",
+          "relation": "A confirmé par l'observation, en 1929, la relation que Lemaître avait établie"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Science et foi, sans mélange",
+          "texte": "Ordonné prêtre en 1923, Lemaître refuse de lire la Bible comme un manuel de sciences. Il distingue le « commencement », un fait physique, de la « création », une idée philosophique. En 1951, il fait savoir son désaccord quand le pape Pie XII semble présenter le Big Bang comme un écho du récit de la Genèse."
+        },
+        {
+          "titre": "Un nom moqueur",
+          "texte": "L'expression « Big Bang » vient de l'astronome Fred Hoyle, qui l'emploie avec ironie à la radio en 1949. Le surnom reste. En 1965, déjà très malade, Lemaître apprend la découverte du fond diffus cosmologique, cette trace lumineuse des origines dont il avait pressenti l'existence. Il meurt l'année suivante, à Louvain."
+        }
+      ],
+      "anecdotes": [
+        "Soldat pendant la Première Guerre mondiale, il a raté une promotion pour avoir signalé à son instructeur une erreur de calcul dans le manuel officiel d'artillerie."
+      ],
+      "wikipedia": "Georges Lemaître",
+      "oeuvres": [
+        {
+          "titre": "Un univers homogène de masse constante et de rayon croissant",
+          "annee": "1927"
+        },
+        {
+          "titre": "L'Univers en expansion",
+          "annee": "1933"
+        },
+        {
+          "titre": "L'Hypothèse de l'atome primitif",
+          "annee": "1946"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Georges Lemaître"
+  },
+  {
+    "id": "astronomie-091",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "Henrietta Swan Leavitt",
+    "subtitle": "Astronome américaine, 1868-1921",
+    "summary": "Employée de l'observatoire de Harvard comme « calculatrice », Henrietta Swan Leavitt passait ses journées à mesurer l'éclat des étoiles sur des plaques photographiques.\nEn 1912, elle découvre que les céphéides, des étoiles qui pulsent, sont d'autant plus lumineuses que leur cycle est long. Cette règle est devenue l'outil de base pour mesurer la distance des galaxies.",
+    "details": {
+      "epoque": "Fin du XIXe et début du XXe siècle.",
+      "pourquoiCelebre": "Sa relation entre période et luminosité des céphéides a fourni la première « chandelle standard » de l'astronomie.",
+      "ideesClefs": [
+        "Elle identifie 1 777 étoiles variables dans les nuages de Magellan",
+        "Elle publie un premier constat en 1908, puis confirme la relation en 1912",
+        "Hubble s'appuie sur sa découverte pour prouver que la nébuleuse d'Andromède est une galaxie"
+      ],
+      "liens": [
+        {
+          "nom": "Edwin Hubble",
+          "relation": "A utilisé sa loi pour mesurer la distance d'autres galaxies"
+        },
+        {
+          "nom": "Edward Charles Pickering",
+          "relation": "Directeur de l'observatoire de Harvard, qui l'a chargée d'étudier les étoiles variables"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "L'idée géniale",
+          "texte": "Les étoiles du Petit Nuage de Magellan sont toutes à peu près à la même distance de nous. Donc, si l'une y paraît plus brillante qu'une autre, c'est qu'elle l'est vraiment. En comparant leurs éclats et leurs périodes, Leavitt obtient une règle simple. Il suffit ensuite de connaître la distance d'une céphéide proche pour s'en servir partout comme d'un mètre cosmique."
+        },
+        {
+          "titre": "Une reconnaissance tardive",
+          "texte": "Payée 30 cents de l'heure, devenue peu à peu sourde, Leavitt n'avait pas le droit de se servir des télescopes, interdits aux femmes. Un mathématicien suédois a voulu la proposer pour le prix Nobel. Il a alors appris qu'elle était morte d'un cancer quelques années plus tôt : ce prix n'est jamais décerné à titre posthume."
+        }
+      ],
+      "anecdotes": [
+        "La pièce de théâtre Silent Sky, de Lauren Gunderson, raconte ses années à Harvard."
+      ],
+      "wikipedia": "Henrietta Swan Leavitt"
+    },
+    "source": "D'après Wikipédia — Henrietta Swan Leavitt"
+  },
+  {
+    "id": "astronomie-092",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "Cecilia Payne-Gaposchkin",
+    "subtitle": "Astronome anglo-américaine, 1900-1979",
+    "summary": "En 1925, dans sa thèse, la jeune Cecilia Payne montre que les étoiles sont faites surtout d'hydrogène et d'hélium, et non des mêmes éléments que la Terre. Les grands noms de l'époque refusent d'y croire.\nQuatre ans plus tard, ils doivent lui donner raison. En 1956, elle devient la première femme professeure et cheffe de département à Harvard.",
+    "details": {
+      "epoque": "XXe siècle.",
+      "pourquoiCelebre": "Elle a découvert que l'hydrogène est le principal constituant des étoiles, et donc l'élément le plus abondant de l'Univers.",
+      "ideesClefs": [
+        "Elle relie la classe spectrale des étoiles à leur température grâce à la théorie de l'ionisation de Meghnad Saha",
+        "En 1925, elle est la première à obtenir un doctorat en astronomie au Radcliffe College de Harvard",
+        "Avec son mari Sergei Gaposchkin, elle étudie des millions d'observations d'étoiles variables"
+      ],
+      "liens": [
+        {
+          "nom": "Henry Norris Russell",
+          "relation": "L'astronome qui l'a dissuadée d'affirmer sa découverte, avant d'arriver au même résultat en 1929"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une thèse en avance",
+          "texte": "Russell juge son résultat impossible : Payne écrit donc dans sa thèse que l'abondance d'hydrogène n'est « presque certainement pas réelle ». En 1929, Russell retrouve le même résultat par une autre voie, et c'est souvent à lui qu'on en attribue le mérite. L'astronome Otto Struve qualifiera pourtant ce travail de plus brillante thèse jamais écrite en astronomie."
+        },
+        {
+          "titre": "Des portes fermées",
+          "texte": "Une conférence d'Arthur Eddington sur l'éclipse de 1919 décide de sa vocation. Mais Cambridge ne délivre pas de diplôme aux femmes : malgré ses études, elle n'en reçoit aucun et part en 1923 pour Harvard. Là encore, elle attend des années un poste permanent, obtenu seulement en 1938, puis 1956 pour devenir professeure."
+        }
+      ],
+      "wikipedia": "Cecilia Payne-Gaposchkin",
+      "oeuvres": [
+        {
+          "titre": "Stellar Atmospheres",
+          "annee": "1925"
+        },
+        {
+          "titre": "The Stars of High Luminosity",
+          "annee": "1930"
+        },
+        {
+          "titre": "Variable Stars",
+          "annee": "1938"
+        },
+        {
+          "titre": "Variable Stars and Galactic Structure",
+          "annee": "1954"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Cecilia Payne-Gaposchkin"
+  },
+  {
+    "id": "astronomie-093",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "Carl Sagan",
+    "subtitle": "Astronome et vulgarisateur américain, 1934-1996",
+    "summary": "Astronome américain, Carl Sagan a fait aimer le cosmos à des millions de personnes grâce à sa série télévisée Cosmos, en 1980, et à ses livres.\nChercheur à l'université Cornell, il a participé aux grandes missions de sondes des années 1970 et 1980 et conçu les messages destinés à d'éventuels extraterrestres, emportés par les sondes Pioneer et Voyager.",
+    "details": {
+      "epoque": "Seconde moitié du XXe siècle.",
+      "pourquoiCelebre": "Grand vulgarisateur, auteur et présentateur de la série Cosmos, il a aussi marqué l'exploration du Système solaire.",
+      "ideesClefs": [
+        "Conçoit avec Linda Salzman Sagan la plaque gravée fixée sur les sondes Pioneer",
+        "Participe à la création du disque d'or des sondes Voyager",
+        "Propose la photo « Un point bleu pâle » : la Terre vue de très loin par Voyager 1"
+      ],
+      "liens": [
+        {
+          "nom": "Neil deGrasse Tyson",
+          "relation": "Astrophysicien qu'il a encouragé, et qui a présenté la nouvelle version de Cosmos en 2014"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Cosmos",
+          "texte": "Diffusée en 1980, la série en treize épisodes mêle science, histoire et émerveillement. Sagan y présente notamment son « calendrier cosmique », repris depuis dans de nombreux livres et documentaires. Vue par au moins 500 millions de personnes dans 60 pays, elle remporte deux Emmy Awards, et le livre qui l'accompagne devient un énorme succès de librairie."
+        },
+        {
+          "titre": "Sceptique et engagé",
+          "texte": "Sagan défend l'esprit critique et popularise la maxime : « des affirmations extraordinaires exigent des preuves extraordinaires ». Il critique l'ufologie, alerte sur l'hiver nucléaire et avertit dès 1985 le Congrès américain des dangers des gaz à effet de serre. Il écrit aussi un roman, Contact, porté au cinéma en 1997, quelques mois après sa mort."
+        }
+      ],
+      "anecdotes": [
+        "En 1994, Apple avait donné son nom de code à un projet de Macintosh. Sagan a porté plainte et perdu, mais Apple a rebaptisé le projet « BHA », pour « Butthead Astronomer »."
+      ],
+      "wikipedia": "Carl Sagan",
+      "oeuvres": [
+        {
+          "titre": "The Cosmic Connection",
+          "annee": "1973"
+        },
+        {
+          "titre": "Les Dragons de l'Éden",
+          "annee": "1977"
+        },
+        {
+          "titre": "Cosmos",
+          "annee": "1980"
+        },
+        {
+          "titre": "Contact",
+          "annee": "1985"
+        },
+        {
+          "titre": "Un point bleu pâle",
+          "annee": "1994"
+        },
+        {
+          "titre": "The Demon-Haunted World",
+          "annee": "1995"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Carl Sagan"
+  },
+  {
+    "id": "astronomie-094",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "Hubert Reeves",
+    "subtitle": "Astrophysicien et vulgarisateur franco-québécois, 1932-2023",
+    "summary": "Né à Montréal, Hubert Reeves était astrophysicien au CNRS, spécialiste de la fabrication des éléments chimiques dans l'Univers. Il est surtout connu pour avoir raconté le cosmos au grand public.\nSon livre Patience dans l'azur (1981) a dépassé le million d'exemplaires vendus. À la fin de sa vie, il s'est engagé pour la défense de l'environnement.",
+    "details": {
+      "epoque": "Des années 1960 aux années 2020.",
+      "pourquoiCelebre": "Vulgarisateur très populaire en France et au Québec, il a rendu célèbre l'idée que nous sommes faits de poussières d'étoiles.",
+      "ideesClefs": [
+        "Cosigne en 1971 un article clé (dit « MAR ») sur la formation du lithium, du béryllium et du bore par les rayons cosmiques",
+        "Devient directeur de recherche au CNRS, en France, en 1965",
+        "Préside l'association Humanité et biodiversité de 2001 à 2017"
+      ],
+      "sections": [
+        {
+          "titre": "Poussières d'étoiles",
+          "texte": "Tout part de vacances à Carry-le-Rouet, où Reeves explique le ciel, nuit après nuit, à d'autres vacanciers. Une amie lui suggère de l'écrire. Refusé par une trentaine d'éditeurs, Patience dans l'azur paraît en 1981 et triomphe après son passage à Apostrophes. Suivent Poussières d'étoiles, qui rappelle que nos atomes ont été forgés dans les étoiles, puis L'Heure de s'enivrer."
+        },
+        {
+          "titre": "L'écologiste",
+          "texte": "Au début des années 2000, Reeves s'inquiète des effets de l'activité humaine sur la planète. Il publie Mal de Terre en 2003, donne des conférences mêlant astronomie et écologie et prend la tête d'Humanité et biodiversité. Il meurt à Paris en 2023, à 91 ans ; le Québec salue alors un vulgarisateur hors pair."
+        }
+      ],
+      "anecdotes": [
+        "Le titre Patience dans l'azur est emprunté à un poème de Paul Valéry."
+      ],
+      "wikipedia": "Hubert Reeves",
+      "oeuvres": [
+        {
+          "titre": "Patience dans l'azur",
+          "annee": "1981"
+        },
+        {
+          "titre": "Poussières d'étoiles",
+          "annee": "1984"
+        },
+        {
+          "titre": "L'Heure de s'enivrer",
+          "annee": "1986"
+        },
+        {
+          "titre": "Dernières nouvelles du cosmos",
+          "annee": "1994"
+        },
+        {
+          "titre": "Mal de Terre",
+          "annee": "2003"
+        },
+        {
+          "titre": "Je n'aurai pas le temps",
+          "annee": "2008"
+        }
+      ]
+    },
+    "source": "D'après Wikipédia — Hubert Reeves"
+  },
+  {
+    "id": "astronomie-095",
+    "domain": "astronomie",
+    "subtheme": "Phénomènes",
+    "type": "classique",
+    "title": "Les saisons",
+    "subtitle": "Phénomène astronomique et climatique",
+    "summary": "Les saisons ne viennent pas de la distance au Soleil, mais de l'inclinaison de l'axe de la Terre, d'environ 23° 26′. Selon la position de la Terre sur son orbite, chaque hémisphère reçoit les rayons plus ou moins à la verticale.\nC'est pourquoi l'été de l'hémisphère nord correspond à l'hiver de l'hémisphère sud. Solstices et équinoxes marquent le passage d'une saison à l'autre.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Plus près du Soleil en hiver",
+          "texte": "La Terre frôle son point le plus proche du Soleil vers le 4 janvier, et atteint le plus éloigné vers le 4 juillet : en plein hiver boréal, elle en est donc au plus proche ! La distance ne varie que d'environ 1,6 %. Ce qui compte, c'est la hauteur du Soleil : bas sur l'horizon, ses rayons s'étalent sur une plus grande surface et chauffent moins, et les jours raccourcissent."
+        },
+        {
+          "titre": "Des saisons inégales",
+          "texte": "La Terre va plus vite près du Soleil (c'est la deuxième loi de Kepler) : les saisons n'ont donc pas la même durée. Dans l'hémisphère nord, l'été dure environ 93,7 jours et l'hiver seulement 89 jours. Autre décalage : la chaleur maximale arrive bien après le solstice, vers le 20 juillet en France, à cause de l'inertie thermique des océans."
+        },
+        {
+          "titre": "D'autres découpages",
+          "texte": "Les quatre saisons ne sont pas universelles. L'Égypte antique en comptait trois, liées à la crue du Nil, et les Gaulois deux, une froide et une chaude. Le calendrier chinois en compte cinq, le calendrier hindou six. Entre les tropiques, où le Soleil reste toujours haut, on oppose surtout la période humide à la période sèche."
+        }
+      ],
+      "anecdotes": [
+        "Sur Mars, sans océans et avec une orbite plus allongée, l'écart de température entre le point le plus proche du Soleil et le plus éloigné dépasse 20 °C."
+      ],
+      "wikipedia": "Saison"
+    },
+    "source": "D'après Wikipédia — Saison"
+  },
+  {
+    "id": "astronomie-096",
+    "domain": "astronomie",
+    "subtheme": "Phénomènes",
+    "type": "classique",
+    "title": "Les phases de la Lune",
+    "subtitle": "Aspect changeant de la Lune au fil d'un mois",
+    "summary": "La Lune ne produit pas de lumière : nous voyons sa moitié éclairée par le Soleil sous un angle qui change au fil de son orbite autour de la Terre. D'où ses phases, de la nouvelle lune invisible à la pleine lune.\nLe cycle complet, appelé lunaison, dure environ 29,5 jours. Contrairement à une idée répandue, l'ombre de la Terre n'y joue aucun rôle.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un cycle en huit étapes",
+          "texte": "Nouvelle lune, premier croissant, premier quartier, gibbeuse croissante, pleine lune, gibbeuse décroissante, dernier quartier, dernier croissant : l'ordre ne change jamais. Chaque jour, la Lune se lève environ 50 minutes plus tard que la veille. Au premier quartier, on l'admire surtout le soir ; au dernier quartier, plutôt en fin de nuit."
+        },
+        {
+          "titre": "La Lune est menteuse",
+          "texte": "Dans l'hémisphère nord, une Lune en forme de D est croissante, et une Lune en forme de C décroît : l'inverse de ce que suggèrent les lettres. Dans l'hémisphère sud, tout s'inverse. Quelques jours autour de la nouvelle lune, on devine aussi la partie sombre du disque : c'est la lumière cendrée, la lumière de la Terre renvoyée par la Lune."
+        }
+      ],
+      "anecdotes": [
+        "Une lunaison dure plus qu'un tour de la Lune autour de la Terre (un peu plus de 27 jours), car la Terre a avancé sur son orbite entre-temps."
+      ],
+      "wikipedia": "Phase de la Lune"
+    },
+    "source": "D'après Wikipédia — Phase de la Lune"
+  },
+  {
+    "id": "astronomie-097",
+    "domain": "astronomie",
+    "subtheme": "Phénomènes",
+    "type": "classique",
+    "title": "Les marées",
+    "subtitle": "Montée et descente régulières du niveau de la mer",
+    "summary": "Sur beaucoup de côtes, la mer monte et descend deux fois par jour. Ce va-et-vient est dû surtout à l'attraction de la Lune et, dans une moindre mesure, à celle du Soleil, qui déforment la surface des océans.\nLes marées sont les plus fortes à la pleine lune et à la nouvelle lune, quand les deux astres sont alignés avec la Terre : ce sont les vives-eaux.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Deux bourrelets d'eau",
+          "texte": "La Lune attire davantage le côté de la Terre tourné vers elle que le côté opposé. Combiné à la rotation du couple Terre-Lune autour de son centre de masse, cet écart crée deux renflements d'eau : l'un face à la Lune, l'autre à l'opposé. En tournant sur elle-même, la Terre passe sous ces bourrelets, d'où deux marées hautes espacées d'environ 12 h 25."
+        },
+        {
+          "titre": "Vives-eaux et mortes-eaux",
+          "texte": "À la pleine et à la nouvelle lune, Soleil et Lune agissent dans le même axe : leurs effets s'additionnent. Aux premier et dernier quartiers, ils tirent à angle droit et se contrarient en partie : la marée est faible, ce sont les mortes-eaux. Environ sept jours séparent les deux situations, et les plus fortes marées de l'année tombent vers les équinoxes."
+        }
+      ],
+      "anecdotes": [
+        "La marée montante s'appelle le flux ou flot, la marée descendante le reflux ou jusant.",
+        "Le sol lui-même subit des marées, de quelques centimètres seulement."
+      ],
+      "wikipedia": "Marée"
+    },
+    "source": "D'après Wikipédia — Marée"
+  },
+  {
+    "id": "astronomie-098",
+    "domain": "astronomie",
+    "subtheme": "Phénomènes",
+    "type": "classique",
+    "title": "Les équinoxes",
+    "subtitle": "Deux moments de l'année où le Soleil passe au-dessus de l'équateur",
+    "summary": "Deux fois par an, vers le 20 mars et le 23 septembre, le Soleil passe exactement à la verticale de l'équateur. Ce sont les équinoxes : le jour et la nuit y durent à peu près autant partout sur Terre.\nLe mot vient du latin aequinoctium, « nuit égale ». Dans l'hémisphère nord, l'équinoxe de mars ouvre le printemps et celui de septembre l'automne.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Pas tout à fait égaux",
+          "texte": "Même à l'équinoxe, le jour dure un peu plus que la nuit. Le Soleil n'est pas un point mais un disque, et l'atmosphère courbe ses rayons : on l'aperçoit encore alors qu'il est déjà passé sous l'horizon. À l'équateur, le jour l'emporte ainsi d'environ 13 minutes ; à Londres, de plus de 21 minutes."
+        },
+        {
+          "titre": "Une date de fête",
+          "texte": "L'équinoxe de mars sert de repère à bien des calendriers. Il marque Norouz, le Nouvel An du calendrier persan, et c'est un jour férié au Japon. Pour garder cet équinoxe vers le 21 mars, et donc la date de Pâques fixée d'après lui, le pape Grégoire XIII a réformé le calendrier à la fin du XVIe siècle : c'est notre calendrier grégorien."
+        }
+      ],
+      "anecdotes": [
+        "Aux pôles, l'équinoxe sépare une demi-année de jour continu d'une demi-année de nuit."
+      ],
+      "wikipedia": "Équinoxe"
+    },
+    "source": "D'après Wikipédia — Équinoxe"
+  },
+  {
+    "id": "astronomie-099",
+    "domain": "astronomie",
+    "subtheme": "Phénomènes",
+    "type": "classique",
+    "title": "Les Perséides",
+    "subtitle": "Pluie d'étoiles filantes du mois d'août",
+    "summary": "Chaque été, autour du 12 août, le ciel se remplit d'étoiles filantes : ce sont les Perséides, la pluie de météores la plus populaire de l'année. Au plus fort, on peut en voir une centaine par heure.\nCes traînées lumineuses sont des grains de poussière laissés par la comète Swift-Tuttle, qui brûlent en entrant à grande vitesse dans l'atmosphère.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des poussières de comète",
+          "texte": "En parcourant son orbite d'environ 130 ans, la comète Swift-Tuttle sème des débris, de la taille d'un grain de sable à celle d'un petit pois. Chaque été, la Terre traverse ce nuage. Les grains frappent l'air à près de 60 km/s, s'échauffent et s'illuminent vers 115 km d'altitude, puis s'éteignent vers 90 km."
+        },
+        {
+          "titre": "Les larmes de saint Laurent",
+          "texte": "Les traînées semblent jaillir d'un même point, le radiant, situé dans la constellation de Persée : d'où leur nom. Ce n'est qu'un effet de perspective. On les appelle aussi « larmes de saint Laurent », car elles culminent près de sa fête, le 10 août. Pour bien les voir : un lieu sombre, une nuit sans lune et la seconde moitié de la nuit."
+        }
+      ],
+      "anecdotes": [
+        "Les plus anciennes mentions écrites des Perséides remontent à l'an 36, en Chine."
+      ],
+      "wikipedia": "Perséides"
+    },
+    "source": "D'après Wikipédia — Perséides"
+  },
+  {
+    "id": "astronomie-100",
+    "domain": "astronomie",
+    "subtheme": "Phénomènes",
+    "type": "classique",
+    "title": "Les planètes naines",
+    "subtitle": "Catégorie d'astres créée en 2006",
+    "summary": "Une planète naine tourne autour du Soleil et elle est assez massive pour être presque ronde, mais elle n'a pas fait le vide autour de son orbite, où circulent d'autres corps. La catégorie a été créée en 2006 par l'Union astronomique internationale.\nCinq objets sont officiellement reconnus : Cérès, Pluton, Éris, Hauméa et Makémaké.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Cérès, le précédent",
+          "texte": "L'histoire s'était déjà produite. Découverte en 1801 entre Mars et Jupiter, Cérès est d'abord rangée parmi les planètes, avec d'autres corps voisins. Vers 1850, on compte ainsi 23 « planètes » ! Les astronomes adoptent alors le mot astéroïde pour les plus petits. Pluton, découverte en 1930, connaîtra un sort comparable quand d'autres objets seront trouvés dans sa région."
+        },
+        {
+          "titre": "Éris met le feu aux poudres",
+          "texte": "En 2005 est annoncée Éris, un objet lointain que l'on croit alors un peu plus grand que Pluton ; certains parlent déjà de dixième planète. L'UAI doit trancher. Un premier projet en prévoyait douze, avec Cérès, Éris et Charon. Il est rejeté au profit d'une catégorie intermédiaire : le 24 août 2006, les planètes naines naissent officiellement."
+        }
+      ],
+      "anecdotes": [
+        "En japonais, on les appelle « quasi-planètes »."
+      ],
+      "wikipedia": "Planète naine"
+    },
+    "source": "D'après Wikipédia — Planète naine"
+  },
+  {
+    "id": "astronomie-101",
+    "domain": "astronomie",
+    "subtheme": "Phénomènes",
+    "type": "classique",
+    "title": "Le décalage vers le rouge",
+    "subtitle": "Phénomène lumineux, clé de l'expansion de l'Univers",
+    "summary": "Quand on décompose la lumière d'une galaxie lointaine, ses raies caractéristiques apparaissent déplacées vers le rouge, c'est-à-dire vers les grandes longueurs d'onde. C'est le décalage vers le rouge, ou redshift.\nPlus une galaxie est lointaine, plus ce décalage est grand : c'est la première preuve observée de l'expansion de l'Univers.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Comme pour le son",
+          "texte": "Un son paraît plus aigu quand sa source approche et plus grave quand elle s'éloigne : c'est l'effet Doppler. La lumière se comporte de même, comme l'a proposé Hippolyte Fizeau en 1848 : une source qui s'éloigne rougit, une source qui s'approche bleuit. La galaxie d'Andromède, qui vient vers nous, montre ainsi un décalage vers le bleu."
+        },
+        {
+          "titre": "L'espace qui s'étire",
+          "texte": "Pour les galaxies lointaines, le décalage ne vient pas d'un simple mouvement : c'est l'espace lui-même qui, en se dilatant, étire les ondes lumineuses. Record absolu : le fond diffus cosmologique, rayonnement hérité du Big Bang, est décalé d'un facteur d'environ 1 100. Parti d'environ 3 000 kelvins, il n'en vaut plus que 3 aujourd'hui."
+        }
+      ],
+      "anecdotes": [
+        "L'expression anglaise « red shift » est attestée dès 1923, sous la plume d'Arthur Eddington."
+      ],
+      "wikipedia": "Décalage vers le rouge"
+    },
+    "source": "D'après Wikipédia — Décalage vers le rouge"
   }
 ]

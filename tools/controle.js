@@ -22,7 +22,7 @@ function lireDossier(titre) {
 
 // Texte comparable : minuscules, sans accents, espaces des milliers retirés.
 const plat = s => (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
-  .replace(/(\d)[\s  .](?=\d{3}\b)/g, '$1');
+  .replace(/(\d)[\s  .,](?=\d{3}\b)/g, '$1');
 
 function sourceDe(d) {
   const faits = d.wikidata ? JSON.stringify(d.wikidata.faits) + ' ' + (d.wikidata.description || '') : '';

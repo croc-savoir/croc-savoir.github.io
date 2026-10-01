@@ -441,5 +441,1121 @@
     "bonneReponse": 1,
     "explication": "Thomas Pesquet a commandé l'ISS en 2021, lors de sa deuxième mission de longue durée. Ce n'est pas le premier Français dans l'espace : c'est Jean-Loup Chrétien, en 1982, à bord de la station soviétique Saliout 7. Claudie Haigneré est la première Française dans l'espace (1996).",
     "source": "D'après Wikipédia — Thomas Pesquet"
+  },
+  {
+    "id": "q-astronomie-030",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Selon l'hypothèse la plus admise, comment la Lune s'est-elle formée ?",
+    "choix": [
+      "Après une collision géante entre la jeune Terre et un astre de la taille de Mars",
+      "En étant capturée par la gravité terrestre alors qu'elle passait à proximité",
+      "En même temps que la Terre, à partir du même nuage de gaz et de poussières",
+      "En se détachant de la Terre, qui tournait alors très vite sur elle-même"
+    ],
+    "bonneReponse": 0,
+    "explication": "Peu après sa naissance, la Terre aurait été percutée par Théia, un astre de la taille de Mars. Une partie des débris projetés dans l'espace se serait rassemblée en orbite pour former la Lune, il y a environ 4,5 milliards d'années.",
+    "source": "D'après Wikipédia — Terre"
+  },
+  {
+    "id": "q-astronomie-031",
+    "domain": "astronomie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis l'astre qui contient le moins d'eau de tout le Système solaire.",
+      "Mon nom est celui d'une prêtresse d'Héra, aimée de Zeus.",
+      "Des panaches de soufre peignent mes vastes plaines de couleurs variées.",
+      "Je suis la plus proche de Jupiter parmi les quatre lunes découvertes par Galilée.",
+      "Avec plus de 400 volcans actifs, je suis l'astre le plus agité du Système solaire."
+    ],
+    "reponse": "Io",
+    "explication": "Io, la plus proche des lunes galiléennes, est malaxée en permanence par la gravité de Jupiter. Ce frottement interne fait fondre ses roches et alimente plus de 400 volcans actifs, qui la recouvrent de soufre et ont chassé toute son eau.",
+    "source": "D'après Wikipédia — Satellites galiléens"
+  },
+  {
+    "id": "q-astronomie-032",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "De quoi sont remplis les lacs découverts près des pôles de Titan, la grande lune de Saturne ?",
+    "choix": [
+      "De méthane et d'éthane liquides",
+      "D'eau liquide salée",
+      "D'azote liquide",
+      "De lave en fusion"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sur Titan, où il fait environ -179 °C, l'eau est dure comme du roc. C'est le méthane qui joue son rôle : il forme des nuages, tombe en pluie et remplit des lacs d'hydrocarbures, découverts grâce à la mission Cassini-Huygens.",
+    "source": "D'après Wikipédia — Titan (lune)"
+  },
+  {
+    "id": "q-astronomie-033",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Qu'a découvert la sonde Cassini en 2005 au pôle sud d'Encelade, une petite lune de Saturne ?",
+    "choix": [
+      "Des geysers qui projettent de la vapeur d'eau et des grains de glace",
+      "Des volcans qui crachent de la lave de soufre",
+      "Un immense cratère d'impact qui couvre la moitié de la lune",
+      "Des lacs de méthane liquide"
+    ],
+    "bonneReponse": 0,
+    "explication": "Des fractures surnommées « rayures de tigre » crachent en continu de l'eau, du sel et des molécules organiques. Ces jets trahissent un océan caché sous la glace, et ils alimentent l'anneau E de Saturne, dans lequel Encelade circule.",
+    "source": "D'après Wikipédia — Encelade (lune)"
+  },
+  {
+    "id": "q-astronomie-034",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Les astéroïdes de la ceinture principale sont si serrés qu'une sonde doit zigzaguer entre eux pour la traverser.",
+    "reponse": false,
+    "explication": "C'est une image de film ! Deux astéroïdes voisins sont en moyenne séparés d'environ un million de kilomètres. La matière est si dispersée que de nombreuses sondes ont traversé la ceinture sans le moindre incident.",
+    "source": "D'après Wikipédia — Ceinture d'astéroïdes"
+  },
+  {
+    "id": "q-astronomie-035",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Grâce à quel mathématicien a-t-on retrouvé Cérès, perdue de vue quelques mois après sa découverte en 1801 ?",
+    "choix": [
+      "Carl Friedrich Gauss",
+      "Pierre-Simon de Laplace",
+      "Leonhard Euler",
+      "Joseph-Louis Lagrange"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cérès avait disparu dans l'éclat du Soleil. Le jeune Gauss mit au point une méthode pour calculer une orbite à partir de quelques observations seulement. Le 31 décembre 1801, Cérès fut retrouvée presque à l'endroit qu'il avait prévu.",
+    "source": "D'après Wikipédia — (1) Cérès"
+  },
+  {
+    "id": "q-astronomie-036",
+    "domain": "astronomie",
+    "format": "difference",
+    "question": "Quelle est la différence entre la ceinture de Kuiper et le nuage de Oort ?",
+    "choix": [
+      "La ceinture de Kuiper est un anneau de corps glacés observés au-delà de Neptune ; le nuage de Oort, une sphère supposée, environ mille fois plus lointaine",
+      "La ceinture de Kuiper est faite de rochers et de métaux ; le nuage de Oort, de gaz et de poussières",
+      "La ceinture de Kuiper se trouve entre Mars et Jupiter ; le nuage de Oort, juste après Neptune",
+      "La ceinture de Kuiper n'a jamais été observée ; le nuage de Oort a été photographié par la sonde Voyager"
+    ],
+    "bonneReponse": 0,
+    "explication": "Depuis 1992, on a repéré des milliers d'objets glacés dans la ceinture de Kuiper, Pluton en tête. Le nuage de Oort, lui, reste théorique : ce réservoir de comètes envelopperait tout le Système solaire, environ mille fois plus loin.",
+    "source": "D'après Wikipédia — Ceinture de Kuiper"
+  },
+  {
+    "id": "q-astronomie-037",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "En 1768, le chimiste Antoine Lavoisier a conclu qu'une pierre qu'on disait tombée du ciel n'était qu'une roche terrestre.",
+    "reponse": true,
+    "explication": "Avec deux autres membres de l'Académie des sciences, Lavoisier jugea qu'il s'agissait d'un simple grès. À l'époque, presque tous les savants trouvaient absurde que des pierres viennent de l'espace. Il a fallu attendre le début du XIXe siècle pour que les esprits changent.",
+    "source": "D'après Wikipédia — Météorite"
+  },
+  {
+    "id": "q-astronomie-038",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quelle a été la conséquence d'un violent orage magnétique, provoqué par le Soleil, au Québec en 1989 ?",
+    "choix": [
+      "Une panne d'électricité géante, qui a touché environ six millions de personnes",
+      "Une aurore polaire visible en plein jour dans tout le Canada",
+      "L'arrêt de toutes les liaisons téléphoniques entre l'Europe et l'Amérique",
+      "La chute d'un satellite de communication dans le Saint-Laurent"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les rafales de vent solaire les plus violentes peuvent créer des courants dans les longues lignes électriques et faire surchauffer les transformateurs. En 1989, environ six millions de clients d'Hydro-Québec se sont ainsi retrouvés sans courant.",
+    "source": "D'après Wikipédia — Vent solaire"
+  },
+  {
+    "id": "q-astronomie-039",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Dans quelles circonstances Arno Penzias et Robert Wilson ont-ils découvert le fond diffus cosmologique, en 1964 ?",
+    "choix": [
+      "Par hasard, en cherchant l'origine d'un bruit inexpliqué capté par leur antenne",
+      "En le cherchant volontairement, sur les conseils de Georges Lemaître",
+      "Grâce à un satellite lancé spécialement pour l'étudier",
+      "En photographiant le ciel nocturne avec un télescope géant"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les deux Américains travaillaient aux laboratoires Bell sur une antenne destinée aux communications par satellite. Un faible signal venu de toutes les directions refusait de disparaître : c'était la lumière fossile du Big Bang. Ils ont reçu le prix Nobel en 1978.",
+    "source": "D'après Wikipédia — Fond diffus cosmologique"
+  },
+  {
+    "id": "q-astronomie-040",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quelle observation a révélé, en 1998, l'existence de ce qu'on appelle l'énergie noire ?",
+    "choix": [
+      "Des supernovas lointaines montrant que l'expansion de l'Univers accélère",
+      "La rotation trop rapide des étoiles au bord des galaxies",
+      "Les minuscules taches du fond diffus cosmologique",
+      "La lumière déviée par les amas de galaxies"
+    ],
+    "bonneReponse": 0,
+    "explication": "En mesurant la distance de supernovas lointaines, deux équipes ont découvert que l'expansion de l'Univers accélère, au lieu de ralentir. Une énergie inconnue, qui repousse au lieu d'attirer, représenterait environ 68 % du contenu de l'Univers.",
+    "source": "D'après Wikipédia — Énergie sombre"
+  },
+  {
+    "id": "q-astronomie-041",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Avec l'expansion de l'Univers, les planètes, les étoiles et même les atomes grossissent lentement.",
+    "reponse": false,
+    "explication": "L'expansion n'écarte que les objets très éloignés les uns des autres, comme les galaxies lointaines. À l'intérieur d'un atome, d'une planète ou d'une galaxie, les forces qui les tiennent ensemble l'emportent largement, et leur taille ne change pas.",
+    "source": "D'après Wikipédia — Expansion de l'Univers"
+  },
+  {
+    "id": "q-astronomie-042",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quel est à peu près le rayon de l'Univers observable, cette boule centrée sur nous que la lumière a eu le temps de traverser ?",
+    "choix": [
+      "Environ 46,5 milliards d'années-lumière",
+      "Exactement 13,8 milliards d'années-lumière",
+      "Environ 100 000 années-lumière",
+      "Environ 1 000 milliards d'années-lumière"
+    ],
+    "bonneReponse": 0,
+    "explication": "La lumière la plus ancienne a voyagé 13,8 milliards d'années, mais pendant ce temps l'espace s'est dilaté. Les objets qui l'ont émise sont aujourd'hui à environ 46,5 milliards d'années-lumière, d'où un diamètre de près de 93 milliards.",
+    "source": "D'après Wikipédia — Univers observable"
+  },
+  {
+    "id": "q-astronomie-043",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Qu'est-ce que Galilée révèle sur la Lune dans le Sidereus nuncius, en 1610 ?",
+    "choix": [
+      "Qu'elle est couverte de montagnes et de reliefs",
+      "Qu'elle produit sa propre lumière",
+      "Qu'elle est entourée d'une fine atmosphère",
+      "Qu'elle tourne sur elle-même en une journée"
+    ],
+    "bonneReponse": 0,
+    "explication": "En observant la ligne qui sépare la partie éclairée de la partie sombre, Galilée voit qu'elle est irrégulière : la Lune a des montagnes. C'est un coup dur pour Aristote, qui voyait les astres comme des sphères parfaitement lisses.",
+    "source": "D'après Wikipédia — Sidereus nuncius"
+  },
+  {
+    "id": "q-astronomie-044",
+    "domain": "astronomie",
+    "format": "associer",
+    "question": "Associe chaque astronome à son rôle dans l'histoire de la découverte de Neptune.",
+    "paires": [
+      {
+        "gauche": "Johann Galle",
+        "droite": "L'observe le premier à Berlin, en 1846",
+        "explication": "Il a repéré la planète en moins d'une heure, le soir même où il recevait la lettre de Le Verrier."
+      },
+      {
+        "gauche": "John Couch Adams",
+        "droite": "Mène des calculs semblables en Angleterre",
+        "explication": "Ses calculs, moins précis et jamais publiés à temps, ont nourri une longue querelle entre Anglais et Français."
+      },
+      {
+        "gauche": "James Challis",
+        "droite": "La voit deux fois à Cambridge sans la reconnaître",
+        "explication": "Faute d'une carte du ciel à jour, il ne s'est pas aperçu qu'un de ses points lumineux se déplaçait."
+      },
+      {
+        "gauche": "William Lassell",
+        "droite": "Découvre Triton, sa plus grosse lune",
+        "explication": "Il a trouvé ce satellite dix-sept jours seulement après la découverte de la planète elle-même."
+      }
+    ],
+    "explication": "Neptune a été la première planète trouvée par le calcul avant d'être vue. Mais sa découverte a mobilisé bien des astronomes, en Allemagne comme en Angleterre, et suscité une vive querelle de paternité entre les deux rives de la Manche.",
+    "source": "D'après Wikipédia — Découverte de Neptune"
+  },
+  {
+    "id": "q-astronomie-045",
+    "domain": "astronomie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom officiel, choisi en 2015, signifie « moitié » en latin.",
+      "Je fais le tour de mon étoile en un peu plus de quatre jours.",
+      "Je suis le prototype des planètes appelées « Jupiter chauds ».",
+      "On m'a détectée depuis l'observatoire de Haute-Provence.",
+      "En 1995, je suis devenue la première planète découverte autour d'une étoile semblable au Soleil."
+    ],
+    "reponse": "51 Pegasi b",
+    "explication": "Découverte par Michel Mayor et Didier Queloz, 51 Pegasi b est une géante gazeuse d'environ la moitié de la masse de Jupiter, collée à son étoile. Son nom officiel, Dimidium, rappelle cette masse. Ses découvreurs ont reçu le prix Nobel en 2019.",
+    "source": "D'après Wikipédia — 51 Pegasi b"
+  },
+  {
+    "id": "q-astronomie-046",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Comment les données ayant servi à la première image d'un trou noir ont-elles été rassemblées ?",
+    "choix": [
+      "Sur des disques durs transportés par avion",
+      "Par un satellite relais placé en orbite autour de la Terre",
+      "Par des câbles sous-marins reliant les télescopes",
+      "Par internet, en temps réel, pendant les observations"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les radiotélescopes de l'Event Horizon Telescope produisent bien trop de données pour internet. Les disques durs voyagent donc par avion jusqu'aux centres de calcul. Ceux du pôle Sud, où aucun avion ne se pose en hiver, n'arrivèrent qu'en décembre 2017.",
+    "source": "D'après Wikipédia — Event Horizon Telescope"
+  },
+  {
+    "id": "q-astronomie-047",
+    "domain": "astronomie",
+    "format": "frise",
+    "question": "Remets dans l'ordre ces étapes de l'histoire des ondes gravitationnelles.",
+    "evenements": [
+      {
+        "label": "Einstein prédit leur existence grâce à la relativité générale",
+        "annee": "1916"
+      },
+      {
+        "label": "Un colloque à Chapel Hill tranche : ces ondes sont bien réelles",
+        "annee": "1957"
+      },
+      {
+        "label": "Le pulsar binaire de Hulse et Taylor fournit une preuve indirecte",
+        "annee": "1974"
+      },
+      {
+        "label": "Les détecteurs LIGO captent directement une onde gravitationnelle",
+        "annee": "2015"
+      },
+      {
+        "label": "Weiss, Thorne et Barish reçoivent le prix Nobel de physique",
+        "annee": "2017"
+      }
+    ],
+    "explication": "Prédites par Einstein, longtemps discutées, les ondes gravitationnelles ont attendu un siècle pour être captées. Le signal de septembre 2015 venait de la fusion de deux trous noirs, à 1,3 milliard d'années-lumière de la Terre.",
+    "source": "D'après Wikipédia — Onde gravitationnelle"
+  },
+  {
+    "id": "q-astronomie-048",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Pourquoi l'étoile Polaire semble-t-elle immobile toute la nuit ?",
+    "choix": [
+      "Elle est presque alignée avec l'axe de rotation de la Terre",
+      "C'est l'étoile la plus brillante du ciel",
+      "C'est l'étoile la plus proche de la Terre",
+      "Elle tourne autour de la Terre à la même vitesse que celle-ci"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'étoile Polaire se trouve presque à la verticale du pôle Nord, dans l'axe autour duquel tourne la Terre. Pendant que le ciel semble tourner, elle reste fixe et indique le nord. Elle n'est pourtant que la 48e étoile la plus brillante du ciel.",
+    "source": "D'après Wikipédia — Étoile polaire"
+  },
+  {
+    "id": "q-astronomie-049",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Dans l'Égypte antique, qu'annonçait le retour de Sirius dans le ciel de l'aube ?",
+    "choix": [
+      "La crue du Nil",
+      "Le début de l'hiver",
+      "Une éclipse de Soleil",
+      "La fin des moissons"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après environ 70 jours d'absence, Sirius réapparaissait à l'aube juste avant la crue annuelle du Nil, vitale pour l'agriculture. Les Égyptiens la vénéraient sous le nom de Sopdet, une déesse plus tard associée à Isis.",
+    "source": "D'après Wikipédia — Sirius"
+  },
+  {
+    "id": "q-astronomie-050",
+    "domain": "astronomie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom vient d'une expression arabe qui signifie « la main d'al-Jawzā' ».",
+      "Fin 2019, mon éclat a brutalement chuté à cause d'un voile de poussière.",
+      "Je suis une supergéante rouge, des centaines de fois plus large que le Soleil.",
+      "Je marque l'épaule d'Orion.",
+      "Au Québec, le film Beetlejuice est sorti sous mon nom."
+    ],
+    "reponse": "Bételgeuse",
+    "explication": "Bételgeuse est une supergéante rouge en fin de vie, sur l'épaule d'Orion. Son grand assombrissement de 2019-2020 venait d'une éjection de gaz devenue poussière. Elle finira en supernova, si lumineuse qu'on la verra de chez nous en plein jour.",
+    "source": "D'après Wikipédia — Bételgeuse"
+  },
+  {
+    "id": "q-astronomie-051",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quelle est la dernière supernova observée à l'œil nu dans la Voie lactée ?",
+    "choix": [
+      "Celle de Kepler, en 1604",
+      "Celle de 1054, qui a créé la nébuleuse du Crabe",
+      "SN 1987A",
+      "Celle de Tycho Brahe, en 1572"
+    ],
+    "bonneReponse": 0,
+    "explication": "Johannes Kepler a suivi en 1604 une supernova visible à l'œil nu pendant environ un an. Depuis l'arrivée des télescopes, plus aucune n'a été vue chez nous. SN 1987A, plus récente, a explosé dans le Grand Nuage de Magellan, hors de notre galaxie.",
+    "source": "D'après Wikipédia — Supernova"
+  },
+  {
+    "id": "q-astronomie-052",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quel surnom a reçu le premier pulsar, détecté en 1967 ?",
+    "choix": [
+      "LGM-1, pour « petits hommes verts »",
+      "Le Phare de Cambridge",
+      "L'Horloge cosmique",
+      "Le Cœur battant"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le signal capté par Jocelyn Bell revenait toutes les 1,337 secondes, avec une régularité troublante. L'équipe l'a surnommé LGM-1, « Little Green Men », par plaisanterie. Un second signal, venu d'une autre région du ciel, a écarté l'hypothèse extraterrestre.",
+    "source": "D'après Wikipédia — Pulsar"
+  },
+  {
+    "id": "q-astronomie-053",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "D'où vient le nom des « nébuleuses planétaires » ?",
+    "choix": [
+      "De leur aspect petit et rond, qui les faisait ressembler à des planètes",
+      "Elles donnent naissance à des planètes",
+      "Elles entourent toujours une planète géante",
+      "Elles ont été découvertes par une sonde envoyée vers les planètes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Petites, rondes et assez brillantes, ces nébuleuses ressemblaient à des planètes dans les premiers instruments. Elles n'ont pourtant aucun rapport avec elles : ce sont les couches externes expulsées par une étoile comme le Soleil à la fin de sa vie.",
+    "source": "D'après Wikipédia — Nébuleuse"
+  },
+  {
+    "id": "q-astronomie-054",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "La galaxie d'Andromède est visible à l'œil nu depuis l'hémisphère Nord.",
+    "reponse": true,
+    "explication": "Vrai. Avec une magnitude de 3,4, Andromède se voit à l'œil nu par une nuit sans lune, comme une tache floue plus de six fois plus large que la Lune. Sa lumière a pourtant voyagé environ 2,5 millions d'années pour nous parvenir.",
+    "source": "D'après Wikipédia — Galaxie d'Andromède"
+  },
+  {
+    "id": "q-astronomie-055",
+    "domain": "astronomie",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de la galaxie d'Andromède dans l'ordre.",
+    "evenements": [
+      {
+        "label": "L'astronome perse al-Soufi la décrit comme un « petit nuage »",
+        "annee": "964"
+      },
+      {
+        "label": "Simon Marius l'observe à la lunette",
+        "annee": "1612"
+      },
+      {
+        "label": "Une supernova y est observée, la seule connue dans cette galaxie",
+        "annee": "1885"
+      },
+      {
+        "label": "Edwin Hubble prouve qu'elle est extérieure à la Voie lactée",
+        "annee": "1925"
+      },
+      {
+        "label": "Walter Baade distingue pour la première fois des étoiles en son centre",
+        "annee": "1943"
+      }
+    ],
+    "explication": "Notée dès 964 par al-Soufi, Andromède est observée à la lunette par Simon Marius en 1612. Sa supernova de 1885 passe d'abord pour une simple nova. En 1925, Hubble prouve qu'il s'agit d'une autre galaxie, et Baade y distingue des étoiles en 1943.",
+    "source": "D'après Wikipédia — Galaxie d'Andromède"
+  },
+  {
+    "id": "q-astronomie-056",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "D'où peut-on voir les Nuages de Magellan à l'œil nu ?",
+    "choix": [
+      "Depuis l'hémisphère Sud",
+      "Uniquement depuis l'équateur",
+      "Depuis le pôle Nord",
+      "Nulle part : il faut un télescope"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ces deux galaxies naines, voisines de la Voie lactée, se voient bien depuis l'hémisphère Sud mais restent invisibles des latitudes les plus au nord. Elles doivent leur nom à l'expédition de Magellan (1519-1522), même si les peuples du Sud les connaissaient depuis toujours.",
+    "source": "D'après Wikipédia — Nuages de Magellan"
+  },
+  {
+    "id": "q-astronomie-057",
+    "domain": "astronomie",
+    "format": "associer",
+    "question": "Associe chaque astre à l'un de ses anciens noms ou surnoms.",
+    "paires": [
+      {
+        "gauche": "Les Pléiades",
+        "droite": "La Poussinière",
+        "explication": "Les paysans français y voyaient une poule entourée de ses poussins, comme les Arabes avant eux."
+      },
+      {
+        "gauche": "Sirius",
+        "droite": "L'étoile du Chien",
+        "explication": "Étoile principale du Grand Chien, elle était aussi vue par les Grecs comme le chien du chasseur Orion."
+      },
+      {
+        "gauche": "L'étoile Polaire",
+        "droite": "L'étoile du navire",
+        "explication": "Ce surnom, donné dans l'Angleterre anglo-saxonne du Xe siècle, rappelle son rôle de guide pour les marins."
+      },
+      {
+        "gauche": "La galaxie d'Andromède",
+        "droite": "Le petit nuage",
+        "explication": "C'est ainsi que l'astronome perse al-Soufi la décrivait, au Xe siècle, dans son Livre des étoiles fixes."
+      },
+      {
+        "gauche": "Bételgeuse",
+        "droite": "La main d'al-Jawzā'",
+        "explication": "C'est le sens de son nom arabe d'origine, déformé au Moyen Âge par une erreur de lecture."
+      }
+    ],
+    "explication": "Les astres brillants ont reçu des noms imagés bien avant la science moderne. Au Japon, les Pléiades s'appellent aussi Subaru, d'un verbe qui signifie « se rassembler », et dans la Grèce antique elles étaient les sept filles d'Atlas et de Pléioné.",
+    "source": "D'après Wikipédia — Pléiades (astronomie)"
+  },
+  {
+    "id": "q-astronomie-058",
+    "domain": "astronomie",
+    "format": "difference",
+    "question": "Quelle est la différence entre un pulsar et un quasar ?",
+    "choix": [
+      "Un pulsar est une étoile à neutrons en rotation ; un quasar, le cœur brillant d'une galaxie autour d'un trou noir géant",
+      "Un pulsar est une jeune étoile ; un quasar, une étoile mourante",
+      "Les deux désignent le même objet, observé en radio ou en lumière visible",
+      "Un pulsar est situé hors de notre galaxie ; un quasar, à l'intérieur"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un pulsar est une étoile à neutrons qui tourne vite et balaie l'espace de ses faisceaux, comme un phare. Un quasar est le centre d'une galaxie lointaine, où un trou noir supermassif avale du gaz et brille plus qu'une galaxie entière.",
+    "source": "D'après Wikipédia — Quasar"
+  },
+  {
+    "id": "q-astronomie-059",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Combien pèse environ Sagittarius A*, le trou noir au centre de la Voie lactée ?",
+    "choix": [
+      "Environ 4 millions de masses solaires",
+      "Environ 40 masses solaires",
+      "Environ 4 milliards de masses solaires",
+      "Environ 400 masses solaires"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sagittarius A* pèse environ 4,3 millions de masses solaires, concentrées dans un espace minuscule. Cette masse a été déduite des orbites d'étoiles proches, comme S2, travail qui a valu le prix Nobel de physique 2020 à Reinhard Genzel et Andrea Ghez.",
+    "source": "D'après Wikipédia — Sagittarius A*"
+  },
+  {
+    "id": "q-astronomie-060",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Comment les astronomes détectent-ils la matière noire ?",
+    "choix": [
+      "Par son attraction gravitationnelle",
+      "Par la lumière qu'elle émet",
+      "Par les ondes radio qu'elle produit",
+      "En la photographiant en infrarouge"
+    ],
+    "bonneReponse": 0,
+    "explication": "La matière noire n'émet pas de lumière. On ne la repère que par ses effets gravitationnels : des galaxies qui tournent trop vite, des amas qui tiennent ensemble, ou la lumière déviée autour de l'amas de la Balle. Sa nature reste inconnue.",
+    "source": "D'après Wikipédia — Matière noire"
+  },
+  {
+    "id": "q-astronomie-061",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Un satellite géostationnaire peut rester en permanence au-dessus de Paris.",
+    "reponse": false,
+    "explication": "Faux. Une orbite géostationnaire se trouve forcément au-dessus de l'équateur, à 35 786 km d'altitude. Un satellite dit « au-dessus de l'Europe » est en réalité au-dessus de l'équateur : il est simplement visible depuis l'Europe, où il paraît immobile.",
+    "source": "D'après Wikipédia — Orbite géostationnaire"
+  },
+  {
+    "id": "q-astronomie-062",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Depuis 2012, l'unité astronomique a une valeur fixée exactement, au mètre près.",
+    "reponse": true,
+    "explication": "Vrai. En 2012, l'Union astronomique internationale a fixé l'unité astronomique à exactement 149 597 870 700 mètres. Elle ne dépend donc plus des petites variations de la distance réelle entre la Terre et le Soleil, mais reste proche de leur distance moyenne.",
+    "source": "D'après Wikipédia — Unité astronomique"
+  },
+  {
+    "id": "q-astronomie-063",
+    "domain": "astronomie",
+    "format": "difference",
+    "question": "Quelle est la différence entre un parsec et une année-lumière ?",
+    "choix": [
+      "Le parsec est environ 3,26 fois plus long que l'année-lumière",
+      "Le parsec mesure une durée, l'année-lumière une distance",
+      "Ce sont deux noms de la même distance",
+      "L'année-lumière est environ 3,26 fois plus longue que le parsec"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les deux sont des distances. L'année-lumière est le chemin parcouru par la lumière en un an ; le parsec, défini à partir de la parallaxe des étoiles, en vaut environ 3,26. Les chercheurs préfèrent le parsec, le grand public l'année-lumière.",
+    "source": "D'après Wikipédia — Parsec"
+  },
+  {
+    "id": "q-astronomie-064",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "D'où vient le mot « écliptique » ?",
+    "choix": [
+      "Des éclipses, qui n'ont lieu que lorsque la Lune croise cette ligne",
+      "Du nom de l'astronome qui l'a définie",
+      "D'un mot grec signifiant « ceinture d'étoiles »",
+      "D'un mot latin désignant le printemps"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot signifie « relatif aux éclipses ». La Lune ne croise l'écliptique qu'en deux points, les nœuds. Une éclipse n'est possible que lorsque la Lune, nouvelle ou pleine, se trouve près de l'un d'eux, quand Soleil, Terre et Lune sont alignés.",
+    "source": "D'après Wikipédia — Écliptique"
+  },
+  {
+    "id": "q-astronomie-065",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Comment appelle-t-on les astéroïdes qui accompagnent Jupiter autour de ses points de Lagrange L4 et L5 ?",
+    "choix": [
+      "Les troyens",
+      "Les centaures",
+      "Les galiléens",
+      "Les géocroiseurs"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les points L4 et L5, situés à 60° en avant et en arrière de Jupiter sur son orbite, sont stables. Plus d'un million d'astéroïdes s'y regroupent. On les appelle « troyens », car ils portent des noms de héros de l'Iliade, Grecs d'un côté et Troyens de l'autre.",
+    "source": "D'après Wikipédia — Point de Lagrange"
+  },
+  {
+    "id": "q-astronomie-066",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "À bord de quel engin la chienne Laïka a-t-elle été placée en orbite en 1957 ?",
+    "choix": [
+      "Spoutnik 2",
+      "Spoutnik 1",
+      "Vostok 1",
+      "Luna 2"
+    ],
+    "bonneReponse": 0,
+    "explication": "Laïka décolle le 3 novembre 1957 à bord de Spoutnik 2, un mois après Spoutnik 1. Construit en moins de quatre semaines pour l'anniversaire de la révolution d'Octobre, l'engin ne pouvait pas revenir sur Terre : la chienne était condamnée dès le départ.",
+    "source": "D'après Wikipédia — Laïka"
+  },
+  {
+    "id": "q-astronomie-067",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Laïka a survécu plusieurs jours en orbite avant de mourir faute d'oxygène.",
+    "reponse": false,
+    "explication": "Faux. C'est longtemps ce qu'on a raconté. En 2002, le scientifique Dimitri Malachenkov a révélé que la chienne était morte cinq à sept heures après le lancement, à cause du stress et de la chaleur : une panne avait fait monter la cabine à 40 °C.",
+    "source": "D'après Wikipédia — Laïka"
+  },
+  {
+    "id": "q-astronomie-068",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quelle méthode la NASA a-t-elle choisie pour envoyer des hommes sur la Lune avec Apollo ?",
+    "choix": [
+      "Un module se pose sur la Lune pendant qu'un autre attend en orbite lunaire",
+      "Un vaisseau complet se pose sur la Lune puis en redécolle d'un bloc",
+      "Le vaisseau est assemblé dans une station en orbite terrestre avant le départ",
+      "Deux fusées partent vers la Lune, l'une pour l'aller, l'autre pour le retour"
+    ],
+    "bonneReponse": 0,
+    "explication": "La NASA a retenu le rendez-vous en orbite lunaire : deux astronautes descendent dans le module lunaire, le troisième reste dans le module de commande. Jugée risquée au début, cette méthode défendue par John Houbolt économisait beaucoup de carburant et ne demandait qu'une fusée.",
+    "source": "D'après Wikipédia — Programme Apollo"
+  },
+  {
+    "id": "q-astronomie-069",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quel président américain a lancé le programme Apollo, en 1961 ?",
+    "choix": [
+      "John F. Kennedy",
+      "Dwight D. Eisenhower",
+      "Lyndon B. Johnson",
+      "Richard Nixon"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 25 mai 1961, John F. Kennedy promet au Congrès qu'un Américain marchera sur la Lune avant le terme des années 1960. Il réagit au vol de Youri Gagarine du 12 avril. Assassiné en 1963, il ne verra pas le pari réussi par Apollo 11 en 1969.",
+    "source": "D'après Wikipédia — Programme Apollo"
+  },
+  {
+    "id": "q-astronomie-070",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Pendant Apollo 13, où l'équipage s'est-il réfugié après l'explosion d'un réservoir d'oxygène ?",
+    "choix": [
+      "Dans le module lunaire Aquarius",
+      "Dans le module de service",
+      "Dans la station Skylab",
+      "Dans le troisième étage de la Saturn V"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le module de service étant hors d'usage, les trois astronautes s'installent dans le module lunaire Aquarius, prévu pour deux hommes pendant deux jours. Il les fait vivre quatre jours, le temps de contourner la Lune et de revenir sur Terre le 17 avril 1970.",
+    "source": "D'après Wikipédia — Apollo 13"
+  },
+  {
+    "id": "q-astronomie-071",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Ken Mattingly, écarté d'Apollo 13 à cause d'un risque de rubéole, n'est finalement jamais tombé malade.",
+    "reponse": true,
+    "explication": "Vrai. Exposé à la rubéole et non immunisé, Ken Mattingly est remplacé juste avant le départ par Jack Swigert. Il n'a jamais contracté la maladie, a ainsi manqué la mission la plus dramatique du programme et a volé plus tard sur Apollo 16.",
+    "source": "D'après Wikipédia — Apollo 13"
+  },
+  {
+    "id": "q-astronomie-072",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quelles navettes spatiales américaines ont été perdues en mission ?",
+    "choix": [
+      "Challenger et Columbia",
+      "Discovery et Atlantis",
+      "Endeavour et Challenger",
+      "Columbia et Enterprise"
+    ],
+    "bonneReponse": 0,
+    "explication": "Challenger est détruite en 1986 et Columbia en 2003 : 14 astronautes y perdent la vie. Atlantis, Discovery, Endeavour et le prototype Enterprise, qui n'a jamais été capable d'aller en orbite, sont aujourd'hui exposés dans des musées.",
+    "source": "D'après Wikipédia — Navette spatiale américaine"
+  },
+  {
+    "id": "q-astronomie-073",
+    "domain": "astronomie",
+    "format": "difference",
+    "question": "Quelle est la différence entre la station Mir et les stations Saliout qui l'ont précédée ?",
+    "choix": [
+      "Mir était formée de plusieurs modules assemblés en orbite, les Saliout d'un seul module",
+      "Mir était américaine, les Saliout étaient soviétiques",
+      "Mir n'a jamais reçu d'équipage permanent, contrairement aux Saliout",
+      "Mir tournait autour de la Lune, les Saliout autour de la Terre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les Saliout, lancées à partir de 1971, étaient d'un seul bloc. Mir a été la première station modulaire : autour d'un module central lancé en 1986, six modules spécialisés se sont ajoutés jusqu'en 1996, chacun dédié à un type d'activité.",
+    "source": "D'après Wikipédia — Mir (station spatiale)"
+  },
+  {
+    "id": "q-astronomie-074",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quel problème a frappé le télescope Hubble juste après son lancement, en 1990 ?",
+    "choix": [
+      "Son miroir principal avait été mal poli et les images étaient floues",
+      "Ses panneaux solaires ne se sont jamais déployés",
+      "La fusée l'a placé sur une mauvaise orbite",
+      "Son antenne ne pouvait pas communiquer avec la Terre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le miroir de 2,4 m avait été poli avec une erreur de forme, une aberration qui rendait les images floues. Conçu pour être entretenu dans l'espace, Hubble a été corrigé en 1993 par des astronautes de la navette, lors de la mission STS-61.",
+    "source": "D'après Wikipédia — Hubble (télescope spatial)"
+  },
+  {
+    "id": "q-astronomie-075",
+    "domain": "astronomie",
+    "format": "frise",
+    "question": "Remets dans l'ordre ces étapes de l'histoire des fusées Ariane.",
+    "evenements": [
+      {
+        "label": "Premier vol d'Ariane 1",
+        "annee": "1979"
+      },
+      {
+        "label": "Création de la société Arianespace",
+        "annee": "1980"
+      },
+      {
+        "label": "Premier vol d'Ariane 4",
+        "annee": "1988"
+      },
+      {
+        "label": "Premier vol d'Ariane 5",
+        "annee": "1996"
+      },
+      {
+        "label": "Premier vol d'Ariane 6",
+        "annee": "2024"
+      }
+    ],
+    "explication": "Ariane 1 décolle de Kourou le 24 décembre 1979, et Arianespace est créée l'année suivante pour vendre les lancements. Ariane 4 arrive en 1988, puis Ariane 5, totalement refondue, en 1996. Ariane 6 lui succède en juillet 2024.",
+    "source": "D'après Wikipédia — Ariane (fusée)"
+  },
+  {
+    "id": "q-astronomie-076",
+    "domain": "astronomie",
+    "format": "frise",
+    "question": "Remets dans l'ordre ces étapes de la mission Rosetta.",
+    "evenements": [
+      {
+        "label": "Lancement par une Ariane 5",
+        "annee": "2004"
+      },
+      {
+        "label": "Survol de l'astéroïde Lutèce",
+        "annee": "2010"
+      },
+      {
+        "label": "Atterrissage de Philae sur la comète",
+        "annee": "2014"
+      },
+      {
+        "label": "Rosetta se pose sur la comète, fin de la mission",
+        "annee": "2016"
+      }
+    ],
+    "explication": "Rosetta part le 2 mars 2004 et survole Lutèce en 2010, avant 31 mois de sommeil. Réveillée en janvier 2014, elle rejoint Tchouri et largue Philae le 12 novembre. La mission prend fin le 30 septembre 2016, quand la sonde se pose sur la comète.",
+    "source": "D'après Wikipédia — Rosetta (sonde spatiale)"
+  },
+  {
+    "id": "q-astronomie-077",
+    "domain": "astronomie",
+    "format": "associer",
+    "question": "Associe chaque engin spatial à l'astre qu'il a exploré.",
+    "paires": [
+      {
+        "gauche": "Huygens",
+        "droite": "Titan",
+        "explication": "Cet atterrisseur européen s'est posé sur la plus grande lune de Saturne, après sa séparation de Cassini."
+      },
+      {
+        "gauche": "Rosetta",
+        "droite": "La comète Tchouri",
+        "explication": "La sonde européenne a été la première à tourner autour d'une comète, avant de s'y poser."
+      },
+      {
+        "gauche": "New Horizons",
+        "droite": "Pluton",
+        "explication": "Cette sonde de la NASA a été la première à survoler la planète naine et ses lunes."
+      },
+      {
+        "gauche": "Perseverance",
+        "droite": "Mars",
+        "explication": "Ce rover cherche des traces de vie passée dans le cratère Jezero, un ancien lac."
+      }
+    ],
+    "explication": "Chaque mission a ouvert un monde nouveau : Huygens a réussi le premier atterrissage sur une lune autre que la nôtre, Rosetta a accompagné une comète, New Horizons a dévoilé Pluton, et Perseverance prépare le retour d'échantillons martiens sur Terre.",
+    "source": "D'après Wikipédia — Cassini-Huygens"
+  },
+  {
+    "id": "q-astronomie-078",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Comment la sonde Cassini a-t-elle terminé sa mission, en 2017 ?",
+    "choix": [
+      "En plongeant volontairement dans l'atmosphère de Saturne",
+      "En se posant en douceur sur Titan",
+      "En quittant le Système solaire",
+      "En s'écrasant sur la lune Encelade"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 15 septembre 2017, Cassini a plongé dans Saturne et s'y est désintégrée. La NASA voulait éviter qu'en fin de vie, devenue incontrôlable, elle ne percute et ne contamine une lune comme Titan ou Encelade, où la vie pourrait peut-être exister.",
+    "source": "D'après Wikipédia — Cassini-Huygens"
+  },
+  {
+    "id": "q-astronomie-079",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "La mission Artemis I, lancée en 2022, a emmené quatre astronautes autour de la Lune.",
+    "reponse": false,
+    "explication": "Faux. Artemis I, partie le 16 novembre 2022, était un vol d'essai sans équipage : la capsule Orion n'emportait que des mannequins et des instruments. Elle devait valider la fusée SLS et le vaisseau avant les vols habités du programme.",
+    "source": "D'après Wikipédia — Programme Artemis"
+  },
+  {
+    "id": "q-astronomie-080",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Les noms des lunes de Pluton Nix et Hydre sont en partie un clin d'œil à la sonde New Horizons.",
+    "reponse": true,
+    "explication": "Vrai. Les initiales de Nix et Hydre, N et H, sont celles de New Horizons, et leurs découvreurs les ont choisies pour cette raison. Ces noms ont aussi un lien avec le dieu Pluton dans la mythologie, ce qui convenait aux règles de baptême.",
+    "source": "D'après Wikipédia — New Horizons"
+  },
+  {
+    "id": "q-astronomie-081",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Dans quel cratère martien le rover Perseverance s'est-il posé en 2021 ?",
+    "choix": [
+      "Jezero",
+      "Gale",
+      "Gusev",
+      "Endeavour"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 18 février 2021, Perseverance a atterri dans le cratère Jezero. Ce site a été choisi parce qu'il abritait autrefois un lac permanent, avec des traces de deltas de rivières : un endroit où la vie aurait pu apparaître et laisser des traces.",
+    "source": "D'après Wikipédia — Mars 2020 (mission spatiale)"
+  },
+  {
+    "id": "q-astronomie-082",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "D'où vient le nom des fusées Falcon de l'entreprise SpaceX ?",
+    "choix": [
+      "Du vaisseau Faucon Millenium de Star Wars",
+      "D'un avion de chasse de l'armée américaine",
+      "Du faucon pèlerin, l'oiseau le plus rapide du monde",
+      "Du surnom d'un des ingénieurs fondateurs"
+    ],
+    "bonneReponse": 0,
+    "explication": "La série Falcon doit son nom au Faucon Millenium, le vaisseau de Star Wars. La première, la petite Falcon 1, a connu trois échecs entre 2006 et 2008 avant de réussir, ouvrant la voie à la Falcon 9, dont le premier étage revient se poser.",
+    "source": "D'après Wikipédia — SpaceX"
+  },
+  {
+    "id": "q-astronomie-083",
+    "domain": "astronomie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je joue du saxophone et je parle six langues, dont le russe et le chinois.",
+      "Avant de partir dans l'espace, j'ai piloté des Airbus A320 pour Air France.",
+      "Mes deux missions dans l'espace s'appelaient Proxima et Alpha.",
+      "Je suis le dixième Français à être allé dans l'espace."
+    ],
+    "reponse": "Thomas Pesquet",
+    "explication": "Né à Rouen en 1978, Thomas Pesquet a été ingénieur puis pilote de ligne avant d'être choisi par l'Agence spatiale européenne en 2009. Il a séjourné dans l'ISS en 2016-2017 puis en 2021, et détient le record européen de temps passé en sortie dans l'espace.",
+    "source": "D'après Wikipédia — Thomas Pesquet"
+  },
+  {
+    "id": "q-astronomie-084",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Comment l'astronome Tycho Brahe a-t-il perdu une partie de son nez ?",
+    "choix": [
+      "Lors d'un duel à l'épée",
+      "En tombant de son observatoire",
+      "Brûlé par une expérience d'alchimie",
+      "À la suite d'une maladie"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1566, à 20 ans, Tycho Brahe se bat en duel contre un cousin après une dispute… sur les mathématiques. Il y perd l'arête du nez et porte ensuite une prothèse, que l'on disait en or et en argent mais qui était en laiton.",
+    "source": "D'après Wikipédia — Tycho Brahe"
+  },
+  {
+    "id": "q-astronomie-085",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Selon la première loi de Kepler, quelle forme a l'orbite d'une planète autour du Soleil ?",
+    "choix": [
+      "Une ellipse",
+      "Un cercle parfait",
+      "Une spirale",
+      "Un cercle portant des épicycles"
+    ],
+    "bonneReponse": 0,
+    "explication": "Kepler découvre que les planètes suivent des ellipses, et non les cercles parfaits imaginés depuis l'Antiquité. Il publie ce résultat en 1609 dans Astronomia nova, grâce aux mesures très précises de la planète Mars faites par Tycho Brahe.",
+    "source": "D'après Wikipédia — Johannes Kepler"
+  },
+  {
+    "id": "q-astronomie-086",
+    "domain": "astronomie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Fille de pasteur, je suis née en 1868 dans le Massachusetts.",
+      "À l'observatoire de Harvard, j'étais payée 30 cents de l'heure pour examiner des plaques photographiques.",
+      "Une maladie m'a peu à peu rendue sourde.",
+      "J'ai étudié des milliers d'étoiles variables dans les nuages de Magellan.",
+      "J'ai découvert la relation entre la période et la luminosité des céphéides."
+    ],
+    "reponse": "Henrietta Swan Leavitt",
+    "explication": "Henrietta Swan Leavitt a montré en 1912 que les céphéides les plus lumineuses ont les cycles les plus longs. Cette règle a permis de mesurer la distance des galaxies, et Hubble s'en est servi. Morte en 1921, elle n'a jamais pu recevoir le prix Nobel.",
+    "source": "D'après Wikipédia — Henrietta Swan Leavitt"
+  },
+  {
+    "id": "q-astronomie-087",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Qu'a démontré Edwin Hubble en 1924 en observant des céphéides dans la nébuleuse d'Andromède ?",
+    "choix": [
+      "Qu'elle est une galaxie située hors de la Voie lactée",
+      "Qu'elle est un nuage de gaz de notre Galaxie",
+      "Qu'elle tourne autour de la Voie lactée",
+      "Qu'elle abrite un trou noir géant"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'éclat des céphéides révèle leur distance. Hubble a ainsi calculé que la nébuleuse d'Andromède était bien trop lointaine pour appartenir à la Voie lactée. Il a prouvé l'existence d'autres galaxies et tranché le « Grand Débat » sur la taille de l'Univers.",
+    "source": "D'après Wikipédia — Edwin Hubble"
+  },
+  {
+    "id": "q-astronomie-088",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Qu'a découvert Cecilia Payne en 1925, dans sa thèse sur la composition des étoiles ?",
+    "choix": [
+      "Qu'elles sont faites surtout d'hydrogène et d'hélium",
+      "Qu'elles ont la même composition que la croûte terrestre",
+      "Qu'elles sont faites surtout de fer",
+      "Qu'elles contiennent surtout du carbone"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cecilia Payne montre que l'hydrogène et l'hélium dominent dans les étoiles. On croyait alors qu'elles ressemblaient chimiquement à la Terre, et Henry Norris Russell la pousse à minimiser son résultat… avant de le retrouver lui-même en 1929.",
+    "source": "D'après Wikipédia — Cecilia Payne-Gaposchkin"
+  },
+  {
+    "id": "q-astronomie-089",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quelle série documentaire de 1980 Carl Sagan a-t-il coécrite et présentée ?",
+    "choix": [
+      "Cosmos",
+      "Contact",
+      "Voyager",
+      "Apollo"
+    ],
+    "bonneReponse": 0,
+    "explication": "Diffusée en 1980, Cosmos raconte en treize épisodes l'histoire de l'Univers et de la science. Elle a été vue par au moins 500 millions de personnes dans 60 pays. Une nouvelle version, présentée par Neil deGrasse Tyson, est sortie en 2014.",
+    "source": "D'après Wikipédia — Carl Sagan"
+  },
+  {
+    "id": "q-astronomie-090",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quel livre d'Hubert Reeves, paru en 1981, a lancé sa carrière de vulgarisateur ?",
+    "choix": [
+      "Patience dans l'azur",
+      "Poussières d'étoiles",
+      "L'Heure de s'enivrer",
+      "Mal de Terre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Refusé par une trentaine d'éditeurs, Patience dans l'azur paraît en 1981 et triomphe après l'émission Apostrophes : plus d'un million d'exemplaires vendus. Son titre vient d'un poème de Paul Valéry. Poussières d'étoiles suit en 1984.",
+    "source": "D'après Wikipédia — Hubert Reeves"
+  },
+  {
+    "id": "q-astronomie-091",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Dans l'hémisphère nord, que fait la Lune quand elle a la forme d'un D ?",
+    "choix": [
+      "Elle croît, vers la pleine lune",
+      "Elle décroît, vers la nouvelle lune",
+      "Elle vient d'être pleine",
+      "Elle est en train d'être éclipsée"
+    ],
+    "bonneReponse": 0,
+    "explication": "D'où le dicton « la Lune est menteuse » : en forme de D, elle croît ; en forme de C, elle décroît. L'astuce ne vaut que dans l'hémisphère nord : dans l'hémisphère sud, l'aspect de la Lune est inversé et la règle ne marche plus.",
+    "source": "D'après Wikipédia — Phase de la Lune"
+  },
+  {
+    "id": "q-astronomie-092",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "De quelle comète proviennent les poussières qui forment les Perséides ?",
+    "choix": [
+      "Swift-Tuttle",
+      "La comète de Halley",
+      "Hale-Bopp",
+      "Shoemaker-Levy 9"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les Perséides sont des débris de la comète Swift-Tuttle, découverte en 1862. Chaque été, la Terre traverse leur nuage : les grains brûlent dans l'atmosphère et deviennent des étoiles filantes. Le lien entre la comète et ces météores a été établi par Giovanni Schiaparelli.",
+    "source": "D'après Wikipédia — Perséides"
+  },
+  {
+    "id": "q-astronomie-093",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Que nous apprend un décalage vers le bleu dans la lumière d'une galaxie ?",
+    "choix": [
+      "Qu'elle se rapproche de nous",
+      "Qu'elle s'éloigne de nous",
+      "Qu'elle est riche en hydrogène",
+      "Qu'elle est très jeune"
+    ],
+    "bonneReponse": 0,
+    "explication": "Par effet Doppler, la lumière d'une source qui approche est décalée vers le bleu, celle d'une source qui s'éloigne vers le rouge. La plupart des galaxies montrent un décalage vers le rouge, signe de l'expansion, mais la galaxie d'Andromède, elle, vient vers nous.",
+    "source": "D'après Wikipédia — Décalage vers le rouge"
+  },
+  {
+    "id": "q-astronomie-094",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Dans l'Almageste, Ptolémée place le Soleil immobile au centre de l'Univers.",
+    "reponse": false,
+    "explication": "Faux : le modèle de Ptolémée est géocentrique, avec la Terre immobile au centre et des épicycles pour expliquer la marche des planètes. Il a fait autorité pendant plus de mille ans, jusqu'à ce que Copernic place le Soleil au centre, en 1543.",
+    "source": "D'après Wikipédia — Claude Ptolémée"
+  },
+  {
+    "id": "q-astronomie-095",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Urbain Le Verrier a aussi prédit une planète, Vulcain, qui serait plus proche du Soleil que Mercure.",
+    "reponse": true,
+    "explication": "Vrai : pour expliquer une anomalie de l'orbite de Mercure, Le Verrier imagine une planète cachée près du Soleil, baptisée Vulcain. On ne l'a jamais trouvée : l'anomalie a été expliquée plus tard par la relativité générale d'Einstein.",
+    "source": "D'après Wikipédia — Urbain Le Verrier"
+  },
+  {
+    "id": "q-astronomie-096",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "C'est Georges Lemaître lui-même qui a inventé l'expression « Big Bang ».",
+    "reponse": false,
+    "explication": "Faux : Lemaître parlait d'« atome primitif ». L'expression « Big Bang » a été lancée par l'astronome Fred Hoyle en 1949, lors d'une émission de radio, pour se moquer de cette théorie. Le surnom ironique est pourtant resté.",
+    "source": "D'après Wikipédia — Georges Lemaître"
+  },
+  {
+    "id": "q-astronomie-097",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Le jour d'un équinoxe, le lever du Soleil a lieu presque pile à l'est.",
+    "reponse": true,
+    "explication": "Vrai : à l'équinoxe, le Soleil passe à la verticale de l'équateur ; il se lève presque plein est et se couche presque plein ouest. Le jour et la nuit ont alors presque la même durée, d'où le nom latin aequinoctium, « nuit égale ».",
+    "source": "D'après Wikipédia — Équinoxe"
+  },
+  {
+    "id": "q-astronomie-098",
+    "domain": "astronomie",
+    "format": "difference",
+    "question": "Quelle est la différence entre une marée de vives-eaux et une marée de mortes-eaux ?",
+    "choix": [
+      "Les vives-eaux, de forte amplitude, ont lieu quand Soleil, Terre et Lune sont alignés ; les mortes-eaux, faibles, aux quartiers de Lune",
+      "Les vives-eaux ont lieu le jour, les mortes-eaux la nuit",
+      "Les vives-eaux se produisent en été, les mortes-eaux en hiver",
+      "Les vives-eaux concernent les océans, les mortes-eaux les mers fermées"
+    ],
+    "bonneReponse": 0,
+    "explication": "À la pleine et à la nouvelle lune, les attractions de la Lune et du Soleil s'additionnent : la mer monte très haut et descend très bas. Aux premier et dernier quartiers, elles se contrarient : les marées sont faibles. Environ sept jours séparent les deux.",
+    "source": "D'après Wikipédia — Marée"
+  },
+  {
+    "id": "q-astronomie-099",
+    "domain": "astronomie",
+    "format": "associer",
+    "question": "Associe chaque planète naine à ce qui la caractérise.",
+    "paires": [
+      {
+        "gauche": "Cérès",
+        "droite": "Seule planète naine de la ceinture d'astéroïdes",
+        "explication": "Découverte en 1801 entre Mars et Jupiter, elle a d'abord été considérée comme une planète."
+      },
+      {
+        "gauche": "Pluton",
+        "droite": "Prototype des planètes naines situées au-delà de Neptune",
+        "explication": "Découverte en 1930, elle a pu être pesée précisément grâce à sa lune Charon, trouvée en 1978."
+      },
+      {
+        "gauche": "Éris",
+        "droite": "Sa découverte, en 2005, a relancé le débat",
+        "explication": "On la croyait un peu plus grande que Pluton, et certains l'appelaient déjà la dixième planète."
+      },
+      {
+        "gauche": "Makémaké",
+        "droite": "Reconnue planète naine en 2008",
+        "explication": "Avec Hauméa, elle a rejoint en 2008 les trois premières planètes naines désignées par l'UAI."
+      }
+    ],
+    "explication": "L'Union astronomique internationale reconnaît cinq planètes naines : Cérès, Pluton, Éris, Hauméa et Makémaké. D'autres objets lointains, comme Gonggong, Quaoar ou Sedna, pourraient les rejoindre, mais vérifier leur forme est difficile.",
+    "source": "D'après Wikipédia — Planète naine"
+  },
+  {
+    "id": "q-astronomie-100",
+    "domain": "astronomie",
+    "format": "frise",
+    "question": "Remets dans l'ordre ces étapes de la vie de William Herschel.",
+    "evenements": [
+      {
+        "label": "Il quitte Hanovre pour s'installer en Angleterre",
+        "annee": "1757"
+      },
+      {
+        "label": "Il devient organiste de la chapelle octogonale de Bath",
+        "annee": "1766"
+      },
+      {
+        "label": "Il découvre la planète Uranus",
+        "annee": "1781"
+      },
+      {
+        "label": "Il découvre Titania et Obéron, deux lunes d'Uranus",
+        "annee": "1787"
+      },
+      {
+        "label": "Il découvre le rayonnement infrarouge",
+        "annee": "1800"
+      }
+    ],
+    "explication": "Musicien de métier, Herschel a été hautboïste puis organiste avant de se tourner vers le ciel. La découverte d'Uranus en 1781 le rend célèbre du jour au lendemain ; il trouve ensuite des lunes d'Uranus et de Saturne, puis l'infrarouge en 1800.",
+    "source": "D'après Wikipédia — William Herschel"
   }
 ]

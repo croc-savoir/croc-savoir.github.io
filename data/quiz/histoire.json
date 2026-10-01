@@ -463,5 +463,1147 @@
     "bonneReponse": 0,
     "explication": "Au XVe siècle, Florence, riche du commerce et de la banque, devient le cœur de la Renaissance grâce au mécénat de la famille Médicis. Brunelleschi y construit la coupole de la cathédrale, et Botticelli, Léonard de Vinci et Michel-Ange y travaillent.",
     "source": "D'après Wikipédia — Renaissance italienne"
+  },
+  {
+    "id": "q-histoire-030",
+    "domain": "histoire",
+    "format": "associer",
+    "question": "Associe chaque souverain au monument qu'il a fait construire.",
+    "paires": [
+      {
+        "gauche": "Ramsès II",
+        "droite": "Les temples d'Abou Simbel",
+        "explication": "En Nubie, Ramsès II fait creuser les temples d'Abou Simbel, dont l'un est associé à son épouse Néfertari."
+      },
+      {
+        "gauche": "Justinien Ier",
+        "droite": "La basilique Sainte-Sophie",
+        "explication": "À Constantinople, Justinien fait bâtir Sainte-Sophie, chef-d'œuvre de l'art byzantin."
+      },
+      {
+        "gauche": "Louis IX",
+        "droite": "La Sainte-Chapelle",
+        "explication": "À Paris, Saint Louis fait élever la Sainte-Chapelle pour abriter des reliques de la Passion du Christ."
+      },
+      {
+        "gauche": "Qin Shi Huang",
+        "droite": "Un mausolée gardé par une armée de terre cuite",
+        "explication": "Près de Xi'an, le premier empereur de Chine repose dans un tombeau gardé par des milliers de soldats en argile."
+      }
+    ],
+    "explication": "De l'Égypte à la Chine, les grands souverains ont laissé des monuments pour affirmer leur pouvoir ou leur foi. Abou Simbel, Sainte-Sophie, la Sainte-Chapelle et l'armée de terre cuite comptent parmi les plus visités au monde aujourd'hui.",
+    "source": "D'après Wikipédia — Louis IX"
+  },
+  {
+    "id": "q-histoire-031",
+    "domain": "histoire",
+    "format": "vrai-faux",
+    "affirmation": "Le Code de Hammurabi est le plus ancien recueil de lois connu.",
+    "reponse": false,
+    "explication": "Faux. On l'a cru lors de sa découverte, en 1902, mais des recueils plus anciens ont été retrouvés depuis, comme le Code d'Ur-Nammu, rédigé vers 2100 av. J.-C. Le Code de Hammurabi reste en revanche le plus complet de la Mésopotamie.",
+    "source": "D'après Wikipédia — Code de Hammurabi"
+  },
+  {
+    "id": "q-histoire-032",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Contre quel peuple Ramsès II livre-t-il la bataille de Qadesh ?",
+    "choix": [
+      "Les Hittites",
+      "Les Perses",
+      "Les Nubiens",
+      "Les Assyriens"
+    ],
+    "bonneReponse": 0,
+    "explication": "Vers 1274 av. J.-C., Ramsès II affronte à Qadesh, en Syrie, l'armée hittite de Muwatalli II. Tombé dans une embuscade, il redresse la situation, mais la bataille se termine sans vainqueur net, malgré la propagande du pharaon qui la présente comme un triomphe.",
+    "source": "D'après Wikipédia — Ramsès II"
+  },
+  {
+    "id": "q-histoire-033",
+    "domain": "histoire",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon premier nom signifiait « image vivante d'Aton ».",
+      "J'ai rétabli le culte du dieu Amon et abandonné la capitale Amarna.",
+      "Je suis mort vers l'âge de dix-huit ans.",
+      "Howard Carter a découvert ma tombe en 1922.",
+      "Mon masque funéraire est devenu un symbole de l'Égypte ancienne."
+    ],
+    "reponse": "Toutânkhamon",
+    "explication": "Toutânkhamon, sans doute fils d'Akhenaton, devient pharaon enfant et règne une dizaine d'années. Peu important en son temps, il doit sa gloire à sa tombe, retrouvée en 1922 avec sa momie et plus de cinq mille objets.",
+    "source": "D'après Wikipédia — Toutânkhamon"
+  },
+  {
+    "id": "q-histoire-034",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quelle langue Cléopâtre est-elle la seule de sa dynastie à avoir apprise ?",
+    "choix": [
+      "L'égyptien",
+      "Le grec",
+      "Le latin",
+      "Le perse"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les Ptolémées, d'origine macédonienne, gouvernaient l'Égypte en grec sans apprendre la langue du pays. Cléopâtre est la seule de la dynastie connue pour avoir parlé égyptien. Selon Plutarque, elle maîtrisait aussi l'araméen, le mède ou l'hébreu.",
+    "source": "D'après Wikipédia — Cléopâtre VII"
+  },
+  {
+    "id": "q-histoire-035",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quelle cité envoie des soldats aider Athènes à Marathon, en 490 av. J.-C. ?",
+    "choix": [
+      "Platées",
+      "Sparte",
+      "Corinthe",
+      "Thèbes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Seul un petit contingent de Platées rejoint les Athéniens. Appelés à l'aide, les Spartiates célèbrent une fête religieuse qui leur interdit de partir avant la pleine lune. La victoire est donc presque entièrement athénienne, et elle fait grandir le prestige de la cité.",
+    "source": "D'après Wikipédia — Bataille de Marathon"
+  },
+  {
+    "id": "q-histoire-036",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Dans quelle bataille Hannibal est-il finalement vaincu par Scipion, en 202 av. J.-C. ?",
+    "choix": [
+      "Zama",
+      "Cannes",
+      "Trasimène",
+      "La Trébie"
+    ],
+    "bonneReponse": 0,
+    "explication": "À Zama, en Afrique, Scipion bat Hannibal en 202 av. J.-C., ce qui met fin à la deuxième guerre punique. Cannes, le lac Trasimène et La Trébie sont au contraire ses grandes victoires en Italie, remportées après la traversée des Alpes.",
+    "source": "D'après Wikipédia — Hannibal Barca"
+  },
+  {
+    "id": "q-histoire-037",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Où Vercingétorix inflige-t-il un échec à Jules César en 52 av. J.-C. ?",
+    "choix": [
+      "Gergovie",
+      "Alésia",
+      "Bibracte",
+      "Lutèce"
+    ],
+    "bonneReponse": 0,
+    "explication": "À Gergovie, en pays arverne, les Romains subissent un revers qui manque de pousser César à quitter la Gaule. Quelques mois plus tard, assiégé à Alésia, Vercingétorix doit pourtant se rendre, en septembre 52 av. J.-C.",
+    "source": "D'après Wikipédia — Vercingétorix"
+  },
+  {
+    "id": "q-histoire-038",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quel titre le Sénat accorde-t-il à Octave en 27 av. J.-C. ?",
+    "choix": [
+      "Augustus",
+      "Dictateur perpétuel",
+      "Roi",
+      "Consul à vie"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 27 av. J.-C., le Sénat donne à Octave le titre d'Augustus, « le vénéré ». Pour ne pas passer pour un roi, il se présente comme le princeps, le « premier citoyen ». Le titre de dictateur perpétuel avait été celui de César, assassiné en 44 av. J.-C.",
+    "source": "D'après Wikipédia — Auguste"
+  },
+  {
+    "id": "q-histoire-039",
+    "domain": "histoire",
+    "format": "vrai-faux",
+    "affirmation": "Louis IX est le seul roi de France à avoir été canonisé.",
+    "reponse": true,
+    "explication": "Vrai. Mort en 1270 près de Tunis, pendant la huitième croisade, Louis IX est canonisé en 1297 par le pape Boniface VIII sous le nom de saint Louis. Aucun autre roi de France n'a été proclamé saint par l'Église catholique.",
+    "source": "D'après Wikipédia — Louis IX"
+  },
+  {
+    "id": "q-histoire-040",
+    "domain": "histoire",
+    "format": "vrai-faux",
+    "affirmation": "Pompéi a été détruite par une coulée de lave du Vésuve.",
+    "reponse": false,
+    "explication": "Faux. En 79, Pompéi a été ensevelie sous 4 à 6 mètres de cendres et de pierres ponces. Cette épaisse couche l'a protégée des pillages et explique son incroyable état de conservation, révélé par les fouilles lancées en 1748.",
+    "source": "D'après Wikipédia — Pompéi"
+  },
+  {
+    "id": "q-histoire-041",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quelle découverte de 1974 a rendu célèbre le tombeau de Qin Shi Huang ?",
+    "choix": [
+      "Une armée de soldats en terre cuite",
+      "Une bibliothèque de livres en bambou",
+      "Un trésor de pièces d'or",
+      "Une momie parfaitement conservée"
+    ],
+    "bonneReponse": 0,
+    "explication": "Près de Xi'an, les fouilles ont mis au jour des milliers de soldats en terre cuite grandeur nature, gardiens du tombeau du premier empereur de Chine. Chaque statue porte une coiffure et un équipement qui indiquent son rang et son unité.",
+    "source": "D'après Wikipédia — Qin Shi Huang"
+  },
+  {
+    "id": "q-histoire-042",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quel prénom des rois de France vient du nom de Clovis ?",
+    "choix": [
+      "Louis",
+      "Charles",
+      "Philippe",
+      "Henri"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nom francique de Clovis, Hlodowig, « glorieux au combat », a été transcrit en latin Chlodovechus, puis Ludovicus. C'est cette forme qui a donné Louis, le prénom de nombreux rois de France, et Ludwig en allemand.",
+    "source": "D'après Wikipédia — Clovis Ier"
+  },
+  {
+    "id": "q-histoire-043",
+    "domain": "histoire",
+    "format": "difference",
+    "question": "Quelle est la différence entre les Vikings et les Varègues ?",
+    "choix": [
+      "Les Varègues sont des Vikings actifs à l'est, vers la Russie et Byzance",
+      "Les Varègues sont des Slaves qui combattaient les Vikings",
+      "Les Varègues sont les Vikings installés en Normandie",
+      "Les Varègues sont les Vikings partis vers l'Islande"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot Varègues désigne surtout les Scandinaves venus de Suède qui descendaient les fleuves d'Europe de l'Est. Ils commerçaient jusqu'à Constantinople, où certains formaient la garde varègue de l'empereur byzantin.",
+    "source": "D'après Wikipédia — Vikings"
+  },
+  {
+    "id": "q-histoire-044",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quel grand recueil juridique est réalisé sous le règne de Justinien ?",
+    "choix": [
+      "Le Corpus juris civilis",
+      "Le Code civil",
+      "La loi des Douze Tables",
+      "La Magna Carta"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sous la direction du juriste Tribonien, Justinien fait compiler l'ensemble du droit romain : le Code, publié en 529, le Digeste, en 533, les Institutes et les Novelles. Ce Corpus juris civilis reste à la base du droit civil de nombreux pays.",
+    "source": "D'après Wikipédia — Justinien Ier"
+  },
+  {
+    "id": "q-histoire-045",
+    "domain": "histoire",
+    "format": "frise",
+    "question": "Remets ces étapes de la vie de Gengis Khan dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Naissance de Temüjin (date la plus admise)",
+        "annee": "1162"
+      },
+      {
+        "label": "Il prend le titre de Gengis Khan",
+        "annee": "1206"
+      },
+      {
+        "label": "Prise de Zhongdu, l'actuelle Pékin",
+        "annee": "1215"
+      },
+      {
+        "label": "Invasion de l'Empire khwarazmien",
+        "annee": "1219"
+      },
+      {
+        "label": "Mort en combattant les Xia occidentaux",
+        "annee": "1227"
+      }
+    ],
+    "explication": "Né vers 1162, Temüjin unifie les tribus de la steppe et devient Gengis Khan en 1206. Il conquiert ensuite le nord de la Chine, puis l'Asie centrale, avant de mourir en 1227. Son fils Ögedei lui succède en 1229.",
+    "source": "D'après Wikipédia — Gengis Khan"
+  },
+  {
+    "id": "q-histoire-046",
+    "domain": "histoire",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis devenue duchesse à treize ans, à la mort de mon père.",
+      "J'ai suivi mon premier mari à la deuxième croisade.",
+      "Mon second mari m'a tenue captive après une révolte de nos fils.",
+      "J'ai été reine de France, puis reine d'Angleterre.",
+      "Je suis la mère de Richard Cœur de Lion."
+    ],
+    "reponse": "Aliénor d'Aquitaine",
+    "explication": "Aliénor d'Aquitaine épouse Louis VII en 1137, puis Henri Plantagenêt en 1152, juste après l'annulation de son premier mariage. Héritière d'un immense duché, elle reste influente jusqu'à sa mort en 1204, vers l'âge de 80 ans.",
+    "source": "D'après Wikipédia — Aliénor d'Aquitaine"
+  },
+  {
+    "id": "q-histoire-047",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quel roi d'Angleterre doit accepter la Grande Charte en 1215 ?",
+    "choix": [
+      "Jean sans Terre",
+      "Richard Cœur de Lion",
+      "Henri II",
+      "Guillaume le Conquérant"
+    ],
+    "bonneReponse": 0,
+    "explication": "Affaibli par la perte de ses terres françaises et la défaite de Bouvines en 1214, Jean sans Terre doit sceller la charte à Runnymede, le 15 juin 1215. Il obtient vite du pape son annulation, et la guerre contre les barons reprend.",
+    "source": "D'après Wikipédia — Magna Carta"
+  },
+  {
+    "id": "q-histoire-048",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quel roi de France fait arrêter les Templiers en 1307 ?",
+    "choix": [
+      "Philippe le Bel",
+      "Saint Louis",
+      "Philippe Auguste",
+      "Charles V"
+    ],
+    "bonneReponse": 0,
+    "explication": "C'est Philippe IV le Bel. En 1307, il fait arrêter les Templiers du royaume, qui avouent sous la torture des crimes imaginaires. Sous sa pression, le pape Clément V dissout l'ordre en 1312.",
+    "source": "D'après Wikipédia — Ordre du Temple"
+  },
+  {
+    "id": "q-histoire-049",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quel sultan ottoman s'empare de Constantinople en 1453 ?",
+    "choix": [
+      "Mehmed II",
+      "Soliman le Magnifique",
+      "Mourad II",
+      "Bayezid Ier"
+    ],
+    "bonneReponse": 0,
+    "explication": "Mehmed II, devenu sultan à 19 ans, prend la ville le 29 mai 1453 après un siège de 53 jours. Il y gagne le surnom de « Conquérant » et fait de Constantinople sa capitale. Mourad II était son père.",
+    "source": "D'après Wikipédia — Chute de Constantinople"
+  },
+  {
+    "id": "q-histoire-050",
+    "domain": "histoire",
+    "format": "vrai-faux",
+    "affirmation": "Léonard de Vinci a passé les dernières années de sa vie en France, à l'invitation de François Ier.",
+    "reponse": true,
+    "explication": "Vrai. Le roi installe Léonard au Clos Lucé, près du château d'Amboise, où l'artiste vit de 1516 à sa mort en 1519. Il avait apporté La Joconde, restée ensuite en France : elle est aujourd'hui au Louvre.",
+    "source": "D'après Wikipédia — François Ier (roi de France)"
+  },
+  {
+    "id": "q-histoire-051",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Dans quelle ville Henri IV est-il sacré en 1594 ?",
+    "choix": [
+      "Chartres",
+      "Reims",
+      "Saint-Denis",
+      "Paris"
+    ],
+    "bonneReponse": 0,
+    "explication": "Henri IV est sacré à Chartres, et non à Reims comme le veut la tradition : Reims est alors aux mains de la Ligue catholique. Il s'était converti au catholicisme l'année précédente, à Saint-Denis.",
+    "source": "D'après Wikipédia — Henri IV (roi de France)"
+  },
+  {
+    "id": "q-histoire-052",
+    "domain": "histoire",
+    "format": "qui-suis-je",
+    "indices": [
+      "Ma devise latine signifiait « je vois et je me tais ».",
+      "J'ai été enfermée à la tour de Londres sous le règne de ma demi-sœur.",
+      "Sous mon règne, l'Invincible Armada espagnole a échoué en 1588.",
+      "Fille d'Henri VIII et d'Anne Boleyn, on m'a surnommée la « Reine Vierge »."
+    ],
+    "reponse": "Élisabeth Ire",
+    "explication": "Élisabeth Ire règne 44 ans, de 1558 à 1603. Prudente et rusée, elle installe l'Église anglicane et déjoue les complots. Sans enfant, elle est la dernière souveraine de la dynastie Tudor.",
+    "source": "D'après Wikipédia — Élisabeth Ire (reine d'Angleterre)"
+  },
+  {
+    "id": "q-histoire-053",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Comment s'appelait l'interprète indigène qui accompagna Hernán Cortés au Mexique ?",
+    "choix": [
+      "Malintzin, dite la Malinche",
+      "Pocahontas",
+      "Sacagawea",
+      "Anacaona"
+    ],
+    "bonneReponse": 0,
+    "explication": "Offerte aux Espagnols en 1519, Malintzin parlait le maya et le nahuatl, la langue des Aztèques. Interprète et conseillère de Cortés, elle joua un rôle majeur dans la conquête. Elle lui donna un fils, Martín.",
+    "source": "D'après Wikipédia — Hernán Cortés"
+  },
+  {
+    "id": "q-histoire-054",
+    "domain": "histoire",
+    "format": "vrai-faux",
+    "affirmation": "Jacques Cartier a fondé la ville de Québec.",
+    "reponse": false,
+    "explication": "Faux. Cartier explore la région dès les années 1530 et hiverne près du village iroquoien de Stadaconé, mais la France s'en désintéresse ensuite. Québec est fondée en 1608 par Samuel de Champlain, envoyé par Henri IV.",
+    "source": "D'après Wikipédia — Jacques Cartier"
+  },
+  {
+    "id": "q-histoire-055",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quel fut le premier port négrier de la traite atlantique ?",
+    "choix": [
+      "Rio de Janeiro",
+      "Nantes",
+      "Liverpool",
+      "Bordeaux"
+    ],
+    "bonneReponse": 0,
+    "explication": "C'est Rio de Janeiro, devant Liverpool et Nantes. Près de la moitié des déportés faisaient la traversée en « droiture », vers le Brésil notamment, sans détour par l'Europe ni circuit triangulaire.",
+    "source": "D'après Wikipédia — Commerce triangulaire"
+  },
+  {
+    "id": "q-histoire-056",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quelle ville Pierre le Grand fonde-t-il en 1703 ?",
+    "choix": [
+      "Saint-Pétersbourg",
+      "Moscou",
+      "Arkhangelsk",
+      "Kiev"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pierre Ier fonde Saint-Pétersbourg en 1703 sur les bords de la Neva, face à la Baltique. Surnommée la « fenêtre sur l'Occident », elle remplace Moscou comme capitale en 1712 et le reste jusqu'en 1918.",
+    "source": "D'après Wikipédia — Pierre Ier le Grand"
+  },
+  {
+    "id": "q-histoire-057",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quelle devise latine le philosophe Kant donne-t-il aux Lumières ?",
+    "choix": [
+      "Sapere aude",
+      "Carpe diem",
+      "Cogito ergo sum",
+      "Fiat lux"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sapere aude, « ose savoir ». Pour Kant, les Lumières sont la sortie d'un état de tutelle : chacun doit trouver le courage de penser par lui-même. Cogito ergo sum est une formule de Descartes, qui a beaucoup influencé le mouvement.",
+    "source": "D'après Wikipédia — Lumières (philosophie)"
+  },
+  {
+    "id": "q-histoire-058",
+    "domain": "histoire",
+    "format": "associer",
+    "question": "Associe chaque penseur des Lumières à ce qui l'a rendu célèbre.",
+    "paires": [
+      {
+        "gauche": "John Locke",
+        "droite": "Les droits naturels de l'individu",
+        "explication": "Dans ses Traités du gouvernement civil, il fonde la propriété sur le travail de chacun."
+      },
+      {
+        "gauche": "Jean-Jacques Rousseau",
+        "droite": "Le contrat social",
+        "explication": "Il conçoit la loi comme un accord réciproque entre les hommes, garant de leur liberté."
+      },
+      {
+        "gauche": "Isaac Newton",
+        "droite": "La gravitation universelle",
+        "explication": "Ses Principia de 1687 expliquent le mouvement des planètes par une seule loi."
+      },
+      {
+        "gauche": "Buffon",
+        "droite": "Un âge de la Terre bien plus long que la Bible",
+        "explication": "En proposant 74 000 ans pour la Terre, il est sommé de se rétracter par la Sorbonne."
+      }
+    ],
+    "explication": "Les Lumières mêlent science et philosophie : la réussite de Newton pousse à chercher aussi des lois pour la société. Locke et Rousseau en tirent une nouvelle vision de la liberté, tandis que Buffon refuse d'expliquer par Dieu ce que la science peut comprendre.",
+    "source": "D'après Wikipédia — Lumières (philosophie)"
+  },
+  {
+    "id": "q-histoire-059",
+    "domain": "histoire",
+    "format": "difference",
+    "question": "Quelle est la différence entre le 2 et le 4 juillet 1776 aux États-Unis ?",
+    "choix": [
+      "Le 2, le Congrès vote l'indépendance ; le 4, il adopte la Déclaration rédigée par Jefferson",
+      "Le 2, la guerre d'indépendance commence ; le 4, elle se termine",
+      "Le 2, Jefferson signe seul la Déclaration ; le 4, le roi George III l'accepte",
+      "Le 2, la France reconnaît les États-Unis ; le 4, la Grande-Bretagne fait de même"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Congrès vote la rupture le 2 juillet, puis adopte la Déclaration le 4. John Adams pensait que le 2 serait fêté, mais c'est le 4 qui est devenu le Jour de l'Indépendance. La France ne reconnaît les États-Unis qu'en 1778.",
+    "source": "D'après Wikipédia — Déclaration d'indépendance des États-Unis"
+  },
+  {
+    "id": "q-histoire-060",
+    "domain": "histoire",
+    "format": "frise",
+    "question": "Remets ces étapes de la vie de Louis XVI dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Mariage avec Marie-Antoinette",
+        "annee": "1770"
+      },
+      {
+        "label": "Il devient roi à la mort de Louis XV",
+        "annee": "1774"
+      },
+      {
+        "label": "Réunion des états généraux",
+        "annee": "1789"
+      },
+      {
+        "label": "Arrestation à Varennes",
+        "annee": "1791"
+      },
+      {
+        "label": "Exécution place de la Révolution",
+        "annee": "1793"
+      }
+    ],
+    "explication": "Marié à quinze ans, roi à dix-neuf, Louis XVI voit son pouvoir basculer en 1789. La fuite manquée de 1791 ruine sa crédibilité ; renversé en 1792, il est guillotiné le 21 janvier 1793.",
+    "source": "D'après Wikipédia — Louis XVI"
+  },
+  {
+    "id": "q-histoire-061",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quel surnom péjoratif donnait-on à Marie-Antoinette, accusée de ruiner le royaume ?",
+    "choix": [
+      "Madame Déficit",
+      "La Reine Margot",
+      "La Reine Vierge",
+      "Madame Royale"
+    ],
+    "bonneReponse": 0,
+    "explication": "On la surnommait « Madame Déficit », car on lui reprochait la crise financière du pays, ou encore « l'Autrichienne ». Madame Royale était le titre de sa fille, Marie-Thérèse ; la reine Margot était l'épouse d'Henri IV.",
+    "source": "D'après Wikipédia — Marie-Antoinette d'Autriche"
+  },
+  {
+    "id": "q-histoire-062",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Qui reconnaît Louis XVI pendant la fuite de Varennes, en juin 1791 ?",
+    "choix": [
+      "Jean-Baptiste Drouet, maître de poste",
+      "Le marquis de La Fayette",
+      "Axel de Fersen",
+      "Le marquis de Bouillé"
+    ],
+    "bonneReponse": 0,
+    "explication": "Drouet, maître de poste de Sainte-Menehould, reconnaît le roi, peut-être grâce à son portrait sur un assignat. La famille royale est arrêtée à Varennes. Fersen avait organisé la fuite, et Bouillé attendait le roi à Montmédy.",
+    "source": "D'après Wikipédia — Fuite de Varennes"
+  },
+  {
+    "id": "q-histoire-063",
+    "domain": "histoire",
+    "format": "vrai-faux",
+    "affirmation": "La période de la Terreur a aussi vu la première abolition de l'esclavage par la France.",
+    "reponse": true,
+    "explication": "Vrai. Malgré la répression, la période voit la première abolition de l'esclavage et une Constitution prévoyant le suffrage universel masculin, qui ne fut jamais appliquée. Le mot « Terreur » s'est imposé après la chute de Robespierre.",
+    "source": "D'après Wikipédia — Terreur (Révolution française)"
+  },
+  {
+    "id": "q-histoire-064",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quel ministère Danton reçoit-il après la chute de la monarchie, en août 1792 ?",
+    "choix": [
+      "La Justice",
+      "La Guerre",
+      "L'Intérieur",
+      "Les Finances"
+    ],
+    "bonneReponse": 0,
+    "explication": "Danton devient ministre de la Justice du gouvernement provisoire. Face à l'invasion, il appelle le 2 septembre 1792 à « l'audace » pour sauver la France. Il sera guillotiné en avril 1794 après avoir réclamé la fin de la Terreur.",
+    "source": "D'après Wikipédia — Georges Jacques Danton"
+  },
+  {
+    "id": "q-histoire-065",
+    "domain": "histoire",
+    "format": "frise",
+    "question": "Remets ces étapes de la vie d'Henri IV dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Naissance au château de Pau",
+        "annee": "1553"
+      },
+      {
+        "label": "Mariage avec Marguerite de Valois, suivi de la Saint-Barthélemy",
+        "annee": "1572"
+      },
+      {
+        "label": "Il devient roi de France",
+        "annee": "1589"
+      },
+      {
+        "label": "Signature de l'édit de Nantes",
+        "annee": "1598"
+      },
+      {
+        "label": "Assassinat par Ravaillac",
+        "annee": "1610"
+      }
+    ],
+    "explication": "Protestant, Henri hérite de la couronne en 1589, quand Henri III est tué par un moine ligueur. Il se convertit en 1593, met fin aux guerres de Religion avec l'édit de Nantes en 1598, puis meurt poignardé à Paris en 1610.",
+    "source": "D'après Wikipédia — Henri IV (roi de France)"
+  },
+  {
+    "id": "q-histoire-066",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quel pape assiste au sacre de Napoléon à Notre-Dame de Paris, en décembre 1804 ?",
+    "choix": [
+      "Pie VII",
+      "Pie VI",
+      "Léon XIII",
+      "Grégoire XVI"
+    ],
+    "bonneReponse": 0,
+    "explication": "C'est Pie VII qui officie à Notre-Dame le 2 décembre 1804. Napoléon lui refuse une entrée solennelle dans Paris et organise une rencontre « fortuite » en forêt de Fontainebleau. Pendant la cérémonie, le pape a, selon un témoin, l'air d'une victime résignée.",
+    "source": "D'après Wikipédia — Sacre de Napoléon Ier"
+  },
+  {
+    "id": "q-histoire-067",
+    "domain": "histoire",
+    "format": "vrai-faux",
+    "affirmation": "Lors de son sacre, Napoléon reçoit la couronne des mains du pape.",
+    "reponse": false,
+    "explication": "Faux. Napoléon refuse de tenir sa couronne de qui que ce soit : il la prend lui-même sur l'autel et s'en coiffe, puis couronne Joséphine agenouillée. Le pape se contente de bénir les insignes. La scène est restée l'image la plus célèbre de la journée.",
+    "source": "D'après Wikipédia — Sacre de Napoléon Ier"
+  },
+  {
+    "id": "q-histoire-068",
+    "domain": "histoire",
+    "format": "associer",
+    "question": "Associe chaque empereur présent à Austerlitz à son pays.",
+    "paires": [
+      {
+        "gauche": "Napoléon Ier",
+        "droite": "France",
+        "explication": "Sacré un an plus tôt jour pour jour, il commande la Grande Armée et remporte la victoire."
+      },
+      {
+        "gauche": "François Ier",
+        "droite": "Autriche",
+        "explication": "Empereur d'Autriche et du Saint-Empire, il conseillait la prudence avant la bataille."
+      },
+      {
+        "gauche": "Alexandre Ier",
+        "droite": "Russie",
+        "explication": "Le tsar impose l'attaque immédiate et tombe dans le piège tendu par Napoléon."
+      }
+    ],
+    "explication": "Le 2 décembre 1805, les trois souverains assistent en personne aux combats, d'où le surnom de « bataille des Trois Empereurs ». Battue, l'Autriche signe la paix de Presbourg le 26 décembre et quitte la coalition.",
+    "source": "D'après Wikipédia — Bataille d'Austerlitz"
+  },
+  {
+    "id": "q-histoire-069",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Sous quel autre nom connaît-on le Code civil promulgué en 1804 ?",
+    "choix": [
+      "Code Napoléon",
+      "Code noir",
+      "Code Justinien",
+      "Code Portalis"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Code civil des Français est aussi appelé Code Napoléon, car Bonaparte a imposé son adoption et présidé de nombreuses séances. Il a pourtant été rédigé par quatre juristes, dont Portalis. Très modifié, il reste le socle du droit civil français.",
+    "source": "D'après Wikipédia — Code civil (France)"
+  },
+  {
+    "id": "q-histoire-070",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quel fleuve la Grande Armée franchit-elle le 24 juin 1812 pour envahir la Russie ?",
+    "choix": [
+      "Le Niémen",
+      "La Berezina",
+      "Le Danube",
+      "La Vistule"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Grande Armée passe le Niémen dans la nuit du 23 au 24 juin 1812. La Berezina, elle, est le théâtre d'un passage dramatique pendant la retraite. Partie avec des centaines de milliers d'hommes, l'armée revient presque anéantie.",
+    "source": "D'après Wikipédia — Campagne de Russie"
+  },
+  {
+    "id": "q-histoire-071",
+    "domain": "histoire",
+    "format": "qui-suis-je",
+    "indices": [
+      "Toute ma vie, j'ai menti sur mon âge pour paraître plus jeune.",
+      "Mon premier mari a été guillotiné sous la Terreur, et j'ai moi-même été emprisonnée aux Carmes.",
+      "C'est mon second mari qui m'a donné le prénom sous lequel on me connaît.",
+      "J'ai été impératrice des Français de 1804 à 1809, avant un divorce faute d'héritier.",
+      "Née en Martinique, je me suis retirée au château de Malmaison."
+    ],
+    "reponse": "Joséphine de Beauharnais",
+    "explication": "Née Rose de Tascher de La Pagerie, Joséphine épouse d'abord Alexandre de Beauharnais, puis le général Bonaparte, qui la rebaptise. Impératrice en 1804, elle est répudiée en 1809 et finit sa vie à Malmaison, entourée de ses collections d'art.",
+    "source": "D'après Wikipédia — Joséphine de Beauharnais"
+  },
+  {
+    "id": "q-histoire-072",
+    "domain": "histoire",
+    "format": "vrai-faux",
+    "affirmation": "L'expression « Cent-Jours » désignait d'abord le temps passé par Louis XVIII loin de Paris.",
+    "reponse": true,
+    "explication": "Vrai. Le préfet Chabrol de Volvic l'emploie en accueillant le roi à son retour, en évoquant les cent jours de son absence. Le compte était d'ailleurs faux : il s'en était écoulé 110. L'expression a ensuite servi à désigner le retour de Napoléon.",
+    "source": "D'après Wikipédia — Cent-Jours"
+  },
+  {
+    "id": "q-histoire-073",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quel homme politique est l'artisan du décret d'abolition de l'esclavage du 27 avril 1848 ?",
+    "choix": [
+      "Victor Schœlcher",
+      "Victor Hugo",
+      "Alphonse de Lamartine",
+      "Jules Ferry"
+    ],
+    "bonneReponse": 0,
+    "explication": "Victor Schœlcher, sous-secrétaire d'État aux colonies, préside la commission qui prépare l'émancipation. Le décret qu'il porte libère 251 019 personnes dans les colonies françaises, 46 ans après que Bonaparte a rétabli l'esclavage.",
+    "source": "D'après Wikipédia — Décret d'abolition de l'esclavage du 27 avril 1848"
+  },
+  {
+    "id": "q-histoire-074",
+    "domain": "histoire",
+    "format": "frise",
+    "question": "Remets ces événements de la guerre de Sécession dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Élection d'Abraham Lincoln à la présidence",
+        "annee": "1860"
+      },
+      {
+        "label": "Attaque de Fort Sumter par les confédérés",
+        "annee": "1861"
+      },
+      {
+        "label": "Défaite du général Lee à Gettysburg",
+        "annee": "1863"
+      },
+      {
+        "label": "Reddition de Lee à Appomattox",
+        "annee": "1865"
+      }
+    ],
+    "explication": "L'élection de Lincoln en 1860 déclenche la sécession du Sud, et la guerre commence à Fort Sumter en avril 1861. Gettysburg, en juillet 1863, rend l'initiative au Nord. La reddition de Lee, le 9 avril 1865, scelle la défaite de la Confédération.",
+    "source": "D'après Wikipédia — Guerre de Sécession"
+  },
+  {
+    "id": "q-histoire-075",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Où Abraham Lincoln est-il mortellement blessé, le 14 avril 1865 ?",
+    "choix": [
+      "Au théâtre Ford, à Washington",
+      "À la Maison-Blanche",
+      "À Gettysburg",
+      "À Richmond"
+    ],
+    "bonneReponse": 0,
+    "explication": "Lincoln est abattu au théâtre Ford par John Wilkes Booth, un partisan confédéré, cinq jours après la reddition de Lee. Il meurt le lendemain. C'est le premier président des États-Unis assassiné, et le pays entier prend le deuil.",
+    "source": "D'après Wikipédia — Abraham Lincoln"
+  },
+  {
+    "id": "q-histoire-076",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Combien de temps la Commune de Paris a-t-elle duré ?",
+    "choix": [
+      "72 jours",
+      "Cent jours",
+      "Deux ans",
+      "Trois semaines"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Commune dure 72 jours, du soulèvement du 18 mars 1871 à la fin de la « Semaine sanglante », le 28 mai. Pendant ce temps, elle décide notamment la séparation de l'Église et de l'État et l'interdiction du travail des enfants.",
+    "source": "D'après Wikipédia — Commune de Paris"
+  },
+  {
+    "id": "q-histoire-077",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quel surnom vaut à la reine Victoria le mariage de ses neuf enfants dans toute l'Europe ?",
+    "choix": [
+      "La grand-mère de l'Europe",
+      "La reine de fer",
+      "La mère des nations",
+      "L'impératrice du monde"
+    ],
+    "bonneReponse": 0,
+    "explication": "Mariés à des princes et princesses de tout le continent, ses neuf enfants font d'elle  la « grand-mère de l'Europe ». Reine de 1837 à 1901, elle a aussi donné son nom à l'ère victorienne.",
+    "source": "D'après Wikipédia — Victoria (reine)"
+  },
+  {
+    "id": "q-histoire-078",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quel surnom donne-t-on à Otto von Bismarck ?",
+    "choix": [
+      "Le chancelier de fer",
+      "Le Tigre",
+      "Le Vieux Fritz",
+      "Le Kaiser"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sa politique réaliste et sa poigne lui valent le surnom de « chancelier de fer ». Ministre-président de Prusse dès 1862, il unifie l'Allemagne et devient en 1871 le premier chancelier de l'Empire allemand, jusqu'en 1890.",
+    "source": "D'après Wikipédia — Otto von Bismarck"
+  },
+  {
+    "id": "q-histoire-079",
+    "domain": "histoire",
+    "format": "vrai-faux",
+    "affirmation": "Alfred Dreyfus est reconnu innocent dès son second procès, à Rennes en 1899.",
+    "reponse": false,
+    "explication": "Faux. À Rennes, Dreyfus est de nouveau condamné, à dix ans de détention, avant d'accepter la grâce du président Loubet. Son innocence n'est reconnue qu'en 1906 par la Cour de cassation, qui le réhabilite et le réintègre dans l'armée.",
+    "source": "D'après Wikipédia — Affaire Dreyfus"
+  },
+  {
+    "id": "q-histoire-080",
+    "domain": "histoire",
+    "format": "frise",
+    "question": "Remets ces étapes de l'ouverture et de la modernisation du Japon dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Arrivée des « navires noirs » du commodore Perry",
+        "annee": "1853"
+      },
+      {
+        "label": "Début de l'ère Meiji",
+        "annee": "1868"
+      },
+      {
+        "label": "École primaire obligatoire et calendrier grégorien",
+        "annee": "1872"
+      },
+      {
+        "label": "Révolte de Satsuma menée par Saigō Takamori",
+        "annee": "1877"
+      },
+      {
+        "label": "Adoption de la première constitution",
+        "annee": "1889"
+      }
+    ],
+    "explication": "L'arrivée de Perry en 1853 force le Japon à s'ouvrir et précipite la chute des shoguns. L'ère Meiji, ouverte en 1868, enchaîne les réformes ; la révolte de Satsuma en 1877 est la dernière des samouraïs, et la constitution est adoptée en 1889.",
+    "source": "D'après Wikipédia — Ère Meiji"
+  },
+  {
+    "id": "q-histoire-081",
+    "domain": "histoire",
+    "format": "vrai-faux",
+    "affirmation": "Pendant Mai 68, près de dix millions de personnes font grève en France.",
+    "reponse": true,
+    "explication": "Vrai. Partie des universités, la révolte gagne les usines et presque tous les secteurs : c'est la plus grande grève de l'histoire de France. Les accords de Grenelle, fin mai, accordent une hausse de 35 % du salaire minimum.",
+    "source": "D'après Wikipédia — Mai 68"
+  },
+  {
+    "id": "q-histoire-082",
+    "domain": "histoire",
+    "format": "difference",
+    "question": "Quelle est la différence entre la CEE et Euratom, nées le même jour en 1957 ?",
+    "choix": [
+      "La CEE crée un marché commun, Euratom organise la coopération dans le nucléaire",
+      "La CEE concerne le charbon et l'acier, Euratom le pétrole",
+      "La CEE regroupe six pays, Euratom seulement la France et l'Allemagne",
+      "La CEE est une alliance militaire, Euratom une union monétaire"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 25 mars 1957, les Six signent deux traités à Rome. Le premier crée la Communauté économique européenne et son marché commun ; le second, Euratom, la Communauté européenne de l'énergie atomique. Le charbon et l'acier relevaient déjà de la CECA, née en 1951.",
+    "source": "D'après Wikipédia — Traité instituant la Communauté économique européenne"
+  },
+  {
+    "id": "q-histoire-083",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Où s'écrase le quatrième avion détourné le 11 septembre 2001, le vol United Airlines 93 ?",
+    "choix": [
+      "Dans un champ de Pennsylvanie",
+      "Sur le Pentagone",
+      "Sur la Maison-Blanche",
+      "Dans l'océan Atlantique"
+    ],
+    "bonneReponse": 0,
+    "explication": "Prévenus par téléphone des autres attaques, des passagers et membres d'équipage du vol 93 se révoltent contre les pirates de l'air. L'avion, qui se dirigeait vers Washington, s'écrase près de Shanksville, en Pennsylvanie, sans survivant.",
+    "source": "D'après Wikipédia — Attentats du 11 septembre 2001"
+  },
+  {
+    "id": "q-histoire-084",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quel général organise la défense française au début de la bataille de Verdun, en 1916 ?",
+    "choix": [
+      "Philippe Pétain",
+      "Ferdinand Foch",
+      "Joseph Joffre",
+      "Joseph Gallieni"
+    ],
+    "bonneReponse": 0,
+    "explication": "C'est Philippe Pétain : il interdit tout recul et fait tourner les unités, si bien que 70 % des poilus passent par Verdun. Ce système assoit sa renommée. Remplacé par Nivelle en mai, il laisse à celui-ci et à Mangin la reconquête des forts de Douaumont et de Vaux.",
+    "source": "D'après Wikipédia — Bataille de Verdun"
+  },
+  {
+    "id": "q-histoire-085",
+    "domain": "histoire",
+    "format": "vrai-faux",
+    "affirmation": "Le traité de Versailles a été ratifié par les États-Unis.",
+    "reponse": false,
+    "explication": "Faux. Le président Wilson a pesé sur la négociation, mais le Sénat américain a refusé de ratifier le traité. Les États-Unis ont signé à part une paix séparée avec l'Allemagne, et n'ont jamais rejoint la Société des Nations que Wilson avait tant défendue.",
+    "source": "D'après Wikipédia — Traité de Versailles"
+  },
+  {
+    "id": "q-histoire-086",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "En quelle année Adolf Hitler est-il nommé chancelier d'Allemagne ?",
+    "choix": [
+      "1933",
+      "1923",
+      "1929",
+      "1939"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 30 janvier 1933, le président Hindenburg nomme Hitler chancelier, après les législatives où les nazis sont devenus le premier parti. En quelques mois, les autres partis sont interdits. En 1923, il avait échoué dans un coup d'État à Munich.",
+    "source": "D'après Wikipédia — Adolf Hitler"
+  },
+  {
+    "id": "q-histoire-087",
+    "domain": "histoire",
+    "format": "difference",
+    "question": "Quelle est la différence entre les mots « Shoah » et « Holocauste » ?",
+    "choix": [
+      "Shoah est un mot hébreu signifiant « anéantissement » ; Holocauste vient du grec et évoque un sacrifice par le feu",
+      "Shoah désigne seulement les camps ; Holocauste, l'ensemble de la Seconde Guerre mondiale",
+      "Shoah est le terme employé par les nazis ; Holocauste, celui des historiens",
+      "Shoah désigne les persécutions avant 1939 ; Holocauste, celles pendant la guerre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les deux mots désignent le génocide des Juifs d'Europe. « Shoah », mot hébreu, s'est imposé en France après le film de Claude Lanzmann (1985). « Holocauste », plus utilisé par les anglophones, renvoie à un sacrifice, une idée que beaucoup jugent déplacée.",
+    "source": "D'après Wikipédia — Shoah"
+  },
+  {
+    "id": "q-histoire-088",
+    "domain": "histoire",
+    "format": "qui-suis-je",
+    "indices": [
+      "Sous le pseudonyme de Romanin, j'ai publié des caricatures dans la revue Le Rire.",
+      "En 1937, je suis devenu le plus jeune préfet de France.",
+      "En 1941, j'ai rejoint le général de Gaulle à Londres.",
+      "Sous les noms de code Rex puis Max, j'ai travaillé à unir la Résistance.",
+      "J'ai présidé le Conseil national de la Résistance."
+    ],
+    "reponse": "Jean Moulin",
+    "explication": "Préfet d'Eure-et-Loir révoqué par Vichy, Jean Moulin rejoint de Gaulle à Londres, puis est parachuté en France pour unifier les mouvements de résistance. Il crée le Conseil national de la Résistance en 1943. Arrêté à Caluire, torturé, il meurt le 8 juillet 1943.",
+    "source": "D'après Wikipédia — Jean Moulin"
+  },
+  {
+    "id": "q-histoire-089",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Comment s'appelle l'opération soviétique qui encercle l'armée allemande à Stalingrad, en novembre 1942 ?",
+    "choix": [
+      "Opération Uranus",
+      "Opération Barbarossa",
+      "Opération Fall Blau",
+      "Opération Overlord"
+    ],
+    "bonneReponse": 0,
+    "explication": "Lancée le 19 novembre 1942, l'opération Uranus contourne la ville et écrase les troupes roumaines qui gardent les flancs. Quatre jours plus tard, près de 300 000 hommes sont pris au piège. Barbarossa et Fall Blau sont, elles, des offensives allemandes.",
+    "source": "D'après Wikipédia — Bataille de Stalingrad"
+  },
+  {
+    "id": "q-histoire-090",
+    "domain": "histoire",
+    "format": "vrai-faux",
+    "affirmation": "Les porte-avions américains du Pacifique ont échappé à l'attaque de Pearl Harbor.",
+    "reponse": true,
+    "explication": "Vrai. Les trois porte-avions de la flotte du Pacifique étaient en mer le 7 décembre 1941. Les Japonais ont coulé quatre cuirassés, mais ont manqué ces navires, ainsi que les réserves de carburant et les ateliers. Les porte-avions joueront un rôle clé dans la suite de la guerre.",
+    "source": "D'après Wikipédia — Attaque de Pearl Harbor"
+  },
+  {
+    "id": "q-histoire-091",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Comment appelle-t-on les survivants des bombardements atomiques d'Hiroshima et de Nagasaki ?",
+    "choix": [
+      "Les hibakusha",
+      "Les kamikazes",
+      "Les rōnin",
+      "Les ninjas"
+    ],
+    "bonneReponse": 0,
+    "explication": "On les appelle les hibakusha. Après les bombes des 6 et 9 août 1945, beaucoup ont souffert durablement des brûlures et des radiations. Leur témoignage a fait d'eux un symbole mondial de la lutte contre la guerre et contre les armes atomiques.",
+    "source": "D'après Wikipédia — Bombardements atomiques d'Hiroshima et de Nagasaki"
+  },
+  {
+    "id": "q-histoire-092",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Pourquoi les pays d'Europe de l'Est ne profitent-ils pas du plan Marshall ?",
+    "choix": [
+      "L'URSS refuse l'aide et fait pression sur eux pour qu'ils la rejettent",
+      "Les États-Unis ne leur ont jamais proposé",
+      "Ils la reçoivent sous un autre nom, par l'ONU",
+      "Leurs économies n'ont pas souffert de la guerre"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'aide était proposée à toute l'Europe, mais Staline craignait d'y perdre son contrôle sur l'Est. L'URSS la refuse et pousse les pays qu'elle occupe à l'imiter. En 1949, elle crée le Comecon : l'Europe se divise en deux camps économiques.",
+    "source": "D'après Wikipédia — Plan Marshall"
+  },
+  {
+    "id": "q-histoire-093",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quel surnom donnait-on à Mao Zedong ?",
+    "choix": [
+      "Le Grand Timonier",
+      "Le Petit Père des peuples",
+      "Oncle Hô",
+      "Le Guide suprême"
+    ],
+    "bonneReponse": 0,
+    "explication": "Mao était surnommé « le Grand Timonier », celui qui tient la barre du navire. Ce surnom accompagne le culte de sa personnalité. « Petit Père des peuples » désignait Staline, et « Oncle Hô » le dirigeant vietnamien Hô Chi Minh.",
+    "source": "D'après Wikipédia — Mao Zedong"
+  },
+  {
+    "id": "q-histoire-094",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quelle mesure Kennedy choisit-il le 22 octobre 1962 face aux missiles soviétiques installés à Cuba ?",
+    "choix": [
+      "Un blocus naval de l'île, baptisé « quarantaine »",
+      "Le bombardement immédiat des rampes de lancement",
+      "Une invasion de Cuba par les marines",
+      "La rupture des relations avec l'ONU"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ses conseillers poussaient à une frappe aérienne suivie d'une invasion. Kennedy préfère un blocus naval, qu'il appelle « quarantaine » pour éviter le vocabulaire de la guerre. Six jours plus tard, le 28 octobre, un accord met fin à la crise.",
+    "source": "D'après Wikipédia — Crise des missiles de Cuba"
+  },
+  {
+    "id": "q-histoire-095",
+    "domain": "histoire",
+    "format": "frise",
+    "question": "Remets ces étapes du conflit vietnamien dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Défaite française à Diên Biên Phu",
+        "annee": "1954"
+      },
+      {
+        "label": "Incidents du golfe du Tonkin",
+        "annee": "1964"
+      },
+      {
+        "label": "Offensive du Têt",
+        "annee": "1968"
+      },
+      {
+        "label": "Accords de paix de Paris",
+        "annee": "1973"
+      },
+      {
+        "label": "Chute de Saïgon",
+        "annee": "1975"
+      }
+    ],
+    "explication": "Diên Biên Phu (1954) chasse les Français et le pays est coupé en deux. Le golfe du Tonkin (1964) ouvre la voie à l'intervention américaine massive. Le Têt (1968) montre l'enlisement, les accords de Paris (1973) le retrait, et Saïgon tombe en 1975.",
+    "source": "D'après Wikipédia — Guerre du Vietnam"
+  },
+  {
+    "id": "q-histoire-096",
+    "domain": "histoire",
+    "format": "vrai-faux",
+    "affirmation": "La guerre de Corée s'est terminée par un traité de paix signé en 1953.",
+    "reponse": false,
+    "explication": "Faux. Le 27 juillet 1953, les belligérants signent seulement un cessez-le-feu, qui crée une zone démilitarisée près du 38e parallèle. Aucun traité de paix n'a suivi : les deux Corées restent officiellement en guerre, et des incidents éclatent encore régulièrement.",
+    "source": "D'après Wikipédia — Guerre de Corée"
+  },
+  {
+    "id": "q-histoire-097",
+    "domain": "histoire",
+    "format": "associer",
+    "question": "Associe chaque figure à son rôle dans la lutte pour l'indépendance de l'Inde.",
+    "paires": [
+      {
+        "gauche": "Gandhi",
+        "droite": "Non-violence et désobéissance civile",
+        "explication": "Il fait adopter au Congrès national indien la résistance non violente après la Grande Guerre."
+      },
+      {
+        "gauche": "Subhas Chandra Bose",
+        "droite": "Armée nationale indienne",
+        "explication": "Partisan de la lutte armée, il combat avec le Japon contre les Britanniques de 1943 à 1945."
+      },
+      {
+        "gauche": "Muhammad Ali Jinnah",
+        "droite": "Ligue musulmane",
+        "explication": "Sa Ligue musulmane refuse de suivre « Quit India », ce qui pèse dans la création du Pakistan."
+      },
+      {
+        "gauche": "Jawaharlal Nehru",
+        "droite": "Compagnon de Gandhi au Congrès",
+        "explication": "Disciple de Gandhi, il devient l'une des grandes figures du Congrès national indien."
+      }
+    ],
+    "explication": "Le mouvement indien n'avait pas une seule voix. Gandhi incarnait la non-violence, Bose la lutte armée, Jinnah les revendications des musulmans, et Nehru la relève du Congrès. Ces divisions expliquent en partie la partition de 1947.",
+    "source": "D'après Wikipédia — Mouvement pour l'indépendance de l'Inde"
+  },
+  {
+    "id": "q-histoire-098",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "Quelle position s'affirme à la conférence de Bandung, en 1955, face aux deux blocs de la guerre froide ?",
+    "choix": [
+      "Le refus de s'aligner sur l'un ou l'autre bloc",
+      "L'adhésion collective au pacte de Varsovie",
+      "L'entrée des pays présents dans l'OTAN",
+      "La création d'une monnaie commune afro-asiatique"
+    ],
+    "bonneReponse": 0,
+    "explication": "Réunis autour de Nehru, Soekarno, Nasser et Zhou Enlai, les 29 pays condamnent le colonialisme et refusent de choisir entre Washington et Moscou. Malgré leurs divisions, cette idée de non-alignement mène en 1961 au mouvement lancé à Belgrade.",
+    "source": "D'après Wikipédia — Conférence de Bandung"
+  },
+  {
+    "id": "q-histoire-099",
+    "domain": "histoire",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de l'apartheid dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Le Parti national instaure l'apartheid",
+        "annee": "1948"
+      },
+      {
+        "label": "Massacre de Sharpeville",
+        "annee": "1960"
+      },
+      {
+        "label": "Émeutes de Soweto",
+        "annee": "1976"
+      },
+      {
+        "label": "Libération de Nelson Mandela",
+        "annee": "1990"
+      },
+      {
+        "label": "Premières élections ouvertes à tous",
+        "annee": "1994"
+      }
+    ],
+    "explication": "L'apartheid naît en 1948. Sharpeville (1960) et Soweto (1976) font monter les critiques et les sanctions. En 1990, de Klerk libère Mandela, qui devient en 1994 le premier président noir du pays, après les premières élections non raciales.",
+    "source": "D'après Wikipédia — Apartheid"
+  },
+  {
+    "id": "q-histoire-100",
+    "domain": "histoire",
+    "format": "qcm",
+    "question": "De quel pays Patrice Lumumba devient-il le premier Premier ministre, en 1960 ?",
+    "choix": [
+      "Le Congo",
+      "Le Ghana",
+      "Le Cameroun",
+      "Le Rwanda"
+    ],
+    "bonneReponse": 0,
+    "explication": "Fondateur du Mouvement national congolais, Lumumba devient Premier ministre du Congo, ancienne colonie belge, à l'indépendance du 30 juin 1960. Démis dès septembre, il est assassiné au Katanga le 17 janvier 1961 et reste un héros national.",
+    "source": "D'après Wikipédia — Patrice Lumumba"
   }
 ]

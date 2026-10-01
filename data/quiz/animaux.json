@@ -471,5 +471,1133 @@
     "bonneReponse": 1,
     "explication": "Quand le premier spécimen d'ornithorynque arrive en Angleterre en 1799, le naturaliste George Shaw cherche des points de couture : un bec de canard, une queue de castor, des pattes palmées et un pelage de mammifère sur le même animal, cela ressemblait à une farce de taxidermiste. On a découvert ensuite qu'il pond des œufs.",
     "source": "D'après Wikipédia — Ornithorynque"
+  },
+  {
+    "id": "q-animaux-031",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel est le rôle principal du lion mâle au sein de la troupe ?",
+    "choix": [
+      "Défendre le territoire et la troupe contre les intrus",
+      "Chasser pour nourrir toute la troupe",
+      "Élever seul les lionceaux",
+      "Guider la troupe vers de nouveaux territoires"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le lion mâle ne chasse qu'occasionnellement : ce sont surtout les lionnes qui chassent ensemble. Lui défend le territoire face aux intrus et protège la troupe des menaces. Sa crinière, signe de force, l'aide à s'imposer.",
+    "source": "D'après Wikipédia — Lion"
+  },
+  {
+    "id": "q-animaux-032",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Combien de vertèbres cervicales compte le long cou de la girafe ?",
+    "choix": [
+      "Sept, comme la plupart des mammifères",
+      "Quatorze",
+      "Vingt-deux",
+      "Neuf, comme le paresseux"
+    ],
+    "bonneReponse": 0,
+    "explication": "Malgré son cou immense, la girafe n'a que sept vertèbres cervicales, comme nous. Seules exceptions : les lamantins et les paresseux. Ce sont les vertèbres qui sont très allongées, d'environ 40 cm chacune.",
+    "source": "D'après Wikipédia — Girafe"
+  },
+  {
+    "id": "q-animaux-033",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "La girafe n'a pas de cordes vocales : elle ne produit jamais aucun son.",
+    "reponse": false,
+    "explication": "C'est une idée répandue, mais fausse : la girafe possède des cordes vocales. Elle émet très rarement des sons, mais produit dans l'obscurité un bourdonnement autour de 92 Hz, à la limite de ce que l'oreille humaine perçoit.",
+    "source": "D'après Wikipédia — Girafe"
+  },
+  {
+    "id": "q-animaux-034",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quels sont les plus proches parents vivants de l'hippopotame ?",
+    "choix": [
+      "Les baleines et les dauphins",
+      "Les porcs et les sangliers",
+      "Les rhinocéros",
+      "Les éléphants"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les hippopotames ressemblent à des porcs, et on les classait avec eux jusqu'en 1909. Les protéines du sang, l'ADN et les fossiles montrent qu'ils sont en réalité les plus proches cousins des cétacés, séparés d'eux il y a environ 55 millions d'années.",
+    "source": "D'après Wikipédia — Hippopotamus amphibius"
+  },
+  {
+    "id": "q-animaux-035",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que signifie littéralement le mot « chiroptère » ?",
+    "choix": [
+      "Mains ailées",
+      "Voleur de nuit",
+      "Souris volante",
+      "Oreilles longues"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chiroptère vient du grec kheir, « main », et pteron, « aile ». Une chauve-souris vole en effet avec ses mains : son aile est une membrane de peau tendue entre quatre doigts très allongés. Le nom a été donné par Georges Cuvier en 1798.",
+    "source": "D'après Wikipédia — Chiroptera"
+  },
+  {
+    "id": "q-animaux-036",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le koala est un ours.",
+    "reponse": false,
+    "explication": "Non : le koala est un marsupial, qui porte son petit dans une poche, comme le kangourou. Les premiers colons l'appelaient « koala bear » à cause de sa ressemblance avec un ours, mais ils n'ont aucun lien de parenté. Son plus proche cousin est le wombat.",
+    "source": "D'après Wikipédia — Koala"
+  },
+  {
+    "id": "q-animaux-037",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quelle part des espèces animales décrites représentent les invertébrés ?",
+    "choix": [
+      "Plus de 95 %",
+      "Environ la moitié",
+      "Environ un quart",
+      "Environ 70 %"
+    ],
+    "bonneReponse": 0,
+    "explication": "La liste rouge de l'UICN recense 66 178 espèces de vertébrés décrites : cela veut dire que plus de 95 % des espèces animales décrites sont des invertébrés. Les insectes sont de loin le groupe le plus riche.",
+    "source": "D'après Wikipédia — Invertébré"
+  },
+  {
+    "id": "q-animaux-038",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quelle est la taille d'un bébé kangourou à la naissance ?",
+    "choix": [
+      "Environ 2 cm pour 1 g",
+      "Environ 15 cm pour 500 g",
+      "Environ 30 cm pour 3 kg",
+      "Environ 5 cm pour 100 g"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le petit naît à l'état d'embryon, après 30 à 38 jours de gestation. Il rampe seul dans la fourrure de sa mère jusqu'à la poche, où il reste de 235 à 250 jours. Il pèse environ 3,5 kg lorsqu'il en sort pour la première fois.",
+    "source": "D'après Wikipédia — Kangourou"
+  },
+  {
+    "id": "q-animaux-039",
+    "domain": "animaux",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon pelage verdâtre abrite des algues et des cyanobactéries.",
+      "Je descends une fois par semaine au sol pour mes besoins, et c'est là que je cours le plus de danger.",
+      "Je me déplace à moins de 10 mètres par minute.",
+      "Je dors environ 12 heures par jour, suspendu à l'envers dans un arbre."
+    ],
+    "reponse": "Le paresseux",
+    "explication": "Le paresseux vit dans les arbres d'Amérique centrale et du Sud. Son métabolisme est deux fois plus lent que celui des autres mammifères. Sa lenteur le rend discret aux yeux de ses prédateurs, comme le jaguar ou l'aigle harpie.",
+    "source": "D'après Wikipédia — Paresseux"
+  },
+  {
+    "id": "q-animaux-040",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Combien de castors d'Europe restait-il environ au début du XXe siècle ?",
+    "choix": [
+      "Environ 1 200",
+      "Environ 100 000",
+      "Environ 15 000",
+      "Environ 50"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chassé pour sa fourrure et pour le castoréum, le castor d'Europe a failli disparaître : environ 1 200 individus survivaient, dans huit populations isolées. Grâce à la protection et aux réintroductions, il en compte aujourd'hui au moins 1,5 million.",
+    "source": "D'après Wikipédia — Castor fiber"
+  },
+  {
+    "id": "q-animaux-041",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le lait de vache est dangereux pour un hérisson.",
+    "reponse": true,
+    "explication": "Contrairement à une idée répandue, le hérisson ne supporte ni le pain ni le lait de vache, qui lui donne des diarrhées mortelles. En cas de besoin, on peut lui offrir de l'eau et de la nourriture pour chat ou pour chiot.",
+    "source": "D'après Wikipédia — Erinaceus europaeus"
+  },
+  {
+    "id": "q-animaux-042",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que contient la bosse du dromadaire ?",
+    "choix": [
+      "De la graisse",
+      "De l'eau",
+      "De l'air",
+      "Du muscle"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une légende tenace dit que la bosse stocke de l'eau ; en réalité, elle ne contient que de la graisse, une réserve d'énergie qui peut dépasser 100 kg. Regrouper le gras sur le dos aide aussi l'animal à se refroidir, car le reste du corps est moins gras.",
+    "source": "D'après Wikipédia — Dromadaire"
+  },
+  {
+    "id": "q-animaux-043",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quelle particularité sociale a le rat-taupe nu parmi les mammifères ?",
+    "choix": [
+      "Une seule femelle, la reine, se reproduit, comme chez les abeilles",
+      "Les mâles élèvent seuls les petits",
+      "Chaque couple vit isolé dans un terrier",
+      "Les petits sont élevés par les pères uniquement"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le rat-taupe nu est l'un des très rares mammifères eusociaux : une reine unique assure la reproduction, tandis que les autres, ouvrières, nourrices ou soldats, creusent, nourrissent et défendent la colonie, qui compte de 70 à 300 individus.",
+    "source": "D'après Wikipédia — Rat-taupe nu"
+  },
+  {
+    "id": "q-animaux-044",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Où vit la loutre de mer (énhydre marine) ?",
+    "choix": [
+      "Sur les côtes du Pacifique Nord, du Japon à la Californie",
+      "Sur les côtes de l'Atlantique Nord",
+      "Autour de l'Antarctique",
+      "Dans l'océan Indien"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'énhydre marine fréquente les eaux glacées du Pacifique Nord, d'Hokkaidō (Japon) à la Californie, avec le Kamtchatka, les Aléoutiennes et l'Alaska sur sa route. Chassée pour sa fourrure entre 1741 et 1911, elle reste classée en danger.",
+    "source": "D'après Wikipédia — Enhydra lutris"
+  },
+  {
+    "id": "q-animaux-045",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque animal à sa particularité.",
+    "paires": [
+      {
+        "gauche": "Chauve-souris",
+        "droite": "Seul mammifère au vol actif",
+        "explication": "Son aile est une membrane tendue entre les doigts."
+      },
+      {
+        "gauche": "Dromadaire",
+        "droite": "Boit des litres d'eau en une minute",
+        "explication": "Un exploit qui tuerait la plupart des autres mammifères."
+      },
+      {
+        "gauche": "Rat-taupe nu",
+        "droite": "Survit de longues minutes sans oxygène",
+        "explication": "Il utilise le fructose pour fabriquer son énergie."
+      },
+      {
+        "gauche": "Girafe",
+        "droite": "Langue noire et préhensile",
+        "explication": "Elle lui sert à saisir les feuilles d'acacia."
+      },
+      {
+        "gauche": "Hippopotame",
+        "droite": "Sécrète une « sueur de sang »",
+        "explication": "Un écran solaire naturel, ni sang ni sueur."
+      }
+    ],
+    "explication": "Ces cinq mammifères ont chacun une adaptation extrême : le vol, la gestion de l'eau, la survie sans oxygène, une langue d'une longueur remarquable et une protection solaire naturelle.",
+    "source": "D'après Wikipédia — Chiroptera"
+  },
+  {
+    "id": "q-animaux-046",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Quelle est la différence entre un ectotherme et un endotherme ?",
+    "choix": [
+      "L'ectotherme dépend surtout de la chaleur extérieure, l'endotherme produit sa propre chaleur",
+      "L'ectotherme vit toujours dans l'eau, l'endotherme sur terre",
+      "L'ectotherme a toujours le sang glacé, l'endotherme le sang brûlant",
+      "L'ectotherme pond des œufs, l'endotherme n'en pond jamais"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les reptiles, les insectes et les poissons, ectothermes, dépendent du soleil ou du milieu pour se réchauffer. Les mammifères et les oiseaux, endothermes, produisent leur chaleur, mais doivent manger davantage. « Sang froid » est un abus de langage.",
+    "source": "D'après Wikipédia — Ectotherme"
+  },
+  {
+    "id": "q-animaux-047",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Quelle est la différence entre un omnivore et un carnivore ?",
+    "choix": [
+      "L'omnivore tire son énergie des végétaux comme des animaux, le carnivore surtout de chair",
+      "L'omnivore ne mange que des insectes, le carnivore de grands animaux",
+      "L'omnivore chasse en groupe, le carnivore seul",
+      "L'omnivore vit en forêt, le carnivore en savane"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un omnivore, comme le renard, l'ours ou l'être humain, digère aussi bien les plantes que les animaux et adapte son régime à ce qu'il trouve. Un carnivore, comme l'ours polaire, se nourrit surtout de chair.",
+    "source": "D'après Wikipédia — Omnivore"
+  },
+  {
+    "id": "q-animaux-048",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel stade se trouve entre la larve et l'adulte chez un insecte à métamorphose complète ?",
+    "choix": [
+      "La nymphe, appelée chrysalide chez le papillon",
+      "L'imago",
+      "L'embryon",
+      "Le têtard"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chez les insectes holométaboles, la larve devient une nymphe, état de repos appelé chrysalide chez le papillon, puis un adulte, ou imago. L'adulte est souvent très différent de la larve : ni la forme, ni le mode de vie, ni la nourriture ne sont les mêmes.",
+    "source": "D'après Wikipédia — Métamorphose (biologie)"
+  },
+  {
+    "id": "q-animaux-049",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel oiseau est considéré comme le plus rapide du monde en piqué ?",
+    "choix": [
+      "Le faucon pèlerin",
+      "L'aigle royal",
+      "La buse variable",
+      "Le condor des Andes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le faucon pèlerin attaque en piqué selon un angle de 20 à 40°. En 2005, un individu a été enregistré à 389 km/h, mais les mesures courantes se situent plutôt entre 130 et 184 km/h. Il chasse presque uniquement des oiseaux.",
+    "source": "D'après Wikipédia — Faucon pèlerin"
+  },
+  {
+    "id": "q-animaux-050",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel oiseau actuel possède la plus grande envergure ?",
+    "choix": [
+      "L'albatros hurleur",
+      "Le condor des Andes",
+      "Le pélican blanc",
+      "L'autruche d'Afrique"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'albatros hurleur a une envergure habituelle de 2,54 à 3,51 m, avec un record à 3,63 m. Des tendons bloquant ses articulations d'ailes lui permettent de planer longtemps sur l'océan sans se fatiguer, même par grand vent.",
+    "source": "D'après Wikipédia — Albatros hurleur"
+  },
+  {
+    "id": "q-animaux-051",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel manchot est le seul à se reproduire pendant l'hiver antarctique ?",
+    "choix": [
+      "Le manchot empereur",
+      "Le manchot royal",
+      "Le manchot de Magellan",
+      "Le manchot Adélie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le manchot empereur rejoint sa colonie en parcourant entre 50 et 120 km de glace. La femelle pond un seul œuf que le mâle couve, sans manger pendant plus de deux mois, tandis qu'elle retourne se nourrir en mer.",
+    "source": "D'après Wikipédia — Manchot empereur"
+  },
+  {
+    "id": "q-animaux-052",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Chez le manchot empereur, c'est le mâle qui couve l'œuf unique pendant que la femelle retourne se nourrir en mer.",
+    "reponse": true,
+    "explication": "Après la ponte, la femelle repart vers la mer. Le mâle couve l'œuf plus de deux mois, sans manger, et perd environ 12 kg. Ensuite, les parents se relaient pour pêcher et surveiller le poussin dans la colonie.",
+    "source": "D'après Wikipédia — Manchot empereur"
+  },
+  {
+    "id": "q-animaux-053",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Les poussins de flamant rose naissent déjà roses.",
+    "reponse": false,
+    "explication": "Les poussins sont gris. Le rose vient des caroténoïdes contenus dans les algues et les crustacés dont l'oiseau se nourrit, comme la crevette Artemia salina. Le plumage rose caractéristique n'apparaît qu'après deux à quatre ans.",
+    "source": "D'après Wikipédia — Flamant rose"
+  },
+  {
+    "id": "q-animaux-054",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Comment l'effraie des clochers repère-t-elle ses proies dans le noir complet ?",
+    "choix": [
+      "Grâce aux sons qu'elles produisent",
+      "Grâce à leur odeur",
+      "Grâce à la chaleur qu'elles dégagent",
+      "Grâce aux vibrations du sol"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans les années 1950, Roger Payne a fait courir une souris, avec un papier bruissant attaché derrière elle, dans une grange noire : la chouette a saisi le papier. Ses disques faciaux et ses oreilles asymétriques lui donnent la direction du bruit.",
+    "source": "D'après Wikipédia — Effraie des clochers"
+  },
+  {
+    "id": "q-animaux-055",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que signifie le classement du perroquet jaco en annexe I de la CITES, depuis 2016 ?",
+    "choix": [
+      "Son commerce international est interdit",
+      "Son commerce est réglementé par des quotas",
+      "Il peut être chassé librement",
+      "Il n'est plus menacé"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le jaco était en annexe II, commerce réglementé, depuis 1981. Entre 1994 et 2003, environ 360 000 oiseaux ont été exportés, surtout vers l'Europe. En 2016, il passe en annexe I et est classé « en danger » par l'UICN.",
+    "source": "D'après Wikipédia — Perroquet jaco"
+  },
+  {
+    "id": "q-animaux-056",
+    "domain": "animaux",
+    "format": "qui-suis-je",
+    "indices": [
+      "On m'a découvert pour la science occidentale en 1910, après des rumeurs de « crocodile terrestre ».",
+      "Je ne vis à l'état sauvage que sur quelques îles d'Indonésie, dont Komodo et Rinca.",
+      "Les petits que je mets au monde grimpent aux arbres pour échapper à mes congénères cannibales.",
+      "Je suis le plus grand lézard vivant, avec 2 à 3 m de long.",
+      "On me surnomme « dragon » alors que je suis un varan."
+    ],
+    "reponse": "Le dragon de Komodo",
+    "explication": "Ce varan géant est le plus grand lézard du monde. Il n'habite que cinq îles d'Indonésie, dont Komodo, Rinca et Florès. Son nom a été popularisé par W. Douglas Burden, dont l'expédition de 1926 inspira King Kong.",
+    "source": "D'après Wikipédia — Dragon de Komodo"
+  },
+  {
+    "id": "q-animaux-057",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque oiseau à son record ou à sa particularité.",
+    "paires": [
+      {
+        "gauche": "Albatros hurleur",
+        "droite": "La plus grande envergure des oiseaux actuels",
+        "explication": "Ses ailes déployées dépassent trois mètres en moyenne chez le mâle."
+      },
+      {
+        "gauche": "Manchot empereur",
+        "droite": "Plongées dans des eaux très profondes",
+        "explication": "Un record de profondeur a été mesuré près du détroit de McMurdo."
+      },
+      {
+        "gauche": "Autruche d'Afrique",
+        "droite": "Le plus gros œuf des oiseaux vivants",
+        "explication": "Son œuf équivaut à une vingtaine d'œufs de poule."
+      },
+      {
+        "gauche": "Faucon pèlerin",
+        "droite": "Le piqué le plus rapide",
+        "explication": "Un piqué mesuré en 2005 a dépassé tous les records."
+      }
+    ],
+    "explication": "Ces quatre oiseaux détiennent chacun un record : le plus grand voilier des mers australes, le plongeur de l'Antarctique, le plus grand oiseau actuel et le rapace le plus rapide en piqué.",
+    "source": "D'après Wikipédia — Autruche d'Afrique"
+  },
+  {
+    "id": "q-animaux-058",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi le crocodile du Nil peut-il garder la gueule ouverte sous l'eau sans se noyer ?",
+    "choix": [
+      "Un repli du palais isole sa bouche de sa gorge",
+      "Il respire par la peau",
+      "Il possède des branchies",
+      "Il retient son souffle pendant plusieurs heures"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un repli du palais, dit « gulaire », ferme la gorge. Le crocodile peut ainsi attendre en embuscade, gueule ouverte, ou noyer une proie sous l'eau. Ses yeux et ses narines au sommet du crâne restent à la surface.",
+    "source": "D'après Wikipédia — Crocodile du Nil"
+  },
+  {
+    "id": "q-animaux-059",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Les changements de couleur du caméléon servent avant tout à se camoufler.",
+    "reponse": false,
+    "explication": "C'est une idée reçue : le changement de couleur est surtout un moyen de communication sociale. Les teintes sombres marquent la colère, les couleurs claires servent à courtiser. Le camouflage est apparu ensuite, et il varie selon les espèces.",
+    "source": "D'après Wikipédia — Chamaeleonidae"
+  },
+  {
+    "id": "q-animaux-060",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Grâce à quoi le gecko peut-il adhérer à la plupart des surfaces ?",
+    "choix": [
+      "Des poils microscopiques sous ses doigts, les setæ",
+      "Des ventouses remplies de colle",
+      "De griffes en crochet très pointues",
+      "D'une sécrétion visqueuse sur ses pattes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les coussinets des geckos portent de minuscules poils, les setæ. Chez beaucoup d'espèces, l'adhérence vient de forces de Van der Waals entre les molécules des poils et celles de la surface, sans colle ni ventouse.",
+    "source": "D'après Wikipédia — Gekkonidae"
+  },
+  {
+    "id": "q-animaux-061",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Qu'est-ce qui détermine le sexe des petits chez les tortues géantes des Galápagos ?",
+    "choix": [
+      "La température d'incubation des œufs",
+      "L'île où le nid est creusé",
+      "L'âge de la mère",
+      "La taille de l'œuf"
+    ],
+    "bonneReponse": 0,
+    "explication": "Comme chez de nombreux reptiles, la température d'incubation décide du sexe : le froid produit des mâles, la chaleur des femelles. Les œufs sont enterrés dans un trou d'une trentaine de centimètres, puis scellés avec de la boue.",
+    "source": "D'après Wikipédia — Tortue géante des Galápagos"
+  },
+  {
+    "id": "q-animaux-062",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "De quoi se nourrit principalement le cobra royal ?",
+    "choix": [
+      "D'autres serpents",
+      "De rongeurs",
+      "D'oiseaux",
+      "De poissons"
+    ],
+    "bonneReponse": 0,
+    "explication": "Son nom de genre, Ophiophagus, vient du grec pour « mangeur de serpents ». Il en consomme surtout, parfois même de son espèce, et chasse plus rarement lézards et oiseaux. Les mangoustes sont réputées s'attaquer à ses petits.",
+    "source": "D'après Wikipédia — Cobra royal"
+  },
+  {
+    "id": "q-animaux-063",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "D'où vient le poison de la grenouille Phyllobates terribilis ?",
+    "choix": [
+      "De ses proies, notamment des insectes",
+      "Elle le fabrique seule dans ses glandes",
+      "Des plantes sur lesquelles elle vit",
+      "De l'eau de la forêt"
+    ],
+    "bonneReponse": 0,
+    "explication": "La batrachotoxine semble venir de son alimentation, peut-être d'un petit coléoptère. Les grenouilles nées et élevées en captivité n'en contiennent pas, et les sauvages perdent la moitié de leur toxicité après un an en captivité.",
+    "source": "D'après Wikipédia — Phyllobates terribilis"
+  },
+  {
+    "id": "q-animaux-064",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "De quoi se nourrit l'iguane marin des Galápagos ?",
+    "choix": [
+      "D'algues",
+      "De petits poissons",
+      "De crabes",
+      "De mollusques"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'iguane marin est strictement herbivore. Il broute les algues sur les rochers découverts à marée basse ou plonge pour atteindre des champs d'algues immergés. Il est le seul lézard actuel à se nourrir en mer.",
+    "source": "D'après Wikipédia — Iguane marin des Galapagos"
+  },
+  {
+    "id": "q-animaux-065",
+    "domain": "animaux",
+    "format": "frise",
+    "question": "Remets ces épisodes de l'histoire du pigeon voyageur dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Guillaume d'Orange l'emploie lors du siège de Leyde",
+        "annee": "1574"
+      },
+      {
+        "label": "Des pigeons portent des messages depuis Paris assiégé",
+        "annee": "1870"
+      },
+      {
+        "label": "Début du service de pigeongrammes de Great Barrier Island, en Nouvelle-Zélande",
+        "annee": "1897"
+      },
+      {
+        "label": "L'affaire des pigeons de Jacques Duclos",
+        "annee": "1952"
+      },
+      {
+        "label": "Des pigeons acheminent des prises de sang depuis l'île d'Yeu",
+        "annee": "1987"
+      }
+    ],
+    "explication": "Le pigeon voyageur a servi aux sièges du XVIe siècle, à la guerre de 1870, au courrier de Nouvelle-Zélande, puis aux hôpitaux. En 1952, deux pigeons de chasse dans la voiture de Duclos déclenchent une affaire d'État.",
+    "source": "D'après Wikipédia — Pigeon voyageur"
+  },
+  {
+    "id": "q-animaux-066",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Quelle est la différence entre les tortues des Galápagos à carapace en « dôme » et celles en « selle » ?",
+    "choix": [
+      "Le dôme se trouve sur les îles humides et très végétalisées, la selle sur les îles sèches, avec des cous plus longs",
+      "Le dôme est propre aux mâles, la selle aux femelles",
+      "Le dôme caractérise les jeunes, la selle les adultes",
+      "Le dôme appartient aux tortues de mer, la selle aux tortues terrestres"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sur les grandes îles humides, les tortues ont une carapace bombée et un cou court. Sur les îles sèches, la carapace se relève en selle et le cou et les pattes s'allongent, pour atteindre une végétation plus haute, comme le cactus.",
+    "source": "D'après Wikipédia — Tortue géante des Galápagos"
+  },
+  {
+    "id": "q-animaux-067",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi le grand requin blanc roule-t-il les yeux vers l'arrière au moment d'attaquer ?",
+    "choix": [
+      "Parce qu'il n'a pas de paupières pour les protéger",
+      "Parce qu'il voit mal de face",
+      "Parce qu'il vise avec ses ampoules de Lorenzini",
+      "Parce qu'il cherche à éblouir sa proie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ce requin est dépourvu de paupières, à la différence d'autres requins : voilà pourquoi il fait rouler ses yeux vers l'arrière lors d'une attaque. Il peut même sortir la tête de l'eau pour observer des phoques posés sur des rochers.",
+    "source": "D'après Wikipédia — Grand requin blanc"
+  },
+  {
+    "id": "q-animaux-068",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Comment les orques de Norvège rassemblent-elles les harengs avant de les assommer ?",
+    "choix": [
+      "Elles nagent autour du banc en montrant leur ventre blanc",
+      "Elles les poussent vers la plage pour les échouer",
+      "Elles plongent ensemble à plus de 1 000 m",
+      "Elles les chassent un par un sans se coordonner"
+    ],
+    "bonneReponse": 0,
+    "explication": "C'est la technique du « carrousel » : les orques contournent le banc de harengs en lui présentant leur ventre blanc pour le resserrer près de la surface, puis frappent la masse de poissons avec leur nageoire caudale pour les assommer.",
+    "source": "D'après Wikipédia — Orque"
+  },
+  {
+    "id": "q-animaux-069",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel record détient le cerveau du grand cachalot ?",
+    "choix": [
+      "C'est le plus lourd de tout le règne animal",
+      "C'est le plus gros par rapport à la taille du corps",
+      "C'est le seul cerveau qui ne dort jamais",
+      "C'est le seul cerveau à posséder trois hémisphères"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le cerveau du cachalot pèse en moyenne huit kilogrammes : c'est le plus lourd du monde animal, fossiles compris. Pourtant, rapporté à la taille du corps, il est moins développé que celui de nombreux dauphins ou de l'humain.",
+    "source": "D'après Wikipédia — Grand cachalot"
+  },
+  {
+    "id": "q-animaux-070",
+    "domain": "animaux",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je vis en Arctique, notamment au Canada, au Groenland et en Russie.",
+      "Chez moi, l'émail de ma dent est dedans, et la pulpe dehors.",
+      "Une de mes dents contient environ dix millions de terminaisons nerveuses.",
+      "En 1576, une reine d'Angleterre aurait payé l'une de mes dents 10 000 livres.",
+      "On a longtemps cru que ma longue dent torsadée était la corne de la licorne."
+    ],
+    "reponse": "Le narval",
+    "explication": "Le narval porte une longue canine torsadée qui sert surtout d'organe sensoriel. Vendue au Moyen Âge comme corne de licorne, elle valait plusieurs fois son poids en or ; le lien avec le narval n'a été établi qu'en 1704.",
+    "source": "D'après Wikipédia — Narval"
+  },
+  {
+    "id": "q-animaux-071",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel écrivain s'est inspiré de l'aviso français Alecton, qui avait aperçu un calmar géant en 1861 ?",
+    "choix": [
+      "Jules Verne",
+      "Herman Melville",
+      "Victor Hugo",
+      "Alexandre Dumas"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1861, l'équipage de l'Alecton aperçoit un calmar géant au large de Tenerife et tente de le hisser à bord. Jules Verne s'en inspire dans Vingt mille lieues sous les mers, avec un calmar « de dimensions colossales » de 18 mètres.",
+    "source": "D'après Wikipédia — Calmar géant"
+  },
+  {
+    "id": "q-animaux-072",
+    "domain": "animaux",
+    "format": "frise",
+    "question": "Remets ces événements de l'histoire du calmar géant dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Johan Steenstrup établit le genre Architeuthis",
+        "annee": "1857"
+      },
+      {
+        "label": "L'aviso Alecton aperçoit un calmar géant près de Tenerife",
+        "annee": "1861"
+      },
+      {
+        "label": "Des chercheurs japonais filment un calmar géant vivant à 900 m",
+        "annee": "2004"
+      },
+      {
+        "label": "Le calmar Wheke est exposé au Muséum, à Paris",
+        "annee": "2008"
+      },
+      {
+        "label": "Premières images d'un calmar géant dans les eaux américaines",
+        "annee": "2019"
+      }
+    ],
+    "explication": "Le genre Architeuthis est décrit en 1857, quatre ans avant l'épisode de l'Alecton. Il faut ensuite attendre 2004 pour voir un calmar vivant dans son milieu, puis 2008 pour la naturalisation de Wheke et 2019 pour les eaux américaines.",
+    "source": "D'après Wikipédia — Calmar géant"
+  },
+  {
+    "id": "q-animaux-073",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que peut faire la méduse Turritopsis dohrnii lorsqu'elle est blessée, affamée ou âgée ?",
+    "choix": [
+      "Revenir au stade de polype et recommencer son cycle",
+      "Se diviser en deux méduses identiques",
+      "Se transformer en méduse géante",
+      "Se fixer au fond et devenir une anémone"
+    ],
+    "bonneReponse": 0,
+    "explication": "Grâce à la transdifférenciation, cette méduse revient au stade de polype et forme une nouvelle colonie. En théorie, cela peut se répéter sans fin, d'où son surnom de « méduse immortelle », même si beaucoup meurent avant, mangées ou malades.",
+    "source": "D'après Wikipédia — Turritopsis dohrnii"
+  },
+  {
+    "id": "q-animaux-074",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel poisson est considéré comme le plus lent du monde ?",
+    "choix": [
+      "L'hippocampe nain",
+      "Le poisson-clown",
+      "La raie manta",
+      "L'anguille d'Europe"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'hippocampe nain ne dépasse guère 1,5 m par heure. Les hippocampes nagent debout en agitant leur nageoire dorsale à environ 20 battements par seconde, et passent l'essentiel de leur temps accrochés à une algue par leur queue.",
+    "source": "D'après Wikipédia — Hippocampe (poisson)"
+  },
+  {
+    "id": "q-animaux-075",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque animal marin à sa particularité.",
+    "paires": [
+      {
+        "gauche": "Narval",
+        "droite": "Une défense torsadée très innervée",
+        "explication": "La défense du mâle est une canine contenant environ dix millions de terminaisons nerveuses."
+      },
+      {
+        "gauche": "Calmar géant",
+        "droite": "Des yeux parmi les plus grands du monde animal",
+        "explication": "Ces énormes yeux l'aident à détecter la faible lumière, y compris bioluminescente, des grandes profondeurs."
+      },
+      {
+        "gauche": "Raie manta",
+        "droite": "Un test du miroir passé en 2016",
+        "explication": "Des mantas devant un miroir ont semblé vérifier si leur reflet imitait leurs mouvements."
+      },
+      {
+        "gauche": "Hippocampe",
+        "droite": "Aucun vrai estomac",
+        "explication": "Il doit manger presque sans arrêt de minuscules crustacés qu'il aspire par son museau."
+      }
+    ],
+    "explication": "Ces quatre animaux marins ont chacun un trait singulier : une dent sensorielle, des yeux géants, une forme de conscience de soi supposée, ou une digestion sans estomac. Chacun en dit long sur son mode de vie.",
+    "source": "D'après Wikipédia — Narval"
+  },
+  {
+    "id": "q-animaux-076",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Chez les poissons-clowns, si la femelle d'un groupe disparaît, le mâle reproducteur peut changer de sexe et prendre sa place.",
+    "reponse": true,
+    "explication": "Les poissons-clowns sont des hermaphrodites successifs : le plus gros individu est la femelle. Si elle disparaît, le mâle reproducteur change de sexe, et les autres mâles montent d'un rang dans la hiérarchie du groupe.",
+    "source": "D'après Wikipédia — Poisson-clown"
+  },
+  {
+    "id": "q-animaux-077",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Où l'anguille d'Europe va-t-elle se reproduire ?",
+    "choix": [
+      "En mer des Sargasses, dans l'Atlantique",
+      "En mer Méditerranée, près de Gibraltar",
+      "En mer du Nord, au large du Danemark",
+      "Dans le golfe de Gascogne"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après des années en rivière, l'anguille argentée repart sur 4 800 à plus de 5 000 km vers la mer des Sargasses, repérée par le chercheur Johannes Schmidt au début du XXe siècle. Elle y pond puis meurt ; la ponte n'a jamais été observée.",
+    "source": "D'après Wikipédia — Anguilla anguilla"
+  },
+  {
+    "id": "q-animaux-078",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi le monarque est-il indigeste pour la plupart des oiseaux ?",
+    "choix": [
+      "Sa chenille se nourrit d'asclépiades toxiques et en stocke les toxines",
+      "Il produit son propre venin dans ses ailes",
+      "Il vit uniquement près de plantes carnivores",
+      "Il avale des pierres qui le rendent amer"
+    ],
+    "bonneReponse": 0,
+    "explication": "La chenille mange des feuilles d'asclépiade, riches en cardénolides, et les emmagasine : le papillon adulte reste toxique. Ses couleurs vives sont un signal d'avertissement, mais quelques prédateurs, comme certains oiseaux, y résistent.",
+    "source": "D'après Wikipédia — Monarque (papillon)"
+  },
+  {
+    "id": "q-animaux-079",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Quelle est la différence entre une demoiselle (zygoptère) et une libellule au sens strict (anisoptère) ?",
+    "choix": [
+      "La demoiselle replie ses ailes au repos et a de petits yeux séparés ; la libellule garde ses ailes étalées et a de gros yeux souvent joints",
+      "La demoiselle est aquatique à l'état adulte, la libellule est terrestre",
+      "La demoiselle n'a que deux ailes, la libellule en a quatre",
+      "La demoiselle vit dans l'eau salée, la libellule dans l'eau douce"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les deux groupes appartiennent aux odonates et ont quatre ailes. Au repos, la demoiselle redresse ses ailes au-dessus du corps, tandis que la libellule les étale à l'horizontale. Ses yeux, gros, se touchent souvent.",
+    "source": "D'après Wikipédia — Odonata"
+  },
+  {
+    "id": "q-animaux-080",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le nombre de points sur le dos d'une coccinelle indique son âge.",
+    "reponse": false,
+    "explication": "C'est une idée reçue : le nombre de points dépend de l'espèce, et non de l'âge. Il va de deux à vingt-quatre selon les espèces, et vient de l'activité d'un gène, nommé pannier, qui agit au stade de l'embryon.",
+    "source": "D'après Wikipédia — Coccinellidae"
+  },
+  {
+    "id": "q-animaux-081",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Les termites sont de proches parents des fourmis.",
+    "reponse": false,
+    "explication": "Surnommés « fourmis blanches », les termites sont en réalité des insectes proches des blattes. Leur ressemblance avec les fourmis vient d'une vie sociale en castes développée de façon indépendante, par convergence évolutive.",
+    "source": "D'après Wikipédia — Termite"
+  },
+  {
+    "id": "q-animaux-082",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi seules les femelles de nombreuses espèces de moustiques piquent-elles ?",
+    "choix": [
+      "Elles ont besoin du sang pour faire mûrir leurs œufs",
+      "Elles défendent ainsi leur territoire",
+      "Elles ne savent pas se nourrir de nectar",
+      "Elles s'en servent pour attirer les mâles"
+    ],
+    "bonneReponse": 0,
+    "explication": "Mâles et femelles se nourrissent de nectar, mais chez de nombreuses espèces les femelles sont aussi hématophages : le sang leur apporte les protéines nécessaires à la ponte. Ce sont elles qui peuvent transmettre des maladies comme le paludisme.",
+    "source": "D'après Wikipédia — Moustique"
+  },
+  {
+    "id": "q-animaux-083",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque insecte à son trait remarquable.",
+    "paires": [
+      {
+        "gauche": "Bousier",
+        "droite": "S'oriente avec la Voie lactée",
+        "explication": "Scarabaeus satyrus se guide la nuit grâce aux étoiles de la Voie lactée, comme sur une carte du ciel."
+      },
+      {
+        "gauche": "Monarque",
+        "droite": "Hiverne dans des forêts du Michoacán",
+        "explication": "Il parcourt des milliers de kilomètres pour rejoindre ces forêts de sapins sacrés du Mexique."
+      },
+      {
+        "gauche": "Termite",
+        "droite": "Cultive un champignon sur des meules",
+        "explication": "Les termites champignonnistes cultivent Termitomyces sur des meules d'excréments."
+      },
+      {
+        "gauche": "Mante religieuse",
+        "droite": "Pattes avant ravisseuses garnies de piques",
+        "explication": "Ces pattes se détendent d'un coup pour saisir des proies parfois aussi grosses qu'elle."
+      }
+    ],
+    "explication": "Un insecte peut se distinguer par son orientation, ses voyages, son agriculture ou sa chasse. Le bousier lit le ciel étoilé, le monarque migre, le termite cultive des champignons, la mante chasse à l'affût.",
+    "source": "D'après Wikipédia — Bousier"
+  },
+  {
+    "id": "q-animaux-084",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quelle particularité anatomique distingue la mante religieuse de la plupart des autres insectes ?",
+    "choix": [
+      "Sa tête peut pivoter à 180°",
+      "Elle possède six yeux composés",
+      "Elle n'a pas d'ailes à l'âge adulte",
+      "Elle respire par des branchies"
+    ],
+    "bonneReponse": 0,
+    "explication": "Contrairement à la plupart des insectes, la mante peut tourner la tête à 180°. Combinée à ses yeux écartés qui donnent une vision en relief, cette souplesse lui permet de suivre sa proie sans bouger le corps, ce qui fait d'elle une chasseuse à l'affût.",
+    "source": "D'après Wikipédia — Mante religieuse"
+  },
+  {
+    "id": "q-animaux-085",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "De quel oiseau actuel le dodo est-il le plus proche cousin ?",
+    "choix": [
+      "Le Nicobar à camail",
+      "L'autruche",
+      "Le dindon sauvage",
+      "Le râle de Maurice"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le dodo appartenait à la famille des pigeons. D'après les analyses génétiques, son cousin vivant le plus proche serait le Nicobar à camail, pigeon d'Asie du Sud-Est qui vit surtout au sol. Son parent connu le plus proche, le solitaire de Rodrigues, a disparu lui aussi.",
+    "source": "D'après Wikipédia — Dodo (oiseau)"
+  },
+  {
+    "id": "q-animaux-086",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Des mammouths laineux vivaient encore à l'époque où l'on construisait les pyramides de Gizeh.",
+    "reponse": true,
+    "explication": "Vrai. De petits groupes vivaient encore sur l'île Wrangel il y a environ 4 000 ans, alors qu'en Égypte on bâtissait la pyramide de Khéops et le sphinx. Sur le continent, en revanche, l'espèce avait disparu il y a 10 000 ans.",
+    "source": "D'après Wikipédia — Mammouth laineux"
+  },
+  {
+    "id": "q-animaux-087",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel est le plus proche parent vivant du thylacine, surnommé « loup de Tasmanie » ?",
+    "choix": [
+      "Le diable de Tasmanie",
+      "Le renard roux",
+      "Le dingo",
+      "Le loup gris"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le thylacine ressemblait à un loup, mais c'était un marsupial : cette ressemblance vient d'une évolution convergente, car il occupait la même place écologique. Son plus proche parent encore vivant est le diable de Tasmanie, autre marsupial carnivore de l'île.",
+    "source": "D'après Wikipédia — Thylacine"
+  },
+  {
+    "id": "q-animaux-088",
+    "domain": "animaux",
+    "format": "frise",
+    "question": "Remets ces étapes du destin de la tourte voyageuse dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Pehr Kalm décrit des nuées de tourtes voyageuses en Pennsylvanie",
+        "annee": "1749"
+      },
+      {
+        "label": "Une colonie de plus de cent millions d'oiseaux niche au Wisconsin",
+        "annee": "1871"
+      },
+      {
+        "label": "Dernière année d'un important tableau de chasse",
+        "annee": "1878"
+      },
+      {
+        "label": "Mort de Martha au zoo de Cincinnati",
+        "annee": "1914"
+      }
+    ],
+    "explication": "En 1749, des nuées cachent le Soleil en Pennsylvanie ; en 1871, plus de cent millions d'oiseaux nichent ensemble au Wisconsin. Sept ans plus tard, la chasse en masse prend fin faute de gibier, et Martha, la dernière, meurt en 1914.",
+    "source": "D'après Wikipédia — Tourte voyageuse"
+  },
+  {
+    "id": "q-animaux-089",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que signifie le nom « mégalodon » ?",
+    "choix": [
+      "Grande dent",
+      "Mâchoire géante",
+      "Roi des mers",
+      "Requin colossal"
+    ],
+    "bonneReponse": 0,
+    "explication": "Mégalodon vient du grec megalos, « grand », et odon, « dent ». On connaît ce requin presque uniquement par ses dents, épaisses et dentelées. Pendant des siècles, on les a prises pour des « langues de pierre » tombées du ciel.",
+    "source": "D'après Wikipédia — Mégalodon"
+  },
+  {
+    "id": "q-animaux-090",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Comment s'appelle le squelette de tyrannosaure le plus complet, découvert en 1990 ?",
+    "choix": [
+      "Sue",
+      "Stan",
+      "Bucky",
+      "Yuka"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Sue » porte le nom de Sue Hendrickson, qui l'a découverte le 12 août 1990 dans la formation de Hell Creek. Complet à environ 85 %, le squelette a été acheté 7,6 millions de dollars par le Field Museum de Chicago.",
+    "source": "D'après Wikipédia — Tyrannosaurus"
+  },
+  {
+    "id": "q-animaux-091",
+    "domain": "animaux",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je vivais dans l'Atlantique nord et ne venais à terre que pour nicher.",
+      "Je pesais environ 5 kg, et mes ailes ne mesuraient que 15 cm.",
+      "Je plongeais à 76 mètres au moins et je pouvais retenir mon souffle 15 minutes.",
+      "Mon nom a servi à désigner, par ressemblance, des oiseaux de l'hémisphère sud, les manchots.",
+      "Les deux derniers de mon espèce ont été tués en 1844 sur l'île d'Eldey, en Islande."
+    ],
+    "reponse": "Le grand pingouin",
+    "explication": "Incapable de voler, le grand pingouin était un excellent plongeur. Le mot « penguin » le désignait d'abord, avant d'être donné aux manchots, qui n'en sont pas de proches parents. Chassé sans relâche, il a disparu en 1844.",
+    "source": "D'après Wikipédia — Grand Pingouin"
+  },
+  {
+    "id": "q-animaux-092",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi les marsouins émettent-ils des ultrasons supérieurs à 100 kHz ?",
+    "choix": [
+      "Les orques, leurs prédateurs, ne les entendent pas",
+      "Pour porter plus loin que les dauphins",
+      "Pour communiquer avec les baleines",
+      "Pour étourdir leurs proies"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'audition des orques ne dépasse pas 100 kHz. Les marsouins ont fait évoluer des ultrasons plus aigus, inaudibles pour leurs plus grands prédateurs. Les attaques des orques ont donc poussé les marsouins à affiner leur écholocalisation.",
+    "source": "D'après Wikipédia — Écholocalisation"
+  },
+  {
+    "id": "q-animaux-093",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque animal à sa parade nuptiale.",
+    "paires": [
+      {
+        "gauche": "Le cerf",
+        "droite": "Il brame en septembre et octobre",
+        "explication": "Le brame attire les biches et intimide les autres mâles pendant le rut."
+      },
+      {
+        "gauche": "La frégate",
+        "droite": "Elle gonfle un sac rouge vif sous le bec",
+        "explication": "Le mâle exhibe ce sac gulaire rouge resplendissant pour séduire."
+      },
+      {
+        "gauche": "L'oiseau jardinier satiné",
+        "droite": "Il décore une tonnelle d'objets bleus",
+        "explication": "Les mâles ayant le plus de décorations ont en général plus de succès."
+      },
+      {
+        "gauche": "Le triton",
+        "droite": "Il danse en envoyant des phéromones",
+        "explication": "Le mâle agite sa queue pour diriger ses phéromones vers la femelle."
+      }
+    ],
+    "explication": "Chaque espèce a ses codes de séduction : le son pour le cerf, la couleur pour la frégate, l'architecture pour l'oiseau jardinier, la chimie pour le triton. Ces parades attirent le partenaire et réduisent l'agressivité entre eux.",
+    "source": "D'après Wikipédia — Parade nuptiale"
+  },
+  {
+    "id": "q-animaux-094",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel petit oiseau des Galápagos utilise des épines de cactus pour déloger des larves ?",
+    "choix": [
+      "Le pinson pic",
+      "Le héron vert",
+      "Le gypaète barbu",
+      "Le colibri"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le pinson pic (Camarhynchus pallidus), l'un des pinsons de Darwin, plante des épines de cactus sous l'écorce pour en tirer larves et insectes. Chez lui, ce comportement est en grande partie instinctif et peu flexible.",
+    "source": "D'après Wikipédia — Utilisation d'outils chez les animaux"
+  },
+  {
+    "id": "q-animaux-095",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Quelle est la différence entre apprivoiser un animal et domestiquer une espèce ?",
+    "choix": [
+      "Apprivoiser concerne un individu ; domestiquer modifie toute une lignée, sur de nombreuses générations",
+      "Apprivoiser exige une cage ; domestiquer se fait toujours en liberté",
+      "Il n'y a aucune différence : ce sont des synonymes",
+      "Domestiquer ne concerne que les animaux de ferme ; apprivoiser, les animaux de compagnie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Apprivoiser, c'est habituer un animal à l'homme. Domestiquer, c'est transformer une lignée sur de nombreuses générations, avec des caractères nouveaux et héréditaires, comme la docilité ou les oreilles tombantes. Le chien l'a été il y a au moins 15 000 ans.",
+    "source": "D'après Wikipédia — Domestication"
+  },
+  {
+    "id": "q-animaux-096",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quelle découverte de Jane Goodall, en octobre 1960, a ébranlé la définition de l'homme ?",
+    "choix": [
+      "Un chimpanzé fabriquait et utilisait un outil pour attraper des termites",
+      "Les chimpanzés se reconnaissent dans un miroir",
+      "Les chimpanzés sont strictement végétariens",
+      "Les chimpanzés parlent un langage articulé"
+    ],
+    "bonneReponse": 0,
+    "explication": "Elle observe un chimpanzé façonner des brins d'herbe pour « pêcher » les termites. L'outil étant alors réputé propre à l'homme, Louis Leakey déclare qu'il faut redéfinir l'homme, redéfinir l'outil, ou accepter le chimpanzé comme humain.",
+    "source": "D'après Wikipédia — Jane Goodall"
+  },
+  {
+    "id": "q-animaux-097",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel phénomène Konrad Lorenz a-t-il rendu célèbre en étudiant des oies cendrées ?",
+    "choix": [
+      "L'empreinte",
+      "L'hibernation",
+      "Le mimétisme",
+      "La migration"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un oison s'attache d'instinct au premier objet en mouvement qu'il voit après l'éclosion : sa mère, ou un humain. Lorenz a décrit cette empreinte en 1935 puis partagé le Nobel de 1973 avec Tinbergen et von Frisch, pour la naissance de l'éthologie.",
+    "source": "D'après Wikipédia — Konrad Lorenz"
+  },
+  {
+    "id": "q-animaux-098",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi le test du miroir convient-il mal aux chiens ?",
+    "choix": [
+      "Ils s'orientent surtout à l'odorat, pas à la vue",
+      "Ils ne supportent pas l'anesthésie",
+      "Leur poil empêche de voir la marque",
+      "Leur reflet les rend toujours agressifs"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le test repose sur la vue. Or le chien identifie surtout ses congénères par l'odeur : une image sans odeur ne lui dit presque rien. Alexandra Horowitz a donc imaginé en 2017 une version olfactive, où il examine plus longtemps sa propre odeur modifiée.",
+    "source": "D'après Wikipédia — Test du miroir"
+  },
+  {
+    "id": "q-animaux-099",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Dans quelle catégorie de la Liste rouge de l'UICN l'être humain figure-t-il ?",
+    "choix": [
+      "Préoccupation mineure",
+      "Quasi menacé",
+      "Vulnérable",
+      "Données insuffisantes"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'espèce humaine est classée « préoccupation mineure » (LC), catégorie des espèces largement répandues et abondantes. Les espèces « menacées » sont, elles, réparties en trois niveaux : vulnérable, en danger et en danger critique d'extinction.",
+    "source": "D'après Wikipédia — Liste rouge de l'UICN"
+  },
+  {
+    "id": "q-animaux-100",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Combien de bisons d'Europe restait-il à la fin des années 1920, tous dans des zoos ?",
+    "choix": [
+      "54",
+      "540",
+      "5 400",
+      "12"
+    ],
+    "bonneReponse": 0,
+    "explication": "À la fin des années 1920, il ne restait que 54 bisons d'Europe, uniquement en zoo. Seuls douze se sont reproduits, d'où une faible diversité génétique aujourd'hui. Les réintroductions en forêt de Białowieża ont commencé en 1952.",
+    "source": "D'après Wikipédia — Bison d'Europe"
+  },
+  {
+    "id": "q-animaux-101",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le cheval de Przewalski a disparu de la nature en 1969, avant d'être réintroduit en Mongolie à partir de 1992.",
+    "reponse": true,
+    "explication": "Vrai. Les derniers individus sauvages ont été vus en Mongolie en 1969, et l'espèce a survécu grâce aux zoos. Les premiers chevaux ont été ramenés en 1992 au parc national de Khustain Nuruu, et environ 330 vivaient en liberté fin 2007.",
+    "source": "D'après Wikipédia — Cheval de Przewalski"
+  },
+  {
+    "id": "q-animaux-102",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "La tourtière québécoise doit son nom à la tourte voyageuse, l'oiseau qui entrait dans sa recette.",
+    "reponse": false,
+    "explication": "Faux, c'est une légende urbaine. L'oiseau a pu servir à faire des pâtés, mais son nom vient du latin turturella (tourterelle), alors que « tourtière » vient de torta, qui désigne la pâte : le même mot a donné « tourte » et « tarte ».",
+    "source": "D'après Wikipédia — Tourte voyageuse"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "id": "animaux-001",
     "domain": "animaux",
-    "subtheme": "Mammifères marins",
+    "subtheme": "Faune marine",
     "type": "animal-rare",
     "title": "Vaquita",
     "subtitle": "Le mammifère marin le plus menacé au monde",
@@ -39,7 +39,7 @@
   {
     "id": "animaux-002",
     "domain": "animaux",
-    "subtheme": "Grands singes",
+    "subtheme": "Espèces menacées",
     "type": "animal-rare",
     "title": "Gorille des montagnes",
     "summary": "Le gorille des montagnes vit uniquement dans quelques massifs volcaniques d'Afrique centrale, à cheval sur plusieurs pays.\nGrâce à des décennies de conservation, sa population a lentement augmenté, mais il reste très vulnérable.",
@@ -68,7 +68,7 @@
   {
     "id": "animaux-003",
     "domain": "animaux",
-    "subtheme": "Faune d'Asie",
+    "subtheme": "Espèces menacées",
     "type": "animal-rare",
     "title": "Tigre de Sumatra",
     "summary": "Le tigre de Sumatra est la plus petite des sous-espèces de tigre encore existantes, isolée sur l'île indonésienne de Sumatra.\nIl est menacé par la déforestation liée aux plantations de palmiers à huile.",
@@ -100,7 +100,7 @@
   {
     "id": "animaux-004",
     "domain": "animaux",
-    "subtheme": "Faune d'Asie",
+    "subtheme": "Espèces menacées",
     "type": "animal-rare",
     "title": "Panda géant",
     "summary": "Le panda géant, emblème de la conservation mondiale, se nourrit presque exclusivement de bambou.\nGrâce à des décennies de protection en Chine, son statut est passé de « en danger » à « vulnérable ».",
@@ -136,7 +136,7 @@
   {
     "id": "animaux-005",
     "domain": "animaux",
-    "subtheme": "Faune d'Afrique",
+    "subtheme": "Espèces menacées",
     "type": "animal-rare",
     "title": "Rhinocéros noir",
     "summary": "Le rhinocéros noir d'Afrique a vu sa population s'effondrer au 20e siècle à cause du braconnage pour sa corne.\nDes efforts de protection intensifs ont permis une lente remontée des effectifs depuis les années 1990.",
@@ -243,7 +243,7 @@
   {
     "id": "animaux-008",
     "domain": "animaux",
-    "subtheme": "Comportement animal",
+    "subtheme": "Comportements",
     "type": "classique",
     "title": "La migration des oiseaux",
     "summary": "De nombreuses espèces d'oiseaux parcourent chaque année des milliers de kilomètres entre leurs zones de reproduction et d'hivernage.\nCes déplacements sont guidés par plusieurs repères naturels combinés.",
@@ -302,7 +302,7 @@
   {
     "id": "animaux-010",
     "domain": "animaux",
-    "subtheme": "Comportement animal",
+    "subtheme": "Comportements",
     "type": "classique",
     "title": "L'hibernation",
     "summary": "L'hibernation est un état de ralentissement extrême du métabolisme que certains animaux adoptent pour survivre à l'hiver, quand la nourriture se fait rare.\nLa température corporelle et le rythme cardiaque chutent fortement.",
@@ -375,7 +375,7 @@
   {
     "id": "animaux-012",
     "domain": "animaux",
-    "subtheme": "Grands singes",
+    "subtheme": "Espèces menacées",
     "type": "animal-rare",
     "title": "Orang-outan de Bornéo",
     "summary": "L'orang-outan de Bornéo est l'un des grands singes les plus menacés, en grande partie à cause de la disparition de la forêt tropicale.\nIl passe la quasi-totalité de sa vie dans les arbres.",
@@ -424,7 +424,7 @@
   {
     "id": "animaux-014",
     "domain": "animaux",
-    "subtheme": "Faune d'Afrique",
+    "subtheme": "Espèces menacées",
     "type": "animal-rare",
     "title": "Pangolin",
     "subtitle": "Le mammifère le plus braconné au monde",
@@ -451,7 +451,7 @@
   {
     "id": "animaux-015",
     "domain": "animaux",
-    "subtheme": "Comportement animal",
+    "subtheme": "Comportements",
     "type": "classique",
     "title": "Le mimétisme animal",
     "summary": "Le mimétisme est une stratégie de survie par laquelle un animal ressemble à un autre élément de son environnement pour se cacher ou dissuader ses prédateurs.\nIl existe plusieurs formes selon l'objectif recherché.",
@@ -1076,5 +1076,1929 @@
       ]
     },
     "source": "D'après Wikipédia — Fourmi"
+  },
+  {
+    "id": "animaux-033",
+    "domain": "animaux",
+    "subtheme": "Mammifères",
+    "type": "classique",
+    "title": "Le lion",
+    "subtitle": "Panthera leo, grand félin social d'Afrique et d'Inde",
+    "summary": "Le lion est le plus grand carnivore d'Afrique et le deuxième plus grand félin du monde, derrière le tigre. C'est aussi le seul félin à vivre en groupe : une famille de lionnes et de petits, surveillée par un ou quelques mâles à crinière.\nIl est classé vulnérable : ses effectifs africains ont baissé d'environ 43 % depuis le début des années 1990, et il n'en reste qu'un petit noyau en Inde, dans la forêt de Gir.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une crinière qui en dit long",
+          "texte": "Elle pousse à partir de trois ans et couvre les joues et les épaules. Longue et sombre, elle signale un mâle en pleine forme : les femelles la préfèrent, et les rivaux la respectent. Pourtant, elle capte la chaleur. La porter est un handicap, donc une preuve de robustesse. Les lions du Tsavo, eux, n'en ont pas."
+        },
+        {
+          "titre": "Une vie en groupe",
+          "texte": "Le groupe de lions, la pride, réunit des femelles apparentées et leurs petits. Les lionnes chassent ensemble, et peuvent approcher les 60 km/h sur de courtes distances. Le mâle chasse peu : il défend le territoire contre les intrus. Il avale pourtant 7 kg de viande par jour, contre 5 kg pour une femelle."
+        }
+      ],
+      "anecdotes": [
+        "Au bout de la queue du lion, caché dans la touffe de poils noirs, se trouve un petit ergot corné de 8 à 11 mm. Didyme d'Alexandrie fut le premier à le décrire et imaginait qu'il servait d'éperon pour exciter l'animal au combat."
+      ],
+      "wikipedia": "Lion"
+    },
+    "source": "D'après Wikipédia — Lion"
+  },
+  {
+    "id": "animaux-034",
+    "domain": "animaux",
+    "subtheme": "Mammifères",
+    "type": "classique",
+    "title": "La girafe",
+    "subtitle": "Giraffa, le plus grand animal terrestre actuel",
+    "summary": "La girafe peut atteindre 5,50 m de haut : c'est le plus grand animal terrestre vivant. Son cou ne compte pourtant que 7 vertèbres, comme celui de la plupart des mammifères, mais chacune mesure environ 40 cm. Elle broute les feuilles d'acacia hors de portée des autres herbivores.\nElle dort moins de deux heures par jour. Classée vulnérable, elle est passée de 155 000 individus en 1985 à environ 97 000 en 2015.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un cœur sous pression",
+          "texte": "Pour envoyer le sang jusqu'au cerveau, le cœur de la girafe pèse 11 kg et bat à 170 pulsations par minute : sa pression artérielle est deux fois celle d'un humain. Des valvules dans la jugulaire empêchent le sang de retomber vers la tête quand elle se penche. La NASA s'est inspirée de son réseau sanguin pour les combinaisons anti-G."
+        },
+        {
+          "titre": "Une langue de 55 cm",
+          "texte": "Sans incisives en haut, la girafe saisit les pousses avec sa langue sombre et préhensile, longue de 55 cm, puis les racle avec ses dents du bas. Elle mange de 7 à 70 kg par jour. L'acacia se défend : brouté, il produit plus de tanin, ses feuilles deviennent amères, et la girafe va voir plus loin."
+        }
+      ],
+      "anecdotes": [
+        "La girafe met bas debout : le girafon tombe donc de près de deux mètres de haut. Il doit tenir sur ses pattes en une heure environ pour atteindre le lait de sa mère. Sinon, elle ne l'adopte pas."
+      ],
+      "wikipedia": "Girafe"
+    },
+    "source": "D'après Wikipédia — Girafe"
+  },
+  {
+    "id": "animaux-035",
+    "domain": "animaux",
+    "subtheme": "Mammifères",
+    "type": "classique",
+    "title": "L'hippopotame",
+    "subtitle": "Hippopotamus amphibius, géant semi-aquatique d'Afrique",
+    "summary": "L'hippopotame est l'un des plus lourds mammifères terrestres : 1 500 kg en moyenne pour un mâle, derrière les éléphants. Il passe ses journées dans l'eau ou la boue et ne sort qu'au crépuscule pour brouter l'herbe.\nSes plus proches parents vivants ne sont ni les porcs ni les vaches, mais les baleines et les dauphins. Imprévisible et agressif, il a la réputation d'être l'un des animaux les plus dangereux du continent africain.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une gueule à presque 180°",
+          "texte": "Il peut ouvrir la gueule à près de 180°. Ses canines atteignent cinquante cm, mais elles ne servent qu'au combat : l'herbe est arrachée par ses larges lèvres, puis écrasée par les molaires. Sa morsure est la troisième plus puissante du règne animal, derrière celles des crocodiles marin et du Nil. Il broute quatre à cinq heures par nuit, jusqu'à 68 kg d'herbe."
+        },
+        {
+          "titre": "Un animal de rivière",
+          "texte": "Yeux, oreilles et narines sont placés au sommet du crâne : le corps reste immergé, les sens à l'air libre. Il remonte respirer toutes les cinq minutes, même endormi, sans se réveiller. Un mâle règne sur un tronçon de rivière et un groupe de 5 à 30 femelles, mais seulement dans l'eau : sur terre, chacun broute seul."
+        }
+      ],
+      "wikipedia": "Hippopotamus amphibius",
+      "anecdotes": [
+        "Sa peau sécrète un liquide rougeâtre surnommé « sueur de sang ». Ce n'est ni du sang ni de la sueur : c'est un écran solaire naturel, qui freine aussi les bactéries."
+      ]
+    },
+    "source": "D'après Wikipédia — Hippopotamus amphibius"
+  },
+  {
+    "id": "animaux-036",
+    "domain": "animaux",
+    "subtheme": "Mammifères",
+    "type": "classique",
+    "title": "Les chauves-souris",
+    "subtitle": "Chiroptères, les seuls mammifères au vol actif",
+    "summary": "Les chauves-souris, ou chiroptères, sont les seuls mammifères capables de voler vraiment. Avec près de 1 400 espèces, elles forment le groupe de mammifères le plus riche après les rongeurs, environ un cinquième de toutes les espèces connues.\nElles ne sont ni oiseaux, ni chauves, ni souris. Leur aile est une membrane de peau tendue entre les doigts : d'où leur nom savant, qui signifie « mains ailées ».",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une main devenue aile",
+          "texte": "L'aile est formée de quatre doigts démesurés reliés par une peau souple et élastique. Le pouce, lui, reste petit, avec une griffe pour s'accrocher ou ramper. Les petites espèces insectivores se guident dans le noir en émettant des ultrasons dont elles captent l'écho. Les grandes roussettes, aux grands yeux, se fient plutôt à la vue et à l'odorat."
+        },
+        {
+          "titre": "Des poids plume aux géantes",
+          "texte": "La plus petite, la chauve-souris de Kitti, mesure de 29 à 33 mm et pèse 2 g. La roussette géante à couronne dorée atteint 1,5 kg pour 1,6 m d'envergure. Leurs plus anciens squelettes complets, vieux de 52 millions d'années, ont été trouvés dans le Wyoming : l'un d'eux avait encore des griffes aux cinq doigts. Le vol est apparu avant l'écholocation."
+        }
+      ],
+      "wikipedia": "Chiroptera",
+      "anecdotes": [
+        "« Chauve-souris » serait une erreur née au haut Moyen Âge : un ancien mot signifiant « chouette-souris » aurait été déformé en « souris chauve ». Jusqu'au début du XIXe siècle, on la rangeait même parmi les oiseaux."
+      ]
+    },
+    "source": "D'après Wikipédia — Chiroptera"
+  },
+  {
+    "id": "animaux-037",
+    "domain": "animaux",
+    "subtheme": "Mammifères",
+    "type": "classique",
+    "title": "Le koala",
+    "subtitle": "Phascolarctos cinereus, marsupial arboricole d'Australie",
+    "summary": "Le koala est un marsupial arboricole qui ne vit qu'en Australie et ne mange que les feuilles de certains eucalyptus. Ce n'est pas un ours : la femelle porte son petit dans une poche, où il passe ses six à sept premiers mois.\nCe régime pauvre et toxique le condamne à dormir jusqu'à vingt heures par jour. L'espèce est classée vulnérable, menacée par la perte de son habitat : il reste moins de 80 000 koalas en liberté.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un régime d'eucalyptus",
+          "texte": "Les feuilles d'eucalyptus sont peu nourrissantes et toxiques pour la plupart des mammifères. Le koala digère grâce à un cæcum de 2,5 m de long et à l'un des métabolismes les plus lents du monde animal. Son gros nez trie les feuilles les moins toxiques. Il boit peu, car elles contiennent beaucoup d'eau : son nom, dans la langue darug, signifie « pas d'eau »."
+        },
+        {
+          "titre": "Un minuscule cerveau",
+          "texte": "Le cerveau du koala ne représente que 0,2 % de son poids, l'un des plus petits parmi les mammifères. Il remplit à peine la boîte crânienne, dont 40 % sont occupés par du liquide. Les scientifiques y voient une adaptation à un régime qui apporte très peu d'énergie. Autres particularités : c'est le seul marsupial sans queue, et sa poche s'ouvre vers le bas."
+        }
+      ],
+      "wikipedia": "Koala",
+      "anecdotes": [
+        "Comme les primates, le koala possède des empreintes digitales, une rareté chez les animaux. Elles ressemblent tant aux nôtres qu'on pourrait les confondre."
+      ]
+    },
+    "source": "D'après Wikipédia — Koala"
+  },
+  {
+    "id": "animaux-038",
+    "domain": "animaux",
+    "subtheme": "Mammifères",
+    "type": "classique",
+    "title": "Le kangourou",
+    "subtitle": "Marsupial emblématique d'Australie",
+    "summary": "Le kangourou est un marsupial d'Australie aux grandes pattes arrière, à la queue puissante et à la poche ventrale. Le kangourou roux est le plus grand marsupial vivant : un mâle peut atteindre 1,8 m et 85 kg.\nIl avance par bonds à 20 ou 30 km/h sans forcer, et peut filer jusqu'à 80 km/h en pointe. Mais ses grandes pattes et sa queue l'empêchent de reculer.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un bébé d'un gramme",
+          "texte": "Après 30 à 38 jours de gestation, le petit naît à l'état d'embryon : 2 cm pour 1 g. Il rampe seul dans la fourrure de sa mère, qui lui trace un chemin de salive, jusqu'à la poche. Il y reste de 235 à 250 jours. La femelle peut avoir en même temps un petit qui sort déjà de la poche, un autre qui tète, et un embryon dont la croissance est suspendue."
+        },
+        {
+          "titre": "Bondir, boxer, se défendre",
+          "texte": "Ses bonds peuvent atteindre 3,5 m de haut et 13 m de long. Au repos, la queue sert de trépied. Les mâles se battent en s'appuyant dessus, à coups de pattes. Un adulte peut tuer un dingo, ou noyer un chien en l'entraînant dans l'eau. Ses molaires s'usent et avancent dans la bouche avant de tomber, remplacées par de nouvelles à l'arrière."
+        }
+      ],
+      "wikipedia": "Kangourou",
+      "anecdotes": [
+        "On raconte que « kangourou » signifierait « je ne comprends pas », réponse d'un Aborigène à James Cook. Le linguiste John B. Haviland a prouvé dans les années 1970 que gangurru désignait en réalité un grand kangourou. Le mot est noté pour la première fois en 1770."
+      ]
+    },
+    "source": "D'après Wikipédia — Kangourou"
+  },
+  {
+    "id": "animaux-039",
+    "domain": "animaux",
+    "subtheme": "Mammifères",
+    "type": "classique",
+    "title": "Le paresseux",
+    "subtitle": "Folivora, mammifère d'Amérique suspendu aux arbres",
+    "summary": "Les paresseux vivent en Amérique centrale et du Sud, l'essentiel de leur vie la tête en bas, accrochés aux branches. Leur métabolisme, deux fois plus lent que celui des autres mammifères, les fait se déplacer à moins de 10 m par minute.\nIl existe sept espèces actuelles, à deux ou trois griffes aux mains. Leurs cousins disparus étaient des paresseux géants vivant au sol, dont certains rivalisaient de taille avec les éléphants.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un pelage verdâtre",
+          "texte": "Des algues et des cyanobactéries vivent dans les poils du paresseux et le teintent de vert à la saison des pluies. C'est un camouflage, une isolation, et sans doute une source de nutriments : les paresseux captifs survivent mal, peut-être faute de ces algues. Des papillons de nuit pondent dans ses excréments puis remontent dans sa fourrure, ce qui nourrirait les algues."
+        },
+        {
+          "titre": "Une descente risquée",
+          "texte": "Le paresseux à gorge brune descend une fois par semaine au sol pour ses besoins : sa digestion, très lente, peut durer jusqu'à un mois. C'est là qu'il est le plus vulnérable : au Costa Rica, plus de la moitié des décès surviendraient pendant cette descente. Les chercheurs ne savent pas pourquoi il prend ce risque. Sa lenteur est aussi son camouflage face au jaguar ou à l'aigle harpie."
+        }
+      ],
+      "wikipedia": "Paresseux",
+      "anecdotes": [
+        "Le paresseux à trois doigts a neuf vertèbres cervicales, au lieu de sept chez la plupart des mammifères. Il peut ainsi tourner la tête sur près de 270°."
+      ]
+    },
+    "source": "D'après Wikipédia — Paresseux"
+  },
+  {
+    "id": "animaux-040",
+    "domain": "animaux",
+    "subtheme": "Mammifères",
+    "type": "classique",
+    "title": "Le castor d'Europe",
+    "subtitle": "Castor fiber, le plus grand rongeur d'Europe",
+    "summary": "Le castor d'Europe est le plus grand rongeur d'Europe, et l'un des rares animaux capables de couper des arbres et de bâtir des barrages. On le qualifie d'« espèce-ingénieur » : ses retenues d'eau enrichissent les zones humides.\nChassé pour sa fourrure et son castoréum, il n'en restait qu'environ 1 200 au début du XXe siècle. Protégé et réintroduit, il en compte aujourd'hui au moins 1,5 million.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un ingénieur de rivière",
+          "texte": "Le castor construit barrages, huttes et terriers. Lui seul sait abattre à coups de dents des arbres plus gros que lui ; même l'éléphant ne fait que les arracher ou les renverser. La souche repart en rejets. Ses barrages retiennent l'eau et ouvrent la forêt riveraine à la lumière, ce qui fait grimper la diversité des plantes et des animaux autour des zones humides qu'il crée."
+        },
+        {
+          "titre": "Un corps taillé pour l'eau",
+          "texte": "Sa queue plate, d'environ 30 cm, cache 24 vertèbres. Elle sert de gouvernail, de réserve de graisse pour l'hiver, de radiateur, et d'alarme : au danger, il claque l'eau de sa queue à plat. Son pelage compte de 12 000 à 23 000 poils par cm². Ses pieds sont entièrement palmés ; le deuxième doigt porte un ongle double, qui lui sert de peigne."
+        }
+      ],
+      "wikipedia": "Castor fiber",
+      "anecdotes": [
+        "Le castor d'Europe a 48 chromosomes, celui d'Amérique du Nord 40. En Russie, plus de 27 tentatives de croisement n'ont donné qu'un seul petit, mort-né."
+      ]
+    },
+    "source": "D'après Wikipédia — Castor fiber"
+  },
+  {
+    "id": "animaux-041",
+    "domain": "animaux",
+    "subtheme": "Mammifères",
+    "type": "classique",
+    "title": "Le hérisson d'Europe",
+    "subtitle": "Erinaceus europaeus, petit insectivore nocturne",
+    "summary": "Le hérisson d'Europe est un petit mammifère nocturne qui se nourrit d'insectes, de vers, d'escargots et de limaces : un allié des jardiniers. Son dos porte de 5 000 à 7 500 piquants, des poils creux et rigides.\nEn 2024, il est passé de « préoccupation mineure » à « quasi menacé » sur la liste rouge de l'UICN, car ses populations s'effondrent rapidement dans plusieurs pays de l'ouest du continent.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une armure articulée",
+          "texte": "Les piquants sortent de la peau par trois. Creux, donc légers, et cannelés, ils sont quasi incassables : on pourrait théoriquement suspendre l'animal à un seul. Chacun tient jusqu'à 18 mois. Face au danger, le hérisson dresse d'abord ses piquants. Il ne se met en boule que lorsqu'on le touche, et peut y rester des heures. Seul le blaireau a été vu en train d'ouvrir une boule."
+        },
+        {
+          "titre": "Un chasseur du soir",
+          "texte": "Il dort environ 18 heures par jour, puis chasse à l'odorat et à l'ouïe, car sa vue est très basse : il entend même un ver de terre se glisser sous les feuilles. Sa masse varie énormément : il peut peser 300 g, mais dépasse 2 kg avant l'hiver. Il hiberne alors dans un nid de feuilles mortes, en puisant 30 % de ses réserves de graisse."
+        }
+      ],
+      "wikipedia": "Erinaceus europaeus",
+      "anecdotes": [
+        "On croit souvent bien faire en offrant du pain ou du lait de vache à un hérisson : c'est une erreur, car ils provoquent chez lui des diarrhées mortelles. De l'eau et de la pâtée pour chat sont préférables."
+      ]
+    },
+    "source": "D'après Wikipédia — Erinaceus europaeus"
+  },
+  {
+    "id": "animaux-042",
+    "domain": "animaux",
+    "subtheme": "Mammifères",
+    "type": "classique",
+    "title": "Le dromadaire",
+    "subtitle": "Camelus dromedarius, le chameau à une bosse",
+    "summary": "Le dromadaire est le chameau à une seule bosse. Domestiqué dans la péninsule arabique il y a environ 4 000 ans, il porte hommes et marchandises à travers les déserts : on l'appelle le « vaisseau du désert ».\nSa bosse ne contient pas d'eau : c'est un stock de graisse pouvant dépasser 100 kg. Il n'existe plus à l'état sauvage depuis près de 2 000 ans.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Champion de l'économie d'eau",
+          "texte": "Sa température interne peut varier de 34 °C la nuit à 42 °C en pleine chaleur sans fièvre, ce qui lui économise de l'eau. Il peut rester 2 à 3 semaines sans boire en saison chaude. Ses sinus récupèrent l'eau de l'air expiré, et ses naseaux se ferment complètement. Il boit jusqu'à 15 litres par minute : trop d'eau d'un coup tuerait la plupart des mammifères."
+        },
+        {
+          "titre": "Un pied-pneu, un estomac sobre",
+          "texte": "Sans sabots, son pied large et élastique évoque un pneu : la graisse y remplace la chambre à air, d'où sa souplesse sur le sable. Un coussinet sur le sternum garde le ventre au-dessus du sol brûlant. En période de disette, une ration quotidienne de 4 à 5 kg d'acacia lui suffit, et, déshydraté, son urine atteint le double de la concentration de l'eau de mer."
+        }
+      ],
+      "wikipedia": "Dromadaire",
+      "anecdotes": [
+        "En période de rut, le mâle gonfle son voile du palais : une poche rose d'environ 18 cm qui pend d'un côté de la gueule. On la prend souvent pour sa langue. Les Arabes l'appellent la doula."
+      ]
+    },
+    "source": "D'après Wikipédia — Dromadaire"
+  },
+  {
+    "id": "animaux-043",
+    "domain": "animaux",
+    "subtheme": "Mammifères",
+    "type": "classique",
+    "title": "Le rat-taupe nu",
+    "subtitle": "Heterocephalus glaber, rongeur souterrain d'Afrique de l'Est",
+    "summary": "Le rat-taupe nu est un petit rongeur rose et presque sans poils, qui vit sous terre en colonies de 70 à 300 individus. Comme chez les abeilles ou les fourmis, une seule reine se reproduit ; les autres travaillent, creusent ou montent la garde.\nIl peut vivre plus de 30 ans en captivité, résiste au cancer et survit 18 minutes sans oxygène : un champion de la biologie extrême.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une société de type insecte",
+          "texte": "Une colonie compte une seule femelle reproductrice, la reine, et quelques mâles. Les autres femelles restent non fécondes tant qu'elle vit. Une portée compte une douzaine de petits, jusqu'à 27, un record chez les mammifères. Les rôles (ouvrières, soldats...) sont répartis, et chaque colonie a son propre dialecte vocal, reconnu par tous ses membres."
+        },
+        {
+          "titre": "Un vieillissement négligeable",
+          "texte": "À partir de 40 ans, notre risque de mourir double tous les 8 ans. Chez le rat-taupe nu, il n'augmente pas avec l'âge. Son acide hyaluronique, cinq fois plus massif que chez l'homme ou la souris, bloquerait les tumeurs, comme l'ont montré en 2013 des chercheurs de l'université de Rochester. Il serait aussi insensible à la douleur de l'acide."
+        },
+        {
+          "titre": "Sans oxygène, presque à sang froid",
+          "texte": "Il survit 18 minutes sans oxygène : il perd connaissance, son cœur ralentit de 200 à 50 battements par minute, et il utilise le fructose pour produire de l'énergie. Il ne régule presque pas sa température, qui suit celle de l'air : quand il a froid, les rats-taupes se serrent les uns contre les autres ou remontent vers les galeries chauffées par le soleil."
+        }
+      ],
+      "wikipedia": "Rat-taupe nu",
+      "anecdotes": [
+        "En 2013, la revue Science a élu le rat-taupe nu « vertébré de l'année », après la découverte de ses défenses contre le cancer."
+      ]
+    },
+    "source": "D'après Wikipédia — Rat-taupe nu"
+  },
+  {
+    "id": "animaux-044",
+    "domain": "animaux",
+    "subtheme": "Mammifères",
+    "type": "classique",
+    "title": "La loutre de mer",
+    "subtitle": "Enhydra lutris, la loutre des eaux froides du Pacifique Nord",
+    "summary": "La loutre de mer, ou énhydre marine, vit sur les côtes du Pacifique Nord, du Japon à la Californie. Avec 14 à 45 kg, c'est le plus lourd des mustélidés, mais l'un des plus petits mammifères marins. Elle peut passer toute sa vie sans quitter l'eau, souvent allongée sur le dos.\nElle n'a pas de graisse : sa fourrure, la plus dense du règne animal, la protège du froid.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une fourrure sans égale",
+          "texte": "Jusqu'à 150 000 poils par cm² : aucun animal n'en a davantage. De longs poils imperméables gardent un sous-poil court bien sec, et une couche d'air, réchauffée par le corps, tient l'eau froide à distance. Pour que ce système marche, la fourrure doit rester très propre : grâce à sa peau lâche et à son squelette souple, la loutre peut se toiletter partout."
+        },
+        {
+          "titre": "Un outil, une pierre",
+          "texte": "Elle plonge au fond pour manger oursins, mollusques, crustacés et quelques poissons, et utilise des cailloux pour décoller ses proies ou casser les coquilles : peu de mammifères savent utiliser des outils comme elle. En mangeant les oursins, qui dévasteraient les forêts de varech, elle protège tout l'écosystème : on la dit espèce clé de voûte."
+        }
+      ],
+      "anecdotes": [
+        "Pendant l'hiver 1741-1742, l'expédition de Vitus Béring fit naufrage sur une île du Pacifique Nord. Sur 78 hommes, seuls 47 survécurent, en partie grâce à la chasse aux loutres de mer. Le naturaliste Georg Steller en fit la première description scientifique."
+      ],
+      "wikipedia": "Enhydra lutris"
+    },
+    "source": "D'après Wikipédia — Enhydra lutris"
+  },
+  {
+    "id": "animaux-045",
+    "domain": "animaux",
+    "subtheme": "Vocabulaire animalier",
+    "type": "vocabulaire",
+    "title": "Vertébré vs invertébré",
+    "subtitle": "Animaux avec ou sans colonne vertébrale",
+    "summary": "Un invertébré est un animal sans colonne vertébrale : insecte, mollusque, ver, méduse, crustacé, éponge... Un vertébré en possède une, comme nous.\nLes invertébrés forment l'immense majorité des animaux : plus de 95 % des espèces décrites. Pourtant, ce mot n'est pas une vraie famille scientifique, juste un moyen pratique de désigner « tous les autres ».",
+    "details": {
+      "definition": "Un invertébré est un animal dépourvu de colonne vertébrale, et plus généralement d'os, qu'ils soient internes ou externes.",
+      "exemple": "Le ver de terre, l'escargot, la méduse, le crabe et l'abeille sont des invertébrés ; l'être humain est un vertébré.",
+      "confusions": [
+        {
+          "mot": "Vertébré",
+          "explication": "Animal doté d'une colonne vertébrale : un groupe cohérent, issu d'un ancêtre commun, mais minoritaire parmi les espèces animales."
+        },
+        {
+          "mot": "Animal à carapace",
+          "explication": "Une coquille ou une carapace n'est pas un os : crustacés et insectes en portent, et restent des invertébrés."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un mot pratique, pas une famille",
+          "texte": "Le terme vient de Jean-Baptiste de Lamarck, en 1806. En science, il n'est plus valide : les invertébrés forment un ensemble hétéroclite, défini par ce qui leur manque. Certains, comme les tuniciers, sont même plus proches des vertébrés que d'autres invertébrés. On préfère aujourd'hui d'autres divisions, fondées sur le développement de l'embryon."
+        },
+        {
+          "titre": "Les grands oubliés du vivant",
+          "texte": "Leur taille va de 10 micromètres à 9 ou 10 m pour le calmar colossal. Leur nombre est mal connu, car beaucoup sont petits et discrets. Un sur cinq serait menacé de disparition. Pourtant, la pollinisation des cultures par les insectes vaudrait 153 milliards d'euros par an : on parle de « biodiversité négligée »."
+        }
+      ],
+      "wikipedia": "Invertébré"
+    },
+    "source": "D'après Wikipédia — Invertébré"
+  },
+  {
+    "id": "animaux-046",
+    "domain": "animaux",
+    "subtheme": "Vocabulaire animalier",
+    "type": "classique",
+    "title": "La métamorphose",
+    "subtitle": "Du têtard à la grenouille, de la chenille au papillon",
+    "summary": "La métamorphose est le passage brusque d'une larve à un adulte, qui change en profondeur le corps de l'animal. La chenille devient papillon, le têtard devient grenouille.\nElle touche aussi des crustacés, des mollusques, des échinodermes et certains poissons, comme le saumon ou l'anguille. Souvent, la larve et l'adulte ne mangent pas la même chose, et ne se font donc pas concurrence.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Complète ou incomplète",
+          "texte": "Chez les insectes, la métamorphose est complète (holométabole) quand la larve passe par une nymphe, appelée chrysalide chez le papillon, avant de devenir un adulte très différent : c'est le cas des mouches, des abeilles, des papillons et des scarabées. Elle est incomplète quand le jeune ressemble déjà à l'adulte, sans ailes : libellules, sauterelles, punaises."
+        },
+        {
+          "titre": "Chez les amphibiens",
+          "texte": "Chez la grenouille, les hormones thyroïdiennes déclenchent la transformation : la queue du têtard est résorbée par mort cellulaire programmée. L'environnement joue aussi : un têtard né en mai se transforme dès l'été, mais celui né en juillet passe l'hiver au ralenti et attend le printemps."
+        },
+        {
+          "titre": "Chez les poissons",
+          "texte": "Le jeune flet a un œil de chaque côté de la tête ; chez l'adulte, un œil migre de l'autre côté, qui devient le dessus du corps. L'anguille d'Europe change plusieurs fois de forme : larve, civelle, puis anguille. Le saumon, lui, passe de l'eau douce à l'eau salée."
+        }
+      ],
+      "anecdotes": [
+        "Une chenille peut garder des souvenirs de sa vie de chenille. Des chenilles de Manduca sexta, exposées à une odeur associée à de légers chocs électriques, ont évité cette odeur une fois devenues papillons."
+      ],
+      "wikipedia": "Métamorphose (biologie)"
+    },
+    "source": "D'après Wikipédia — Métamorphose (biologie)"
+  },
+  {
+    "id": "animaux-047",
+    "domain": "animaux",
+    "subtheme": "Vocabulaire animalier",
+    "type": "vocabulaire",
+    "title": "Herbivore, carnivore ou omnivore",
+    "subtitle": "Les grands régimes alimentaires",
+    "summary": "Un omnivore mange à la fois des végétaux et des animaux. Cette souplesse lui permet un régime opportuniste, qui varie selon les saisons et les aliments disponibles. L'être humain, l'ours, le sanglier, le renard et le hérisson sont omnivores.\nUn herbivore se nourrit surtout de plantes, un carnivore surtout de chair. Ces mots décrivent le régime habituel de l'espèce, pas les écarts occasionnels.",
+    "details": {
+      "definition": "Un omnivore est un animal dont l'appareil digestif lui permet de tirer son énergie à la fois des végétaux et des animaux.",
+      "exemple": "Le renard roux mange de préférence de petits mammifères et des oiseaux, mais aussi des grenouilles, des insectes, des baies, et en mauvaise saison des charognes.",
+      "confusions": [
+        {
+          "mot": "Carnivore",
+          "explication": "Se nourrit surtout de chair, comme l'ours polaire ; le renard, classé parmi les Carnivora, est pourtant omnivore."
+        },
+        {
+          "mot": "Herbivore",
+          "explication": "Se nourrit surtout de plantes ; la girafe ou la vache qui rongent un os pour ses minéraux ne deviennent pas omnivores."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un régime opportuniste",
+          "texte": "L'être humain est omnivore : les chasseurs-cueilleurs du Paléolithique complétaient les végétaux par des insectes, des coquillages, des poissons, des œufs et de la viande. Chez l'ours, le régime va de presque végétarien à presque carnivore selon le lieu et la saison. Le loup à crinière tire la moitié de sa nourriture des plantes. Le poisson rouge et la grenouille-taureau sont aussi omnivores."
+        },
+        {
+          "titre": "Un régime qui change avec l'âge",
+          "texte": "Certains animaux changent de régime au cours de leur vie. Les larves de moustiques mangent des plantes ou des détritus ; adulte, le mâle continue avec le nectar, mais la femelle y ajoute du sang pour se reproduire. Les oies mangent surtout des animaux à un stade de leur vie, puis des plantes. On les appelle omnivores du cycle de vie."
+        }
+      ],
+      "wikipedia": "Omnivore"
+    },
+    "source": "D'après Wikipédia — Omnivore"
+  },
+  {
+    "id": "animaux-048",
+    "domain": "animaux",
+    "subtheme": "Vocabulaire animalier",
+    "type": "vocabulaire",
+    "title": "Ectotherme vs endotherme",
+    "subtitle": "Qui produit sa chaleur, qui l'emprunte ?",
+    "summary": "Un ectotherme produit peu ou pas de chaleur et dépend du milieu pour se réchauffer : c'est le cas des insectes, des reptiles et des poissons. Un endotherme, comme les mammifères et les oiseaux, fabrique sa propre chaleur.\nOn dit à tort « à sang froid » : la température d'un ectotherme n'est pas forcément basse. Son avantage : il a besoin de beaucoup moins de nourriture.",
+    "details": {
+      "definition": "Un ectotherme est un animal qui produit très peu de chaleur interne et règle sa température grâce à des sources extérieures, comme le soleil.",
+      "exemple": "Un lézard se réchauffe au soleil le matin, puis cherche l'ombre ou l'eau fraîche quand il fait trop chaud.",
+      "confusions": [
+        {
+          "mot": "Endotherme",
+          "explication": "Produit sa chaleur grâce à son métabolisme et garde une température élevée à peu près constante, mais doit manger beaucoup plus."
+        },
+        {
+          "mot": "Poïkilotherme",
+          "explication": "Animal dont la température varie beaucoup avec le milieu : le cas de nombreux ectothermes, mais pas de tous, notamment en eau constante."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Se réchauffer sans produire de chaleur",
+          "texte": "Les reptiles et de nombreux insectes se placent au soleil, en orientant leur corps pour capter un maximum de chaleur. Les abeilles se serrent en hiver pour garder la chaleur. Le papillon étale ses ailes avant de s'envoler. La peau de la grenouille-taureau sécrète plus de mucus quand il fait chaud, ce qui la refroidit. La grenouille des bois, elle, peut mettre son métabolisme à l'arrêt pendant le froid."
+        },
+        {
+          "titre": "Économe, mais dépendant",
+          "texte": "À poids égal, un ectotherme a un métabolisme plus lent : il a besoin de moins de nourriture, et peut attendre longtemps une proie. Mais il est lent la nuit et le matin, vulnérable au gel et aux grosses chaleurs. Très gros, un animal peut garder une température stable : on parle de gigantothermie. Les poissons des abysses vivent dans une eau à température constante."
+        }
+      ],
+      "wikipedia": "Ectotherme"
+    },
+    "source": "D'après Wikipédia — Ectotherme"
+  },
+  {
+    "id": "animaux-049",
+    "domain": "animaux",
+    "subtheme": "Oiseaux",
+    "type": "classique",
+    "title": "Manchot empereur",
+    "subtitle": "Le plus grand des manchots, endémique de l'Antarctique",
+    "summary": "Le manchot empereur est le plus grand et le plus lourd des manchots : jusqu'à 122 cm et de 20 à 40 kg. Il vit uniquement en Antarctique, où il reste actif par -40 °C et nage dans une eau à -1,8 °C.\nC'est le seul manchot qui se reproduit en plein hiver antarctique. Il sait aussi plonger à plus de 500 m de profondeur.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un corps conçu pour le froid",
+          "texte": "Avec 15 plumes par cm², son plumage est le plus serré de tous les oiseaux et assure 80 à 90 % de son isolation. À terre, des muscles dressent les plumes pour emprisonner une couche d'air ; dans l'eau, elles se plaquent contre la peau. Jusqu'à 3 cm de graisse complètent l'ensemble : sa température corporelle reste autour de 38 °C, même par -47 °C."
+        },
+        {
+          "titre": "Un plongeur hors norme",
+          "texte": "Pendant une plongée, son cœur ne bat plus que cinq fois par minute, tandis que les organes secondaires se mettent en sommeil. Son hémoglobine fonctionne même avec très peu de dioxygène et ses os solides résistent à une pression 40 fois plus forte qu'en surface. Un record a été mesuré à 535 m de profondeur, près du détroit de McMurdo."
+        },
+        {
+          "titre": "Couver en plein hiver",
+          "texte": "Chaque année, les adultes parcourent à pied entre 50 et 120 km de glace pour rejoindre la colonie. La femelle pond un seul œuf : le mâle le couve et jeûne plus de deux mois, perdant environ 12 kg, pendant qu'elle retourne se nourrir en mer. Sans nid fixe, parents et poussin se retrouvent grâce à leurs cris, les plus variés de tous les manchots."
+        }
+      ],
+      "anecdotes": [
+        "Pour se réchauffer, les manchots se serrent en un amas appelé « tortue », où la température peut atteindre 37 °C en 45 minutes. Selon les chercheurs, chacun agit pour lui-même : ceux du bord, battus par le blizzard, contournent le groupe pour se mettre à l'abri du vent, et les places tournent ainsi sans plan d'ensemble."
+      ],
+      "wikipedia": "Manchot empereur"
+    },
+    "source": "D'après Wikipédia — Manchot empereur"
+  },
+  {
+    "id": "animaux-050",
+    "domain": "animaux",
+    "subtheme": "Oiseaux",
+    "type": "classique",
+    "title": "Faucon pèlerin",
+    "subtitle": "Rapace cosmopolite, champion de vitesse en piqué",
+    "summary": "Aucun oiseau ne va plus vite en piqué que le faucon pèlerin. Ce rapace de taille moyenne chasse presque exclusivement des oiseaux et vit sur tous les continents sauf l'Antarctique.\nPresque disparu à cause du pesticide DDT après la Seconde Guerre mondiale, il est protégé depuis les années 1970 et ses populations sont de nouveau en progression.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un piqué vertigineux",
+          "texte": "Le faucon attaque par l'arrière de sa proie, selon un angle de 20 à 40°. En 2005, Ken Franklin a enregistré un piqué à 389 km/h ; les mesures courantes se situent plutôt entre 130 et 184 km/h. Ses narines ont des sortes de cônes, comme l'entrée d'un réacteur, qui l'aident à respirer à pleine vitesse. Son bec, muni d'une échancrure, sectionne les vertèbres de la proie."
+        },
+        {
+          "titre": "Des falaises aux cathédrales",
+          "texte": "Le faucon ne bâtit pas de nid : il utilise une simple corniche d'au moins 45 cm de large, où la femelle creuse une petite cuvette. Il s'installe aussi en ville, à Albi, Rodez, Strasbourg ou Périgueux, où les pigeons abondent. Les jeunes volent au bout de 35 à 42 jours, puis leurs parents leur apprennent à chasser pendant six à neuf semaines."
+        }
+      ],
+      "anecdotes": [
+        "La tache noire sous l'œil du faucon, appelée bande malaire, serait une sorte de lunette de soleil naturelle : une étude de 2021, fondée sur des photos du monde entier, montre qu'elle est plus large là où l'ensoleillement est fort, et qu'elle réduit l'éblouissement."
+      ],
+      "wikipedia": "Faucon pèlerin"
+    },
+    "source": "D'après Wikipédia — Faucon pèlerin"
+  },
+  {
+    "id": "animaux-051",
+    "domain": "animaux",
+    "subtheme": "Oiseaux",
+    "type": "classique",
+    "title": "Effraie des clochers",
+    "subtitle": "La chouette blanche au vol silencieux",
+    "summary": "L'effraie des clochers, aussi appelée dame blanche, est l'espèce de chouette la plus répandue au monde : on la trouve sur tous les continents sauf l'Antarctique. Son masque facial blanc a la forme d'un cœur.\nElle chasse la nuit, surtout des petits rongeurs, avec le vol le plus silencieux de tous les oiseaux. En France, il resterait entre 20 000 et 50 000 couples.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un vol presque inaudible",
+          "texte": "Sur ses premières plumes d'aile, de fines pointes rigides forment un « peigne » qui modifie le flux d'air, et ses plumes au dessus duveteux étouffent les frottements. Résultat : une proie ne l'entend pas arriver. Ces formes ont inspiré des éoliennes et des ventilateurs d'ordinateur silencieux. Chaque effraie mange trois ou quatre proies par nuit, soit plus de 4 000 par an pour un couple et ses petits."
+        },
+        {
+          "titre": "Elle chasse à l'oreille",
+          "texte": "Dans les années 1950, le zoologiste Roger Payne a fait courir une souris dans une grange plongée dans le noir, avec un papier bruissant attaché derrière elle : la chouette a saisi le papier, pas la souris. Elle se repère donc au son, grâce à ses disques faciaux et à des oreilles asymétriques qui lui donnent la hauteur du bruit. Elle a aussi besoin de cinquante fois moins de lumière que nous pour voir."
+        }
+      ],
+      "anecdotes": [
+        "Les effraies à plumage blanc chassent mieux que celles au ventre roux les nuits de pleine lune : la lumière reflétée sur leurs plumes éblouit les campagnols comme un flash, et ceux-ci se figent, ce qui les rend plus faciles à capturer."
+      ],
+      "wikipedia": "Effraie des clochers"
+    },
+    "source": "D'après Wikipédia — Effraie des clochers"
+  },
+  {
+    "id": "animaux-052",
+    "domain": "animaux",
+    "subtheme": "Oiseaux",
+    "type": "classique",
+    "title": "Albatros hurleur",
+    "subtitle": "Le plus grand voilier des mers australes",
+    "summary": "Aucun oiseau actuel n'a des ailes aussi larges que l'albatros hurleur : de 2,54 à 3,51 m d'envergure en général, avec un record à 3,63 m. Il passe l'essentiel de sa vie en vol au-dessus des océans du Sud.\nMonogame, il ne se reproduit que tous les deux ans. Il peut vivre jusqu'à 80 ans, mais la pêche à la palangre le menace.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Planer sans effort",
+          "texte": "Des tendons bloquent les articulations de ses ailes, ce qui lui permet de planer longtemps sans se fatiguer, même par des vents de plus de 160 km/h. Il couvre des distances énormes : un oiseau bagué aurait couvert 6 000 km en douze jours, et certains feraient trois fois le tour de l'océan Austral en un an. À terre, en revanche, il marche maladroitement et atterrit parfois en roulant sur lui-même."
+        },
+        {
+          "titre": "Le plus long élevage d'oiseau",
+          "texte": "La femelle ne pond qu'un œuf, couvé environ 80 jours par les deux parents à tour de rôle. Le poussin ne s'envole qu'à 8 mois en moyenne : aucun autre oiseau n'a un élevage aussi long. Les jeunes n'atteignent la maturité sexuelle que vers 10 ans et passent des années à former un couple par des parades élaborées. Le couple reste ensuite uni jusqu'à la mort."
+        },
+        {
+          "titre": "Un plumage qui blanchit avec l'âge",
+          "texte": "Les jeunes sont brun chocolat. À chaque mue, le plumage devient plus blanc : il faut peut-être 20 à 30 ans pour atteindre la livrée adulte, presque entièrement blanche avec les extrémités des ailes noires. Un oiseau resté tacheté de sombre sur la tête, la poitrine ou la queue est donc probablement un albatros hurleur, plutôt qu'un albatros royal."
+        }
+      ],
+      "anecdotes": [
+        "L'expression « avoir un albatros autour du cou », qui désigne un fardeau encombrant, vient d'un poème de Coleridge, La Complainte du Vieux Marin, où tuer un albatros porte malheur. Les marins capturaient pourtant ces oiseaux, et les Maoris fabriquaient des flûtes et des aiguilles avec leurs os d'ailes, légers mais très solides."
+      ],
+      "wikipedia": "Albatros hurleur"
+    },
+    "source": "D'après Wikipédia — Albatros hurleur"
+  },
+  {
+    "id": "animaux-053",
+    "domain": "animaux",
+    "subtheme": "Oiseaux",
+    "type": "classique",
+    "title": "Flamant rose",
+    "subtitle": "Échassier filtreur des lagunes, de la Camargue à l'Afrique",
+    "summary": "Le flamant rose est le plus grand de sa famille : de 120 à 140 cm de haut, dont 40 à 50 cm rien que pour les pattes. Son aire s'étend sur l'Afrique, l'Asie et le sud de l'Europe, notamment la Camargue.\nIl n'est pas rose de naissance : sa couleur vient des pigments contenus dans les crustacés et les algues dont il se nourrit.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Rose grâce à son assiette",
+          "texte": "Les caroténoïdes, des pigments rouges et orangés présents dans les algues et les crustacés, colorent peu à peu ses plumes. La crevette Artemia salina y joue un grand rôle. Les poussins sont gris et n'acquièrent leur rose caractéristique qu'après 2 à 4 ans. Pendant la reproduction, l'oiseau étale même sur ses plumes une sécrétion riche en caroténoïdes, une sorte de maquillage qui avive sa couleur."
+        },
+        {
+          "titre": "Un bec en filtre",
+          "texte": "Le flamant filtre l'eau et la vase avec un bec à lamelles, qui fonctionne comme les fanons d'une baleine. Il piétine le sol en tournant autour de son bec immergé pour faire remonter les proies, une technique unique chez les oiseaux, qui laisse des cercles dans la vase. Il dort debout, sur une patte ou sur deux, le bec enfoui sous une aile."
+        },
+        {
+          "titre": "Des colonies géantes",
+          "texte": "Les flamants nichent en colonies pouvant réunir jusqu'à 200 000 couples. La femelle pond un œuf unique, couvé 29 jours par les deux parents. Les poussins se regroupent en « crèches » et reçoivent une sécrétion nutritive rouge ; ils s'envolent vers 80 jours. En Camargue, on compte plus de 10 000 couples depuis les années 1990, avec de fortes variations d'une année à l'autre."
+        }
+      ],
+      "anecdotes": [
+        "Le doyen des flamants roses connus vivait au zoo d'Adélaïde, en Australie : arrivé adulte en 1933, il est mort en 2014 à au moins 83 ans, un âge bien supérieur aux 30 à 40 ans que l'espèce atteint en moyenne dans la nature."
+      ],
+      "wikipedia": "Flamant rose"
+    },
+    "source": "D'après Wikipédia — Flamant rose"
+  },
+  {
+    "id": "animaux-054",
+    "domain": "animaux",
+    "subtheme": "Oiseaux",
+    "type": "classique",
+    "title": "Paon bleu",
+    "subtitle": "Oiseau national de l'Inde, célèbre pour sa roue",
+    "summary": "Le paon bleu est originaire des forêts d'Asie du Sud, de l'Inde au Sri Lanka, et c'est l'oiseau national de l'Inde. Pour séduire les femelles, le mâle déploie en éventail une immense traîne de plumes ornées d'ocelles.\nSes reflets métalliques ne viennent pas d'un pigment bleu, mais de la structure microscopique de ses plumes. On l'élève comme oiseau d'ornement depuis l'Antiquité.",
+    "details": {
+      "sections": [
+        {
+          "titre": "La roue du mâle",
+          "texte": "La traîne est formée de 100 à 150 plumes sus-caudales, parfois longues d'1,5 m, qui grandissent jusqu'à la sixième année. Lors de la parade, le mâle tourne d'abord le dos et agite ses ailes avec un bruissement de plus en plus fort, puis se retourne d'un coup et fait vibrer ses plumes. Les femelles semblent moins séduites quand la roue compte moins de 140 ocelles."
+        },
+        {
+          "titre": "Une énigme pour les biologistes",
+          "texte": "Cette traîne encombrante réduit la vitesse de fuite : pourquoi l'évolution l'a-t-elle favorisée ? Darwin l'a jugée déroutante, puis a proposé la sélection sexuelle. Amotz Zahavi y voit un handicap : seul un mâle en excellente forme peut se permettre un tel fardeau. Ronald Fisher parle d'emballement : la traîne ne sert qu'à attirer les paonnes. On voit aussi des mâles faire la roue seuls."
+        },
+        {
+          "titre": "Un oiseau vénéré",
+          "texte": "En Inde, les hindous le vénèrent comme symbole du dieu Krishna, et son cri puissant évoque la déesse Sarasvati. Selon les Indiens, il crie surtout avant l'orage, pour annoncer la pluie. Protégé par son statut d'oiseau national et par des raisons religieuses, il vit souvent près des villages et des temples. Il est omnivore : graines, baies, insectes, mais aussi lézards et serpents."
+        }
+      ],
+      "anecdotes": [
+        "Les paons sont sensibles à la pollution lumineuse : une étude de 2015 a montré que, sous éclairage artificiel nocturne, les paonnes sont plus vigilantes et dorment moins, sans doute au détriment de leur santé. Quand on leur laisse le choix, elles préfèrent se percher à l'ombre."
+      ],
+      "wikipedia": "Paon bleu"
+    },
+    "source": "D'après Wikipédia — Paon bleu"
+  },
+  {
+    "id": "animaux-055",
+    "domain": "animaux",
+    "subtheme": "Oiseaux",
+    "type": "classique",
+    "title": "Perroquet jaco",
+    "subtitle": "Le gris du Gabon, perroquet parleur d'Afrique centrale",
+    "summary": "Le perroquet jaco, ou gris du Gabon, est le meilleur parleur des perroquets. Gris, avec une queue rouge écarlate, il mesure environ 40 cm et vit dans les forêts et savanes boisées d'Afrique centrale.\nTrès intelligent, il est aussi menacé : l'UICN le classe « en danger » depuis 2016, à cause de la déforestation et du commerce.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Imitateur et très social",
+          "texte": "Le jaco vit en groupe et s'appelle par des cris de contact, qui servent à donner sa position ou à signaler un danger. En captivité, il apprend à parler au contact des humains avec lesquels il vit. Dans la nature aussi, il imite : deux oiseaux enregistrés au Congo avaient plus de 200 cris, dont neuf imitations d'autres oiseaux et une de chauve-souris. Il sait aussi réagir à son reflet dans un miroir."
+        },
+        {
+          "titre": "Une vie de forêt et de couple",
+          "texte": "Il mange surtout des fruits, notamment ceux du palmier à huile, disponibles toute l'année, ainsi que des fleurs, des bourgeons et des graines. Il se choisit un partenaire pour la vie et niche dans un trou d'arbre. Les 2 à 3 œufs sont couvés de 29 à 33 jours ; les jeunes, nourris par régurgitation, ne quittent le nid qu'environ 147 jours après l'éclosion."
+        },
+        {
+          "titre": "Un commerce qui a fait des ravages",
+          "texte": "Entre 1994 et 2003, environ 360 000 jacos ont été exportés, dont 80 % vers l'Europe. Au Ghana, une étude de 2015 a conclu à un quasi-effacement de l'espèce, avec un déclin de 90 à 99 % depuis 1992. Après 35 ans en annexe II de la CITES, le jaco est passé en annexe I en 2016 : son commerce international est désormais interdit."
+        }
+      ],
+      "anecdotes": [
+        "Un jaco échappé au Japon a été rendu à son propriétaire après avoir répété son nom et son adresse."
+      ],
+      "wikipedia": "Perroquet jaco"
+    },
+    "source": "D'après Wikipédia — Perroquet jaco"
+  },
+  {
+    "id": "animaux-056",
+    "domain": "animaux",
+    "subtheme": "Oiseaux",
+    "type": "classique",
+    "title": "Autruche d'Afrique",
+    "subtitle": "Le plus grand oiseau actuel, coureur des savanes",
+    "summary": "Aucun oiseau actuel n'est aussi grand ni aussi lourd que l'autruche d'Afrique : le mâle atteint 2,50 m de haut pour 130 kg. Incapable de voler, elle court jusqu'à 70 km/h.\nElle vit dans les déserts, les semi-déserts et les savanes d'Afrique. Son œuf, le plus gros des oiseaux vivants, pèse 1,5 kg, soit environ vingt œufs de poule.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Taillée pour la course",
+          "texte": "L'autruche est le seul oiseau à n'avoir que deux doigts par patte, ce qui l'aide à courir : elle s'appuie sur le doigt interne, doté d'un ongle en forme de sabot. Elle franchit 3 à 5 m par foulée et ses ailes servent de stabilisateurs pour freiner et zigzaguer. Ses yeux, les plus grands de tous les vertébrés terrestres, repèrent de loin les prédateurs, et les zèbres et antilopes la suivent volontiers."
+        },
+        {
+          "titre": "Un nid pour plusieurs femelles",
+          "texte": "Dans les grands groupes, un mâle forme un harem de 3 à 5 femelles. Toutes pondent dans le même nid, un simple trou dans le sol, où l'on compte parfois trente œufs, voire soixante. Le mâle les couve presque seul pendant 40 à 50 jours. Les jeunes sont parfois confiés à un groupe de femelles, une adoption qui limite la consanguinité dans le troupeau."
+        }
+      ],
+      "anecdotes": [
+        "Le nom scientifique de l'autruche, Struthio camelus, rappelle le grec ancien strouthokamelos, « moineau-chameau », le chameau évoquant son milieu sec."
+      ],
+      "wikipedia": "Autruche d'Afrique"
+    },
+    "source": "D'après Wikipédia — Autruche d'Afrique"
+  },
+  {
+    "id": "animaux-057",
+    "domain": "animaux",
+    "subtheme": "Oiseaux",
+    "type": "classique",
+    "title": "Pigeon voyageur",
+    "subtitle": "Pigeon biset sélectionné pour rentrer au pigeonnier",
+    "summary": "Le pigeon voyageur est une variété de pigeon biset, sélectionnée pour retrouver son pigeonnier, même de très loin. Il ne sait faire qu'une chose : rentrer chez lui. On l'emporte donc au loin, avec un message attaché à la patte.\nLongtemps jugé très sûr, il a servi aux armées, aux journaux et aux hôpitaux. Aujourd'hui, les colombophiles l'élèvent surtout pour les courses.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un sens de l'orientation en question",
+          "texte": "Élevés sans fenêtre, les pigeons ne développent jamais leur sens de l'orientation : le soleil joue donc un rôle dans l'apprentissage. D'autres pistes sont étudiées : le champ magnétique terrestre, les infrasons, les odeurs et les repères visuels comme les routes. Les chercheurs ne sont pas d'accord sur le mécanisme exact, qui reste en partie un mystère."
+        },
+        {
+          "titre": "Messager de l'Histoire",
+          "texte": "Dès 1350 avant notre ère, selon des indices, l'Égypte ancienne employait des pigeons, et ils auraient annoncé le vainqueur des Jeux olympiques antiques. Guillaume d'Orange en usa lors des sièges de Haarlem en 1573 et de Leyde en 1574, puis les Français pendant la guerre de 1870. À Bruxelles, une statue de 1931 rend hommage au « pigeon soldat »."
+        },
+        {
+          "titre": "Journaux, hôpitaux et courses",
+          "texte": "Au XIXe siècle, des journalistes embarquaient sur les paquebots à Halifax et expédiaient leurs nouvelles par pigeon, pour battre la concurrence. De 1987 au début des années 2000, des pigeons ont aussi acheminé des prises de sang de l'île d'Yeu jusqu'aux Sables-d'Olonne. En course, des vols de 1 800 km ont été enregistrés, à une moyenne d'environ 97 km/h sur 965 km."
+        }
+      ],
+      "anecdotes": [
+        "En 1952, le dirigeant communiste Jacques Duclos a été arrêté après la découverte de deux pigeons dans sa voiture : le ministre de l'Intérieur y voyait des pigeons voyageurs, preuve de trahison. La police a vite établi que c'était du gibier, tué à la chasse. Duclos a passé un mois en prison : c'est l'affaire des pigeons."
+      ],
+      "wikipedia": "Pigeon voyageur"
+    },
+    "source": "D'après Wikipédia — Pigeon voyageur"
+  },
+  {
+    "id": "animaux-058",
+    "domain": "animaux",
+    "subtheme": "Reptiles et amphibiens",
+    "type": "classique",
+    "title": "Crocodile du Nil",
+    "subtitle": "Grand prédateur d'eau douce d'Afrique",
+    "summary": "Le crocodile du Nil compte parmi les plus grands crocodiliens : le mâle mesure en général de 3,5 à 5 m, et certains dépassent 6 m. On le trouve dans presque toute l'Afrique, dans les lacs, les fleuves et les marais.\nChasseur à l'affût, il a la réputation d'un mangeur d'hommes, qui n'est pas infondée. L'espèce, elle, n'est pas menacée dans l'ensemble.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un chasseur à l'affût",
+          "texte": "Il reste immobile dans l'eau, avec seulement le sommet de la tête et les narines à la surface, puis saisit brutalement sa proie, l'entraîne sous l'eau et la noie. Un repli du palais ferme la gorge, ce qui lui permet de garder la gueule ouverte sans se noyer. Sa morsure atteint environ 22 kilonewtons, soit 2,2 tonnes-force, et ses dents cassées repoussent une cinquantaine de fois."
+        },
+        {
+          "titre": "Géant sensible au froid",
+          "texte": "Gustave, un spécimen du Burundi, a dépassé 6,1 m et 1 089 kg. Pourtant, ce reptile dépend de la température : il cesse de manger sous 15,6 °C et ne sait plus nager sous 7,6 °C. En Afrique du Sud, il s'enterre dans des tunnels pendant l'été sec, un état proche de l'hibernation. Au sein du groupe, les gros mâles âgés ont droit aux meilleures places au soleil."
+        }
+      ],
+      "anecdotes": [
+        "Malgré son nom, le crocodile du Nil ne vit plus dans le Nil égyptien : on ne le croise que dans la partie du fleuve située après la troisième cataracte, au Soudan. Pourtant, les anciens Égyptiens le tenaient pour sacré : il était lié à Sobek, divinité à tête de crocodile."
+      ],
+      "wikipedia": "Crocodile du Nil"
+    },
+    "source": "D'après Wikipédia — Crocodile du Nil"
+  },
+  {
+    "id": "animaux-059",
+    "domain": "animaux",
+    "subtheme": "Reptiles et amphibiens",
+    "type": "classique",
+    "title": "Caméléons",
+    "subtitle": "Famille de près de 200 espèces de lézards, surtout arboricoles",
+    "summary": "Les caméléons forment une famille de près de 200 espèces de lézards, surtout arboricoles. Ils se reconnaissent à leurs yeux mobiles indépendamment, à leur langue projetée comme un projectile, à leurs doigts en pince et à leur queue enroulable.\nContrairement à une idée reçue, leurs changements de couleur servent surtout à communiquer. On les trouve surtout en Afrique et à Madagascar.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une langue-fusée",
+          "texte": "Sa langue jaillit en un vingt-cinquième de seconde, à une vitesse supérieure à 20 km/h, et revient en une demi-seconde avec sa proie, qui peut peser jusqu'à un tiers de son propre poids. Le mucus gluant qui la couvre est 400 fois plus visqueux que la salive humaine. Chez les espèces les plus performantes, l'accélération atteint 97 km/h en un centième de seconde. Ses yeux, indépendants l'un de l'autre, convergent sur la proie au moment du tir."
+        },
+        {
+          "titre": "Des couleurs pour communiquer",
+          "texte": "Sa peau contient deux couches de nanocristaux qui modifient la lumière réfléchie. Mais le changement de couleur sert surtout à parler : les teintes sombres traduisent la colère, les couleurs claires et variées servent aux mâles à courtiser. Le camouflage n'est venu que secondairement, et la température du corps joue aussi un rôle. Les espèces de forêt ont des palettes plus vives que celles de savane."
+        },
+        {
+          "titre": "De 3 à 70 centimètres",
+          "texte": "Les plus petites espèces, comme Brookesia nana découverte en 2012, mesurent près de 3 cm ; les plus grandes atteignent 70 cm, queue comprise. Tous sont insectivores, et les plus gros avalent aussi de petits oiseaux ou lézards. Chez Calumma parsonii, l'incubation des œufs peut approcher deux ans. Les femelles de nombreuses espèces gardent le sperme du mâle pendant plus d'un mois."
+        }
+      ],
+      "anecdotes": [
+        "Dans l'Antiquité, Aristote décrit très précisément le caméléon. Pline l'Ancien y ajoute des légendes, comme celle d'un animal qui ne se nourrirait que d'air, reprise ensuite par Ovide. Le nom lui-même vient du grec « lion du sol »."
+      ],
+      "wikipedia": "Chamaeleonidae"
+    },
+    "source": "D'après Wikipédia — Chamaeleonidae"
+  },
+  {
+    "id": "animaux-060",
+    "domain": "animaux",
+    "subtheme": "Reptiles et amphibiens",
+    "type": "classique",
+    "title": "Dragon de Komodo",
+    "subtitle": "Le plus grand lézard du monde, endémique d'Indonésie",
+    "summary": "Le varan de Komodo, surnommé « dragon », est le plus grand lézard actuel : de 2 à 3 m de long et environ 70 kg dans la nature. Il n'habite que cinq îles d'Indonésie, dont Komodo, Rinca et Florès.\nSuperprédateur de son milieu, il est connu des scientifiques occidentaux depuis 1910. Il est aujourd'hui protégé et considéré comme menacé par l'UICN.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un prédateur à l'affût",
+          "texte": "Il mange surtout des charognes, mais sait aussi surprendre cerfs ou porcs, qu'il mord au ventre ou à la gorge, voire assomme d'un coup de queue. Ses quelque 60 dents dentelées sont recouvertes d'une fine couche de fer. Il avale une chèvre entière en un quart d'heure à vingt minutes, peut manger 80 % de son poids en un repas et survivre avec un repas par mois. Sa langue lui permet de repérer des odeurs jusqu'à 4 km, voire 9,5 km."
+        },
+        {
+          "titre": "Salive mortelle ou venin ?",
+          "texte": "On a longtemps cru que des bactéries de sa salive tuaient ses proies : les buffles mordus mouraient d'une infection. Des études récentes montrent que ces bactéries sont banales chez les prédateurs : les buffles, arrivés récemment sur ces îles, fuient vers des eaux stagnantes où leurs plaies s'infectent. Des chercheurs de Melbourne ont aussi conclu, en 2005, que le varan est légèrement venimeux."
+        },
+        {
+          "titre": "Une enfance dans les arbres",
+          "texte": "La femelle pond environ vingt œufs dans un nid abandonné de mégapode ; ils éclosent après sept à huit mois, en avril, quand les insectes abondent. Les jeunes se réfugient dans les arbres pour échapper aux adultes cannibales. Les femelles sont l'un des rares vertébrés capables de parthénogenèse : elles peuvent pondre des œufs viables sans mâle. Le varan peut vivre jusqu'à cinquante ans."
+        }
+      ],
+      "anecdotes": [
+        "En 1926, l'expédition de W. Douglas Burden à Komodo, qui rapporta douze spécimens conservés et deux vivants, inspira le film King Kong de 1933. C'est Burden qui inventa le nom « dragon de Komodo »."
+      ],
+      "wikipedia": "Dragon de Komodo"
+    },
+    "source": "D'après Wikipédia — Dragon de Komodo"
+  },
+  {
+    "id": "animaux-061",
+    "domain": "animaux",
+    "subtheme": "Reptiles et amphibiens",
+    "type": "classique",
+    "title": "Tortue géante des Galápagos",
+    "subtitle": "Complexe de dix espèces endémiques de l'archipel équatorien",
+    "summary": "Les tortues géantes des Galápagos forment un complexe de dix espèces, toutes endémiques de l'archipel. Elles mesurent environ 1,2 m, pèsent en moyenne 220 kg et peuvent atteindre 422 kg.\nLeur population est passée d'environ 250 000 individus à une quinzaine de milliers : baleiniers et pirates en faisaient des réserves de viande fraîche. Leur espérance de vie dans la nature est estimée à 120 ans.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Dôme ou selle",
+          "texte": "La forme de la carapace dépend de l'île. Sur les grandes îles humides, à la végétation abondante, elle est bombée en dôme, avec un cou court. Sur les îles sèches, elle se relève en « selle » devant le cou, et les membres sont plus longs, ce qui permet d'atteindre une végétation plus variée. Le cactus Opuntia echios y a même évolué pour devenir plus grand. Darwin observa ces différences en 1835."
+        },
+        {
+          "titre": "Une vie au ralenti",
+          "texte": "Sans dents, la tortue coupe les plantes avec un bec tranchant et mange plus de cinquante espèces de végétaux. Elle avance à environ 300 m/h, se chauffe au soleil deux heures après l'aube et dort jusqu'à seize heures dans des bains de boue. La température d'incubation détermine le sexe : le froid donne des mâles, la chaleur des femelles. La maturité sexuelle n'arrive qu'entre 20 et 25 ans."
+        },
+        {
+          "titre": "Sauvées de justesse",
+          "texte": "Les chèvres introduites ont détruit la végétation dont se nourrissent les tortues. Depuis 1960, la Fondation Charles Darwin a sauvé plus de 2 500 jeunes. En 2007, cent tortues d'Española ont été installées sur l'île de Pinta, débarrassée de ses chèvres. Georges le Solitaire, dernier de l'espèce de Pinta, est mort le 24 juin 2012."
+        }
+      ],
+      "anecdotes": [
+        "Harriet, tortue des Galápagos installée dans un zoo du Queensland, en Australie, est morte le 23 juin 2006 à 176 ans. Née vers 1830, elle a peut-être été connue de Charles Darwin."
+      ],
+      "wikipedia": "Tortue géante des Galápagos"
+    },
+    "source": "D'après Wikipédia — Tortue géante des Galápagos"
+  },
+  {
+    "id": "animaux-062",
+    "domain": "animaux",
+    "subtheme": "Reptiles et amphibiens",
+    "type": "classique",
+    "title": "Cobra royal",
+    "subtitle": "Le plus grand serpent venimeux du monde, mangeur de serpents",
+    "summary": "Aucun serpent venimeux n'est plus long que le cobra royal : de 3 à 4 m en général, jusqu'à plus de 5 m. Il vit dans les forêts d'Asie, de l'Inde à l'Asie du Sud-Est et au sud de la Chine.\nSon nom de genre, Ophiophagus, signifie « mangeur de serpents » : c'est son menu principal. Les destructions de forêts le rendent vulnérable.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Posture d'intimidation et venin",
+          "texte": "Menacé, il dresse jusqu'au tiers de son corps, soit 1 à 1,8 m, déploie son capuchon et siffle. Contrairement aux vrais cobras Naja, il peut poursuivre dans cette position, mais préfère généralement fuir. Son venin est l'un des moins toxiques des élapidés, mais la quantité injectée rend sa morsure extrêmement dangereuse : une neurotoxine paralyse peu à peu la victime, qui meurt par asphyxie."
+        },
+        {
+          "titre": "Le seul serpent bâtisseur",
+          "texte": "Aucun autre serpent ne construit de nid : la femelle se love autour de feuilles mortes et de broussailles sèches pour former un amas qui chauffe en se décomposant et garde une température stable. Elle y pond entre 20 et 40 œufs, qui éclosent en 60 à 80 jours. Le mâle garde le nid en patrouillant autour. Les petits, longs de 45 à 60 cm, sont déjà venimeux."
+        }
+      ],
+      "anecdotes": [
+        "La femelle du cobra royal quitte le nid peu avant l'éclosion, car elle a jeûné pendant deux mois et, mangeuse de serpents par instinct, elle risquerait de dévorer ses propres petits."
+      ],
+      "wikipedia": "Cobra royal"
+    },
+    "source": "D'après Wikipédia — Cobra royal"
+  },
+  {
+    "id": "animaux-063",
+    "domain": "animaux",
+    "subtheme": "Reptiles et amphibiens",
+    "type": "classique",
+    "title": "Geckos",
+    "subtitle": "Famille des Gekkonidae, lézards aux pattes adhésives",
+    "summary": "Les Gekkonidae forment la plus grande famille de geckos, avec plus de 950 espèces présentes dans toutes les régions chaudes du monde. Leur marque de fabrique : des pattes à coussinets adhérents qui leur permettent de grimper sur presque toutes les surfaces.\nLa plupart sont nocturnes, insectivores et dépourvus de paupières mobiles. Certains, comme les phelsumes, vivent de jour.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des pattes qui collent",
+          "texte": "Les coussinets des geckos portent de minuscules poils, les setæ. Chez de nombreuses espèces, l'adhérence vient des forces de Van der Waals, des attractions entre les molécules des poils et celles de la surface. Le gecko n'a pas de paupières mobiles, entend bien et peut vocaliser, parfois de façon spectaculaire. Les phelsumes, souvent appelés geckos diurnes, sont l'exception : la plupart des autres espèces sortent la nuit."
+        },
+        {
+          "titre": "Une famille aux quatre coins du monde",
+          "texte": "La famille comprend des geckos domestiques (genre Hemidactylus), présents dans toutes les régions subtropicales, ainsi que le gecko tokay (Gekko). Les femelles pondent un ou deux œufs à coquille dure, souvent plusieurs fois par an. Les geckos mangent surtout des insectes, mais certains, plus gros, consomment aussi des fruits, du nectar ou de petits vertébrés. Quelques espèces, comme le gecko demi-deuil, se reproduisent par parthénogenèse."
+        }
+      ],
+      "anecdotes": [
+        "Le plus ancien gecko de la famille connu, Yantarogekko balticus, a été découvert dans de l'ambre de la Baltique datant de l'Éocène. Il ne mesurait que 20 à 22 mm du museau au cloaque, mais avait déjà les coussinets adhésifs typiques."
+      ],
+      "wikipedia": "Gekkonidae"
+    },
+    "source": "D'après Wikipédia — Gekkonidae"
+  },
+  {
+    "id": "animaux-064",
+    "domain": "animaux",
+    "subtheme": "Reptiles et amphibiens",
+    "type": "classique",
+    "title": "Phyllobate terrible",
+    "subtitle": "Grenouille de Colombie, réputée la plus toxique du monde",
+    "summary": "Le phyllobate terrible, ou kokoï, est une petite grenouille de la côte pacifique de la Colombie : une peau d'un jaune d'or, orange ou vert pâle, et une longueur d'environ 5 cm. On la considère comme la grenouille la plus toxique du monde.\nSes couleurs vives préviennent les prédateurs. Son habitat se réduit : l'UICN la classe « en danger ».",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un poison redoutable",
+          "texte": "Sa peau renferme de la batrachotoxine, un poison qui bloque les canaux sodiques des nerfs et peut provoquer un arrêt cardiaque. Une grenouille en contient assez pour tuer 10 à 20 personnes : moins de 200 microgrammes dans le sang peuvent suffire. Le simple contact avec la peau peut déjà causer une brûlure pendant des heures. Les Amérindiens Emberá et Noanamá s'en servent pour empoisonner leurs flèches de sarbacane."
+        },
+        {
+          "titre": "D'où vient le poison ?",
+          "texte": "La grenouille ne le fabrique pas elle-même : il vient des insectes qu'elle mange, peut-être un petit coléoptère du genre Choresine. Captive, elle perd la moitié de sa toxicité en un an, et celles nées en captivité n'en ont pas. Une mutation d'un seul nucléotide, découverte en 2017, la protège de son propre poison. Son seul prédateur connu est un serpent résistant, Erythrolamprus epinephelus."
+        },
+        {
+          "titre": "Des têtards sur le dos",
+          "texte": "Pour séduire la femelle, le mâle émet un long trille de 13 notes par seconde. La femelle pond environ vingt œufs sur un support humide. Les œufs éclosent vers le treizième jour : le mâle prend alors les larves sur son dos et les dépose dans un petit point d'eau. Les têtards quittent l'eau environ 55 jours après l'éclosion."
+        }
+      ],
+      "anecdotes": [
+        "La batrachotoxine n'existe pas que chez les grenouilles : on l'a aussi retrouvée dans la peau et les plumes de cinq oiseaux toxiques de Papouasie-Nouvelle-Guinée, dont le pitohui bicolore."
+      ],
+      "wikipedia": "Phyllobates terribilis"
+    },
+    "source": "D'après Wikipédia — Phyllobates terribilis"
+  },
+  {
+    "id": "animaux-065",
+    "domain": "animaux",
+    "subtheme": "Reptiles et amphibiens",
+    "type": "classique",
+    "title": "Iguane marin des Galápagos",
+    "subtitle": "Le seul lézard actuel qui se nourrit en mer",
+    "summary": "L'iguane marin est endémique des îles Galápagos et se distingue de tous les lézards actuels par son mode de vie : il plonge pour brouter des algues dans l'océan. Les mâles mesurent jusqu'à 1,70 m et pèsent jusqu'à 15 kg.\nSa peau sombre l'aide à se réchauffer au soleil après un bain dans une eau froide, et il expulse le sel par les narines.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un nageur des eaux froides",
+          "texte": "À terre, il est plutôt maladroit, mais dans l'eau il nage avec grâce : sa queue aplatie le propulse, ses piquants dorsaux le stabilisent et ses longues griffes l'accrochent aux roches malgré les vagues. Les plongées habituelles durent une dizaine de minutes à une profondeur de un à cinq mètres, mais il peut tenir une demi-heure à plus de 15 m. Le sel expulsé par ses glandes nasales blanchit souvent sa tête."
+        },
+        {
+          "titre": "Au rythme d'El Niño",
+          "texte": "Pendant les épisodes El Niño, les algues se raréfient et les iguanes se mettent à rétrécir : les générations nées alors sont 20 % plus petites. Elles retrouvent leur taille quand la nourriture revient. À la saison des amours, les mâles des îles du sud arborent du rouge et du bleu-vert, défendent leur territoire et secouent la tête pour montrer leur force."
+        }
+      ],
+      "anecdotes": [
+        "Charles Darwin trouvait ces lézards si laids qu'il les appelait « lutins des ténèbres ». Il rapporte pourtant qu'un marin en avait immergé un pendant une heure : remonté avec une corde, l'animal était toujours vivant."
+      ],
+      "wikipedia": "Iguane marin des Galapagos"
+    },
+    "source": "D'après Wikipédia — Iguane marin des Galapagos"
+  },
+  {
+    "id": "animaux-066",
+    "domain": "animaux",
+    "subtheme": "Faune marine",
+    "type": "classique",
+    "title": "Le grand requin blanc",
+    "subtitle": "Poisson prédateur, seul représentant actuel du genre Carcharodon",
+    "summary": "Le grand requin blanc est l'un des plus grands poissons prédateurs des océans : sa taille moyenne va de 4 à 6 m. Seule l'orque est connue pour s'attaquer à un adulte.\nSa réputation de mangeur d'hommes vient surtout des Dents de la mer. En réalité, il attaque rarement les humains, et la plupart de ces attaques ne sont pas mortelles.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des sens de chasseur",
+          "texte": "Son odorat repère une goutte de sang diluée dans 4,6 millions de litres d'eau, voire davantage ; son ouïe, une proie à 1 km. Des récepteurs situés sous son museau, les ampoules de Lorenzini, l'aident à repérer des animaux en détresse. Sans paupières, il roule les yeux vers l'arrière au moment d'attaquer. Ses dents, longues de 76 mm au maximum, sont rangées en quatre à six rangées : quand l'une tombe, la suivante avance."
+        },
+        {
+          "titre": "Un grand voyageur à sang chaud",
+          "texte": "Contrairement à la plupart des poissons, il garde un corps chaud, jusqu'à 20 °C au-dessus de l'eau ambiante, ce qui lui permet de fréquenter des eaux fraîches. En 2005, une femelle équipée d'un capteur a fait l'aller-retour entre Le Cap et le sud de l'Australie : soit près de 10 000 km parcourus en moins de neuf mois. Les raisons de ces traversées restent mystérieuses."
+        }
+      ],
+      "anecdotes": [
+        "Pendant des décennies, on a cité des requins blancs de 11 m. En réalité, l'un était un requin pèlerin mal identifié, et l'autre ne faisait que 5 m. Le plus grand spécimen correctement mesuré atteignait 6,40 m : il venait de Cuba et datait de 1945."
+      ],
+      "wikipedia": "Grand requin blanc"
+    },
+    "source": "D'après Wikipédia — Grand requin blanc"
+  },
+  {
+    "id": "animaux-067",
+    "domain": "animaux",
+    "subtheme": "Faune marine",
+    "type": "classique",
+    "title": "L'orque",
+    "subtitle": "Plus grand dauphin océanique, superprédateur social",
+    "summary": "L'orque est la plus grande espèce de la famille des dauphins. Noire sur le dos, blanche en dessous, avec une tache blanche derrière l'œil, elle vit dans tous les océans, de l'Arctique à l'Antarctique.\nSuperprédatrice, elle vit en groupes familiaux parmi les plus stables du règne animal. Chaque population a ses proies et ses techniques de chasse.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un menu selon la famille",
+          "texte": "Les orques se spécialisent. Dans le Pacifique nord-est, les résidentes mangent du poisson, les nomades presque uniquement des mammifères marins, et celles de haute mer surtout des requins, dont la peau abrasive lime leurs dents jusqu'à la gencive. En Antarctique, six orques ont tué une baleine bleue de 18 m en avril 2019, rejointes par près de cinquante autres."
+        },
+        {
+          "titre": "Une culture qui se transmet",
+          "texte": "Des femelles enseignent l'échouage volontaire à de jeunes orques, pour chasser phoques et lions de mer au bord des plages : l'apprentissage peut durer vingt ans. En Norvège, elles rassemblent les harengs en nageant autour du banc, ventre blanc tourné vers eux, puis les assomment d'un coup de nageoire caudale. Leur évolution a été influencée par la culture : une première prouvée chez un animal non humain."
+        }
+      ],
+      "anecdotes": [
+        "Dans la nature, seulement 1 % des orques ont l'aileron dorsal courbé, contre 80 % de celles qui vivent en captivité. Une explication avancée : elles restent davantage à la surface, où l'eau ne soutient plus l'aileron, qui finit par s'affaisser."
+      ],
+      "wikipedia": "Orque"
+    },
+    "source": "D'après Wikipédia — Orque"
+  },
+  {
+    "id": "animaux-068",
+    "domain": "animaux",
+    "subtheme": "Faune marine",
+    "type": "classique",
+    "title": "Le grand cachalot",
+    "subtitle": "Plus grand cétacé à dents, plongeur des abysses",
+    "summary": "Le grand cachalot est le plus grand carnassier du monde : un mâle peut dépasser 20 m. Sa tête, presque rectangulaire, représente à elle seule près du tiers de son corps.\nIl plonge jusqu'à 2 250 m pour chasser des calmars, et ses clics sont les sons les plus puissants émis par un animal. Les femelles vivent en groupe avec leurs petits.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un plongeur des abysses",
+          "texte": "Il peut rester en apnée 90 minutes, mais chasse le plus souvent entre 300 m et 1 000 m. Sa cage thoracique flexible protège ses poumons, et ses muscles contiennent 5,7 g de myoglobine pour 100 g, contre 0,5 g chez l'humain. Ces plongées laissent des traces : les vieux squelettes montrent des lésions comparables à celles de la maladie de décompression."
+        },
+        {
+          "titre": "Une tête pleine de cire",
+          "texte": "Sa tête abrite l'organe du spermaceti, jusqu'à une tonne d'une cire qui se solidifie vers 31 °C. Avant de plonger, l'eau froide la durcit : l'animal s'alourdit et descend sans effort. La chasse réchauffe la cire, qui fond et aide à remonter. Son cerveau, d'environ 8 kg, est le plus lourd de tout le règne animal, actuel comme fossile."
+        }
+      ],
+      "anecdotes": [
+        "En 1820, un cachalot de 25 m aurait attaqué et coulé le baleinier américain Essex. Ce naufrage est l'un des événements qui ont inspiré le roman Moby Dick."
+      ],
+      "wikipedia": "Grand cachalot"
+    },
+    "source": "D'après Wikipédia — Grand cachalot"
+  },
+  {
+    "id": "animaux-069",
+    "domain": "animaux",
+    "subtheme": "Faune marine",
+    "type": "classique",
+    "title": "Le narval",
+    "subtitle": "Cétacé de l'Arctique, la « licorne des mers »",
+    "summary": "Le narval est un cétacé de l'océan Arctique. Le mâle porte une unique défense torsadée, qui peut atteindre 3 m : c'est en réalité sa canine supérieure gauche.\nCette « corne » a longtemps été prise pour celle de la licorne. On y voit aujourd'hui surtout un organe sensoriel très sensible, qui détecte la pression, la température et la salinité de l'eau.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une dent unique au monde",
+          "texte": "Cette dent est l'inverse d'une dent ordinaire : l'émail est dedans, la pulpe dehors. Elle compte environ dix millions de terminaisons nerveuses, qui renseignent le narval sur la pression, la température et la salinité de l'eau. Rigide en apparence, elle plie : une dent de 2,40 m peut se courber de 0,30 m sans casser. Environ un mâle sur 500 en porte deux."
+        },
+        {
+          "titre": "De la licorne au narval",
+          "texte": "Au Moyen Âge, ces cornes se revendaient plusieurs fois leur poids en or, comme cornes de licorne. En 1576, Élisabeth Ire d'Angleterre en aurait payé une 10 000 livres. On leur prêtait le pouvoir de neutraliser les poisons, et l'on s'en faisait faire des gobelets. Ce n'est qu'en 1704 que le lien avec le narval a été établi."
+        }
+      ],
+      "anecdotes": [
+        "En août 2016, des images de drone prises au Nunavut ont montré des narvals tapant de petites morues arctiques avec leur défense pour les assommer avant de les manger."
+      ],
+      "wikipedia": "Narval"
+    },
+    "source": "D'après Wikipédia — Narval"
+  },
+  {
+    "id": "animaux-070",
+    "domain": "animaux",
+    "subtheme": "Faune marine",
+    "type": "classique",
+    "title": "Le calmar géant",
+    "subtitle": "Céphalopode des grandes profondeurs, longtemps légendaire",
+    "summary": "Le calmar géant vit en général à plus de 500 m de profondeur. On l'a longtemps connu seulement par des échouages et par les restes retrouvés dans l'estomac des cachalots.\nIl peut atteindre 13 m pour les femelles, tentacules compris, mais les récits de calmars de 20 m n'ont jamais été scientifiquement documentés.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un géant plus mince qu'il n'y paraît",
+          "texte": "Le manteau ne dépasse pas 2,25 m et le poids maximal est estimé à 275 kg pour une femelle. Les records de 20 m viennent sans doute de tentacules très élastiques, étirés. Ses yeux, jusqu'à 27 cm de diamètre, comptent parmi les plus grands du monde animal. Il flotte grâce à une solution de chlorure d'ammonium qui a un goût de réglisse salée : peu appétissant pour l'humain."
+        },
+        {
+          "titre": "Du kraken à la caméra",
+          "texte": "Décrit en 1857 par le Danois Johan Steenstrup, il a nourri les légendes de kraken. En 2004, deux chercheurs japonais ont filmé un calmar géant vivant à 900 m de profondeur près des îles Ogasawara, après avoir suivi les cachalots, ses principaux prédateurs. Une étude de 2013 suggère qu'il n'existe qu'une seule espèce."
+        }
+      ],
+      "anecdotes": [
+        "Pêchée en 2000 au large de la Nouvelle-Zélande, une femelle de 9 m surnommée Wheke a été plastinée en Italie : en séchant, elle a rétréci de 2,5 m. Depuis le 26 mars 2008, on peut l'admirer à Paris, dans la Grande galerie de l'Évolution."
+      ],
+      "wikipedia": "Calmar géant"
+    },
+    "source": "D'après Wikipédia — Calmar géant"
+  },
+  {
+    "id": "animaux-071",
+    "domain": "animaux",
+    "subtheme": "Faune marine",
+    "type": "classique",
+    "title": "La méduse immortelle",
+    "subtitle": "Turritopsis dohrnii, petite méduse capable de rajeunir",
+    "summary": "Turritopsis dohrnii, la « méduse immortelle », est une minuscule méduse répandue dans la plupart des océans. Affamée, blessée ou vieille, elle peut retourner au stade de polype, puis recommencer sa vie.\nEn théorie, ce rajeunissement peut se répéter à l'infini. En pratique, la plupart de ces méduses sont mangées ou meurent de maladie avant.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un cycle de vie à l'envers",
+          "texte": "Comme la plupart des hydrozoaires, elle naît sous forme de larve, la planula, qui donne une colonie de polypes fixés au fond, tous clones. Les méduses s'en détachent et deviennent adultes en quelques semaines. Mais sous le stress, elles peuvent redevenir polypes, par un procédé appelé transdifférenciation, qui transforme des cellules en cellules d'un autre type."
+        },
+        {
+          "titre": "Une invasion silencieuse",
+          "texte": "Décrite en 1883 et nommée en l'honneur du zoologiste Anton Dohrn, elle s'est répandue de la Floride au Japon, probablement dans les eaux de ballast des navires. Son invasion est passée inaperçue, car elle est minuscule et inoffensive. Les chercheurs l'étudient pour comprendre le vieillissement et espèrent s'inspirer d'elle pour renouveler des tissus humains."
+        }
+      ],
+      "anecdotes": [
+        "Une jeune méduse de 1 mm n'a que huit tentacules, alors que l'adulte en compte de 80 à 90."
+      ],
+      "wikipedia": "Turritopsis dohrnii"
+    },
+    "source": "D'après Wikipédia — Turritopsis dohrnii"
+  },
+  {
+    "id": "animaux-072",
+    "domain": "animaux",
+    "subtheme": "Faune marine",
+    "type": "classique",
+    "title": "L'hippocampe",
+    "subtitle": "Genre Hippocampus, poisson-cheval à poche ventrale",
+    "summary": "Les hippocampes forment un genre d'une cinquantaine d'espèces de poissons, de 22 mm à 36 cm. Leur corps cuirassé d'anneaux osseux, leur tête de cheval et leur queue préhensile les rendent uniques.\nIls nagent debout, vivent accrochés aux algues, et c'est le mâle qui porte les œufs dans une poche ventrale.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un chasseur sans estomac",
+          "texte": "Sans dents ni vrai estomac, l'hippocampe doit chasser presque sans arrêt de minuscules crustacés. Il s'approche tout près, puis aspire sa proie par son museau en forme de paille, en moins d'un millième de seconde. Ses yeux bougent indépendamment l'un de l'autre, et il réussit sa capture dans 90 % des cas en eau calme."
+        },
+        {
+          "titre": "Un nageur lent et fragile",
+          "texte": "Il avance debout grâce à sa nageoire dorsale, qui bat à 20 Hz. L'hippocampe nain est le poisson le plus lent du monde : environ 1,5 m par heure. Chaque année, plus de 20 millions d'hippocampes sont capturés, notamment pour la médecine traditionnelle chinoise, ce qui a conduit à leur protection par la CITES en 2004."
+        }
+      ],
+      "anecdotes": [
+        "En 2016, une étude publiée dans la revue Nature a montré que le génome de l'hippocampe est le génome de poisson qui évolue le plus vite parmi tous ceux étudiés jusque-là."
+      ],
+      "wikipedia": "Hippocampe (poisson)"
+    },
+    "source": "D'après Wikipédia — Hippocampe (poisson)"
+  },
+  {
+    "id": "animaux-073",
+    "domain": "animaux",
+    "subtheme": "Faune marine",
+    "type": "classique",
+    "title": "La raie manta",
+    "subtitle": "Grande raie filtreuse des mers chaudes",
+    "summary": "La raie manta est l'une des plus grandes raies : la plus grande espèce atteint 7 m d'envergure, et un record de 9,1 m a été mesuré. Elle nage en battant ses nageoires comme des ailes.\nElle se nourrit de plancton qu'elle filtre bouche grande ouverte, et son cerveau est l'un des plus gros parmi les poissons, par rapport à son corps.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une filtreuse toujours en mouvement",
+          "texte": "La manta nage autour du plancton pour le rassembler en une « balle » dense, puis fonce dessus, bouche ouverte et nageoires céphaliques déroulées. Elle consomme chaque mois environ 13 % de sa masse. Elle doit nager sans arrêt pour que l'eau oxygénée traverse ses branchies, et visite des stations de nettoyage où des poissons la débarrassent de ses parasites."
+        },
+        {
+          "titre": "Une raie curieuse",
+          "texte": "En 2016, des mantas placées devant un miroir ont eu un comportement inhabituel, comme pour vérifier que leur reflet imitait leurs mouvements. Certaines reviennent toujours à la même station de nettoyage et paraissent posséder des cartes mentales de leur milieu. La gestation dure 12 à 13 mois, pour un ou deux petits, et ces raies peuvent vivre jusqu'à 50 ans."
+        }
+      ],
+      "anecdotes": [
+        "Une manta rose a été repérée sur la Grande barrière de corail, près de l'île Lady Elliot. Elle serait la seule manta rose connue au monde, sans doute à cause d'une mutation génétique."
+      ],
+      "wikipedia": "Manta (genre)"
+    },
+    "source": "D'après Wikipédia — Manta (genre)"
+  },
+  {
+    "id": "animaux-074",
+    "domain": "animaux",
+    "subtheme": "Faune marine",
+    "type": "classique",
+    "title": "Le poisson-clown",
+    "subtitle": "Petit poisson des récifs, associé aux anémones de mer",
+    "summary": "Le poisson-clown vit dans les récifs de l'Indo-Pacifique et de la mer Rouge, à l'abri des tentacules d'anémones de mer, des animaux urticants normalement fatals aux poissons.\nIl est devenu célèbre en 2003 grâce à Nemo, mais sa vie sociale est tout aussi surprenante : dans chaque anémone, le plus gros individu est une femelle.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une famille dans l'anémone",
+          "texte": "Chaque anémone abrite un couple stable, la femelle dominante et un mâle un peu plus petit, entourés de mâles immatures. Si la femelle disparaît, le mâle reproducteur change de sexe et prend sa place. La femelle colle de 600 à 1 600 œufs sur une roche proche ; le mâle les surveille et les ventile avec ses nageoires jusqu'à l'éclosion, une semaine plus tard."
+        },
+        {
+          "titre": "Le secret de l'immunité",
+          "texte": "Décrite dès 1868 au large de Bornéo, l'association reste en partie mystérieuse. La protection vient d'un mucus à la surface du poisson. En 2000, une équipe israélienne a trouvé dans le mucus de l'anémone un composé qui neutralise ses cellules urticantes. Le jeune poisson doit s'acclimater à son hôte, et il ne s'en éloignera ensuite que de trois mètres au plus."
+        }
+      ],
+      "anecdotes": [
+        "Quand son anémone est posée sur du sable, Amphiprion polymnus ramène une surface pour pondre : tests d'oursins, coquilles, morceaux de feuille de palmier, et même des canettes, parfois sur plusieurs mètres."
+      ],
+      "wikipedia": "Poisson-clown"
+    },
+    "source": "D'après Wikipédia — Poisson-clown"
+  },
+  {
+    "id": "animaux-075",
+    "domain": "animaux",
+    "subtheme": "Faune marine",
+    "type": "classique",
+    "title": "L'anguille d'Europe",
+    "subtitle": "Poisson migrateur né en mer des Sargasses",
+    "summary": "L'anguille d'Europe naît en mer des Sargasses, au milieu de l'Atlantique, puis rejoint l'Europe, où elle grandit en rivière. Des années plus tard, elle repart pondre dans l'océan et meurt.\nCette espèce, autrefois très commune, a fortement régressé depuis les années 1980 et elle est aujourd'hui menacée.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un voyage en cinq stades",
+          "texte": "Sa larve transparente, le leptocéphale, dérive vers l'Europe, puis devient civelle, anguille jaune et enfin anguille argentée, aux yeux agrandis. L'adulte repart vers les Sargasses, soit 4 800 à plus de 5 000 km, en plongeant le jour et en remontant la nuit. Les jeunes anguilles semblent se repérer grâce au champ magnétique terrestre."
+        },
+        {
+          "titre": "Un mystère pour la science",
+          "texte": "Les pêcheurs n'ont jamais trouvé de jeune anguille : c'est Johannes Schmidt qui a désigné la mer des Sargasses comme lieu de ponte, au début du XXe siècle. La reproduction n'a toujours pas été observée dans la nature. Barrages, surpêche et parasites ont fait chuter les arrivées d'environ 90 % depuis les années 1970. Boucler le cycle en captivité reste, lui, un défi."
+        }
+      ],
+      "anecdotes": [
+        "Une anguille nommée « l'anguille de Brantevik » aurait vécu 155 ans dans le puits d'une maison d'un village de pêcheurs du sud de la Suède."
+      ],
+      "wikipedia": "Anguilla anguilla"
+    },
+    "source": "D'après Wikipédia — Anguilla anguilla"
+  },
+  {
+    "id": "animaux-076",
+    "domain": "animaux",
+    "subtheme": "Insectes",
+    "type": "classique",
+    "title": "Le monarque",
+    "subtitle": "Papillon migrateur d'Amérique du Nord",
+    "summary": "Le monarque est un grand papillon orange et noir d'Amérique, célèbre pour sa migration : il parcourt jusqu'à 4 000 km pour hiverner au Mexique, dans des forêts de sapins sacrés.\nSa chenille se nourrit d'asclépiades, des plantes toxiques qui rendent l'insecte indigeste pour la plupart de ses prédateurs.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une migration sur plusieurs générations",
+          "texte": "Vers le sud, le voyage se fait en une seule génération : le papillon rejoint la Sierra Nevada mexicaine, au Michoacán, où les colonies se serrent sur moins de 20 hectares. Il parcourt 80 à 120 km par jour. Au printemps, le retour vers le nord s'étale sur plusieurs générations. Sa boussole solaire se trouve dans son cerveau, et ses horloges circadiennes dans ses antennes."
+        },
+        {
+          "titre": "Un papillon qu'on évite",
+          "texte": "Les couleurs vives de la chenille et de l'adulte signalent le danger. Le papillon est immunisé contre les toxines des asclépiades et les stocke pour se défendre. Le vice-roi lui ressemble : on a cru cent ans à un mimétisme où il imitait le monarque, mais les deux espèces sont en fait indigestes. Herbicides et recul des asclépiades expliquent son déclin."
+        }
+      ],
+      "anecdotes": [
+        "Il existe une forme rare de monarque blanc, appelée nivosus : elle représente environ 1 % des individus, mais près de 10 % à Oahu, une île d'Hawaï."
+      ],
+      "wikipedia": "Monarque (papillon)"
+    },
+    "source": "D'après Wikipédia — Monarque (papillon)"
+  },
+  {
+    "id": "animaux-077",
+    "domain": "animaux",
+    "subtheme": "Insectes",
+    "type": "classique",
+    "title": "Les libellules et les demoiselles",
+    "subtitle": "Odonates : prédateurs ailés, aquatiques à l'état larvaire",
+    "summary": "Les odonates regroupent les libellules et les demoiselles, des insectes au corps allongé, aux grands yeux composés et à quatre ailes membraneuses. Ce sont des prédateurs redoutables, qui chassent en vol.\nLeurs larves, les naïades, vivent dans l'eau et capturent leurs proies avec un « masque » qui se déploie comme un bras.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des acrobates du vol",
+          "texte": "Leurs quatre ailes bougent de façon indépendante, ce qui leur permet de voler sur place et même en arrière. Elles peuvent atteindre 36 km/h, alors qu'un frelon ne dépasse pas 22 km/h, et grimper à 1,5 m/s, contre 0,4 m/s pour les autres insectes volants. Leur tête très mobile reste immobile en vol, pour ne pas perdre la proie de vue."
+        },
+        {
+          "titre": "De la naïade à l'adulte",
+          "texte": "La naïade grandit en 9 à 16 mues, pendant deux mois à cinq ans selon les espèces, et chasse même de petits poissons. Chez les demoiselles, les ailes se replient au repos et les yeux sont séparés ; chez les libellules au sens strict, les ailes restent étalées et les yeux sont souvent joints. Les adultes vivent de quelques semaines à quelques mois."
+        }
+      ],
+      "anecdotes": [
+        "Leurs lointains cousins du Permien étaient gigantesques : Meganeuropsis permiana atteignait jusqu'à 71 cm d'envergure, ce qui en fait le plus grand insecte de tous les temps."
+      ],
+      "wikipedia": "Odonata"
+    },
+    "source": "D'après Wikipédia — Odonata"
+  },
+  {
+    "id": "animaux-078",
+    "domain": "animaux",
+    "subtheme": "Insectes",
+    "type": "classique",
+    "title": "La coccinelle",
+    "subtitle": "Coléoptère aux élytres colorés, allié des jardiniers",
+    "summary": "Les coccinelles forment une famille d'environ 6 000 espèces de coléoptères. Leurs élytres colorés, souvent rouges à points noirs, préviennent les prédateurs qu'elles ont mauvais goût.\nBeaucoup mangent des pucerons, ce qui en fait des alliées des jardiniers : on les utilise en lutte biologique, comme insecticide naturel.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des points qui ne comptent pas les années",
+          "texte": "Le nombre de points va de deux à vingt-quatre et dépend de l'espèce, pas de l'âge. Ce motif résulte de l'activité d'un gène nommé pannier chez l'embryon. En cas de danger, la coccinelle laisse perler à ses pattes une humeur jaune amère. Sa larve peut dévorer jusqu'à neuf mille pucerons en trois semaines."
+        },
+        {
+          "titre": "Bête à bon Dieu et espèce invasive",
+          "texte": "Son nom vient du latin pour « écarlate », et son surnom, de la Vierge Marie : les sept points de la coccinelle à sept points rappelleraient ses sept joies et ses sept douleurs. La coccinelle asiatique, importée contre les pucerons, est devenue envahissante et s'attaque aux larves des espèces locales. Entre 2004 et 2012, en Grande-Bretagne, sept espèces endémiques sur huit ont perdu la moitié de leurs effectifs."
+        }
+      ],
+      "anecdotes": [
+        "Une étude britannique a montré que des coccinelles pouvaient voler jusqu'à 120 km, à 30 km/h, et monter à près de 1 100 m d'altitude."
+      ],
+      "wikipedia": "Coccinellidae"
+    },
+    "source": "D'après Wikipédia — Coccinellidae"
+  },
+  {
+    "id": "animaux-079",
+    "domain": "animaux",
+    "subtheme": "Insectes",
+    "type": "classique",
+    "title": "Les termites",
+    "subtitle": "Insectes sociaux proches des blattes",
+    "summary": "Les termites, parfois appelés fourmis blanches, ne sont pas des fourmis : ce sont des insectes proches des blattes, avec environ 2 600 espèces. Ils vivent en colonies organisées en castes, avec une reine et un roi.\nCertains bâtissent de grandes termitières en terre mâchée ; d'autres rongent le bois des maisons.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une société en castes",
+          "texte": "Ouvriers et soldats sont stériles. Presque tous sont aveugles et communiquent par des phéromones. Les soldats défendent la colonie : certains, du genre Nasutitermes, projettent un liquide gluant et toxique. La reine peut pondre un œuf toutes les trois secondes pendant vingt ans, soit en théorie 146 millions de termites. Les castes existent depuis au moins 100 millions d'années."
+        },
+        {
+          "titre": "Digérer le bois",
+          "texte": "Pour digérer la cellulose, les termites dits inférieurs hébergent des protozoaires qui peuvent représenter jusqu'au tiers de leur poids. Les termites champignonnistes cultivent un champignon, Termitomyces, sur des meules d'excréments. La nourriture circule d'un termite à l'autre et traverse toute la colonie en près de 3 jours. Leur digestion produit plus de méthane que celle de tout autre être vivant non bactérien."
+        }
+      ],
+      "anecdotes": [
+        "Découvert en 2012, le scarabée Eocorythoderus incredibilis imite une larve de termite pour se faire transporter dans leur nid, qu'il parasite."
+      ],
+      "wikipedia": "Termite"
+    },
+    "source": "D'après Wikipédia — Termite"
+  },
+  {
+    "id": "animaux-080",
+    "domain": "animaux",
+    "subtheme": "Insectes",
+    "type": "classique",
+    "title": "Le moustique",
+    "subtitle": "Famille des Culicidés, premier vecteur de maladies",
+    "summary": "Les moustiques forment la famille des Culicidés : plus de 3 700 espèces connues, mais seule une petite fraction s'attaque à l'humain. Seules les femelles se nourrissent de sang, nécessaire à la ponte.\nIls sont les premiers transmetteurs de maladies à l'être humain, comme le paludisme ou la dengue.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des mâles au nectar, des femelles au sang",
+          "texte": "Mâles et femelles se nourrissent de nectar et de sève, mais les femelles de nombreuses espèces piquent aussi pour obtenir ce qu'il faut à leurs œufs. Seules les femelles bourdonnent, et le bruit permet aux mâles de les repérer. Chaque femelle n'est fécondée qu'une fois dans sa vie. Un moustique vole en moyenne à 3 km/h."
+        },
+        {
+          "titre": "Un cycle dans l'eau",
+          "texte": "L'œuf, la larve et la nymphe vivent dans l'eau ; l'adulte, dans l'air. Le développement dure de 10 à 15 jours en zone tropicale. La larve remonte respirer à la surface et filtre jusqu'à deux litres d'eau par jour, tandis que la nymphe ne mange pas. Larves et adultes nourrissent de nombreux prédateurs, comme les larves de libellules, les poissons ou les oiseaux."
+        }
+      ],
+      "anecdotes": [
+        "Les plus grands moustiques, du genre Toxorhynchites, atteignent 18 mm et ne piquent jamais : ils ne prennent pas de sang."
+      ],
+      "wikipedia": "Moustique"
+    },
+    "source": "D'après Wikipédia — Moustique"
+  },
+  {
+    "id": "animaux-081",
+    "domain": "animaux",
+    "subtheme": "Insectes",
+    "type": "classique",
+    "title": "Le bousier",
+    "subtitle": "Coléoptère coprophage et recycleur de la savane",
+    "summary": "Les bousiers sont des coléoptères qui se nourrissent d'excréments : plus de 5 050 espèces rien que chez les Scarabaeinae. Beaucoup façonnent une boule de bouse qu'ils font rouler en ligne droite jusqu'à leur terrier.\nEn recyclant les déjections, ils fertilisent le sol et protègent le bétail des mouches.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Piluliers, tunneliers et résidents",
+          "texte": "Les piluliers roulent leur boule ; les tunneliers enterrent la bouse sur place ; les résidents vivent dedans. Le mâle pousse, la femelle suit, et d'autres bousiers guettent pour voler la boule. Jean-Henri Fabre a montré que les prétendus aides étaient des concurrents. Le bousier taureau, mâle, peut tirer 1 141 fois son poids, une force record pour un insecte."
+        },
+        {
+          "titre": "Un auxiliaire de l'élevage",
+          "texte": "Quand les colons ont importé du bétail en Australie, les bousiers locaux, adaptés aux crottes sèches des kangourous, ignoraient ses bouses. Elles stérilisaient le sol et attiraient les mouches. Entre 1965 et 1985, l'Australie a donc acclimaté des bousiers d'Afrique et d'Europe. Aux États-Unis, leur travail ferait économiser environ 380 millions de dollars à l'élevage. L'ivermectine, un antiparasitaire, les décime."
+        }
+      ],
+      "anecdotes": [
+        "Scarabaeus satyrus s'oriente la nuit grâce à la Voie lactée : c'est l'un des rares animaux connus pour le faire. De jour, il suit la lumière polarisée du ciel."
+      ],
+      "wikipedia": "Bousier"
+    },
+    "source": "D'après Wikipédia — Bousier"
+  },
+  {
+    "id": "animaux-082",
+    "domain": "animaux",
+    "subtheme": "Insectes",
+    "type": "classique",
+    "title": "La mante religieuse",
+    "subtitle": "Insecte chasseur à l'affût, originaire du bassin méditerranéen",
+    "summary": "La mante religieuse mesure de 6 à 8 cm. Immobile à l'affût, ses pattes avant repliées comme pour prier, elle saisit au vol des insectes parfois aussi gros qu'elle.\nSon nom vient du grec mantis, « devineresse », auquel la tradition chrétienne a ajouté « religieuse » à cause de sa posture de prière. Elle vit surtout l'été, quand les insectes abondent.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une chasseuse à l'affût",
+          "texte": "Ses pattes ravisseuses, garnies de piques, se détendent d'un coup. Sa tête pivote à 180° et ses yeux écartés lui donnent une vision en relief jusqu'à 20 m. Verte ou brune, elle se confond avec la végétation. Elle possède un organe auditif unique, sous le thorax, sensible aussi aux ultrasons. Elle dévore parfois d'abord les ganglions du cou de sa proie."
+        },
+        {
+          "titre": "Intimider et se reproduire",
+          "texte": "Menacée, elle se redresse, déploie ses ailes et écarte ses pattes avant, qui portent des taches rappelant des yeux. L'accouplement a lieu d'août à octobre : la femelle dévore parfois le mâle, surtout en captivité. Elle pond 200 à 300 œufs dans une oothèque protectrice, et une centaine de larves en sortent au printemps."
+        }
+      ],
+      "anecdotes": [
+        "Introduite en Amérique du Nord, notamment dans l'État de New York dès 1899 afin de combattre les ravageurs, elle est devenue l'insecte officiel du Connecticut. Une étude génétique relie les mantes du Québec et de l'Ontario à des lignées de l'ouest de la France."
+      ],
+      "wikipedia": "Mante religieuse"
+    },
+    "source": "D'après Wikipédia — Mante religieuse"
+  },
+  {
+    "id": "animaux-083",
+    "domain": "animaux",
+    "subtheme": "Animaux disparus",
+    "type": "classique",
+    "title": "Le dodo",
+    "subtitle": "Oiseau incapable de voler de l'île Maurice, disparu au XVIIe siècle",
+    "summary": "Le dodo, ou dronte de Maurice, vivait uniquement sur l'île Maurice, dans l'océan Indien. Cet oiseau d'environ un mètre pour 10 kilos, incapable de voler, était un proche cousin des pigeons.\nLes Européens l'ont décrit en 1598 ; la dernière observation confirmée date de 1662. Il est devenu le symbole des espèces disparues par la faute de l'homme.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un pigeon géant sans prédateurs",
+          "texte": "Le dodo descend de pigeons venus d'Asie du Sud. Sur une île sans prédateurs, ses ailes se sont atrophiées et son sternum ne permettait plus de voler. Son plus proche parent vivant est le Nicobar à camail ; son cousin disparu est le solitaire de Rodrigues. Il se nourrissait surtout de graines et de fruits."
+        },
+        {
+          "titre": "Une extinction en moins d'un siècle",
+          "texte": "Le dodo n'avait aucune peur de l'homme : une proie facile pour les marins. Mais les animaux amenés par les bateaux (chiens, porcs, chats, rats, macaques crabiers) pillaient ses nids, et l'on pense qu'ils ont pesé plus lourd que la chasse, tout comme la destruction des forêts. Au début du XIXe siècle, beaucoup croyaient l'oiseau mythique."
+        }
+      ],
+      "anecdotes": [
+        "L'image d'un dodo gros et balourd vient sans doute d'oiseaux captifs suralimentés. À l'état sauvage, il s'engraissait à la fin de la saison humide pour tenir pendant la saison sèche, et les témoins le décrivaient parfois comme vorace et agressif."
+      ],
+      "wikipedia": "Dodo (oiseau)"
+    },
+    "source": "D'après Wikipédia — Dodo (oiseau)"
+  },
+  {
+    "id": "animaux-084",
+    "domain": "animaux",
+    "subtheme": "Animaux disparus",
+    "type": "classique",
+    "title": "Le mammouth laineux",
+    "subtitle": "Éléphantidé des steppes glacées, disparu il y a environ 4 000 ans",
+    "summary": "Le mammouth laineux vivait dans les steppes froides d'Eurasie et d'Amérique du Nord. Il avait à peu près la taille d'un éléphant d'Afrique actuel, et son plus proche parent vivant est l'éléphant d'Asie.\nIl a disparu du continent il y a environ 10 000 ans. Quelques groupes ont tenu bon sur l'île Wrangel, jusqu'à voici 4 000 ans environ, à l'époque où l'on bâtissait les pyramides de Gizeh.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Équipé pour le grand froid",
+          "texte": "Sa fourrure comptait deux couches : de longs poils de jarre (jusqu'à 90 cm sur les flancs) et une sous-couche dense de poils de bourre de 8 cm. Des glandes huilaient le poil pour l'isoler et l'imperméabiliser. Ses oreilles et sa queue étaient courtes pour éviter les gelures, et une couche de graisse pouvait atteindre 10 cm sous la queue."
+        },
+        {
+          "titre": "Des défenses spectaculaires",
+          "texte": "Ses défenses, très recourbées, mesuraient en général 2,4 à 2,7 m pour environ 45 kg ; la plus longue jamais trouvée atteint 4,2 m pour 91 kg. Celles des femelles étaient plus fines. Elles poussaient toute la vie, de 2,5 à 15 cm par an. Ses quatre molaires étaient remplacées six fois au cours de son existence."
+        }
+      ],
+      "anecdotes": [
+        "Le mot « mammouth » est devenu un adjectif grâce à Thomas Jefferson : en 1802, il décrit ainsi un énorme fromage, le « Cheshire Mammoth Cheese », qui lui avait été offert. C'est la première utilisation connue du mot pour dire « gigantesque »."
+      ],
+      "wikipedia": "Mammouth laineux"
+    },
+    "source": "D'après Wikipédia — Mammouth laineux"
+  },
+  {
+    "id": "animaux-085",
+    "domain": "animaux",
+    "subtheme": "Animaux disparus",
+    "type": "classique",
+    "title": "Le thylacine",
+    "subtitle": "Marsupial carnivore de Tasmanie, dernier individu mort en 1936",
+    "summary": "Le thylacine, surnommé loup ou tigre de Tasmanie, était un marsupial carnivore aussi grand qu'un loup, au pelage rayé de quinze bandes sombres. Ce n'était pas un canidé : son plus proche parent vivant est le diable de Tasmanie.\nTraqué avec des primes d'abattage, il a disparu : le dernier individu connu est mort au zoo de Hobart le 7 septembre 1936.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un loup qui n'en est pas un",
+          "texte": "Occupant en Australie la place des loups ailleurs, il leur a ressemblé par évolution convergente : dents, mâchoires puissantes, forme du corps. Mais c'était un marsupial. La femelle avait une poche à quatre mamelles ouverte vers l'arrière, et le mâle une poche protectrice. Il pouvait ouvrir la gueule jusqu'à 120 degrés, une amplitude rare chez les carnivores."
+        },
+        {
+          "titre": "Une disparition annoncée",
+          "texte": "Disparu du continent australien et de Nouvelle-Guinée voici environ 3 600 à 3 200 ans, sans doute après l'arrivée du dingo, il restait en Tasmanie. Au XIXe siècle, on le jugeait dangereux pour les troupeaux et l'État offrait des primes pour sa mort. Chasse, maladies, chiens et recul de son habitat ont fait le reste. Depuis 1996, l'Australie fête le 7 septembre la Journée des espèces menacées."
+        }
+      ],
+      "anecdotes": [
+        "Un thylacine naturalisé en 1886, conservé au Muséum-Aquarium de Nancy, est dressé sur ses pattes arrière comme un kangourou. L'animal ne le faisait que quelques secondes, pour guetter : le musée a préféré mettre ce spécimen en réserve pour ne pas induire le public en erreur."
+      ],
+      "wikipedia": "Thylacine"
+    },
+    "source": "D'après Wikipédia — Thylacine"
+  },
+  {
+    "id": "animaux-086",
+    "domain": "animaux",
+    "subtheme": "Animaux disparus",
+    "type": "date",
+    "title": "1914 : la mort de Martha, dernière tourte voyageuse",
+    "subtitle": "Fin d'une espèce qui comptait des milliards d'oiseaux",
+    "summary": "Le 1er septembre 1914, Martha, une femelle de tourte voyageuse, meurt dans sa cage du zoo de Cincinnati, dans l'Ohio. Avec elle disparaît une espèce qui comptait trois à cinq milliards d'oiseaux au début du XIXe siècle.\nElle a été exterminée en quelques dizaines d'années, surtout par la chasse et la destruction des forêts.",
+    "details": {
+      "contexte": "Au début du XIXe siècle, la tourte voyageuse, ou pigeon migrateur, était l'oiseau le plus abondant d'Amérique du Nord. Ses vols formaient des nuées si denses qu'elles obscurcissaient le ciel plusieurs jours de suite, comme l'a raconté Audubon.",
+      "causes": "Il suffisait de tirer en l'air pour abattre des oiseaux, et la viande se vendait à bas prix : des concours de chasse furent même organisés. Déforestation, incendies de colonies et maladie ont aggravé le déclin, d'autant que l'oiseau ne pondait qu'un œuf par an.",
+      "deroulement": "Le déclin devient visible vers le milieu du XIXe siècle ; 1878 est la dernière année de grande chasse. L'espèce disparaît à l'état sauvage vers la fin du siècle. Les rares oiseaux captifs ne se reproduisent pas, et Martha s'éteint le 1er septembre 1914.",
+      "consequences": "La tourte voyageuse est devenue l'exemple d'une extinction causée par l'homme. Depuis 2022, l'association Revive & Restore finance des recherches en biotechnologie pour tenter de la faire revenir.",
+      "frise": [
+        {
+          "annee": "1749",
+          "evenement": "En Pennsylvanie, Pehr Kalm décrit des nuées d'oiseaux si denses qu'elles cachent le Soleil."
+        },
+        {
+          "annee": "1878",
+          "evenement": "Dernière année d'un important tableau de chasse de l'espèce."
+        },
+        {
+          "annee": "1914",
+          "evenement": "Mort de Martha au zoo de Cincinnati, dernière tourte voyageuse."
+        }
+      ],
+      "wikipedia": "Tourte voyageuse"
+    },
+    "source": "D'après Wikipédia — Tourte voyageuse"
+  },
+  {
+    "id": "animaux-087",
+    "domain": "animaux",
+    "subtheme": "Animaux disparus",
+    "type": "classique",
+    "title": "Le mégalodon",
+    "subtitle": "Requin géant disparu il y a environ 3,6 millions d'années",
+    "summary": "Le mégalodon (« grande dent ») était un requin géant qui a vécu il y a entre 23 et 3,6 millions d'années. On ne le connaît que par des restes fragmentaires, surtout des dents : sa taille maximale reste incertaine, jusqu'à 20 mètres selon la plus récente estimation.\nIl chassait baleines et phoques. Le refroidissement des océans et la raréfaction de ses proies ont sans doute causé son déclin.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un requin connu par ses dents",
+          "texte": "Longtemps classé près du grand requin blanc, il appartient en fait à une autre famille, les Otodontidae : la ressemblance de leurs dents vient d'une évolution convergente. Les siennes étaient épaisses, conçues pour saisir et briser les os, et sa morsure atteignait jusqu'à 182 200 newtons. La longueur la plus courante était de 10,5 m."
+        },
+        {
+          "titre": "Un chasseur de baleines",
+          "texte": "Il visait de grosses proies : cétacés, phoques, tortues marines. Au lieu d'attaquer par le ventre mou comme le grand blanc, il aurait brisé la cage thoracique pour percer cœur et poumons. Les jeunes vivaient dans des eaux côtières chaudes. Face à des concurrents comme Livyatan, il a décliné avec le refroidissement des océans et la baisse du niveau de la mer."
+        }
+      ],
+      "anecdotes": [
+        "Dès l'Antiquité, on a pris ses dents pour des « langues de pierre » : Pline l'Ancien écrit qu'elles tombaient du ciel lors des éclipses de Lune. Au Moyen Âge et à la Renaissance, des nobles en faisaient des amulettes ou de la vaisselle censées détecter les poisons."
+      ],
+      "wikipedia": "Mégalodon"
+    },
+    "source": "D'après Wikipédia — Mégalodon"
+  },
+  {
+    "id": "animaux-088",
+    "domain": "animaux",
+    "subtheme": "Animaux disparus",
+    "type": "classique",
+    "title": "Le tyrannosaure",
+    "subtitle": "Dinosaure carnivore d'Amérique du Nord, de 69 à 66 millions d'années",
+    "summary": "Tyrannosaurus rex, « roi des lézards tyrans », a vécu en Amérique du Nord il y a 69 à 66 millions d'années, parmi les derniers dinosaures non aviens avant l'extinction de la fin du Crétacé. Il dépassait 13 mètres de long et pouvait peser jusqu'à 8 tonnes.\nSes bras minuscules n'avaient que deux doigts, mais sa morsure passe pour la plus puissante de tous les animaux connus.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une machine à mordre",
+          "texte": "Sur une seule dent arrière, sa mâchoire exerçait de 35 000 à 57 000 newtons : 8 à 10 fois plus qu'un alligator, contre environ 1 000 pour un humain. Ses plus grandes dents atteignaient 30 cm, racine comprise. Son crâne, large à l'arrière et au museau étroit, lui offrait une bonne vision stéréoscopique. Et il ne pouvait pas tirer la langue, contrairement à ce que montre Jurassic Park."
+        },
+        {
+          "titre": "Des fossiles célèbres",
+          "texte": "Barnum Brown découvre les premiers squelettes en 1900 et 1902 ; Henry Fairfield Osborn nomme l'espèce en 1905. Le squelette « Sue », trouvé par Sue Hendrickson le 12 août 1990, est le plus complet (environ 85 %). Le Field Museum l'a acheté 7,6 millions de dollars. Selon l'étude de ses os, Sue a atteint sa taille adulte à 19 ans et est morte à 28 ans."
+        }
+      ],
+      "anecdotes": [
+        "Le squelette surnommé « Stan », trouvé en 1992, porte les traces d'une vie rude : côtes cassées puis ressoudées, cou brisé puis guéri, et un trou à l'arrière du crâne de la taille d'une dent de tyrannosaure."
+      ],
+      "wikipedia": "Tyrannosaurus"
+    },
+    "source": "D'après Wikipédia — Tyrannosaurus"
+  },
+  {
+    "id": "animaux-089",
+    "domain": "animaux",
+    "subtheme": "Animaux disparus",
+    "type": "classique",
+    "title": "Le grand pingouin",
+    "subtitle": "Oiseau marin de l'Atlantique nord, disparu en 1844",
+    "summary": "Le grand pingouin était un oiseau marin de l'Atlantique nord, haut de 75 à 85 cm et pesant environ 5 kg. Incapable de voler, c'était pourtant un nageur remarquable, capable de plonger à 76 mètres au moins.\nChassé pour sa chair, ses plumes puis par les collectionneurs, il a disparu : les deux derniers spécimens confirmés ont été tués sur l'île d'Eldey, en Islande, le 3 juin 1844.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un champion de la plongée",
+          "texte": "Ses ailes ne mesuraient que 15 cm : elles servaient de nageoires. Ses pattes, placées à l'arrière du corps, le propulsaient, et il pouvait retenir son souffle 15 minutes, plus longtemps qu'un phoque. Il chassait en profondeur des poissons comme le capelan. À terre, en revanche, il marchait lentement et maladroitement, et n'avait pas peur de l'homme."
+        },
+        {
+          "titre": "Des colonies très denses",
+          "texte": "Il ne venait à terre que pour nicher, sur des îles rocheuses : il y avait une vingtaine de sites seulement. Les nids étaient serrés, à raison d'environ un par mètre carré. Chaque femelle pondait un seul œuf par an, de 400 g, et les deux parents le couvaient à tour de rôle pendant 39 à 44 jours. Les petits prenaient la mer au bout de deux à trois semaines."
+        }
+      ],
+      "anecdotes": [
+        "Le mot « penguin » a d'abord désigné le grand pingouin. Quand les explorateurs ont découvert, dans l'hémisphère sud, des oiseaux de silhouette semblable, ils leur ont donné ce nom : les manchots ne sont pourtant pas de proches parents.",
+        "Chez des peuples de l'Amérique du Nord, un défunt a été retrouvé couvert de plus de 200 becs de grands pingouins, restes probables d'un manteau fait de leurs peaux."
+      ],
+      "wikipedia": "Grand Pingouin"
+    },
+    "source": "D'après Wikipédia — Grand Pingouin"
+  },
+  {
+    "id": "animaux-090",
+    "domain": "animaux",
+    "subtheme": "Comportements",
+    "type": "classique",
+    "title": "L'écholocalisation",
+    "subtitle": "Voir avec les sons : chauves-souris, dauphins et quelques autres",
+    "summary": "L'écholocalisation consiste à émettre des sons et à écouter leur écho pour repérer ce qui nous entoure. Les chauves-souris la pratiquent pour chasser des insectes en vol dans le noir, les dauphins pour s'orienter sous l'eau.\nQuelques oiseaux (salanganes, guacharo des cavernes) l'utilisent aussi, ainsi que des personnes aveugles. C'est le principe du sonar.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Les chauves-souris, pionnières",
+          "texte": "En 1794, Spallanzani constate que des chauves-souris aux yeux bouchés évitent toujours les obstacles, mais s'orientent mal les oreilles bouchées. Il faudra attendre la découverte des ultrasons, puis Donald Griffin, qui invente le terme « echolocation », pour comprendre. Leurs cris, parfois supérieurs à 120 dB, vont de 8 à 150 kHz selon l'espèce ; les oreilles captent l'écho."
+        },
+        {
+          "titre": "Dauphins, marsouins et principe physique",
+          "texte": "Chez les dauphins, les sons couvrent de 250 à 220 000 hertz. Les marsouins émettent au-dessus de 100 kHz, une fréquence que leurs ennemis, les orques, n'entendent pas. Le temps entre le cri et l'écho donne la distance, l'écart entre les deux oreilles la direction, et la déformation de l'écho la nature de la cible, jusqu'aux battements d'ailes d'un insecte."
+        }
+      ],
+      "anecdotes": [
+        "Les chauves-souris ont un point faible : en 2017, des chercheurs ont filmé 21 individus dans un couloir où une surface verticale très lisse avait été placée. 19 l'ont heurtée, les ultrasons glissant dessus comme sur un passage libre, alors qu'ils évitaient tous les autres obstacles."
+      ],
+      "wikipedia": "Écholocalisation"
+    },
+    "source": "D'après Wikipédia — Écholocalisation"
+  },
+  {
+    "id": "animaux-091",
+    "domain": "animaux",
+    "subtheme": "Comportements",
+    "type": "classique",
+    "title": "La parade nuptiale",
+    "subtitle": "Chants, danses, couleurs et cadeaux pour séduire un partenaire",
+    "summary": "La parade nuptiale regroupe les comportements par lesquels un animal cherche à attirer un partenaire et à le convaincre de s'accoupler : chants, danses, couleurs, cadeaux. Elle fait aussi baisser l'agressivité entre les partenaires.\nChaque espèce a ses codes, du brame du cerf à la tonnelle décorée de l'oiseau jardinier.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Chez les oiseaux : chanter, exhiber, construire",
+          "texte": "La plupart des mâles chantent. D'autres exhibent un attribut, comme la frégate qui gonfle un sac rouge vif sous le bec. L'oiseau jardinier satiné d'Australie bâtit une tonnelle qu'il décore d'objets colorés, souvent bleus : ceux qui en réunissent le plus ont plus de succès. Le colibri d'Anna, lui, plonge de 20 à 35 m de haut, et ses plumes de queue produisent un bourdonnement."
+        },
+        {
+          "titre": "Mammifères, poissons, amphibiens",
+          "texte": "Le cerf brame de septembre à octobre pour attirer les biches et intimider ses rivaux. Chez l'ours brun, l'ovule fécondé ne s'implante que des mois plus tard, pour que les oursons naissent en hiver, à l'abri dans la tanière. L'épinoche rougit du ventre et construit un nid, le triton danse en envoyant des phéromones avec sa queue, et le crapaud gonfle un sac vocal."
+        }
+      ],
+      "anecdotes": [
+        "Les rôles ne sont pas toujours ceux qu'on croit : chez une espèce de poisson-pipe (Syngnathus typhle), ce sont les femelles qui arborent un motif rayé temporaire, à la fois pour attirer les mâles et pour intimider les rivales."
+      ],
+      "wikipedia": "Parade nuptiale"
+    },
+    "source": "D'après Wikipédia — Parade nuptiale"
+  },
+  {
+    "id": "animaux-092",
+    "domain": "animaux",
+    "subtheme": "Comportements",
+    "type": "classique",
+    "title": "L'utilisation d'outils chez les animaux",
+    "subtitle": "Un comportement longtemps cru propre à l'homme",
+    "summary": "Longtemps considérée comme propre à l'homme, l'utilisation d'outils a été observée chez de nombreux animaux, surtout depuis les années 1960 : singes, éléphants, loutres, corbeaux, poissons, pieuvres.\nCes découvertes ont révolutionné le regard des scientifiques sur l'intelligence animale. Certains outils sont appris, d'autres sont même pré-programmés génétiquement.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Qu'est-ce qu'un outil ?",
+          "texte": "Pour le biologiste Benjamin Beck, un outil est un objet détaché de son support, tenu par l'animal, qui modifie un autre objet, un autre être vivant ou l'animal lui-même. Si l'objet n'est pas manipulé, comme l'enclume de pierre de la loutre de mer, on parle de proto-outil. Un méta-outil sert à obtenir un autre outil : des corbeaux calédoniens utilisent ainsi un bâton court pour atteindre un bâton plus long."
+        },
+        {
+          "titre": "Un talent très répandu",
+          "texte": "Le pinson pic des Galápagos se sert d'épines de cactus pour déloger des larves. Le héron vert pose un appât (pain, grillon, brindille) sur l'eau pour attirer les poissons. Des dauphins de Shark Bay protègent leur bec avec des éponges, des éléphants se grattent avec des branches, et le poulpe Amphioctopus marginatus assemble des coques de noix de coco vides pour s'abriter."
+        }
+      ],
+      "anecdotes": [
+        "Au Japon, des corneilles noires profitent des voitures : elles déposent des noix devant les roues pour que les véhicules les écrasent et les ouvrent."
+      ],
+      "wikipedia": "Utilisation d'outils chez les animaux"
+    },
+    "source": "D'après Wikipédia — Utilisation d'outils chez les animaux"
+  },
+  {
+    "id": "animaux-093",
+    "domain": "animaux",
+    "subtheme": "Comportements",
+    "type": "classique",
+    "title": "La domestication",
+    "subtitle": "Comment l'homme a transformé des espèces sauvages en compagnons et en troupeaux",
+    "summary": "La domestication est l'apparition, chez une espèce, de caractères nouveaux et héréditaires, sous l'effet d'une longue relation avec l'homme et de sa sélection. Le chien, domestiqué par des chasseurs paléolithiques, a précédé l'élevage et l'agriculture.\nElle ne se confond pas avec l'apprivoisement d'un seul animal : elle concerne toute une lignée, sur de nombreuses générations.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Plusieurs foyers, plusieurs époques",
+          "texte": "Le chien est le premier, il y a au moins 15 000 ans. Chèvres, moutons, porcs et bovins suivent dans le Croissant fertile il y a 11 000 à 10 000 ans. En Asie de l'Est, le porc a été domestiqué à partir de sangliers différents, il y a 8 000 ans. Le chat l'aurait été il y a environ 10 000 ans, sans doute pour chasser les rongeurs, le cheval il y a 5 500 ans en Asie centrale, et le poulet il y a au moins 3 250 ans."
+        },
+        {
+          "titre": "Un air de famille",
+          "texte": "Dès 1868, Darwin remarque que les espèces domestiques ne se distinguent de leurs ancêtres que par un petit nombre de traits : taille plus petite, moindre agressivité, oreilles tombantes, museau plus court, cerveau plus petit. Certains y voient une néoténie, des traits de jeunesse conservés à l'âge adulte. Chez le lapin, la sélection s'est faite dans les garennes médiévales, avec des furets pour capturer les bêtes vivantes."
+        }
+      ],
+      "anecdotes": [
+        "L'homme n'est pas le seul domesticateur : des fourmis champignonnistes, des termites et des coléoptères dits « ambrosia » cultivent chacun des champignons dont ils se nourrissent."
+      ],
+      "wikipedia": "Domestication"
+    },
+    "source": "D'après Wikipédia — Domestication"
+  },
+  {
+    "id": "animaux-094",
+    "domain": "animaux",
+    "subtheme": "Comportements",
+    "type": "personnage",
+    "title": "Jane Goodall",
+    "subtitle": "Primatologue britannique, 1934-2025",
+    "summary": "Jane Goodall (1934-2025) est une primatologue britannique. À partir de 1960, elle étudie les chimpanzés sauvages de Gombe, en Tanzanie : c'est la plus longue étude de terrain jamais menée sur des animaux sauvages.\nElle a montré qu'ils fabriquent des outils, mangent de la viande et ont des personnalités. En 1977, elle a fondé un institut pour la protection de la nature.",
+    "details": {
+      "epoque": "De 1960 à sa mort en 2025.",
+      "pourquoiCelebre": "Elle a bouleversé l'idée qu'on se faisait de l'homme et des grands singes en montrant que les chimpanzés fabriquent des outils.",
+      "ideesClefs": [
+        "En octobre 1960, elle observe un chimpanzé qui fabrique et utilise un outil pour pêcher des termites.",
+        "Elle découvre que les chimpanzés sont omnivores et peuvent se faire la guerre (guerre de Gombe, 1974-1978).",
+        "Elle fonde en 1977 le Jane Goodall Institute, puis le programme Roots & Shoots pour la jeunesse."
+      ],
+      "liens": [
+        {
+          "nom": "Louis Leakey",
+          "relation": "Le paléontologue qui l'a recrutée, envoyée à Gombe et encouragée à passer un doctorat."
+        },
+        {
+          "nom": "David Attenborough",
+          "relation": "Cofondateur, avec elle, du groupe de réflexion Population Matters."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "In the Shadow of Man",
+          "annee": "1971"
+        },
+        {
+          "titre": "The Chimpanzees of Gombe",
+          "annee": "1986"
+        },
+        {
+          "titre": "Through a Window",
+          "annee": "1990"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Les chimpanzés de Gombe",
+          "texte": "Sans diplôme, Jane Goodall s'installe en 1960 sur les rives du lac Tanganyika. Son observation d'un chimpanzé façonnant des brins d'herbe pour attraper des termites ébranle la définition de l'homme : Louis Leakey écrit qu'il faut redéfinir l'outil, redéfinir l'homme, ou accepter le chimpanzé comme humain. Elle montre aussi qu'ils chassent, et qu'ils peuvent être violents."
+        },
+        {
+          "titre": "Une autre façon de faire de la science",
+          "texte": "Elle donne des noms à ses chimpanzés au lieu de simples numéros, ce qui était alors mal vu. Elle soutient en 1965 une thèse à Cambridge, alors qu'elle n'a jamais passé de licence. En 1986, elle propose que les différences de comportement entre groupes soient des variantes culturelles. Son programme Roots & Shoots réunit plus de 150 000 groupes dans plus de 136 pays."
+        }
+      ],
+      "anecdotes": [
+        "Enfant, elle avait reçu de son père un chimpanzé en peluche nommé Jubilee, qui trônait encore sur sa commode à Londres en 2000. Une photo d'elle figure aussi sur le disque d'or des sondes Voyager."
+      ],
+      "wikipedia": "Jane Goodall"
+    },
+    "source": "D'après Wikipédia — Jane Goodall"
+  },
+  {
+    "id": "animaux-095",
+    "domain": "animaux",
+    "subtheme": "Comportements",
+    "type": "personnage",
+    "title": "Konrad Lorenz",
+    "subtitle": "Zoologiste autrichien, 1903-1989",
+    "summary": "Konrad Lorenz (1903-1989), zoologiste autrichien, est l'un des fondateurs de l'éthologie, l'étude du comportement animal. Il a décrit l'empreinte chez les oies cendrées : l'oison s'attache au premier être en mouvement qu'il voit.\nIl a partagé le prix Nobel de médecine en 1973 avec Karl von Frisch et Nikolaas Tinbergen.",
+    "details": {
+      "epoque": "Des années 1930 aux années 1980.",
+      "pourquoiCelebre": "Il a fait de l'étude du comportement animal une science et popularisé l'empreinte, ce lien qu'un oison noue avec le premier être qu'il voit.",
+      "ideesClefs": [
+        "En 1935, il décrit l'empreinte (Prägung) chez les oiseaux nidifuges, comme l'oie cendrée.",
+        "Il voit dans le comportement un ensemble largement inné, déclenché par des stimuli de l'environnement.",
+        "Il reçoit en 1973 le prix Nobel de physiologie ou médecine, le seul jamais remis à des spécialistes du comportement."
+      ],
+      "liens": [
+        {
+          "nom": "Nikolaas Tinbergen",
+          "relation": "Ami et collègue rencontré en 1936, avec qui il a fondé l'éthologie moderne."
+        },
+        {
+          "nom": "Karl von Frisch",
+          "relation": "Co-lauréat du Nobel 1973 pour ses travaux sur le comportement."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Il parlait avec les mammifères, les oiseaux et les poissons"
+        },
+        {
+          "titre": "L'Agression",
+          "annee": "1963"
+        },
+        {
+          "titre": "Les Huit Péchés capitaux de notre civilisation",
+          "annee": "1973"
+        },
+        {
+          "titre": "L'Envers du miroir",
+          "annee": "1973"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "L'empreinte des oisons",
+          "texte": "Lorenz étudie des oies cendrées et des choucas. Dans son livre de 1935, il décrit la Prägung, l'« empreinte » : un oison s'attache d'instinct au premier objet mobile qu'il perçoit après l'éclosion, sa mère ou un humain. Ce lien lui apprend à reconnaître les siens et oriente ensuite des comportements comme le choix d'un partenaire. Le phénomène avait été entrevu avant lui, mais sa description est restée la référence."
+        },
+        {
+          "titre": "Un savant dans la tourmente",
+          "texte": "Médecin en 1928, il passe un second doctorat, de zoologie, en 1933. En 1940, il devient professeur à Königsberg, sur la chaire de Kant ; mobilisé en 1941, il est prisonnier des Soviétiques de 1944 à 1948, en Arménie. Il fut membre du parti nazi, ce qu'il regretta après la guerre. Il dirige ensuite des instituts Max Planck, puis reçoit le Nobel en 1973."
+        }
+      ],
+      "anecdotes": [
+        "Prisonnier en Arménie soviétique, il écrit, avec du permanganate de potassium en guise d'encre, sur le papier épais qui enveloppait des sacs de ciment. Il rentre en 1948 avec ce texte, devenu L'Envers du miroir, et son étourneau apprivoisé."
+      ],
+      "wikipedia": "Konrad Lorenz"
+    },
+    "source": "D'après Wikipédia — Konrad Lorenz"
+  },
+  {
+    "id": "animaux-096",
+    "domain": "animaux",
+    "subtheme": "Comportements",
+    "type": "classique",
+    "title": "Le test du miroir",
+    "subtitle": "Un reflet suffit-il à prouver la conscience de soi ?",
+    "summary": "Le test du miroir, mis au point en 1970 par le psychologue américain Gordon Gallup, vérifie si un animal reconnaît son reflet. On place discrètement une marque colorée sur sa tête et l'on observe s'il la touche en se regardant.\nChimpanzés, orangs-outans, éléphants d'Asie, dauphins, pies ou labres nettoyeurs le réussissent, mais le test a ses limites.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Du zoo de Londres aux chimpanzés",
+          "texte": "Tout part d'une anecdote : en 1838, Darwin observe Jenny, une orang-outan du zoo de Londres, qui regarde un miroir. En 1970, Gallup enferme quatre chimpanzés avec un miroir. D'abord menaçants face à leur image, ils s'en servent peu à peu pour se nettoyer, faire des grimaces ou souffler des bulles. Puis, sous anesthésie, il leur peint la tête : avec le miroir, ils touchent la tache plus souvent."
+        },
+        {
+          "titre": "Qui réussit, et ce que cela prouve",
+          "texte": "Outre le chimpanzé, réussissent le bonobo, l'orang-outan, le grand dauphin, l'éléphant d'Asie, la pie bavarde, le labre nettoyeur et la raie manta, ainsi que l'enfant dès 18 mois. La pieuvre échoue. Mais le chien se repère à l'odeur et non à la vue, et Frans de Waal rappelle que la conscience de soi n'est pas binaire : le miroir ne doit pas être le seul juge."
+        }
+      ],
+      "anecdotes": [
+        "Pour les éléphants d'Afrique, il est impossible de conclure : ils détruisent systématiquement le miroir en l'examinant."
+      ],
+      "wikipedia": "Test du miroir"
+    },
+    "source": "D'après Wikipédia — Test du miroir"
+  },
+  {
+    "id": "animaux-097",
+    "domain": "animaux",
+    "subtheme": "Espèces menacées",
+    "type": "classique",
+    "title": "La Liste rouge de l'UICN",
+    "subtitle": "L'inventaire mondial de l'état des espèces, depuis 1964",
+    "summary": "La Liste rouge de l'UICN, créée en 1964, est le plus vaste inventaire mondial de la santé des espèces animales et végétales. En 2025, 172 620 espèces y figurent, dont 48 646 menacées de disparition.\nChaque espèce reçoit une catégorie de risque, de « préoccupation mineure » à « éteinte ».",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des catégories pour mesurer le danger",
+          "texte": "Les experts évaluent chaque espèce selon cinq critères : rythme de déclin, population totale, aire de répartition, degré de peuplement et fragmentation. Les catégories vont de « éteinte » (EX) à « préoccupation mineure » (LC), en passant par « en danger critique » (CR), « en danger » (EN), « vulnérable » (VU), « quasi menacée » (NT) et « données insuffisantes » (DD). Les trois du milieu forment les espèces « menacées »."
+        },
+        {
+          "titre": "Un outil d'alerte, pas une loi",
+          "texte": "L'UICN naît à Fontainebleau. Les premiers livres rouges paraissent dans les années 1960, puis la liste prend sa forme actuelle, avec environ 7 000 experts bénévoles. Elle n'a aucune valeur légale contraignante, mais guide les politiques de protection. En 2012, 41 % des amphibiens, 33 % des coraux constructeurs de récifs, 25 % des mammifères et 13 % des oiseaux étaient menacés."
+        }
+      ],
+      "anecdotes": [
+        "L'être humain figure lui-même sur la Liste rouge, dans la catégorie « préoccupation mineure », réservée aux espèces largement répandues et abondantes."
+      ],
+      "wikipedia": "Liste rouge de l'UICN"
+    },
+    "source": "D'après Wikipédia — Liste rouge de l'UICN"
+  },
+  {
+    "id": "animaux-098",
+    "domain": "animaux",
+    "subtheme": "Espèces menacées",
+    "type": "animal-rare",
+    "title": "Le bison d'Europe",
+    "subtitle": "Plus gros mammifère terrestre d'Europe, sauvé de justesse",
+    "summary": "Le bison d'Europe, ou wisent, est le plus gros mammifère terrestre du continent : un mâle pèse en moyenne environ 800 kg. Commun depuis la préhistoire, il a été exterminé à l'état sauvage dans les années 1920.\nSauvé à partir de 12 reproducteurs issus de zoos, il est réintroduit depuis 1952. En 2020, on en comptait 6 819 à l'état sauvage.",
+    "details": {
+      "habitat": "Forêts et clairières d'Europe centrale et orientale : Pologne, Biélorussie, Roumanie, Slovaquie, Ukraine, Allemagne.",
+      "causesDeclin": "Chasse (c'était un gibier de rois) et recul de la forêt primaire, remplacée par champs et pâturages. Disparu de France au VIIIe siècle, d'Allemagne au XVIIe siècle, puis de Pologne, son dernier refuge, dans les années 1920.",
+      "statutConservation": "Quasi menacé (UICN)",
+      "actionsProtection": "Société internationale pour sa protection dès 1923, livre généalogique pour limiter la consanguinité, premières réintroductions en 1952 dans la forêt de Białowieża, puis en Allemagne en 2013 et en Roumanie en 2014.",
+      "sections": [
+        {
+          "titre": "Un géant des forêts",
+          "texte": "Le mâle atteint 1,80 à 2 m au garrot et jusqu'à 1 200 kg, bien plus que la femelle. Il vit en petits troupeaux familiaux d'une trentaine de têtes au plus, conduits par une femelle. Il consomme chaque jour environ 30 kg d'herbes, d'écorces et de branches, ce qui crée une mosaïque de zones boisées et de prairies. Son principal prédateur est le loup."
+        },
+        {
+          "titre": "De 54 survivants à des milliers",
+          "texte": "À la fin des années 1920, il ne restait que 54 bisons, tous dans des zoos, et seuls douze se sont reproduits. La population de plaine actuelle descend de sept d'entre eux, d'où une faible diversité génétique. Les réintroductions ont commencé en 1952 à Białowieża. En 2020, les bisons d'Europe vivaient dans 33 pays, en captivité, en semi-liberté ou à l'état sauvage."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "6 819",
+          "label": "bisons à l'état sauvage (2020)"
+        },
+        {
+          "valeur": "54",
+          "label": "bisons survivants, tous en zoo (fin des années 1920)"
+        },
+        {
+          "valeur": "12",
+          "label": "reproducteurs fondateurs (années 1920)"
+        }
+      ],
+      "anecdotes": [
+        "Au IIe siècle, le Grec Pausanias raconte comment on capturait les bisons en Péonie : on les rabattait sur une pente couverte de peaux huilées, sur lesquelles ils dévalaient jusqu'à un enclos. Il dit avoir vu, au sanctuaire de Delphes, une tête de bison en bronze offerte par un roi des Péoniens."
+      ],
+      "wikipedia": "Bison d'Europe"
+    },
+    "source": "D'après Wikipédia — Bison d'Europe"
+  },
+  {
+    "id": "animaux-099",
+    "domain": "animaux",
+    "subtheme": "Espèces menacées",
+    "type": "animal-rare",
+    "title": "Le cheval de Przewalski",
+    "subtitle": "Cheval des steppes d'Asie centrale, revenu de la disparition dans la nature",
+    "summary": "Le cheval de Przewalski, ou takh en mongol, est un petit cheval trapu à la crinière en brosse, venu des steppes d'Asie centrale. Découvert par l'explorateur Prjevalski en 1879, il a disparu de la nature en 1969.\nIl a survécu grâce aux zoos, à partir de quelques reproducteurs, et vit de nouveau en liberté en Mongolie depuis les années 1990.",
+    "details": {
+      "habitat": "Steppes et semi-déserts d'Asie centrale, notamment en Mongolie, aux abords du désert de Gobi.",
+      "causesDeclin": "Chasse pour la viande, puis captures pour les zoos : des groupes entiers étaient abattus pour prendre quelques poulains. Les derniers chevaux sauvages ont été vus en Mongolie en 1969.",
+      "statutConservation": "En danger (UICN)",
+      "actionsProtection": "Élevage en zoo, puis réintroductions en Mongolie depuis 1992, notamment à Khustain Nuruu, à Takhin Tal et à Khomyn Tal, avec des chevaux élevés en Lozère par l'association Takh.",
+      "sections": [
+        {
+          "titre": "Un cheval aux traits « primitifs »",
+          "texte": "Trapu, il mesure 1,20 à 1,40 m au garrot pour 200 à 300 kg. Sa robe baie dun, son ventre et son bout de nez blancs, sa crinière courte dressée en brosse et sans toupet le rendent reconnaissable. Il a 33 paires de chromosomes contre 32 pour le cheval domestique, mais reste interfécond avec lui. Ce n'est pas l'ancêtre de nos chevaux, et il n'a jamais pu être dressé ni monté."
+        },
+        {
+          "titre": "Des zoos à la steppe",
+          "texte": "Tous les chevaux actuels descendent de 9 à 12 reproducteurs, issus eux-mêmes de 13 animaux capturés vers 1900. Il n'y avait que 300 chevaux en captivité vers 1977, environ 1 800 au début du XXIe siècle. La consanguinité pose des problèmes de santé. Les premiers sont ramenés en Mongolie en 1992 ; fin 2007, environ 330 y vivaient en liberté."
+        }
+      ],
+      "chiffres": [
+        {
+          "valeur": "~330",
+          "label": "chevaux en liberté en Mongolie (fin 2007)"
+        },
+        {
+          "valeur": "300",
+          "label": "chevaux en captivité dans le monde (vers 1977)"
+        },
+        {
+          "valeur": "~1 800",
+          "label": "individus au début du XXIe siècle"
+        }
+      ],
+      "anecdotes": [
+        "À l'automne 1998, une trentaine de chevaux de Przewalski ont été lâchés dans la zone interdite autour de la centrale de Tchernobyl : une cinquantaine y vivaient en totale liberté en 2009."
+      ],
+      "wikipedia": "Cheval de Przewalski"
+    },
+    "source": "D'après Wikipédia — Cheval de Przewalski"
   }
 ]

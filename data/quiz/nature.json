@@ -456,5 +456,1177 @@
     "bonneReponse": 2,
     "explication": "La Terre a connu cinq grandes extinctions de masse. La pire, il y a environ 252 millions d'années (fin du Permien), a fait disparaître environ 90 % des espèces marines. La plus connue, il y a 66 millions d'années, a éliminé les dinosaures non aviens, sans doute après la chute d'un astéroïde au Mexique.",
     "source": "D'après Wikipédia — Extinction massive"
+  },
+  {
+    "id": "q-nature-031",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel arbre est le plus répandu dans les forêts de France ?",
+    "choix": [
+      "Le chêne",
+      "Le pin",
+      "Le hêtre",
+      "Le châtaignier"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le chêne arrive en tête des forêts françaises : il pèse environ 40 % des essences, feuillus et conifères confondus, devant le pin. Il forme souvent des forêts mixtes avec d'autres feuillus, et sa forêt s'appelle une chênaie.",
+    "source": "D'après Wikipédia — Chêne"
+  },
+  {
+    "id": "q-nature-032",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Combien de litres d'eau d'érable faut-il environ pour fabriquer 1 litre de sirop d'érable ?",
+    "choix": [
+      "Environ 4 litres",
+      "Environ 10 litres",
+      "Environ 40 litres",
+      "Environ 100 litres"
+    ],
+    "bonneReponse": 2,
+    "explication": "L'eau d'érable ne contient qu'environ 3 % de saccharose. Pour obtenir un litre de sirop, il faut en faire bouillir à peu près 40 litres, afin d'évaporer l'essentiel de l'eau. Ce qui reste est le sirop.",
+    "source": "D'après Wikipédia — Érable à sucre"
+  },
+  {
+    "id": "q-nature-033",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel âge a Mathusalem, le plus vieux pin Bristlecone confirmé ?",
+    "choix": [
+      "Environ 485 ans",
+      "Environ 1 850 ans",
+      "Environ 4 858 ans",
+      "Environ 9 000 ans"
+    ],
+    "bonneReponse": 2,
+    "explication": "Mathusalem, un pin Bristlecone des montagnes Blanches, en Californie, a environ 4 858 ans d'après le comptage de ses cernes. Sa position exacte est gardée secrète pour éviter le vandalisme.",
+    "source": "D'après Wikipédia — Pin Bristlecone"
+  },
+  {
+    "id": "q-nature-034",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Que signifie le nom eucalyptus, formé à partir du grec ?",
+    "choix": [
+      "Bien couvert",
+      "Arbre à huile",
+      "Feuille bleue",
+      "Très haut"
+    ],
+    "bonneReponse": 0,
+    "explication": "Eucalyptus vient du grec eu, « bien », et kaluptos, « couvert ». En bouton, les étamines de la fleur sont enfermées sous un petit capuchon, l'opercule, que les étamines soulèvent en s'étalant.",
+    "source": "D'après Wikipédia — Eucalyptus"
+  },
+  {
+    "id": "q-nature-035",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Depuis combien de temps la taïga existe-t-elle sous sa forme actuelle ?",
+    "choix": [
+      "Environ 12 000 ans",
+      "Environ 300 ans",
+      "Environ 1 million d'années",
+      "Environ 65 millions d'années"
+    ],
+    "bonneReponse": 0,
+    "explication": "La taïga actuelle date du début de l'Holocène, il y a environ 12 000 ans. Elle a gagné des terres qui étaient une steppe à mammouths ou qui étaient recouvertes par les glaciers de la dernière glaciation.",
+    "source": "D'après Wikipédia — Taïga"
+  },
+  {
+    "id": "q-nature-036",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Qu'est-ce qu'un lichen ?",
+    "choix": [
+      "L'association d'un champignon et d'une algue ou d'une cyanobactérie",
+      "Une mousse qui pousse sur les rochers",
+      "Un champignon qui vit sur le bois mort",
+      "Une plante à fleurs sans racines"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le lichen est une symbiose durable : le champignon apporte la structure et l'eau, l'algue ou la cyanobactérie fait la photosynthèse. Les lichens ne sont pas des plantes, et sont classés parmi les champignons.",
+    "source": "D'après Wikipédia — Lichen"
+  },
+  {
+    "id": "q-nature-037",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Comment l'armillaire sombre se propage-t-elle sous l'écorce et entre les arbres ?",
+    "choix": [
+      "Par des cordons noirs appelés rhizomorphes",
+      "Par des graines ailées",
+      "Par des racines pivotantes",
+      "Par des galles sur les feuilles"
+    ],
+    "bonneReponse": 0,
+    "explication": "Son mycélium attaque le bois sous l'écorce et gagne les arbres voisins par des rhizomorphes, des cordons noirs surnommés « lacets ». C'est ainsi qu'un seul individu peut s'étendre sur de très grandes surfaces.",
+    "source": "D'après Wikipédia — Armillaria solidipes"
+  },
+  {
+    "id": "q-nature-038",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pourquoi faire cuire une amanite phalloïde ne la rend-il pas inoffensive ?",
+    "choix": [
+      "Ses toxines résistent à la chaleur comme au froid",
+      "Elle ne contient pas de toxine, c'est une légende",
+      "La cuisson transforme ses toxines en un poison plus fort",
+      "Seule la fraîcheur du champignon compte"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les amatoxines de l'amanite phalloïde sont thermostables : cuisson, congélation et séchage ne réduisent pas leur toxicité. Elles détruisent le foie, d'où la gravité des intoxications et la prudence recommandée.",
+    "source": "D'après Wikipédia — Amanite phalloïde"
+  },
+  {
+    "id": "q-nature-039",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Que fait une fourmi infectée par Ophiocordyceps unilateralis avant de mourir ?",
+    "choix": [
+      "Elle s'accroche par les mandibules à la nervure d'une feuille",
+      "Elle retourne au nid pour contaminer la reine",
+      "Elle creuse un trou profond dans le sol",
+      "Elle se laisse emporter par le vent"
+    ],
+    "bonneReponse": 0,
+    "explication": "Entre 4 et 10 jours après l'infection, la fourmi grimpe, mord la nervure d'une feuille et y reste jusqu'à sa mort. Le champignon pousse alors hors de sa tête et libère ses spores pour contaminer d'autres fourmis.",
+    "source": "D'après Wikipédia — Ophiocordyceps unilateralis"
+  },
+  {
+    "id": "q-nature-040",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel chimiste alsacien a synthétisé l'acide acétylsalicylique, le principe de l'aspirine, en 1853 ?",
+    "choix": [
+      "Charles Frédéric Gerhardt",
+      "Louis Pasteur",
+      "Antoine Lavoisier",
+      "Pierre-Joseph Leroux"
+    ],
+    "bonneReponse": 0,
+    "explication": "Gerhardt a synthétisé l'acide acétylsalicylique à partir de la salicyline, isolée en 1829 de l'écorce de saule blanc par le pharmacien Leroux. Le médicament a été commercialisé sous le nom d'aspirine en 1899.",
+    "source": "D'après Wikipédia — Saule"
+  },
+  {
+    "id": "q-nature-041",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Au début du hanami, ce sont les fleurs de prunier (ume), et non de cerisier, que l'on admirait.",
+    "reponse": true,
+    "explication": "À l'époque de Nara, sous l'influence de la Chine des Tang, on admirait d'abord les fleurs de prunier. Ce n'est qu'à l'époque Heian que les cerisiers ont attiré davantage l'attention, au point de devenir les fleurs par excellence.",
+    "source": "D'après Wikipédia — Hanami"
+  },
+  {
+    "id": "q-nature-042",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Un olivier finit toujours par mourir de vieillesse, comme n'importe quel arbre.",
+    "reponse": false,
+    "explication": "Quand un olivier vieillit, il émet des rejets depuis sa souche, les souquets, qui forment un nouvel arbre génétiquement identique. Il peut mourir du gel, de l'humidité ou de la concurrence, mais pas vraiment de vieillesse.",
+    "source": "D'après Wikipédia — Olivier"
+  },
+  {
+    "id": "q-nature-043",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Selon une hypothèse, le mot « mouche » de l'amanite tue-mouches renverrait à la folie plutôt qu'à l'insecte.",
+    "reponse": true,
+    "explication": "Au Moyen Âge, on croyait qu'une mouche entrée dans la tête rendait fou. Plusieurs noms régionaux signifient « oronge folle ». L'autre explication, moins sûre, est l'usage du champignon en poudre dans du lait pour éloigner les mouches.",
+    "source": "D'après Wikipédia — Amanite tue-mouches"
+  },
+  {
+    "id": "q-nature-044",
+    "domain": "nature",
+    "format": "associer",
+    "question": "Associe chaque arbre à ce qu'il fournit.",
+    "paires": [
+      {
+        "gauche": "Olivier",
+        "droite": "Une huile alimentaire",
+        "explication": "Les olives, des drupes, donnent l'huile d'olive, extraite depuis des millénaires autour de la Méditerranée."
+      },
+      {
+        "gauche": "Érable à sucre",
+        "droite": "Un sirop",
+        "explication": "Son eau, récoltée au printemps puis bouillie, devient le sirop d'érable : environ 40 litres pour un litre."
+      },
+      {
+        "gauche": "Saule blanc",
+        "droite": "La base de l'aspirine",
+        "explication": "Son écorce contient de la salicyline, d'où l'on a tiré l'acide acétylsalicylique, vendu comme aspirine à la fin du XIXe siècle."
+      },
+      {
+        "gauche": "Chêne-liège",
+        "droite": "Des bouchons",
+        "explication": "Son écorce spongieuse sert à fabriquer les bouchons traditionnels des bouteilles de vin."
+      }
+    ],
+    "explication": "Olivier, érable, saule et chêne-liège ont chacun nourri une industrie : huile, sirop, médicament et bouchons. Dans chaque cas, c'est une partie précise de l'arbre qui est utilisée, fruit, sève ou écorce.",
+    "source": "D'après Wikipédia — Chêne"
+  },
+  {
+    "id": "q-nature-045",
+    "domain": "nature",
+    "format": "associer",
+    "question": "Associe chaque champignon à sa particularité.",
+    "paires": [
+      {
+        "gauche": "Amanite phalloïde",
+        "droite": "Responsable de la plupart des décès par champignons",
+        "explication": "Ses amatoxines détruisent le foie, et la cuisson ne les neutralise pas."
+      },
+      {
+        "gauche": "Amanite tue-mouches",
+        "droite": "Chapeau rouge à verrues blanches",
+        "explication": "Toxique et psychotrope, elle est rarement mortelle et orne contes et jeux vidéo."
+      },
+      {
+        "gauche": "Armillaire sombre",
+        "droite": "Organisme géant presque entièrement souterrain",
+        "explication": "Un individu de l'Oregon s'étend sur environ 9 km², avec des rhizomorphes noirs sous terre."
+      },
+      {
+        "gauche": "Ophiocordyceps unilateralis",
+        "droite": "Parasite qui manipule des fourmis",
+        "explication": "Il pousse la fourmi à s'accrocher à une feuille avant de mourir, d'où le surnom de champignon zombie."
+      }
+    ],
+    "explication": "Ces quatre champignons illustrent la diversité du règne fongique : poison mortel, psychotrope célèbre, géant souterrain et parasite manipulateur. Aucun n'est une plante : les champignons forment un règne à part.",
+    "source": "D'après Wikipédia — Fungi"
+  },
+  {
+    "id": "q-nature-046",
+    "domain": "nature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Un puits creusé près de moi en 1938-1939 a montré que mes racines atteignent une nappe d'eau à plus de 30 mètres.",
+      "Les caravaniers du sel me considéraient comme un arbre tabou, et personne n'osait me couper une branche.",
+      "On a longtemps raconté que nul autre arbre ne poussait à moins de 400 km de moi.",
+      "Je figure sur une carte au 1:4 000 000, et j'étais un repère pour les caravanes du désert du Ténéré.",
+      "Un camion m'a renversé en 1973 et une sculpture métallique me remplace."
+    ],
+    "reponse": "L'arbre du Ténéré",
+    "explication": "L'arbre du Ténéré était un acacia solitaire du Niger, longtemps tenu pour l'arbre le plus solitaire du globe. Renversé en 1973, il est conservé au musée de Niamey, et une sculpture métallique marque son emplacement.",
+    "source": "D'après Wikipédia — Arbre du Ténéré"
+  },
+  {
+    "id": "q-nature-047",
+    "domain": "nature",
+    "format": "frise",
+    "question": "Remets dans l'ordre ces moments de l'histoire de la forêt de Białowieża.",
+    "evenements": [
+      {
+        "label": "Peine de mort pour le braconnage d'un bison",
+        "annee": "1553"
+      },
+      {
+        "label": "Décret royal qui libère les serfs de la forêt en échange de leur service de forestiers",
+        "annee": "1639"
+      },
+      {
+        "label": "Passage de la forêt sous contrôle russe",
+        "annee": "1795"
+      },
+      {
+        "label": "Création du parc national polonais",
+        "annee": "1932"
+      },
+      {
+        "label": "Inscription au patrimoine mondial de l'UNESCO",
+        "annee": "1979"
+      }
+    ],
+    "explication": "Protégée dès le XVIe siècle pour ses bisons, la forêt passe sous domination russe en 1795, devient parc national polonais en 1932, puis entre au patrimoine mondial de l'UNESCO en 1979.",
+    "source": "D'après Wikipédia — Forêt de Białowieża"
+  },
+  {
+    "id": "q-nature-048",
+    "domain": "nature",
+    "format": "difference",
+    "question": "Quelle est la différence entre le mycélium et le sporophore d'un champignon ?",
+    "choix": [
+      "Le mycélium est le réseau de filaments qui constitue le corps du champignon ; le sporophore est la partie visible qui porte les spores",
+      "Le mycélium est la partie qu'on cueille ; le sporophore est la partie souterraine",
+      "Le mycélium produit les spores ; le sporophore absorbe l'eau du sol",
+      "Il n'y a aucune différence : ce sont deux noms de la même partie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mycélium, fait de fins filaments appelés hyphes, vit dans le sol ou le bois et absorbe les nutriments. Le sporophore, souvent un pied et un chapeau, est la partie visible qui porte les spores et permet la reproduction.",
+    "source": "D'après Wikipédia — Fungi"
+  },
+  {
+    "id": "q-nature-049",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Combien de feuilles la welwitschia porte-t-elle durant toute sa vie ?",
+    "choix": [
+      "Deux",
+      "Une seule",
+      "Quatre",
+      "Une dizaine, renouvelées chaque année"
+    ],
+    "bonneReponse": 0,
+    "explication": "La welwitschia ne possède que deux feuilles en forme de rubans, qui poussent continuellement par la base et ne sont jamais remplacées. Le sable et le vent les effilochent en lanières, ce qui donne parfois l'impression d'en avoir davantage.",
+    "source": "D'après Wikipédia — Welwitschia mirabilis"
+  },
+  {
+    "id": "q-nature-050",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Le lotus sacré est la plante représentée sur les hiéroglyphes de l'Égypte antique.",
+    "reponse": false,
+    "explication": "Les lotus bleu et blanc de l'art égyptien sont en réalité des nénuphars, sans lien de parenté avec le lotus sacré. Celui-ci n'a été introduit en Égypte par les Perses que vers 500 av. J.-C.",
+    "source": "D'après Wikipédia — Nelumbo nucifera"
+  },
+  {
+    "id": "q-nature-051",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "De quoi les minuscules graines d'orchidées ont-elles besoin pour germer ?",
+    "choix": [
+      "D'un champignon symbiotique",
+      "D'un passage dans l'estomac d'un oiseau",
+      "De la chaleur d'un incendie",
+      "D'un séjour dans l'eau salée"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ces graines-poussière n'ont aucune réserve nutritive. Un champignon associé leur fournit des sucres, et c'est ce qui permet au germe de grandir. On parle de mycohétérotrophie.",
+    "source": "D'après Wikipédia — Orchidaceae"
+  },
+  {
+    "id": "q-nature-052",
+    "domain": "nature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis originaire d'Amérique du Nord et j'ai été domestiqué par les Amérindiens.",
+      "Mes graines contiennent environ 40 % d'huile.",
+      "Ce que l'on prend pour ma fleur est un capitule fait de nombreuses petites fleurs.",
+      "Mes fleurons dessinent des spirales dont le nombre suit la suite de Fibonacci.",
+      "Jeune, je tourne mon bouton vers le soleil."
+    ],
+    "reponse": "Le tournesol",
+    "explication": "Le tournesol est une astéracée dont le capitule peut atteindre 30 cm. Seuls les jeunes boutons suivent le soleil : une fois épanouie, la tête reste fixée vers l'est. Ses graines fournissent une huile alimentaire très utilisée.",
+    "source": "D'après Wikipédia — Tournesol"
+  },
+  {
+    "id": "q-nature-053",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Que fait la sensitive quand on touche l'une de ses feuilles ?",
+    "choix": [
+      "Ses folioles se replient en quelques secondes",
+      "Elle libère un parfum puissant",
+      "Elle change de couleur",
+      "Elle redresse ses épines"
+    ],
+    "bonneReponse": 0,
+    "explication": "C'est la thigmonastie : des renflements gonflés d'eau, les pulvinus, se vident au moindre contact. Les folioles se replient en 3 à 4 secondes, puis la plante reprend son port. Ce réflexe pourrait décourager les herbivores.",
+    "source": "D'après Wikipédia — Sensitive"
+  },
+  {
+    "id": "q-nature-054",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "L'arum titan dégage une odeur de cadavre pour attirer les insectes qui le pollinisent.",
+    "reponse": true,
+    "explication": "Son inflorescence se réchauffe et diffuse une odeur de chair en décomposition, détectable à 800 mètres. Elle attire coléoptères et mouches charognards, qui assurent sa pollinisation durant sa brève floraison.",
+    "source": "D'après Wikipédia — Arum titan"
+  },
+  {
+    "id": "q-nature-055",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Dans quelle île l'arum titan pousse-t-il à l'état sauvage ?",
+    "choix": [
+      "Sumatra",
+      "Madagascar",
+      "Bornéo",
+      "La Nouvelle-Guinée"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'arum titan est endémique de l'ouest de Sumatra, en Indonésie, où il pousse dans les forêts tropicales humides. Il a été découvert par le botaniste italien Odoardo Beccari en 1878 et a fleuri à Kew pour la première fois en 1889.",
+    "source": "D'après Wikipédia — Arum titan"
+  },
+  {
+    "id": "q-nature-056",
+    "domain": "nature",
+    "format": "associer",
+    "question": "Associe chaque plante à sa particularité.",
+    "paires": [
+      {
+        "gauche": "Welwitschia",
+        "droite": "Deux feuilles qui poussent toute sa vie",
+        "explication": "Ses deux feuilles croissent par la base et ne sont jamais remplacées."
+      },
+      {
+        "gauche": "Lotus sacré",
+        "droite": "Feuilles qui repoussent l'eau et la saleté",
+        "explication": "C'est l'effet lotus, dû à la structure physique de sa surface."
+      },
+      {
+        "gauche": "Sensitive",
+        "droite": "Feuilles qui se replient au toucher",
+        "explication": "Ses folioles se plient en quelques secondes au moindre contact."
+      },
+      {
+        "gauche": "Arum titan",
+        "droite": "Odeur de cadavre à la floraison",
+        "explication": "Sa fleur géante attire ainsi coléoptères et mouches charognards."
+      },
+      {
+        "gauche": "Victoria amazonica",
+        "droite": "Feuilles flottantes de 3 mètres",
+        "explication": "Ses feuilles portent des poches d'air et des bords relevés."
+      }
+    ],
+    "explication": "Ces cinq plantes ont toutes une adaptation spectaculaire : feuilles uniques, imperméables, sensibles, odeur de charogne ou taille géante, chacune répond à un défi de son milieu.",
+    "source": "D'après Wikipédia — Victoria amazonica"
+  },
+  {
+    "id": "q-nature-057",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel insecte pollinise Victoria amazonica en restant prisonnier de la fleur ?",
+    "choix": [
+      "Un scarabée du genre Cyclocephala",
+      "Une abeille domestique",
+      "Un papillon de nuit",
+      "Une mouche charognarde"
+    ],
+    "bonneReponse": 0,
+    "explication": "La fleur blanche s'ouvre au soir, attire le scarabée par son parfum fruité, puis se referme sur lui environ 24 heures. Elle change alors de couleur, devient mâle, et libère l'insecte couvert de pollen.",
+    "source": "D'après Wikipédia — Victoria amazonica"
+  },
+  {
+    "id": "q-nature-058",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Qui a mis au point en 1841, sur l'île Bourbon, la pollinisation manuelle pratique de la vanille ?",
+    "choix": [
+      "Edmond Albius",
+      "Charles Morren",
+      "Hernán Cortés",
+      "Jean-Michel-Claude Richard"
+    ],
+    "bonneReponse": 0,
+    "explication": "Edmond Albius, jeune esclave de douze ans, a trouvé le geste utilisé encore aujourd'hui. Charles Morren avait réussi une pollinisation artificielle dès 1836, mais pas de façon pratique. Richard a tenté de s'attribuer la méthode.",
+    "source": "D'après Wikipédia — Vanille"
+  },
+  {
+    "id": "q-nature-059",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "La gousse de vanille est la racine d'une orchidée.",
+    "reponse": false,
+    "explication": "La gousse est le fruit d'une orchidée grimpante, une capsule qui se forme après la fécondation de la fleur. Il faut ensuite plusieurs mois de préparation avant d'obtenir le bâton de vanille.",
+    "source": "D'après Wikipédia — Vanille"
+  },
+  {
+    "id": "q-nature-060",
+    "domain": "nature",
+    "format": "frise",
+    "question": "Remets ces événements liés à la tulipe dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Charles de l'Écluse plante des tulipes à Leyde",
+        "annee": "1593"
+      },
+      {
+        "label": "Emanuel Sweerts publie son catalogue Florilegium",
+        "annee": "1612"
+      },
+      {
+        "label": "Les spéculateurs entrent sur le marché des bulbes",
+        "annee": "1634"
+      },
+      {
+        "label": "Les prix des bulbes s'effondrent",
+        "annee": "1637"
+      },
+      {
+        "label": "Charles Mackay publie Extraordinary Popular Delusions",
+        "annee": "1841"
+      }
+    ],
+    "explication": "La tulipe arrive à Leyde en 1593, devient un luxe, puis attire des spéculateurs à partir de 1634. Le krach de février 1637 sera popularisé en 1841 par Mackay, dont le récit est aujourd'hui contesté.",
+    "source": "D'après Wikipédia — Tulipomanie"
+  },
+  {
+    "id": "q-nature-061",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "À quoi les tulipes les plus recherchées de la tulipomanie devaient-elles leurs pétales flammés ?",
+    "choix": [
+      "À un virus",
+      "À un croisement savant",
+      "À une teinture",
+      "À la qualité du sol"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les tulipes « cassées » étaient infectées par un virus de la mosaïque, qui striait leurs pétales. Il affaiblissait aussi la production de bulbes fils, ce qui rendait ces fleurs encore plus rares et plus chères.",
+    "source": "D'après Wikipédia — Tulipomanie"
+  },
+  {
+    "id": "q-nature-062",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pourquoi dit-on que le gui est une plante hémiparasite ?",
+    "choix": [
+      "Il prélève eau et sels minéraux de l'arbre, mais fait lui-même sa photosynthèse",
+      "Il vit uniquement la moitié de l'année sur son hôte",
+      "Il ne parasite que la moitié des branches d'un arbre",
+      "Il se nourrit de feuilles mortes tombées sur l'arbre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Grâce à sa chlorophylle, le gui fabrique ses propres sucres, même en hiver. Il ne dépend de son hôte que pour l'eau et les sels minéraux, qu'il absorbe par ses suçoirs enfoncés jusqu'au bois.",
+    "source": "D'après Wikipédia — Gui (plante)"
+  },
+  {
+    "id": "q-nature-063",
+    "domain": "nature",
+    "format": "difference",
+    "question": "Quelle est la différence entre une vraie ortie et une « ortie blanche » ?",
+    "choix": [
+      "L'ortie blanche est un lamier, sans poils urticants",
+      "L'ortie blanche est une ortie cultivée, plus piquante",
+      "L'ortie blanche est une ortie à fleurs blanches, mais aussi urticante",
+      "L'ortie blanche est une ortie de montagne, plus petite"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'ortie blanche est en réalité un lamier (Lamium album), une plante comestible sans poils urticants, à tige carrée et à fleurs colorées. On la surnomme aussi « ortie morte ». Les vraies orties, du genre Urtica, piquent.",
+    "source": "D'après Wikipédia — Ortie"
+  },
+  {
+    "id": "q-nature-064",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pourquoi la mandragore a-t-elle nourri tant de légendes ?",
+    "choix": [
+      "Sa racine évoque une silhouette humaine et elle contient des alcaloïdes hallucinogènes",
+      "Elle ne fleurit qu'une fois par siècle",
+      "Elle brille dans l'obscurité",
+      "Elle ne pousse que sur d'anciens champs de bataille"
+    ],
+    "bonneReponse": 0,
+    "explication": "La racine, parfois longue de 60 à 80 cm, ressemble vaguement à un corps humain. Les alcaloïdes (atropine, scopolamine) provoquent hallucinations et narcose, et peuvent être mortels : ils ont renforcé sa réputation magique.",
+    "source": "D'après Wikipédia — Mandragore"
+  },
+  {
+    "id": "q-nature-065",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel pays est devenu premier producteur mondial d'huile essentielle de lavande dans les années 2010 ?",
+    "choix": [
+      "La Bulgarie",
+      "La France",
+      "La Chine",
+      "L'Ukraine"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après la destruction d'une partie des cultures françaises par le stolbur, la Bulgarie a pris la tête. En 2017, elle produisait 187 tonnes d'huile essentielle, contre 120 tonnes en France.",
+    "source": "D'après Wikipédia — Lavande"
+  },
+  {
+    "id": "q-nature-066",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Que sont réellement les « épines » du rosier ?",
+    "choix": [
+      "Des aiguillons, excroissances de l'épiderme",
+      "Des rameaux transformés",
+      "Des feuilles durcies",
+      "Des stipules desséchées"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les vraies épines sont des tiges modifiées. Celles du rosier sont des aiguillons, de simples excroissances de l'épiderme, qui tombent avec l'âge sur les vieilles tiges. Chez la rose, leur forme en crochet aide la plante à s'accrocher aux autres végétaux.",
+    "source": "D'après Wikipédia — Rosier"
+  },
+  {
+    "id": "q-nature-067",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle est la plus grosse graine du monde ?",
+    "choix": [
+      "Celle du coco de mer",
+      "Celle de l'avocat",
+      "Celle de la noix de pécan",
+      "Celle du marronnier"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le coco de mer des Seychelles porte la plus grosse graine du monde : jusqu'à environ 20 kg. À l'autre extrémité, la graine d'une orchidée pèse à peine 2 microgrammes. Les stratégies des plantes sont donc très variées.",
+    "source": "D'après Wikipédia — Graine"
+  },
+  {
+    "id": "q-nature-068",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Chez la plupart des plantes à fleurs, une même fleur porte à la fois des organes mâles et des organes femelles.",
+    "reponse": true,
+    "explication": "La plupart des fleurs sont hermaphrodites : elles ont des étamines, qui libèrent le pollen, et un pistil, qui contient les ovules. Quelques plantes font exception, comme le pistachier ou le kiwi, aux fleurs soit mâles, soit femelles.",
+    "source": "D'après Wikipédia — Fleur"
+  },
+  {
+    "id": "q-nature-069",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Comment les fougères se reproduisent-elles ?",
+    "choix": [
+      "Par des spores",
+      "Par des graines nues",
+      "Par des fleurs discrètes",
+      "Par des bulbes uniquement"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les fougères n'ont ni fleurs ni graines : elles produisent des spores, souvent sous leurs frondes. Chaque spore donne un petit prothalle, et il faut un mince filet d'eau pour que la fécondation ait lieu.",
+    "source": "D'après Wikipédia — Filicophyta"
+  },
+  {
+    "id": "q-nature-070",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Comment les mousses s'accrochent-elles à leur support ?",
+    "choix": [
+      "Par de fins filaments appelés rhizoïdes",
+      "Par de vraies racines profondes",
+      "Par des crampons de bois",
+      "Par des graines collantes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les mousses n'ont pas de vraies racines : de fins filaments, les rhizoïdes, les ancrent au sol, à l'écorce ou aux rochers. Leur eau arrive surtout par la surface, ce qui explique leur goût pour les lieux humides.",
+    "source": "D'après Wikipédia — Bryophyta"
+  },
+  {
+    "id": "q-nature-071",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Les anciennes « algues bleues » sont en réalité des...",
+    "choix": [
+      "Cyanobactéries",
+      "Algues rouges",
+      "Champignons",
+      "Plantes à fleurs"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les cyanobactéries sont des bactéries capables de photosynthèse, longtemps classées parmi les algues. Présentes dans des fossiles du Précambrien, elles ont fortement contribué à l'oxygène de l'atmosphère et sont à l'origine des chloroplastes des plantes.",
+    "source": "D'après Wikipédia — Algue"
+  },
+  {
+    "id": "q-nature-072",
+    "domain": "nature",
+    "format": "associer",
+    "question": "Associe chaque milieu à un élément qui le caractérise.",
+    "paires": [
+      {
+        "gauche": "Garrigue",
+        "droite": "Chêne kermès",
+        "explication": "Arbuste typique de ces collines calcaires, avec le thym et le romarin."
+      },
+      {
+        "gauche": "Tourbière",
+        "droite": "Sphaignes",
+        "explication": "Ces mousses acidifient le milieu et fabriquent la tourbe."
+      },
+      {
+        "gauche": "Steppe",
+        "droite": "Saïga",
+        "explication": "Cette antilope vit dans les steppes eurasiennes."
+      },
+      {
+        "gauche": "Abysses",
+        "droite": "Neige marine",
+        "explication": "Pluie de débris organiques qui nourrit les grands fonds."
+      },
+      {
+        "gauche": "Banquise",
+        "droite": "Glace en crêpe",
+        "explication": "Plaques rondes de glace aux bords relevés, formées en mer agitée."
+      }
+    ],
+    "explication": "Chaque milieu a ses signatures : arbuste aromatique sur calcaire, mousse bâtisseuse, antilope des herbes, débris tombant dans le noir, glace marine en formation. Elles aident à reconnaître ces écosystèmes.",
+    "source": "D'après Wikipédia — Garrigue"
+  },
+  {
+    "id": "q-nature-073",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "La fonte de la banquise fait monter le niveau des océans.",
+    "reponse": false,
+    "explication": "La banquise flotte déjà : en fondant, elle occupe exactement le même volume que l'eau qu'elle donne, comme un glaçon dans un verre. Ce sont les glaces posées sur les continents, les inlandsis, dont la fonte élève le niveau de la mer.",
+    "source": "D'après Wikipédia — Banquise"
+  },
+  {
+    "id": "q-nature-074",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pourquoi la chlorophylle paraît-elle verte ?",
+    "choix": [
+      "Elle absorbe surtout le rouge et le bleu, et renvoie le vert",
+      "Elle absorbe uniquement le vert",
+      "Elle produit elle-même de la lumière verte",
+      "Elle est teintée par la sève"
+    ],
+    "bonneReponse": 0,
+    "explication": "La chlorophylle absorbe la majeure partie de la lumière visible, sauf le vert, qui est renvoyé vers nos yeux. Si elle captait toutes les couleurs, les feuilles nous sembleraient noires, même en plein jour.",
+    "source": "D'après Wikipédia — Chlorophylle"
+  },
+  {
+    "id": "q-nature-075",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel fléau de la vigne a-t-on vaincu en greffant les cépages français sur des plants américains ?",
+    "choix": [
+      "Le phylloxéra",
+      "Le mildiou de la pomme de terre",
+      "Le gel du printemps",
+      "La grêle"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les plants américains résistaient au phylloxéra. Greffer dessus les cépages traditionnels a permis de continuer à produire les mêmes vins : les racines viennent d'Amérique, les raisins restent français.",
+    "source": "D'après Wikipédia — Greffe (botanique)"
+  },
+  {
+    "id": "q-nature-076",
+    "domain": "nature",
+    "format": "difference",
+    "question": "Quelle est la différence entre un tropisme et une nastie ?",
+    "choix": [
+      "Dans un tropisme, la direction de la croissance dépend de celle du stimulus ; pas dans une nastie",
+      "Le tropisme concerne les animaux, la nastie les plantes",
+      "Le tropisme est toujours un mouvement très rapide, la nastie un mouvement lent",
+      "Le tropisme ne concerne que la lumière, la nastie que la gravité"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans un tropisme, la plante pousse vers ou à l'opposé du stimulus, comme une tige vers la lumière. Dans une nastie, la direction du mouvement ne dépend pas de celle du stimulus : ainsi la tulipe s'ouvre avec la chaleur.",
+    "source": "D'après Wikipédia — Tropisme"
+  },
+  {
+    "id": "q-nature-077",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Par où une feuille perd-elle la quasi-totalité de son eau ?",
+    "choix": [
+      "Par ses stomates",
+      "Par ses nervures",
+      "Par sa cuticule cireuse",
+      "Par son pétiole"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les stomates laissent passer 90 à 95 % des pertes d'eau. Cette évaporation aspire la sève vers le haut : la plante doit ouvrir ses pores pour capter le gaz carbonique, au risque de se dessécher.",
+    "source": "D'après Wikipédia — Stomate"
+  },
+  {
+    "id": "q-nature-078",
+    "domain": "nature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis endémique d'une seule mer, la Méditerranée.",
+      "Mes feuilles en rubans mesurent jusqu'à 1,20 m.",
+      "Mes fruits flottants s'appellent « olives de mer ».",
+      "Je ne suis pas une algue, mais une plante à fleurs sous-marine."
+    ],
+    "reponse": "La posidonie",
+    "explication": "La posidonie de Méditerranée, ou herbe de Neptune, forme de vastes herbiers jusqu'à 40 mètres de profondeur. Elle protège les côtes de l'érosion et abrite beaucoup d'espèces, mais ses mattes ne gagnent qu'un mètre par siècle.",
+    "source": "D'après Wikipédia — Posidonia oceanica"
+  },
+  {
+    "id": "q-nature-079",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pourquoi le bocage normand a-t-il gêné les chars lors de la bataille de Normandie ?",
+    "choix": [
+      "Ses talus, haies et fossés bloquaient le passage",
+      "Ses marais engloutissaient les véhicules",
+      "Ses forêts denses cachaient des mines",
+      "Ses falaises coupaient les routes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les talus surmontés de haies épaisses, les fossés et les chemins creux ont freiné les chars et multiplié les cachettes pour les deux camps. Les Américains ont adapté des chars « Rhino » avec des lames pour couper les haies.",
+    "source": "D'après Wikipédia — Bocage"
+  },
+  {
+    "id": "q-nature-080",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "La garrigue pousse sur des sols calcaires, alors que le maquis se développe plutôt sur des sols siliceux.",
+    "reponse": true,
+    "explication": "La garrigue s'installe sur la roche calcaire, le maquis sur les sols siliceux. Les deux sont des végétations méditerranéennes de buissons, nées de la dégradation de la forêt : le maquis est plus dense.",
+    "source": "D'après Wikipédia — Garrigue"
+  },
+  {
+    "id": "q-nature-081",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "À partir de quelle profondeur commence la zone abyssale ?",
+    "choix": [
+      "4 000 mètres",
+      "200 mètres",
+      "1 000 mètres",
+      "6 000 mètres"
+    ],
+    "bonneReponse": 0,
+    "explication": "La zone abyssale commence vers 4 000 m, en dessous des zones mésopélagique et bathyale. Plus bas, au-delà de 6 000 m, vient la zone hadale des fosses les plus profondes, comme la fosse des Mariannes.",
+    "source": "D'après Wikipédia — Abysse"
+  },
+  {
+    "id": "q-nature-082",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "De combien s'épaissit en moyenne une tourbière en un an ?",
+    "choix": [
+      "De 0,2 à 1 millimètre",
+      "De 2 à 5 centimètres",
+      "De 10 à 20 centimètres",
+      "D'environ 1 mètre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les débris végétaux s'accumulent à raison de 0,2 à 1 mm par an. Une tourbière épaisse de plusieurs mètres a donc mis des milliers d'années à se former, ce qui la rend très difficile à reconstituer une fois détruite.",
+    "source": "D'après Wikipédia — Tourbière"
+  },
+  {
+    "id": "q-nature-083",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "De quelle langue vient le mot « steppe » ?",
+    "choix": [
+      "Le russe",
+      "Le grec ancien",
+      "L'arabe",
+      "Le latin"
+    ],
+    "bonneReponse": 0,
+    "explication": "Steppe vient du russe step, qui désigne d'abord la vaste prairie sèche d'Eurasie centrale. Le terme a ensuite été étendu à d'autres étendues d'herbes en Patagonie, aux États-Unis ou en Afrique du Nord.",
+    "source": "D'après Wikipédia — Steppe"
+  },
+  {
+    "id": "q-nature-084",
+    "domain": "nature",
+    "format": "frise",
+    "question": "Remets ces étapes de l'exploration des abysses dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "L'expédition du Challenger commence ses relevés de profondeur",
+        "annee": "1872"
+      },
+      {
+        "label": "L'expédition Princess Alice chalute jusqu'à 6 km",
+        "annee": "1901"
+      },
+      {
+        "label": "Le bathyscaphe Trieste touche le fond de la fosse des Mariannes",
+        "annee": "1960"
+      },
+      {
+        "label": "Le robot japonais Kaikō est perdu en mer",
+        "annee": "2003"
+      },
+      {
+        "label": "Le robot hybride Nereus replonge dans le Challenger Deep",
+        "annee": "2009"
+      }
+    ],
+    "explication": "Du Challenger (1872) au Nereus (2009), l'exploration des grands fonds avance par à-coups : chalutages, bathyscaphe habité, puis robots. Après la retraite du Trieste (1960), seul le robot Kaikō pouvait atteindre ce fond, jusqu'à sa perte en 2003.",
+    "source": "D'après Wikipédia — Abysse"
+  },
+  {
+    "id": "q-nature-085",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "À quelle température environ l'air est-il porté autour d'un éclair ?",
+    "choix": [
+      "30 000 °C",
+      "3 000 °C",
+      "300 000 °C",
+      "6 000 °C"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'air qui entoure l'éclair chauffe brutalement jusqu'à environ 30 000 °C, bien plus que la surface du Soleil. Cette dilatation soudaine crée une onde de choc : c'est le tonnerre que l'on entend après l'éclair.",
+    "source": "D'après Wikipédia — Foudre"
+  },
+  {
+    "id": "q-nature-086",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pourquoi certains poissons des profondeurs moyennes produisent-ils de la lumière sur leur ventre ?",
+    "choix": [
+      "Pour effacer leur silhouette vue d'en dessous par les prédateurs",
+      "Pour attirer de petites proies jusque dans leur gueule",
+      "Pour se réchauffer dans les eaux froides",
+      "Pour éclairer le fond marin et y chercher leur nourriture"
+    ],
+    "bonneReponse": 0,
+    "explication": "À ces profondeurs, les prédateurs repèrent leurs proies en ombre chinoise contre la faible lumière venue de la surface. Un ventre lumineux imite cette lumière et rend le poisson presque invisible : c'est le contre-éclairage.",
+    "source": "D'après Wikipédia — Bioluminescence"
+  },
+  {
+    "id": "q-nature-087",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Que révèle la coupe d'un gros grêlon ?",
+    "choix": [
+      "Des couches translucides et blanches qui alternent, comme dans un oignon",
+      "Un noyau de neige entouré d'une unique coque de glace",
+      "Un cristal de glace unique, sans aucune couche",
+      "Des couches de sable et de poussière prises dans le nuage"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un grêlon en croissance traverse des zones du nuage plus ou moins riches en gouttelettes d'eau surfondue. Il se couvre ainsi tantôt d'une couche translucide, tantôt d'une couche blanche de givre, d'où l'aspect d'oignon.",
+    "source": "D'après Wikipédia — Grêle"
+  },
+  {
+    "id": "q-nature-088",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Dans l'hémisphère nord, les vents d'une tornade tournent presque toujours dans le sens inverse des aiguilles d'une montre.",
+    "reponse": true,
+    "explication": "La rotation vient des vents de grande échelle, eux-mêmes soumis à la force de Coriolis. Une minorité de tornades, 1 à 2 % aux États-Unis, tournent dans l'autre sens, souvent petites et faibles, comme celles de la cellule gauche d'un orage.",
+    "source": "D'après Wikipédia — Tornade"
+  },
+  {
+    "id": "q-nature-089",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pourquoi l'eau d'un geyser reste-t-elle liquide bien au-dessus de 100 °C avant l'éruption ?",
+    "choix": [
+      "Le poids de l'eau froide du conduit étroit la comprime, comme le couvercle d'une cocotte-minute",
+      "Elle contient tant de sels minéraux qu'elle ne peut plus bouillir",
+      "Le magma la chauffe trop lentement pour qu'elle atteigne l'ébullition",
+      "Une couche de glace emprisonne sa vapeur"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'eau froide du haut presse l'eau chaude du fond, ce qui retarde l'ébullition. Quand la vapeur finit par chasser une partie de l'eau, la pression chute, l'eau surchauffée se vaporise d'un coup et l'éruption projette le tout.",
+    "source": "D'après Wikipédia — Geyser"
+  },
+  {
+    "id": "q-nature-090",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Dans les départements méditerranéens français, quelle cause de feu de forêt domine parmi les causes connues ?",
+    "choix": [
+      "Les imprudences et accidents, comme les mégots ou les lignes électriques",
+      "La foudre",
+      "Les éruptions volcaniques",
+      "L'autocombustion de la litière de feuilles"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une étude portant sur 1996-2006 attribue à l'imprudence ou aux accidents plus de la moitié des causes connues. La foudre n'en explique que 8 %, mais cette part est beaucoup plus forte dans des pays très boisés comme le Québec.",
+    "source": "D'après Wikipédia — Feu de forêt"
+  },
+  {
+    "id": "q-nature-091",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Combien de couleurs principales Isaac Newton a-t-il finalement distinguées dans le spectre de la lumière ?",
+    "choix": [
+      "Sept",
+      "Cinq",
+      "Trois",
+      "Neuf"
+    ],
+    "bonneReponse": 0,
+    "explication": "Newton a d'abord compté cinq couleurs en 1672, puis en a retenu sept par analogie avec les sept notes de la gamme musicale. Pour lui, l'indigo correspond à ce que nous appelons aujourd'hui le bleu. Le nombre réel est une convention.",
+    "source": "D'après Wikipédia — Arc-en-ciel"
+  },
+  {
+    "id": "q-nature-092",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pourquoi appelle-t-on le cycle carbonate-silicate le « thermostat de la Terre » ?",
+    "choix": [
+      "Plus il fait chaud, plus la pluie et l'érosion retirent de CO2 de l'air, ce qui freine le réchauffement",
+      "Il règle la température à l'intérieur de la Terre",
+      "Il produit de la chaleur en transformant le calcaire en roche volcanique",
+      "Il fait fondre la glace des pôles à intervalles réguliers"
+    ],
+    "bonneReponse": 0,
+    "explication": "Si le CO2 s'accumule, l'effet de serre réchauffe la surface, ce qui augmente les pluies et l'altération des roches. Ces roches captent alors du carbone et l'air se refroidit : une rétroaction négative, sur des millions d'années.",
+    "source": "D'après Wikipédia — Cycle du carbone"
+  },
+  {
+    "id": "q-nature-093",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Léopoldine Hugo, fille de Victor Hugo, est morte emportée par le mascaret de la Seine.",
+    "reponse": false,
+    "explication": "On le répète souvent, mais c'est faux : le canot à voile de Léopoldine et de son mari, Charles Vacquerie, a chaviré dans un coup de vent à Villequier. Le mascaret de la basse Seine a bien fait d'autres victimes jusqu'en 1961.",
+    "source": "D'après Wikipédia — Mascaret"
+  },
+  {
+    "id": "q-nature-094",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Comment le DDT, nouveau pesticide, était-il salué après les bombardements d'Hiroshima et de Nagasaki ?",
+    "choix": [
+      "Comme la « bombe anti-insecte »",
+      "Comme le « sauveur des récoltes »",
+      "Comme l'« engrais atomique »",
+      "Comme le « fléau des oiseaux »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Rachel Carson découvre le DDT en 1945, au moment où on le célèbre comme une « bombe anti-insecte ». Elle ne publiera sur le sujet qu'en 1962, avec Printemps silencieux, qui conduit à l'interdiction du DDT aux États-Unis.",
+    "source": "D'après Wikipédia — Rachel Carson"
+  },
+  {
+    "id": "q-nature-095",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel projet immobilier Wangari Maathai a-t-elle fait échouer à Nairobi en 1989-1990 ?",
+    "choix": [
+      "Un gratte-ciel de 60 étages à Uhuru Park",
+      "Un barrage sur la rivière Tana",
+      "Un golf dans la forêt de Karura",
+      "Un aéroport au pied du mont Kenya"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1989, elle protestait contre une tour de 60 étages prévue dans Uhuru Park, avec la statue du président. Ses lettres et la couverture des médias poussent les investisseurs étrangers à annuler en janvier 1990. Le golf de Karura date de 1999.",
+    "source": "D'après Wikipédia — Wangari Muta Maathai"
+  },
+  {
+    "id": "q-nature-096",
+    "domain": "nature",
+    "format": "difference",
+    "question": "Quelle est la différence entre la position de John Muir et celle de Gifford Pinchot ?",
+    "choix": [
+      "Muir voulait préserver la nature sauvage, Pinchot voulait gérer intelligemment ses ressources",
+      "Muir voulait exploiter les forêts, Pinchot voulait les préserver",
+      "Muir défendait l'élevage dans les parcs, Pinchot le refusait",
+      "Muir voulait des parcs privés, Pinchot des parcs publics"
+    ],
+    "bonneReponse": 0,
+    "explication": "Muir, « préservateur », défendait la nature pour sa valeur spirituelle ; Pinchot, « conservateur », y voyait des ressources à gérer. Leur amitié s'est brisée en 1897 sur la question des moutons dans les réserves forestières.",
+    "source": "D'après Wikipédia — John Muir"
+  },
+  {
+    "id": "q-nature-097",
+    "domain": "nature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Né à Rouen en 1902, j'ai commencé ma carrière en étudiant des phoques moines sur les côtes de Mauritanie.",
+      "En 1927, j'ai mis au jour, au Mali, l'homme d'Asselar.",
+      "J'ai dirigé l'IFAN, à Dakar, et fait la première plongée en bathyscaphe avec Auguste Piccard.",
+      "Végétarien, pacifiste et écologiste, j'ai parcouru le Sahara à dos de chameau pendant plus de soixante ans."
+    ],
+    "reponse": "Théodore Monod",
+    "explication": "Théodore Monod (1902-2000) est le naturaliste du Sahara, auteur de Méharées et de plus de 1 200 publications scientifiques. Il est aussi connu pour son engagement humaniste et sa Révérence à la vie.",
+    "source": "D'après Wikipédia — Théodore Monod"
+  },
+  {
+    "id": "q-nature-098",
+    "domain": "nature",
+    "format": "frise",
+    "question": "Remets ces étapes de la vie de Joseph Banks dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Il part au Labrador et à Terre-Neuve et entre à la Royal Society",
+        "annee": "1766"
+      },
+      {
+        "label": "L'Endeavour de Cook appareille de Plymouth",
+        "annee": "1768"
+      },
+      {
+        "label": "Il rentre en Angleterre après le tour du monde",
+        "annee": "1771"
+      },
+      {
+        "label": "Il visite l'Islande, le mont Hekla et le Grand Geyser",
+        "annee": "1772"
+      },
+      {
+        "label": "Il meurt à Isleworth",
+        "annee": "1820"
+      }
+    ],
+    "explication": "Banks s'illustre à 23 ans au Labrador, puis embarque avec Cook en 1768 et rentre en 1771. Il visite l'Islande en 1772, puis dirigera la Royal Society plus de 41 ans, jusqu'à sa mort en 1820.",
+    "source": "D'après Wikipédia — Joseph Banks"
+  },
+  {
+    "id": "q-nature-099",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pourquoi les planches de Redouté paraissent-elles si fraîches, même aujourd'hui ?",
+    "choix": [
+      "Il peignait d'après des plantes vivantes plutôt que des herbiers",
+      "Il utilisait des pigments inaltérables fabriqués au Muséum",
+      "Il retouchait chaque planche après la gravure",
+      "Il peignait uniquement des fleurs cueillies à l'aube"
+    ],
+    "bonneReponse": 0,
+    "explication": "Redouté travaillait sur des plantes vivantes, notamment dans le jardin de Malmaison, plutôt que sur des spécimens d'herbier séchés. Cela donne à ses roses et à ses lis, publiés en grands volumes colorés, leur finesse et leur fraîcheur.",
+    "source": "D'après Wikipédia — Pierre-Joseph Redouté"
+  },
+  {
+    "id": "q-nature-100",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Que se passe-t-il quand Fabre place des chenilles processionnaires en boucle sur le bord d'un pot ?",
+    "choix": [
+      "Elles tournent en rond pendant sept jours en suivant la piste de soie",
+      "Elles se dispersent immédiatement dans toutes les directions",
+      "Elles s'arrêtent et refusent d'avancer",
+      "Elles grimpent vers le centre du pot"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chaque chenille suit instinctivement la piste de soie de celle qui la précède, et le cortège forme un cercle sans fin qui dure sept jours. Cette expérience célèbre illustre la force de l'instinct que Fabre étudiait.",
+    "source": "D'après Wikipédia — Jean-Henri Fabre"
+  },
+  {
+    "id": "q-nature-101",
+    "domain": "nature",
+    "format": "associer",
+    "question": "Associe chaque phénomène naturel à sa caractéristique.",
+    "paires": [
+      {
+        "gauche": "Foudre",
+        "droite": "Air chauffé à environ 30 000 °C autour de l'éclair",
+        "explication": "L'air autour de la décharge chauffe brutalement ; cette dilatation soudaine produit le tonnerre que l'on entend."
+      },
+      {
+        "gauche": "Grêle",
+        "droite": "Billes de glace en couches, comme un oignon",
+        "explication": "Chaque couche se forme dans une zone différente du nuage, plus ou moins riche en gouttelettes d'eau."
+      },
+      {
+        "gauche": "Mascaret",
+        "droite": "Vague de marée remontant un fleuve à contre-courant",
+        "explication": "Il se forme dans des estuaires en forme d'entonnoir, lors des grandes marées de nouvelle ou pleine lune."
+      },
+      {
+        "gauche": "Tornade",
+        "droite": "Tourbillon au tuba parfois invisible",
+        "explication": "Le tuba n'apparaît que si la chute de pression fait condenser la vapeur d'eau ; sinon, on ne voit que les débris."
+      }
+    ],
+    "explication": "Ces quatre phénomènes naissent de l'eau et de l'énergie de l'atmosphère ou des marées, mais chacun a sa signature : un air surchauffé, de la glace en couches, une vague à contre-courant, ou un entonnoir de vent.",
+    "source": "D'après Wikipédia — Foudre"
+  },
+  {
+    "id": "q-nature-102",
+    "domain": "nature",
+    "format": "associer",
+    "question": "Associe chaque naturaliste à son œuvre ou à son projet.",
+    "paires": [
+      {
+        "gauche": "Buffon",
+        "droite": "Histoire naturelle",
+        "explication": "Cette œuvre en de nombreux volumes sur les animaux et les minéraux fut lue dans toute l'Europe cultivée."
+      },
+      {
+        "gauche": "Rachel Carson",
+        "droite": "Printemps silencieux",
+        "explication": "Ce livre alerte sur les dangers des pesticides de synthèse et a fait évoluer la politique américaine."
+      },
+      {
+        "gauche": "Pierre-Joseph Redouté",
+        "droite": "Les Roses",
+        "explication": "Un grand ouvrage d'aquarelles gravées consacré aux roses, qui a fait la gloire du « Raphaël des fleurs »."
+      },
+      {
+        "gauche": "Francis Hallé",
+        "droite": "Le Radeau des cimes",
+        "explication": "Ce dispositif permet d'étudier la canopée des forêts tropicales sans la détruire, depuis les airs."
+      }
+    ],
+    "explication": "Un siècle et demi sépare Buffon de Redouté et de Carson, mais tous ont voulu faire connaître la nature au grand public. Hallé continue cette tradition avec le Radeau des cimes, au-dessus de la forêt tropicale.",
+    "source": "D'après Wikipédia — Francis Hallé"
   }
 ]

@@ -1275,5 +1275,2386 @@
       ]
     },
     "source": "D'après Wikipédia — Stephen Hawking"
+  },
+  {
+    "id": "sciences-033",
+    "domain": "sciences",
+    "subtheme": "Physique",
+    "type": "personnage",
+    "title": "Michael Faraday",
+    "subtitle": "Physicien et chimiste britannique, 1791-1867",
+    "summary": "Fils d'un forgeron pauvre, Michael Faraday n'a presque pas été à l'école. Apprenti chez un relieur à 14 ans, il dévore les livres de science qui passent entre ses mains.\nEngagé par le chimiste Humphry Davy, il devient l'un des plus grands expérimentateurs de l'histoire. En 1831, il découvre l'induction électromagnétique, la base des génératrices et des transformateurs qui nous fournissent le courant.",
+    "details": {
+      "epoque": "XIXe siècle, Angleterre victorienne.",
+      "pourquoiCelebre": "Il a montré qu'un aimant en mouvement peut produire un courant électrique, ce qui a rendu l'électricité utilisable à grande échelle.",
+      "ideesClefs": [
+        "1821 : un fil parcouru par un courant tourne autour d'un aimant, premier principe du moteur électrique.",
+        "29 août 1831 : découverte de l'induction électromagnétique.",
+        "Il invente des mots restés dans la langue des sciences : anode, cathode, ion."
+      ],
+      "liens": [
+        {
+          "nom": "Humphry Davy",
+          "relation": "Le chimiste qui l'engage comme assistant en 1813 et lance sa carrière."
+        },
+        {
+          "nom": "James Clerk Maxwell",
+          "relation": "Il met en équations les idées de Faraday sur les lignes de force."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "De l'atelier du relieur à la Royal Institution",
+          "texte": "Faraday assiste en 1812 à des conférences de Davy et lui envoie un livre de 300 pages tiré de ses notes. Davy l'engage l'année suivante. Faraday refusera pourtant d'être anobli et déclinera deux fois la présidence de la Royal Society : il préférait rester « plain Mr Faraday »."
+        },
+        {
+          "titre": "Un génie sans mathématiques",
+          "texte": "Faraday pensait en images plutôt qu'en formules : ses « lignes de force » dessinent les champs autour des aimants. Ses maths n'allaient pas au-delà de l'algèbre simple. Maxwell dira pourtant qu'il était un mathématicien de très haut niveau. Son nom reste dans le farad, l'unité de capacité électrique."
+        }
+      ],
+      "anecdotes": [
+        "Il a refusé de travailler sur des armes chimiques pour la guerre de Crimée, pour des raisons éthiques."
+      ],
+      "wikipedia": "Michael Faraday"
+    },
+    "source": "D'après Wikipédia — Michael Faraday"
+  },
+  {
+    "id": "sciences-034",
+    "domain": "sciences",
+    "subtheme": "Physique",
+    "type": "personnage",
+    "title": "James Clerk Maxwell",
+    "subtitle": "Physicien et mathématicien écossais, 1831-1879",
+    "summary": "James Clerk Maxwell réunit en un seul ensemble d'équations l'électricité, le magnétisme et la lumière. Il montre que les champs électriques et magnétiques voyagent dans l'espace sous forme d'ondes, à la vitesse de la lumière.\nSes équations ont ouvert la voie aux ondes radio, puis à la relativité et à la physique quantique. En 1931, Einstein jugeait son travail le plus profond depuis Newton.",
+    "details": {
+      "epoque": "XIXe siècle, Écosse puis Angleterre.",
+      "pourquoiCelebre": "Ses équations décrivent tout l'électromagnétisme et montrent que la lumière est une onde électromagnétique.",
+      "ideesClefs": [
+        "1865 : « A Dynamical Theory of the Electromagnetic Field ».",
+        "1861 : première photographie en couleur durable, présentée à Londres.",
+        "1871 : premier professeur de physique du laboratoire Cavendish, à Cambridge."
+      ],
+      "liens": [
+        {
+          "nom": "Michael Faraday",
+          "relation": "Ses idées sur les lignes de force sont le point de départ des travaux de Maxwell."
+        },
+        {
+          "nom": "Albert Einstein",
+          "relation": "Il tenait l'œuvre de Maxwell pour la plus féconde depuis Newton."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "On Physical Lines of Force",
+          "annee": "1860"
+        },
+        {
+          "titre": "A Dynamical Theory of the Electromagnetic Field",
+          "annee": "1865"
+        },
+        {
+          "titre": "Traité d'électricité et de magnétisme",
+          "annee": "1873"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un enfant qui demandait « comment ça marche ? »",
+          "texte": "Enfant, Maxwell voulait savoir à quoi servait la moindre chose qui remuait, scintillait ou résonnait. À 14 ans, il écrit un premier article de mathématiques sur le tracé de courbes avec une ficelle. Trop jeune pour le présenter, il le fait lire par un professeur à la Royal Society d'Édimbourg."
+        },
+        {
+          "titre": "Couleurs, anneaux et gaz",
+          "texte": "Avec des toupies colorées, il montre que la lumière blanche vient d'un mélange de rouge, vert et bleu, principe de la couleur à la télévision. Il prouve aussi que les anneaux de Saturne sont faits d'une multitude de petits corps. Il a enfin décrit la répartition des vitesses des molécules dans un gaz."
+        }
+      ],
+      "wikipedia": "James Clerk Maxwell"
+    },
+    "source": "D'après Wikipédia — James Clerk Maxwell"
+  },
+  {
+    "id": "sciences-035",
+    "domain": "sciences",
+    "subtheme": "Physique",
+    "type": "personnage",
+    "title": "Niels Bohr",
+    "subtitle": "Physicien danois, 1885-1962",
+    "summary": "Niels Bohr invente en 1913 un atome où les électrons ne circulent que sur certaines orbites précises. Quand un électron change d'orbite, il émet ou absorbe un grain de lumière. Cette idée pose les bases de la mécanique quantique.\nProfesseur à Copenhague, il y fonde un institut où se forment les grands noms de la physique. Le prix Nobel de physique lui est décerné en 1922.",
+    "details": {
+      "epoque": "Première moitié du XXe siècle, Danemark.",
+      "pourquoiCelebre": "Son modèle de l'atome et son rôle de chef d'orchestre de la physique quantique, notamment dans ses débats avec Einstein.",
+      "ideesClefs": [
+        "1913 : le modèle de l'atome de Bohr, avec des niveaux d'énergie bien définis.",
+        "Principe de complémentarité : la lumière se comporte tantôt en onde, tantôt en particules.",
+        "1920 : fondation de l'Institut de physique théorique de Copenhague."
+      ],
+      "liens": [
+        {
+          "nom": "Ernest Rutherford",
+          "relation": "Bohr le rejoint à Manchester et améliore son modèle de l'atome."
+        },
+        {
+          "nom": "Albert Einstein",
+          "relation": "Leurs débats sur la réalité du monde quantique sont restés célèbres."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Pourquoi l'atome ne s'effondre pas",
+          "texte": "Dans le modèle de Rutherford, un électron qui tourne devrait perdre de l'énergie et tomber sur le noyau. Bohr suppose que les électrons restent sur des orbites stables, définies par leur énergie, et ne rayonnent qu'en sautant d'une orbite à l'autre. Le modèle explique les couleurs émises par l'hydrogène."
+        },
+        {
+          "titre": "Une fuite en avion en 1943",
+          "texte": "Sous l'occupation allemande, Bohr est menacé à cause des origines juives de sa mère. Avec l'aide de la résistance danoise, il gagne la Suède, puis il est caché dans la soute d'un avion Mosquito à destination de l'Angleterre. Il rejoint ensuite le projet Manhattan, mais insiste sur les dangers de la bombe."
+        }
+      ],
+      "anecdotes": [
+        "Excellent footballeur, il a joué comme gardien de but, comme son frère Harald, qui a disputé les Jeux olympiques de 1908."
+      ],
+      "wikipedia": "Niels Bohr"
+    },
+    "source": "D'après Wikipédia — Niels Bohr"
+  },
+  {
+    "id": "sciences-036",
+    "domain": "sciences",
+    "subtheme": "Physique",
+    "type": "personnage",
+    "title": "Max Planck",
+    "subtitle": "Physicien allemand, 1858-1947",
+    "summary": "En 1900, Max Planck cherche à expliquer la lumière émise par un corps chauffé. Pour que ses calculs collent aux mesures, il suppose que l'énergie ne s'échange que par paquets, proportionnels à une nouvelle constante notée h.\nIl n'imaginait pas déclencher une révolution : c'est le point de départ de la théorie des quanta. Il reçoit le prix Nobel de physique en 1918.",
+    "details": {
+      "epoque": "De l'Empire allemand à l'après-guerre, 1858-1947.",
+      "pourquoiCelebre": "Il a découvert le quantum d'énergie et la constante qui porte son nom, fondement de la physique quantique.",
+      "ideesClefs": [
+        "Octobre 1900 : il trouve la loi du rayonnement du corps noir avec la constante de Planck.",
+        "14 décembre 1900 : il dévoile ce résultat devant ses collègues physiciens de Berlin.",
+        "1918 : prix Nobel de physique pour la découverte des quanta d'énergie."
+      ],
+      "liens": [
+        {
+          "nom": "Albert Einstein",
+          "relation": "Planck est l'un de ses premiers soutiens, et Einstein étaye solidement l'idée des quanta."
+        },
+        {
+          "nom": "Lise Meitner",
+          "relation": "Il accepte la jeune physicienne à ses cours de Berlin et la soutient ensuite."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une idée qu'il a eu du mal à croire",
+          "texte": "Planck a découvert la constante h sans bien comprendre sa signification physique. Lui-même avait du mal à admettre que l'énergie soit discontinue. Il laisse Einstein développer l'idée. Il enseigne à Berlin pendant environ quarante ans et fait aussi de la musique : il joue du piano, parfois avec Einstein."
+        },
+        {
+          "titre": "Des épreuves terribles",
+          "texte": "Les quatre enfants de son premier mariage meurent avant lui. Son fils Erwin, accusé d'avoir pris part au complot du 20 juillet 1944 contre Hitler, est exécuté en janvier 1945. Après sa mort, la Kaiser-Wilhelm-Gesellschaft, qu'il avait présidée, est rebaptisée Société Max-Planck."
+        }
+      ],
+      "wikipedia": "Max Planck"
+    },
+    "source": "D'après Wikipédia — Max Planck"
+  },
+  {
+    "id": "sciences-037",
+    "domain": "sciences",
+    "subtheme": "Physique",
+    "type": "personnage",
+    "title": "Richard Feynman",
+    "subtitle": "Physicien américain, 1918-1988",
+    "summary": "Richard Feynman est l'un des physiciens qui ont le plus marqué l'après-guerre. Il invente une façon de calculer en physique quantique à l'aide de petits diagrammes qui portent aujourd'hui son nom.\nIl partage le prix Nobel de physique en 1965 avec Tomonaga et Schwinger. Pédagogue drôle, joueur de bongos, il est aussi célèbre pour ses livres d'anecdotes.",
+    "details": {
+      "epoque": "XXe siècle, États-Unis.",
+      "pourquoiCelebre": "Ses travaux sur l'électrodynamique quantique, ses diagrammes et son talent de pédagogue.",
+      "ideesClefs": [
+        "Les diagrammes de Feynman, très utilisés en théorie quantique des champs.",
+        "1965 : prix Nobel de physique, avec Sin-Itiro Tomonaga et Julian Schwinger.",
+        "Il siège dans la commission qui enquête sur le drame de la navette Challenger."
+      ],
+      "liens": [
+        {
+          "nom": "Niels Bohr",
+          "relation": "À Los Alamos, Feynman osait discuter âprement avec lui, ce que Bohr appréciait."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Cours de physique de Feynman",
+          "annee": "1964"
+        },
+        {
+          "titre": "La Nature des lois physiques",
+          "annee": "1965"
+        },
+        {
+          "titre": "Vous voulez rire, monsieur Feynman !",
+          "annee": "1985"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un esprit curieux depuis l'enfance",
+          "texte": "Enfant pendant la Grande Dépression, il répare les radios du voisinage et se monte un petit laboratoire. À 15 ans, il apprend seul le calcul différentiel et intégral. Il fait son doctorat à Princeton, sous la direction de John Wheeler, puis rejoint le projet Manhattan à Los Alamos."
+        },
+        {
+          "titre": "Professeur et vulgarisateur",
+          "texte": "Il enseigne à Cornell puis au Caltech, où il préfère enseigner plutôt que de rester dans un institut sans étudiants. Son cours de physique est devenu un classique. Ses récits d'aventures, dont « Vous voulez rire, monsieur Feynman ! », l'ont rendu populaire bien au-delà des laboratoires."
+        }
+      ],
+      "anecdotes": [
+        "Il percevait les lettres des équations en couleurs, une forme de synesthésie."
+      ],
+      "wikipedia": "Richard Feynman"
+    },
+    "source": "D'après Wikipédia — Richard Feynman"
+  },
+  {
+    "id": "sciences-038",
+    "domain": "sciences",
+    "subtheme": "Physique",
+    "type": "classique",
+    "title": "La mécanique quantique, en bref",
+    "subtitle": "La physique de l'infiniment petit",
+    "summary": "La mécanique quantique décrit les atomes et les particules, là où la physique classique échoue. Elle est bâtie dans les années 1920 par une poignée de physiciens européens, dont Bohr, Heisenberg et Schrödinger.\nSes règles sont étranges : l'énergie ne s'échange que par paquets, les particules se comportent à la fois comme des ondes et des corpuscules, et on ne prédit que des probabilités. Pourtant, c'est la théorie la plus précise que nous ayons.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Tout commence par Planck",
+          "texte": "Au début du XXe siècle, Planck résout le problème du rayonnement du corps noir en supposant que l'énergie ne s'échange que par multiples d'une quantité fixe. Einstein propose que la lumière est faite de grains, les photons. De Broglie étend l'idée aux particules, puis Schrödinger et Heisenberg donnent deux versions de la théorie."
+        },
+        {
+          "titre": "Des applications partout",
+          "texte": "La théorie explique la structure des atomes, la chimie, la conduction de l'électricité dans les métaux et l'existence des semi-conducteurs, à la base de l'électronique. Elle reste difficile à interpréter : l'expérience des fentes de Young, choisie par Feynman comme emblème, montre qu'une particule peut interférer avec elle-même."
+        }
+      ],
+      "anecdotes": [
+        "En 1930, Dirac publie « Principes de la mécanique quantique », qui montre que les approches de Schrödinger et de Heisenberg décrivent la même théorie."
+      ],
+      "wikipedia": "Mécanique quantique"
+    },
+    "source": "D'après Wikipédia — Mécanique quantique"
+  },
+  {
+    "id": "sciences-039",
+    "domain": "sciences",
+    "subtheme": "Physique",
+    "type": "classique",
+    "title": "La radioactivité",
+    "subtitle": "Quand des noyaux instables se transforment",
+    "summary": "Certains noyaux d'atomes sont instables : ils se transforment d'eux-mêmes en d'autres noyaux, en émettant des particules et de l'énergie. C'est la radioactivité.\nHenri Becquerel la découvre en 1896 avec des sels d'uranium. Marie et Pierre Curie la confirment avec le radium, et c'est Marie qui invente le mot. Elle sert aujourd'hui en médecine, dans l'industrie, mais demande de solides protections.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une découverte presque par hasard",
+          "texte": "Becquerel cherchait un lien entre phosphorescence et rayons X. Il enferme une plaque photographique dans du papier noir, y pose des sels d'uranium, et la plaque est impressionnée même sans lumière. Les rayonnements se séparent en trois : alpha, positifs, bêta, négatifs, et gamma, neutres."
+        },
+        {
+          "titre": "Une mode dangereuse",
+          "texte": "Avant qu'on mesure ses dangers, le radium était vendu comme tonifiant, sous forme de pastilles ou d'amulettes. Marie Curie a protesté contre cet engouement. Les morts des années 1930 liées à ces produits y ont mis fin. Aujourd'hui, la radiothérapie soigne des cancers, en milieu hospitalier."
+        }
+      ],
+      "anecdotes": [
+        "Marie Curie a isolé quelques milligrammes de radium à partir de plusieurs tonnes de pechblende, un minerai d'uranium."
+      ],
+      "wikipedia": "Radioactivité"
+    },
+    "source": "D'après Wikipédia — Radioactivité"
+  },
+  {
+    "id": "sciences-040",
+    "domain": "sciences",
+    "subtheme": "Physique",
+    "type": "classique",
+    "title": "La gravitation",
+    "subtitle": "La force qui nous retient au sol",
+    "summary": "La gravitation est l'attraction entre les corps qui ont une masse. Elle nous garde au sol, fait tourner les planètes autour du Soleil, provoque les marées et arrondit les étoiles et les planètes.\nÀ petite échelle, c'est la plus faible des quatre forces fondamentales, mais comme elle est toujours attractive, elle domine à grande échelle et façonne la structure de l'Univers.",
+    "details": {
+      "sections": [
+        {
+          "titre": "De Galilée à Newton",
+          "texte": "Galilée comprend que seuls les frottements de l'air expliquent que des objets légers tombent plus lentement : dans le vide, tout tombe de la même façon. Newton unifie ensuite la chute des pommes et le mouvement des planètes : la force d'attraction diminue avec le carré de la distance entre les deux corps."
+        },
+        {
+          "titre": "Einstein : l'espace-temps courbé",
+          "texte": "En 1915, la relativité générale d'Einstein décrit la gravitation comme une courbure de l'espace-temps. La loi de Newton reste une excellente approximation pour les vitesses faibles. Concilier gravitation et physique quantique est l'un des grands défis du XXIe siècle."
+        }
+      ],
+      "anecdotes": [
+        "Gravité et pesanteur ne sont pas tout à fait la même chose : la pesanteur tient compte en plus de la rotation de la Terre."
+      ],
+      "wikipedia": "Gravitation"
+    },
+    "source": "D'après Wikipédia — Gravitation"
+  },
+  {
+    "id": "sciences-041",
+    "domain": "sciences",
+    "subtheme": "Physique",
+    "type": "classique",
+    "title": "L'électromagnétisme",
+    "subtitle": "L'électricité, le magnétisme et la lumière réunis",
+    "summary": "Pendant longtemps, on a cru que l'électricité et le magnétisme n'avaient rien à voir. Les Grecs savaient seulement que l'ambre frotté attire de petits objets et que la magnétite attire le fer.\nAu XIXe siècle, on comprend que ce sont deux faces d'un même phénomène. Cette théorie explique la lumière, les ondes radio, les micro-ondes, et même la cohésion des atomes et des molécules.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Les étapes de l'unification",
+          "texte": "En 1820, Ørsted observe qu'un fil parcouru par un courant dévie l'aiguille d'une boussole, et Ampère étudie les interactions entre courants. En 1831, Faraday montre qu'un champ magnétique peut engendrer un courant. Maxwell réunit tout cela dans un ensemble d'équations, vers 1864."
+        },
+        {
+          "titre": "Une des quatre interactions fondamentales",
+          "texte": "L'interaction électromagnétique agit entre particules chargées. Elle est responsable de presque tous les phénomènes de la vie quotidienne, hors gravité : les liaisons chimiques, les forces de contact, la lumière. Sa version quantique décrit son action comme un échange de photons."
+        }
+      ],
+      "anecdotes": [
+        "Dans sa théorie, Maxwell conclut que la lumière est une perturbation électromagnétique qui se propage dans l'espace."
+      ],
+      "wikipedia": "Électromagnétisme"
+    },
+    "source": "D'après Wikipédia — Électromagnétisme"
+  },
+  {
+    "id": "sciences-042",
+    "domain": "sciences",
+    "subtheme": "Physique",
+    "type": "classique",
+    "title": "Le son",
+    "subtitle": "Une onde de pression qui voyage dans la matière",
+    "summary": "Le son est une vibration qui se propage, sous forme d'une onde, dans l'air, dans l'eau ou dans un solide. Notre oreille perçoit ces petites variations de pression.\nLe vide l'arrête : il lui faut de la matière pour avancer. Dans l'air à 15 °C, il va à environ 340 m/s, mais bien plus vite dans l'eau et l'acier.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Ce qui voyage, c'est la perturbation",
+          "texte": "Quand une source vibre, les particules d'air ne font que de minuscules allers-retours, de quelques micromètres. C'est la perturbation qui avance, comme les vagues sur l'eau : un bouchon posé à la surface monte et descend sans suivre la vague. Dans l'air, l'onde est longitudinale."
+        },
+        {
+          "titre": "Plus ou moins vite selon le milieu",
+          "texte": "La vitesse du son dépend du milieu et de sa température. Elle atteint environ 1 500 m/s dans l'eau et de 5 600 à 5 900 m/s dans l'acier. Les vibrations trop graves pour l'oreille s'appellent infrasons, celles trop aiguës, ultrasons. Plus on s'éloigne de la source, plus la puissance sonore par surface diminue."
+        }
+      ],
+      "anecdotes": [
+        "La nuit, une couche d'air froid près du sol peut renvoyer le son vers le bas : on entend alors un train à 5 km de distance."
+      ],
+      "wikipedia": "Onde sonore"
+    },
+    "source": "D'après Wikipédia — Onde sonore"
+  },
+  {
+    "id": "sciences-043",
+    "domain": "sciences",
+    "subtheme": "Physique",
+    "type": "classique",
+    "title": "La poussée d'Archimède",
+    "subtitle": "Pourquoi les corps flottent",
+    "summary": "Un objet plongé dans un liquide ou un gaz subit une force verticale dirigée vers le haut. Elle est égale au poids du volume de fluide que l'objet déplace : c'est la poussée d'Archimède.\nElle vient de ce que la pression augmente avec la profondeur : le bas de l'objet est plus poussé que le haut. C'est elle qui décide si un corps flotte, coule ou reste entre deux eaux.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Flotter, couler ou rester en place",
+          "texte": "On compare cette poussée au poids de l'objet. Si la poussée l'emporte, l'objet remonte. Si le poids l'emporte, il coule. S'ils sont égaux, il reste en équilibre, ni montant ni descendant. Ainsi un objet semble plus léger dans l'eau : il est plus facile de le soulever qu'à l'air libre."
+        },
+        {
+          "titre": "Un exemple chiffré",
+          "texte": "Une roche pèse 10 newtons au bout d'une ficelle, dans le vide. Plongée dans l'eau, elle déplace 3 newtons d'eau. La ficelle ne supporte plus que 7 newtons : la roche paraît plus légère. Archimède a étudié cette force pour la première fois, vers 246 avant notre ère, dans son traité « Des corps flottants »."
+        }
+      ],
+      "wikipedia": "Poussée d'Archimède"
+    },
+    "source": "D'après Wikipédia — Poussée d'Archimède"
+  },
+  {
+    "id": "sciences-044",
+    "domain": "sciences",
+    "subtheme": "Physique",
+    "type": "vocabulaire",
+    "title": "Énergie vs puissance",
+    "subtitle": "Deux grandeurs que l'on confond souvent",
+    "summary": "L'énergie mesure ce qu'un système peut fournir, la puissance mesure la rapidité avec laquelle il le fournit. La puissance est l'énergie délivrée divisée par la durée.\nElle s'exprime en watts : 1 watt, c'est 1 joule par seconde. Monter une charge dans un escalier demande le même travail en marchant ou en courant, mais bien plus de puissance en courant.",
+    "details": {
+      "definition": "La puissance est l'énergie fournie ou échangée par unité de temps ; son unité est le watt, soit un joule par seconde.",
+      "exemple": "Brûler un kilo de charbon libère plus d'énergie qu'un kilo de TNT qui explose, mais le TNT est bien plus puissant car il libère la sienne beaucoup plus vite.",
+      "confusions": [
+        {
+          "mot": "Énergie",
+          "explication": "C'est la quantité totale fournie, quelle que soit la durée : elle se mesure en joules."
+        },
+        {
+          "mot": "Travail",
+          "explication": "Il mesure le changement effectué sans tenir compte du temps nécessaire, contrairement à la puissance."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le démarrage demande plus de puissance",
+          "texte": "Pour mettre un système en mouvement, il faut vaincre son inertie. Une rame de métro consomme environ un mégawatt pour se lancer, puis de dix à quinze fois moins ensuite pour rouler à vitesse constante. L'ancienne unité, le cheval-vapeur, compare une machine à la traction d'un cheval."
+        }
+      ],
+      "wikipedia": "Puissance (physique)"
+    },
+    "source": "D'après Wikipédia — Puissance (physique)"
+  },
+  {
+    "id": "sciences-045",
+    "domain": "sciences",
+    "subtheme": "Physique",
+    "type": "vocabulaire",
+    "title": "Fission vs fusion nucléaire",
+    "subtitle": "Casser un noyau lourd, ou en assembler deux légers",
+    "summary": "La fission, c'est la rupture d'un noyau atomique lourd, comme l'uranium ou le plutonium, en deux noyaux plus légers. Elle libère des neutrons et une énergie énorme : environ 200 MeV par noyau, des millions de fois plus qu'une réaction chimique.\nLes neutrons émis peuvent provoquer d'autres fissions : c'est la réaction en chaîne. La fusion fait l'inverse : elle assemble deux noyaux légers, comme ceux de l'hydrogène. C'est elle qui fait briller le Soleil.",
+    "details": {
+      "definition": "La fission nucléaire est la scission d'un noyau lourd en deux noyaux plus légers, avec émission de neutrons et d'une grande quantité d'énergie.",
+      "exemple": "Un noyau d'uranium 235 qui absorbe un neutron peut se casser en krypton et en baryum, en libérant deux ou trois neutrons.",
+      "confusions": [
+        {
+          "mot": "Fusion nucléaire",
+          "explication": "À l'inverse, deux noyaux légers s'assemblent en un seul : c'est la réaction qui fait briller les étoiles."
+        },
+        {
+          "mot": "Radioactivité",
+          "explication": "Elle désigne la transformation spontanée de noyaux instables, qui n'est pas toujours une fission."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une découverte en 1938-1939",
+          "texte": "Le 17 décembre 1938, les chimistes Otto Hahn et Fritz Strassmann mettent en évidence le phénomène à Berlin. Lise Meitner, exilée en Suède, en comprend la signification et calcule l'énergie. Avec son neveu Otto Frisch, elle donne en février 1939 la première explication, en s'appuyant sur le modèle de la goutte liquide de Bohr."
+        }
+      ],
+      "anecdotes": [
+        "Dans un réacteur, des barres de commande absorbent les neutrons pour contrôler la réaction en chaîne."
+      ],
+      "wikipedia": "Fission nucléaire"
+    },
+    "source": "D'après Wikipédia — Fission nucléaire"
+  },
+  {
+    "id": "sciences-046",
+    "domain": "sciences",
+    "subtheme": "Physique",
+    "type": "date",
+    "title": "1897 : Thomson découvre l'électron",
+    "subtitle": "La première particule subatomique identifiée",
+    "summary": "Joseph John Thomson, physicien britannique, et ses collègues montrent en 1897 que les rayons cathodiques sont faits de particules, et non d'ondes. Ces corpuscules sont plus de mille fois moins lourds que l'atome d'hydrogène.\nC'est l'électron, la première particule plus petite que l'atome. Le mot, lui, avait été proposé dès 1894 par George Stoney.",
+    "details": {
+      "contexte": "À la fin du XIXe siècle, des physiciens étudient la lueur produite dans des ampoules de verre sous vide partiel, les rayons cathodiques. On ignore s'il s'agit d'ondes ou de particules.",
+      "causes": "Plusieurs expériences ont déjà montré que ces rayons sont déviés par un champ électrique vers la plaque positive, donc qu'ils portent une charge négative.",
+      "deroulement": "En 1896-1897, Thomson, Townsend et Wilson montrent que ce sont des particules individuelles, appelées « corpuscules ». Thomson estime leur charge et leur masse : de l'ordre du millième de celle de l'hydrogène.",
+      "consequences": "L'atome n'est plus indivisible. Thomson propose un premier modèle d'atome, puis Rutherford et Bohr précisent comment les électrons s'organisent. Millikan mesure leur charge en 1909.",
+      "frise": [
+        {
+          "annee": "1894",
+          "evenement": "George Stoney invente le mot « électron » pour la charge élémentaire."
+        },
+        {
+          "annee": "1897",
+          "evenement": "Thomson établit que les rayons cathodiques sont faits de particules."
+        },
+        {
+          "annee": "1909",
+          "evenement": "Millikan mesure la charge de l'électron avec des gouttes d'huile."
+        }
+      ],
+      "wikipedia": "Électron"
+    },
+    "source": "D'après Wikipédia — Électron"
+  },
+  {
+    "id": "sciences-047",
+    "domain": "sciences",
+    "subtheme": "Physique",
+    "type": "date",
+    "title": "2012 : le boson de Higgs détecté",
+    "subtitle": "La dernière pièce du modèle standard",
+    "summary": "Le 4 juillet 2012, le CERN annonce la découverte d'une nouvelle particule, autour de 125 GeV, compatible avec le boson de Higgs. Cette particule est liée au champ de Higgs, qui donne leur masse à certaines particules élémentaires.\nL'existence du boson avait été postulée en 1964. François Englert et Peter Higgs reçoivent le prix Nobel de physique en 2013.",
+    "details": {
+      "contexte": "Le modèle standard décrit les particules élémentaires, mais il lui manquait une pièce : le mécanisme qui explique la masse des particules, notamment celle des quarks et des électrons.",
+      "causes": "Le boson est postulé en 1964 par Englert et Brout, Higgs, ainsi que Guralnik, Hagen et Kibble. Les premiers indices, trop faibles, apparaissent au LEP vers 2000.",
+      "deroulement": "Les expériences ATLAS et CMS, au Grand collisionneur de hadrons, observent des excès en décembre 2011. Le 4 juillet 2012, elles atteignent le seuil de certitude de 5 sigma. Le 15 mars 2013, le CERN confirme qu'c'est bel et bien le boson de Higgs.",
+      "consequences": "La découverte conforte le modèle standard et vaut le Nobel à Englert et Higgs en 2013. Le boson est trop éphémère pour être vu : on détecte ses produits de désintégration.",
+      "frise": [
+        {
+          "annee": "1964",
+          "evenement": "Englert, Brout et Higgs postulent le mécanisme et le boson."
+        },
+        {
+          "annee": "2012",
+          "evenement": "Le CERN annonce la détection d'un boson compatible avec celui de Higgs."
+        },
+        {
+          "annee": "2013",
+          "evenement": "Prix Nobel de physique pour François Englert et Peter Higgs."
+        }
+      ],
+      "wikipedia": "Boson de Higgs"
+    },
+    "source": "D'après Wikipédia — Boson de Higgs"
+  },
+  {
+    "id": "sciences-048",
+    "domain": "sciences",
+    "subtheme": "Grands scientifiques",
+    "type": "personnage",
+    "title": "Lise Meitner",
+    "subtitle": "Physicienne austro-suédoise, 1878-1968",
+    "summary": "Née à Vienne, Lise Meitner doit batailler pour étudier la physique, dans un monde où les femmes sont peu admises. À Berlin, elle travaille pendant des années avec le chimiste Otto Hahn sur la radioactivité.\nExilée en 1938, elle propose, aidée de son neveu Otto Frisch, l'explication de la fission nucléaire. Hahn reçoit seul le Nobel de chimie en 1944 : son exclusion est souvent jugée injuste.",
+    "details": {
+      "epoque": "XXe siècle, Autriche, Allemagne puis Suède.",
+      "pourquoiCelebre": "Elle a expliqué la fission nucléaire et calculé l'énergie libérée, mais n'a pas été honorée par le Nobel.",
+      "ideesClefs": [
+        "1918 : découverte du protactinium avec Otto Hahn.",
+        "1938 : exil en Suède ; elle continue à correspondre avec Hahn.",
+        "Février 1939 : explication de la fission avec Otto Frisch."
+      ],
+      "liens": [
+        {
+          "nom": "Otto Hahn",
+          "relation": "Son collaborateur de longue date à Berlin, seul lauréat du Nobel de chimie 1944."
+        },
+        {
+          "nom": "Max Planck",
+          "relation": "Il l'accepte à ses cours à Berlin et l'engage comme assistante."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une pionnière à Berlin",
+          "texte": "À Berlin, Meitner et Hahn sont d'abord relégués dans un laboratoire de sous-sol, car le directeur de l'institut n'aime pas voir une femme dans ses murs. En 1917, elle dirige un département de physique. Pendant la Première Guerre mondiale, elle s'engage comme infirmière et manipule des appareils à rayons X."
+        },
+        {
+          "titre": "Fuir, comprendre, refuser la bombe",
+          "texte": "Menacée après l'annexion de l'Autriche, elle passe en juillet 1938 aux Pays-Bas, avec l'aide de collègues, puis part en Suède. Elle comprend que le noyau d'uranium se casse en deux, avec une énorme libération d'énergie. Plus tard, elle refuse de participer à Los Alamos : elle refuse toute implication dans la fabrication d'une bombe."
+        }
+      ],
+      "anecdotes": [
+        "L'élément 109, le meitnérium, a été nommé en son honneur en 1997."
+      ],
+      "wikipedia": "Lise Meitner"
+    },
+    "source": "D'après Wikipédia — Lise Meitner"
+  },
+  {
+    "id": "sciences-049",
+    "domain": "sciences",
+    "subtheme": "Grands scientifiques",
+    "type": "personnage",
+    "title": "Ernest Rutherford",
+    "subtitle": "Physicien néo-zélandais, 1871-1937",
+    "summary": "Né en Nouvelle-Zélande, Ernest Rutherford porte le surnom de père de la physique nucléaire. Il distingue les rayonnements alpha et bêta, et comprend que la radioactivité transforme un élément en un autre.\nEn 1911, il découvre que l'atome possède en son centre un noyau minuscule, qui concentre l'essentiel de sa masse. Il avait déjà reçu le prix Nobel de chimie en 1908.",
+    "details": {
+      "epoque": "Fin du XIXe siècle et début du XXe, Nouvelle-Zélande, Canada, Angleterre.",
+      "pourquoiCelebre": "Il a découvert le noyau atomique et ouvert la voie à la physique nucléaire.",
+      "ideesClefs": [
+        "1899 : il nomme les rayonnements alpha et bêta de l'uranium.",
+        "1908 : Nobel de chimie ; il prouve que les particules alpha sont des noyaux d'hélium.",
+        "1911 : découverte du noyau atomique après l'expérience de la feuille d'or."
+      ],
+      "liens": [
+        {
+          "nom": "Niels Bohr",
+          "relation": "Il vient se former chez Rutherford à Manchester avant de bâtir son modèle d'atome."
+        },
+        {
+          "nom": "Joseph John Thomson",
+          "relation": "Son directeur de thèse à Cambridge, découvreur de l'électron."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "L'expérience de la feuille d'or",
+          "texte": "Ses collaborateurs Geiger et Marsden bombardent une feuille d'or avec des particules alpha, et constatent que certaines sont déviées de plus de 90 degrés. Rutherford en déduit qu'au centre de l'atome se trouve un noyau qui concentre l'essentiel de la masse et toute la charge positive."
+        },
+        {
+          "titre": "Un chef de laboratoire exceptionnel",
+          "texte": "Il dirige le laboratoire Cavendish de Cambridge à partir de 1919. Sous sa direction, Chadwick y découvre le neutron en 1932. Bohr et Oppenheimer sont passés par ses équipes. Il est inhumé à l'abbaye de Westminster, près de Newton."
+        }
+      ],
+      "anecdotes": [
+        "Il aimait dire que la science, c'est de la physique ou de la philatélie, et il était un peu déçu de recevoir un Nobel de chimie."
+      ],
+      "wikipedia": "Ernest Rutherford"
+    },
+    "source": "D'après Wikipédia — Ernest Rutherford"
+  },
+  {
+    "id": "sciences-050",
+    "domain": "sciences",
+    "subtheme": "Chimie",
+    "type": "personnage",
+    "title": "Alfred Nobel",
+    "subtitle": "Chimiste et industriel suédois, 1833-1896",
+    "summary": "Alfred Nobel, chimiste suédois né à Stockholm en 1833, invente la dynamite : il trouve comment apprivoiser la nitroglycérine, très instable, en l'imprégnant d'une terre absorbante. Le brevet date de 1867.\nIl devient très riche grâce à ses usines d'explosifs et à plus de 350 brevets. Dans son testament, signé à Paris en 1895, il lègue sa fortune pour créer les prix Nobel.",
+    "details": {
+      "epoque": "De 1833 à 1896.",
+      "pourquoiCelebre": "Inventeur de la dynamite, il a légué sa fortune pour créer les prix Nobel.",
+      "ideesClefs": [
+        "Dynamite brevetée en 1867 : de la nitroglycérine absorbée dans du kieselguhr, une terre de diatomée.",
+        "Plus de 350 brevets, dont la gélignite (1875) et la ballistite (1887).",
+        "Testament signé le 27 novembre 1895 : sa fortune finance cinq prix annuels."
+      ],
+      "liens": [
+        {
+          "nom": "Ascanio Sobrero",
+          "relation": "Chimiste italien qui a découvert la nitroglycérine en 1847, explosif que Nobel a ensuite appris à maîtriser."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Dompter la nitroglycérine",
+          "texte": "La nitroglycérine est un explosif très puissant, mais imprévisible. En 1864, une explosion dans l'usine d'Heleneborg, à Stockholm, tue cinq personnes, dont le jeune frère de Nobel, Emil. Il cherche alors à la rendre plus sûre et découvre qu'absorbée dans du kieselguhr, elle n'explose plus qu'avec un détonateur. Le nom « dynamite » vient du grec dynamis, la puissance."
+        },
+        {
+          "titre": "Du marchand d'explosifs au prix",
+          "texte": "À sa mort, en 1896, Nobel possède plus de 90 usines d'explosifs et de munitions. Resté célibataire et sans enfant, il consacre presque toute sa fortune, 31,5 millions de couronnes de l'époque, à des prix pour ceux qui rendent « les plus grands services à l'humanité ». L'élément chimique nobélium porte aujourd'hui son nom."
+        }
+      ],
+      "anecdotes": [
+        "Selon une histoire célèbre, un journal français aurait publié sa nécrologie par erreur en 1888 en le traitant de « marchand de la mort » ; les historiens n'ont pas pu la vérifier."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Dynamite",
+          "annee": "1867"
+        },
+        {
+          "titre": "Gélignite",
+          "annee": "1875"
+        },
+        {
+          "titre": "Ballistite",
+          "annee": "1887"
+        },
+        {
+          "titre": "Prix Nobel",
+          "annee": "1901"
+        }
+      ],
+      "wikipedia": "Alfred Nobel"
+    },
+    "source": "D'après Wikipédia — Alfred Nobel"
+  },
+  {
+    "id": "sciences-051",
+    "domain": "sciences",
+    "subtheme": "Chimie",
+    "type": "personnage",
+    "title": "Linus Pauling",
+    "subtitle": "Chimiste américain, 1901-1994",
+    "summary": "Linus Pauling est un chimiste américain qui a expliqué comment les atomes se lient entre eux. Son livre La Nature de la liaison chimique, paru en 1939, est l'un des plus importants de la chimie.\nIl reçoit le prix Nobel de chimie en 1954, puis celui de la paix en 1962, pour son combat contre les essais atomiques. Avec Marie Curie, il est l'un des deux seuls à avoir été honoré dans deux domaines différents.",
+    "details": {
+      "epoque": "XXe siècle.",
+      "pourquoiCelebre": "Il a décrit la nature de la liaison chimique et a reçu deux prix Nobel, de chimie puis de la paix.",
+      "ideesClefs": [
+        "En 1932, il introduit l'électronégativité et l'hybridation des orbitales atomiques.",
+        "Il découvre la structure en hélice alpha des protéines.",
+        "En 1949, avec Harvey Itano, il décrit la drépanocytose comme une « maladie moléculaire »."
+      ],
+      "liens": [
+        {
+          "nom": "James Watson et Francis Crick",
+          "relation": "Ils ont décrit la double hélice de l'ADN en 1953, après la structure en hélice triple proposée à tort par Pauling."
+        },
+        {
+          "nom": "Marie Curie",
+          "relation": "Seule autre personne récompensée par un prix Nobel dans deux domaines différents."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un lycéen sans diplôme",
+          "texte": "Enfant, Pauling est fasciné par les expériences de chimie d'un ami. Au lycée, il emprunte du matériel à une aciérie abandonnée. Il quitte pourtant l'école sans diplôme, faute d'un cours d'histoire américaine, et entre à l'université à 15 ans. Son lycée lui décerne enfin son diplôme 45 ans plus tard, après ses deux prix Nobel."
+        },
+        {
+          "titre": "Comprendre la liaison chimique",
+          "texte": "Pauling applique la mécanique quantique aux molécules. Il montre que la plupart des liaisons tiennent à la fois du lien ionique et du lien covalent, et que la différence d'électronégativité entre deux atomes permet de prévoir leur caractère. Plus tard, il a aussi popularisé les fortes doses de vitamine C, une idée jamais acceptée par la communauté scientifique."
+        }
+      ],
+      "anecdotes": [
+        "Pauling a proposé pour l'ADN une hélice triple : il a manqué de peu la découverte de la double hélice."
+      ],
+      "oeuvres": [
+        {
+          "titre": "La Nature de la liaison chimique",
+          "annee": "1939"
+        }
+      ],
+      "wikipedia": "Linus Pauling"
+    },
+    "source": "D'après Wikipédia — Linus Pauling"
+  },
+  {
+    "id": "sciences-052",
+    "domain": "sciences",
+    "subtheme": "Chimie",
+    "type": "personnage",
+    "title": "Dorothy Crowfoot Hodgkin",
+    "subtitle": "Chimiste britannique, 1910-1994",
+    "summary": "Dorothy Crowfoot Hodgkin utilise les rayons X pour découvrir la forme en trois dimensions de molécules très complexes. Cette technique, la cristallographie, révèle comment les atomes sont disposés dans une molécule.\nElle décrypte la pénicilline en 1945, puis la vitamine B12, puis l'insuline en 1969, après 35 ans d'efforts. Elle reçoit le prix Nobel de chimie en 1964.",
+    "details": {
+      "epoque": "De 1910 à 1994.",
+      "pourquoiCelebre": "Pionnière de la cristallographie aux rayons X, elle a révélé la structure de la pénicilline, de la vitamine B12 et de l'insuline.",
+      "ideesClefs": [
+        "Pénicilline : structure résolue en 1945, avec un cycle bêta-lactame inattendu.",
+        "Vitamine B12 : à l'époque, la molécule la plus complexe jamais décryptée ; prix Nobel de chimie en 1964.",
+        "Insuline : étudiée dès 1934, structure résolue en 1969."
+      ],
+      "liens": [
+        {
+          "nom": "John Desmond Bernal",
+          "relation": "Son directeur de recherche à Cambridge, pionnier de la cristallographie des protéines."
+        },
+        {
+          "nom": "Margaret Thatcher",
+          "relation": "Son ancienne élève à Oxford, qui accrochera son portrait dans son bureau de Downing Street."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Des cristaux et des rayons X",
+          "texte": "Passionnée de chimie dès l'enfance, elle reçoit pour ses 16 ans un livre sur la cristallographie aux rayons X. Elle étudie à Oxford, puis à Cambridge auprès de Bernal. Dès 1934, elle revient enseigner à Oxford, où elle poursuit ses recherches et son enseignement de la chimie jusqu'en 1977."
+        },
+        {
+          "titre": "Malgré la maladie, pour la paix",
+          "texte": "À 24 ans, une polyarthrite rhumatoïde commence à déformer ses mains ; elle fabrique un levier pour actionner l'interrupteur de son appareil à rayons X et reste active scientifiquement, même en fauteuil roulant. De 1976 à 1988, elle préside le mouvement Pugwash, engagé pour la paix, distingué par le Nobel de la paix en 1995."
+        }
+      ],
+      "anecdotes": [
+        "Elle est la seule femme scientifique britannique à avoir reçu un prix Nobel."
+      ],
+      "wikipedia": "Dorothy Crowfoot Hodgkin"
+    },
+    "source": "D'après Wikipédia — Dorothy Crowfoot Hodgkin"
+  },
+  {
+    "id": "sciences-053",
+    "domain": "sciences",
+    "subtheme": "Chimie",
+    "type": "personnage",
+    "title": "Fritz Haber",
+    "subtitle": "Chimiste allemand, 1868-1934",
+    "summary": "Fritz Haber trouve comment fabriquer de l'ammoniac en combinant l'azote de l'air et de l'hydrogène. Ce procédé, repris par BASF grâce à Carl Bosch, permet de fabriquer des engrais sans dépendre des gisements du Chili. Il lui vaut le prix Nobel de chimie en 1918.\nLe même savant est aussi appelé « père de l'arme chimique » : pendant la Première Guerre mondiale, il supervise les attaques au chlore sur le front.",
+    "details": {
+      "epoque": "De 1868 à 1934.",
+      "pourquoiCelebre": "Son procédé d'ammoniac nourrit des milliards de personnes, mais il a aussi dirigé la guerre des gaz de 1914-1918.",
+      "ideesClefs": [
+        "Procédé Haber-Bosch : synthèse catalytique de l'ammoniac, à haute température et haute pression.",
+        "Prix Nobel de chimie en 1918, boycotté par la cérémonie de 1920 en raison de ses activités de guerre.",
+        "Le chlore est utilisé comme arme lors de la deuxième bataille d'Ypres."
+      ],
+      "liens": [
+        {
+          "nom": "Carl Bosch",
+          "relation": "Ingénieur de BASF qui a industrialisé le procédé, adopté par l'entreprise en 1909."
+        },
+        {
+          "nom": "Chaïm Weizmann",
+          "relation": "Lui propose un poste en Palestine après son départ forcé d'Allemagne."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Du pain avec l'air",
+          "texte": "Au XIXe siècle, les engrais et les explosifs azotés dépendent de gisements, notamment le nitrate de sodium, presque uniquement produit par le Chili. De 1894 à 1911, à Karlsruhe, Haber développe un procédé qui fabrique l'ammoniac à partir d'azote et d'hydrogène. On estime qu'environ un tiers de la production alimentaire mondiale en dépend aujourd'hui."
+        },
+        {
+          "titre": "Un savant écartelé",
+          "texte": "Patriote convaincu, Haber met sa science au service de l'armée allemande pendant la Première Guerre mondiale. D'origine juive, il est écarté de son poste de directeur à Berlin après l'arrivée d'Hitler au pouvoir en 1933. Il meurt d'une crise cardiaque à Bâle, le 29 janvier 1934, en route vers la Palestine. Ses travaux sur les pesticides ont aussi servi, plus tard, à fabriquer le Zyklon B."
+        }
+      ],
+      "anecdotes": [
+        "En 1925, il imagine extraire l'or de l'eau de mer pour payer les dettes de guerre de l'Allemagne ; les mesures montrent qu'il y en a bien moins qu'espéré."
+      ],
+      "wikipedia": "Fritz Haber"
+    },
+    "source": "D'après Wikipédia — Fritz Haber"
+  },
+  {
+    "id": "sciences-054",
+    "domain": "sciences",
+    "subtheme": "Chimie",
+    "type": "classique",
+    "title": "L'oxygène",
+    "subtitle": "Élément chimique n° 8, symbole O",
+    "summary": "L'oxygène, élément de numéro atomique 8, est le plus abondant de l'écorce terrestre. Sous forme de dioxygène (O2), c'est le gaz que nous respirons : il représente près de 21 % du volume de l'air.\nPourtant, la Terre en était dépourvue à l'origine. Il vient de la photosynthèse des végétaux, des algues et des cyanobactéries. Découvert au XVIIIe siècle, il a reçu son nom de Lavoisier en 1777.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une découverte à plusieurs mains",
+          "texte": "Le Suédois Carl Wilhelm Scheele produit le gaz vers 1771-1772, mais publie tard. Le Britannique Joseph Priestley l'obtient le 1er août 1774 en concentrant la lumière du Soleil sur de l'oxyde de mercure ; il le nomme « air déphlogistiqué ». Antoine Lavoisier comprend son rôle dans la combustion et le baptise oxygène en 1777."
+        },
+        {
+          "titre": "Un gaz fabriqué par le vivant",
+          "texte": "À l'origine, la Terre n'avait pas de dioxygène. Il s'est accumulé grâce à la photosynthèse, notamment celle des cyanobactéries, apparues peut-être il y a 2,8 milliards d'années. Toxique pour les premières formes de vie, il est indispensable à la respiration de la plupart des espèces actuelles. Il a aussi formé la couche d'ozone, qui absorbe les ultraviolets du Soleil."
+        }
+      ],
+      "anecdotes": [
+        "Plus de la moitié de la masse de notre corps est de l'oxygène, surtout sous forme d'eau (62,5 %)."
+      ],
+      "wikipedia": "Oxygène"
+    },
+    "source": "D'après Wikipédia — Oxygène"
+  },
+  {
+    "id": "sciences-055",
+    "domain": "sciences",
+    "subtheme": "Chimie",
+    "type": "classique",
+    "title": "Le carbone",
+    "subtitle": "Élément chimique n° 6, symbole C",
+    "summary": "Le carbone, symbole C, numéro atomique 6, est la brique de base de tous les êtres vivants connus. Il peut former quatre liaisons, ce qui lui permet de construire des molécules très variées : environ deux cents millions de composés ont été décrits.\nÀ l'état pur, il prend des formes très différentes : le graphite, tendre et noir, et le diamant, transparent et la matière naturelle la plus dure.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Même atome, deux mondes",
+          "texte": "Dans le graphite, les atomes forment des feuillets en hexagones qui glissent les uns sur les autres : il est tendre, conduit l'électricité et laisse une trace sur le papier (son nom vient du grec « écrire »). Dans le diamant, chaque atome est lié à quatre autres dans un réseau rigide, d'où sa dureté. Une seule couche de graphite s'appelle le graphène, isolé en 2004."
+        },
+        {
+          "titre": "Dater le passé",
+          "texte": "Le carbone possède trois isotopes naturels : le carbone 12 et le carbone 13, stables, et le carbone 14, radioactif, de demi-vie 5 730 ans. Ce dernier sert à dater des objets archéologiques, jusqu'à 50 000 ans environ. En 1985, trois chercheurs ont aussi découvert les fullerènes, des molécules en forme de ballon."
+        }
+      ],
+      "anecdotes": [
+        "En 1772, Lavoisier brûle du charbon et des diamants : les deux donnent du dioxyde de carbone. Il prouve ainsi que le diamant n'est fait que de carbone."
+      ],
+      "wikipedia": "Carbone"
+    },
+    "source": "D'après Wikipédia — Carbone"
+  },
+  {
+    "id": "sciences-056",
+    "domain": "sciences",
+    "subtheme": "Chimie",
+    "type": "classique",
+    "title": "La combustion",
+    "subtitle": "Quand la chimie fait du feu",
+    "summary": "La combustion est une réaction chimique qui dégage de la chaleur, souvent avec une flamme : un combustible réagit avec un comburant, le plus souvent le dioxygène de l'air. C'est une réaction d'oxydoréduction.\nLe feu a été la première réaction chimique maîtrisée par l'humanité, et la combustion reste aujourd'hui la principale source d'énergie : cuisine, chauffage, électricité, moteurs et fusées.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le tétraèdre du feu",
+          "texte": "Avant 1980, on parlait du « triangle du feu » : un combustible, un comburant et une énergie d'activation, comme une étincelle. On a découvert depuis qu'il faut aussi des radicaux libres, des fragments de molécules très réactifs qui entretiennent la réaction : c'est le « tétraèdre du feu ». Supprimer un seul des quatre éléments suffit à éteindre le feu."
+        },
+        {
+          "titre": "Complète ou incomplète",
+          "texte": "Quand l'air est abondant, un hydrocarbure produit surtout du dioxyde de carbone et de l'eau. Quand l'oxygène manque, la combustion est incomplète : elle forme de la suie et du monoxyde de carbone, un gaz mortel qui prend la place de l'oxygène sur l'hémoglobine du sang. Les pots catalytiques des voitures servent à réduire ces résidus toxiques."
+        }
+      ],
+      "anecdotes": [
+        "La respiration cellulaire est une forme de combustion lente, rendue possible par des enzymes."
+      ],
+      "wikipedia": "Combustion"
+    },
+    "source": "D'après Wikipédia — Combustion"
+  },
+  {
+    "id": "sciences-057",
+    "domain": "sciences",
+    "subtheme": "Chimie",
+    "type": "classique",
+    "title": "La catalyse",
+    "subtitle": "Accélérer une réaction sans la subir",
+    "summary": "Un catalyseur est une substance qui accélère une réaction chimique sans être consommée : il participe à une étape, puis il est régénéré. Il ne change pas le résultat final, seulement la vitesse, et parfois la direction de la réaction.\nPlus de 80 % des réactions chimiques industrielles font appel à la catalyse. Dans les cellules vivantes, ce sont les enzymes, des protéines, qui jouent ce rôle.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un chemin plus court",
+          "texte": "Le catalyseur ouvre un autre chemin à la réaction, qui demande moins d'énergie. Exemple : l'eau oxygénée se décompose normalement très lentement en eau et en oxygène. Avec un peu de dioxyde de manganèse, un dégagement de bulles d'oxygène apparaît aussitôt, et on retrouve le catalyseur intact. Dans le corps, une enzyme, la catalase, joue ce rôle."
+        },
+        {
+          "titre": "Du pain au pot catalytique",
+          "texte": "On pratique la catalyse depuis des millénaires sans le savoir, avec la fermentation des sucres connue des Sumériens vers 6 000 ans avant notre ère. Le mot, du grec katalusis, « dissolution », est introduit par Berzelius en 1835. Au XXe siècle, la catalyse permet de fabriquer l'ammoniac de Haber, des plastiques comme le polyéthylène, et dès les années 1970 les pots catalytiques au platine, rhodium et palladium."
+        }
+      ],
+      "anecdotes": [
+        "Le yaourt et la pâte à pain doivent leur fabrication aux enzymes, des catalyseurs naturels."
+      ],
+      "wikipedia": "Catalyse"
+    },
+    "source": "D'après Wikipédia — Catalyse"
+  },
+  {
+    "id": "sciences-058",
+    "domain": "sciences",
+    "subtheme": "Chimie",
+    "type": "classique",
+    "title": "Les matières plastiques",
+    "subtitle": "Des polymères que l'on moule",
+    "summary": "Une matière plastique est un polymère auquel on ajoute des additifs, et que l'on peut mouler, extruder ou étirer. Le mot vient du grec plastikos, « relatif au modelage ».\nLa première matière plastique industrielle entièrement synthétique est la Bakélite, inventée par Leo Baekeland en 1907. Aujourd'hui, on en produit environ 400 millions de tonnes par an, mais seulement 9 % environ sont recyclées.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des découvertes par hasard",
+          "texte": "Beaucoup de plastiques sont nés d'accidents. Charles Goodyear découvre la vulcanisation du caoutchouc en 1839, le celluloïd apparaît en 1846 et John Wesley Hyatt le brevète en 1870, après un embargo sur les boules de billard en ivoire. Roy Plunkett trouve par hasard le téflon en 1938, aujourd'hui connu pour ses poêles antiadhésives."
+        },
+        {
+          "titre": "Un siècle de nouveaux matériaux, et un défi",
+          "texte": "Le PVC est fabriqué industriellement en 1931, le polyéthylène en 1933, le nylon en 1935, le PET en 1941 et le Kevlar en 1965, fibre assez résistante pour les gilets pare-balles. Mais les déchets plastiques, qui se dégradent en microplastiques, sont devenus un problème préoccupant : en mars 2022, des négociations ont commencé pour un traité international."
+        }
+      ],
+      "anecdotes": [
+        "Le polycarbonate a équipé le casque des astronautes de la mission Apollo 11 en 1969."
+      ],
+      "wikipedia": "Matière plastique"
+    },
+    "source": "D'après Wikipédia — Matière plastique"
+  },
+  {
+    "id": "sciences-059",
+    "domain": "sciences",
+    "subtheme": "Chimie",
+    "type": "vocabulaire",
+    "title": "Isotope",
+    "subtitle": "Des atomes d'un même élément, de masses différentes",
+    "summary": "Les isotopes d'un élément sont des atomes qui ont le même nombre de protons mais un nombre différent de neutrons. Ils occupent donc la même case du tableau périodique et ont presque les mêmes propriétés chimiques.\nLe carbone 12 et le carbone 14 en sont un exemple : tous deux ont 6 protons, mais 6 et 8 neutrons. Le mot vient du grec et signifie « au même endroit ».",
+    "details": {
+      "definition": "Des atomes sont isotopes quand ils appartiennent au même élément chimique (même nombre de protons) mais ont des neutrons en nombre différent.",
+      "exemple": "Le carbone 12 (6 neutrons), le carbone 13 (7 neutrons) et le carbone 14 (8 neutrons) sont trois isotopes du carbone ; le carbone 14, radioactif, sert à dater des objets anciens.",
+      "confusions": [
+        {
+          "mot": "Isobares",
+          "explication": "Atomes de nombres de protons et de neutrons différents, mais qui ont le même nombre de masse (protons plus neutrons)."
+        },
+        {
+          "mot": "Isotones",
+          "explication": "Atomes dont les neutrons sont aussi nombreux, mais dont les protons ne le sont pas."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une idée née de la radioactivité",
+          "texte": "En 1913, le radiochimiste Frederick Soddy comprend que des atomes d'un même élément peuvent avoir des masses différentes : on connaît alors une quarantaine d'espèces radioactives entre le plomb et l'uranium, pour seulement 11 cases du tableau. Le mot « isotope » lui est suggéré par Margaret Todd, une médecin écossaise. Soddy reçoit le prix Nobel de chimie en 1921."
+        },
+        {
+          "titre": "Presque identiques, pas tout à fait",
+          "texte": "L'hydrogène a trois isotopes naturels : protium, deutérium et tritium. L'eau lourde, faite de deutérium, gèle à 3,81 °C et bout à 101,42 °C. Cette petite différence de masse sert à séparer les isotopes : on enrichit ainsi l'uranium naturel en uranium 235 pour l'industrie nucléaire."
+        }
+      ],
+      "wikipedia": "Isotope"
+    },
+    "source": "D'après Wikipédia — Isotope"
+  },
+  {
+    "id": "sciences-060",
+    "domain": "sciences",
+    "subtheme": "Chimie",
+    "type": "vocabulaire",
+    "title": "Oxydation vs réduction",
+    "subtitle": "Perdre des électrons ou en gagner",
+    "summary": "Dans une réaction d'oxydoréduction, des électrons passent d'une espèce chimique à une autre. Celle qui perd des électrons est oxydée ; celle qui en gagne est réduite.\nLes deux phénomènes vont toujours ensemble : on ne peut pas oxyder un corps sans en réduire un autre. La rouille, la combustion, la respiration cellulaire et les piles électriques en sont des exemples.",
+    "details": {
+      "definition": "Une oxydation est une perte d'électrons, une réduction un gain d'électrons ; l'espèce qui capte les électrons est l'oxydant, celle qui les cède est le réducteur.",
+      "exemple": "Dans la formation de la rouille, le fer cède des électrons (il est oxydé) et le dioxygène en capte (il est réduit) : 4 Fe + 3 O2 donne 2 Fe2O3.",
+      "confusions": [
+        {
+          "mot": "Oxydant et réducteur",
+          "explication": "L'oxydant est celui qui est réduit, et le réducteur celui qui est oxydé : les rôles sont inversés par rapport à ce que le nom laisse croire."
+        },
+        {
+          "mot": "Combustion",
+          "explication": "C'est un cas particulier de réaction d'oxydoréduction, rapide et qui dégage de la chaleur."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Du sens ancien au sens moderne",
+          "texte": "Lavoisier définit l'oxydation comme la combinaison avec l'oxygène, et la réduction comme le fait de tirer un métal de son oxyde. L'électron est découvert en 1897 par Thomson ; au XXe siècle, on comprend qu'il s'agit d'échanges d'électrons : le cuivre peut ainsi être oxydé par le dichlore, sans oxygène. Quand les deux demi-réactions sont séparées dans l'espace, on obtient un courant : c'est une pile."
+        }
+      ],
+      "wikipedia": "Réaction d'oxydoréduction"
+    },
+    "source": "D'après Wikipédia — Réaction d'oxydoréduction"
+  },
+  {
+    "id": "sciences-061",
+    "domain": "sciences",
+    "subtheme": "Chimie",
+    "type": "vocabulaire",
+    "title": "Mélange homogène vs hétérogène",
+    "subtitle": "Quand les constituants se voient, ou non",
+    "summary": "Un mélange associe plusieurs substances qui ne réagissent pas chimiquement entre elles : chacune garde ses propriétés, et on peut les séparer par des moyens physiques comme la filtration ou la distillation.\nSi l'on distingue les constituants à l'œil nu, le mélange est hétérogène (du sable dans l'eau). Sinon, il est homogène (du sel dissous dans l'eau, ou l'air).",
+    "details": {
+      "definition": "Un mélange homogène a une composition uniforme : on n'y distingue pas les constituants à l'œil nu ; un mélange hétérogène en montre au moins deux.",
+      "exemple": "Le sel dissous dans l'eau forme un mélange homogène, appelé solution ; le sable dans l'eau forme un mélange hétérogène.",
+      "confusions": [
+        {
+          "mot": "Corps pur",
+          "explication": "Il ne comporte qu'une seule substance, alors qu'un mélange en réunit au moins deux."
+        },
+        {
+          "mot": "Composé chimique",
+          "explication": "Il a une formule fixe et ses propriétés diffèrent de celles de ses éléments ; dans un mélange, les proportions varient et chaque substance garde ses propriétés."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Tout dépend de l'échelle",
+          "texte": "L'air est un mélange homogène de gaz, surtout de l'azote, dans lequel l'oxygène est dissous. Une émulsion, comme l'eau mêlée à l'huile, ou une mousse sont des mélanges hétérogènes. La frontière dépend de l'échelle : si l'on prélève un échantillon assez petit, tout mélange devient hétérogène ; en pratique, il est homogène quand la propriété étudiée est la même quel que soit l'échantillon."
+        }
+      ],
+      "wikipedia": "Mélange"
+    },
+    "source": "D'après Wikipédia — Mélange"
+  },
+  {
+    "id": "sciences-062",
+    "domain": "sciences",
+    "subtheme": "Chimie",
+    "type": "vocabulaire",
+    "title": "Liaison covalente",
+    "subtitle": "Deux atomes qui partagent des électrons",
+    "summary": "Une liaison covalente est un lien entre deux atomes qui se partagent des électrons. Le plus souvent, ils mettent en commun une paire d'électrons, appelée doublet liant, qui les attache l'un à l'autre.\nElle relie surtout des non-métaux et construit les molécules : H2, HCl, CO, le méthane. L'idée remonte à Gilbert Lewis, en 1916.",
+    "details": {
+      "definition": "Lien chimique où deux atomes mettent en commun une paire d'électrons de leur couche externe.",
+      "exemple": "Dans la molécule de dihydrogène H2, chaque atome d'hydrogène fournit un électron : la paire partagée forme la liaison H-H.",
+      "confusions": [
+        {
+          "mot": "Liaison ionique",
+          "explication": "Un atome capte les électrons de l'autre et les ions de charges opposées s'attirent : il n'y a plus de partage."
+        },
+        {
+          "mot": "Liaison covalente polarisée",
+          "explication": "Le partage est inégal quand les atomes ont des électronégativités différentes, comme dans HCl."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "De Lewis à la mécanique quantique",
+          "texte": "En 1916, Gilbert Lewis décrit le partage de paires d'électrons et invente une notation où les électrons externes sont des points autour des symboles. En 1927, Walter Heitler et Fritz London donnent la première explication quantique correcte d'une liaison chimique, celle du dihydrogène. Le partage de deux ou trois paires forme une liaison double ou triple, comme dans O2 et N2."
+        }
+      ],
+      "wikipedia": "Liaison covalente"
+    },
+    "source": "D'après Wikipédia — Liaison covalente"
+  },
+  {
+    "id": "sciences-063",
+    "domain": "sciences",
+    "subtheme": "Grands scientifiques",
+    "type": "classique",
+    "title": "Les prix Nobel",
+    "subtitle": "Des récompenses décernées chaque année depuis 1901",
+    "summary": "Les prix Nobel sont décernés chaque année depuis 1901, grâce au testament d'Alfred Nobel. Ils honorent des personnes dont les travaux ont servi l'humanité en physique, chimie, médecine, littérature et paix.\nLa cérémonie de remise a lieu le 10 décembre, jour anniversaire de la mort de Nobel. Les lauréats se partagent aujourd'hui plus de 10 millions de couronnes suédoises par prix.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Qui décerne quoi",
+          "texte": "L'Académie royale des sciences de Suède choisit les lauréats de physique et de chimie, l'Institut Karolinska celui de médecine, l'Académie suédoise celui de littérature et un comité norvégien celui de la paix. En 1968, la Banque de Suède a créé un prix d'économie, souvent appelé « Nobel d'économie » alors qu'il n'est pas formellement un prix Nobel."
+        },
+        {
+          "titre": "Les règles du jeu",
+          "texte": "Un prix ne peut être partagé qu'entre trois lauréats au maximum, et il n'est plus remis à titre posthume depuis 1974. D'où l'expression de « quatrième homme » : Lise Meitner n'a pas été récompensée alors qu'Otto Hahn a reçu seul le prix de chimie en 1944. Il n'existe pas de Nobel de mathématiques ; la médaille Fields et le prix Abel y répondent."
+        }
+      ],
+      "anecdotes": [
+        "Une rumeur dit que Nobel a exclu les mathématiques par jalousie envers un mathématicien suédois ; des chercheurs ont montré en 1985 qu'elle était sans fondement."
+      ],
+      "wikipedia": "Prix Nobel"
+    },
+    "source": "D'après Wikipédia — Prix Nobel"
+  },
+  {
+    "id": "sciences-064",
+    "domain": "sciences",
+    "subtheme": "Grands scientifiques",
+    "type": "classique",
+    "title": "La méthode scientifique",
+    "subtitle": "Comment la science produit ses connaissances",
+    "summary": "La méthode scientifique est l'ensemble des règles qui guident la production de connaissances : observer, proposer une hypothèse, la tester par l'expérience, puis la corriger ou l'abandonner.\nUne hypothèse n'est scientifique que si elle est réfutable : on doit pouvoir imaginer une expérience qui la contredirait. En pratique, il n'existe pas une seule méthode, mais des démarches variées selon les disciplines.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Hypothèse, prédiction, expérience",
+          "texte": "On formule une hypothèse, on en tire des prédictions, puis on les confronte à des expériences ou à des observations. Chaque étape est soumise à la critique des pairs, et le processus recommence avec de nouvelles questions. Les nouvelles théories prolongent souvent les anciennes : les équations de Newton restent valables dans le monde que Newton pouvait observer, au sein des théories d'Einstein."
+        },
+        {
+          "titre": "Des siècles de réflexion",
+          "texte": "Aristote est le premier à réfléchir à une méthode. Ibn al-Haytham, dit Alhazen, vérifie ses hypothèses par l'expérience dès le XIe siècle. En 1637, Descartes publie le Discours de la méthode, qui propose des étapes à suivre pour atteindre la vérité. Au XXe siècle, Karl Popper insiste sur la réfutabilité : une théorie scientifique doit pouvoir être mise à l'épreuve."
+        }
+      ],
+      "anecdotes": [
+        "L'expression « méthode scientifique » n'apparaît qu'au XIXe siècle."
+      ],
+      "wikipedia": "Méthode scientifique"
+    },
+    "source": "D'après Wikipédia — Méthode scientifique"
+  },
+  {
+    "id": "sciences-065",
+    "domain": "sciences",
+    "subtheme": "Grands scientifiques",
+    "type": "personnage",
+    "title": "Ibn al-Haytham (Alhazen)",
+    "subtitle": "Savant arabe, spécialiste d'optique, vers 965 - vers 1040",
+    "summary": "Ibn al-Haytham, connu en Occident sous le nom d'Alhazen, est né à Bassora vers 965 et mort au Caire vers 1040. On le considère comme le fondateur de l'optique moderne.\nDans son Traité d'optique, il explique que nous voyons parce que la lumière entre dans l'œil, et il valide presque toujours ses hypothèses par des expériences : un précurseur de la méthode scientifique.",
+    "details": {
+      "epoque": "Monde arabo-musulman médiéval, vers 965 - vers 1040.",
+      "pourquoiCelebre": "Il est considéré comme le fondateur de l'optique moderne et un pionnier de la méthode expérimentale.",
+      "ideesClefs": [
+        "La vision vient de rayons qui entrent dans l'œil ; c'est le cerveau qui interprète l'image.",
+        "Il utilise la chambre noire pour étudier les images, et étudie les lentilles sphériques.",
+        "Dans Doutes sur Ptolémée, il critique les modèles astronomiques hérités des Anciens."
+      ],
+      "liens": [
+        {
+          "nom": "Ptolémée",
+          "relation": "Savant antique dont Alhazen critique l'astronomie et l'optique."
+        },
+        {
+          "nom": "Roger Bacon",
+          "relation": "Moine anglais très influencé par la traduction latine de l'optique d'Alhazen."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "La lumière et l'œil",
+          "texte": "Dans son Traité d'optique, écrit de 1011 à 1021, Alhazen montre que la lumière se propage en ligne droite et précise les lois de la réflexion. Pour lui, l'œil n'est qu'un instrument d'optique : l'interprétation de l'image se fait dans le cerveau, ce qui peut causer des erreurs. Il explique ainsi l'illusion lunaire : si la Lune paraît plus grande près de l'horizon, c'est surtout, selon lui, une erreur d'interprétation du cerveau."
+        },
+        {
+          "titre": "Un savant qui feint la folie",
+          "texte": "Selon la tradition, le calife al-Hakim l'appelle en Égypte pour maîtriser les crues du Nil. Alhazen juge le projet quasi impossible et, craignant la colère du calife, feint la folie : il est assigné à résidence jusqu'à la mort du calife en 1021. Il en profite pour écrire. On lui attribue près de 200 ouvrages, dont une soixantaine seulement nous sont parvenus."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Traité d'optique"
+        },
+        {
+          "titre": "Doutes sur Ptolémée"
+        }
+      ],
+      "wikipedia": "Alhazen"
+    },
+    "source": "D'après Wikipédia — Alhazen"
+  },
+  {
+    "id": "sciences-066",
+    "domain": "sciences",
+    "subtheme": "Grands scientifiques",
+    "type": "personnage",
+    "title": "Chien-Shiung Wu",
+    "subtitle": "Physicienne sino-américaine, 1912-1997",
+    "summary": "Chien-Shiung Wu est une physicienne nucléaire née en Chine en 1912. Installée aux États-Unis, elle contribue au projet Manhattan en travaillant à séparer les isotopes de l'uranium.\nEn 1956, son expérience prouve que la parité n'est pas conservée dans les interactions faibles. Ses collègues Lee et Yang, qui avaient proposé l'idée, obtiennent le Nobel de physique en 1957 ; elle-même reçoit le premier prix Wolf de physique en 1978.",
+    "details": {
+      "epoque": "De 1912 à 1997.",
+      "pourquoiCelebre": "Son expérience de 1956 a montré qu'une règle supposée universelle de la physique des particules ne s'applique pas à l'interaction faible.",
+      "ideesClefs": [
+        "Expérience au cobalt 60 refroidi à très basse température : les particules bêta sont émises de façon asymétrique.",
+        "En 1949, avec Irving Shaknov, première production de paires de photons intriqués.",
+        "Son livre La Désintégration β (1965) est resté une référence."
+      ],
+      "liens": [
+        {
+          "nom": "Tsung-Dao Lee et Chen Ning Yang",
+          "relation": "Théoriciens qui ont conçu l'idée de l'expérience et reçu le prix Nobel de physique en 1957."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "L'expérience qui a brisé une règle",
+          "texte": "Lee et Yang se demandent si la « loi de conservation de la parité » vaut aussi pour l'interaction faible. Ils demandent l'aide de Wu, experte de la désintégration bêta. Elle utilise du cobalt 60 radioactif, le refroidit à des températures cryogéniques et applique un champ magnétique pour aligner les noyaux. Les particules bêta sortent de façon asymétrique : la parité n'est pas conservée."
+        },
+        {
+          "titre": "Une carrière de premières",
+          "texte": "Docteure de Berkeley en 1940, elle enseigne ensuite à l'université Columbia de 1944 à 1980. Elle devient la première femme instructrice au département de physique de Princeton, puis la première femme présidente de la Société américaine de physique, en 1975. Surnommée la « Marie Curie chinoise », elle a eu droit en 2021 à un timbre américain."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "La Désintégration β",
+          "annee": "1965"
+        }
+      ],
+      "wikipedia": "Chien-Shiung Wu"
+    },
+    "source": "D'après Wikipédia — Chien-Shiung Wu"
+  },
+  {
+    "id": "sciences-067",
+    "domain": "sciences",
+    "subtheme": "Biologie",
+    "type": "classique",
+    "title": "La cellule, brique du vivant",
+    "subtitle": "Unité de base de tous les êtres vivants",
+    "summary": "La cellule est l'unité de base du vivant, capable de se reproduire seule. Certains êtres, comme les bactéries, n'en comptent qu'une ; d'autres, comme nous, en rassemblent des milliers de milliards.\nElle est entourée d'une membrane et remplie d'un liquide où flottent protéines et autres molécules. Son existence a été découverte en 1665 par Robert Hooke, au microscope.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Deux grandes familles",
+          "texte": "Les cellules procaryotes, celles des bactéries et des archées, sont petites et simples : leur ADN flotte librement dans la cellule. Les cellules eucaryotes, celles des plantes, des animaux et des champignons, sont en moyenne 15 fois plus grandes et possèdent un noyau qui protège l'ADN, ainsi que des organites spécialisés."
+        },
+        {
+          "titre": "La théorie cellulaire",
+          "texte": "En 1839, Schleiden et Schwann posent un principe fondateur : tout être vivant est fait d'une ou plusieurs cellules, et chaque cellule naît d'une autre. Le corps humain en compte de l'ordre de cent mille milliards. Les plus anciennes cellules connues datent d'au moins 3,7 milliards d'années."
+        }
+      ],
+      "anecdotes": [
+        "Robert Hooke a choisi le mot « cellule » en pensant aux petites alvéoles de miel des ruches. L'idée répandue d'une référence aux cellules des moines serait une légende."
+      ],
+      "wikipedia": "Cellule (biologie)"
+    },
+    "source": "D'après Wikipédia — Cellule (biologie)"
+  },
+  {
+    "id": "sciences-068",
+    "domain": "sciences",
+    "subtheme": "Biologie",
+    "type": "classique",
+    "title": "La mitochondrie, centrale énergétique",
+    "subtitle": "Organite qui fournit son énergie à la cellule",
+    "summary": "Les mitochondries sont de minuscules structures présentes dans la plupart des cellules animales, végétales et fongiques. Leur rôle : fabriquer l'ATP, la molécule qui sert de carburant à la cellule.\nUne cellule en contient de 300 à 2 000, surtout dans les tissus qui consomment beaucoup d'énergie, comme le foie ou les muscles. Les globules rouges, eux, n'en ont pas.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une ancienne bactérie",
+          "texte": "La théorie de l'endosymbiose explique leur origine : il y a plusieurs milliards d'années, une cellule hôte a avalé une bactérie qui est restée vivre à l'intérieur. Aujourd'hui encore, la mitochondrie a une double membrane et son propre ADN, différent de celui du noyau et transmis en général par la mère."
+        },
+        {
+          "titre": "Un nom de « fil » et de « granule »",
+          "texte": "C'est en 1898 que Carl Benda lui donne son nom, tiré de deux mots grecs : « fil » et « granule ». Elle est invisible au microscope optique sans colorant. Elle intervient aussi dans la mort cellulaire programmée et son dysfonctionnement est lié à certaines maladies, dites mitochondriales."
+        }
+      ],
+      "anecdotes": [
+        "En 2016, un seul eucaryote était connu pour avoir perdu toutes ses mitochondries : un petit organisme appelé Monocercomonoides."
+      ],
+      "wikipedia": "Mitochondrie"
+    },
+    "source": "D'après Wikipédia — Mitochondrie"
+  },
+  {
+    "id": "sciences-069",
+    "domain": "sciences",
+    "subtheme": "Biologie",
+    "type": "vocabulaire",
+    "title": "Gène vs chromosome",
+    "subtitle": "L'unité d'information et son support",
+    "summary": "Un gène est un segment d'ADN qui contient la recette d'une protéine. Il peut être lu, recopié en ARN messager, puis traduit en protéine : la cellule « exprime » alors le caractère correspondant.\nLes gènes sont rangés le long des chromosomes, comme des phrases dans les volumes d'une encyclopédie. L'être humain en possède plus de 20 000.",
+    "details": {
+      "definition": "Un gène est une séquence d'ADN qui code une protéine, et donc un caractère que la cellule peut exprimer.",
+      "exemple": "La couleur des yeux dépend de plusieurs gènes, et chaque gène existe en versions un peu différentes, héritées de chacun des deux parents.",
+      "confusions": [
+        {
+          "mot": "Chromosome",
+          "explication": "C'est la structure qui porte l'ADN, donc des milliers de gènes ; le gène n'en est qu'un petit segment."
+        },
+        {
+          "mot": "Génome",
+          "explication": "C'est l'ensemble de l'ADN d'un organisme, gènes et séquences non codantes comprises."
+        },
+        {
+          "mot": "Allèle",
+          "explication": "C'est l'une des versions possibles d'un même gène, dominante ou récessive."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Du pois de Mendel à l'ADN",
+          "texte": "Entre 1856 et 1863, Gregor Mendel croise des milliers de pois et observe que les caractères se transmettent par « facteurs » venus de chaque parent. On les appelle aujourd'hui des allèles de gènes. Son travail est resté largement ignoré de son vivant, avant d'être redécouvert au début du XXe siècle."
+        }
+      ],
+      "wikipedia": "Gène"
+    },
+    "source": "D'après Wikipédia — Gène"
+  },
+  {
+    "id": "sciences-070",
+    "domain": "sciences",
+    "subtheme": "Biologie",
+    "type": "classique",
+    "title": "Les protéines, ouvrières de la cellule",
+    "subtitle": "Chaînes d'acides aminés aux mille métiers",
+    "summary": "Une protéine est une longue chaîne d'acides aminés, repliée en une forme précise. Cette forme détermine son travail : construire, transporter, bouger, accélérer des réactions ou transmettre des signaux.\nElles sont fabriquées par les ribosomes, d'après les instructions écrites dans les gènes. Elles sont assemblées à partir de 22 acides aminés différents, dits protéinogènes.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des métiers très variés",
+          "texte": "Le collagène et l'actine forment des structures, la myosine permet le mouvement des muscles, les enzymes accélèrent les réactions chimiques. L'hémoglobine transporte le dioxygène dans le sang grâce à un cofacteur, l'hème, sans lequel elle ne pourrait pas remplir ce rôle."
+        },
+        {
+          "titre": "Un mot venu du grec",
+          "texte": "Les protéines sont découvertes à partir de 1835 par le chimiste néerlandais Gerardus Mulder. En 1838, le Suédois Jöns Jacob Berzelius lui suggère le nom de protéine, du grec prôteios, « de premier rang ». Dans notre alimentation, elles sont digérées en acides aminés, ensuite réutilisés par l'organisme."
+        }
+      ],
+      "wikipedia": "Protéine"
+    },
+    "source": "D'après Wikipédia — Protéine"
+  },
+  {
+    "id": "sciences-071",
+    "domain": "sciences",
+    "subtheme": "Biologie",
+    "type": "classique",
+    "title": "Les enzymes, accélérateurs du vivant",
+    "subtitle": "Protéines qui catalysent les réactions chimiques",
+    "summary": "Une enzyme est une protéine qui accélère une réaction chimique sans être modifiée par elle. Presque toute la chimie d'une cellule dépend d'elles : sans enzymes, les réactions seraient bien trop lentes pour entretenir la vie.\nElles catalysent plus de 5 000 réactions différentes, et chacune est très spécialisée.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des millions de fois plus vite",
+          "texte": "Certaines enzymes font gagner un temps colossal : l'une d'elles réalise en quelques millisecondes une réaction qui prendrait plusieurs millions d'années sans elle. Elle agit en abaissant l'énergie nécessaire pour démarrer la réaction, puis elle ressort intacte et peut resservir."
+        },
+        {
+          "titre": "Serrure, clé, puis ajustement",
+          "texte": "En 1894, Emil Fischer compare l'enzyme et sa cible à une serrure et sa clé. En 1958, Daniel Koshland corrige ce modèle : l'enzyme est souple et se remodèle autour de sa cible. Trop de chaleur ou un pH inadapté la déforme, et elle perd alors son efficacité."
+        }
+      ],
+      "anecdotes": [
+        "Certaines molécules qui catalysent des réactions ne sont pas des enzymes : ce sont des ribozymes, faits d'ARN et non de protéines."
+      ],
+      "wikipedia": "Enzyme"
+    },
+    "source": "D'après Wikipédia — Enzyme"
+  },
+  {
+    "id": "sciences-072",
+    "domain": "sciences",
+    "subtheme": "Biologie",
+    "type": "classique",
+    "title": "La respiration cellulaire",
+    "subtitle": "Comment la cellule transforme le sucre en énergie",
+    "summary": "La respiration cellulaire convertit l'énergie contenue dans le glucose en ATP, la monnaie énergétique de la cellule. Avec de l'oxygène, le glucose est entièrement brûlé en dioxyde de carbone et en eau.\nUne molécule de glucose peut ainsi donner environ 30 à 32 ATP en pratique. Sans oxygène, le rendement tombe à 2 ATP.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Trois étapes",
+          "texte": "La glycolyse a lieu dans le cytosol et coupe le glucose en deux molécules de pyruvate. Le cycle de Krebs se déroule ensuite dans la matrice de la mitochondrie. Enfin, la chaîne respiratoire, dans la membrane interne, crée un courant de protons qui actionne l'ATP synthase, une enzyme qui fabrique l'ATP."
+        },
+        {
+          "titre": "Une sorte de combustion",
+          "texte": "L'oxydation totale du glucose libère 2 800 kJ, dont une part part en chaleur : le mécanisme ressemble à une combustion contrôlée. Le rendement théorique de 36 ATP n'est jamais atteint à cause des pertes. Avec de l'oxygène, la cellule gagne jusqu'à 15 fois plus d'énergie que sans."
+        }
+      ],
+      "wikipedia": "Respiration cellulaire"
+    },
+    "source": "D'après Wikipédia — Respiration cellulaire"
+  },
+  {
+    "id": "sciences-073",
+    "domain": "sciences",
+    "subtheme": "Biologie",
+    "type": "classique",
+    "title": "La fermentation, côté cellule",
+    "subtitle": "Produire de l'énergie sans oxygène",
+    "summary": "La fermentation permet à une cellule d'obtenir un peu d'énergie sans oxygène. Le sucre n'est transformé qu'en partie, et les déchets, comme l'alcool, l'acide lactique ou le CO2, sont rejetés dans le milieu.\nLe rendement est faible : 2 ATP par molécule de glucose, bien moins qu'avec la respiration. Mais cette énergie est disponible plus vite.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Alcool ou lactate",
+          "texte": "Les levures pratiquent la fermentation alcoolique : elles changent les sucres en éthanol et en dioxyde de carbone. La fermentation lactique, réalisée par certaines bactéries et par nos muscles, produit du lactate. Dans le muscle, elle intervient quand la demande dépasse les capacités de la respiration ; le foie recycle ensuite le lactate en glucose."
+        },
+        {
+          "titre": "Un phénomène ancien",
+          "texte": "Au XIXe siècle, l'étude de la fermentation a aidé à découvrir les enzymes. Pasteur pensait que des « ferments » agissaient dans la levure pour produire l'alcool. Cette voie domine quand le sucre abonde et que l'oxygène manque, comme sur la Terre avant que l'oxygène ne devienne abondant dans l'air."
+        }
+      ],
+      "anecdotes": [
+        "La « fermentation malolactique » stabilise les vins de garde, mais ce n'est pas vraiment une fermentation : c'est la transformation de l'acide malique en acide lactique, par des bactéries."
+      ],
+      "wikipedia": "Fermentation"
+    },
+    "source": "D'après Wikipédia — Fermentation"
+  },
+  {
+    "id": "sciences-074",
+    "domain": "sciences",
+    "subtheme": "Biologie",
+    "type": "personnage",
+    "title": "Jean-Baptiste de Lamarck",
+    "subtitle": "Naturaliste français, 1744-1829",
+    "summary": "Ancien officier devenu botaniste puis zoologiste, Lamarck est l'un des premiers à proposer une théorie de l'évolution des êtres vivants, bien avant Darwin. C'est lui qui invente le mot « biologie ».\nAu Muséum d'histoire naturelle, il classe les animaux sans vertèbres, qui représentent environ 80 % du règne animal.",
+    "details": {
+      "epoque": "XVIIIe-XIXe siècles.",
+      "pourquoiCelebre": "Il est considéré comme le fondateur du transformisme, l'idée que les espèces se transforment au cours du temps.",
+      "ideesClefs": [
+        "Il publie en 1778 sa Flore française, qui permet à chacun d'identifier les plantes.",
+        "Il crée le mot « biologie » pour désigner la science des êtres vivants.",
+        "Dans la Philosophie zoologique (1809), il propose que les êtres se compliquent et se diversifient en s'adaptant à leur milieu."
+      ],
+      "liens": [
+        {
+          "nom": "Georges Cuvier",
+          "relation": "Adversaire de ses idées, il a rédigé un éloge funèbre qui les a déformées."
+        },
+        {
+          "nom": "Charles Darwin",
+          "relation": "Il a proposé, après Lamarck, une autre théorie de l'évolution, fondée sur la sélection naturelle."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Du soldat au professeur",
+          "texte": "Né en 1744 à Bazentin, en Picardie, Lamarck devient officier dès 1761, puis étudie la médecine et la botanique. Sa Flore française lui vaut d'entrer à l'Académie des sciences en 1779. Vers la cinquantaine, il se reconvertit en zoologie et devient professeur au Muséum national d'histoire naturelle, créé en 1793."
+        },
+        {
+          "titre": "Une fin de vie difficile",
+          "texte": "Aveugle durant les dix dernières années de sa vie, il dicte ses derniers livres à sa fille Rosalie. Ses idées sont mal comprises : Napoléon lui-même le rabroue publiquement. Après sa mort, l'éloge de Cuvier a sans doute fait naître l'idée fausse selon laquelle Lamarck croyait que les animaux se transforment par « volonté » et par « désir »."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Flore française",
+          "annee": "1778"
+        },
+        {
+          "titre": "Philosophie zoologique",
+          "annee": "1809"
+        },
+        {
+          "titre": "Histoire naturelle des animaux sans vertèbres",
+          "annee": "1815"
+        }
+      ],
+      "wikipedia": "Jean-Baptiste de Lamarck"
+    },
+    "source": "D'après Wikipédia — Jean-Baptiste de Lamarck"
+  },
+  {
+    "id": "sciences-075",
+    "domain": "sciences",
+    "subtheme": "Biologie",
+    "type": "personnage",
+    "title": "Antoni van Leeuwenhoek",
+    "subtitle": "Savant néerlandais, 1632-1723",
+    "summary": "Drapier de Delft sans formation scientifique, Leeuwenhoek fabrique des microscopes d'une qualité inégalée à son époque. Il découvre un monde invisible : protozoaires, spermatozoïdes et bactéries.\nIl est souvent appelé le père de la microbiologie. Ses observations, envoyées sous forme de lettres à la Royal Society de Londres, ont d'abord été accueillies avec scepticisme.",
+    "details": {
+      "epoque": "XVIIe-XVIIIe siècles.",
+      "pourquoiCelebre": "Il a été le premier à observer des micro-organismes vivants avec des lentilles qu'il fabriquait lui-même.",
+      "ideesClefs": [
+        "Dès 1674, il observe des protozoaires et des spermatozoïdes.",
+        "Il affirme l'existence des bactéries.",
+        "Ses microscopes simples grossissent jusqu'à 200 fois."
+      ],
+      "liens": [
+        {
+          "nom": "Robert Hooke",
+          "relation": "Il l'a influencé : Hooke avait lui aussi observé le monde au microscope et découvert les cellules."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Des lentilles secrètes",
+          "texte": "Le drapier utilisait au départ de petites loupes pour examiner la qualité des tissus, qui grossissent de 6 à 15 fois. Il imagine des lentilles bien plus puissantes et garde sa technique secrète. Ses confrères anglais, incapables de reproduire ses observations, mettent plus de trois ans à reconnaître la réalité des protozoaires."
+        },
+        {
+          "titre": "Un correspondant infatigable",
+          "texte": "Il ne parlait ni anglais ni latin : ses quelque 300 lettres sont toutes écrites en néerlandais. Il entre pourtant à la Royal Society en 1680 et à l'Académie des sciences de Paris en 1699. Des visiteurs célèbres viennent à Delft, dont Pierre le Grand, à qui il montre la circulation du sang dans la queue d'une anguille."
+        }
+      ],
+      "anecdotes": [
+        "Une anecdote veut que l'idée lui soit venue en regardant à travers une goutte de miel prise dans un trou de plaque de cire, alors qu'il était apiculteur amateur."
+      ],
+      "wikipedia": "Antoni van Leeuwenhoek"
+    },
+    "source": "D'après Wikipédia — Antoni van Leeuwenhoek"
+  },
+  {
+    "id": "sciences-076",
+    "domain": "sciences",
+    "subtheme": "Biologie",
+    "type": "personnage",
+    "title": "Barbara McClintock",
+    "subtitle": "Généticienne américaine, 1902-1992",
+    "summary": "Spécialiste du maïs, Barbara McClintock découvre que certains morceaux d'ADN peuvent se déplacer d'un endroit à l'autre du génome : les transposons. Une idée si audacieuse qu'elle a longtemps été ignorée.\nElle reçoit seule le Nobel de physiologie ou médecine en 1983, trente ans après avoir cessé de publier ses résultats faute de compréhension.",
+    "details": {
+      "epoque": "XXe siècle.",
+      "pourquoiCelebre": "Elle a démontré que le génome n'est pas figé : des éléments génétiques mobiles peuvent changer de place et influencer l'activité des gènes.",
+      "ideesClefs": [
+        "Elle décrit pour la première fois la forme des 10 chromosomes du maïs.",
+        "Elle produit la première carte génétique du maïs.",
+        "Elle démontre le rôle du télomère et du centromère."
+      ],
+      "liens": [
+        {
+          "nom": "George Beadle",
+          "relation": "Camarade du groupe de cytogénétique du maïs à Cornell, lauréat du Nobel en 1958."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Des chromosomes de maïs sous le microscope",
+          "texte": "Née à Hartford en 1902, elle entre à l'université Cornell en 1919. Elle y soutient sa thèse de botanique en 1927 et met au point une technique de coloration au carmin pour voir les chromosomes. Elle prouve que les chromosomes portent bien l'hérédité et montre l'échange de gènes entre chromosomes pendant la méiose."
+        },
+        {
+          "titre": "Incomprise, puis honorée",
+          "texte": "Dans les années 1940 et 1950, elle découvre la transposition. Face au scepticisme de ses collègues, elle arrête de publier en 1953. Dans les années 1960 et 1970, d'autres chercheurs retrouvent les mécanismes de régulation des gènes qu'elle avait décrits. Le Nobel arrive en 1983."
+        }
+      ],
+      "wikipedia": "Barbara McClintock"
+    },
+    "source": "D'après Wikipédia — Barbara McClintock"
+  },
+  {
+    "id": "sciences-077",
+    "domain": "sciences",
+    "subtheme": "Biologie",
+    "type": "date",
+    "title": "1996 : Dolly, premier mammifère cloné",
+    "subtitle": "Une brebis née sans fécondation, à Roslin, en Écosse",
+    "summary": "Le 5 juillet 1996 naît Dolly, brebis écossaise issue du noyau d'une cellule adulte. Elle est le premier mammifère cloné à partir d'une cellule de ce type.\nL'équipe de Ian Wilmut et Keith Campbell a mis un noyau de cellule de glande mammaire dans un ovule vidé de son propre noyau. Le monde apprend sa naissance le 23 février 1997.",
+    "details": {
+      "contexte": "Au milieu des années 1990, des chercheurs écossais de l'Institut Roslin travaillent à produire des animaux d'élevage porteurs de qualités précises, notamment pour la médecine.",
+      "causes": "Il restait à prouver qu'une cellule déjà spécialisée d'un adulte pouvait redevenir capable de donner un animal entier.",
+      "deroulement": "Le 2 avril 1996, le noyau d'une cellule de glande mammaire d'une brebis de six ans est injecté dans un ovule dépourvu de noyau. Sur 277 cellules-œufs et une trentaine d'embryons, un seul se développe jusqu'à l'âge adulte : Dolly.",
+      "consequences": "Cela prouve que l'activité des gènes peut être réinitialisée. Dolly souffre d'arthrite précoce et d'une maladie pulmonaire : elle est euthanasiée le 14 février 2003. Elle reste visible au musée national d'Écosse, à Édimbourg.",
+      "frise": [
+        {
+          "annee": "1996",
+          "evenement": "Naissance de Dolly le 5 juillet, à l'Institut Roslin."
+        },
+        {
+          "annee": "1997",
+          "evenement": "Annonce publique de sa naissance, le 23 février."
+        },
+        {
+          "annee": "2003",
+          "evenement": "Mort de Dolly, le 14 février."
+        }
+      ],
+      "wikipedia": "Dolly (brebis)"
+    },
+    "source": "D'après Wikipédia — Dolly (brebis)"
+  },
+  {
+    "id": "sciences-078",
+    "domain": "sciences",
+    "subtheme": "Biologie",
+    "type": "classique",
+    "title": "CRISPR, les ciseaux de l'ADN",
+    "subtitle": "D'un système de défense bactérien à un outil de génie génétique",
+    "summary": "CRISPR désigne des séquences d'ADN répétées, découvertes chez les bactéries et les archées. Associé à une enzyme nommée Cas9, ce système sert aujourd'hui de « ciseaux moléculaires » pour modifier l'ADN de nombreux organismes.\nOn parle d'édition génomique : couper l'ADN à un endroit précis pour y changer une petite portion.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une découverte en plusieurs temps",
+          "texte": "En 1987, le Japonais Yoshizumi Ishino remarque ces répétitions chez la bactérie Escherichia coli. Elles sont ensuite redécouvertes sous plusieurs noms. Un article de Francisco Mojica de 2000 montre qu'il s'agit d'une même structure, et le nom CRISPR est créé en 2002. Près de la moitié des bactéries séquencées en portent."
+        },
+        {
+          "titre": "Une structure en répétitions",
+          "texte": "Le sigle signifie « courtes répétitions palindromiques groupées et régulièrement espacées ». Des répétitions de 21 à 37 paires de bases alternent avec des séquences généralement uniques, appelées « spacers ». Elles jouxtent des gènes Cas, qui fabriquent les enzymes capables de couper l'ADN."
+        }
+      ],
+      "wikipedia": "CRISPR"
+    },
+    "source": "D'après Wikipédia — CRISPR"
+  },
+  {
+    "id": "sciences-079",
+    "domain": "sciences",
+    "subtheme": "Biologie",
+    "type": "date",
+    "title": "2003 : le génome humain séquencé",
+    "subtitle": "Le projet Génome humain, lancé fin 1988",
+    "summary": "Le 14 avril 2003, les scientifiques annoncent l'achèvement du projet Génome humain : lire l'intégralité de l'ADN humain, soit environ 3 milliards de paires de bases. Un travail international qui a duré près de quinze ans.\nSurprise : l'espèce humaine n'a que 20 000 à 25 000 gènes, loin des 100 000 qu'on imaginait.",
+    "details": {
+      "contexte": "Lancée à l'origine en 1988, l'idée est née de scientifiques dans les années 1980. James Watson, co-découvreur de la double hélice, dirige les premières années du projet, financé à hauteur de 3 milliards de dollars environ.",
+      "causes": "Connaître la totalité du patrimoine génétique humain permettrait d'identifier les gènes et d'avancer dans la compréhension de nombreuses maladies.",
+      "deroulement": "En 1998, Craig Venter fonde la société privée Celera Genomics et défie le consortium public, dirigé par Francis Collins. La course se termine par un match nul : Bill Clinton annonce le 26 juin 2000 la fin du séquençage « brut ».",
+      "consequences": "Les ébauches sont publiées en février 2001, la séquence complète en 2004. Le nombre de gènes se révèle bien inférieur aux prévisions, et un nouveau projet, ENCODE, étudie la part non codante de l'ADN.",
+      "frise": [
+        {
+          "annee": "1988",
+          "evenement": "Décision de lancer le projet Génome humain."
+        },
+        {
+          "annee": "2001",
+          "evenement": "Publication des deux séquences « brutes », publique et privée."
+        },
+        {
+          "annee": "2003",
+          "evenement": "Annonce de l'achèvement du projet, le 14 avril."
+        }
+      ],
+      "wikipedia": "Projet Génome humain"
+    },
+    "source": "D'après Wikipédia — Projet Génome humain"
+  },
+  {
+    "id": "sciences-080",
+    "domain": "sciences",
+    "subtheme": "Biologie",
+    "type": "personnage",
+    "title": "Mary Anning",
+    "subtitle": "Chasseuse de fossiles britannique, 1799-1847",
+    "summary": "Mary Anning grandit à Lyme Regis, sur la côte sud de l'Angleterre, dans une famille pauvre qui vend des fossiles. Autodidacte, elle découvre un squelette complet d'ichtyosaure alors qu'elle n'a que 13 ans.\nElle devient l'une des grandes figures de la paléontologie, même si, en tant que femme issue d'un milieu modeste, elle reste longtemps en marge de la communauté scientifique.",
+    "details": {
+      "epoque": "XIXe siècle.",
+      "pourquoiCelebre": "Ses découvertes de reptiles marins et volants du Jurassique ont marqué les débuts de la paléontologie des vertébrés.",
+      "ideesClefs": [
+        "Elle trouve le premier squelette complet d'ichtyosaure, à 13 ans.",
+        "En 1821, elle découvre un squelette de plésiosaure.",
+        "En 1828, elle exhume un ptérosaure, le premier trouvé hors d'Allemagne."
+      ],
+      "liens": [
+        {
+          "nom": "Elizabeth Philpot",
+          "relation": "Amie plus âgée qui l'a encouragée à lire et à étudier la géologie."
+        },
+        {
+          "nom": "William Buckland",
+          "relation": "Géologue à qui elle a vendu un ptérosaure, qu'il a ensuite décrit et nommé."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une enfance au bord des falaises",
+          "texte": "À 15 mois, elle est frappée par la foudre et survit, contrairement à trois femmes touchées avec elle. Son père meurt en 1810 : la famille, endettée, cherche alors des fossiles à plein temps. Un collectionneur organise en 1820 une vente de sa propre collection au profit des Anning, pour les aider."
+        },
+        {
+          "titre": "Reconnue, mais tenue à l'écart",
+          "texte": "Elle fréquente des savants comme Henry de la Beche, mais ne peut jamais entrer à la Société géologique de Londres, interdite aux femmes jusqu'en 1904. Elle meurt d'un cancer du sein à 47 ans. Le président de la Société, de la Beche, lui rend hommage dans un discours : une première pour une femme."
+        }
+      ],
+      "anecdotes": [
+        "En 1826, elle découvre une poche d'encre séchée dans un fossile de bélemnite. Son amie Elizabeth Philpot dilue cette encre et la vend à des artistes pour dessiner."
+      ],
+      "wikipedia": "Mary Anning"
+    },
+    "source": "D'après Wikipédia — Mary Anning"
+  },
+  {
+    "id": "sciences-081",
+    "domain": "sciences",
+    "subtheme": "Grands scientifiques",
+    "type": "personnage",
+    "title": "Hypatie d'Alexandrie",
+    "subtitle": "Mathématicienne, astronome et philosophe, morte en 415",
+    "summary": "Fille du mathématicien Théon, Hypatie dirige l'école néoplatonicienne d'Alexandrie, où elle enseigne la philosophie, les mathématiques et l'astronomie. Sa vie est mieux documentée que celle de toute mathématicienne avant elle.\nElle est assassinée en mars 415 par une foule de moines chrétiens, lors d'un conflit politique entre le préfet Oreste et l'évêque Cyrille.",
+    "details": {
+      "epoque": "IVe-Ve siècles, Alexandrie.",
+      "pourquoiCelebre": "Savante réputée et enseignante respectée, sa mort violente a fait d'elle un symbole de la philosophie et, plus tard, du féminisme.",
+      "ideesClefs": [
+        "Elle aurait commenté les Arithmétiques de Diophante et les coniques d'Apollonios.",
+        "Elle participe au commentaire de l'Almageste de Ptolémée avec son père.",
+        "Elle savait construire des astrolabes, instruments de repérage des astres, et des hydromètres."
+      ],
+      "liens": [
+        {
+          "nom": "Théon d'Alexandrie",
+          "relation": "Son père, mathématicien et directeur de l'école du Mouseion."
+        },
+        {
+          "nom": "Synésios de Cyrène",
+          "relation": "L'un de ses élèves chrétiens, devenu évêque de Ptolémaïs."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une maîtresse écoutée",
+          "texte": "Sa date de naissance est discutée, entre 350 et 370. Elle enseigne à des élèves de toute la Méditerranée, païens comme chrétiens. Bien que non chrétienne, elle est connue pour sa tolérance. Elle conseille aussi Oreste, préfet d'Égypte, ce qui l'expose dans son conflit avec l'évêque Cyrille."
+        },
+        {
+          "titre": "Un symbole récupéré",
+          "texte": "Sa mort choque l'Empire. Plus tard, le siècle des Lumières voit en elle une opposante au fanatisme, et Charles Kingsley lui consacre un roman en 1853. Elle devient une icône pour les droits des femmes. On associe parfois sa mort à l'incendie de la bibliothèque d'Alexandrie, mais les deux événements sont distincts."
+        }
+      ],
+      "wikipedia": "Hypatie"
+    },
+    "source": "D'après Wikipédia — Hypatie"
+  },
+  {
+    "id": "sciences-082",
+    "domain": "sciences",
+    "subtheme": "Grands scientifiques",
+    "type": "personnage",
+    "title": "Katherine Johnson",
+    "subtitle": "Mathématicienne de la NASA, 1918-2020",
+    "summary": "Mathématicienne afro-américaine, Katherine Johnson a calculé à la main les trajectoires de vols spatiaux américains. Elle faisait partie des « ordinateurs humains » de la NASA, ces femmes qui vérifiaient les calculs de navigation.\nSes travaux ont servi aux premières missions du programme Mercury, avec John Glenn et Alan Shepard, puis à Apollo 11 en 1969.",
+    "details": {
+      "epoque": "XXe siècle.",
+      "pourquoiCelebre": "Réputée pour la fiabilité de ses calculs de navigation astronomique, elle a contribué à des décennies de missions spatiales.",
+      "ideesClefs": [
+        "Elle entre au NACA, ancêtre de la NASA, en 1953.",
+        "Elle calcule trajectoires, fenêtres de lancement et plans d'urgence pour Mercury.",
+        "La médaille présidentielle de la Liberté lui est remise en 2015."
+      ],
+      "liens": [
+        {
+          "nom": "William Schieffelin Claytor",
+          "relation": "Son mentor en mathématiques, troisième Afro-Américain titulaire d'un doctorat dans cette discipline."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une brillante élève",
+          "texte": "Née en 1918 en Virginie-Occidentale, elle montre tôt ses dons en mathématiques. Elle obtient son diplôme de lycée à treize ans, puis un diplôme universitaire de mathématiques et de français, avec la plus haute distinction, en 1937. Elle enseigne d'abord, avant de se tourner vers la recherche."
+        },
+        {
+          "titre": "Au cœur de la NASA",
+          "texte": "Repérant une annonce de recrutement, elle rejoint le centre de recherche de Langley. Elle travaille d'abord dans un groupe de calculatrices, qu'elle surnomme les « ordinateurs avec des jupes ». Elle s'impose ensuite auprès des ingénieurs de vol, en demandant à assister à des réunions jusque-là fermées aux femmes."
+        }
+      ],
+      "anecdotes": [
+        "Elle a reçu la médaille d'or du Congrès en 2019 et est morte en 2020, à 101 ans."
+      ],
+      "wikipedia": "Katherine Johnson"
+    },
+    "source": "D'après Wikipédia — Katherine Johnson"
+  },
+  {
+    "id": "sciences-083",
+    "domain": "sciences",
+    "subtheme": "Mathématiques",
+    "type": "personnage",
+    "title": "Archimède",
+    "subtitle": "Savant grec de Syracuse, vers 287-212 av. J.-C.",
+    "summary": "Archimède vit à Syracuse, en Sicile. Mathématicien, physicien et ingénieur, il est tenu pour le plus grand mathématicien de l'Antiquité.\nIl encadre le nombre π avec des polygones à 96 côtés, explique le levier et la flottabilité, et conçoit des machines. Il meurt en 212 av. J.-C., tué par un soldat romain pendant la prise de sa ville.",
+    "details": {
+      "epoque": "Antiquité grecque, IIIe siècle av. J.-C.",
+      "pourquoiCelebre": "Il a fondé la mécanique statique et l'hydrostatique, et ses calculs d'aires et de volumes annoncent le calcul infinitésimal.",
+      "ideesClefs": [
+        "La poussée d'Archimède : un corps plongé dans un liquide subit une force égale au poids du liquide qu'il déplace.",
+        "Un encadrement très précis de π, obtenu avec des polygones réguliers à 96 côtés.",
+        "Des inventions attribuées à son génie : palan, poulies composées, griffe pour défendre Syracuse."
+      ],
+      "liens": [
+        {
+          "nom": "Ératosthène",
+          "relation": "Il lui adressait ses travaux : Ératosthène dirigeait la bibliothèque d'Alexandrie."
+        },
+        {
+          "nom": "Hiéron II",
+          "relation": "Le tyran de Syracuse, dont il fut l'ingénieur."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le bain et la couronne",
+          "texte": "Selon l'architecte Vitruve, le roi Hiéron II soupçonne un orfèvre d'avoir mêlé de l'argent à l'or d'une couronne. Archimède aurait trouvé la parade dans son bain, en voyant l'eau monter, puis couru nu en criant « Eurêka ! » (« J'ai trouvé ! »). L'anecdote est douteuse : Archimède ne la raconte nulle part."
+        },
+        {
+          "titre": "Une sphère sur sa tombe",
+          "texte": "Il tenait ses machines pour de simples divertissements de géomètre. Sa plus belle découverte portait sur la sphère et le cylindre : le volume de la sphère vaut les deux tiers de celui du cylindre qui l'enveloppe. Il demanda que ces deux figures soient gravées sur sa tombe, que Cicéron retrouva plus tard."
+        }
+      ],
+      "anecdotes": [
+        "Plutarque lui prête une formule célèbre : avec un point d'appui, il pourrait soulever la Terre entière, tant le levier est puissant."
+      ],
+      "oeuvres": [
+        {
+          "titre": "De la mesure du cercle"
+        },
+        {
+          "titre": "De la sphère et du cylindre"
+        },
+        {
+          "titre": "L'Arénaire"
+        },
+        {
+          "titre": "Des corps flottants"
+        }
+      ],
+      "wikipedia": "Archimède"
+    },
+    "source": "D'après Wikipédia — Archimède"
+  },
+  {
+    "id": "sciences-084",
+    "domain": "sciences",
+    "subtheme": "Mathématiques",
+    "type": "personnage",
+    "title": "Thalès",
+    "subtitle": "Philosophe et savant grec de Milet, vers 625-548 av. J.-C.",
+    "summary": "Thalès de Milet figure parmi les Sept sages de la Grèce antique. On le tient pour l'un des premiers à chercher des explications de la nature par l'observation et le raisonnement plutôt que par les mythes.\nOn lui attribue la prédiction d'une éclipse, la mesure de la hauteur d'une pyramide et le théorème qui porte son nom. Il n'a probablement rien écrit : sa vie tient beaucoup de la légende.",
+    "details": {
+      "epoque": "Grèce archaïque, VIe siècle av. J.-C.",
+      "pourquoiCelebre": "Il est considéré comme l'un des premiers penseurs scientifiques, celui qui remplace l'explication mythique par une explication physique.",
+      "ideesClefs": [
+        "L'eau serait le principe de toutes choses : la terre, l'air et le feu n'en seraient que des formes.",
+        "Il aurait prévu l'éclipse de Soleil de 585 av. J.-C., qui interrompit une bataille entre Mèdes et Lydiens.",
+        "Le théorème de Thalès lui est attribué, tout comme des résultats simples de géométrie, sur le diamètre ou le triangle isocèle."
+      ],
+      "liens": [
+        {
+          "nom": "Anaximandre",
+          "relation": "Son élève, qui introduit l'idée d'apeiron, l'infini, comme principe des choses."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le sage qui tombe dans un puits",
+          "texte": "Platon raconte que Thalès, les yeux fixés sur les étoiles, tomba dans un puits. Une servante de Thrace se moqua de lui : il voulait connaître le ciel et ignorait ce qu'il avait sous les pieds. La Fontaine reprendra cette scène dans une fable, devenue l'image du savant distrait."
+        },
+        {
+          "titre": "Ingénieur et conseiller",
+          "texte": "Selon Hérodote, Thalès aurait fait détourner le fleuve Halys en creusant un canal en croissant, pour que l'armée du roi Crésus puisse le traverser. Il aurait aussi déconseillé à Milet de s'allier à Crésus, ce qui aurait sauvé la cité après la victoire de Cyrus."
+        }
+      ],
+      "anecdotes": [
+        "On lui attribue la maxime « Connais-toi toi-même », gravée au temple d'Apollon à Delphes."
+      ],
+      "wikipedia": "Thalès"
+    },
+    "source": "D'après Wikipédia — Thalès"
+  },
+  {
+    "id": "sciences-085",
+    "domain": "sciences",
+    "subtheme": "Mathématiques",
+    "type": "personnage",
+    "title": "Al-Khwârizmî",
+    "subtitle": "Mathématicien et astronome de Bagdad, vers 780-850",
+    "summary": "Al-Khwârizmî, originaire du Khwarezm (dans l'actuel Ouzbékistan), travaille à la Maison de la sagesse de Bagdad. Il écrit en arabe sur les mathématiques, l'astronomie et la géographie.\nSon livre sur la résolution des équations a donné le mot « algèbre », et son nom latinisé, Algoritmi, a donné « algorithme ». Ses écrits, traduits en latin au XIIe siècle, ont fait connaître en Europe la numération décimale.",
+    "details": {
+      "epoque": "Époque abbasside, début du IXe siècle.",
+      "pourquoiCelebre": "Il a écrit le premier manuel d'algèbre et diffusé le système de numération indien, avec le zéro, dans le monde arabe puis en Europe.",
+      "ideesClefs": [
+        "Son livre d'algèbre, écrit sous le calife Al-Ma'mûn (813-833), traite les équations avec des mots, sans aucun chiffre.",
+        "Al-jabr, « la restauration », consiste à déplacer un terme d'un côté à l'autre d'une équation ; le mot est devenu « algèbre ».",
+        "Un traité sur le calcul indien, traduit en latin au XIIe siècle, introduit les chiffres en Occident."
+      ],
+      "liens": [
+        {
+          "nom": "Fibonacci",
+          "relation": "Il popularise en 1202 la méthode d'al-jabr et al-muqabala dans son Liber abaci."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Des problèmes très concrets",
+          "texte": "Son algèbre répond à des questions de la vie courante : partage d'héritages, arpentage des terres, transactions commerciales. L'inconnue y est « la chose », son carré « le bien ». Il ramène chaque problème à l'une des six formes d'équations qu'il a définies, puis le résout pas à pas."
+        },
+        {
+          "titre": "Astronomie et cartes du monde",
+          "texte": "Il compose en 830 des tables astronomiques, les Tables indiennes, parmi les plus anciennes du monde arabe qui nous soient parvenues. Il écrit aussi sur l'astrolabe et le cadran solaire, et sur la géographie, avec les longitudes et latitudes de nombreuses villes, montagnes et îles."
+        }
+      ],
+      "anecdotes": [
+        "Le mot « algorithme » ne désigne pas une invention d'al-Khwârizmî : il a classé des procédés de calcul existants, mais c'est son nom qui est resté."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Le Livre abrégé de calcul par al-jabr et al-muqabala"
+        },
+        {
+          "titre": "Livre de l'addition et de la soustraction d'après le calcul indien"
+        },
+        {
+          "titre": "Tables indiennes (Zîj al-Sindhind)",
+          "annee": "830"
+        },
+        {
+          "titre": "Traité de géographie"
+        }
+      ],
+      "wikipedia": "Al-Khwârizmî"
+    },
+    "source": "D'après Wikipédia — Al-Khwârizmî"
+  },
+  {
+    "id": "sciences-086",
+    "domain": "sciences",
+    "subtheme": "Mathématiques",
+    "type": "personnage",
+    "title": "Leonhard Euler",
+    "subtitle": "Mathématicien suisse, 1707-1783",
+    "summary": "Né à Bâle, Euler passe sa vie à Saint-Pétersbourg et à Berlin. Il est l'un des mathématiciens les plus féconds de l'histoire : on compte 866 publications.\nIl invente en partie le langage des mathématiques modernes, avec la notation f(x) et la lettre i, et popularise π. Presque aveugle à la fin de sa vie, il continue pourtant à produire des articles, aidé de ses assistants.",
+    "details": {
+      "epoque": "XVIIIe siècle.",
+      "pourquoiCelebre": "Il a laissé des découvertes dans presque toutes les branches des mathématiques et fixé une grande partie de leurs notations.",
+      "ideesClefs": [
+        "Les sept ponts de Königsberg : en les étudiant, il fonde la théorie des graphes.",
+        "Pour un polyèdre sans trou, sommets moins arêtes plus faces donnent toujours 2.",
+        "Il a défini le nombre e, base du logarithme népérien, appelé aussi nombre d'Euler."
+      ],
+      "liens": [
+        {
+          "nom": "Daniel Bernoulli",
+          "relation": "Fils de son ancien professeur, il l'accueille à Saint-Pétersbourg et travaille avec lui."
+        },
+        {
+          "nom": "Carl Friedrich Gauss",
+          "relation": "Il disait que l'étude d'Euler resterait la meilleure école pour les mathématiques."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un destin entre trois capitales",
+          "texte": "Parti de Bâle à vingt ans pour l'Académie de Saint-Pétersbourg, Euler rejoint Berlin en 1741, à l'invitation de Frédéric II. Il y reste 26 ans, puis retourne en Russie en 1766. Il y meurt en 1783, père de treize enfants dont cinq seulement ont atteint l'âge adulte."
+        },
+        {
+          "titre": "Un grand vulgarisateur",
+          "texte": "À Berlin, il donne des leçons à une princesse et lui écrit plus de 200 lettres sur la physique et la philosophie. Réunies, elles forment les Lettres à une princesse d'Allemagne, un best-seller. Laplace en tirait la leçon : pour apprendre, il fallait lire Euler, le maître de tous."
+        }
+      ],
+      "anecdotes": [
+        "Devenu presque aveugle, il pouvait réciter l'Énéide de Virgile en entier, et citer la première et la dernière ligne de chaque page de son exemplaire."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Introductio in analysin infinitorum",
+          "annee": "1748"
+        },
+        {
+          "titre": "Institutiones calculi differentialis",
+          "annee": "1755"
+        },
+        {
+          "titre": "Lettres à une princesse d'Allemagne"
+        }
+      ],
+      "wikipedia": "Leonhard Euler"
+    },
+    "source": "D'après Wikipédia — Leonhard Euler"
+  },
+  {
+    "id": "sciences-087",
+    "domain": "sciences",
+    "subtheme": "Mathématiques",
+    "type": "personnage",
+    "title": "Carl Friedrich Gauss",
+    "subtitle": "Mathématicien, astronome et physicien allemand, 1777-1855",
+    "summary": "Fils d'un maçon de Brunswick, Gauss devient « le prince des mathématiciens ». Beaucoup le placent parmi les plus grands mathématiciens de l'histoire.\nIl révolutionne la théorie des nombres avec ses Disquisitiones arithmeticae (1801), prédit la position de l'astéroïde Cérès, et invente la méthode des moindres carrés. Il a aussi travaillé sur le magnétisme et construit avec Wilhelm Weber un télégraphe électromagnétique.",
+    "details": {
+      "epoque": "Fin du XVIIIe et première moitié du XIXe siècle.",
+      "pourquoiCelebre": "Il a marqué la théorie des nombres, l'astronomie, la statistique et la physique, et a dirigé l'observatoire de Göttingen.",
+      "ideesClefs": [
+        "À 19 ans, en 1796, il montre quels polygones réguliers se construisent à la règle et au compas, dont celui à 17 côtés.",
+        "En 1801, il retrouve Cérès, découverte le jour du Nouvel An, grâce à une nouvelle méthode de calcul.",
+        "Sa loi normale, la célèbre courbe en cloche, décrit les erreurs de mesure."
+      ],
+      "liens": [
+        {
+          "nom": "Sophie Germain",
+          "relation": "Il a correspondu avec elle, d'abord sans savoir qu'elle était une femme."
+        },
+        {
+          "nom": "Wilhelm Weber",
+          "relation": "Physicien avec qui il construit en 1833 un télégraphe électromagnétique."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un génie précoce",
+          "texte": "Le duc de Brunswick remarque ses dons à 14 ans et lui accorde une bourse. Une anecdote, probablement apocryphe, raconte qu'enfant il additionna les nombres de 1 à 100 en un instant, en formant 50 paires de 101. À 19 ans, la découverte du polygone à 17 côtés le décide à choisir les mathématiques."
+        },
+        {
+          "titre": "Des idées gardées pour lui",
+          "texte": "Gauss ne publiait que des travaux achevés, et beaucoup de ses découvertes ont été connues tard. Il fut le premier à envisager des géométries non euclidiennes, mais n'osa jamais les publier : il redoutait, disait-il, les cris des Béotiens, c'est-à-dire des esprits fermés."
+        }
+      ],
+      "anecdotes": [
+        "Sa mère ne se rappelait plus sa date de naissance : à 22 ans, il la retrouva lui-même, grâce à une méthode de calcul de la date de Pâques, et conclut qu'il était né le 30 avril 1777."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Disquisitiones arithmeticae",
+          "annee": "1801"
+        },
+        {
+          "titre": "Theoria motus corporum coelestium",
+          "annee": "1809"
+        },
+        {
+          "titre": "Disquisitiones generales circa superficies curvas",
+          "annee": "1827"
+        }
+      ],
+      "wikipedia": "Carl Friedrich Gauss"
+    },
+    "source": "D'après Wikipédia — Carl Friedrich Gauss"
+  },
+  {
+    "id": "sciences-088",
+    "domain": "sciences",
+    "subtheme": "Mathématiques",
+    "type": "personnage",
+    "title": "Évariste Galois",
+    "subtitle": "Mathématicien français, 1811-1832",
+    "summary": "Galois n'a vécu que vingt ans. Il est pourtant le fondateur de la théorie qui porte son nom, une clé de l'algèbre moderne.\nIl y étudie quand une équation se résout avec les quatre opérations et des racines. Républicain ardent, emprisonné pour ses opinions, il meurt à Paris en 1832, à la suite d'un duel. On en a fait l'archétype du génie malheureux.",
+    "details": {
+      "epoque": "Restauration et monarchie de Juillet.",
+      "pourquoiCelebre": "Sa théorie relie la résolution des équations à des groupes de permutations, une idée centrale de l'algèbre moderne.",
+      "ideesClefs": [
+        "Il trouve une condition pour qu'une équation soit résoluble par radicaux, problème ouvert depuis environ 350 ans.",
+        "Ses « corps de Galois » (corps finis) servent par exemple en cryptographie.",
+        "Au-delà du degré 4, aucune formule générale avec radicaux n'existe : sa théorie en donne l'explication."
+      ],
+      "liens": [
+        {
+          "nom": "Adrien-Marie Legendre",
+          "relation": "Son livre de géométrie fut la première grande lecture mathématique de Galois."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une série d'échecs",
+          "texte": "Refusé deux fois à l'École polytechnique, il voit son mémoire perdu en 1830 : Fourier, chargé de l'examiner pour le grand prix de l'Académie, est mort peu avant. Galois se sent persécuté par les autorités scientifiques, et s'engage alors dans les troubles politiques de la Révolution de juillet 1830."
+        },
+        {
+          "titre": "Prison et duel",
+          "texte": "Exclu de l'École préparatoire, ancêtre de l'École normale, pour une lettre contre son directeur, il rejoint la garde nationale républicaine. Il est arrêté plusieurs fois et passe plusieurs mois en prison, où il continue de travailler. Libéré en avril 1832, il meurt un mois plus tard, le 31 mai, dans les suites d'un duel."
+        }
+      ],
+      "anecdotes": [
+        "Il avait lu les Éléments de géométrie de Legendre « comme un roman », selon un récit rapporté sur sa jeunesse."
+      ],
+      "wikipedia": "Évariste Galois"
+    },
+    "source": "D'après Wikipédia — Évariste Galois"
+  },
+  {
+    "id": "sciences-089",
+    "domain": "sciences",
+    "subtheme": "Mathématiques",
+    "type": "personnage",
+    "title": "Sophie Germain",
+    "subtitle": "Mathématicienne et physicienne française, 1776-1831",
+    "summary": "Sophie Germain apprend seule les mathématiques à Paris, malgré l'opposition de sa famille. Pour se faire prendre au sérieux, elle écrit à Lagrange puis à Gauss sous le nom d'un homme, « Monsieur Le Blanc ».\nElle obtient le grand prix de l'Académie des sciences en 1815 pour ses travaux sur les surfaces vibrantes, et laisse un théorème important sur le dernier théorème de Fermat.",
+    "details": {
+      "epoque": "Révolution française et début du XIXe siècle.",
+      "pourquoiCelebre": "Pionnière de la théorie de l'élasticité, elle a aussi fait avancer la théorie des nombres à une époque où les femmes n'avaient pas accès aux études.",
+      "ideesClefs": [
+        "Elle emprunte le nom d'Antoine Auguste Le Blanc, ancien élève de Polytechnique, de 1794 à 1807.",
+        "Son théorème permet de traiter le premier cas du dernier théorème de Fermat pour les exposants premiers inférieurs à 100.",
+        "Elle remporte en 1815 le grand prix des sciences mathématiques, sur les plaques vibrantes."
+      ],
+      "liens": [
+        {
+          "nom": "Joseph-Louis Lagrange",
+          "relation": "Découvrant la supercherie, il devient son mentor et son ami."
+        },
+        {
+          "nom": "Carl Friedrich Gauss",
+          "relation": "Elle lui a écrit dix lettres, sans jamais le rencontrer."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Apprendre dans la bibliothèque de son père",
+          "texte": "À 13 ans, enfermée chez elle en pleine Révolution, elle lit l'histoire d'Archimède et décide d'étudier les mathématiques. Elle apprend le latin et le grec pour lire Newton et Euler. Son père lui confisque ses chandelles pour l'empêcher de veiller, puis finit par la soutenir."
+        },
+        {
+          "titre": "Le pseudonyme dévoilé",
+          "texte": "En 1806, la guerre menace Brunswick, la ville de Gauss. Inquiète, elle demande à un général de veiller sur lui, et doit révéler son identité. Gauss lui répond avec admiration, en 1807, que seule une personne d'un « talent tout à fait extraordinaire » pouvait réussir malgré tant d'obstacles."
+        }
+      ],
+      "anecdotes": [
+        "Son nom figure parmi les 72 noms de femmes de science inscrits sur la tour Eiffel."
+      ],
+      "wikipedia": "Sophie Germain"
+    },
+    "source": "D'après Wikipédia — Sophie Germain"
+  },
+  {
+    "id": "sciences-090",
+    "domain": "sciences",
+    "subtheme": "Mathématiques",
+    "type": "personnage",
+    "title": "Emmy Noether",
+    "subtitle": "Mathématicienne allemande, 1882-1935",
+    "summary": "Emmy Noether est une des figures de l'algèbre abstraite. Einstein la jugeait le plus grand génie mathématique créatif depuis que les femmes ont accès aux études supérieures.\nSon théorème relie les symétries d'un système physique à des lois de conservation. Interdite de poste à l'université à cause de son sexe, puis chassée par les nazis en 1933 parce qu'elle était juive, elle finit sa carrière aux États-Unis.",
+    "details": {
+      "epoque": "Première moitié du XXe siècle.",
+      "pourquoiCelebre": "Son théorème est un fondement de la physique moderne, et ses travaux ont transformé l'algèbre.",
+      "ideesClefs": [
+        "Le théorème de Noether : à chaque symétrie correspond une loi de conservation.",
+        "Elle a révolutionné la théorie des anneaux ; on parle d'anneaux noethériens en son honneur.",
+        "Elle a formé des élèves, dont le Néerlandais Van der Waerden, auteur de Moderne Algebra (1931)."
+      ],
+      "liens": [
+        {
+          "nom": "David Hilbert",
+          "relation": "Il l'invite à Göttingen en 1915 et la défend contre les opposants à une femme professeur."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un chemin semé d'obstacles",
+          "texte": "À l'université d'Erlangen, elle n'est que l'une des deux femmes sur 986 étudiants. Docteure en 1907, elle enseigne sept ans sans salaire. À Göttingen, ses cours sont annoncés sous le nom de Hilbert pendant quatre ans. Hilbert répond aux opposants que l'université n'est pas un établissement de bains publics."
+        },
+        {
+          "titre": "L'exil américain",
+          "texte": "En 1933, le régime nazi chasse les juifs de l'université. Noether émigre aux États-Unis et enseigne au collège de Bryn Mawr, en Pennsylvanie. Elle y meurt en 1935, quatre jours après une opération, à cinquante-trois ans."
+        }
+      ],
+      "anecdotes": [
+        "Elle jugeait sévèrement sa propre thèse de 1907, qu'elle qualifiait de « jungle d'équations »."
+      ],
+      "wikipedia": "Emmy Noether"
+    },
+    "source": "D'après Wikipédia — Emmy Noether"
+  },
+  {
+    "id": "sciences-091",
+    "domain": "sciences",
+    "subtheme": "Mathématiques",
+    "type": "personnage",
+    "title": "Srinivasa Ramanujan",
+    "subtitle": "Mathématicien indien, 1887-1920",
+    "summary": "Ramanujan naît dans une famille modeste du sud de l'Inde. Autodidacte, il apprend seul les mathématiques dans quelques livres et invente des milliers de formules.\nEn 1913, il envoie une lettre à G. H. Hardy, à Cambridge, qui y reconnaît le travail d'un génie et l'invite en Angleterre. De santé fragile, Ramanujan retourne en Inde en 1919 et meurt l'année suivante, à 32 ans.",
+    "details": {
+      "epoque": "Début du XXe siècle, Inde britannique.",
+      "pourquoiCelebre": "Sans formation classique, il a livré des résultats fulgurants sur les nombres, les séries et les fractions continues.",
+      "ideesClefs": [
+        "Il a laissé près de 3 900 résultats, presque tous reconnus exacts depuis.",
+        "Sa première lettre à Hardy, le 16 janvier 1913, comporte une longue liste de formules sans démonstration.",
+        "Ses cahiers sont étudiés depuis plus d'un siècle."
+      ],
+      "liens": [
+        {
+          "nom": "G. H. Hardy",
+          "relation": "Le mathématicien de Cambridge qui l'invite et devient son collaborateur."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un génie venu de nulle part",
+          "texte": "À 15 ans, il emprunte le Synopsis de Carr, qui rassemble des milliers de résultats presque sans démonstration. Il échoue à ses examens parce qu'il néglige tout sauf les mathématiques. Employé comme comptable à Madras en 1912, il note ses résultats dans des cahiers, faute de papier pour les démonstrations."
+        },
+        {
+          "titre": "La lettre qui change tout",
+          "texte": "Hardy prend d'abord la lettre pour une supercherie, puis la lit avec son collègue Littlewood. Stupéfaits, ils concluent que seul un mathématicien de premier ordre peut avoir écrit ces formules : un faussaire, disait Hardy, aurait manqué d'imagination pour les inventer."
+        }
+      ],
+      "anecdotes": [
+        "À dix-sept ans, il avait calculé la constante d'Euler avec 15 décimales."
+      ],
+      "wikipedia": "Srinivasa Ramanujan"
+    },
+    "source": "D'après Wikipédia — Srinivasa Ramanujan"
+  },
+  {
+    "id": "sciences-092",
+    "domain": "sciences",
+    "subtheme": "Mathématiques",
+    "type": "date",
+    "title": "1994 : Wiles démontre le théorème de Fermat",
+    "subtitle": "La fin d'une énigme vieille de plus de 350 ans",
+    "summary": "Vers 1637, Pierre de Fermat note dans la marge d'un livre qu'une somme de deux cubes n'est jamais un cube, et plus généralement pour toute puissance supérieure à 2. Il ajoute que la marge est trop étroite pour sa preuve.\nIl faudra attendre 1994 : le Britannique Andrew Wiles démontre enfin ce « dernier théorème de Fermat », après des années de recherches.",
+    "details": {
+      "contexte": "Pour l'exposant 2, l'équation xⁿ + yⁿ = zⁿ a une infinité de solutions entières, comme 3, 4, 5 (3² + 4² = 5²). Fermat affirme que pour n supérieur à 2, il n'y en a aucune.",
+      "causes": "On ne retrouve aucune preuve de Fermat, et on ne connaît que ses cas particuliers. Pendant plus de trois siècles, des mathématiciens comme Euler, Sophie Germain ou Kummer avancent cas par cas, sans venir à bout du problème général.",
+      "deroulement": "Wiles travaille presque en secret sur le sujet pendant des années et annonce sa preuve en 1993. Une faille apparaît à la relecture, et il la corrige avec son ancien étudiant Richard Taylor. La démonstration complète est publiée en 1995.",
+      "consequences": "Wiles reçoit le prix Wolfskehl en 1997. Les outils créés pour cette preuve ont bien plus d'importance que le théorème lui-même, et ouvrent de nouvelles voies en théorie des nombres.",
+      "frise": [
+        {
+          "annee": "1637",
+          "evenement": "Fermat note son énoncé dans la marge d'un livre de Diophante."
+        },
+        {
+          "annee": "1816",
+          "evenement": "L'Académie de Paris met un prix en jeu pour la preuve ou la réfutation."
+        },
+        {
+          "annee": "1994",
+          "evenement": "Wiles démontre le théorème, après avoir corrigé une faille de sa première preuve."
+        }
+      ],
+      "wikipedia": "Dernier théorème de Fermat"
+    },
+    "source": "D'après Wikipédia — Dernier théorème de Fermat"
+  },
+  {
+    "id": "sciences-093",
+    "domain": "sciences",
+    "subtheme": "Mathématiques",
+    "type": "classique",
+    "title": "L'infini",
+    "subtitle": "Une notion qui défie l'intuition depuis l'Antiquité",
+    "summary": "Le mot « infini » qualifie ce qui ne connaît aucune borne, ni en nombre ni en taille. C'est un concept mathématique, mais aussi philosophique et religieux, qui nourrit des paradoxes depuis les Grecs.\nSon symbole ∞, que le mathématicien John Wallis introduit au XVIIe siècle, évoque un 8 couché. Dès l'Antiquité, on distingue l'infini « en puissance », sans fin, de l'infini « en acte », achevé.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Les paradoxes de Zénon",
+          "texte": "Au Ve siècle av. J.-C., Zénon d'Élée utilise l'infini pour des paradoxes sur le mouvement. Achille ne peut pas rattraper une tortue : à chaque fois qu'il atteint l'endroit où elle était, elle a encore avancé un peu. La distance se divise en une infinité d'étapes, et pourtant, en réalité, Achille la dépasse."
+        },
+        {
+          "titre": "Un infini qu'on apprivoise",
+          "texte": "Anaximandre fait de l'infini (apeiron) le principe d'où naissent tous les mondes. Archimède, lui, montre que les grains de sable sont dénombrables, malgré l'opinion courante. Avec le calcul infinitésimal du XVIIe siècle, l'infini devient un outil, et à la fin du XIXe siècle, Georg Cantor montre qu'il existe des infinis de tailles différentes."
+        }
+      ],
+      "anecdotes": [
+        "Giordano Bruno, qui imaginait un univers infini peuplé d'une infinité de mondes, fut condamné au bûcher au début du XVIIe siècle."
+      ],
+      "wikipedia": "Infini"
+    },
+    "source": "D'après Wikipédia — Infini"
+  },
+  {
+    "id": "sciences-094",
+    "domain": "sciences",
+    "subtheme": "Mathématiques",
+    "type": "classique",
+    "title": "Les probabilités",
+    "subtitle": "La science du hasard, née autour des jeux de dés",
+    "summary": "Une probabilité est un nombre compris entre 0 et 1 : plus il est grand, plus l'événement a de chances d'arriver. Dans les cas simples, on divise le nombre de cas favorables par le nombre de cas possibles.\nCette science est née au XVIIe siècle, à partir de questions sur les jeux de hasard, avant de servir la météorologie, la finance ou la chimie.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une naissance par correspondance",
+          "texte": "Le véritable début de la théorie date de 1654 : Blaise Pascal et Pierre de Fermat s'écrivent à propos du partage des mises dans un jeu interrompu, le « problème des partis ». En 1657, Christiaan Huygens publie le premier ouvrage important sur le sujet, consacré aux raisonnements sur les jeux de dés."
+        },
+        {
+          "titre": "Quelques calculs simples",
+          "texte": "Avec un dé à six faces, la probabilité de sortir un 1 deux fois de suite est 1/36, car les deux lancers sont indépendants : on multiplie 1/6 par 1/6. Si le premier dé donne 6, la chance que la somme des deux fasse 12 est de 1/6. Au XXe siècle, Kolmogorov donne à la théorie ses axiomes."
+        }
+      ],
+      "anecdotes": [
+        "Le mot « probabilité » apparaît en 1370, dans une traduction d'Aristote par Oresme, avec le sens de « ce qui est vraisemblable »."
+      ],
+      "wikipedia": "Probabilité"
+    },
+    "source": "D'après Wikipédia — Probabilité"
+  },
+  {
+    "id": "sciences-095",
+    "domain": "sciences",
+    "subtheme": "Mathématiques",
+    "type": "classique",
+    "title": "Le logarithme",
+    "subtitle": "L'outil qui transformait les multiplications en additions",
+    "summary": "Le logarithme répond à une question : quelle puissance faut-il donner à un nombre fixé, la base, pour obtenir un nombre donné ? Le logarithme de 1000 en base 10 vaut 3, car 10 × 10 × 10 = 1000.\nSon intérêt vient d'une propriété : il transforme un produit en somme. John Napier l'introduit en 1614 pour simplifier les calculs longs.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des tables à la règle à calcul",
+          "texte": "Grâce à cette propriété, une multiplication fastidieuse devient une addition, à condition de consulter une table de logarithmes. Pendant trois siècles, ces tables, et la règle à calcul graduée de façon logarithmique, ont servi aux navigateurs, aux ingénieurs et aux scientifiques. Elles ont disparu avec les calculatrices électroniques."
+        },
+        {
+          "titre": "Trois logarithmes courants",
+          "texte": "Le logarithme népérien a pour base le nombre e, environ 2,718, aussi appelé nombre d'Euler. Le logarithme décimal, de base 10, sert à calculer le pH en chimie et à exprimer le décibel. Le logarithme binaire, de base 2, est utile en informatique. Une échelle logarithmique permet de représenter des ordres de grandeur très différents sur un même graphique."
+        }
+      ],
+      "anecdotes": [
+        "Dans une échelle logarithmique, multiplier un nombre par 10 revient à ajouter 1 à son logarithme décimal."
+      ],
+      "wikipedia": "Logarithme"
+    },
+    "source": "D'après Wikipédia — Logarithme"
+  },
+  {
+    "id": "sciences-096",
+    "domain": "sciences",
+    "subtheme": "Mathématiques",
+    "type": "vocabulaire",
+    "title": "Conjecture vs théorème",
+    "subtitle": "Deviner n'est pas démontrer",
+    "summary": "En mathématiques, une conjecture est un énoncé que l'on croit vrai mais que personne n'a encore démontré. Quand elle est démontrée, elle devient un théorème.\nVérifier un énoncé sur d'énormes quantités de cas ne suffit pas : un seul contre-exemple peut tout renverser. D'où l'importance de la démonstration.",
+    "details": {
+      "definition": "Une conjecture est un énoncé que l'on croit fortement vrai, sans qu'on en possède encore la preuve.",
+      "exemple": "Le dernier théorème de Fermat est resté une conjecture jusqu'à la preuve de Wiles en 1994. Celle de Poincaré, posée en 1904, a trouvé sa solution en 2003 grâce à Grigori Perelman.",
+      "confusions": [
+        {
+          "mot": "Théorème",
+          "explication": "Un énoncé qui a été démontré : c'est une vérité établie, pas une simple intuition."
+        },
+        {
+          "mot": "Axiome",
+          "explication": "Un point de départ admis sans démonstration pour bâtir une théorie, alors qu'une conjecture attend d'être prouvée."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Quand l'intuition se trompe",
+          "texte": "La conjecture de Syracuse a été vérifiée pour tous les entiers jusqu'à plus de quatre milliards de milliards, sans être démontrée. Une conjecture de Gauss sur les nombres premiers, confirmée par tous les calculs, a été prouvée fausse. Parmi les conjectures encore ouvertes : celle de Goldbach (1742) et l'hypothèse de Riemann (1859)."
+        }
+      ],
+      "wikipedia": "Conjecture"
+    },
+    "source": "D'après Wikipédia — Conjecture"
+  },
+  {
+    "id": "sciences-097",
+    "domain": "sciences",
+    "subtheme": "Mathématiques",
+    "type": "classique",
+    "title": "La médaille Fields",
+    "subtitle": "Le « Nobel » des mathématiques, remis tous les quatre ans",
+    "summary": "Il n'existe pas de prix Nobel de mathématiques. La médaille Fields, avec le prix Abel, en tient lieu. Elle récompense depuis 1936 quatre mathématiciens au plus, de moins de 40 ans, lors du congrès international des mathématiciens.\nElle porte le nom du Canadien John Charles Fields, qui en a lancé l'idée en 1923 et a légué ses biens pour la financer.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une médaille avec Archimède",
+          "texte": "En or, large de 63,5 mm, elle montre le profil d'Archimède et une devise latine invitant à se dépasser et à conquérir le monde. Au revers figure sa tombe, avec la sphère et le cylindre. Elle s'accompagne de 15 000 dollars canadiens. Le nom du lauréat est gravé sur la tranche."
+        },
+        {
+          "titre": "Des histoires de refus et de boycott",
+          "texte": "En 1966, Alexandre Grothendieck boycotte la cérémonie de Moscou pour protester contre les interventions soviétiques. En 2006, Grigori Perelman refuse sa médaille pour la conjecture de Poincaré. Jean-Pierre Serre reste le plus jeune lauréat (27 ans, en 1954) et Maryam Mirzakhani, en 2014, est la première femme médaillée."
+        }
+      ],
+      "anecdotes": [
+        "En 1998, Andrew Wiles, trop âgé pour la médaille, reçoit une plaque d'argent spéciale pour sa preuve du théorème de Fermat."
+      ],
+      "wikipedia": "Médaille Fields"
+    },
+    "source": "D'après Wikipédia — Médaille Fields"
+  },
+  {
+    "id": "sciences-098",
+    "domain": "sciences",
+    "subtheme": "Mathématiques",
+    "type": "vocabulaire",
+    "title": "Nombre irrationnel",
+    "subtitle": "Un nombre qui n'est pas une fraction",
+    "summary": "Un nombre irrationnel ne peut pas s'écrire comme une fraction de deux entiers. Son développement décimal ne se répète jamais de façon périodique.\nLes premiers connus sont des racines carrées, comme √2, dont l'irrationalité est établie dès l'Antiquité. Le nombre d'or, π et e sont aussi irrationnels.",
+    "details": {
+      "definition": "Un irrationnel est un réel impossible à écrire sous la forme a/b avec a et b entiers ; son développement décimal n'est jamais périodique.",
+      "exemple": "√2, le rapport de la diagonale d'un carré à son côté, est irrationnel ; π et e le sont aussi.",
+      "confusions": [
+        {
+          "mot": "Nombre rationnel",
+          "explication": "Un nombre qui s'écrit comme une fraction d'entiers, comme 3/4, par opposition à l'irrationnel."
+        },
+        {
+          "mot": "Nombre transcendant",
+          "explication": "Un irrationnel qui n'est solution d'aucune équation polynomiale à coefficients rationnels, comme π et e ; √2 est irrationnel sans être transcendant."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un secret pythagoricien ?",
+          "texte": "Les Grecs parlaient de grandeurs incommensurables, sans unité commune. Selon une légende, un pythagoricien, parfois appelé Hippase de Métaponte, aurait été jeté à la mer pour avoir révélé ce secret. Les historiens doutent aujourd'hui que cette découverte ait provoqué une véritable crise des fondements chez les Grecs."
+        }
+      ],
+      "wikipedia": "Nombre irrationnel"
+    },
+    "source": "D'après Wikipédia — Nombre irrationnel"
+  },
+  {
+    "id": "sciences-099",
+    "domain": "sciences",
+    "subtheme": "Grands scientifiques",
+    "type": "personnage",
+    "title": "Henri Poincaré",
+    "subtitle": "Mathématicien, physicien et philosophe français, 1854-1912",
+    "summary": "Né à Nancy, Poincaré est souvent présenté comme l'un des derniers esprits universels. Il a marqué les mathématiques, la physique, l'astronomie et la philosophie des sciences.\nIl fonde la topologie algébrique, découvre le chaos déterministe en étudiant le problème des trois corps, et prépare la relativité restreinte. Il entre à l'Académie française en 1908.",
+    "details": {
+      "epoque": "Fin du XIXe et début du XXe siècle.",
+      "pourquoiCelebre": "Il a ouvert la voie à la théorie du chaos, à la topologie moderne et à certaines idées de la relativité.",
+      "ideesClefs": [
+        "Le problème des trois corps le conduit à ce qu'on appelle aujourd'hui le chaos déterministe.",
+        "La conjecture de Poincaré, énoncée en 1904, a été démontrée en 2003 par Grigori Perelman.",
+        "En 1905, il écrit les équations des transformations de Lorentz, utilisées en relativité restreinte."
+      ],
+      "liens": [
+        {
+          "nom": "Albert Einstein",
+          "relation": "Il a lu La Science et l'Hypothèse, un livre précurseur de la relativité restreinte."
+        },
+        {
+          "nom": "Raymond Poincaré",
+          "relation": "Son cousin, président de la République française."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un parcours brillant, un zéro mémorable",
+          "texte": "Au baccalauréat, il faillit être refusé après un zéro en mathématiques, car il était arrivé en retard et avait mal compris le sujet. Il se rattrape à l'oral. Il sort deuxième de Polytechnique en 1875 et devient ingénieur des mines. Il enseigne à Paris et préside l'Académie des sciences."
+        },
+        {
+          "titre": "Poincaré et Einstein",
+          "texte": "Poincaré approche la relativité par un autre chemin qu'Einstein : il conserve l'éther et le temps absolu pour expliquer des contractions réelles de l'espace et du temps. Einstein, lui, part d'un postulat : la lumière va toujours à la même vitesse. Les historiens débattent encore de leurs rôles respectifs."
+        }
+      ],
+      "anecdotes": [
+        "À cinq ans, la diphtérie le laisse paralysé pendant cinq mois, ce qui le pousse à se plonger dans la lecture."
+      ],
+      "oeuvres": [
+        {
+          "titre": "La Science et l'Hypothèse",
+          "annee": "1902"
+        }
+      ],
+      "wikipedia": "Henri Poincaré"
+    },
+    "source": "D'après Wikipédia — Henri Poincaré"
   }
 ]

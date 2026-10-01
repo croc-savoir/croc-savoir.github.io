@@ -2,7 +2,7 @@
   {
     "id": "geo-001",
     "domain": "geo",
-    "subtheme": "Reliefs & phénomènes",
+    "subtheme": "Relief et milieux",
     "type": "classique",
     "title": "Les volcans",
     "summary": "Un volcan se forme là où du magma provenant des profondeurs de la Terre parvient à remonter jusqu'à la surface.\nOn distingue les volcans effusifs, aux éruptions plutôt calmes, des volcans explosifs, beaucoup plus dangereux.",
@@ -54,7 +54,7 @@
   {
     "id": "geo-002",
     "domain": "geo",
-    "subtheme": "Reliefs & phénomènes",
+    "subtheme": "Relief et milieux",
     "type": "vocabulaire",
     "title": "Isthme",
     "summary": "Un isthme est une bande de terre étroite reliant deux masses continentales, bordée d'eau de chaque côté.\nIl est souvent stratégique pour le commerce, au point qu'on y creuse parfois un canal.",
@@ -87,7 +87,7 @@
   {
     "id": "geo-003",
     "domain": "geo",
-    "subtheme": "Reliefs & phénomènes",
+    "subtheme": "Relief et milieux",
     "type": "classique",
     "title": "Les plaques tectoniques",
     "summary": "La surface de la Terre est découpée en plaques rigides qui se déplacent très lentement les unes par rapport aux autres.\nLeurs mouvements expliquent la formation des montagnes, des volcans et l'essentiel des tremblements de terre.",
@@ -214,7 +214,7 @@
   {
     "id": "geo-006",
     "domain": "geo",
-    "subtheme": "Pays & capitales",
+    "subtheme": "Pays et régions",
     "type": "classique",
     "title": "Le Japon",
     "summary": "Archipel montagneux d'Asie de l'Est, le Japon compte quatre îles principales et plus de mille îles plus petites.\nSa capitale, Tokyo, forme avec sa périphérie l'une des plus vastes agglomérations urbaines du monde.",
@@ -265,7 +265,7 @@
   {
     "id": "geo-007",
     "domain": "geo",
-    "subtheme": "Pays & capitales",
+    "subtheme": "Pays et régions",
     "type": "classique",
     "title": "Le Brésil",
     "summary": "Plus grand pays d'Amérique du Sud, le Brésil abrite l'essentiel de la forêt amazonienne.\nSa capitale, Brasilia, a été construite de toutes pièces à partir de 1956 pour favoriser le développement de l'intérieur du pays.",
@@ -316,7 +316,7 @@
   {
     "id": "geo-008",
     "domain": "geo",
-    "subtheme": "Pays & capitales",
+    "subtheme": "Pays et régions",
     "type": "vocabulaire",
     "title": "Enclave",
     "summary": "Une enclave est un territoire entièrement entouré par un autre pays.\nCette situation particulière crée souvent des relations diplomatiques et économiques très spécifiques avec le pays qui l'entoure.",
@@ -433,7 +433,7 @@
   {
     "id": "geo-011",
     "domain": "geo",
-    "subtheme": "Océans & fleuves",
+    "subtheme": "Océans et fleuves",
     "type": "classique",
     "title": "Le Nil",
     "summary": "Long d'environ 6 650 km, le Nil est souvent considéré comme le plus long fleuve du monde.\nIl traverse plusieurs pays d'Afrique de l'Est et du Nord-Est avant de se jeter dans la Méditerranée.",
@@ -480,7 +480,7 @@
   {
     "id": "geo-012",
     "domain": "geo",
-    "subtheme": "Océans & fleuves",
+    "subtheme": "Océans et fleuves",
     "type": "classique",
     "title": "L'océan Pacifique",
     "summary": "Le Pacifique est le plus vaste et le plus profond des océans du globe, s'étendant entre l'Asie, l'Océanie et les Amériques.\nIl abrite la fosse des Mariannes, le point le plus profond connu des océans.",
@@ -524,7 +524,7 @@
   {
     "id": "geo-013",
     "domain": "geo",
-    "subtheme": "Océans & fleuves",
+    "subtheme": "Océans et fleuves",
     "type": "vocabulaire",
     "title": "Delta vs Estuaire",
     "summary": "Delta et estuaire désignent tous deux l'embouchure d'un fleuve, mais leur forme diffère fortement.\nLe delta s'étale en éventail avec plusieurs bras, tandis que l'estuaire reste un chenal unique évasé.",
@@ -553,7 +553,7 @@
   {
     "id": "geo-014",
     "domain": "geo",
-    "subtheme": "Villes du monde",
+    "subtheme": "Villes",
     "type": "classique",
     "title": "Venise",
     "summary": "Construite sur une lagune de l'Adriatique, Venise est bâtie sur plus d'une centaine de petites îles reliées par des canaux et des ponts.\nAncienne puissance commerciale majeure, elle fait face aujourd'hui à des risques croissants d'inondation.",
@@ -605,7 +605,7 @@
   {
     "id": "geo-015",
     "domain": "geo",
-    "subtheme": "Villes du monde",
+    "subtheme": "Villes",
     "type": "classique",
     "title": "New York",
     "summary": "Plus grande ville des États-Unis, New York s'est développée autour d'un des meilleurs ports naturels du monde.\nSes gratte-ciel, portés par un sous-sol rocheux solide, en ont fait un symbole mondial de la verticalité urbaine.",
@@ -649,7 +649,7 @@
   {
     "id": "geo-016",
     "domain": "geo",
-    "subtheme": "Reliefs & phénomènes",
+    "subtheme": "Relief et milieux",
     "type": "vocabulaire",
     "title": "Péninsule",
     "summary": "Une péninsule est une portion de terre avancée dans la mer, reliée au continent par un seul côté.\nCertaines péninsules sont si vastes qu'elles portent presque le statut de sous-continent.",
@@ -1237,5 +1237,1921 @@
       ]
     },
     "source": "D'après Wikipédia — Capitale"
+  },
+  {
+    "id": "geo-032",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "Les États-Unis",
+    "subtitle": "Pays d'Amérique du Nord, capitale Washington",
+    "summary": "Les États-Unis sont une république fédérale de cinquante États, indépendante depuis la Déclaration du 4 juillet 1776. Leur capitale, Washington, se trouve dans le district de Columbia, une zone qui ne fait partie d'aucun État.\nAvec plus de 341 millions d'habitants et 9,8 millions de km², ils sont le troisième pays le plus peuplé du monde. On y parle surtout l'anglais et la monnaie est le dollar.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un territoire aux paysages extrêmes",
+          "texte": "Quarante-huit États forment un bloc d'un seul tenant, entre l'Atlantique, le Pacifique, le Canada et le Mexique. Deux États sont séparés du bloc : l'Alaska, tout au nord, et Hawaï, un archipel du Pacifique. Le pays compte aussi quatorze territoires insulaires. Plaines, montagnes, déserts, forêts, régions tropicales ou polaires : la diversité est telle que le pays est classé parmi les 17 pays mégadivers."
+        },
+        {
+          "titre": "De la colonie à l'indépendance",
+          "texte": "La colonie anglaise de Virginie naît en 1607. Plus tard, les colons refusent des taxes décidées sans qu'ils soient représentés au Parlement britannique : en 1773, ils jettent du thé à la mer à Boston. La Déclaration d'indépendance, surtout rédigée par Thomas Jefferson, est approuvée en 1776. Le traité de Paris (1783) la fait reconnaître, la Constitution date de 1787 et George Washington devient président en 1789."
+        }
+      ],
+      "anecdotes": [
+        "Le nom « America » vient d'une carte de 1507 de Martin Waldseemüller, qui a féminisé le prénom du Florentin Amerigo Vespucci."
+      ],
+      "wikipedia": "États-Unis"
+    },
+    "source": "D'après Wikipédia — États-Unis"
+  },
+  {
+    "id": "geo-033",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "Le Mexique",
+    "subtitle": "Pays d'Amérique du Nord, capitale Mexico",
+    "summary": "Le Mexique, officiellement les États-Unis mexicains, est une république fédérale de 32 entités, située entre les États-Unis, le Guatemala et le Belize. Sa capitale est Mexico.\nAvec plus de 130 millions d'habitants, c'est l'un des dix pays les plus peuplés du monde et celui qui compte le plus d'hispanophones. Plus de 7 millions de Mexicains parlent aussi une langue autochtone.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Montagnes et volcans",
+          "texte": "Deux chaînes montagneuses, les sierras Madres, l'une à l'ouest et l'autre à l'est, encadrent un vaste plateau central. Au sud, la cordillère Néovolcanique porte les plus hauts sommets : le pic d'Orizaba, point culminant du pays à 5 636 m, mais aussi le Popocatepetl et l'Iztaccíhuatl, tout près de Mexico. Le pays est exposé à des séismes parfois très violents."
+        },
+        {
+          "titre": "Des Aztèques à l'indépendance",
+          "texte": "Olmèques, Mayas, Zapotèques et Aztèques ont fait fleurir de grandes civilisations. Les Espagnols conquièrent le pays en 1521 ; leur base, Mexico-Tenochtitlan, devient la capitale de la Nouvelle-Espagne. Le « Grito de Dolores » de Miguel Hidalgo lance la révolte en 1810 et l'indépendance est acquise en 1821. Entre 1846 et 1848, une guerre contre les États-Unis coûte au Mexique la moitié de son territoire."
+        }
+      ],
+      "anecdotes": [
+        "En 1838-1839, la France bloque les ports mexicains : c'est l'épisode surnommé « guerre des Pâtisseries »."
+      ],
+      "wikipedia": "Mexique"
+    },
+    "source": "D'après Wikipédia — Mexique"
+  },
+  {
+    "id": "geo-034",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "L'Argentine",
+    "subtitle": "Pays d'Amérique du Sud, capitale Buenos Aires",
+    "summary": "L'Argentine est le deuxième plus grand pays d'Amérique du Sud, après le Brésil, et le huitième du monde par sa superficie. Sa capitale est Buenos Aires et on y parle l'espagnol, dans sa version dite rioplatense.\nSon nom vient du latin argentum, « argent » : les premiers explorateurs espéraient trouver des montagnes d'argent près du Río de la Plata, le « fleuve d'argent ».",
+    "details": {
+      "sections": [
+        {
+          "titre": "De la Pampa à la Terre de Feu",
+          "texte": "La Pampa, plaine fertile du centre, est le grenier du pays. À l'ouest, les Andes portent l'Aconcagua, 6 959 m, point culminant de l'Amérique du Sud. Plus au sud, la Patagonie est une steppe froide et ventée, avec des glaciers et des fjords. Le pays se termine par la Terre de Feu, face au cap Horn. Au nord-est, les chutes d'Iguazú comptent parmi les plus spectaculaires du monde."
+        },
+        {
+          "titre": "Indépendance et immigration",
+          "texte": "La Révolution de mai 1810 chasse le vice-roi espagnol de Buenos Aires, et l'indépendance est déclarée le 9 juillet 1816. Après 1880, des millions d'Européens, surtout des Italiens et des Espagnols, arrivent et transforment la culture du pays. Entre 1976 et 1983, une dictature militaire persécute ses opposants, jusqu'à l'élection de Raúl Alfonsín."
+        }
+      ],
+      "anecdotes": [
+        "La Cueva de las Manos, en Patagonie, est couverte de mains peintes au pochoir, réalisées entre 7 300 av. J.-C. et l'an 700."
+      ],
+      "wikipedia": "Argentine"
+    },
+    "source": "D'après Wikipédia — Argentine"
+  },
+  {
+    "id": "geo-035",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "Le Pérou",
+    "subtitle": "Pays d'Amérique du Sud, capitale Lima",
+    "summary": "À l'ouest de l'Amérique du Sud, le Pérou compte environ 34 millions d'habitants. Sa capitale, Lima, est aussi sa plus grande ville. On y parle surtout l'espagnol, mais aussi le quechua et l'aymara.\nSes paysages se découpent en trois : une côte désertique, les hauteurs des Andes et l'Amazonie. C'est là que se dresse le Machu Picchu, ancienne cité inca.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une très ancienne histoire",
+          "texte": "La civilisation de Caral-Supe, entre 2627 et 2100 avant notre ère, est considérée comme la plus ancienne des Amériques. Viennent ensuite Chavín, Nazca ou Mochica, puis les Incas. À partir de 1438, sous Pachacutec, ils bâtissent le plus vaste État de l'Amérique précolombienne, avec un réseau de routes, le quechua comme langue officielle et des messagers appelés « chasquis »."
+        },
+        {
+          "titre": "La conquête espagnole",
+          "texte": "L'Empire inca sort épuisé d'une guerre entre deux frères quand Francisco Pizarro arrive en 1531. Le 16 novembre 1532, à Cajamarca, il capture l'empereur Atahualpa. Le Pérou devient une vice-royauté fondée sur l'argent et l'or. En 1551 naît à Lima l'université San Marcos, la plus ancienne du Nouveau Monde. L'indépendance est proclamée en 1821."
+        }
+      ],
+      "anecdotes": [
+        "La monnaie du pays s'appelle le sol depuis 1991, après avoir été l'inti."
+      ],
+      "wikipedia": "Pérou"
+    },
+    "source": "D'après Wikipédia — Pérou"
+  },
+  {
+    "id": "geo-036",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "L'Islande",
+    "subtitle": "Pays d'Europe du Nord, capitale Reykjavik",
+    "summary": "L'Islande, « pays de glace » en islandais, est une île de l'Atlantique nord d'environ 103 000 km². Sa capitale, Reykjavik, regroupe avec ses environs les deux tiers des habitants.\nAvec 394 324 habitants, elle a la plus faible densité d'Europe. Son Parlement, l'Althing, créé en 930, est considéré comme le plus vieux du monde.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Entre feu et glace",
+          "texte": "L'île se trouve sur la dorsale médio-atlantique, entre les plaques eurasienne et nord-américaine. Elle compte environ 130 volcans actifs, des geysers (le mot est islandais) et assez de chaleur souterraine pour chauffer la plupart des maisons. Plus de 10 % du territoire est couvert de glaciers, dont le Vatnajökull. Le sommet du pays, l'Hvannadalshnjúkur, culmine à 2 109,6 m."
+        },
+        {
+          "titre": "Des Vikings à la république",
+          "texte": "Des Norvégiens s'installent entre 870 et 930 environ, peut-être après des moines irlandais. L'Islande passe sous la couronne norvégienne en 1262, puis danoise en 1536. Le mouvement mené par Jón Sigurðsson obtient l'autonomie en 1874. En 1944, le dernier lien avec le Danemark est coupé et la république est fondée."
+        }
+      ],
+      "anecdotes": [
+        "Un proverbe local conseille, quand la météo déplaît, d'attendre simplement cinq minutes : elle change vite. Grâce au Gulf Stream, le sud et l'ouest ont des hivers plus doux que New York."
+      ],
+      "wikipedia": "Islande"
+    },
+    "source": "D'après Wikipédia — Islande"
+  },
+  {
+    "id": "geo-037",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "La Norvège",
+    "subtitle": "Pays d'Europe du Nord, capitale Oslo",
+    "summary": "La Norvège occupe le nord-ouest de la péninsule scandinave. Sa capitale, Oslo, est aussi sa plus grande ville. Ses 385 199 km² abritent 5 millions et demi d'habitants, avec une des plus faibles densités d'Europe.\nBokmål et nynorsk sont les deux formes écrites du norvégien ; les langues sames ont elles aussi un statut officiel.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Fjords et soleil de minuit",
+          "texte": "Des centaines de fjords, creusés par les glaciers, découpent la côte. Le plus long est le Sognefjord. Le Galdhøpiggen (2 469 m) est le sommet de la Scandinavie. Le cap Nord est célèbre, mais le point le plus septentrional d'Europe est en fait le Knivskjellodden, sur la même île. Au nord du cercle polaire, le soleil ne se couche pas pendant des semaines en été."
+        },
+        {
+          "titre": "Vikings, pétrole et sport",
+          "texte": "Les raids vikings, du IXe au XIe siècle, atteignent les Shetland, l'Islande et le Groenland. Les sagas voient en Harald à la Belle Chevelure le premier roi de toute la Norvège. Après la Seconde Guerre mondiale, le pétrole et le gaz de la côte enrichissent le pays. Il domine aussi les Jeux olympiques d'hiver, avec 148 médailles d'or."
+        }
+      ],
+      "anecdotes": [
+        "Grâce au Gulf Stream, les navires de l'Hurtigruten naviguent toute l'année jusqu'à Kirkenes, alors que la mer Baltique, bien plus au sud, gèle."
+      ],
+      "wikipedia": "Norvège"
+    },
+    "source": "D'après Wikipédia — Norvège"
+  },
+  {
+    "id": "geo-038",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "L'Italie",
+    "subtitle": "Pays d'Europe du Sud, capitale Rome",
+    "summary": "L'Italie est une péninsule au centre de la Méditerranée, rattachée au continent par les Alpes. Elle comprend aussi la Sicile et la Sardaigne, les deux plus vastes îles de la Méditerranée. Sa capitale est Rome et elle compte près de 59 millions d'habitants.\nElle est une république parlementaire depuis le référendum de 1946, qui a aboli la monarchie.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un pays, deux micro-États",
+          "texte": "Elle a quatre voisins terrestres : France, Suisse, Autriche et Slovénie. Elle entoure aussi deux minuscules États indépendants : Saint-Marin et le Vatican. À l'origine, le nom « Italia » ne désignait que le sud de la péninsule, la Calabre actuelle. C'est sous l'empereur Auguste qu'il est étendu jusqu'aux Alpes."
+        },
+        {
+          "titre": "De Rome à l'unité",
+          "texte": "Avant Rome, la péninsule abritait les Étrusques et les colonies grecques de la Grande-Grèce. Selon la légende, Romulus et Rémus fondent Rome au milieu du VIIIe siècle av. J.-C. Au Moyen Âge, les communes et les républiques maritimes font renaître les villes, avant l'humanisme et la Renaissance. L'Italie n'existe comme État unitaire qu'en 1861, grâce au Risorgimento mené par le royaume de Sardaigne."
+        }
+      ],
+      "anecdotes": [
+        "Selon une légende grecque, Héraclès poursuit un taureau échappé jusqu'en Sicile et nomme le pays « Italia », du mot signifiant « bétail »."
+      ],
+      "wikipedia": "Italie"
+    },
+    "source": "D'après Wikipédia — Italie"
+  },
+  {
+    "id": "geo-039",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "Le Royaume-Uni",
+    "subtitle": "Pays d'Europe de l'Ouest, capitale Londres",
+    "summary": "Le Royaume-Uni réunit quatre nations : l'Angleterre, le pays de Galles, l'Écosse et l'Irlande du Nord. Sa capitale, Londres, compte environ 14 millions d'habitants avec son agglomération. C'est une monarchie constitutionnelle : Charles III est roi depuis septembre 2022.\nLe pays compte plus de 69 millions d'habitants et il a quitté l'Union européenne en 2020, après un référendum en 2016.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des îles et des territoires lointains",
+          "texte": "Le pays occupe l'île de Grande-Bretagne, le nord-est de l'île d'Irlande et de nombreuses petites îles, comme les Orcades et les Shetland. Sa seule frontière terrestre est celle qui sépare l'Irlande du Nord de la république d'Irlande. Près de Douvres, le tunnel sous la Manche le relie à la France. Il possède aussi quatorze territoires d'outre-mer, dont Gibraltar, les Bermudes et les îles Malouines."
+        },
+        {
+          "titre": "Une union faite par étapes",
+          "texte": "L'Union des Couronnes de 1603 donne un même monarque à l'Angleterre et à l'Écosse. Le traité d'Union de 1707 crée le royaume de Grande-Bretagne, élargi à l'Irlande en 1801. En 1922, presque toute l'Irlande se sépare, et le nom actuel est adopté officiellement en 1927. Premier pays industrialisé, il a dirigé dans les années 1920 un empire couvrant près d'un quart des terres émergées."
+        }
+      ],
+      "wikipedia": "Royaume-Uni"
+    },
+    "source": "D'après Wikipédia — Royaume-Uni"
+  },
+  {
+    "id": "geo-040",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "L'Allemagne",
+    "subtitle": "Pays d'Europe centrale, capitale Berlin",
+    "summary": "L'Allemagne est un État fédéral de seize Länder, au cœur de l'Europe. Sa capitale est Berlin, même si quelques ministères sont restés à Bonn. Avec environ 83,5 millions d'habitants, c'est le pays qui compte le plus d'habitants dans l'Union européenne.\nElle partage ses frontières avec neuf voisins et touche la mer du Nord et la mer Baltique. Sa langue officielle est l'allemand.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un pays de grandes villes",
+          "texte": "Quatre villes dépassent le million d'habitants : Berlin, Hambourg, Munich et Cologne. La plus grande agglomération est celle de Rhin-Ruhr, avec environ 11 millions de personnes. La capitale financière est Francfort-sur-le-Main, où se trouve le siège de la Banque centrale européenne. Le pays est aussi réputé dans l'automobile, l'aéronautique, la chimie et les machines."
+        },
+        {
+          "titre": "Unification, division, réunification",
+          "texte": "Les États allemands s'unissent en 1871 dans un empire dominé par la Prusse, sous l'impulsion de Bismarck. Vaincue en 1945, l'Allemagne est coupée en deux en 1949 : la RFA à l'ouest, la RDA à l'est. Le mur de Berlin tombe le 9 novembre 1989. La réunification a lieu le 3 octobre 1990, et Berlin redevient la capitale."
+        }
+      ],
+      "anecdotes": [
+        "En français on dit « Allemagne », d'après les Alamans. En polonais ou en russe, le mot vient d'un terme signifiant « muet » : les Slaves ne comprenaient pas la langue de leurs voisins germaniques."
+      ],
+      "wikipedia": "Allemagne"
+    },
+    "source": "D'après Wikipédia — Allemagne"
+  },
+  {
+    "id": "geo-041",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "L'Espagne",
+    "subtitle": "Pays d'Europe du Sud-Ouest, capitale Madrid",
+    "summary": "L'Espagne occupe l'essentiel de la péninsule Ibérique, entre l'Atlantique et la Méditerranée, avec les Pyrénées au nord-est. Sa capitale est Madrid. Le pays couvre 505 990 km².\nIl comprend aussi les îles Baléares, les îles Canaries, au large de l'Afrique, et les villes de Ceuta et Melilla, au Maroc. Après la mort de Franco en 1975, elle redevient une monarchie, aujourd'hui parlementaire.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Au carrefour des civilisations",
+          "texte": "Phéniciens, Grecs et Carthaginois fondent des comptoirs sur les côtes dès le IXe siècle av. J.-C. : Gadès, l'actuelle Cadix, en est un exemple. Les Romains conquièrent la péninsule à partir du IIe siècle av. J.-C. et l'appellent Hispanie. L'Espagne naît ensuite de l'union des couronnes de Castille et d'Aragon au XVe siècle, puis de l'absorption du royaume de Grenade en 1492."
+        },
+        {
+          "titre": "Siècle d'or et dictature",
+          "texte": "Du XVe au début du XIXe siècle, l'Espagne règne sur un immense empire colonial. Son Siècle d'or, aux XVIe et XVIIe siècles, rayonne dans toute l'Europe. La guerre civile (1936-1939) mène à la dictature de Franco, qui dure jusqu'en 1975. La transition démocratique s'accompagne alors d'un élan culturel nommé la Movida."
+        }
+      ],
+      "wikipedia": "Espagne"
+    },
+    "source": "D'après Wikipédia — Espagne"
+  },
+  {
+    "id": "geo-042",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "La Grèce",
+    "subtitle": "Pays d'Europe du Sud-Est, capitale Athènes",
+    "summary": "La Grèce est un pays des Balkans et de la Méditerranée, de près de onze millions d'habitants. Sa capitale est Athènes. Berceau de la démocratie, du théâtre et de la philosophie, elle a marqué toute la culture occidentale.\nElle compte plus de 9 000 îles et îlots, dont près de 200 habités, et 80 % de son territoire est montagneux. Le mont Olympe culmine à 2 917 m.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un pays fait pour la mer",
+          "texte": "La Grèce se compose de la Grèce continentale, du Péloponnèse et d'îles qui représentent un cinquième du territoire. Les côtes s'étirent sur 15 000 km. Aucun point du pays n'est à plus de cent kilomètres de la mer. La plus grande île, la Crète, mesure 8 263 km², tandis que Délos, la plus petite île habitée, n'en fait que 3."
+        },
+        {
+          "titre": "De l'Empire ottoman à l'Europe",
+          "texte": "Après la chute de Constantinople en 1453, la Grèce reste près de quatre siècles sous domination ottomane. L'indépendance est proclamée en 1822 et le royaume est reconnu en 1830. Athènes accueille les premiers Jeux olympiques modernes en 1896, puis ceux de 2004. Après la dictature des Colonels, tombée en 1974, la démocratie revient et le pays rejoint la Communauté européenne en 1981."
+        }
+      ],
+      "wikipedia": "Grèce"
+    },
+    "source": "D'après Wikipédia — Grèce"
+  },
+  {
+    "id": "geo-043",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "Le Maroc",
+    "subtitle": "Pays d'Afrique du Nord, capitale Rabat",
+    "summary": "Le Maroc est un royaume d'Afrique du Nord, de près de 39 millions d'habitants. Sa capitale politique est Rabat, mais sa plus grande ville et sa capitale économique est Casablanca.\nComme l'Espagne et la France, il a des côtes sur la Méditerranée et sur l'Atlantique, ce qui est rare. Sa constitution reconnaît l'identité arabe et amazighe du peuple marocain.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un pays de montagnes",
+          "texte": "Les montagnes couvrent plus des deux tiers du territoire. Quatre chaînes se partagent le relief : le Rif au nord, le Moyen Atlas, le Haut Atlas et l'Anti-Atlas. Plusieurs sommets dépassent 4 000 m. Le djebel Toubkal, dans le Haut Atlas, est le plus haut, avec 4 167 m. Les plaines fertiles s'étendent entre le Rif et le Moyen Atlas."
+        },
+        {
+          "titre": "Un nom, une dynastie",
+          "texte": "En arabe, al-Maghrib signifie « le couchant ». Le mot français « Maroc » vient en revanche du nom de la ville de Marrakech. Le premier État considéré comme marocain, celui des Idrissides, est fondé en 789 par Idris Ier. La dynastie alaouite règne depuis 1666 et le pays devient indépendant en 1956."
+        }
+      ],
+      "anecdotes": [
+        "Le cap Spartel, à l'entrée du détroit de Gibraltar, marque la jonction entre les côtes atlantique et méditerranéenne du pays."
+      ],
+      "wikipedia": "Maroc"
+    },
+    "source": "D'après Wikipédia — Maroc"
+  },
+  {
+    "id": "geo-044",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "L'Afrique du Sud",
+    "subtitle": "Pays d'Afrique australe, trois capitales dont Pretoria",
+    "summary": "Pays d'Afrique australe, l'Afrique du Sud compte plus de 60 millions d'habitants. Elle a trois capitales : Pretoria (administrative), Le Cap (législative) et Bloemfontein (judiciaire). Le Lesotho est un État entièrement enclavé dans son territoire.\nSon surnom de « nation arc-en-ciel », forgé par l'archevêque Desmond Tutu, évoque sa grande diversité.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Montagnes, désert et fleurs",
+          "texte": "Le Drakensberg s'étire sur environ 1 000 km et son plus haut sommet sud-africain est le Mafadi (3 450 m). Le fleuve Orange y prend sa source. Au nord-ouest, le désert du Kalahari déploie ses dunes rouges. Sur la côte ouest, le Namaqualand se couvre de fleurs : plus de 4 000 espèces fleurissent ensemble entre la mi-août et la mi-septembre."
+        },
+        {
+          "titre": "Apartheid et richesses",
+          "texte": "Le pays devient une république le 31 mai 1961, après avoir été l'Union d'Afrique du Sud. Le régime de l'apartheid dure de 1948 à 1991. Le sous-sol est très riche en or, diamants, uranium et charbon. L'Afrique du Sud est l'une des plus grandes économies du continent, mais les inégalités de revenus y restent parmi les plus élevées du monde."
+        }
+      ],
+      "anecdotes": [
+        "Il neige environ une fois tous les dix ans à Johannesburg, mais presque jamais à Pretoria, pourtant à seulement 60 kilomètres."
+      ],
+      "wikipedia": "Afrique du Sud"
+    },
+    "source": "D'après Wikipédia — Afrique du Sud"
+  },
+  {
+    "id": "geo-045",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "Le Nigeria",
+    "subtitle": "Pays d'Afrique de l'Ouest, capitale Abuja",
+    "summary": "Situé sur le golfe de Guinée, le Nigeria appartient à l'Afrique de l'Ouest. Sa capitale est Abuja, mais sa métropole la plus connue est Lagos. Avec plus de 235 millions d'habitants, il a la plus forte population du continent.\nAncienne colonie britannique, il est indépendant depuis 1960. On y parle anglais et de nombreuses langues locales, et sa population est à peu près également musulmane et chrétienne.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Du Sahel au delta",
+          "texte": "Le sud a un climat équatorial, le centre est une région de savane et de plateaux, le nord touche le Sahel, en bordure du Sahara. Le fleuve Niger et son affluent la Bénoué se rejoignent dans le pays avant de former le delta du Niger, l'un des plus grands de la planète (environ 70 000 km²). Le point culminant est le Chappal Waddi, à 2 419 m."
+        },
+        {
+          "titre": "Un géant culturel",
+          "texte": "Son industrie du cinéma rivalise en nombre de films avec Hollywood et Bollywood. Sa musique, l'afrobeats, brille dans les classements internationaux. En 1986, l'écrivain Wole Soyinka y a obtenu le prix Nobel de littérature. Le pays a aussi connu la guerre du Biafra, de 1967 à 1970, puis plusieurs régimes militaires."
+        }
+      ],
+      "wikipedia": "Nigeria"
+    },
+    "source": "D'après Wikipédia — Nigeria"
+  },
+  {
+    "id": "geo-046",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "L'Indonésie",
+    "subtitle": "Pays d'Asie du Sud-Est, capitale Jakarta",
+    "summary": "L'Indonésie est le plus grand archipel du monde, avec 17 000 îles, dont 922 habitées. Sa capitale est Jakarta, et une nouvelle capitale, Nusantara, est en construction.\nAvec environ 285 millions d'habitants, il se classe au quatrième rang mondial pour la population. Plus de 600 groupes ethniques y parlent plus de 700 langues régionales, mais la langue nationale est l'indonésien, une forme de malais.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une île très peuplée",
+          "texte": "Java détient le record mondial de population pour une île et regroupe plus de la moitié des Indonésiens. L'archipel est le premier pays musulman du monde par le nombre de croyants. Il a aussi de vastes zones sauvages, d'où sa grande biodiversité. Les plus anciennes peintures rupestres connues, vieilles de 40 000 à 60 000 ans, se trouvent à Sulawesi et à Bornéo."
+        },
+        {
+          "titre": "Carrefour du commerce",
+          "texte": "Dès le Ier siècle, l'archipel commerce avec l'Inde et la Chine. Au VIIe siècle, Sriwijaya contrôle le détroit de Malacca. Les Portugais prennent Malacca en 1511, puis les Néerlandais s'imposent à partir du XVIIe siècle. Soekarno et Mohammad Hatta proclament l'indépendance le 17 août 1945."
+        }
+      ],
+      "anecdotes": [
+        "Les fossiles de l'homme de Java, un Homo erectus, suggèrent que l'archipel est peuplé depuis environ 2 millions d'années."
+      ],
+      "wikipedia": "Indonésie"
+    },
+    "source": "D'après Wikipédia — Indonésie"
+  },
+  {
+    "id": "geo-047",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "La Corée du Sud",
+    "subtitle": "Pays d'Asie de l'Est, capitale Séoul",
+    "summary": "La Corée du Sud occupe la moitié sud de la péninsule coréenne. Au nord, une zone démilitarisée la sépare de la Corée du Nord. Sa capitale est Séoul. Le pays compte environ 52 millions d'habitants, et environ une personne sur deux habite autour de Séoul.\nÀ partir des années 1960, sa croissance économique devient l'une des plus rapides au monde.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un pays de montagnes",
+          "texte": "Le territoire est montagneux à 70 %, avec des reliefs orientés nord-sud qui compliquent les liaisons est-ouest. Le point culminant est le Hallasan, un volcan de l'île de Jeju (1 950 m). Sur le continent, le Jirisan atteint 1 915 m. La mer Jaune borde l'ouest, la mer du Japon l'est, et le détroit de Corée le sud."
+        },
+        {
+          "titre": "Division et miracle économique",
+          "texte": "Après 1945, la Corée est divisée en deux zones. La république de Corée naît au Sud en août 1948. La guerre de Corée (1950-1953) détruit l'économie, mais le pays devient ensuite l'un des quatre dragons asiatiques. Aujourd'hui, la Hallyu, sa culture populaire (musique, séries, cinéma), rayonne dans le monde entier."
+        }
+      ],
+      "anecdotes": [
+        "Le nom de l'ancien royaume, Joseon, est souvent traduit à tort par « Pays du matin calme » : il signifie plutôt « pays du matin clair et frais »."
+      ],
+      "wikipedia": "Corée du Sud"
+    },
+    "source": "D'après Wikipédia — Corée du Sud"
+  },
+  {
+    "id": "geo-048",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "La Nouvelle-Zélande",
+    "subtitle": "Pays d'Océanie, capitale Wellington",
+    "summary": "La Nouvelle-Zélande, appelée Aotearoa en maori, est un pays insulaire de l'Océanie. Elle compte deux grandes îles, celles du Nord et du Sud, et environ 700 petites. Sa capitale est Wellington, mais sa plus grande ville est Auckland.\nSes langues officielles sont l'anglais, le maori et la langue des signes, et elle compte plus de 5 millions d'habitants.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Les Alpes du Sud",
+          "texte": "Les Alpes du Sud traversent l'île du Sud dans toute sa longueur et comptent dix-huit sommets de plus de 3 000 m. Le plus haut est l'Aoraki, ou mont Cook, à 3 724 m. Il mesurait 3 754 m avant un glissement de terrain, en 1991, qui a rogné son sommet. Au sud, l'île Stewart est la troisième grande île du pays."
+        },
+        {
+          "titre": "Dernière terre peuplée",
+          "texte": "Les Polynésiens s'installent vers 1280-1350 et développent la culture maorie. Abel Tasman est le premier Européen à voir les îles, en 1642. Le traité de Waitangi, signé le 6 février 1840 entre Britanniques et chefs maoris, proclame la souveraineté britannique. Le pays obtient sa pleine souveraineté dans la première moitié du XXe siècle, confirmée en 1947."
+        }
+      ],
+      "anecdotes": [
+        "Le nom vient de Nova Zeelandia, donné par des cartographes néerlandais en l'honneur de la province de Zélande, aux Pays-Bas. James Cook l'a ensuite anglicisé."
+      ],
+      "wikipedia": "Nouvelle-Zélande"
+    },
+    "source": "D'après Wikipédia — Nouvelle-Zélande"
+  },
+  {
+    "id": "geo-049",
+    "domain": "geo",
+    "subtheme": "Pays et régions",
+    "type": "classique",
+    "title": "Monaco",
+    "subtitle": "Cité-État d'Europe de l'Ouest, capitale Monaco",
+    "summary": "Monaco est une principauté de 2,08 km² au bord de la Méditerranée, non loin de Nice. Seul le Vatican est plus petit, et aucun pays n'est plus densément peuplé.\nSa langue officielle est le français. Sa monnaie est l'euro, mais il reste hors de l'Union européenne. Le prince Albert II règne depuis 2005.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un territoire gagné sur la mer",
+          "texte": "Monaco s'étire sur 4 100 m le long de la mer, sur une largeur de 350 à 1 050 m. Entouré de communes françaises, il a pourtant un accès direct à la mer. Depuis 1865, des remblais ont gagné environ 40 hectares : le quartier de Fontvieille, les chantiers du Larvotto, puis un nouveau quartier inauguré en 2024. Les grands immeubles y sont presque tous résidentiels."
+        },
+        {
+          "titre": "La dynastie Grimaldi",
+          "texte": "Dès 1297, Monaco est relativement autonome. Il dépend alors de la république de Gênes, où les Grimaldi comptent parmi les grandes familles. En 1861, un traité avec la France lui garantit la souveraineté. Monaco devient une monarchie constitutionnelle en 1911. Le Grand Prix de Formule 1, le Masters de tennis de Monte-Carlo et le casino y attirent chaque année de nombreux visiteurs."
+        }
+      ],
+      "wikipedia": "Monaco"
+    },
+    "source": "D'après Wikipédia — Monaco"
+  },
+  {
+    "id": "geo-050",
+    "domain": "geo",
+    "subtheme": "Relief et milieux",
+    "type": "classique",
+    "title": "Les Alpes",
+    "subtitle": "Chaîne de montagnes d'Europe, de la Méditerranée au Danube",
+    "summary": "Les Alpes forment une barrière d'environ 1 200 kilomètres entre la Méditerranée et le Danube. Elles traversent la France, l'Italie, la Suisse, l'Autriche, l'Allemagne, la Slovénie, le Liechtenstein et Monaco.\nElles culminent au mont Blanc, à 4 806 mètres, et comptent 82 sommets de plus de 4 000 mètres. Environ treize millions de personnes vivent dans cet arc montagneux.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une montagne née d'une collision",
+          "texte": "Les Alpes sont nées du rapprochement des plaques africaine et européenne. Elles se soulèvent encore : l'ouest de l'arc monte de près de 2,5 millimètres par an, notamment parce que l'érosion et la fonte des glaciers allègent la chaîne. Elles se divisent en Alpes occidentales, centrales et orientales."
+        },
+        {
+          "titre": "Un château d'eau menacé",
+          "texte": "La hauteur des Alpes sépare un nord humide d'un sud sec en Europe, et leurs neiges alimentent les rivières l'été. Mais les glaciers alpins ont perdu 20 à 30 % de leur volume depuis 1980, et le recul s'accélère. Elles risquent de perdre leur fonction de réservoir d'eau pour une grande partie du continent."
+        }
+      ],
+      "anecdotes": [
+        "Il a fallu une quarantaine d'années pour qu'un traité international protège la chaîne : la Convention alpine, signée en 1991."
+      ],
+      "wikipedia": "Alpes"
+    },
+    "source": "D'après Wikipédia — Alpes"
+  },
+  {
+    "id": "geo-051",
+    "domain": "geo",
+    "subtheme": "Relief et milieux",
+    "type": "classique",
+    "title": "Le mont Blanc",
+    "subtitle": "Point culminant des Alpes, entre France et Italie",
+    "summary": "Le mont Blanc s'élève à 4 806 mètres entre la Haute-Savoie et la Vallée d'Aoste. C'est le plus haut sommet des Alpes et de l'Europe occidentale, surnommé « toit de l'Europe ».\nSa première ascension connue date du 8 août 1786, par Jacques Balmat et le docteur Michel-Gabriel Paccard. Aujourd'hui, des itinéraires très fréquentés mènent au sommet, mais ils exigent une vraie préparation.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un sommet qui bouge",
+          "texte": "Le point le plus haut est une crête de neige posée sur un sommet rocheux situé à 4 792 mètres. Le vent la sculpte comme une dune : l'altitude varie donc selon les saisons. Depuis 2001, des géomètres montent la mesurer tous les deux ans. En 2023, ils ont relevé 4 805,59 mètres."
+        },
+        {
+          "titre": "De la « montagne Maudite » au mont Blanc",
+          "texte": "Autrefois, on parlait de « montagne Maudite », car elle restait couverte de neige et de glace et faisait peur. Le nom « mont Blanc » apparaît sur des croquis de 1742, puis sur une carte de la Suisse en 1778. La frontière exacte entre la France et l'Italie à son sommet reste discutée."
+        }
+      ],
+      "wikipedia": "Mont Blanc"
+    },
+    "source": "D'après Wikipédia — Mont Blanc"
+  },
+  {
+    "id": "geo-052",
+    "domain": "geo",
+    "subtheme": "Relief et milieux",
+    "type": "classique",
+    "title": "La cordillère des Andes",
+    "subtitle": "Chaîne continentale la plus longue du monde, en Amérique du Sud",
+    "summary": "Les Andes bordent l'ouest de l'Amérique du Sud sur environ 7 150 kilomètres : aucune autre chaîne continentale n'est aussi longue. Elles traversent sept pays, du Venezuela à l'Argentine, et culminent à l'Aconcagua (6 962 mètres).\nLeur altitude moyenne atteint 4 000 mètres. Elles appartiennent à la zone volcanique qui encercle le Pacifique : beaucoup de sommets sont des volcans.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un toit pour les villes",
+          "texte": "Trois capitales battent des records d'altitude dans les Andes : La Paz, Quito et Bogota. Certaines villes grimpent encore plus haut, comme Potosi à 4 070 mètres. Entre deux branches de la chaîne, au centre, s'étend un vaste plateau : l'Altiplano."
+        },
+        {
+          "titre": "Le point le plus éloigné du centre de la Terre",
+          "texte": "Le Chimborazo, en Équateur, culmine à 6 267 mètres. Il n'est pas le plus haut du monde, mais, comme la Terre est renflée à l'équateur, son sommet est plus loin du centre de la Terre que tout autre point. Côté est, de grands fleuves descendent des Andes, dont l'Amazone, née au Pérou."
+        }
+      ],
+      "anecdotes": [
+        "Le mot « Andes » vient du quechua anti, qui désignait les habitants d'une région du nord-est de Cuzco."
+      ],
+      "wikipedia": "Cordillère des Andes"
+    },
+    "source": "D'après Wikipédia — Cordillère des Andes"
+  },
+  {
+    "id": "geo-053",
+    "domain": "geo",
+    "subtheme": "Relief et milieux",
+    "type": "classique",
+    "title": "Le Kilimandjaro",
+    "subtitle": "Plus haut sommet d'Afrique, en Tanzanie",
+    "summary": "Le Kilimandjaro est un massif volcanique du nord-est de la Tanzanie, formé de trois volcans : le Shira, le Mawenzi et le Kibo. Le pic Uhuru, sur le Kibo, culmine à 5 891,8 mètres : c'est le toit de l'Afrique.\nIl surgit seul au-dessus de la savane, avec un dénivelé de 4 800 à 5 200 mètres : c'est la plus haute montagne isolée du monde.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une conquête tardive",
+          "texte": "Le missionnaire allemand Johannes Rebmann le fait connaître aux Européens en 1848, ce qui surprend beaucoup les savants : une montagne enneigée sous l'équateur ! En 1889, Hans Meyer et Ludwig Purtscheller atteignent le sommet avec leur guide Yohanas Kinyala Lauwo."
+        },
+        {
+          "titre": "Des glaces qui reculent",
+          "texte": "Sa calotte glaciaire sommitale fond de plus en plus vite depuis le début du XXe siècle. La baisse des chutes de neige est souvent attribuée au réchauffement, mais la déforestation joue aussi un rôle majeur. Le sommet s'appelle Uhuru, « liberté » en swahili, depuis l'indépendance du Tanganyika en 1961."
+        }
+      ],
+      "anecdotes": [
+        "Entre 1889 et 1918, le sommet portait le nom de Kaiser-Wilhelm-Spitze, en l'honneur de l'empereur Guillaume II."
+      ],
+      "wikipedia": "Kilimandjaro"
+    },
+    "source": "D'après Wikipédia — Kilimandjaro"
+  },
+  {
+    "id": "geo-054",
+    "domain": "geo",
+    "subtheme": "Relief et milieux",
+    "type": "classique",
+    "title": "Le Grand Canyon",
+    "subtitle": "Gorge du Colorado, dans le nord de l'Arizona",
+    "summary": "Le Grand Canyon est une gorge creusée par le fleuve Colorado dans le nord de l'Arizona. Elle s'étire sur environ 450 kilomètres, pour une profondeur moyenne de 1 300 mètres et jusqu'à plus de 1 600 mètres.\nLe parc national a été fondé en 1919 et le site est inscrit au patrimoine mondial de l'UNESCO depuis 1979.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un livre de géologie à ciel ouvert",
+          "texte": "Une quarantaine de couches de roches sont visibles sur les parois. Les plus anciennes, au fond, ont environ 1,7 milliard d'années. Ces strates retracent le passé géologique de l'Amérique du Nord : mers qui avancent et reculent, montagnes érodées, coulées de lave."
+        },
+        {
+          "titre": "Spectaculaire, mais pas le plus profond",
+          "texte": "Le Grand Canyon n'est pas le canyon le plus profond de la planète : au Pérou, celui de Cotahuasi atteint 3 550 mètres de profondeur. Mais il est célèbre pour ses points de vue et pour la lecture de ses roches. Le Colorado y compte environ une centaine de rapides."
+        }
+      ],
+      "wikipedia": "Grand Canyon"
+    },
+    "source": "D'après Wikipédia — Grand Canyon"
+  },
+  {
+    "id": "geo-055",
+    "domain": "geo",
+    "subtheme": "Relief et milieux",
+    "type": "classique",
+    "title": "La mer Morte",
+    "subtitle": "Lac salé du Proche-Orient, point émergé le plus bas du globe",
+    "summary": "La mer Morte est un lac salé situé entre Israël, la Jordanie et la Cisjordanie. Sa surface se trouve à plus de 400 mètres sous le niveau de la mer : aucune terre émergée n'est plus basse.\nSon eau contient environ 27,5 % de sels, contre 2 à 4 % pour la mer. Aucun poisson ne peut y vivre, d'où son nom.",
+    "details": {
+      "sections": [
+        {
+          "titre": "On y flotte",
+          "texte": "L'eau y est si dense qu'un être humain flotte bien plus facilement qu'ailleurs. Il ne faut pourtant pas l'avaler : à cause de sa concentration en sels, elle est très toxique. Seuls des organismes microscopiques, comme des bactéries et des archées, y survivent."
+        },
+        {
+          "titre": "Un lac qui disparaît",
+          "texte": "Les barrages sur le Jourdain et ses affluents ont réduit les apports d'eau. Depuis les années 1970, la mer Morte a perdu un tiers de sa superficie, et son niveau baisse d'environ un mètre par an depuis les années 2000. Elle est désormais menacée de disparition."
+        }
+      ],
+      "wikipedia": "Mer Morte"
+    },
+    "source": "D'après Wikipédia — Mer Morte"
+  },
+  {
+    "id": "geo-056",
+    "domain": "geo",
+    "subtheme": "Relief et milieux",
+    "type": "classique",
+    "title": "Le désert d'Atacama",
+    "subtitle": "Désert côtier du nord du Chili",
+    "summary": "Le désert d'Atacama s'étire entre le Pacifique et les Andes, dans le nord du Chili. Aucun autre désert chaud n'est aussi aride : certains endroits restent plus de 400 ans sans pluie.\nÀ Arica, il tombe en moyenne 0,8 millimètre de pluie par an. Il manque d'eau depuis au moins sept millions d'années.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Pourquoi si sec ?",
+          "texte": "Trois causes se combinent : un anticyclone qui bloque les nuages, le courant froid de Humboldt qui refroidit l'air marin et l'empêche de former de la pluie, et la cordillère des Andes qui arrête les nuages venus de l'est. Sur la côte, une brume épaisse, la camanchaca, apporte de l'humidité sans pluie."
+        },
+        {
+          "titre": "Le paradis des astronomes",
+          "texte": "Air sec, altitude et très peu de lumière parasite : le ciel y est d'une clarté exceptionnelle. Plusieurs observatoires internationaux s'y sont installés, dont celui du Cerro Paranal et son Très Grand Télescope. La NASA y a même testé un robot destiné à explorer Mars."
+        }
+      ],
+      "wikipedia": "Désert d'Atacama"
+    },
+    "source": "D'après Wikipédia — Désert d'Atacama"
+  },
+  {
+    "id": "geo-057",
+    "domain": "geo",
+    "subtheme": "Relief et milieux",
+    "type": "classique",
+    "title": "Le Groenland",
+    "subtitle": "Plus grande île du monde, territoire autonome du Danemark",
+    "summary": "Aucune île n'est plus vaste que le Groenland, avec plus de 2 millions de kilomètres carrés. Il fait partie du royaume du Danemark et sa capitale est Nuuk.\nEnviron 80 % de son territoire est recouvert par un inlandsis, une immense calotte de glace épaisse de près de trois kilomètres au centre.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une « terre verte » toute blanche",
+          "texte": "Selon les sagas islandaises, Erik le Rouge, chassé d'Islande, explora cette terre glacée. Il l'aurait nommée Grœnland, « terre verte », pour attirer des colons. En groenlandais, le pays s'appelle Kalaallit Nunaat, la « terre des Kalaallit »."
+        },
+        {
+          "titre": "Canyon caché et glace qui fond",
+          "texte": "Sous la glace, un canyon d'au moins 750 kilomètres de long, découvert en 2013 par satellite, serait le plus grand du monde. À Ilulissat se détachent des icebergs géants de l'hémisphère nord : l'un d'eux aurait heurté le Titanic en 1912. Entre 1992 et 2018, environ 3 900 milliards de tonnes de glace ont fondu."
+        }
+      ],
+      "wikipedia": "Groenland"
+    },
+    "source": "D'après Wikipédia — Groenland"
+  },
+  {
+    "id": "geo-058",
+    "domain": "geo",
+    "subtheme": "Relief et milieux",
+    "type": "classique",
+    "title": "L'Arctique",
+    "subtitle": "Région qui entoure le pôle Nord",
+    "summary": "L'Arctique est la région qui entoure le pôle Nord, à l'intérieur et autour du cercle polaire arctique. Elle s'oppose à l'Antarctique, au pôle Sud. Son nom vient du grec arktos, « ours », en référence aux constellations de la Grande et de la Petite Ourse.\nHuit pays la bordent et siègent au Conseil de l'Arctique, dont la Norvège, la Russie, les États-Unis et le Canada.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Soleil de minuit et nuit polaire",
+          "texte": "Le cercle polaire arctique marque la limite au-delà de laquelle un jour ou une nuit peut durer vingt-quatre heures, lors des solstices. La région connaît aussi les aurores boréales. Ses paysages mêlent toundra, banquise, fjords et calottes glaciaires."
+        },
+        {
+          "titre": "Peuples et réchauffement",
+          "texte": "Samis (Europe), Inuits (Amérique du Nord) et peuples du nord de la Russie y vivent traditionnellement de chasse, de pêche et d'élevage de rennes. Aujourd'hui, l'Arctique se réchauffe deux fois plus vite que la moyenne mondiale. Le pergélisol, sol gelé en permanence, peut atteindre 600 mètres de profondeur en Sibérie."
+        }
+      ],
+      "wikipedia": "Arctique"
+    },
+    "source": "D'après Wikipédia — Arctique"
+  },
+  {
+    "id": "geo-059",
+    "domain": "geo",
+    "subtheme": "Relief et milieux",
+    "type": "classique",
+    "title": "Le mont Fuji",
+    "subtitle": "Volcan et point culminant du Japon",
+    "summary": "Le mont Fuji, à 3 776 mètres, est le point culminant du Japon. Ce volcan à la forme de cône presque parfait se dresse au sud-ouest de Tokyo, sur l'île de Honshū, et se voit par beau temps depuis la capitale.\nC'est un volcan toujours considéré comme actif, dont la dernière éruption certaine remonte à la fin de 1707.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une montagne sacrée et inspirante",
+          "texte": "Shintoïstes comme bouddhistes vénèrent le Fuji, et son ascension est très populaire. Il a inspiré de nombreux artistes depuis des siècles. L'UNESCO l'a inscrit au patrimoine mondial le 22 juin 2013, comme « lieu sacré et source d'inspiration artistique »."
+        },
+        {
+          "titre": "Pourquoi pas « Fujiyama » ?",
+          "texte": "En japonais, « Fujisan » signifie déjà « mont Fuji », car san désigne ici la montagne. Dire « mont Fujiyama » est donc un pléonasme. Entre 300 et 400 montagnes japonaises sont surnommées « Fuji » à cause de leur ressemblance avec lui."
+        }
+      ],
+      "wikipedia": "Mont Fuji"
+    },
+    "source": "D'après Wikipédia — Mont Fuji"
+  },
+  {
+    "id": "geo-060",
+    "domain": "geo",
+    "subtheme": "Relief et milieux",
+    "type": "vocabulaire",
+    "title": "Fjord",
+    "subtitle": "Vallée glaciaire envahie par la mer",
+    "summary": "Un fjord est un bras de mer étroit, aux côtés très escarpés, qui s'enfonce dans les terres. C'est une ancienne vallée creusée par un glacier, puis envahie par la mer quand la glace a reculé.\nLes plus grandes concentrations se trouvent sur la côte ouest de la Norvège, mais aussi en Islande, au Groenland, en Nouvelle-Zélande ou au sud du Chili.",
+    "details": {
+      "definition": "Vallée glaciaire profonde, qui s'avance dans les terres et que la mer a envahie après le retrait du glacier.",
+      "exemple": "Le Sognefjord, en Norvège, long de 204 kilomètres et profond de 1 308 mètres, est surnommé le « roi des fjords ».",
+      "confusions": [
+        {
+          "mot": "Förde",
+          "explication": "Bras de mer bas et peu profond du nord de l'Allemagne ou du Jutland, creusé autrement que les vrais fjords."
+        },
+        {
+          "mot": "Bouches de Kotor",
+          "explication": "Souvent présentées comme un fjord, mais ce sont un canyon immergé, sans lien avec des glaciers."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Pourquoi si profond ?",
+          "texte": "Le glacier a surcreusé le fond de la vallée sous le niveau de la mer. À l'embouchure, un seuil sous-marin marque l'ancien front du glacier, là où la glace était la plus mince et creusait le moins. Les eaux y sont froides et calmes, et l'eau douce des rivières reste en surface."
+        }
+      ],
+      "wikipedia": "Fjord"
+    },
+    "source": "D'après Wikipédia — Fjord"
+  },
+  {
+    "id": "geo-061",
+    "domain": "geo",
+    "subtheme": "Relief et milieux",
+    "type": "vocabulaire",
+    "title": "Glacier",
+    "subtitle": "Masse de glace qui s'écoule lentement",
+    "summary": "Un glacier est une masse de glace formée par le tassement de couches de neige. Écrasée par son propre poids, la neige expulse son air et se transforme en glace, qui s'écoule lentement le long d'une pente.\nLes glaciers contiennent 60 à 70 % de l'eau douce de la planète. On en compte environ 300 000 sur Terre, et leur recul s'accélère.",
+    "details": {
+      "definition": "Masse de glace née de l'accumulation et du tassement de la neige, qui s'écoule sous l'effet de la gravité.",
+      "exemple": "Dans les Alpes, le glacier des Bossons descend du versant nord du mont Blanc jusqu'à la vallée de Chamonix.",
+      "confusions": [
+        {
+          "mot": "Inlandsis",
+          "explication": "Calotte glaciaire géante, comme celles de l'Antarctique et du Groenland, qui recouvre un continent ou une île."
+        },
+        {
+          "mot": "Iceberg",
+          "explication": "Bloc de glace détaché d'un glacier, qui flotte en mer."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Accumulation et fonte",
+          "texte": "Dans la zone d'accumulation, la neige se transforme en glace. Plus bas, dans la zone d'ablation, la fonte l'emporte jusqu'au front du glacier. Les bulles d'air emprisonnées dans la glace gardent la trace de l'atmosphère passée : les forages, comme à Vostok en Antarctique, permettent de la lire sur des centaines de milliers d'années."
+        }
+      ],
+      "wikipedia": "Glacier"
+    },
+    "source": "D'après Wikipédia — Glacier"
+  },
+  {
+    "id": "geo-062",
+    "domain": "geo",
+    "subtheme": "Relief et milieux",
+    "type": "vocabulaire",
+    "title": "Oasis",
+    "subtitle": "Zone cultivée dans un désert, grâce à l'eau",
+    "summary": "Une oasis est une zone de végétation au milieu d'un désert, aménagée par les humains grâce à une source d'eau. Le mot vient du grec ancien oasis.\nPour les spécialistes, ce n'est pas un simple coin vert naturel : c'est un espace cultivé, irrigué et entretenu, souvent une palmeraie, associé à un village.",
+    "details": {
+      "definition": "Association d'un établissement humain et d'une zone cultivée, irriguée, en milieu désertique ou semi-désertique.",
+      "exemple": "Les oasis de Siwa, en Égypte, ou de Tozeur, en Tunisie.",
+      "confusions": [
+        {
+          "mot": "Point d'eau",
+          "explication": "L'eau est nécessaire, mais ne suffit pas : le Kalahari a de l'eau et pas d'oasis, car il faut le travail des humains."
+        },
+        {
+          "mot": "Palmeraie",
+          "explication": "Partie cultivée de l'oasis, souvent composée de palmiers dattiers, mais l'oasis comprend aussi l'habitat."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Trois étages de cultures",
+          "texte": "Dans une oasis typique, les palmiers dattiers forment l'étage le plus haut et maintiennent la fraîcheur. En dessous poussent des arbres fruitiers, puis, à l'ombre, des légumes, du fourrage ou des céréales. Au moins dix millions de personnes vivent grâce à ce système, et les oasis du Sahara n'occupent qu'un millième de sa surface."
+        }
+      ],
+      "wikipedia": "Oasis"
+    },
+    "source": "D'après Wikipédia — Oasis"
+  },
+  {
+    "id": "geo-063",
+    "domain": "geo",
+    "subtheme": "Relief et milieux",
+    "type": "vocabulaire",
+    "title": "Fuseau horaire",
+    "subtitle": "Zone du globe qui partage la même heure légale",
+    "summary": "Chaque région du globe suit une heure légale commune : c'est un fuseau horaire. On le note par rapport au temps universel coordonné : UTC+1, UTC-5, etc.\nLe décalage compte le plus souvent des heures entières, avec quelques exceptions. L'Inde est à UTC+5:30 et le Népal à UTC+5:45.",
+    "details": {
+      "definition": "Zone de la surface terrestre où l'heure légale est la même partout.",
+      "exemple": "Quand il est 12 h en temps universel, il est 7 h à New York, 13 h à Stockholm et 21 h à Séoul en hiver.",
+      "confusions": [
+        {
+          "mot": "Heure d'été",
+          "explication": "Décalage saisonnier de l'heure légale, qui s'ajoute au fuseau pour économiser l'énergie."
+        },
+        {
+          "mot": "GMT",
+          "explication": "Temps moyen de Greenwich, établi en 1675 et devenu la référence historique, avant le temps universel coordonné."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Né du chemin de fer",
+          "texte": "Avant les fuseaux, chaque compagnie américaine avait son heure : la gare de Pittsburgh en affichait six ! Le Canadien Sandford Fleming proposa dès 1876 de diviser le monde en 24 fuseaux. Les États-Unis adoptèrent leurs zones le 18 novembre 1883, « journée des deux midis »."
+        },
+        {
+          "titre": "Des exceptions étonnantes",
+          "texte": "La Chine, pourtant très étendue, applique une seule heure, UTC+8. À l'inverse, du fait de l'écart de 26 heures entre UTC-12 et UTC+14, trois dates coexistent chaque jour pendant deux heures sur la planète."
+        }
+      ],
+      "wikipedia": "Fuseau horaire"
+    },
+    "source": "D'après Wikipédia — Fuseau horaire"
+  },
+  {
+    "id": "geo-064",
+    "domain": "geo",
+    "subtheme": "Relief et milieux",
+    "type": "date",
+    "title": "1883 : l'éruption du Krakatoa",
+    "subtitle": "Éruption volcanique cataclysmique en Indonésie",
+    "summary": "En août 1883, le volcan Krakatoa, dans le détroit de la Sonde, entre Java et Sumatra, explose. L'île disparaît presque entièrement.\nL'éruption provoque des tsunamis qui font des dizaines de milliers de victimes. Son bruit est le plus fort jamais rapporté dans l'histoire, et ses cendres colorent le ciel jusqu'en Europe.",
+    "details": {
+      "contexte": "Le Krakatoa est une île volcanique de neuf kilomètres sur cinq, dormante depuis 1681. Elle se réveille le 20 mai 1883 par des panaches de vapeur et de cendres.",
+      "causes": "Plusieurs théories s'affrontent : effondrement du volcan, eau de mer qui envahit la chambre magmatique, ou arrivée soudaine de magma chaud. Dans tous les cas, la pression accumulée a fini par exploser.",
+      "deroulement": "Le paroxysme commence le 26 août 1883 et culmine le 27 à 10 h 02, avec l'explosion la plus violente. Une vague de quarante-six mètres frappe Merak, et l'onde de choc fait plusieurs fois le tour du globe.",
+      "consequences": "L'île a presque entièrement disparu, ne laissant que le cône de Rakata. Les nuages et ciels rougeoyants visibles en Europe auraient inspiré Le Cri d'Edvard Munch. En 1927, un nouveau volcan, l'Anak Krakatoa, surgit de la mer.",
+      "frise": [
+        {
+          "annee": "1681",
+          "evenement": "Dernière éruption connue avant la longue période de sommeil du Krakatoa."
+        },
+        {
+          "annee": "1883",
+          "evenement": "Éruption paroxysmique des 26 et 27 août, qui détruit presque toute l'île."
+        },
+        {
+          "annee": "1927",
+          "evenement": "Des éruptions sous-marines font naître l'Anak Krakatoa, « enfant du Krakatoa »."
+        }
+      ],
+      "wikipedia": "Éruption du Krakatoa en 1883"
+    },
+    "source": "D'après Wikipédia — Éruption du Krakatoa en 1883"
+  },
+  {
+    "id": "geo-065",
+    "domain": "geo",
+    "subtheme": "Climats",
+    "type": "classique",
+    "title": "Le Gulf Stream",
+    "subtitle": "Courant chaud de l'Atlantique nord",
+    "summary": "Le Gulf Stream, ou courant du Golfe, est un courant océanique chaud qui naît entre la Floride et les Bahamas. Il longe la côte est des États-Unis, puis traverse l'Atlantique nord.\nLargeur de 30 à 150 kilomètres au large de la Floride, vitesse de 2,5 mètres par seconde : c'est un véritable fleuve dans l'océan, dont les bords sont visibles à l'œil nu.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des navigateurs à Benjamin Franklin",
+          "texte": "En 1513, Juan Ponce de León constate qu'un puissant courant d'eau chaude entraîne ses navires. En 1770, Benjamin Franklin, alors responsable des postes, fait cartographier le courant pour accélérer le courrier avec la Grande-Bretagne. De là vient la légende selon laquelle il l'aurait découvert."
+        },
+        {
+          "titre": "Un chauffage de l'Europe ?",
+          "texte": "En 1855, Matthew Fontaine Maury affirme que le Gulf Stream explique les hivers doux de l'ouest de l'Europe. Cette idée a été diffusée dans les manuels jusque dans les années 1990. Aujourd'hui, son rôle de régulateur de température, longtemps jugé prépondérant, est de plus en plus contesté."
+        }
+      ],
+      "anecdotes": [
+        "Le Gulf Stream est apparu il y a quelque 4,1 millions d'années, quand l'isthme de Panama s'est refermé."
+      ],
+      "wikipedia": "Gulf Stream"
+    },
+    "source": "D'après Wikipédia — Gulf Stream"
+  },
+  {
+    "id": "geo-066",
+    "domain": "geo",
+    "subtheme": "Climats",
+    "type": "classique",
+    "title": "El Niño",
+    "subtitle": "Phénomène climatique du Pacifique, tous les deux à sept ans",
+    "summary": "El Niño est un phénomène cyclique du Pacifique : certaines années, l'eau de l'est de l'océan se réchauffe au-delà de la normale. Il revient tous les deux à sept ans.\nLes pêcheurs sud-américains l'ont ainsi nommé, en référence à l'Enfant Jésus, car ses effets se font sentir autour de Noël. Il perturbe la pêche, les pluies et les cyclones.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Quand la mer se réchauffe",
+          "texte": "Normalement, le courant froid de Humboldt et les alizés provoquent une remontée d'eaux profondes riches en nutriments, qui nourrit poissons et oiseaux. Pendant El Niño, des eaux chaudes prennent la place des eaux froides : les poissons disparaissent et le nord du Pérou comme l'Équateur reçoivent des pluies abondantes."
+        },
+        {
+          "titre": "Un phénomène mondial",
+          "texte": "Longtemps jugé local, El Niño a des répercussions dans les trois océans tropicaux. En 1982-1983, environ 250 centimètres de pluie sont tombés en six mois en Équateur et au nord du Pérou, et 90 % des récifs coralliens des Galápagos ont été détruits. Son pendant, La Niña, produit des effets globalement opposés."
+        }
+      ],
+      "wikipedia": "El Niño"
+    },
+    "source": "D'après Wikipédia — El Niño"
+  },
+  {
+    "id": "geo-067",
+    "domain": "geo",
+    "subtheme": "Océans et fleuves",
+    "type": "classique",
+    "title": "L'océan Atlantique",
+    "subtitle": "Deuxième océan du monde, apparu voici 180 millions d'années",
+    "summary": "L'Atlantique est le deuxième plus grand océan, derrière le Pacifique : avec 82,4 millions de km² sans ses mers bordières, il couvre 16 % de la surface du globe. Il est apparu quand des plaques tectoniques se sont écartées, à peu près 180 millions d'années auparavant.\nIl sépare l'Europe et l'Afrique des Amériques, et reste l'une des grandes routes du commerce maritime.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une montagne sous la mer",
+          "texte": "L'Atlantique est traversé du nord au sud par une dorsale, une chaîne de montagnes sous-marine. Elle est toujours active : du plancher océanique s'y crée encore, avec des fumeurs noirs et des laves en coussins. Sa largeur varie de 2 840 km entre le Brésil et le Sénégal à 6 757 km entre la Floride et le Maroc."
+        },
+        {
+          "titre": "De la mer Océane à l'Atlantique",
+          "texte": "Du Ve au XVe siècle, les Européens l'appelaient la mer Océane, et Christophe Colomb fut surnommé l'amiral de cette mer. Le nom actuel vient du grec et renvoie à Atlas : pour les Grecs anciens, c'était la mer située au-delà des Colonnes d'Hercule, c'est-à-dire du détroit de Gibraltar."
+        }
+      ],
+      "anecdotes": [
+        "Sa profondeur maximale, 8 605 m, est atteinte dans la fosse de Milwaukee, au large de Porto Rico."
+      ],
+      "wikipedia": "Océan Atlantique"
+    },
+    "source": "D'après Wikipédia — Océan Atlantique"
+  },
+  {
+    "id": "geo-068",
+    "domain": "geo",
+    "subtheme": "Océans et fleuves",
+    "type": "classique",
+    "title": "L'océan Indien",
+    "subtitle": "Le plus chaud des océans, carrefour maritime de l'Afrique à l'Asie",
+    "summary": "L'océan Indien s'étend sur 70 560 000 km², soit 13,83 % de la surface du globe. On l'a longtemps nommé océan Oriental ou mer des Indes. C'est le plus chaud des océans, car l'essentiel de ses eaux est tropical.\nSa chaleur donne naissance à de nombreuses tempêtes tropicales pendant l'été. Il borde l'Afrique, l'Asie et l'Australie, et abrite Madagascar, La Réunion ou les Maldives.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Né du départ de l'Inde",
+          "texte": "Au Trias, il y a 200 millions d'années, ces quatre terres (Afrique, Inde, Antarctique, Australie) se touchaient. L'Afrique s'en sépare la première, puis l'Inde il y a environ 70 millions d'années. Elle finit par heurter l'Asie il y a 45 millions d'années : l'espace laissé vide est l'océan Indien. Sa fosse la plus profonde, celle de la Sonde, atteint 7 187 m."
+        },
+        {
+          "titre": "Un océan de routes et d'échanges",
+          "texte": "Dès les premiers siècles, des navigateurs venus d'Indonésie atteignent Madagascar. Plus tard, Marco Polo rentre de Chine par la mer en 1295, Zheng He pousse jusqu'à l'Afrique orientale en 1421-1422, et Vasco de Gama rejoint l'Inde en 1497 en découvrant en chemin les Seychelles. L'ouverture du canal de Suez en 1869 relance ce trafic."
+        }
+      ],
+      "wikipedia": "Océan Indien"
+    },
+    "source": "D'après Wikipédia — Océan Indien"
+  },
+  {
+    "id": "geo-069",
+    "domain": "geo",
+    "subtheme": "Océans et fleuves",
+    "type": "classique",
+    "title": "La mer Méditerranée",
+    "subtitle": "Mer presque fermée entre Europe, Afrique et Asie",
+    "summary": "La Méditerranée est la plus vaste mer semi-fermée du monde : environ 2,5 millions de km² sur près de 3 860 km de long. Elle ne s'ouvre sur l'Atlantique que par le détroit de Gibraltar, large de 14,3 km au plus étroit.\nSon nom latin signifie « au milieu des terres ». Berceau de nombreuses civilisations, elle est aujourd'hui l'une des grandes routes maritimes de la planète.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une histoire de civilisations",
+          "texte": "Égyptiens, Phéniciens, Grecs, Carthaginois, Romains : tous ont tiré leur puissance de ses rivages. Jules César l'appelait Mare nostrum, « notre mer ». Rome fut la seule à unifier tout le bassin en un seul État. Après la découverte des Amériques, son importance recule, avant que le canal de Suez, en 1869, la remette au centre du commerce Europe-Asie."
+        },
+        {
+          "titre": "Un point chaud de biodiversité",
+          "texte": "Les herbiers de posidonie, une plante marine protégée, et le coralligène abritent une vie très riche, dont le corail rouge, surnommé « l'or rouge de la Méditerranée ». La mer est pourtant très polluée, notamment par le plastique. Sa profondeur moyenne est d'environ 1 500 m, et le point le plus bas connu, 5 109 m, est le gouffre de Calypso."
+        }
+      ],
+      "anecdotes": [
+        "Voici environ six millions d'années, une fermeture du détroit de Gibraltar a transformé la Méditerranée en lac très salé : on parle de crise de salinité messinienne."
+      ],
+      "wikipedia": "Mer Méditerranée"
+    },
+    "source": "D'après Wikipédia — Mer Méditerranée"
+  },
+  {
+    "id": "geo-070",
+    "domain": "geo",
+    "subtheme": "Océans et fleuves",
+    "type": "classique",
+    "title": "Le Mississippi",
+    "subtitle": "Grand fleuve d'Amérique du Nord, qui descend vers le golfe du Mexique",
+    "summary": "Le Mississippi mesure 3 766 km et parcourt le centre des États-Unis, depuis le Minnesota septentrional jusqu'au golfe du Mexique. Seul son affluent, le Missouri, est plus long que lui. Son nom vient de l'ojibwé misi-ziibi, « grand fleuve ».\nSon bassin couvre 3 238 000 km², le plus vaste d'Amérique du Nord, et plus de 72 millions de personnes y vivent, soit un Américain sur quatre.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Du lac Itasca au golfe",
+          "texte": "Le fleuve naît au lac Itasca, à 450 m d'altitude, puis accueille l'Illinois et le Missouri près de Saint-Louis, avant l'Ohio à Cairo. Il longe dix États avant de se jeter dans le golfe, à 160 km en aval de La Nouvelle-Orléans. Pour une goutte de pluie tombée dans le lac Itasca, le voyage jusqu'au golfe dure environ 90 jours."
+        },
+        {
+          "titre": "Un fleuve puissant et capricieux",
+          "texte": "Son débit moyen à l'embouchure atteint 18 000 m³/s, sixième rang mondial. Les crues sont redoutables : on a mesuré 300 000 m³/s lors de celle de 1927. Ses nombreux méandres, entre Memphis et le delta, ont laissé des bras morts et des bayous. Le Missouri-Mississippi forme, lui, le quatrième système fluvial le plus long du monde."
+        }
+      ],
+      "anecdotes": [
+        "Curiosité : l'embouchure est plus loin du centre de la Terre que la source, et l'eau descend pourtant vers le golfe. Le sens du courant dépend du gradient de pesanteur, pas de la distance au centre."
+      ],
+      "wikipedia": "Mississippi (fleuve)"
+    },
+    "source": "D'après Wikipédia — Mississippi (fleuve)"
+  },
+  {
+    "id": "geo-071",
+    "domain": "geo",
+    "subtheme": "Océans et fleuves",
+    "type": "classique",
+    "title": "Le Danube",
+    "subtitle": "Fleuve d'Europe qui traverse ou longe dix pays",
+    "summary": "Le Danube naît dans la Forêt-Noire, en Allemagne, à la rencontre de la Brigach et de la Breg. Il mesure 2 852 km depuis Donaueschingen et se jette dans la mer Noire. Seule la Volga est plus longue en Europe.\nIl traverse ou longe dix pays et baigne quatre capitales : Vienne, Bratislava, Budapest et Belgrade. Son delta, entre la Roumanie et l'Ukraine, est inscrit à l'UNESCO.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un fleuve qui coule vers l'est",
+          "texte": "Comme le Pô et l'Èbre, le Danube est l'un des rares grands fleuves d'Europe orientés d'ouest en est. Ses grands affluents alpins, comme l'Inn, lui donnent un débit marqué par la fonte des neiges, avec un maximum en mai ou juin. Son bassin s'étend sur 802 266 km². Sa longueur se mesure depuis l'embouchure, où le phare de Sulina marque le point zéro."
+        },
+        {
+          "titre": "Frontière et légendes",
+          "texte": "Dans l'Antiquité, il formait la frontière nord de l'Empire romain. Les Grecs l'appelaient Istros et en faisaient un fils de l'Océan. Selon le mythe des Argonautes, ils l'auraient remonté avant de rentrer par l'Adriatique, ce que l'historien Diodore de Sicile jugeait impossible. Son delta couvre 4 300 km²."
+        }
+      ],
+      "wikipedia": "Danube"
+    },
+    "source": "D'après Wikipédia — Danube"
+  },
+  {
+    "id": "geo-072",
+    "domain": "geo",
+    "subtheme": "Océans et fleuves",
+    "type": "classique",
+    "title": "Le Gange",
+    "subtitle": "Fleuve sacré de l'Inde, au cœur du monde hindou",
+    "summary": "Parmi les sept rivières sacrées de l'Inde, le Gange est la plus vénérée. Selon les sources, il mesure de 2 500 à 3 000 km. Son bassin couvre 907 000 km², et il partage son delta avec le Brahmapoutre.\nSes eaux irriguent environ 30 % du territoire indien et font vivre quelque 450 millions de personnes. Mais il est aussi l'un des fleuves les plus pollués au monde.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un fleuve sacré",
+          "texte": "Pour les hindous, se baigner dans le Gange lave des péchés, et y répandre les cendres d'un défunt libère son âme. Shiva est dit « porteur du Gange », car il aurait retenu le fleuve dans ses cheveux pour épargner la Terre. Tous les douze ans, la Kumbh Mela réunit des dizaines de millions de pèlerins au confluent avec la Yamuna."
+        },
+        {
+          "titre": "Du glacier à la mangrove",
+          "texte": "Le Gange commence à Devaprayag, où se rejoignent le Bhagirathi et l'Alaknanda, descendus de l'Himalaya. Il traverse Haridwar puis la vaste plaine indo-gangétique avant de former son delta dans le golfe du Bengale. Les Sundarbans, immense forêt de mangrove, couvrent ses bouches."
+        },
+        {
+          "titre": "Un fleuve en danger",
+          "texte": "On estimait en 2018 qu'il absorbait chaque jour trois milliards de litres d'eaux usées. Plus de 760 usines, dont des tanneries, rejettent des déchets toxiques entre le barrage de Tehri et l'embouchure. Le barrage de Farakka, construit en 1975, est depuis une source de conflit entre l'Inde et le Bangladesh."
+        }
+      ],
+      "wikipedia": "Gange"
+    },
+    "source": "D'après Wikipédia — Gange"
+  },
+  {
+    "id": "geo-073",
+    "domain": "geo",
+    "subtheme": "Océans et fleuves",
+    "type": "classique",
+    "title": "Le lac Baïkal",
+    "subtitle": "Lac de rift de Sibérie, le plus ancien du monde",
+    "summary": "Le Baïkal, en Sibérie orientale, est le plus ancien lac du monde : environ 25 millions d'années. Sa surface de 31 722 km² équivaut à celle de la Belgique, et il contient environ un cinquième de l'eau douce de surface de la Terre.\nSes habitants d'origine l'appelaient la « mer sacrée ». Il est inscrit au patrimoine mondial de l'UNESCO depuis 1996.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une faune qui n'existe qu'ici",
+          "texte": "On y trouve le phoque de Sibérie, un phoque qui vit en eau douce (ils sont très rares), ainsi que le coméphore et l'omoul, des poissons endémiques. Ses eaux sont si transparentes qu'on y voit parfaitement jusqu'à 40 m de profondeur. Il repose par endroits sur plus de 6 000 m de sédiments."
+        },
+        {
+          "titre": "Un géant allongé",
+          "texte": "Orienté sud-ouest nord-est, il s'étire sur 636 km pour une largeur de 25 à 79 km. Il compte une quarantaine d'îles, dont Olkhon, grande de 730 km². Le premier Russe à l'atteindre, Kourbat Ivanov, y arrive en 1643. Dès la fin du XIXe siècle, une ligne du Transsibérien, le circumbaïkal, suit sa rive."
+        }
+      ],
+      "wikipedia": "Lac Baïkal"
+    },
+    "source": "D'après Wikipédia — Lac Baïkal"
+  },
+  {
+    "id": "geo-074",
+    "domain": "geo",
+    "subtheme": "Océans et fleuves",
+    "type": "classique",
+    "title": "Le lac Titicaca",
+    "subtitle": "Lac des Andes partagé entre le Pérou et la Bolivie",
+    "summary": "Le Titicaca repose dans la cordillère des Andes, et la limite des territoires bolivien et péruvien le traverse. À 3 812 m d'altitude, il passe pour le plus haut lac navigable du monde, avec des navires commerciaux de grande taille.\nPar son volume d'eau, c'est le premier lac du continent sud-américain, mais pas par sa superficie. Selon la légende, le dieu Viracocha en est sorti pour créer le monde.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Chiffres et paysages",
+          "texte": "Il couvre environ 8 562 km², sur 190 km de long et 80 km de large, avec une profondeur maximale de 327 m. Plus de vingt-cinq rivières l'alimentent et il compte 41 îles, dont certaines sont habitées. Le détroit de Tiquina sépare le grand lac du petit. Puno, côté péruvien, et Copacabana, côté bolivien, sont ses villes principales."
+        },
+        {
+          "titre": "Un lac au cœur des mythes",
+          "texte": "Son nom viendrait d'un rocher de l'Isla del Sol, le Titi Khar'ka, « roc du puma » en aymara. Cette île est considérée comme le centre de la mythologie inca. Plus de trois millions d'agriculteurs et d'éleveurs des deux pays dépendent de son bassin. Le lac est un site Ramsar, zone humide protégée, depuis 1998."
+        }
+      ],
+      "anecdotes": [
+        "Son eau est surtout perdue par évaporation : seuls 7 % des apports repartent par le río Desaguadero."
+      ],
+      "wikipedia": "Lac Titicaca"
+    },
+    "source": "D'après Wikipédia — Lac Titicaca"
+  },
+  {
+    "id": "geo-075",
+    "domain": "geo",
+    "subtheme": "Océans et fleuves",
+    "type": "date",
+    "title": "1914 : l'ouverture du canal de Panama",
+    "subtitle": "Le canal de 80 km qui relie l'Atlantique et le Pacifique",
+    "summary": "Le 15 août 1914, le canal de Panama est inauguré à bord du navire Ancón. Long de 80 km, il relie l'Atlantique au Pacifique à travers l'isthme de Panama et évite le détour par le cap Horn.\nDe New York à San Francisco, un navire parcourt ainsi 9 500 km au lieu de 22 500. Sa construction fut l'un des chantiers d'ingénierie les plus difficiles jamais menés.",
+    "details": {
+      "contexte": "Dès 1534, Charles Quint imagine un canal à travers l'isthme. Le chemin de fer transcontinental de 1855 montre l'intérêt d'un lien entre les deux océans.",
+      "causes": "Après le succès du canal de Suez, Ferdinand de Lesseps lance en 1882 un chantier sans écluse. Les maladies, les crues du río Chagres et le scandale financier mènent la compagnie française à la faillite en 1889.",
+      "deroulement": "Les États-Unis reprennent le projet, sous la direction de George Washington Goethals. Il prévoit trois ensembles d'écluses et un lac artificiel, le lac Gatún. Le canal ouvre le 15 août 1914.",
+      "consequences": "Plus de 22 000 ouvriers sont morts sur le chantier, surtout de maladies. Le Panama prend le contrôle total du canal le 31 décembre 1999, puis de nouvelles écluses sont inaugurées en 2016 pour les navires plus gros.",
+      "frise": [
+        {
+          "annee": "1882",
+          "evenement": "Début du chantier français dirigé par Ferdinand de Lesseps"
+        },
+        {
+          "annee": "1914",
+          "evenement": "Inauguration du canal par les États-Unis à bord de l'Ancón"
+        },
+        {
+          "annee": "1999",
+          "evenement": "Le Panama assume le contrôle total du canal"
+        }
+      ],
+      "wikipedia": "Canal de Panama"
+    },
+    "source": "D'après Wikipédia — Canal de Panama"
+  },
+  {
+    "id": "geo-076",
+    "domain": "geo",
+    "subtheme": "Océans et fleuves",
+    "type": "date",
+    "title": "1869 : l'inauguration du canal de Suez",
+    "subtitle": "Le canal égyptien entre la Méditerranée et la mer Rouge",
+    "summary": "Le 17 novembre 1869, le canal de Suez est officiellement inauguré par l'impératrice Eugénie, après dix ans de travaux. Long de 193,3 km, il relie Port-Saïd, sur la Méditerranée, à Suez, au nord de la mer Rouge.\nLes navires peuvent désormais aller d'Europe en Asie sans faire le grand détour par le cap de Bonne-Espérance.",
+    "details": {
+      "contexte": "L'idée d'une liaison entre les deux mers est ancienne : les pharaons, puis le roi perse Darius, avaient fait creuser un canal reliant le Nil à la mer Rouge. Venise y songea au début du XVIe siècle, sans succès.",
+      "causes": "En 1854, le gouverneur d'Égypte accorde la concession à Ferdinand de Lesseps. Les Britanniques s'y opposent, mais le chantier avance grâce au soutien de Napoléon III. Il commence en 1859.",
+      "deroulement": "En 1860, seuls 5 % des navires marchent à la vapeur, alors que le canal est conçu pour des bateaux motorisés : c'est un pari. À la fin des travaux, l'Égypte détient 44 % de la compagnie et des actionnaires français 56 %.",
+      "consequences": "Le 26 juillet 1956, Nasser nationalise le canal pour financer le barrage d'Assouan, ce qui déclenche l'expédition militaire franco-britannique et israélienne. En 2015, 17 483 navires l'ont emprunté, soit environ 8 % du commerce maritime mondial.",
+      "frise": [
+        {
+          "annee": "1859",
+          "evenement": "Début du percement du canal"
+        },
+        {
+          "annee": "1869",
+          "evenement": "Inauguration officielle par l'impératrice Eugénie"
+        },
+        {
+          "annee": "1956",
+          "evenement": "Nationalisation du canal par Nasser"
+        }
+      ],
+      "wikipedia": "Canal de Suez"
+    },
+    "source": "D'après Wikipédia — Canal de Suez"
+  },
+  {
+    "id": "geo-077",
+    "domain": "geo",
+    "subtheme": "Océans et fleuves",
+    "type": "classique",
+    "title": "Les chutes du Niagara",
+    "subtitle": "Trois chutes à la frontière du Canada et des États-Unis",
+    "summary": "Trois cascades composent les chutes du Niagara, sur la rivière du même nom, qui joint le lac Érié et le lac Ontario : le Fer-à-Cheval, les chutes américaines et le Voile de la Mariée.\nElles ne sont pas très hautes, 57 m, mais très larges : 945 m. Avec un débit de plus de 2 800 m³/s, aucune autre chute d'Amérique du Nord n'est aussi puissante.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un recul de plusieurs kilomètres",
+          "texte": "Les chutes sont nées de la fonte du grand glacier continental. Au-dessus, une roche dure de calcaire et de dolomite protège une couche tendre de marne en dessous. Cette dernière s'érode vite, ce qui fait reculer les chutes : à l'origine, elles se trouvaient près de Lewiston et de Queenston, quelques kilomètres plus loin."
+        },
+        {
+          "titre": "Beauté et énergie",
+          "texte": "Le Fer-à-Cheval, côté canadien, est le plus large des trois, avec environ 792 m, et reçoit près de 90 % du débit. Une partie de l'eau est détournée vers des centrales hydroélectriques, surtout la nuit, quand le débit visible est divisé par deux. Les deux villes jumelles de Niagara Falls, l'une américaine, l'autre canadienne, accueillent les touristes depuis plus d'un siècle."
+        }
+      ],
+      "anecdotes": [
+        "En 1954, un énorme rocher s'est détaché des chutes américaines et son éboulis cache aujourd'hui une partie de leur hauteur."
+      ],
+      "wikipedia": "Chutes du Niagara"
+    },
+    "source": "D'après Wikipédia — Chutes du Niagara"
+  },
+  {
+    "id": "geo-078",
+    "domain": "geo",
+    "subtheme": "Océans et fleuves",
+    "type": "classique",
+    "title": "La mer Caspienne",
+    "subtitle": "La plus grande étendue d'eau fermée du monde",
+    "summary": "La Caspienne couvre environ 371 000 km² sur 1 325 km de long, ce qui en fait la plus grande masse d'eau fermée du monde. On l'appelle mer, mais le droit international la traite comme un lac.\nCinq pays la bordent : Kazakhstan, Russie, Azerbaïdjan, Iran et Turkménistan. Ils lui ont donné en 2018 un statut juridique spécifique.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une mer sans sortie",
+          "texte": "La Volga lui apporte 80 % de son eau, mais aucun cours d'eau n'en repart : on dit qu'elle est endoréique. Son niveau, environ 28 m sous celui des océans, varie : il a monté jusqu'en 1995, puis baissé de plusieurs centimètres par an jusqu'en 2015, à cause d'une évaporation accrue. Elle est la fille d'une ancienne mer, la Paratéthys."
+        },
+        {
+          "titre": "Pétrole et caviar",
+          "texte": "La région est riche en pétrole et en gaz, notamment autour de Bakou, la plus grande ville de ses rives. Elle est aussi connue pour le caviar, dont la production a pâti de la disparition de l'URSS et de la pollution. Via la Volga et le canal Don-Volga, elle communique avec la mer Noire."
+        }
+      ],
+      "wikipedia": "Mer Caspienne"
+    },
+    "source": "D'après Wikipédia — Mer Caspienne"
+  },
+  {
+    "id": "geo-079",
+    "domain": "geo",
+    "subtheme": "Océans et fleuves",
+    "type": "classique",
+    "title": "La fosse des Mariannes",
+    "subtitle": "Le point le plus profond connu de la croûte terrestre",
+    "summary": "Dans l'ouest du Pacifique, près de Guam, la fosse des Mariannes est le fossé océanique le plus profond connu. Elle dessine un croissant long d'environ 2 550 km, pour 70 km de large.\nSon point le plus bas, Challenger Deep, atteint environ 10 984 m selon une analyse de 2014. La pression y est plus de mille fois celle du niveau de la mer.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une fosse de subduction",
+          "texte": "Ici, la plaque pacifique plonge sous la plaque philippine : c'est ce qui creuse la fosse. Elle a été découverte en 1875 lors de l'expédition du Challenger, première campagne océanographique, qui rapporta des sondages à plus de 8 000 m avec des kilomètres de corde. Son nom actuel vient du navire de 1951 qui en mesura le fond au sonar."
+        },
+        {
+          "titre": "Descendre tout au fond",
+          "texte": "Le 23 janvier 1960, Jacques Piccard et Don Walsh atteignent le fond à bord du bathyscaphe Trieste, après 4 h 30 de descente. Ils y aperçoivent un poisson plat d'environ 45 cm. En 2012, le réalisateur James Cameron y plonge seul avec le Deepsea Challenger."
+        }
+      ],
+      "wikipedia": "Fosse des Mariannes"
+    },
+    "source": "D'après Wikipédia — Fosse des Mariannes"
+  },
+  {
+    "id": "geo-080",
+    "domain": "geo",
+    "subtheme": "Océans et fleuves",
+    "type": "classique",
+    "title": "Le détroit de Gibraltar",
+    "subtitle": "Le seul passage entre l'Atlantique et la Méditerranée",
+    "summary": "Le détroit de Gibraltar sépare l'Espagne du Maroc et relie l'Atlantique à la Méditerranée. À son point le plus étroit, il ne mesure que 14,3 km de large, pour environ 1 000 m de profondeur.\nL'Antiquité l'appelait les Colonnes d'Hercule. Son nom actuel vient de l'arabe djebel Tarik, « montagne de Tarik », en souvenir du général qui le franchit en 711.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un carrefour maritime",
+          "texte": "C'est la deuxième voie maritime la plus fréquentée après la Manche : environ 100 000 navires le traversent chaque année. Il est devenu encore plus stratégique avec le canal de Suez en 1869. Gibraltar est britannique depuis le traité d'Utrecht, en 1713. Un courant de surface entre dans la Méditerranée, tandis qu'un courant plus salé repart en profondeur."
+        },
+        {
+          "titre": "Une porte qui se referme",
+          "texte": "Le détroit se serait ouvert voici 5,3 millions d'années, lorsque l'eau de l'Atlantique s'est engouffrée dans une Méditerranée asséchée. Aujourd'hui, les plaques européenne et africaine se rapprochent d'environ un centimètre par an. Dans quelques millions d'années, il pourrait se refermer. Un groupe d'une trentaine d'orques y vit toujours."
+        }
+      ],
+      "wikipedia": "Détroit de Gibraltar"
+    },
+    "source": "D'après Wikipédia — Détroit de Gibraltar"
+  },
+  {
+    "id": "geo-081",
+    "domain": "geo",
+    "subtheme": "Climats",
+    "type": "classique",
+    "title": "Le cyclone tropical",
+    "subtitle": "Tempête tournante des mers chaudes : ouragan, typhon ou cyclone",
+    "summary": "Au-dessus des mers chaudes des tropiques, une perturbation peut s'organiser en dépression, puis en tempête : c'est un cyclone tropical. Il apporte des vents violents et des pluies torrentielles.\nSon nom change selon le lieu : ouragan dans l'Atlantique nord, typhon dans le Pacifique nord-ouest, cyclone ailleurs. Il cause chaque année des centaines, parfois des milliers de morts.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Trois stades d'intensité",
+          "texte": "La dépression tropicale a des vents inférieurs à 63 km/h. La tempête tropicale va de 63 à 117 km/h. Au-delà d'environ 118 km/h, avec un œil dégagé au centre, on parle d'ouragan, de typhon ou de cyclone. Le moteur de ces tempêtes est la chaleur libérée quand la vapeur d'eau se condense dans les orages."
+        },
+        {
+          "titre": "D'où viennent les mots",
+          "texte": "« Cyclone » a été forgé par le capitaine Henry Piddington, qui comparait la tempête à un serpent enroulé, kyklos en grec. Il avait étudié celle de 1789, qui tua plus de 20 000 personnes à Coringa, en Inde. « Typhon » viendrait de Typhon, monstre grec des vents. Le père Louis Froc organisa le premier réseau de suivi des typhons en mer de Chine."
+        }
+      ],
+      "wikipedia": "Cyclone tropical"
+    },
+    "source": "D'après Wikipédia — Cyclone tropical"
+  },
+  {
+    "id": "geo-082",
+    "domain": "geo",
+    "subtheme": "Climats",
+    "type": "classique",
+    "title": "Le climat océanique",
+    "subtitle": "Climat doux et humide des façades ouest des continents",
+    "summary": "Le climat océanique, ou Cfb dans la classification de Köppen, combine hivers doux, pluvieux, et étés plutôt frais. Il règne sur les façades occidentales des continents, entre le climat méditerranéen et le climat polaire.\nC'est le climat typique de l'Europe de l'Ouest, de la Normandie au Pays basque pour la France.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Doux et souvent arrosé",
+          "texte": "La température moyenne annuelle se situe entre 8 et 16 °C. L'océan limite le froid de l'hiver et les écarts restent faibles, parfois moins de 10 °C en Irlande ou dans le Finistère. Il tombe environ un mètre d'eau par an, mais répartis sur toute l'année, souvent en bruine ou en brouillard, surtout en saison froide."
+        },
+        {
+          "titre": "Des littoraux vers l'intérieur",
+          "texte": "Plus on s'éloigne de la côte, plus le climat devient « océanique dégradé » : hivers plus froids, étés plus chauds. Dublin est un exemple franc, Berlin un exemple dégradé. On le retrouve aussi de l'Oregon à l'Alaska, au sud du Chili, en Tasmanie et en Nouvelle-Zélande. Seattle est à la latitude de Nantes, avec des hivers aussi doux."
+        }
+      ],
+      "wikipedia": "Climat océanique"
+    },
+    "source": "D'après Wikipédia — Climat océanique"
+  },
+  {
+    "id": "geo-083",
+    "domain": "geo",
+    "subtheme": "Climats",
+    "type": "vocabulaire",
+    "title": "Tropique",
+    "subtitle": "Parallèle limitant la zone où le Soleil peut passer au zénith",
+    "summary": "Deux parallèles du globe, les tropiques, encadrent la bande où le Soleil passe au zénith au moins une fois par an. Chacun se situe à 23° 26′ de latitude, de chaque côté de l'équateur.\nAu nord, c'est le tropique du Cancer ; au sud, celui du Capricorne. Entre les deux s'étend la zone intertropicale.",
+    "details": {
+      "definition": "Un tropique est un parallèle terrestre, à environ 23° 26′ de latitude nord ou sud, au-delà duquel le Soleil n'est jamais à la verticale.",
+      "exemple": "Le jour du solstice de juin, à midi, le Soleil est exactement au-dessus du tropique du Cancer : l'hémisphère nord est alors en été, et le sud en hiver.",
+      "confusions": [
+        {
+          "mot": "Équateur",
+          "explication": "Parallèle de latitude zéro, situé à mi-chemin entre les deux tropiques, où le Soleil est au zénith aux équinoxes."
+        },
+        {
+          "mot": "Cercle polaire",
+          "explication": "Parallèle bien plus proche des pôles, qui délimite la région où le Soleil ne se couche pas ou ne se lève pas certains jours."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Des noms venus du ciel",
+          "texte": "Le mot vient du grec tropê, « tour » : le Soleil y rebrousse chemin au moment des solstices. Les noms Cancer et Capricorne datent d'il y a environ 2 000 ans, quand le Soleil se trouvait dans ces constellations au solstice. Ce n'est plus le cas aujourd'hui. Les tropiques se rapprochent de l'équateur d'environ 14 m par an."
+        }
+      ],
+      "wikipedia": "Tropique"
+    },
+    "source": "D'après Wikipédia — Tropique"
+  },
+  {
+    "id": "geo-084",
+    "domain": "geo",
+    "subtheme": "Villes",
+    "type": "classique",
+    "title": "Rome",
+    "subtitle": "Capitale de l'Italie, la Ville éternelle",
+    "summary": "Rome, capitale de l'Italie, aurait été fondée en 753 av. J.-C. par Romulus, selon la légende. Bâtie sur sept collines au bord du Tibre, elle fut le cœur de la Royauté, de la République puis de l'Empire romain.\nElle abrite aussi un État entier dans ses limites : le Vatican, cas unique au monde d'un pays logé au sein d'une capitale. Son centre historique est classé à l'UNESCO.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une ville aux sept collines",
+          "texte": "Le cœur antique repose sur sept collines, de l'Aventin au Viminal en passant par le Capitole et le Palatin, et se découpe en 22 rioni. La commune, elle, est immense : 1 285 km², soit douze fois Paris intra muros, avec beaucoup de campagne, de parcs et de pinèdes. Seules Moscou et Londres, en Europe, ont une capitale plus étendue."
+        },
+        {
+          "titre": "Des papes et des artistes",
+          "texte": "Dès le XVe siècle, les papes, de Nicolas V à leurs successeurs, rêvent de faire de Rome la capitale artistique de l'Occident. Michel-Ange, Raphaël et Le Bernin y travaillent : basilique Saint-Pierre, chapelle Sixtine, piazza Navona. La Renaissance puis le baroque y prennent leur élan. Rome devient capitale du royaume d'Italie en 1871."
+        }
+      ],
+      "anecdotes": [
+        "Les chats vivant en liberté dans la ville seraient près de 300 000, et sont protégés depuis 2001 comme « patrimoine bioculturel »."
+      ],
+      "wikipedia": "Rome"
+    },
+    "source": "D'après Wikipédia — Rome"
+  },
+  {
+    "id": "geo-085",
+    "domain": "geo",
+    "subtheme": "Villes",
+    "type": "classique",
+    "title": "Londres",
+    "subtitle": "Capitale du Royaume-Uni, fondée par les Romains",
+    "summary": "Londres est la capitale du Royaume-Uni et sa plus grande agglomération. Fondée par les Romains vers 47 sous le nom de Londinium, elle s'étend aujourd'hui de part et d'autre de la Tamise.\nC'est l'un des grands centres financiers du monde, et la première cité à organiser trois fois les Jeux olympiques d'été : en 1908, 1948 et 2012.",
+    "details": {
+      "sections": [
+        {
+          "titre": "De Londinium à la métropole",
+          "texte": "Londinium est incendiée vers 61 par la reine Boudica, puis reconstruite et devient la principale ville de la Bretagne romaine. Après la victoire de Guillaume le Conquérant en 1066, la tour de Londres est bâtie pour impressionner les habitants. La Cité de Londres, ou Square Mile, garde encore aujourd'hui des limites proches de celles du Moyen Âge."
+        },
+        {
+          "titre": "Un fleuve, un métro, un méridien",
+          "texte": "Pendant des siècles, la ville n'a eu qu'un seul pont, le London Bridge. Son métro est le plus ancien réseau souterrain de la planète. À Greenwich, l'Observatoire royal sert de repère au premier méridien (longitude zéro) et à l'heure de référence du même nom. Une barrière sur la Tamise, à Woolwich, protège la ville des inondations depuis les années 1970."
+        }
+      ],
+      "anecdotes": [
+        "Londres compterait environ 10 000 renards, beaucoup moins craintifs que ceux de la campagne : certains élèvent leurs petits dans les jardins."
+      ],
+      "wikipedia": "Londres"
+    },
+    "source": "D'après Wikipédia — Londres"
+  },
+  {
+    "id": "geo-086",
+    "domain": "geo",
+    "subtheme": "Villes",
+    "type": "classique",
+    "title": "Tokyo",
+    "subtitle": "Capitale du Japon, ancienne Edo",
+    "summary": "Tokyo est la capitale du Japon et l'une de ses 47 préfectures. Avec plus de 14 millions d'habitants, elle forme le cœur d'une immense région urbaine, la plus peuplée de la planète.\nPetit village de pêcheurs appelé Edo, elle devient la capitale des shoguns Tokugawa en 1603, puis prend son nom actuel en 1868 : « capitale de l'Est ».",
+    "details": {
+      "sections": [
+        {
+          "titre": "D'Edo à Tokyo",
+          "texte": "Sous les Tokugawa, Edo connaît une longue paix et compte près d'un million d'habitants au XVIIIe siècle. En 1868, l'empereur Meiji s'installe dans le château d'Edo, et la ville est rebaptisée Tokyo, par opposition à Kyoto, l'ancienne capitale. Le séisme de 1923 (magnitude 7,9) fait plus de 100 000 morts ; les bombardements de 1945 détruisent la moitié de la ville."
+        },
+        {
+          "titre": "Une métropole d'records",
+          "texte": "Tokyo a organisé les Jeux olympiques d'été en 1964, première fois en Asie, puis en 2021. La gare de Shinjuku est la plus fréquentée du monde. La ville garde aussi des lieux anciens : le temple Sensō-ji, à Asakusa, fondé en 645, est le plus vieux de la ville. Le pont Nihonbashi marque toujours le point zéro des routes japonaises."
+        }
+      ],
+      "wikipedia": "Tokyo"
+    },
+    "source": "D'après Wikipédia — Tokyo"
+  },
+  {
+    "id": "geo-087",
+    "domain": "geo",
+    "subtheme": "Villes",
+    "type": "classique",
+    "title": "Rio de Janeiro",
+    "subtitle": "Ville du Brésil, ancienne capitale du pays",
+    "summary": "Rio de Janeiro, surnommée la Ville Merveilleuse, vient au deuxième rang des villes brésiliennes, derrière São Paulo. Ses habitants s'appellent les Cariocas. Elle est célèbre pour son carnaval, ses plages de Copacabana et d'Ipanema, le Pain de Sucre et le Christ Rédempteur du Corcovado.\nElle fut la capitale du Brésil jusqu'en 1960, avant que Brasilia ne prenne le relais.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une rivière qui n'existe pas",
+          "texte": "Le 1er janvier 1502, des navigateurs portugais découvrent la baie de Guanabara. On la prend pour l'embouchure d'un fleuve, d'où le nom « rivière de janvier ». Estácio de Sá fonde la ville en 1565 et la baptise São Sebastião do Rio de Janeiro. Saint Sébastien en reste le patron. Les Français de Villegagnon avaient tenté de s'y installer dès 1555 avec leur « France antarctique »."
+        },
+        {
+          "titre": "Une capitale royale hors d'Europe",
+          "texte": "En 1808, fuyant l'invasion napoléonienne, la cour du Portugal s'installe à Rio, qui devient la seule capitale européenne située hors d'Europe. Le Brésil proclame son indépendance en 1822 avec Pierre Ier, et Rio reste capitale de l'empire, puis de la République, jusqu'en 1960. La ville a accueilli la Coupe du monde de football en 1950 et 2014, et les Jeux olympiques d'été de 2016."
+        }
+      ],
+      "anecdotes": [
+        "Le nom du Brésil vient du bois-brésil, un arbre au bois rouge « couleur de braise » (brasa), exploité dès les premiers échanges avec les Amérindiens."
+      ],
+      "wikipedia": "Rio de Janeiro"
+    },
+    "source": "D'après Wikipédia — Rio de Janeiro"
+  },
+  {
+    "id": "geo-088",
+    "domain": "geo",
+    "subtheme": "Villes",
+    "type": "classique",
+    "title": "Dubaï",
+    "subtitle": "Plus grande ville des Émirats arabes unis",
+    "summary": "Dubaï est la ville la plus importante des Émirats arabes unis, plus que la capitale fédérale Abou Dabi. Elle borde le golfe Persique et dépasse trois millions d'habitants, dont seulement 5 % d'Émiratis.\nPetit bourg de pêcheurs de perles encore à la fin du XIXe siècle, elle est devenue célèbre pour ses projets démesurés : la Burj Khalifa, plus haut immeuble du monde, les îles artificielles Palm Islands ou l'hôtel Burj al-Arab.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Du bourg de perles à la métropole",
+          "texte": "La ville s'est développée autour du Khor Dubaï, un bras de mer qui forme un port naturel dans le désert. En 1833, après une querelle tribale, quelque 800 Bédouins, de la famille des Al Bu Falah, quittent l'oasis de Liwa pour s'y installer. La pêche aux perles reste l'activité principale pendant des siècles. Dubaï fait partie des fondateurs des Émirats arabes unis en 1971 : son émir en est le vice-président."
+        },
+        {
+          "titre": "Gratte-ciel, port et aéroport",
+          "texte": "Le long de la Sheikh Zayed Road s'alignent des centaines de gratte-ciel. Des bateaux en bois, les abras, traversent encore le Khor Dubaï en dix minutes entre Deira et Bur Dubaï. Le port de Jebel Ali est parmi les grands ports à conteneurs mondiaux, et l'aéroport est le premier du monde pour les passagers internationaux (92,3 millions en 2024, chiffres provisoires). Un métro automatique est ouvert depuis 2009."
+        }
+      ],
+      "wikipedia": "Dubaï (ville)"
+    },
+    "source": "D'après Wikipédia — Dubaï (ville)"
+  },
+  {
+    "id": "geo-089",
+    "domain": "geo",
+    "subtheme": "Villes",
+    "type": "classique",
+    "title": "Moscou",
+    "subtitle": "Capitale de la Russie, ville la plus peuplée d'Europe",
+    "summary": "Moscou, capitale de la Russie, compte environ 13 millions d'habitants : c'est la ville la plus peuplée d'Europe. Elle est née en 1147 comme petit point d'appui militaire, au bord de la rivière Moskova.\nSon cœur est le Kremlin, forteresse entourée d'une muraille de briques rouges. Elle produit environ un quart du PIB de la Russie.",
+    "details": {
+      "sections": [
+        {
+          "titre": "D'un fortin à la capitale d'un empire",
+          "texte": "Après les invasions mongoles du XIIIe siècle, Moscou prend peu à peu le relais de Kiev. Elle devient capitale du grand-duché, puis du tsarat de Russie. Pierre le Grand déplace le pouvoir à Saint-Pétersbourg au début du XVIIIe siècle, mais la révolution d'Octobre 1917 lui rend son rôle de capitale. Sous le régime communiste, sa population passe d'un à quatre millions d'habitants en deux décennies."
+        },
+        {
+          "titre": "Une ville en anneaux",
+          "texte": "Moscou s'est étendue par cercles concentriques. Au centre, le Kremlin et sa muraille de 2 230 mètres, avec 19 tours. Autour, l'anneau des Jardins, long de 15,6 km, puis le périphérique MKAD, de 109 km de circonférence, célèbre pour ses embouteillages. La ville compte trois ensembles classés à l'UNESCO, dont le Kremlin et la cathédrale Saint-Basile-le-Bienheureux qui borde la place Rouge."
+        }
+      ],
+      "wikipedia": "Moscou"
+    },
+    "source": "D'après Wikipédia — Moscou"
+  },
+  {
+    "id": "geo-090",
+    "domain": "geo",
+    "subtheme": "Villes",
+    "type": "classique",
+    "title": "Amsterdam",
+    "subtitle": "Capitale des Pays-Bas, cité des canaux",
+    "summary": "Amsterdam est la capitale des Pays-Bas et la commune la plus peuplée du pays, avec près d'un million d'habitants. Pourtant, le gouvernement siège à La Haye.\nNée d'une digue sur la rivière Amstel, d'où son nom, elle était un village de pêcheurs au XIIe siècle. Elle est devenue l'un des grands ports du monde au siècle d'or néerlandais.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une ville bâtie sur des pieux",
+          "texte": "La première mention d'Amsterdam date du 27 octobre 1275 : un acte exempte de péages les habitants de la « digue sur l'Amstel ». La ville obtient son statut vers 1300. Après de graves incendies, en 1421 et 1452, Charles Quint ordonne en 1521 de construire en pierre. Plus lourde, la ville est reconstruite sur des milliers de pieux de bois, longs d'au moins quinze mètres, venus de la Forêt-Noire par le Rhin."
+        },
+        {
+          "titre": "Canaux et musées",
+          "texte": "Le quartier des canaux, la Grachtengordel, entre les Herengracht, Keizersgracht et Prinsengracht, est classé à l'UNESCO depuis 2010. Autour de la Museumplein se concentrent le Rijksmuseum, le Stedelijk Museum et le Van Gogh Museum. Les déplacements se font beaucoup à pied, à vélo ou en tramway. Le palais royal, sur la place du Dam, date du XVIIe siècle."
+        }
+      ],
+      "anecdotes": [
+        "Les trois croix de saint André du blason d'Amsterdam seraient, selon une tradition populaire, les trois menaces qui pèsent sur la ville : l'eau, le feu et la peste."
+      ],
+      "wikipedia": "Amsterdam"
+    },
+    "source": "D'après Wikipédia — Amsterdam"
+  },
+  {
+    "id": "geo-091",
+    "domain": "geo",
+    "subtheme": "Villes",
+    "type": "classique",
+    "title": "Mexico",
+    "subtitle": "Capitale du Mexique, ancienne Tenochtitlan",
+    "summary": "Mexico, capitale du Mexique, est bâtie à plus de 2 000 mètres d'altitude, dans une vallée entourée de volcans. Son aire urbaine compte environ 20 millions d'habitants, la plus peuplée du monde hispanophone.\nElle s'élève sur l'ancienne Tenochtitlan, capitale des Aztèques fondée vers 1325 sur une île du lac Texcoco, détruite puis rebâtie par les Espagnols après 1521.",
+    "details": {
+      "sections": [
+        {
+          "titre": "De Tenochtitlan à Mexico",
+          "texte": "Les Mexicas, ou Aztèques, fondent Tenochtitlan sur un îlot du lac Texcoco. L'Empire aztèque tombe en 1521. Dès 1522, Hernán Cortés veut y établir le centre de la Nouvelle-Espagne et lui donne le nom de México : elle devient la première grande ville américaine au plan européen. Du lac asséché, il ne reste presque que les canaux de Xochimilco, classés à l'UNESCO."
+        },
+        {
+          "titre": "Séismes, volcans et sol qui s'enfonce",
+          "texte": "La ville se trouve sur d'anciens sédiments lacustres, dans une zone sismique. Le séisme du 19 septembre 1985, de magnitude 8,1, fait entre 10 000 et 50 000 morts. Le volcan Popocatepetl est à moins de 70 km du centre. Le pompage de l'eau fait aussi s'affaisser certains quartiers de plusieurs centimètres par an, et jusqu'à 30 cm par an selon une mesure de 2017."
+        }
+      ],
+      "wikipedia": "Mexico"
+    },
+    "source": "D'après Wikipédia — Mexico"
+  },
+  {
+    "id": "geo-092",
+    "domain": "geo",
+    "subtheme": "Villes",
+    "type": "classique",
+    "title": "Machu Picchu",
+    "subtitle": "Cité inca du XVe siècle, au Pérou",
+    "summary": "Machu Picchu est une cité inca du XVe siècle, perchée à 2 438 mètres d'altitude dans les Andes, au Pérou. Elle domine la rivière Urubamba, à soixante-quatorze kilomètres de Cuzco.\nAbandonnée après la chute de l'Empire inca, elle est restée méconnue pendant des siècles. L'Américain Hiram Bingham l'explore en 1911 et lui donne sa réputation de « cité perdue ». Elle est classée à l'UNESCO depuis 1983.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une résidence de l'empereur",
+          "texte": "La cité a sans doute été construite sous Pachacútec, qui a fondé l'Empire inca. Elle faisait partie d'un domaine royal : un palais de campagne où l'empereur et sa lignée ne séjournaient que par saisons. Elle comptait entre 300 et 1 000 habitants, dont des serviteurs et des paysans amenés de tout l'empire. Les experts écartent l'idée d'une forteresse militaire."
+        },
+        {
+          "titre": "Pierres, pics et mythe",
+          "texte": "Ses 172 constructions s'étendent sur 530 mètres de long et 200 de large, entre le mont Machu Picchu (« vieille montagne ») et le Huayna Picchu (« jeune montagne »). La guerre civile inca puis l'arrivée des Espagnols en 1534 la vident de son sens. Le mythe de la « cité perdue » doit beaucoup au livre de Bingham. On y accède par le chemin de l'Inca ou en train jusqu'à Aguas Calientes."
+        }
+      ],
+      "wikipedia": "Machu Picchu"
+    },
+    "source": "D'après Wikipédia — Machu Picchu"
+  },
+  {
+    "id": "geo-093",
+    "domain": "geo",
+    "subtheme": "Villes",
+    "type": "classique",
+    "title": "Angkor",
+    "subtitle": "Ancienne capitale de l'Empire khmer, au Cambodge",
+    "summary": "Angkor est un immense site archéologique du Cambodge : environ 200 temples et d'importants ouvrages pour l'eau, sur plus de 400 km². Capitale de l'Empire khmer du IXe au XIVe siècle, il est classé à l'UNESCO depuis 1992.\nAngkor Vat et Angkor Thom en sont les deux ensembles les plus célèbres. Le site a sans doute été la plus grande ville préindustrielle connue.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une ville hydraulique",
+          "texte": "Des réservoirs géants, les barays, des canaux et des digues stabilisaient et redistribuaient l'eau, ce qui permettait de cultiver le riz. Les travaux de 2007 montrent une ville d'au moins 1 000 km², qui aurait fait vivre de 750 000 à un million d'habitants. Les rois bâtissent d'abord des temples-montagnes, comme le Bakong (881), image du mont Meru, séjour des dieux dans la cosmologie hindoue."
+        },
+        {
+          "titre": "Angkor Vat et le Bayon",
+          "texte": "Angkor Vat, construit de 1113 à 1150 sous Sūryavarman II, est un temple-mausolée dédié à Vishnou. Après avoir reconquis Angkor en 1181, Jayavarman VII fait du bouddhisme la religion d'État et bâtit Angkor Thom, le Bayon, Ta Prohm et Preah Khan. En 1296-1297, le diplomate chinois Zhou Daguan y séjourne et décrit la vie de la cour dans Les Coutumes du Cambodge."
+        }
+      ],
+      "anecdotes": [
+        "Le naturaliste français Henri Mouhot publie en 1863 le récit de sa visite, ce qui contribue à faire connaître Angkor en Europe, même si les habitants du pays ne l'avaient jamais oublié."
+      ],
+      "wikipedia": "Angkor"
+    },
+    "source": "D'après Wikipédia — Angkor"
+  },
+  {
+    "id": "geo-094",
+    "domain": "geo",
+    "subtheme": "Explorateurs",
+    "type": "personnage",
+    "title": "Vasco de Gama",
+    "subtitle": "Navigateur portugais, né vers 1460 ou 1469 et mort en 1524",
+    "summary": "Le Portugais Vasco de Gama est réputé avoir été le premier Européen à rallier l'Inde par la mer. Il y arrive en 1498 en contournant l'Afrique par le cap de Bonne-Espérance.\nSa route maritime permet au Portugal de commercer directement avec l'Orient, sans passer par les terres du Moyen-Orient. Il meurt à Cochin en 1524, peu après avoir été nommé vice-roi des Indes.",
+    "details": {
+      "epoque": "Fin du XVe et début du XVIe siècle.",
+      "pourquoiCelebre": "Il ouvre la route maritime de l'Europe vers l'Inde par le cap de Bonne-Espérance.",
+      "ideesClefs": [
+        "Départ de Lisbonne le 8 juillet 1497 avec quatre navires et environ 200 hommes",
+        "Arrivée près de Calicut en mai 1498, après avoir doublé le cap de Bonne-Espérance en novembre 1497",
+        "Vice-roi des Indes en 1524, il meurt de la malaria à Cochin la même année"
+      ],
+      "liens": [
+        {
+          "nom": "Bartolomeu Dias",
+          "relation": "Il avait ouvert la voie en atteignant le cap de Bonne-Espérance avant lui."
+        },
+        {
+          "nom": "Manuel Ier de Portugal",
+          "relation": "Le roi qui l'envoie vers l'Inde en 1497."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un voyage de deux ans",
+          "texte": "Pour éviter les vents contraires, la flotte fait une grande boucle dans l'Atlantique, jusqu'au large du Brésil. Tempêtes, mutineries, dysenterie et scorbut déciment les équipages. Le retour est pire encore : le São Rafael est brûlé faute de marins. Le voyage s'achève en septembre 1499 avec 54 survivants. Le frère de Gama, Paulo, est mort en route."
+        },
+        {
+          "titre": "Un échec commercial, un triomphe politique",
+          "texte": "À Calicut, le Zamorin est déçu par les cadeaux (miel, chapeaux, pots de chambre) et refuse tout avantage commercial. Gama est pourtant couvert d'honneurs à son retour et nommé « amiral des Indes ». Sa seconde expédition, en 1502, compte vingt navires et se montre violente. Elle inaugure l'empire colonial du Portugal."
+        }
+      ],
+      "anecdotes": [
+        "Les Lusiades, poème épique de Luís de Camões publié en 1572, transforment l'aventure de Gama en mythe national portugais."
+      ],
+      "wikipedia": "Vasco de Gama"
+    },
+    "source": "D'après Wikipédia — Vasco de Gama"
+  },
+  {
+    "id": "geo-095",
+    "domain": "geo",
+    "subtheme": "Explorateurs",
+    "type": "personnage",
+    "title": "James Cook",
+    "subtitle": "Navigateur et cartographe britannique, 1728-1779",
+    "summary": "James Cook, fils d'un valet de ferme, devient capitaine de la Royal Navy et explore le Pacifique lors de trois grands voyages. Il est le premier Européen à mettre pied à terre sur la côte orientale de l'Australie, et le premier à avoir contourné l'Antarctique.\nIl cartographie aussi la Nouvelle-Zélande avec très peu d'erreurs. Il meurt à Hawaï en 1779, lors d'un combat avec des habitants.",
+    "details": {
+      "epoque": "XVIIIe siècle.",
+      "pourquoiCelebre": "Ses trois voyages dans le Pacifique ont livré des cartes fiables d'une multitude d'îles et de rivages.",
+      "ideesClefs": [
+        "Cartographie de l'embouchure du Saint-Laurent pendant le siège de Québec en 1759",
+        "Premier voyage sur l'Endeavour (1768-1771) : Tahiti, Nouvelle-Zélande puis côte est de l'Australie",
+        "Mort à Hawaï le 14 février 1779, au cours de sa troisième expédition"
+      ],
+      "liens": [
+        {
+          "nom": "Joseph Banks",
+          "relation": "Botaniste de l'expédition de l'Endeavour, qui conseillera Botany Bay pour une colonie."
+        },
+        {
+          "nom": "Tupaia",
+          "relation": "Tahitien embarqué à bord, précieux guide et interprète dans le Pacifique."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Du Saint-Laurent au Pacifique",
+          "texte": "Après avoir été apprenti dans la marine marchande, Cook rejoint la Royal Navy en 1755. Pendant le siège de Québec, ses cartes du Saint-Laurent aident le général Wolfe à lancer l'attaque sur les plaines d'Abraham. Il cartographie ensuite Terre-Neuve. Cela lui vaut l'attention de la Royal Society, qui lui confie en 1768 le commandement de l'Endeavour."
+        },
+        {
+          "titre": "Vénus, la Nouvelle-Zélande, l'Australie",
+          "texte": "À Tahiti, en 1769, il observe le transit de Vénus. Il cherche ensuite un continent austral, qu'il ne trouve pas. Il cartographie la Nouvelle-Zélande et le détroit qui porte son nom. En avril 1770, il longe la côte est de l'Australie et débarque à Botany Bay le 29 avril. En juin, l'Endeavour talonne sur la Grande barrière de corail et doit être réparé pendant près de sept semaines."
+        }
+      ],
+      "wikipedia": "James Cook"
+    },
+    "source": "D'après Wikipédia — James Cook"
+  },
+  {
+    "id": "geo-096",
+    "domain": "geo",
+    "subtheme": "Explorateurs",
+    "type": "personnage",
+    "title": "Roald Amundsen",
+    "subtitle": "Explorateur polaire norvégien, 1872-1928",
+    "summary": "Roald Amundsen est un marin et explorateur polaire norvégien. Il franchit le premier le passage du Nord-Ouest par la mer, entre 1903 et 1906, puis arrive au pôle Sud avant tout le monde, le 14 décembre 1911.\nEn 1926, il survole le pôle Nord en dirigeable : il devient le premier homme à avoir atteint les deux pôles. Il disparaît en 1928, en partant à la recherche d'Umberto Nobile.",
+    "details": {
+      "epoque": "De la fin du XIXe siècle à 1928.",
+      "pourquoiCelebre": "Il a remporté la course au pôle Sud, grâce à une préparation minutieuse, aux skis et aux chiens d'attelage.",
+      "ideesClefs": [
+        "Passage du Nord-Ouest franchi à bord du Gjøa (1903-1906)",
+        "Pôle Sud atteint le 14 décembre 1911, avec quatre compagnons",
+        "Premier à avoir atteint les deux pôles, après le survol du pôle Nord en 1926"
+      ],
+      "liens": [
+        {
+          "nom": "Robert Falcon Scott",
+          "relation": "Son rival britannique dans la course au pôle Sud."
+        },
+        {
+          "nom": "Fridtjof Nansen",
+          "relation": "Il l'encourage et lui prête le navire Fram."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Apprendre des Inuits",
+          "texte": "Pour passer par le Nord-Ouest, Amundsen embarque sur le Gjøa, un petit bateau de pêche de 47 tonnes, capable de naviguer par un mètre de fond. Il hiverne deux ans près de l'île du Roi-Guillaume et apprend des Inuits Netsilik à conduire des chiens d'attelage et à porter des fourrures plutôt que de lourdes parkas en laine. Le passage est franchi en 1905."
+        },
+        {
+          "titre": "La course vers le pôle Sud",
+          "texte": "En 1909, Amundsen apprend que deux Américains annoncent avoir atteint le pôle Nord. Il change alors de cap en secret et prévient Scott par télégramme depuis Madère. Avec cinq hommes, quatre traîneaux et 52 chiens, il part le 19 octobre 1911 et atteint le pôle Sud le 14 décembre. Scott en était encore à 572 km."
+        }
+      ],
+      "anecdotes": [
+        "Lors de l'expédition de la Belgica (1897-1899), premier hivernage en Antarctique, Amundsen est le premier à y utiliser des skis."
+      ],
+      "wikipedia": "Roald Amundsen"
+    },
+    "source": "D'après Wikipédia — Roald Amundsen"
+  },
+  {
+    "id": "geo-097",
+    "domain": "geo",
+    "subtheme": "Explorateurs",
+    "type": "personnage",
+    "title": "Ibn Battûta",
+    "subtitle": "Voyageur marocain, né à Tanger en 1304",
+    "summary": "Ibn Battûta est un voyageur né à Tanger en 1304. À 21 ans, il part faire le pèlerinage à La Mecque, et ne rentre chez lui que près de vingt-cinq ans plus tard, après avoir parcouru environ 120 000 km.\nIl a visité le Moyen-Orient, l'Inde, l'Asie du Sud-Est, la Chine et l'Afrique. Ses souvenirs ont été mis en forme dans un livre célèbre, la Rihla, mais certains historiens doutent de la réalité de tous ses voyages.",
+    "details": {
+      "epoque": "XIVe siècle.",
+      "pourquoiCelebre": "Il est l'un des plus grands voyageurs du Moyen Âge, et sa Rihla est un témoignage majeur sur le monde musulman de son temps.",
+      "ideesClefs": [
+        "Départ de Tanger le 14 juin 1325, retour le 8 novembre 1349",
+        "Environ 120 000 km, de Tombouctou à Quanzhou, en Chine",
+        "Souvenirs dictés vers 1355 au lettré Ibn Juzayy, sur ordre du sultan mérinide"
+      ],
+      "liens": [
+        {
+          "nom": "Ibn Juzayy",
+          "relation": "Le lettré qui met par écrit ses récits dans la Rihla."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Quatre grandes périodes de voyage",
+          "texte": "De 1325 à 1327, il traverse le Maghreb, l'Égypte, la Syrie, l'Irak et l'Iran. De 1328 à 1330, il longe l'Arabie du Sud et les côtes swahilies, jusqu'à Kilwa. De 1330 à 1346, il parcourt l'Anatolie, l'Asie centrale, l'Inde, l'Asie du Sud-Est et la Chine. Il traverse enfin le Sahara vers le Mali, de 1349 à 1354. En tout, il fait six pèlerinages à La Mecque."
+        },
+        {
+          "titre": "Un récit à lire avec prudence",
+          "texte": "Ibn Battûta circule surtout en terres d'islam, en caravane ou sur des bateaux de marchands, et conseille parfois les puissants qui l'accueillent. Enthousiasmé par Damas, il y voit un paradis terrestre. Mais il décrit des pyramides en forme de cône, et plusieurs historiens doutent qu'il soit allé au Mali ou ait fait tout ce qu'il raconte."
+        }
+      ],
+      "wikipedia": "Ibn Battûta"
+    },
+    "source": "D'après Wikipédia — Ibn Battûta"
+  },
+  {
+    "id": "geo-098",
+    "domain": "geo",
+    "subtheme": "Explorateurs",
+    "type": "personnage",
+    "title": "David Livingstone",
+    "subtitle": "Missionnaire et explorateur écossais, 1813-1873",
+    "summary": "David Livingstone, né dans une famille pauvre près de Glasgow, travaille à la filature dès dix ans, puis devient médecin et missionnaire. Il explore l'Afrique centrale et australe et devient un héros de l'époque victorienne.\nIl est le premier Européen à traverser l'Afrique d'ouest en est et fait connaître les chutes Victoria. Il s'éteint en 1873, obsédé jusqu'au bout par les sources du Nil.",
+    "details": {
+      "epoque": "XIXe siècle.",
+      "pourquoiCelebre": "Il a traversé l'Afrique et révélé au public britannique des régions inconnues, avant d'être « retrouvé » par Stanley.",
+      "ideesClefs": [
+        "Traversée de l'Afrique d'ouest en est, de Luanda à Quelimane (1854-1856)",
+        "Chutes du Zambèze baptisées Victoria en 1855, lac Malawi cartographié en 1859",
+        "Retrouvé par Henry Morton Stanley à Ujiji le 10 novembre 1871"
+      ],
+      "liens": [
+        {
+          "nom": "Henry Morton Stanley",
+          "relation": "Journaliste-explorateur qui le retrouve en 1871 et lui lance : « Dr Livingstone, je suppose ? »"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un héros victorien",
+          "texte": "À son retour en 1856, Livingstone est reçu en héros. Son récit de voyage, publié en 1857, s'arrache : la première édition, tirée à 12 000 exemplaires, est écoulée avant la sortie. Il défend une doctrine des « trois C » : christianisation, commerce, civilisation. Cette idée fait de lui, selon certains historiens, un précurseur de l'impérialisme colonial. Il ne convertit pourtant qu'un seul chef, Sechele."
+        },
+        {
+          "titre": "Les dernières années",
+          "texte": "Sa femme Mary meurt du paludisme en 1862. Livingstone repart en 1866 pour chercher les sources du Nil. Épuisé, lâché par ses porteurs, il n'a plus aucune nouvelle de son pays. Stanley le retrouve à Ujiji en 1871. Il décède le 1er mai 1873, au bord du lac Bangwelo. Ses serviteurs inhument son cœur au pied d'un arbre, puis portent son corps jusqu'à la côte."
+        }
+      ],
+      "wikipedia": "David Livingstone"
+    },
+    "source": "D'après Wikipédia — David Livingstone"
+  },
+  {
+    "id": "geo-099",
+    "domain": "geo",
+    "subtheme": "Explorateurs",
+    "type": "personnage",
+    "title": "Zheng He",
+    "subtitle": "Amiral et diplomate chinois, 1371-1433",
+    "summary": "Zheng He est un eunuque chinois musulman devenu amiral de la flotte impériale des Ming. Entre 1405 et 1433, il dirige sept grandes expéditions maritimes à travers l'océan Indien, jusqu'au Moyen-Orient et à l'Afrique de l'Est.\nÀ son sommet, sa flotte rassemble 69 navires environ et 30 000 hommes. Contrairement aux Portugais, la Chine n'en tira pas d'empire d'outre-mer.",
+    "details": {
+      "epoque": "Début du XVe siècle, dynastie Ming.",
+      "pourquoiCelebre": "Il a commandé la plus imposante flotte de son temps, qui a relié la Chine à l'Asie du Sud-Est, à l'Inde et à l'Afrique.",
+      "ideesClefs": [
+        "Né en 1371 au Yunnan, capturé et fait eunuque à 13 ans",
+        "Sept voyages entre 1405 et 1433, sous les empereurs Yongle puis Xuande",
+        "Escales à Java, Sumatra, Sri Lanka, en mer Rouge et sur la côte africaine, jusqu'au Mozambique"
+      ],
+      "liens": [
+        {
+          "nom": "Ma Huan",
+          "relation": "Fidèle compagnon de route, dont les notes forment la source principale sur ces voyages."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "De prisonnier à amiral",
+          "texte": "Né Mǎ Sānbǎo dans une famille musulmane, il est le fils du gouverneur du Yunnan. Son père meurt lors de l'invasion de la province par l'armée impériale. Lui-même est capturé à 13 ans et entre au service du prince Zhu Di, qui prend le trône en 1402 sous le nom de Yongle. Il reçoit en 1404 le nom de Zheng He, puis l'empereur le nomme amiral, alors qu'il n'a jamais navigué."
+        },
+        {
+          "titre": "Des navires, des échanges, une girafe",
+          "texte": "Des centaines de navires sont construits à Nankin. Les expéditions échangent or, argent, porcelaine et soie contre ivoire et animaux exotiques. De Malindi, dans l'actuel Kenya, Zheng He ramène une girafe, prise en Chine pour un qilin, animal légendaire. Il met aussi un terme aux attaques d'un pirate, Chen Zuyi, qui sévissait près de Malacca."
+        }
+      ],
+      "anecdotes": [
+        "À Java, Zheng He fait l'objet d'un culte : le temple Sam Poo Kong, à Semarang, lui est dédié."
+      ],
+      "wikipedia": "Zheng He"
+    },
+    "source": "D'après Wikipédia — Zheng He"
+  },
+  {
+    "id": "geo-100",
+    "domain": "geo",
+    "subtheme": "Explorateurs",
+    "type": "personnage",
+    "title": "Ernest Shackleton",
+    "subtitle": "Explorateur polaire anglo-irlandais, 1874-1922",
+    "summary": "Ernest Shackleton, né en Irlande, est l'une des grandes figures de l'exploration de l'Antarctique. Il échoue de peu à atteindre le pôle Sud en 1909, à environ 180 km du but.\nSon exploit le plus célèbre est un sauvetage : après la perte de l'Endurance, écrasé par les glaces en 1915, il ramène tous ses hommes vivants. Il meurt en 1922 en Géorgie du Sud.",
+    "details": {
+      "epoque": "Début du XXe siècle, âge héroïque de l'exploration antarctique.",
+      "pourquoiCelebre": "Il a sauvé tous les membres de l'expédition Endurance après deux ans de survie dans les glaces et les tempêtes.",
+      "ideesClefs": [
+        "Expédition Nimrod (1907-1909) : record de latitude, 88°23' S, à environ 180 km du pôle Sud",
+        "Endurance (1914-1917) : navire emprisonné puis écrasé par les glaces de la mer de Weddell",
+        "Traversée de la Géorgie du Sud à pied pour chercher des secours, tous les hommes sauvés"
+      ],
+      "liens": [
+        {
+          "nom": "Robert Falcon Scott",
+          "relation": "Chef de l'expédition Discovery, où Shackleton fait ses débuts polaires."
+        },
+        {
+          "nom": "Roald Amundsen",
+          "relation": "Son succès au pôle Sud en 1911 pousse Shackleton à viser la traversée du continent."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le record de 1909",
+          "texte": "En 1901, Shackleton est troisième officier sur le Discovery de Scott. Renvoyé pour raisons de santé, il revient en 1907 à la tête de l'expédition Nimrod. En janvier 1909, lui et trois compagnons arrivent à 88°23' S, la plus grande avancée vers le pôle de l'histoire. Il fait demi-tour pour sauver ses hommes. Édouard VII le fait chevalier."
+        },
+        {
+          "titre": "L'Endurance",
+          "texte": "Pour traverser l'Antarctique, Shackleton part en 1914. L'Endurance, pris dans la banquise, coule le 21 novembre 1915. L'équipage gagne l'île Éléphant en canots, puis Shackleton rejoint la Géorgie du Sud en chaloupe (environ 1 330 km), traverse l'île à pied et atteint la station de Stromness. Il organise ensuite le sauvetage, sans aucune perte humaine."
+        }
+      ],
+      "anecdotes": [
+        "L'épave de l'Endurance a été retrouvée un peu plus d'un siècle après la mort de Shackleton."
+      ],
+      "wikipedia": "Ernest Shackleton"
+    },
+    "source": "D'après Wikipédia — Ernest Shackleton"
+  },
+  {
+    "id": "geo-101",
+    "domain": "geo",
+    "subtheme": "Explorateurs",
+    "type": "personnage",
+    "title": "Alexandra David-Néel",
+    "subtitle": "Exploratrice et écrivaine française, 1868-1969",
+    "summary": "Alexandra David-Néel, d'abord chanteuse d'opéra, devient orientaliste, bouddhiste et exploratrice. En 1924, elle est la première Occidentale à atteindre Lhassa, capitale du Tibet, alors interdite aux étrangers.\nElle a écrit plus de trente livres sur les religions et la philosophie de l'Orient. Elle meurt à Digne-les-Bains en 1969.",
+    "details": {
+      "epoque": "De 1868 à 1969.",
+      "pourquoiCelebre": "Elle a rapporté en Europe la connaissance du bouddhisme tibétain et a atteint Lhassa en 1924.",
+      "ideesClefs": [
+        "Convertie au bouddhisme à 21 ans, elle étudie le sanskrit et le tibétain",
+        "Départ pour l'Inde en 1911, retour en 1925 avec le lama Aphur Yongden, qu'elle adopte en 1929",
+        "Rencontre le 13e dalaï-lama à Kalimpong en 1912"
+      ],
+      "liens": [
+        {
+          "nom": "Aphur Yongden",
+          "relation": "Jeune lama rencontré en 1914, son compagnon d'exploration et fils adoptif."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Pour la vie",
+          "annee": "1898"
+        },
+        {
+          "titre": "Le Modernisme bouddhiste et le Bouddhisme du Bouddha",
+          "annee": "1911"
+        },
+        {
+          "titre": "Voyage d'une Parisienne à Lhassa"
+        },
+        {
+          "titre": "Mystiques et Magiciens du Tibet",
+          "annee": "1929"
+        },
+        {
+          "titre": "Sous des nuées d'orage",
+          "annee": "1940"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "De la scène à l'Himalaya",
+          "texte": "Après le Conservatoire de Bruxelles, elle chante à l'opéra d'Hanoï, sous le nom d'Alexandra Myrial, puis à Athènes et à Tunis. Elle épouse Philippe Néel en 1904. En 1911, elle part seule pour l'Inde, avec le soutien de trois ministères, en promettant de revenir en dix-huit mois. Elle ne rentre qu'en 1925. Au Sikkim, elle vit avec Yongden dans une grotte, à plus de 4 000 mètres d'altitude."
+        },
+        {
+          "titre": "Une pensée libre",
+          "texte": "Fille d'un instituteur républicain, proche du géographe anarchiste Élisée Reclus, elle défend des idées anarchistes et féministes. Elle collabore au journal féministe La Fronde, mais préfère lutter pour l'émancipation économique des femmes. Elle fut aussi initiée à la franc-maçonnerie mixte. Ses livres ont influencé plus tard des auteurs de la Beat Generation, comme Jack Kerouac et Allen Ginsberg."
+        }
+      ],
+      "wikipedia": "Alexandra David-Néel"
+    },
+    "source": "D'après Wikipédia — Alexandra David-Néel"
   }
 ]

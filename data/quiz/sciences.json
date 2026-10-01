@@ -462,5 +462,1117 @@
     "bonneReponse": 0,
     "explication": "Vers 300 av. J.-C., Euclide démontre dans ses Éléments qu'il existe une infinité de nombres premiers. Son raisonnement : si on multiplie tous les nombres premiers d'une liste finie et qu'on ajoute 1, le résultat n'est divisible par aucun d'eux, donc la liste est forcément incomplète.",
     "source": "D'après Wikipédia — Théorème d'Euclide sur les nombres premiers"
+  },
+  {
+    "id": "q-sciences-030",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qui découvre l'induction électromagnétique en 1831 ?",
+    "choix": [
+      "Michael Faraday",
+      "Hans Christian Ørsted",
+      "André-Marie Ampère",
+      "James Clerk Maxwell"
+    ],
+    "bonneReponse": 0,
+    "explication": "Faraday montre qu'un champ magnétique en mouvement peut engendrer un courant électrique : c'est la base des génératrices. Ørsted avait découvert l'inverse, un courant qui crée un effet magnétique, en 1820.",
+    "source": "D'après Wikipédia — Michael Faraday"
+  },
+  {
+    "id": "q-sciences-031",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qui présente en 1861 la première photographie en couleur durable, à la Royal Institution de Londres ?",
+    "choix": [
+      "James Clerk Maxwell",
+      "Michael Faraday",
+      "Ernest Rutherford",
+      "Max Planck"
+    ],
+    "bonneReponse": 0,
+    "explication": "Maxwell avait montré que toutes les couleurs peuvent se fabriquer en mélangeant rouge, vert et bleu. Ce principe est celui de la couleur à la télévision et sur nos écrans.",
+    "source": "D'après Wikipédia — James Clerk Maxwell"
+  },
+  {
+    "id": "q-sciences-032",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle idée Max Planck introduit-il en 1900 pour expliquer le rayonnement du corps noir ?",
+    "choix": [
+      "L'énergie ne s'échange que par paquets, les quanta",
+      "La lumière est uniquement une onde",
+      "Les atomes ont un noyau central",
+      "La vitesse de la lumière est constante"
+    ],
+    "bonneReponse": 0,
+    "explication": "Planck suppose que l'énergie s'échange par multiples d'une quantité proportionnelle à la fréquence, avec une constante h. C'est le début de la théorie des quanta, que Planck lui-même acceptait avec peine.",
+    "source": "D'après Wikipédia — Max Planck"
+  },
+  {
+    "id": "q-sciences-033",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Comment Niels Bohr rejoint-il l'Angleterre en 1943, depuis la Suède ?",
+    "choix": [
+      "Dans la soute d'un avion Mosquito",
+      "À bord d'un sous-marin",
+      "À bord d'un chalutier de pêche",
+      "Par un train sous la Manche"
+    ],
+    "bonneReponse": 0,
+    "explication": "Menacé par l'occupant à cause des origines juives de sa mère, Bohr fuit le Danemark avec l'aide de la résistance. Il voyage clandestinement de Suède en Angleterre dans la soute d'un avion civil Mosquito.",
+    "source": "D'après Wikipédia — Niels Bohr"
+  },
+  {
+    "id": "q-sciences-034",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qu'est-ce que Rutherford découvre en 1911 grâce à l'expérience de la feuille d'or ?",
+    "choix": [
+      "Le noyau de l'atome",
+      "L'électron",
+      "Le neutron",
+      "Les rayons X"
+    ],
+    "bonneReponse": 0,
+    "explication": "Certaines particules alpha rebondissent presque en arrière : l'atome possède en son centre un noyau minuscule, qui concentre presque toute la masse et la charge positive. L'électron avait été découvert en 1897.",
+    "source": "D'après Wikipédia — Ernest Rutherford"
+  },
+  {
+    "id": "q-sciences-035",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qui reçoit seul le prix Nobel de chimie de 1944 pour la découverte de la fission nucléaire ?",
+    "choix": [
+      "Otto Hahn",
+      "Lise Meitner",
+      "Otto Frisch",
+      "Enrico Fermi"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hahn est récompensé seul, alors que Lise Meitner avait collaboré avec lui pendant des années et fourni l'explication théorique de la fission. Son exclusion est souvent citée comme l'une des grandes injustices du Nobel.",
+    "source": "D'après Wikipédia — Lise Meitner"
+  },
+  {
+    "id": "q-sciences-036",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Que donne le champ de Higgs à certaines particules élémentaires ?",
+    "choix": [
+      "Leur masse",
+      "Leur charge électrique",
+      "Leur vitesse",
+      "Leur durée de vie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mécanisme de Higgs explique la masse de particules comme les quarks et les électrons. En revanche, l'essentiel de la masse des noyaux vient de l'énergie qui lie les quarks entre eux.",
+    "source": "D'après Wikipédia — Boson de Higgs"
+  },
+  {
+    "id": "q-sciences-037",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "À quelle vitesse approximative le son voyage-t-il dans l'air à 15 °C ?",
+    "choix": [
+      "340 m/s",
+      "34 m/s",
+      "3 400 m/s",
+      "340 km/s"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le son parcourt environ 340 mètres par seconde dans l'air. Il va beaucoup plus vite dans l'eau, vers 1 500 m/s, et plus encore dans l'acier. Une vitesse de 340 km/s serait mille fois trop grande.",
+    "source": "D'après Wikipédia — Onde sonore"
+  },
+  {
+    "id": "q-sciences-038",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "À quoi est égale la poussée d'Archimède subie par un objet plongé dans un fluide ?",
+    "choix": [
+      "Au poids du volume de fluide déplacé",
+      "Au poids de l'objet",
+      "À la profondeur de l'objet",
+      "À la masse volumique de l'objet"
+    ],
+    "bonneReponse": 0,
+    "explication": "La poussée est égale au poids du fluide déplacé par l'objet. Si elle dépasse le poids de l'objet, il flotte ; sinon, il coule. C'est pourquoi un objet paraît plus léger dans l'eau.",
+    "source": "D'après Wikipédia — Poussée d'Archimède"
+  },
+  {
+    "id": "q-sciences-039",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle théorie décrit la gravitation comme une courbure de l'espace-temps ?",
+    "choix": [
+      "La relativité générale d'Einstein",
+      "La loi de la gravitation de Newton",
+      "Les équations de Maxwell",
+      "Le modèle atomique de Bohr"
+    ],
+    "bonneReponse": 0,
+    "explication": "Proposée par Einstein en 1915, la relativité générale voit la gravitation comme l'effet de la matière sur l'espace-temps. La loi de Newton reste une très bonne approximation quand les vitesses sont faibles.",
+    "source": "D'après Wikipédia — Gravitation"
+  },
+  {
+    "id": "q-sciences-040",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qui découvre la radioactivité en 1896, à partir de sels d'uranium ?",
+    "choix": [
+      "Henri Becquerel",
+      "Marie Curie",
+      "Wilhelm Röntgen",
+      "Ernest Rutherford"
+    ],
+    "bonneReponse": 0,
+    "explication": "Becquerel remarque que des sels d'uranium impressionnent une plaque photographique même sans lumière. Marie Curie confirme le phénomène avec le radium et invente le mot « radioactivité ». Röntgen avait découvert les rayons X en 1895.",
+    "source": "D'après Wikipédia — Radioactivité"
+  },
+  {
+    "id": "q-sciences-041",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Le son se propage aussi dans le vide, comme la lumière.",
+    "reponse": false,
+    "explication": "Le son est une vibration qui a besoin de matière pour se propager : air, eau ou solide. Dans le vide spatial, il ne peut pas voyager, alors que la lumière, elle, s'y propage très bien.",
+    "source": "D'après Wikipédia — Onde sonore"
+  },
+  {
+    "id": "q-sciences-042",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Niels Bohr a joué au football comme gardien de but.",
+    "reponse": true,
+    "explication": "Bohr était passionné de football et a joué en club à Copenhague, dans les buts. Son frère Harald, mathématicien, a même disputé les Jeux olympiques de 1908 avec l'équipe du Danemark.",
+    "source": "D'après Wikipédia — Niels Bohr"
+  },
+  {
+    "id": "q-sciences-043",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "La gravitation est la plus forte des quatre interactions fondamentales à l'échelle microscopique.",
+    "reponse": false,
+    "explication": "À l'échelle microscopique, c'est la plus faible des quatre. Mais comme elle est toujours attractive, elle domine à grande échelle et façonne les planètes, les étoiles et les galaxies.",
+    "source": "D'après Wikipédia — Gravitation"
+  },
+  {
+    "id": "q-sciences-044",
+    "domain": "sciences",
+    "format": "associer",
+    "question": "Associe chaque savant à sa contribution.",
+    "paires": [
+      {
+        "gauche": "Michael Faraday",
+        "droite": "L'induction électromagnétique",
+        "explication": "En 1831, il montre qu'un champ magnétique peut produire un courant électrique."
+      },
+      {
+        "gauche": "James Clerk Maxwell",
+        "droite": "Les équations de l'électromagnétisme",
+        "explication": "Elles réunissent électricité, magnétisme et lumière en une seule théorie."
+      },
+      {
+        "gauche": "Max Planck",
+        "droite": "Le quantum d'énergie",
+        "explication": "Il introduit la constante h et l'idée de paquets d'énergie."
+      },
+      {
+        "gauche": "Ernest Rutherford",
+        "droite": "Le noyau atomique",
+        "explication": "Il comprend que l'atome a en son centre un noyau minuscule et dense."
+      }
+    ],
+    "explication": "Ces quatre savants ont bâti la physique moderne : de l'électricité de Faraday et Maxwell aux quanta de Planck, jusqu'à l'atome nucléaire de Rutherford, qui inspire ensuite Bohr.",
+    "source": "D'après Wikipédia — Électromagnétisme"
+  },
+  {
+    "id": "q-sciences-045",
+    "domain": "sciences",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née à Vienne en 1878 et j'ai dû lutter pour faire des études scientifiques.",
+      "À Berlin, je dirige un département de physique dès 1917.",
+      "Avec Otto Hahn, je découvre le protactinium en 1918.",
+      "Exilée en Suède en 1938, j'explique avec mon neveu Otto Frisch la fission nucléaire.",
+      "Un élément chimique, le meitnérium, porte mon nom."
+    ],
+    "reponse": "Lise Meitner",
+    "explication": "Lise Meitner a fourni la première explication de la fission de l'uranium, mais n'a pas partagé le Nobel de chimie 1944 attribué à Otto Hahn. L'élément 109 a été nommé meitnérium en son honneur.",
+    "source": "D'après Wikipédia — Lise Meitner"
+  },
+  {
+    "id": "q-sciences-046",
+    "domain": "sciences",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de l'électron dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Stoney invente le mot « électron »",
+        "annee": "1894"
+      },
+      {
+        "label": "Thomson montre que les rayons cathodiques sont des particules",
+        "annee": "1897"
+      },
+      {
+        "label": "Millikan mesure la charge de l'électron",
+        "annee": "1909"
+      },
+      {
+        "label": "Bohr place les électrons sur des orbites quantifiées",
+        "annee": "1913"
+      },
+      {
+        "label": "Lewis voit dans la liaison chimique une paire d'électrons partagés",
+        "annee": "1916"
+      }
+    ],
+    "explication": "L'électron est nommé avant d'être découvert : Stoney propose le mot en 1894, Thomson identifie la particule en 1897. Ensuite, Millikan la mesure et Bohr puis Lewis expliquent l'atome et les liaisons chimiques.",
+    "source": "D'après Wikipédia — Électron"
+  },
+  {
+    "id": "q-sciences-047",
+    "domain": "sciences",
+    "format": "difference",
+    "question": "Quelle est la différence entre la gravité et la pesanteur ?",
+    "choix": [
+      "La pesanteur ajoute à la gravité l'effet de la rotation de la Terre",
+      "La gravité s'applique aux planètes, la pesanteur aux étoiles",
+      "La gravité dépend de la masse, la pesanteur de la couleur",
+      "Il n'y a aucune différence, ce sont deux mots pour la même force"
+    ],
+    "bonneReponse": 0,
+    "explication": "La gravité est la somme des attractions dues à la gravitation. La pesanteur y ajoute l'effet du mouvement de rotation de notre planète. Un satellite en orbite subit la gravité ; un corps posé sur Terre, la pesanteur.",
+    "source": "D'après Wikipédia — Gravitation"
+  },
+  {
+    "id": "q-sciences-048",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Comment Alfred Nobel a-t-il rendu la nitroglycérine plus sûre à manipuler ?",
+    "choix": [
+      "En l'absorbant dans une terre de diatomée, le kieselguhr",
+      "En la refroidissant à très basse température",
+      "En la diluant dans de l'eau",
+      "En la stockant sous haute pression"
+    ],
+    "bonneReponse": 0,
+    "explication": "Mélangée à du kieselguhr, une terre de diatomée absorbante, la nitroglycérine devient bien plus sûre à transporter : elle n'explose plus qu'avec un détonateur. Nobel a breveté cette dynamite en 1867.",
+    "source": "D'après Wikipédia — Alfred Nobel"
+  },
+  {
+    "id": "q-sciences-049",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Il existe un prix Nobel de mathématiques.",
+    "reponse": false,
+    "explication": "Il n'y en a pas : Nobel ne s'en est jamais expliqué. La médaille Fields, depuis 1936, et le prix Abel, depuis 2003, jouent un rôle comparable. L'histoire d'une rivalité amoureuse avec Mittag-Leffler est une rumeur sans fondement.",
+    "source": "D'après Wikipédia — Prix Nobel"
+  },
+  {
+    "id": "q-sciences-050",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel chimiste a été couronné en chimie en 1954, puis pour la paix en 1962 ?",
+    "choix": [
+      "Linus Pauling",
+      "Fritz Haber",
+      "Dorothy Crowfoot Hodgkin",
+      "Hermann Staudinger"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pauling est honoré en 1954 pour ses travaux sur la liaison chimique, puis en 1962 pour son combat contre les essais atomiques. Avec Marie Curie, il est l'un des deux seuls à l'avoir été dans deux domaines différents.",
+    "source": "D'après Wikipédia — Linus Pauling"
+  },
+  {
+    "id": "q-sciences-051",
+    "domain": "sciences",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née au Caire en 1910.",
+      "À Oxford, j'ai eu pour élève la future Margaret Thatcher.",
+      "Dès l'âge de 24 ans, une polyarthrite rhumatoïde déforme mes mains.",
+      "J'ai décrypté la structure de la pénicilline, de la vitamine B12 et de l'insuline.",
+      "J'ai reçu le prix Nobel de chimie en 1964."
+    ],
+    "reponse": "Dorothy Crowfoot Hodgkin",
+    "explication": "Dorothy Crowfoot Hodgkin a utilisé les rayons X pour révéler la forme de molécules complexes. Elle a résolu la pénicilline en 1945, la vitamine B12, puis l'insuline en 1969, après 35 ans de travail.",
+    "source": "D'après Wikipédia — Dorothy Crowfoot Hodgkin"
+  },
+  {
+    "id": "q-sciences-052",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Comment s'appelle le procédé qui fabrique l'ammoniac à partir de l'azote de l'air et de l'hydrogène ?",
+    "choix": [
+      "Le procédé Haber-Bosch",
+      "Le procédé Fischer-Tropsch",
+      "Le procédé Houdry",
+      "Le procédé Ziegler-Natta"
+    ],
+    "bonneReponse": 0,
+    "explication": "Mis au point par Fritz Haber et industrialisé par Carl Bosch chez BASF, qui l'adopte en 1909, il fabrique l'ammoniac des engrais à haute pression avec un catalyseur. Ce procédé vaut son Nobel de chimie à Haber, en 1918.",
+    "source": "D'après Wikipédia — Fritz Haber"
+  },
+  {
+    "id": "q-sciences-053",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Le diamant et le graphite sont deux formes d'un même élément chimique : le carbone.",
+    "reponse": true,
+    "explication": "Dans le diamant, chaque atome est lié à quatre autres : c'est la matière naturelle la plus dure. Dans le graphite, les atomes forment des feuillets qui glissent, d'où sa tendreté. En 1772, Lavoisier a prouvé que le diamant n'est que du carbone.",
+    "source": "D'après Wikipédia — Carbone"
+  },
+  {
+    "id": "q-sciences-054",
+    "domain": "sciences",
+    "format": "associer",
+    "question": "Associe chaque chercheur à la matière plastique qu'il a inventée ou découverte.",
+    "paires": [
+      {
+        "gauche": "Leo Baekeland",
+        "droite": "La Bakélite",
+        "explication": "En 1907, Baekeland invente la première matière plastique industrielle entièrement synthétique."
+      },
+      {
+        "gauche": "Wallace Carothers",
+        "droite": "Le nylon",
+        "explication": "Ce chimiste de Du Pont de Nemours met au point les polyamides en 1935, connus sous le nom de nylon."
+      },
+      {
+        "gauche": "Roy Plunkett",
+        "droite": "Le téflon",
+        "explication": "Chez Du Pont de Nemours, Plunkett découvre par hasard le PTFE en 1938, plus tard utilisé pour les poêles."
+      },
+      {
+        "gauche": "Stephanie Kwolek",
+        "droite": "Le Kevlar",
+        "explication": "Avec Herbert Blades, elle découvre en 1965 cette fibre légère et très résistante, utilisée dans les gilets pare-balles."
+      }
+    ],
+    "explication": "Beaucoup de plastiques sont nés par hasard ou après des années de recherche. La Bakélite (1907), le nylon (1935), le téflon (1938) et le Kevlar (1965) ont chacun ouvert de nouveaux usages.",
+    "source": "D'après Wikipédia — Matière plastique"
+  },
+  {
+    "id": "q-sciences-055",
+    "domain": "sciences",
+    "format": "difference",
+    "question": "Quelle est la différence entre un mélange homogène et un mélange hétérogène ?",
+    "choix": [
+      "Dans un mélange homogène, on ne distingue pas les constituants à l'œil nu ; dans un hétérogène, on en distingue au moins deux",
+      "Dans un mélange homogène, les constituants réagissent chimiquement ; dans un hétérogène, ils ne réagissent pas",
+      "Un mélange homogène ne contient qu'une seule substance, un mélange hétérogène en contient plusieurs",
+      "On ne peut séparer que les mélanges hétérogènes par des moyens physiques"
+    ],
+    "bonneReponse": 0,
+    "explication": "Du sel dissous dans l'eau est homogène : on ne voit pas le sel. Du sable dans l'eau est hétérogène : les deux sont visibles. Dans les deux cas, les constituants gardent leurs propriétés et peuvent être séparés par des moyens physiques.",
+    "source": "D'après Wikipédia — Mélange"
+  },
+  {
+    "id": "q-sciences-056",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Combien de neutrons contient un atome de carbone 14, sachant que le carbone possède 6 protons ?",
+    "choix": [
+      "8",
+      "6",
+      "14",
+      "12"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nombre 14 est le nombre de masse : protons plus neutrons. Avec 6 protons, il reste 14 - 6 = 8 neutrons. Ce carbone radioactif sert à dater des objets archéologiques.",
+    "source": "D'après Wikipédia — Isotope"
+  },
+  {
+    "id": "q-sciences-057",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Dans la formation de la rouille, que fait le fer ?",
+    "choix": [
+      "Il perd des électrons : il est oxydé",
+      "Il gagne des électrons : il est réduit",
+      "Il reste inchangé, comme un catalyseur",
+      "Il partage ses électrons avec l'oxygène en liaison covalente"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans la rouille, le fer est le réducteur : il cède des électrons au dioxygène, l'oxydant, qui est réduit. Oxydation et réduction vont toujours ensemble, d'où le nom de réaction d'oxydoréduction.",
+    "source": "D'après Wikipédia — Réaction d'oxydoréduction"
+  },
+  {
+    "id": "q-sciences-058",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Un catalyseur est consommé par la réaction qu'il accélère.",
+    "reponse": false,
+    "explication": "Un catalyseur participe à une étape de la réaction puis est régénéré : il n'apparaît pas dans le bilan. Un peu de dioxyde de manganèse suffit à décomposer l'eau oxygénée en eau et en oxygène, et on le retrouve intact.",
+    "source": "D'après Wikipédia — Catalyse"
+  },
+  {
+    "id": "q-sciences-059",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quels sont les quatre éléments du « tétraèdre du feu » ?",
+    "choix": [
+      "Combustible, comburant, énergie d'activation et radicaux libres",
+      "Combustible, eau, chaleur et fumée",
+      "Air, bois, flamme et cendres",
+      "Oxygène, azote, hydrogène et carbone"
+    ],
+    "bonneReponse": 0,
+    "explication": "Avant 1980, on parlait d'un triangle du feu à trois éléments. Depuis, on sait que les radicaux libres entretiennent la réaction : c'est le tétraèdre. Supprimer un seul de ces quatre éléments suffit à éteindre le feu.",
+    "source": "D'après Wikipédia — Combustion"
+  },
+  {
+    "id": "q-sciences-060",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Comment le dioxygène est-il apparu dans l'atmosphère terrestre ?",
+    "choix": [
+      "Grâce à la photosynthèse des cyanobactéries, des algues et des végétaux",
+      "Il était déjà présent à la formation de la planète",
+      "Il a été apporté par des comètes",
+      "Il a été libéré par les volcans"
+    ],
+    "bonneReponse": 0,
+    "explication": "À l'origine, la Terre n'avait pas de dioxygène. Il s'est accumulé grâce à la photosynthèse, notamment celle des cyanobactéries, apparues peut-être il y a 2,8 milliards d'années. Il était toxique pour les premières formes de vie.",
+    "source": "D'après Wikipédia — Oxygène"
+  },
+  {
+    "id": "q-sciences-061",
+    "domain": "sciences",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire des prix Nobel dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Nobel signe le testament qui crée les prix",
+        "annee": "1895"
+      },
+      {
+        "label": "La fondation Nobel voit le jour",
+        "annee": "1900"
+      },
+      {
+        "label": "Les premiers prix Nobel sont décernés",
+        "annee": "1901"
+      },
+      {
+        "label": "La Banque de Suède crée un prix d'économie",
+        "annee": "1968"
+      },
+      {
+        "label": "Fin des prix décernés à titre posthume",
+        "annee": "1974"
+      }
+    ],
+    "explication": "Le testament date de 1895, la fondation de 1900 et la première remise de 1901. En 1968, la Banque de Suède crée un prix d'économie, et depuis 1974, un prix ne peut plus être décerné à titre posthume.",
+    "source": "D'après Wikipédia — Prix Nobel"
+  },
+  {
+    "id": "q-sciences-062",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel élément radioactif Chien-Shiung Wu a-t-elle utilisé dans son expérience sur la parité en 1956 ?",
+    "choix": [
+      "Le cobalt 60",
+      "L'uranium 235",
+      "Le carbone 14",
+      "Le radium 226"
+    ],
+    "bonneReponse": 0,
+    "explication": "Wu a refroidi un échantillon de cobalt 60 à très basse température dans un champ magnétique. Ses particules bêta étaient émises de façon asymétrique, ce qui prouve que la parité n'est pas conservée dans l'interaction faible.",
+    "source": "D'après Wikipédia — Chien-Shiung Wu"
+  },
+  {
+    "id": "q-sciences-063",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Selon Alhazen, comment voit-on un objet ?",
+    "choix": [
+      "Grâce à des rayons de lumière qui pénètrent dans l'œil",
+      "Grâce à des rayons émis par l'œil qui touchent l'objet",
+      "Grâce à une image envoyée directement par le Soleil au cerveau",
+      "Grâce à des particules d'air qui transportent la couleur"
+    ],
+    "bonneReponse": 0,
+    "explication": "Alhazen défend la théorie de l'intromission : la lumière entre dans l'œil, qui fonctionne comme un instrument d'optique, puis le cerveau interprète l'image. Euclide et Ptolémée croyaient au contraire que l'œil émettait des rayons.",
+    "source": "D'après Wikipédia — Alhazen"
+  },
+  {
+    "id": "q-sciences-064",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Chien-Shiung Wu a reçu le prix Nobel de physique en 1957 pour son expérience sur la parité.",
+    "reponse": false,
+    "explication": "Le Nobel de physique 1957 est allé aux théoriciens Tsung-Dao Lee et Chen Ning Yang. Wu, qui avait réalisé l'expérience, n'a été honorée publiquement qu'en 1978, avec le premier prix Wolf de physique.",
+    "source": "D'après Wikipédia — Chien-Shiung Wu"
+  },
+  {
+    "id": "q-sciences-065",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Que signifie le mot grec dont vient « isotope », suggéré à Frederick Soddy en 1913 ?",
+    "choix": [
+      "Au même endroit",
+      "De même masse",
+      "De même charge",
+      "Sans neutron"
+    ],
+    "bonneReponse": 0,
+    "explication": "Margaret Todd, médecin écossaise, suggère ce mot à Soddy : les isotopes d'un élément occupent la même case du tableau périodique. Ils ont le même nombre de protons mais un nombre de neutrons différent.",
+    "source": "D'après Wikipédia — Isotope"
+  },
+  {
+    "id": "q-sciences-066",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qui a découvert l'existence des cellules en 1665 ?",
+    "choix": [
+      "Robert Hooke",
+      "Antoni van Leeuwenhoek",
+      "Theodor Schwann",
+      "Louis Pasteur"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le naturaliste anglais Robert Hooke découvre les cellules en 1665. Il les nomme ainsi en pensant aux alvéoles de miel des ruches. La théorie cellulaire, selon laquelle tout être vivant est fait de cellules, n'arrive qu'en 1839.",
+    "source": "D'après Wikipédia — Cellule (biologie)"
+  },
+  {
+    "id": "q-sciences-067",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel est le rôle principal des mitochondries dans la cellule ?",
+    "choix": [
+      "Produire l'ATP, source d'énergie",
+      "Stocker l'ADN",
+      "Fabriquer les protéines",
+      "Digérer les déchets"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les mitochondries sont les centrales énergétiques de la cellule : elles fabriquent l'ATP grâce à la respiration cellulaire. L'ADN est, lui, gardé dans le noyau, et les protéines sont assemblées par les ribosomes.",
+    "source": "D'après Wikipédia — Mitochondrie"
+  },
+  {
+    "id": "q-sciences-068",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Les globules rouges contiennent de très nombreuses mitochondries.",
+    "reponse": false,
+    "explication": "C'est faux : les globules rouges n'ont aucune mitochondrie. À l'inverse, les cellules du foie et les muscles en comptent des milliers, car ils consomment beaucoup d'énergie. Ces organites sont les centrales de la cellule.",
+    "source": "D'après Wikipédia — Mitochondrie"
+  },
+  {
+    "id": "q-sciences-069",
+    "domain": "sciences",
+    "format": "difference",
+    "question": "Quelle est la différence entre un gène et un chromosome ?",
+    "choix": [
+      "Le gène est un petit segment d'ADN codant une protéine ; le chromosome est la structure qui en porte beaucoup",
+      "Le gène est plus grand que le chromosome et le contient",
+      "Le gène est une protéine, le chromosome est un sucre",
+      "Le gène existe seulement chez l'humain, le chromosome chez les bactéries"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un gène est un morceau d'ADN qui contient la recette d'une protéine. Les gènes sont portés par les chromosomes, et chaque chromosome en contient un grand nombre, comme un volume d'encyclopédie contient des phrases.",
+    "source": "D'après Wikipédia — Gène"
+  },
+  {
+    "id": "q-sciences-070",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Environ combien de gènes l'être humain possède-t-il, selon le séquençage de son génome ?",
+    "choix": [
+      "De 20 000 à 25 000",
+      "100 000",
+      "3 milliards",
+      "Environ 500"
+    ],
+    "bonneReponse": 0,
+    "explication": "Avant le séquençage, on estimait 100 000 gènes. Le projet Génome humain a révélé qu'il y en a seulement de 20 000 à 25 000. Les 3 milliards correspondent au nombre de paires de bases, pas de gènes.",
+    "source": "D'après Wikipédia — Projet Génome humain"
+  },
+  {
+    "id": "q-sciences-071",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel est le rôle d'une enzyme ?",
+    "choix": [
+      "Accélérer une réaction chimique sans être consommée",
+      "Stocker l'information génétique",
+      "Former la paroi de la cellule",
+      "Transporter l'oxygène dans le sang"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une enzyme est une protéine qui joue le rôle de catalyseur : elle accélère une réaction, parfois des millions de fois, puis ressort intacte et peut servir à nouveau. C'est l'hémoglobine, pas l'enzyme, qui transporte l'oxygène.",
+    "source": "D'après Wikipédia — Enzyme"
+  },
+  {
+    "id": "q-sciences-072",
+    "domain": "sciences",
+    "format": "associer",
+    "question": "Associe chaque protéine à son rôle.",
+    "paires": [
+      {
+        "gauche": "Hémoglobine",
+        "droite": "Transporter le dioxygène dans le sang",
+        "explication": "Elle fixe le dioxygène grâce à l'hème, un cofacteur indispensable."
+      },
+      {
+        "gauche": "Myosine",
+        "droite": "Permettre la contraction des muscles",
+        "explication": "C'est un moteur moléculaire qui permet la mobilité."
+      },
+      {
+        "gauche": "Collagène",
+        "droite": "Assurer une structure dans les tissus",
+        "explication": "Il joue un rôle de soutien, comme l'actine dans la cellule."
+      },
+      {
+        "gauche": "Enzyme",
+        "droite": "Catalyser les réactions chimiques",
+        "explication": "Elle accélère les réactions nécessaires au métabolisme de la cellule."
+      }
+    ],
+    "explication": "Les protéines sont des chaînes d'acides aminés repliées en une forme précise. Cette forme détermine leur métier : transport, mouvement, structure ou catalyse des réactions chimiques.",
+    "source": "D'après Wikipédia — Protéine"
+  },
+  {
+    "id": "q-sciences-073",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Combien d'ATP une cellule produit-elle en moyenne à partir d'une molécule de glucose avec la respiration aérobie, en pratique ?",
+    "choix": [
+      "30 à 32",
+      "2",
+      "100",
+      "Un seul"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le rendement théorique est de 36 ATP, mais les pertes ramènent le résultat à environ 30 à 32. Sans oxygène, la cellule n'obtient que 2 ATP par glucose, d'où l'intérêt de la respiration aérobie.",
+    "source": "D'après Wikipédia — Respiration cellulaire"
+  },
+  {
+    "id": "q-sciences-074",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Les levures produisent de l'éthanol et du dioxyde de carbone par fermentation.",
+    "reponse": true,
+    "explication": "C'est vrai : la fermentation alcoolique, réalisée notamment par les levures, change les sucres en éthanol et en CO2. C'est ce qui permet de fabriquer le vin et la bière, et de faire lever le pain.",
+    "source": "D'après Wikipédia — Fermentation"
+  },
+  {
+    "id": "q-sciences-075",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel mot Jean-Baptiste de Lamarck a-t-il inventé ?",
+    "choix": [
+      "Biologie",
+      "Cellule",
+      "Évolution",
+      "Mitochondrie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Lamarck crée le mot « biologie » pour nommer l'étude du vivant, plantes et animaux réunis. Il est aussi l'un des premiers à proposer une théorie de l'évolution, dans la Philosophie zoologique, publiée en 1809.",
+    "source": "D'après Wikipédia — Jean-Baptiste de Lamarck"
+  },
+  {
+    "id": "q-sciences-076",
+    "domain": "sciences",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Delft en 1632 et j'ai commencé comme drapier.",
+      "Je n'avais aucune formation scientifique et je ne parlais ni anglais ni latin.",
+      "Mes lettres envoyées à la Royal Society décrivent un monde invisible.",
+      "Je fabriquais moi-même mes microscopes, qui grossissaient jusqu'à 200 fois."
+    ],
+    "reponse": "Antoni van Leeuwenhoek",
+    "explication": "Leeuwenhoek, drapier de Delft, découvre grâce à ses lentilles les protozoaires, les spermatozoïdes et les bactéries. Il garde sa technique secrète, ce qui retarde la reconnaissance de ses observations.",
+    "source": "D'après Wikipédia — Antoni van Leeuwenhoek"
+  },
+  {
+    "id": "q-sciences-077",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle découverte a valu le prix Nobel de médecine à Barbara McClintock en 1983 ?",
+    "choix": [
+      "Les transposons, éléments génétiques mobiles",
+      "La structure de l'ADN",
+      "Le premier clonage d'un mammifère",
+      "Les ciseaux moléculaires CRISPR"
+    ],
+    "bonneReponse": 0,
+    "explication": "En étudiant le maïs, McClintock a montré que certains morceaux d'ADN peuvent changer de place dans le génome. Elle a reçu le Nobel en 1983, trente ans après avoir cessé de publier face au scepticisme de ses collègues.",
+    "source": "D'après Wikipédia — Barbara McClintock"
+  },
+  {
+    "id": "q-sciences-078",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Dolly est issue de la fécondation d'un ovule par un spermatozoïde.",
+    "reponse": false,
+    "explication": "C'est faux : Dolly est née sans fécondation. Le noyau d'une cellule de glande mammaire d'une brebis adulte a été placé dans un ovule dont le noyau avait été retiré. Elle est le premier mammifère cloné de cette façon.",
+    "source": "D'après Wikipédia — Dolly (brebis)"
+  },
+  {
+    "id": "q-sciences-079",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Que désigne l'acronyme CRISPR ?",
+    "choix": [
+      "Des courtes répétitions palindromiques groupées et régulièrement espacées",
+      "Un type de protéine musculaire",
+      "Un vaccin contre les bactéries",
+      "Une méthode de séquençage du génome humain"
+    ],
+    "bonneReponse": 0,
+    "explication": "CRISPR désigne des séquences d'ADN répétées, observées pour la première fois en 1987 chez la bactérie E. coli. Associé à l'enzyme Cas9, il sert de ciseaux moléculaires pour modifier le génome.",
+    "source": "D'après Wikipédia — CRISPR"
+  },
+  {
+    "id": "q-sciences-080",
+    "domain": "sciences",
+    "format": "frise",
+    "question": "Remets ces événements dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Naissance de Dolly à l'institut Roslin, en Écosse",
+        "annee": "1996"
+      },
+      {
+        "label": "Annonce publique de la naissance de Dolly",
+        "annee": "1997"
+      },
+      {
+        "label": "Mort de Dolly",
+        "annee": "2003"
+      },
+      {
+        "label": "Quatre brebis sont clonées à partir de la même lignée cellulaire",
+        "annee": "2007"
+      }
+    ],
+    "explication": "Dolly naît en 1996 et sa naissance est annoncée en février 1997. Elle meurt en 2003. En 2007, la même équipe écossaise clone quatre brebis à partir de la même lignée de cellules : elles ne vieillissent pas plus vite.",
+    "source": "D'après Wikipédia — Dolly (brebis)"
+  },
+  {
+    "id": "q-sciences-081",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel fossile marin Mary Anning a-t-elle découvert à l'âge de 13 ans ?",
+    "choix": [
+      "Un squelette complet d'ichtyosaure",
+      "Un squelette de plésiosaure",
+      "Un ptérosaure",
+      "Un squelette de mammouth"
+    ],
+    "bonneReponse": 0,
+    "explication": "À 13 ans, Mary Anning exhume le premier squelette complet d'ichtyosaure. Le plésiosaure n'est trouvé qu'en 1821 et le ptérosaure en 1828. Elle ne pourra pourtant jamais entrer à la Société géologique de Londres.",
+    "source": "D'après Wikipédia — Mary Anning"
+  },
+  {
+    "id": "q-sciences-082",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Hypatie a péri lors de la destruction de la bibliothèque d'Alexandrie.",
+    "reponse": false,
+    "explication": "C'est faux : Hypatie a été tuée en mars 415 par une foule de moines chrétiens. On relie parfois sa mort à la disparition de la célèbre bibliothèque d'Alexandrie, mais ce sont deux événements distincts.",
+    "source": "D'après Wikipédia — Hypatie"
+  },
+  {
+    "id": "q-sciences-083",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Pour quelle agence Katherine Johnson a-t-elle calculé des trajectoires de vols spatiaux ?",
+    "choix": [
+      "La NASA, et le NACA avant elle",
+      "L'Agence spatiale européenne",
+      "L'armée de l'air soviétique",
+      "Le CNES"
+    ],
+    "bonneReponse": 0,
+    "explication": "Katherine Johnson entre en 1953 au NACA, l'ancêtre de la NASA. Elle y calcule des trajectoires pour les premières missions du programme Mercury, dont celle de John Glenn, puis pour Apollo 11 en 1969.",
+    "source": "D'après Wikipédia — Katherine Johnson"
+  },
+  {
+    "id": "q-sciences-084",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Selon la tradition rapportée par Vitruve, quel problème Archimède aurait-il résolu dans son bain ?",
+    "choix": [
+      "Vérifier si la couronne du roi Hiéron II était en or pur",
+      "Calculer la distance entre Syracuse et Rome",
+      "Mesurer la hauteur d'une pyramide",
+      "Prédire la date d'une éclipse"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hiéron II soupçonnait un orfèvre d'avoir mêlé de l'argent à l'or d'une couronne. Archimède aurait compris dans son bain comment mesurer son volume et crié « Eurêka ! ». L'histoire est cependant douteuse : Archimède ne la raconte pas lui-même.",
+    "source": "D'après Wikipédia — Archimède"
+  },
+  {
+    "id": "q-sciences-085",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle substance Thalès de Milet considérait-il comme le principe de toutes choses ?",
+    "choix": [
+      "L'eau",
+      "L'air",
+      "Le feu",
+      "La terre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour Thalès, tout vient de l'eau : la terre serait de l'eau épaissie, l'air de l'eau raréfiée. Ses successeurs proposeront d'autres principes, comme l'air pour Anaximène et le feu pour Héraclite.",
+    "source": "D'après Wikipédia — Thalès"
+  },
+  {
+    "id": "q-sciences-086",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel mot courant vient du nom latinisé d'Al-Khwârizmî, « Algoritmi » ?",
+    "choix": [
+      "Algorithme",
+      "Algèbre",
+      "Alchimie",
+      "Alphabet"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot « algorithme » vient de son nom, tandis que « algèbre » vient du titre de son livre, al-jabr. Ses écrits, traduits en latin au XIIe siècle, ont fait connaître en Europe le calcul avec les chiffres indiens.",
+    "source": "D'après Wikipédia — Al-Khwârizmî"
+  },
+  {
+    "id": "q-sciences-087",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "L'étude de quel problème a conduit Euler aux débuts de la théorie des graphes ?",
+    "choix": [
+      "Les sept ponts de Königsberg",
+      "Les tours de Hanoï",
+      "Les quatre couleurs",
+      "Le problème des trois corps"
+    ],
+    "bonneReponse": 0,
+    "explication": "Euler s'est demandé s'il était possible de traverser les sept ponts de Königsberg une seule fois chacun. Sa réponse est considérée comme la première application pratique de la topologie, et le point de départ de la théorie des graphes.",
+    "source": "D'après Wikipédia — Leonhard Euler"
+  },
+  {
+    "id": "q-sciences-088",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Gauss a demandé qu'un polygone régulier à 17 côtés soit gravé sur sa tombe.",
+    "reponse": true,
+    "explication": "À 19 ans, en 1796, Gauss a découvert comment construire le polygone à 17 côtés à la règle et au compas, un progrès attendu depuis l'Antiquité. Fier de ce résultat, il aurait demandé qu'on le grave sur son tombeau.",
+    "source": "D'après Wikipédia — Carl Friedrich Gauss"
+  },
+  {
+    "id": "q-sciences-089",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "À quel âge est mort Évariste Galois, à la suite d'un duel en 1832 ?",
+    "choix": [
+      "20 ans",
+      "27 ans",
+      "35 ans",
+      "41 ans"
+    ],
+    "bonneReponse": 0,
+    "explication": "Né le 25 octobre 1811, Galois meurt le 31 mai 1832, à 20 ans. Malgré cette vie brève, sa théorie sur la résolution des équations est un pilier de l'algèbre moderne.",
+    "source": "D'après Wikipédia — Évariste Galois"
+  },
+  {
+    "id": "q-sciences-090",
+    "domain": "sciences",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née à Paris en 1776 et j'ai appris les mathématiques seule.",
+      "Mon père me confisquait mes chandelles pour m'empêcher de veiller.",
+      "Sous le nom d'Antoine Auguste Le Blanc, j'ai écrit à Lagrange puis à Gauss.",
+      "J'ai obtenu en 1815 le grand prix de l'Académie des sciences sur les surfaces vibrantes."
+    ],
+    "reponse": "Sophie Germain",
+    "explication": "Sophie Germain a pris un pseudonyme masculin pour correspondre avec les grands mathématiciens. Son théorème a fait avancer le dernier théorème de Fermat, et son travail sur les plaques vibrantes lui a valu le grand prix de 1815.",
+    "source": "D'après Wikipédia — Sophie Germain"
+  },
+  {
+    "id": "q-sciences-091",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Que relie le théorème d'Emmy Noether en physique ?",
+    "choix": [
+      "Les symétries et les lois de conservation",
+      "L'énergie et la masse",
+      "La vitesse et l'accélération",
+      "Le temps et la température"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le théorème de Noether affirme qu'à chaque symétrie d'un système physique correspond une quantité conservée. Il est jugé aussi important pour la physique moderne que la théorie de la relativité.",
+    "source": "D'après Wikipédia — Emmy Noether"
+  },
+  {
+    "id": "q-sciences-092",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "À quel mathématicien de Cambridge Ramanujan a-t-il envoyé en 1913 une lettre remplie de formules ?",
+    "choix": [
+      "G. H. Hardy",
+      "David Hilbert",
+      "Bertrand Russell",
+      "Henri Poincaré"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hardy prend d'abord cette lettre de neuf pages pour une supercherie, puis, avec son collègue Littlewood, y reconnaît l'œuvre d'un génie. Il invite Ramanujan en Angleterre, où commence une collaboration féconde.",
+    "source": "D'après Wikipédia — Srinivasa Ramanujan"
+  },
+  {
+    "id": "q-sciences-093",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel mathématicien a démontré le dernier théorème de Fermat en 1994 ?",
+    "choix": [
+      "Andrew Wiles",
+      "Grigori Perelman",
+      "Thomas Hales",
+      "Ernst Kummer"
+    ],
+    "bonneReponse": 0,
+    "explication": "Andrew Wiles a démontré le théorème après des années de travail, corrigé une faille avec Richard Taylor, puis publié sa preuve en 1995. Fermat, lui, l'avait énoncé vers 1637 dans la marge d'un livre.",
+    "source": "D'après Wikipédia — Dernier théorème de Fermat"
+  },
+  {
+    "id": "q-sciences-094",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "La médaille Fields peut être décernée à un mathématicien de plus de 40 ans.",
+    "reponse": false,
+    "explication": "Elle est remise tous les quatre ans à des mathématiciens de moins de 40 ans. C'est pourquoi Andrew Wiles, trop âgé en 1998, reçut à la place une plaque d'argent spéciale pour sa preuve du théorème de Fermat.",
+    "source": "D'après Wikipédia — Médaille Fields"
+  },
+  {
+    "id": "q-sciences-095",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle propriété du logarithme a fait son succès dans les calculs à la main, depuis John Napier ?",
+    "choix": [
+      "Il transforme un produit en somme",
+      "Il transforme une somme en produit",
+      "Il rend tout nombre entier",
+      "Il remplace les divisions par des racines"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le logarithme d'un produit est la somme des logarithmes. Avec une table ou une règle à calcul, une longue multiplication devenait une simple addition, ce qui a servi pendant trois siècles.",
+    "source": "D'après Wikipédia — Logarithme"
+  },
+  {
+    "id": "q-sciences-096",
+    "domain": "sciences",
+    "format": "difference",
+    "question": "Quelle est la différence entre une conjecture et un théorème ?",
+    "choix": [
+      "Une conjecture est crue vraie mais non démontrée, un théorème est démontré",
+      "Une conjecture est toujours fausse, un théorème est toujours vrai",
+      "Une conjecture est admise sans preuve pour bâtir une théorie, un théorème non",
+      "Une conjecture concerne les nombres, un théorème les figures"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une conjecture est un énoncé que l'on croit vrai sans en avoir la preuve. Quand elle est démontrée, elle devient un théorème, comme le dernier théorème de Fermat en 1994. Certaines sont réfutées, d'autres restent ouvertes.",
+    "source": "D'après Wikipédia — Conjecture"
+  },
+  {
+    "id": "q-sciences-097",
+    "domain": "sciences",
+    "format": "difference",
+    "question": "Quelle est la différence entre un nombre rationnel et un nombre irrationnel ?",
+    "choix": [
+      "Le rationnel s'écrit comme une fraction d'entiers, pas l'irrationnel",
+      "Le rationnel a une infinité de décimales, l'irrationnel un nombre fini",
+      "Le rationnel est toujours entier, l'irrationnel toujours décimal",
+      "Le rationnel est positif, l'irrationnel est négatif"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un nombre rationnel comme 3/4 s'écrit a/b avec a et b entiers. Un irrationnel, comme √2 ou π, ne le peut pas : son développement décimal est infini et jamais périodique.",
+    "source": "D'après Wikipédia — Nombre irrationnel"
+  },
+  {
+    "id": "q-sciences-098",
+    "domain": "sciences",
+    "format": "associer",
+    "question": "Associe chaque penseur à son rapport avec l'infini.",
+    "paires": [
+      {
+        "gauche": "Anaximandre",
+        "droite": "L'apeiron, principe infini des choses",
+        "explication": "Il fait de l'infini, l'apeiron, l'origine de tous les mondes."
+      },
+      {
+        "gauche": "Zénon d'Élée",
+        "droite": "Achille et la tortue",
+        "explication": "Il imagine une course où Achille semble ne jamais rattraper la tortue."
+      },
+      {
+        "gauche": "Archimède",
+        "droite": "Dénombrer les grains de sable",
+        "explication": "Il soutient que les grains de sable sont dénombrables, pas infinis."
+      },
+      {
+        "gauche": "John Wallis",
+        "droite": "Le symbole ∞",
+        "explication": "Il introduit le symbole de l'infini au XVIIe siècle."
+      }
+    ],
+    "explication": "L'infini a occupé les penseurs depuis l'Antiquité : principe des choses chez Anaximandre, paradoxes chez Zénon, calcul chez Archimède. Le symbole ∞ n'apparaît qu'avec John Wallis, au XVIIe siècle.",
+    "source": "D'après Wikipédia — Infini"
+  },
+  {
+    "id": "q-sciences-099",
+    "domain": "sciences",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire des probabilités dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Correspondance entre Pascal et Fermat",
+        "annee": "1654"
+      },
+      {
+        "label": "Huygens publie le premier ouvrage important sur le sujet",
+        "annee": "1657"
+      },
+      {
+        "label": "Parution posthume de l'Ars Conjectandi de Jacques Bernoulli",
+        "annee": "1713"
+      },
+      {
+        "label": "Abraham de Moivre publie sa Théorie de la probabilité",
+        "annee": "1718"
+      }
+    ],
+    "explication": "La théorie naît en 1654 avec Pascal et Fermat, puis Huygens écrit en 1657 le premier grand traité. Jacques Bernoulli y ajoute en 1713 la loi des grands nombres, et de Moivre généralise en 1718 l'usage de la combinatoire.",
+    "source": "D'après Wikipédia — Probabilité"
+  },
+  {
+    "id": "q-sciences-100",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle probabilité a-t-on d'obtenir deux fois de suite un 1 avec un dé équilibré à six faces ?",
+    "choix": [
+      "1/36",
+      "1/12",
+      "1/6",
+      "1/18"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les deux lancers sont indépendants : on multiplie leurs probabilités, soit 1/6 × 1/6 = 1/36. La probabilité d'un événement est toujours un nombre entre 0 et 1.",
+    "source": "D'après Wikipédia — Probabilité"
+  },
+  {
+    "id": "q-sciences-101",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle conjecture, énoncée par Henri Poincaré en 1904, a été démontrée en 2003 par Grigori Perelman ?",
+    "choix": [
+      "La conjecture de Poincaré",
+      "La conjecture de Goldbach",
+      "L'hypothèse de Riemann",
+      "La conjecture de Syracuse"
+    ],
+    "bonneReponse": 0,
+    "explication": "La conjecture de Poincaré, formulée en 1904, est devenue un théorème grâce à Grigori Perelman, en 2003. Les trois autres conjectures proposées restent aujourd'hui sans démonstration.",
+    "source": "D'après Wikipédia — Henri Poincaré"
   }
 ]

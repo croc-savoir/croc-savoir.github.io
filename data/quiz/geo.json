@@ -481,5 +481,1146 @@
     "bonneReponse": 1,
     "explication": "Lors du voyage du Beagle, Charles Darwin imagine que les atolls se forment autour d'îles volcaniques qui s'enfoncent lentement dans l'océan, pendant que le corail continue de pousser vers la surface : il ne reste qu'un anneau autour d'un lagon. Il publie cette théorie en 1842 ; des forages l'ont confirmée dans les années 1950.",
     "source": "D'après Wikipédia — Atoll"
+  },
+  {
+    "id": "q-geo-031",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel pays est le plus peuplé d'Afrique ?",
+    "choix": [
+      "Le Nigeria",
+      "L'Afrique du Sud",
+      "L'Égypte",
+      "L'Éthiopie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Nigeria compte plus de 235 millions d'habitants et se classe au sixième rang mondial. Sa capitale est Abuja, mais Lagos est sa métropole la plus connue.",
+    "source": "D'après Wikipédia — Nigeria"
+  },
+  {
+    "id": "q-geo-032",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "D'où vient le nom « Argentine » ?",
+    "choix": [
+      "Du latin argentum, « argent »",
+      "Du nom d'un explorateur italien",
+      "D'un mot quechua signifiant « montagne »",
+      "Du nom du fleuve Paraná"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les premiers explorateurs européens croyaient trouver des montagnes d'argent près du Río de la Plata, le « fleuve d'argent ». Le mot « Argentina » apparaît pour la première fois dans un poème de 1602.",
+    "source": "D'après Wikipédia — Argentine"
+  },
+  {
+    "id": "q-geo-033",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel est le plus long fjord de Norvège ?",
+    "choix": [
+      "Le Sognefjord",
+      "Le Geirangerfjord",
+      "Le Hardangerfjord",
+      "Le Lysefjord"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les fjords norvégiens, des centaines au total, ont été creusés par les glaciers pendant la période glaciaire. Le Sognefjord, dans l'ouest du pays, est le plus long de tous.",
+    "source": "D'après Wikipédia — Sognefjord"
+  },
+  {
+    "id": "q-geo-034",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "De quelle ville marocaine le nom « Maroc » est-il dérivé ?",
+    "choix": [
+      "Marrakech",
+      "Fès",
+      "Rabat",
+      "Casablanca"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nom français vient de Marrakech, qui a aussi donné « Morocco » en anglais ou « Marruecos » en espagnol. En arabe, le pays s'appelle al-Maghrib, « le couchant ».",
+    "source": "D'après Wikipédia — Maroc"
+  },
+  {
+    "id": "q-geo-035",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel volcan de l'île de Jeju est le point culminant de la Corée du Sud ?",
+    "choix": [
+      "Le Hallasan",
+      "Le Jirisan",
+      "Le Seoraksan",
+      "Le Baekdu"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Hallasan s'élève à 1 950 m. Sur le continent, les plus hauts sommets sont le Jirisan (1 915 m) et le Seoraksan (1 708 m), dont la chaîne protège l'ouest des vents de la mer du Japon.",
+    "source": "D'après Wikipédia — Hallasan"
+  },
+  {
+    "id": "q-geo-036",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quelle civilisation du Pérou est considérée comme la plus ancienne des Amériques ?",
+    "choix": [
+      "Caral-Supe",
+      "Nazca",
+      "Chavín",
+      "Mochica"
+    ],
+    "bonneReponse": 0,
+    "explication": "La cité de Caral, avec ses pyramides tronquées, appartient à la civilisation Caral-Supe, datée d'entre 2627 et 2100 avant notre ère. Elle précède de très loin les Nazca et les Incas.",
+    "source": "D'après Wikipédia — Caral"
+  },
+  {
+    "id": "q-geo-037",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Qui a donné son prénom au continent américain, sur une carte de 1507 ?",
+    "choix": [
+      "Amerigo Vespucci",
+      "Christophe Colomb",
+      "Fernand de Magellan",
+      "Sébastien Cabot"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le cartographe Martin Waldseemüller a inscrit « America » sur son planisphère de 1507, féminisant le prénom du navigateur florentin Amerigo Vespucci. Le travail a été réalisé à Saint-Dié, dans les Vosges.",
+    "source": "D'après Wikipédia — Amerigo Vespucci"
+  },
+  {
+    "id": "q-geo-038",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "En quelle année l'Angleterre et l'Écosse forment-elles le royaume de Grande-Bretagne ?",
+    "choix": [
+      "1707",
+      "1603",
+      "1801",
+      "1922"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le traité d'Union de 1707 crée le royaume de Grande-Bretagne. En 1603, l'Union des Couronnes avait seulement donné un même roi aux deux pays. L'Irlande est ajoutée en 1801.",
+    "source": "D'après Wikipédia — Royaume-Uni"
+  },
+  {
+    "id": "q-geo-039",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Comment appelle-t-on le blocus naval français du Mexique en 1838-1839 ?",
+    "choix": [
+      "La guerre des Pâtisseries",
+      "La guerre du Pain",
+      "La guerre des Épices",
+      "La guerre du Sucre"
+    ],
+    "bonneReponse": 0,
+    "explication": "La France bloque les ports mexicains pour obtenir des réparations, d'où ce nom étonnant. Le Mexique, indépendant depuis 1821, vit alors un demi-siècle d'instabilité politique et financière.",
+    "source": "D'après Wikipédia — Guerre des Pâtisseries"
+  },
+  {
+    "id": "q-geo-040",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel nom maori désigne aujourd'hui l'ensemble de la Nouvelle-Zélande ?",
+    "choix": [
+      "Aotearoa",
+      "Te Ika-a-Māui",
+      "Te Wai Pounamu",
+      "Rapa Nui"
+    ],
+    "bonneReponse": 0,
+    "explication": "Aotearoa se traduit souvent par « pays du long nuage blanc ». Autrefois, ce nom désignait surtout l'île du Nord, dont le nom maori, Te Ika-a-Māui, évoque un poisson légendaire.",
+    "source": "D'après Wikipédia — Nouvelle-Zélande"
+  },
+  {
+    "id": "q-geo-041",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "L'Islande se trouve sur la dorsale médio-atlantique, entre les plaques eurasienne et nord-américaine.",
+    "reponse": true,
+    "explication": "Cette position explique l'intense activité volcanique de l'île : environ 130 volcans actifs, des geysers et une énergie géothermique abondante. Le mot « geyser » est d'ailleurs d'origine islandaise.",
+    "source": "D'après Wikipédia — Islande"
+  },
+  {
+    "id": "q-geo-042",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Le cap Nord est le point le plus septentrional de la Norvège et de l'Europe.",
+    "reponse": false,
+    "explication": "Le cap Nord, sur l'île de Magerøya, est le plus célèbre, mais le Knivskjellodden, situé sur la même île, se trouve plus au nord. C'est lui le véritable point le plus septentrional de l'Europe.",
+    "source": "D'après Wikipédia — Norvège"
+  },
+  {
+    "id": "q-geo-043",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Monaco est le pays le plus densément peuplé du monde.",
+    "reponse": true,
+    "explication": "Avec 2,08 km² et 18 822 habitants par km² en 2025, la principauté est presque entièrement urbanisée. Seul le Vatican est un État indépendant plus petit.",
+    "source": "D'après Wikipédia — Monaco"
+  },
+  {
+    "id": "q-geo-044",
+    "domain": "geo",
+    "format": "associer",
+    "question": "Associe chaque pays à sa capitale.",
+    "paires": [
+      {
+        "gauche": "Nigeria",
+        "droite": "Abuja",
+        "explication": "Abuja est la capitale du Nigeria, la métropole économique restant Lagos."
+      },
+      {
+        "gauche": "Nouvelle-Zélande",
+        "droite": "Wellington",
+        "explication": "Wellington est la capitale, alors que la plus grande ville est Auckland."
+      },
+      {
+        "gauche": "Islande",
+        "droite": "Reykjavik",
+        "explication": "Reykjavik et ses environs regroupent les deux tiers des Islandais."
+      },
+      {
+        "gauche": "Maroc",
+        "droite": "Rabat",
+        "explication": "Rabat est la capitale politique, Casablanca étant la capitale économique."
+      }
+    ],
+    "explication": "Dans plusieurs pays, la capitale n'est pas la plus grande ville : c'est le cas au Nigeria, en Nouvelle-Zélande et au Maroc. Seule l'Islande réunit capitale et première ville.",
+    "source": "D'après Wikipédia — Abuja"
+  },
+  {
+    "id": "q-geo-045",
+    "domain": "geo",
+    "format": "associer",
+    "question": "Associe chaque pays à son point culminant.",
+    "paires": [
+      {
+        "gauche": "Mexique",
+        "droite": "Pic d'Orizaba",
+        "explication": "Le pic d'Orizaba, un volcan, est le sommet du pays."
+      },
+      {
+        "gauche": "Argentine",
+        "droite": "Aconcagua",
+        "explication": "L'Aconcagua, dans les Andes, est le toit de toute l'Amérique du Sud."
+      },
+      {
+        "gauche": "Maroc",
+        "droite": "Toubkal",
+        "explication": "Le djebel Toubkal domine le Haut Atlas."
+      },
+      {
+        "gauche": "Norvège",
+        "droite": "Galdhøpiggen",
+        "explication": "Le Galdhøpiggen, dans le Jotunheimen, est le sommet de la Scandinavie."
+      },
+      {
+        "gauche": "Nouvelle-Zélande",
+        "droite": "Aoraki / mont Cook",
+        "explication": "Le mont Cook domine les Alpes du Sud, sur l'île du Sud."
+      }
+    ],
+    "explication": "Ces cinq sommets illustrent des reliefs très différents : volcans mexicains, Andes, Atlas, montagnes scandinaves et Alpes du Sud néo-zélandaises.",
+    "source": "D'après Wikipédia — Mexique"
+  },
+  {
+    "id": "q-geo-046",
+    "domain": "geo",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis un pays transcontinental, en partie situé en Océanie.",
+      "Ma capitale actuelle est Jakarta, mais une nouvelle ville, Nusantara, est en construction.",
+      "Plus de la moitié de ma population vit sur une seule île, Java.",
+      "Je compte environ 17 000 îles et plus de 700 langues régionales.",
+      "Je suis le plus grand archipel du monde."
+    ],
+    "reponse": "L'Indonésie",
+    "explication": "L'Indonésie compte 17 000 îles, dont 922 habitées, et plus de 600 groupes ethniques. Sa langue nationale, l'indonésien, est une forme de malais, ce qui permet d'unir ce pays si divers.",
+    "source": "D'après Wikipédia — Indonésie"
+  },
+  {
+    "id": "q-geo-047",
+    "domain": "geo",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire allemande dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Unification de l'Allemagne sous l'impulsion de Bismarck",
+        "annee": "1871"
+      },
+      {
+        "label": "Arrivée au pouvoir des nazis",
+        "annee": "1933"
+      },
+      {
+        "label": "Naissance de la RFA et de la RDA",
+        "annee": "1949"
+      },
+      {
+        "label": "Chute du mur de Berlin",
+        "annee": "1989"
+      },
+      {
+        "label": "Réunification de l'Allemagne",
+        "annee": "1990"
+      }
+    ],
+    "explication": "L'Empire naît en 1871. Après la défaite de 1945, le pays est coupé en deux en 1949. Le mur tombe le 9 novembre 1989 et la réunification a lieu le 3 octobre 1990.",
+    "source": "D'après Wikipédia — Allemagne"
+  },
+  {
+    "id": "q-geo-048",
+    "domain": "geo",
+    "format": "difference",
+    "question": "Quelle est la différence entre les trois capitales de l'Afrique du Sud ?",
+    "choix": [
+      "Pretoria est administrative, Le Cap législative et Bloemfontein judiciaire",
+      "Pretoria est législative, Le Cap administrative et Bloemfontein judiciaire",
+      "Pretoria est judiciaire, Le Cap législative et Bloemfontein administrative",
+      "Les trois ont exactement le même rôle politique"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pretoria abrite l'administration, Le Cap le Parlement et Bloemfontein la justice. Aujourd'hui, seule la ville du Cap est citée dans la Constitution, comme siège du Parlement.",
+    "source": "D'après Wikipédia — Afrique du Sud"
+  },
+  {
+    "id": "q-geo-049",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel sommet domine toutes les Alpes ?",
+    "choix": [
+      "Le mont Blanc",
+      "Le Cervin",
+      "Le mont Rose",
+      "L'Eiger"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mont Blanc, entre la France et l'Italie, domine les Alpes avec 4 806 mètres. Il est aussi le plus haut sommet de l'Europe occidentale, surnommé « toit de l'Europe ». Sa première ascension connue date de 1786.",
+    "source": "D'après Wikipédia — Mont Blanc"
+  },
+  {
+    "id": "q-geo-050",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel est le plus haut sommet d'Afrique ?",
+    "choix": [
+      "Le Kilimandjaro",
+      "Le mont Kenya",
+      "Le mont Méru",
+      "Le mont Cameroun"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le pic Uhuru, sur le volcan Kibo du massif du Kilimandjaro, culmine à 5 891,8 mètres en Tanzanie. Uhuru signifie « liberté » en swahili. Le mont Kenya, deuxième sommet d'Afrique, est situé à environ 300 kilomètres au nord.",
+    "source": "D'après Wikipédia — Kilimandjaro"
+  },
+  {
+    "id": "q-geo-051",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel fleuve a creusé le Grand Canyon ?",
+    "choix": [
+      "Le Colorado",
+      "Le Mississippi",
+      "Le Missouri",
+      "Le Rio Grande"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Colorado a taillé le Grand Canyon dans le plateau du même nom. Il y coule environ 1 300 mètres plus bas que le bord moyen et y forme une centaine de rapides. Il se jette ensuite dans le golfe de Californie.",
+    "source": "D'après Wikipédia — Grand Canyon"
+  },
+  {
+    "id": "q-geo-052",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Pourquoi la mer Morte porte-t-elle ce nom ?",
+    "choix": [
+      "Sa salinité est si forte qu'aucun poisson n'y vit",
+      "Elle est entourée de volcans éteints",
+      "Elle ne reçoit aucun fleuve",
+      "Ses eaux sont toujours gelées"
+    ],
+    "bonneReponse": 0,
+    "explication": "Avec environ 275 grammes de sels par litre, contre 35 grammes dans l'océan, l'eau est trop salée pour les poissons et les algues visibles. Seuls des microbes et des micro-champignons y survivent. Le Jourdain l'alimente pourtant.",
+    "source": "D'après Wikipédia — Mer Morte"
+  },
+  {
+    "id": "q-geo-053",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Dans quel pays se trouve le désert d'Atacama, l'un des plus secs de la planète ?",
+    "choix": [
+      "Le Chili",
+      "Le Maroc",
+      "L'Australie",
+      "La Mongolie"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'Atacama s'étend dans le nord du Chili, entre l'océan Pacifique et les Andes. Le courant froid de Humboldt et l'ombre pluviométrique des Andes y bloquent la pluie : certains endroits restent des siècles sans une goutte.",
+    "source": "D'après Wikipédia — Désert d'Atacama"
+  },
+  {
+    "id": "q-geo-054",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quelle est la plus grande île du monde ?",
+    "choix": [
+      "Le Groenland",
+      "Madagascar",
+      "Bornéo",
+      "La Nouvelle-Guinée"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Groenland couvre plus de 2 millions de kilomètres carrés. Environ 80 % de sa surface est occupée par une calotte de glace épaisse de près de trois kilomètres. Il fait partie du royaume du Danemark, avec Nuuk pour capitale.",
+    "source": "D'après Wikipédia — Groenland"
+  },
+  {
+    "id": "q-geo-055",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "D'où vient le mot « Arctique » ?",
+    "choix": [
+      "Du grec arktos, « ours »",
+      "Du latin arcticus, « glacé »",
+      "De l'islandais arkt, « nord »",
+      "Du mot inuit « arkti », « neige »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot dérive du grec ancien árktos, l'ours : il renvoie aux constellations de la Grande et de la Petite Ourse, proches du pôle nord céleste. Antarctique signifie simplement « opposé à l'Arctique ».",
+    "source": "D'après Wikipédia — Arctique"
+  },
+  {
+    "id": "q-geo-056",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quelle est l'altitude du mont Fuji, point culminant du Japon ?",
+    "choix": [
+      "3 776 mètres",
+      "2 998 mètres",
+      "4 208 mètres",
+      "5 100 mètres"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Fuji s'élève à 3 776 mètres au sud-ouest de Tokyo. Ce stratovolcan reste classé comme actif, mais sa dernière éruption sûre remonte à la fin de 1707 et le risque est faible aujourd'hui.",
+    "source": "D'après Wikipédia — Mont Fuji"
+  },
+  {
+    "id": "q-geo-057",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel phénomène donne leur forme aux fjords ?",
+    "choix": [
+      "Le creusement par un glacier, puis l'invasion par la mer",
+      "Des failles qui s'effondrent sous la mer",
+      "L'érosion d'un fleuve en crue",
+      "Des coulées de lave qui se refroidissent"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un fjord est une vallée creusée par un glacier. Quand la glace recule, la mer envahit la vallée dont le fond est sous le niveau marin. D'où des côtés très abrupts et des profondeurs qui dépassent parfois 1 300 mètres en Norvège.",
+    "source": "D'après Wikipédia — Fjord"
+  },
+  {
+    "id": "q-geo-058",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Selon une hypothèse célèbre, quel tableau les ciels embrasés qui ont suivi l'éruption du Krakatoa auraient-ils inspiré ?",
+    "choix": [
+      "Le Cri, d'Edvard Munch",
+      "La Nuit étoilée, de Van Gogh",
+      "Impression, soleil levant, de Monet",
+      "La Grande Vague de Kanagawa, d'Hokusai"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les cendres du Krakatoa ont produit des nuages lumineux visibles jusqu'en Europe du Nord. Edvard Munch les a reproduits dix ans plus tard dans Le Cri. L'éruption de 1883 a aussi fait des dizaines de milliers de victimes.",
+    "source": "D'après Wikipédia — Éruption du Krakatoa en 1883"
+  },
+  {
+    "id": "q-geo-059",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel pays a choisi une seule heure légale malgré son immense étendue d'est en ouest ?",
+    "choix": [
+      "La Chine",
+      "La Russie",
+      "Le Canada",
+      "Les États-Unis"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Chine s'étend sur une très large plage de longitudes, mais elle applique partout UTC+8. La Russie, le Canada et les États-Unis, eux, utilisent plusieurs fuseaux horaires, adaptés à leur étendue.",
+    "source": "D'après Wikipédia — Fuseau horaire"
+  },
+  {
+    "id": "q-geo-060",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Le Grand Canyon est le canyon le plus profond de la Terre.",
+    "reponse": false,
+    "explication": "Faux. Le Grand Canyon atteint plus de 1 600 mètres de profondeur, mais celui de Cotahuasi, au Pérou, plonge jusqu'à 3 550 mètres. Le Grand Canyon est surtout célèbre pour ses points de vue et ses couches géologiques bien visibles.",
+    "source": "D'après Wikipédia — Grand Canyon"
+  },
+  {
+    "id": "q-geo-061",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Les glaciers contiennent la majeure partie de l'eau douce de la planète.",
+    "reponse": true,
+    "explication": "Vrai. Les glaciers représentent 60 à 70 % de l'eau douce de la Terre, surtout dans les calottes de l'Antarctique et du Groenland. Leur fonte accélérée depuis la fin du XXe siècle inquiète les scientifiques.",
+    "source": "D'après Wikipédia — Glacier"
+  },
+  {
+    "id": "q-geo-062",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Le Gulf Stream est la seule cause des hivers doux de l'Europe de l'Ouest.",
+    "reponse": false,
+    "explication": "Faux. Cette idée, lancée en 1855 par Matthew Fontaine Maury, a longtemps figuré dans les manuels. Aujourd'hui, le rôle du Gulf Stream dans la régulation des températures, jugé prépondérant autrefois, est de plus en plus contesté.",
+    "source": "D'après Wikipédia — Gulf Stream"
+  },
+  {
+    "id": "q-geo-063",
+    "domain": "geo",
+    "format": "associer",
+    "question": "Associe chaque sommet ou chaîne à son pays ou continent.",
+    "paires": [
+      {
+        "gauche": "Grand Canyon",
+        "droite": "États-Unis",
+        "explication": "Gorge creusée par le Colorado dans le nord de l'Arizona."
+      },
+      {
+        "gauche": "Mont Fuji",
+        "droite": "Japon",
+        "explication": "Volcan majestueux situé au sud-ouest de Tokyo."
+      },
+      {
+        "gauche": "Kilimandjaro",
+        "droite": "Tanzanie",
+        "explication": "Massif volcanique dont le pic Uhuru est le toit de l'Afrique."
+      },
+      {
+        "gauche": "Mont Blanc",
+        "droite": "France et Italie",
+        "explication": "Sommet situé à la frontière franco-italienne, plus haut point des Alpes."
+      }
+    ],
+    "explication": "Chaque sommet est le point culminant de son ensemble : l'Aconcagua pour les Andes, le Fuji pour le Japon, le Kilimandjaro pour l'Afrique, le mont Blanc pour les Alpes.",
+    "source": "D'après Wikipédia — Cordillère des Andes"
+  },
+  {
+    "id": "q-geo-064",
+    "domain": "geo",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je dois mon nom à des pêcheurs sud-américains.",
+      "Je reviens tous les deux à sept ans.",
+      "Mes effets se font sentir autour de Noël.",
+      "Je réchauffe l'est du Pacifique et chasse les poissons des côtes péruviennes."
+    ],
+    "reponse": "El Niño",
+    "explication": "El Niño est un phénomène climatique cyclique du Pacifique. Il réchauffe l'eau, perturbe la pêche et déplace les pluies. Son nom fait allusion à l'Enfant Jésus, car les pêcheurs le remarquaient vers Noël.",
+    "source": "D'après Wikipédia — El Niño"
+  },
+  {
+    "id": "q-geo-065",
+    "domain": "geo",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire des fuseaux horaires dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Création du temps moyen de Greenwich",
+        "annee": "1675"
+      },
+      {
+        "label": "Heure uniforme sur les chemins de fer britanniques",
+        "annee": "1847"
+      },
+      {
+        "label": "La Nouvelle-Zélande adopte une heure standard",
+        "annee": "1868"
+      },
+      {
+        "label": "Sandford Fleming propose 24 fuseaux dans le monde",
+        "annee": "1876"
+      },
+      {
+        "label": "Les États-Unis adoptent leurs zones horaires",
+        "annee": "1883"
+      }
+    ],
+    "explication": "Le temps de Greenwich naît en 1675 pour aider les marins. Les chemins de fer britanniques unifient l'heure en 1847, la Nouvelle-Zélande suit en 1868, Fleming propose le découpage mondial en 1876 et l'Amérique du Nord adopte ses zones en 1883.",
+    "source": "D'après Wikipédia — Fuseau horaire"
+  },
+  {
+    "id": "q-geo-066",
+    "domain": "geo",
+    "format": "difference",
+    "question": "Quelle est la différence entre un glacier et un iceberg ?",
+    "choix": [
+      "Un glacier s'écoule sur terre, un iceberg est un bloc détaché qui flotte en mer",
+      "Un glacier est d'eau douce, un iceberg d'eau salée gelée",
+      "Un glacier est toujours plus petit qu'un iceberg",
+      "Un glacier ne bouge pas, un iceberg se déplace seul"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un glacier est une masse de glace formée par la neige tassée, qui s'écoule lentement sur la terre. Un iceberg est un bloc qui s'en détache et dérive en mer, comme ceux d'Ilulissat, au Groenland.",
+    "source": "D'après Wikipédia — Glacier"
+  },
+  {
+    "id": "q-geo-067",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Comment les Européens appelaient-ils l'océan Atlantique du Ve au XVe siècle ?",
+    "choix": [
+      "La mer Océane",
+      "La mer des Ténèbres",
+      "La mer Occidentale",
+      "La Grande Mer"
+    ],
+    "bonneReponse": 0,
+    "explication": "On parlait de mer Océane : Le titre d'« amiral de la mer Océane » fut d'ailleurs celui de Christophe Colomb. Le nom Atlantique, lui, renvoie au Titan Atlas et à ce qui se trouvait au-delà des Colonnes d'Hercule.",
+    "source": "D'après Wikipédia — Océan Atlantique"
+  },
+  {
+    "id": "q-geo-068",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel est le plus chaud des océans de la planète ?",
+    "choix": [
+      "L'océan Indien",
+      "L'océan Atlantique",
+      "L'océan Pacifique",
+      "L'océan Arctique"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'océan Indien est le plus chaud : la plupart de ses eaux sont tropicales, avec des récifs coralliens et des atolls. Cette chaleur nourrit de nombreuses tempêtes tropicales en été.",
+    "source": "D'après Wikipédia — Océan Indien"
+  },
+  {
+    "id": "q-geo-069",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Voici six millions d'années environ, la Méditerranée a été isolée de l'Atlantique et transformée en lac très salé.",
+    "reponse": true,
+    "explication": "C'est la crise de salinité messinienne : le détroit de Gibraltar s'est refermé et la mer s'est presque asséchée. L'Atlantique l'a ensuite remplie à nouveau, en s'engouffrant par le détroit rouvert.",
+    "source": "D'après Wikipédia — Mer Méditerranée"
+  },
+  {
+    "id": "q-geo-070",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel est le seul affluent du Mississippi à être plus long que le fleuve lui-même ?",
+    "choix": [
+      "Le Missouri",
+      "L'Ohio",
+      "L'Arkansas",
+      "L'Illinois"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Missouri est plus long que le Mississippi, qui mesure 3 766 km. Réunis, les deux cours d'eau forment le quatrième système fluvial du monde, avec près de 5 971 km, de la source du Missouri au golfe du Mexique.",
+    "source": "D'après Wikipédia — Mississippi (fleuve)"
+  },
+  {
+    "id": "q-geo-071",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Combien de pays le Danube traverse-t-il ou longe-t-il ?",
+    "choix": [
+      "Dix",
+      "Six",
+      "Quatre",
+      "Quatorze"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Danube traverse ou longe dix pays, de l'Allemagne à l'Ukraine, un record pour un fleuve. Il baigne quatre capitales : Vienne, Bratislava, Budapest et Belgrade, avant de rejoindre la mer Noire.",
+    "source": "D'après Wikipédia — Danube"
+  },
+  {
+    "id": "q-geo-072",
+    "domain": "geo",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis partagé entre deux pays, séparés par une frontière qui me traverse.",
+      "Par mon volume, je suis le premier lac sud-américain d'eau douce.",
+      "Selon la légende, le dieu Viracocha a surgi de mes eaux pour créer le monde.",
+      "On me dit navigable à 3 812 m d'altitude, au cœur des Andes."
+    ],
+    "reponse": "Le lac Titicaca",
+    "explication": "Le Titicaca est partagé entre le Pérou et la Bolivie. À 3 812 m, c'est le plus haut lac navigable du monde pour de grands navires commerciaux. L'Isla del Sol est vue comme le centre de la mythologie inca.",
+    "source": "D'après Wikipédia — Lac Titicaca"
+  },
+  {
+    "id": "q-geo-073",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quels cours d'eau se rejoignent à Devaprayag pour former le Gange ?",
+    "choix": [
+      "Le Bhagirathi et l'Alaknanda",
+      "La Yamuna et le Son",
+      "La Gandaki et la Koshi",
+      "Le Brahmapoutre et la Meghna"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Gange commence à Devaprayag, dans l'Himalaya, à la rencontre du Bhagirathi, issu du glacier de Gangotri, et de l'Alaknanda. La Yamuna ne le rejoint que bien plus loin, à Prayagraj.",
+    "source": "D'après Wikipédia — Gange"
+  },
+  {
+    "id": "q-geo-074",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Le phoque du Baïkal vit en eau douce, ce qui est rare chez les phoques.",
+    "reponse": true,
+    "explication": "Le phoque de Sibérie vit uniquement dans le lac Baïkal. Il y côtoie d'autres espèces endémiques, comme le coméphore et l'omoul, deux poissons, grâce à l'isolement ancien du lac, vieux de 25 millions d'années.",
+    "source": "D'après Wikipédia — Lac Baïkal"
+  },
+  {
+    "id": "q-geo-075",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Les chutes du Niagara sont les plus hautes chutes d'eau du monde.",
+    "reponse": false,
+    "explication": "Elles ne mesurent qu'environ 57 m. Leur renommée vient de leur largeur, 945 m, et de leur débit de plus de 2 800 m³/s, sans équivalent en Amérique du Nord.",
+    "source": "D'après Wikipédia — Chutes du Niagara"
+  },
+  {
+    "id": "q-geo-076",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel célèbre ingénieur a conçu un système de dix écluses pour tenter de sauver le chantier français du canal de Panama ?",
+    "choix": [
+      "Gustave Eiffel",
+      "Philippe Bunau-Varilla",
+      "George Washington Goethals",
+      "Linant de Bellefonds"
+    ],
+    "bonneReponse": 0,
+    "explication": "Gustave Eiffel imagina dix écluses pour remplacer le canal sans écluse de Lesseps. Cela n'a pas suffi : la maladie, les crues et les dettes ont mené la compagnie à la faillite en 1889, et au scandale de Panama.",
+    "source": "D'après Wikipédia — Canal de Panama"
+  },
+  {
+    "id": "q-geo-077",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Pourquoi le président égyptien Nasser nationalise-t-il le canal de Suez en 1956 ?",
+    "choix": [
+      "Pour financer le barrage d'Assouan",
+      "Pour punir les actionnaires français",
+      "Pour bloquer la route des Indes",
+      "Pour construire un second canal"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les États-Unis et la Banque mondiale ayant refusé de prêter de l'argent, Nasser prend le canal le 26 juillet 1956 pour financer le barrage d'Assouan. Cela déclenche la crise de Suez, à l'automne de la même année.",
+    "source": "D'après Wikipédia — Canal de Suez"
+  },
+  {
+    "id": "q-geo-078",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Comment s'appelle le point le plus profond de la fosse des Mariannes ?",
+    "choix": [
+      "Challenger Deep",
+      "Le gouffre de Calypso",
+      "La fosse de Milwaukee",
+      "La fosse de la Sonde"
+    ],
+    "bonneReponse": 0,
+    "explication": "Challenger Deep, au sud de la fosse, dépasse 10 900 m, d'après une analyse de 2014. Il doit son nom au navire britannique Challenger, qui en a sondé le fond en 1951 après l'expédition pionnière de 1875.",
+    "source": "D'après Wikipédia — Fosse des Mariannes"
+  },
+  {
+    "id": "q-geo-079",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quelle est la largeur du détroit de Gibraltar à son point le plus étroit ?",
+    "choix": [
+      "Environ 14 km",
+      "Environ 3 km",
+      "Environ 35 km",
+      "Environ 60 km"
+    ],
+    "bonneReponse": 0,
+    "explication": "Entre l'Espagne et le Maroc, le détroit ne mesure que 14,3 km. C'est pourtant l'unique passage entre l'Atlantique et la Méditerranée, ce qui en fait une voie maritime très fréquentée.",
+    "source": "D'après Wikipédia — Détroit de Gibraltar"
+  },
+  {
+    "id": "q-geo-080",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Comment appelle-t-on un cyclone tropical dans le nord-ouest de l'océan Pacifique ?",
+    "choix": [
+      "Un typhon",
+      "Un ouragan",
+      "Une mousson",
+      "Une tornade"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans le Pacifique nord-ouest, on dit typhon. Le même phénomène s'appelle ouragan dans le nord de l'Atlantique et dans l'est du Pacifique nord, et cyclone dans le Pacifique sud et l'océan Indien.",
+    "source": "D'après Wikipédia — Cyclone tropical"
+  },
+  {
+    "id": "q-geo-081",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Seattle, au climat océanique doux, se trouve à la même latitude que quelle ville française ?",
+    "choix": [
+      "Nantes",
+      "Marseille",
+      "Lille",
+      "Strasbourg"
+    ],
+    "bonneReponse": 0,
+    "explication": "Seattle est à la latitude de Nantes. Grâce au Pacifique et aux courants marins, ses hivers sont doux et arrosés, sans gel sur la côte : on parle même parfois de « climat breton ».",
+    "source": "D'après Wikipédia — Climat océanique"
+  },
+  {
+    "id": "q-geo-082",
+    "domain": "geo",
+    "format": "difference",
+    "question": "Quelle est la différence entre le tropique du Cancer et le tropique du Capricorne ?",
+    "choix": [
+      "Le Cancer est dans l'hémisphère nord, avec le Soleil au zénith en juin ; le Capricorne est au sud, en décembre",
+      "Le Cancer est le plus chaud des deux, le Capricorne le plus froid",
+      "Le Cancer passe par l'Afrique, le Capricorne par l'Amérique",
+      "Le Cancer est un parallèle, le Capricorne un méridien"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les deux sont à 23° 26′ de l'équateur. Le Soleil est au zénith sur le Cancer au solstice de juin, et sur le Capricorne au solstice de décembre. Entre eux s'étend la zone intertropicale.",
+    "source": "D'après Wikipédia — Tropique"
+  },
+  {
+    "id": "q-geo-083",
+    "domain": "geo",
+    "format": "associer",
+    "question": "Associe chaque étendue d'eau à sa particularité.",
+    "paires": [
+      {
+        "gauche": "Océan Atlantique",
+        "droite": "Traversé par une dorsale sous-marine active",
+        "explication": "La dorsale médio-atlantique crée encore du plancher océanique."
+      },
+      {
+        "gauche": "Océan Indien",
+        "droite": "Le plus chaud des océans",
+        "explication": "La plupart de ses eaux sont tropicales, avec récifs et atolls."
+      },
+      {
+        "gauche": "Mer Caspienne",
+        "droite": "Plus grande masse d'eau fermée du monde",
+        "explication": "Elle est endoréique : aucun cours d'eau n'en repart."
+      },
+      {
+        "gauche": "Mer Méditerranée",
+        "droite": "Abrite le corail rouge, « or rouge »",
+        "explication": "Le corail rouge se développe dans le coralligène, en profondeur."
+      }
+    ],
+    "explication": "Chacune a sa singularité : dorsale pour l'Atlantique, chaleur pour l'Indien, fermeture pour la Caspienne, biodiversité exceptionnelle pour la Méditerranée, qui abrite aussi des herbiers de posidonie.",
+    "source": "D'après Wikipédia — Mer Caspienne"
+  },
+  {
+    "id": "q-geo-084",
+    "domain": "geo",
+    "format": "frise",
+    "question": "Remets ces événements liés aux mers et aux canaux dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Inauguration du canal de Suez",
+        "annee": "1869"
+      },
+      {
+        "label": "Découverte de la fosse des Mariannes par l'expédition du Challenger",
+        "annee": "1875"
+      },
+      {
+        "label": "Ouverture du canal de Panama",
+        "annee": "1914"
+      },
+      {
+        "label": "Descente du bathyscaphe Trieste au fond de la fosse des Mariannes",
+        "annee": "1960"
+      },
+      {
+        "label": "Le Panama prend le contrôle total de son canal",
+        "annee": "1999"
+      }
+    ],
+    "explication": "Suez ouvre en 1869, la fosse des Mariannes est repérée en 1875, Panama ouvre en 1914, Piccard et Walsh plongent en 1960, et le Panama récupère son canal le 31 décembre 1999.",
+    "source": "D'après Wikipédia — Fosse des Mariannes"
+  },
+  {
+    "id": "q-geo-085",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel État est entièrement enclavé dans les limites de la ville de Rome ?",
+    "choix": [
+      "La Cité du Vatican",
+      "Saint-Marin",
+      "Monaco",
+      "Le Liechtenstein"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Cité du Vatican, dont le pape est le souverain, se trouve à l'intérieur de Rome. Aucun autre pays au monde n'est ainsi logé dans une ville. Saint-Marin, lui, est enclavé en Italie, mais loin de Rome.",
+    "source": "D'après Wikipédia — Rome"
+  },
+  {
+    "id": "q-geo-086",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Londres est la première ville à avoir organisé les Jeux olympiques d'été à trois reprises.",
+    "reponse": true,
+    "explication": "Londres a organisé les Jeux d'été en 1908, en 1948 puis en 2012, ce qui en fait la première ville de l'histoire à les recevoir trois fois. Les autres villes ont ensuite pu l'égaler, mais elle a ouvert la voie.",
+    "source": "D'après Wikipédia — Londres"
+  },
+  {
+    "id": "q-geo-087",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel nom portait Tokyo avant 1868 ?",
+    "choix": [
+      "Edo",
+      "Kyoto",
+      "Osaka",
+      "Nagoya"
+    ],
+    "bonneReponse": 0,
+    "explication": "Edo, petit village de pêcheurs devenu capitale des shoguns Tokugawa en 1603, est rebaptisée Tokyo, « capitale de l'Est », lorsque l'empereur Meiji y emménage en 1868. Kyoto était l'ancienne capitale impériale.",
+    "source": "D'après Wikipédia — Tokyo"
+  },
+  {
+    "id": "q-geo-088",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quelle ville est la capitale du Brésil jusqu'en 1960 ?",
+    "choix": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Salvador de Bahia",
+      "Brasilia"
+    ],
+    "bonneReponse": 0,
+    "explication": "Rio de Janeiro fut capitale du Brésil de 1763 à 1960. Cette année-là, le pouvoir est transféré à Brasilia. Salvador de Bahia avait été la capitale coloniale avant elle, et São Paulo n'a jamais eu ce rôle.",
+    "source": "D'après Wikipédia — Rio de Janeiro"
+  },
+  {
+    "id": "q-geo-089",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Dubaï est la capitale des Émirats arabes unis.",
+    "reponse": false,
+    "explication": "La capitale fédérale est Abou Dabi, située à environ 130 km au sud-ouest de Dubaï. Dubaï est pourtant la ville la plus peuplée et la plus connue du pays, notamment grâce à la Burj Khalifa et à ses îles artificielles.",
+    "source": "D'après Wikipédia — Dubaï (ville)"
+  },
+  {
+    "id": "q-geo-090",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel tsar a déplacé la capitale russe de Moscou à Saint-Pétersbourg ?",
+    "choix": [
+      "Pierre le Grand",
+      "Ivan le Terrible",
+      "Nicolas II",
+      "Catherine II"
+    ],
+    "bonneReponse": 0,
+    "explication": "Au début du XVIIIe siècle, Pierre le Grand décide de moderniser la Russie à marche forcée et quitte Moscou pour Saint-Pétersbourg. Moscou ne retrouve son rôle de capitale qu'après la révolution d'Octobre 1917.",
+    "source": "D'après Wikipédia — Moscou"
+  },
+  {
+    "id": "q-geo-091",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Dans quelle ville siège le gouvernement des Pays-Bas, alors qu'Amsterdam en est la capitale ?",
+    "choix": [
+      "La Haye",
+      "Rotterdam",
+      "Utrecht",
+      "Haarlem"
+    ],
+    "bonneReponse": 0,
+    "explication": "Amsterdam est bien la capitale des Pays-Bas, mais les ministères et les grandes institutions du pays sont installés à La Haye. Haarlem, elle, est le chef-lieu de la Hollande-Septentrionale, la province d'Amsterdam.",
+    "source": "D'après Wikipédia — Amsterdam"
+  },
+  {
+    "id": "q-geo-092",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel nom portait Mexico à l'époque de l'Empire aztèque ?",
+    "choix": [
+      "Tenochtitlan",
+      "Teotihuacan",
+      "Cuzco",
+      "Chichén Itzá"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tenochtitlan fut fondée vers 1325 sur une île du lac Texcoco. Quand l'Empire aztèque s'effondre en 1521, les Espagnols la détruisent et bâtissent Mexico au même endroit. Cuzco, elle, était la capitale des Incas.",
+    "source": "D'après Wikipédia — Mexico"
+  },
+  {
+    "id": "q-geo-093",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel archéologue américain a fait connaître Machu Picchu au monde en 1911 ?",
+    "choix": [
+      "Hiram Bingham",
+      "Howard Carter",
+      "Heinrich Schliemann",
+      "Francisco Pizarro"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hiram Bingham, professeur à l'université Yale, explore le site en 1911 et le fait connaître par un livre. Les gens du coin le connaissaient déjà : la « cité perdue » n'était oubliée que des étrangers.",
+    "source": "D'après Wikipédia — Machu Picchu"
+  },
+  {
+    "id": "q-geo-094",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "À qui le temple d'Angkor Vat est-il dédié à l'origine ?",
+    "choix": [
+      "Vishnou",
+      "Shiva",
+      "Brahma",
+      "Bouddha"
+    ],
+    "bonneReponse": 0,
+    "explication": "Angkor Vat, construit de 1113 à 1150 sous Sūryavarman II, est un temple-mausolée dédié au dieu hindou Vishnou. Plus tard, sous Jayavarman VII, le bouddhisme devient religion d'État et le Bayon est bâti.",
+    "source": "D'après Wikipédia — Angkor"
+  },
+  {
+    "id": "q-geo-095",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel phénomène astronomique James Cook est-il chargé d'observer à Tahiti en 1769 ?",
+    "choix": [
+      "Le transit de Vénus",
+      "Une éclipse totale de Soleil",
+      "Le passage d'une comète",
+      "Le transit de Mercure"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Royal Society envoie Cook observer le transit de Vénus du 3 juin 1769, afin de mieux mesurer la distance entre Vénus et le Soleil. Les mesures varient plus que prévu, mais le voyage continue vers la Nouvelle-Zélande.",
+    "source": "D'après Wikipédia — James Cook"
+  },
+  {
+    "id": "q-geo-096",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel navire Roald Amundsen utilise-t-il pour franchir le passage du Nord-Ouest entre 1903 et 1906 ?",
+    "choix": [
+      "Le Gjøa",
+      "Le Fram",
+      "La Belgica",
+      "L'Endurance"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Gjøa est un modeste bateau de pêche, léger et muni d'un petit moteur. Sa faible taille lui permet de passer dans des eaux très peu profondes. Le Fram, prêté par Nansen, servira plus tard pour l'expédition vers le pôle Sud.",
+    "source": "D'après Wikipédia — Roald Amundsen"
+  },
+  {
+    "id": "q-geo-097",
+    "domain": "geo",
+    "format": "qui-suis-je",
+    "indices": [
+      "Né à Tanger en 1304, je suis parti à 21 ans faire le pèlerinage à La Mecque.",
+      "Mon voyage a duré près de vingt-cinq ans.",
+      "J'ai visité l'Inde, l'Asie du Sud-Est et la Chine.",
+      "Mes récits ont été rassemblés dans la Rihla."
+    ],
+    "reponse": "Ibn Battûta",
+    "explication": "Ibn Battûta quitte Tanger en 1325 et revient en 1349, après environ 120 000 km. Ses souvenirs, dictés au lettré Ibn Juzayy, forment la Rihla, même si certains historiens doutent de la réalité de tous ses voyages.",
+    "source": "D'après Wikipédia — Ibn Battûta"
+  },
+  {
+    "id": "q-geo-098",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quelles célèbres chutes David Livingstone baptise-t-il du nom d'une reine britannique en 1855 ?",
+    "choix": [
+      "Les chutes Victoria, sur le Zambèze",
+      "Les chutes d'Iguazú",
+      "Les chutes du Niagara",
+      "Les chutes du Nil bleu"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 17 novembre 1855, Livingstone atteint les chutes du Zambèze et les nomme en l'honneur de la reine Victoria. Les populations locales les connaissaient évidemment bien avant, et un Portugais avait exploré la vallée dix ans plus tôt.",
+    "source": "D'après Wikipédia — David Livingstone"
+  },
+  {
+    "id": "q-geo-099",
+    "domain": "geo",
+    "format": "associer",
+    "question": "Associe chaque explorateur à son exploit.",
+    "paires": [
+      {
+        "gauche": "Vasco de Gama",
+        "droite": "La route maritime des Indes",
+        "explication": "Il contourne l'Afrique et atteint Calicut, en Inde."
+      },
+      {
+        "gauche": "James Cook",
+        "droite": "La côte est de l'Australie",
+        "explication": "Il y débarque à Botany Bay, après avoir longé la côte."
+      },
+      {
+        "gauche": "Roald Amundsen",
+        "droite": "Le passage du Nord-Ouest",
+        "explication": "Il le franchit à bord du Gjøa, entre 1903 et 1906."
+      },
+      {
+        "gauche": "David Livingstone",
+        "droite": "Les chutes Victoria",
+        "explication": "Il les atteint sur le Zambèze et les nomme en l'honneur de la reine."
+      }
+    ],
+    "explication": "Quatre explorateurs, quatre exploits : route des Indes pour Gama, Pacifique et Australie pour Cook, passage polaire pour Amundsen, cœur de l'Afrique pour Livingstone.",
+    "source": "D'après Wikipédia — Roald Amundsen"
+  },
+  {
+    "id": "q-geo-100",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "La flotte de Zheng He a ramené une girafe en Chine, prise pour un animal légendaire, le qilin.",
+    "reponse": true,
+    "explication": "Zheng He rapporte une girafe de Malindi, dans l'actuel Kenya. Les Chinois y voient un qilin, créature légendaire porte-bonheur. Les navires troquaient aussi soie et porcelaine contre ivoire et bêtes exotiques.",
+    "source": "D'après Wikipédia — Zheng He"
+  },
+  {
+    "id": "q-geo-101",
+    "domain": "geo",
+    "format": "frise",
+    "question": "Remets ces étapes de la vie de Shackleton dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Il part sur le Discovery de Scott",
+        "annee": "1901"
+      },
+      {
+        "label": "Il atteint 88°23' S, à 180 km du pôle Sud",
+        "annee": "1909"
+      },
+      {
+        "label": "L'Endurance coule dans la mer de Weddell",
+        "annee": "1915"
+      },
+      {
+        "label": "Il meurt en Géorgie du Sud",
+        "annee": "1922"
+      }
+    ],
+    "explication": "Troisième officier du Discovery en 1901, Shackleton atteint un record de latitude en 1909. L'Endurance coule en 1915, puis il meurt d'une crise cardiaque à Grytviken en janvier 1922, au début de sa dernière expédition.",
+    "source": "D'après Wikipédia — Ernest Shackleton"
+  },
+  {
+    "id": "q-geo-102",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quelle capitale Alexandra David-Néel est-elle la première Occidentale à atteindre en 1924 ?",
+    "choix": [
+      "Lhassa",
+      "Katmandou",
+      "Delhi",
+      "Pékin"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1924, Alexandra David-Néel entre à Lhassa, capitale du Tibet alors interdite aux étrangers. L'exploit est connu dans la presse un an plus tard et lui apporte la célébrité. Elle l'a raconté dans Voyage d'une Parisienne à Lhassa.",
+    "source": "D'après Wikipédia — Alexandra David-Néel"
   }
 ]

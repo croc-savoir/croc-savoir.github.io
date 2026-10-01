@@ -475,11 +475,13 @@ const Quiz = (() => {
     if (themeState.level === 'domains') {
       const grid = document.createElement('div');
       grid.className = 'domain-grid';
+      const counts = DataStore.domainCounts();
       DataStore.getDomains().forEach(d => {
+        const n = DataStore.compte(counts[d.id]?.quiz || 0, 'question');
         const tile = document.createElement('button');
         tile.className = 'domain-tile';
         tile.type = 'button';
-        tile.innerHTML = `<span class="domain-tile__emoji">${d.emoji}</span><span class="domain-tile__label">${d.label}</span>`;
+        tile.innerHTML = `<span class="domain-tile__emoji">${d.emoji}</span><span class="domain-tile__label">${d.label}</span>${n ? `<span class="domain-tile__count">${n}</span>` : ''}`;
         tile.addEventListener('click', () => {
           goDeeper({ level: 'formats', domainId: d.id });
         });
@@ -506,7 +508,7 @@ const Quiz = (() => {
         const row = document.createElement('button');
         row.type = 'button';
         row.className = 'subtheme-row';
-        row.innerHTML = `<span class="subtheme-row__label">${FORMAT_LABELS[fmt] || fmt}</span><span class="subtheme-row__count">›</span>`;
+        row.innerHTML = `<span class="subtheme-row__label">${FORMAT_LABELS[fmt] || fmt}</span>${DataStore.compte(1, 'x') ? `<span class="subtheme-row__nb">${byFormat[fmt].length}</span>` : ''}<span class="subtheme-row__count">›</span>`;
         row.addEventListener('click', () => {
           goDeeper({ level: 'session', domainId: themeState.domainId, format: fmt });
         });

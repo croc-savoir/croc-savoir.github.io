@@ -105,7 +105,9 @@ const App = (() => {
       return `+${r.toLocaleString('fr-FR')} ${mot}`;
     };
     document.getElementById('home-greeting').textContent =
-      `${nD} thèmes · ${approx(nF, 'fiches')} · ${approx(nQ, 'quiz')}`;
+      DataStore.compte(nF, 'fiche')
+        ? `${nD} thèmes · ${DataStore.compte(nF, 'fiche')} · ${DataStore.compte(nQ, 'question')}`
+        : `${nD} thèmes · ${approx(nF, 'fiches')} · ${approx(nQ, 'quiz')}`;
     renderDailyCard();
     document.getElementById('dragon-badge').hidden = !Dragon.hasDue();
     const nErr = Store.getErrorIds().length;

@@ -114,6 +114,14 @@ const DataStore = (() => {
     return map;
   }
 
+  // Compteurs de fiches/questions affichés pendant le remplissage du contenu.
+  // Passer à false pour les retirer de toute l'appli.
+  const COMPTEURS = true;
+  function compte(n, mot) {
+    if (!COMPTEURS) return '';
+    return `${n.toLocaleString('fr-FR')} ${mot}${n > 1 ? 's' : ''}`;
+  }
+
   function domainCounts() {
     const counts = {};
     domains.forEach(d => {
@@ -145,6 +153,6 @@ const DataStore = (() => {
     getDomains, getDomain,
     getFiches, getQuiz,
     getAllFiches, getAllQuiz, getAllQuizById,
-    domainCounts, subthemesFor, ficheById, loadDetails,
+    domainCounts, compte, subthemesFor, ficheById, loadDetails,
   };
 })();

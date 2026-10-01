@@ -35,6 +35,24 @@
       "anecdotes": [
         "« Le génie, c'est 1 % d'inspiration et 99 % de transpiration. »",
         "Il était presque sourd depuis l'adolescence."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Télégraphe quadruplex",
+          "annee": "1874"
+        },
+        {
+          "titre": "Phonographe",
+          "annee": "1877"
+        },
+        {
+          "titre": "Lampe à incandescence à filament de carbone",
+          "annee": "1879"
+        },
+        {
+          "titre": "Kinétoscope (avec William Dickson)",
+          "annee": "1891"
+        }
       ]
     },
     "source": "D'après Wikipédia — Thomas Edison"
@@ -73,6 +91,24 @@
       ],
       "anecdotes": [
         "L'unité de mesure du champ magnétique, le tesla, porte son nom, tout comme la marque de voitures électriques."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Moteur à induction à courant alternatif",
+          "annee": "1888"
+        },
+        {
+          "titre": "Bobine Tesla",
+          "annee": "1891"
+        },
+        {
+          "titre": "Bateau radiocommandé (télautomate)",
+          "annee": "1898"
+        },
+        {
+          "titre": "Mes inventions (autobiographie)",
+          "annee": "1919"
+        }
       ]
     },
     "source": "D'après Wikipédia — Nikola Tesla"
@@ -132,6 +168,24 @@
       "anecdotes": [
         "Le premier site web, info.cern.ch, est toujours en ligne.",
         "Lors de la cérémonie d'ouverture des JO de Londres 2012, il a tweeté en direct : « This is for everyone »."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Information Management: A Proposal (projet du Web)",
+          "annee": "1989"
+        },
+        {
+          "titre": "WorldWideWeb, premier navigateur web",
+          "annee": "1990"
+        },
+        {
+          "titre": "Premier site web (info.cern.ch)",
+          "annee": "1991"
+        },
+        {
+          "titre": "Weaving the Web (livre)",
+          "annee": "1999"
+        }
       ]
     },
     "source": "D'après Wikipédia — Tim Berners-Lee"
@@ -173,6 +227,20 @@
       ],
       "anecdotes": [
         "Le prix Turing est considéré comme le « Nobel de l'informatique »."
+      ],
+      "oeuvres": [
+        {
+          "titre": "On Computable Numbers (article fondateur)",
+          "annee": "1936"
+        },
+        {
+          "titre": "La Bombe, machine de décryptage d'Enigma",
+          "annee": "1940"
+        },
+        {
+          "titre": "Computing Machinery and Intelligence (article du « test de Turing »)",
+          "annee": "1950"
+        }
       ]
     },
     "source": "D'après Wikipédia — Alan Turing"
@@ -578,6 +646,40 @@
       "anecdotes": [
         "L'interface graphique du Macintosh s'inspirait d'un prototype vu au centre de recherche Xerox PARC.",
         "Son discours à Stanford en 2005 se terminait par « Stay hungry, stay foolish »."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Apple I",
+          "annee": "1976"
+        },
+        {
+          "titre": "Apple II",
+          "annee": "1977"
+        },
+        {
+          "titre": "Macintosh",
+          "annee": "1984"
+        },
+        {
+          "titre": "NeXT Computer",
+          "annee": "1988"
+        },
+        {
+          "titre": "iMac",
+          "annee": "1998"
+        },
+        {
+          "titre": "iPod",
+          "annee": "2001"
+        },
+        {
+          "titre": "iPhone",
+          "annee": "2007"
+        },
+        {
+          "titre": "iPad",
+          "annee": "2010"
+        }
       ]
     },
     "source": "D'après Wikipédia — Steve Jobs"
@@ -614,6 +716,28 @@
       "anecdotes": [
         "MS-DOS était en fait basé sur un système racheté à une petite entreprise pour environ 50 000 dollars.",
         "Il a été arrêté en 1977 pour excès de vitesse ; sa photo d'identité judiciaire est célèbre."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Altair BASIC",
+          "annee": "1975"
+        },
+        {
+          "titre": "MS-DOS",
+          "annee": "1981"
+        },
+        {
+          "titre": "Windows 1.0",
+          "annee": "1985"
+        },
+        {
+          "titre": "La Route du futur (livre)",
+          "annee": "1995"
+        },
+        {
+          "titre": "Climat : comment éviter un désastre (livre)",
+          "annee": "2021"
+        }
       ]
     },
     "source": "D'après Wikipédia — Bill Gates"
@@ -654,6 +778,20 @@
       ],
       "anecdotes": [
         "Elle distribuait des bouts de fil de 30 cm pour montrer ce qu'est une nanoseconde : la distance parcourue par la lumière dans ce temps."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Compilateur A-0",
+          "annee": "1952"
+        },
+        {
+          "titre": "FLOW-MATIC",
+          "annee": "1955"
+        },
+        {
+          "titre": "COBOL (contribution majeure)",
+          "annee": "1959"
+        }
       ]
     },
     "source": "D'après Wikipédia — Grace Hopper"
@@ -694,6 +832,28 @@
       "anecdotes": [
         "Un morceau de tissu du Flyer a voyagé sur la Lune avec Apollo 11, puis sur Mars avec l'hélicoptère Ingenuity.",
         "Ils ont tiré à pile ou face pour savoir qui piloterait en premier ; Wilbur a gagné mais a raté son essai, Orville a fait le premier vol réussi."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Planeur Wright",
+          "annee": "1902"
+        },
+        {
+          "titre": "Wright Flyer",
+          "annee": "1903"
+        },
+        {
+          "titre": "Wright Flyer II",
+          "annee": "1904"
+        },
+        {
+          "titre": "Wright Flyer III",
+          "annee": "1905"
+        },
+        {
+          "titre": "Wright Model B",
+          "annee": "1910"
+        }
       ]
     },
     "source": "D'après Wikipédia — Frères Wright"
@@ -725,6 +885,28 @@
       ],
       "anecdotes": [
         "En Autriche, en Allemagne et en Suisse, le 9 novembre, jour de sa naissance, est la Journée de l'inventeur."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Extase",
+          "annee": "1933"
+        },
+        {
+          "titre": "Casbah",
+          "annee": "1938"
+        },
+        {
+          "titre": "Système de communication secrète (brevet, avec George Antheil)",
+          "annee": "1942"
+        },
+        {
+          "titre": "Le Démon de la chair",
+          "annee": "1946"
+        },
+        {
+          "titre": "Samson et Dalila",
+          "annee": "1949"
+        }
       ]
     },
     "source": "D'après Wikipédia — Hedy Lamarr"

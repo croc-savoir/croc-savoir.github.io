@@ -389,6 +389,28 @@
       "anecdotes": [
         "La phrase « Et pourtant elle tourne » est très probablement une légende.",
         "En 1971, l'astronaute David Scott a lâché un marteau et une plume sur la Lune : ils sont tombés ensemble, comme Galilée l'avait prédit."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Sidereus Nuncius (Le Messager des étoiles)",
+          "annee": "1610"
+        },
+        {
+          "titre": "Lettres sur les taches solaires",
+          "annee": "1613"
+        },
+        {
+          "titre": "L'Essayeur",
+          "annee": "1623"
+        },
+        {
+          "titre": "Dialogue sur les deux grands systèmes du monde",
+          "annee": "1632"
+        },
+        {
+          "titre": "Discours concernant deux sciences nouvelles",
+          "annee": "1638"
+        }
       ]
     },
     "source": "D'après Wikipédia — Galilée (savant)"
@@ -748,6 +770,18 @@
       ],
       "anecdotes": [
         "On parle de « révolution copernicienne » pour tout renversement complet de point de vue."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Commentariolus"
+        },
+        {
+          "titre": "Traité de la monnaie (Monetae cudendae ratio)"
+        },
+        {
+          "titre": "Des révolutions des sphères célestes",
+          "annee": "1543"
+        }
       ]
     },
     "source": "D'après Wikipédia — Nicolas Copernic"

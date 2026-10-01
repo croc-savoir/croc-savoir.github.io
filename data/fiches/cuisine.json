@@ -354,6 +354,20 @@
       "anecdotes": [
         "Il a créé la pêche Melba en l'honneur de la chanteuse d'opéra Nellie Melba.",
         "Surnommé « le roi des cuisiniers et le cuisinier des rois »."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Le Guide culinaire",
+          "annee": "1903"
+        },
+        {
+          "titre": "Le Livre des menus",
+          "annee": "1912"
+        },
+        {
+          "titre": "Ma cuisine",
+          "annee": "1934"
+        }
       ]
     },
     "source": "D'après Wikipédia — Auguste Escoffier"
@@ -383,6 +397,28 @@
         {
           "titre": "La télévision",
           "texte": "Son livre Mastering the Art of French Cooking (1961) et son émission The French Chef (1963) font découvrir la cuisine française aux Américains, avec humour et simplicité. Le film Julie & Julia (2009), avec Meryl Streep, raconte son histoire."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Mastering the Art of French Cooking",
+          "annee": "1961"
+        },
+        {
+          "titre": "The French Chef (émission de télévision)",
+          "annee": "1963"
+        },
+        {
+          "titre": "The French Chef Cookbook",
+          "annee": "1968"
+        },
+        {
+          "titre": "From Julia Child's Kitchen",
+          "annee": "1975"
+        },
+        {
+          "titre": "My Life in France (mémoires, posthume)",
+          "annee": "2006"
         }
       ]
     },

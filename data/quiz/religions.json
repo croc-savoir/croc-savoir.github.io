@@ -1118,5 +1118,504 @@
     ],
     "explication": "Le bassin précède le temple, achevé sous le gourou Arjan, qui y installe le livre sacré en 1604. Le maharaja Ranjît Singh le refait en marbre et en cuivre en 1809, puis l'or recouvre le sanctuaire : d'où le nom de Temple d'or.",
     "source": "D'après Wikipédia — Harmandir Sahib"
+  },
+  {
+    "id": "q-religions-071",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel surnom Jésus donne-t-il à Simon, le futur apôtre Pierre ?",
+    "choix": [
+      "Képhas, « le roc »",
+      "Boanergès, « fils du tonnerre »",
+      "Didyme, « le jumeau »",
+      "Barnabé, « fils de consolation »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jésus appelle Simon Képhas, un mot araméen qui signifie « roc ». En grec, cela devient Petros, d'où notre « Pierre ». L'Évangile de Matthieu joue sur les mots : « sur cette pierre je bâtirai mon assemblée ».",
+    "source": "D'après Wikipédia — Pierre (apôtre)"
+  },
+  {
+    "id": "q-religions-072",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Selon les Actes des Apôtres, sur quel chemin Paul vit-il sa rencontre avec Jésus ressuscité ?",
+    "choix": [
+      "Le chemin de Damas",
+      "Le chemin de Jérusalem à Jéricho",
+      "Le chemin d'Antioche à Chypre",
+      "La route de Rome"
+    ],
+    "bonneReponse": 0,
+    "explication": "Selon les Actes, Paul, qui persécutait les disciples de Jésus, se rendait à Damas quand il entendit une voix. Il resta aveugle trois jours, puis fut baptisé par Ananie et retrouva la vue.",
+    "source": "D'après Wikipédia — Paul de Tarse"
+  },
+  {
+    "id": "q-religions-073",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "C'est le concile d'Éphèse, en 431, qui reconnaît à Marie le titre de Théotokos, « Mère de Dieu ».",
+    "reponse": true,
+    "explication": "Ce titre est reconnu à Éphèse en 431 et accepté par plusieurs grandes confessions chrétiennes. En 553, le deuxième concile de Constantinople ajoute la virginité perpétuelle de Marie. L'Immaculée Conception, elle, est un dogme catholique de 1854.",
+    "source": "D'après Wikipédia — Marie (mère de Jésus)"
+  },
+  {
+    "id": "q-religions-074",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel ouvrage d'Augustin raconte, entre autres, un vol de poires commis dans sa jeunesse ?",
+    "choix": [
+      "Les Confessions",
+      "La Cité de Dieu",
+      "De la Trinité",
+      "La Doctrine chrétienne"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans Les Confessions, Augustin se reproche d'avoir volé des poires avec des amis, non par faim mais par plaisir de transgresser. Ce livre est souvent présenté comme la première autobiographie occidentale.",
+    "source": "D'après Wikipédia — Augustin d'Hippone"
+  },
+  {
+    "id": "q-religions-075",
+    "domain": "religions",
+    "format": "associer",
+    "question": "Associe chaque penseur religieux à son grand ouvrage.",
+    "paires": [
+      {
+        "gauche": "Augustin d'Hippone",
+        "droite": "La Cité de Dieu",
+        "explication": "Augustin y oppose la cité fondée sur l'amour de Dieu à celle fondée sur l'amour de soi."
+      },
+      {
+        "gauche": "Thomas d'Aquin",
+        "droite": "Somme théologique",
+        "explication": "Commencée en 1266, cette vaste synthèse est restée inachevée à sa mort."
+      },
+      {
+        "gauche": "Maïmonide",
+        "droite": "Guide des égarés",
+        "explication": "Il y cherche à accorder la philosophie d'Aristote et la tradition juive."
+      },
+      {
+        "gauche": "Jean Calvin",
+        "droite": "Institution de la religion chrétienne",
+        "explication": "Publiée d'abord à Bâle, elle est révisée par Calvin tout au long de sa vie."
+      }
+    ],
+    "explication": "Ces quatre ouvrages ont marqué la pensée religieuse : Augustin dans l'Antiquité tardive, Thomas d'Aquin et Maïmonide au Moyen Âge, Calvin à l'époque de la Réforme protestante, au XVIe siècle.",
+    "source": "D'après Wikipédia — Thomas d'Aquin"
+  },
+  {
+    "id": "q-religions-076",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel surnom ses camarades donnent-ils à Thomas d'Aquin pendant ses études à Cologne ?",
+    "choix": [
+      "Le « bœuf muet »",
+      "L'« Aigle de la Synagogue »",
+      "Le « petit roc »",
+      "L'« Apôtre des nations »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Grand, corpulent et silencieux, Thomas est surnommé le « bœuf muet » par ses camarades. Son maître Albert le Grand aurait répondu qu'un jour, cet élève ferait entendre un « mugissement » dans le monde entier.",
+    "source": "D'après Wikipédia — Thomas d'Aquin"
+  },
+  {
+    "id": "q-religions-077",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Dans quelle ville Calvin organise-t-il l'Église et la liturgie après son retour en 1541 ?",
+    "choix": [
+      "Genève",
+      "Strasbourg",
+      "Bâle",
+      "Noyon"
+    ],
+    "bonneReponse": 0,
+    "explication": "Expulsé de Genève en 1538, Calvin devient pasteur des réfugiés français à Strasbourg. Il est rappelé à Genève en 1541, où il introduit une nouvelle liturgie et reste jusqu'à sa mort en 1564.",
+    "source": "D'après Wikipédia — Jean Calvin"
+  },
+  {
+    "id": "q-religions-078",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Maïmonide a rédigé son code de la loi juive, le Mishné Torah, en latin.",
+    "reponse": false,
+    "explication": "Le Mishné Torah est écrit en hébreu. Maïmonide veut que tout Juif puisse savoir quelle conduite adopter, même sans connaître à fond la Torah ou le Talmud : il rassemble donc les règles de façon claire et systématique.",
+    "source": "D'après Wikipédia — Moïse Maïmonide"
+  },
+  {
+    "id": "q-religions-079",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que signifie le nom « Abraham » dans le livre de la Genèse ?",
+    "choix": [
+      "« Père d'une multitude de nations »",
+      "« Celui qui voit Dieu »",
+      "« Fils de la promesse »",
+      "« Berger du désert »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans la Genèse, Abram (« le Père est exalté ») reçoit de Dieu le nom d'Abraham, « père d'une multitude de nations ». Dans le Coran, il est appelé Ibrahim et tient une place centrale.",
+    "source": "D'après Wikipédia — Abraham"
+  },
+  {
+    "id": "q-religions-080",
+    "domain": "religions",
+    "format": "qui-suis-je",
+    "indices": [
+      "Les informations historiques sur moi sont rares, et certains chercheurs me croient fictif.",
+      "On me représente en vieillard à barbe blanche, parfois monté sur un buffle.",
+      "À une passe frontière, un gardien m'aurait demandé de mettre mon enseignement par écrit.",
+      "Les taoïstes me vénèrent comme un dieu."
+    ],
+    "reponse": "Laozi",
+    "explication": "Laozi (ou Lao Tseu) est tenu pour le père du taoïsme et l'auteur du Tao Tö King. Selon la légende, il écrit ce livre pour le gardien Yin Xi avant de disparaître vers l'ouest, mais son existence historique reste débattue.",
+    "source": "D'après Wikipédia — Lao Tseu"
+  },
+  {
+    "id": "q-religions-081",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel recueil rassemble les propos de Confucius et de ses disciples ?",
+    "choix": [
+      "Les Entretiens",
+      "Le Tao Tö King",
+      "Le Livre des rites",
+      "Le Jap Ji"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les Entretiens (ou Analectes) ont été compilés par des disciples de deuxième génération. Confucius n'a jamais exposé sa pensée de manière théorique : c'est dans ces dialogues qu'on la retrouve.",
+    "source": "D'après Wikipédia — Confucius"
+  },
+  {
+    "id": "q-religions-082",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel musicien musulman accompagne Guru Nanak dans ses voyages ?",
+    "choix": [
+      "Mardana",
+      "Bala",
+      "Lehna",
+      "Mehta Kalu"
+    ],
+    "bonneReponse": 0,
+    "explication": "Mardana, joueur de rabab et ami d'enfance de Nanak, l'accompagne dans ses voyages. Bala, souvent cité comme son compagnon hindou, serait un personnage inventé plus tard ; Lehna, lui, sera son successeur.",
+    "source": "D'après Wikipédia — Guru Nanak"
+  },
+  {
+    "id": "q-religions-083",
+    "domain": "religions",
+    "format": "frise",
+    "question": "Remets dans l'ordre ces moments de la vie de Mère Teresa.",
+    "evenements": [
+      {
+        "label": "Son « appel dans l'appel » dans un train vers Darjeeling",
+        "annee": "1946"
+      },
+      {
+        "label": "Fondation des Missionnaires de la Charité",
+        "annee": "1950"
+      },
+      {
+        "label": "Prix Nobel de la paix",
+        "annee": "1979"
+      },
+      {
+        "label": "Sa mort à Calcutta",
+        "annee": "1997"
+      },
+      {
+        "label": "Sa canonisation",
+        "annee": "2016"
+      }
+    ],
+    "explication": "En 1946, elle ressent un appel à aider les pauvres. Elle fonde sa congrégation en 1950, reçoit le Nobel de la paix en 1979, meurt en 1997 et est canonisée en 2016 par le pape François.",
+    "source": "D'après Wikipédia — Mère Teresa"
+  },
+  {
+    "id": "q-religions-084",
+    "domain": "religions",
+    "format": "difference",
+    "question": "Quelle différence entre la façon dont les sunnites et les chiites voient Ali ibn Abi Talib ?",
+    "choix": [
+      "Pour les sunnites, il est le quatrième des premiers califes ; pour les chiites, il est le premier imam et le successeur légitime de Mahomet.",
+      "Pour les sunnites, il est un prophète ; pour les chiites, il n'est qu'un compagnon de Mahomet.",
+      "Pour les sunnites, il fut le premier calife ; pour les chiites, il n'a jamais exercé le pouvoir.",
+      "Les sunnites l'ignorent, alors que les chiites le comptent parmi les quatre premiers califes."
+    ],
+    "bonneReponse": 0,
+    "explication": "Les sunnites le comptent comme quatrième calife (656-661). Les chiites voient en lui le premier imam et le successeur désigné par Mahomet, notamment à Ghadir Khumm. Tous les musulmans le vénèrent comme proche du Prophète.",
+    "source": "D'après Wikipédia — Ali ibn Abi Talib"
+  },
+  {
+    "id": "q-religions-085",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel texte de 313, signé par Constantin et Licinius, établit la liberté de culte et met fin aux persécutions des chrétiens ?",
+    "choix": [
+      "L'édit de Milan",
+      "Le concile de Nicée",
+      "L'édit de Coucy",
+      "L'édit de Caracalla"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'édit de Milan, cosigné en 313 par Constantin et Licinius, légalise le christianisme dans l'Empire romain. Douze ans plus tard, Constantin réunit le concile de Nicée pour apaiser les querelles entre Églises d'Orient.",
+    "source": "D'après Wikipédia — Constantin Ier (empereur romain)"
+  },
+  {
+    "id": "q-religions-086",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quelle devise est traditionnellement associée à la vie des bénédictins ?",
+    "choix": [
+      "Ora et labora (prie et travaille)",
+      "Ad maiorem Dei gloriam",
+      "Pax et bonum",
+      "Veni, vidi, vici"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Ora et labora », « prie et travaille », résume l'équilibre bénédictin entre prière et travail manuel. Cette formule ne figure pourtant pas dans la règle de saint Benoît, rédigée au VIe siècle : on la lui attribue plus tard.",
+    "source": "D'après Wikipédia — Ordre de Saint-Benoît"
+  },
+  {
+    "id": "q-religions-087",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Élu pape en 2013, François a été le premier pape issu de la Compagnie de Jésus.",
+    "reponse": true,
+    "explication": "Jésuite depuis 1956, François est élu pape en mars 2013 : il devient le premier pape issu de la Compagnie de Jésus. L'ordre, fondé en 1540, ne compte pourtant que peu d'évêques et de cardinaux, car ses membres ne recherchent pas les honneurs.",
+    "source": "D'après Wikipédia — Compagnie de Jésus"
+  },
+  {
+    "id": "q-religions-088",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que désigne la « sunna », dont le mot « sunnite » est dérivé ?",
+    "choix": [
+      "La ligne de conduite de Mahomet, modèle pour les croyants",
+      "Le pèlerinage à La Mecque",
+      "Une école de droit musulman",
+      "Le livre sacré de l'islam"
+    ],
+    "bonneReponse": 0,
+    "explication": "La sunna est la conduite de Mahomet : ses actes, ses paroles et même ses silences servent de modèle. Ils sont conservés dans les hadiths, dont les recueils d'al-Boukhari et de Muslim sont les plus réputés chez les sunnites.",
+    "source": "D'après Wikipédia — Sunnisme"
+  },
+  {
+    "id": "q-religions-089",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que signifie le mot arabe « chî'a », dont dérive « chiite » ?",
+    "choix": [
+      "Partisans",
+      "Pèlerins",
+      "Gardiens",
+      "Savants"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chî'a signifie « partisans » ou « suiveurs ». Le mot apparaît même dans le Coran à propos des partisans de prophètes. Il a pris le sens de partisans d'Ali, que les chiites voient comme le successeur de Mahomet.",
+    "source": "D'après Wikipédia — Chiisme"
+  },
+  {
+    "id": "q-religions-090",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Comment appelle-t-on, dans le soufisme, une confrérie réunie autour d'un maître spirituel ?",
+    "choix": [
+      "Une tariqa",
+      "Une madrasa",
+      "Un minbar",
+      "Un califat"
+    ],
+    "bonneReponse": 0,
+    "explication": "La tariqa, littéralement « la voie », est la confrérie soufie. Les premières s'organisent aux XIIe et XIIIe siècles autour de maîtres appelés cheikhs, qui transmettent à leurs disciples une initiation et une chaîne spirituelle.",
+    "source": "D'après Wikipédia — Soufisme"
+  },
+  {
+    "id": "q-religions-091",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel dieu est au centre du zoroastrisme ?",
+    "choix": [
+      "Ahura Mazda",
+      "Mithra seul",
+      "Ahriman",
+      "Zoroastre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ahura Mazda est le dieu créateur du ciel et de la Terre dans le zoroastrisme. Il s'oppose à Ahriman, l'esprit du mal. Zoroastre, lui, est le prophète dont l'enseignement est recueilli dans l'Avesta.",
+    "source": "D'après Wikipédia — Zoroastrisme"
+  },
+  {
+    "id": "q-religions-092",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Comment s'appelle la méditation en position assise pratiquée dans le zen ?",
+    "choix": [
+      "Le zazen",
+      "Le kōan",
+      "Le sutra",
+      "Le satori"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le zazen, littéralement la méditation assise, est la pratique centrale du zen. Il se réfère à la posture de méditation du Bouddha sous l'arbre de la Bodhi. Le kōan, lui, est une énigme que les maîtres posent à leurs disciples.",
+    "source": "D'après Wikipédia — Zen"
+  },
+  {
+    "id": "q-religions-093",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Où se trouve le centre spirituel et administratif de la foi baha'ie ?",
+    "choix": [
+      "À Haïfa et Acre, en Israël",
+      "À La Mecque, en Arabie",
+      "À Chiraz, en Iran",
+      "À Varanasi, en Inde"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le centre mondial baha'i est à Haïfa et à Acre. Baha'u'llah a fini sa vie à Acre, et le tombeau du Bab, dont les restes ont été amenés d'Iran en secret, se trouve à Haïfa : c'est un lieu de pèlerinage.",
+    "source": "D'après Wikipédia — Foi baháʼíe"
+  },
+  {
+    "id": "q-religions-094",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Le terme « animisme » a été popularisé en 1871 par l'anthropologue Edward Tylor.",
+    "reponse": true,
+    "explication": "Edward Tylor l'a employé dans Primitive Culture, en 1871, pour décrire la croyance en des âmes présentes partout. Cette théorie a ensuite été très critiquée, et le mot est aujourd'hui utilisé avec précaution par les chercheurs.",
+    "source": "D'après Wikipédia — Animisme"
+  },
+  {
+    "id": "q-religions-095",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "De quelle langue le mot « chamane » est-il emprunté ?",
+    "choix": [
+      "Le toungouse, parlé en Sibérie",
+      "Le sanskrit, langue de l'Inde ancienne",
+      "L'arabe classique",
+      "Le latin médiéval"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot vient du toungouse, langue de Sibérie. Connu en Europe dès le XVIIe siècle par des récits de voyageurs, elle est admise officiellement en français en 1842. En evenki, saman signifie « danser, bondir, s'agiter ».",
+    "source": "D'après Wikipédia — Chamanisme"
+  },
+  {
+    "id": "q-religions-096",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Le mot « mystique » vient d'un adjectif grec lié à l'idée d'initiation aux mystères.",
+    "reponse": true,
+    "explication": "L'adjectif grec mustikos se rattache à un verbe qui signifie « initier aux mystères ». Dans l'Antiquité, les cultes à mystères, comme ceux d'Éleusis, réservaient certains rites aux seuls initiés.",
+    "source": "D'après Wikipédia — Mystique"
+  },
+  {
+    "id": "q-religions-097",
+    "domain": "religions",
+    "format": "difference",
+    "question": "Quelle est la différence entre un anachorète et un cénobite ?",
+    "choix": [
+      "L'anachorète vit seul, le cénobite vit en communauté",
+      "L'anachorète vit en communauté, le cénobite vit seul",
+      "L'anachorète est un moine bouddhiste, le cénobite un moine chrétien",
+      "L'anachorète est un abbé, le cénobite un simple novice"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les anachorètes mènent une vie érémitique, donc solitaire, comme Antoine le Grand dans le désert égyptien. Les cénobites se regroupent en communautés, que Pacôme le Grand a organisées avec une règle vers 329.",
+    "source": "D'après Wikipédia — Monachisme"
+  },
+  {
+    "id": "q-religions-098",
+    "domain": "religions",
+    "format": "associer",
+    "question": "Associe chaque courant à son trait caractéristique.",
+    "paires": [
+      {
+        "gauche": "Sunnisme",
+        "droite": "Se réfère à la sunna de Mahomet",
+        "explication": "Le mot sunnite vient de la sunna, la conduite du Prophète."
+      },
+      {
+        "gauche": "Chiisme",
+        "droite": "Partisans d'Ali et de la famille du Prophète",
+        "explication": "Chî'a signifie « partisans », ici ceux d'Ali, cousin de Mahomet."
+      },
+      {
+        "gauche": "Soufisme",
+        "droite": "Voie mystique organisée en confréries",
+        "explication": "Chaque confrérie, ou tariqa, se réunit autour d'un maître spirituel."
+      },
+      {
+        "gauche": "Zoroastrisme",
+        "droite": "Culte d'Ahura Mazda et du feu",
+        "explication": "Le feu y est un symbole du divin, entretenu dans des temples."
+      },
+      {
+        "gauche": "Zen",
+        "droite": "Méditation assise ou zazen",
+        "explication": "École japonaise du bouddhisme qui met l'accent sur le zazen."
+      }
+    ],
+    "explication": "Ces cinq traditions ont chacune une identité nette : une référence à la conduite du Prophète, la fidélité à Ali, des confréries mystiques, le dieu Ahura Mazda ou la méditation assise.",
+    "source": "D'après Wikipédia — Chiisme"
+  },
+  {
+    "id": "q-religions-099",
+    "domain": "religions",
+    "format": "frise",
+    "question": "Remets ces événements dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Benoît de Nursie fonde le premier monastère, au mont Cassin",
+        "annee": "529"
+      },
+      {
+        "label": "La règle bénédictine est imposée dans l'Empire carolingien",
+        "annee": "817"
+      },
+      {
+        "label": "Le IVe concile de Latran emploie le mot « bénédictin »",
+        "annee": "1215"
+      },
+      {
+        "label": "Une bulle du pape Benoît XII emploie le nom de bénédictins",
+        "annee": "1336"
+      },
+      {
+        "label": "Léon XIII crée la Confédération bénédictine",
+        "annee": "1893"
+      }
+    ],
+    "explication": "De la fondation du mont Cassin à la Confédération bénédictine, mille quatre cents ans d'histoire monastique : le mot « bénédictin » n'apparaît que tardivement, au XIIIe puis au XIVe siècle, longtemps après la règle.",
+    "source": "D'après Wikipédia — Ordre de Saint-Benoît"
+  },
+  {
+    "id": "q-religions-100",
+    "domain": "religions",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née dans le monde iranien, probablement dans la seconde moitié du IIe millénaire avant notre ère.",
+      "Mon texte sacré, en grande partie perdu, s'appelle l'Avesta.",
+      "Mes fidèles entretiennent le feu dans des temples.",
+      "Certains de mes fidèles, les Parsis, se sont installés au Gujarat.",
+      "Mon dieu s'appelle Ahura Mazda."
+    ],
+    "reponse": "Le zoroastrisme",
+    "explication": "Le zoroastrisme est centré sur Ahura Mazda et sur l'enseignement de Zoroastre. Après l'arrivée de l'islam en Perse, des fidèles ont trouvé refuge dans une région de l'Inde, le Gujarat, et y forment la communauté des Parsis.",
+    "source": "D'après Wikipédia — Zoroastrisme"
+  },
+  {
+    "id": "q-religions-101",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel ermite se retire vers 270 dans le désert égyptien, attirant de nombreux disciples ?",
+    "choix": [
+      "Antoine le Grand",
+      "Benoît de Nursie",
+      "Basile de Césarée",
+      "Ignace de Loyola"
+    ],
+    "bonneReponse": 0,
+    "explication": "Antoine le Grand se retire vers 270 dans le désert d'Égypte et attire, malgré lui, de nombreux disciples. Il est l'une des origines du monachisme chrétien, que Pacôme organise ensuite en communautés.",
+    "source": "D'après Wikipédia — Monachisme"
   }
 ]

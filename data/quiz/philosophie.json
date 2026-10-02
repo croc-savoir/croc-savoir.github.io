@@ -734,5 +734,238 @@
     "bonneReponse": 0,
     "explication": "Le nihilisme passif, celui des faibles, juge que l'existence est vaine. Le nihilisme actif voit les croyances s'effondrer et invente des valeurs nouvelles : c'est une étape vers le dépassement du nihilisme.",
     "source": "D'après Wikipédia — Nihilisme"
+  },
+  {
+    "id": "q-philosophie-047",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quelle organisation Michel Foucault a-t-il fondée dans les années 1970 pour donner la parole aux détenus ?",
+    "choix": [
+      "Le Groupe d'information sur les prisons",
+      "Le Comité de soutien aux détenus",
+      "La Commission nationale des peines",
+      "Le Front de libération des prisons"
+    ],
+    "bonneReponse": 0,
+    "explication": "Foucault crée le Groupe d'information sur les prisons, pour que les détenus puissent s'exprimer sur leur quotidien. Gilles Deleuze s'y engage à ses côtés. Ce travail prolonge sa réflexion sur la prison, qui culmine dans Surveiller et punir en 1975.",
+    "source": "D'après Wikipédia — Michel Foucault"
+  },
+  {
+    "id": "q-philosophie-048",
+    "domain": "philosophie",
+    "format": "associer",
+    "question": "Associe chaque penseur à son ouvrage.",
+    "paires": [
+      {
+        "gauche": "Michel Foucault",
+        "droite": "Surveiller et punir",
+        "explication": "Ce livre analyse la prison et le contrôle des individus par les institutions."
+      },
+      {
+        "gauche": "John Rawls",
+        "droite": "Théorie de la justice",
+        "explication": "Elle expose la « justice comme équité » et le voile d'ignorance."
+      },
+      {
+        "gauche": "Claude Lévi-Strauss",
+        "droite": "Tristes Tropiques",
+        "explication": "Paru en 1955, ce livre mêle autobiographie, méditation philosophique et témoignage ethnographique."
+      },
+      {
+        "gauche": "Jürgen Habermas",
+        "droite": "Théorie de l'agir communicationnel",
+        "explication": "Elle fonde la rationalité sur la communication entre les personnes."
+      },
+      {
+        "gauche": "Raymond Aron",
+        "droite": "L'Opium des intellectuels",
+        "explication": "Publié en 1955, il retourne la formule de Marx sur la religion, opium du peuple."
+      }
+    ],
+    "explication": "Ces cinq penseurs ont chacun marqué une discipline : l'histoire des institutions, la philosophie politique, l'anthropologie, la théorie de la communication et l'analyse politique. Leurs grands livres paraissent entre le milieu des années 1950 et le début des années 1980.",
+    "source": "D'après Wikipédia — Michel Foucault"
+  },
+  {
+    "id": "q-philosophie-049",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Avec quel penseur Gilles Deleuze a-t-il écrit L'Anti-Œdipe et Mille Plateaux ?",
+    "choix": [
+      "Félix Guattari",
+      "Michel Foucault",
+      "Jacques Derrida",
+      "Michel Serres"
+    ],
+    "bonneReponse": 0,
+    "explication": "Félix Guattari, rencontré en 1969, est le coauteur de Deleuze pour L'Anti-Œdipe (1972), puis pour Kafka, Mille Plateaux (1980) et Qu'est-ce que la philosophie ? Ensemble, ils créent des notions comme le rhizome et la déterritorialisation.",
+    "source": "D'après Wikipédia — Gilles Deleuze"
+  },
+  {
+    "id": "q-philosophie-050",
+    "domain": "philosophie",
+    "format": "vrai-faux",
+    "affirmation": "Le mot « différance », inventé par Jacques Derrida, se distingue de « différence » à l'écrit, mais pas à l'oral.",
+    "reponse": true,
+    "explication": "Derrida écrit « différance » avec un a : la nuance se lit mais ne s'entend pas. Le verbe différer veut dire à la fois ne pas être identique et reporter dans le temps, et le mot garde ces deux sens. Il montre qu'il y a déjà de l'écriture dans la parole.",
+    "source": "D'après Wikipédia — Jacques Derrida"
+  },
+  {
+    "id": "q-philosophie-051",
+    "domain": "philosophie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Fils d'un peintre portraitiste, je suis né à Bruxelles en 1908.",
+      "Agrégé de philosophie dès 1931, je pars ensuite enseigner la sociologie à São Paulo.",
+      "J'ai étudié les Bororo et les Nambikwara, puis un linguiste russe, Roman Jakobson, m'a initié à l'analyse structurale à New York.",
+      "J'ai publié Tristes Tropiques en 1955, puis les quatre volumes des Mythologiques.",
+      "Entré à l'Académie française en 1973, je suis mort à l'âge de 100 ans."
+    ],
+    "reponse": "Claude Lévi-Strauss",
+    "explication": "Il s'agit de Claude Lévi-Strauss, anthropologue né à Bruxelles. Agrégé de philosophie, il s'est tourné vers l'ethnologie après son séjour au Brésil. En 2008, il est devenu le premier membre de l'Académie française à atteindre l'âge de 100 ans.",
+    "source": "D'après Wikipédia — Claude Lévi-Strauss"
+  },
+  {
+    "id": "q-philosophie-052",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Que désigne le « voile d'ignorance » dans la pensée de John Rawls ?",
+    "choix": [
+      "Une expérience de pensée où l'on choisit les règles de la société sans connaître sa propre place",
+      "Le secret du vote lors des élections",
+      "L'ignorance des citoyens en matière de politique",
+      "Un principe de neutralité imposé aux juges"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le voile d'ignorance est une expérience de pensée : des personnes choisissent les règles de la société sans savoir quelle place elles y occuperont. Ne connaissant ni leur richesse ni leur santé, elles retiendraient des règles équitables, d'où la « justice comme équité ».",
+    "source": "D'après Wikipédia — John Rawls (philosophe)"
+  },
+  {
+    "id": "q-philosophie-053",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Dans quel pays Karl Popper a-t-il écrit La Société ouverte et ses ennemis ?",
+    "choix": [
+      "En Nouvelle-Zélande",
+      "Au Royaume-Uni",
+      "En Autriche",
+      "Aux États-Unis"
+    ],
+    "bonneReponse": 0,
+    "explication": "Craignant la montée du nazisme, Popper part en 1937 enseigner à Christchurch, en Nouvelle-Zélande. C'est là qu'il écrit La Société ouverte et ses ennemis, où il défend la démocratie libérale. Il rejoint la London School of Economics en 1946.",
+    "source": "D'après Wikipédia — Karl Popper"
+  },
+  {
+    "id": "q-philosophie-054",
+    "domain": "philosophie",
+    "format": "vrai-faux",
+    "affirmation": "Le logicien Bertrand Russell a reçu le prix Nobel de littérature.",
+    "reponse": true,
+    "explication": "Russell a reçu le prix Nobel de littérature en 1950, pour des écrits qui défendent l'humanisme et la liberté de pensée. Il est surtout connu comme logicien, mais ses livres accessibles l'ont rendu célèbre auprès du grand public.",
+    "source": "D'après Wikipédia — Bertrand Russell"
+  },
+  {
+    "id": "q-philosophie-055",
+    "domain": "philosophie",
+    "format": "frise",
+    "question": "Remets ces penseurs dans l'ordre de leur naissance.",
+    "evenements": [
+      {
+        "label": "Bertrand Russell",
+        "annee": "1872"
+      },
+      {
+        "label": "Claude Lévi-Strauss",
+        "annee": "1908"
+      },
+      {
+        "label": "Simone Weil",
+        "annee": "1909"
+      },
+      {
+        "label": "Gilles Deleuze",
+        "annee": "1925"
+      },
+      {
+        "label": "Jacques Derrida",
+        "annee": "1930"
+      }
+    ],
+    "explication": "Russell est de loin le plus âgé : né à la fin du XIXe siècle, il précède Lévi-Strauss et Simone Weil, nés à un an d'écart, puis Deleuze et Derrida, qui appartiennent à une génération plus jeune.",
+    "source": "D'après Wikipédia — Bertrand Russell"
+  },
+  {
+    "id": "q-philosophie-056",
+    "domain": "philosophie",
+    "format": "difference",
+    "question": "Quelle est la différence entre la conception de la morale chez Kant et chez Habermas ?",
+    "choix": [
+      "Pour Kant, la validité morale se décide dans la conscience de chacun ; pour Habermas, par la discussion entre les personnes concernées",
+      "Pour Kant, la morale se juge aux conséquences des actes ; pour Habermas, à l'intention",
+      "Pour Kant, la morale repose sur la religion ; pour Habermas, sur la science",
+      "Pour Kant, aucune règle n'est universelle ; pour Habermas, certaines règles le sont"
+    ],
+    "bonneReponse": 0,
+    "explication": "Kant situe le jugement moral dans la conscience de chacun, avec l'impératif catégorique. Habermas veut dépasser ce « monologue » : une règle est morale si elle résiste à une discussion proche de la liberté de parole totale, sans calcul stratégique. C'est l'éthique de la discussion.",
+    "source": "D'après Wikipédia — Jürgen Habermas"
+  },
+  {
+    "id": "q-philosophie-057",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quelle discipline Emmanuel Levinas considère-t-il comme la « philosophie première » ?",
+    "choix": [
+      "L'éthique",
+      "La logique",
+      "La métaphysique de l'être",
+      "La théologie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour Levinas, ce n'est pas la question de l'être qui vient d'abord, mais la relation éthique à autrui : ma responsabilité envers l'autre précède la recherche de la vérité. Il développe cette idée dans Totalité et Infini, publié en 1961.",
+    "source": "D'après Wikipédia — Emmanuel Levinas"
+  },
+  {
+    "id": "q-philosophie-058",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Pour comprendre la condition ouvrière, que fait Simone Weil en 1934-1935 ?",
+    "choix": [
+      "Elle travaille elle-même en usine",
+      "Elle devient inspectrice du travail",
+      "Elle fonde une usine coopérative",
+      "Elle mène une enquête depuis son bureau"
+    ],
+    "bonneReponse": 0,
+    "explication": "À partir de décembre 1934 et jusqu'en août 1935, Simone Weil est ouvrière sur presse chez Alsthom, passe aux Forges de Basse-Indre, où elle est employée à la chaîne, puis devient fraiseuse chez Renault. Elle veut comprendre le malheur ouvrier de l'intérieur.",
+    "source": "D'après Wikipédia — Simone Weil"
+  },
+  {
+    "id": "q-philosophie-059",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quel livre de Husserl Paul Ricœur a-t-il traduit en cachette pendant sa captivité de guerre ?",
+    "choix": [
+      "Ideen I",
+      "Les Méditations cartésiennes",
+      "La Crise des sciences européennes",
+      "Les Recherches logiques"
+    ],
+    "bonneReponse": 0,
+    "explication": "Prisonnier de guerre de 1940 à 1945, Ricœur traduit en cachette Ideen I de Husserl, qu'il avait découvert à Paris dans les années 1930. Son camp organisait même des cours assez rigoureux pour être reconnu comme établissement délivrant des diplômes.",
+    "source": "D'après Wikipédia — Paul Ricœur"
+  },
+  {
+    "id": "q-philosophie-060",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quel totem les Scouts de France ont-ils donné au jeune Michel Serres ?",
+    "choix": [
+      "Renard enthousiaste",
+      "Loup patient",
+      "Hibou sage",
+      "Castor vaillant"
+    ],
+    "bonneReponse": 0,
+    "explication": "Enfant, Michel Serres est scout et reçoit comme totem « Renard enthousiaste ». Né à Agen, fils d'un exploitant d'une entreprise de dragage sur la Garonne, il deviendra philosophe, historien des sciences, puis académicien en 1990.",
+    "source": "D'après Wikipédia — Michel Serres"
   }
 ]

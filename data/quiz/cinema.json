@@ -446,5 +446,1219 @@
     "reponse": true,
     "explication": "Intouchables (2011) s'inspire de l'histoire de Philippe Pozzo di Borgo, devenu tétraplégique après un accident de parapente, et de son auxiliaire de vie Abdel Sellou, d'origine algérienne. Leur amitié avait déjà été racontée dans un documentaire en 2003 et dans le livre de Philippe Pozzo di Borgo, Le Second Souffle.",
     "source": "D'après Wikipédia — Intouchables (film)"
+  },
+  {
+    "id": "q-cinema-030",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Où Quentin Tarantino a-t-il surtout appris le cinéma avant de réaliser Reservoir Dogs ?",
+    "choix": [
+      "Dans un magasin de location de vidéos",
+      "Dans une école de cinéma à New York",
+      "Dans un conservatoire d'art dramatique en Europe",
+      "Dans un studio de télévision à Chicago"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tarantino n'a jamais fait d'école de cinéma : il a travaillé plus de cinq ans au vidéoclub Video Archives, en Californie. Il y a découvert Melville, Godard ou John Woo et y a rencontré Roger Avary, coscénariste de Pulp Fiction.",
+    "source": "D'après Wikipédia — Quentin Tarantino"
+  },
+  {
+    "id": "q-cinema-031",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film de Martin Scorsese reçoit la Palme d'or à Cannes en 1976 ?",
+    "choix": [
+      "Taxi Driver",
+      "Raging Bull",
+      "Mean Streets",
+      "Les Affranchis"
+    ],
+    "bonneReponse": 0,
+    "explication": "Taxi Driver, écrit par Paul Schrader, avec De Niro, Foster et Keitel, est couronné en 1976. Scorsese décrochera son Oscar de la meilleure réalisation bien plus tard, pour Les Infiltrés.",
+    "source": "D'après Wikipédia — Martin Scorsese"
+  },
+  {
+    "id": "q-cinema-032",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Comment l'histoire de Memento, de Christopher Nolan, est-elle racontée ?",
+    "choix": [
+      "À l'envers, en remontant le temps",
+      "En temps réel, sans aucune coupure",
+      "Du point de vue de trois témoins différents",
+      "Par un narrateur qui n'apparaît jamais"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le scénario de Memento, tiré d'une idée de Jonathan Nolan, suit un homme atteint d'amnésie qui cherche l'assassin de sa femme : l'histoire est racontée à l'envers. Le film a coûté 4,5 millions de dollars et a lancé la carrière de Nolan.",
+    "source": "D'après Wikipédia — Christopher Nolan"
+  },
+  {
+    "id": "q-cinema-033",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film de Sergio Leone reprend presque point par point l'histoire du Garde du corps (Yojimbo) de Kurosawa ?",
+    "choix": [
+      "Pour une poignée de dollars",
+      "Le Bon, la Brute et le Truand",
+      "Il était une fois dans l'Ouest",
+      "Il était une fois la révolution"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour une poignée de dollars (1964) transpose le Japon féodal de Yojimbo dans un décor de western. Leone le signe d'un pseudonyme américanisé, Bob Robertson, et le film fait de Clint Eastwood une vedette.",
+    "source": "D'après Wikipédia — Sergio Leone"
+  },
+  {
+    "id": "q-cinema-034",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel personnage, joué par Jean-Pierre Léaud, est l'alter ego de François Truffaut ?",
+    "choix": [
+      "Antoine Doinel",
+      "Jules",
+      "Monsieur Hulot",
+      "Michel Poiccard"
+    ],
+    "bonneReponse": 0,
+    "explication": "Antoine Doinel apparaît dans Les Quatre Cents Coups (1959), puis dans Baisers volés, Domicile conjugal et L'Amour en fuite. Truffaut y a mis beaucoup de sa propre enfance, faite d'école buissonnière et de cinémas.",
+    "source": "D'après Wikipédia — François Truffaut"
+  },
+  {
+    "id": "q-cinema-035",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle récompense Mon oncle, de Jacques Tati, reçoit-il en 1959 ?",
+    "choix": [
+      "L'Oscar du meilleur film en langue étrangère",
+      "L'Oscar du meilleur scénario original",
+      "La Palme d'or de Cannes",
+      "Le Lion d'or de Venise"
+    ],
+    "bonneReponse": 0,
+    "explication": "Mon oncle, deuxième film avec Monsieur Hulot, reçoit un prix du jury à Cannes en 1958, puis l'Oscar du film étranger en 1959. C'est le premier film en couleur de Tati.",
+    "source": "D'après Wikipédia — Jacques Tati"
+  },
+  {
+    "id": "q-cinema-036",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel jeune metteur en scène monte en 1936, à Harlem, un Macbeth interprété par des acteurs noirs et transposé en Haïti ?",
+    "choix": [
+      "Orson Welles",
+      "Elia Kazan",
+      "John Houseman",
+      "Joseph Cotten"
+    ],
+    "bonneReponse": 0,
+    "explication": "À 21 ans, Orson Welles dirige ce Macbeth pour le Federal Theatre Project : les sorcières y deviennent des prêtresses vaudou. Deux ans plus tard, sa Guerre des mondes à la radio le rend célèbre dans tout le pays.",
+    "source": "D'après Wikipédia — Orson Welles"
+  },
+  {
+    "id": "q-cinema-037",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel cinéaste est le seul à avoir reçu une « Palme des Palmes », remise au Festival de Cannes 1997 ?",
+    "choix": [
+      "Ingmar Bergman",
+      "Federico Fellini",
+      "Billy Wilder",
+      "Jean-Luc Godard"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cette récompense spéciale, unique, salue l'ensemble de l'œuvre d'Ingmar Bergman, auteur du Septième Sceau, de Persona ou de Fanny et Alexandre. Il a aussi reçu trois fois l'Oscar du film étranger pour la Suède.",
+    "source": "D'après Wikipédia — Ingmar Bergman"
+  },
+  {
+    "id": "q-cinema-038",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film de Billy Wilder, consacré à l'alcoolisme, remporte l'Oscar du meilleur film ?",
+    "choix": [
+      "Le Poison",
+      "Assurance sur la mort",
+      "Boulevard du crépuscule",
+      "Témoin à charge"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Poison (1945), avec Ray Milland, est l'un des premiers grands films américains à traiter sérieusement de l'alcoolisme. Il remporte quatre Oscars, dont meilleur film, réalisateur et scénario adapté, et la plus haute récompense de Cannes.",
+    "source": "D'après Wikipédia — Billy Wilder"
+  },
+  {
+    "id": "q-cinema-039",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Le Septième Sceau et Les Fraises sauvages, d'Ingmar Bergman, sont sortis en Suède à moins d'un an d'écart.",
+    "reponse": true,
+    "explication": "Les deux films sortent en Suède à dix mois d'intervalle, en 1957. Ils font de Bergman un cinéaste connu dans le monde entier : Le Septième Sceau obtient un prix spécial du jury à Cannes.",
+    "source": "D'après Wikipédia — Ingmar Bergman"
+  },
+  {
+    "id": "q-cinema-040",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Francis Ford Coppola a remporté la Palme d'or pour Le Parrain.",
+    "reponse": false,
+    "explication": "Le Parrain a reçu l'Oscar du meilleur film, mais les deux Palmes d'or de Coppola récompensent Conversation secrète (1974) et Apocalypse Now (1979). Il est l'un des rares cinéastes à avoir été primé deux fois à Cannes.",
+    "source": "D'après Wikipédia — Francis Ford Coppola"
+  },
+  {
+    "id": "q-cinema-041",
+    "domain": "cinema",
+    "format": "associer",
+    "question": "Associe chaque cinéaste à l'un de ses films.",
+    "paires": [
+      {
+        "gauche": "Federico Fellini",
+        "droite": "La dolce vita",
+        "explication": "Palme d'or à Cannes en 1960 pour le film de Fellini."
+      },
+      {
+        "gauche": "Jean-Luc Godard",
+        "droite": "À bout de souffle",
+        "explication": "Film fondateur de la Nouvelle Vague, sorti en 1960."
+      },
+      {
+        "gauche": "Pedro Almodóvar",
+        "droite": "Tout sur ma mère",
+        "explication": "Ce film lui vaut un Oscar et le prix de la mise en scène à Cannes."
+      },
+      {
+        "gauche": "Wong Kar-wai",
+        "droite": "In the Mood for Love",
+        "explication": "Il y fait revivre le Hong Kong des années 1960."
+      },
+      {
+        "gauche": "Tim Burton",
+        "droite": "Edward aux mains d'argent",
+        "explication": "Conte gothique sorti juste après Beetlejuice et Batman."
+      }
+    ],
+    "explication": "Ces cinq cinéastes ont chacun un style immédiatement reconnaissable : le rêve chez Fellini, la rupture chez Godard, les couleurs d'Almodóvar, la nostalgie de Wong et le gothique de Burton.",
+    "source": "D'après Wikipédia — Federico Fellini"
+  },
+  {
+    "id": "q-cinema-042",
+    "domain": "cinema",
+    "format": "qui-suis-je",
+    "indices": [
+      "J'ai été apprenti dans l'entreprise familiale d'encadrement de tableaux.",
+      "Au rugby, j'amusais mes équipiers en imitant leurs gestes.",
+      "Colette a salué mon numéro de music-hall dès 1935.",
+      "J'ai créé un personnage maladroit à l'imperméable, au parapluie et à la pipe.",
+      "Mon film Playtime m'a ruiné."
+    ],
+    "reponse": "Jacques Tati",
+    "explication": "Jacques Tati a inventé Monsieur Hulot dans Les Vacances de monsieur Hulot (1953). Pour Playtime, il a fait construire un décor de ville géant, Tativille : le film a coûté si cher que sa société a fait faillite.",
+    "source": "D'après Wikipédia — Jacques Tati"
+  },
+  {
+    "id": "q-cinema-043",
+    "domain": "cinema",
+    "format": "frise",
+    "question": "Remets ces films de François Truffaut dans l'ordre de sortie.",
+    "evenements": [
+      {
+        "label": "Les Quatre Cents Coups",
+        "annee": "1959"
+      },
+      {
+        "label": "Jules et Jim",
+        "annee": "1962"
+      },
+      {
+        "label": "La Nuit américaine",
+        "annee": "1973"
+      },
+      {
+        "label": "Le Dernier Métro",
+        "annee": "1980"
+      }
+    ],
+    "explication": "Truffaut débute avec Les Quatre Cents Coups en 1959. La Nuit américaine, sur un tournage de film, lui vaut l'Oscar du film étranger, et Le Dernier Métro est l'un de ses derniers grands succès.",
+    "source": "D'après Wikipédia — François Truffaut"
+  },
+  {
+    "id": "q-cinema-044",
+    "domain": "cinema",
+    "format": "difference",
+    "question": "Quelle est la différence entre la trilogie du dollar et la trilogie « Il était une fois » de Sergio Leone ?",
+    "choix": [
+      "La première réunit trois westerns avec Clint Eastwood ; la seconde commence à l'Ouest et s'achève à New York avec un film de gangsters",
+      "La première est composée de films de gangsters ; la seconde de westerns tournés aux États-Unis",
+      "La première est tournée en Espagne, la seconde uniquement à Rome, sans aucun western",
+      "La première date des années 1980, la seconde des années 1960"
+    ],
+    "bonneReponse": 0,
+    "explication": "La trilogie du dollar (1964-1966) rend Eastwood célèbre. La trilogie « Il était une fois » commence avec Il était une fois dans l'Ouest (1968) et finit avec Il était une fois en Amérique (1984), film de gangsters et seul film américain de Leone.",
+    "source": "D'après Wikipédia — Sergio Leone"
+  },
+  {
+    "id": "q-cinema-045",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Pour quel film Audrey Hepburn reçoit-elle l'Oscar de la meilleure actrice en 1954 ?",
+    "choix": [
+      "Vacances romaines",
+      "Sabrina",
+      "Diamants sur canapé",
+      "My Fair Lady"
+    ],
+    "bonneReponse": 0,
+    "explication": "Elle est récompensée pour son rôle de la princesse Ann dans Vacances romaines, de William Wyler. À 24 ans, elle reçoit aussi le Golden Globe et le BAFTA pour ce même film, aux côtés de Gregory Peck.",
+    "source": "D'après Wikipédia — Audrey Hepburn"
+  },
+  {
+    "id": "q-cinema-046",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Qui partage l'affiche d'Un singe en hiver avec Jean-Paul Belmondo ?",
+    "choix": [
+      "Jean Gabin",
+      "Alain Delon",
+      "Louis de Funès",
+      "Lino Ventura"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jean Gabin joue aux côtés de Belmondo dans ce film d'Henri Verneuil, dialogué par Michel Audiard. Les deux acteurs, d'abord distants sur le plateau, se lient d'une vraie fraternité, comme leurs personnages.",
+    "source": "D'après Wikipédia — Jean Gabin"
+  },
+  {
+    "id": "q-cinema-047",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Avec quel acteur Louis de Funès forme-t-il un duo dans La Grande Vadrouille ?",
+    "choix": [
+      "Bourvil",
+      "Fernandel",
+      "Coluche",
+      "Jean Marais"
+    ],
+    "bonneReponse": 0,
+    "explication": "Bourvil joue avec lui dans Le Corniaud (1965) puis La Grande Vadrouille (1966), deux films de Gérard Oury. Leur duo a marqué le cinéma français, et Bourvil est mort en 1970, avant La Folie des grandeurs.",
+    "source": "D'après Wikipédia — Louis de Funès"
+  },
+  {
+    "id": "q-cinema-048",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Pourquoi Marlon Brando a-t-il refusé l'Oscar remporté pour Le Parrain ?",
+    "choix": [
+      "Pour protester contre le traitement des Amérindiens par l'industrie du cinéma",
+      "Parce qu'il jugeait le film mauvais",
+      "Parce qu'il voulait un Oscar de réalisateur",
+      "Parce qu'il était fâché contre Coppola"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1973, Brando refuse l'Oscar du meilleur acteur pour dénoncer la manière dont les natifs américains sont traités à Hollywood. C'est son second Oscar, après celui de Sur les quais, remporté en 1955.",
+    "source": "D'après Wikipédia — Marlon Brando"
+  },
+  {
+    "id": "q-cinema-049",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel personnage historique Romy Schneider incarne-t-elle dans trois films entre 1955 et 1957 ?",
+    "choix": [
+      "L'impératrice Élisabeth d'Autriche, dite Sissi",
+      "La reine Victoria",
+      "Marie-Antoinette",
+      "La tsarine Catherine II"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans la trilogie d'Ernst Marischka, elle est Sissi, épouse de François-Joseph. Elle avait déjà joué la jeune reine Victoria en 1954, ce qui explique la confusion. Elle reprend Sissi dans Ludwig en 1973.",
+    "source": "D'après Wikipédia — Romy Schneider"
+  },
+  {
+    "id": "q-cinema-050",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film vaut à Marilyn Monroe le Golden Globe de la meilleure actrice de comédie en 1960 ?",
+    "choix": [
+      "Certains l'aiment chaud",
+      "Sept ans de réflexion",
+      "Les hommes préfèrent les blondes",
+      "Les Désaxés"
+    ],
+    "bonneReponse": 0,
+    "explication": "Elle est récompensée pour Certains l'aiment chaud (1959), succès critique et commercial. Sept ans de réflexion (1955) et Les hommes préfèrent les blondes (1953) restent pourtant parmi ses grands films.",
+    "source": "D'après Wikipédia — Marilyn Monroe"
+  },
+  {
+    "id": "q-cinema-051",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Pour quel film Humphrey Bogart remporte-t-il l'Oscar du meilleur acteur ?",
+    "choix": [
+      "L'Odyssée de l'African Queen",
+      "Casablanca",
+      "Le Faucon maltais",
+      "Ouragan sur le Caine"
+    ],
+    "bonneReponse": 0,
+    "explication": "Il reçoit l'Oscar en 1952 pour son capitaine de bateau bourru dans L'Odyssée de l'African Queen. Casablanca et Ouragan sur le Caine lui avaient seulement valu des nominations.",
+    "source": "D'après Wikipédia — Humphrey Bogart"
+  },
+  {
+    "id": "q-cinema-052",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle particularité a le film Les Parapluies de Cherbourg, avec Catherine Deneuve ?",
+    "choix": [
+      "Tous les dialogues sont chantés",
+      "Il est tourné en noir et blanc",
+      "Il est entièrement muet",
+      "Il est tourné à Hollywood"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jacques Demy voulait un « opéra populaire » : tout le film est chanté, sur la musique de Michel Legrand. Il remporte la Palme d'or à Cannes en 1964 et lance la carrière de Catherine Deneuve.",
+    "source": "D'après Wikipédia — Catherine Deneuve"
+  },
+  {
+    "id": "q-cinema-053",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel acteur avait déjà remporté deux Oscars consécutifs avant Tom Hanks, en 1937 et 1938 ?",
+    "choix": [
+      "Spencer Tracy",
+      "Humphrey Bogart",
+      "James Stewart",
+      "Clark Gable"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tom Hanks gagne l'Oscar pour Philadelphia puis pour Forrest Gump, un exploit que seul Spencer Tracy avait réussi avant lui. On compare d'ailleurs souvent Hanks à James Stewart.",
+    "source": "D'après Wikipédia — Tom Hanks"
+  },
+  {
+    "id": "q-cinema-054",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Bruce Lee est né à Hong Kong, où il a passé toute son enfance.",
+    "reponse": false,
+    "explication": "Bruce Lee est né à San Francisco en 1940, pendant une tournée de son père, vedette de l'opéra cantonais. Il grandit ensuite à Hong Kong, d'où il repart à 19 ans pour les États-Unis.",
+    "source": "D'après Wikipédia — Bruce Lee"
+  },
+  {
+    "id": "q-cinema-055",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Alain Delon a refusé un contrat de sept ans proposé par le producteur américain David O. Selznick.",
+    "reponse": true,
+    "explication": "Après un essai en Italie, Delon hésite et refuse. Son agent hollywoodien est stupéfait : c'était la première fois qu'un jeune Français disait non. Il se lance peu après dans le cinéma en France.",
+    "source": "D'après Wikipédia — Alain Delon"
+  },
+  {
+    "id": "q-cinema-056",
+    "domain": "cinema",
+    "format": "associer",
+    "question": "Associe chaque acteur ou actrice à l'un de ses films emblématiques.",
+    "paires": [
+      {
+        "gauche": "Marlon Brando",
+        "droite": "Sur les quais",
+        "explication": "Il y joue Terry Malloy et reçoit son premier Oscar."
+      },
+      {
+        "gauche": "Humphrey Bogart",
+        "droite": "Casablanca",
+        "explication": "Il y est le patron de bar cynique, aux côtés d'Ingrid Bergman."
+      },
+      {
+        "gauche": "Catherine Deneuve",
+        "droite": "Les Parapluies de Cherbourg",
+        "explication": "Ce film entièrement chanté de Jacques Demy la révèle."
+      },
+      {
+        "gauche": "Alain Delon",
+        "droite": "Le Samouraï",
+        "explication": "Il y incarne un tueur froid chez Jean-Pierre Melville (1967)."
+      },
+      {
+        "gauche": "Jean-Paul Belmondo",
+        "droite": "À bout de souffle",
+        "explication": "Le film de Godard le propulse vedette de la Nouvelle Vague en 1960."
+      }
+    ],
+    "explication": "Chacun de ces films est un jalon de carrière : un rôle qui a fixé l'image de la star pour des décennies, de Hollywood au cinéma français.",
+    "source": "D'après Wikipédia — Marlon Brando"
+  },
+  {
+    "id": "q-cinema-057",
+    "domain": "cinema",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née dans le New Jersey en 1949.",
+      "J'ai étudié l'art dramatique à Yale.",
+      "J'ai appris le polonais pour Le Choix de Sophie.",
+      "Aucune autre interprète n'a reçu autant de nominations aux Oscars.",
+      "J'ai incarné Margaret Thatcher dans La Dame de fer."
+    ],
+    "reponse": "Meryl Streep",
+    "explication": "Meryl Streep compte vingt et une nominations aux Oscars pour trois statuettes : Kramer contre Kramer, Le Choix de Sophie et La Dame de fer. Elle est aussi célèbre pour sa maîtrise des accents.",
+    "source": "D'après Wikipédia — Meryl Streep"
+  },
+  {
+    "id": "q-cinema-058",
+    "domain": "cinema",
+    "format": "frise",
+    "question": "Remets ces films de Tom Hanks dans l'ordre de leur sortie.",
+    "evenements": [
+      {
+        "label": "Splash",
+        "annee": "1984"
+      },
+      {
+        "label": "Big",
+        "annee": "1988"
+      },
+      {
+        "label": "Philadelphia",
+        "annee": "1993"
+      },
+      {
+        "label": "Forrest Gump",
+        "annee": "1994"
+      },
+      {
+        "label": "Seul au monde",
+        "annee": "2000"
+      }
+    ],
+    "explication": "Splash le révèle en 1984, Big le fait nommer à l'Oscar en 1988. Philadelphia (1993) puis Forrest Gump (1994) lui apportent deux Oscars de suite, avant Seul au monde en 2000.",
+    "source": "D'après Wikipédia — Tom Hanks"
+  },
+  {
+    "id": "q-cinema-059",
+    "domain": "cinema",
+    "format": "difference",
+    "question": "Quelle est la particularité du jeet kune do, l'art martial créé par Bruce Lee ?",
+    "choix": [
+      "Il mélange des techniques de boxe, d'escrime, de lutte et de kung-fu pour être efficace en combat réel",
+      "Il reprend strictement les règles du kung-fu traditionnel",
+      "Il se pratique seulement avec des armes",
+      "Il est une danse sans contact"
+    ],
+    "bonneReponse": 0,
+    "explication": "Créé par Bruce Lee, le jeet kune do, nom qui évoque un poing interceptant l'attaque, puise dans la boxe, la savate, la lutte, le judo ou l'escrime. Bruce Lee le voulait plus pratique et plus fluide que le kung-fu traditionnel.",
+    "source": "D'après Wikipédia — Bruce Lee"
+  },
+  {
+    "id": "q-cinema-060",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel futur président des États-Unis figurait parmi les acteurs annoncés par la Warner pour Casablanca, avant que le rôle de Rick ne revienne à Humphrey Bogart ?",
+    "choix": [
+      "Ronald Reagan",
+      "Errol Flynn",
+      "George Raft",
+      "Gary Cooper"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un communiqué de la Warner citait Ronald Reagan parmi les acteurs du film, mais il n’a pas joué Rick. George Raft, très intéressé, n’a pas obtenu le rôle non plus : c’est Humphrey Bogart qui l’a incarné, devenant l’archétype du héros dur et sensible.",
+    "source": "D'après Wikipédia — Casablanca (film)"
+  },
+  {
+    "id": "q-cinema-061",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Pourquoi les souliers de Dorothy sont-ils rouges dans le film Le Magicien d'Oz, alors qu'ils sont en argent dans le livre ?",
+    "choix": [
+      "Pour mettre en valeur le Technicolor",
+      "Parce que le roman avait été modifié par Baum lui-même",
+      "Parce que l'argent ne passait pas à l'image en noir et blanc",
+      "Pour se démarquer de Blanche-Neige de Disney"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans le livre de L. Frank Baum, les souliers sont en argent. Le scénariste Noel Langley les a transformés en souliers de rubis pour profiter du Technicolor, procédé qui faisait alors la célébrité du film.",
+    "source": "D'après Wikipédia — Le Magicien d'Oz (film, 1939)"
+  },
+  {
+    "id": "q-cinema-062",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Hattie McDaniel, dans Autant en emporte le vent, est la première personne afro-américaine à avoir reçu un Oscar.",
+    "reponse": true,
+    "explication": "Hattie McDaniel, qui joue Mamma, a reçu l'Oscar du meilleur second rôle féminin. Elle est la première personne afro-américaine à recevoir un Oscar, lors d'une cérémonie où le film en a remporté huit au total.",
+    "source": "D'après Wikipédia — Autant en emporte le vent (film)"
+  },
+  {
+    "id": "q-cinema-063",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Comment Hitchcock a-t-il réduit les coûts de Psychose face au refus de Paramount de lui donner son budget habituel ?",
+    "choix": [
+      "En tournant en noir et blanc avec l'équipe de sa série télévisée",
+      "En tournant uniquement avec des acteurs inconnus",
+      "En réalisant le film en quinze jours dans un seul décor",
+      "En le tournant en Angleterre avec des techniciens britanniques"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hitchcock a proposé de filmer vite, en noir et blanc, avec les techniciens d'Alfred Hitchcock présente. Résultat : un budget de 806 947 dollars, loin d'une grosse production, et un film qui en a rapporté 50 millions.",
+    "source": "D'après Wikipédia — Psychose (film)"
+  },
+  {
+    "id": "q-cinema-064",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film a fini par dépasser La Grande Vadrouille au nombre d'entrées en France en 1998 ?",
+    "choix": [
+      "Titanic",
+      "Les Visiteurs",
+      "Le Roi Lion",
+      "Astérix et Obélix contre César"
+    ],
+    "bonneReponse": 0,
+    "explication": "Avec plus de 17 millions d'entrées, La Grande Vadrouille a longtemps détenu le meilleur score toutes nationalités confondues. C'est Titanic qui l'a dépassé en 1998, après plus de trente ans de règne.",
+    "source": "D'après Wikipédia — La Grande Vadrouille"
+  },
+  {
+    "id": "q-cinema-065",
+    "domain": "cinema",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon scénario a été refusé plus de quarante fois par différents studios.",
+      "Mon rôle principal a d'abord été tourné avec un autre acteur que celui qu'on connaît.",
+      "Je suis réalisé par Robert Zemeckis et je sors en 1985.",
+      "Une DeLorean y voyage dans le temps en atteignant 88 miles par heure."
+    ],
+    "reponse": "Retour vers le futur",
+    "explication": "Retour vers le futur a été refusé plus de quarante fois avant d'être produit. Eric Stoltz a d'abord joué Marty avant d'être remplacé par Michael J. Fox, ce qui a coûté 4 millions de dollars de plus au budget.",
+    "source": "D'après Wikipédia — Retour vers le futur"
+  },
+  {
+    "id": "q-cinema-066",
+    "domain": "cinema",
+    "format": "frise",
+    "question": "Remets ces films dans l'ordre de sortie.",
+    "evenements": [
+      {
+        "label": "Casablanca",
+        "annee": "1942"
+      },
+      {
+        "label": "La Grande Vadrouille",
+        "annee": "1966"
+      },
+      {
+        "label": "Retour vers le futur",
+        "annee": "1985"
+      },
+      {
+        "label": "Pulp Fiction",
+        "annee": "1994"
+      },
+      {
+        "label": "Le Fabuleux Destin d'Amélie Poulain",
+        "annee": "2001"
+      }
+    ],
+    "explication": "Casablanca sort en 1942, La Grande Vadrouille en 1966, Retour vers le futur en 1985, Pulp Fiction en 1994 et Amélie Poulain en 2001, soit près de soixante ans de cinéma entre le premier et le dernier.",
+    "source": "D'après Wikipédia — Casablanca (film)"
+  },
+  {
+    "id": "q-cinema-067",
+    "domain": "cinema",
+    "format": "associer",
+    "question": "Associe chaque film à son réalisateur.",
+    "paires": [
+      {
+        "gauche": "Matrix",
+        "droite": "Les Wachowski",
+        "explication": "Les Wachowski écrivent et réalisent ce film de science-fiction."
+      },
+      {
+        "gauche": "Les Évadés",
+        "droite": "Frank Darabont",
+        "explication": "Frank Darabont adapte une nouvelle de Stephen King."
+      },
+      {
+        "gauche": "La Grande Vadrouille",
+        "droite": "Gérard Oury",
+        "explication": "Gérard Oury réunit Bourvil et Louis de Funès."
+      },
+      {
+        "gauche": "Le Silence des agneaux",
+        "droite": "Jonathan Demme",
+        "explication": "Jonathan Demme adapte le roman de Thomas Harris."
+      },
+      {
+        "gauche": "Les Visiteurs",
+        "droite": "Jean-Marie Poiré",
+        "explication": "Jean-Marie Poiré dirige Jean Reno et Christian Clavier."
+      }
+    ],
+    "explication": "Cinq succès, cinq signatures : les Wachowski pour Matrix, Darabont pour Les Évadés, Oury pour La Grande Vadrouille, Demme pour Le Silence des agneaux et Poiré pour Les Visiteurs.",
+    "source": "D'après Wikipédia — Matrix (film)"
+  },
+  {
+    "id": "q-cinema-068",
+    "domain": "cinema",
+    "format": "difference",
+    "question": "Quelle est la différence entre Les Couloirs du temps (1998) et Les Visiteurs en Amérique (2001) ?",
+    "choix": [
+      "Le premier est la suite réalisée par Jean-Marie Poiré, le second un remake américain du premier film",
+      "Le premier est un remake américain, le second la suite française",
+      "Ce sont deux suites réalisées par Jean-Marie Poiré",
+      "Ce sont deux remakes américains tournés par des réalisateurs différents"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les Couloirs du temps (1998) est la suite directe des Visiteurs, réalisée par Poiré. Les Visiteurs en Amérique (2001) est un remake américain du premier film, qui reprend le principe en changeant de pays et de casting.",
+    "source": "D'après Wikipédia — Les Visiteurs (film, 1993)"
+  },
+  {
+    "id": "q-cinema-069",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film E.T. a-t-il détrôné au sommet du box-office mondial en 1982 ?",
+    "choix": [
+      "Star Wars",
+      "Les Dents de la mer",
+      "Le Parrain",
+      "Grease"
+    ],
+    "bonneReponse": 0,
+    "explication": "E.T. a détrôné Star Wars et tenu la première place pendant onze ans, avant de céder face à Jurassic Park, un autre film de Spielberg. Le réalisateur a donc été battu par lui-même.",
+    "source": "D'après Wikipédia — E.T., l'extra-terrestre"
+  },
+  {
+    "id": "q-cinema-070",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Depuis quel pays Steven Spielberg a-t-il supervisé la post-production de Jurassic Park ?",
+    "choix": [
+      "La Pologne",
+      "L'Allemagne",
+      "La Hongrie",
+      "L'Autriche"
+    ],
+    "bonneReponse": 0,
+    "explication": "Spielberg tournait en même temps La Liste de Schindler en Pologne. Il a supervisé depuis là le montage et les effets de Jurassic Park, avec l'aide de son ami George Lucas, jusqu'en mai 1993.",
+    "source": "D'après Wikipédia — Jurassic Park"
+  },
+  {
+    "id": "q-cinema-071",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Pulp Fiction a remporté l'Oscar du meilleur film.",
+    "reponse": false,
+    "explication": "Pulp Fiction a obtenu la Palme d'or à Cannes et l'Oscar du meilleur scénario original. Il était nommé dans sept catégories, dont meilleur film, mais n'a pas décroché cette récompense-là.",
+    "source": "D'après Wikipédia — Pulp Fiction"
+  },
+  {
+    "id": "q-cinema-072",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "À quelle actrice Jonathan Demme a-t-il d'abord proposé le rôle de Clarice Starling dans Le Silence des agneaux ?",
+    "choix": [
+      "Michelle Pfeiffer",
+      "Sigourney Weaver",
+      "Susan Sarandon",
+      "Julia Roberts"
+    ],
+    "bonneReponse": 0,
+    "explication": "Demme a d'abord proposé le rôle à Michelle Pfeiffer, qui a refusé, trouvant l'histoire trop sombre. Jodie Foster, qui venait d'obtenir un Oscar, a fini par l'obtenir, puis a remporté l'Oscar de la meilleure actrice.",
+    "source": "D'après Wikipédia — Le Silence des agneaux (film)"
+  },
+  {
+    "id": "q-cinema-073",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Pour quelle actrice britannique Jean-Pierre Jeunet avait-il écrit à l'origine le rôle d'Amélie Poulain ?",
+    "choix": [
+      "Emily Watson",
+      "Kate Winslet",
+      "Helena Bonham Carter",
+      "Tilda Swinton"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jeunet pensait à Emily Watson, mais elle parlait mal français et un autre tournage la rendait indisponible. Il a réécrit le scénario pour une actrice française et Audrey Tautou est devenue Amélie.",
+    "source": "D'après Wikipédia — Le Fabuleux Destin d'Amélie Poulain"
+  },
+  {
+    "id": "q-cinema-074",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel effet visuel Matrix a-t-il popularisé, où l'action est ralentie pendant que la caméra semble tourner autour des personnages ?",
+    "choix": [
+      "Le bullet time",
+      "Le morphing",
+      "Le travelling compensé",
+      "Le split screen"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le « bullet time » ralentit certains personnages tandis que la caméra paraît filmer à vitesse normale en se déplaçant. Matrix l'a rendu célèbre en 1999 et il a ensuite beaucoup été imité.",
+    "source": "D'après Wikipédia — Matrix (film)"
+  },
+  {
+    "id": "q-cinema-075",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle pièce de Shakespeare a largement inspiré l'histoire du Roi lion ?",
+    "choix": [
+      "Hamlet",
+      "Macbeth",
+      "Roméo et Juliette",
+      "Le Songe d'une nuit d'été"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Roi lion s'inspire en grande partie de Hamlet : un jeune prince, un père assassiné par son frère, un oncle qui prend le trône. Disney a transposé cette tragédie dans la savane africaine, en 1994.",
+    "source": "D'après Wikipédia — Le Roi lion"
+  },
+  {
+    "id": "q-cinema-076",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Dans le film Le Roi lion, que signifie le mot swahili « Simba » ?",
+    "choix": [
+      "Lion",
+      "Ami",
+      "Chance",
+      "Mirage"
+    ],
+    "bonneReponse": 0,
+    "explication": "En swahili, simba veut dire « lion ». Les autres noms viennent aussi de cette langue : Rafiki signifie « ami », Nala « chance » et Sarabi « mirage ». Hakuna Matata veut dire « sans souci ».",
+    "source": "D'après Wikipédia — Le Roi lion"
+  },
+  {
+    "id": "q-cinema-077",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "D'où vient le nom du studio Aardman ?",
+    "choix": [
+      "D'un mélange entre « aardvark » et « Superman »",
+      "Du nom de famille de l'un des fondateurs",
+      "D'une ville de la banlieue de Bristol",
+      "D'un personnage de Wallace et Gromit"
+    ],
+    "bonneReponse": 0,
+    "explication": "Aardman vient d'un super-héros créé en 1972 pour une émission de la BBC, mélange d'« aardvark », l'oryctérope, et de « Superman ». Selon Peter Lord, le nom ne signifie rien : c'était une blague.",
+    "source": "D'après Wikipédia — Aardman Animations"
+  },
+  {
+    "id": "q-cinema-078",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Dans les premières esquisses de Nick Park, Gromit était un chat.",
+    "reponse": true,
+    "explication": "C'est vrai : Gromit a d'abord été dessiné comme un chat, avant que Nick Park en fasse un chien. Un chien semblait mieux convenir à un fidèle compagnon, et il était plus simple à modeler et à animer.",
+    "source": "D'après Wikipédia — Aardman Animations"
+  },
+  {
+    "id": "q-cinema-079",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel chanteur sénégalais a composé la musique de Kirikou et la Sorcière ?",
+    "choix": [
+      "Youssou N'Dour",
+      "Manu Dibango",
+      "Salif Keita",
+      "Ismaël Lô"
+    ],
+    "bonneReponse": 0,
+    "explication": "Michel Ocelot a envoyé le scénario à Youssou N'Dour, qui a accepté de composer la musique. Il lui a imposé des instruments traditionnels africains. La bande-son a été enregistrée en Afrique, comme les voix.",
+    "source": "D'après Wikipédia — Kirikou et la Sorcière"
+  },
+  {
+    "id": "q-cinema-080",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle récompense Persepolis a-t-il obtenue au Festival de Cannes 2007 ?",
+    "choix": [
+      "Le prix du jury, ex æquo",
+      "La Palme d'or",
+      "Le Grand Prix",
+      "Le prix de la mise en scène"
+    ],
+    "bonneReponse": 0,
+    "explication": "Persepolis a reçu le prix du jury à Cannes en 2007, à égalité avec Lumière silencieuse de Carlos Reygadas. Cette récompense a irrité la présidence iranienne, qui jugeait le film hostile à l'Iran.",
+    "source": "D'après Wikipédia — Persepolis (film)"
+  },
+  {
+    "id": "q-cinema-081",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel comédien prêtait sa voix à Shrek avant d'être remplacé par Mike Myers ?",
+    "choix": [
+      "Chris Farley",
+      "Eddie Murphy",
+      "Tom Hanks",
+      "John Lithgow"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chris Farley avait enregistré une grande partie des dialogues de Shrek quand il est mort en 1997. Mike Myers l'a remplacé et a donné à l'ogre son accent écossais, devenu sa marque de fabrique.",
+    "source": "D'après Wikipédia — Shrek (film)"
+  },
+  {
+    "id": "q-cinema-082",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel système sonore Warner Bros. a-t-il utilisé pour Le Chanteur de jazz ?",
+    "choix": [
+      "Le Vitaphone, avec des disques",
+      "Le Technicolor",
+      "Le Dolby Stéréo",
+      "Le CinémaScope"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Vitaphone enregistrait le son sur des disques de cire, synchronisés avec la caméra, puis joués dans la salle pendant la projection. Dans Le Chanteur de jazz, le film est surtout muet, avec seulement 281 mots prononcés.",
+    "source": "D'après Wikipédia — Le Chanteur de jazz"
+  },
+  {
+    "id": "q-cinema-083",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "La première cérémonie des Oscars a été retransmise en direct à la radio.",
+    "reponse": false,
+    "explication": "Faux : c'est la seule cérémonie des Oscars qui n'a été retransmise ni à la radio ni à la télévision. Elle a duré environ quinze minutes lors d'un dîner à l'Hotel Roosevelt, et les gagnants étaient connus trois mois avant.",
+    "source": "D'après Wikipédia — 1re cérémonie des Oscars"
+  },
+  {
+    "id": "q-cinema-084",
+    "domain": "cinema",
+    "format": "associer",
+    "question": "Associe chaque film d'animation français à son réalisateur.",
+    "paires": [
+      {
+        "gauche": "Les Triplettes de Belleville",
+        "droite": "Sylvain Chomet",
+        "explication": "Premier long métrage de Chomet, sorti en 2003."
+      },
+      {
+        "gauche": "Kirikou et la Sorcière",
+        "droite": "Michel Ocelot",
+        "explication": "Ocelot s'est inspiré d'un conte d'Afrique de l'Ouest."
+      },
+      {
+        "gauche": "Le Roi et l'Oiseau",
+        "droite": "Paul Grimault",
+        "explication": "Grimault l'a réalisé avec des textes de Jacques Prévert."
+      },
+      {
+        "gauche": "Persepolis",
+        "droite": "Marjane Satrapi",
+        "explication": "Elle l'a coréalisé avec Vincent Paronnaud, d'après sa BD."
+      }
+    ],
+    "explication": "Ces quatre films ont marqué l'animation française : de Grimault, en 1980, à Chomet en 2003 et Satrapi en 2007, en passant par Ocelot et son Kirikou, en 1998.",
+    "source": "D'après Wikipédia — Animation (audiovisuel)"
+  },
+  {
+    "id": "q-cinema-085",
+    "domain": "cinema",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Chicago en 1901 et j'ai grandi en grande partie dans le Missouri.",
+      "En 1918, j'ai falsifié ma date de naissance pour conduire des ambulances de la Croix-Rouge.",
+      "Avec mon frère Roy, j'ai fondé un studio à Hollywood en 1923.",
+      "J'ai créé Mickey Mouse avec Ub Iwerks et j'ai ouvert Disneyland en 1955.",
+      "Je détiens le record d'Oscars remportés par une seule personne : 22."
+    ],
+    "reponse": "Walt Disney",
+    "explication": "Walt Disney a créé Mickey Mouse en 1928, produit Blanche-Neige en 1937 et ouvert Disneyland en 1955. Il détient le record du nombre d'Oscars remportés par une personne, avec 22 statuettes.",
+    "source": "D'après Wikipédia — Walt Disney"
+  },
+  {
+    "id": "q-cinema-086",
+    "domain": "cinema",
+    "format": "frise",
+    "question": "Remets ces films ou événements dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Le Chanteur de jazz sort aux États-Unis",
+        "annee": "1927"
+      },
+      {
+        "label": "La première cérémonie des Oscars",
+        "annee": "1929"
+      },
+      {
+        "label": "Les Dents de la mer sort en salles",
+        "annee": "1975"
+      },
+      {
+        "label": "Avatar sort en salles",
+        "annee": "2009"
+      }
+    ],
+    "explication": "Le cinéma parlant naît en 1927, les Oscars en 1929. Les Dents de la mer invente le blockbuster d'été en 1975, et Avatar relance la 3D en 2009, vingt-quatre ans après Toy Story.",
+    "source": "D'après Wikipédia — Les Dents de la mer"
+  },
+  {
+    "id": "q-cinema-087",
+    "domain": "cinema",
+    "format": "difference",
+    "question": "Quelle est la différence entre le style d'Aardman et celui de Pixar ?",
+    "choix": [
+      "Aardman anime des figurines en pâte à modeler image par image, Pixar travaille en images de synthèse",
+      "Aardman dessine à la main sur papier, Pixar utilise des marionnettes",
+      "Aardman utilise des acteurs réels, Pixar du dessin animé traditionnel",
+      "Aardman fait de la 3D, Pixar du stop-motion"
+    ],
+    "bonneReponse": 0,
+    "explication": "Aardman est célèbre pour l'animation en pâte à modeler, image par image (Wallace et Gromit, Chicken Run). Pixar, depuis Toy Story en 1995, crée ses films en images de synthèse avec son logiciel RenderMan.",
+    "source": "D'après Wikipédia — Pixar Animation Studios"
+  },
+  {
+    "id": "q-cinema-088",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Face aux requins mécaniques défaillants, que décide Steven Spielberg pour Les Dents de la mer ?",
+    "choix": [
+      "Suggérer la présence du requin, avec la musique de John Williams",
+      "Tourner toutes les scènes en studio",
+      "Remplacer le requin par un acteur déguisé",
+      "Arrêter le tournage pendant un an"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les requins mécaniques fonctionnaient mal. Spielberg a donc surtout suggéré la menace, avec le thème minimaliste de John Williams qui annonce chaque apparition. Cette retenue a renforcé le suspense du film.",
+    "source": "D'après Wikipédia — Les Dents de la mer"
+  },
+  {
+    "id": "q-cinema-089",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film, sorti en 2009, est le premier à avoir dépassé deux milliards de dollars de recettes ?",
+    "choix": [
+      "Avatar",
+      "Titanic",
+      "Le Roi lion",
+      "Les Dents de la mer"
+    ],
+    "bonneReponse": 0,
+    "explication": "Avatar, de James Cameron, a dépassé les 2 milliards de dollars, avec 2,923 milliards au total. Après six semaines à l'affiche, il a détrôné Titanic, du même réalisateur, comme plus gros succès de l'histoire.",
+    "source": "D'après Wikipédia — Avatar (film, 2009)"
+  },
+  {
+    "id": "q-cinema-090",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel critique français a employé pour la première fois l'expression « film noir » à propos de films américains, en 1946 ?",
+    "choix": [
+      "Nino Frank",
+      "André Bazin",
+      "Raymond Borde",
+      "Louis Delluc"
+    ],
+    "bonneReponse": 0,
+    "explication": "Nino Frank l'écrit dans L'Écran français, après avoir vu quatre films criminels sortis en France, dont Le Faucon maltais et Assurance sur la mort. Les Américains parlaient alors plutôt de mélodrames.",
+    "source": "D'après Wikipédia — Film noir"
+  },
+  {
+    "id": "q-cinema-091",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film de John Ford, sorti en 1939, a fait sortir le western de la série B ?",
+    "choix": [
+      "La Chevauchée fantastique",
+      "Rio Bravo",
+      "Le train sifflera trois fois",
+      "La Horde sauvage"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Chevauchée fantastique relance le western comme grand genre et fait de John Wayne une vedette. Les trois autres titres sont aussi des westerns, mais ils sortent après 1945.",
+    "source": "D'après Wikipédia — La Chevauchée fantastique"
+  },
+  {
+    "id": "q-cinema-092",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Le mot « Bollywood » désigne l'ensemble du cinéma indien, toutes langues confondues.",
+    "reponse": false,
+    "explication": "Bollywood ne désigne que le cinéma en langue hindi, tourné à Bombay. Le cinéma indien est bien plus vaste : il inclut aussi des films en tamoul, en télougou ou en bengali.",
+    "source": "D'après Wikipédia — Cinéma hindi"
+  },
+  {
+    "id": "q-cinema-093",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film réalisé par Arthur Penn en 1967 est considéré comme un des films fondateurs du Nouvel Hollywood ?",
+    "choix": [
+      "Bonnie et Clyde",
+      "Le Lauréat",
+      "Easy Rider",
+      "Cabaret"
+    ],
+    "bonneReponse": 0,
+    "explication": "Bonnie et Clyde mêle violence et humour et séduit la jeunesse. Jack L. Warner détestait le film, qui eut une sortie discrète avant d'être réévalué par la critique. Le Lauréat est de Mike Nichols.",
+    "source": "D'après Wikipédia — Bonnie et Clyde (film)"
+  },
+  {
+    "id": "q-cinema-094",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film de Murnau, sorti en 1922, adaptait Dracula sans autorisation et a valu un procès à son réalisateur ?",
+    "choix": [
+      "Nosferatu le vampire",
+      "Le Cabinet du docteur Caligari",
+      "Le Fantôme de l'Opéra",
+      "Frankenstein"
+    ],
+    "bonneReponse": 0,
+    "explication": "La veuve de Bram Stoker a gagné son procès : Murnau devait détruire les copies dans certains pays. Heureusement, le film a survécu et reste l'un des classiques du cinéma d'épouvante.",
+    "source": "D'après Wikipédia — Nosferatu le vampire"
+  },
+  {
+    "id": "q-cinema-095",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Dans Le Chanteur de jazz, seules les chansons et quelques paroles d'Al Jolson sont enregistrées, le reste utilisant encore des intertitres.",
+    "reponse": true,
+    "explication": "Le film de 1927 n'a pas de véritables dialogues enregistrés. Seuls les chansons et quelques interventions d'Al Jolson le sont. Il est pourtant devenu le symbole de l'arrivée du parlant.",
+    "source": "D'après Wikipédia — Le Chanteur de jazz"
+  },
+  {
+    "id": "q-cinema-096",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Pourquoi le fond vert a-t-il fini par remplacer le fond bleu à la télévision ?",
+    "choix": [
+      "Les présentateurs portaient souvent des costumes bleus qui disparaissaient à l'image",
+      "Le vert coûte beaucoup moins cher à peindre",
+      "Le bleu ne passe pas en couleur à la télévision",
+      "Le vert est interdit sur les plateaux de cinéma"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un vêtement de la couleur du fond devient transparent à l'écran. Comme les costumes bleus étaient très courants, on a préféré un fond vert. Il est aussi mieux capté par les caméras numériques.",
+    "source": "D'après Wikipédia — Incrustation"
+  },
+  {
+    "id": "q-cinema-097",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Qui a prêté sa voix à Dark Vador, alors que David Prowse portait le costume ?",
+    "choix": [
+      "James Earl Jones",
+      "Jason Wingreen",
+      "Peter Serafinowicz",
+      "Marni Nixon"
+    ],
+    "bonneReponse": 0,
+    "explication": "James Earl Jones double Dark Vador car l'accent de David Prowse, acteur sous le masque, ne convenait pas. Les autres sont aussi des voix de doublage, mais pour d'autres rôles.",
+    "source": "D'après Wikipédia — Doublage"
+  },
+  {
+    "id": "q-cinema-098",
+    "domain": "cinema",
+    "format": "associer",
+    "question": "Associe chaque genre à un film emblématique.",
+    "paires": [
+      {
+        "gauche": "Western",
+        "droite": "La Chevauchée fantastique",
+        "explication": "Le film de John Ford (1939) relance le western au cinéma."
+      },
+      {
+        "gauche": "Film noir",
+        "droite": "Assurance sur la mort",
+        "explication": "Le film de Billy Wilder (1944) est un archétype du film noir."
+      },
+      {
+        "gauche": "Film musical",
+        "droite": "Chantons sous la pluie",
+        "explication": "Ce film de Stanley Donen et Gene Kelly sort en 1952."
+      },
+      {
+        "gauche": "Film d'horreur",
+        "droite": "Dracula",
+        "explication": "Le film d'Universal est celui à partir duquel on parle de « film d'horreur »."
+      }
+    ],
+    "explication": "Chaque genre a ses classiques : le western de John Ford, le film noir de Billy Wilder, la comédie musicale de Donen et Kelly, et le Dracula d'Universal qui lance l'horreur à Hollywood.",
+    "source": "D'après Wikipédia — Film musical"
+  },
+  {
+    "id": "q-cinema-099",
+    "domain": "cinema",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom vient d'un mot italien qui désigne une miniature sculptée dans une pierre.",
+      "Je dure souvent quelques secondes et je ne suis généralement pas crédité.",
+      "Stan Lee m'a pratiqué dans presque tous les films Marvel.",
+      "Hitchcock en a fait sa signature dans ses propres films."
+    ],
+    "reponse": "Le caméo",
+    "explication": "Un caméo est l'apparition fugace d'une personnalité ou d'un membre de l'équipe. Hitchcock en a fait quarante et un dans ses films, sur un demi-siècle. C'est un clin d'œil pour les spectateurs attentifs.",
+    "source": "D'après Wikipédia — Caméo"
+  },
+  {
+    "id": "q-cinema-100",
+    "domain": "cinema",
+    "format": "frise",
+    "question": "Remets ces westerns dans l'ordre de sortie.",
+    "evenements": [
+      {
+        "label": "Le Vol du grand rapide",
+        "annee": "1903"
+      },
+      {
+        "label": "La Chevauchée fantastique",
+        "annee": "1939"
+      },
+      {
+        "label": "Le train sifflera trois fois",
+        "annee": "1952"
+      },
+      {
+        "label": "Les Sept Mercenaires",
+        "annee": "1960"
+      },
+      {
+        "label": "La Horde sauvage",
+        "annee": "1969"
+      }
+    ],
+    "explication": "Le Vol du grand rapide (1903) passe pour le premier western. Puis viennent les classiques de John Ford (1939), Fred Zinnemann (1952), John Sturges (1960) et Sam Peckinpah, dont La Horde sauvage (1969) annonce le western révisionniste.",
+    "source": "D'après Wikipédia — Western"
+  },
+  {
+    "id": "q-cinema-101",
+    "domain": "cinema",
+    "format": "difference",
+    "question": "Quelle est la différence entre un remake et un reboot ?",
+    "choix": [
+      "Le remake garde les éléments fondamentaux de l'histoire, le reboot repart de zéro en changeant des éléments essentiels",
+      "Le remake est toujours tourné par le même réalisateur que l'original, le reboot par un autre",
+      "Le remake ne concerne que les films étrangers, le reboot que les films américains",
+      "Le remake est une suite du film original, le reboot en est la préquelle"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un remake refait un film en conservant ses traits fondamentaux, par exemple Psycho de Gus Van Sant. Un reboot recommence à zéro, tout en gardant des éléments de base de l'œuvre d'origine.",
+    "source": "D'après Wikipédia — Remake"
+  },
+  {
+    "id": "q-cinema-102",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Pour quel film aurait été payée en 1908 la première cascade rémunérée connue, un saut de falaise dans la mer ?",
+    "choix": [
+      "Le Comte de Monte-Cristo",
+      "Le Vol du grand rapide",
+      "Naissance d'une nation",
+      "Le Voleur de Bagdad"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un acrobate aurait reçu cinq dollars pour sauter à l'envers d'une falaise dans la mer dans Le Comte de Monte-Cristo (1908). Le métier de cascadeur naît du cirque, du burlesque et du rodéo.",
+    "source": "D'après Wikipédia — Cascadeur"
+  },
+  {
+    "id": "q-cinema-103",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "En France, le box-office se mesure surtout en nombre d'entrées, alors qu'aux États-Unis on compare surtout les recettes en dollars.",
+    "reponse": true,
+    "explication": "Compter en entrées rend les comparaisons plus justes. Le système américain, en dollars, favorise les films récents, car le prix des billets augmente avec l'inflation et les records tombent plus facilement.",
+    "source": "D'après Wikipédia — Box-office"
+  },
+  {
+    "id": "q-cinema-104",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Dans Lifeboat, dont l'action se déroule sur un canot de sauvetage, où Hitchcock a-t-il fait son caméo ?",
+    "choix": [
+      "Dans une publicité de journal",
+      "En silhouette sur la rive",
+      "En voix à la radio",
+      "En passager d'un bateau croisé au loin"
+    ],
+    "bonneReponse": 0,
+    "explication": "Comme le film ne quitte jamais le canot, Hitchcock apparaît dans une publicité de journal lue par un personnage. Ses caméos, au nombre de quarante et un, sont devenus sa signature.",
+    "source": "D'après Wikipédia — Les Naufragés (film, 1944)"
   }
 ]

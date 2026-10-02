@@ -464,5 +464,1193 @@
     "reponse": true,
     "explication": "Depuis 1996, une loi impose aux radios françaises de diffuser au moins 40 % de chansons d'expression française, dont la moitié de nouveaux talents ou de nouvelles productions, aux heures de grande écoute. Le but est de soutenir la chanson francophone face à la musique anglophone.",
     "source": "D'après Wikipédia — Radio en France"
+  },
+  {
+    "id": "q-musique-030",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quelle œuvre de Haendel est jouée à tous les couronnements britanniques depuis 1727 ?",
+    "choix": [
+      "Zadok the Priest",
+      "Water Music",
+      "Le Messie",
+      "Music for the Royal Fireworks"
+    ],
+    "bonneReponse": 0,
+    "explication": "Zadok the Priest, l'un des quatre hymnes de couronnement de Haendel, a été chanté à chaque couronnement britannique depuis 1727. Haendel venait d'être naturalisé britannique cette année-là.",
+    "source": "D'après Wikipédia — Georg Friedrich Haendel"
+  },
+  {
+    "id": "q-musique-031",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel lied de Schubert est devenu célèbre sous le nom d'Ave Maria ?",
+    "choix": [
+      "Le Troisième chant d'Ellen",
+      "Le Roi des aulnes",
+      "La Truite",
+      "Marguerite au rouet"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ellens dritter Gesang, écrit en 1825 sur un poème de Walter Scott, a connu une telle popularité qu'on l'appelle Ave Maria. À l'origine, ce n'est pas un chant de prière : il met en scène la jeune Ellen.",
+    "source": "D'après Wikipédia — Franz Schubert"
+  },
+  {
+    "id": "q-musique-032",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Franz Liszt a travaillé jusqu'à quatorze heures par jour pour devenir au piano l'égal de Paganini au violon.",
+    "reponse": true,
+    "explication": "Après avoir entendu Paganini en avril 1832, Liszt décide de devenir aussi grand sur le piano que lui sur le violon. Il travaille jusqu'à quatorze heures par jour et publie en 1838 les Études d'après Paganini.",
+    "source": "D'après Wikipédia — Franz Liszt"
+  },
+  {
+    "id": "q-musique-033",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quelle actrice a inspiré à Berlioz sa Symphonie fantastique ?",
+    "choix": [
+      "Harriet Smithson",
+      "Estelle Dubœuf",
+      "Mathilde Wesendonck",
+      "Marie d'Agoult"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'actrice irlandaise Harriet Smithson, qu'il poursuivit sept ans avant de l'épouser, apparaît dans la symphonie sous forme d'une idée fixe : un thème qui revient dans chaque mouvement.",
+    "source": "D'après Wikipédia — Hector Berlioz"
+  },
+  {
+    "id": "q-musique-034",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Dans quelle ville Richard Wagner a-t-il fondé en 1876 un festival pour jouer ses opéras ?",
+    "choix": [
+      "Bayreuth",
+      "Salzbourg",
+      "Leipzig",
+      "Dresde"
+    ],
+    "bonneReponse": 0,
+    "explication": "Wagner fait construire à Bayreuth un théâtre conçu pour ses œuvres. Le festival y est donné chaque été depuis 1876 et accueille ses dix opéras principaux. L'Anneau du Nibelung y fut créé la même année.",
+    "source": "D'après Wikipédia — Richard Wagner"
+  },
+  {
+    "id": "q-musique-035",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Georges Bizet est mort sans savoir que Carmen deviendrait l'un des opéras les plus joués au monde.",
+    "reponse": true,
+    "explication": "Après la création du 3 mars 1875, Bizet était persuadé que Carmen était un échec. Il est mort d'une crise cardiaque trois mois plus tard. L'opéra a triomphé à Vienne dès octobre 1875 et n'a cessé de l'être depuis.",
+    "source": "D'après Wikipédia — Georges Bizet"
+  },
+  {
+    "id": "q-musique-036",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Qui a terminé Turandot après la mort de Puccini ?",
+    "choix": [
+      "Franco Alfano",
+      "Arturo Toscanini",
+      "Pietro Mascagni",
+      "Ruggero Leoncavallo"
+    ],
+    "bonneReponse": 0,
+    "explication": "Puccini meurt en 1924 sans avoir fini Turandot. Franco Alfano en compose les deux dernières scènes pour la création de 1926 à la Scala. Ce final reste contesté, et un autre a été écrit en 2001 par Luciano Berio.",
+    "source": "D'après Wikipédia — Giacomo Puccini"
+  },
+  {
+    "id": "q-musique-037",
+    "domain": "musique",
+    "format": "associer",
+    "question": "Associe chaque ballet de Stravinsky à son année de création.",
+    "paires": [
+      {
+        "gauche": "L'Oiseau de feu",
+        "droite": "1910",
+        "explication": "Première commande de Diaghilev, créée le 25 juin 1910 : un triomphe."
+      },
+      {
+        "gauche": "Petrouchka",
+        "droite": "1911",
+        "explication": "Créé le 13 juin 1911, il marque une rupture avec le style de L'Oiseau de feu."
+      },
+      {
+        "gauche": "Le Sacre du printemps",
+        "droite": "1913",
+        "explication": "Créé à Paris le 29 mai 1913, il déclenche un tumulte."
+      }
+    ],
+    "explication": "Ces trois ballets, composés pour les Ballets russes de Diaghilev, ont fait de Stravinsky une vedette internationale. Chacun est plus audacieux que le précédent, surtout dans le traitement du rythme.",
+    "source": "D'après Wikipédia — Igor Stravinsky"
+  },
+  {
+    "id": "q-musique-038",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Combien de fois Erik Satie demande-t-il de répéter le motif de ses Vexations ?",
+    "choix": [
+      "840 fois",
+      "84 fois",
+      "360 fois",
+      "1 000 fois"
+    ],
+    "bonneReponse": 0,
+    "explication": "Satie note qu'il faut jouer le motif 840 fois de suite et recommande de s'y préparer par le silence et l'immobilité. Une interprétation complète dure ainsi de très nombreuses heures.",
+    "source": "D'après Wikipédia — Erik Satie"
+  },
+  {
+    "id": "q-musique-039",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel élément inhabituel Gershwin a-t-il intégré à Un Américain à Paris ?",
+    "choix": [
+      "Quatre klaxons de taxis français",
+      "Une sirène de pompiers",
+      "Un chœur d'enfants",
+      "Des cloches d'église"
+    ],
+    "bonneReponse": 0,
+    "explication": "Gershwin termine Un Américain à Paris dans la capitale française et y glisse quatre klaxons de taxis dans la partition. L'œuvre, qui évoque un promeneur américain, est créée à Carnegie Hall le 13 décembre 1928.",
+    "source": "D'après Wikipédia — George Gershwin"
+  },
+  {
+    "id": "q-musique-040",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Sous quel pseudonyme Ennio Morricone a-t-il signé la musique de Pour une poignée de dollars ?",
+    "choix": [
+      "Dan Savio",
+      "Bill Morrison",
+      "Tom Sullivan",
+      "Jack Wilson"
+    ],
+    "bonneReponse": 0,
+    "explication": "Morricone signe Dan Savio la musique du film de Sergio Leone, sorti en 1964. À l'époque, des producteurs de westerns italiens voulaient faire passer leurs films pour des productions américaines.",
+    "source": "D'après Wikipédia — Ennio Morricone"
+  },
+  {
+    "id": "q-musique-041",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel poème est chanté dans le finale de la Neuvième Symphonie de Beethoven ?",
+    "choix": [
+      "L'Ode à la joie de Schiller",
+      "Le Roi des aulnes de Goethe",
+      "L'Ode à la nature de Hölderlin",
+      "Lorelei de Heine"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le finale reprend l'Ode à la joie, poème de Friedrich von Schiller écrit en 1785, que Beethoven rêvait de mettre en musique depuis 1792. Une version instrumentale de ce thème est aujourd'hui l'hymne de l'Europe.",
+    "source": "D'après Wikipédia — Symphonie no 9 de Beethoven"
+  },
+  {
+    "id": "q-musique-042",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Lors de la création de la Neuvième Symphonie, Beethoven, presque sourd, a dû être retourné vers le public pour voir les applaudissements.",
+    "reponse": true,
+    "explication": "Beethoven battait encore la mesure, plusieurs mesures en retard, quand la contralto Caroline Unger l'a fait se retourner. Il ne pouvait entendre l'ovation, mais put au moins la voir : mouchoirs et chapeaux étaient agités.",
+    "source": "D'après Wikipédia — Symphonie no 9 de Beethoven"
+  },
+  {
+    "id": "q-musique-043",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quelle marche classique a inspiré la Marche impériale, le thème de Dark Vador, selon John Williams ?",
+    "choix": [
+      "La marche funèbre de la Sonate no 2 de Chopin",
+      "La Marche nuptiale de Mendelssohn",
+      "La Marche turque de Mozart",
+      "La Marche de Radetzky de Strauss"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour Star Wars, George Lucas voulait une musique inspirée des grands romantiques. Williams a bâti la Marche impériale à partir de la marche funèbre de la deuxième sonate pour piano de Chopin, ce qui lui donne son caractère sombre.",
+    "source": "D'après Wikipédia — John Williams (compositeur)"
+  },
+  {
+    "id": "q-musique-044",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Dans quel théâtre parisien Le Sacre du printemps a-t-il été créé en 1913 ?",
+    "choix": [
+      "Le théâtre des Champs-Élysées",
+      "Le théâtre du Châtelet",
+      "L'Opéra-Comique",
+      "Le théâtre de l'Odéon"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Sacre du printemps est monté en 1913 au théâtre des Champs-Élysées, le 29 mai, avec Pierre Monteux au pupitre. Le Châtelet avait vu, un an plus tôt jour pour jour, le scandale de L'Après-midi d'un faune.",
+    "source": "D'après Wikipédia — Le Sacre du printemps"
+  },
+  {
+    "id": "q-musique-045",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Pourquoi la Marseillaise porte-t-elle ce nom ?",
+    "choix": [
+      "Les volontaires marseillais la chantent en entrant à Paris en 1792",
+      "Rouget de Lisle l'a écrite à Marseille",
+      "Elle a été chantée pour la première fois dans le port de Marseille",
+      "Elle rend hommage à la ville de Marseille"
+    ],
+    "bonneReponse": 0,
+    "explication": "Écrite à Strasbourg pour l'armée du Rhin, elle avait d'abord un tout autre titre. Les fédérés de Marseille l'adoptent et la chantent en arrivant à Paris le 30 juillet 1792 : la foule la baptise alors La Marseillaise.",
+    "source": "D'après Wikipédia — La Marseillaise"
+  },
+  {
+    "id": "q-musique-046",
+    "domain": "musique",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de la Marseillaise dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Rouget de Lisle écrit le chant à Strasbourg",
+        "annee": "1792"
+      },
+      {
+        "label": "La Convention la proclame chant national",
+        "annee": "1795"
+      },
+      {
+        "label": "Berlioz en réalise une nouvelle orchestration",
+        "annee": "1830"
+      },
+      {
+        "label": "La IIIe République en fait l'hymne national",
+        "annee": "1879"
+      },
+      {
+        "label": "La Constitution de la IVe République confirme son statut",
+        "annee": "1946"
+      }
+    ],
+    "explication": "Née en avril 1792, elle devient chant national en 1795, perd ce rang sous l'Empire, puis redevient hymne national en 1879. Les Constitutions de 1946 et de 1958 ont confirmé ce statut dans leur article 2.",
+    "source": "D'après Wikipédia — La Marseillaise"
+  },
+  {
+    "id": "q-musique-047",
+    "domain": "musique",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis mort à 31 ans, en 1828, huit mois après mon unique concert d'œuvres personnelles.",
+      "J'ai laissé plus de mille compositions, dont plus de 600 lieder.",
+      "Mes amis se réunissaient pour écouter ma musique lors de soirées appelées schubertiades.",
+      "J'ai écrit La Belle Meunière et Le Voyage d'hiver.",
+      "Mon Roi des aulnes, écrit en 1815, est mon opus 1."
+    ],
+    "reponse": "Franz Schubert",
+    "explication": "Franz Schubert, mort en 1828 à 31 ans, a laissé plus de 600 lieder. Son concert unique de mars 1828 fut un succès, mais sa gloire est surtout venue après sa mort, quand Schumann, Liszt ou Brahms ont défendu ses œuvres.",
+    "source": "D'après Wikipédia — Franz Schubert"
+  },
+  {
+    "id": "q-musique-048",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Joseph Haydn a servi la famille princière Esterházy pendant plus de trente ans.",
+    "reponse": true,
+    "explication": "Engagé en 1761, Haydn devient maître de chapelle des Esterházy en 1766. Isolé dans leur palais d'Esterháza, il se disait « forcé d'être original » ; sa célébrité s'étend pourtant à toute l'Europe grâce aux éditions de sa musique.",
+    "source": "D'après Wikipédia — Joseph Haydn"
+  },
+  {
+    "id": "q-musique-049",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "D'où vient le nom du groupe Pink Floyd ?",
+    "choix": [
+      "Des prénoms de deux bluesmen, Pink Anderson et Floyd Council",
+      "D'un flamant rose, emblème du premier concert",
+      "D'un quartier de Cambridge où le groupe répétait",
+      "Du titre d'un roman de science-fiction"
+    ],
+    "bonneReponse": 0,
+    "explication": "Syd Barrett a trouvé ce nom en pensant à deux musiciens de blues dont il possédait des disques. Contrairement à une idée reçue en France, il n'a donc rien à voir avec un flamant rose, qui se dit « flamingo » en anglais.",
+    "source": "D'après Wikipédia — Pink Floyd"
+  },
+  {
+    "id": "q-musique-050",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Où Mick Jagger et Keith Richards se retrouvent-ils par hasard, le 17 octobre 1961, avant de fonder les Rolling Stones ?",
+    "choix": [
+      "Sur le quai de la gare de Dartford",
+      "Dans un club de jazz à Ealing",
+      "Dans les coulisses du Marquee, à Londres",
+      "À la sortie de leur école d'art"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les deux amis d'enfance s'étaient perdus de vue. Mick portait des disques de Chuck Berry et de Muddy Waters, ce qui a relancé leur complicité musicale. Quelques mois plus tard, le groupe jouait son premier concert au Marquee.",
+    "source": "D'après Wikipédia — The Rolling Stones"
+  },
+  {
+    "id": "q-musique-051",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Comment le duo Daft Punk a-t-il trouvé son nom ?",
+    "choix": [
+      "Dans une critique musicale qui parlait de « daft punky thrash »",
+      "En reprenant le nom d'une machine de leur studio",
+      "D'après le titre d'un film de science-fiction",
+      "En l'inventant lors d'une soirée au Centre Pompidou"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1993, un magazine britannique a jugé leur ancien groupe de rock Darlin' « daft punky ». Les deux musiciens ont trouvé la remarque drôle et en ont fait le nom de leur nouveau duo électronique.",
+    "source": "D'après Wikipédia — Daft Punk"
+  },
+  {
+    "id": "q-musique-052",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel artiste a reçu le prix Nobel de littérature en 2016 ?",
+    "choix": [
+      "Bob Dylan",
+      "Leonard Cohen",
+      "Bruce Springsteen",
+      "Paul Simon"
+    ],
+    "bonneReponse": 0,
+    "explication": "Bob Dylan a été récompensé le 13 octobre 2016 pour avoir renouvelé l'écriture poétique de la chanson américaine. Il est le premier musicien à recevoir cette distinction littéraire.",
+    "source": "D'après Wikipédia — Bob Dylan"
+  },
+  {
+    "id": "q-musique-053",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "D'où vient le nom du groupe ABBA ?",
+    "choix": [
+      "Des initiales des prénoms de ses quatre membres",
+      "D'un mot suédois qui signifie « bonheur »",
+      "D'une ville de la côte suédoise",
+      "Du titre de leur premier succès"
+    ],
+    "bonneReponse": 0,
+    "explication": "A pour Agnetha, B pour Björn, B pour Benny, A pour Anni-Frid : le nom est un acronyme et un palindrome. Une conserverie suédoise de poissons portait aussi ce nom et a donné son accord au groupe.",
+    "source": "D'après Wikipédia — ABBA"
+  },
+  {
+    "id": "q-musique-054",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quelle chanteuse a été proclamée « Reine de la soul » en 1962 par un animateur de radio de Chicago ?",
+    "choix": [
+      "Aretha Franklin",
+      "Dinah Washington",
+      "Etta James",
+      "Sarah Vaughan"
+    ],
+    "bonneReponse": 0,
+    "explication": "Lors d'un concert au Regal Theater de Chicago, l'animateur Pervis Spann a lancé ce titre, qu'Aretha Franklin a gardé toute sa vie. Elle n'avait pas encore connu son grand succès, qui vient avec Atlantic Records en 1967.",
+    "source": "D'après Wikipédia — Aretha Franklin"
+  },
+  {
+    "id": "q-musique-055",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel album de Miles Davis, sorti en 1959, est l'un des disques de jazz les plus vendus de tous les temps ?",
+    "choix": [
+      "Kind of Blue",
+      "Birth of the Cool",
+      "Sketches of Spain",
+      "In a Silent Way"
+    ],
+    "bonneReponse": 0,
+    "explication": "Kind of Blue s'est vendu à plus de 5 millions d'exemplaires aux États-Unis. Enregistré avec un sextet, il reste une référence du jazz modal. Birth of the Cool, Sketches of Spain et In a Silent Way sont d'autres moments de sa carrière.",
+    "source": "D'après Wikipédia — Miles Davis"
+  },
+  {
+    "id": "q-musique-056",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quelle mention figurait sur les pochettes des albums de Queen jusqu'en 1980 ?",
+    "choix": [
+      "« No Synthesisers! »",
+      "« No Overdubs! »",
+      "« Recorded Live »",
+      "« Play it loud »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le groupe tenait à préciser qu'aucun synthétiseur n'avait servi à enregistrer ses albums. Il a changé de règle avec The Game, en 1980, où ils en utilisent pour la première fois, notamment sur Another One Bites the Dust.",
+    "source": "D'après Wikipédia — Queen"
+  },
+  {
+    "id": "q-musique-057",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Combien de dollars Madonna avait-elle en poche en arrivant à New York en 1978 ?",
+    "choix": [
+      "35 dollars",
+      "5 dollars",
+      "350 dollars",
+      "3 500 dollars"
+    ],
+    "bonneReponse": 0,
+    "explication": "Elle est arrivée avec 35 dollars et l'envie de devenir danseuse. Elle a vécu de petits boulots avant de signer chez Sire Records en 1982. Madonna dit que ce départ fut la chose la plus courageuse qu'elle ait faite.",
+    "source": "D'après Wikipédia — Madonna"
+  },
+  {
+    "id": "q-musique-058",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Ray Charles a refusé de jouer à Atlanta devant un public séparé par la ségrégation.",
+    "reponse": true,
+    "explication": "Apprenant que la salle d'Atlanta était interdite aux Noirs, Ray Charles a annulé son concert. L'État de Géorgie lui a présenté des excuses, et Georgia on My Mind est devenue son hymne officiel le 24 avril 1979.",
+    "source": "D'après Wikipédia — Ray Charles"
+  },
+  {
+    "id": "q-musique-059",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Louis Armstrong est l'inventeur du scat.",
+    "reponse": false,
+    "explication": "Il n'a pas inventé le scat, qui existait avant lui à La Nouvelle-Orléans. En revanche, il fut le premier à en inclure une improvisation dans un titre enregistré, Heebie Jeebies, et à le populariser dans le jazz.",
+    "source": "D'après Wikipédia — Louis Armstrong"
+  },
+  {
+    "id": "q-musique-060",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Les deux yeux de David Bowie semblaient de couleurs différentes à cause d'une hétérochromie.",
+    "reponse": false,
+    "explication": "C'est une idée fausse. En 1962, un camarade l'a frappé à l'œil gauche pendant une bagarre : la pupille est restée dilatée. Cet ami, George Underwood, a ensuite dessiné des pochettes de ses albums.",
+    "source": "D'après Wikipédia — David Bowie"
+  },
+  {
+    "id": "q-musique-061",
+    "domain": "musique",
+    "format": "associer",
+    "question": "Associe chaque artiste à son surnom.",
+    "paires": [
+      {
+        "gauche": "Elvis Presley",
+        "droite": "Le Roi du rock and roll",
+        "explication": "Elvis a popularisé le rock and roll dans le monde entier."
+      },
+      {
+        "gauche": "Aretha Franklin",
+        "droite": "La Reine de la soul",
+        "explication": "Titre proclamé à Chicago par un animateur de radio, gardé toute sa vie."
+      },
+      {
+        "gauche": "Ray Charles",
+        "droite": "The Genius",
+        "explication": "Surnom gagné par ses succès du début des années 1960."
+      },
+      {
+        "gauche": "Louis Armstrong",
+        "droite": "Satchmo",
+        "explication": "Abréviation de « satchel-mouth », la bouche-sacoche."
+      },
+      {
+        "gauche": "Ella Fitzgerald",
+        "droite": "La Première Dame de la chanson",
+        "explication": "Titre de la reine du scat, avec une voix de trois octaves."
+      }
+    ],
+    "explication": "Ces surnoms disent la place de chacun dans la musique du XXe siècle : roi du rock, reine de la soul, génie, ambassadeur du jazz et première dame de la chanson. Ils sont restés attachés à leur nom toute leur vie.",
+    "source": "D'après Wikipédia — Elvis Presley"
+  },
+  {
+    "id": "q-musique-062",
+    "domain": "musique",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Seattle en 1942.",
+      "J'ai joué en première partie de Johnny Hallyday à l'Olympia en 1966.",
+      "Mon trio s'appelait The Experience.",
+      "J'ai composé Purple Haze.",
+      "Je suis mort à Londres à 27 ans, en 1970."
+    ],
+    "reponse": "Jimi Hendrix",
+    "explication": "Jimi Hendrix a révolutionné la guitare électrique en quatre ans de carrière, avec le larsen et les pédales d'effet. Il est mort à 27 ans, comme d'autres légendes, ce qui a nourri le mythe du Club des 27.",
+    "source": "D'après Wikipédia — Jimi Hendrix"
+  },
+  {
+    "id": "q-musique-063",
+    "domain": "musique",
+    "format": "frise",
+    "question": "Remets ces moments de la musique dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Elvis enregistre That's All Right chez Sun Records",
+        "annee": "1954"
+      },
+      {
+        "label": "Aretha Franklin enregistre I Never Loved a Man à Muscle Shoals",
+        "annee": "1967"
+      },
+      {
+        "label": "Pink Floyd sort The Dark Side of the Moon",
+        "annee": "1973"
+      },
+      {
+        "label": "Nirvana sort Nevermind",
+        "annee": "1991"
+      },
+      {
+        "label": "Daft Punk sort Random Access Memories",
+        "annee": "2013"
+      }
+    ],
+    "explication": "Du rockabilly d'Elvis à la soul d'Aretha, du rock progressif de Pink Floyd au grunge de Nirvana, puis à la musique électronique de Daft Punk, ces cinq dates montrent l'évolution de la musique populaire sur soixante ans.",
+    "source": "D'après Wikipédia — Nirvana (groupe)"
+  },
+  {
+    "id": "q-musique-064",
+    "domain": "musique",
+    "format": "difference",
+    "question": "Quelle est la différence entre le bebop et le cool jazz de Miles Davis ?",
+    "choix": [
+      "Le bebop est rapide et complexe, le cool jazz joue sur des arrangements soignés et une relative lenteur",
+      "Le bebop se joue en grand orchestre, le cool jazz en solo",
+      "Le bebop utilise un chanteur, le cool jazz uniquement des instruments",
+      "Le bebop vient d'Europe, le cool jazz de La Nouvelle-Orléans"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le bebop, de Charlie Parker et Dizzy Gillespie, est un jazz véhément. Avec son nonette de 1948-1949, Miles Davis crée le cool jazz : une orchestration riche, des arrangements soignés et un rythme plus lent, qui rompent avec l'urgence du bebop.",
+    "source": "D'après Wikipédia — Miles Davis"
+  },
+  {
+    "id": "q-musique-065",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Qui a fait venir Jacques Brel à Paris en 1953 après avoir écouté une maquette envoyée à son insu ?",
+    "choix": [
+      "Jacques Canetti",
+      "Bruno Coquatrix",
+      "Eddie Barclay",
+      "Lucien Morisse"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une journaliste belge a envoyé à son insu un disque maquette à Jacques Canetti, directeur artistique de Philips. Séduit, il a appelé Brel dans la nuit du 1er juin 1953. Brel est monté seul à Paris et a débuté aux Trois Baudets, le théâtre de Canetti.",
+    "source": "D'après Wikipédia — Jacques Brel"
+  },
+  {
+    "id": "q-musique-066",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Chez qui Georges Brassens a-t-il vécu vingt-deux ans, dans une maison sans électricité ?",
+    "choix": [
+      "Jeanne Planche",
+      "Sa tante Antoinette Dagrosa",
+      "Joha Heiman, surnommée Püppchen",
+      "Sa mère Elvira"
+    ],
+    "bonneReponse": 0,
+    "explication": "En mars 1944, Brassens a quitté l'Allemagne où il était envoyé au travail obligatoire. Pour échapper aux recherches, Jeanne Planche l'a caché impasse Florimont, à Paris. Il y est resté vingt-deux ans, au milieu d'animaux, dont la cane qu'il a chantée.",
+    "source": "D'après Wikipédia — Georges Brassens"
+  },
+  {
+    "id": "q-musique-067",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel métier Lucien Ginsburg, futur Serge Gainsbourg, a-t-il d'abord rêvé d'exercer ?",
+    "choix": [
+      "Peintre",
+      "Architecte",
+      "Acteur de théâtre",
+      "Pianiste classique"
+    ],
+    "bonneReponse": 0,
+    "explication": "Lucien Ginsburg a étudié la peinture auprès d'André Lhote et de Fernand Léger. Il y a consacré ses vingt premières années d'adulte, avant d'y renoncer pour la musique. Il a alors détruit presque toutes ses toiles et pris le nom de Serge Gainsbourg en 1957.",
+    "source": "D'après Wikipédia — Serge Gainsbourg"
+  },
+  {
+    "id": "q-musique-068",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Dans quelle salle parisienne Charles Aznavour a-t-il triomphé en 1960 en chantant Je m'voyais déjà dos au public ?",
+    "choix": [
+      "L'Alhambra",
+      "L'Olympia",
+      "Bobino",
+      "Le Moulin-Rouge"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 12 décembre 1960, Aznavour chante Je m'voyais déjà dos à la salle, devant un public glacial. Les projecteurs se tournent vers les spectateurs : aucun applaudissement, puis un tonnerre. Il se prépare à renoncer, mais c'est un triomphe. Il a alors 36 ans.",
+    "source": "D'après Wikipédia — Charles Aznavour"
+  },
+  {
+    "id": "q-musique-069",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quelle ville allemande a inspiré à Barbara une chanson en 1964, devenue symbole de la réconciliation franco-allemande ?",
+    "choix": [
+      "Göttingen",
+      "Hambourg",
+      "Berlin",
+      "Munich"
+    ],
+    "bonneReponse": 0,
+    "explication": "Invitée par un théâtre de Göttingen en juillet 1964, Barbara écrit la chanson d'un seul jet, dans le jardin de ce théâtre. Elle reçoit en 1988 la médaille d'honneur de la ville et la plus haute distinction allemande pour son rôle dans la réconciliation.",
+    "source": "D'après Wikipédia — Barbara"
+  },
+  {
+    "id": "q-musique-070",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Pourquoi le nom de Johnny Hallyday s'écrit-il avec deux « y » ?",
+    "choix": [
+      "Une erreur sur la pochette de son premier disque",
+      "Un choix de son père Léon Smet",
+      "Un hommage à son cousin Lee Halliday",
+      "Une décision de la maison de disques pour sonner américain"
+    ],
+    "bonneReponse": 0,
+    "explication": "Né Jean-Philippe Smet, il avait choisi Halliday en hommage à Lee Halliday, son cousin américain. Sur la pochette de son premier super 45 tours, en mars 1960, le nom est écrit par erreur avec deux « y ». Cette graphie est alors adoptée définitivement.",
+    "source": "D'après Wikipédia — Johnny Hallyday"
+  },
+  {
+    "id": "q-musique-071",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel titre Jean-Jacques Goldman voulait-il donner à son premier album de 1981, refusé par sa maison de disques ?",
+    "choix": [
+      "Démodé",
+      "Minoritaire",
+      "Positif",
+      "Non homologué"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le premier album de 1981 sort sans titre, car Démodé est refusé. Le deuxième, sans titre lui aussi, devait s'appeler Minoritaire. Goldman réagit avec le troisième, baptisé Positif en 1984. Les titres Démodé et Minoritaire sont devenus officieux.",
+    "source": "D'après Wikipédia — Jean-Jacques Goldman"
+  },
+  {
+    "id": "q-musique-072",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Que signifie le nom de scène Stromae, en verlan ?",
+    "choix": [
+      "Maestro",
+      "Mosaïque",
+      "Stéréo",
+      "Monsieur"
+    ],
+    "bonneReponse": 0,
+    "explication": "Stromae est « maestro » en verlan. Paul Van Haver avait d'abord choisi le pseudonyme OpsMaestro, mais un autre artiste le portait déjà. Plus tard, il a nommé son label Mosaert, une anagramme de Stromae.",
+    "source": "D'après Wikipédia — Stromae"
+  },
+  {
+    "id": "q-musique-073",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Dans quelle ville est née Dalida, de parents italiens ?",
+    "choix": [
+      "Au Caire",
+      "À Rome",
+      "À Naples",
+      "À Beyrouth"
+    ],
+    "bonneReponse": 0,
+    "explication": "Iolanda Gigliotti naît en 1933 dans un quartier populaire du Caire, d'une famille originaire de Calabre. Son père joue du violon à l'Opéra de la ville. Elle gagne Paris le jour de Noël 1954 et devient Dalida.",
+    "source": "D'après Wikipédia — Dalida"
+  },
+  {
+    "id": "q-musique-074",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "La chanson Bohemian Rhapsody de Queen comporte un refrain répété à plusieurs reprises.",
+    "reponse": false,
+    "explication": "Bohemian Rhapsody n'a pas de refrain. Elle enchaîne six parties : introduction a cappella, ballade, solo de guitare, opéra, hard rock et conclusion. C'est ce format inhabituel qui a fait douter ses producteurs avant son énorme succès de 1975.",
+    "source": "D'après Wikipédia — Bohemian Rhapsody"
+  },
+  {
+    "id": "q-musique-075",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Le festival de Woodstock de 1969 n'a pas eu lieu dans la ville de Woodstock.",
+    "reponse": true,
+    "explication": "Refusé à Woodstock puis à Wallkill, le festival s'est tenu à Bethel, sur la ferme de Max Yasgur, à plus de 80 kilomètres. Il a gardé le nom de la société organisatrice, Woodstock Ventures. Environ 450 000 personnes sont venues, pour 50 000 attendues.",
+    "source": "D'après Wikipédia — Festival de Woodstock"
+  },
+  {
+    "id": "q-musique-076",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Le premier Concours Eurovision de la chanson, en 1956, a été remporté par la France.",
+    "reponse": false,
+    "explication": "Le premier concours, à Lugano, a été gagné par la Suisse, pays hôte, avec Refrain de Lys Assia. Les résultats complets n'ont jamais été publiés, car les bulletins ont été détruits aussitôt. Il n'y a donc ni deuxième ni troisième place officielles.",
+    "source": "D'après Wikipédia — Concours Eurovision de la chanson 1956"
+  },
+  {
+    "id": "q-musique-077",
+    "domain": "musique",
+    "format": "associer",
+    "question": "Associe chaque artiste à l'une de ses chansons.",
+    "paires": [
+      {
+        "gauche": "Jacques Brel",
+        "droite": "Amsterdam",
+        "explication": "Brel l'a composée en 1964 dans sa maison du Cap Martin, sur la Côte d'Azur."
+      },
+      {
+        "gauche": "Georges Brassens",
+        "droite": "Chanson pour l'Auvergnat",
+        "explication": "Ce titre figure sur son album de 1954, Les Sabots d'Hélène."
+      },
+      {
+        "gauche": "Barbara",
+        "droite": "Göttingen",
+        "explication": "Elle l'a écrite en 1964 après un séjour dans la ville allemande."
+      },
+      {
+        "gauche": "Dalida",
+        "droite": "Bambino",
+        "explication": "Son premier grand succès, en 1956, adapté d'une chanson napolitaine."
+      },
+      {
+        "gauche": "Charles Aznavour",
+        "droite": "La Bohème",
+        "explication": "Un de ses grands tubes des années 1960, sorti en 1965."
+      }
+    ],
+    "explication": "Ces cinq artistes ont marqué la chanson française des années 1950 et 1960. Brel avec Amsterdam, Brassens avec Chanson pour l'Auvergnat, Barbara avec Göttingen, Dalida avec Bambino et Aznavour avec La Bohème.",
+    "source": "D'après Wikipédia — Chanson française"
+  },
+  {
+    "id": "q-musique-078",
+    "domain": "musique",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon idée vient d'un musicien américain qui travaillait pour France Musique en 1976.",
+      "En 1981, un concert gratuit place de la République, à Paris, inspire le ministre Jack Lang.",
+      "Je suis née en 1982, et on me célèbre en France à la date du solstice d'été.",
+      "Mon slogan est un jeu de mots : « Faites de la musique ! »"
+    ],
+    "reponse": "La Fête de la musique",
+    "explication": "Le 21 juin 1982, la première Fête de la musique a lieu en France, voulue par Jack Lang et Maurice Fleuret. Elle est née de l'idée de Joel Cohen en 1976 et a été reprise depuis dans plus de cent pays.",
+    "source": "D'après Wikipédia — Fête de la musique"
+  },
+  {
+    "id": "q-musique-079",
+    "domain": "musique",
+    "format": "frise",
+    "question": "Remets ces événements musicaux dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Premier Concours Eurovision de la chanson",
+        "annee": "1956"
+      },
+      {
+        "label": "Festival de Woodstock",
+        "annee": "1969"
+      },
+      {
+        "label": "Sortie de Bohemian Rhapsody",
+        "annee": "1975"
+      },
+      {
+        "label": "Première Fête de la musique",
+        "annee": "1982"
+      },
+      {
+        "label": "Live Aid",
+        "annee": "1985"
+      }
+    ],
+    "explication": "L'Eurovision ouvre la marche, suivi de Woodstock, de Bohemian Rhapsody, de la première Fête de la musique, puis du Live Aid. En trente ans, la musique est devenue un grand rendez-vous populaire, télévisé et parfois caritatif.",
+    "source": "D'après Wikipédia — Live Aid"
+  },
+  {
+    "id": "q-musique-080",
+    "domain": "musique",
+    "format": "difference",
+    "question": "Quelle est la différence entre Band Aid et Live Aid ?",
+    "choix": [
+      "Band Aid est le collectif qui enregistre un single de Noël en 1984 ; Live Aid est le double concert de 1985.",
+      "Band Aid est le concert de Londres ; Live Aid est celui de Philadelphie.",
+      "Band Aid soutient l'Éthiopie ; Live Aid soutient une autre cause.",
+      "Band Aid est un festival de 1969 ; Live Aid en est la suite directe."
+    ],
+    "bonneReponse": 0,
+    "explication": "Band Aid est le collectif réuni par Bob Geldof et Midge Ure pour Do They Know It's Christmas ?, enregistrée en novembre 1984. Live Aid est le double concert du 13 juillet 1985, à Londres et Philadelphie, pour la même cause, la famine en Éthiopie.",
+    "source": "D'après Wikipédia — Live Aid"
+  },
+  {
+    "id": "q-musique-081",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel opéra de Monteverdi, créé en 1607, marque symboliquement le début de l'ère baroque ?",
+    "choix": [
+      "L'Orfeo",
+      "Dafne",
+      "Le Messie",
+      "Les Quatre Saisons"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'Orfeo de Claudio Monteverdi (1607) renoue avec le chant d'un soliste accompagné, rêvé par les Florentins qui voulaient ressusciter le drame grec. Il ouvre symboliquement l'ère baroque, dont l'opéra est l'un des grands moteurs.",
+    "source": "D'après Wikipédia — Musique baroque"
+  },
+  {
+    "id": "q-musique-082",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Le mot « baroque » vient d'un mot portugais qui désignait une perle de forme irrégulière.",
+    "reponse": true,
+    "explication": "Baroque vient du portugais barroco, une perle irrégulière. Le terme fut d'abord péjoratif, avant de désigner simplement la période : aujourd'hui, il n'a plus aucune connotation négative pour la musique de 1600 à 1750.",
+    "source": "D'après Wikipédia — Musique baroque"
+  },
+  {
+    "id": "q-musique-083",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Qui fait rejouer en 1829 la Passion selon saint Matthieu de Bach, après environ un siècle de relatif oubli ?",
+    "choix": [
+      "Félix Mendelssohn",
+      "Robert Schumann",
+      "Johannes Brahms",
+      "Franz Liszt"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après la mort de Bach en 1750, son œuvre est presque oubliée. Félix Mendelssohn remet la Passion selon saint Matthieu au répertoire en 1829, ce qui réveille l'intérêt pour les musiques du passé.",
+    "source": "D'après Wikipédia — Musique baroque"
+  },
+  {
+    "id": "q-musique-084",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel groupe sud-coréen a ouvert la voie de la K-pop dès 1992, en fusionnant rock, hip-hop et techno ?",
+    "choix": [
+      "Seo Taiji and Boys",
+      "BTS",
+      "H.O.T.",
+      "Blackpink"
+    ],
+    "bonneReponse": 0,
+    "explication": "Seo Taiji and Boys, apparus en 1992, bousculent la scène sud-coréenne avec leur « rap dance » qui plaît aux adolescents. Les groupes comme H.O.T. suivront, tandis que BTS et Blackpink viendront bien plus tard.",
+    "source": "D'après Wikipédia — K-pop"
+  },
+  {
+    "id": "q-musique-085",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Dans le punk rock, les longs solos de guitare virtuoses sont la marque de fabrique du genre.",
+    "reponse": false,
+    "explication": "C'est l'inverse : les solos complexes sont jugés superflus, les chansons sont courtes et la technique passe après l'énergie. Sur le premier album des Ramones, la moitié des quatorze titres ne dépasse pas deux minutes.",
+    "source": "D'après Wikipédia — Punk rock"
+  },
+  {
+    "id": "q-musique-086",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Comment appelle-t-on le chant dans le flamenco ?",
+    "choix": [
+      "Le cante",
+      "Le toque",
+      "Le baile",
+      "Les palmas"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le cante est le chant, interprété par un cantaor ou une cantaora. Le toque désigne la guitare, le baile la danse et les palmas les claquements de mains. Le cante jondo signifie « chant profond ».",
+    "source": "D'après Wikipédia — Flamenco"
+  },
+  {
+    "id": "q-musique-087",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel artiste est surnommé le « Godfather of Soul », le parrain de la soul ?",
+    "choix": [
+      "James Brown",
+      "Ray Charles",
+      "Sam Cooke",
+      "Otis Redding"
+    ],
+    "bonneReponse": 0,
+    "explication": "James Brown porte ce surnom. Ray Charles a popularisé le genre à partir de 1954, Sam Cooke vient du gospel et Otis Redding est la grande voix de Stax. Brown mènera la soul vers le funk à la fin des années 1960.",
+    "source": "D'après Wikipédia — Musique soul"
+  },
+  {
+    "id": "q-musique-088",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Le label Motown, temple de la soul, a été fondé à Memphis.",
+    "reponse": false,
+    "explication": "Faux : Motown est né à Détroit, la « Motor Town » de l’automobile, fondé par Berry Gordy. Le grand label soul de Memphis, c’est Stax, créé par Jim Stewart. Les deux maisons ont façonné deux sons bien différents de la soul.",
+    "source": "D'après Wikipédia — Motown"
+  },
+  {
+    "id": "q-musique-089",
+    "domain": "musique",
+    "format": "associer",
+    "question": "Associe chaque genre à son pays ou à sa région d'origine.",
+    "paires": [
+      {
+        "gauche": "Bossa nova",
+        "droite": "Brésil (Rio de Janeiro)",
+        "explication": "Née à Rio à la fin des années 1950, de la samba et du jazz."
+      },
+      {
+        "gauche": "Flamenco",
+        "droite": "Andalousie (Espagne)",
+        "explication": "Né entre Triana, Jerez et Cadix, avec un rôle clé des Gitans."
+      },
+      {
+        "gauche": "K-pop",
+        "droite": "Corée du Sud",
+        "explication": "Pop des girl groups et boys bands, née dans les années 1990."
+      },
+      {
+        "gauche": "Soul de Motown",
+        "droite": "Détroit (États-Unis)",
+        "explication": "Soul dansante portée par le label de Berry Gordy."
+      }
+    ],
+    "explication": "Ces quatre genres sont très liés à un lieu : Rio pour la bossa nova, l'Andalousie pour le flamenco, la Corée du Sud pour la K-pop et Détroit pour le son Motown, qui ont tous dépassé leurs frontières.",
+    "source": "D'après Wikipédia — Musique soul"
+  },
+  {
+    "id": "q-musique-090",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel film sorti en 1977 a fait exploser le disco dans le monde entier ?",
+    "choix": [
+      "La Fièvre du samedi soir",
+      "Grease",
+      "Flashdance",
+      "Fame"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Fièvre du samedi soir, présenté le 14 décembre 1977, a vendu plus de 25 millions d'exemplaires de sa bande originale. Cette réussite fait de 1978 une année record pour les ventes de disques.",
+    "source": "D'après Wikipédia — Disco"
+  },
+  {
+    "id": "q-musique-091",
+    "domain": "musique",
+    "format": "qui-suis-je",
+    "indices": [
+      "J'ai été pianiste de bar avant de devenir compositeur et arrangeur.",
+      "Avec João Gilberto et Vinícius de Moraes, j'ai créé un nouveau style à la fin des années 1950.",
+      "Je suis surnommé le « George Gershwin brésilien ».",
+      "J'ai composé Garota de Ipanema et Águas de Março."
+    ],
+    "reponse": "Antônio Carlos Jobim",
+    "explication": "Tom Jobim est avec João Gilberto et Vinícius de Moraes à l'origine de la bossa nova. Surnommé le « George Gershwin brésilien », il est l'un des plus importants contributeurs non américains du Great American Songbook.",
+    "source": "D'après Wikipédia — Antônio Carlos Jobim"
+  },
+  {
+    "id": "q-musique-092",
+    "domain": "musique",
+    "format": "frise",
+    "question": "Remets ces événements dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Le mot « disco » désigne d'abord une robe à la mode",
+        "annee": "1964"
+      },
+      {
+        "label": "Never Can Say Goodbye de Gloria Gaynor",
+        "annee": "1974"
+      },
+      {
+        "label": "Sortie du film La Fièvre du samedi soir",
+        "annee": "1977"
+      },
+      {
+        "label": "Disco Demolition Night à Chicago",
+        "annee": "1979"
+      },
+      {
+        "label": "La house prend le relais du funk et du disco",
+        "annee": "1987"
+      }
+    ],
+    "explication": "Le disco passe de la mode des discothèques à son triomphe avec le film de 1977, puis subit le rejet de la Disco Demolition Night en 1979. À partir de 1987, la house reprend le flambeau.",
+    "source": "D'après Wikipédia — Disco"
+  },
+  {
+    "id": "q-musique-093",
+    "domain": "musique",
+    "format": "difference",
+    "question": "Quelle est la différence entre un accord majeur et un accord mineur ?",
+    "choix": [
+      "Le majeur place une tierce majeure en bas puis une tierce mineure ; le mineur fait l'inverse",
+      "Le majeur compte trois notes et le mineur quatre",
+      "Le majeur se joue fort et le mineur doucement",
+      "Le majeur joue les notes ensemble, le mineur l'une après l'autre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les deux accords ont trois notes et une quinte, mais la tierce du bas diffère. Do – mi – sol est majeur (tierce majeure puis mineure) ; avec un mi bémol, c'est un do mineur. La force du jeu n'a rien à voir.",
+    "source": "D'après Wikipédia — Accord (musique)"
+  },
+  {
+    "id": "q-musique-094",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quelle est la fréquence du la situé une octave au-dessus du la du diapason à 440 Hz ?",
+    "choix": [
+      "880 Hz",
+      "660 Hz",
+      "550 Hz",
+      "1 320 Hz"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une octave correspond au doublement de la fréquence : 440 Hz devient 880 Hz une octave plus haut, et 220 Hz une octave plus bas. C'est pourquoi deux notes à l'octave portent le même nom.",
+    "source": "D'après Wikipédia — Octave (musique)"
+  },
+  {
+    "id": "q-musique-095",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Que signifie l'indication fff sur une partition ?",
+    "choix": [
+      "Très, très fort (fortississimo)",
+      "Un peu fort",
+      "Très vite",
+      "Fort, puis doux"
+    ],
+    "bonneReponse": 0,
+    "explication": "fff signifie fortississimo : très, très fort. Les nuances usuelles vont de ppp à fff, mais certains compositeurs vont plus loin : Mahler note même fffff pour des pizzicati à faire claquer les cordes contre le bois.",
+    "source": "D'après Wikipédia — Nuance (musique)"
+  },
+  {
+    "id": "q-musique-096",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel compositeur a écrit un canon à trente-six voix, le Deo Gratias, qui lui valut le surnom de « sorcier du contrepoint » ?",
+    "choix": [
+      "Johannes Ockeghem",
+      "Giovanni Pierluigi da Palestrina",
+      "Josquin des Prés",
+      "Dietrich Buxtehude"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Deo Gratias d'Ockeghem est l'un des canons les plus ambitieux de l'histoire. Le canon, imitation d'une voix par les autres, est un ancêtre de la fugue, que Bach portera à son sommet au XVIIIe siècle.",
+    "source": "D'après Wikipédia — Johannes de Okeghem"
+  },
+  {
+    "id": "q-musique-097",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel roi de France aurait commandé 24 violons au luthier Andrea Amati en 1560 ?",
+    "choix": [
+      "Charles IX",
+      "Louis XIV",
+      "François Ier",
+      "Henri IV"
+    ],
+    "bonneReponse": 0,
+    "explication": "Charles IX aurait passé cette commande à Amati en 1560. Le plus ancien violon conservé serait l'un de ces instruments et porte le nom du roi : il est exposé à l'Ashmolean Museum d'Oxford, bien avant les célèbres violons de Stradivari.",
+    "source": "D'après Wikipédia — Violon"
+  },
+  {
+    "id": "q-musique-098",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Lors des tests à l'aveugle menés par des chercheurs, les violonistes ont toujours préféré le son d'un Stradivarius à celui d'un violon moderne.",
+    "reponse": false,
+    "explication": "Faux. En 2012, 21 violonistes professionnels ont plutôt choisi des violons modernes, et en 2017 ni les auditeurs ni les violonistes aux yeux bandés n'ont su distinguer les âges des instruments. La légende du Stradivarius résiste pourtant bien.",
+    "source": "D'après Wikipédia — Instruments de Stradivarius"
+  },
+  {
+    "id": "q-musique-099",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Qui a inventé le saxophone, breveté à Paris en 1846 ?",
+    "choix": [
+      "Adolphe Sax",
+      "Sébastien Érard",
+      "Jean-Baptiste Vuillaume",
+      "Aristide Cavaillé-Coll"
+    ],
+    "bonneReponse": 0,
+    "explication": "C'est le Belge Adolphe Sax, installé à Paris dès 1842. Son instrument, en laiton, appartient pourtant à la famille des bois : le son vient d'une anche simple qui vibre contre le bec, comme sur la clarinette. Sax a déposé 33 demandes de brevets.",
+    "source": "D'après Wikipédia — Saxophone"
+  },
+  {
+    "id": "q-musique-100",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel surnom, attribué à Guillaume de Machaut au XIVe siècle, désigne l'orgue ?",
+    "choix": [
+      "Le roi des instruments",
+      "La reine des cordes",
+      "Le souffle des anges",
+      "L'empereur des cuivres"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ce surnom, « roi des instruments », est attribué à Guillaume de Machaut, à l'époque où les orgues fixes s'installent dans les églises. Il peut être monumental, avec jusqu'à sept claviers et la plus large tessiture de tous les instruments.",
+    "source": "D'après Wikipédia — Orgue"
+  },
+  {
+    "id": "q-musique-101",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Combien de pédales possède une harpe de concert à double mouvement ?",
+    "choix": [
+      "Sept",
+      "Trois",
+      "Cinq",
+      "Douze"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sept pédales, une par note de la gamme, commandent les dièses et les bémols sur toutes les octaves. Le double mouvement, inventé par Sébastien Érard en 1810, permet à chaque corde de jouer trois hauteurs : bémol, bécarre ou dièse.",
+    "source": "D'après Wikipédia — Harpe"
+  },
+  {
+    "id": "q-musique-102",
+    "domain": "musique",
+    "format": "associer",
+    "question": "Associe chaque élément de la batterie à son origine.",
+    "paires": [
+      {
+        "gauche": "Caisse claire",
+        "droite": "Europe",
+        "explication": "La caisse claire existe en Europe vers 1850, dans les fanfares et les orchestres, bien avant le jazz."
+      },
+      {
+        "gauche": "Cymbales",
+        "droite": "Orient",
+        "explication": "Les cymbales viennent d'Orient ; leurs plus anciennes traces remontent au IIIe millénaire av. J.-C., en Inde."
+      },
+      {
+        "gauche": "Toms",
+        "droite": "Percussions amérindiennes et africaines",
+        "explication": "Les toms descendent de très anciens tambours amérindiens et africains."
+      },
+      {
+        "gauche": "Charleston",
+        "droite": "Rome antique",
+        "explication": "La charleston descend du scabellum, une percussion romaine, et fut mise au point par le jazz dans les années 1920."
+      }
+    ],
+    "explication": "La batterie réunit des éléments d'origines très diverses, qui existaient déjà dans les orchestres et les fanfares. C'est leur regroupement pour un seul musicien, au début du XXe siècle, lié à la naissance du jazz, qui est nouveau.",
+    "source": "D'après Wikipédia — Batterie (instrument)"
+  },
+  {
+    "id": "q-musique-103",
+    "domain": "musique",
+    "format": "frise",
+    "question": "Remets ces instruments électroniques dans l'ordre de leur apparition.",
+    "evenements": [
+      {
+        "label": "Le telharmonium",
+        "annee": "1897"
+      },
+      {
+        "label": "Le thérémine",
+        "annee": "1917"
+      },
+      {
+        "label": "L'orgue Hammond",
+        "annee": "1935"
+      },
+      {
+        "label": "Le synthétiseur Moog",
+        "annee": "1964"
+      },
+      {
+        "label": "Le Yamaha DX7",
+        "annee": "1983"
+      }
+    ],
+    "explication": "Le telharmonium (1897) fonctionnait avec 408 dynamos, le thérémine se joue sans contact (1917), l'orgue Hammond arrive en 1935, le Moog est vendu dès 1964 et le Yamaha DX7, premier synthétiseur numérique à succès, date de 1983.",
+    "source": "D'après Wikipédia — Synthétiseur"
+  },
+  {
+    "id": "q-musique-104",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Une trompette de poche a un tube nettement plus court qu'une trompette normale.",
+    "reponse": false,
+    "explication": "Faux. Une trompette de poche contient autant de tuyau que la trompette normale, environ 1,50 m : il est simplement plus enroulé. Sa petite taille et son poids mieux réparti plaisent aux jeunes débutants, mais certains professionnels la jouent aussi.",
+    "source": "D'après Wikipédia — Trompette"
   }
 ]

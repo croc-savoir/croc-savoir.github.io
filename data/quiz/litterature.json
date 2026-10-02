@@ -470,5 +470,1185 @@
     "bonneReponse": 1,
     "explication": "Opposé au coup d'État de Louis-Napoléon Bonaparte en décembre 1851, Hugo s'exile à Jersey puis à Guernesey. Il refuse l'amnistie de 1859 et ne rentre qu'en 1870, à la chute de Napoléon III, soit environ 19 ans. C'est en exil qu'il écrit Les Contemplations et Les Misérables.",
     "source": "D'après Wikipédia — Victor Hugo"
+  },
+  {
+    "id": "q-litterature-031",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Dans quelle langue Dante écrit-il la Divine Comédie ?",
+    "choix": [
+      "En toscan, la langue parlée de Florence",
+      "En latin, la langue des savants",
+      "En provençal, la langue des troubadours",
+      "En français médiéval"
+    ],
+    "bonneReponse": 0,
+    "explication": "Alors que le latin domine les textes savants, Dante choisit la langue vulgaire, le toscan, qu'il juge plus noble car apprise dès l'enfance. Son choix contribue à faire du toscan la base de l'italien littéraire.",
+    "source": "D'après Wikipédia — Divine Comédie"
+  },
+  {
+    "id": "q-litterature-032",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Que se passe-t-il le 22 décembre 1849, quand Dostoïevski est face au peloton d'exécution ?",
+    "choix": [
+      "Un courrier du tsar annonce que la peine est commuée en déportation",
+      "Le condamné s'évade pendant la lecture de la sentence",
+      "Le peloton tire, mais Dostoïevski est blessé et survit",
+      "La population réclame sa grâce et le tsar l'accorde sur place"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'exécution était un simulacre : au dernier instant, un courrier apporte la lettre de Nicolas Ier commuant la peine en quatre ans de bagne à Omsk. Dostoïevski s'en souviendra dans L'Idiot.",
+    "source": "D'après Wikipédia — Fiodor Dostoïevski"
+  },
+  {
+    "id": "q-litterature-033",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "Dans le Faust de Goethe, le seul lieu qui existe réellement est une cave de Leipzig.",
+    "reponse": true,
+    "explication": "Il s'agit d'Auerbachs Keller, une taverne de Leipzig où Goethe étudiant avait entendu la légende du docteur Faust sortant à cheval sur un tonneau. C'est le seul lieu réel de la première partie du drame.",
+    "source": "D'après Wikipédia — Johann Wolfgang von Goethe"
+  },
+  {
+    "id": "q-litterature-034",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel métier Franz Kafka exerce-t-il pendant la plus grande partie de sa vie ?",
+    "choix": [
+      "Employé dans une compagnie d'assurance contre les accidents du travail",
+      "Professeur de littérature allemande",
+      "Libraire à Prague",
+      "Journaliste à Vienne"
+    ],
+    "bonneReponse": 0,
+    "explication": "Docteur en droit, Kafka travaille à partir de 1908 dans une compagnie d'assurance de Bohême, jusqu'à sa retraite anticipée en 1922. Il écrit le soir et la nuit ; l'essentiel de son œuvre paraît après sa mort.",
+    "source": "D'après Wikipédia — Franz Kafka"
+  },
+  {
+    "id": "q-litterature-035",
+    "domain": "litterature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Buenos Aires en 1899 et je meurs à Genève en 1986.",
+      "Mes nouvelles parlent de labyrinthes, de miroirs et d'infini.",
+      "Je deviens aveugle, de façon définitive, en 1955.",
+      "J'ai dirigé la Bibliothèque nationale d'Argentine.",
+      "Fictions et L'Aleph sont mes recueils les plus connus."
+    ],
+    "reponse": "Jorge Luis Borges",
+    "explication": "Borges a été bibliothécaire avant de diriger la Bibliothèque nationale. Devenu aveugle, il dictait ses textes. Il n'a jamais reçu le prix Nobel, mais a partagé en 1961 le prix Formentor avec Samuel Beckett.",
+    "source": "D'après Wikipédia — Jorge Luis Borges"
+  },
+  {
+    "id": "q-litterature-036",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Comment s'appelle le village imaginaire où se déroule Cent Ans de solitude ?",
+    "choix": [
+      "Aracataca",
+      "Macondo",
+      "Santa Marta",
+      "Barranquilla"
+    ],
+    "bonneReponse": 1,
+    "explication": "Macondo, village inventé par García Márquez, s'inspire d'Aracataca, sa ville natale, où il a grandi chez ses grands-parents. Cent Ans de solitude (1967) y raconte la saga de la famille Buendía.",
+    "source": "D'après Wikipédia — Cent Ans de solitude"
+  },
+  {
+    "id": "q-litterature-037",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "Léon Tolstoï a reçu le prix Nobel de littérature.",
+    "reponse": false,
+    "explication": "Tolstoï a été nommé pour le Nobel de littérature chaque année de 1902 à 1906, et pour celui de la paix en 1901, 1902 et 1909, mais n'en a jamais reçu aucun. C'est l'une des grandes controverses du Nobel.",
+    "source": "D'après Wikipédia — Léon Tolstoï"
+  },
+  {
+    "id": "q-litterature-038",
+    "domain": "litterature",
+    "format": "associer",
+    "question": "Associe chaque œuvre à son auteur.",
+    "paires": [
+      {
+        "gauche": "Le Père Goriot",
+        "droite": "Honoré de Balzac",
+        "explication": "Roman de 1835, qui fait partie de La Comédie humaine."
+      },
+      {
+        "gauche": "Madame Bovary",
+        "droite": "Gustave Flaubert",
+        "explication": "Roman de 1857, qui valut un procès à son auteur."
+      },
+      {
+        "gauche": "Le Rouge et le Noir",
+        "droite": "Stendhal",
+        "explication": "Roman de 1830, signé du pseudonyme d'Henri Beyle."
+      },
+      {
+        "gauche": "Boule de suif",
+        "droite": "Guy de Maupassant",
+        "explication": "Nouvelle de 1880, saluée par Flaubert comme un chef-d'œuvre."
+      },
+      {
+        "gauche": "Les Trois Mousquetaires",
+        "droite": "Alexandre Dumas",
+        "explication": "Roman-feuilleton de 1844, écrit avec Auguste Maquet."
+      }
+    ],
+    "explication": "Ces cinq romans ou nouvelles marquent le XIXe siècle : Balzac et Stendhal inventent le roman réaliste, Flaubert et Maupassant le portent plus loin, Dumas fait triompher le roman d'aventures.",
+    "source": "D'après Wikipédia — Littérature française"
+  },
+  {
+    "id": "q-litterature-039",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Que cherche à faire Balzac avec La Comédie humaine, selon son avant-propos ?",
+    "choix": [
+      "Dresser l'inventaire des « espèces sociales » de son temps, comme Buffon l'avait fait pour les animaux",
+      "Raconter l'histoire de France depuis Louis XIV",
+      "Reprendre en prose les grandes épopées antiques",
+      "Défendre les droits des ouvriers dans chaque roman"
+    ],
+    "bonneReponse": 0,
+    "explication": "Balzac compare la société à la nature : il veut classer ses « espèces sociales » comme Buffon les espèces animales. Pour cela, il fait revenir les mêmes personnages d'un roman à l'autre, dans plus de quatre-vingt-dix titres.",
+    "source": "D'après Wikipédia — La Comédie humaine"
+  },
+  {
+    "id": "q-litterature-040",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "À quoi sert le « gueuloir » de Gustave Flaubert ?",
+    "choix": [
+      "À lire ses phrases à pleine voix pour en éprouver le rythme",
+      "À recevoir ses amis écrivains dans son jardin de Croisset",
+      "À dicter ses romans à un secrétaire",
+      "À réciter les textes de ses auteurs préférés"
+    ],
+    "bonneReponse": 0,
+    "explication": "Flaubert teste chaque phrase en la lisant à pleine voix, parfois pendant des heures, pour traquer les assonances et trouver le « mot juste ». Cet acharnement explique ses 56 mois de travail pour Madame Bovary.",
+    "source": "D'après Wikipédia — Gustave Flaubert"
+  },
+  {
+    "id": "q-litterature-041",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Dans quel recueil collectif paraît Boule de suif en 1880 ?",
+    "choix": [
+      "Les Soirées de Médan",
+      "Les Contes de la bécasse",
+      "Les Fleurs du mal",
+      "La Maison Tellier"
+    ],
+    "bonneReponse": 0,
+    "explication": "Maupassant publie sa première nouvelle célèbre dans Les Soirées de Médan, recueil des écrivains naturalistes réunis autour de Zola. Flaubert la salue aussitôt comme un « chef-d'œuvre qui restera ».",
+    "source": "D'après Wikipédia — Les Soirées de Médan"
+  },
+  {
+    "id": "q-litterature-042",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "En combien de jours Stendhal aurait-il écrit La Chartreuse de Parme ?",
+    "choix": [
+      "52 jours",
+      "15 jours",
+      "120 jours",
+      "365 jours"
+    ],
+    "bonneReponse": 0,
+    "explication": "Stendhal rédige La Chartreuse de Parme en 52 jours, lors d'un congé à Paris. Le roman, publié en 1839, suscite l'admiration de Balzac, alors que Stendhal ne connaîtra qu'un succès discret de son vivant.",
+    "source": "D'après Wikipédia — La Chartreuse de Parme"
+  },
+  {
+    "id": "q-litterature-043",
+    "domain": "litterature",
+    "format": "difference",
+    "question": "Quelle est la différence entre le théâtre de Corneille et celui de Racine ?",
+    "choix": [
+      "Corneille met en scène des héros face à un dilemme entre devoir et passion, Racine des personnages détruits par leur passion",
+      "Corneille écrit des comédies, Racine uniquement des tragédies",
+      "Corneille respecte les unités classiques, Racine les rejette",
+      "Corneille écrit en prose, Racine en alexandrins"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chez Corneille, des âmes fortes choisissent entre amour et honneur (Le Cid). Chez Racine, la passion, surtout amoureuse, domine et ruine rois et princesses (Phèdre). Tous deux écrivent en alexandrins et respectent les unités.",
+    "source": "D'après Wikipédia — Jean Racine"
+  },
+  {
+    "id": "q-litterature-044",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "Les Trois Mousquetaires ont d'abord paru en feuilleton dans un journal.",
+    "reponse": true,
+    "explication": "Les Trois Mousquetaires paraissent en 1844 dans le journal Le Siècle, comme beaucoup de romans de Dumas. Il les écrit avec Auguste Maquet, au rythme des parutions, payé à la ligne.",
+    "source": "D'après Wikipédia — Alexandre Dumas"
+  },
+  {
+    "id": "q-litterature-045",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Sous quel pseudonyme, anagramme de son nom, Rabelais publie-t-il Pantagruel en 1532 ?",
+    "choix": [
+      "Alcofribas Nasier",
+      "Maître Alcibiade",
+      "Gargamelle Faber",
+      "Rabelais Abstracteur"
+    ],
+    "bonneReponse": 0,
+    "explication": "Rabelais signe d'abord Alcofribas Nasier, anagramme de « François Rabelais », peut-être pour ne pas mêler le médecin savant à une farce de géants. Il signe de son nom à partir du Tiers Livre (1546).",
+    "source": "D'après Wikipédia — François Rabelais"
+  },
+  {
+    "id": "q-litterature-046",
+    "domain": "litterature",
+    "format": "frise",
+    "question": "Remets ces œuvres dans l'ordre de publication.",
+    "evenements": [
+      {
+        "label": "Pantagruel de Rabelais",
+        "annee": "1532"
+      },
+      {
+        "label": "Le Cid de Corneille",
+        "annee": "1637"
+      },
+      {
+        "label": "Phèdre de Racine",
+        "annee": "1677"
+      },
+      {
+        "label": "Les Souffrances du jeune Werther de Goethe",
+        "annee": "1774"
+      },
+      {
+        "label": "Madame Bovary de Flaubert",
+        "annee": "1857"
+      }
+    ],
+    "explication": "Ces cinq œuvres vont de la Renaissance au réalisme : Pantagruel (1532), puis les deux tragédies classiques (Le Cid en 1637, Phèdre en 1677), Werther en 1774 et Madame Bovary en 1857.",
+    "source": "D'après Wikipédia — Littérature française"
+  },
+  {
+    "id": "q-litterature-047",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "D'où vient le pseudonyme « Mark Twain » ?",
+    "choix": [
+      "Du cri des sondeurs du Mississippi annonçant deux brasses d'eau, une profondeur sûre",
+      "Du nom d'un capitaine de bateau à vapeur qu'il admirait",
+      "Du cri des mineurs d'argent du Nevada quand ils trouvaient un filon",
+      "D'un personnage de son premier roman, Tom Sawyer"
+    ],
+    "bonneReponse": 0,
+    "explication": "Samuel Clemens a été pilote de bateau à vapeur. « Mark twain » est le cri du sondeur qui mesure la profondeur : deux brasses, soit une eau assez profonde pour passer sans risque. Il signe ainsi pour la première fois en 1863.",
+    "source": "D'après Wikipédia — Mark Twain"
+  },
+  {
+    "id": "q-litterature-048",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quelle langue Michel de Montaigne a-t-il apprise en premier, par la volonté de son père ?",
+    "choix": [
+      "Le latin",
+      "Le grec ancien",
+      "Le périgourdin",
+      "Le français"
+    ],
+    "bonneReponse": 0,
+    "explication": "Son père confie le petit Michel à un précepteur allemand qui ne lui parle qu'en latin, et toute la maison suit la règle. Montaigne raconte qu'à six ans il ne comprenait pas plus le français que l'arabe.",
+    "source": "D'après Wikipédia — Michel de Montaigne"
+  },
+  {
+    "id": "q-litterature-049",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "En 1911, Guillaume Apollinaire a été arrêté, soupçonné d'avoir aidé au vol de La Joconde.",
+    "reponse": true,
+    "explication": "Un ancien secrétaire d'Apollinaire avait volé des statuettes au Louvre : le poète passe huit jours en prison, à la Santé. Picasso est lui aussi interrogé. Le vrai voleur du tableau, Peruggia, agissait seul.",
+    "source": "D'après Wikipédia — Guillaume Apollinaire"
+  },
+  {
+    "id": "q-litterature-050",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Pour quel ballet Apollinaire emploie-t-il pour la première fois le mot « surréalisme » en 1917 ?",
+    "choix": [
+      "Parade",
+      "Le Sacre du printemps",
+      "Les Mamelles de Tirésias",
+      "L'Enfant et les Sortilèges"
+    ],
+    "bonneReponse": 0,
+    "explication": "Apollinaire écrit le programme de Parade, ballet de Jean Cocteau et Erik Satie créé en mai 1917, et y parle d'« une sorte de surréalisme ». Le mot précède de plusieurs années le mouvement lancé par André Breton.",
+    "source": "D'après Wikipédia — Guillaume Apollinaire"
+  },
+  {
+    "id": "q-litterature-051",
+    "domain": "litterature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon père est emprisonné pour dettes à la prison de Marshalsea.",
+      "À douze ans, je travaille dans une manufacture de cirage.",
+      "Mes romans paraissent en feuilleton, avec des suspenses à chaque épisode.",
+      "J'ai écrit Oliver Twist et David Copperfield.",
+      "Mon Un chant de Noël est célèbre dans le monde entier."
+    ],
+    "reponse": "Charles Dickens",
+    "explication": "Charles Dickens, né en 1812, a connu enfant la misère et le travail en usine. Cette épreuve nourrit David Copperfield et La Petite Dorrit. Il a pratiquement inventé le roman-feuilleton à succès.",
+    "source": "D'après Wikipédia — Charles Dickens"
+  },
+  {
+    "id": "q-litterature-052",
+    "domain": "litterature",
+    "format": "associer",
+    "question": "Associe chaque écrivain à l'un de ses personnages ou héros.",
+    "paires": [
+      {
+        "gauche": "Arthur Conan Doyle",
+        "droite": "Sherlock Holmes",
+        "explication": "Doyle crée le détective de Baker Street dans Une étude en rouge, en 1887."
+      },
+      {
+        "gauche": "Agatha Christie",
+        "droite": "Hercule Poirot",
+        "explication": "Le détective belge apparaît dès son tout premier roman policier."
+      },
+      {
+        "gauche": "Mark Twain",
+        "droite": "Tom Sawyer",
+        "explication": "Le garçon de Hannibal est le héros du roman publié en 1876."
+      },
+      {
+        "gauche": "Edgar Allan Poe",
+        "droite": "Auguste Dupin",
+        "explication": "Poe invente ce détective dans Double Assassinat dans la rue Morgue."
+      }
+    ],
+    "explication": "Quatre auteurs, quatre créateurs de figures célèbres. Poe et Dupin ouvrent la voie du roman policier, que Doyle et Christie portent ensuite à son sommet.",
+    "source": "D'après Wikipédia — Arthur Conan Doyle"
+  },
+  {
+    "id": "q-litterature-053",
+    "domain": "litterature",
+    "format": "frise",
+    "question": "Remets ces romans de Jules Verne dans l'ordre de leur publication.",
+    "evenements": [
+      {
+        "label": "Cinq Semaines en ballon",
+        "annee": "1863"
+      },
+      {
+        "label": "Voyage au centre de la Terre",
+        "annee": "1864"
+      },
+      {
+        "label": "De la Terre à la Lune",
+        "annee": "1865"
+      },
+      {
+        "label": "Vingt Mille Lieues sous les mers",
+        "annee": "1870"
+      },
+      {
+        "label": "Le tour du monde de Phileas Fogg",
+        "annee": "1872"
+      }
+    ],
+    "explication": "Verne enchaîne les succès en moins de dix ans : le ballon, le centre de la Terre, la Lune, les fonds marins, puis le tour du monde. Ils forment le cœur de ses Voyages extraordinaires.",
+    "source": "D'après Wikipédia — Jules Verne"
+  },
+  {
+    "id": "q-litterature-054",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "Louis-Ferdinand Céline a obtenu le prix Goncourt pour Voyage au bout de la nuit.",
+    "reponse": false,
+    "explication": "Le roman, paru en 1932, était favori pour le Goncourt, mais le prix est allé à Les Loups de Guy Mazeline. Le scandale a fait la publicité du livre, qui a reçu le prix Renaudot la même année.",
+    "source": "D'après Wikipédia — Louis-Ferdinand Céline"
+  },
+  {
+    "id": "q-litterature-055",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel surnom Cervantes doit-il à la bataille de Lépante ?",
+    "choix": [
+      "Le manchot de Lépante",
+      "Le chevalier à la triste figure",
+      "Le soldat captif",
+      "Le vainqueur d'Alger"
+    ],
+    "bonneReponse": 0,
+    "explication": "Blessé le 7 octobre 1571, Cervantes perd l'usage de sa main gauche. Il en tire une grande fierté : ce fait d'armes est pour lui la plus belle occasion qu'aient vue les siècles.",
+    "source": "D'après Wikipédia — Miguel de Cervantes"
+  },
+  {
+    "id": "q-litterature-056",
+    "domain": "litterature",
+    "format": "difference",
+    "question": "Quelle est la différence entre Mrs Dalloway et Une chambre à soi de Virginia Woolf ?",
+    "choix": [
+      "Mrs Dalloway est un roman centré sur une journée, Une chambre à soi est un essai sur les femmes et l'écriture",
+      "Mrs Dalloway est un essai féministe, Une chambre à soi est un roman",
+      "Mrs Dalloway est une pièce de théâtre, Une chambre à soi est un recueil de poèmes",
+      "Les deux sont des romans, publiés à vingt ans d'écart"
+    ],
+    "bonneReponse": 0,
+    "explication": "Mrs Dalloway (1925) suit une femme de la haute société le temps d'une journée. Une chambre à soi (1929) est un essai sur la place des écrivaines, devenu un texte important de l'histoire du féminisme.",
+    "source": "D'après Wikipédia — Virginia Woolf"
+  },
+  {
+    "id": "q-litterature-057",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel cercle littéraire informel Tolkien fréquentait-il avec son ami C. S. Lewis ?",
+    "choix": [
+      "Les Inklings",
+      "Le Bloomsbury Group",
+      "Le Tea Club Barrovian Society",
+      "La Pléiade"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les Inklings étaient un cercle informel d'amis écrivains à Oxford. Lewis y encourage Tolkien à poursuivre l'écriture de la Terre du Milieu. Le TCBS, lui, était sa société d'amis du collège.",
+    "source": "D'après Wikipédia — J. R. R. Tolkien"
+  },
+  {
+    "id": "q-litterature-058",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "Les premiers romans de Claudine ont d'abord été publiés sous le nom de Colette.",
+    "reponse": false,
+    "explication": "Les Claudine paraissent sous le nom de son mari, Willy, qui en détient aussi les droits. Après leur séparation, Colette signe encore Colette Willy, jusqu'en 1923, avant de s'imposer sous son seul nom.",
+    "source": "D'après Wikipédia — Colette"
+  },
+  {
+    "id": "q-litterature-059",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Où Agatha Christie est-elle retrouvée après sa disparition de 1926 ?",
+    "choix": [
+      "Dans un hôtel thermal d'Harrogate, sous un faux nom",
+      "À Paris, chez une amie d'enfance",
+      "Dans sa maison familiale de Torquay",
+      "Au Caire, dans un hôtel qu'elle avait connu enfant"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sa voiture est retrouvée abandonnée, des milliers de volontaires la cherchent. On la découvre dans un hôtel d'Harrogate, inscrite sous le nom de la maîtresse de son mari. Elle n'a jamais expliqué cet épisode.",
+    "source": "D'après Wikipédia — Agatha Christie"
+  },
+  {
+    "id": "q-litterature-060",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel recueil de 1946 a fait la célébrité de Jacques Prévert ?",
+    "choix": [
+      "Paroles",
+      "Alcools",
+      "Calligrammes",
+      "Spectacle"
+    ],
+    "bonneReponse": 0,
+    "explication": "Paroles sort en mai 1946, avec une couverture tirée d'un graffiti photographié par Brassaï. Le premier tirage de 5 000 exemplaires est épuisé en quelques semaines. Alcools et Calligrammes sont d'Apollinaire.",
+    "source": "D'après Wikipédia — Jacques Prévert"
+  },
+  {
+    "id": "q-litterature-061",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel roman de Marguerite Duras obtient le prix Goncourt en 1984 ?",
+    "choix": [
+      "L'Amant",
+      "Moderato cantabile",
+      "Un barrage contre le Pacifique",
+      "La Douleur"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'Amant évoque l'adolescence de Duras en Indochine et lui apporte un immense succès public. Elle le réécrira en 1991 sous le titre L'Amant de la Chine du Nord. Les autres titres sont des œuvres plus anciennes ou plus intimes.",
+    "source": "D'après Wikipédia — Marguerite Duras"
+  },
+  {
+    "id": "q-litterature-062",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Dans quelle langue Oscar Wilde a-t-il écrit sa pièce Salomé ?",
+    "choix": [
+      "En français",
+      "En anglais",
+      "En irlandais",
+      "En allemand"
+    ],
+    "bonneReponse": 0,
+    "explication": "Wilde rédige Salomé en français, à Paris, en 1891. La pièce ne peut pas être jouée en Angleterre faute de licence, car elle met en scène des personnages bibliques. Un détail qui surprend pour un écrivain irlandais.",
+    "source": "D'après Wikipédia — Oscar Wilde"
+  },
+  {
+    "id": "q-litterature-063",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel poète romain guide Dante à travers l'Enfer et la majeure partie du Purgatoire ?",
+    "choix": [
+      "Virgile",
+      "Homère",
+      "Ovide",
+      "Pétrarque"
+    ],
+    "bonneReponse": 0,
+    "explication": "C'est Virgile, qui représente la raison humaine. N'ayant pas connu le Christ, il ne peut accompagner Dante jusqu'au Paradis : Béatrice prend alors le relais, puis saint Bernard de Clairvaux dans les derniers chants.",
+    "source": "D'après Wikipédia — Divine Comédie"
+  },
+  {
+    "id": "q-litterature-064",
+    "domain": "litterature",
+    "format": "difference",
+    "question": "Quelle est la différence entre l'Enfer et le Purgatoire dans la Divine Comédie ?",
+    "choix": [
+      "L'Enfer est un entonnoir de neuf cercles sous Jérusalem ; le Purgatoire est une montagne à sept terrasses",
+      "L'Enfer est une montagne à sept terrasses ; le Purgatoire est un entonnoir de neuf cercles",
+      "L'Enfer est une île au milieu de l'océan ; le Purgatoire est une cité souterraine",
+      "Ce sont deux noms du même lieu, divisé en trois cercles"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'Enfer est creusé sous Jérusalem par la chute de Lucifer et compte neuf cercles. Le Purgatoire est une montagne à sept terrasses, une par péché capital, sur une île de l'hémisphère sud. Au-dessus s'étendent les neuf cieux du Paradis.",
+    "source": "D'après Wikipédia — Divine Comédie"
+  },
+  {
+    "id": "q-litterature-065",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Qu'est-ce qui rend le titre Les Trois Mousquetaires « absurde » aux yeux de Dumas ?",
+    "choix": [
+      "Les héros sont en réalité quatre",
+      "Les héros sont en réalité cinq",
+      "Aucun des héros n'est mousquetaire",
+      "L'histoire se déroule bien avant les mousquetaires"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dumas voulait l'appeler Athos, Porthos et Aramis, mais Desnoyers, chargé du feuilleton au Siècle, y voyait les trois Parques. Dumas accepte Les Trois Mousquetaires en notant que cette absurdité, d'Artagnan faisant le quatrième, servirait le succès.",
+    "source": "D'après Wikipédia — Les Trois Mousquetaires"
+  },
+  {
+    "id": "q-litterature-066",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Dans quelle prison Edmond Dantès est-il enfermé, dans Le Comte de Monte-Cristo ?",
+    "choix": [
+      "Le château d'If",
+      "La Bastille",
+      "Le château de Vincennes",
+      "Le fort de Joux"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dénoncé comme bonapartiste à la veille de son mariage, en 1815, Dantès est condamné sans procès au château d'If, au large de Marseille. Il y rencontre l'abbé Faria, qui l'instruit et lui révèle l'existence d'un trésor sur l'île de Monte-Cristo.",
+    "source": "D'après Wikipédia — Le Comte de Monte-Cristo"
+  },
+  {
+    "id": "q-litterature-067",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "Après la parution de Madame Bovary, Gustave Flaubert a été acquitté lors de son procès.",
+    "reponse": true,
+    "explication": "Flaubert est jugé en janvier 1857 avec le gérant de la Revue de Paris et l'imprimeur, mais il est acquitté le 7 février 1857. Le procès a surtout fait connaître le roman, dont la première édition de 6 750 exemplaires s'est vendue en deux mois.",
+    "source": "D'après Wikipédia — Madame Bovary"
+  },
+  {
+    "id": "q-litterature-068",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel est le milieu d'origine de Julien Sorel, le héros du Rouge et le Noir ?",
+    "choix": [
+      "Il est le fils d'un scieur de Franche-Comté",
+      "Il est le fils d'un notaire parisien",
+      "Il est le fils d'un officier de Napoléon",
+      "Il est le fils d'un riche marchand de Lyon"
+    ],
+    "bonneReponse": 0,
+    "explication": "Julien est le troisième fils du vieux Sorel, propriétaire d'une scierie à Verrières. Méprisé par sa famille pour son goût des livres, il apprend le Nouveau Testament en latin par cœur et rêve de Napoléon, avant de se tourner vers l'Église pour s'élever.",
+    "source": "D'après Wikipédia — Le Rouge et le Noir"
+  },
+  {
+    "id": "q-litterature-069",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Comment Zola prépare-t-il Germinal en 1884 ?",
+    "choix": [
+      "Il parcourt les corons d'Anzin et descend dans une fosse de Denain",
+      "Il se fait embaucher comme mineur sous un faux nom",
+      "Il lit uniquement les rapports de la Compagnie des Mines",
+      "Il interroge des mineurs à Paris sans se rendre dans le Nord"
+    ],
+    "bonneReponse": 0,
+    "explication": "Du 23 février au 2 mars 1884, au début de la grande grève d'Anzin, Zola parcourt les corons, descend dans la fosse Renard à Denain et interroge mineurs, porions et ingénieurs. Il rassemble ses observations dans Mes notes sur Anzin.",
+    "source": "D'après Wikipédia — Germinal (roman)"
+  },
+  {
+    "id": "q-litterature-070",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Combien de poèmes des Fleurs du mal sont supprimés après le procès de 1857 ?",
+    "choix": [
+      "Six",
+      "Trois",
+      "Douze",
+      "Vingt"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 21 août 1857, Baudelaire est condamné à 300 francs d'amende et six poèmes sont retirés. Ils paraissent plus tard en Belgique sous le titre Les Épaves ; la condamnation n'est annulée en France que le 31 mai 1949.",
+    "source": "D'après Wikipédia — Les Fleurs du mal"
+  },
+  {
+    "id": "q-litterature-071",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel événement de 1755 a profondément marqué Voltaire avant qu'il n'écrive Candide ?",
+    "choix": [
+      "Le tremblement de terre de Lisbonne",
+      "L'incendie de Londres",
+      "L'éruption du Vésuve",
+      "La prise de Constantinople"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le séisme de Lisbonne du 1er novembre 1755, suivi du début de la guerre de Sept Ans, ébranle les certitudes de Voltaire. Il écrit un Poème sur le désastre de Lisbonne, puis Candide, qui se moque de l'optimisme de Leibniz.",
+    "source": "D'après Wikipédia — Candide"
+  },
+  {
+    "id": "q-litterature-072",
+    "domain": "litterature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis une caricature d'un grand philosophe allemand, Leibniz.",
+      "Mon titre est « professeur de métaphysico-théologo-cosmolo-nigologie ».",
+      "J'ai été le précepteur de Candide et de Cunégonde.",
+      "Je soutiens que ce monde est le meilleur possible et que tout y est bien."
+    ],
+    "reponse": "Pangloss",
+    "explication": "Pangloss est le précepteur de Candide et le défenseur de l'optimisme que Voltaire raille. Son nom a même servi en 1978 à Gould et Lewontin pour parler de « paradigme panglossien » et critiquer l'école adaptationniste.",
+    "source": "D'après Wikipédia — Candide"
+  },
+  {
+    "id": "q-litterature-073",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "En plus de raconter une histoire, que veut défendre Hugo avec Notre-Dame de Paris ?",
+    "choix": [
+      "La sauvegarde de l'architecture gothique",
+      "L'abolition de l'esclavage",
+      "La création d'un théâtre national",
+      "Le retour de la monarchie absolue"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hugo s'inquiète de voir l'architecture médiévale négligée ou détruite : les vitraux de Notre-Dame avaient été remplacés par du verre blanc. Son roman, écrit de septembre 1830 à janvier 1831, fait de la cathédrale une icône nationale.",
+    "source": "D'après Wikipédia — Notre-Dame de Paris (roman)"
+  },
+  {
+    "id": "q-litterature-074",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Que désigne l'expression « un Rastignac », tirée du Père Goriot ?",
+    "choix": [
+      "Un ambitieux prêt à tout pour réussir",
+      "Un père ruiné par ses filles",
+      "Un forçat évadé qui se cache sous un faux nom",
+      "Un étudiant sans le sou"
+    ],
+    "bonneReponse": 0,
+    "explication": "Eugène de Rastignac, jeune provincial monté à Paris en 1819, rêve d'entrer dans la haute société et en apprend les lois cruelles. Son nom est devenu, en français, celui d'un arriviste prêt à tout pour améliorer sa situation.",
+    "source": "D'après Wikipédia — Le Père Goriot"
+  },
+  {
+    "id": "q-litterature-075",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel prix Céline obtient-il en 1932 pour Voyage au bout de la nuit ?",
+    "choix": [
+      "Le prix Renaudot",
+      "Le prix Goncourt",
+      "Le prix Femina",
+      "Le prix Médicis"
+    ],
+    "bonneReponse": 0,
+    "explication": "Céline avait promis le Goncourt à l'éditeur qui le publierait, mais il lui manque deux voix. Il reçoit le Renaudot, et le livre fait sensation par une écriture proche de l'oral, mêlée d'argot.",
+    "source": "D'après Wikipédia — Voyage au bout de la nuit"
+  },
+  {
+    "id": "q-litterature-076",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Comment s'appelle le village imaginaire fondé par la famille Buendía dans Cent ans de solitude ?",
+    "choix": [
+      "Macondo",
+      "Aracataca",
+      "Comala",
+      "Santa María"
+    ],
+    "bonneReponse": 0,
+    "explication": "Macondo est inspiré par Aracataca, village natal de García Márquez, et par la maison de ses grands-parents. Il apparaît pour la première fois en 1954, dans un conte intitulé Un jour après le samedi, bien avant le grand roman.",
+    "source": "D'après Wikipédia — Cent Ans de solitude"
+  },
+  {
+    "id": "q-litterature-077",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "Dans Guerre et Paix, une partie des dialogues est écrite en français.",
+    "reponse": true,
+    "explication": "Depuis Catherine II, le français est la langue de la cour de Russie et de l'aristocratie. Tolstoï l'emploie pour montrer l'artifice de ce monde, et son usage diminue au fil du livre, à mesure que la Russie s'affranchit de l'influence étrangère.",
+    "source": "D'après Wikipédia — Guerre et Paix"
+  },
+  {
+    "id": "q-litterature-078",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Dans quelle revue paraît en feuilleton Crime et Châtiment en 1866 ?",
+    "choix": [
+      "Le Messager russe",
+      "Le Contemporain",
+      "Le Temps",
+      "L'Étoile du Nord"
+    ],
+    "bonneReponse": 0,
+    "explication": "Endetté, Dostoïevski propose un récit à Mikhaïl Katkov, rédacteur du Messager russe, qui publie le roman de janvier à décembre 1866. Le succès est tel que, dit-on, toute la Russie ne parle plus que de ce livre.",
+    "source": "D'après Wikipédia — Crime et Châtiment"
+  },
+  {
+    "id": "q-litterature-079",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Qui a publié Le Procès après la mort de Kafka, alors que celui-ci voulait que ses écrits soient brûlés ?",
+    "choix": [
+      "Max Brod",
+      "Felice Bauer",
+      "Thomas Mann",
+      "Stefan Zweig"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dès 1921, Kafka demande à son ami Max Brod de brûler ses écrits inédits, sans croire qu'il obéira. Brod publie Le Procès en 1925, un an après la mort de l'auteur, et sauve les manuscrits en 1939, avant l'arrivée des Allemands à Prague.",
+    "source": "D'après Wikipédia — Le Procès"
+  },
+  {
+    "id": "q-litterature-080",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel événement réel a inspiré Herman Melville pour écrire Moby-Dick ?",
+    "choix": [
+      "Le naufrage du baleinier Essex",
+      "Le naufrage de la frégate La Méduse",
+      "La mutinerie du Bounty",
+      "L'expédition perdue de La Pérouse"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1820, l'Essex est éperonné par un grand cachalot et coule. Melville découvre l'histoire en 1841 grâce au fils d'Owen Chase, l'un des survivants qui l'avait racontée. S'y ajoute la légende de Mocha Dick, une baleine blanche réputée insaisissable.",
+    "source": "D'après Wikipédia — Moby-Dick"
+  },
+  {
+    "id": "q-litterature-081",
+    "domain": "litterature",
+    "format": "associer",
+    "question": "Associe chaque personnage au roman dont il est le héros.",
+    "paires": [
+      {
+        "gauche": "Rastignac",
+        "droite": "Le Père Goriot",
+        "explication": "Jeune étudiant ambitieux, il découvre à Paris les lois cruelles de la haute société en 1819."
+      },
+      {
+        "gauche": "Julien Sorel",
+        "droite": "Le Rouge et le Noir",
+        "explication": "Fils de scieur franc-comtois, il rêve de Napoléon et cherche à s'élever par l'Église."
+      },
+      {
+        "gauche": "Étienne Lantier",
+        "droite": "Germinal",
+        "explication": "Ouvrier sans travail embauché à la mine de Montsou, il pousse les mineurs à la grève."
+      },
+      {
+        "gauche": "Esmeralda",
+        "droite": "Notre-Dame de Paris",
+        "explication": "Danseuse bohémienne de seize ans, elle attire Quasimodo, Frollo, Gringoire et Phœbus."
+      },
+      {
+        "gauche": "Raskolnikov",
+        "droite": "Crime et Châtiment",
+        "explication": "Ancien étudiant misérable de Saint-Pétersbourg, tourmenté par sa théorie sur les hommes extraordinaires."
+      }
+    ],
+    "explication": "Cinq héros du roman du XIXe siècle : Rastignac, Julien Sorel et Esmeralda en France, Étienne Lantier dans le Nord minier, Raskolnikov à Saint-Pétersbourg. Chacun porte un roman entier et incarne son époque.",
+    "source": "D'après Wikipédia — Le Père Goriot"
+  },
+  {
+    "id": "q-litterature-082",
+    "domain": "litterature",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire des Fleurs du mal dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Dix-huit poèmes, déjà intitulés « Fleurs du Mal », sont publiés dans une revue",
+        "annee": "1855"
+      },
+      {
+        "label": "Première édition du recueil et procès de Baudelaire",
+        "annee": "1857"
+      },
+      {
+        "label": "Deuxième édition, avec la section Tableaux parisiens",
+        "annee": "1861"
+      },
+      {
+        "label": "Les poèmes censurés paraissent en Belgique sous le titre Les Épaves",
+        "annee": "1866"
+      },
+      {
+        "label": "La Cour de cassation annule la condamnation de 1857",
+        "annee": "1949"
+      }
+    ],
+    "explication": "En 1855, 18 poèmes paraissent en revue sous le titre « Fleurs du Mal ». Le recueil sort en 1857 et vaut un procès à Baudelaire. Une édition augmentée suit en 1861, Les Épaves en 1866 en Belgique, et la condamnation n'est annulée qu'en 1949.",
+    "source": "D'après Wikipédia — Les Fleurs du mal"
+  },
+  {
+    "id": "q-litterature-083",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "De quelle pièce de Shakespeare est tirée l'expression « Brave New World », qui a donné son titre original au roman d'Aldous Huxley ?",
+    "choix": [
+      "La Tempête",
+      "Hamlet",
+      "Le Songe d'une nuit d'été",
+      "Macbeth"
+    ],
+    "bonneReponse": 0,
+    "explication": "La formule vient de La Tempête : Miranda s'émerveille devant des humains qu'elle découvre pour la première fois. Chez Shakespeare comme chez Huxley, elle est ironique. En français, le titre renvoie plutôt à Candide.",
+    "source": "D'après Wikipédia — Le Meilleur des mondes"
+  },
+  {
+    "id": "q-litterature-084",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Dans Hamlet, quelle pièce le prince fait-il jouer devant son oncle pour observer sa réaction ?",
+    "choix": [
+      "Le Meurtre de Gonzague",
+      "Le Songe d'une nuit d'été",
+      "La Nuit des rois",
+      "Le Marchand de Venise"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hamlet demande à des comédiens de jouer Le Meurtre de Gonzague, où un crime ressemble à celui de son père. Il espère que Claudius se trahira. C'est un exemple célèbre de théâtre dans le théâtre.",
+    "source": "D'après Wikipédia — Hamlet"
+  },
+  {
+    "id": "q-litterature-085",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "Dans le roman de Mary Shelley, le monstre s'appelle Frankenstein.",
+    "reponse": false,
+    "explication": "Frankenstein est le nom du savant, Victor, qui crée la créature. Celle-ci n'a pas de nom dans le roman. L'usage a pourtant fini par appeler le monstre « Frankenstein », surtout après les adaptations au cinéma.",
+    "source": "D'après Wikipédia — Frankenstein ou le Prométhée moderne"
+  },
+  {
+    "id": "q-litterature-086",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Lors d'une promenade en barque en 1862, Lewis Carroll invente une histoire pour trois sœurs, dont l'une inspirera le prénom de l'héroïne. Quel est le nom de famille de ces trois sœurs ?",
+    "choix": [
+      "Liddell",
+      "Dodgson",
+      "Tenniel",
+      "Duckworth"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les trois filles de Henry Liddell, Lorina, Alice et Edith, accompagnent Carroll sur l'Isis, près d'Oxford. Dodgson est le vrai nom de Carroll, Tenniel l'illustrateur et Duckworth le révérend qui ramait avec lui.",
+    "source": "D'après Wikipédia — Les Aventures d'Alice au pays des merveilles"
+  },
+  {
+    "id": "q-litterature-087",
+    "domain": "litterature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon histoire tient en un paragraphe d'un article de 1936 de mon auteur, dans le magazine Esquire.",
+      "Je n'ai rien pris depuis 84 jours et on me dit « salao », très malchanceux.",
+      "Un jeune garçon, Manolin, m'apporte à manger et m'aide à réparer mes filets.",
+      "J'admire Joe DiMaggio et je pars pêcher loin dans le Gulf Stream.",
+      "Je suis un vieux pêcheur cubain, héros d'Ernest Hemingway."
+    ],
+    "reponse": "Santiago",
+    "explication": "Santiago est le héros du Vieil Homme et la Mer. Après 84 jours sans prise, il part au large le 85e et affronte un énorme marlin. Le roman a valu à Hemingway le Pulitzer en 1953, puis le Nobel en 1954.",
+    "source": "D'après Wikipédia — Le Vieil Homme et la Mer"
+  },
+  {
+    "id": "q-litterature-088",
+    "domain": "litterature",
+    "format": "associer",
+    "question": "Associe chaque roman à son auteur.",
+    "paires": [
+      {
+        "gauche": "Dracula",
+        "droite": "Bram Stoker",
+        "explication": "Roman épistolaire irlandais qui a fixé l'image moderne du vampire."
+      },
+      {
+        "gauche": "Le Meilleur des mondes",
+        "droite": "Aldous Huxley",
+        "explication": "Dystopie écrite en quatre mois à Sanary-sur-Mer, dans le Var."
+      },
+      {
+        "gauche": "Les Aventures de Tom Sawyer",
+        "droite": "Mark Twain",
+        "explication": "Roman inspiré de l'enfance de l'auteur à Hannibal, dans le Missouri."
+      },
+      {
+        "gauche": "Le Vieil Homme et la Mer",
+        "droite": "Ernest Hemingway",
+        "explication": "Court roman écrit à Cuba, récompensé par le prix Pulitzer."
+      },
+      {
+        "gauche": "Alice au pays des merveilles",
+        "droite": "Lewis Carroll",
+        "explication": "Conte illustré à l'origine par John Tenniel, dessinateur de Punch."
+      }
+    ],
+    "explication": "Ces cinq classiques viennent de la littérature anglophone, du XIXe siècle à celui d'Hemingway. Chacun a donné naissance à de nombreuses adaptations, au cinéma comme sur scène.",
+    "source": "D'après Wikipédia — Dracula"
+  },
+  {
+    "id": "q-litterature-089",
+    "domain": "litterature",
+    "format": "frise",
+    "question": "Remets ces moments de l'histoire du Journal d'Anne Frank dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Anne reçoit son carnet pour ses 13 ans",
+        "annee": "1942"
+      },
+      {
+        "label": "Arrestation des huit personnes de l'Annexe",
+        "annee": "1944"
+      },
+      {
+        "label": "Anne meurt du typhus à Bergen-Belsen",
+        "annee": "1945"
+      },
+      {
+        "label": "Première publication de Het Achterhuis",
+        "annee": "1947"
+      },
+      {
+        "label": "Inscription du journal au registre « Mémoire du monde »",
+        "annee": "2009"
+      }
+    ],
+    "explication": "Le journal commence en 1942 et s'arrête avec l'arrestation du 4 août 1944. Anne meurt en 1945, son père publie le livre en 1947, et l'œuvre est inscrite à la « Mémoire du monde » en 2009.",
+    "source": "D'après Wikipédia — Le Journal d'Anne Frank"
+  },
+  {
+    "id": "q-litterature-090",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Dans Dracula, comment s'appelle le navire qui transporte le comte jusqu'en Angleterre ?",
+    "choix": [
+      "Le Demeter",
+      "Le Pequod",
+      "L'Hispaniola",
+      "Le Nautilus"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Demeter s'échoue à Whitby un soir de tempête, avec son équipage décimé et le capitaine mort, attaché à la barre. Il transportait des caisses de terre de Transylvanie, nécessaires au comte.",
+    "source": "D'après Wikipédia — Dracula"
+  },
+  {
+    "id": "q-litterature-091",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel poète italien cite déjà les familles Montecchi et Cappelletti, ancêtres des Montaigu et des Capulet, dans la Divine Comédie ?",
+    "choix": [
+      "Dante",
+      "Pétrarque",
+      "Boccace",
+      "Ariosto"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dante mentionne ces deux familles au chant VI du Purgatoire, mais sans histoire d'amour. L'intrigue des amants naît plus tard, en Italie, chez Luigi da Porto en 1530, puis arrive jusqu'à Shakespeare.",
+    "source": "D'après Wikipédia — Roméo et Juliette"
+  },
+  {
+    "id": "q-litterature-092",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "Tolkien a conçu Le Seigneur des anneaux comme une trilogie, en trois volumes distincts dès l'origine.",
+    "reponse": false,
+    "explication": "Tolkien souhaitait publier un seul volume. Mais le papier coûtait trop cher après la guerre, et l'éditeur a divisé le livre en trois tomes, parus de 1954 à 1955. Le récit comporte en réalité six livres.",
+    "source": "D'après Wikipédia — Le Seigneur des anneaux"
+  },
+  {
+    "id": "q-litterature-093",
+    "domain": "litterature",
+    "format": "difference",
+    "question": "Quelle est la différence entre le titre britannique et le titre américain du premier tome de Harry Potter ?",
+    "choix": [
+      "Britannique : « la pierre philosophale » ; américain : « la pierre du sorcier »",
+      "Britannique : « la pierre du sorcier » ; américain : « la pierre philosophale »",
+      "Britannique : « l'école des sorciers » ; américain : « la pierre philosophale »",
+      "Les deux éditions portent exactement le même titre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le titre britannique parle de la pierre philosophale, celui des États-Unis de la pierre du sorcier : on craignait qu'un « philosophe » ne rebute les enfants américains. En France, Gallimard a choisi « à l'école des sorciers ».",
+    "source": "D'après Wikipédia — Harry Potter à l'école des sorciers"
+  },
+  {
+    "id": "q-litterature-094",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "Anne Frank a écrit son journal sous forme de lettres adressées à une amie imaginaire nommée Kitty.",
+    "reponse": true,
+    "explication": "Après avoir écrit sous forme de notes, Anne s'adresse à Kitty, une amie imaginaire, jusqu'à sa dernière entrée du 1er août 1944. Elle voulait devenir écrivain, et son père Otto a publié ses carnets en 1947.",
+    "source": "D'après Wikipédia — Le Journal d'Anne Frank"
+  },
+  {
+    "id": "q-litterature-095",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel écrivain voit en Merteuil et Valmont, dans Les Liaisons dangereuses, des personnages « sans précédent », dont les actes sont déterminés par une idéologie ?",
+    "choix": [
+      "André Malraux",
+      "Albert Camus",
+      "Marcel Proust",
+      "Jean-Paul Sartre"
+    ],
+    "bonneReponse": 0,
+    "explication": "André Malraux a consacré un essai célèbre au roman de Laclos, souvent reproduit en préface de ses éditions françaises. Il y montre des personnages nouveaux dans la littérature européenne, guidés par une idée plus que par la passion.",
+    "source": "D'après Wikipédia — Les Liaisons dangereuses"
+  },
+  {
+    "id": "q-litterature-096",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Dans Les Aventures de Tom Sawyer, comment Tom parvient-il à faire blanchir la palissade par ses camarades ?",
+    "choix": [
+      "Il leur fait croire que ce travail est un privilège agréable",
+      "Il les menace de les dénoncer à sa tante",
+      "Il leur promet une part d'un trésor",
+      "Il leur propose un pari qu'il laisse perdre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tom feint de prendre un plaisir immense à ce travail et fait payer les curieux, en pommes, billes et autres trésors, pour tenir le pinceau. Twain en tire une leçon : il suffit de rendre une chose difficile à obtenir pour la rendre désirable.",
+    "source": "D'après Wikipédia — Les Aventures de Tom Sawyer"
+  },
+  {
+    "id": "q-litterature-097",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel détective Edgar Allan Poe invente-t-il en 1841, avant Sherlock Holmes ?",
+    "choix": [
+      "Auguste Dupin",
+      "Hercule Poirot",
+      "Rouletabille",
+      "Arsène Lupin"
+    ],
+    "bonneReponse": 0,
+    "explication": "C'est Auguste Dupin, qui apparaît dans les nouvelles de Poe à partir de 1841. Son compagnon, narrateur des récits, annonce déjà le docteur Watson de Conan Doyle : Poe a donc posé le modèle du roman policier classique.",
+    "source": "D'après Wikipédia — Roman policier"
+  },
+  {
+    "id": "q-litterature-098",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "Arthur Conan Doyle a laissé Sherlock Holmes mort pour toujours après « Le Dernier Problème ».",
+    "reponse": false,
+    "explication": "Faux. La mort de Holmes provoque un tel tollé chez les lecteurs, et les offres des éditeurs sont si alléchantes, que Doyle doit le ressusciter, à contrecœur.",
+    "source": "D'après Wikipédia — Roman policier"
+  },
+  {
+    "id": "q-litterature-099",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel roman de 1818 est souvent considéré comme le premier vrai roman de science-fiction ?",
+    "choix": [
+      "Frankenstein",
+      "La Machine à explorer le temps",
+      "Vingt mille lieues sous les mers",
+      "Nous"
+    ],
+    "bonneReponse": 0,
+    "explication": "Frankenstein, de Mary Shelley, paraît en 1818. La Machine à explorer le temps de Wells date de 1895, Vingt mille lieues sous les mers de Verne de 1870 et Nous de Zamiatine de 1924.",
+    "source": "D'après Wikipédia — Science-fiction"
+  },
+  {
+    "id": "q-litterature-100",
+    "domain": "litterature",
+    "format": "associer",
+    "question": "Associe chaque fabuliste ou recueil à sa caractéristique.",
+    "paires": [
+      {
+        "gauche": "Ésope",
+        "droite": "Père de la fable en Grèce",
+        "explication": "Il aurait vécu entre le VIIe et le VIe siècle avant notre ère."
+      },
+      {
+        "gauche": "Phèdre",
+        "droite": "Ancien esclave latin, fabuliste en vers",
+        "explication": "Affranchi par Auguste, il compose six livres de fables en vers."
+      },
+      {
+        "gauche": "Pañchatantra",
+        "droite": "Recueil indien destiné aux princes",
+        "explication": "Il enseigne la sagesse, avec deux chacals pour héros."
+      },
+      {
+        "gauche": "La Fontaine",
+        "droite": "Fabuliste du XVIIe siècle satirique",
+        "explication": "Il raille la cour, l'Église et les bourgeois de son temps."
+      }
+    ],
+    "explication": "La fable circule de la Grèce à Rome, de l'Inde à la France classique. Chaque grand nom ou recueil a transmis le genre d'une culture à l'autre, jusqu'aux recueils de La Fontaine.",
+    "source": "D'après Wikipédia — Fable"
+  },
+  {
+    "id": "q-litterature-101",
+    "domain": "litterature",
+    "format": "difference",
+    "question": "Quelle est la différence essentielle entre une nouvelle et un roman ?",
+    "choix": [
+      "La nouvelle se concentre sur un seul événement, le roman en enchaîne plusieurs",
+      "La nouvelle est toujours écrite en vers, le roman en prose",
+      "La nouvelle compte plusieurs événements, le roman un seul",
+      "La nouvelle n'a jamais de personnages, le roman en a toujours"
+    ],
+    "bonneReponse": 0,
+    "explication": "La nouvelle se resserre sur un événement, avec peu de personnages et souvent une chute. Le roman déploie plusieurs événements et laisse au lecteur des temps de repos. En français, c'est une question de conception plus que de longueur.",
+    "source": "D'après Wikipédia — Nouvelle"
+  },
+  {
+    "id": "q-litterature-102",
+    "domain": "litterature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né en 1644 et je suis mort en 1694.",
+      "Je n'ai pas inventé le mot « haïku », mais mes poèmes ont fait de ce genre un art à part entière.",
+      "Je mêle mes poèmes à des récits de voyage, comme Oku no Hosomichi.",
+      "Je suis l'auteur d'un poème célèbre sur un vieil étang et une grenouille."
+    ],
+    "reponse": "Bashō",
+    "explication": "Matsuo Bashō a élevé le haïkaï d'un simple jeu d'esprit à une poésie sublime. Son poème du vieil étang est le haïku le plus souvent cité pour expliquer le genre. Le mot « haïku » ne sera forgé qu'en 1891 par Masaoka Shiki.",
+    "source": "D'après Wikipédia — Matsuo Bashō"
+  },
+  {
+    "id": "q-litterature-103",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "Le prix Nobel de littérature est remis le 10 décembre, jour anniversaire de la mort d'Alfred Nobel.",
+    "reponse": true,
+    "explication": "Vrai. Alfred Nobel est mort un 10 décembre : c'est la date de la cérémonie à Stockholm, où le roi de Suède remet au lauréat une médaille d'or et un diplôme. Le nom du lauréat, lui, est annoncé en octobre.",
+    "source": "D'après Wikipédia — Prix Nobel de littérature"
+  },
+  {
+    "id": "q-litterature-104",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Dans l'alexandrin classique, que sépare la césure ?",
+    "choix": [
+      "Les deux hémistiches de six syllabes",
+      "Les vers deux par deux dans un couplet",
+      "Les trois mesures du vers romantique",
+      "Les rimes masculines des rimes féminines"
+    ],
+    "bonneReponse": 0,
+    "explication": "La césure est la pause qui coupe l'alexandrin en deux hémistiches de six syllabes. Selon la règle classique, elle doit coïncider avec une coupure du sens, et le e muet ne peut pas la précéder.",
+    "source": "D'après Wikipédia — Alexandrin"
   }
 ]

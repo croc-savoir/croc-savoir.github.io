@@ -471,5 +471,1022 @@
     "bonneReponse": 0,
     "explication": "Au premier plan des Ambassadeurs, peint par Hans Holbein en 1533, flotte une forme étrange : un crâne déformé, qui n'apparaît correctement que si l'on regarde le tableau de biais, depuis le côté. C'est une anamorphose. Ce crâne rappelle que la mort guette même les hommes puissants et savants représentés.",
     "source": "D'après Wikipédia — Les Ambassadeurs"
+  },
+  {
+    "id": "q-art-031",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel critique a lancé le mot « fauves » après avoir vu la salle de Matisse et de ses amis au Salon d'automne de 1905 ?",
+    "choix": [
+      "Louis Vauxcelles",
+      "Émile Zola",
+      "Guillaume Apollinaire",
+      "André Gide"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans le journal Gil Blas du 17 octobre 1905, Louis Vauxcelles décrit une salle aux couleurs pures et parle de « Donatello chez les fauves », à propos d'un buste de style classique. Les peintres reprennent aussitôt le mot à leur compte.",
+    "source": "D'après Wikipédia — Henri Matisse"
+  },
+  {
+    "id": "q-art-032",
+    "domain": "art",
+    "format": "vrai-faux",
+    "affirmation": "Selon la tradition, c'est Émile Zola qui a offert à Cézanne un panier de pommes, après que celui-ci l'a défendu à l'école.",
+    "reponse": true,
+    "explication": "Au collège d'Aix, Cézanne prend la défense du jeune Zola dans la cour. Le lendemain, Zola lui offre un panier de pommes. Le fruit deviendra l'un des motifs favoris de ses natures mortes, toute sa vie.",
+    "source": "D'après Wikipédia — Paul Cézanne"
+  },
+  {
+    "id": "q-art-033",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel tableau de Manet est présenté au Salon des refusés de 1863, après avoir été rejeté par le jury du Salon officiel ?",
+    "choix": [
+      "Le Déjeuner sur l'herbe",
+      "Un bar aux Folies Bergère",
+      "Le Balcon",
+      "Le Fifre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Napoléon III crée le Salon des refusés pour apaiser la colère des artistes : le jury n'avait accepté que 2 217 toiles sur plus de 5 000. Le Déjeuner sur l'herbe y fait scandale, une touche comparée à un balai à franges.",
+    "source": "D'après Wikipédia — Édouard Manet"
+  },
+  {
+    "id": "q-art-034",
+    "domain": "art",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Limoges en 1841, dans une famille de tailleur et de couturière.",
+      "À treize ans, j'ai commencé comme apprenti décorateur dans une fabrique de porcelaine.",
+      "J'ai peint Le Bal du moulin de la Galette et Le Déjeuner des canotiers.",
+      "Mon fils Jean est devenu un grand cinéaste.",
+      "Avec Monet, j'ai peint en plein air à La Grenouillère."
+    ],
+    "reponse": "Auguste Renoir",
+    "explication": "Auguste Renoir est l'un des grands impressionnistes. Apprenti décorateur de porcelaine, il se forme chez Gleyre, peint à La Grenouillère avec Monet, puis devient célèbre pour ses scènes de fête. Il est le père du cinéaste Jean Renoir.",
+    "source": "D'après Wikipédia — Auguste Renoir"
+  },
+  {
+    "id": "q-art-035",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel sujet occupe plus de la moitié de l'œuvre de Degas ?",
+    "choix": [
+      "Les danseuses",
+      "Les chevaux de course",
+      "Les paysages de Normandie",
+      "Les natures mortes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Degas peint aussi des chevaux, des portraits et des scènes de café, mais la danse domine : plus de la moitié de ses œuvres montrent des danseuses. Il y capte le mouvement, au pastel comme dans sa sculpture La Petite Danseuse de quatorze ans.",
+    "source": "D'après Wikipédia — Edgar Degas"
+  },
+  {
+    "id": "q-art-036",
+    "domain": "art",
+    "format": "vrai-faux",
+    "affirmation": "Les peintures de Klimt pour l'université de Vienne ont fini par orner le plafond du grand hall, comme prévu.",
+    "reponse": false,
+    "explication": "La Philosophie, La Médecine et La Jurisprudence ont été jugées trop audacieuses, et elles n'ont jamais été installées au plafond du grand hall. Elles ont ensuite été détruites en mai 1945, dans l'incendie du château d'Immendorf.",
+    "source": "D'après Wikipédia — Gustav Klimt"
+  },
+  {
+    "id": "q-art-037",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Comment Munch appelle-t-il le grand cycle de tableaux, dont fait partie Le Cri, consacré à la vie, à l'amour et à la mort ?",
+    "choix": [
+      "La Frise de la Vie",
+      "Le Cycle de Kristiania",
+      "Les Nuits blanches",
+      "La Danse de la vie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Munch décrit sa Frise de la Vie comme un poème sur la vie, l'amour et la mort. Ce cycle prend forme à Berlin au début des années 1890, après le scandale d'une exposition fermée sous les protestations, et réunit des motifs comme Le Cri.",
+    "source": "D'après Wikipédia — Edvard Munch"
+  },
+  {
+    "id": "q-art-038",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Comment s'appelle la série de peintures murales que Goya a réalisées vers 1819-1823 dans sa maison de campagne, la « maison du sourd » ?",
+    "choix": [
+      "Les Peintures noires",
+      "Les Désastres de la guerre",
+      "La Tauromachie",
+      "Les Caprices"
+    ],
+    "bonneReponse": 0,
+    "explication": "Goya, sourd depuis 1793, peint à l'huile les murs de la Quinta del Sordo, entre 1819 et 1823 : ce sont les Peintures noires. Les Désastres de la guerre, Los Caprichos et La Tauromachie sont, eux, des séries de gravures.",
+    "source": "D'après Wikipédia — Francisco de Goya"
+  },
+  {
+    "id": "q-art-039",
+    "domain": "art",
+    "format": "qcm",
+    "question": "En quelle année est né le Caravage, selon l'acte de baptême retrouvé en 2007 ?",
+    "choix": [
+      "1571",
+      "1573",
+      "1569",
+      "1575"
+    ],
+    "bonneReponse": 0,
+    "explication": "On a longtemps cru qu'il était né en 1573. Un document de 1973 sur son frère cadet a conduit à corriger la date, puis son propre acte de baptême, retrouvé à Milan en 2007, a confirmé le 30 septembre 1571.",
+    "source": "D'après Wikipédia — Le Caravage"
+  },
+  {
+    "id": "q-art-040",
+    "domain": "art",
+    "format": "associer",
+    "question": "Associe chaque artiste à sa ville de naissance.",
+    "paires": [
+      {
+        "gauche": "Raphaël",
+        "droite": "Urbino",
+        "explication": "Raphaël naît à Urbino ; son père y est peintre à la cour du duc."
+      },
+      {
+        "gauche": "Albrecht Dürer",
+        "droite": "Nuremberg",
+        "explication": "Dürer naît à Nuremberg et y meurt en 1528, après de nombreux voyages."
+      },
+      {
+        "gauche": "Sandro Botticelli",
+        "droite": "Florence",
+        "explication": "Botticelli naît à Florence et y vit toute sa vie, dans le même quartier."
+      },
+      {
+        "gauche": "Paul Cézanne",
+        "droite": "Aix-en-Provence",
+        "explication": "Cézanne naît et meurt à Aix-en-Provence, où il peint la montagne Sainte-Victoire."
+      },
+      {
+        "gauche": "Salvador Dalí",
+        "droite": "Figueres",
+        "explication": "Dalí naît et meurt à Figueres, en Catalogne, où il crée son théâtre-musée."
+      }
+    ],
+    "explication": "Ces artistes sont très attachés à leur ville natale : Botticelli ne la quitte presque jamais, Cézanne et Dalí y reviennent finir leur vie, Dürer y établit son atelier et Raphaël y apprend son métier.",
+    "source": "D'après Wikipédia — Raphaël (peintre)"
+  },
+  {
+    "id": "q-art-041",
+    "domain": "art",
+    "format": "frise",
+    "question": "Remets ces moments de la carrière de Manet dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "La Musique aux Tuileries est exposée",
+        "annee": "1862"
+      },
+      {
+        "label": "Le Déjeuner sur l'herbe est montré au Salon des refusés",
+        "annee": "1863"
+      },
+      {
+        "label": "Olympia est accepté au Salon",
+        "annee": "1865"
+      },
+      {
+        "label": "Il peint L'Exécution de Maximilien",
+        "annee": "1867"
+      },
+      {
+        "label": "Il termine Un bar aux Folies Bergère",
+        "annee": "1882"
+      }
+    ],
+    "explication": "En 1862, La Musique aux Tuileries attire fureur et attention. Le Déjeuner sur l'herbe passe par le Salon des refusés en 1863, Olympia fait scandale au Salon de 1865, puis viennent L'Exécution de Maximilien (1867) et, en 1882, la dernière grande toile.",
+    "source": "D'après Wikipédia — Édouard Manet"
+  },
+  {
+    "id": "q-art-042",
+    "domain": "art",
+    "format": "difference",
+    "question": "Lorsqu'ils peignent côte à côte au début des années 1870, quelle différence marque Renoir par rapport à Monet ?",
+    "choix": [
+      "Renoir préfère les personnages, Monet préfère les paysages",
+      "Renoir peint en atelier, Monet toujours en plein air",
+      "Renoir utilise le noir pour les ombres, Monet jamais",
+      "Renoir peint des marines, Monet des portraits"
+    ],
+    "bonneReponse": 0,
+    "explication": "À La Grenouillère, Renoir et Monet peignent les mêmes scènes en plein air. Monet se concentre sur les paysages et les effets de lumière ; Renoir se rapproche des figures et donne plus d'importance aux personnages.",
+    "source": "D'après Wikipédia — Auguste Renoir"
+  },
+  {
+    "id": "q-art-043",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel métier Gauguin exerce-t-il avant de se consacrer entièrement à la peinture en 1882 ?",
+    "choix": [
+      "Agent de change à la Bourse de Paris",
+      "Notaire à Orléans",
+      "Architecte",
+      "Professeur de dessin"
+    ],
+    "bonneReponse": 0,
+    "explication": "Gauguin travaille pendant plusieurs années comme agent de change, avec succès. Après le krach boursier de 1882, il quitte son emploi pour la peinture, un choix qui le mène à la pauvreté, puis à Pont-Aven et à Tahiti.",
+    "source": "D'après Wikipédia — Paul Gauguin"
+  },
+  {
+    "id": "q-art-044",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel procédé Andy Warhol adopte-t-il en 1962 pour multiplier les images de Marilyn Monroe ou d'Elvis Presley ?",
+    "choix": [
+      "La sérigraphie",
+      "La fresque",
+      "La gravure sur bois",
+      "La peinture à l'huile"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dès mars 1962, la sérigraphie lui sert à réaliser des billets de dollar, puis ses séries de stars. Ce procédé permet de reproduire une image à l'infini, comme un produit de grande consommation : un art à petit prix.",
+    "source": "D'après Wikipédia — Andy Warhol"
+  },
+  {
+    "id": "q-art-045",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Dans quelle ville a ouvert en 2017 le musée consacré à Camille Claudel, là où elle a commencé à sculpter adolescente ?",
+    "choix": [
+      "Nogent-sur-Seine",
+      "Fère-en-Tardenois",
+      "Aix-en-Provence",
+      "Wassy"
+    ],
+    "bonneReponse": 0,
+    "explication": "C'est à Nogent-sur-Seine, vers douze ans, que Camille Claudel modèle l'argile pour la première fois. Le musée Camille-Claudel y a ouvert en 2017 : il permet de suivre toute sa carrière.",
+    "source": "D'après Wikipédia — Camille Claudel"
+  },
+  {
+    "id": "q-art-046",
+    "domain": "art",
+    "format": "vrai-faux",
+    "affirmation": "Sur les dix-huit enfants de ses parents, Albrecht Dürer est l'un des trois seulement à avoir atteint l'âge adulte.",
+    "reponse": true,
+    "explication": "Le père de Dürer, orfèvre installé à Nuremberg, a dix-huit enfants avec Barbara Holper, mais seuls trois atteignent l'âge adulte : Albrecht et ses frères Endres, orfèvre, et Hans, peintre.",
+    "source": "D'après Wikipédia — Albrecht Dürer"
+  },
+  {
+    "id": "q-art-047",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Qu'a présenté Yves Klein dans la galerie Iris Clert, à Paris, en avril 1958 ?",
+    "choix": [
+      "Une galerie entièrement vide, intitulée Le Vide",
+      "Onze toiles bleues identiques",
+      "Des tableaux peints avec des flammes",
+      "Mille et un ballons bleus"
+    ],
+    "bonneReponse": 0,
+    "explication": "Klein a retiré tout le mobilier, peint les murs en blanc et exposé le vide lui-même. Une vitrine bleue, un rideau bleu et des cocktails bleus accueillaient 3 000 visiteurs qui faisaient la queue pour entrer dans une pièce sans œuvre visible.",
+    "source": "D'après Wikipédia — Yves Klein"
+  },
+  {
+    "id": "q-art-048",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel groupe Vassily Kandinsky a-t-il fondé à Munich en 1911 avec Franz Marc ?",
+    "choix": [
+      "Le Cavalier bleu",
+      "Die Brücke",
+      "De Stijl",
+      "Les Nabis"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Cavalier bleu réunit des artistes proches de la vision de Kandinsky, après la dissolution des Nouveaux Artistes de Munich. Le groupe publie un almanach, mais la guerre de 1914 met fin aux autres projets. Son nom vient d'un tableau de 1903.",
+    "source": "D'après Wikipédia — Vassily Kandinsky"
+  },
+  {
+    "id": "q-art-049",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Comment s'appelle la mosaïque de morceaux de céramique brisée que Gaudí a popularisée ?",
+    "choix": [
+      "Le trencadís",
+      "Le sgraffite",
+      "L'azulejo",
+      "La tesselle"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le trencadís recycle des éclats de céramique pour couvrir des surfaces courbes, comme dans le parc Güell. Gaudí maîtrisait la céramique, la verrerie, la ferronnerie et la charpente, et les intégrait toutes à ses bâtiments.",
+    "source": "D'après Wikipédia — Trencadis"
+  },
+  {
+    "id": "q-art-050",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Que signifie l'« outrenoir » de Pierre Soulages ?",
+    "choix": [
+      "Un noir qui devient lumière en réfléchissant celle qui l'éclaire",
+      "Un noir mêlé de bleu profond",
+      "Un noir réservé aux fonds de tableau",
+      "Un noir fabriqué à partir de suie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Soulages striait d'épaisses couches de noir pour que leurs reliefs captent et renvoient la clarté. Pour lui, « outrenoir » désignait un autre pays que le noir, comme outre-Manche désigne l'Angleterre. Son instrument était la lumière reflétée.",
+    "source": "D'après Wikipédia — Pierre Soulages"
+  },
+  {
+    "id": "q-art-051",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Pour quel monument roman Pierre Soulages a-t-il conçu 104 vitraux entre 1987 et 1994 ?",
+    "choix": [
+      "L'abbatiale Sainte-Foy de Conques",
+      "La cathédrale de Reims",
+      "La cathédrale de Metz",
+      "La Sainte-Chapelle de Paris"
+    ],
+    "bonneReponse": 0,
+    "explication": "Soulages avait visité Conques à douze ans, ce qui avait éveillé sa vocation. Il a fait environ 700 essais dans une verrerie allemande pour obtenir un verre qui diffuse la lumière sans la laisser traverser tout à fait. Reims et Metz abritent des vitraux de Chagall.",
+    "source": "D'après Wikipédia — Abbatiale Sainte-Foy de Conques"
+  },
+  {
+    "id": "q-art-052",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quelle peintre est devenue en 1616 la première femme membre de l'Académie du dessin de Florence ?",
+    "choix": [
+      "Artemisia Gentileschi",
+      "Sofonisba Anguissola",
+      "Élisabeth Vigée Le Brun",
+      "Rosalba Carriera"
+    ],
+    "bonneReponse": 0,
+    "explication": "Artemisia Gentileschi, protégée par le grand-duc Cosme II et la grande-duchesse Christine de Lorraine, entre à l'Académie du dessin à Florence. Elle y entretient aussi des relations avec Galilée, avec qui elle correspond longtemps.",
+    "source": "D'après Wikipédia — Artemisia Gentileschi"
+  },
+  {
+    "id": "q-art-053",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quelle signature Jean-Michel Basquiat et Al Diaz laissaient-ils sur les murs de Manhattan à la fin des années 1970 ?",
+    "choix": [
+      "SAMO",
+      "TAKI 183",
+      "FUTURA",
+      "ZEPHYR"
+    ],
+    "bonneReponse": 0,
+    "explication": "SAMO vient de « Same Old Shit », une blague entre les deux amis. Leurs slogans poétiques et satiriques, comme « SAMO as an alternative to God », intriguent le milieu artistique. Basquiat y met fin en écrivant « SAMO is dead » sur les murs de SoHo.",
+    "source": "D'après Wikipédia — Jean-Michel Basquiat"
+  },
+  {
+    "id": "q-art-054",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel système de construction en béton Le Corbusier imagine-t-il en 1914 pour reconstruire vite les villes détruites ?",
+    "choix": [
+      "Le système Dom-ino",
+      "Le Modulor",
+      "La cité-jardin",
+      "La Cité radieuse"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dom-ino vient de « maison » et « innovation » : des dalles de béton portées par de fins poteaux, qui laissent libres les façades et les cloisons. Il en tirera une architecture blanche et ouverte. La Cité radieuse est un immeuble construit bien plus tard, après la Seconde Guerre mondiale.",
+    "source": "D'après Wikipédia — Le Corbusier"
+  },
+  {
+    "id": "q-art-055",
+    "domain": "art",
+    "format": "qcm",
+    "question": "À quel prix Banksy vendait-il ses œuvres sur son stand incognito de Central Park, en 2013 ?",
+    "choix": [
+      "60 dollars pièce",
+      "600 dollars pièce",
+      "6 000 dollars pièce",
+      "160 000 dollars pièce"
+    ],
+    "bonneReponse": 0,
+    "explication": "Il n'a vendu que sept œuvres ce jour-là, pour 420 dollars au total, alors qu'elles étaient estimées à 160 000 dollars l'unité. L'opération faisait partie de son exposition new-yorkaise « Better Out Than In ».",
+    "source": "D'après Wikipédia — Banksy"
+  },
+  {
+    "id": "q-art-056",
+    "domain": "art",
+    "format": "vrai-faux",
+    "affirmation": "Constantin Brâncuși a été l'assistant d'Auguste Rodin pendant plusieurs années.",
+    "reponse": false,
+    "explication": "Faux. Brâncuși quitte l'atelier de Rodin quelques semaines seulement après y être entré, en 1907, estimant que rien ne pousse à l'ombre des grands arbres. Il préfère trouver sa propre voie.",
+    "source": "D'après Wikipédia — Constantin Brâncuși"
+  },
+  {
+    "id": "q-art-057",
+    "domain": "art",
+    "format": "vrai-faux",
+    "affirmation": "Entre 1938 et 1944, les sculptures d'Alberto Giacometti ne dépassaient pas sept centimètres de haut.",
+    "reponse": true,
+    "explication": "Vrai. Giacometti voulait rendre la distance exacte entre lui et son modèle, et ses figures rétrécissaient sans cesse. Après la guerre, elles grandissent, mais deviennent de plus en plus minces.",
+    "source": "D'après Wikipédia — Alberto Giacometti"
+  },
+  {
+    "id": "q-art-058",
+    "domain": "art",
+    "format": "vrai-faux",
+    "affirmation": "Piet Mondrian a peint des compositions abstraites dès ses premiers tableaux.",
+    "reponse": false,
+    "explication": "Faux. Mondrian débute par des paysages néerlandais : moulins, arbres, dunes. Il s'éloigne peu à peu du réel, passe par le cubisme à Paris, puis aboutit à ses compositions de lignes droites et de couleurs primaires.",
+    "source": "D'après Wikipédia — Piet Mondrian"
+  },
+  {
+    "id": "q-art-059",
+    "domain": "art",
+    "format": "associer",
+    "question": "Associe chaque artiste à l'une de ses réalisations.",
+    "paires": [
+      {
+        "gauche": "Niki de Saint Phalle",
+        "droite": "Le Jardin des Tarots",
+        "explication": "Un parc de sculptures monumentales à Capalbio, en Toscane."
+      },
+      {
+        "gauche": "Antoni Gaudí",
+        "droite": "La Sagrada Família",
+        "explication": "Un temple toujours en chantier grâce aux dons."
+      },
+      {
+        "gauche": "Constantin Brâncuși",
+        "droite": "La Colonne sans fin",
+        "explication": "Une colonne de rhomboïdes superposés, présentée à Târgu Jiu."
+      },
+      {
+        "gauche": "Le Corbusier",
+        "droite": "La chapelle de Ronchamp",
+        "explication": "Une chapelle conçue par l'architecte à Ronchamp."
+      },
+      {
+        "gauche": "Alberto Giacometti",
+        "droite": "L'Homme qui marche",
+        "explication": "Une silhouette filiforme, thème majeur de l'après-guerre."
+      }
+    ],
+    "explication": "Ces cinq créateurs ont marqué la sculpture et l'architecture du XXe siècle, chacun avec une œuvre devenue emblématique, du jardin toscan au temple barcelonais.",
+    "source": "D'après Wikipédia — Niki de Saint Phalle"
+  },
+  {
+    "id": "q-art-060",
+    "domain": "art",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née en 1887 dans une ferme du Wisconsin.",
+      "Pendant quatre ans, je n'ai plus rien peint, car l'odeur de la térébenthine m'incommodait.",
+      "J'ai épousé le photographe Alfred Stieglitz, qui a fait plus de 350 portraits de moi.",
+      "Je peins des fleurs en gros plan et des crânes d'animaux du désert du Nouveau-Mexique."
+    ],
+    "reponse": "Georgia O'Keeffe",
+    "explication": "Georgia O'Keeffe s'installe pour de bon au Nouveau-Mexique en 1949, près de Ghost Ranch et d'Abiquiú. Elle laisse environ 900 tableaux et est surnommée la mère du modernisme américain.",
+    "source": "D'après Wikipédia — Georgia O'Keeffe"
+  },
+  {
+    "id": "q-art-061",
+    "domain": "art",
+    "format": "frise",
+    "question": "Remets ces étapes de la vie de Kandinsky dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Il s'installe à Munich pour étudier la peinture",
+        "annee": "1896"
+      },
+      {
+        "label": "Il fonde le Cavalier bleu avec Franz Marc",
+        "annee": "1911"
+      },
+      {
+        "label": "Il peint Avec l'arc noir",
+        "annee": "1912"
+      },
+      {
+        "label": "Il enseigne au Bauhaus",
+        "annee": "1922"
+      },
+      {
+        "label": "Il devient citoyen français",
+        "annee": "1939"
+      }
+    ],
+    "explication": "Juriste à Moscou, Kandinsky part à 30 ans pour Munich. Il fonde le Cavalier bleu en 1911, peint l'une des premières œuvres abstraites en 1912, enseigne au Bauhaus dès 1922 puis devient français en 1939.",
+    "source": "D'après Wikipédia — Vassily Kandinsky"
+  },
+  {
+    "id": "q-art-062",
+    "domain": "art",
+    "format": "difference",
+    "question": "Quelle est la différence entre les Tirs et les Nanas de Niki de Saint Phalle ?",
+    "choix": [
+      "Les Tirs sont des performances où elle tire sur des poches de peinture ; les Nanas sont de grandes sculptures colorées de figures féminines",
+      "Les Tirs sont des gravures ; les Nanas sont des films",
+      "Les Tirs sont des fontaines ; les Nanas sont des jardins",
+      "Les Tirs sont des tableaux de Tinguely ; les Nanas sont des tableaux de Restany"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les Tirs, dès 1961, éclaboussent des assemblages de couleur à coups de carabine. Les Nanas, ensuite, sont des figures géantes, joyeuses et dansantes, en grillage, papier mâché et polyester.",
+    "source": "D'après Wikipédia — Niki de Saint Phalle"
+  },
+  {
+    "id": "q-art-063",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Dans quel musée La Nuit étoilée de Van Gogh est-elle conservée depuis 1941 ?",
+    "choix": [
+      "Museum of Modern Art (MoMA), New York",
+      "Musée d'Orsay, Paris",
+      "Van Gogh Museum, Amsterdam",
+      "Rijksmuseum, Amsterdam"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Nuit étoilée a été peinte en 1889 à l'asile de Saint-Rémy-de-Provence. Après avoir appartenu à la famille de Van Gogh puis à des collectionneurs, elle est entrée au MoMA de New York en 1941, par échange, et sort rarement du musée.",
+    "source": "D'après Wikipédia — La Nuit étoilée (1889)"
+  },
+  {
+    "id": "q-art-064",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Dans Les Demoiselles d'Avignon de Picasso, à quoi renvoie le nom « Avignon » ?",
+    "choix": [
+      "À une rue de Barcelone, la Carrer d'Avinyó",
+      "À la ville d'Avignon, dans le Vaucluse",
+      "Au village natal de la mère de Picasso",
+      "À un bal célèbre de Montmartre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Contrairement à une idée reçue, il ne s'agit pas de la ville française : Picasso pensait à la Carrer d'Avinyó, une rue du quartier gothique de Barcelone qu'il connaissait. Le titre actuel a été donné en 1916 par le poète André Salmon.",
+    "source": "D'après Wikipédia — Les Demoiselles d'Avignon"
+  },
+  {
+    "id": "q-art-065",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Qu'est-il arrivé à La Ronde de nuit de Rembrandt en 1715, quand elle fut déplacée à l'hôtel de ville d'Amsterdam ?",
+    "choix": [
+      "Elle a été rognée sur ses quatre côtés",
+      "Elle a été repeinte entièrement par un élève",
+      "Elle a été coupée en deux morceaux",
+      "Elle a reçu un nouveau cadre en or"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour s'insérer entre deux colonnes, la toile fut découpée sur les quatre bords, ce qui fit disparaître deux personnages à gauche. Une copie de Gerrit Lundens, réalisée au XVIIe siècle, permet de retrouver le cadrage d'origine.",
+    "source": "D'après Wikipédia — La Ronde de nuit"
+  },
+  {
+    "id": "q-art-066",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Comment appelle-t-on le genre de La Jeune Fille à la perle de Vermeer, qui n'est pas un portrait mais l'étude d'un visage ?",
+    "choix": [
+      "Une tronie",
+      "Une vanité",
+      "Une nature morte",
+      "Un tableau d'histoire"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une tronie est une étude de caractère typique de la peinture néerlandaise du XVIIe siècle : l'identité du modèle importe peu. La jeune fille, au turban exotique, est donc peut-être imaginaire, et son nom exact reste inconnu.",
+    "source": "D'après Wikipédia — La Jeune Fille à la perle"
+  },
+  {
+    "id": "q-art-067",
+    "domain": "art",
+    "format": "vrai-faux",
+    "affirmation": "Le Cri d'Edvard Munch n'existe qu'en une seule version.",
+    "reponse": false,
+    "explication": "Munch a réalisé cinq versions de ce motif entre 1893 et 1917 : deux peintures, un pastel, un dessin au crayon et une lithographie. Les peintures ont toutes deux été volées, en 1994 et en 2004, puis retrouvées.",
+    "source": "D'après Wikipédia — Le Cri"
+  },
+  {
+    "id": "q-art-068",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel port français Claude Monet a-t-il représenté dans Impression, soleil levant ?",
+    "choix": [
+      "Le Havre",
+      "Honfleur",
+      "Marseille",
+      "Saint-Malo"
+    ],
+    "bonneReponse": 0,
+    "explication": "Monet a peint la brume du matin sur le port du Havre, ville de son enfance. Exposé en 1874, le tableau a donné son nom à l'impressionnisme, même s'il fut volé en 1985 au musée Marmottan avant d'être retrouvé en 1990.",
+    "source": "D'après Wikipédia — Impression, soleil levant"
+  },
+  {
+    "id": "q-art-069",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel événement La Liberté guidant le peuple de Delacroix célèbre-t-elle ?",
+    "choix": [
+      "La révolution de juillet 1830, les Trois Glorieuses",
+      "La prise de la Bastille en 1789",
+      "La révolution de février 1848",
+      "La Commune de Paris en 1871"
+    ],
+    "bonneReponse": 0,
+    "explication": "Delacroix s'inspire du soulèvement parisien de juillet 1830 contre Charles X. On la croit souvent liée à 1789, mais le bonnet phrygien et le drapeau tricolore y renvoient seulement. Le tableau est au Louvre depuis 1874.",
+    "source": "D'après Wikipédia — La Liberté guidant le peuple"
+  },
+  {
+    "id": "q-art-070",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Dans Les Ménines de Vélasquez, qui voit-on dans le miroir accroché au fond de la pièce ?",
+    "choix": [
+      "Le roi Philippe IV et la reine",
+      "L'infante Marguerite-Thérèse",
+      "Le peintre Vélasquez lui-même",
+      "Le chambellan José Nieto"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le miroir reflète le couple royal, placé hors du tableau, à l'endroit où se tient le spectateur. Certains y voient plutôt le reflet de la toile que peint Vélasquez. Cette ambiguïté fait des Ménines l'un des tableaux les plus analysés.",
+    "source": "D'après Wikipédia — Les Ménines"
+  },
+  {
+    "id": "q-art-071",
+    "domain": "art",
+    "format": "vrai-faux",
+    "affirmation": "Pour Le Baiser, Gustav Klimt a utilisé de véritables feuilles d'or.",
+    "reponse": true,
+    "explication": "Fils d'un orfèvre, Klimt a découvert les mosaïques byzantines de Ravenne en 1903. Il a ensuite appliqué de vraies feuilles d'or sur ses toiles, et une poudre dorée pour l'arrière-plan du Baiser, conservé au Belvédère de Vienne.",
+    "source": "D'après Wikipédia — Le Baiser (Klimt)"
+  },
+  {
+    "id": "q-art-072",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quelle technique Léonard de Vinci a-t-il choisie pour peindre La Cène, au lieu de la fresque classique ?",
+    "choix": [
+      "La détrempe sur un mur préparé et scellé",
+      "La fresque sur enduit frais, jour après jour",
+      "La peinture à l'huile sur un panneau de bois",
+      "La mosaïque de petits carreaux de pierre"
+    ],
+    "bonneReponse": 0,
+    "explication": "La vraie fresque obligeait à peindre vite sur l'enduit frais. Léonard voulait retoucher à loisir, il a donc peint à sec sur un mur scellé. Cette méthode, plus fragile, explique en partie la dégradation rapide de l'œuvre.",
+    "source": "D'après Wikipédia — La Cène (Léonard de Vinci)"
+  },
+  {
+    "id": "q-art-073",
+    "domain": "art",
+    "format": "qui-suis-je",
+    "indices": [
+      "J'ai d'abord été baptisé Le Poète et je faisais partie d'un portail monumental.",
+      "Je suis inspiré d'un poème de Dante, mais les ouvriers de la fonderie m'ont renommé en pensant à une statue de Michel-Ange.",
+      "Mon modèle était un boxeur nommé Jean Baud, et j'ai été agrandi en 1902.",
+      "Je suis assis sur un rocher, le menton posé sur la main : j'incarne la pensée."
+    ],
+    "reponse": "Le Penseur",
+    "explication": "Le Penseur de Rodin surmontait La Porte de l'Enfer avant de devenir une œuvre indépendante, exposée seule dès 1888. Le premier grand bronze, présenté en 1904, a été installé devant le Panthéon, puis transféré au musée Rodin en 1922.",
+    "source": "D'après Wikipédia — Le Penseur"
+  },
+  {
+    "id": "q-art-074",
+    "domain": "art",
+    "format": "difference",
+    "question": "Quelle différence y a-t-il entre le David de Michel-Ange et ceux de Donatello et de Verrocchio ?",
+    "choix": [
+      "Michel-Ange le montre avant le combat, les autres après sa victoire",
+      "Michel-Ange le sculpte en bronze, les autres en marbre",
+      "Michel-Ange le représente âgé, les autres en enfant",
+      "Michel-Ange le montre sans arme, les autres avec une épée"
+    ],
+    "bonneReponse": 0,
+    "explication": "Donatello et Verrocchio montrent David vainqueur, la tête de Goliath sous le pied. Michel-Ange choisit l'instant d'avant : un athlète tendu, la fronde sur l'épaule, qui défie le géant. Cette « violence contenue » a fait de lui un symbole de Florence.",
+    "source": "D'après Wikipédia — David (Michel-Ange)"
+  },
+  {
+    "id": "q-art-075",
+    "domain": "art",
+    "format": "vrai-faux",
+    "affirmation": "Salvador Dalí a affirmé que ses montres molles étaient inspirées par la théorie de la relativité d'Einstein.",
+    "reponse": false,
+    "explication": "Interrogé sur ce lien, Dalí l'a nié : ses montres venaient, disait-il, de la vision d'un camembert qui fondait au soleil. Le tableau, peint en 1931, est conservé au MoMA de New York depuis 1934.",
+    "source": "D'après Wikipédia — La Persistance de la mémoire"
+  },
+  {
+    "id": "q-art-076",
+    "domain": "art",
+    "format": "frise",
+    "question": "Remets ces œuvres dans l'ordre chronologique de leur création.",
+    "evenements": [
+      {
+        "label": "Les Ménines, de Vélasquez",
+        "annee": "1656"
+      },
+      {
+        "label": "La Liberté guidant le peuple, de Delacroix",
+        "annee": "1830"
+      },
+      {
+        "label": "Le Déjeuner sur l'herbe, de Manet",
+        "annee": "1863"
+      },
+      {
+        "label": "Le Cri, de Munch",
+        "annee": "1893"
+      },
+      {
+        "label": "Guernica, de Picasso",
+        "annee": "1937"
+      }
+    ],
+    "explication": "Du siècle d'or espagnol à la peinture engagée du XXe siècle : Vélasquez (1656), Delacroix (1830), Manet (1863), Munch (1893) puis Picasso (1937), qui peint Guernica en quelques semaines après le bombardement de la ville.",
+    "source": "D'après Wikipédia — Guernica (Picasso)"
+  },
+  {
+    "id": "q-art-077",
+    "domain": "art",
+    "format": "associer",
+    "question": "Associe chaque œuvre au musée qui la conserve.",
+    "paires": [
+      {
+        "gauche": "Les Nymphéas (grands panneaux)",
+        "droite": "Musée de l'Orangerie, Paris",
+        "explication": "Huit panneaux de Monet, dans deux salles ovales ouvertes en 1927."
+      },
+      {
+        "gauche": "Les Ménines",
+        "droite": "Musée du Prado, Madrid",
+        "explication": "Le chef-d'œuvre de Vélasquez est au Prado depuis la création du musée en 1819."
+      },
+      {
+        "gauche": "La Jeune Fille à la perle",
+        "droite": "Mauritshuis, La Haye",
+        "explication": "Le tableau de Vermeer a été légué au musée en 1902 par un collectionneur."
+      },
+      {
+        "gauche": "Le Baiser de Klimt",
+        "droite": "Palais du Belvédère, Vienne",
+        "explication": "L'État autrichien l'a acheté dès 1908, alors qu'il n'était pas fini."
+      },
+      {
+        "gauche": "Guernica",
+        "droite": "Musée Reina Sofía, Madrid",
+        "explication": "Revenu d'exil en Espagne en 1981, il est au Reina Sofía depuis 1992."
+      }
+    ],
+    "explication": "Ces cinq chefs-d'œuvre sont conservés dans quatre villes d'Europe : Paris, Madrid, La Haye et Vienne. Beaucoup ont connu l'exil, le vol ou l'oubli avant d'y trouver une place définitive.",
+    "source": "D'après Wikipédia — Les Nymphéas"
+  },
+  {
+    "id": "q-art-078",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel homme politique a encouragé Claude Monet à offrir ses grands panneaux de nymphéas à l'État français ?",
+    "choix": [
+      "Georges Clemenceau",
+      "Émile Zola",
+      "Napoléon III",
+      "Léon Gambetta"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ami de Monet, Georges Clemenceau l'a encouragé dès 1914 et a joué un rôle décisif dans les négociations avec l'État. Les huit panneaux ont été installés à l'Orangerie et inaugurés en 1927, quelques mois après la mort du peintre.",
+    "source": "D'après Wikipédia — Les Nymphéas"
+  },
+  {
+    "id": "q-art-079",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel critique a lancé le mot « fauves » à propos des peintres du Salon d'automne de 1905 ?",
+    "choix": [
+      "Louis Vauxcelles",
+      "Félix Fénéon",
+      "Camille Mauclair",
+      "Denis Diderot"
+    ],
+    "bonneReponse": 0,
+    "explication": "Louis Vauxcelles écrit dans Gil Blas, le 17 octobre 1905, « Donatello chez les fauves » devant un buste de style Renaissance entouré de toiles aux couleurs vives. L'insulte devient le nom du mouvement.",
+    "source": "D'après Wikipédia — Fauvisme"
+  },
+  {
+    "id": "q-art-080",
+    "domain": "art",
+    "format": "vrai-faux",
+    "affirmation": "Le mot « gothique » a d'abord été employé comme une insulte par les Italiens de la Renaissance.",
+    "reponse": true,
+    "explication": "Ils y voyaient l'art de peuples jugés barbares, les Goths, loin des canons antiques. Vasari parle dès 1530 de « désordre monstrueux et barbare ». Au départ, l'art gothique s'appelait « art français » (francigenum opus).",
+    "source": "D'après Wikipédia — Art gothique"
+  },
+  {
+    "id": "q-art-081",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Dans quelle ville le mouvement Dada est-il né en 1916 ?",
+    "choix": [
+      "Zurich",
+      "Berlin",
+      "New York",
+      "Paris"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dada naît au Cabaret Voltaire de Zurich, fondé par Hugo Ball et Emmy Hennings. La Suisse neutre accueille alors des jeunes qui refusent la guerre. Le mouvement gagnera ensuite Berlin, New York et Paris.",
+    "source": "D'après Wikipédia — Dada"
+  },
+  {
+    "id": "q-art-082",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel tableau de Georges Seurat passe pour le manifeste du pointillisme ?",
+    "choix": [
+      "Un dimanche après-midi à l'île de la Grande Jatte",
+      "Luxe, calme et volupté",
+      "La Ville qui monte",
+      "Le Bonheur de vivre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Seurat l'expose en mai-juin 1886 à la dernière exposition impressionniste. Les trois autres titres sont d'autres peintres : Matisse pour Luxe, calme et volupté et Le Bonheur de vivre, Boccioni pour La Ville qui monte.",
+    "source": "D'après Wikipédia — Pointillisme"
+  },
+  {
+    "id": "q-art-083",
+    "domain": "art",
+    "format": "associer",
+    "question": "Associe chaque mouvement ou école à une figure qui lui est liée.",
+    "paires": [
+      {
+        "gauche": "Futurisme",
+        "droite": "Filippo Tommaso Marinetti",
+        "explication": "Il publie le manifeste fondateur en 1909, reproduit dans Le Figaro."
+      },
+      {
+        "gauche": "Bauhaus",
+        "droite": "Walter Gropius",
+        "explication": "Il fonde l'école à Weimar en 1919 et la dirige jusqu'en 1928."
+      },
+      {
+        "gauche": "Fauvisme",
+        "droite": "Henri Matisse",
+        "explication": "Chef de file des fauves, il peint Luxe, calme et volupté en 1904."
+      },
+      {
+        "gauche": "Pointillisme",
+        "droite": "Paul Signac",
+        "explication": "Il théorise la méthode sous le nom de divisionnisme et dirige le groupe après 1891."
+      }
+    ],
+    "explication": "Chaque mouvement a ses figures de proue : Marinetti pour le futurisme, Gropius pour le Bauhaus, Matisse pour le fauvisme, Signac pour le pointillisme, qu'il théorise après la mort de Seurat.",
+    "source": "D'après Wikipédia — Art moderne"
+  },
+  {
+    "id": "q-art-084",
+    "domain": "art",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né en 1919 dans une ville de Thuringe.",
+      "J'ai eu trois directeurs, tous architectes.",
+      "Paul Klee et Vassily Kandinsky ont enseigné chez moi.",
+      "Les nazis m'ont fermé en 1933.",
+      "Mon nom signifie « maison du bâtir »."
+    ],
+    "reponse": "Le Bauhaus",
+    "explication": "Le Bauhaus, fondé par Gropius à Weimar, a eu pour directeurs Gropius, Hannes Meyer et Mies van der Rohe. Il a déménagé à Dessau puis Berlin, avant de se dissoudre en 1933 sous la pression nazie.",
+    "source": "D'après Wikipédia — Bauhaus"
+  },
+  {
+    "id": "q-art-085",
+    "domain": "art",
+    "format": "frise",
+    "question": "Remets ces moments de l'histoire du Louvre dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Philippe Auguste fait bâtir le château fort",
+        "annee": "1190"
+      },
+      {
+        "label": "François Ier lance la transformation en palais",
+        "annee": "1546"
+      },
+      {
+        "label": "Ouverture du musée au public",
+        "annee": "1793"
+      },
+      {
+        "label": "Inauguration de la pyramide de Pei",
+        "annee": "1989"
+      }
+    ],
+    "explication": "Le Louvre est d'abord une forteresse vers 1190, puis un palais Renaissance à partir de 1546. Il devient un musée en août 1793, pendant la Révolution, et sa pyramide de verre est inaugurée en 1989.",
+    "source": "D'après Wikipédia — Musée du Louvre"
+  },
+  {
+    "id": "q-art-086",
+    "domain": "art",
+    "format": "difference",
+    "question": "Quelle est la différence entre la taille d'épargne et la taille-douce en gravure ?",
+    "choix": [
+      "Dans la taille d'épargne, le dessin reste en relief ; dans la taille-douce, l'encre se loge dans les creux",
+      "La taille d'épargne se pratique sur métal, la taille-douce uniquement sur bois",
+      "La taille d'épargne utilise de l'acide, la taille-douce un simple crayon",
+      "La taille d'épargne donne des images en couleur, la taille-douce en noir et blanc"
+    ],
+    "bonneReponse": 0,
+    "explication": "En taille d'épargne (xylographie, linogravure), on creuse ce qui ne doit pas s'imprimer. En taille-douce, souvent sur cuivre, on grave des creux qui retiennent l'encre : burin, pointe sèche ou eau-forte.",
+    "source": "D'après Wikipédia — Gravure"
+  },
+  {
+    "id": "q-art-087",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Comment appelle-t-on les petits fragments qui composent une mosaïque ?",
+    "choix": [
+      "Des tesselles",
+      "Des cames",
+      "Des tessons",
+      "Des cabochons"
+    ],
+    "bonneReponse": 0,
+    "explication": "Qu'elles soient de pierre, de verre, d'émail ou de céramique, les pièces d'une mosaïque sont des tesselles. Les cames, elles, sont les baguettes de plomb qui tiennent les pièces d'un vitrail.",
+    "source": "D'après Wikipédia — Mosaïque"
+  },
+  {
+    "id": "q-art-088",
+    "domain": "art",
+    "format": "vrai-faux",
+    "affirmation": "Dans un vitrail, le verre rouge est souvent appliqué en couche mince sur du verre clair, car trop épais il paraîtrait presque noir.",
+    "reponse": true,
+    "explication": "Le rouge demande une forte concentration de colorant : en grande épaisseur, il laisse passer très peu de lumière. On plaque donc une fine couche rouge sur un verre clair, procédé appelé verre plaqué.",
+    "source": "D'après Wikipédia — Vitrail"
+  },
+  {
+    "id": "q-art-089",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Qui a remarqué le premier les taureaux peints au plafond de la grotte d'Altamira ?",
+    "choix": [
+      "La fille de Sanz de Sautuola, âgée de huit ans",
+      "L'archéologue Émile Cartailhac",
+      "Le préhistorien Gabriel de Mortillet",
+      "Un spéléologue de la grotte Chauvet"
+    ],
+    "bonneReponse": 0,
+    "explication": "La petite María, qui accompagne son père dans la grotte vers 1879, lève les yeux et voit les « toros ». Les savants français crient d'abord au faux ; Cartailhac reconnaît son erreur en 1902.",
+    "source": "D'après Wikipédia — Art pariétal"
+  },
+  {
+    "id": "q-art-090",
+    "domain": "art",
+    "format": "qcm",
+    "question": "De quel événement l'Art déco tire-t-il son nom ?",
+    "choix": [
+      "L'Exposition internationale des arts décoratifs et industriels modernes de Paris, en 1925",
+      "Le Salon d'automne de 1905",
+      "L'ouverture du Bauhaus à Weimar en 1919",
+      "L'Exposition universelle de Paris en 1900"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Déco » est l'abréviation d'« arts décoratifs », titre de l'exposition parisienne de 1925. Le style existait déjà depuis les années 1910, mais le terme n'est entré dans l'usage courant qu'après 1966.",
+    "source": "D'après Wikipédia — Art déco"
+  },
+  {
+    "id": "q-art-091",
+    "domain": "art",
+    "format": "vrai-faux",
+    "affirmation": "Le Louvre a été construit dès l'origine pour être un musée.",
+    "reponse": false,
+    "explication": "C'est d'abord un château fort bâti par Philippe Auguste vers 1190, puis un palais royal. L'idée d'y exposer les chefs-d'œuvre de la Couronne naît au XVIIIe siècle et se réalise en 1793, pendant la Révolution.",
+    "source": "D'après Wikipédia — Musée du Louvre"
+  },
+  {
+    "id": "q-art-092",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quelle exposition Napoléon III a-t-il fait ouvrir en 1863 pour montrer les œuvres refusées par le jury du Salon ?",
+    "choix": [
+      "Le Salon des refusés",
+      "Le Salon d'automne",
+      "Le Salon des indépendants",
+      "Le Salon des artistes français"
+    ],
+    "bonneReponse": 0,
+    "explication": "Devant la colère des artistes écartés, l'empereur ouvre le 17 mai 1863 le Salon des refusés, où le public peut juger par lui-même. Cet événement est souvent vu comme la naissance de l'avant-garde.",
+    "source": "D'après Wikipédia — Salon des refusés"
+  },
+  {
+    "id": "q-art-093",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel pigment, normalement déconseillé en peinture à l'huile, Léonard de Vinci utilisait-il pour faire sécher ses couches très fines ?",
+    "choix": [
+      "L'oxyde de manganèse",
+      "Le cinabre",
+      "Le bleu outremer",
+      "Le blanc de plomb"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les analyses de La Joconde, achevées en 2010, ont révélé de l'oxyde de manganèse, très siccatif. Il permettait de superposer des dizaines de couches de quelques micromètres pour obtenir le sfumato.",
+    "source": "D'après Wikipédia — Sfumato"
+  },
+  {
+    "id": "q-art-094",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Qui a inventé l'expression « art roman », en 1818 ?",
+    "choix": [
+      "L'archéologue normand Charles de Gerville",
+      "Giorgio Vasari",
+      "Louis Vauxcelles",
+      "L'abbé Suger"
+    ],
+    "bonneReponse": 0,
+    "explication": "Gerville forge l'expression dans une lettre du 18 décembre 1818, par analogie avec les langues romanes. Il croyait à une filiation avec l'architecture romaine, ce qui était inexact, mais le mot est resté.",
+    "source": "D'après Wikipédia — Art roman"
   }
 ]

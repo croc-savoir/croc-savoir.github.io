@@ -141,7 +141,7 @@
   {
     "id": "corps-humain-004",
     "domain": "corps-humain",
-    "subtheme": "Anatomistes & médecins",
+    "subtheme": "Médecine et médecins",
     "type": "personnage",
     "title": "Andreas Vésale",
     "subtitle": "Fondateur de l'anatomie moderne",
@@ -267,7 +267,7 @@
   {
     "id": "corps-humain-007",
     "domain": "corps-humain",
-    "subtheme": "Découvertes médicales",
+    "subtheme": "Médecine et médecins",
     "type": "date",
     "title": "La découverte de la pénicilline",
     "summary": "En 1928, Alexander Fleming découvre presque par hasard que la moisissure Penicillium tue certaines bactéries, ouvrant la voie aux antibiotiques modernes.\nCette découverte a transformé la médecine du 20e siècle.",
@@ -307,7 +307,7 @@
   {
     "id": "corps-humain-008",
     "domain": "corps-humain",
-    "subtheme": "Système osseux",
+    "subtheme": "Squelette et muscles",
     "type": "classique",
     "title": "Le squelette",
     "summary": "Le squelette humain adulte compte environ 206 os, qui assurent le soutien du corps, la protection des organes et permettent le mouvement avec les muscles.\nLes os sont aussi un tissu vivant qui se renouvelle en permanence.",
@@ -377,7 +377,7 @@
   {
     "id": "corps-humain-010",
     "domain": "corps-humain",
-    "subtheme": "Anatomistes & médecins",
+    "subtheme": "Médecine et médecins",
     "type": "personnage",
     "title": "Marie Curie",
     "subtitle": "Physicienne et chimiste, pionnière de la radioactivité médicale",
@@ -532,7 +532,7 @@
   {
     "id": "corps-humain-014",
     "domain": "corps-humain",
-    "subtheme": "Découvertes médicales",
+    "subtheme": "Médecine et médecins",
     "type": "date",
     "title": "La première vaccination",
     "summary": "En 1796, le médecin anglais Edward Jenner réalise la première vaccination connue, en utilisant la variole de la vache pour protéger contre la variole humaine.\nCe geste est à l'origine du mot « vaccin », dérivé du latin vacca (vache).",
@@ -611,7 +611,7 @@
   {
     "id": "corps-humain-016",
     "domain": "corps-humain",
-    "subtheme": "Système osseux",
+    "subtheme": "Squelette et muscles",
     "type": "classique",
     "title": "Les muscles",
     "summary": "Les muscles squelettiques permettent le mouvement en se contractant, généralement en travaillant par paires opposées autour d'une articulation.\nLe corps humain compte plusieurs centaines de muscles squelettiques.",
@@ -654,7 +654,7 @@
   {
     "id": "corps-humain-017",
     "domain": "corps-humain",
-    "subtheme": "Organes",
+    "subtheme": "Organes et fonctions",
     "type": "classique",
     "title": "Le cerveau",
     "summary": "Le cerveau humain pèse environ 1,4 kg mais consomme à lui seul environ 20 % de l'énergie du corps.\nIl contrôle nos mouvements, nos sens, notre mémoire, nos émotions et notre pensée.",
@@ -698,7 +698,7 @@
   {
     "id": "corps-humain-018",
     "domain": "corps-humain",
-    "subtheme": "Organes",
+    "subtheme": "Organes et fonctions",
     "type": "classique",
     "title": "Le foie",
     "summary": "Le foie est le plus gros organe interne : environ 1,5 kg. Véritable usine chimique, il assure plus de 300 fonctions vitales.\nC'est aussi le seul organe capable de se régénérer presque entièrement.",
@@ -741,7 +741,7 @@
   {
     "id": "corps-humain-019",
     "domain": "corps-humain",
-    "subtheme": "Organes",
+    "subtheme": "Organes et fonctions",
     "type": "classique",
     "title": "Les reins",
     "summary": "Les deux reins, de la taille d'un poing, filtrent le sang en permanence pour éliminer les déchets et l'excès d'eau sous forme d'urine.\nIls régulent aussi la tension artérielle et l'équilibre en sels minéraux.",
@@ -781,7 +781,7 @@
   {
     "id": "corps-humain-020",
     "domain": "corps-humain",
-    "subtheme": "Organes",
+    "subtheme": "Organes et fonctions",
     "type": "classique",
     "title": "La peau",
     "summary": "La peau est le plus grand organe du corps : environ 2 m² et 4 kg chez un adulte.\nElle nous protège des microbes, des UV et de la déshydratation, régule notre température et nous permet de sentir le toucher.",
@@ -824,7 +824,7 @@
   {
     "id": "corps-humain-021",
     "domain": "corps-humain",
-    "subtheme": "Fonctions",
+    "subtheme": "Organes et fonctions",
     "type": "classique",
     "title": "Le sang",
     "summary": "Un adulte possède environ 5 litres de sang, qui transportent oxygène, nutriments, hormones et défenses immunitaires dans tout le corps.\nLe sang est composé de plasma et de cellules : globules rouges, globules blancs et plaquettes.",
@@ -867,7 +867,7 @@
   {
     "id": "corps-humain-022",
     "domain": "corps-humain",
-    "subtheme": "Fonctions",
+    "subtheme": "Organes et fonctions",
     "type": "classique",
     "title": "Le sommeil",
     "summary": "Nous passons environ un tiers de notre vie à dormir. Le sommeil n'est pas un simple repos : il est indispensable à la mémoire, à la santé et à la régulation des émotions.\nUne nuit est composée de plusieurs cycles d'environ 90 minutes.",
@@ -907,7 +907,7 @@
   {
     "id": "corps-humain-023",
     "domain": "corps-humain",
-    "subtheme": "Fonctions",
+    "subtheme": "Organes et fonctions",
     "type": "classique",
     "title": "Le système immunitaire",
     "summary": "Le système immunitaire défend l'organisme contre les microbes, les parasites et les cellules anormales.\nIl combine une défense rapide mais peu ciblée (immunité innée) et une défense spécialisée qui garde la mémoire des ennemis (immunité adaptative).",
@@ -940,7 +940,7 @@
   {
     "id": "corps-humain-024",
     "domain": "corps-humain",
-    "subtheme": "Fonctions",
+    "subtheme": "Organes et fonctions",
     "type": "classique",
     "title": "L'oreille et l'audition",
     "summary": "L'oreille transforme les vibrations de l'air en signaux nerveux que le cerveau interprète comme des sons.\nElle abrite aussi l'organe de l'équilibre.",
@@ -976,7 +976,7 @@
   {
     "id": "corps-humain-025",
     "domain": "corps-humain",
-    "subtheme": "Fonctions",
+    "subtheme": "Organes et fonctions",
     "type": "vocabulaire",
     "title": "Hormone vs neurotransmetteur",
     "summary": "Une hormone est une molécule messagère libérée dans le sang, qui agit à distance et souvent lentement ; un neurotransmetteur est libéré dans une synapse et agit localement et très vite entre deux neurones.\nCertaines molécules, comme l'adrénaline, jouent les deux rôles.",
@@ -1004,7 +1004,7 @@
   {
     "id": "corps-humain-026",
     "domain": "corps-humain",
-    "subtheme": "Médecine",
+    "subtheme": "Médecine et médecins",
     "type": "personnage",
     "title": "Hippocrate",
     "summary": "Médecin grec (vers 460 - vers 370 av. J.-C.), Hippocrate est considéré comme le père de la médecine occidentale.\nIl sépare la médecine de la religion en cherchant des causes naturelles aux maladies.",
@@ -1040,7 +1040,7 @@
   {
     "id": "corps-humain-027",
     "domain": "corps-humain",
-    "subtheme": "Médecine",
+    "subtheme": "Médecine et médecins",
     "type": "date",
     "title": "1895 : La découverte des rayons X",
     "summary": "Le 8 novembre 1895, le physicien allemand Wilhelm Röntgen découvre par hasard un rayonnement invisible capable de traverser la matière.\nEn quelques mois, la radiographie révolutionne la médecine en permettant de voir l'intérieur du corps sans l'ouvrir.",
@@ -1078,7 +1078,7 @@
   {
     "id": "corps-humain-028",
     "domain": "corps-humain",
-    "subtheme": "Médecine",
+    "subtheme": "Médecine et médecins",
     "type": "personnage",
     "title": "Florence Nightingale",
     "summary": "Infirmière britannique (1820-1910), Florence Nightingale a fondé les soins infirmiers modernes.\nPendant la guerre de Crimée, ses mesures d'hygiène font chuter la mortalité des soldats blessés, et elle utilise des graphiques statistiques pour convaincre les autorités.",
@@ -1129,7 +1129,7 @@
   {
     "id": "corps-humain-029",
     "domain": "corps-humain",
-    "subtheme": "Médecine",
+    "subtheme": "Médecine et médecins",
     "type": "classique",
     "title": "L'anesthésie",
     "summary": "Avant le milieu du XIXe siècle, les opérations se faisaient à vif, et les chirurgiens devaient opérer le plus vite possible.\nLa découverte de l'anesthésie générale, en 1846, a transformé la chirurgie.",
@@ -1154,5 +1154,1814 @@
       ]
     },
     "source": "D'après Wikipédia — Anesthésie"
+  },
+  {
+    "id": "corps-humain-030",
+    "domain": "corps-humain",
+    "subtheme": "Organes et fonctions",
+    "type": "classique",
+    "title": "L'estomac",
+    "subtitle": "Poche musculaire du tube digestif, entre l'œsophage et le duodénum",
+    "summary": "L'estomac est une poche en forme de J située entre l'œsophage et le duodénum. Vide, il contient environ un demi-litre ; plein, il peut en accueillir jusqu'à 4.\nIl malaxe les aliments avec le suc gastrique, riche en acide chlorhydrique et en enzymes, et les transforme en une pâte appelée chyme. Celle-ci passe ensuite petit à petit dans l'intestin par le pylore.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un malaxeur et un bain d'acide",
+          "texte": "La paroi de l'estomac compte trois couches de muscles, dont une oblique qu'on ne trouve nulle part ailleurs dans le tube digestif. Elle brasse les aliments pendant que des cellules spécialisées sécrètent l'acide et le pepsinogène, qui devient pepsine active en milieu acide. Les protéines commencent à être découpées ici, et du mucus protège la paroi contre sa propre acidité."
+        },
+        {
+          "titre": "Un sas qui ne s'ouvre qu'à petite dose",
+          "texte": "Deux sphincters ferment la poche : le cardia, côté œsophage, et le pylore, côté intestin. Pendant la digestion, des vagues de contraction, environ trois par minute, poussent le contenu vers le pylore, qui ne laisse passer qu'un peu de chyme à la fois. Les liquides sortent en premier, les graisses en dernier. Un estomac qui se vide lentement n'est donc pas un défaut : il dose l'arrivée des calories."
+        }
+      ],
+      "anecdotes": [
+        "L'estomac possède son propre système nerveux local, avec une sorte de métronome qui rythme les contractions du bas de la poche. À la naissance, il ne peut contenir qu'environ 30 millilitres : c'est pourquoi un nouveau-né mange si souvent."
+      ],
+      "wikipedia": "Estomac"
+    },
+    "source": "D'après Wikipédia — Estomac"
+  },
+  {
+    "id": "corps-humain-031",
+    "domain": "corps-humain",
+    "subtheme": "Organes et fonctions",
+    "type": "classique",
+    "title": "Le pancréas",
+    "subtitle": "Glande à double fonction, digestive et hormonale",
+    "summary": "Le pancréas est une glande d'environ 18 cm, cachée derrière l'estomac. Son nom grec signifie « tout en chair ».\nIl a deux métiers : fabriquer le suc pancréatique, riche en enzymes qui digèrent sucres, graisses et protéines dans le duodénum, et produire des hormones comme l'insuline et le glucagon, qui règlent le taux de sucre dans le sang.",
+    "details": {
+      "sections": [
+        {
+          "titre": "La partie digestive : 99 % de la glande",
+          "texte": "La grande majorité du pancréas est faite d'acini, de petits amas de cellules qui fabriquent des enzymes sous forme inactive. Elles ne s'activent qu'une fois dans l'intestin, ce qui protège la glande contre sa propre digestion. Le suc contient aussi des bicarbonates, environ 2 litres par jour, qui neutralisent l'acidité venue de l'estomac."
+        },
+        {
+          "titre": "La partie hormonale : les îlots de Langerhans",
+          "texte": "Dispersés dans la glande, ces îlots ne représentent que 1 % de sa masse, mais reçoivent 10 % de son sang. Les cellules bêta (environ 70 %) produisent l'insuline, qui fait baisser la glycémie ; les cellules alpha (environ 20 %) fabriquent le glucagon, qui la fait remonter. Un rôle de la glande dans le diabète est connu depuis 1889, et celui de l'insuline a été identifié en 1921."
+        }
+      ],
+      "anecdotes": [
+        "Le pancréas a été décrit pour la première fois par Hérophile, anatomiste grec de l'Antiquité, puis baptisé bien plus tard par un autre Grec, Rufus. Chez certaines personnes, ses deux ébauches embryonnaires ne fusionnent pas : c'est le « pancréas divisum », sans conséquence sur le fonctionnement."
+      ],
+      "wikipedia": "Pancréas"
+    },
+    "source": "D'après Wikipédia — Pancréas"
+  },
+  {
+    "id": "corps-humain-032",
+    "domain": "corps-humain",
+    "subtheme": "Organes et fonctions",
+    "type": "classique",
+    "title": "La thyroïde",
+    "subtitle": "Glande endocrine en forme de papillon, à la base du cou",
+    "summary": "La thyroïde est une glande d'environ 25 grammes, située à l'avant du cou, de part et d'autre de la trachée. Elle a deux lobes reliés par un pont de tissu, l'isthme.\nElle fabrique les hormones T3 et T4, qui règlent le rythme du métabolisme, ainsi que la calcitonine, liée au calcium. Pour cela, elle a besoin d'iode, qu'elle capte dans le sang.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un piège à iode",
+          "texte": "La glande est faite de milliers de petites sphères, les follicules, remplies d'une substance appelée colloïde. Les cellules y piègent l'iode, un élément peu abondant sur notre planète, et le fixent sur une protéine, la thyroglobuline, avant de libérer les hormones dans le sang. Sans assez d'iode, la glande grossit : c'est le goitre."
+        },
+        {
+          "titre": "Un thermostat commandé par le cerveau",
+          "texte": "L'hypothalamus envoie un signal à l'hypophyse, qui sécrète la TSH, laquelle stimule la thyroïde. Les hormones thyroïdiennes agissent sur le rythme du métabolisme, sur la synthèse des protéines et sur la croissance des enfants. Un excès comme un manque de ces hormones perturbe tout l'organisme, d'où la place de ce petit organe dans les bilans sanguins."
+        }
+      ],
+      "anecdotes": [
+        "Chez l'embryon, la thyroïde naît à la base de la langue, vers la troisième ou quatrième semaine, puis descend dans le cou en restant reliée à la langue par un fin canal. Il en reste une trace chez certains adultes : le lobe pyramidal de Lalouette. Et à chaque déglutition, la glande monte et descend avec le larynx."
+      ],
+      "wikipedia": "Glande thyroïde"
+    },
+    "source": "D'après Wikipédia — Glande thyroïde"
+  },
+  {
+    "id": "corps-humain-033",
+    "domain": "corps-humain",
+    "subtheme": "Organes et fonctions",
+    "type": "classique",
+    "title": "L'intestin grêle",
+    "subtitle": "Le grand lieu de l'absorption des nutriments",
+    "summary": "L'intestin grêle relie l'estomac au gros intestin. Il mesure environ 6 mètres selon la technique de mesure, de 4 à 7 mètres, et se replie sur lui-même dans l'abdomen. Il se divise en trois segments : duodénum, jéjunum et iléon.\nC'est ici que la plupart des nutriments passent dans le sang et la lymphe. Il est « grêle » parce qu'il est étroit, pas parce qu'il est court.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Trois segments, trois rôles",
+          "texte": "Le duodénum, court (environ 25 cm, soit « douze travers de doigt »), reçoit le chyme, la bile et le suc pancréatique, qui neutralisent l'acidité. Le jéjunum, d'environ 2,5 m, absorbe sucres, acides aminés et acides gras. L'iléon, d'environ 3,5 m, récupère notamment la vitamine B12 et les sels biliaires, puis débouche sur le gros intestin."
+        },
+        {
+          "titre": "Une surface d'échange démesurée",
+          "texte": "La muqueuse est plissée, couverte de villosités elles-mêmes couvertes de microvillosités. Cela multiplie la surface d'absorption : les sources parlent de 30 à 250 mètres carrés selon les estimations, jusqu'à un terrain de tennis. Les hormones sécrétine et cholécystokinine y déclenchent la libération des sucs du pancréas et de la bile."
+        }
+      ],
+      "anecdotes": [
+        "Chez l'embryon, l'intestin grêle grandit si vite qu'il déborde de l'abdomen et sort par le nombril. Vers la dixième semaine, il rentre et tourne sur lui-même pour trouver sa place. Aujourd'hui, on l'explore avec une capsule-caméra étanche que le patient avale."
+      ],
+      "wikipedia": "Intestin grêle"
+    },
+    "source": "D'après Wikipédia — Intestin grêle"
+  },
+  {
+    "id": "corps-humain-034",
+    "domain": "corps-humain",
+    "subtheme": "Organes et fonctions",
+    "type": "classique",
+    "title": "L'hypothalamus",
+    "subtitle": "Petit centre de commande du cerveau, de la taille d'une amande",
+    "summary": "L'hypothalamus est une petite région située sous le thalamus, d'où son nom (« sous la chambre » en grec). Il a la taille d'une amande et tous les vertébrés en possèdent un.\nIl fait le lien entre le système nerveux et le système hormonal grâce à l'hypophyse. Il surveille la température, la faim, la soif, la fatigue, le sommeil et l'horloge interne du corps.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le lien entre nerfs et hormones",
+          "texte": "L'hypothalamus fabrique des neurohormones qui voyagent par la tige hypophysaire. Elles stimulent ou freinent la sécrétion des hormones de l'hypophyse, qui commande à son tour d'autres glandes. Il produit aussi lui-même la vasopressine et l'ocytocine, libérées dans le sang par l'hypophyse. C'est à la fois un capteur, qui mesure le sang et reçoit des signaux de l'estomac ou du cœur, et un centre qui décide de la réponse."
+        },
+        {
+          "titre": "Faim, fièvre et horloge interne",
+          "texte": "Des noyaux de l'hypothalamus règlent la prise de nourriture : l'un joue le rôle de centre de la faim, l'autre de centre de la satiété. Il réagit à des hormones comme la leptine, produite par la graisse corporelle. Quand il détecte des signaux d'infection, il relève le « thermostat » du corps : c'est la fièvre. Son noyau suprachiasmatique, sensible à la lumière, sert d'horloge principale aux rythmes jour-nuit."
+        }
+      ],
+      "anecdotes": [
+        "Quand la lumière baisse le soir, l'hypothalamus pousse l'hypophyse à libérer de la vasopressine, qui fait retenir l'eau par l'organisme. Comme on ne boit pas pendant le sommeil, le corps limite ainsi ses pertes d'eau pour rester hydraté jusqu'au matin."
+      ],
+      "wikipedia": "Hypothalamus"
+    },
+    "source": "D'après Wikipédia — Hypothalamus"
+  },
+  {
+    "id": "corps-humain-035",
+    "domain": "corps-humain",
+    "subtheme": "Organes et fonctions",
+    "type": "classique",
+    "title": "Le cervelet",
+    "subtitle": "Le « petit cerveau » qui coordonne les mouvements",
+    "summary": "Le cervelet, « petit cerveau » en latin, se loge sous les hémisphères cérébraux, derrière le tronc cérébral. Il ne représente que 10 % du volume du cerveau.\nIl ne déclenche pas les mouvements : il les rend précis. Il reçoit des informations des sens, du cerveau et de la moelle épinière, et ajuste la coordination, l'équilibre, la posture et le timing des gestes.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Précision, équilibre et apprentissage",
+          "texte": "Quand le cervelet est abîmé, il n'y a pas de paralysie, mais des mouvements imprécis, un équilibre et une démarche perturbés. Il est aussi nécessaire à l'apprentissage moteur, par exemple pour recalibrer un geste. Selon la théorie de Marr et Albus, une fibre « grimpante » jouerait le rôle de signal d'enseignement, mais cette idée reste discutée. Il intervient aussi, plus modestement, dans l'attention et le langage."
+        },
+        {
+          "titre": "Un champion des neurones",
+          "texte": "Il compte environ 3,6 neurones pour un seul du néocortex, surtout grâce aux cellules granulaires : environ 50 milliards, soit les trois quarts des neurones du cerveau. Autre vedette, la cellule de Purkinje, décrite en 1837 par Jan Purkinje : un seul de ces neurones peut porter jusqu'à 200 000 épines recevant chacune une synapse, un record du cerveau."
+        }
+      ],
+      "anecdotes": [
+        "La surface du cervelet est striée de fins sillons parallèles, car elle est en réalité une mince couche de tissu plissée comme un accordéon. Dépliée, elle formerait un ruban d'environ un mètre de long. Chez certains poissons, les mormyres, le cervelet peut même égaler ou dépasser le cerveau en taille."
+      ],
+      "wikipedia": "Cervelet"
+    },
+    "source": "D'après Wikipédia — Cervelet"
+  },
+  {
+    "id": "corps-humain-036",
+    "domain": "corps-humain",
+    "subtheme": "Organes et fonctions",
+    "type": "classique",
+    "title": "La moelle épinière",
+    "subtitle": "Le câble principal du système nerveux, dans la colonne vertébrale",
+    "summary": "La moelle épinière, aussi appelée moelle spinale, prolonge le tronc cérébral et descend dans le canal de la colonne vertébrale, qui la protège. Elle mesure environ 45 cm chez l'adulte et pèse une trentaine de grammes.\nElle transmet les messages entre le cerveau et le corps, et commande certains réflexes sans passer par le cerveau.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une autoroute à deux sens, avec des raccourcis",
+          "texte": "Elle est divisée en 31 segments, chacun donnant une paire de nerfs spinaux : par l'arrière arrivent les informations sensorielles, par l'avant partent les ordres aux muscles. Elle renferme aussi des circuits qui gèrent seuls les réflexes. Elle compte deux renflements, l'un pour les bras, l'autre pour les jambes, et en coupe, sa matière grise dessine un papillon."
+        },
+        {
+          "titre": "Plus qu'un simple câble",
+          "texte": "Des réseaux de neurones spinaux, appelés générateurs centraux de rythme, produisent la base de la marche. Sous l'ordre du cerveau, ils peuvent fonctionner presque seuls dans certaines expériences. Vers 2006-2007, on a montré qu'un même mouvement pouvait être produit par des réseaux différents à chaque fois : la moelle est donc plutôt un prolongement complexe du cerveau qu'une gaine de câbles."
+        }
+      ],
+      "anecdotes": [
+        "La moelle arrête de grandir vers 4 ans, alors que la colonne continue de s'allonger jusqu'à l'âge adulte. Chez l'adulte, elle s'arrête donc entre la première et la deuxième vertèbre lombaire, et les nerfs du bas du dos descendent en faisceau : la « queue de cheval »."
+      ],
+      "wikipedia": "Moelle spinale"
+    },
+    "source": "D'après Wikipédia — Moelle spinale"
+  },
+  {
+    "id": "corps-humain-037",
+    "domain": "corps-humain",
+    "subtheme": "Organes et fonctions",
+    "type": "classique",
+    "title": "Le diaphragme",
+    "subtitle": "Le grand muscle de la respiration, propre aux mammifères",
+    "summary": "Le diaphragme est un muscle en forme de dôme qui sépare le thorax de l'abdomen. Son nom vient du grec et signifie « cloison ». Il est propre aux mammifères.\nC'est le principal muscle de la respiration : en se contractant, il s'abaisse et crée une dépression dans le thorax, ce qui fait entrer l'air dans les poumons. En se relâchant, il laisse l'air ressortir passivement.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Respirer sans y penser, ou presque",
+          "texte": "Chaque contraction du diaphragme lance un cycle respiratoire, sous le contrôle automatique du tronc cérébral. On peut pourtant en modifier le rythme volontairement. Quand il s'abaisse d'un centimètre, environ 500 mL d'air entrent dans les voies respiratoires. En descendant, il comprime les organes de l'abdomen : le ventre se gonfle, d'où l'expression « respiration abdominale »."
+        },
+        {
+          "titre": "Un muscle gourmand, percé de trois passages",
+          "texte": "Il consomme beaucoup d'oxygène : il possède plus de mitochondries et de capillaires que tout autre muscle squelettique. Il est percé de grands orifices pour l'aorte, l'œsophage et la veine cave inférieure. Sa moitié droite est plus haute que la gauche, car le gros foie se trouve juste en dessous. Ce mot d'anatomie a été inventé par Gérard de Crémone."
+        }
+      ],
+      "anecdotes": [
+        "Le nerf phrénique, qui commande le diaphragme, naît dans le cou (vertèbres C3 à C5) et descend jusqu'à lui. Ce détour s'explique par l'embryon : la première ébauche du diaphragme se forme près du cou, puis descend, et le nerf la suit."
+      ],
+      "wikipedia": "Diaphragme (organe)"
+    },
+    "source": "D'après Wikipédia — Diaphragme (organe)"
+  },
+  {
+    "id": "corps-humain-038",
+    "domain": "corps-humain",
+    "subtheme": "Organes et fonctions",
+    "type": "classique",
+    "title": "L'insuline",
+    "subtitle": "Hormone du pancréas qui règle le sucre dans le sang, découverte en 1921",
+    "summary": "L'insuline est une hormone produite par les cellules bêta des îlots de Langerhans du pancréas. Son nom vient du latin insula, « île ».\nAprès un repas, elle aide le glucose du sang à entrer dans le foie, les muscles et les cellules graisseuses, où il est mis en réserve. Quand elle manque ou agit mal, c'est le diabète. Sa découverte, en 1921-1922, a transformé le sort des malades.",
+    "details": {
+      "sections": [
+        {
+          "titre": "L'hormone qui met en réserve",
+          "texte": "Plus la glycémie monte, plus les cellules bêta libèrent d'insuline. L'hormone favorise le stockage du glucose en glycogène ou en graisses et freine sa libération par le foie. Elle agit aussi sur les protéines et la croissance : c'est une hormone « anabolisante ». Son partenaire, le glucagon, fait l'inverse quand le sucre manque. Chez les mammifères, sans insuline, la vie ne dépasse pas quelques mois."
+        },
+        {
+          "titre": "De Strasbourg à Toronto",
+          "texte": "En 1889, Mering et Minkowski montrent à Strasbourg que des chiens sans pancréas deviennent diabétiques. En 1921, Banting et Best, dans le laboratoire de Macleod à Toronto, préparent un extrait actif ; le biochimiste Collip le purifie. Le 11 janvier 1922, Leonard Thompson, 14 ans, reçoit la première injection. Banting et Macleod obtiennent le Nobel en 1923, et le brevet est cédé pour un dollar symbolique."
+        }
+      ],
+      "anecdotes": [
+        "Certains escargots de mer, les cônes, utilisent de l'insuline comme arme : mêlée à leur venin, elle fait chuter le taux de sucre des petits poissons qu'ils chassent et les ralentit. Autre record : l'insuline fut la première protéine dont la structure complète a été établie, par Frederick Sanger (Nobel de chimie 1958)."
+      ],
+      "wikipedia": "Insuline"
+    },
+    "source": "D'après Wikipédia — Insuline"
+  },
+  {
+    "id": "corps-humain-039",
+    "domain": "corps-humain",
+    "subtheme": "Organes et fonctions",
+    "type": "classique",
+    "title": "L'adrénaline",
+    "subtitle": "Hormone et neurotransmetteur du stress, aussi appelée épinéphrine",
+    "summary": "L'adrénaline est à la fois une hormone et un neurotransmetteur de la famille des catécholamines. Elle est surtout libérée par les glandes surrénales, au-dessus des reins, en cas de stress ou d'effort.\nElle prépare le corps à agir : le cœur accélère, les bronches et les pupilles se dilatent, le sucre du sang augmente. C'est la réaction de « combat ou fuite ». Son effet est bref : environ deux minutes.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Deux noms, une même molécule",
+          "texte": "« Adrénaline » dérive du latin ad renes, « à côté du rein » ; « épinéphrine », employé aux États-Unis, vient du grec et signifie « au-dessus du rein ». Aux États-Unis, la firme Parke-Davis avait déposé la marque « Adrenalin ». La médullosurrénale en fournit plus de 90 % de l'adrénaline circulante. Elle agit en se fixant sur des récepteurs alpha et bêta, d'où ses effets variés selon les organes."
+        },
+        {
+          "titre": "Une découverte en quelques années",
+          "texte": "En 1894, Oliver et Schafer observent qu'un extrait de glandes surrénales fait monter la pression. En 1897, John Abel isole la molécule à partir de glandes de mouton. Le Japonais Jokichi Takamine produit ensuite des extraits purs, et le premier brevet américain date de 1911. Walter Cannon a décrit le rôle de ce système dans les réactions de combat ou de fuite."
+        }
+      ],
+      "anecdotes": [
+        "Le mot « adrénergique » est trompeur : en 1946, Ulf von Euler a montré que le principal messager des nerfs sympathiques n'est pas l'adrénaline mais la noradrénaline. L'adrénaline renforce aussi les souvenirs : les événements chargés d'émotion se gravent plus fortement dans la mémoire."
+      ],
+      "wikipedia": "Adrénaline"
+    },
+    "source": "D'après Wikipédia — Adrénaline"
+  },
+  {
+    "id": "corps-humain-040",
+    "domain": "corps-humain",
+    "subtheme": "Organes et fonctions",
+    "type": "classique",
+    "title": "La mélatonine",
+    "subtitle": "L'hormone de la nuit, produite par la glande pinéale",
+    "summary": "La mélatonine est une hormone fabriquée surtout la nuit par la glande pinéale, au cœur du cerveau. On l'appelle souvent « hormone du sommeil », mais elle sert surtout de signal : il fait nuit.\nElle aide à synchroniser l'horloge interne du corps sur le cycle jour-nuit. La lumière freine sa production, notamment celle des écrans et des LED, riche en bleu.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Fabriquée à partir de la sérotonine",
+          "texte": "Le corps part d'un acide aminé, le tryptophane, qui donne la sérotonine, elle-même transformée en mélatonine à la tombée de la nuit. La sécrétion culmine vers 5 heures du matin en moyenne. Chez l'adulte, la production quotidienne est d'environ 30 microgrammes, dont près de 80 % la nuit. Chez le nourrisson, le rythme ne s'installe que vers le troisième mois."
+        },
+        {
+          "titre": "Un repère pour les saisons",
+          "texte": "Le noyau suprachiasmatique, dans l'hypothalamus, fait office d'horloge principale. La durée de la sécrétion nocturne varie avec la longueur des nuits : c'est un signal de saison pour de nombreux animaux (pelage, reproduction, comportements). La mélatonine est aussi un antioxydant, présente jusque dans les mitochondries, et on en trouve chez des plantes, par exemple dans les noix et les noisettes."
+        }
+      ],
+      "anecdotes": [
+        "La mélatonine a été découverte en 1958 par Aaron Lerner et son équipe, en cherchant une substance de la glande pinéale de bœuf capable d'éclaircir la peau des grenouilles. Julius Axelrod a ensuite montré son rôle sur le cycle du sommeil et les rythmes circadiens."
+      ],
+      "wikipedia": "Mélatonine"
+    },
+    "source": "D'après Wikipédia — Mélatonine"
+  },
+  {
+    "id": "corps-humain-041",
+    "domain": "corps-humain",
+    "subtheme": "Organes et fonctions",
+    "type": "classique",
+    "title": "La dopamine",
+    "subtitle": "Neurotransmetteur de la motivation, du mouvement et de la récompense",
+    "summary": "La dopamine est un neurotransmetteur de la famille des catécholamines. Elle est surtout fabriquée dans deux petites régions du mésencéphale : la substance noire et l'aire tegmentale ventrale.\nElle joue un rôle clé dans la motivation, la récompense et le contrôle des mouvements. Avec la noradrénaline et la sérotonine, elle concerne moins de 1 % des neurones, mais elle influence l'ensemble du cerveau.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Trois grandes voies",
+          "texte": "La voie nigrostriée, qui représente 80 % des neurones dopaminergiques centraux, règle le contrôle des mouvements. La voie mésolimbique, le circuit de la récompense, intervient dans la motivation et l'addiction, car beaucoup de substances qui créent une dépendance font monter la dopamine. La voie mésocorticale touche le cortex préfrontal : concentration et mémoire de travail. Hormone, elle freine aussi la prolactine."
+        },
+        {
+          "titre": "Une découverte récompensée par un Nobel",
+          "texte": "La dopamine fut synthétisée en 1910. En 1958, Arvid Carlsson et Nils-Åke Hillarp montrent qu'elle n'est pas seulement une étape de fabrication de l'adrénaline et de la noradrénaline, mais un vrai neurotransmetteur. Nobel 2000 pour Carlsson. Dans la maladie de Parkinson, les neurones à dopamine de la substance noire dégénèrent ; la L-DOPA, qui franchit la barrière du cerveau, est transformée en dopamine."
+        }
+      ],
+      "anecdotes": [
+        "On présente souvent la dopamine comme la « molécule du plaisir ». Les spécialistes préfèrent dire qu'elle signale l'importance d'un résultat, et dirige le comportement vers ou loin de lui : l'attente d'une récompense fait monter la dopamine. Son nom vient de son précurseur, la L-DOPA."
+      ],
+      "wikipedia": "Dopamine"
+    },
+    "source": "D'après Wikipédia — Dopamine"
+  },
+  {
+    "id": "corps-humain-042",
+    "domain": "corps-humain",
+    "subtheme": "Organes et fonctions",
+    "type": "classique",
+    "title": "La sérotonine",
+    "subtitle": "Neurotransmetteur et hormone locale, surtout fabriquée dans l'intestin",
+    "summary": "La sérotonine, ou 5-HT, est un neurotransmetteur qui intervient dans l'humeur, l'appétit et le sommeil. Mais la majeure partie, environ 90 %, est fabriquée dans l'intestin, où elle règle les mouvements digestifs.\nSeule une petite part, 1 à 2 %, se trouve dans le système nerveux central. Une autre partie est stockée dans les plaquettes du sang, qui la libèrent lors de la coagulation.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un messager aux multiples visages",
+          "texte": "Dans le cerveau, les neurones à sérotonine se trouvent surtout dans les noyaux du raphé, au centre du tronc cérébral, et envoient leurs fibres dans presque tout le système nerveux. Selon le récepteur touché, l'effet est excitant ou freinant : on connaît 14 types de récepteurs. La sérotonine aide aussi à réguler la température, la douleur et le cycle veille-sommeil. De nuit, elle sert de matière première à la mélatonine."
+        },
+        {
+          "titre": "Une histoire en deux temps",
+          "texte": "En 1946, l'Italien Vittorio Erspamer identifie dans l'intestin une substance qu'il appelle entéramine. En 1948, à Cleveland, Maurice Rapport isole dans le sang coagulé une substance qui resserre les vaisseaux : il la baptise sérotonine, de « sérum » et « tonique ». On découvre ensuite que les deux molécules n'en font qu'une. Les antidépresseurs de la famille des ISRS agissent en bloquant sa recapture par les neurones."
+        }
+      ],
+      "anecdotes": [
+        "La sérotonine est présente chez presque tous les animaux, mais aussi chez les plantes et les champignons. Dans les graines et les fruits, elle stimulerait la digestion et aiderait à disperser les graines. Autre point à connaître : malgré sa place dans la publicité pharmaceutique, l'idée qu'un faible taux de sérotonine cause la dépression n'est pas confirmée par les preuves scientifiques."
+      ],
+      "wikipedia": "Sérotonine"
+    },
+    "source": "D'après Wikipédia — Sérotonine"
+  },
+  {
+    "id": "corps-humain-043",
+    "domain": "corps-humain",
+    "subtheme": "Organes et fonctions",
+    "type": "classique",
+    "title": "Le nerf vague",
+    "subtitle": "Le dixième nerf crânien, grand chef d'orchestre des organes",
+    "summary": "Le nerf vague, ou dixième nerf crânien, part du bulbe rachidien et descend jusqu'à l'abdomen. Aucun autre nerf crânien ne couvre un territoire aussi vaste, ce qui explique son nom. Il en existe un à droite et un à gauche.\nIl fait partie du système parasympathique, qui commande le « repos et digestion » : il ralentit le cœur, active la digestion et la salive. Il contrôle aussi la voix et la déglutition.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un nerf qui parle surtout dans un sens",
+          "texte": "On dit que le nerf vague contient environ 160 000 fibres, mais les chiffres varient selon les sources. Entre 80 et 90 % d'entre elles sont sensitives : elles remontent vers le cerveau l'état du cœur, des poumons et de l'intestin. Le reste commande le cœur, les muscles lisses des organes, mais aussi des muscles de la gorge et du larynx, d'où son rôle dans la parole et le réflexe nauséeux."
+        },
+        {
+          "titre": "Au cœur de nombreux réflexes",
+          "texte": "Une stimulation excessive du nerf vague peut ralentir le cœur et provoquer un malaise vagal, avec une perte de connaissance brève. Le nerf joue aussi sur la sensation de satiété et le contrôle de l'inflammation. Les médecins utilisent la stimulation du nerf vague, grâce à une électrode implantée, pour aider certains patients atteints d'épilepsie lorsque les médicaments ne suffisent pas."
+        }
+      ],
+      "anecdotes": [
+        "En 1921, Otto Loewi a montré qu'un nerf agit par une substance chimique. Il stimula le nerf vague d'un cœur de grenouille, qui ralentit, puis transféra le liquide à un second cœur sans nerf : celui-ci ralentit aussi. Cette substance, appelée « vagusstoff », est l'acétylcholine, premier neurotransmetteur identifié."
+      ],
+      "wikipedia": "Nerf vague"
+    },
+    "source": "D'après Wikipédia — Nerf vague"
+  },
+  {
+    "id": "corps-humain-044",
+    "domain": "corps-humain",
+    "subtheme": "Organes et fonctions",
+    "type": "classique",
+    "title": "L'hippocampe",
+    "subtitle": "Structure du cerveau, centrale pour la mémoire et l'orientation",
+    "summary": "L'hippocampe est une structure du cerveau d'environ 5 cm de long, enfouie dans le lobe temporal. Il y en a un dans chaque hémisphère. Il est essentiel à la mémoire et à l'orientation dans l'espace.\nIl aide à transformer les souvenirs récents en souvenirs durables. C'est l'une des premières zones touchées par la maladie d'Alzheimer.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Mémoire et cartes dans la tête",
+          "texte": "Chez le rat, de nombreux neurones de l'hippocampe sont des « cellules de lieu » : elles s'activent quand l'animal passe à un endroit précis, comme si elles dessinaient une carte. Il sert aussi de modèle d'étude : c'est là qu'a été découverte la potentialisation à long terme, un mécanisme majeur de stockage des souvenirs. Il fait partie des rares zones où naissent de nouveaux neurones à l'âge adulte."
+        },
+        {
+          "titre": "Le cas H.M.",
+          "texte": "Henry Molaison, connu sous ses initiales H.M. jusqu'à sa mort en 2008, subit une chirurgie contre l'épilepsie : son hippocampe fut retiré. Il ne pouvait plus former de nouveaux souvenirs épisodiques, mais gardait ceux de l'enfance. Étudié par Scoville et Brenda Milner, il est resté le patient le plus étudié de toute l'histoire médicale, et son cas a établi l'importance de l'hippocampe pour la mémoire."
+        }
+      ],
+      "anecdotes": [
+        "Son nom vient de sa forme : en 1587, l'anatomiste Aranzi le comparait à un hippocampe (le cheval de mer) ou à un ver à soie. On a aussi parlé de « corne de bélier », d'où les zones CA1 à CA4, pour cornu Ammonis. En 1861, une querelle entre Huxley et Owen sur le « petit hippocampe » fut surnommée la « grande question hippocampique »."
+      ],
+      "wikipedia": "Hippocampe (cerveau)"
+    },
+    "source": "D'après Wikipédia — Hippocampe (cerveau)"
+  },
+  {
+    "id": "corps-humain-045",
+    "domain": "corps-humain",
+    "subtheme": "Sens",
+    "type": "classique",
+    "title": "L'olfaction",
+    "subtitle": "L'odorat, sens des molécules volatiles de l'air",
+    "summary": "L'olfaction, ou odorat, analyse les substances chimiques volatiles de l'air. Les molécules se fixent sur des récepteurs, dans la muqueuse olfactive du nez, qui envoient un signal au bulbe olfactif puis au cerveau.\nLongtemps considéré comme un sens faible chez l'être humain, l'odorat s'est révélé bien plus fin qu'on ne le pensait. Notre nez distingue des centaines de substances, là où la langue ne perçoit que cinq saveurs.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un code fait de combinaisons",
+          "texte": "Les récepteurs olfactifs forment l'une des plus grandes familles de gènes humains : plus de 1 000 gènes, soit environ 3 % de notre génome, dont seuls 350 à 400 sont encore actifs. Chaque neurone n'exprime qu'un type de récepteur, et une odeur active une combinaison propre. Linda Buck et Richard Axel ont reçu le prix Nobel 2004 pour avoir décrit ces récepteurs. Une étude de 2014 suggère que nous pourrions distinguer plus d'un billion d'odeurs."
+        },
+        {
+          "titre": "Un sens à part dans le cerveau",
+          "texte": "L'odorat est le seul sens qui contourne le thalamus pour se relier directement à l'avant du cerveau. Ses neurones se renouvellent tous les un ou deux mois. Il joue aussi un rôle clé dans la flaveur : en mâchant, les arômes remontent par l'arrière du nez. Chez l'animal, il peut être spectaculaire : les bulbes olfactifs du pétrel des neiges occupent un tiers de son cerveau, et les chiens sont des milliers de fois plus sensibles que nous."
+        }
+      ],
+      "anecdotes": [
+        "Aimer ou détester la coriandre est lié en partie à la génétique : une variante du récepteur olfactif OR6A2 a été associée à cette préférence. Autre surprise : en Suède, deux labradors ont aidé à repérer 1,3 tonne de mercure dans des écoles, lors du projet « Mercurius 98 »."
+      ],
+      "wikipedia": "Olfaction"
+    },
+    "source": "D'après Wikipédia — Olfaction"
+  },
+  {
+    "id": "corps-humain-046",
+    "domain": "corps-humain",
+    "subtheme": "Santé et maladies",
+    "type": "vocabulaire",
+    "title": "Groupe sanguin : A, B, AB, O",
+    "subtitle": "Classification du sang, découverte en 1900-1901",
+    "summary": "Un groupe sanguin décrit les marqueurs, appelés antigènes, qui tapissent la surface des globules rouges. Le système ABO distingue quatre groupes : A, B, AB et O, et le signe + ou − indique la présence du facteur Rhésus D.\nCes marqueurs sont hérités de nos parents. Ils comptent surtout pour les transfusions : mélanger deux sangs incompatibles peut déclencher une réaction très grave.",
+    "details": {
+      "definition": "Classification du sang fondée sur les antigènes hérités présents à la surface des globules rouges.",
+      "exemple": "Une personne de groupe A porte l'antigène A sur ses globules rouges et possède des anticorps contre le B ; une personne AB porte les deux antigènes et n'a aucun de ces deux anticorps.",
+      "confusions": [
+        {
+          "mot": "Facteur Rhésus",
+          "explication": "C'est le deuxième système en importance : le signe + ou − indique la présence ou l'absence de l'antigène D."
+        },
+        {
+          "mot": "Système HLA",
+          "explication": "Découvert par Jean Dausset, il marque presque toutes les cellules du corps, pas seulement le sang."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une découverte née des transfusions",
+          "texte": "En 1667, Jean-Baptiste Denis réussit sous Louis XIV la plus ancienne transfusion bien documentée, mais le Parlement de Paris interdit la pratique en 1668. Tout change avec Karl Landsteiner : en 1900-1901, ce médecin autrichien montre que certains sangs humains s'agglutinent quand on les mélange et identifie les groupes A, B et O. Ses élèves ajoutent le groupe AB en 1902. Il reçoit le prix Nobel en 1930."
+        },
+        {
+          "titre": "Bien plus que quatre groupes",
+          "texte": "Le système Rhésus, mis en évidence en 1939-1940, est le deuxième en importance. Les personnes Rhésus négatif sont rares en Asie (0,3 %) mais beaucoup plus nombreuses en Europe (15 %). En 2025, on dénombre 48 systèmes de groupes sanguins, dont certains très rares, comme Bombay ou Gwada négatif. Le groupe ABO et le Rhésus restent pourtant les deux repères majeurs en médecine d'urgence."
+        }
+      ],
+      "anecdotes": [
+        "Le groupe sanguin peut changer, mais c'est très rare. Après une greffe de moelle osseuse venant d'un donneur d'un autre groupe ABO, les nouveaux globules rouges du patient finissent par porter le groupe du donneur."
+      ],
+      "wikipedia": "Groupe sanguin"
+    },
+    "source": "D'après Wikipédia — Groupe sanguin"
+  },
+  {
+    "id": "corps-humain-047",
+    "domain": "corps-humain",
+    "subtheme": "Santé et maladies",
+    "type": "classique",
+    "title": "Les globules rouges",
+    "subtitle": "Les cellules du sang qui transportent l'oxygène",
+    "summary": "Les globules rouges, ou érythrocytes, sont les cellules les plus nombreuses du corps : un adulte en compte 20 à 30 mille milliards. Ce sont de petits disques souples, creusés au centre, qui n'ont pas de noyau pour laisser toute la place à l'hémoglobine.\nFabriqués dans la moelle osseuse, ils vivent environ 120 jours et accomplissent un tour complet de l'organisme en une minute.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une forme taillée pour se faufiler",
+          "texte": "Vu de profil, un globule rouge est un disque biconcave d'environ 7 micromètres de diamètre. Cette forme et un squelette interne de protéines lui donnent une grande souplesse : il se déforme pour traverser des capillaires plus étroits que lui. En perdant son noyau pendant sa fabrication, il libère de la place pour l'hémoglobine, qui occupe environ un tiers de son volume."
+        },
+        {
+          "titre": "Une usine qui ne s'arrête jamais",
+          "texte": "Chez l'adulte, la moelle osseuse des côtes, du sternum ou du bassin produit environ 2,4 millions de globules rouges par seconde. Cette fabrication, l'érythropoïèse, est stimulée par une hormone, l'érythropoïétine (EPO), produite surtout par les reins. Environ 1 % des globules rouges sont remplacés chaque jour, et les vieux sont recyclés par des cellules nettoyeuses, les macrophages."
+        }
+      ],
+      "anecdotes": [
+        "Presque tous les vertébrés ont des globules rouges, sauf les poissons de la famille des Channichthyidae, qui vivent dans des eaux froides très riches en oxygène. Leur sang transporte l'oxygène simplement dissous, sans hémoglobine."
+      ],
+      "wikipedia": "Érythrocyte"
+    },
+    "source": "D'après Wikipédia — Érythrocyte"
+  },
+  {
+    "id": "corps-humain-048",
+    "domain": "corps-humain",
+    "subtheme": "Santé et maladies",
+    "type": "classique",
+    "title": "L'hémoglobine",
+    "subtitle": "La protéine du sang qui transporte l'oxygène",
+    "summary": "L'hémoglobine est la protéine qui remplit les globules rouges. Chaque molécule contient quatre atomes de fer, qui accrochent chacun une molécule d'oxygène dans les poumons avant de la relâcher dans les tissus. Grâce à elle, le sang transporte 70 fois plus d'oxygène que s'il était simplement dissous.\nElle emporte aussi une partie du gaz carbonique, et c'est son fer qui donne au sang sa couleur rouge.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une molécule qui coopère",
+          "texte": "L'hémoglobine adulte est formée de quatre sous-unités, chacune dotée d'un hème, une cage plane qui retient un atome de fer. Quand une molécule d'oxygène s'accroche, la protéine change de forme et fixe plus facilement les suivantes. À l'inverse, elle lâche l'oxygène là où le sang est plus acide et riche en gaz carbonique, donc dans les tissus qui travaillent. C'est une coopération très efficace."
+        },
+        {
+          "titre": "Le piège du monoxyde de carbone",
+          "texte": "Le monoxyde de carbone, gaz invisible issu d'une combustion incomplète (chaudière défectueuse, pot d'échappement), se fixe sur l'hème environ 230 fois plus fortement que l'oxygène. Il empêche alors le sang d'oxygéner l'organisme, ce qui explique sa grande toxicité. L'hémoglobine liée au monoxyde de carbone est d'un rouge très vif."
+        }
+      ],
+      "anecdotes": [
+        "En 1825, Johann Friedrich Engelhart calcula la masse de l'hémoglobine à partir de sa teneur en fer. Ses collègues se moquèrent : ils ne pouvaient pas croire qu'une molécule soit si grosse. Il avait raison, comme le confirma Gilbert Adair en 1925."
+      ],
+      "wikipedia": "Hémoglobine"
+    },
+    "source": "D'après Wikipédia — Hémoglobine"
+  },
+  {
+    "id": "corps-humain-049",
+    "domain": "corps-humain",
+    "subtheme": "Santé et maladies",
+    "type": "classique",
+    "title": "Les lymphocytes",
+    "subtitle": "Les globules blancs de l'immunité spécialisée",
+    "summary": "Les lymphocytes sont des globules blancs qui forment l'élite du système immunitaire. Il en existe trois grandes familles : les lymphocytes B, qui fabriquent les anticorps, les lymphocytes T, qui coordonnent la défense ou détruisent les cellules infectées, et les cellules NK, tueuses naturelles.\nIls représentent environ 20 à 40 % des globules blancs du sang et gardent le souvenir des microbes déjà rencontrés.",
+    "details": {
+      "sections": [
+        {
+          "titre": "B et T, deux façons de combattre",
+          "texte": "Les lymphocytes B, nés dans la moelle osseuse, se transforment en plasmocytes, capables de produire jusqu'à 5 000 anticorps par seconde. Les lymphocytes T achèvent leur maturation dans le thymus. Les T cytotoxiques détruisent les cellules infectées, les T auxiliaires donnent le signal aux autres cellules immunitaires, et les T régulateurs empêchent la défense de s'attaquer à l'organisme lui-même."
+        },
+        {
+          "titre": "Une mémoire qui dure",
+          "texte": "Après une première rencontre avec un microbe, certains lymphocytes B et T deviennent des cellules mémoire. Elles survivent de quelques semaines à plusieurs années et lancent une réponse rapide et forte si le même agent revient. Les cellules NK, elles, n'ont besoin d'aucun apprentissage : elles repèrent les cellules infectées ou anormales et les détruisent. Le virus du sida s'attaque aux lymphocytes T CD4, ce qui affaiblit les défenses."
+        }
+      ],
+      "anecdotes": [
+        "Le « B » des lymphocytes B ne vient pas de « bone marrow », la moelle osseuse en anglais. Il vient de la bourse de Fabricius, un organe propre aux oiseaux, où ces cellules ont été découvertes."
+      ],
+      "wikipedia": "Lymphocyte"
+    },
+    "source": "D'après Wikipédia — Lymphocyte"
+  },
+  {
+    "id": "corps-humain-050",
+    "domain": "corps-humain",
+    "subtheme": "Santé et maladies",
+    "type": "vocabulaire",
+    "title": "Fièvre vs hyperthermie",
+    "subtitle": "Deux hausses de température aux causes opposées",
+    "summary": "La fièvre n'est pas une panne mais une réaction de défense : sous l'effet de substances appelées pyrogènes, l'hypothalamus, le thermostat du cerveau, relève la température visée. La température normale tourne autour de 37 °C, et on parle de fièvre à partir de 38 °C environ.\nL'hyperthermie, elle, est une surchauffe subie : le thermostat reste réglé normalement, mais le corps produit trop de chaleur ou ne parvient pas à l'évacuer.",
+    "details": {
+      "definition": "La fièvre est une hausse de température décidée par le cerveau, qui relève son point de réglage ; l'hyperthermie est un dépassement subi de ce point de réglage, par excès de chaleur produite ou mal évacuée.",
+      "exemple": "Pendant une infection, le thermostat monte : on frissonne alors qu'on est déjà chaud. Lors d'un coup de chaleur en plein soleil, le thermostat n'a pas bougé, mais le corps surchauffe malgré la transpiration.",
+      "confusions": [
+        {
+          "mot": "Hyperpyrexie",
+          "explication": "Ce n'est pas une hyperthermie, mais une fièvre très élevée."
+        },
+        {
+          "mot": "Fébricule",
+          "explication": "Fièvre modérée, entre 37,7 et 37,9 °C."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le thermostat du cerveau",
+          "texte": "Des pyrogènes, venus de microbes ou libérés par les cellules immunitaires (interleukines, TNF), provoquent la production d'une molécule, la prostaglandine E2, qui agit sur l'hypothalamus. Celui-ci relève la température visée : vaisseaux de la peau resserrés, frissons, d'où la sensation de froid. Quand la menace recule, le point de réglage redescend : on a chaud, on transpire."
+        },
+        {
+          "titre": "Un atout contre les microbes",
+          "texte": "La fièvre stimule l'immunité et réduit le fer disponible pour les microbes, ce qui freine leur croissance. Chez les poissons et autres animaux « à sang froid », qui se déplacent vers des zones plus chaudes pour avoir de la fièvre, l'avantage est net. Chez l'humain, elle dépasse rarement 41 à 42 °C, un plafond qui protège probablement le système nerveux."
+        }
+      ],
+      "anecdotes": [
+        "Au XIXe siècle, on a longtemps pris la fièvre pour l'ennemi à abattre. Aujourd'hui, on la comprend plutôt comme une arme du corps : en relevant sa température, l'hypothalamus rend la vie plus difficile aux microbes."
+      ],
+      "wikipedia": "Fièvre"
+    },
+    "source": "D'après Wikipédia — Fièvre"
+  },
+  {
+    "id": "corps-humain-051",
+    "domain": "corps-humain",
+    "subtheme": "Santé et maladies",
+    "type": "classique",
+    "title": "Les allergies",
+    "subtitle": "Quand le système immunitaire s'emballe",
+    "summary": "Une allergie est une réaction exagérée du système immunitaire face à une substance en réalité inoffensive, comme un pollen ou un aliment. Le mot a été employé pour la première fois en 1906 par Clemens von Pirquet.\nRhume des foins, eczéma, asthme allergique, allergies alimentaires : les formes sont variées, et en France, environ 20 à 25 % de la population souffre d'une maladie allergique.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le scénario d'une réaction",
+          "texte": "Lors d'un premier contact, le corps fabrique des anticorps de type IgE, qui se fixent sur des cellules appelées mastocytes. Au contact suivant, l'allergène s'accroche à ces IgE et les mastocytes libèrent de l'histamine, responsable des principaux symptômes : éternuements, démangeaisons, gonflements. Les antihistaminiques tirent leur nom de cette molécule. Dans les cas les plus graves, le choc anaphylactique touche tout l'organisme."
+        },
+        {
+          "titre": "Pourquoi sont-elles plus fréquentes ?",
+          "texte": "Dans de nombreux pays industrialisés, la part de personnes allergiques serait passée de 10 % en 1980 à plus de 30 % en 1999. Plusieurs pistes sont étudiées : prédispositions familiales, pollution, et manque de contacts avec les microbes. Chez le jeune enfant, un microbiote intestinal plus varié semble protéger contre les allergies et l'eczéma, ce qui pourrait expliquer leur essor dans les pays riches, aux environnements plus aseptisés."
+        }
+      ],
+      "anecdotes": [
+        "Une allergie alimentaire peut commencer sans avoir mangé l'aliment : chez un enfant dont la peau est abîmée par l'eczéma, l'allergène peut traverser la peau et sensibiliser l'organisme avant que l'intestin ait appris à le tolérer."
+      ],
+      "wikipedia": "Allergie"
+    },
+    "source": "D'après Wikipédia — Allergie"
+  },
+  {
+    "id": "corps-humain-052",
+    "domain": "corps-humain",
+    "subtheme": "Santé et maladies",
+    "type": "classique",
+    "title": "Le diabète",
+    "subtitle": "Une maladie de la régulation du sucre dans le sang",
+    "summary": "Le diabète est une maladie où le corps ne parvient plus à réguler la glycémie, le taux de sucre dans le sang, qui reste trop élevé. L'insuline, hormone fabriquée par le pancréas, fait entrer le glucose dans les cellules : soit elle manque, soit les cellules n'y répondent plus.\nLe nom vient du grec « traverser » : les médecins antiques voyaient des malades assoiffés qui semblaient uriner tout ce qu'ils buvaient.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Deux grands types",
+          "texte": "Dans le diabète de type 1, le système immunitaire détruit les cellules du pancréas qui fabriquent l'insuline : il apparaît souvent brutalement, même chez l'enfant, et représente 5 à 10 % des cas. Le type 2, de loin le plus fréquent, vient d'une résistance des cellules à l'insuline et s'installe lentement, souvent chez l'adulte en surpoids. Un troisième type, gestationnel, apparaît pendant la grossesse."
+        },
+        {
+          "titre": "Une maladie connue depuis l'Antiquité",
+          "texte": "Le papyrus Ebers, rédigé sous Amenhotep III, décrit déjà la maladie. Les médecins grecs l'ont nommée et distingué le diabète sucré, aux urines sucrées, du diabète insipide, aux urines sans goût ; le mot latin mellitus veut dire « sucré comme le miel ». Au VIIe siècle, des médecins chinois notaient eux aussi ces urines sucrées. La découverte de l'insuline par l'équipe de Toronto, avec Banting et Best, a ensuite changé le sort des malades."
+        }
+      ],
+      "anecdotes": [
+        "Quand le corps brûle ses graisses trop vite faute d'insuline, il produit de l'acétone. L'haleine du malade prend alors une odeur caractéristique de pomme reinette."
+      ],
+      "wikipedia": "Diabète sucré"
+    },
+    "source": "D'après Wikipédia — Diabète sucré"
+  },
+  {
+    "id": "corps-humain-053",
+    "domain": "corps-humain",
+    "subtheme": "Santé et maladies",
+    "type": "classique",
+    "title": "Le cancer",
+    "subtitle": "Un ensemble de maladies de cellules devenues incontrôlables",
+    "summary": "Le cancer n'est pas une maladie unique mais un ensemble de plus de 100 maladies. Elles ont un point commun : des cellules transformées se multiplient de façon anormale et peuvent former une tumeur maligne, capable d'envahir les tissus voisins puis de migrer ailleurs dans le corps : ce sont les métastases.\nLe pronostic dépend beaucoup du type de cancer et de son stade, et il est possible de guérir de certains cancers.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des cellules qui perdent leurs freins",
+          "texte": "La division des cellules est réglée par des accélérateurs et des freins. Dans un cancer, des mutations bloquent l'accélérateur sur « marche » (ce sont les oncogènes, comme le gène KRAS) et désactivent les freins (les gènes suppresseurs de tumeurs). Le plus célèbre, TP53, surnommé « gardien du génome », est altéré dans environ 40 % des cancers humains. Elles échappent aussi à l'apoptose, le « suicide » des cellules abîmées."
+        },
+        {
+          "titre": "Des causes multiples",
+          "texte": "Les cancers résultent de plusieurs facteurs. Environ 5 à 10 % viennent de défauts génétiques hérités ; le reste dépend de l'environnement et du mode de vie : tabac, alcool, surpoids, pollution, rayonnements, certaines infections virales comme le papillomavirus ou les hépatites. Dès l'an 2000, les Américains Douglas Hanahan et Bob Weinberg ont proposé six caractéristiques fondamentales communes aux cellules cancéreuses."
+        }
+      ],
+      "anecdotes": [
+        "Le mot « cancer » signifie « crabe » en latin. Selon le médecin antique Paul d'Égine, Hippocrate l'aurait choisi car les veines étendues autour de certaines tumeurs ressemblent aux pattes d'un crabe, qui ne lâche plus ce qu'il a saisi."
+      ],
+      "wikipedia": "Cancer"
+    },
+    "source": "D'après Wikipédia — Cancer"
+  },
+  {
+    "id": "corps-humain-054",
+    "domain": "corps-humain",
+    "subtheme": "Santé et maladies",
+    "type": "classique",
+    "title": "La maladie d'Alzheimer",
+    "subtitle": "Maladie neurodégénérative décrite au début du XXe siècle",
+    "summary": "La maladie d'Alzheimer est une maladie du cerveau qui détruit peu à peu les neurones. Elle est la première cause de démence, c'est-à-dire de perte progressive de la mémoire, du raisonnement et de l'autonomie. Elle débute le plus souvent après 65 ans.\nElle reste incurable, et la recherche explore deux pistes : les plaques amyloïdes et les agrégats de protéine tau, deux anomalies typiques de la maladie.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Auguste Deter, la première patiente",
+          "texte": "En 1901, le psychiatre allemand Alois Alzheimer examine une patiente de 51 ans, Auguste Deter. Il suit son cas jusqu'à sa mort en 1906 et décrit les altérations de son cerveau. En 1910, le psychiatre Emil Kraepelin intègre cette nouvelle maladie à son manuel de psychiatrie. Jusqu'en 1977, le diagnostic reste réservé aux 45-65 ans, avant qu'on admette que les formes plus tardives sont la même maladie."
+        },
+        {
+          "titre": "Ce qui se passe dans le cerveau",
+          "texte": "Des plaques amyloïdes se forment entre les neurones et des agrégats de protéine tau à l'intérieur. Les premières atteintes touchent la région de l'hippocampe, centre de la mémoire, d'où la difficulté à retenir les faits récents. Le savoir général, comme le nom des capitales, et les gestes appris, comme faire du vélo, sont touchés plus tard. Les premières altérations peuvent précéder les symptômes de plusieurs années."
+        }
+      ],
+      "anecdotes": [
+        "La première patiente décrite par Alois Alzheimer, Auguste Deter, avait 51 ans quand il l'a examinée en 1901. Son cas, resté célèbre, a donné son nom à la maladie."
+      ],
+      "wikipedia": "Maladie d'Alzheimer"
+    },
+    "source": "D'après Wikipédia — Maladie d'Alzheimer"
+  },
+  {
+    "id": "corps-humain-055",
+    "domain": "corps-humain",
+    "subtheme": "Santé et maladies",
+    "type": "classique",
+    "title": "L'épilepsie",
+    "subtitle": "Une maladie neurologique aux crises très variées",
+    "summary": "L'épilepsie est une maladie du cerveau qui provoque des crises : des décharges électriques soudaines et anormales dans un groupe de neurones. Elle touche plus de 50 millions de personnes dans le monde, sous de nombreuses formes.\nUne crise isolée ne suffit pas pour parler d'épilepsie : il faut au moins deux crises spontanées. Jusqu'à 10 % de la population en vit une seule au cours de sa vie.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des crises très différentes",
+          "texte": "Une crise peut toucher une seule région du cerveau (crise partielle ou focale) ou les deux hémisphères (crise généralisée). La plus spectaculaire est la crise tonico-clonique : perte de connaissance, raideur, puis secousses. À l'inverse, l'absence, fréquente chez l'enfant, est une brève rupture de contact de quelques secondes : le regard se fige, sans chute, et l'enfant n'en garde souvent aucun souvenir."
+        },
+        {
+          "titre": "Déclencheurs et évolution",
+          "texte": "Chez une personne épileptique, une crise est souvent favorisée par la fatigue, le manque de sommeil ou l'anxiété. Parfois, des lumières intermittentes (stroboscope) la déclenchent : c'est l'épilepsie photosensible. Six enfants épileptiques sur dix voient leurs crises cesser en grandissant. Les médicaments antiépileptiques contrôlent environ 69 % des cas, mais un tiers des patients souffre d'une forme dite réfractaire."
+        }
+      ],
+      "anecdotes": [
+        "L'ancien nom de la maladie, « mal comitial », vient de la Rome antique. Les assemblées du peuple, les comices, étaient interrompues si quelqu'un y faisait une crise, car on y voyait un mauvais présage."
+      ],
+      "wikipedia": "Épilepsie"
+    },
+    "source": "D'après Wikipédia — Épilepsie"
+  },
+  {
+    "id": "corps-humain-056",
+    "domain": "corps-humain",
+    "subtheme": "Santé et maladies",
+    "type": "classique",
+    "title": "La pression artérielle",
+    "subtitle": "La force du sang sur la paroi des artères",
+    "summary": "La pression artérielle mesure la poussée du sang contre les parois des artères. Elle s'exprime avec deux nombres : la pression systolique, maximale quand le cœur se contracte, et la pression diastolique, minimale quand il se relâche. Dire « douze huit » revient à dire 120/80, en millimètres de mercure.\nElle change d'une minute à l'autre : l'effort et le stress la font monter, le repos la fait baisser.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Comment on la mesure",
+          "texte": "Un brassard est gonflé jusqu'à bloquer l'artère du bras, puis dégonflé lentement, un stéthoscope posé au pli du coude. Quand le sang repasse par à-coups, on entend des battements, les bruits de Korotkoff : ils donnent la pression systolique. Quand ils disparaissent, on lit la diastolique. Le premier tensiomètre a été décrit en 1896 par Scipione Riva-Rocci ; aujourd'hui, beaucoup d'appareils sont électroniques."
+        },
+        {
+          "titre": "Des chiffres qui varient",
+          "texte": "Le système nerveux, des hormones comme l'adrénaline et les reins la régulent en permanence. Chez certaines personnes, elle grimpe juste parce qu'un médecin la mesure : c'est l'effet « blouse blanche ». Un brassard trop petit fausse aussi la valeur vers le haut, et la pression est en général un peu plus élevée au bras dominant. En moyenne mondiale, elle est restée stable depuis 1975, autour de 127/79 chez les hommes et 122/77 chez les femmes."
+        }
+      ],
+      "anecdotes": [
+        "Même quand le cœur s'arrête, la pression dans les vaisseaux ne tombe pas à zéro : une fois le sang redistribué, il reste environ 7 mmHg, la « pression systémique moyenne »."
+      ],
+      "wikipedia": "Pression artérielle"
+    },
+    "source": "D'après Wikipédia — Pression artérielle"
+  },
+  {
+    "id": "corps-humain-057",
+    "domain": "corps-humain",
+    "subtheme": "Santé et maladies",
+    "type": "classique",
+    "title": "Le cholestérol",
+    "subtitle": "Une molécule indispensable aux cellules",
+    "summary": "Le cholestérol n'est pas qu'un ennemi des artères : c'est une molécule indispensable à toutes les cellules animales, dont il rend les membranes à la fois stables et souples. Le corps le fabrique lui-même, surtout dans le foie : environ un gramme par jour.\nIl sert aussi de matière première à la vitamine D, à des hormones et à la bile. Quant au « bon » et au « mauvais » cholestérol, ce sont en réalité deux transporteurs d'une même molécule.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une molécule aux mille usages",
+          "texte": "Glissé entre les molécules de graisse des membranes, le cholestérol les rend stables sans les figer : les cellules animales n'ont pas besoin de paroi rigide comme celles des plantes. Il compose aussi la gaine de myéline qui isole les fibres nerveuses. Dans le cerveau, il est fabriqué sur place par des cellules, les astrocytes : celui du sang ne franchit pas la barrière qui protège le cerveau."
+        },
+        {
+          "titre": "« Bon » et « mauvais » cholestérol",
+          "texte": "Insoluble dans le sang, le cholestérol voyage dans des transporteurs, les lipoprotéines. Les LDL l'amènent aux cellules ; les HDL le ramènent au foie. Quand des LDL sont abîmés, ils peuvent se déposer dans la paroi des artères et former des plaques : c'est l'athérosclérose. Mais ces étiquettes simplifient : les transporteurs s'échangent du cholestérol. Le corps compense aussi ce qu'on mange : plus l'apport est élevé, moins il en absorbe."
+        }
+      ],
+      "anecdotes": [
+        "Le cholestérol a été découvert au XVIIIe siècle dans des calculs biliaires par François Poulletier de La Salle. Son nom vient du grec : « bile » et « solide ». Il s'est d'abord appelé cholestérine, avant de devenir cholestérol en 1929."
+      ],
+      "wikipedia": "Cholestérol"
+    },
+    "source": "D'après Wikipédia — Cholestérol"
+  },
+  {
+    "id": "corps-humain-058",
+    "domain": "corps-humain",
+    "subtheme": "Santé et maladies",
+    "type": "classique",
+    "title": "La douleur",
+    "subtitle": "Une alarme à la fois sensorielle et émotionnelle",
+    "summary": "La douleur est une expérience désagréable, à la fois sensorielle et émotionnelle, liée à une atteinte réelle ou possible des tissus. Elle sert surtout d'alarme : elle pousse à retirer la main du feu ou à ménager une blessure.\nElle ne se réduit pas à un signal des nerfs : le contexte, les émotions et la mémoire changent ce qu'on ressent. Quand elle dure plus de trois mois, on parle de douleur chronique.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le trajet du message",
+          "texte": "Des capteurs spécialisés, les nocicepteurs, détectent les agressions. Le message file par des fibres nerveuses, dont les fibres A-delta, à 15 à 30 mètres par seconde, jusqu'à la moelle épinière puis au cortex. Mais le cerveau peut aussi freiner le signal grâce à des voies descendantes, ce que décrit la théorie de la porte, et fabriquer ses propres antidouleurs naturels, les endorphines."
+        },
+        {
+          "titre": "Quand le signal se dérègle",
+          "texte": "Parfois, c'est le nerf lui-même qui est en cause : la douleur est alors ressentie comme des décharges, des brûlures ou des picotements. C'est le cas de la douleur du membre fantôme, ressentie dans un membre amputé : elle touche environ 82 % des personnes amputées d'un bras et 54 % de celles amputées d'une jambe. Pour Charles Darwin, la douleur est pourtant utile : elle pousse à se protéger d'un danger soudain."
+        }
+      ],
+      "anecdotes": [
+        "En 1956, le médecin Henry Beecher compara des soldats et des civils blessés de façon semblable : les soldats réclamaient moins d'antidouleurs. Pour eux, la blessure signifiait avoir la vie sauve ; pour les civils, elle annonçait des ennuis. La signification change la douleur."
+      ],
+      "wikipedia": "Douleur"
+    },
+    "source": "D'après Wikipédia — Douleur"
+  },
+  {
+    "id": "corps-humain-059",
+    "domain": "corps-humain",
+    "subtheme": "Santé et maladies",
+    "type": "classique",
+    "title": "Le rêve",
+    "subtitle": "Les images et les histoires du sommeil",
+    "summary": "Un rêve est une suite d'images, d'émotions et de sensations qui surgit pendant le sommeil. On rêve surtout pendant le sommeil paradoxal, quand l'activité du cerveau ressemble à celle de l'éveil, mais pas seulement. Au total, un humain rêve plus de deux heures par nuit, en rêves de 5 à 20 minutes.\nOn ignore encore où le rêve naît dans le cerveau et à quoi il sert.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Ce qu'en dit la science",
+          "texte": "Le cerveau reçoit pendant le sommeil des signaux partiels et désordonnés, et il tenterait d'en tirer une histoire cohérente. De 1940 à 1985, le psychologue Calvin Hall a recueilli plus de 50 000 récits de rêves : l'émotion la plus fréquente est l'anxiété, et les contenus se ressemblent d'un pays à l'autre. Les personnes aveugles de naissance ne font pas de rêves visuels : leurs rêves passent par le son, le toucher, l'odorat."
+        },
+        {
+          "titre": "Des songes pris très au sérieux",
+          "texte": "Les premiers rêves notés remontent à Sumer et à l'Égypte ancienne, où l'on utilisait des « clés des songes ». Vers 2144 avant notre ère, le roi sumérien Gudea reconstruisit un temple parce qu'un rêve le lui avait ordonné. Dans la Grèce antique, des malades dormaient dans les temples d'Asclépios, comme à Épidaure, pour que le dieu leur apparaisse en songe : c'est l'incubation."
+        }
+      ],
+      "anecdotes": [
+        "Le verbe « rêver » a d'abord signifié « radoter » ou « divaguer ». Jusqu'au XVIIe siècle, il avait un sens péjoratif, et le nom « rêve » n'apparaît qu'en 1674, chez Malebranche. Il n'a remplacé « songer » pour parler du sommeil qu'au XIXe siècle."
+      ],
+      "wikipedia": "Rêve"
+    },
+    "source": "D'après Wikipédia — Rêve"
+  },
+  {
+    "id": "corps-humain-060",
+    "domain": "corps-humain",
+    "subtheme": "Santé et maladies",
+    "type": "classique",
+    "title": "La mémoire",
+    "subtitle": "Comment le cerveau enregistre, garde et retrouve",
+    "summary": "La mémoire est la faculté d'enregistrer, de conserver et de rappeler les expériences passées. Les psychologues la décrivent en trois étages : la mémoire sensorielle, qui dure une fraction de seconde, la mémoire de travail, qui retient quelques éléments pendant quelques secondes, et la mémoire à long terme, qui peut durer toute une vie.\nSans mémoire, ni le langage, ni les relations, ni l'identité personnelle ne pourraient se construire.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des capacités limitées",
+          "texte": "Selon le modèle d'Atkinson et Shiffrin (1968), l'information passe d'abord par la mémoire sensorielle. En 1963, George Sperling a montré qu'elle capte environ 12 lettres, qui s'effacent en quelques centaines de millisecondes. La mémoire de travail est bien plus étroite : en 1956, George Miller parlait de 7 ± 2 éléments, et les estimations actuelles sont plutôt de 4 à 5. Regrouper en blocs, comme un numéro de téléphone, aide."
+        },
+        {
+          "titre": "Plusieurs mémoires à long terme",
+          "texte": "La mémoire à long terme se divise en deux grandes familles. La mémoire explicite, consciente, comprend la mémoire épisodique, celle des événements vécus, et la mémoire sémantique, celle des connaissances générales : Endel Tulving les a distinguées en 1972. La mémoire implicite, elle, agit sans qu'on y pense : c'est la mémoire procédurale, celle des gestes appris, comme faire du vélo."
+        }
+      ],
+      "anecdotes": [
+        "En 1956, le psychologue George Miller a popularisé l'idée que la mémoire à court terme ne retient que « sept, plus ou moins deux » éléments : c'est pourquoi les numéros de téléphone se découpent souvent en petits groupes."
+      ],
+      "wikipedia": "Mémoire (psychologie)"
+    },
+    "source": "D'après Wikipédia — Mémoire (psychologie)"
+  },
+  {
+    "id": "corps-humain-061",
+    "domain": "corps-humain",
+    "subtheme": "Santé et maladies",
+    "type": "classique",
+    "title": "Le vieillissement",
+    "subtitle": "Pourquoi et comment le corps change avec l'âge",
+    "summary": "Le vieillissement est l'ensemble des changements qui, avec le temps, diminuent peu à peu les capacités d'un organisme. Chez l'humain, il mêle des facteurs biologiques, psychologiques et sociaux, et il commence très tôt : certaines cellules vieillissent dès la naissance.\nLes chercheurs distinguent l'âge de l'état civil et l'âge biologique, qui peut varier d'un organe à l'autre.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Ce qui change, ce qui résiste",
+          "texte": "La masse du cerveau diminue d'environ 10 % au cours de la vie, mais ce qui compte davantage est l'appauvrissement des connexions entre neurones, les synapses. Elles se font et se défont à tout âge : selon le neurobiologiste Jean-Pierre Changeux, elles se renforcent par l'apprentissage et s'effacent par l'inactivité. Le vocabulaire et les connaissances générales, eux, augmentent ou restent stables très tard dans la vie."
+        },
+        {
+          "titre": "Les horloges du corps",
+          "texte": "En 1961, Leonard Hayflick a découvert que les cellules humaines normales, en laboratoire, meurent après environ 50 divisions. Le raccourcissement des télomères, les extrémités des chromosomes, est un marqueur de cet âge cellulaire. Le généticien Steve Horvath a aussi mis au point une horloge épigénétique : en lisant des marques chimiques sur l'ADN, son algorithme estime l'âge d'une personne à 3 à 5 ans près à partir de deux sites seulement."
+        }
+      ],
+      "anecdotes": [
+        "La personne la plus âgée dont l'âge est établi de façon fiable est la Française Jeanne Calment, morte en 1997 à 122 ans. Certaines créatures semblent échapper au vieillissement : les hydres, de petits animaux d'eau douce, se régénèrent sans cesse et ne meurent pas de vieillesse."
+      ],
+      "wikipedia": "Vieillissement"
+    },
+    "source": "D'après Wikipédia — Vieillissement"
+  },
+  {
+    "id": "corps-humain-062",
+    "domain": "corps-humain",
+    "subtheme": "Médecine et médecins",
+    "type": "personnage",
+    "title": "Galien",
+    "subtitle": "Médecin grec de l'Antiquité, né à Pergame en 129",
+    "summary": "Galien, né à Pergame en 129, est un médecin grec qui a exercé à Rome et soigné plusieurs empereurs. Il veut s'appuyer à la fois sur la raison et sur l'expérience, qu'il appelle « ses deux jambes ».\nSes idées ont dominé la médecine européenne jusqu'au XVIIIe siècle. Faute de pouvoir disséquer des humains, il étudie surtout des animaux, ce qui explique plusieurs de ses erreurs.",
+    "details": {
+      "epoque": "IIe siècle de notre ère, dans l'Empire romain.",
+      "pourquoiCelebre": "Dernier grand médecin créateur de l'Antiquité, dont les théories ont fait référence pendant plus de mille ans.",
+      "ideesClefs": [
+        "Il associe observation anatomique, expériences sur les animaux et raisonnement pour bâtir un système médical complet.",
+        "Il développe la théorie des quatre humeurs, héritée d'Hippocrate.",
+        "Médecin des gladiateurs à Pergame en 157, il devient ensuite médecin de plusieurs empereurs à Rome."
+      ],
+      "liens": [
+        {
+          "nom": "Hippocrate",
+          "relation": "Son grand modèle, dont il commente la théorie des humeurs."
+        },
+        {
+          "nom": "Andreas Vésale",
+          "relation": "Ses descriptions anatomiques, publiées en 1543, finiront par corriger celles de Galien."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Médecin des gladiateurs",
+          "texte": "De retour à Pergame en 157, Galien est chargé de soigner les plaies des gladiateurs du grand-prêtre. Il humecte les blessures d'huile et pose des linges imbibés de vin âcre. Il affirme que deux seuls blessés sont morts sous ses soins, contre seize sous ses prédécesseurs. Il y apprend l'anatomie sur le vivant et répète aux médecins de s'exercer à la dissection sur des singes."
+        },
+        {
+          "titre": "Un savoir devenu dogme",
+          "texte": "La dissection humaine étant interdite dans l'Empire romain, Galien travaille sur des singes de Barbarie, puis sur des porcs. En Europe occidentale, son œuvre tombe dans l'oubli jusqu'au XIe siècle, mais elle survit à Byzance et dans le monde musulman, avant de revenir par des traductions de l'arabe en latin. Ses erreurs d'anatomie ne seront corrigées qu'en 1543 par Vésale."
+        }
+      ],
+      "anecdotes": [
+        "Vers 145, d'après Galien lui-même, son père Nicon, architecte, reçoit en rêve l'ordre du dieu de la médecine Asclépios d'envoyer son fils étudier la médecine."
+      ],
+      "wikipedia": "Claude Galien"
+    },
+    "source": "D'après Wikipédia — Claude Galien"
+  },
+  {
+    "id": "corps-humain-063",
+    "domain": "corps-humain",
+    "subtheme": "Médecine et médecins",
+    "type": "personnage",
+    "title": "Ambroise Paré",
+    "subtitle": "Chirurgien français, né vers 1510 et mort en 1590",
+    "summary": "Fils d'un fabricant de coffres de Laval, Ambroise Paré devient barbier-chirurgien, puis chirurgien de plusieurs rois de France. Il soigne les blessés des guerres d'Italie et des guerres de religion.\nIl renonce à l'huile bouillante pour les plaies par balle, remet en usage la ligature des artères après une amputation, et résume sa modestie par une phrase restée célèbre : « Je le pansay, Dieu le guarist ».",
+    "details": {
+      "epoque": "XVIe siècle, de la Renaissance aux guerres de religion.",
+      "pourquoiCelebre": "Considéré comme le père de la chirurgie française, il a remplacé des soins brutaux par des méthodes plus douces.",
+      "ideesClefs": [
+        "En 1545, il publie en français un traité sur les plaies causées par les arquebuses et les armes à feu.",
+        "Il généralise la ligature des artères à la place du fer rouge pour les amputations.",
+        "Il invente des instruments, comme le « bec de corbin » ancêtre des pinces hémostatiques, et des prothèses, dont des yeux artificiels."
+      ],
+      "liens": [
+        {
+          "nom": "Galien",
+          "relation": "Il remet en usage la ligature des artères, déjà employée par le médecin antique."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le jour où l'huile vint à manquer",
+          "texte": "À l'époque, on soigne les plaies par balle en les brûlant, au fer rouge ou avec de l'huile bouillante, car on croit la poudre empoisonnée. Dès sa première campagne, en 1537, Paré constate que ce n'est pas le cas. Faute d'huile, il applique un onguent à base de jaune d'œuf, d'huile de rose et de térébenthine. Le lendemain, les blessés ainsi soignés vont bien mieux que les autres. Il jure alors de ne plus brûler aussi cruellement les blessés."
+        },
+        {
+          "titre": "Ligature, prothèses et douleur fantôme",
+          "texte": "Pour les amputations, Paré scelle les vaisseaux par ligature, avec une pince en forme de bec de corbeau, au lieu de brûler. Il décrit aussi la douleur ressentie dans un membre qui n'existe plus, et pense qu'elle naît dans le cerveau. Il ne connaissait ni le latin ni le grec, mais il reçoit en 1554 le bonnet de maître du collège de Saint-Côme, grâce à l'appui du roi."
+        }
+      ],
+      "anecdotes": [
+        "Au siège de Perpignan, en 1542, le maréchal de Brissac reçoit une balle à l'épaule que personne ne retrouve. Paré lui demande de reprendre la position exacte qu'il avait au moment du tir : la balle est alors localisée et retirée."
+      ],
+      "wikipedia": "Ambroise Paré"
+    },
+    "source": "D'après Wikipédia — Ambroise Paré"
+  },
+  {
+    "id": "corps-humain-064",
+    "domain": "corps-humain",
+    "subtheme": "Médecine et médecins",
+    "type": "personnage",
+    "title": "William Harvey",
+    "subtitle": "Médecin anglais, né en 1578 et mort en 1657",
+    "summary": "William Harvey, médecin anglais né à Folkestone en 1578, soigne les rois Jacques Ier et Charles Ier. Il est célèbre pour avoir démontré que le sang circule en circuit fermé dans le corps, dans son livre De Motu Cordis, publié en 1628.\nIl s'appuie sur des observations, des expériences et même des calculs : un raisonnement chiffré, nouveau en médecine à son époque.",
+    "details": {
+      "epoque": "XVIIe siècle, entre la Renaissance et la science moderne.",
+      "pourquoiCelebre": "Il a démontré que le cœur pompe le sang, qui revient sans cesse sur lui-même dans tout le corps.",
+      "ideesClefs": [
+        "Docteur en médecine de l'université de Padoue en 1602, à 24 ans.",
+        "Son livre de 1628, consacré au mouvement du cœur et du sang chez les animaux, expose la circulation sanguine.",
+        "Il mesure la contenance du cœur et son rythme pour prouver que le sang ne peut pas être fabriqué en continu."
+      ],
+      "liens": [
+        {
+          "nom": "Galien",
+          "relation": "Sa théorie remet en cause les idées de Galien sur le sang."
+        },
+        {
+          "nom": "Andreas Vésale",
+          "relation": "Sa méthode doit beaucoup à l'école de Padoue, héritière de l'anatomie de Vésale."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le calcul qui change tout",
+          "texte": "Harvey mesure qu'un cœur contient environ deux onces de sang et bat 72 fois par minute. Il calcule que le cœur envoie alors environ 259 kg de sang en une heure, bien plus que le corps n'en contient. Ce sang ne peut donc pas être sans cesse renouvelé : c'est le même qui revient. Il ajoute l'expérience du garrot, qui montre le retour du sang par les veines superficielles."
+        },
+        {
+          "titre": "Un maillon manquant et des critiques",
+          "texte": "Avec une simple loupe, Harvey ne voit pas les capillaires, qui relient artères et veines. Ils seront décrits en 1661 par Marcello Malpighi, au microscope. Entre-temps, l'anatomiste Jean Riolan, fidèle à Aristote et à Galien, le surnomme « circulator », mot qui désigne un charlatan de foire. Après la parution du livre, Harvey aurait même perdu une partie de sa clientèle."
+        }
+      ],
+      "anecdotes": [
+        "Harvey soigne le philosophe Francis Bacon mais ne le tient pas pour un grand penseur : « Il écrit la philosophie comme un lord chancelier », disait-il."
+      ],
+      "wikipedia": "William Harvey"
+    },
+    "source": "D'après Wikipédia — William Harvey"
+  },
+  {
+    "id": "corps-humain-065",
+    "domain": "corps-humain",
+    "subtheme": "Médecine et médecins",
+    "type": "personnage",
+    "title": "Ignace Semmelweis",
+    "subtitle": "Obstétricien hongrois, né en 1818 et mort en 1865",
+    "summary": "Ignace Semmelweis, médecin hongrois, travaille à Vienne dans une maternité où beaucoup de mères meurent de la fièvre puerpérale. En 1847, il impose aux médecins le lavage des mains à l'hypochlorite de calcium, et la mortalité chute.\nSes pairs rejettent ses idées, qui heurtent leurs croyances et leur orgueil. Il meurt en 1865, interné dans un asile ; l'hygiène des mains ne s'imposera qu'après lui.",
+    "details": {
+      "epoque": "XIXe siècle, avant l'acceptation de la théorie des germes.",
+      "pourquoiCelebre": "Il a montré que se laver les mains réduit fortement la mortalité des accouchées, des années avant Pasteur.",
+      "ideesClefs": [
+        "Dans la première clinique de Vienne, la mortalité atteint 18 % en avril 1847, contre 3 % dans la seconde, tenue par des sages-femmes.",
+        "Le lavage des mains au chlore fait tomber la mortalité de 12 % à 2,4 %.",
+        "Il publie en 1861 son livre sur la cause et la prévention de la fièvre puerpérale."
+      ],
+      "liens": [
+        {
+          "nom": "Louis Pasteur",
+          "relation": "Sa théorie des germes donnera plus tard une explication aux observations de Semmelweis."
+        },
+        {
+          "nom": "Joseph Lister",
+          "relation": "Pionnier de la chirurgie antiseptique, il s'appuie sur les travaux de Pasteur."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le mystère des deux cliniques",
+          "texte": "À l'hôpital général de Vienne, la première clinique, où se forment les étudiants en médecine, perd bien plus de mères que la seconde, réservée aux sages-femmes. Des femmes supplient d'être admises dans la seconde, certaines accouchent même dans la rue pour éviter la première. Semmelweis écarte une à une les explications possibles : épidémie, air vicié, alimentation, position pendant l'accouchement."
+        },
+        {
+          "titre": "La mort d'un ami",
+          "texte": "En 1847, son ami Jakob Kolletschka, professeur d'anatomie, meurt après une blessure de scalpel lors d'une autopsie. Son cas ressemble à celui des accouchées. Semmelweis comprend que lui et ses étudiants rapportent des particules de cadavres sur leurs mains. Il impose le lavage à l'hypochlorite de calcium, puis le nettoyage des instruments. Il ne sait pas encore que des microbes sont en cause."
+        }
+      ],
+      "anecdotes": [
+        "Le nom de Semmelweis est resté dans l'expression « effet Semmelweis » : le réflexe de rejeter une idée nouvelle parce qu'elle contredit les croyances établies."
+      ],
+      "wikipedia": "Ignace Philippe Semmelweis"
+    },
+    "source": "D'après Wikipédia — Ignace Philippe Semmelweis"
+  },
+  {
+    "id": "corps-humain-066",
+    "domain": "corps-humain",
+    "subtheme": "Médecine et médecins",
+    "type": "personnage",
+    "title": "Robert Koch",
+    "subtitle": "Médecin et bactériologiste allemand, né en 1843 et mort en 1910",
+    "summary": "Robert Koch, médecin de campagne allemand, devient l'un des fondateurs de la bactériologie. En 1876, il montre qu'une bactérie précise cause le charbon ; en 1882, il identifie le bacille de la tuberculose, ce qui lui vaut le prix Nobel en 1905.\nIl isole aussi l'agent du choléra en 1883 et formule des règles, les postulats de Koch, pour prouver qu'un microbe provoque une maladie.",
+    "details": {
+      "epoque": "Seconde moitié du XIXe siècle.",
+      "pourquoiCelebre": "Il a prouvé que des microbes précis causent des maladies précises et découvert l'agent de la tuberculose.",
+      "ideesClefs": [
+        "1876 : il décrit le cycle de la bactérie du charbon, avec ses spores, et réussit à la cultiver.",
+        "24 mars 1882 : il présente le bacille de la tuberculose, appelé bacille de Koch.",
+        "Ses postulats, issus d'idées de Jacob Henle, servent de règles pour relier un microbe à une maladie."
+      ],
+      "liens": [
+        {
+          "nom": "Louis Pasteur",
+          "relation": "Autre fondateur de la microbiologie : on les surnomme tous deux « père de la microbiologie »."
+        },
+        {
+          "nom": "Julius Richard Petri",
+          "relation": "Son assistant, qui perfectionne la boîte de culture portant son nom."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un laboratoire dans une maison",
+          "texte": "Médecin cantonal à Wollstein, dans l'actuelle Pologne, Koch reçoit un microscope en cadeau d'anniversaire de sa femme. Il installe un laboratoire à côté de son cabinet et y étudie le charbon, qui tue moutons et habitants. Il découvre les spores de la bactérie, la cultive et publie en 1876. En 1877, il réalise la première photographie d'une bactérie. Ses méthodes de culture et de coloration ouvrent un nouveau champ."
+        },
+        {
+          "titre": "Tuberculose, choléra et tuberculine",
+          "texte": "En 1882, son équipe isole en huit mois le bacille de la tuberculose, resté invisible car très difficile à colorer. En 1883, en Égypte, il isole l'agent du choléra, déjà aperçu par l'Italien Filippo Pacini en 1854. En 1890, il annonce un remède contre la tuberculose, la tuberculine : c'est un échec, mais elle servira ensuite à diagnostiquer la maladie."
+        }
+      ],
+      "anecdotes": [
+        "Le 24 mars 1882, quand Koch présente sa découverte à Berlin, les savants sont si stupéfaits qu'aucun ne pose de question, et Virchow, adversaire de la théorie des germes, sort de la salle en silence. Depuis 1982, le 24 mars est la Journée mondiale de la tuberculose."
+      ],
+      "wikipedia": "Robert Koch"
+    },
+    "source": "D'après Wikipédia — Robert Koch"
+  },
+  {
+    "id": "corps-humain-067",
+    "domain": "corps-humain",
+    "subtheme": "Médecine et médecins",
+    "type": "personnage",
+    "title": "Paul Broca",
+    "subtitle": "Médecin, anatomiste et anthropologue français, né en 1824 et mort en 1880",
+    "summary": "Paul Broca, médecin parisien précoce, devient chirurgien et professeur. En 1861, en étudiant des patients qui ne pouvaient plus parler, il montre qu'une zone précise du cerveau gauche, l'aire de Broca, intervient dans la production de la parole.\nSes travaux d'anthropologie, fondés sur la mesure des crânes, ont servi à défendre des hiérarchies entre les humains : des théories aujourd'hui démenties.",
+    "details": {
+      "epoque": "XIXe siècle (1824-1880).",
+      "pourquoiCelebre": "Il a apporté la première preuve anatomique qu'une fonction du cerveau, le langage, a un siège précis.",
+      "ideesClefs": [
+        "Il étudie Victor Leborgne, surnommé « Tan », car c'est la seule syllabe qu'il parvient à prononcer.",
+        "En 1859, il crée la Société d'anthropologie de Paris.",
+        "Il invente une « couronne thermométrique » pour mesurer la température du crâne pendant l'effort mental, vite abandonnée."
+      ],
+      "liens": [
+        {
+          "nom": "Carl Sagan",
+          "relation": "L'astronome a écrit un livre, Broca's Brain, à partir de la redécouverte du cerveau de Broca."
+        },
+        {
+          "nom": "Charles Darwin",
+          "relation": "Broca soutenait sa théorie de la sélection naturelle."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Tan et l'aire de la parole",
+          "texte": "À l'hôpital de Bicêtre, Broca suit Victor Leborgne, qui ne parvient à prononcer que la syllabe « tan ». L'examen de son cerveau révèle une lésion du lobe frontal gauche. Avec un second patient, Lazare Lelong, Broca en conclut que cette région, située dans la troisième circonvolution frontale, joue un rôle majeur pour parler. C'est la première localisation anatomique d'une fonction cérébrale."
+        },
+        {
+          "titre": "Un savant controversé",
+          "texte": "Broca crée en 1859 la Société d'anthropologie de Paris et perfectionne la mesure des crânes. Il croyait pouvoir relier la taille du cerveau à l'intelligence et classer les peuples, et même comparer les sexes. Ces idées sont fausses et ont servi des thèses racistes et sexistes. Son nom reste donc discuté : le baptême d'un centre de recherche en neurosciences à son nom a ainsi été contesté."
+        }
+      ],
+      "anecdotes": [
+        "Le cerveau de Broca est conservé au Muséum national d'histoire naturelle. Le retrouver dans les réserves a donné à Carl Sagan l'idée de son livre Broca's Brain."
+      ],
+      "wikipedia": "Paul Broca"
+    },
+    "source": "D'après Wikipédia — Paul Broca"
+  },
+  {
+    "id": "corps-humain-068",
+    "domain": "corps-humain",
+    "subtheme": "Médecine et médecins",
+    "type": "personnage",
+    "title": "Christiaan Barnard",
+    "subtitle": "Chirurgien cardiaque sud-africain, né en 1922 et mort en 2001",
+    "summary": "Le 3 décembre 1967, au Groote Schuur Hospital du Cap, Christiaan Barnard réussit la première greffe de cœur d'un être humain à un autre. Le patient, Louis Washkansky, survit 18 jours.\nL'opération fait de ce chirurgien sud-africain une célébrité mondiale. Elle repose sur les recherches de pionniers américains, comme Norman Shumway, dont Barnard avait observé le travail.",
+    "details": {
+      "epoque": "XXe siècle (1922-2001).",
+      "pourquoiCelebre": "Il a réalisé la première transplantation cardiaque entre deux êtres humains.",
+      "ideesClefs": [
+        "3 décembre 1967 : greffe sur Louis Washkansky avec le cœur de Denise Darvall, victime d'un accident de la route.",
+        "L'opération dure neuf heures et demie et mobilise une trentaine de personnes.",
+        "Janvier 1968 : une deuxième greffe est réalisée sur Philip Blaiberg."
+      ],
+      "liens": [
+        {
+          "nom": "Norman Shumway",
+          "relation": "Pionnier de la greffe cardiaque à Stanford, dont les recherches ont rendu l'opération possible."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "De Beaufort West au Cap",
+          "texte": "Né à Beaufort West, fils d'un pasteur, Barnard perd enfant son frère Abraham, malade du cœur, un drame qui oriente sa carrière. Après des études au Cap et des années de médecine générale à Ceres, il se forme aux États-Unis, à Minneapolis, auprès du pionnier Walt Lillehei. De retour au Groote Schuur Hospital en 1958, il y crée le premier service de cardiologie chirurgicale."
+        },
+        {
+          "titre": "Gloire et controverses",
+          "texte": "Washkansky meurt d'une pneumonie causée par les médicaments qui bloquent le rejet. En plein apartheid, la même donneuse permet aussi de sauver un garçon noir de dix ans, grâce à l'un de ses reins. Photogénique, Barnard rencontre Grace Kelly, Sophia Loren et le pape Paul VI. Certains l'accusent d'avoir volé la gloire à Shumway. Il cesse d'opérer et prend sa retraite en 1983, à cause d'une polyarthrite qui raidit ses mains."
+        }
+      ],
+      "anecdotes": [
+        "En décembre 1967, Barnard avait greffé le cœur de seulement 48 chiens, bien moins que ses rivaux américains, et les siens survivaient environ 10 jours, contre plus d'un an chez eux. Pourtant, c'est lui qui passe le premier à l'acte, car la loi américaine ne reconnaissait pas encore la mort cérébrale."
+      ],
+      "wikipedia": "Christiaan Barnard"
+    },
+    "source": "D'après Wikipédia — Christiaan Barnard"
+  },
+  {
+    "id": "corps-humain-069",
+    "domain": "corps-humain",
+    "subtheme": "Médecine et médecins",
+    "type": "personnage",
+    "title": "Elizabeth Blackwell",
+    "subtitle": "Première femme médecin diplômée aux États-Unis, née en 1821 et morte en 1910",
+    "summary": "Née à Bristol en 1821 et émigrée aux États-Unis, Elizabeth Blackwell est refusée par dix-neuf facultés avant d'être acceptée à Geneva, dans le nord de l'État de New York. Elle en sort première de sa classe en 1849.\nElle devient ainsi la première femme diplômée en médecine des États-Unis, puis la première inscrite au registre médical britannique. Elle fonde ensuite hôpital et écoles pour que d'autres femmes puissent soigner.",
+    "details": {
+      "epoque": "XIXe siècle (1821-1910).",
+      "pourquoiCelebre": "Elle a ouvert la profession médicale aux femmes, aux États-Unis puis en Grande-Bretagne.",
+      "ideesClefs": [
+        "1849 : elle sort diplômée en tête de sa promotion, à Geneva (État de New York).",
+        "Pendant la guerre de Sécession, elle contribue à former des infirmières.",
+        "À Londres, elle participe à la fondation de la London School of Medicine for Women, en 1874."
+      ],
+      "liens": [
+        {
+          "nom": "Florence Nightingale",
+          "relation": "Elle s'associe à elle pour ouvrir à Londres une école de médecine pour femmes."
+        },
+        {
+          "nom": "Emily Blackwell",
+          "relation": "Sa sœur, deuxième femme diplômée en médecine aux États-Unis."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un parcours d'obstacles",
+          "texte": "Pour réunir les trois mille dollars nécessaires à ses études, Elizabeth enseigne la musique et lit les livres de médecine d'un pasteur, ancien médecin. Les facultés de Philadelphie et d'ailleurs la refusent. Elle est enfin acceptée par le collège de Geneva après dix-neuf refus. Elle affronte les préjugés des professeurs et des étudiants, et termine première de sa classe le 23 janvier 1849."
+        },
+        {
+          "titre": "Soigner et former",
+          "texte": "Elle part ensuite se perfectionner en Europe pendant deux ans, puis ouvre à New York un hôpital pour femmes et enfants. En 1868, elle fonde un collège médical pour former des femmes médecins. Elle retourne ensuite en Angleterre, où elle devient la première femme inscrite au registre médical. Sa thèse sur la fièvre typhoïde, publiée en 1849, est le premier article médical d'une étudiante américaine."
+        }
+      ],
+      "anecdotes": [
+        "D'après certains récits, les étudiants de Geneva, appelés à voter son admission, auraient dit oui par plaisanterie, sans imaginer qu'elle viendrait vraiment."
+      ],
+      "wikipedia": "Elizabeth Blackwell"
+    },
+    "source": "D'après Wikipédia — Elizabeth Blackwell"
+  },
+  {
+    "id": "corps-humain-070",
+    "domain": "corps-humain",
+    "subtheme": "Médecine et médecins",
+    "type": "personnage",
+    "title": "Alexander Fleming",
+    "subtitle": "Bactériologiste britannique, né en 1881 et mort en 1955",
+    "summary": "Alexander Fleming, né dans une ferme d'Écosse en 1881, est un bactériologiste de l'hôpital Sainte-Marie de Londres. Il découvre en 1922 le lysozyme, une substance antibactérienne présente dans les larmes et le mucus, puis, en 1928, la pénicilline.\nIl partage en 1945 le prix Nobel avec Howard Florey et Ernst Chain, dont les travaux permettent de produire le médicament.",
+    "details": {
+      "epoque": "1881-1955, du début du XXe siècle à l'après-guerre.",
+      "pourquoiCelebre": "Il a découvert le lysozyme puis la pénicilline, et su voir leur intérêt pour la médecine.",
+      "ideesClefs": [
+        "En 1917, il explique dans The Lancet que les antiseptiques tuent plus de soldats que l'infection elle-même dans les plaies profondes.",
+        "1922 : il découvre le lysozyme, une enzyme présente dans les larmes et le mucus.",
+        "Il est anobli en 1944 et reçoit le prix Nobel en 1945 avec Florey et Chain."
+      ],
+      "liens": [
+        {
+          "nom": "Howard Florey",
+          "relation": "Dirige l'équipe d'Oxford qui purifie la pénicilline à partir de 1938."
+        },
+        {
+          "nom": "Ernst Chain",
+          "relation": "Trouve le moyen d'isoler et de concentrer la pénicilline."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le lysozyme, né d'un rhume",
+          "texte": "Fin 1921, enrhumé, Fleming ajoute son propre mucus nasal à une culture de bactéries et constate que celui-ci les détruit. Ses collègues fournissent leurs larmes, qui ont le même effet. Ils les font couler avec des citrons. Fleming baptise la substance lysozyme en 1922, mais ses exposés devant des sociétés savantes ne suscitent guère d'intérêt, car le lysozyme n'agit que sur des bactéries inoffensives."
+        },
+        {
+          "titre": "Du désordre à la pénicilline",
+          "texte": "Fleming a la réputation d'un chercheur remarquable mais désordonné. En septembre 1928, après des vacances, il remarque autour d'une moisissure une zone où les bactéries ne se développent plus. Il nomme pénicilline la substance mais la croit difficile à produire. À Oxford, Florey, Chain et Norman Heatley la purifient, ce qui permet les premiers essais sur des malades en 1941."
+        }
+      ],
+      "anecdotes": [
+        "Vers 1940, Fleming rend visite au laboratoire d'Oxford qui travaille sur la pénicilline. Chain lui demande qui il est ; en entendant son nom, il s'écrie : « Je croyais que vous étiez mort ! »"
+      ],
+      "wikipedia": "Alexander Fleming"
+    },
+    "source": "D'après Wikipédia — Alexander Fleming"
+  },
+  {
+    "id": "corps-humain-071",
+    "domain": "corps-humain",
+    "subtheme": "Médecine et médecins",
+    "type": "personnage",
+    "title": "Jonas Salk",
+    "subtitle": "Virologue américain, né en 1914 et mort en 1995",
+    "summary": "Jonas Salk, né à New York en 1914 de parents immigrés, met au point le premier vaccin efficace contre la poliomyélite, jugé efficace en avril 1955. Il repose sur un virus tué par le formaldéhyde.\nSalk refuse de le breveter pour qu'il soit le plus largement diffusé. Interrogé à la télévision, il répond : « Pourrait-on breveter le soleil ? »",
+    "details": {
+      "epoque": "XXe siècle (1914-1995).",
+      "pourquoiCelebre": "Il a mis au point un vaccin contre la polio, largement utilisé, et renoncé à en tirer profit.",
+      "ideesClefs": [
+        "Après un essai sur plus d'un million d'enfants, son vaccin est jugé efficace le 12 avril 1955.",
+        "Il ne le brevette pas : cela aurait pu lui rapporter environ 7 milliards de dollars, selon les estimations.",
+        "Il crée à La Jolla, en Californie, le Salk Institute, un grand centre de recherche."
+      ],
+      "liens": [
+        {
+          "nom": "Albert Sabin",
+          "relation": "Met au point en 1961 un vaccin oral à virus affaibli."
+        },
+        {
+          "nom": "Thomas Francis",
+          "relation": "Virologue de l'université du Michigan, son mentor."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un chercheur né de la grippe",
+          "texte": "Étudiant à New York, Salk renonce à exercer : il veut aider l'humanité plutôt que des patients isolés. Dans le laboratoire de Thomas Francis, à l'université du Michigan, il travaille pour l'armée américaine sur un vaccin contre la grippe et apprend qu'on peut détruire un virus tout en gardant sa capacité à immuniser. En 1947, il obtient son propre laboratoire à Pittsburgh et consacre sept ans à la polio."
+        },
+        {
+          "titre": "Le vaccin et ses suites",
+          "texte": "En avril 1955, Salk est salué comme un « faiseur de miracles ». Plusieurs pays lancent des campagnes et, en 1959, son vaccin a atteint environ 90 pays. Un laboratoire, Cutter, fournit pourtant un lot insuffisamment inactivé, qui contamine plusieurs centaines d'enfants, ce qui freine un moment la vaccination. En 1961, Sabin propose son vaccin oral. Salk meurt en 1995, après avoir cherché un vaccin contre le sida."
+        }
+      ],
+      "anecdotes": [
+        "Avant l'annonce, Salk a testé son vaccin sur lui-même, sur sa famille et sur quelques volontaires."
+      ],
+      "wikipedia": "Jonas Salk"
+    },
+    "source": "D'après Wikipédia — Jonas Salk"
+  },
+  {
+    "id": "corps-humain-072",
+    "domain": "corps-humain",
+    "subtheme": "Médecine et médecins",
+    "type": "classique",
+    "title": "La théorie des humeurs",
+    "subtitle": "Idée centrale de la médecine antique et médiévale",
+    "summary": "Pour la médecine antique, le corps est gouverné par quatre humeurs : le sang, la pituite, la bile jaune et la bile noire. La santé est leur juste équilibre, la maladie naît d'un excès ou d'un manque.\nPopularisée par le Corpus hippocratique puis par Galien, cette théorie a guidé la médecine européenne pendant des siècles, avant d'être abandonnée.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Quatre humeurs, quatre tempéraments",
+          "texte": "Selon le traité De la nature de l'homme, le corps contient du sang, de la pituite (le phlegme), de la bile jaune et de la bile noire, aussi appelée atrabile. Quand elles sont bien mélangées, on est en bonne santé. Selon l'humeur qui domine, le tempérament est sanguin, flegmatique, bilieux ou mélancolique. Ces humeurs sont rattachées aux quatre éléments : feu, air, terre et eau."
+        },
+        {
+          "titre": "Saignées et purges",
+          "texte": "Pour rétablir l'équilibre, on évacue l'humeur en excès : saignées, purges, remèdes qui font uriner. Galien, qui juge le sang la plus abondante des humeurs, donne à la saignée une place centrale. Ces soins aggravaient probablement l'état des malades. La théorie recule à partir du XVIIe siècle et tombe définitivement avec la découverte des microbes."
+        },
+        {
+          "titre": "Une empreinte durable",
+          "texte": "La théorie inspire les artistes : à la Renaissance, la gravure Melencolia I de Dürer renouvelle la représentation des quatre tempéraments, et le théâtre élisabéthain de Ben Jonson invente la Comédie des humeurs. Elle vit encore dans notre langue : on dit « avoir un tempérament sanguin », « être flegmatique » ou « se faire de la bile »."
+        }
+      ],
+      "anecdotes": [
+        "Hippocrate rattachait chaque humeur à une saison : la pituite à l'hiver, avec les rhumes et les bronchites ; le sang au printemps ; la bile jaune à l'été chaud et sec ; la bile noire à l'automne froid et sec."
+      ],
+      "wikipedia": "Théorie des humeurs"
+    },
+    "source": "D'après Wikipédia — Théorie des humeurs"
+  },
+  {
+    "id": "corps-humain-073",
+    "domain": "corps-humain",
+    "subtheme": "Médecine et médecins",
+    "type": "classique",
+    "title": "La variole",
+    "subtitle": "Maladie virale, éradiquée en 1980",
+    "summary": "La variole, aussi appelée « petite vérole », est une maladie due à un virus, très contagieuse, qui couvre le corps de pustules. Elle tuait un malade sur cinq et laissait souvent un visage marqué à vie.\nGrâce à la vaccination, l'Organisation mondiale de la santé l'a déclarée éradiquée le 8 mai 1980 : c'est la seule maladie humaine disparue de cette façon.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un fléau redouté",
+          "texte": "Le mot vient du latin variola, « petite pustule ». On la nommait « petite vérole » pour la distinguer de la syphilis, la « grande vérole ». Après une forte fièvre, une éruption gagne le visage et les membres. Un malade sur cinq mourait, près d'un adulte sur trois, et la maladie n'a jamais eu de traitement efficace. Jusqu'au XVIIIe siècle, elle faisait des dizaines de milliers de morts par an en Europe."
+        },
+        {
+          "titre": "L'éradication",
+          "texte": "Le vaccin moderne est introduit par Edward Jenner en 1796. Des campagnes de vaccination sont menées dès 1958, puis l'OMS lance en 1967 une stratégie de surveillance et d'endiguement : les cas sont repérés, isolés, et leur entourage est vacciné. En 1967, la maladie touchait encore 15 millions de personnes par an. Le dernier cas naturel date d'octobre 1977 et l'éradication est proclamée en 1980."
+        }
+      ],
+      "anecdotes": [
+        "En mars 2004, des échantillons du virus ont été retrouvés à Santa Fe, dans une enveloppe oubliée au milieu d'un vieux manuel de médecine de l'époque de la guerre de Sécession."
+      ],
+      "wikipedia": "Variole"
+    },
+    "source": "D'après Wikipédia — Variole"
+  },
+  {
+    "id": "corps-humain-074",
+    "domain": "corps-humain",
+    "subtheme": "Médecine et médecins",
+    "type": "classique",
+    "title": "Le stéthoscope",
+    "subtitle": "Instrument d'écoute du corps, inventé en 1816",
+    "summary": "Le stéthoscope est l'instrument qui permet d'écouter les sons du corps, surtout le cœur et les poumons. Il a été inventé en 1816 par le médecin français René Laennec.\nLe premier n'était qu'un simple rouleau de papier. Son nom vient du grec : « stêthos », la poitrine, et « skopein », observer : il sert donc à observer, en l'écoutant, l'intérieur de la poitrine.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un rouleau de papier",
+          "texte": "Le 17 février 1816, Laennec ausculte une patiente corpulente dont la poitrine étouffe les bruits du cœur. Gêné d'y poser l'oreille, il roule des feuilles de papier en cylindre, et les sons deviennent plus nets. Il construit ensuite plusieurs modèles en bois et appelle sa méthode « auscultation médiate », car un objet s'interpose entre le corps et l'oreille."
+        },
+        {
+          "titre": "Des deux oreilles à nos jours",
+          "texte": "Le stéthoscope à deux écouteurs apparaît en 1851 avec l'Irlandais Arthur Leared. L'année suivante, l'Américain George Cammann met au point la forme à deux embouts que l'on connaît encore. Au début des années 1960, David Littmann crée un modèle plus léger, aux sons améliorés. Aujourd'hui, il existe aussi des versions électroniques qui amplifient et analysent les bruits."
+        },
+        {
+          "titre": "Un instrument sans danger",
+          "texte": "Le stéthoscope n'est pas invasif et n'a aucun effet secondaire. Il sert à écouter le cœur, la respiration, le ventre ou la tension artérielle. L'historienne Jacalyn Duffin estime qu'il a changé la médecine : on a pu explorer l'intérieur du corps sans le blesser, et définir la maladie comme un trouble d'un organe plutôt que comme un simple ensemble de symptômes."
+        }
+      ],
+      "anecdotes": [
+        "Selon le récit habituel, Laennec a eu l'idée en regardant des enfants jouer : l'un grattait une poutre avec une aiguille, l'autre, l'oreille collée à l'autre bout, devait deviner combien de fois."
+      ],
+      "wikipedia": "Stéthoscope"
+    },
+    "source": "D'après Wikipédia — Stéthoscope"
+  },
+  {
+    "id": "corps-humain-075",
+    "domain": "corps-humain",
+    "subtheme": "Médecine et médecins",
+    "type": "classique",
+    "title": "L'IRM",
+    "subtitle": "Imagerie par résonance magnétique",
+    "summary": "L'imagerie par résonance magnétique (IRM) fabrique des images en deux ou trois dimensions de l'intérieur du corps, sans rayons X. Elle utilise un aimant très puissant et des ondes radio.\nElle montre très bien les tissus mous, comme le cerveau ou les muscles. Les inventeurs de la technique, Paul Lauterbur et Peter Mansfield, ont reçu le prix Nobel de médecine en 2003.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Voir sans irradier",
+          "texte": "Un aimant puissant aligne les noyaux d'hydrogène du corps, abondants dans l'eau et la graisse. Des ondes radio les font réagir, et le signal qu'ils émettent est localisé grâce à des champs magnétiques variables. L'IRM n'irradie pas le patient. Elle sert surtout à explorer le cerveau, la moelle épinière, les muscles, le cœur et les tumeurs, mais pas les os durs, trop pauvres en hydrogène."
+        },
+        {
+          "titre": "De la RMN à l'image",
+          "texte": "Le principe de la résonance magnétique nucléaire est décrit en 1946. En 1973, Paul Lauterbur obtient la première image fondée sur cette technique, et Peter Mansfield propose de son côté une méthode proche. En 1977, Raymond Damadian obtient l'image d'un corps humain vivant, une première. En 1992, une équipe réussit les premières images du cerveau en fonctionnement : c'est le début de l'IRM fonctionnelle."
+        },
+        {
+          "titre": "Un tunnel et beaucoup de bruit",
+          "texte": "Le patient est allongé dans un tunnel d'environ 60 cm de diamètre. Le bruit répétitif vient des bobines qui bougent légèrement. Tout objet métallique magnétique est interdit. Les appareils courants atteignent quelques teslas ; en France, le scanner Iseult du centre NeuroSpin monte à 11,7 teslas, et ses premières images du cerveau ont été présentées en avril 2024."
+        }
+      ],
+      "anecdotes": [
+        "Lors des tout premiers essais, l'objet que l'on a fini par montrer au public était un poivron."
+      ],
+      "wikipedia": "Imagerie par résonance magnétique"
+    },
+    "source": "D'après Wikipédia — Imagerie par résonance magnétique"
+  },
+  {
+    "id": "corps-humain-076",
+    "domain": "corps-humain",
+    "subtheme": "Médecine et médecins",
+    "type": "classique",
+    "title": "La greffe d'organe",
+    "subtitle": "Donner un organe sain à un malade",
+    "summary": "Une greffe, ou transplantation, consiste à donner à un malade un organe sain, prélevé sur un donneur, à la place du sien. Le rein est l'organe le plus souvent greffé, devant le foie et le cœur.\nLe grand obstacle est le rejet : le système immunitaire du receveur attaque l'organe étranger. Il a fallu des décennies de recherche, et des médicaments spéciaux, pour le limiter.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Quatre sortes de greffes",
+          "texte": "Selon l'origine du greffon, on distingue l'autogreffe, prélevée sur le receveur lui-même, l'isogreffe, venue d'un jumeau identique, l'allogreffe, issue d'un autre humain, cas le plus courant, et la xénogreffe, venue d'une autre espèce. Pour limiter le rejet, on vérifie au minimum la compatibilité des groupes sanguins, et on donne au patient des médicaments immunosuppresseurs."
+        },
+        {
+          "titre": "Les grandes premières",
+          "texte": "En 1954, à Boston, Joseph Murray réussit la première greffe de rein, entre deux jumeaux identiques. La première greffe de foie date de 1963, la première greffe de cœur de 1967 grâce à Christiaan Barnard. En janvier 2000, l'équipe du professeur Dubernard réalise la première double greffe de mains, et en novembre 2005, des équipes d'Amiens la première greffe partielle de visage."
+        }
+      ],
+      "anecdotes": [
+        "En 2015, une chaîne de dons croisés de reins a réuni 35 greffes, soit 70 opérations dans 25 centres : chaque donneur vivant, incompatible avec son proche malade, donnait à un inconnu, qui lui-même donnait à un autre."
+      ],
+      "wikipedia": "Greffe (médecine)"
+    },
+    "source": "D'après Wikipédia — Greffe (médecine)"
+  },
+  {
+    "id": "corps-humain-077",
+    "domain": "corps-humain",
+    "subtheme": "Médecine et médecins",
+    "type": "classique",
+    "title": "La transfusion sanguine",
+    "subtitle": "Donner du sang pour en sauver d'autres",
+    "summary": "La transfusion sanguine consiste à injecter dans une veine du sang ou des dérivés du sang. Elle a longtemps été dangereuse, car on ignorait que le sang humain se répartit en groupes incompatibles.\nSa sécurité repose sur les groupes sanguins découverts en 1900 et sur des techniques de conservation mises au point pendant la Première Guerre mondiale.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des débuts périlleux",
+          "texte": "Le 15 juin 1667, Jean-Baptiste Denis, médecin de Louis XIV, injecte du sang d'agneau à un garçon fiévreux, qui guérit. L'année suivante, un patient meurt après des transfusions de sang de veau. En 1675, le Parlement de Paris interdit la transfusion chez l'homme. En 1818, James Blundell réalise les premières transfusions d'humain à humain, pour des femmes affaiblies après l'accouchement."
+        },
+        {
+          "titre": "Les groupes sanguins",
+          "texte": "Les médecins ignoraient alors que tous les sangs ne sont pas compatibles. En 1900, l'Autrichien Karl Landsteiner découvre le principe des groupes sanguins : le sang d'un sujet agglutine ou non les globules rouges d'un autre. Le groupe AB est identifié en 1901. La plupart des transfusions réussissent désormais, et Landsteiner reçoit le prix Nobel en 1930. En 1940, il découvre avec Alexander Wiener le facteur rhésus."
+        },
+        {
+          "titre": "Conserver et organiser",
+          "texte": "En 1914, le Belge Albert Hustin réussit la première transfusion par poche, puis montre en 1916 qu'ajouter du citrate de soude empêche le sang de coaguler. Le sang peut alors être conservé : quatre jours en 1915, jusqu'à trente à quarante jours après les perfectionnements suivants. En 1936, à Madrid, Norman Bethune réalise une transfusion sans donneur présent, puis Charles Drew organise la première banque du sang en 1940."
+        }
+      ],
+      "anecdotes": [
+        "Le facteur rhésus doit son nom au macaque rhésus, le singe qui a servi à l'expérience de Landsteiner et Wiener."
+      ],
+      "wikipedia": "Transfusion sanguine"
+    },
+    "source": "D'après Wikipédia — Transfusion sanguine"
+  },
+  {
+    "id": "corps-humain-078",
+    "domain": "corps-humain",
+    "subtheme": "Squelette et muscles",
+    "type": "classique",
+    "title": "Le crâne",
+    "subtitle": "L'armure osseuse de la tête, 22 os en général",
+    "summary": "Le crâne est l'armure osseuse de la tête : il protège le cerveau et soutient le visage. Chez l'humain, on lui compte généralement 22 os, huit pour la boîte crânienne et quatorze pour la face.\nLa plupart sont solidement reliés par des sutures, des joints fibreux presque immobiles. Seule la mâchoire inférieure, la mandibule, s'articule avec les os temporaux.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Deux étages, 22 os",
+          "texte": "Le crâne se divise en neurocrâne, la boîte qui abrite le cerveau et le tronc cérébral, et en squelette facial. La boîte compte huit os : frontal, occipital, sphénoïde, ethmoïde, deux pariétaux et deux temporaux. La face en compte quatorze, dont la mandibule, son plus gros os. Certaines sources comptent autrement, mais le consensus reste 22."
+        },
+        {
+          "titre": "Sutures, trous et cavités",
+          "texte": "Les os de la voûte sont unis par des sutures. Parfois, de petits os supplémentaires, les os wormiens, s'y glissent, surtout le long de la suture lambdoïde. Le plus grand orifice, le foramen magnum, laisse passer la moelle épinière. Des sinus, cavités pleines d'air, allègent le crâne et font résonner la voix. Il n'est complètement formé que deux ans après la naissance."
+        }
+      ],
+      "anecdotes": [
+        "Chez un nouveau-né, les os du crâne ne sont pas encore soudés : de larges espaces souples, les fontanelles, leur permettent de se chevaucher à la naissance et de laisser grandir le cerveau."
+      ],
+      "wikipedia": "Crâne"
+    },
+    "source": "D'après Wikipédia — Crâne"
+  },
+  {
+    "id": "corps-humain-079",
+    "domain": "corps-humain",
+    "subtheme": "Squelette et muscles",
+    "type": "classique",
+    "title": "La colonne vertébrale",
+    "subtitle": "L'empilement de vertèbres qui soutient et protège la moelle épinière",
+    "summary": "La colonne vertébrale est un empilement de vertèbres qui soutient le corps, permet de plier et de tourner le tronc et protège la moelle épinière. Elle compte 24 vertèbres mobiles : 7 cervicales, 12 thoraciques et 5 lombaires.\nS'y ajoutent le sacrum, formé de cinq vertèbres soudées, et le coccyx, un reste de queue de 3 à 5 vertèbres fusionnées.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Quatre courbures nées de la marche",
+          "texte": "Vue de profil, la colonne n'est pas droite : elle dessine un S, avec des courbures au cou, au thorax, aux reins et au sacrum. Elles aident à absorber les chocs et à tenir debout. Celles du thorax et du sacrum existent déjà chez le fœtus. Celle du cou se forme quand le bébé tient sa tête, vers 3 ou 4 mois, celle des reins quand il se met à marcher, vers un an."
+        },
+        {
+          "titre": "Atlas, axis et vertèbre proéminente",
+          "texte": "Les deux premières cervicales sont à part. L'atlas (C1) porte la tête, d'où le nom du titan grec qui portait le monde : il n'a ni corps ni apophyse épineuse. L'axis (C2) possède une dent verticale qui sert de pivot à l'atlas. Entre le crâne et C1, puis entre C1 et C2, il n'y a pas de disque. La septième cervicale, elle, se palpe sous la peau de la nuque."
+        }
+      ],
+      "anecdotes": [
+        "La colonne grandit plus vite que la moelle épinière pendant l'enfance. À l'âge adulte, la moelle s'arrête vers le haut des lombaires, et le bas du canal est occupé par un faisceau de nerfs que l'on appelle la queue de cheval, en latin cauda equina."
+      ],
+      "wikipedia": "Colonne vertébrale"
+    },
+    "source": "D'après Wikipédia — Colonne vertébrale"
+  },
+  {
+    "id": "corps-humain-080",
+    "domain": "corps-humain",
+    "subtheme": "Squelette et muscles",
+    "type": "classique",
+    "title": "La main",
+    "subtitle": "Un outil de précision de 27 os",
+    "summary": "La main humaine saisit fort ou manipule finement, grâce à cinq doigts dont un pouce opposable. Son squelette compte 27 os : huit au poignet, cinq dans la paume et quatorze phalanges dans les doigts.\nElle ne sert pas qu'à prendre : les doigts comptent parmi les zones les plus riches en terminaisons nerveuses du corps, et la main participe au langage, des gestes à la langue des signes.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Os, muscles et tendons",
+          "texte": "Chaque doigt a trois phalanges, sauf le pouce, qui n'en a que deux. Les articulations entre la paume et les doigts forment les jointures. La main contient 21 petits muscles, mais les muscles qui plient et étendent les doigts sont dans l'avant-bras : 15 tendons descendent jusqu'à la main. Les doigts eux-mêmes ne contiennent donc que des tendons."
+        },
+        {
+          "titre": "Force, précision et toucher",
+          "texte": "On distingue la prise de force, qui mobilise presque tous les doigts, et la prise de précision, qui pince entre le pouce et l'index. Chaque main est commandée surtout par l'hémisphère opposé du cerveau : la main préférée en dit long sur notre cerveau. Les dix doigts, et les douze phalanges des quatre doigts que le pouce peut toucher, ont même inspiré des systèmes de numération."
+        }
+      ],
+      "anecdotes": [
+        "Ce qui fait la singularité de la main humaine, ce sont ses doigts proportionnellement courts et ses pouces longs et puissants, bien plus que ceux des grands singes. Ils permettent la préhension de précision, entre le pouce et l'index, qui a servi à fabriquer des outils depuis plus de deux millions d'années."
+      ],
+      "wikipedia": "Main"
+    },
+    "source": "D'après Wikipédia — Main"
+  },
+  {
+    "id": "corps-humain-081",
+    "domain": "corps-humain",
+    "subtheme": "Squelette et muscles",
+    "type": "classique",
+    "title": "Le fémur",
+    "subtitle": "L'os de la cuisse, le plus long et le plus lourd du corps",
+    "summary": "Le fémur, l'os de la cuisse, bat tous les records du squelette humain : le plus long, le plus lourd, et l'un des plus solides. Chez l'adulte, il mesure généralement de 40 à 45 cm, soit environ un quart de la taille totale.\nSa tête arrondie s'emboîte dans le bassin pour former la hanche, et son extrémité basse forme le genou avec le tibia et la rotule.",
+    "details": {
+      "sections": [
+        {
+          "titre": "De la hanche au genou",
+          "texte": "La tête du fémur, qui a la forme des deux tiers d'une sphère et est recouverte de cartilage, est reliée à l'os par un col oblique. Son angle avec le corps de l'os est d'environ 150 degrés chez le nouveau-né, puis il se ferme à 130 ou 135 degrés chez l'adulte. À la base du col, deux saillies, les trochanters, servent d'attache aux muscles de la hanche ; le grand se sent facilement sous la peau."
+        },
+        {
+          "titre": "Un os qui donne la taille",
+          "texte": "La longueur du fémur représente en moyenne un peu plus d'un quart de la taille d'une personne, avec très peu de variation d'un groupe humain à l'autre. Les anthropologues s'en servent pour estimer la taille de quelqu'un à partir d'un squelette incomplet. Certains le considèrent comme l'os le plus solide, même si d'autres études pensent que l'os temporal du crâne pourrait l'être davantage."
+        }
+      ],
+      "anecdotes": [
+        "Debout, vos fémurs ne sont pas verticaux : ils descendent en biais vers l'intérieur, afin de rapprocher les genoux de l'axe du corps, là où passe son poids."
+      ],
+      "wikipedia": "Fémur"
+    },
+    "source": "D'après Wikipédia — Fémur"
+  },
+  {
+    "id": "corps-humain-082",
+    "domain": "corps-humain",
+    "subtheme": "Squelette et muscles",
+    "type": "classique",
+    "title": "Les articulations",
+    "subtitle": "Là où deux os se rejoignent",
+    "summary": "Une articulation est une zone de jonction entre deux os, ou entre un os et une dent. Selon leur constitution, elles sont plus ou moins mobiles.\nOn les classe en trois grands types : fibreuses, cartilagineuses et synoviales. Ces dernières, comme le genou, sont les plus connues et les plus mobiles, avec une capsule remplie d'un liquide lubrifiant.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Mobiles, semi-mobiles, immobiles",
+          "texte": "Certaines articulations ne bougent pas du tout : les sutures du crâne, qui protègent le cerveau. D'autres bougent un peu, comme les disques entre les vertèbres : chacun permet un petit mouvement, et l'ensemble donne au dos sa souplesse. Les plus libres sont les synoviales. Même la dent compte comme une articulation : la gomphose la fixe à l'os avec très peu de mobilité mais une grande solidité."
+        },
+        {
+          "titre": "À l'intérieur d'une synoviale",
+          "texte": "Les extrémités des os y sont recouvertes de cartilage et enfermées dans une capsule maintenue par des ligaments. À l'intérieur, la synovie, un liquide visqueux, joue le rôle de lubrifiant. La forme des surfaces décide du mouvement : la hanche et l'épaule sont des rotules, qui tournent dans tous les sens, le coude est une charnière, et la base du pouce est une selle, qui permet de l'opposer aux doigts."
+        }
+      ],
+      "anecdotes": [
+        "Les sutures du crâne ne laissent presque aucune place au mouvement, sauf au moment de la naissance."
+      ],
+      "wikipedia": "Articulation (anatomie)"
+    },
+    "source": "D'après Wikipédia — Articulation (anatomie)"
+  },
+  {
+    "id": "corps-humain-083",
+    "domain": "corps-humain",
+    "subtheme": "Squelette et muscles",
+    "type": "classique",
+    "title": "Le cartilage",
+    "subtitle": "Un tissu souple et résistant, sans vaisseaux ni nerfs",
+    "summary": "Le cartilage est un tissu à la fois souple et résistant, plus ferme que le muscle mais moins dur que l'os. On le trouve au bout des os dans les articulations, dans le nez, l'oreille, la trachée, les côtes et entre les vertèbres.\nSa particularité : il n'a ni vaisseaux sanguins ni nerfs. Il est donc insensible, mais se répare très lentement.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Trois sortes de cartilage",
+          "texte": "Le cartilage hyalin est le plus répandu : surface des articulations, cloison du nez, anneaux de la trachée, bout des côtes. Le fibrocartilage, riche en fibres, résiste très bien aux tractions : disques entre les vertèbres, ménisques du genou. Le cartilage élastique, jaunâtre, garde sa forme tout en restant souple : oreille externe, épiglotte, ailes du nez."
+        },
+        {
+          "titre": "Se nourrir sans sang",
+          "texte": "Faute de vaisseaux, le cartilage est nourri par diffusion : quand on le comprime ou qu'on le plie, le liquide circule et apporte les nutriments aux cellules. Sa matrice, riche en molécules qui retiennent l'eau, le rend résistant. Chez l'adulte, il ne se régénère presque plus. Depuis les années 1990, des chercheurs explorent les cellules souches pour le réparer."
+        }
+      ],
+      "anecdotes": [
+        "Le squelette d'un embryon est d'abord en cartilage : l'os le remplace peu à peu. Chez les requins et les raies, le squelette reste en cartilage toute la vie."
+      ],
+      "wikipedia": "Cartilage"
+    },
+    "source": "D'après Wikipédia — Cartilage"
+  },
+  {
+    "id": "corps-humain-084",
+    "domain": "corps-humain",
+    "subtheme": "Squelette et muscles",
+    "type": "classique",
+    "title": "La dent",
+    "subtitle": "Un organe très minéralisé, qui n'est pas un os",
+    "summary": "Une dent est une pièce très dure, riche en minéraux, plantée dans la mâchoire : elle sert à saisir, déchirer et broyer les aliments. Elle comprend une racine dans l'os et une couronne visible. Elle n'est pas faite d'os, mais de plusieurs tissus, dont la dentine et l'émail.\nL'humain en a 20 de lait, puis jusqu'à 32 définitives.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une dentition, puis une autre",
+          "texte": "La plupart des mammifères ont deux séries de dents, dont les humains. La première, dite de lait, apparaît en général vers six mois : 10 dents en haut, 10 en bas. Elle laisse la place à 32 dents définitives, dont quatre dents de sagesse qui manquent chez certains adultes. Certains bébés naissent même avec une dent visible. Éléphants, kangourous et lamantins, eux, renouvellent leurs dents plusieurs fois."
+        },
+        {
+          "titre": "Une dent pour chaque menu",
+          "texte": "La forme des dents dépend du régime. Les herbivores ont de nombreuses molaires pour broyer les plantes, les carnivores des canines pour tuer et déchirer, les humains une denture adaptée à un régime omnivore. Les incisives des rongeurs poussent toute leur vie, un crocodile change de dents plus de quarante fois, et les tortues ou les oiseaux actuels n'en ont plus du tout."
+        }
+      ],
+      "anecdotes": [
+        "Les dents ne s'usent pas toutes pareil : un requin en fait pousser de nouvelles en tapis roulant toute sa vie, et les reptiles aussi, alors que l'être humain n'a droit qu'à deux jeux, 20 dents de lait puis jusqu'à 32 dents définitives."
+      ],
+      "wikipedia": "Dent"
+    },
+    "source": "D'après Wikipédia — Dent"
+  },
+  {
+    "id": "corps-humain-085",
+    "domain": "corps-humain",
+    "subtheme": "Squelette et muscles",
+    "type": "classique",
+    "title": "Le cheveu",
+    "subtitle": "Un poil du cuir chevelu, en kératine",
+    "summary": "Le cheveu est un poil du cuir chevelu, fait de kératine comme l'ongle. Une chevelure en compte de 100 000 à 150 000, et chaque cheveu pousse d'environ un centimètre par mois.\nSeule la racine, cachée dans la peau, est vivante : la tige visible est biologiquement morte, tandis que le follicule produit sans cesse de la kératine.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un cycle en trois temps",
+          "texte": "Chaque follicule vit à son rythme, indépendamment de ses voisins. Il alterne une longue phase de croissance, de 2 à 8 ans, une courte phase de régression de 2 à 3 semaines, puis une phase de repos de 2 à 6 mois, au bout de laquelle le nouveau cheveu fait tomber l'ancien. Un follicule peut faire une vingtaine de cycles. Le blanchissement vient de l'épuisement des mélanocytes."
+        },
+        {
+          "titre": "Lisse, bouclé, coloré",
+          "texte": "La forme du follicule décide de la forme du cheveu : rond, il donne un cheveu lisse ; ovale et un peu tordu, un cheveu plat et frisé ; couché sous la peau, un cheveu crépu. La couleur dépend de deux pigments, l'eumélanine pour les bruns et les noirs, la phéomélanine pour les roux. Le blond a peu de pigment. Les blonds auraient en moyenne 150 000 cheveux, les roux 90 000."
+        }
+      ],
+      "anecdotes": [
+        "Le cheveu garde la trace de ce que l'on absorbe : l'analyse d'une mèche attribuée à Beethoven, prélevée bien avant sa mort, a révélé une forte exposition au plomb."
+      ],
+      "wikipedia": "Cheveu"
+    },
+    "source": "D'après Wikipédia — Cheveu"
+  },
+  {
+    "id": "corps-humain-086",
+    "domain": "corps-humain",
+    "subtheme": "Squelette et muscles",
+    "type": "classique",
+    "title": "L'ongle",
+    "subtitle": "Une plaque de kératine qui a remplacé la griffe",
+    "summary": "L'ongle est une plaque dure et translucide de kératine, au bout des doigts et des orteils. Chez les primates, il a remplacé la griffe des autres animaux.\nIl protège l'extrémité du doigt et affine le toucher. Il pousse d'environ 3,5 mm par mois aux mains, deux fois moins aux pieds : un ongle de main met de trois à six mois à se reformer, un ongle de pied de douze à dix-huit.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une usine sous la peau",
+          "texte": "L'ongle est fabriqué par la matrice, cachée sous un repli de peau à sa base. La lunule, le croissant blanc que l'on voit surtout au pouce, en est la partie visible. La plaque elle-même est faite de cellules mortes et compactées, sans nerfs ni vaisseaux. Si elle paraît rose, c'est parce que les capillaires du lit de l'ongle se voient à travers."
+        },
+        {
+          "titre": "À quoi sert un ongle ?",
+          "texte": "Il protège le bout du doigt des chocs. Il sert aussi de contre-appui : quand le doigt touche un objet, l'ongle presse la pulpe, ce qui rend le toucher plus fin, alors qu'il n'a lui-même aucune terminaison nerveuse. Il fait enfin office de petit outil, pour gratter ou retirer une écharde. L'ongle de l'index pousse plus vite que celui du petit doigt."
+        }
+      ],
+      "anecdotes": [
+        "Contrairement à l'idée reçue, les petites taches blanches ne viennent pas d'un manque de calcium : elles peuvent être dues à un microtraumatisme. On les appelait autrefois taches de mensonges, car selon l'onychomancie, leur nombre comptait les mensonges."
+      ],
+      "wikipedia": "Ongle"
+    },
+    "source": "D'après Wikipédia — Ongle"
+  },
+  {
+    "id": "corps-humain-087",
+    "domain": "corps-humain",
+    "subtheme": "Sens",
+    "type": "classique",
+    "title": "La rétine",
+    "subtitle": "La membrane qui transforme la lumière en signaux nerveux",
+    "summary": "La rétine est la fine membrane au fond de l'œil qui transforme la lumière en signaux nerveux. Épaisse d'environ 0,5 mm, elle contient environ 120 millions de bâtonnets, pour la vision de nuit en noir et blanc, et 5 à 7 millions de cônes, pour le jour et les couleurs.\nElle fait partie du système nerveux central : elle naît d'une excroissance du cerveau embryonnaire.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Bâtonnets et cônes",
+          "texte": "Les bâtonnets sont ultra-sensibles : un seul photon peut les déclencher, alors qu'il en faut une centaine pour un cône. Les cônes existent en trois types, sensibles au rouge, au vert et au bleu. Ils se concentrent dans la fovéa, une petite dépression au centre de la macula, où la vue est la plus nette. Le pigment des bâtonnets, la rhodopsine, contient un dérivé de la vitamine A."
+        },
+        {
+          "titre": "Une rétine montée à l'envers",
+          "texte": "Chez les vertébrés, la rétine est inversée : la lumière traverse les couches de neurones avant d'atteindre les photorécepteurs, placés derrière. Le nerf optique quitte l'œil par la papille, une zone sans photorécepteurs : c'est la tache aveugle. Chez les calmars et autres céphalopodes, les photorécepteurs sont devant, et il n'y a aucune tache aveugle."
+        }
+      ],
+      "anecdotes": [
+        "La rétine est la seule partie du système nerveux que l'on peut observer sans opérer. C'est aussi la partie du corps dont la demande d'énergie est la plus forte et la plus continue."
+      ],
+      "wikipedia": "Rétine"
+    },
+    "source": "D'après Wikipédia — Rétine"
+  },
+  {
+    "id": "corps-humain-088",
+    "domain": "corps-humain",
+    "subtheme": "Sens",
+    "type": "classique",
+    "title": "La cochlée",
+    "subtitle": "Le limaçon de l'oreille interne, organe de l'ouïe",
+    "summary": "La cochlée, ou limaçon, est un tube de l'oreille interne enroulé comme une coquille d'escargot. Elle transforme les vibrations des sons en signaux électriques, que le nerf auditif envoie au cerveau.\nElle est remplie de liquide et tapissée de 16 000 cellules ciliées. Tout près, l'oreille interne abrite aussi l'organe de l'équilibre, le système vestibulaire.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des cellules ciliées accordées",
+          "texte": "Les vibrations arrivent de l'oreille moyenne par la fenêtre ovale et mettent en mouvement la membrane basilaire et ses cellules ciliées. Chaque cellule répond surtout à une fréquence. Celles de la base, près de l'oreille moyenne, réagissent aux sons aigus, celles du dernier tour, au sommet, aux sons graves. Le cerveau déduit la hauteur du son de la cellule excitée."
+        },
+        {
+          "titre": "Le liquide, l'équilibre et la fragilité",
+          "texte": "Trois canaux semi-circulaires, perpendiculaires entre eux et remplis de liquide, détectent les rotations de la tête, car le liquide, par inertie, déplace leurs cellules ciliées. Le saccule et l'utricule repèrent les accélérations en ligne droite. Les cellules ciliées détruites par un son très intense ne sont pas remplacées : la perte commence par les aigus."
+        }
+      ],
+      "anecdotes": [
+        "Au XVIIIe siècle, on croyait l'oreille interne remplie d'air, comme le voulait la doctrine d'Aristote. En 1761, l'anatomiste Domenico Cotugno soutient qu'elle contient du liquide, à la surprise des chercheurs de l'époque."
+      ],
+      "wikipedia": "Oreille interne"
+    },
+    "source": "D'après Wikipédia — Oreille interne"
+  },
+  {
+    "id": "corps-humain-089",
+    "domain": "corps-humain",
+    "subtheme": "Organes et fonctions",
+    "type": "vocabulaire",
+    "title": "Réflexe vs réaction volontaire",
+    "subtitle": "Une réponse automatique contre un geste décidé",
+    "summary": "Un réflexe est une réponse du corps involontaire, très rapide et toujours la même, déclenchée par un stimulus. Il est souvent protecteur : on retire la main d'une plaque brûlante avant même d'avoir senti la douleur.\nUne réaction volontaire, au contraire, est un mouvement décidé et contrôlé par le cerveau.",
+    "details": {
+      "definition": "Un réflexe est une réaction automatique du corps à un stimulus : involontaire, très rapide et toujours semblable, elle emprunte un arc réflexe sans que la volonté intervienne.",
+      "exemple": "Quand on touche une plaque brûlante, la main se retire avant même que la douleur soit ressentie : c'est un réflexe. Décider de la retirer ensuite est une réaction volontaire.",
+      "confusions": [
+        {
+          "mot": "Réflexe conditionné",
+          "explication": "Un réflexe peut être inné ou acquis : il n'est donc pas toujours présent dès la naissance."
+        },
+        {
+          "mot": "Respiration",
+          "explication": "On peut la voir comme involontaire, mais aussi comme volontaire, puisqu'on peut retenir son souffle."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le trajet d'un réflexe",
+          "texte": "Un récepteur perçoit le stimulus, et un influx nerveux part vers la moelle épinière ou le tronc cérébral. Un neurone moteur renvoie aussitôt l'ordre au muscle. Cette boucle s'appelle l'arc réflexe. Le plus simple n'a qu'une synapse. Les signaux ne passent pas toujours par le cerveau, d'où la rapidité : inutile de réfléchir pour réagir."
+        },
+        {
+          "titre": "Tester, naître, et expliquer",
+          "texte": "Les médecins testent des réflexes, comme celui de la rotule, et les notent de 0 à 4, 2 étant la valeur normale. Les nouveau-nés ont des réflexes primitifs, comme la succion ou la préhension de la paume. L'idée remonte au XVIIe siècle : Descartes imaginait le corps comme une statue mécanique. Le mot reflex est apparu au XIXe siècle avec Marshall Hall."
+        }
+      ],
+      "wikipedia": "Réflexe"
+    },
+    "source": "D'après Wikipédia — Réflexe"
+  },
+  {
+    "id": "corps-humain-090",
+    "domain": "corps-humain",
+    "subtheme": "Organes et fonctions",
+    "type": "vocabulaire",
+    "title": "Vitamine vs minéral",
+    "subtitle": "Deux familles de nutriments essentiels",
+    "summary": "Une vitamine est une substance organique dont le corps a besoin en petite quantité, moins de 100 mg par jour, et qu'il ne sait pas fabriquer en quantité suffisante. Il faut donc l'apporter par l'alimentation.\nLes minéraux, comme le fer ou le zinc, forment une autre famille de nutriments essentiels. Les grandes organisations de santé listent treize vitamines.",
+    "details": {
+      "definition": "Une vitamine est une molécule organique dont l'organisme a besoin en infime quantité pour fonctionner, et qu'il ne fabrique pas en quantité suffisante.",
+      "exemple": "La vitamine C vient surtout des agrumes. La plupart des mammifères la fabriquent eux-mêmes, mais pas les primates, donc pas nous.",
+      "confusions": [
+        {
+          "mot": "Minéral",
+          "explication": "Fer, zinc et sélénium sont des minéraux : une autre famille de nutriments essentiels, pas des vitamines."
+        },
+        {
+          "mot": "Vitamine F (oméga-3)",
+          "explication": "Les oméga-3 ont été classés comme vitamines au départ, mais plus aujourd'hui, car il en faut deux à trois grammes par jour."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Dans l'eau ou dans les graisses",
+          "texte": "Les vitamines hydrosolubles, comme les B et la C, se dissolvent dans l'eau : l'excès part dans les urines, sauf pour la B12. Les liposolubles, surtout A et D, se dissolvent dans les graisses et se stockent dans l'organisme, notamment dans le foie. La vitamine D se fabrique aussi dans la peau exposée au soleil et joue un rôle de type hormonal."
+        },
+        {
+          "titre": "Cent ans pour les découvrir",
+          "texte": "Le chirurgien écossais James Lind montre en 1747 que les agrumes préviennent le scorbut. En 1897, Christiaan Eijkman protège des poulets avec du riz non raffiné. En 1912, Casimir Funk propose le mot vitamine, de vita et amine, alors que toutes n'ont pas ce composé. Elles ont toutes été découvertes entre 1910 et 1948. Eijkman et Hopkins reçoivent le Nobel en 1929."
+        }
+      ],
+      "anecdotes": [
+        "En 1884, le médecin japonais Takaki Kanehiro compare deux équipages de cuirassés. Les marins nourris au seul riz blanc comptent 161 cas de béribéri et 25 morts. Ceux dont le menu variait, avec viande, poisson, orge et haricots, n'ont que 14 cas et aucun mort."
+      ],
+      "wikipedia": "Vitamine"
+    },
+    "source": "D'après Wikipédia — Vitamine"
   }
 ]

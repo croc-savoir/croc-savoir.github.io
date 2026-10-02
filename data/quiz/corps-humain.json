@@ -476,5 +476,987 @@
     "bonneReponse": 1,
     "explication": "Le cerveau ne représente qu'environ 2 % du poids du corps, mais il consomme environ 20 % de son énergie, même au repos. Ses 86 milliards de neurones ont besoin en permanence de glucose et d'oxygène : quelques minutes sans oxygène suffisent à l'endommager.",
     "source": "D'après Wikipédia — Cerveau humain"
+  },
+  {
+    "id": "q-corps-humain-031",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Comment s'appelle la pâte formée dans l'estomac, qui passe ensuite dans le duodénum par le pylore ?",
+    "choix": [
+      "Le chyme",
+      "La bile",
+      "Le mucus",
+      "Le suc pancréatique"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le chyme est la pâte acide obtenue quand l'estomac malaxe les aliments avec le suc gastrique. Il passe petit à petit dans le duodénum, où la bile et le suc pancréatique neutralisent son acidité.",
+    "source": "D'après Wikipédia — Estomac"
+  },
+  {
+    "id": "q-corps-humain-032",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quelle hormone du pancréas, produite par les cellules bêta des îlots de Langerhans, fait baisser la glycémie ?",
+    "choix": [
+      "L'insuline",
+      "Le glucagon",
+      "La thyroxine",
+      "L'adrénaline"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'insuline aide le glucose du sang à entrer dans le foie, les muscles et les cellules graisseuses. Son contraire, le glucagon, est produit par les cellules alpha et fait remonter le taux de sucre.",
+    "source": "D'après Wikipédia — Pancréas"
+  },
+  {
+    "id": "q-corps-humain-033",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Le diaphragme est un muscle propre aux mammifères, qui joue le rôle principal dans la respiration.",
+    "reponse": true,
+    "explication": "En se contractant, le diaphragme s'abaisse et crée une dépression dans le thorax : l'air entre dans les poumons. Il est ensuite relâché et l'expiration se fait passivement. C'est le plus important des muscles inspiratoires.",
+    "source": "D'après Wikipédia — Diaphragme (organe)"
+  },
+  {
+    "id": "q-corps-humain-034",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Que fabrique la glande thyroïde, qui a besoin d'iode pour fonctionner ?",
+    "choix": [
+      "Les hormones T3 et T4",
+      "L'insuline et le glucagon",
+      "L'adrénaline et la dopamine",
+      "La mélatonine"
+    ],
+    "bonneReponse": 0,
+    "explication": "La thyroïde piège l'iode du sang pour produire les hormones T3 et T4, qui règlent le métabolisme, ainsi que la calcitonine. Quand l'iode manque, la glande grossit : c'est le goitre. Son activité est commandée par la TSH.",
+    "source": "D'après Wikipédia — Glande thyroïde"
+  },
+  {
+    "id": "q-corps-humain-035",
+    "domain": "corps-humain",
+    "format": "associer",
+    "question": "Associe chaque partie de l'intestin grêle à son rôle ou à sa particularité.",
+    "paires": [
+      {
+        "gauche": "Duodénum",
+        "droite": "Reçoit le chyme, la bile et le suc pancréatique",
+        "explication": "C'est le segment le plus court, qui suit le pylore et neutralise l'acidité de l'estomac."
+      },
+      {
+        "gauche": "Jéjunum",
+        "droite": "Absorbe sucres, acides aminés et acides gras",
+        "explication": "Ce segment d'environ 2,5 m est le grand lieu de l'absorption des nutriments."
+      },
+      {
+        "gauche": "Iléon",
+        "droite": "Récupère la vitamine B12 et les sels biliaires",
+        "explication": "Dernier segment, il débouche sur le gros intestin au niveau de la valvule iléo-cæcale."
+      }
+    ],
+    "explication": "L'intestin grêle mesure environ 6 mètres et se divise en trois segments successifs : duodénum, jéjunum et iléon. Chacun a sa spécialité, mais tous partagent une muqueuse plissée qui multiplie la surface d'échange.",
+    "source": "D'après Wikipédia — Intestin grêle"
+  },
+  {
+    "id": "q-corps-humain-036",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quelle petite région du cerveau relie le système nerveux au système hormonal par l'intermédiaire de l'hypophyse ?",
+    "choix": [
+      "L'hypothalamus",
+      "Le cervelet",
+      "L'hippocampe",
+      "Le bulbe olfactif"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'hypothalamus, de la taille d'une amande, sécrète des neurohormones qui stimulent ou freinent l'hypophyse. Il surveille aussi la température, la faim, la soif et l'horloge interne du corps.",
+    "source": "D'après Wikipédia — Hypothalamus"
+  },
+  {
+    "id": "q-corps-humain-037",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quel est le rôle principal du cervelet ?",
+    "choix": [
+      "Coordonner et affiner les mouvements",
+      "Déclencher les mouvements volontaires",
+      "Stocker les souvenirs à long terme",
+      "Réguler la température du corps"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le cervelet ne déclenche pas les mouvements : il les rend précis, assure l'équilibre et la posture. Son atteinte ne paralyse pas, mais rend les gestes imprécis. Il contient pourtant plus de neurones que le néocortex.",
+    "source": "D'après Wikipédia — Cervelet"
+  },
+  {
+    "id": "q-corps-humain-038",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "La moelle épinière occupe toute la longueur de la colonne vertébrale chez l'adulte.",
+    "reponse": false,
+    "explication": "La moelle arrête de grandir vers 4 ans, alors que la colonne continue de s'allonger. Chez l'adulte, elle s'arrête entre la première et la deuxième vertèbre lombaire ; en dessous descend la « queue de cheval ».",
+    "source": "D'après Wikipédia — Moelle spinale"
+  },
+  {
+    "id": "q-corps-humain-039",
+    "domain": "corps-humain",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis fabriquée surtout la nuit, au cœur du cerveau.",
+      "On m'a découverte en 1958 en étudiant des glandes de bœuf et des grenouilles.",
+      "Mon précurseur est la sérotonine.",
+      "Je suis produite par la glande pinéale.",
+      "On m'appelle souvent « l'hormone du sommeil »."
+    ],
+    "reponse": "La mélatonine",
+    "explication": "La mélatonine est fabriquée par la glande pinéale à partir de la sérotonine. Découverte en 1958 par Aaron Lerner, elle synchronise l'horloge interne. La lumière bleue des écrans freine sa production.",
+    "source": "D'après Wikipédia — Mélatonine"
+  },
+  {
+    "id": "q-corps-humain-040",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "D'après l'étymologie latine, que signifie le mot « adrénaline » ?",
+    "choix": [
+      "Près du rein",
+      "Au-dessus du cœur",
+      "Sous la peau",
+      "Qui accélère"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot dérive du latin ad renes, « à côté du rein », car l'hormone est sécrétée par les glandes surrénales. Son équivalent américain, épinéphrine, vient du grec et signifie « au-dessus du rein ».",
+    "source": "D'après Wikipédia — Adrénaline"
+  },
+  {
+    "id": "q-corps-humain-041",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quelle maladie est liée à la disparition des neurones à dopamine de la substance noire ?",
+    "choix": [
+      "La maladie de Parkinson",
+      "La maladie de Crohn",
+      "La maladie de Basedow",
+      "Le diabète de type 1"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans la maladie de Parkinson, les neurones à dopamine de la substance noire dégénèrent, ce qui perturbe le contrôle des mouvements. La L-DOPA, qui traverse la barrière du cerveau, est transformée en dopamine.",
+    "source": "D'après Wikipédia — Dopamine"
+  },
+  {
+    "id": "q-corps-humain-042",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "La majeure partie de la sérotonine du corps humain est fabriquée dans le cerveau.",
+    "reponse": false,
+    "explication": "Environ 90 % de la sérotonine est produite dans l'intestin, où elle règle les mouvements digestifs. Seule une petite part, 1 à 2 %, se trouve dans le système nerveux central. Le reste est stocké dans les plaquettes du sang.",
+    "source": "D'après Wikipédia — Sérotonine"
+  },
+  {
+    "id": "q-corps-humain-043",
+    "domain": "corps-humain",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de l'insuline dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Dorothy Hodgkin résout la structure cristalline de l'insuline",
+        "annee": "1969"
+      },
+      {
+        "label": "Mering et Minkowski relient le pancréas au diabète",
+        "annee": "1889"
+      },
+      {
+        "label": "Banting et Best préparent un extrait de pancréas à Toronto",
+        "annee": "1921"
+      },
+      {
+        "label": "Leonard Thompson reçoit la première injection d'insuline",
+        "annee": "1922"
+      },
+      {
+        "label": "Banting et Macleod reçoivent le prix Nobel",
+        "annee": "1923"
+      }
+    ],
+    "explication": "Le rôle du pancréas dans le diabète est montré en 1889. L'insuline est préparée en 1921, injectée à un adolescent en janvier 1922, récompensée par le Nobel en 1923, et sa structure cristalline est résolue en 1969.",
+    "source": "D'après Wikipédia — Insuline"
+  },
+  {
+    "id": "q-corps-humain-044",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Qui a montré en 1921, sur un cœur de grenouille, que le nerf vague agit par une substance chimique ?",
+    "choix": [
+      "Otto Loewi",
+      "Frederick Banting",
+      "Arvid Carlsson",
+      "Julius Axelrod"
+    ],
+    "bonneReponse": 0,
+    "explication": "Otto Loewi a stimulé le nerf vague d'un cœur de grenouille, qui a ralenti, puis a transféré le liquide à un second cœur, qui a ralenti aussi. La substance, appelée vagusstoff, était l'acétylcholine.",
+    "source": "D'après Wikipédia — Nerf vague"
+  },
+  {
+    "id": "q-corps-humain-045",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Que montra le cas du patient H.M., qui avait subi le retrait de l'hippocampe pour soigner son épilepsie ?",
+    "choix": [
+      "L'hippocampe est central pour former de nouveaux souvenirs",
+      "L'hippocampe commande la respiration",
+      "L'hippocampe fabrique les hormones de croissance",
+      "L'hippocampe est inutile à l'âge adulte"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après l'opération, Henry Molaison ne pouvait plus former de nouveaux souvenirs épisodiques, mais gardait ceux de l'enfance. Étudié par Scoville et Brenda Milner, il est devenu le patient le plus étudié de la médecine.",
+    "source": "D'après Wikipédia — Hippocampe (cerveau)"
+  },
+  {
+    "id": "q-corps-humain-046",
+    "domain": "corps-humain",
+    "format": "difference",
+    "question": "Quelle est la différence entre le goût de la langue et l'odorat du nez ?",
+    "choix": [
+      "La langue ne distingue que cinq saveurs, le nez des centaines de substances",
+      "La langue distingue des milliers d'odeurs, le nez seulement cinq",
+      "Les deux perçoivent exactement les mêmes molécules",
+      "Le nez est relié au thalamus, la langue directement au cortex"
+    ],
+    "bonneReponse": 0,
+    "explication": "La langue ne distingue que cinq qualités de goût, alors que le nez différencie des centaines de substances, même en quantités infimes. L'odorat est aussi le seul sens à contourner le thalamus.",
+    "source": "D'après Wikipédia — Olfaction"
+  },
+  {
+    "id": "q-corps-humain-047",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Dans quelle partie de l'intestin grêle la vitamine B12 est-elle principalement absorbée ?",
+    "choix": [
+      "L'iléon",
+      "Le duodénum",
+      "Le jéjunum",
+      "Le côlon"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'iléon, dernier segment de l'intestin grêle, récupère surtout la vitamine B12 et les sels biliaires, ainsi que les nutriments non absorbés plus haut. Il débouche sur le gros intestin par la valvule iléo-cæcale.",
+    "source": "D'après Wikipédia — Intestin grêle"
+  },
+  {
+    "id": "q-corps-humain-048",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quel médecin autrichien a découvert les groupes sanguins A, B et O au début du XXe siècle ?",
+    "choix": [
+      "Karl Landsteiner",
+      "Alexis Carrel",
+      "Jean Dausset",
+      "Max Perutz"
+    ],
+    "bonneReponse": 0,
+    "explication": "Karl Landsteiner montre en 1900-1901 que certains sangs humains s'agglutinent quand on les mélange, et il identifie les groupes A, B et O. Ses élèves ajoutent le AB en 1902. Il reçoit le prix Nobel en 1930.",
+    "source": "D'après Wikipédia — Groupe sanguin"
+  },
+  {
+    "id": "q-corps-humain-049",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Chez les mammifères, les globules rouges matures n'ont pas de noyau.",
+    "reponse": true,
+    "explication": "Pendant leur fabrication dans la moelle osseuse, les globules rouges des mammifères expulsent leur noyau. Cela libère de la place pour l'hémoglobine et les rend plus souples dans les capillaires. Chez les oiseaux, au contraire, ils en gardent un.",
+    "source": "D'après Wikipédia — Érythrocyte"
+  },
+  {
+    "id": "q-corps-humain-050",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quelle hormone, fabriquée par le pancréas, fait entrer le glucose dans les cellules ?",
+    "choix": [
+      "L'insuline",
+      "L'adrénaline",
+      "La mélatonine",
+      "La thyroxine"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'insuline, produite par le pancréas, ouvre aux cellules la porte du glucose et fait baisser la glycémie. Dans le diabète, soit elle manque (type 1), soit les cellules n'y répondent plus correctement (type 2).",
+    "source": "D'après Wikipédia — Diabète sucré"
+  },
+  {
+    "id": "q-corps-humain-051",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quel gaz invisible, issu d'une combustion incomplète, se fixe environ 230 fois plus fortement que l'oxygène sur l'hémoglobine ?",
+    "choix": [
+      "Le monoxyde de carbone",
+      "Le dioxyde de carbone",
+      "Le méthane",
+      "L'hélium"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le monoxyde de carbone prend la place de l'oxygène sur l'hème, le site de fixation du fer. Le sang ne peut alors plus oxygéner l'organisme, ce qui explique la toxicité de ce gaz. L'hémoglobine qui l'a fixé est d'un rouge très vif.",
+    "source": "D'après Wikipédia — Hémoglobine"
+  },
+  {
+    "id": "q-corps-humain-052",
+    "domain": "corps-humain",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis une cellule du sang, mais je me déplace aussi dans la lymphe, d'où mon nom.",
+      "Je me présente en trois familles : B, T et NK.",
+      "Les T finissent leur maturation dans le thymus, tandis que mes cousins B fabriquent des anticorps.",
+      "Je garde en mémoire les microbes déjà rencontrés.",
+      "Je suis un globule blanc."
+    ],
+    "reponse": "Le lymphocyte",
+    "explication": "Les lymphocytes sont des globules blancs spécialisés dans la défense. Les B produisent les anticorps, les T coordonnent la défense ou détruisent les cellules infectées, et les NK tuent les cellules anormales sans apprentissage préalable.",
+    "source": "D'après Wikipédia — Lymphocyte"
+  },
+  {
+    "id": "q-corps-humain-053",
+    "domain": "corps-humain",
+    "format": "difference",
+    "question": "Quelle est la différence entre une fièvre et une hyperthermie ?",
+    "choix": [
+      "Dans la fièvre, le cerveau relève volontairement sa température de consigne ; dans l'hyperthermie, la consigne reste normale mais le corps surchauffe",
+      "La fièvre est toujours plus élevée que l'hyperthermie",
+      "L'hyperthermie est toujours causée par une infection, la fièvre jamais",
+      "La fièvre touche seulement les enfants, l'hyperthermie seulement les adultes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans la fièvre, l'hypothalamus relève le point de réglage de la température, par exemple sous l'effet de pyrogènes. Dans l'hyperthermie, ce point reste normal mais le corps produit trop de chaleur ou ne l'évacue pas, comme lors d'un coup de chaleur.",
+    "source": "D'après Wikipédia — Fièvre"
+  },
+  {
+    "id": "q-corps-humain-054",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Le « bon » et le « mauvais » cholestérol sont deux molécules chimiquement différentes.",
+    "reponse": false,
+    "explication": "Le cholestérol est une molécule unique. Le « bon » (HDL) et le « mauvais » (LDL) sont en réalité deux transporteurs qui l'acheminent dans le sang : les LDL vers les cellules, les HDL vers le foie. Ils s'échangent même du cholestérol.",
+    "source": "D'après Wikipédia — Cholestérol"
+  },
+  {
+    "id": "q-corps-humain-055",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quelle molécule, libérée par les mastocytes, provoque la plupart des symptômes d'une allergie ?",
+    "choix": [
+      "L'histamine",
+      "La dopamine",
+      "La sérotonine",
+      "Le cortisol"
+    ],
+    "bonneReponse": 0,
+    "explication": "Au contact de l'allergène, des anticorps IgE fixés sur les mastocytes déclenchent la libération d'histamine. Elle provoque éternuements, démangeaisons ou gonflements. Les antihistaminiques tirent leur nom de cette molécule qu'ils bloquent.",
+    "source": "D'après Wikipédia — Allergie"
+  },
+  {
+    "id": "q-corps-humain-056",
+    "domain": "corps-humain",
+    "format": "associer",
+    "question": "Associe chaque terme à sa définition.",
+    "paires": [
+      {
+        "gauche": "Systolique",
+        "droite": "Pression maximale, quand le cœur se contracte",
+        "explication": "La pression systolique correspond à la contraction du cœur, la diastolique à son relâchement."
+      },
+      {
+        "gauche": "Plaques amyloïdes",
+        "droite": "Dépôts entre les neurones dans la maladie d'Alzheimer",
+        "explication": "Avec la protéine tau, elles sont l'une des deux anomalies typiques de la maladie."
+      },
+      {
+        "gauche": "Absence",
+        "droite": "Brève crise d'épilepsie, avec regard figé",
+        "explication": "Fréquente chez l'enfant, l'absence dure quelques secondes sans chute."
+      },
+      {
+        "gauche": "Métastase",
+        "droite": "Tumeur formée loin de la tumeur d'origine",
+        "explication": "Des cellules cancéreuses migrent par le sang ou la lymphe et forment une nouvelle tumeur."
+      }
+    ],
+    "explication": "Ces quatre notions viennent de la médecine : la pression artérielle, la maladie d'Alzheimer, l'épilepsie et le cancer. Chacune a un vocabulaire précis, utile pour comprendre ce que racontent les médecins.",
+    "source": "D'après Wikipédia — Pression artérielle"
+  },
+  {
+    "id": "q-corps-humain-057",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Que signifie le mot latin « cancer », à l'origine du nom de la maladie ?",
+    "choix": [
+      "Crabe",
+      "Serpent",
+      "Racine",
+      "Flamme"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le latin cancer signifie « crabe », comme le grec karkínos. Selon Paul d'Égine, Hippocrate aurait choisi ce nom car les veines étendues autour de certaines tumeurs ressemblent aux pattes d'un crabe.",
+    "source": "D'après Wikipédia — Cancer"
+  },
+  {
+    "id": "q-corps-humain-058",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Comment s'appelait la première patiente décrite par Alois Alzheimer, en 1901 ?",
+    "choix": [
+      "Auguste Deter",
+      "Clara Weber",
+      "Emma Hartmann",
+      "Berta Müller"
+    ],
+    "bonneReponse": 0,
+    "explication": "Auguste Deter avait 51 ans lorsque le psychiatre allemand Alois Alzheimer l'a examinée en 1901. Il a suivi son cas jusqu'à sa mort en 1906 et a décrit les altérations de son cerveau, à l'origine du nom de la maladie.",
+    "source": "D'après Wikipédia — Maladie d'Alzheimer"
+  },
+  {
+    "id": "q-corps-humain-059",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Pour parler d'épilepsie, il faut avoir eu au moins deux crises spontanées.",
+    "reponse": true,
+    "explication": "Une crise isolée ne suffit pas : jusqu'à 10 % de la population en vit une seule dans sa vie. L'épilepsie se définit par la répétition de crises spontanées, dues à des décharges électriques anormales de groupes de neurones.",
+    "source": "D'après Wikipédia — Épilepsie"
+  },
+  {
+    "id": "q-corps-humain-060",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Comment s'appellent les bruits entendus au stéthoscope quand on mesure la pression artérielle avec un brassard ?",
+    "choix": [
+      "Les bruits de Korotkoff",
+      "Les bruits de Poiseuille",
+      "Les bruits de Riva-Rocci",
+      "Les bruits de Harvey"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les bruits de Korotkoff naissent quand le sang repasse par à-coups sous le brassard qu'on dégonfle. Le premier donne la pression systolique ; leur disparition marque la diastolique. Riva-Rocci, lui, a décrit le tensiomètre en 1896.",
+    "source": "D'après Wikipédia — Pression artérielle"
+  },
+  {
+    "id": "q-corps-humain-061",
+    "domain": "corps-humain",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire des groupes sanguins dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Première transfusion bien documentée, par Jean-Baptiste Denis",
+        "annee": "1667"
+      },
+      {
+        "label": "Landois montre que le sang animal mélangé au sang humain s'agglutine",
+        "annee": "1875"
+      },
+      {
+        "label": "Landsteiner découvre les groupes sanguins A, B et O",
+        "annee": "1901"
+      },
+      {
+        "label": "Ottenberg montre qu'il faut tenir compte des groupes avant de transfuser",
+        "annee": "1911"
+      },
+      {
+        "label": "Landsteiner reçoit le prix Nobel de médecine",
+        "annee": "1930"
+      }
+    ],
+    "explication": "Denis réussit une transfusion sous Louis XIV en 1667. Après les observations de Landois en 1875, Landsteiner découvre les groupes en 1901, Ottenberg en tire les conséquences pour la transfusion en 1911, et Landsteiner reçoit le Nobel en 1930.",
+    "source": "D'après Wikipédia — Groupe sanguin"
+  },
+  {
+    "id": "q-corps-humain-062",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Selon George Miller, en 1956, combien d'éléments la mémoire à court terme peut-elle retenir ?",
+    "choix": [
+      "Environ 7, plus ou moins 2",
+      "Environ 20",
+      "Environ 50",
+      "Une centaine"
+    ],
+    "bonneReponse": 0,
+    "explication": "George Miller a publié en 1956 un article célèbre intitulé « Le nombre magique 7 ± 2 ». Les estimations actuelles sont plutôt de 4 à 5 éléments, mais on peut en retenir plus en regroupant l'information en blocs.",
+    "source": "D'après Wikipédia — Mémoire (psychologie)"
+  },
+  {
+    "id": "q-corps-humain-063",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "On ne rêve que pendant le sommeil paradoxal.",
+    "reponse": false,
+    "explication": "Les rêves surviennent surtout pendant le sommeil paradoxal, quand le cerveau est très actif. Mais les humains rêvent aussi pendant les autres phases du sommeil, et tous les réveils en sommeil paradoxal ne donnent pas lieu à un récit de rêve.",
+    "source": "D'après Wikipédia — Rêve"
+  },
+  {
+    "id": "q-corps-humain-064",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quelle mesure simple Ignace Semmelweis impose-t-il en 1847 à la maternité de Vienne pour réduire la mortalité ?",
+    "choix": [
+      "Le lavage des mains à l'hypochlorite de calcium",
+      "L'aération des salles par des fenêtres grandes ouvertes",
+      "Le port de masques de tissu par les médecins",
+      "L'isolement des accouchées dans des chambres séparées"
+    ],
+    "bonneReponse": 0,
+    "explication": "Semmelweis comprend que les médecins rapportent des particules de cadavres sur leurs mains depuis la salle d'autopsie. Le lavage au chlore fait chuter la mortalité de la première clinique, mais ses collègues refusent de le croire.",
+    "source": "D'après Wikipédia — Ignace Philippe Semmelweis"
+  },
+  {
+    "id": "q-corps-humain-065",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Le « bacille de Koch », découvert en 1882, est responsable de quelle maladie ?",
+    "choix": [
+      "La tuberculose",
+      "Le choléra",
+      "Le charbon",
+      "La peste"
+    ],
+    "bonneReponse": 0,
+    "explication": "Robert Koch présente le bacille de la tuberculose le 24 mars 1882, jour devenu la Journée mondiale de la tuberculose. Il avait déjà identifié l'agent du charbon en 1876 et allait isoler celui du choléra en 1883.",
+    "source": "D'après Wikipédia — Robert Koch"
+  },
+  {
+    "id": "q-corps-humain-066",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "La première greffe de cœur d'un humain à un autre, réalisée par Christiaan Barnard en 1967, a eu lieu à New York.",
+    "reponse": false,
+    "explication": "Elle a eu lieu au Groote Schuur Hospital du Cap, en Afrique du Sud, le 3 décembre 1967. Le patient, Louis Washkansky, a survécu 18 jours. Barnard avait profité de recherches menées surtout aux États-Unis.",
+    "source": "D'après Wikipédia — Christiaan Barnard"
+  },
+  {
+    "id": "q-corps-humain-067",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Que remplace Ambroise Paré par la ligature des artères lors des amputations ?",
+    "choix": [
+      "La cautérisation au fer rouge",
+      "Le plâtre immobilisant",
+      "Les cataplasmes de plantes",
+      "Les bains d'eau froide"
+    ],
+    "bonneReponse": 0,
+    "explication": "À la Renaissance, on brûlait les plaies et les moignons pour arrêter le sang, ce qui tuait parfois le blessé. Paré préfère lier les artères avec une pince, la technique qui va s'imposer en chirurgie.",
+    "source": "D'après Wikipédia — Ambroise Paré"
+  },
+  {
+    "id": "q-corps-humain-068",
+    "domain": "corps-humain",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon père, un riche architecte, m'a donné mes premières leçons à Pergame.",
+      "À 28 ans, je soigne les blessés d'une troupe de gladiateurs.",
+      "Je dis m'appuyer sur la raison et l'expérience, mes « deux jambes ».",
+      "À Rome, je deviens le médecin de plusieurs empereurs.",
+      "Mes théories, reprises d'Hippocrate, font autorité en Europe jusqu'au XVIIIe siècle."
+    ],
+    "reponse": "Galien",
+    "explication": "Galien, né en 129 à Pergame, a soigné les gladiateurs puis les empereurs. Ses idées sont restées la référence médicale pendant des siècles, malgré des erreurs d'anatomie venues de ses dissections d'animaux.",
+    "source": "D'après Wikipédia — Claude Galien"
+  },
+  {
+    "id": "q-corps-humain-069",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quel ouvrage publié en 1628 expose la circulation du sang ?",
+    "choix": [
+      "De Motu Cordis, de William Harvey",
+      "De humani corporis fabrica, d'Andreas Vésale",
+      "Le Canon de la médecine, d'Avicenne",
+      "La Grande Chirurgie, de Guy de Chauliac"
+    ],
+    "bonneReponse": 0,
+    "explication": "Harvey y démontre que le sang revient au cœur après avoir parcouru le corps, par un raisonnement chiffré et l'expérience du garrot. Il n'a pas vu les capillaires, décrits plus tard au microscope par Malpighi.",
+    "source": "D'après Wikipédia — William Harvey"
+  },
+  {
+    "id": "q-corps-humain-070",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "L'aire de Broca, étudiée à partir de 1861, est une zone du cerveau gauche impliquée dans la production de la parole.",
+    "reponse": true,
+    "explication": "Paul Broca l'a mise en évidence en étudiant des patients qui ne pouvaient plus parler, dont Victor Leborgne, surnommé « Tan ». C'est la première preuve anatomique qu'une fonction du cerveau a un siège précis.",
+    "source": "D'après Wikipédia — Paul Broca"
+  },
+  {
+    "id": "q-corps-humain-071",
+    "domain": "corps-humain",
+    "format": "associer",
+    "question": "Associe chaque médecin ou inventeur à sa découverte.",
+    "paires": [
+      {
+        "gauche": "Robert Koch",
+        "droite": "Le bacille de la tuberculose",
+        "explication": "Il le présente à Berlin le 24 mars 1882 et reçoit pour ces travaux le prix Nobel en 1905."
+      },
+      {
+        "gauche": "Paul Broca",
+        "droite": "L'aire de la parole",
+        "explication": "Il la localise dans le lobe frontal gauche d'un patient surnommé « Tan », qui ne disait que cette syllabe."
+      },
+      {
+        "gauche": "William Harvey",
+        "droite": "La circulation du sang",
+        "explication": "Il la démontre dans son livre De Motu Cordis, grâce à un calcul et à l'expérience du garrot."
+      },
+      {
+        "gauche": "René Laennec",
+        "droite": "Le stéthoscope",
+        "explication": "Il l'invente d'abord avec un simple rouleau de papier, pour mieux entendre le cœur d'une patiente."
+      }
+    ],
+    "explication": "Quatre grandes avancées de la médecine, de Harvey au XVIIe siècle à Koch à la fin du XIXe siècle. Chacune a changé la manière de comprendre le corps ou la maladie, en s'appuyant sur l'observation.",
+    "source": "D'après Wikipédia — Robert Koch"
+  },
+  {
+    "id": "q-corps-humain-072",
+    "domain": "corps-humain",
+    "format": "frise",
+    "question": "Remets ces événements médicaux dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "De Motu Cordis de Harvey",
+        "annee": "1628"
+      },
+      {
+        "label": "Invention du stéthoscope par Laennec",
+        "annee": "1816"
+      },
+      {
+        "label": "Lavage des mains imposé par Semmelweis",
+        "annee": "1847"
+      },
+      {
+        "label": "Découverte des groupes sanguins par Landsteiner",
+        "annee": "1900"
+      },
+      {
+        "label": "Première greffe de cœur humain",
+        "annee": "1967"
+      }
+    ],
+    "explication": "De la circulation du sang à la greffe du cœur, ces repères montrent trois siècles et demi de progrès. Le stéthoscope (1816) précède l'hygiène des mains (1847), puis les groupes sanguins (1900) qui sécurisent la transfusion.",
+    "source": "D'après Wikipédia — Stéthoscope"
+  },
+  {
+    "id": "q-corps-humain-073",
+    "domain": "corps-humain",
+    "format": "difference",
+    "question": "Quelle est la différence entre une autogreffe et une allogreffe ?",
+    "choix": [
+      "L'autogreffe utilise un tissu du receveur lui-même, l'allogreffe celui d'un autre humain",
+      "L'autogreffe vient d'un animal, l'allogreffe d'un humain",
+      "L'autogreffe concerne les organes, l'allogreffe seulement la peau",
+      "L'autogreffe provient d'un jumeau identique, l'allogreffe d'un cadavre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans l'autogreffe, le greffon appartient au receveur, ce qui évite le rejet. L'allogreffe vient d'un autre individu de la même espèce. C'est la situation la plus courante, et elle impose des médicaments contre le rejet.",
+    "source": "D'après Wikipédia — Greffe (médecine)"
+  },
+  {
+    "id": "q-corps-humain-074",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Qui découvre en 1900 le principe des groupes sanguins A, B et O ?",
+    "choix": [
+      "Karl Landsteiner",
+      "Albert Hustin",
+      "James Blundell",
+      "Charles Drew"
+    ],
+    "bonneReponse": 0,
+    "explication": "Landsteiner observe que le sang d'une personne agglutine ou non les globules rouges d'une autre. Il reçoit le prix Nobel en 1930. Le groupe AB sera identifié en 1901, puis le facteur rhésus en 1940.",
+    "source": "D'après Wikipédia — Transfusion sanguine"
+  },
+  {
+    "id": "q-corps-humain-075",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quel objet du quotidien figure parmi les tout premiers sujets d'essai de l'IRM montrés au public ?",
+    "choix": [
+      "Un poivron",
+      "Une pomme de terre",
+      "Un œuf",
+      "Une orange"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après des essais sur des tubes capillaires, c'est un poivron qui est montré au public. La technique progresse vite : en 1977, on obtient l'image d'un corps humain vivant, sans aucun rayon X.",
+    "source": "D'après Wikipédia — Imagerie par résonance magnétique"
+  },
+  {
+    "id": "q-corps-humain-076",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quelles sont les quatre humeurs de la médecine antique ?",
+    "choix": [
+      "Le sang, la pituite, la bile jaune et la bile noire",
+      "Le sang, la lymphe, la sueur et les larmes",
+      "L'eau, le feu, l'air et la terre",
+      "Le sang, la salive, la bile jaune et l'urine"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le traité De la nature de l'homme décrit ces quatre humeurs, dont l'équilibre ferait la santé. L'eau, le feu, l'air et la terre sont les quatre éléments, auxquels les humeurs furent ensuite rattachées.",
+    "source": "D'après Wikipédia — Théorie des humeurs"
+  },
+  {
+    "id": "q-corps-humain-077",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Le mot « variole » vient d'un mot latin qui signifie…",
+    "choix": [
+      "Petite pustule",
+      "Fièvre rouge",
+      "Grande peste",
+      "Peau écaillée"
+    ],
+    "bonneReponse": 0,
+    "explication": "Variola désigne une petite pustule ou une maladie tachetée, d'après varius, « moucheté ». On l'appelait aussi « petite vérole », par opposition à la syphilis, la « grande vérole ».",
+    "source": "D'après Wikipédia — Variole"
+  },
+  {
+    "id": "q-corps-humain-078",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quelle substance, présente dans les larmes et le mucus, Alexander Fleming découvre-t-il en 1922 ?",
+    "choix": [
+      "Le lysozyme",
+      "La pénicilline",
+      "L'insuline",
+      "La streptomycine"
+    ],
+    "bonneReponse": 0,
+    "explication": "Fleming constate que son propre mucus nasal détruit des bactéries, puis que les larmes de ses collègues ont le même effet. Il nomme cette enzyme lysozyme. Il ne découvrira la pénicilline que six ans plus tard, en 1928.",
+    "source": "D'après Wikipédia — Alexander Fleming"
+  },
+  {
+    "id": "q-corps-humain-079",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Jonas Salk a déposé un brevet pour son vaccin contre la poliomyélite.",
+    "reponse": false,
+    "explication": "Salk a refusé de le breveter afin que le vaccin soit diffusé le plus largement possible. À la télévision, il a demandé : « Pourrait-on breveter le soleil ? » Il aurait pu gagner environ 7 milliards de dollars.",
+    "source": "D'après Wikipédia — Jonas Salk"
+  },
+  {
+    "id": "q-corps-humain-080",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Combien d'os compte généralement le crâne humain ?",
+    "choix": [
+      "22",
+      "14",
+      "28",
+      "33"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le consensus retient 22 os : huit pour la boîte crânienne, qui abrite le cerveau, et quatorze pour le squelette de la face. Certaines sources comptent un peu différemment, mais la mandibule reste le plus gros os de la face.",
+    "source": "D'après Wikipédia — Crâne"
+  },
+  {
+    "id": "q-corps-humain-081",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Combien de vertèbres mobiles, au-dessus du sacrum, compte la colonne vertébrale humaine ?",
+    "choix": [
+      "24",
+      "33",
+      "26",
+      "20"
+    ],
+    "bonneReponse": 0,
+    "explication": "Elle compte 24 vertèbres mobiles : 7 cervicales, 12 thoraciques et 5 lombaires. Le sacrum et le coccyx, soudés, portent le total à 32 à 35 selon les personnes, le chiffre de 33 étant le plus courant.",
+    "source": "D'après Wikipédia — Colonne vertébrale"
+  },
+  {
+    "id": "q-corps-humain-082",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Les doigts humains contiennent de gros muscles qui les font plier.",
+    "reponse": false,
+    "explication": "Faux : les muscles qui plient et étendent les doigts sont logés dans l'avant-bras. Seuls leurs tendons descendent jusque dans les doigts, qui ne contiennent donc que des tendons, et pas de muscles.",
+    "source": "D'après Wikipédia — Main"
+  },
+  {
+    "id": "q-corps-humain-083",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quel tissu, qui recouvre le bout des os dans les articulations, ne possède ni vaisseaux sanguins ni nerfs ?",
+    "choix": [
+      "Le cartilage",
+      "Le muscle",
+      "La moelle osseuse",
+      "La peau"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le cartilage n'a ni vaisseaux ni nerfs : il est nourri par diffusion, quand il se comprime et se détend. Il est donc insensible, mais il se répare très lentement, et presque plus du tout à l'âge adulte.",
+    "source": "D'après Wikipédia — Cartilage"
+  },
+  {
+    "id": "q-corps-humain-084",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Les cheveux et les ongles continuent de pousser après la mort.",
+    "reponse": false,
+    "explication": "Faux : après la mort, la pousse s'arrête. Si les ongles et les poils paraissent s'allonger, c'est que la peau se dessèche et se rétracte en perdant son eau, ce qui laisse apparaître une plus grande longueur.",
+    "source": "D'après Wikipédia — Ongle"
+  },
+  {
+    "id": "q-corps-humain-085",
+    "domain": "corps-humain",
+    "format": "associer",
+    "question": "Associe chaque articulation à son type.",
+    "paires": [
+      {
+        "gauche": "Coude",
+        "droite": "Charnière (flexion-extension)",
+        "explication": "Le coude fonctionne comme une charnière, qui plie et étend l'avant-bras."
+      },
+      {
+        "gauche": "Hanche",
+        "droite": "Rotule (mouvements dans tous les sens)",
+        "explication": "La tête du fémur s'emboîte dans une cavité sphérique, comme à l'épaule."
+      },
+      {
+        "gauche": "Base du pouce",
+        "droite": "Selle (opposition)",
+        "explication": "Cette articulation en selle permet d'opposer le pouce aux autres doigts."
+      },
+      {
+        "gauche": "Os de la voûte du crâne",
+        "droite": "Suture (immobile)",
+        "explication": "Un joint fibreux presque immobile unit les os du crâne pour protéger le cerveau."
+      }
+    ],
+    "explication": "La forme des surfaces articulaires décide du mouvement possible : charnière pour le coude, rotule pour la hanche, selle pour le pouce, et suture quasi immobile pour le crâne.",
+    "source": "D'après Wikipédia — Articulation (anatomie)"
+  },
+  {
+    "id": "q-corps-humain-086",
+    "domain": "corps-humain",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis une vertèbre, et je n'ai ni corps ni apophyse épineuse.",
+      "Aucun disque ne me sépare du crâne.",
+      "Je porte le nom d'un titan de la mythologie grecque.",
+      "Mon voisin du dessous, l'axis, porte une dent qui me sert de pivot.",
+      "Je suis la première vertèbre cervicale et je porte la tête."
+    ],
+    "reponse": "L'atlas",
+    "explication": "L'atlas, ou C1, est la première vertèbre cervicale. Son nom vient du titan qui portait le monde : il porte la tête. Il pivote autour de la dent de l'axis, ce qui permet de tourner la tête de droite à gauche.",
+    "source": "D'après Wikipédia — Colonne vertébrale"
+  },
+  {
+    "id": "q-corps-humain-087",
+    "domain": "corps-humain",
+    "format": "frise",
+    "question": "Remets ces étapes de la découverte des vitamines dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "James Lind montre que les agrumes préviennent le scorbut",
+        "annee": "1747"
+      },
+      {
+        "label": "Takaki compare deux équipages de la marine japonaise",
+        "annee": "1884"
+      },
+      {
+        "label": "Eijkman protège des poulets avec du riz non raffiné",
+        "annee": "1897"
+      },
+      {
+        "label": "Casimir Funk propose le mot vitamine",
+        "annee": "1912"
+      },
+      {
+        "label": "Eijkman et Hopkins reçoivent le prix Nobel",
+        "annee": "1929"
+      }
+    ],
+    "explication": "De 1747 à 1929, l'idée a mûri : Lind soigne le scorbut aux agrumes, Takaki et Eijkman lient le béribéri au riz raffiné, Funk crée le mot vitamine en 1912, et un Nobel couronne la découverte en 1929.",
+    "source": "D'après Wikipédia — Vitamine"
+  },
+  {
+    "id": "q-corps-humain-088",
+    "domain": "corps-humain",
+    "format": "difference",
+    "question": "Quelle est la différence entre une vitamine hydrosoluble et une vitamine liposoluble ?",
+    "choix": [
+      "La première se dissout dans l'eau et l'excès est éliminé par les urines, la seconde se dissout dans les graisses et se stocke",
+      "La première vient des fruits, la seconde de la viande",
+      "La première est fabriquée par le corps, la seconde vient seulement de l'alimentation",
+      "La première est toxique en excès, la seconde ne l'est jamais"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les vitamines B et C sont hydrosolubles : l'excès part dans les urines. Les vitamines A et D, liposolubles, sont absorbées avec les graisses et stockées, notamment dans le foie, ce qui rend leur excès plus difficile à éliminer.",
+    "source": "D'après Wikipédia — Vitamine"
+  },
+  {
+    "id": "q-corps-humain-089",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Pourquoi la rétine humaine possède-t-elle une tache aveugle ?",
+    "choix": [
+      "Le nerf optique quitte l'œil à cet endroit, qui ne contient pas de photorécepteurs",
+      "Les cônes y sont trop serrés",
+      "Le cristallin y projette une ombre",
+      "La fovéa y est creusée trop profond"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chez les vertébrés, la rétine est inversée et le nerf optique doit la traverser pour sortir de l'œil. À cet endroit, la papille optique, il n'y a pas de photorécepteurs. Les céphalopodes, eux, n'ont pas de tache aveugle.",
+    "source": "D'après Wikipédia — Rétine"
+  },
+  {
+    "id": "q-corps-humain-090",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Dans la cochlée, où se trouvent les cellules ciliées qui réagissent aux sons aigus ?",
+    "choix": [
+      "À la base, près de l'oreille moyenne",
+      "Au sommet, dans le dernier tour",
+      "Au milieu exact du limaçon",
+      "Elles sont réparties au hasard"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chaque cellule ciliée répond surtout à une fréquence. Celles de la base, près de la fenêtre ovale, réagissent aux aigus, et celles du sommet de la cochlée aux basses fréquences. Le cerveau en déduit la hauteur du son.",
+    "source": "D'après Wikipédia — Oreille interne"
+  },
+  {
+    "id": "q-corps-humain-091",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quelles structures de l'oreille interne détectent les rotations de la tête ?",
+    "choix": [
+      "Les trois canaux semi-circulaires",
+      "La fenêtre ronde",
+      "La membrane basilaire",
+      "La trompe d'Eustache"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les trois canaux semi-circulaires sont remplis de liquide. Quand la tête tourne, l'inertie de ce liquide courbe leurs cellules ciliées. Comme ils sont perpendiculaires entre eux, ils détectent les rotations dans toutes les directions.",
+    "source": "D'après Wikipédia — Oreille interne"
+  },
+  {
+    "id": "q-corps-humain-092",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Dans un réflexe comme le retrait de la main devant une brûlure, quel organe relaie le message sans attendre le cerveau ?",
+    "choix": [
+      "La moelle épinière",
+      "Le cervelet",
+      "Le cortex visuel",
+      "Le thalamus"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le signal remonte vers la moelle épinière, qui renvoie directement l'ordre aux muscles. Ce circuit court, l'arc réflexe, explique que l'on retire la main avant même d'avoir senti la douleur.",
+    "source": "D'après Wikipédia — Réflexe"
+  },
+  {
+    "id": "q-corps-humain-093",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Chez l'être humain, la tige visible d'un cheveu est vivante.",
+    "reponse": false,
+    "explication": "Seule la racine, cachée dans la peau, est vivante. La tige visible est faite de kératine morte, la même matière que les ongles. C'est pourquoi couper ses cheveux ne fait pas mal.",
+    "source": "D'après Wikipédia — Cheveu"
   }
 ]

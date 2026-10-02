@@ -967,5 +967,535 @@
     "bonneReponse": 0,
     "explication": "Enfant, Michel Serres est scout et reçoit comme totem « Renard enthousiaste ». Né à Agen, fils d'un exploitant d'une entreprise de dragage sur la Garonne, il deviendra philosophe, historien des sciences, puis académicien en 1990.",
     "source": "D'après Wikipédia — Michel Serres"
+  },
+  {
+    "id": "q-philosophie-061",
+    "domain": "philosophie",
+    "format": "associer",
+    "question": "Associe chaque penseur grec à sa thèse.",
+    "paires": [
+      {
+        "gauche": "Héraclite",
+        "droite": "Tout change sans cesse",
+        "explication": "Pour Héraclite d'Éphèse, le monde est en devenir permanent, comme un fleuve où l'on ne se baigne jamais deux fois."
+      },
+      {
+        "gauche": "Parménide",
+        "droite": "L'être est unique et immuable",
+        "explication": "Dans son poème De la nature, Parménide soutient que l'être est, qu'il est éternel et sans changement."
+      },
+      {
+        "gauche": "Démocrite",
+        "droite": "Tout est atomes et vide",
+        "explication": "Démocrite, héritier de la pensée de Leucippe, explique le monde par des atomes qui se déplacent dans le vide."
+      },
+      {
+        "gauche": "Protagoras",
+        "droite": "L'homme est la mesure de toutes choses",
+        "explication": "Protagoras, premier des sophistes, estime que chacun juge selon son expérience : la vérité est relative."
+      }
+    ],
+    "explication": "Ces penseurs grecs des VIe-Ve siècles av. J.-C. se répondent. Héraclite voit partout le changement, Parménide l'être immobile ; Démocrite explique le monde par des atomes, et Protagoras fait de l'homme le juge de ce qui est.",
+    "source": "D'après Wikipédia — Héraclite"
+  },
+  {
+    "id": "q-philosophie-062",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Dans le paradoxe de Zénon d'Élée, qui ne rattrape jamais la tortue ?",
+    "choix": [
+      "Achille",
+      "Hector",
+      "Ulysse",
+      "Persée"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chaque fois qu'Achille atteint l'endroit où se trouvait la tortue, elle a déjà avancé un peu, et ainsi de suite. Zénon, disciple de Parménide, cherchait par l'absurde à défendre l'idée d'un monde un et continu.",
+    "source": "D'après Wikipédia — Zénon d'Élée"
+  },
+  {
+    "id": "q-philosophie-063",
+    "domain": "philosophie",
+    "format": "vrai-faux",
+    "affirmation": "Protagoras est considéré comme le premier sophiste à avoir fait payer son enseignement.",
+    "reponse": true,
+    "explication": "Selon la tradition, Protagoras fut le premier à se dire sophiste et à demander un salaire pour ses leçons. Diogène Laërce parle de 100 mines, soit mille fois le salaire moyen d'un artisan, ce qui nourrit la mauvaise réputation des sophistes.",
+    "source": "D'après Wikipédia — Protagoras"
+  },
+  {
+    "id": "q-philosophie-064",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Pour se moquer de la définition de l'homme donnée par Platon (« bipède sans plumes »), que fit Diogène ?",
+    "choix": [
+      "Il apporta un coq plumé à l'Académie",
+      "Il écrivit un traité pour le réfuter",
+      "Il quitta Athènes pour Corinthe",
+      "Il offrit une lanterne à Platon"
+    ],
+    "bonneReponse": 0,
+    "explication": "Diogène plumé un coq et le présenta à l'école de Platon en lançant : « Voici l'homme de Platon ! ». Selon la tradition, Platon aurait alors complété sa définition. Ces anecdotes sont toutefois difficiles à vérifier.",
+    "source": "D'après Wikipédia — Diogène de Sinope"
+  },
+  {
+    "id": "q-philosophie-065",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Que recommande Pyrrhon d'Élis face aux affirmations contradictoires ?",
+    "choix": [
+      "Ne rien affirmer et suspendre son jugement",
+      "Choisir toujours l'opinion la plus répandue",
+      "Se fier uniquement à ses sens",
+      "Défendre la thèse la plus faible"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pyrrhon, fondateur du scepticisme antique, n'a rien écrit. Son disciple Timon rapporte qu'il ne faut croire ni ses sens ni sa raison et ne rien affirmer, afin d'atteindre l'ataraxie, l'absence de tout trouble.",
+    "source": "D'après Wikipédia — Pyrrhon d'Élis"
+  },
+  {
+    "id": "q-philosophie-066",
+    "domain": "philosophie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né en Égypte romaine, à Lycopolis, vers l'an 205.",
+      "J'ai enseigné à Rome à partir de 246, mais je n'ai commencé à écrire qu'en 254.",
+      "Mon disciple Porphyre a rangé mes textes en six groupes de neuf traités, les Ennéades.",
+      "Pour moi, tout vient de l'Un, puis de l'Intellect et de l'Âme."
+    ],
+    "reponse": "Plotin",
+    "explication": "Plotin, né en Égypte romaine, est le principal représentant du néoplatonisme. Son enseignement fut d'abord oral ; Porphyre de Tyr édita ses textes vers 300 en six Ennéades de neuf traités. Au sommet de sa pensée se trouve l'Un.",
+    "source": "D'après Wikipédia — Plotin"
+  },
+  {
+    "id": "q-philosophie-067",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quel ouvrage d'Avicenne a servi de base à l'enseignement de la médecine en Europe jusqu'au XVIIe siècle ?",
+    "choix": [
+      "Le Canon de la médecine",
+      "Le Colliget",
+      "Le Livre de la guérison",
+      "Le Discours décisif"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Canon de la médecine, en cinq livres, fut traduit en latin au XIIe siècle par Gérard de Crémone. Le Livre de la guérison, lui, est une encyclopédie de logique, de physique et de métaphysique.",
+    "source": "D'après Wikipédia — Avicenne"
+  },
+  {
+    "id": "q-philosophie-068",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quel surnom les penseurs scolastiques donnaient-ils à Averroès ?",
+    "choix": [
+      "Le Commentateur",
+      "Le Docteur magnifique",
+      "Le Docteur invincible",
+      "Le Philosophe"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour les scolastiques, Aristote était « le Philosophe » et Averroès son « Commentateur ». Ses commentaires, traduits en latin et en hébreu, ont ravivé l'intérêt de l'Europe pour Aristote et les penseurs grecs.",
+    "source": "D'après Wikipédia — Averroès"
+  },
+  {
+    "id": "q-philosophie-069",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quel philosophe a nommé « ontologique » l'argument d'Anselme de Cantorbéry sur l'existence de Dieu ?",
+    "choix": [
+      "Emmanuel Kant",
+      "René Descartes",
+      "Thomas d'Aquin",
+      "Blaise Pascal"
+    ],
+    "bonneReponse": 0,
+    "explication": "Anselme expose cet argument dans le Proslogion, en s'appuyant sur la seule logique plutôt que sur l'autorité des textes. C'est Kant qui l'a baptisé « argument ontologique ». Abélard et Thomas d'Aquin l'ont ensuite commenté.",
+    "source": "D'après Wikipédia — Anselme de Cantorbéry"
+  },
+  {
+    "id": "q-philosophie-070",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Que dit le « rasoir d'Ockham » ?",
+    "choix": [
+      "Il ne faut pas multiplier les entités sans nécessité",
+      "Il faut douter de tout",
+      "L'explication la plus complexe est toujours la meilleure",
+      "La raison doit toujours se soumettre à la foi"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ce principe de parcimonie invite à préférer l'explication la plus simple, sans ajouter d'éléments inutiles. Il est lié au nominalisme d'Ockham : pour lui, seuls les individus existent, et les universaux comme « humanité » ne sont que des termes.",
+    "source": "D'après Wikipédia — Guillaume d'Ockham"
+  },
+  {
+    "id": "q-philosophie-071",
+    "domain": "philosophie",
+    "format": "vrai-faux",
+    "affirmation": "La célèbre formule latine du rasoir d'Ockham figure mot pour mot dans ses écrits conservés.",
+    "reponse": false,
+    "explication": "Cette formule est très connue, mais elle ne se trouve dans aucun des écrits conservés d'Ockham. Il énonce l'idée autrement : rien ne doit être posé sans raison, sauf si c'est évident, connu par l'expérience ou prouvé par l'Écriture sainte.",
+    "source": "D'après Wikipédia — Guillaume d'Ockham"
+  },
+  {
+    "id": "q-philosophie-072",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Chez Machiavel, que désigne la virtù ?",
+    "choix": [
+      "L'habileté et l'énergie qui permettent de faire face à la mauvaise fortune",
+      "La vertu morale d'un prince chrétien",
+      "Le respect scrupuleux des lois divines",
+      "La pitié envers ses sujets"
+    ],
+    "bonneReponse": 0,
+    "explication": "La virtù n'est pas la vertu morale : c'est la puissance individuelle, l'habileté et le flair d'un dirigeant pour innover face aux défis. Machiavel sépare politique et morale, mais ses lecteurs divergent : « enseignant du mal » pour Strauss, réaliste pour Croce.",
+    "source": "D'après Wikipédia — Nicolas Machiavel"
+  },
+  {
+    "id": "q-philosophie-073",
+    "domain": "philosophie",
+    "format": "difference",
+    "question": "Quelle est la différence entre un syllogisme valide et un syllogisme concluant ?",
+    "choix": [
+      "Valide : la forme est correcte ; concluant : valide, avec des prémisses vraies",
+      "Valide : la conclusion est vraie ; concluant : la conclusion est fausse",
+      "Valide : il a trois prémisses ; concluant : il en a deux",
+      "Il n'y en a aucune : les deux mots sont synonymes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un syllogisme est valide quand sa forme est correcte, même si ses prémisses sont fausses. Il n'est concluant que s'il est valide et que ses prémisses sont vraies. Celui des poules sans dents est valide, mais pas concluant.",
+    "source": "D'après Wikipédia — Syllogisme"
+  },
+  {
+    "id": "q-philosophie-074",
+    "domain": "philosophie",
+    "format": "difference",
+    "question": "Quelle est la différence entre un sophisme et un paralogisme ?",
+    "choix": [
+      "Le sophisme cherche à tromper ; le paralogisme est une erreur de bonne foi",
+      "Le sophisme est une erreur involontaire ; le paralogisme est un mensonge",
+      "Le sophisme est un raisonnement vrai ; le paralogisme est faux",
+      "Il n'y a aucune différence entre les deux"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le sophisme est énoncé avec l'intention cachée de tromper ou de l'emporter dans une discussion. Le paralogisme est une erreur de raisonnement commise de bonne foi. Le mot sophisme vient des sophistes, professeurs d'éloquence de la Grèce antique.",
+    "source": "D'après Wikipédia — Sophisme"
+  },
+  {
+    "id": "q-philosophie-075",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Que signifie, d'après son étymologie grecque, le mot « paradoxe » ?",
+    "choix": [
+      "Contraire à l'opinion commune",
+      "Qui ne peut pas être démontré",
+      "Qui tourne en rond",
+      "Qui trompe volontairement"
+    ],
+    "bonneReponse": 0,
+    "explication": "Il vient de para, « contre », et doxa, « opinion » : est paradoxale une idée qui heurte le sens commun. Le mot a ensuite désigné aussi une proposition semblant contradictoire, comme le paradoxe du menteur : « Cette phrase est fausse ».",
+    "source": "D'après Wikipédia — Paradoxe"
+  },
+  {
+    "id": "q-philosophie-076",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Comment se terminent souvent les premiers dialogues de Platon, dits « aporétiques » ?",
+    "choix": [
+      "Par l'aveu que l'on ne sait pas définir la notion",
+      "Par une définition définitive donnée par Socrate",
+      "Par la victoire d'un sophiste",
+      "Par la condamnation de Socrate"
+    ],
+    "bonneReponse": 0,
+    "explication": "Socrate interroge sur le courage ou la vertu et réfute chaque réponse, jusqu'à l'impasse : une aporie, mot grec pour « absence de passage ». Dans le Ménon, il y voit un bienfait : on prend conscience de son ignorance et l'on veut chercher.",
+    "source": "D'après Wikipédia — Aporie"
+  },
+  {
+    "id": "q-philosophie-077",
+    "domain": "philosophie",
+    "format": "frise",
+    "question": "Remets ces étapes de la vie d'Anselme de Cantorbéry dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Naissance à Aoste",
+        "annee": "1033"
+      },
+      {
+        "label": "Il devient moine à l'abbaye du Bec",
+        "annee": "1060"
+      },
+      {
+        "label": "Il est élu abbé du Bec",
+        "annee": "1078"
+      },
+      {
+        "label": "Il est consacré archevêque de Cantorbéry",
+        "annee": "1093"
+      },
+      {
+        "label": "Sa mort à Cantorbéry",
+        "annee": "1109"
+      }
+    ],
+    "explication": "Né à Aoste en 1033, Anselme entre au Bec en 1060, y devient prieur en 1063 puis abbé en 1078. Archevêque de Cantorbéry en 1093, malgré deux exils, il y meurt en 1109. Il sera canonisé en 1494.",
+    "source": "D'après Wikipédia — Anselme de Cantorbéry"
+  },
+  {
+    "id": "q-philosophie-078",
+    "domain": "philosophie",
+    "format": "vrai-faux",
+    "affirmation": "Thomas Hobbes a traduit en anglais l'historien grec Thucydide.",
+    "reponse": true,
+    "explication": "Hobbes admirait Thucydide, qu'il jugeait très habile en politique. Sa traduction, publiée en 1629, fut la première en anglais faite directement d'après un manuscrit grec. Elle a nourri sa réflexion sur la guerre civile.",
+    "source": "D'après Wikipédia — Thomas Hobbes"
+  },
+  {
+    "id": "q-philosophie-079",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quelle expression latine résume l'idée de Locke selon laquelle l'esprit est vierge à la naissance ?",
+    "choix": [
+      "Tabula rasa",
+      "Cogito ergo sum",
+      "Esse est percipi",
+      "Amor fati"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tabula rasa signifie « table rase » : pour Locke, nous naissons sans idées innées et la connaissance vient de l'expérience des sens. Il s'oppose ainsi à Descartes. « Esse est percipi » est la formule de Berkeley.",
+    "source": "D'après Wikipédia — John Locke"
+  },
+  {
+    "id": "q-philosophie-080",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quel philosophe disait que Hume l'avait réveillé de son « sommeil dogmatique » ?",
+    "choix": [
+      "Emmanuel Kant",
+      "René Descartes",
+      "Jean-Jacques Rousseau",
+      "Blaise Pascal"
+    ],
+    "bonneReponse": 0,
+    "explication": "Kant reconnaît que la critique de la causalité par Hume l'a tiré de son « sommeil dogmatique ». Cela l'a poussé à repenser les limites et les conditions de la connaissance humaine.",
+    "source": "D'après Wikipédia — David Hume"
+  },
+  {
+    "id": "q-philosophie-081",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quelle idée de Leibniz Voltaire moque-t-il dans Candide ?",
+    "choix": [
+      "Le meilleur des mondes possibles",
+      "La guerre de tous contre tous",
+      "La page blanche de l'esprit",
+      "Le contrat social"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour concilier un Dieu bon avec le mal, Leibniz propose que notre monde soit le meilleur des mondes possibles. Voltaire raille cet optimisme dans Candide, avec le personnage de Pangloss.",
+    "source": "D'après Wikipédia — Gottfried Wilhelm Leibniz"
+  },
+  {
+    "id": "q-philosophie-082",
+    "domain": "philosophie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né en Irlande en 1685.",
+      "Je fus évêque anglican de Cloyne.",
+      "J'ai écrit les Trois dialogues entre Hylas et Philonous.",
+      "Je soutiens que la matière n'existe pas en dehors de l'esprit.",
+      "Une ville universitaire de Californie porte mon nom."
+    ],
+    "reponse": "George Berkeley",
+    "explication": "George Berkeley défend l'immatérialisme : être, c'est être perçu ou percevoir. Évêque et philosophe irlandais, il a donné son nom à la ville et à l'université de Berkeley, en Californie.",
+    "source": "D'après Wikipédia — George Berkeley"
+  },
+  {
+    "id": "q-philosophie-083",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Selon Montesquieu, quel est le « ressort » de la monarchie ?",
+    "choix": [
+      "L'honneur",
+      "La vertu",
+      "La crainte",
+      "La richesse"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans De l'esprit des lois, chaque régime a son principe : l'honneur pour la monarchie, la vertu pour la république, la crainte pour le despotisme. C'est une façon de comparer les gouvernements.",
+    "source": "D'après Wikipédia — Montesquieu"
+  },
+  {
+    "id": "q-philosophie-084",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Avec quel savant Diderot a-t-il lancé l'Encyclopédie en 1751 ?",
+    "choix": [
+      "D'Alembert",
+      "Voltaire",
+      "Montesquieu",
+      "Rousseau"
+    ],
+    "bonneReponse": 0,
+    "explication": "Diderot et Jean le Rond d'Alembert codirigent l'Encyclopédie. D'Alembert quitte le projet en 1759 : Diderot reste alors seul éditeur et y travaille jusqu'en 1765, malgré les interdictions.",
+    "source": "D'après Wikipédia — Denis Diderot"
+  },
+  {
+    "id": "q-philosophie-085",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Comment appelle-t-on la méthode de Hegel qui fait apparaître les contradictions d'une idée pour les résoudre dans une unité plus large ?",
+    "choix": [
+      "La dialectique",
+      "Le doute méthodique",
+      "L'induction",
+      "L'ironie socratique"
+    ],
+    "bonneReponse": 0,
+    "explication": "La dialectique hégélienne examine un concept jusqu'à en montrer les contradictions, puis les dépasse dans une unité supérieure qui conserve l'étape précédente. Marx reprendra cette méthode pour l'appliquer à la société.",
+    "source": "D'après Wikipédia — Georg Wilhelm Friedrich Hegel"
+  },
+  {
+    "id": "q-philosophie-086",
+    "domain": "philosophie",
+    "format": "vrai-faux",
+    "affirmation": "Schopenhauer a donné ses cours à Berlin à la même heure que Hegel.",
+    "reponse": true,
+    "explication": "Chargé de cours à Berlin, Schopenhauer choisit exprès le même horaire que Hegel, alors immensément célèbre. Faute d'étudiants, il démissionna au bout de six mois. Son heure de gloire ne viendrait que bien plus tard.",
+    "source": "D'après Wikipédia — Arthur Schopenhauer"
+  },
+  {
+    "id": "q-philosophie-087",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quel personnage biblique Kierkegaard met-il en scène dans Crainte et tremblement pour illustrer la foi ?",
+    "choix": [
+      "Abraham",
+      "Moïse",
+      "Noé",
+      "David"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sous le pseudonyme de Johannes de Silentio, Kierkegaard relit l'épisode où Abraham doit renoncer à son fils Isaac. Il y décrit la foi comme un paradoxe qui dépasse la raison et l'éthique ordinaire.",
+    "source": "D'après Wikipédia — Søren Kierkegaard"
+  },
+  {
+    "id": "q-philosophie-088",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Selon Mill dans De la liberté, quand la société peut-elle légitimement limiter la liberté d'un individu ?",
+    "choix": [
+      "Pour l'empêcher de nuire à autrui",
+      "Dès que ses opinions choquent la majorité",
+      "Pour protéger les traditions de la société",
+      "Chaque fois que l'État le juge utile"
+    ],
+    "bonneReponse": 0,
+    "explication": "C'est le principe de non-nuisance : on peut contraindre quelqu'un pour éviter qu'il fasse du tort aux autres. Mill précise qu'offenser n'est pas nuire : on ne restreint pas un acte parce qu'il heurte les mœurs.",
+    "source": "D'après Wikipédia — John Stuart Mill"
+  },
+  {
+    "id": "q-philosophie-089",
+    "domain": "philosophie",
+    "format": "associer",
+    "question": "Associe chaque état de la loi de Comte à sa caractéristique.",
+    "paires": [
+      {
+        "gauche": "État théologique",
+        "droite": "Explications par des forces surnaturelles",
+        "explication": "On explique le monde par des puissances surnaturelles et on s'en remet à ses ancêtres."
+      },
+      {
+        "gauche": "État métaphysique",
+        "droite": "Principes abstraits et droits universels",
+        "explication": "On raisonne et on questionne l'autorité, au nom de principes abstraits comme les droits universels."
+      },
+      {
+        "gauche": "État positif",
+        "droite": "Science et observation",
+        "explication": "On cherche des solutions aux problèmes sociaux grâce à la science et à l'observation."
+      }
+    ],
+    "explication": "La loi des trois états est l'une des premières théories de l'évolution des sociétés. Comte la place au cœur du positivisme, qui fait de la science le moyen d'améliorer la vie sociale.",
+    "source": "D'après Wikipédia — Auguste Comte"
+  },
+  {
+    "id": "q-philosophie-090",
+    "domain": "philosophie",
+    "format": "vrai-faux",
+    "affirmation": "Henri Bergson a reçu le prix Nobel de physique en 1927.",
+    "reponse": false,
+    "explication": "Bergson a reçu le prix Nobel de littérature en 1927, pour ses idées riches et vivifiantes et le talent avec lequel il les a exprimées. Il avait été élu à l'Académie française en 1914.",
+    "source": "D'après Wikipédia — Henri Bergson"
+  },
+  {
+    "id": "q-philosophie-091",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Comment s'appelle la méthode de Husserl qui met entre parenthèses la croyance naïve en l'existence du monde ?",
+    "choix": [
+      "L'épochè",
+      "Le doute hyperbolique",
+      "La maïeutique",
+      "La déconstruction"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'épochè, ou réduction phénoménologique, suspend notre croyance spontanée en l'existence du monde, sans la nier, pour étudier la façon dont il se donne à la conscience. C'est la méthode centrale de la phénoménologie.",
+    "source": "D'après Wikipédia — Edmund Husserl"
+  },
+  {
+    "id": "q-philosophie-092",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quelle est la seule œuvre philosophique majeure que Wittgenstein ait publiée de son vivant ?",
+    "choix": [
+      "Le Tractatus logico-philosophicus",
+      "Les Investigations philosophiques",
+      "De la certitude",
+      "Le Cahier bleu et le cahier brun"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Tractatus paraît en 1921. Les Investigations philosophiques, sa seconde grande œuvre, n'ont été publiées qu'en 1953, deux ans après sa mort, comme beaucoup de ses textes.",
+    "source": "D'après Wikipédia — Ludwig Wittgenstein"
+  },
+  {
+    "id": "q-philosophie-093",
+    "domain": "philosophie",
+    "format": "frise",
+    "question": "Remets ces œuvres de Heidegger dans l'ordre de leur parution.",
+    "evenements": [
+      {
+        "label": "Être et Temps",
+        "annee": "1927"
+      },
+      {
+        "label": "Qu'est-ce que la métaphysique ?",
+        "annee": "1929"
+      },
+      {
+        "label": "Lettre sur l'humanisme",
+        "annee": "1947"
+      },
+      {
+        "label": "Apports à la philosophie (parution posthume)",
+        "annee": "1989"
+      }
+    ],
+    "explication": "Être et Temps (1927) fait la célébrité de Heidegger. La Lettre sur l'humanisme (1947) clarifie ses différences avec Sartre et l'existentialisme français. Les Apports à la philosophie, écrits dans les années 1930, n'ont paru qu'en 1989, après sa mort.",
+    "source": "D'après Wikipédia — Martin Heidegger"
+  },
+  {
+    "id": "q-philosophie-094",
+    "domain": "philosophie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Rochefort en 1908.",
+      "J'ai fait mes études à l'École normale supérieure, en même temps que Sartre et Beauvoir.",
+      "Je suis devenu titulaire d'une chaire au Collège de France en 1952.",
+      "Je suis le philosophe du « corps propre ».",
+      "J'ai écrit Phénoménologie de la perception."
+    ],
+    "reponse": "Maurice Merleau-Ponty",
+    "explication": "Merleau-Ponty place la perception et le corps vécu au cœur de la phénoménologie. Phénoménologie de la perception (1945) est son livre majeur. Il est mort en 1961, laissant inachevé Le Visible et l'invisible.",
+    "source": "D'après Wikipédia — Maurice Merleau-Ponty"
   }
 ]

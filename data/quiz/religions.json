@@ -482,5 +482,641 @@
     "bonneReponse": 1,
     "explication": "En 1869, le biologiste anglais Thomas Huxley invente le mot « agnostique » pour décrire sa position : on ne peut pas savoir si Dieu existe ou non. C'est différent de l'athéisme, qui affirme que Dieu n'existe pas. Grand défenseur de la théorie de Darwin, il était surnommé « le bouledogue de Darwin ».",
     "source": "D'après Wikipédia — Thomas Henry Huxley"
+  },
+  {
+    "id": "q-religions-031",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que signifie le mot grec « biblía », d'où vient le mot « Bible » ?",
+    "choix": [
+      "Les livres",
+      "La loi",
+      "La parole",
+      "L'alliance"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Biblía » signifie « les livres » : la Bible est une bibliothèque de textes de genres variés (récits, lois, poèmes, prophéties, lettres) rédigés sur plusieurs siècles. Ce pluriel grec a été pris pour un féminin singulier par le latin médiéval.",
+    "source": "D'après Wikipédia — Bible"
+  },
+  {
+    "id": "q-religions-032",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que signifie le mot grec « euangélion », à l'origine du mot « évangile » ?",
+    "choix": [
+      "Bonne nouvelle",
+      "Récit de vie",
+      "Parole divine",
+      "Enseignement du maître"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Euangélion » veut dire « bonne nouvelle ». Le mot avait un sens politique avant le christianisme : en 9 av. J.-C., une inscription de Priene l'emploie pour l'anniversaire de l'empereur Auguste. Les chrétiens l'ont repris pour le message sur Jésus.",
+    "source": "D'après Wikipédia — Évangile"
+  },
+  {
+    "id": "q-religions-033",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Parmi les quatre évangiles reconnus par toutes les Églises chrétiennes, celui de Jean est le plus ancien.",
+    "reponse": false,
+    "explication": "C'est faux : les chercheurs placent l'évangile de Marc en premier, vers 70. Matthieu et Luc le suivent, et celui de Jean est le plus tardif, vers 90-100. Marc, Matthieu et Luc sont dits « synoptiques ».",
+    "source": "D'après Wikipédia — Évangile"
+  },
+  {
+    "id": "q-religions-034",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "À partir de quel événement compte-t-on les années du calendrier musulman ?",
+    "choix": [
+      "L'hégire, le départ de Mahomet pour Médine",
+      "La naissance de Mahomet",
+      "La première révélation reçue par Mahomet",
+      "Le retour de Mahomet à La Mecque"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'an 1 correspond à l'année de l'hégire, le départ de Mahomet et de ses compagnons vers Médine, en 622. Le choix est attribué au calife Umar ; ni la naissance du Prophète ni le début de la révélation ne faisaient consensus.",
+    "source": "D'après Wikipédia — Hégire"
+  },
+  {
+    "id": "q-religions-035",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Dans le Coran, les sourates sont classées à peu près de la plus longue à la plus courte, et non dans l'ordre de leur révélation.",
+    "reponse": true,
+    "explication": "C'est vrai. Les 114 sourates se suivent selon une longueur globalement décroissante, avec la courte Al-Fatiha en ouverture. Plusieurs savants ont tenté de reconstituer l'ordre chronologique, sans qu'aucun consensus n'existe.",
+    "source": "D'après Wikipédia — Coran"
+  },
+  {
+    "id": "q-religions-036",
+    "domain": "religions",
+    "format": "difference",
+    "question": "Quelle est la différence entre le Coran et les hadiths ?",
+    "choix": [
+      "Le Coran est, pour les musulmans, la parole de Dieu ; les hadiths rapportent les paroles et les actes de Mahomet",
+      "Le Coran rapporte les paroles de Mahomet ; les hadiths sont la parole de Dieu",
+      "Le Coran est un recueil de hadiths mis par écrit du vivant de Mahomet",
+      "Les hadiths sont des commentaires du Coran rédigés au XXe siècle"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour les musulmans, le Coran est la parole même de Dieu. Les hadiths sont des récits, transmis par une chaîne de narrateurs, sur les paroles et les actes de Mahomet : ils forment la deuxième source d'autorité après le Coran.",
+    "source": "D'après Wikipédia — Hadith"
+  },
+  {
+    "id": "q-religions-037",
+    "domain": "religions",
+    "format": "associer",
+    "question": "Associe chaque texte sacré à sa description.",
+    "paires": [
+      {
+        "gauche": "Torah",
+        "droite": "Les cinq premiers livres de la Bible hébraïque",
+        "explication": "La Torah comprend la Genèse, l'Exode, le Lévitique, les Nombres et le Deutéronome."
+      },
+      {
+        "gauche": "Talmud",
+        "droite": "Mishna et Guemara, discussions des Sages",
+        "explication": "Le Talmud réunit la Mishna et la Guemara, qui la commente."
+      },
+      {
+        "gauche": "Coran",
+        "droite": "114 sourates composées de versets",
+        "explication": "Le Coran est divisé en 114 chapitres appelés sourates."
+      },
+      {
+        "gauche": "Bhagavad-Gîtâ",
+        "droite": "Dialogue entre Arjuna et Krishna",
+        "explication": "Ce dialogue, sur un champ de bataille, est placé au cœur du Mahabharata."
+      }
+    ],
+    "explication": "Ces quatre textes appartiennent à des traditions différentes. Chacun a une structure propre : cinq livres pour la Torah, six ordres de la Mishna pour le Talmud, 114 sourates pour le Coran, 18 chapitres pour la Gîtâ.",
+    "source": "D'après Wikipédia — Torah"
+  },
+  {
+    "id": "q-religions-038",
+    "domain": "religions",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom signifie « étude » en hébreu.",
+      "J'existe en deux versions, celle de Jérusalem et celle de Babylone.",
+      "Je comprends 63 traités, rassemblés en six ordres.",
+      "Je réunis la Mishna et la Guemara."
+    ],
+    "reponse": "Le Talmud",
+    "explication": "Le Talmud est un texte fondamental du judaïsme rabbinique. La version de Babylone, fixée entre le VIe et le début du VIIe siècle, est la plus longue et la plus étudiée ; celle de Jérusalem est restée inachevée.",
+    "source": "D'après Wikipédia — Talmud"
+  },
+  {
+    "id": "q-religions-039",
+    "domain": "religions",
+    "format": "difference",
+    "question": "Dans la tradition indienne, quelle est la différence entre la « shruti » et la « smriti » ?",
+    "choix": [
+      "La shruti est ce qui est entendu (le Veda) ; la smriti est ce qui est mémorisé (par exemple les épopées)",
+      "La shruti est un texte écrit ; la smriti est un texte uniquement chanté",
+      "La shruti désigne les épopées ; la smriti désigne les hymnes du Rig-Veda",
+      "La shruti est un texte bouddhiste ; la smriti est un texte hindou"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Shruti » signifie « ce qui est entendu » : c'est le Veda, perçu par les sages. « Smriti » signifie « ce qui est mémorisé » et regroupe d'autres textes, comme les épopées Mahabharata et Ramayana.",
+    "source": "D'après Wikipédia — Veda"
+  },
+  {
+    "id": "q-religions-040",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que suggère littéralement le mot sanskrit « Upanishad » ?",
+    "choix": [
+      "S'asseoir près du maître pour l'écouter",
+      "Chanter une louange aux dieux",
+      "Offrir un sacrifice rituel",
+      "Partir en pèlerinage"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot évoque l'élève qui vient s'asseoir respectueusement auprès de son maître pour recevoir son enseignement. Les Upanishad, qui concluent le Veda, y explorent le Soi (atman) et la réalité suprême (brahman).",
+    "source": "D'après Wikipédia — Upanishad"
+  },
+  {
+    "id": "q-religions-041",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Dans la Bhagavad-Gîtâ, qui est le cocher du prince Arjuna ?",
+    "choix": [
+      "Krishna",
+      "Vyasa",
+      "Yajnavalkya",
+      "Shvetaketu"
+    ],
+    "bonneReponse": 0,
+    "explication": "Krishna conduit le char d'Arjuna sur le champ de bataille de Kurukshetra. Quand le prince hésite à combattre ses proches, il lui répond par un long enseignement, qui forme les 18 chapitres de la Gîtâ.",
+    "source": "D'après Wikipédia — Bhagavad-Gītā"
+  },
+  {
+    "id": "q-religions-042",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel pape ouvre le concile Vatican II le 11 octobre 1962 ?",
+    "choix": [
+      "Jean XXIII",
+      "Pie XII",
+      "Paul VI",
+      "Jean-Paul II"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jean XXIII, élu en 1958, annonce le concile dès 1959 et l'ouvre en 1962. Il meurt en 1963 ; son successeur Paul VI poursuit les travaux et les clôt le 8 décembre 1965, après 16 documents adoptés.",
+    "source": "D'après Wikipédia — Deuxième concile œcuménique du Vatican"
+  },
+  {
+    "id": "q-religions-043",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "L'édit de Milan, en 313, fait du christianisme la religion officielle de l'Empire romain.",
+    "reponse": false,
+    "explication": "C'est faux. Le texte de 313 donne aux chrétiens le droit de pratiquer leur culte et de récupérer leurs biens confisqués, sans en faire la religion d'État. Ce pas n'est franchi qu'avec l'édit de Thessalonique, en 380.",
+    "source": "D'après Wikipédia — Édit de Milan"
+  },
+  {
+    "id": "q-religions-044",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que signifie le mot latin « inquisitio », d'où vient le mot « Inquisition » ?",
+    "choix": [
+      "Enquête",
+      "Jugement",
+      "Pénitence",
+      "Interdiction"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Inquisitio » signifie « enquête » : à l'origine, c'est une procédure où le juge lance lui-même les recherches, sans attendre une plainte. Le mot a fini par désigner les tribunaux de l'Église contre l'hérésie.",
+    "source": "D'après Wikipédia — Inquisition"
+  },
+  {
+    "id": "q-religions-045",
+    "domain": "religions",
+    "format": "frise",
+    "question": "Remets ces événements dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "L'édit de Milan",
+        "annee": "313"
+      },
+      {
+        "label": "L'hégire",
+        "annee": "622"
+      },
+      {
+        "label": "La prise de Jérusalem par les croisés",
+        "annee": "1099"
+      },
+      {
+        "label": "Grégoire IX organise l'Inquisition médiévale",
+        "annee": "1231"
+      },
+      {
+        "label": "L'ouverture du concile Vatican II",
+        "annee": "1962"
+      }
+    ],
+    "explication": "Édit de Milan (313), hégire (622), prise de Jérusalem pendant la première croisade (1099), mise en place de l'Inquisition médiévale par Grégoire IX (1231), ouverture de Vatican II (1962) : un long parcours d'histoire religieuse.",
+    "source": "D'après Wikipédia — Siège de Jérusalem (1099)"
+  },
+  {
+    "id": "q-religions-046",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel symbole représente le Dharma, l'enseignement du Bouddha ?",
+    "choix": [
+      "Une roue",
+      "Un arbre",
+      "Une lampe",
+      "Une montagne"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Dharma est symbolisé par une roue, le dharmachakra. Le premier sermon du Bouddha est vu comme le premier tour de la roue de la Loi. Le mot lui-même vient d'une racine qui signifie « porter, soutenir ».",
+    "source": "D'après Wikipédia — Dharma"
+  },
+  {
+    "id": "q-religions-047",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Pour le bouddhisme, le karma est un destin tout tracé, auquel personne ne peut rien changer.",
+    "reponse": false,
+    "explication": "Le Bouddha refuse de voir dans le karma un destin figé. Si le passé dessine les grandes lignes de notre situation, nos actes intentionnels présents peuvent encore façonner notre avenir.",
+    "source": "D'après Wikipédia — Karma"
+  },
+  {
+    "id": "q-religions-048",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que signifie littéralement le mot « nirvana » en sanskrit ?",
+    "choix": [
+      "Extinction, comme celle d'une flamme",
+      "Naissance nouvelle",
+      "Sommeil profond",
+      "Paradis éternel"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot évoque une flamme (ou une fièvre) qui s'éteint, image de la fin des passions et de l'ignorance. Il désigne aussi la libération du cycle des renaissances. Dans le langage courant, on en a fait un synonyme de bonheur suprême.",
+    "source": "D'après Wikipédia — Nirvana (monde indien)"
+  },
+  {
+    "id": "q-religions-049",
+    "domain": "religions",
+    "format": "difference",
+    "question": "Quelle est la différence entre le nirvana bouddhique et un paradis ?",
+    "choix": [
+      "Le nirvana est la fin de la soif et de l'ignorance, pas un lieu où l'on continue d'exister",
+      "Le nirvana est un paradis réservé aux moines",
+      "Le nirvana est un enfer provisoire avant la renaissance",
+      "Il n'y a aucune différence entre les deux notions"
+    ],
+    "bonneReponse": 0,
+    "explication": "Selon le bouddhisme, on ne peut ni « entrer » ni « rester » dans le nirvana, car il n'est pas un lieu. Il ne se confond pas avec la mort : ce qui disparaît, c'est la croyance en un moi autonome et durable.",
+    "source": "D'après Wikipédia — Nirvana (monde indien)"
+  },
+  {
+    "id": "q-religions-050",
+    "domain": "religions",
+    "format": "associer",
+    "question": "Associe chaque noble vérité à son contenu.",
+    "paires": [
+      {
+        "gauche": "Première vérité",
+        "droite": "L'insatisfaction (dukkha)",
+        "explication": "Naissance, maladie, mort : l'existence est marquée par l'insatisfaction."
+      },
+      {
+        "gauche": "Deuxième vérité",
+        "droite": "L'origine : la soif de désir",
+        "explication": "La soif de plaisirs, d'existence et de non-existence engendre l'insatisfaction."
+      },
+      {
+        "gauche": "Troisième vérité",
+        "droite": "La cessation de la souffrance",
+        "explication": "Quand la soif s'éteint, l'insatisfaction cesse : c'est le nirvana."
+      },
+      {
+        "gauche": "Quatrième vérité",
+        "droite": "Le noble sentier octuple",
+        "explication": "Huit branches pratiquées ensemble forment le chemin vers la libération."
+      }
+    ],
+    "explication": "Les quatre nobles vérités suivent le raisonnement d'un médecin : le constat, le diagnostic, la guérison possible, puis le remède. Elles viennent du premier sermon du Bouddha, prononcé à Sârnâth.",
+    "source": "D'après Wikipédia — Quatre nobles vérités"
+  },
+  {
+    "id": "q-religions-051",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel est le sens premier de la racine sanskrite dont vient le mot « yoga » ?",
+    "choix": [
+      "Atteler, unir",
+      "Respirer",
+      "S'asseoir",
+      "Se purifier"
+    ],
+    "bonneReponse": 0,
+    "explication": "Yoga vient d'une racine qui signifie « atteler, unir » ; c'est un cousin du mot français « joug ». Le sens a beaucoup varié : il a désigné l'attelage des chevaux avant de nommer une discipline spirituelle.",
+    "source": "D'après Wikipédia — Yoga"
+  },
+  {
+    "id": "q-religions-052",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Dans les Yoga sūtra de Patañjali, les postures du corps occupent la place centrale.",
+    "reponse": false,
+    "explication": "Pour Patañjali, le yoga est avant tout l'arrêt de l'agitation du mental. Il ne décrit aucune posture précise. Le yoga postural enseigné aujourd'hui s'est surtout développé au XXe siècle.",
+    "source": "D'après Wikipédia — Yoga"
+  },
+  {
+    "id": "q-religions-053",
+    "domain": "religions",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom contient la syllabe El, qui désigne Dieu.",
+      "Dans l'Évangile de Luc, j'apparais à Zacharie dans le Temple.",
+      "Selon la tradition musulmane, je transmets la révélation à Mahomet.",
+      "J'annonce à Marie la naissance de Jésus.",
+      "Je suis l'un des principaux archanges, avec Michel et Raphaël."
+    ],
+    "reponse": "Gabriel",
+    "explication": "Gabriel est un ange commun au judaïsme, au christianisme et à l'islam, où il se nomme Jibrîl. Il est le messager par excellence : annonce de naissances, transmission de la révélation, ascension de Mahomet.",
+    "source": "D'après Wikipédia — Ange"
+  },
+  {
+    "id": "q-religions-054",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quand commence le shabbat ?",
+    "choix": [
+      "Le vendredi soir, quelques minutes avant le coucher du soleil",
+      "Le samedi à l'aube",
+      "Le vendredi à midi",
+      "Le samedi à midi"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans le calendrier juif, la journée va d'un coucher de soleil à l'autre. Le shabbat commence donc le vendredi soir, avec l'allumage des bougies, et s'achève le samedi soir à l'apparition des étoiles, après environ 25 heures.",
+    "source": "D'après Wikipédia — Shabbat"
+  },
+  {
+    "id": "q-religions-055",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Combien de coupes de vin boit-on traditionnellement lors du séder de Pessa'h ?",
+    "choix": [
+      "Quatre",
+      "Trois",
+      "Sept",
+      "Douze"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les quatre coupes évoquent les quatre termes de la rédemption dans le livre de l'Exode. Les rabbins hésitant entre quatre et cinq coupes, une coupe supplémentaire est réservée au prophète Élie.",
+    "source": "D'après Wikipédia — Pessa'h"
+  },
+  {
+    "id": "q-religions-056",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Yom Kippour tombe chaque année à la même date du calendrier grégorien.",
+    "reponse": false,
+    "explication": "Yom Kippour est fixé au dixième jour du mois de tishri, dans le calendrier juif, qui est lunaire. Dans le calendrier grégorien, il tombe donc en septembre ou en octobre selon les années, neuf jours après Roch Hachana.",
+    "source": "D'après Wikipédia — Yom Kippour"
+  },
+  {
+    "id": "q-religions-057",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Combien de branches compte le chandelier utilisé pour Hanoucca ?",
+    "choix": [
+      "Neuf",
+      "Sept",
+      "Huit",
+      "Douze"
+    ],
+    "bonneReponse": 0,
+    "explication": "Il compte huit branches pour les huit jours de la fête, plus une neuvième, le shamash, la « servante » qui sert à allumer les autres lumières. Le chandelier du Temple, lui, en avait sept.",
+    "source": "D'après Wikipédia — Hanoucca"
+  },
+  {
+    "id": "q-religions-058",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que rappelle le feu allumé la première nuit de Holi ?",
+    "choix": [
+      "La crémation de la démone Holika",
+      "Le retour du roi Rama à Ayodhya",
+      "La naissance du dieu Ganesh",
+      "La fin de l'hiver dans le Rajasthan"
+    ],
+    "bonneReponse": 0,
+    "explication": "Selon la tradition, Holika, qui croyait résister au feu, brûla alors que Prahlada, fidèle à Vishnou, fut sauvé. Le nom Holi viendrait d'elle et signifie « brûler ». Le lendemain, on se lance des poudres colorées.",
+    "source": "D'après Wikipédia — Holi"
+  },
+  {
+    "id": "q-religions-059",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Comment la date de Pâques est-elle fixée ?",
+    "choix": [
+      "Le premier dimanche après la première pleine lune qui suit le 21 mars",
+      "Toujours le 25 mars",
+      "Le dimanche qui précède le 21 avril",
+      "Le premier dimanche d'avril"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cette règle date du concile de Nicée. Elle fait de Pâques une fête mobile. Les orthodoxes se réfèrent au calendrier julien, d'où un décalage pouvant aller jusqu'à cinq semaines avec les Églises occidentales.",
+    "source": "D'après Wikipédia — Pâques"
+  },
+  {
+    "id": "q-religions-060",
+    "domain": "religions",
+    "format": "frise",
+    "question": "Remets ces repères de l'histoire de Noël dans l'ordre.",
+    "evenements": [
+      {
+        "label": "L'empereur Aurélien fixe au 25 décembre la fête du Soleil invaincu",
+        "annee": "274"
+      },
+      {
+        "label": "Le Chronographe place la naissance de Jésus au 25 décembre",
+        "annee": "354"
+      },
+      {
+        "label": "Charlemagne est couronné empereur le jour de Noël",
+        "annee": "800"
+      },
+      {
+        "label": "Le tréma de « Noël » apparaît en français",
+        "annee": "1718"
+      }
+    ],
+    "explication": "Avant de devenir la fête chrétienne que l'on connaît, le 25 décembre était déjà une date solaire à Rome. Le Chronographe de 354 est le premier document à y placer la naissance de Jésus.",
+    "source": "D'après Wikipédia — Noël"
+  },
+  {
+    "id": "q-religions-061",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que signifie « kumbh » dans le nom de la Kumbh Mela ?",
+    "choix": [
+      "Une cruche",
+      "Un fleuve",
+      "Une montagne",
+      "Une étoile"
+    ],
+    "bonneReponse": 0,
+    "explication": "Kumbh Mela signifie « fête de la cruche ». La cruche est celle du nectar d'immortalité, que dieux et démons se seraient disputée : selon la tradition hindoue, des gouttes seraient tombées à Prayag, Haridwar, Ujjain et Nashik.",
+    "source": "D'après Wikipédia — Kumbh Mela"
+  },
+  {
+    "id": "q-religions-062",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que représente l'ânkh, la croix à anse de l'Égypte ancienne ?",
+    "choix": [
+      "La vie",
+      "La mort",
+      "La guerre",
+      "Le Nil"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'ânkh est le hiéroglyphe égyptien de la « vie ». Sur les peintures de tombes, les divinités le tendent souvent vers la momie du défunt. Les Égyptiens le portaient aussi comme amulette, bien avant la croix chrétienne.",
+    "source": "D'après Wikipédia — Croix"
+  },
+  {
+    "id": "q-religions-063",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel mot latin, signifiant « quarantième », a donné le mot « carême » ?",
+    "choix": [
+      "Quadragesima",
+      "Septuagesima",
+      "Tricesima",
+      "Centesima"
+    ],
+    "bonneReponse": 0,
+    "explication": "Carême vient de quadragesima, « quarantième ». Ce chiffre rappelle les quarante jours de jeûne de Moïse puis de Jésus dans le désert. D'autres langues, comme l'allemand, disent plutôt « temps du jeûne ».",
+    "source": "D'après Wikipédia — Carême"
+  },
+  {
+    "id": "q-religions-064",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Dans la Grèce antique, prier à genoux était considéré comme le geste normal d'un homme libre.",
+    "reponse": false,
+    "explication": "Faux : les Grecs jugeaient cette posture peu digne d'un homme libre, bonne pour les esclaves. On priait alors debout, les bras levés. L'agenouillement, mains jointes, se répand au haut Moyen Âge.",
+    "source": "D'après Wikipédia — Prière"
+  },
+  {
+    "id": "q-religions-065",
+    "domain": "religions",
+    "format": "associer",
+    "question": "Associe chaque tradition à une forme de prière qui la caractérise.",
+    "paires": [
+      {
+        "gauche": "Judaïsme orthodoxe",
+        "droite": "Trois offices par jour : Sha'harit, Min'ha, Maariv",
+        "explication": "Ces offices sont rattachés par la tradition à Abraham, Isaac et Jacob."
+      },
+      {
+        "gauche": "Islam",
+        "droite": "La salât, cinq prières quotidiennes tournées vers la Kaaba",
+        "explication": "C'est le deuxième pilier de l'islam, accompli en état de pureté."
+      },
+      {
+        "gauche": "Christianisme",
+        "droite": "Le Notre Père, enseigné par Jésus à ses apôtres",
+        "explication": "C'est la prière la plus répandue chez les chrétiens."
+      },
+      {
+        "gauche": "Bouddhisme tibétain",
+        "droite": "Une prière qui accompagne la méditation",
+        "explication": "Parlée ou chantée, elle aide à garder une intention altruiste."
+      }
+    ],
+    "explication": "Chaque religion a ses rythmes et ses textes de prière : horaires fixes pour le judaïsme et l'islam, texte commun pour les chrétiens, accompagnement de la méditation au Tibet. Les formes varient beaucoup d'une tradition à l'autre.",
+    "source": "D'après Wikipédia — Prière"
+  },
+  {
+    "id": "q-religions-066",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Les jeûnes juifs de Yom Kippour et de Tisha B'Av durent vingt-cinq heures, sans nourriture ni boisson.",
+    "reponse": true,
+    "explication": "Vrai : ils vont du coucher du soleil jusqu'à la nuit du lendemain, d'où les vingt-cinq heures. Les autres jeûnes, comme celui d'Esther, durent de l'aube à la nuit, et leur durée varie selon la saison.",
+    "source": "D'après Wikipédia — Jeûne"
+  },
+  {
+    "id": "q-religions-067",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que signifie l'expression hébraïque « maguen David » ?",
+    "choix": [
+      "Bouclier de David",
+      "Étoile du matin",
+      "Sceau du Temple",
+      "Harpe de David"
+    ],
+    "bonneReponse": 0,
+    "explication": "Maguen David signifie « bouclier de David ». L'expression apparaît au XIe siècle dans un livre de prières. L'étoile à six branches était alors surtout un motif décoratif, et elle ne s'impose comme emblème juif que bien plus tard.",
+    "source": "D'après Wikipédia — Étoile de David"
+  },
+  {
+    "id": "q-religions-068",
+    "domain": "religions",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom vient du sanskrit et signifie « cercle ».",
+      "On me trouve dans l'hindouisme, le bouddhisme et le jaïnisme.",
+      "Des moines tibétains me dessinent parfois pendant des jours avec du sable coloré.",
+      "Une fois terminé, je suis détruit pour rappeler que tout est éphémère."
+    ],
+    "reponse": "Le mandala",
+    "explication": "Le mandala est un diagramme sacré qui sert d'aire rituelle et de support de méditation. Le mandala de sable tibétain est défait après sa réalisation, le sable étant offert, parfois versé dans une eau courante.",
+    "source": "D'après Wikipédia — Mandala"
+  },
+  {
+    "id": "q-religions-069",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Dans l'interprétation hindoue, que symbolisent les trois sons A, U et M de la syllabe Om ?",
+    "choix": [
+      "Le commencement, la continuation et la fin",
+      "Le passé, l'oubli et la mémoire",
+      "La terre, l'eau et le feu",
+      "Le père, le fils et l'esprit"
+    ],
+    "bonneReponse": 0,
+    "explication": "A évoque la naissance et Brahmā, U la continuation et Vishnu, M la fin et Shiva. Om représente ainsi la totalité de ce qui existe. Le quatrième temps de la syllabe est le silence, selon cette tradition.",
+    "source": "D'après Wikipédia — Om̐"
+  },
+  {
+    "id": "q-religions-070",
+    "domain": "religions",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire du Harmandir Sahib dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Le bassin Amrit Sarovar est achevé",
+        "annee": "1577"
+      },
+      {
+        "label": "Le temple en briques est terminé",
+        "annee": "1589"
+      },
+      {
+        "label": "Le livre sacré est placé dans le temple",
+        "annee": "1604"
+      },
+      {
+        "label": "Ranjît Singh le reconstruit en marbre et en cuivre",
+        "annee": "1809"
+      },
+      {
+        "label": "Le sanctuaire est recouvert d'une feuille d'or",
+        "annee": "1830"
+      }
+    ],
+    "explication": "Le bassin précède le temple, achevé sous le gourou Arjan, qui y installe le livre sacré en 1604. Le maharaja Ranjît Singh le refait en marbre et en cuivre en 1809, puis l'or recouvre le sanctuaire : d'où le nom de Temple d'or.",
+    "source": "D'après Wikipédia — Harmandir Sahib"
   }
 ]

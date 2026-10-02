@@ -844,7 +844,7 @@
   {
     "id": "religions-025",
     "domain": "religions",
-    "subtheme": "Lieux et pratiques",
+    "subtheme": "Symboles et lieux",
     "type": "classique",
     "title": "La Mecque",
     "summary": "La Mecque, en Arabie saoudite, est la ville la plus sainte de l'islam. C'est là qu'est né Mahomet et que se trouve la Kaaba, vers laquelle les musulmans du monde entier se tournent pour prier.\nL'accès en est interdit aux non-musulmans.",
@@ -879,7 +879,7 @@
   {
     "id": "religions-026",
     "domain": "religions",
-    "subtheme": "Lieux et pratiques",
+    "subtheme": "Symboles et lieux",
     "type": "classique",
     "title": "Le Vatican",
     "summary": "Le Vatican est le plus petit État du monde : 0,44 km² en plein cœur de Rome. C'est le siège du pape et de l'Église catholique.\nIl abrite la basilique Saint-Pierre, la chapelle Sixtine et d'immenses musées.",
@@ -915,7 +915,7 @@
   {
     "id": "religions-027",
     "domain": "religions",
-    "subtheme": "Lieux et pratiques",
+    "subtheme": "Symboles et lieux",
     "type": "classique",
     "title": "Le ramadan",
     "summary": "Le ramadan est le neuvième mois du calendrier musulman. Pendant ce mois, les musulmans pratiquants jeûnent de l'aube au coucher du soleil : ni nourriture, ni boisson.\nIl commémore la révélation du Coran à Mahomet.",
@@ -944,7 +944,7 @@
   {
     "id": "religions-028",
     "domain": "religions",
-    "subtheme": "Lieux et pratiques",
+    "subtheme": "Symboles et lieux",
     "type": "vocabulaire",
     "title": "Église, temple, synagogue, mosquée",
     "summary": "Chaque religion a ses lieux de culte : l'église pour les catholiques et orthodoxes, le temple pour les protestants (et les hindous), la synagogue pour les juifs, la mosquée pour les musulmans.\nLeurs architectures reflètent leurs pratiques.",
@@ -972,7 +972,7 @@
   {
     "id": "religions-029",
     "domain": "religions",
-    "subtheme": "Notions",
+    "subtheme": "Vocabulaire",
     "type": "vocabulaire",
     "title": "Réincarnation vs résurrection",
     "summary": "La réincarnation est la renaissance de l'âme dans un nouveau corps après la mort, idée centrale de l'hindouisme et du bouddhisme ; la résurrection est le retour à la vie du même être, corps compris, notion clé du christianisme, du judaïsme et de l'islam.\nCes deux conceptions de l'après-mort sont très différentes.",
@@ -999,7 +999,7 @@
   {
     "id": "religions-030",
     "domain": "religions",
-    "subtheme": "Notions",
+    "subtheme": "Vocabulaire",
     "type": "vocabulaire",
     "title": "Prophète, messie et apôtre",
     "summary": "Un prophète est une personne qui parle au nom de Dieu ; le messie est un sauveur envoyé par Dieu, attendu dans le judaïsme ; un apôtre est un envoyé chargé de diffuser un message, en particulier les douze disciples de Jésus.\nCes termes ont des sens différents selon les religions.",
@@ -1019,5 +1019,1088 @@
       ]
     },
     "source": "D'après Wikipédia — Messie"
+  },
+  {
+    "id": "religions-031",
+    "domain": "religions",
+    "subtheme": "Textes sacrés",
+    "type": "classique",
+    "title": "La Bible",
+    "subtitle": "Ensemble de textes sacrés du judaïsme et du christianisme",
+    "summary": "La Bible n'est pas un seul livre mais une bibliothèque : son nom vient du grec « biblía », « les livres ». Elle rassemble des récits, des lois, des poèmes, des prophéties et des lettres écrits sur plusieurs siècles.\nLa Bible hébraïque compte trois parties ; la Bible chrétienne y ajoute le Nouveau Testament. Avec plus de cinq milliards d'exemplaires estimés, c'est le livre le plus vendu de l'histoire.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un canon, plusieurs listes",
+          "texte": "La liste officielle des livres reconnus s'appelle un « canon ». Le Tanakh juif s'organise en trois blocs, Torah, Prophètes (Nevi'im) et Écrits (Ketouvim), dont les initiales forment son nom. Catholiques et orthodoxes y ajoutent des livres dits « deutérocanoniques » ; Luther ne les a pas retenus et les protestants les appellent « apocryphes ». Le Nouveau Testament compte quatre évangiles, les Actes, des épîtres et l'Apocalypse."
+        },
+        {
+          "titre": "Des traductions en cascade",
+          "texte": "À Alexandrie, les textes hébreux ont reçu une version grecque, la Septante. Selon une légende, soixante-douze savants juifs y auraient travaillé. Au IVe siècle, Jérôme de Stridon prépare une version latine, la Vulgate, achevée en 405 ; elle ne s'impose pourtant pas avant le IXe siècle. À la même époque, Cyrille et Méthode s'appuient sur la Septante pour une traduction en vieux-slave."
+        }
+      ],
+      "anecdotes": [
+        "Aucun original de la Bible n'a survécu. Les plus anciennes copies longues de livres de la Bible hébraïque sont les manuscrits de la mer Morte, découverts dans les grottes de Qumran en 1947 et datés d'entre 250 av. J.-C. et 100 ap. J.-C."
+      ],
+      "wikipedia": "Bible"
+    },
+    "source": "D'après Wikipédia — Bible"
+  },
+  {
+    "id": "religions-032",
+    "domain": "religions",
+    "subtheme": "Textes sacrés",
+    "type": "classique",
+    "title": "Les Évangiles",
+    "subtitle": "Récits de la vie et de l'enseignement de Jésus de Nazareth",
+    "summary": "« Évangile » vient du grec « euangélion », « bonne nouvelle ». Ces récits, écrits en grec, racontent ce que fut la vie de Jésus de Nazareth et ce qu'il enseignait. Quatre sont reconnus par toutes les Églises chrétiennes : Matthieu, Marc, Luc et Jean.\nMarc, Matthieu et Luc sont dits « synoptiques », car ils racontent à peu près les mêmes épisodes ; Jean est à part. Ils ont été rédigés entre les années 65 et 110 environ.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Deux familles de textes",
+          "texte": "Dans les trois synoptiques, on compte environ cinquante paraboles ; chez Jean, il n'y en a aucune. D'après la théorie des deux sources, que presque tous les chercheurs retiennent, Matthieu et Luc s'appuient sur Marc, le plus ancien (vers 70), et sur un document perdu appelé « source Q ». Jean, écrit vers 90-100, apporte d'autres épisodes."
+        },
+        {
+          "titre": "Comment les quatre ont été retenus",
+          "texte": "À l'origine, ces textes circulent sans nom d'auteur ; leur attribution à Matthieu, Marc, Luc et Jean apparaît environ un siècle plus tard. Vers 180, Irénée de Lyon défend ces quatre évangiles. Le concile de Laodicée, vers 363, confirme ce nombre. Le plus ancien fragment connu est le papyrus P52, vers 125, un court extrait de l'évangile de Jean."
+        }
+      ],
+      "anecdotes": [
+        "Le mot « évangile » avait un sens politique avant le christianisme : une inscription de la ville de Priene, en 9 av. J.-C., annonce comme « bonne nouvelle » que l'année commencera désormais à l'anniversaire de l'empereur Auguste."
+      ],
+      "wikipedia": "Évangile"
+    },
+    "source": "D'après Wikipédia — Évangile"
+  },
+  {
+    "id": "religions-033",
+    "domain": "religions",
+    "subtheme": "Textes sacrés",
+    "type": "classique",
+    "title": "Le Coran",
+    "subtitle": "Texte sacré de l'islam, révélé au VIIe siècle",
+    "summary": "Le Coran, mot arabe qui signifie « la récitation », est le livre sacré de l'islam. Les musulmans y voient la parole même de Dieu, mot pour mot, transmise au prophète Mahomet par l'archange Gabriel entre 610 et 632.\nIl compte 114 chapitres, les sourates, composés de versets. La première, Al-Fatiha (« l'ouverture »), ouvre le livre ; les suivantes sont classées à peu près de la plus longue à la plus courte.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un texte d'abord récité",
+          "texte": "Le nom même du Coran renvoie à l'oralité : il se récite plus qu'il ne se lit. Pendant la prière, il est récité en arabe, avec une prosodie particulière appelée tajwid. Certains musulmans en lisent la totalité pendant les prières du soir du mois de ramadan. Le livre compte 6 236 versets, appelés « āyāt », mot qui signifie aussi « signes »."
+        },
+        {
+          "titre": "La fixation du texte",
+          "texte": "Selon la tradition musulmane, le calife Othman fait établir entre 644 et 656 la version officielle ; les exemplaires divergents sont détruits. Les historiens débattent de cette date : certains estiment que le texte a été fixé à la fin du VIIe siècle, sous le calife omeyyade Abd al-Malik. L'édition du Caire de 1924 est aujourd'hui l'édition de référence."
+        }
+      ],
+      "anecdotes": [
+        "Celui ou celle qui a mémorisé le Coran en entier porte un titre : hafiz (au féminin hafiza)."
+      ],
+      "wikipedia": "Coran"
+    },
+    "source": "D'après Wikipédia — Coran"
+  },
+  {
+    "id": "religions-034",
+    "domain": "religions",
+    "subtheme": "Textes sacrés",
+    "type": "classique",
+    "title": "Les hadiths",
+    "subtitle": "Paroles et actes du prophète Mahomet, rapportés par une chaîne de narrateurs",
+    "summary": "Un hadith est un récit qui rapporte une parole, un acte ou une approbation silencieuse du prophète Mahomet, transmis par une chaîne de narrateurs. Le mot signifie « rapport » : ce qui est « transmis ».\nPour la plupart des musulmans, les hadiths forment la deuxième source d'autorité après le Coran. Ils précisent le détail de la prière, du jeûne ou du pèlerinage, et une grande part des règles de la loi islamique en découle.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une chaîne et un texte",
+          "texte": "Chaque hadith comprend deux éléments : l'isnad, la liste des personnes qui se sont transmis le récit, et le matn, le contenu lui-même. Des savants ont classé les hadiths selon leur fiabilité : « sahih » (authentique), « hasan » (bon) ou « da'if » (faible). Au IXe siècle paraissent des recueils plus exigeants sur la fiabilité des récits, ceux d'al-Bukhari et de Muslim."
+        },
+        {
+          "titre": "Une histoire étudiée de près",
+          "texte": "Les hadiths ont d'abord circulé de maître à élèves, avant d'être mis par écrit à partir de la fin du Ier siècle de l'Hégire. Les penseurs musulmans savaient très tôt que de faux hadiths existaient. En 1888, Ignaz Goldziher montre que beaucoup de hadiths portent la marque des premières générations musulmanes, plus que celle de Mahomet. Certains courants, comme le coranisme, n'en reconnaissent pas l'autorité."
+        }
+      ],
+      "anecdotes": [
+        "Parmi les hadiths, une catégorie à part est dite « qudsi », « sacrée » : certains musulmans y voient des paroles de Dieu rapportées par Mahomet avec ses propres mots, à la différence du Coran."
+      ],
+      "wikipedia": "Hadith"
+    },
+    "source": "D'après Wikipédia — Hadith"
+  },
+  {
+    "id": "religions-035",
+    "domain": "religions",
+    "subtheme": "Textes sacrés",
+    "type": "classique",
+    "title": "Le Talmud",
+    "subtitle": "Texte central du judaïsme rabbinique, composé entre l'Antiquité et le VIe siècle",
+    "summary": "Le Talmud (« étude » en hébreu) est un pilier du judaïsme rabbinique. Il réunit la Mishna, compilation de la Torah orale, et la Guemara, qui rassemble les discussions des Sages sur la Mishna.\nIl existe deux Talmuds, celui de Jérusalem et celui de Babylone, plus long et considéré comme la référence. On y trouve du droit, de l'éthique, des récits, mais aussi de la médecine et des réflexions scientifiques.",
+    "details": {
+      "sections": [
+        {
+          "titre": "La Mishna : six ordres, 63 traités",
+          "texte": "Après la destruction du Second Temple en 70, les rabbins mettent par écrit l'enseignement oral pour le préserver. Vers 200, Juda ha-Nassi achève la Mishna, classée par thème en six ordres : agriculture, fêtes, mariage, dommages et justice, choses saintes, pureté. Ces ordres comptent 63 traités. Le Talmud suit ce plan, en y ajoutant la Guemara."
+        },
+        {
+          "titre": "Deux Talmuds",
+          "texte": "Le Talmud de Jérusalem, rédigé dans les académies de Galilée entre la fin du IIIe et le début du Ve siècle, est resté inachevé. Celui de Babylone, fixé entre le milieu du VIe et le début du VIIe siècle, naît dans des académies comme Soura et Poumbedita. La tradition en attribue la mise en forme à Rav Ashi puis à Ravina II. Rachi et les Tossafistes l'ont ensuite commenté."
+        }
+      ],
+      "anecdotes": [
+        "Le Talmud de Babylone, long d'environ 2,5 millions de mots, ne commente pourtant que 37 des 63 traités de la Mishna."
+      ],
+      "wikipedia": "Talmud"
+    },
+    "source": "D'après Wikipédia — Talmud"
+  },
+  {
+    "id": "religions-036",
+    "domain": "religions",
+    "subtheme": "Textes sacrés",
+    "type": "classique",
+    "title": "La Torah",
+    "subtitle": "Les cinq premiers livres de la Bible hébraïque",
+    "summary": "La Torah (« instruction » en hébreu, souvent traduit par « loi ») désigne les cinq premiers livres de la Bible hébraïque : Genèse, Exode, Lévitique, Nombres et Deutéronome. Les chrétiens les appellent le Pentateuque.\nSelon la tradition juive, elle a été transmise à Moïse sur le mont Sinaï et contient 613 commandements. Elle raconte la création, les ancêtres d'Israël et la sortie d'Égypte, et s'achève à la mort de Moïse.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Cinq livres, cinq premiers mots",
+          "texte": "En hébreu, chaque livre porte pour titre l'un de ses premiers mots : Bereshit (« Au commencement »), Shemot (« Noms »), Vayikra (« Et il appela »), Bamidbar (« Dans le désert ») et Devarim (« Paroles »). Le Deutéronome est à part : écrit à la première personne, il rapporte les derniers discours de Moïse avant sa mort, au seuil de Canaan."
+        },
+        {
+          "titre": "Écrite et orale",
+          "texte": "La tradition rabbinique distingue la Torah écrite et la Torah orale, plus tard compilée dans le Talmud ; les karaïtes ne retiennent que la première. Dans les synagogues, on lit un rouleau, le Sefer Torah, copié par un scribe selon des règles très strictes. Les chercheurs y voient une collection de textes réunis par des scribes à l'époque de l'Exil et après."
+        }
+      ],
+      "anecdotes": [
+        "Selon le Midrash, la Torah aurait été créée avant le monde et lui aurait servi de plan."
+      ],
+      "wikipedia": "Torah"
+    },
+    "source": "D'après Wikipédia — Torah"
+  },
+  {
+    "id": "religions-037",
+    "domain": "religions",
+    "subtheme": "Textes sacrés",
+    "type": "classique",
+    "title": "Le Veda",
+    "subtitle": "Les plus anciens textes sacrés de l'hindouisme, en sanskrit",
+    "summary": "Le Veda (« connaissance » ou « vision » en sanskrit) est un ensemble de textes très anciens de l'Inde, composés en sanskrit védique et considérés comme les plus anciennes écritures de l'hindouisme. Selon la tradition, des sages, les Rishi, les ont « entendus ».\nIl existe quatre Veda : le Rig-Veda, le Yajur-Veda, le Sama-Veda et l'Atharva-Veda. Transmis oralement pendant des siècles, ils sont encore récités aujourd'hui.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Quatre recueils",
+          "texte": "Le Rig-Veda, base des autres, réunit 1 028 hymnes en 10 462 stances. Le Sama-Veda reprend surtout ces stances sous forme de chants, avec des indications musicales. Le Yajur-Veda contient les formules des sacrifices, dans l'ordre de la cérémonie. L'Atharva-Veda, accepté plus tard après de longues controverses, rassemble des charmes contre la maladie ou pour une longue vie. Les premiers textes remonteraient au XVe siècle av. J.-C. selon des auteurs européens."
+        },
+        {
+          "titre": "Entendre, réciter, transmettre",
+          "texte": "Le Veda est « shruti », ce qui est entendu, par opposition à la « smriti », ce qui est mémorisé. Il se transmet de brahmane à brahmane, mot par mot et syllabe par syllabe : seule la récitation correcte, à voix haute, a valeur de Veda. En 2003, l'UNESCO a proclamé la tradition du chant védique, inscrite en 2008 au patrimoine culturel immatériel de l'humanité."
+        }
+      ],
+      "anecdotes": [
+        "Les hymnes védiques affirment eux-mêmes avoir été façonnés par les sages avec habileté, comme un charpentier construit un char."
+      ],
+      "wikipedia": "Veda"
+    },
+    "source": "D'après Wikipédia — Veda"
+  },
+  {
+    "id": "religions-038",
+    "domain": "religions",
+    "subtheme": "Textes sacrés",
+    "type": "classique",
+    "title": "Les Upanishad",
+    "subtitle": "Textes philosophiques de l'Inde, conclusion du Veda",
+    "summary": "Les Upanishad sont des textes philosophiques en sanskrit qui concluent le Veda. Leur nom évoque l'idée de venir s'asseoir près du maître pour écouter son enseignement.\nElles explorent le Soi (atman) et la réalité suprême (brahman) et forment la base de la pensée hindoue. Le canon traditionnel en compte 108, dont dix Upanishad majeures, rédigées entre le VIIIe et le Ve siècle avant notre ère.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le cœur du Vedanta",
+          "texte": "Placées à la fin du Veda, les Upanishad sont le « Vedanta » au sens ancien du terme. Les plus anciennes, comme la Brihadaranyaka et la Chandogya, sont de grands dialogues. Leurs auteurs sont presque tous inconnus ; des sages comme Yajnavalkya y enseignent, et deux femmes, Maitreyi et Gargi, y prennent part. La Taittiriya décrit l'être humain comme une série d'enveloppes, qui cachent le Soi."
+        },
+        {
+          "titre": "La découverte de l'Occident",
+          "texte": "Au début du XIXe siècle, l'Europe a découvert l'hindouisme grâce à ces textes. Elles ont influencé Schopenhauer ; Victor Hugo s'est servi de la Kena Upanishad pour un poème de son recueil La Légende des siècles, « Suprématie ». Le physicien Erwin Schrödinger s'en est inspiré dans Ma conception du monde, publié en 1961."
+        }
+      ],
+      "anecdotes": [
+        "Au XVIIe siècle, Dara Shikoh, prince moghol musulman et fils de l'empereur Shah Jahan, a traduit cinquante Upanishad en persan."
+      ],
+      "wikipedia": "Upanishad"
+    },
+    "source": "D'après Wikipédia — Upanishad"
+  },
+  {
+    "id": "religions-039",
+    "domain": "religions",
+    "subtheme": "Textes sacrés",
+    "type": "classique",
+    "title": "La Bhagavad-Gîtâ",
+    "subtitle": "Dialogue philosophique au cœur du Mahabharata",
+    "summary": "La Bhagavad-Gîtâ (« chant du Bienheureux ») est un texte fondamental de l'hindouisme, placé au cœur de l'épopée du Mahabharata. Elle compte 18 chapitres et 700 vers.\nC'est un dialogue sur un champ de bataille : le prince guerrier Arjuna, accablé à l'idée de combattre des membres de sa famille, demande conseil à son cocher Krishna. Les spécialistes la datent entre le Ve et le IIe siècle avant notre ère.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un dilemme sur un char",
+          "texte": "Deux clans de cousins, les Pandava et les Kaurava, s'affrontent pour le pouvoir à Kurukshetra. Arjuna, sur son char, doit souffler dans une conque pour lancer le combat, mais il voit des oncles et des amis dans l'autre camp. Effondré, il se tourne vers Krishna, son cocher, pour savoir quel est son devoir. Toute la Gîtâ est la réponse de Krishna."
+        },
+        {
+          "titre": "Trois voies et un devoir",
+          "texte": "Krishna enseigne trois chemins : le yoga de l'action juste (karma), celui de la dévotion (bhakti) et celui de la connaissance (jnana). Il recommande de se détacher des fruits de ses actes sans cesser d'agir, et d'accomplir son devoir propre. Beaucoup de lecteurs voient dans la bataille une image des conflits intérieurs. Parmi ses commentateurs figurent Shankara, au VIIIe siècle, et Sri Aurobindo, au XXe."
+        }
+      ],
+      "anecdotes": [
+        "Vingt ans après le premier essai atomique, le physicien J. Robert Oppenheimer a cité un vers de la Gîtâ pour dire ce qu'il avait ressenti, en se comparant à la Mort qui détruit les mondes. La traduction qu'il en donne est toutefois discutée."
+      ],
+      "wikipedia": "Bhagavad-Gītā"
+    },
+    "source": "D'après Wikipédia — Bhagavad-Gītā"
+  },
+  {
+    "id": "religions-040",
+    "domain": "religions",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "1099 : la prise de Jérusalem",
+    "subtitle": "Point culminant de la première croisade, du 7 juin au 15 juillet 1099",
+    "summary": "Au terme de la première croisade, les croisés assiègent Jérusalem du 7 juin au 15 juillet 1099. Ils sont épuisés par la soif et la faim, mais la ville tombe après un assaut mené depuis des tours de siège.\nCette prise ouvre la voie à la fondation du royaume latin de Jérusalem. Elle est suivie d'un massacre de la population dont le bilan reste discuté entre historiens.",
+    "details": {
+      "contexte": "Après la prise d'Antioche en juin 1098, les croisés marchent vers le sud. Jérusalem a entre-temps été reprise aux Turcs seldjoukides par les Fatimides d'Égypte, qui ne leur avaient jamais fait obstacle.",
+      "causes": "Le pape Urbain II a lancé l'appel à la croisade en 1095 pour rétablir la route des pèlerinages vers les lieux saints. Les Fatimides proposent la paix à condition que les croisés ne montent pas jusqu'à Jérusalem, mais l'offre est refusée.",
+      "deroulement": "Arrivés devant la ville le 7 juin, les croisés manquent d'eau et de vivres, et un premier assaut échoue le 13 juin. Des navires génois apportent du matériel : ils construisent des tours de siège et attaquent les 14 et 15 juillet. La ville tombe le 15.",
+      "consequences": "La prise est suivie du massacre de nombreux habitants musulmans et juifs, dont le nombre exact reste débattu. Godefroy de Bouillon devient avoué du Saint-Sépulcre, et le royaume latin de Jérusalem est fondé.",
+      "frise": [
+        {
+          "annee": "1095",
+          "evenement": "Le pape Urbain II appelle à la croisade au concile de Clermont."
+        },
+        {
+          "annee": "1098",
+          "evenement": "Les croisés prennent Antioche."
+        },
+        {
+          "annee": "1099",
+          "evenement": "Les croisés s'emparent de Jérusalem le 15 juillet."
+        }
+      ],
+      "wikipedia": "Siège de Jérusalem (1099)"
+    },
+    "source": "D'après Wikipédia — Siège de Jérusalem (1099)"
+  },
+  {
+    "id": "religions-041",
+    "domain": "religions",
+    "subtheme": "Dates clés",
+    "type": "classique",
+    "title": "L'Inquisition",
+    "subtitle": "Juridiction de l'Église catholique contre l'hérésie, du XIIe au XIXe siècle",
+    "summary": "L'Inquisition (du latin « inquisitio », « enquête ») est un tribunal que l'Église catholique met en place dès le XIIe siècle pour combattre ce qu'elle qualifie d'hérésie. Les peines vont de la pénitence à la confiscation des biens, voire à la mort, exécutée par le pouvoir civil.\nOn distingue trois périodes : l'Inquisition médiévale, l'Inquisition espagnole, fondée en 1478, et l'Inquisition romaine, créée en 1542.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une procédure nouvelle",
+          "texte": "À l'origine, « inquisition » désigne une technique judiciaire : le juge peut lancer lui-même l'enquête, sans attendre une plainte. La lutte contre l'hérésie se structure en 1184 avec la bulle Ad abolendam, puis en 1231 quand Grégoire IX confie la tâche surtout aux Dominicains. Le concile de Toulouse de 1229 l'installe en Languedoc, contre les cathares, après la croisade des Albigeois."
+        },
+        {
+          "titre": "Trois périodes et une légende noire",
+          "texte": "L'Inquisition espagnole, de 1478 à 1834, vise surtout les juifs et les musulmans convertis, soupçonnés de rester fidèles à leur foi. L'Inquisition romaine combat le protestantisme ; elle devient le Saint-Office en 1908, puis, en 1965, un organisme au nom nouveau (Congrégation pour la doctrine de la foi), dont l'accent porte désormais sur la correction de l'erreur plutôt que sur la punition. L'historienne Anne Brenon estime à 3 000 les peines de mort prononcées en cinq siècles en Europe. Des œuvres comme Don Carlos (1867) ont nourri sa légende noire."
+        }
+      ],
+      "anecdotes": [
+        "L'histoire de l'Inquisition en France a longtemps été déformée par Étienne de La Mothe-Langon, un faussaire qui publia en 1829 une Histoire de l'Inquisition en France fantaisiste, fondée sur des archives manipulées et reprise par des historiens comme Michelet."
+      ],
+      "wikipedia": "Inquisition"
+    },
+    "source": "D'après Wikipédia — Inquisition"
+  },
+  {
+    "id": "religions-042",
+    "domain": "religions",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "1962 : l'ouverture du concile Vatican II",
+    "subtitle": "Concile de l'Église catholique, du 11 octobre 1962 au 8 décembre 1965",
+    "summary": "Le 11 octobre 1962, le pape Jean XXIII ouvre le deuxième concile œcuménique du Vatican, le XXIe de l'histoire de l'Église catholique. Environ 2 500 évêques y participent à l'ouverture, un record pour un concile.\nIl s'achève en 1965 sous Paul VI, après seize documents. On le considère souvent comme l'événement le plus marquant du catholicisme au XXe siècle.",
+    "details": {
+      "contexte": "Élu pape en 1958, Jean XXIII annonce dès le 25 janvier 1959, à la surprise générale, la tenue d'un concile. Le précédent, Vatican I, avait été interrompu en 1870 après la prise de Rome.",
+      "causes": "Le pape veut ouvrir l'Église au monde moderne. Des mouvements liturgique, biblique et œcuménique préparaient déjà ce renouveau, avec un retour aux sources du christianisme : la Bible et les Pères de l'Église.",
+      "deroulement": "Le concile s'ouvre le 11 octobre 1962 avec 2 540 pères conciliaires. Dès la première session, les évêques rejettent le programme préparé par la curie et prennent leur ordre du jour en main. Jean XXIII meurt en 1963 ; son successeur Paul VI poursuit les travaux.",
+      "consequences": "Le concile publie 16 documents : 4 constitutions, 9 décrets et 3 déclarations. Il permet notamment les langues locales dans la liturgie et ouvre un dialogue avec les autres chrétiens, les autres religions et la société.",
+      "frise": [
+        {
+          "annee": "1959",
+          "evenement": "Jean XXIII annonce son intention de réunir un concile."
+        },
+        {
+          "annee": "1962",
+          "evenement": "Ouverture du concile le 11 octobre."
+        },
+        {
+          "annee": "1965",
+          "evenement": "Clôture du concile le 8 décembre sous Paul VI."
+        }
+      ],
+      "wikipedia": "Deuxième concile œcuménique du Vatican"
+    },
+    "source": "D'après Wikipédia — Deuxième concile œcuménique du Vatican"
+  },
+  {
+    "id": "religions-043",
+    "domain": "religions",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "622 : l'Hégire",
+    "subtitle": "Migration du prophète de l'islam vers Médine, en 622",
+    "summary": "L'hégire (de l'arabe « hijra », « émigration ») désigne le voyage du prophète Mahomet, accompagné de ses fidèles, depuis La Mecque jusqu'à l'oasis de Yathrib, devenue Médine, en 622. À Médine, Mahomet devient chef politique et religieux de la communauté.\nL'événement marque le point de départ du calendrier musulman. Les historiens discutent toutefois du récit traditionnel et de la façon dont l'hégire est devenue un événement fondateur.",
+    "details": {
+      "contexte": "Selon la tradition, Mahomet et ses compagnons subissent à La Mecque des pressions de la tribu des Quraysh, pour qui la ville a une forte dimension religieuse et économique. Un premier groupe de fidèles trouve même refuge en Éthiopie, auprès d'un roi chrétien.",
+      "causes": "Mahomet perd ses appuis à la mort de son oncle Abu Talib puis de son épouse Khadidja. Des habitants de Yathrib l'invitent à venir, et leurs représentants concluent avec lui une alliance à Aqaba.",
+      "deroulement": "Les musulmans gagnent Yathrib, plus tard appelée Médine ; Mahomet ferme la marche avec Abu Bakr et Ali. Les émigrés sont appelés « muhajirun », et les Médinois qui les accueillent « ansar », les auxiliaires.",
+      "consequences": "À Médine, Mahomet passe du rôle de prédicateur à celui de chef de communauté. Sous le calife Umar, l'année de l'hégire devient l'an 1 du calendrier musulman, dont le premier jour correspond au 16 juillet 622.",
+      "frise": [
+        {
+          "annee": "620",
+          "evenement": "Des habitants de Yathrib font la connaissance de Mahomet et l'invitent."
+        },
+        {
+          "annee": "622",
+          "evenement": "Les musulmans quittent La Mecque pour Médine."
+        },
+        {
+          "annee": "638",
+          "evenement": "Le calife Umar fixe l'an 1 du calendrier musulman à l'année de l'hégire."
+        }
+      ],
+      "wikipedia": "Hégire"
+    },
+    "source": "D'après Wikipédia — Hégire"
+  },
+  {
+    "id": "religions-044",
+    "domain": "religions",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "313 : l'édit de Milan",
+    "subtitle": "Accord entre les empereurs Constantin et Licinius en faveur des chrétiens",
+    "summary": "En 313, les empereurs romains Constantin et Licinius s'accordent à Milan pour donner aux chrétiens la liberté de culte et leur rendre les biens confisqués. On parle traditionnellement d'« édit de Milan ».\nLe terme est pourtant discuté : le texte conservé est une lettre adressée à des gouverneurs d'Orient. Il ne fait pas du christianisme la religion officielle, ce qui n'arrivera qu'avec l'édit de Thessalonique, en 380.",
+    "details": {
+      "contexte": "En 303, la Grande Persécution frappe les chrétiens : lieux de culte détruits, biens saisis, clercs emprisonnés. L'édit de Galère met fin à la persécution en 311, mais il reste lettre morte en Orient, où règne Maximin Daïa.",
+      "causes": "Après sa victoire au pont Milvius en octobre 312, Constantin domine l'Occident. En février 313, il rencontre Licinius à Milan pour s'allier. Ils décident d'étendre la tolérance à l'Orient, au nom de la sécurité publique.",
+      "deroulement": "Licinius bat Maximin Daïa en avril 313. Une lettre circulaire est alors affichée à Nicomédie, le 13 juin : elle accorde aux chrétiens, comme à tous les cultes, la liberté de pratiquer leur religion, et ordonne de leur restituer leurs biens.",
+      "consequences": "Le texte accorde la liberté de culte et marque, pour beaucoup, le passage de l'Antiquité païenne à l'époque chrétienne. Le mot « édit » vient d'une erreur de traduction de la fin du XVIe siècle.",
+      "frise": [
+        {
+          "annee": "303",
+          "evenement": "Début de la Grande Persécution contre les chrétiens."
+        },
+        {
+          "annee": "311",
+          "evenement": "L'empereur Galère promulgue un édit de tolérance."
+        },
+        {
+          "annee": "313",
+          "evenement": "Constantin et Licinius s'entendent à Milan."
+        }
+      ],
+      "wikipedia": "Édit de Milan"
+    },
+    "source": "D'après Wikipédia — Édit de Milan"
+  },
+  {
+    "id": "religions-045",
+    "domain": "religions",
+    "subtheme": "Vocabulaire",
+    "type": "vocabulaire",
+    "title": "Karma",
+    "subtitle": "Notion des religions indiennes : l'acte et ses conséquences",
+    "summary": "Le mot sanskrit karma vient d'une racine qui signifie « faire » : il désigne l'acte, puis le cycle des causes et des conséquences qui relie les actes d'un être à son existence présente et à ses renaissances.\nLa notion est centrale dans l'hindouisme, le bouddhisme, le jaïnisme et le sikhisme. Selon ces traditions, chacun est responsable de ses actes, et donc de sa libération du cycle des renaissances.",
+    "details": {
+      "definition": "Le karma est l'action voulue d'un être (geste, parole ou pensée) et l'effet que cette action produit sur son parcours, dans cette vie ou dans les suivantes.",
+      "exemple": "Dans l'image souvent citée par les textes bouddhiques, un acte est comme une graine : il mûrit plus tard en un fruit, parfois bien plus tard, qui revient à celui qui a agi.",
+      "confusions": [
+        {
+          "mot": "Destin",
+          "explication": "Le Bouddha a écarté l'idée d'un destin tout tracé : nos actes présents peuvent encore transformer notre avenir."
+        },
+        {
+          "mot": "Châtiment",
+          "explication": "Le résultat d'un acte n'est ni une punition ni une récompense, mais un mûrissement naturel, sans intervention divine."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une loi de cause à effet",
+          "texte": "Dans l'hindouisme, la loi du karma, liée à la réincarnation, apparaît dès les plus anciennes Upanishads. Il ne s'agit pas d'un jugement divin mais d'une « maturation » des actes. Les textes distinguent le karma accumulé, celui qui porte déjà ses fruits et détermine la vie présente, et celui que l'on prépare pour l'avenir."
+        },
+        {
+          "titre": "Le rôle de l'intention",
+          "texte": "Pour le bouddhisme, ce qui compte est la volonté : « C'est la volonté que j'appelle karma », dit un texte ancien. Donner en espérant une contrepartie ne crée pas le même karma que donner sans calcul. Les mauvaises motivations naissent de trois « poisons » : avidité, haine, illusion. Entretenir remords et culpabilité n'aide pas à progresser."
+        }
+      ],
+      "anecdotes": [
+        "Les textes hindous comparent le karma qui a déjà commencé à porter ses fruits à une flèche partie de l'arc : le chasseur a beau voir sa faute de visée une seconde trop tard, il ne peut plus la rattraper."
+      ],
+      "wikipedia": "Karma"
+    },
+    "source": "D'après Wikipédia — Karma"
+  },
+  {
+    "id": "religions-046",
+    "domain": "religions",
+    "subtheme": "Vocabulaire",
+    "type": "vocabulaire",
+    "title": "Dharma",
+    "subtitle": "Notion indienne : la loi qui soutient le monde, le devoir, l'enseignement",
+    "summary": "Dharma, ou dhamma en pali, est un mot aux sens multiples : loi, devoir, vertu, vérité, enseignement. Il vient d'une racine sanskrite qui signifie « porter, soutenir » : le dharma est ce qui tient le monde et la société debout.\nSelon les traditions, il désigne l'ordre cosmique et le devoir de chacun (hindouisme), l'enseignement du Bouddha (bouddhisme), la conduite juste (sikhisme) ou la doctrine des maîtres (jaïnisme).",
+    "details": {
+      "definition": "Le dharma est un terme polysémique des religions indiennes, dérivé d'une racine qui signifie « porter, soutenir », et qui désigne la loi, le devoir, la vertu ou l'enseignement selon le contexte.",
+      "exemple": "Le dharma d'un agriculteur n'est pas celui d'un guerrier : en hindouisme, le devoir change selon la situation de chacun et selon les âges de la vie.",
+      "confusions": [
+        {
+          "mot": "Karma",
+          "explication": "Le karma est l'acte et ses conséquences ; le dharma est la loi ou le devoir qui dit comment bien agir."
+        },
+        {
+          "mot": "Religion",
+          "explication": "On traduit parfois dharma par « religion », mais les traditions indiennes ne lui donnent pas le même sens que l'Occident."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "En hindouisme : ordre et devoir",
+          "texte": "L'hindouisme se nomme lui-même Sanātana-Dharma, la « loi éternelle ». Le dharma y désigne l'ordre cosmique, mais aussi la morale et les devoirs de chacun, fixés par des traités juridiques comme les Lois de Manu. Enfreindre ces lois, disent les textes, met en péril l'équilibre de la société et du cosmos."
+        },
+        {
+          "titre": "En bouddhisme : l'enseignement",
+          "texte": "Avec une majuscule, le Dharma est l'enseignement du Bouddha, l'un des trois joyaux avec le Bouddha et le Sangha, la communauté. Il a pour symbole une roue : le premier sermon du Bouddha est vu comme le premier tour de la roue de la Loi. Au pluriel, les dharmas désignent aussi les phénomènes, les choses."
+        }
+      ],
+      "anecdotes": [
+        "Au IIIe siècle avant notre ère, l'empereur indien Ashoka a fait traduire le mot dharma en grec et en araméen sur une inscription découverte à Kandahar, en Afghanistan : les Grecs y lisent le mot eusebeia, la piété."
+      ],
+      "wikipedia": "Dharma"
+    },
+    "source": "D'après Wikipédia — Dharma"
+  },
+  {
+    "id": "religions-047",
+    "domain": "religions",
+    "subtheme": "Vocabulaire",
+    "type": "vocabulaire",
+    "title": "Nirvana",
+    "subtitle": "Libération du cycle des renaissances dans les religions indiennes",
+    "summary": "Nirvana vient d'un mot sanskrit qui signifie « extinction », comme celle d'une flamme. Il désigne la fin des passions et de l'ignorance, et la libération du cycle des renaissances.\nLe concept est surtout associé au bouddhisme, qui en fait le but de la pratique. L'hindouisme et le jaïnisme parlent plus volontiers de moksha, et ne l'entendent pas tout à fait de la même façon.",
+    "details": {
+      "definition": "Le nirvana est l'extinction du feu des passions et de l'ignorance, qui libère l'être du cycle des renaissances ; en bouddhisme, il est le but de la voie spirituelle.",
+      "exemple": "Les textes comparent le nirvana à une flamme qui s'éteint faute de combustible : de même qu'on ne peut décrire un feu qui ne brûle plus, on ne peut le définir par des mots.",
+      "confusions": [
+        {
+          "mot": "Paradis",
+          "explication": "Le nirvana n'est pas un lieu où l'on continuerait d'exister après la mort : on ne peut ni y entrer ni y rester."
+        },
+        {
+          "mot": "Moksha",
+          "explication": "Terme préféré en hindouisme et en jaïnisme pour désigner la libération ; il recoupe le nirvana sans lui être identique."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Dans le bouddhisme",
+          "texte": "Le nirvana met fin à l'ignorance et aux trois soifs : désir des sens, désir d'exister et désir d'anéantissement. Il n'est pas la mort mais la disparition de l'idée d'un moi autonome et durable. On distingue le nirvana atteint de son vivant et le parinirvana, extinction complète à la mort d'un être éveillé. Le premier moine à l'atteindre fut Ajnata Kaundinya."
+        },
+        {
+          "titre": "Hindouisme, jaïnisme et sens courant",
+          "texte": "L'hindouisme préfère le mot moksha. Le jaïnisme emploie nirvana comme synonyme de moksha : l'âme est libérée quand tout son karma est détruit. Dans le langage courant, le mot est devenu un synonyme de bonheur suprême, ce qui est assez éloigné de son sens d'origine."
+        }
+      ],
+      "anecdotes": [
+        "Le maître thaï Buddhadasa rappelait que le mot nibbana signifiait déjà « fraîcheur » dans la langue de tous les jours : il désignait le refroidissement d'une brûlure, et dans le langage religieux l'apaisement des brûlures des émotions."
+      ],
+      "wikipedia": "Nirvana (monde indien)"
+    },
+    "source": "D'après Wikipédia — Nirvana (monde indien)"
+  },
+  {
+    "id": "religions-048",
+    "domain": "religions",
+    "subtheme": "Vocabulaire",
+    "type": "vocabulaire",
+    "title": "Les Quatre nobles vérités",
+    "subtitle": "Enseignement fondamental du bouddhisme, issu du premier sermon du Bouddha",
+    "summary": "Les quatre nobles vérités sont, selon la tradition, le contenu du premier sermon prononcé par Siddhartha Gautama à Sârnâth après son éveil. Elles forment la synthèse la plus brève de l'enseignement bouddhique.\nElles disent que l'existence est marquée par l'insatisfaction (dukkha), que celle-ci naît de la « soif » de désir, qu'elle peut cesser, et qu'un chemin mène à cette cessation : le noble sentier octuple.",
+    "details": {
+      "definition": "Les quatre nobles vérités sont : l'insatisfaction (dukkha), son origine dans la soif ou le désir, sa cessation, et le chemin qui y conduit, le noble sentier octuple.",
+      "exemple": "On les compare au travail d'un médecin : il constate les symptômes, pose un diagnostic, trouve la méthode de guérison, puis prescrit le remède.",
+      "confusions": [
+        {
+          "mot": "Souffrance",
+          "explication": "Dukkha est souvent traduit ainsi, mais le mot dit aussi l'insatisfaction, l'imperfection et l'impermanence, bien au-delà de la douleur physique."
+        },
+        {
+          "mot": "Nirvana",
+          "explication": "Le nirvana correspond à la troisième vérité : l'état où cessent la soif et la souffrance."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Les quatre vérités pas à pas",
+          "texte": "La première constate que naître, vieillir, tomber malade et mourir font partie de la condition humaine, et que même les plaisirs passent. La deuxième désigne la soif : de plaisirs, d'existence, de non-existence. La troisième affirme que cette soif peut s'éteindre, jusqu'au nirvana. La quatrième indique la voie pour y parvenir."
+        },
+        {
+          "titre": "Le noble sentier octuple",
+          "texte": "La quatrième vérité propose huit branches à pratiquer ensemble : vision juste, pensée juste, parole juste, action juste, moyens d'existence justes, effort juste, attention juste et concentration juste. Malgré le mot « souffrance », le message est présenté comme optimiste : puisqu'on peut s'en libérer, le bouddhisme ne se résume pas à du pessimisme."
+        }
+      ],
+      "anecdotes": [
+        "Plusieurs spécialistes pensent que ce discours n'a été reconnu comme le tout premier sermon du Bouddha que plus tard, et que les quatre vérités ont pris peu à peu leur place centrale dans la tradition, surtout dans le bouddhisme theravada."
+      ],
+      "wikipedia": "Quatre nobles vérités"
+    },
+    "source": "D'après Wikipédia — Quatre nobles vérités"
+  },
+  {
+    "id": "religions-049",
+    "domain": "religions",
+    "subtheme": "Vocabulaire",
+    "type": "vocabulaire",
+    "title": "Yoga : origine et sens",
+    "subtitle": "Discipline indienne née de l'idée d'« atteler » et d'« unir »",
+    "summary": "Yoga vient d'une racine sanskrite qui signifie « atteler, unir » ; c'est le même mot que « joug ». Dans l'Inde ancienne, c'est une discipline de méditation, de maîtrise de soi et d'exercices corporels visant la libération.\nLe yoga des cours collectifs, centré sur les postures, est bien plus récent : il s'est surtout formé au XXe siècle et ne représente qu'une petite partie de la tradition.",
+    "details": {
+      "definition": "Le yoga est une discipline indienne, qui combine méditation, ascèse et exercices du corps, et vise à unifier l'être humain et à le conduire à la libération.",
+      "exemple": "Les Yoga sūtra définissent le yoga comme l'arrêt des mouvements du mental, sans parler de posture particulière.",
+      "confusions": [
+        {
+          "mot": "Hatha yoga",
+          "explication": "Branche posturale du yoga, dont un texte classique date du XVe siècle ; les cours occidentaux en dérivent en grande partie."
+        },
+        {
+          "mot": "Yoga sūtra",
+          "explication": "Texte attribué à Patañjali qui codifie la philosophie du yoga ; il traite surtout de l'esprit, pas des postures."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Des racines anciennes",
+          "texte": "Le mot apparaît dans le Rig-Véda, mais avec le sens d'attelage plutôt que de discipline. Les Yoga sūtra, attribués à Patañjali et codifiés vers le IIe siècle avant notre ère, rassemblent 195 aphorismes sur la maîtrise du mental. Quatre grandes voies sont décrites : jnana, bhakti, karma et raja yoga, exposées notamment dans la Bhagavad-Gîtâ."
+        },
+        {
+          "titre": "Du maître indien aux salles de sport",
+          "texte": "En 1893, le moine Vivekananda fait sensation au Parlement des religions de Chicago ; son livre Raja Yoga paraît en 1896. En 1924, Krishnamacharya ouvre une école à Mysore, influencée par la culture physique. Dans les années 1960, le yoga s'américanise, et l'idée de délivrance cède peu à peu la place à celles de bien-être et de guérison."
+        }
+      ],
+      "anecdotes": [
+        "Les historiens notent que la salutation au soleil, enchaînement de postures devenu emblématique, n'apparaît vraiment qu'au XVIIIe siècle, et que Patañjali ne détaille aucune posture."
+      ],
+      "wikipedia": "Yoga"
+    },
+    "source": "D'après Wikipédia — Yoga"
+  },
+  {
+    "id": "religions-050",
+    "domain": "religions",
+    "subtheme": "Vocabulaire",
+    "type": "vocabulaire",
+    "title": "Ange",
+    "subtitle": "Messager de Dieu dans les religions abrahamiques et l'Avesta",
+    "summary": "Le mot ange vient du grec ággelos, « messager ». Dans de nombreuses traditions, un ange est un intermédiaire entre Dieu et les humains : il transmet un message divin ou agit selon la volonté de Dieu.\nJudaïsme, christianisme et islam croient aux anges, mais leur rôle et leurs noms varient. Gabriel, Michel et Raphaël sont des figures majeures de plusieurs de ces traditions.",
+    "details": {
+      "definition": "Un ange est un être surnaturel, envoyé de Dieu, qui sert d'intermédiaire avec les hommes ; le mot vient du grec ággelos, « messager ».",
+      "exemple": "Dans la tradition chrétienne, l'ange Gabriel annonce à Marie la naissance de Jésus ; dans la tradition musulmane, Gabriel (Jibrîl) transmet la révélation à Mahomet.",
+      "confusions": [
+        {
+          "mot": "Archange",
+          "explication": "Ange d'un rang supérieur, comme Michel, Gabriel et Raphaël dans la tradition juive et chrétienne."
+        },
+        {
+          "mot": "Démon",
+          "explication": "Selon certains historiens, les démons, anges déchus, apparaissent quand les anges se spécialisent entre agents du Bien et du mal."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Les anges dans les trois religions",
+          "texte": "La Bible hébraïque montre des anges messagers : celui qui arrête Abraham, l'échelle de Jacob. Le Nouveau Testament y ajoute l'Annonciation et les anges de la Résurrection. Le Coran en parle souvent : des messagers dotés d'ailes, et selon la tradition deux anges accompagnant chaque personne pour noter ses actes, bons et mauvais."
+        },
+        {
+          "titre": "Noms, rôles et apparence",
+          "texte": "Les noms contiennent souvent la syllabe El, qui désigne Dieu. Michel protège, Raphaël, le guérisseur, soigne, Gabriel annonce. Pour Maïmonide, les anges sont invisibles : la forme humaine qu'on leur prête s'explique par les limites de l'intelligence du commun des gens. Une influence de la religion perse sur ces figures est aussi évoquée."
+        }
+      ],
+      "anecdotes": [
+        "Selon le philosophe juif Maïmonide, les ailes des anges symbolisent la noblesse du vol, le plus parfait des mouvements animaux, qui permet de se rapprocher ou de s'éloigner presque instantanément."
+      ],
+      "wikipedia": "Ange"
+    },
+    "source": "D'après Wikipédia — Ange"
+  },
+  {
+    "id": "religions-051",
+    "domain": "religions",
+    "subtheme": "Fêtes et pratiques",
+    "type": "classique",
+    "title": "Shabbat",
+    "subtitle": "Jour de repos hebdomadaire du judaïsme, du vendredi soir au samedi soir",
+    "summary": "Le shabbat est le jour de repos du judaïsme. Il commence le vendredi soir, quelques minutes avant le coucher du soleil, et s'achève le samedi soir à l'apparition des étoiles : environ 25 heures, car dans le calendrier juif la journée va d'un coucher de soleil à l'autre.\nSon nom signifie « cessation » : on cesse le travail pour se consacrer à la famille, aux repas et à la prière. Il rappelle la création du monde, selon la Genèse, et la sortie d'Égypte.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Date, nom et signification",
+          "texte": "Le shabbat revient chaque semaine, sans règle de calcul lunaire : c'est le septième jour. Le mot hébreu vient d'un verbe qui signifie « s'arrêter » ; il dit l'abstention plus que le simple repos, un choix volontaire. Selon la tradition, il commémore la création, achevée au septième jour, et la délivrance de l'esclavage en Égypte. C'est aussi un avant-goût de l'époque messianique."
+        },
+        {
+          "titre": "Rites et coutumes",
+          "texte": "Avant l'entrée du shabbat, on allume deux bougies, en général 18 minutes avant le coucher du soleil. Le repas du vendredi soir s'ouvre par le kiddoush, bénédiction sur une coupe de vin, et par deux tresses de pain, les 'hallot. On prend trois repas soignés. Quand la nuit tombe le samedi, la havdalah, avec vin, épices et bougie à deux mèches, sépare le shabbat du reste de la semaine."
+        },
+        {
+          "titre": "Une fiancée, une reine",
+          "texte": "La liturgie compare le shabbat à une fiancée que l'on accueille le vendredi soir, puis à une reine que l'on raccompagne par un dernier repas, le melavé malka. À la synagogue, la lecture de la Torah est divisée en sept sections, plus qu'à toute autre fête, y compris Yom Kippour. Le mot est passé à l'espagnol sábado, à l'italien sabato et, indirectement, au français samedi."
+        }
+      ],
+      "anecdotes": [
+        "Selon un enseignement attribué à Rabbi Shimon bar Yohaï, cité dans le Talmud, l'arrivée du Messie serait liée à un peuple entier qui respecterait parfaitement deux shabbats de suite."
+      ],
+      "wikipedia": "Shabbat"
+    },
+    "source": "D'après Wikipédia — Shabbat"
+  },
+  {
+    "id": "religions-052",
+    "domain": "religions",
+    "subtheme": "Fêtes et pratiques",
+    "type": "classique",
+    "title": "Pessa'h",
+    "subtitle": "Fête juive de la sortie d'Égypte, au printemps",
+    "summary": "Pessa'h, la Pâque juive, célèbre la sortie d'Égypte des Hébreux. Elle commence à la tombée de la nuit du 14 nissan et dure sept jours, huit dans la diaspora selon le judaïsme orthodoxe. Le calendrier juif étant lunaire et ajusté au soleil, elle tombe fin mars ou en avril, selon les années.\nPendant la fête, on mange du pain azyme, la matza, et on élimine tout aliment levé, le hametz. Le premier soir, la famille célèbre le séder, un repas rituel qui raconte l'Exode.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Origine et nom",
+          "texte": "Le nom vient d'un verbe qui signifie « passer au-dessus » : pendant la dernière des plaies d'Égypte, la mort aurait « sauté » les maisons des Hébreux, dont les linteaux étaient marqués du sang d'un agneau. La fête actuelle réunit deux célébrations bibliques : l'offrande pascale, qui ne se pratique plus depuis la destruction du Temple, et la fête des azymes, liée à la moisson de l'orge."
+        },
+        {
+          "titre": "Le hametz et les matzot",
+          "texte": "Est hametz tout ce qui dérive de la fermentation de cinq céréales : blé, orge, seigle, avoine et épeautre. Il est interdit d'en manger ou d'en posséder. On nettoie donc la maison de fond en comble, on cherche les derniers restes à la bougie la veille au soir, puis on les brûle. Beaucoup possèdent une vaisselle réservée à la fête."
+        },
+        {
+          "titre": "Le séder",
+          "texte": "Le soir de la fête, on lit la Haggada, livre qui raconte la sortie d'Égypte. Sur la table figurent matzot, herbes amères et harosset, pâte de fruits et de noix. Chacun boit quatre coupes de vin, assis accoudé, comme un homme libre. L'enfant pose des questions, et la réponse rappelle trois éléments : l'agneau, le pain azyme et les herbes amères."
+        }
+      ],
+      "anecdotes": [
+        "Les rabbins n'ayant pas pu décider s'il fallait boire quatre ou cinq coupes, une coupe supplémentaire est laissée intacte pour le prophète Élie : le jour où il viendra la boire, la question sera tranchée."
+      ],
+      "wikipedia": "Pessa'h"
+    },
+    "source": "D'après Wikipédia — Pessa'h"
+  },
+  {
+    "id": "religions-053",
+    "domain": "religions",
+    "subtheme": "Fêtes et pratiques",
+    "type": "classique",
+    "title": "Yom Kippour",
+    "subtitle": "Jour du Grand Pardon, jour le plus solennel du calendrier juif",
+    "summary": "Yom Kippour, le Jour du Grand Pardon, est le jour le plus saint du judaïsme. Il tombe le dixième jour du mois de tishri, en septembre ou en octobre, neuf jours après Roch Hachana. C'est le point culminant de dix jours de repentir.\nIl se marque par un jeûne complet, sans nourriture ni boisson, un arrêt de tout travail et de longues prières à la synagogue. Selon la tradition, il fait pardonner les fautes commises envers Dieu, mais pas celles commises envers autrui tant qu'on ne s'est pas réconcilié.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Nom, date et signification",
+          "texte": "Le nom hébreu signifie « jour des propitiations », ce qui a donné « Grand Pardon ». La date est fixée dans le calendrier lunaire juif, d'où une place variable dans le calendrier grégorien. Selon la tradition, Dieu inscrit le destin de chacun à Roch Hachana et le scelle à Yom Kippour. La teshouva, le « retour » à Dieu, repose sur le regret, la résolution de ne pas recommencer et l'aveu."
+        },
+        {
+          "titre": "Rites et privations",
+          "texte": "Les sages tirent de la Torah cinq privations : nourriture, boisson, bain, cosmétiques et sandales de cuir. Le jeûne commence environ une demi-heure avant le coucher du soleil et s'achève après le coucher du soleil suivant. Il est interdit à qui pourrait en souffrir, par exemple les malades. Les séfarades parlent d'un « jeûne blanc » et s'habillent de blanc, symbole de pureté."
+        },
+        {
+          "titre": "Du Temple à la synagogue",
+          "texte": "À l'époque du Temple de Jérusalem, le grand prêtre entrait ce jour-là, et ce jour-là seulement, dans le Saint des saints. Deux boucs étaient tirés au sort : l'un offert en sacrifice, l'autre chargé des fautes du peuple et envoyé au loin, d'où l'expression « bouc émissaire ». Sans Temple, la prière en cinq offices a pris le relais."
+        }
+      ],
+      "anecdotes": [
+        "Le philosophe Philon d'Alexandrie expliquait à son public grec que ce jour était suivi par tous, même par les gens qui, le reste de l'année, ne pratiquaient aucun rite."
+      ],
+      "wikipedia": "Yom Kippour"
+    },
+    "source": "D'après Wikipédia — Yom Kippour"
+  },
+  {
+    "id": "religions-054",
+    "domain": "religions",
+    "subtheme": "Fêtes et pratiques",
+    "type": "classique",
+    "title": "Hanoucca",
+    "subtitle": "Fête juive des lumières, en novembre ou décembre",
+    "summary": "Hanoucca, la « fête de l'inauguration », commémore la réinauguration de l'autel du Temple de Jérusalem en 164 avant notre ère, après la révolte des Maccabées contre le roi séleucide Antiochos IV. Elle dure huit jours à partir du 25 kislev, en novembre ou décembre.\nChaque soir, on allume une lumière de plus sur un chandelier à neuf branches. La tradition rabbinique y associe le miracle de la fiole d'huile, qui aurait brûlé huit jours au lieu d'un.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Date, nom et histoire",
+          "texte": "La fête commence le 25 kislev, date du calendrier lunaire juif, et se termine le 2 ou le 3 tevet : c'est la seule à chevaucher deux mois. Son nom signifie inauguration ou dédicace. Les Livres des Maccabées racontent la révolte contre Antiochos IV, qui avait fermé le Temple, et la purification de l'autel. Flavius Josèphe l'appelle « fête des Lumières », pour la liberté qui avait lui de façon inespérée."
+        },
+        {
+          "titre": "Rites : lumières et miracle",
+          "texte": "Selon la tradition, les Maccabées ne trouvèrent dans le Temple qu'une petite fiole d'huile, scellée par le grand prêtre, à peine suffisante pour une journée : elle dura huit jours, le temps d'en préparer de la nouvelle. Pour faire connaître le miracle, on allume des lumières à la tombée de la nuit, près de la porte ou de la fenêtre, et on récite le Hallel."
+        },
+        {
+          "titre": "Coutumes",
+          "texte": "Deux écoles anciennes se disputaient l'ordre d'allumage : Shammaï voulait huit lumières le premier soir puis une de moins, Hillel une de plus chaque soir ; la loi juive suit Hillel. Le chandelier a neuf branches : huit lumières et le shamash, la « servante » qui allume les autres. On mange des aliments frits à l'huile, latkes ou soufganiyot, et on joue avec une toupie à quatre faces."
+        }
+      ],
+      "anecdotes": [
+        "Le miracle de la fiole d'huile ne figure pas dans les Livres des Maccabées : il est rapporté par le Talmud, mis par écrit environ 600 ans après les événements."
+      ],
+      "wikipedia": "Hanoucca"
+    },
+    "source": "D'après Wikipédia — Hanoucca"
+  },
+  {
+    "id": "religions-055",
+    "domain": "religions",
+    "subtheme": "Fêtes et pratiques",
+    "type": "classique",
+    "title": "Divali",
+    "subtitle": "Fête hindoue des lumières, en octobre ou novembre",
+    "summary": "Divali, ou Diwali, vient de dipavali, « rangée de lampes ». Cette grande fête du monde indien dure cinq jours, à la fin de l'automne, autour d'une nouvelle lune. Elle commémore notamment le retour du roi Rama à Ayodhya, dont les habitants avaient éclairé le chemin de lampes.\nOn allume des lampes, on décore les maisons, on s'offre des sucreries et on tire des feux d'artifice. Le troisième jour, le plus important, est consacré à la déesse Lakshmi, associée à la prospérité.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Date, nom et signification",
+          "texte": "La date suit des calendriers hindous luni-solaires : la fête tombe entre la seconde moitié d'octobre et la première moitié de novembre, à la nouvelle lune. Elle célèbre la victoire de la lumière sur les ténèbres et du bien sur le mal. Elle prolonge Dussehra, qui fête la victoire de Rama sur le démon Ravana, vingt jours plus tôt. On honore aussi Ganesh, qui lève les obstacles."
+        },
+        {
+          "titre": "Cinq jours de fête",
+          "texte": "Le premier jour, Dhanteras, évoque Yama, seigneur de la Mort, et le médecin des dieux Dhanvantari. Le deuxième est le « petit Divali ». Le troisième est le grand jour de la puja de Lakshmi, et le quatrième marque, dans le nord de l'Inde, le début de la nouvelle année. Le cinquième, Bhai Duj, est dédié à l'amour entre frères et sœurs."
+        },
+        {
+          "titre": "Lampes, rangoli et partage",
+          "texte": "On pose des lampes diya remplies d'huile ou de ghi, le beurre clarifié. Devant les maisons, on dessine au sol des rangoli, avec de la farine de riz et des poudres colorées, pour accueillir Lakshmi, qui visiterait les foyers. On met des vêtements neufs, on échange des friandises et des cadeaux. Sikhs et jaïns fêtent aussi cette période avec leurs propres références."
+        }
+      ],
+      "anecdotes": [
+        "Le voyageur vénitien Niccolò de' Conti, venu en Inde au début du XVe siècle, raconte que les habitants fixaient à l'extérieur des toits et dans les temples d'innombrables lampes à huile, qui brûlaient jour et nuit."
+      ],
+      "wikipedia": "Divali"
+    },
+    "source": "D'après Wikipédia — Divali"
+  },
+  {
+    "id": "religions-056",
+    "domain": "religions",
+    "subtheme": "Fêtes et pratiques",
+    "type": "classique",
+    "title": "Holi",
+    "subtitle": "Fête hindoue des couleurs, au printemps",
+    "summary": "Holi, la fête des couleurs, accueille le printemps dans le nord de l'Inde et au Népal. Elle a lieu à la pleine lune du mois de phalguna, en février ou mars, selon un calendrier lunaire : sa date change donc d'une année à l'autre.\nLa première nuit, on allume un feu. Le lendemain, on se jette des poudres et de l'eau colorées en riant. C'est aussi un jour pour se réconcilier et oublier les rancunes.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le nom et la légende du feu",
+          "texte": "Holi viendrait de Holika, la démone du récit. Selon la tradition, le roi des démons voulait que tous l'adorent, mais son fils Prahlada restait fidèle à Vishnou. Holika l'emmena sur un bûcher en se croyant protégée du feu ; c'est elle qui brûla, et Prahlada fut sauvé. Le feu de la première nuit rappelle cette victoire du bien sur le mal."
+        },
+        {
+          "titre": "Les couleurs et les coutumes",
+          "texte": "Le second jour, vêtus de blanc, on se lance des pigments : le vert évoque l'harmonie, l'orange l'optimisme, le bleu la vitalité, le rouge la joie et l'amour. Si l'on se fâche, on répond par la formule consacrée : « Ne soyez pas fâché, c'est Holi ! » On partage des plats préparés pour l'occasion. Les sikhs célèbrent le lendemain Hola Mohalla."
+        },
+        {
+          "titre": "Krishna et Radha",
+          "texte": "Dans la région de Mathura, la ville natale de Krishna, la fête est particulièrement vivante. Selon la tradition, elle rappelle l'amour de Krishna et de Radha. On dit aussi que la fête rassemble toutes les castes : c'est le jour où chacun se mêle aux autres, et où les rancunes de l'année s'effacent."
+        }
+      ],
+      "anecdotes": [
+        "Selon la légende, le jeune Krishna craignait que sa peau sombre déplaise à Radha ; sa mère lui conseilla de lui demander de lui colorer le visage de la couleur qu'elle voudrait. Depuis, les visages colorés de Radha et de Krishna sont rappelés à Holi."
+      ],
+      "wikipedia": "Holi"
+    },
+    "source": "D'après Wikipédia — Holi"
+  },
+  {
+    "id": "religions-057",
+    "domain": "religions",
+    "subtheme": "Fêtes et pratiques",
+    "type": "classique",
+    "title": "Noël",
+    "subtitle": "Fête chrétienne de la naissance de Jésus, le 25 décembre",
+    "summary": "Noël est la fête chrétienne qui célèbre la naissance de Jésus, selon les Évangiles à Bethléem. Elle a lieu le 25 décembre, peu après le solstice d'hiver. Après Pâques, c'est la deuxième fête du calendrier liturgique chrétien.\nLe mot vient du latin natalis dies, « jour de la naissance ». Autour de la fête religieuse se sont greffées au fil des siècles des coutumes familiales : crèche, sapin, cadeaux et repas festif.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Origines religieuses et date",
+          "texte": "Les Évangiles de Luc et de Matthieu racontent la naissance de Jésus à Bethléem, avec les bergers ou les mages. La date du 25 décembre apparaît à Rome au IVe siècle, dans le Chronographe de 354. L'empereur Aurélien avait fixé en 274 ce jour pour la fête du Soleil invaincu. Les chrétiens y célèbrent le Christ, présenté comme la lumière du monde. Une partie des Églises orientales suit le calendrier julien, ce qui décale la fête au 7 janvier."
+        },
+        {
+          "titre": "Histoire des coutumes",
+          "texte": "La crèche se répand au XIIIe siècle grâce à saint François d'Assise. Le sapin, venu du monde germanique et nordique, rappelle que la nature reste vivante en hiver ; on le met à l'honneur dès le XVIe siècle. Le père Noël, figure centrée sur les enfants et les cadeaux, se mondialise au XXe siècle. Dans de nombreux pays, la fête est devenue aussi familiale que religieuse : repas, cadeaux, rues illuminées."
+        },
+        {
+          "titre": "Les noms de la fête",
+          "texte": "Noël vient du latin natalis dies, « jour de la naissance ». L'anglais Christmas signifie « messe du Christ ». L'allemand Weihnachten vient de l'expression « nuits sacrées », héritée des fêtes d'hiver germaniques, et les langues scandinaves emploient jul, de la même origine que l'anglais yule. L'histoire des mots reflète celle de la fête, mêlant christianisme et traditions de l'hiver."
+        }
+      ],
+      "anecdotes": [
+        "Charlemagne fut couronné empereur le jour de Noël de l'an 800, ce qui a contribué à augmenter peu à peu l'importance de cette fête."
+      ],
+      "wikipedia": "Noël"
+    },
+    "source": "D'après Wikipédia — Noël"
+  },
+  {
+    "id": "religions-058",
+    "domain": "religions",
+    "subtheme": "Fêtes et pratiques",
+    "type": "classique",
+    "title": "Pâques",
+    "subtitle": "Fête chrétienne de la Résurrection de Jésus, fête mobile",
+    "summary": "Pâques est la fête la plus importante du christianisme : elle célèbre la résurrection de Jésus, trois jours après sa mort, selon le Nouveau Testament. Elle est attestée depuis le IIe siècle et prolonge la Pâque juive, Pessa'h, à laquelle la Passion est liée par les Évangiles.\nC'est une fête mobile : le concile de Nicée l'a fixée au dimanche qui suit la première pleine lune après le 21 mars.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Date et nom",
+          "texte": "Faute de date fixe, Pâques se calcule à partir de la lune et du printemps. Les Églises occidentales utilisent le calendrier grégorien, les orthodoxes le julien : l'écart peut atteindre cinq semaines. Le mot vient du latin pascha, issu de l'hébreu pesaḥ, « passage ». Chez les chrétiens, le Christ devient l'Agneau pascal, qui libère du mal et du péché. Les mots anglais et allemand, Easter et Ostern, viennent peut-être d'une déesse du printemps citée par Bède le Vénérable."
+        },
+        {
+          "titre": "Rites",
+          "texte": "La Semaine sainte précède la fête, et le Carême la prépare. La veillée pascale a lieu la nuit avant le dimanche, avec l'allumage du feu nouveau et du cierge pascal ; on y célèbre souvent des baptêmes. Chez les orthodoxes, on se salue pendant toute la semaine suivante par « Christ est ressuscité ! » et « En vérité, il est ressuscité ! »."
+        },
+        {
+          "titre": "Coutumes",
+          "texte": "Dans le christianisme occidental, l'œuf décoré, symbole du tombeau vide, le lys de Pâques et la chasse aux œufs sont associés à la fête. En Belgique, en France et en Italie, on dit que les cloches se taisent à partir du Jeudi saint. L'expression « faire ses Pâques » désigne le fait de communier à cette occasion, souvent la seule messe de l'année pour certains fidèles."
+        }
+      ],
+      "anecdotes": [
+        "Dès l'an 50 environ, l'apôtre Paul, écrivant aux chrétiens de Corinthe depuis Éphèse, appliquait déjà le mot « Pâque » au Christ, comparé à l'agneau pascal."
+      ],
+      "wikipedia": "Pâques"
+    },
+    "source": "D'après Wikipédia — Pâques"
+  },
+  {
+    "id": "religions-059",
+    "domain": "religions",
+    "subtheme": "Fêtes et pratiques",
+    "type": "classique",
+    "title": "La Kumbh Mela",
+    "subtitle": "Grand pèlerinage hindou de l'Inde, qui revient en quatre villes saintes",
+    "summary": "La Kumbh Mela, la « fête de la cruche », est un grand pèlerinage hindou qui se tient tour à tour dans quatre villes saintes de l'Inde : Prayagraj, Haridwar, Ujjain et Nashik. Les fidèles s'y plongent dans le fleuve, convaincus que l'eau les purifie de leurs péchés.\nSelon la légende, des gouttes de nectar d'immortalité seraient tombées à ces quatre endroits. Les dates suivent un cycle d'environ douze ans, lié à la position de Jupiter.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le mythe du nectar",
+          "texte": "La tradition hindoue raconte que les dieux et les démons ont baratté la mer de lait pour en tirer le nectar d'immortalité, contenu dans une cruche, la kumbha. Les démons s'en emparent et les dieux les poursuivent pendant douze jours divins, soit douze années humaines. Des gouttes tombent alors à Prayag, Haridwar, Ujjain et Nashik : ces villes deviennent sacrées."
+        },
+        {
+          "titre": "Le bain et les cortèges",
+          "texte": "Le moment fort est l'immersion dans le fleuve, à l'instant jugé le plus favorable par l'astrologie. Les ascètes, les sadhu, défilent en grands cortèges, les Naga Baba ouvrant la marche, puis se baignent les premiers ; les pèlerins ordinaires entrent ensuite dans l'eau. On vient aussi recevoir la bénédiction des saints hommes et contempler leur présence, le darshan."
+        }
+      ],
+      "anecdotes": [
+        "On présente souvent la Kumbh Mela comme une tradition immémoriale, mais des historiens notent qu'aucun texte ancien ne mentionne ce festival : le premier Kumbh Mela de Prayag a été organisé en 1870, sous supervision britannique. En 2019, l'ordre Kinnar Akhara, qui représente la communauté hijra, a obtenu le droit d'y participer officiellement."
+      ],
+      "wikipedia": "Kumbh Mela"
+    },
+    "source": "D'après Wikipédia — Kumbh Mela"
+  },
+  {
+    "id": "religions-060",
+    "domain": "religions",
+    "subtheme": "Fêtes et pratiques",
+    "type": "classique",
+    "title": "Le Carême",
+    "subtitle": "Temps chrétien de préparation à Pâques, long de quarante jours",
+    "summary": "Le Carême est la période de préparation à Pâques, la grande fête chrétienne. Il dure quarante jours, en référence aux quarante jours passés par Jésus dans le désert selon les évangiles.\nC'est, pour les fidèles, une période de prière, de partage et de sobriété, traditionnellement marquée par le jeûne et la réduction des aliments d'origine animale. Il apparaît au IVe siècle.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Pourquoi quarante jours ?",
+          "texte": "Le mot vient du latin quadragesima, « quarantième ». Le chiffre rappelle le long jeûne de Moïse avant de recevoir le Décalogue, et les quarante jours de Jésus dans le désert, où il est tenté par Satan, d'après les évangiles de Matthieu, Marc et Luc. Les premiers chrétiens jeûnaient déjà avant Pâques : le Carême prend sa forme au IVe siècle."
+        },
+        {
+          "titre": "Des pratiques selon les Églises",
+          "texte": "Chez les catholiques, le Carême commence le mercredi des Cendres. Jeûne et abstinence de viande le vendredi y sont demandés, avec l'aumône et la prière. Les Églises byzantines vivent un Grand Carême, qui débute le Lundi pur. Les Églises réformées n'imposent aucune pénitence : elles insistent sur la prédication et la méditation."
+        }
+      ],
+      "anecdotes": [
+        "Le Carême porte dans chaque langue la trace de son histoire : en allemand, c'est le « temps du jeûne » ; en anglais, Lent vient d'un mot signifiant « printemps » ; en maltais, on dit Randan, un mot resté inchangé depuis l'occupation arabe de Malte."
+      ],
+      "wikipedia": "Carême"
+    },
+    "source": "D'après Wikipédia — Carême"
+  },
+  {
+    "id": "religions-061",
+    "domain": "religions",
+    "subtheme": "Fêtes et pratiques",
+    "type": "classique",
+    "title": "La prière",
+    "subtitle": "S'adresser à Dieu ou au divin : une pratique présente dans la plupart des religions",
+    "summary": "La prière est une démarche, codifiée ou libre, personnelle ou collective, pour s'adresser au divin ou à un intermédiaire. On distingue la demande, la confession et la gratitude ; elle peut aussi être silencieuse et méditative.\nPresque toutes les grandes religions la pratiquent, mais sous des formes très différentes : rituelle et rythmée par l'horloge, chantée, spontanée, ou accompagnée de gestes précis.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des rythmes et des textes variés",
+          "texte": "Dans le judaïsme orthodoxe, on prie trois fois par jour : Sha'harit, Min'ha et Maariv, que la tradition rattache à Abraham, Isaac et Jacob. En islam, la salât est le deuxième pilier : cinq prières quotidiennes, tourné vers la Kaaba. Les chrétiens récitent le Notre Père, enseigné par Jésus. Dans le bouddhisme tibétain, la prière accompagne la méditation."
+        },
+        {
+          "titre": "Gestes et postures",
+          "texte": "Les corps prient aussi : mains jointes, prosternation, balancements, signe de croix, regard tourné vers une direction sacrée, bougie ou encens. Les musulmans, avant la salât, doivent être en état de pureté par les ablutions. Les Hindous chantent des mantras, certains soufis tournoient. Chaque tradition donne un sens précis à ces gestes."
+        }
+      ],
+      "anecdotes": [
+        "Prier à genoux, mains jointes, est un geste relativement récent : dans l'Antiquité, on priait debout, les bras levés. Les Grecs jugeaient l'agenouillement indigne d'un homme libre. La posture à genoux apparaît au haut Moyen Âge, peut-être empruntée au geste d'hommage féodal."
+      ],
+      "wikipedia": "Prière"
+    },
+    "source": "D'après Wikipédia — Prière"
+  },
+  {
+    "id": "religions-062",
+    "domain": "religions",
+    "subtheme": "Fêtes et pratiques",
+    "type": "classique",
+    "title": "Le jeûne religieux",
+    "subtitle": "Se priver de nourriture par foi, du Carême au Yom Kippour",
+    "summary": "Le jeûne est la privation volontaire de nourriture, parfois aussi de boisson. Beaucoup de religions en font une pratique partielle ou temporaire : le Carême chez les chrétiens, le ramadan chez les musulmans, le Yom Kippour chez les juifs.\nChaque tradition a ses règles, sa durée et ses raisons. Le jeûne y est lié à la prière, au repentir et au détachement des besoins matériels.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des jeûnes pour chaque tradition",
+          "texte": "Dans le judaïsme, le Yom Kippour et Tisha B'Av sont des jeûnes de vingt-cinq heures, sans nourriture ni boisson, du coucher du soleil jusqu'à la nuit suivante. D'autres jeûnes, comme celui d'Esther, vont de l'aube à la nuit. Chez les catholiques, le jeûne est demandé le mercredi des Cendres et le Vendredi saint, avec l'abstinence de viande tous les vendredis du Carême."
+        },
+        {
+          "titre": "Ce que le corps traverse",
+          "texte": "On considère que le jeûne commence environ six heures après le dernier repas. L'organisme puise d'abord dans le glycogène, puis dans ses graisses, qui sont sa principale réserve d'énergie. Un jeûne bref et bien encadré est généralement sans danger pour une personne en bonne santé, mais un jeûne trop long ou mal contrôlé peut être dangereux : un avis médical est prudent."
+        }
+      ],
+      "wikipedia": "Jeûne"
+    },
+    "source": "D'après Wikipédia — Jeûne"
+  },
+  {
+    "id": "religions-063",
+    "domain": "religions",
+    "subtheme": "Symboles et lieux",
+    "type": "classique",
+    "title": "La croix",
+    "subtitle": "Symbole de deux lignes qui se croisent, emblème du christianisme",
+    "summary": "La croix est l'un des plus simples signes du monde : deux lignes qui se croisent. On la retrouve dès la préhistoire, bien avant le christianisme, qui en a fait son emblème.\nLe mot vient du latin crux, qui désignait un gibet. Chez les chrétiens, elle rappelle la crucifixion de Jésus ; elle existe en de nombreuses variantes : latine, grecque, orthodoxe, celtique, de Lorraine, de Malte.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un signe bien plus ancien que le christianisme",
+          "texte": "Des croix gravées apparaissent dans des grottes européennes dès le Paléolithique supérieur. En Égypte, la croix ansée, l'ânkh, est le hiéroglyphe de la « vie » : les dieux la tendent aux défunts. Le X des chiffres romains, le taw des Phéniciens ou le signe + de l'addition, en usage depuis la fin du XVe siècle, sont aussi des croix."
+        },
+        {
+          "titre": "Devenir le signe des chrétiens",
+          "texte": "Dès le IIe siècle, la croix, sous la forme d'un T, remplace peu à peu le poisson (ichthys) comme emblème chrétien. Vers 204, Tertullien rapporte que les chrétiens ont déjà l'habitude de tracer le signe de croix sur leur front. La croix grecque et la croix latine se répandent ensuite dans l'art, et la croix patriarcale apparaît au Xe siècle."
+        }
+      ],
+      "anecdotes": [
+        "Le Pays basque a son propre symbole en croix, le lauburu, formé de quatre virgules. On le trouve sur les maisons et les stèles funéraires, mais personne ne sait avec certitude pourquoi les Basques l'ont adopté : certains y voient le soleil, d'autres les quatre saisons."
+      ],
+      "wikipedia": "Croix"
+    },
+    "source": "D'après Wikipédia — Croix"
+  },
+  {
+    "id": "religions-064",
+    "domain": "religions",
+    "subtheme": "Symboles et lieux",
+    "type": "classique",
+    "title": "L'étoile de David",
+    "subtitle": "Hexagramme devenu le symbole du judaïsme",
+    "summary": "L'étoile de David, en hébreu maguen David, le « bouclier de David », est un hexagramme : deux triangles équilatéraux superposés. Elle orne aujourd'hui les synagogues et le drapeau d'Israël.\nMais ce motif a une longue histoire : il était d'abord décoratif, utilisé par bien d'autres cultures, avant de s'imposer très progressivement comme emblème des communautés juives.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un motif ancien, d'abord décoratif",
+          "texte": "Le plus ancien exemplaire connu se trouve sur un sceau du VIIe siècle avant notre ère, découvert à Sidon. On le voit aussi sur des synagogues de Galilée, dont celle de Capharnaüm, ou sur la page de garde du Codex de Leningrad, une Bible hébraïque datée de 1008. L'étoile à six branches apparaît aussi dans des églises médiévales et dans d'autres cultures."
+        },
+        {
+          "titre": "Devenir un emblème",
+          "texte": "Au XIe siècle, l'expression « bouclier de David » apparaît dans un livre de prières. En 1354, le roi de Bohême Charles IV approuve pour les Juifs de Prague un drapeau rouge à l'hexagramme. Le symbole se répand en Europe de l'Est, puis le Congrès sioniste de 1897 le choisit pour un drapeau. Il figure sur le drapeau d'Israël depuis 1948."
+        }
+      ],
+      "anecdotes": [
+        "L'origine exacte de sa forme reste débattue : le rabbin Moshe Feinstein écrivait que l'on n'en connaît pas l'origine. Le spécialiste Uri Ophir propose un lien avec la fleur de lys qui ornait chaque branche de la menorah du Temple de Jérusalem, dont les six pétales dessinent une étoile."
+      ],
+      "wikipedia": "Étoile de David"
+    },
+    "source": "D'après Wikipédia — Étoile de David"
+  },
+  {
+    "id": "religions-065",
+    "domain": "religions",
+    "subtheme": "Symboles et lieux",
+    "type": "classique",
+    "title": "Le mandala",
+    "subtitle": "Diagramme sacré de l'hindouisme et du bouddhisme, support de méditation",
+    "summary": "Le mot sanskrit mandala signifie « cercle ». Dans l'hindouisme, le bouddhisme et le jaïnisme, c'est un diagramme rempli de symboles, souvent organisé autour d'un centre, qui sert à évoquer des divinités ou à méditer.\nIl peut être peint, sculpté ou dessiné en sable coloré. Pour les pratiquants, le méditant se projette en esprit à l'intérieur de cette image du monde.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un espace rituel",
+          "texte": "À l'origine, le mandala est une aire rituelle destinée à invoquer une divinité hindoue ; le bouddhisme a hérité de cette pratique. En Inde, on en connaît de nombreuses variantes : le rangoli, dessiné en poudre de riz ou de fleurs, le kolam du Tamil Nadu, ou le mandana peint sur les murs et le sol du Rajasthan. Dans le jaïnisme, la roue à huit pétales siddhachakra lui ressemble."
+        },
+        {
+          "titre": "Le mandala de sable tibétain",
+          "texte": "Dans le bouddhisme tibétain, des moines dessinent pendant des jours un mandala de sable coloré, tandis que d'autres méditent et prient dans la salle. L'œuvre est ensuite détruite, le sable rassemblé et offert, souvent versé dans une eau courante. Ce geste rappelle que tout est éphémère, un enseignement central du bouddhisme."
+        }
+      ],
+      "anecdotes": [
+        "Dans le bouddhisme Shingon, au Japon, un nouvel élève a les yeux bandés et jette une fleur sur un mandala. L'endroit où elle tombe aide à déterminer la divinité protectrice qu'il suivra. Le fondateur de cette école, Kūkai, avait rapporté deux mandalas de Chine."
+      ],
+      "wikipedia": "Mandala"
+    },
+    "source": "D'après Wikipédia — Mandala"
+  },
+  {
+    "id": "religions-066",
+    "domain": "religions",
+    "subtheme": "Symboles et lieux",
+    "type": "classique",
+    "title": "Om",
+    "subtitle": "Syllabe sacrée de l'hindouisme, présente dans plusieurs religions de l'Inde",
+    "summary": "Om, aussi écrit Aum, est une syllabe sanskrite sacrée, l'un des symboles les plus saints de l'hindouisme. On la retrouve aussi dans le bouddhisme, le jaïnisme et le sikhisme.\nD'après la tradition hindoue, elle représente le son originel à partir duquel l'Univers s'est manifesté. On la prononce en début de mantra et en méditation ; son signe écrit est ॐ.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Trois sons et un silence",
+          "texte": "Le mot se compose de trois sons : A, U et M. Dans l'interprétation hindoue, A évoque le commencement et Brahmā, U la continuation et Vishnu, M la fin et Shiva. On y associe aussi la veille, le rêve et le sommeil. Le quatrième temps est le silence. Cette syllabe est décrite dans plusieurs upanishads, dont la Chāndogya Upaniṣad."
+        },
+        {
+          "titre": "Un son partagé entre religions",
+          "texte": "Dans l'hindouisme, Om précède et parfois termine les mantras. Le bouddhisme l'a surtout développé au Tibet : on le trouve dans le mantra Om mani padme hum. Le jaïnisme y voit un mantra de libération et de louange aux maîtres éveillés. Chez les sikhs, il devient Oankar, mot qu'a utilisé Guru Nanak."
+        }
+      ],
+      "anecdotes": [
+        "L'origine du mot est discutée : l'indologue Asko Parpola propose qu'il vienne d'un mot dravidien signifiant « oui, qu'il en soit ainsi ». Dans le tamoul parlé à Jaffna, au Sri Lanka, aum veut d'ailleurs encore dire « oui »."
+      ],
+      "wikipedia": "Om̐"
+    },
+    "source": "D'après Wikipédia — Om̐"
+  },
+  {
+    "id": "religions-067",
+    "domain": "religions",
+    "subtheme": "Symboles et lieux",
+    "type": "classique",
+    "title": "Harmandir Sahib, le Temple d'or",
+    "subtitle": "Lieu le plus sacré du sikhisme, à Amritsar (Pendjab, Inde)",
+    "summary": "Le Harmandir Sahib, « l'Illustre Temple de Dieu », est l'édifice le plus sacré des sikhs. Surnommé le Temple d'or pour sa couverture dorée, il se dresse au milieu d'un bassin, au cœur d'Amritsar, dans le nord-ouest de l'Inde.\nIl est ouvert à tous, de toute origine ou croyance. Le Guru Granth Sahib, livre sacré des sikhs, y repose, et des hymnes y sont chantés en permanence.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une histoire en plusieurs étapes",
+          "texte": "Le bassin, l'Amrit Sarovar, est achevé en 1577 par le gourou Ram Das. Son successeur Arjan lance la construction du temple, terminé en briques en 1589. En 1604, il y place le livre sacré. Détruit à plusieurs reprises puis reconstruit, l'édifice est refait en marbre et en cuivre par le maharaja Ranjît Singh en 1809, puis recouvert d'or en 1830."
+        },
+        {
+          "titre": "Une architecture qui parle d'humilité",
+          "texte": "Le temple est placé plus bas que la ville, pour rappeler qu'il faut s'effacer avant d'entrer. Il s'élève au centre d'un bassin carré de 150 mètres de côté, avec quatre entrées symbolisant l'ouverture à tous. Un pont de marbre de 60 mètres, le « Pont du Gurû », y mène : on y entre déchaussé et la tête couverte. Marbre, nacre et pierres semi-précieuses ornent ce pavillon à trois étages."
+        }
+      ],
+      "anecdotes": [
+        "Un seul pont relie le sanctuaire à la terre ferme : selon une lecture rapportée par Arvind-Pal Singh Mandair, ce choix souligne que le but final est unique. Le bassin est resté vide et sec pendant la construction, puis rempli d'eau après l'inauguration."
+      ],
+      "wikipedia": "Harmandir Sahib"
+    },
+    "source": "D'après Wikipédia — Harmandir Sahib"
   }
 ]

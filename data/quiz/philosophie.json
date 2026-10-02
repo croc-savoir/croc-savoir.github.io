@@ -482,5 +482,257 @@
     "bonneReponse": 1,
     "explication": "L'ataraxie, du grec « absence de trouble », est la tranquillité de l'âme. C'est le but de la vie pour les épicuriens, qui y parviennent en limitant leurs désirs, et pour les stoïciens, qui acceptent ce qui ne dépend pas d'eux. Pour les sceptiques, elle vient de la suspension du jugement.",
     "source": "D'après Wikipédia — Ataraxie"
+  },
+  {
+    "id": "q-philosophie-031",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Que désignait à l'origine le mot latin libertas, d'où vient « liberté » ?",
+    "choix": [
+      "L'état de l'homme libre, c'est-à-dire non esclave",
+      "Le droit de voter dans la cité",
+      "Le pouvoir de faire tout ce que l'on veut",
+      "L'absence de lois dans la nature"
+    ],
+    "bonneReponse": 0,
+    "explication": "Libertas dérive de liber, « homme libre ». Le sens premier est très concret : être libre, c'est ne pas avoir le statut d'esclave. Les philosophes en ont ensuite fait un concept beaucoup plus large, étudié depuis les Grecs.",
+    "source": "D'après Wikipédia — Liberté"
+  },
+  {
+    "id": "q-philosophie-032",
+    "domain": "philosophie",
+    "format": "vrai-faux",
+    "affirmation": "Pour Platon, la justice dans la cité n'a aucun rapport avec l'ordre intérieur de l'âme.",
+    "reponse": false,
+    "explication": "Platon établit au contraire un parallèle : la justice est harmonie, dans l'âme comme dans la cité. La raison doit guider le courage et les désirs, comme un cocher conduit ses deux chevaux. Pas de cité juste sans hommes justes.",
+    "source": "D'après Wikipédia — Justice"
+  },
+  {
+    "id": "q-philosophie-033",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quel peuple place traditionnellement le passé devant soi et le futur derrière soi ?",
+    "choix": [
+      "Les Aymaras",
+      "Les Grecs anciens",
+      "Les Mayas",
+      "Les Japonais"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chez les Aymaras, le passé est connu et visible, donc devant le locuteur, tandis que le futur, invisible, est derrière. C'est l'inverse de la plupart des cultures, où l'on a « l'avenir devant soi ».",
+    "source": "D'après Wikipédia — Temps"
+  },
+  {
+    "id": "q-philosophie-034",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Pour Kant, comment peut-on décrire la satisfaction que procure le beau ?",
+    "choix": [
+      "Une satisfaction désintéressée",
+      "Un plaisir purement personnel",
+      "Une preuve de richesse",
+      "Un simple calcul de proportions"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1790, Kant écrit que le jugement de goût ne dépend d'aucun intérêt pour l'existence de l'objet. Il prétend pourtant à l'universalité, sans que celle-ci puisse être démontrée.",
+    "source": "D'après Wikipédia — Beau"
+  },
+  {
+    "id": "q-philosophie-035",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Que montre la différence entre « cocorico » et « cock-a-doodle-do » pour désigner le chant du coq ?",
+    "choix": [
+      "Que le lien entre un mot et ce qu'il désigne est arbitraire",
+      "Que les animaux parlent plusieurs langues",
+      "Que l'anglais est plus précis que le français",
+      "Que les onomatopées imitent parfaitement le son"
+    ],
+    "bonneReponse": 0,
+    "explication": "Saussure répond à ceux qui voient dans les onomatopées une preuve de lien naturel : si le son imité était le même, les langues l'écriraient pareil. Elles varient, donc le signe est arbitraire, fixé par convention.",
+    "source": "D'après Wikipédia — Langage"
+  },
+  {
+    "id": "q-philosophie-036",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quel philosophe prend l'exemple de deux billes qui se heurtent pour contester que la causalité soit prouvée par la raison ?",
+    "choix": [
+      "David Hume",
+      "René Descartes",
+      "Emmanuel Kant",
+      "Aristote"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour Hume, on observe qu'une bille en touche une autre, puis que la seconde bouge : une succession, jamais la cause elle-même. La causalité relèverait de l'habitude, qui nous fait anticiper l'avenir, non d'une preuve.",
+    "source": "D'après Wikipédia — Raison"
+  },
+  {
+    "id": "q-philosophie-037",
+    "domain": "philosophie",
+    "format": "vrai-faux",
+    "affirmation": "Dans les pays de common law, un tribunal doit être convaincu de la culpabilité « au-delà de tout doute raisonnable ».",
+    "reponse": true,
+    "explication": "C'est la règle de la preuve dans le droit anglo-saxon. Dans les pays de droit romain comme la France, le juge statue selon son intime conviction, et l'acquittement « au bénéfice du doute » (in dubio pro reo) protège l'accusé.",
+    "source": "D'après Wikipédia — Doute"
+  },
+  {
+    "id": "q-philosophie-038",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Sur quelles bases Aristote distingue-t-il trois formes d'amitié ?",
+    "choix": [
+      "L'utilité, le plaisir et la vertu",
+      "La richesse, le rang et l'âge",
+      "La famille, la cité et la religion",
+      "Le hasard, le temps et le destin"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans l'Éthique à Nicomaque, les amitiés d'utilité et de plaisir durent tant que dure l'avantage ou l'agrément. La plus accomplie repose sur la vertu : chacun reconnaît et aime le bien chez l'autre.",
+    "source": "D'après Wikipédia — Amitié"
+  },
+  {
+    "id": "q-philosophie-039",
+    "domain": "philosophie",
+    "format": "frise",
+    "question": "Remets ces œuvres utopiques dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "L'Utopie de Thomas More",
+        "annee": "1516"
+      },
+      {
+        "label": "L'abbaye de Thélème chez Rabelais",
+        "annee": "1534"
+      },
+      {
+        "label": "La Cité du Soleil de Campanella",
+        "annee": "1623"
+      },
+      {
+        "label": "La Nouvelle Atlantide de Bacon",
+        "annee": "1627"
+      },
+      {
+        "label": "Les Voyages de Gulliver de Swift",
+        "annee": "1721"
+      }
+    ],
+    "explication": "Thomas More forge le mot en 1516. Rabelais imagine Thélème dans Gargantua, Campanella et Bacon décrivent des cités idéales, et Swift, avec Gulliver, pousse le genre vers la satire, au point qu'on parle d'utopie à son sujet.",
+    "source": "D'après Wikipédia — Utopie"
+  },
+  {
+    "id": "q-philosophie-040",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Que désigne l'ataraxie, but des sceptiques de l'Antiquité ?",
+    "choix": [
+      "La tranquillité de l'âme",
+      "L'absence totale de pensée",
+      "La victoire sur ses adversaires",
+      "La certitude absolue"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le sceptique oppose à chaque raison une raison contraire, suspend son jugement (épochè), et obtient ainsi la sérénité. Ne plus tenir pour vrai ou faux ce qui est incertain évite le trouble des opinions.",
+    "source": "D'après Wikipédia — Scepticisme (philosophie)"
+  },
+  {
+    "id": "q-philosophie-041",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quel est le mot d'ordre de la phénoménologie de Husserl ?",
+    "choix": [
+      "Revenir aux choses mêmes",
+      "Douter de tout",
+      "Penser le plus grand bien",
+      "Rendre à chacun son dû"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Zu den Sachen selbst » : décrire ce qui se donne à la conscience, sans théorie préalable. Pour cela, Husserl propose de mettre entre parenthèses ce que l'on croit savoir du monde, sans le nier.",
+    "source": "D'après Wikipédia — Phénoménologie (philosophie)"
+  },
+  {
+    "id": "q-philosophie-042",
+    "domain": "philosophie",
+    "format": "associer",
+    "question": "Associe chaque penseur structuraliste à son domaine.",
+    "paires": [
+      {
+        "gauche": "Ferdinand de Saussure",
+        "droite": "Linguistique",
+        "explication": "Il distingue la langue et la parole, et pense le signe comme système."
+      },
+      {
+        "gauche": "Claude Lévi-Strauss",
+        "droite": "Anthropologie",
+        "explication": "Il étudie les systèmes de parenté dans Les Structures élémentaires de la parenté (1949)."
+      },
+      {
+        "gauche": "Roland Barthes",
+        "droite": "Analyse littéraire",
+        "explication": "Il applique la sémiologie à la littérature et aux signes de la vie courante."
+      },
+      {
+        "gauche": "Jacques Lacan",
+        "droite": "Psychanalyse",
+        "explication": "Il mêle Freud et Saussure pour penser l'inconscient."
+      }
+    ],
+    "explication": "Le structuralisme étudie les relations au sein d'un système plutôt que les éléments isolés. Né de la linguistique de Saussure, il s'est étendu aux sciences humaines après la guerre, surtout en France.",
+    "source": "D'après Wikipédia — Structuralisme"
+  },
+  {
+    "id": "q-philosophie-043",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Que propose la « maxime pragmatique » de Peirce, énoncée en 1878 ?",
+    "choix": [
+      "Juger une idée par ses effets pratiques concevables",
+      "Ne croire que ce qui est écrit dans les livres",
+      "Douter de tout jusqu'à preuve du contraire",
+      "Chercher d'abord les causes premières"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans « Comment rendre nos idées claires », Peirce affirme que la conception de tous les effets pratiques d'un objet est la conception complète de cet objet. Si deux théories n'ont aucune différence pratique, la querelle est vaine.",
+    "source": "D'après Wikipédia — Pragmatisme"
+  },
+  {
+    "id": "q-philosophie-044",
+    "domain": "philosophie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né en 1798 et mort en 1857.",
+      "J'ai rédigé un Cours de philosophie positive entre 1830 et 1842.",
+      "J'ai été le secrétaire de Saint-Simon.",
+      "J'ai énoncé la loi des trois états : théologique, métaphysique, positif.",
+      "J'ai inventé le mot « altruisme »."
+    ],
+    "reponse": "Auguste Comte",
+    "explication": "Auguste Comte fonde le positivisme : l'esprit humain abandonne le « pourquoi » pour le « comment » et s'en tient aux lois des phénomènes. Il invente aussi le mot altruisme en 1830 et popularise la sociologie.",
+    "source": "D'après Wikipédia — Auguste Comte"
+  },
+  {
+    "id": "q-philosophie-045",
+    "domain": "philosophie",
+    "format": "vrai-faux",
+    "affirmation": "Le mot « humanisme » a été forgé par Cicéron au Ier siècle avant notre ère.",
+    "reponse": false,
+    "explication": "Cicéron a forgé humanitas, qui désigne la culture et l'éducation. Le mot humanisme est bien plus tardif : il apparaît en 1765 avec le sens d'« amour de l'humanité », avant d'être généralisé en 1808 par Niethammer.",
+    "source": "D'après Wikipédia — Humanisme"
+  },
+  {
+    "id": "q-philosophie-046",
+    "domain": "philosophie",
+    "format": "difference",
+    "question": "Selon Nietzsche, quelle est la différence entre nihilisme passif et nihilisme actif ?",
+    "choix": [
+      "Le passif juge que la vie n'a aucun sens ; l'actif abandonne les valeurs périmées pour en créer de nouvelles",
+      "Le passif est religieux ; l'actif est politique",
+      "Le passif nie le monde ; l'actif nie seulement Dieu",
+      "Le passif vient de Platon ; l'actif de Descartes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nihilisme passif, celui des faibles, juge que l'existence est vaine. Le nihilisme actif voit les croyances s'effondrer et invente des valeurs nouvelles : c'est une étape vers le dépassement du nihilisme.",
+    "source": "D'après Wikipédia — Nihilisme"
   }
 ]

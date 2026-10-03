@@ -497,5 +497,516 @@
     "bonneReponse": 2,
     "explication": "Aux JO de Munich en 1972, le nageur américain Mark Spitz remporte 7 médailles d'or, un record qui tient 36 ans. À Pékin en 2008, Michael Phelps en gagne 8, dont une septième avec un centième d'avance au 100 m papillon. Il bat aussi 7 records du monde durant ces Jeux.",
     "source": "D'après Wikipédia — Michael Phelps"
+  },
+  {
+    "id": "q-sport-032",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Comment s'appelait d'abord le volley-ball, à sa création en 1895 ?",
+    "choix": [
+      "Mintonette",
+      "Volleyette",
+      "Netball",
+      "Baskettenis"
+    ],
+    "bonneReponse": 0,
+    "explication": "William G. Morgan, directeur d'éducation physique à Holyoke, l'a nommé mintonette parce qu'il s'inspirait du badminton. Le nom volley-ball est apparu en 1896, quand un spectateur a remarqué le côté « volée » du jeu.",
+    "source": "D'après Wikipédia — Volley-ball"
+  },
+  {
+    "id": "q-sport-033",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Qui le Congrès américain a-t-il officiellement crédité de l'invention du baseball en 1953 ?",
+    "choix": [
+      "Alexander Cartwright",
+      "Abner Doubleday",
+      "Jackie Robinson",
+      "Babe Ruth"
+    ],
+    "bonneReponse": 0,
+    "explication": "Alexander Cartwright a codifié les règles des Knickerbockers en 1845. La légende d'Abner Doubleday, née au début du XXe siècle, avait été démentie par des connaisseurs du jeu dès 1909.",
+    "source": "D'après Wikipédia — Baseball"
+  },
+  {
+    "id": "q-sport-034",
+    "domain": "sport",
+    "format": "vrai-faux",
+    "affirmation": "Le judo est devenu sport olympique aux Jeux de Tokyo en 1964.",
+    "reponse": true,
+    "explication": "Le Japon, pays organisateur, a poussé pour son entrée au programme. Les judokas japonais ont gagné trois des quatre titres, mais le Néerlandais Anton Geesink a remporté la catégorie ouverte, devant le public japonais.",
+    "source": "D'après Wikipédia — Judo"
+  },
+  {
+    "id": "q-sport-035",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Que signifie le mot « judo » en japonais ?",
+    "choix": [
+      "La voie de la souplesse",
+      "La voie du sabre",
+      "L'art du combat",
+      "La voie de la force"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jū signifie souplesse et dō signifie voie. Jigorō Kanō a créé le judo en 1882 en retirant les gestes dangereux du ju-jitsu, afin d'en faire une école de maîtrise de soi, de corps comme d'esprit.",
+    "source": "D'après Wikipédia — Judo"
+  },
+  {
+    "id": "q-sport-036",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "En quelle année s'est joué le premier Open britannique de golf ?",
+    "choix": [
+      "1860",
+      "1754",
+      "1896",
+      "1930"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'Open s'est joué pour la première fois le 17 octobre 1860 à Prestwick, en Écosse. C'est le plus ancien tournoi de golf du monde, et les trois autres grands tournois masculins se jouent aux États-Unis.",
+    "source": "D'après Wikipédia — Golf"
+  },
+  {
+    "id": "q-sport-037",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Dans quelle langue l'arbitrage des compétitions internationales d'escrime est-il obligatoire ?",
+    "choix": [
+      "Le français",
+      "L'anglais",
+      "L'italien",
+      "Le hongrois"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les ordres « En garde ! », « Prêts ? », « Allez ! » et « Halte ! » se disent en français dans toutes les compétitions internationales, même si chaque pays utilise sa langue pour ses épreuves nationales.",
+    "source": "D'après Wikipédia — Escrime"
+  },
+  {
+    "id": "q-sport-038",
+    "domain": "sport",
+    "format": "vrai-faux",
+    "affirmation": "À Athènes en 1896, la régate d'aviron s'est déroulée comme prévu.",
+    "reponse": false,
+    "explication": "Faux. L'aviron figurait au programme des premiers Jeux modernes, mais la course prévue le 1er avril a été repoussée, puis annulée à cause d'une tempête. Les rameurs n'ont concouru aux JO qu'en 1900.",
+    "source": "D'après Wikipédia — Aviron (sport)"
+  },
+  {
+    "id": "q-sport-039",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Combien de runs rapporte au cricket une balle frappée qui sort du terrain sans toucher le sol ?",
+    "choix": [
+      "Six",
+      "Quatre",
+      "Dix",
+      "Un"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une balle qui franchit la limite du terrain sans rebond rapporte six runs ; avec un rebond avant la sortie, elle n'en rapporte que quatre. Sinon, chaque échange de place entre les deux batteurs vaut un run.",
+    "source": "D'après Wikipédia — Cricket"
+  },
+  {
+    "id": "q-sport-040",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Qui a créé le rallye Paris-Dakar, devenu le Dakar ?",
+    "choix": [
+      "Thierry Sabine",
+      "Cyril Neveu",
+      "Jacky Ickx",
+      "Jean-Louis Schlesser"
+    ],
+    "bonneReponse": 0,
+    "explication": "Thierry Sabine s'était perdu dans le désert pendant le Rallye Côte-Côte en 1977. Il a imaginé une épreuve partant de Paris vers Dakar, dont le premier départ a eu lieu place du Trocadéro le 26 décembre 1978.",
+    "source": "D'après Wikipédia — Rallye Dakar"
+  },
+  {
+    "id": "q-sport-041",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Combien de points faut-il pour gagner une partie de pétanque ?",
+    "choix": [
+      "13",
+      "11",
+      "15",
+      "21"
+    ],
+    "bonneReponse": 0,
+    "explication": "La première équipe à atteindre 13 points gagne. À la fin de chaque mène, l'équipe dont la boule est la plus proche du cochonnet marque un point par boule mieux placée que celles de l'adversaire.",
+    "source": "D'après Wikipédia — Pétanque"
+  },
+  {
+    "id": "q-sport-042",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Combien de joueurs une équipe de handball aligne-t-elle sur le terrain, gardien compris ?",
+    "choix": [
+      "Sept",
+      "Cinq",
+      "Six",
+      "Onze"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le handball moderne se joue à sept : six joueurs de champ et un gardien. Le jeu à onze, en plein air, a été l'ancêtre de cette version ; le dernier championnat du monde à onze a eu lieu en 1966.",
+    "source": "D'après Wikipédia — Handball"
+  },
+  {
+    "id": "q-sport-043",
+    "domain": "sport",
+    "format": "vrai-faux",
+    "affirmation": "L'escalade sportive a fait ses débuts aux Jeux olympiques de Tokyo 2020.",
+    "reponse": true,
+    "explication": "Vrai. L'escalade est entrée au programme olympique d'été à Tokyo, avec trois types d'épreuves de compétition : la difficulté, le bloc et la vitesse. Le sport est né en France au début des années 1980.",
+    "source": "D'après Wikipédia — Escalade sportive"
+  },
+  {
+    "id": "q-sport-044",
+    "domain": "sport",
+    "format": "associer",
+    "question": "Associe chaque sport à son berceau.",
+    "paires": [
+      {
+        "gauche": "Golf",
+        "droite": "Écosse",
+        "explication": "Le golf moderne est né en Écosse, après un ancêtre néerlandais appelé colf."
+      },
+      {
+        "gauche": "Hockey sur glace",
+        "droite": "Canada",
+        "explication": "Le premier match en salle a eu lieu à Montréal le 3 mars 1875."
+      },
+      {
+        "gauche": "Pétanque",
+        "droite": "France",
+        "explication": "Elle est née à La Ciotat, en Provence, au début du XXe siècle."
+      },
+      {
+        "gauche": "Volley-ball",
+        "droite": "États-Unis",
+        "explication": "William G. Morgan l'a inventé en 1895 à Holyoke, dans le Massachusetts."
+      },
+      {
+        "gauche": "Cricket",
+        "droite": "Angleterre",
+        "explication": "Il est né dans le sud-est de l'Angleterre, d'abord comme jeu d'enfants."
+      }
+    ],
+    "explication": "Ces cinq sports sont nés dans des pays différents, puis se sont répandus par les marins, les colons, les associations sportives ou les familles. Le hockey et le cricket sont deux sports de crosse et de batte très éloignés.",
+    "source": "D'après Wikipédia — Hockey sur glace"
+  },
+  {
+    "id": "q-sport-045",
+    "domain": "sport",
+    "format": "qui-suis-je",
+    "indices": [
+      "On me pratique debout, sur une planche, au bord de l'océan.",
+      "Des explorateurs européens m'ont observé à Tahiti en 1767.",
+      "Duke Kahanamoku, double champion olympique de natation, m'a fait connaître dans le monde.",
+      "Tom Blake a ajouté un aileron à mes planches vers 1935.",
+      "Les premiers champions olympiques de ma discipline ont été couronnés à Tokyo."
+    ],
+    "reponse": "Le surf",
+    "explication": "Le surf vient de la culture polynésienne, notamment hawaïenne. Popularisé au XXe siècle par Duke Kahanamoku, il est devenu un sport olympique avec les Jeux de Tokyo 2020.",
+    "source": "D'après Wikipédia — Surf"
+  },
+  {
+    "id": "q-sport-046",
+    "domain": "sport",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire du baseball dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Les règles des Knickerbockers sont codifiées",
+        "annee": "1845"
+      },
+      {
+        "label": "Premier club professionnel, les Cincinnati Red Stockings",
+        "annee": "1869"
+      },
+      {
+        "label": "Création de la Ligue nationale",
+        "annee": "1876"
+      },
+      {
+        "label": "Première édition des Séries mondiales",
+        "annee": "1903"
+      },
+      {
+        "label": "Jackie Robinson débute en ligue majeure",
+        "annee": "1947"
+      }
+    ],
+    "explication": "Règles de 1845, premier club professionnel en 1869, Ligue nationale en 1876, Séries mondiales en 1903, puis Jackie Robinson en 1947 : le baseball s'est structuré en un siècle aux États-Unis.",
+    "source": "D'après Wikipédia — Baseball"
+  },
+  {
+    "id": "q-sport-047",
+    "domain": "sport",
+    "format": "difference",
+    "question": "Quelle est la différence entre l'aviron en pointe et l'aviron en couple ?",
+    "choix": [
+      "En pointe, chaque rameur tient un seul aviron ; en couple, il en tient deux",
+      "En pointe, on rame debout ; en couple, on rame assis",
+      "En pointe, le bateau a un barreur ; en couple, il n'en a jamais",
+      "En pointe, on rame en mer ; en couple, sur un lac"
+    ],
+    "bonneReponse": 0,
+    "explication": "En pointe, un rameur tient un seul aviron à deux mains. En couple, il en tient un dans chaque main, ce que signale la lettre x dans le nom du bateau. Les bateaux de couple sont généralement sans barreur.",
+    "source": "D'après Wikipédia — Aviron (sport)"
+  },
+  {
+    "id": "q-sport-048",
+    "domain": "sport",
+    "format": "difference",
+    "question": "Quelle est la différence entre le stroke play et le match play au golf ?",
+    "choix": [
+      "Au stroke play, on cumule les coups ; au match play, on gagne des trous",
+      "Au stroke play, on joue en équipe ; au match play, seul",
+      "Au stroke play, on joue 9 trous ; au match play, 18",
+      "Au stroke play, on frappe sans club ; au match play, avec"
+    ],
+    "bonneReponse": 0,
+    "explication": "En stroke play, le plus petit nombre total de coups l'emporte, et c'est la formule la plus courante au haut niveau. En match play, on joue trou par trou contre un adversaire, et on gagne le plus de trous.",
+    "source": "D'après Wikipédia — Golf"
+  },
+  {
+    "id": "q-sport-049",
+    "domain": "sport",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Paris en 1863 et je suis mort à Genève en 1937.",
+      "Fasciné par les écoles anglaises, j'ai voulu faire entrer le sport dans l'éducation française.",
+      "J'ai arbitré la première finale du championnat de France de rugby, en 1892.",
+      "J'ai imaginé le drapeau olympique et présidé le CIO de 1896 à 1925.",
+      "Je suis le père des Jeux olympiques modernes."
+    ],
+    "reponse": "Pierre de Coubertin",
+    "explication": "Pierre de Coubertin a relancé les Jeux en 1894 et présidé le CIO de 1896 à 1925. Il a aussi dessiné le trophée du championnat de France de rugby et imaginé le drapeau olympique, présenté en 1914.",
+    "source": "D'après Wikipédia — Pierre de Coubertin"
+  },
+  {
+    "id": "q-sport-050",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "En quelle année le congrès réuni à la Sorbonne proclame-t-il le rétablissement des Jeux olympiques ?",
+    "choix": [
+      "1894",
+      "1892",
+      "1896",
+      "1900"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 23 juin 1894, à la clôture du congrès organisé par Coubertin à la Sorbonne, le retour des Jeux est proclamé, avec une édition tous les quatre ans. Les premiers Jeux modernes ont lieu deux ans plus tard, à Athènes.",
+    "source": "D'après Wikipédia — Pierre de Coubertin"
+  },
+  {
+    "id": "q-sport-051",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Quel trophée de rugby Pierre de Coubertin a-t-il dessiné et offert en 1892 ?",
+    "choix": [
+      "Le bouclier de Brennus",
+      "La Coupe Jules-Rimet",
+      "Le Challenge Yves-du-Manoir",
+      "La Calcutta Cup"
+    ],
+    "bonneReponse": 0,
+    "explication": "Coubertin arbitre la finale du premier championnat de France de rugby, le 20 mars 1892, et offre le trophée qu'il a lui-même dessiné. Il porte le nom de Charles Brennus, le graveur qui l'a réalisé.",
+    "source": "D'après Wikipédia — Pierre de Coubertin"
+  },
+  {
+    "id": "q-sport-052",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Quelle équipe l'Allemagne de l'Ouest bat-elle en finale de la Coupe du monde 1954, lors du « Miracle de Berne » ?",
+    "choix": [
+      "La Hongrie",
+      "Le Brésil",
+      "L'Uruguay",
+      "L'Autriche"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 4 juillet 1954, l'Allemagne de l'Ouest s'impose 3-2 face à la Hongrie, invaincue depuis 31 matchs. Les Hongrois menaient 2-0 après dix minutes, mais Helmut Rahn marque le but de la victoire vers la fin.",
+    "source": "D'après Wikipédia — Finale de la Coupe du monde de football 1954"
+  },
+  {
+    "id": "q-sport-053",
+    "domain": "sport",
+    "format": "vrai-faux",
+    "affirmation": "Avant la finale de 1954, la Hongrie avait déjà battu l'Allemagne de l'Ouest 8-3 au premier tour.",
+    "reponse": true,
+    "explication": "Le 20 juin 1954, la Hongrie écrase les Allemands 8-3. Le sélectionneur Sepp Herberger avait volontairement ménagé ses meilleurs joueurs, ce qui a caché la vraie force de son équipe avant la finale.",
+    "source": "D'après Wikipédia — Finale de la Coupe du monde de football 1954"
+  },
+  {
+    "id": "q-sport-054",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Quel défenseur marque ses deux seuls buts en équipe de France lors de la demi-finale de la Coupe du monde 1998 ?",
+    "choix": [
+      "Lilian Thuram",
+      "Marcel Desailly",
+      "Laurent Blanc",
+      "Bixente Lizarazu"
+    ],
+    "bonneReponse": 0,
+    "explication": "Face à la Croatie, Lilian Thuram inscrit les deux buts de la victoire des Bleus (2-1). C'est le seul match de sa longue carrière internationale où il marque, ce qui rend l'exploit encore plus étonnant.",
+    "source": "D'après Wikipédia — Coupe du monde de football 1998"
+  },
+  {
+    "id": "q-sport-055",
+    "domain": "sport",
+    "format": "frise",
+    "question": "Remets ces moments de l'histoire du hat-trick dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Le joueur de cricket Stephenson reçoit un chapeau, origine du terme",
+        "annee": "1858"
+      },
+      {
+        "label": "Premier triplé en match international de football, par l'Écossais John McDougall",
+        "annee": "1878"
+      },
+      {
+        "label": "Geoff Hurst réussit un triplé en finale de Coupe du monde",
+        "annee": "1966"
+      },
+      {
+        "label": "Michel Platini réussit un coup du chapeau parfait à l'Euro",
+        "annee": "1984"
+      }
+    ],
+    "explication": "Le mot naît au cricket en 1858. Un Écossais réussit le premier triplé international en 1878, Hurst popularise le terme en finale du Mondial 1966, et Platini signe un hat-trick parfait à l'Euro 1984.",
+    "source": "D'après Wikipédia — Coup du chapeau"
+  },
+  {
+    "id": "q-sport-056",
+    "domain": "sport",
+    "format": "vrai-faux",
+    "affirmation": "Roger Federer a remporté la finale de Wimbledon 2008 contre Rafael Nadal.",
+    "reponse": false,
+    "explication": "C'est Nadal qui gagne, en 4 h 48, la plus longue finale de l'histoire du tournoi, alors que la nuit tombe. Federer avait remporté celles de 2006 et de 2007, et voyait sa série de 65 victoires sur gazon s'arrêter.",
+    "source": "D'après Wikipédia — Rivalité Federer-Nadal"
+  },
+  {
+    "id": "q-sport-057",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Aux Jeux olympiques de quelle ville Dick Fosbury a-t-il fait connaître sa technique de saut en hauteur, en 1968 ?",
+    "choix": [
+      "Mexico",
+      "Tokyo",
+      "Munich",
+      "Rome"
+    ],
+    "bonneReponse": 0,
+    "explication": "Fosbury remporte l'or à Mexico en 1968 en franchissant la barre dos tourné. Son style, d'abord jugé étrange, est devenu la seule technique utilisée en compétition, grâce aux épais matelas de réception.",
+    "source": "D'après Wikipédia — Fosbury-flop"
+  },
+  {
+    "id": "q-sport-058",
+    "domain": "sport",
+    "format": "associer",
+    "question": "Associe chaque terme sportif à son sport.",
+    "paires": [
+      {
+        "gauche": "Essai",
+        "droite": "Rugby",
+        "explication": "L'essai s'obtient en posant le ballon derrière la ligne de but adverse."
+      },
+      {
+        "gauche": "Dunk",
+        "droite": "Basket-ball",
+        "explication": "Le joueur enfonce le ballon dans le cercle d'une main ou des deux."
+      },
+      {
+        "gauche": "Slalom",
+        "droite": "Ski alpin",
+        "explication": "Le skieur passe entre des portes formées de piquets rouges et bleus."
+      },
+      {
+        "gauche": "Tie-break",
+        "droite": "Tennis",
+        "explication": "Le jeu décisif départage les joueurs à 6 jeux partout."
+      }
+    ],
+    "explication": "Ces quatre mots du vocabulaire sportif viennent chacun d'un sport précis : l'essai du rugby, le dunk du basket, le slalom du ski alpin et le tie-break du tennis, où il départage deux joueurs à égalité.",
+    "source": "D'après Wikipédia — Jeu décisif"
+  },
+  {
+    "id": "q-sport-059",
+    "domain": "sport",
+    "format": "difference",
+    "question": "Quelle est la différence entre un hat-trick et un hat-trick « parfait » au football ?",
+    "choix": [
+      "Le parfait compte un but du pied gauche, un du pied droit et un de la tête",
+      "Le parfait compte quatre buts au lieu de trois",
+      "Le parfait doit être marqué en moins de dix minutes",
+      "Le parfait n'est valable que sur penalty"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un hat-trick, ce sont trois buts dans un même match. Il est dit parfait quand ils sont marqués de trois façons : pied gauche, pied droit et tête. Michel Platini en a signé un à l'Euro 1984, contre la Yougoslavie.",
+    "source": "D'après Wikipédia — Coup du chapeau"
+  },
+  {
+    "id": "q-sport-060",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Qui a inventé le penalty, en 1890 ?",
+    "choix": [
+      "Un gardien de but irlandais, William McCrum",
+      "Un arbitre écossais",
+      "Un attaquant anglais",
+      "Un entraîneur gallois"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le penalty kick est l'idée de William McCrum, gardien de but du club irlandais de Milford, en 1890. Le gardien, lui, ne peut bouger latéralement que depuis 1997 et faire un pas avant le tir que depuis 2019.",
+    "source": "D'après Wikipédia — Penalty (football)"
+  },
+  {
+    "id": "q-sport-061",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Dans quelle pièce de Shakespeare l'expression « fair play » serait-elle apparue, en 1598 ?",
+    "choix": [
+      "Le Roi Jean",
+      "Hamlet",
+      "Macbeth",
+      "Othello"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'expression est réputée avoir été forgée par Shakespeare dans Le Roi Jean. Elle existait toutefois dès le XIVe siècle, où elle évoquait la courtoisie des chevaliers, bien avant de désigner l'esprit sportif.",
+    "source": "D'après Wikipédia — Fair-play"
+  },
+  {
+    "id": "q-sport-062",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Quelle fédération ferme les terrains de ses clubs aux femmes le 5 décembre 1921 ?",
+    "choix": [
+      "La fédération anglaise de football",
+      "La fédération française",
+      "La fédération allemande",
+      "La fédération brésilienne"
+    ],
+    "bonneReponse": 0,
+    "explication": "Alors que certains matchs féminins attirent des dizaines de milliers de spectateurs, la fédération anglaise interdit aux clubs d'accueillir des femmes. Cette interdiction dure jusqu'au début des années 1970.",
+    "source": "D'après Wikipédia — Football féminin"
+  },
+  {
+    "id": "q-sport-063",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Pendant quelle période le dunk a-t-il été interdit dans le basket-ball universitaire et lycéen américain ?",
+    "choix": [
+      "De 1967 à 1976",
+      "De 1936 à 1945",
+      "De 1950 à 1956",
+      "De 1980 à 1984"
+    ],
+    "bonneReponse": 0,
+    "explication": "La règle est décidée en 1967, officiellement pour la sécurité des joueurs. Beaucoup y voient un moyen de freiner Lew Alcindor, devenu ensuite Kareem Abdul-Jabbar. Le dunk ne revient qu'en 1976.",
+    "source": "D'après Wikipédia — Slam dunk"
   }
 ]

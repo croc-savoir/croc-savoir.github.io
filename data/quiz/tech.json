@@ -500,5 +500,505 @@
     "bonneReponse": 0,
     "explication": "En 1752, Benjamin Franklin fait voler par temps d'orage un cerf-volant muni d'une clé métallique au bout du fil : des étincelles jaillissent de la clé, prouvant que la foudre est de l'électricité. L'expérience était très dangereuse. Il invente ensuite le paratonnerre, une tige de métal qui conduit la foudre vers le sol.",
     "source": "D'après Wikipédia — Benjamin Franklin"
+  },
+  {
+    "id": "q-tech-032",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel signe Ray Tomlinson a-t-il proposé en 1971 pour séparer le nom d'un utilisateur de celui de sa machine ?",
+    "choix": [
+      "Le @",
+      "Le #",
+      "Le &",
+      "Le %"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1971, sur ARPANET, Ray Tomlinson adopte le @ dans ses programmes de messagerie SNDMSG et READMAIL. Sa propre adresse, tomlinson@bbn-tenexa, est considérée comme la première adresse électronique de l'histoire.",
+    "source": "D'après Wikipédia — Courrier électronique"
+  },
+  {
+    "id": "q-tech-033",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Que fait le robot d'exploration (crawler) d'un moteur de recherche ?",
+    "choix": [
+      "Il suit les liens de page en page pour récupérer les pages à indexer",
+      "Il rédige à la main un résumé de chaque page du Web",
+      "Il bloque l'accès aux sites jugés dangereux",
+      "Il traduit chaque page dans toutes les langues"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le robot, aussi appelé crawler, saute de lien en lien et ramène les pages trouvées. Elles sont ensuite indexées, comme les entrées d'un index en fin de livre, pour être retrouvées rapidement quand quelqu'un fait une recherche.",
+    "source": "D'après Wikipédia — Moteur de recherche"
+  },
+  {
+    "id": "q-tech-034",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Wikipédia est née en 2001 comme projet complémentaire de Nupedia, une encyclopédie dont les articles passaient par un comité d'experts.",
+    "reponse": true,
+    "explication": "Nupedia, lancée en 2000, progressait très lentement à cause de son comité scientifique. Wikipédia, ouverte à tous grâce au wiki, démarre le 15 janvier 2001. Nupedia ferme en 2003 et son contenu est repris par Wikipédia.",
+    "source": "D'après Wikipédia — Wikipédia"
+  },
+  {
+    "id": "q-tech-035",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "D'où vient le mot « wiki » dans Wikipédia ?",
+    "choix": [
+      "D'un mot hawaïen, wikiwiki, qui signifie « rapide »",
+      "D'un sigle anglais signifiant « Web Information Knowledge Index »",
+      "Du nom de l'un de ses fondateurs",
+      "D'un mot japonais qui signifie « savoir »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nom Wikipédia fusionne « wiki », du hawaïen wikiwiki (« rapide »), et un élément tiré du grec paideia, « instruction ». Le choix de « rapide » rappelle qu'on peut créer et corriger les articles instantanément.",
+    "source": "D'après Wikipédia — Wikipédia"
+  },
+  {
+    "id": "q-tech-036",
+    "domain": "tech",
+    "format": "difference",
+    "question": "Quelle est la différence entre HTML et CSS ?",
+    "choix": [
+      "HTML décrit le contenu et la structure d'une page, CSS règle son apparence",
+      "HTML règle les couleurs d'une page, CSS décrit son contenu",
+      "HTML est un navigateur, CSS est un serveur",
+      "HTML sert à envoyer du courrier, CSS à chiffrer les pages"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le HTML indique ce qu'est chaque morceau de texte : titre, paragraphe, liste, lien. Les feuilles de style CSS gèrent ensuite marges, couleurs et alignements. JavaScript, de son côté, ajoute le comportement de la page.",
+    "source": "D'après Wikipédia — Hypertext Markup Language"
+  },
+  {
+    "id": "q-tech-037",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Mosaic, sorti en 1993, a été le tout premier navigateur web de l'histoire.",
+    "reponse": false,
+    "explication": "Le premier navigateur, WorldWideWeb, a été écrit par Tim Berners-Lee en 1990. Mosaic, en 1993, est le premier à afficher les images dans les pages mêmes, puis à gérer les formulaires, ce qui a accéléré l'essor du Web.",
+    "source": "D'après Wikipédia — Navigateur web"
+  },
+  {
+    "id": "q-tech-038",
+    "domain": "tech",
+    "format": "associer",
+    "question": "Associe chaque protocole à son rôle.",
+    "paires": [
+      {
+        "gauche": "SMTP",
+        "droite": "L'envoi du courrier électronique",
+        "explication": "SMTP achemine les messages d'un serveur de courrier à l'autre."
+      },
+      {
+        "gauche": "HTTP",
+        "droite": "Les pages du Web",
+        "explication": "HTTP, ou HTTPS en version sécurisée, sert à demander et recevoir des pages web."
+      },
+      {
+        "gauche": "DNS",
+        "droite": "Le lien entre noms de sites et adresses IP",
+        "explication": "DNS traduit un nom facile à retenir en adresse numérique."
+      },
+      {
+        "gauche": "FTP",
+        "droite": "Le transfert de fichiers",
+        "explication": "FTP sert à envoyer ou récupérer des fichiers sur un serveur."
+      }
+    ],
+    "explication": "Ces protocoles se situent en haut de la pile TCP/IP, dans la couche application, et s'appuient sur TCP ou UDP. Chacun est associé à un numéro de port, comme une porte d'entrée pour le service.",
+    "source": "D'après Wikipédia — Suite des protocoles Internet"
+  },
+  {
+    "id": "q-tech-039",
+    "domain": "tech",
+    "format": "difference",
+    "question": "Quelle est la différence entre TCP et UDP ?",
+    "choix": [
+      "TCP garantit l'arrivée des données dans l'ordre, UDP ne vérifie rien",
+      "TCP sert aux images, UDP uniquement au texte",
+      "TCP est réservé au courrier, UDP au Web",
+      "TCP est plus ancien qu'Internet, UDP lui est postérieur"
+    ],
+    "bonneReponse": 0,
+    "explication": "TCP redemande les paquets perdus, supprime les doublons et remet tout en ordre. UDP envoie sans contrôle, ce qui le rend plus rapide : il sert à la diffusion audio et vidéo ou aux questions simples comme les requêtes DNS.",
+    "source": "D'après Wikipédia — Suite des protocoles Internet"
+  },
+  {
+    "id": "q-tech-040",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Comment appelle-t-on le chiffrement où une clé publique sert à chiffrer et une clé privée à déchiffrer ?",
+    "choix": [
+      "Le chiffrement asymétrique",
+      "Le chiffrement symétrique",
+      "Le chiffrement de César",
+      "Le chiffrement polyalphabétique"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans un système asymétrique, la clé publique peut être diffusée librement : n'importe qui peut chiffrer, mais seul le détenteur de la clé privée déchiffre. Jusqu'aux années 1970, on ne connaissait que des systèmes à clé unique.",
+    "source": "D'après Wikipédia — Cryptographie"
+  },
+  {
+    "id": "q-tech-041",
+    "domain": "tech",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom vient de la lutte contre les incendies.",
+      "Je compare chaque paquet de données à une liste de règles.",
+      "Je sépare des zones de confiance, comme Internet et un réseau interne.",
+      "On m'a vu nommé dans le film WarGames, en 1983.",
+      "Je suis un portier pour les communications d'un réseau."
+    ],
+    "reponse": "Le pare-feu",
+    "explication": "Un pare-feu, ou firewall, filtre les communications selon des règles fixées d'avance. Le mot vient des murs qui arrêtent les incendies, et l'image est celle d'un mur virtuel entre une zone sûre et une zone moins sûre.",
+    "source": "D'après Wikipédia — Pare-feu (informatique)"
+  },
+  {
+    "id": "q-tech-042",
+    "domain": "tech",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire des réseaux de neurones dans l'ordre.",
+    "evenements": [
+      {
+        "label": "McCulloch et Pitts décrivent le neurone formel",
+        "annee": "1943"
+      },
+      {
+        "label": "Frank Rosenblatt propose le perceptron",
+        "annee": "1958"
+      },
+      {
+        "label": "Minsky et Papert publient « Perceptrons »",
+        "annee": "1969"
+      },
+      {
+        "label": "John Hopfield publie son modèle de réseau",
+        "annee": "1982"
+      },
+      {
+        "label": "Le perceptron multicouche est popularisé",
+        "annee": "1986"
+      }
+    ],
+    "explication": "Le domaine avance par à-coups : enthousiasme après le perceptron de 1958, creux après la critique de 1969, puis relance avec Hopfield en 1982 et la rétropropagation popularisée en 1986, qui permet d'entraîner plusieurs couches.",
+    "source": "D'après Wikipédia — Réseau de neurones artificiels"
+  },
+  {
+    "id": "q-tech-043",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Qui a employé pour la première fois l'expression « machine learning » en 1959 ?",
+    "choix": [
+      "Arthur Samuel",
+      "Alan Turing",
+      "Frank Rosenblatt",
+      "Warren McCulloch"
+    ],
+    "bonneReponse": 0,
+    "explication": "Arthur Samuel, informaticien américain travaillant pour IBM, crée en 1952 un programme de dames qui s'améliorait en jouant. Il baptise « machine learning » (apprentissage automatique) ce principe d'apprentissage par l'expérience.",
+    "source": "D'après Wikipédia — Apprentissage automatique"
+  },
+  {
+    "id": "q-tech-044",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "L'expression « réalité virtuelle » a été employée dès 1938 par le dramaturge français Antonin Artaud, à propos du théâtre.",
+    "reponse": true,
+    "explication": "Dans Le Théâtre et son double, Artaud parle de « réalité virtuelle » pour décrire l'illusion produite par les personnages et les objets de la scène. Jaron Lanier popularisera l'expression en informatique dans les années 1980.",
+    "source": "D'après Wikipédia — Réalité virtuelle"
+  },
+  {
+    "id": "q-tech-045",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Que désigne la règle des « 3 V » du big data ?",
+    "choix": [
+      "Volume, vélocité, variété",
+      "Vérité, valeur, visualisation",
+      "Vitesse, vidéo, virtualisation",
+      "Version, validité, vente"
+    ],
+    "bonneReponse": 0,
+    "explication": "Formulée en 2001 par le META Group, la règle décrit des données nombreuses, produites vite et de formes très diverses. On y ajoute parfois la véracité, la valeur et la visualisation, d'où l'idée de « V » supplémentaires.",
+    "source": "D'après Wikipédia — Big data"
+  },
+  {
+    "id": "q-tech-046",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel appareil, relié aux réseaux en 1982 à l'université Carnegie Mellon, est vu comme un ancêtre de l'Internet des objets ?",
+    "choix": [
+      "Un distributeur de boissons",
+      "Une cafetière",
+      "Une imprimante",
+      "Un thermostat"
+    ],
+    "bonneReponse": 0,
+    "explication": "Des étudiants ont équipé de capteurs le distributeur de Coca-Cola de leur département, pour consulter sa température et son stock à distance. Il est resté connu comme le premier appareil relié à ARPANET.",
+    "source": "D'après Wikipédia — Internet des objets"
+  },
+  {
+    "id": "q-tech-047",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Qu'est-ce qu'un cookie « tiers » ?",
+    "choix": [
+      "Un cookie déposé par un domaine différent du site affiché",
+      "Un cookie qui expire au bout de trois jours",
+      "Un cookie qui chiffre les mots de passe",
+      "Un cookie propre à un troisième navigateur"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un cookie tiers est posé par un élément de la page venant d'un autre domaine, comme une bannière publicitaire. Il peut suivre un internaute d'un site à l'autre, ce que l'Union européenne encadre depuis 2002.",
+    "source": "D'après Wikipédia — Cookie (informatique)"
+  },
+  {
+    "id": "q-tech-048",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Qui a inventé le code QR en 1994 pour suivre les pièces détachées dans les usines Toyota ?",
+    "choix": [
+      "Masahiro Hara",
+      "Roland Moreno",
+      "Jaap Haartsen",
+      "Federico Faggin"
+    ],
+    "bonneReponse": 0,
+    "explication": "Masahiro Hara, ingénieur chez Denso Wave, a créé le code QR en 1994. Les codes-barres classiques contenaient peu d'informations et supportaient mal les taches d'huile des usines. Le QR, lui, reste lisible même abîmé.",
+    "source": "D'après Wikipédia — Code QR"
+  },
+  {
+    "id": "q-tech-049",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "En 2017, quelle architecture de réseau de neurones a permis de nouvelles avancées dans la génération de texte ?",
+    "choix": [
+      "Le transformeur",
+      "La chaîne de Markov",
+      "Le réseau antagoniste génératif",
+      "L'automate à cartes perforées"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'architecture transformeur, proposée en 2017, repose sur un mécanisme d'attention. Elle a dépassé les réseaux LSTM antérieurs. Les réseaux antagonistes (GAN) datent de 2014 et la chaîne de Markov de 1906.",
+    "source": "D'après Wikipédia — Intelligence artificielle générative"
+  },
+  {
+    "id": "q-tech-050",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "De quel roi viking le nom « Bluetooth » est-il inspiré ?",
+    "choix": [
+      "Harald à la dent bleue",
+      "Erik le Rouge",
+      "Canut le Grand",
+      "Olaf le Gros"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nom rend hommage au roi danois Harald à la dent bleue, qui avait unifié les tribus danoises. L'idée : Bluetooth unit des appareils et des protocoles différents. Son logo associe les runes des initiales du roi.",
+    "source": "D'après Wikipédia — Bluetooth"
+  },
+  {
+    "id": "q-tech-051",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Pourquoi la mémoire vive de type DRAM doit-elle être « rafraîchie » ?",
+    "choix": [
+      "Les condensateurs perdent leur charge en quelques millisecondes",
+      "Les plateaux doivent être remagnétisés",
+      "Le processeur efface les anciennes données",
+      "Les transistors fondent à chaque lecture"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans une DRAM, chaque bit est une charge électrique dans un minuscule condensateur. Cette charge fuit, donc il faut la renouveler toutes les quelques millisecondes. D'où le mot « dynamique », par opposition à la SRAM.",
+    "source": "D'après Wikipédia — Mémoire vive"
+  },
+  {
+    "id": "q-tech-052",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quelle puce, mise en vente le 15 novembre 1971, ouvre l'ère du microprocesseur ?",
+    "choix": [
+      "L'Intel 4004",
+      "Le Pentium",
+      "Le Zilog Z80",
+      "Le MOS 6502"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'Intel 4004 traitait 4 bits à la fois. Federico Faggin a dirigé sa conception et Marcian Hoff en a défini l'architecture. Son successeur à 8 bits fut l'Intel 8008.",
+    "source": "D'après Wikipédia — Microprocesseur"
+  },
+  {
+    "id": "q-tech-053",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Qui a inventé le nom « Wi-Fi » ?",
+    "choix": [
+      "Une agence de marque, Interbrand",
+      "L'organisme de normalisation IEEE",
+      "Les chercheurs australiens du CSIRO",
+      "Les ingénieurs d'Ericsson"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Wi-Fi Alliance a demandé à l'agence Interbrand un nom plus attirant que « IEEE 802.11b Direct Sequence ». Selon l'un de ses fondateurs, le mot n'a jamais voulu dire « Wireless Fidelity » : c'est un clin d'œil à Hi-Fi.",
+    "source": "D'après Wikipédia — Wi-Fi"
+  },
+  {
+    "id": "q-tech-054",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel langage créé en 1957 est considéré comme le premier langage de haut niveau compilé ?",
+    "choix": [
+      "Fortran",
+      "Lisp",
+      "Python",
+      "Java"
+    ],
+    "bonneReponse": 0,
+    "explication": "Fortran, de « FORmula TRANslation », a permis d'écrire des formules proches des mathématiques, traduites ensuite en langage machine. Lisp, de 1958, fut le premier langage fonctionnel ; Python et Java sont bien plus récents.",
+    "source": "D'après Wikipédia — Langage de programmation"
+  },
+  {
+    "id": "q-tech-055",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "À partir de quelle date le RGPD est-il applicable dans l'Union européenne ?",
+    "choix": [
+      "Le 25 mai 2018",
+      "Le 4 mai 2016",
+      "Le 1er janvier 2012",
+      "Le 24 octobre 1995"
+    ],
+    "bonneReponse": 0,
+    "explication": "Publié au Journal officiel le 4 mai 2016, le RGPD s'applique depuis le 25 mai 2018. Il remplace la directive de 1995, adoptée le 24 octobre. La Commission avait proposé la réforme en janvier 2012.",
+    "source": "D'après Wikipédia — Règlement général sur la protection des données"
+  },
+  {
+    "id": "q-tech-056",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Comment un disque dur enregistre-t-il un 0 ou un 1 ?",
+    "choix": [
+      "Une tête modifie le champ magnétique local de la surface d'un plateau",
+      "Elle grave un petit trou dans le plateau avec un laser",
+      "Elle charge un condensateur sur chaque plateau",
+      "Elle imprime un point d'encre sur le plateau"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les plateaux portent une couche magnétique. Selon le courant qui traverse la tête d'écriture, le champ magnétique local change et représente un 1 ou un 0. Pour lire, la tête détecte ces variations du champ.",
+    "source": "D'après Wikipédia — Disque dur"
+  },
+  {
+    "id": "q-tech-057",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "La mémoire vive conserve ses données même lorsque l'ordinateur est éteint.",
+    "reponse": false,
+    "explication": "La RAM est volatile : tout son contenu disparaît dès qu'elle n'est plus alimentée en électricité. C'est pourquoi on enregistre ses fichiers sur un stockage durable, comme un disque dur ou un SSD.",
+    "source": "D'après Wikipédia — Mémoire vive"
+  },
+  {
+    "id": "q-tech-058",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Un code QR peut rester lisible même si une partie de sa surface est abîmée.",
+    "reponse": true,
+    "explication": "Grâce à la correction d'erreur de Reed-Solomon, le code reste lisible même si jusqu'à 30 % de sa surface est endommagée, selon le niveau choisi. Cette robustesse sert aussi à y incruster un logo.",
+    "source": "D'après Wikipédia — Code QR"
+  },
+  {
+    "id": "q-tech-059",
+    "domain": "tech",
+    "format": "associer",
+    "question": "Associe chaque élément technique à son rôle.",
+    "paires": [
+      {
+        "gauche": "Pixel",
+        "droite": "Plus petit point d'une image numérique",
+        "explication": "Chaque pixel porte une couleur ; l'image est une grille de ces points."
+      },
+      {
+        "gauche": "Microprocesseur",
+        "droite": "Exécute les instructions des programmes",
+        "explication": "C'est un processeur dont tous les composants tiennent sur une seule puce."
+      },
+      {
+        "gauche": "Mémoire vive",
+        "droite": "Espace de travail rapide, effacé sans courant",
+        "explication": "Le processeur y lit et y écrit vite les données en cours de traitement."
+      },
+      {
+        "gauche": "Disque dur",
+        "droite": "Stockage magnétique durable des fichiers",
+        "explication": "Ses plateaux tournants conservent les données même éteint."
+      },
+      {
+        "gauche": "Système d'exploitation",
+        "droite": "Répartit les ressources entre les programmes",
+        "explication": "Il sert d'intermédiaire entre les logiciels et le matériel."
+      }
+    ],
+    "explication": "Ces éléments se complètent : le microprocesseur calcule, la mémoire vive garde le travail en cours, le disque dur conserve les fichiers, et le système d'exploitation organise l'ensemble.",
+    "source": "D'après Wikipédia — Microprocesseur"
+  },
+  {
+    "id": "q-tech-060",
+    "domain": "tech",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis publié au Journal officiel de l'Union européenne le 4 mai 2016.",
+      "Je remplace une directive de 1995.",
+      "Je suis un règlement : je m'applique directement dans tous les États membres.",
+      "Je suis applicable depuis le 25 mai 2018.",
+      "En France, la CNIL veille à mon respect."
+    ],
+    "reponse": "Le RGPD",
+    "explication": "Ce texte européen encadre l'usage des données personnelles : consentement clair, droit d'accès, durée de conservation limitée. Il s'applique aussi aux organisations extérieures qui traitent les données de personnes se trouvant dans l'Union.",
+    "source": "D'après Wikipédia — Règlement général sur la protection des données"
+  },
+  {
+    "id": "q-tech-061",
+    "domain": "tech",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de la carte à puce dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Roland Moreno dépose son brevet de mémoire sécurisée",
+        "annee": "1974"
+      },
+      {
+        "label": "Michel Ugon dépose le brevet de la carte à deux puces CP8",
+        "annee": "1977"
+      },
+      {
+        "label": "Michel Ugon réunit processeur et mémoire en une seule puce",
+        "annee": "1978"
+      },
+      {
+        "label": "La Télécarte est lancée dans les cabines françaises",
+        "annee": "1983"
+      },
+      {
+        "label": "La carte bancaire à puce se généralise en France",
+        "annee": "1992"
+      }
+    ],
+    "explication": "Moreno dépose son brevet en 1974. Michel Ugon conçoit ensuite la carte à deux puces en 1977, puis la puce unique en 1978. La Télécarte arrive en 1983 et la carte bancaire à puce se généralise en 1992.",
+    "source": "D'après Wikipédia — Carte à puce"
+  },
+  {
+    "id": "q-tech-062",
+    "domain": "tech",
+    "format": "difference",
+    "question": "Quelle est la différence entre un compilateur et un interprète ?",
+    "choix": [
+      "Le compilateur traduit tout le programme avant l'exécution ; l'interprète le traduit à la volée",
+      "Le compilateur sert aux langages anciens, l'interprète aux langages récents",
+      "Le compilateur corrige les bugs ; l'interprète les détecte seulement",
+      "Le compilateur fonctionne sur le disque dur ; l'interprète dans la mémoire vive"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un compilateur transforme d'abord le code source en code exécutable par la machine. Un interprète, lui, traduit les instructions au fur et à mesure de l'exécution. Les deux sont des traducteurs automatiques de langages de programmation.",
+    "source": "D'après Wikipédia — Langage de programmation"
   }
 ]

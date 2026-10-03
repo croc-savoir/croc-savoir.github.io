@@ -144,6 +144,18 @@ const DataStore = (() => {
     return map; // Map<label, fiche[]>
   }
 
+  // Recherche d'une fiche par son titre (sans accents ni ponctuation), pour les liens auteur ↔ œuvre.
+  const normTitre = s => (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z0-9]+/g, ' ').trim();
+  let titreIndex = null;
+  function ficheByTitle(titre) {
+    if (!titreIndex) {
+      titreIndex = new Map();
+      allFichesFlat.forEach(f => { const k = normTitre(f.title); if (!titreIndex.has(k)) titreIndex.set(k, f); });
+    }
+    return titreIndex.get(normTitre(titre)) || null;
+  }
+
   function ficheById(id) {
     return allFichesFlat.find(f => f.id === id);
   }
@@ -153,6 +165,6 @@ const DataStore = (() => {
     getDomains, getDomain,
     getFiches, getQuiz,
     getAllFiches, getAllQuiz, getAllQuizById,
-    domainCounts, compte, subthemesFor, ficheById, loadDetails,
+    domainCounts, compte, subthemesFor, ficheById, ficheByTitle, loadDetails,
   };
 })();

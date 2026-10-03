@@ -75,6 +75,27 @@ const Fiches = (() => {
     }
   }
 
+  // Nom ou titre cliquable s'il existe une fiche correspondante, texte simple sinon.
+  function ficheLink(titre, texte) {
+    const f = DataStore.ficheByTitle(titre);
+    return f
+      ? `<button type="button" class="fiche-link" data-fid="${escapeHTML(f.id)}">${escapeHTML(texte)}</button>`
+      : escapeHTML(texte);
+  }
+
+  // Ouvre la fiche liée dans une fenêtre par-dessus la fiche courante.
+  function openLinked(id) {
+    const f = DataStore.ficheById(id);
+    if (!f) return;
+    const overlay = document.createElement('div');
+    overlay.className = 'fiche-modal';
+    overlay.innerHTML = `<div class="fiche-modal__panel"><button type="button" class="fiche-modal__close">✕ Fermer</button><div class="fiche-modal__body"></div></div>`;
+    overlay.querySelector('.fiche-modal__body').appendChild(renderCard(f));
+    const close = () => overlay.remove();
+    overlay.addEventListener('click', e => { if (e.target === overlay || e.target.closest('.fiche-modal__close')) close(); });
+    document.body.appendChild(overlay);
+  }
+
   // Rubriques communes à tous les types, affichées après les champs spécifiques.
   function extrasHTML(fiche) {
     const d = fiche.details || {};
@@ -82,8 +103,11 @@ const Fiches = (() => {
     if (fiche.type !== 'classique' && d.sections?.length) {
       d.sections.forEach(s => { h += `<h4>${escapeHTML(s.titre)}</h4>${paragraphs(s.texte)}`; });
     }
+    if (d.createurs?.length) {
+      h += `<h4>Créé par</h4><ul class="createurs">${d.createurs.map(c => `<li>${ficheLink(c.nom, c.nom)}${c.role ? ` <span class="createur-role">· ${escapeHTML(c.role)}</span>` : ''}</li>`).join('')}</ul>`;
+    }
     if (d.oeuvres?.length) {
-      h += `<h4>Œuvres principales</h4><ul class="timeline oeuvres">${d.oeuvres.map(o => `<li>${o.annee ? `<span class="tl-year">${escapeHTML(o.annee)}</span>` : ''}${escapeHTML(o.titre)}</li>`).join('')}</ul>`;
+      h += `<h4>Œuvres principales</h4><ul class="timeline oeuvres">${d.oeuvres.map(o => `<li>${o.annee ? `<span class="tl-year">${escapeHTML(o.annee)}</span>` : ''}${ficheLink(o.titre, o.titre)}</li>`).join('')}</ul>`;
     }
     if (d.chiffres?.length) {
       h += `<h4>En chiffres</h4><ul class="key-figures">${d.chiffres.map(c => `<li><span class="kf-value">${escapeHTML(c.valeur)}</span><span class="kf-label">${escapeHTML(c.label)}</span></li>`).join('')}</ul>`;
@@ -125,7 +149,7 @@ const Fiches = (() => {
     const favBtn = wrap.querySelector('.fav-btn');
     const paintFav = (on) => {
       favBtn.classList.toggle('is-on', on);
-      favBtn.textContent = on ? '★' : '☆';
+      favBtn.innerHTML = `<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M12 2.5l2.9 6.1 6.6.8-4.9 4.6 1.3 6.6L12 17.3 6.1 20.6l1.3-6.6L2.5 9.4l6.6-.8z" fill="${on ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>`;
       favBtn.setAttribute('aria-pressed', on ? 'true' : 'false');
       favBtn.setAttribute('aria-label', on ? 'Retirer des favoris' : 'Ajouter aux favoris');
     };
@@ -135,6 +159,11 @@ const Fiches = (() => {
       const on = Store.toggleFavorite(fiche.id);
       paintFav(on);
       App.toast(on ? '⭐ Ajoutée aux favoris' : 'Retirée des favoris');
+    });
+
+    wrap.addEventListener('click', e => {
+      const l = e.target.closest('.fiche-link');
+      if (l) openLinked(l.dataset.fid);
     });
 
     const btn = wrap.querySelector('.btn-approfondir');

@@ -1008,5 +1008,549 @@
     "bonneReponse": 0,
     "explication": "La règle est décidée en 1967, officiellement pour la sécurité des joueurs. Beaucoup y voient un moyen de freiner Lew Alcindor, devenu ensuite Kareem Abdul-Jabbar. Le dunk ne revient qu'en 1976.",
     "source": "D'après Wikipédia — Slam dunk"
+  },
+  {
+    "id": "q-sport-064",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Combien de médailles d'or Jesse Owens a-t-il remportées aux Jeux olympiques de Berlin, en 1936 ?",
+    "choix": [
+      "Quatre",
+      "Trois",
+      "Cinq",
+      "Deux"
+    ],
+    "bonneReponse": 0,
+    "explication": "Owens a gagné le 100 m, le 200 m, le saut en longueur et le relais 4 × 100 m. Seul Carl Lewis, à Los Angeles en 1984, a ensuite remporté ces quatre mêmes épreuves lors d'une seule édition des Jeux olympiques.",
+    "source": "D'après Wikipédia — Jesse Owens"
+  },
+  {
+    "id": "q-sport-065",
+    "domain": "sport",
+    "format": "vrai-faux",
+    "affirmation": "Nadia Comăneci a été la toute première gymnaste de l'histoire à obtenir la note parfaite de 10.",
+    "reponse": false,
+    "explication": "La Tchécoslovaque Věra Čáslavská avait déjà obtenu un 10 en 1967. Nadia Comăneci est la première à l'avoir fait aux Jeux olympiques, le 18 juillet 1976 à Montréal, à 14 ans, aux barres asymétriques.",
+    "source": "D'après Wikipédia — Nadia Comăneci"
+  },
+  {
+    "id": "q-sport-066",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Pourquoi le premier 10 de Nadia Comăneci s'est-il affiché « 1.00 » aux Jeux de Montréal ?",
+    "choix": [
+      "Le tableau n'était pas prévu pour afficher une note parfaite",
+      "Les juges avaient enlevé 9 points pour une chute",
+      "Le tableau était tombé en panne",
+      "Le 10 s'écrivait ainsi dans les règles de 1976"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le fabricant du tableau d'affichage pensait qu'une note de 10 était impossible et ne l'avait pas prévue : le 10 s'est donc affiché « 1.00 ». Nadia en a obtenu sept au total à Montréal, et trois médailles d'or.",
+    "source": "D'après Wikipédia — Nadia Comăneci"
+  },
+  {
+    "id": "q-sport-067",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Dans quel tournoi du Grand Chelem Roger Federer a-t-il remporté huit titres, entre 2003 et 2017 ?",
+    "choix": [
+      "Wimbledon",
+      "Roland-Garros",
+      "L'Open d'Australie",
+      "L'US Open"
+    ],
+    "bonneReponse": 0,
+    "explication": "Federer a gagné Wimbledon huit fois, de 2003 à 2017. À l'US Open, il compte cinq titres, et il n'a gagné Roland-Garros qu'une fois, en 2009, ce qui lui a permis de compléter son Grand Chelem en carrière.",
+    "source": "D'après Wikipédia — Roger Federer"
+  },
+  {
+    "id": "q-sport-068",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Combien de tournois du Grand Chelem Rafael Nadal a-t-il remportés en simple pendant sa carrière ?",
+    "choix": [
+      "22",
+      "20",
+      "24",
+      "18"
+    ],
+    "bonneReponse": 0,
+    "explication": "Nadal a gagné 22 tournois du Grand Chelem, dont 14 à Roland-Garros, entre 2005 et 2022. Federer en compte 20 et Djokovic 24. Gaucher à l'effet très lifté, Nadal a pris sa retraite après la Coupe Davis 2024.",
+    "source": "D'après Wikipédia — Rafael Nadal"
+  },
+  {
+    "id": "q-sport-069",
+    "domain": "sport",
+    "format": "qui-suis-je",
+    "indices": [
+      "À six ans, je suis arrivé à un camp de tennis avec un sac contenant mes affaires pliées, une bouteille d'eau et une banane.",
+      "Mon premier titre du Grand Chelem date de l'Open d'Australie 2008, à 20 ans.",
+      "J'ai gagné la médaille de bronze olympique en 2008, puis l'or à Paris en 2024.",
+      "Je suis né à Belgrade en 1987 et je suis serbe.",
+      "Avec Federer et Nadal, je forme le « Big Three » du tennis."
+    ],
+    "reponse": "Novak Djokovic",
+    "explication": "Novak Djokovic, né à Belgrade en 1987, a gagné 24 tournois du Grand Chelem en simple. Enfant, il impressionne son entraîneuse Jelena Genčić, qui dit à ses parents : « vous avez un enfant en or ».",
+    "source": "D'après Wikipédia — Novak Djokovic"
+  },
+  {
+    "id": "q-sport-070",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Comment appelle-t-on le but que Diego Maradona a marqué de la main contre l'Angleterre en 1986 ?",
+    "choix": [
+      "La « main de Dieu »",
+      "Le « but du siècle »",
+      "La « main d'or »",
+      "Le « pied de Dieu »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Maradona a donné ce nom à son premier but du quart de finale 1986. Quelques minutes plus tard, il marque un second but après un dribble de 60 mètres : élu « but du siècle » par les votants du site de la FIFA en 2002.",
+    "source": "D'après Wikipédia — Diego Maradona"
+  },
+  {
+    "id": "q-sport-071",
+    "domain": "sport",
+    "format": "associer",
+    "question": "Associe chaque sportif à son surnom.",
+    "paires": [
+      {
+        "gauche": "Diego Maradona",
+        "droite": "El Pibe de Oro",
+        "explication": "Surnom du meneur de jeu argentin, qui signifie « l'enfant d'or »."
+      },
+      {
+        "gauche": "Michael Schumacher",
+        "droite": "Le Baron rouge",
+        "explication": "Un surnom lié à ses années de victoires sur Ferrari."
+      },
+      {
+        "gauche": "Johan Cruyff",
+        "droite": "Le Hollandais volant",
+        "explication": "Le surnom de l'attaquant néerlandais, star de l'Ajax."
+      },
+      {
+        "gauche": "Kobe Bryant",
+        "droite": "Black Mamba",
+        "explication": "Il a adopté ce surnom au milieu des années 2000, aux Lakers."
+      },
+      {
+        "gauche": "LeBron James",
+        "droite": "King James",
+        "explication": "Le « Roi James », surnom de l'ailier né à Akron."
+      }
+    ],
+    "explication": "Ces surnoms sont devenus presque aussi célèbres que les noms de ces champions : un enfant d'or pour Maradona, un baron rouge pour Schumacher, un volant pour Cruyff, un mamba pour Bryant et un roi pour James.",
+    "source": "D'après Wikipédia — Diego Maradona"
+  },
+  {
+    "id": "q-sport-072",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Combien de buts Michel Platini a-t-il marqués à l'Euro 1984, remporté par la France ?",
+    "choix": [
+      "Neuf",
+      "Cinq",
+      "Sept",
+      "Onze"
+    ],
+    "bonneReponse": 0,
+    "explication": "Platini a marqué neuf buts lors de ce seul tournoi, joué en France. Capitaine des Bleus, il a été sacré meilleur joueur et meilleur buteur de l'Euro 1984, gagné en finale contre l'Espagne (2-0).",
+    "source": "D'après Wikipédia — Michel Platini"
+  },
+  {
+    "id": "q-sport-073",
+    "domain": "sport",
+    "format": "vrai-faux",
+    "affirmation": "Aux Jeux d'Atlanta en 1996, Marie-José Pérec a gagné à la fois le 200 m et le 400 m.",
+    "reponse": true,
+    "explication": "Elle a gagné le 400 m en 48 s 25, puis le 200 m trois jours plus tard. Elle est la deuxième femme à réussir ce doublé olympique, après l'Américaine Valerie Brisco-Hooks, aux Jeux de Los Angeles en 1984.",
+    "source": "D'après Wikipédia — Marie-José Pérec"
+  },
+  {
+    "id": "q-sport-074",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Quels numéros de maillot les Lakers ont-ils retirés en l'honneur de Kobe Bryant en 2017 ?",
+    "choix": [
+      "Le 8 et le 24",
+      "Le 8 et le 23",
+      "Le 24 et le 33",
+      "Le 10 et le 24"
+    ],
+    "bonneReponse": 0,
+    "explication": "Kobe Bryant a porté le numéro 8 jusqu'en 2006, puis le 24 jusqu'à la fin de sa carrière. Les deux ont été retirés par les Lakers le 18 décembre 2017, un honneur rare pour un joueur au sein d'une même équipe.",
+    "source": "D'après Wikipédia — Kobe Bryant"
+  },
+  {
+    "id": "q-sport-075",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Avec combien d'équipes différentes LeBron James a-t-il été élu meilleur joueur des Finales NBA ?",
+    "choix": [
+      "Trois",
+      "Deux",
+      "Quatre",
+      "Une seule"
+    ],
+    "bonneReponse": 0,
+    "explication": "James a été élu meilleur joueur des Finales avec Miami en 2012 et 2013, avec Cleveland en 2016 et avec les Lakers en 2020. En 2020, il devenait ainsi le premier joueur à réussir cela avec trois équipes différentes.",
+    "source": "D'après Wikipédia — LeBron James"
+  },
+  {
+    "id": "q-sport-076",
+    "domain": "sport",
+    "format": "frise",
+    "question": "Remets ces exploits sportifs dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Jesse Owens gagne quatre titres aux Jeux de Berlin",
+        "annee": "1936"
+      },
+      {
+        "label": "Éric Tabarly remporte la transatlantique en solitaire sur Pen Duick II",
+        "annee": "1964"
+      },
+      {
+        "label": "Jean-Claude Killy réalise le triplé en ski alpin à Grenoble",
+        "annee": "1968"
+      },
+      {
+        "label": "Nadia Comăneci obtient le premier 10 olympique",
+        "annee": "1976"
+      },
+      {
+        "label": "Marie-José Pérec devient championne olympique du 400 m à Barcelone",
+        "annee": "1992"
+      }
+    ],
+    "explication": "Owens a gagné quatre titres en 1936, Tabarly a remporté l'Ostar en 1964, Killy est triple champion à Grenoble en 1968, Comăneci a obtenu son 10 à Montréal en 1976 et Pérec a gagné le 400 m en 1992.",
+    "source": "D'après Wikipédia — Jesse Owens"
+  },
+  {
+    "id": "q-sport-077",
+    "domain": "sport",
+    "format": "vrai-faux",
+    "affirmation": "Jean-Claude Killy est le premier skieur à avoir remporté les trois épreuves alpines d'une même édition des Jeux olympiques.",
+    "reponse": false,
+    "explication": "L'Autrichien Toni Sailer avait réalisé ce triplé dès 1956, à Cortina d'Ampezzo. Killy est le deuxième skieur à y parvenir, à Grenoble en 1968, en gagnant la descente, le slalom et le slalom géant.",
+    "source": "D'après Wikipédia — Jean-Claude Killy"
+  },
+  {
+    "id": "q-sport-078",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Avec quelle écurie Michael Schumacher a-t-il remporté cinq titres mondiaux de suite, de 2000 à 2004 ?",
+    "choix": [
+      "Ferrari",
+      "Benetton",
+      "McLaren",
+      "Mercedes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Schumacher a gagné ses deux premiers titres avec Benetton, en 1994 et 1995. Il rejoint ensuite Ferrari en 1996 et y remporte cinq titres consécutifs, dont le premier de l'écurie italienne depuis 21 ans.",
+    "source": "D'après Wikipédia — Michael Schumacher"
+  },
+  {
+    "id": "q-sport-079",
+    "domain": "sport",
+    "format": "qui-suis-je",
+    "indices": [
+      "J'ai découvert la voile à trois ans, à bord d'un bateau familial nommé Annie.",
+      "Je suis entré dans la Marine nationale pour pouvoir restaurer un vieux voilier de 1898.",
+      "Mon voilier porte un nom breton qui signifie « mésange noire ».",
+      "J'ai gagné la transatlantique en solitaire en 1964, puis en 1976.",
+      "Mes bateaux s'appellent Pen Duick."
+    ],
+    "reponse": "Éric Tabarly",
+    "explication": "Éric Tabarly, officier de marine, a remporté l'Ostar en 1964 et en 1976. Grâce à lui, la course au large est devenue populaire en France, et il a formé toute une génération de skippers.",
+    "source": "D'après Wikipédia — Éric Tabarly"
+  },
+  {
+    "id": "q-sport-080",
+    "domain": "sport",
+    "format": "difference",
+    "question": "Quelle est la différence entre Pen Duick II et Pen Duick IV, deux bateaux d'Éric Tabarly ?",
+    "choix": [
+      "Pen Duick II est un monocoque conçu pour la transatlantique en solitaire, Pen Duick IV un trimaran de course",
+      "Pen Duick II est un trimaran, Pen Duick IV un monocoque",
+      "Pen Duick II est un bateau à moteur, Pen Duick IV un voilier",
+      "Pen Duick II date de 1898, Pen Duick IV de 1964"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pen Duick II (1964), un ketch de 13,60 m, est le premier voilier conçu pour une transatlantique en solitaire. Pen Duick IV (1968), un trimaran, compte parmi les premiers multicoques de course au large.",
+    "source": "D'après Wikipédia — Éric Tabarly"
+  },
+  {
+    "id": "q-sport-081",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Quel quotidien est à l'origine de la création de la Coupe des clubs champions européens, en 1955 ?",
+    "choix": [
+      "L'Équipe",
+      "Le Figaro",
+      "Le Parisien Libéré",
+      "Le Monde"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'idée de la future Ligue des champions est née dans les pages de L'Équipe, après qu'un journal anglais a proclamé Wolverhampton « champion du monde des clubs ». Gabriel Hanot a alors lancé l'appel à une vraie coupe d'Europe.",
+    "source": "D'après Wikipédia — Ligue des champions de l'UEFA"
+  },
+  {
+    "id": "q-sport-082",
+    "domain": "sport",
+    "format": "vrai-faux",
+    "affirmation": "En 1968, une demi-finale de l'Euro de football a été décidée par un tirage à pile ou face.",
+    "reponse": true,
+    "explication": "Italie et URSS ont fait match nul. Les tirs au but n'existaient pas encore et il n'y avait pas le temps de rejouer : l'arbitre a lancé une pièce, qui a qualifié l'Italie. Elle a ensuite remporté le tournoi.",
+    "source": "D'après Wikipédia — Championnat d'Europe de football"
+  },
+  {
+    "id": "q-sport-083",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Qui a remis le trophée au capitaine sud-africain François Pienaar après la finale de la Coupe du monde de rugby 1995 ?",
+    "choix": [
+      "Nelson Mandela",
+      "Desmond Tutu",
+      "Frederik de Klerk",
+      "Thabo Mbeki"
+    ],
+    "bonneReponse": 0,
+    "explication": "Nelson Mandela, chef de l'État sud-africain depuis 1994, a remis la coupe à Pienaar en portant lui-même le maillot des Springboks, avec le numéro 6. Ce geste est resté l'un des grands symboles de l'histoire du sport.",
+    "source": "D'après Wikipédia — Coupe du monde de rugby à XV"
+  },
+  {
+    "id": "q-sport-084",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Que désigne la « cuillère de bois » au Tournoi des Six Nations ?",
+    "choix": [
+      "Le prix symbolique de l'équipe qui termine dernière",
+      "Le trophée du meilleur marqueur d'essais",
+      "Le prix du meilleur joueur du tournoi",
+      "La récompense de l'équipe la plus disciplinée"
+    ],
+    "bonneReponse": 0,
+    "explication": "La « cuillère de bois » est une récompense ironique, remise à la sélection qui finit dernière. Une équipe qui perd tous ses matchs est dite « blanchie ». Le Grand Chelem est son contraire : cinq victoires en cinq matchs.",
+    "source": "D'après Wikipédia — Tournoi des Six Nations"
+  },
+  {
+    "id": "q-sport-085",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Quelle tenue est exigée des joueurs à Wimbledon ?",
+    "choix": [
+      "Une tenue entièrement blanche",
+      "Une tenue aux couleurs de leur pays",
+      "Une tenue bleu marine ou blanche",
+      "Une tenue libre, sauf le noir"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le code vestimentaire de Wimbledon impose le blanc, une tradition qui distingue ce tournoi de tous les autres. Il vit aussi à l'heure d'autres coutumes : fraises à la crème, publicité discrète et patronage royal.",
+    "source": "D'après Wikipédia — Tournoi de Wimbledon"
+  },
+  {
+    "id": "q-sport-086",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Qui était Roland Garros, dont le stade parisien porte le nom ?",
+    "choix": [
+      "Un aviateur, mort en 1918",
+      "Un joueur de tennis des années 1920",
+      "Un président de la Fédération française",
+      "L'architecte du stade"
+    ],
+    "bonneReponse": 0,
+    "explication": "Roland Garros était un aviateur, membre du Stade Français, mort en octobre 1918. Il avait été le premier à traverser la Méditerranée en avion. Le Stade Français a cédé le terrain à condition que le stade porte son nom.",
+    "source": "D'après Wikipédia — Internationaux de France de tennis"
+  },
+  {
+    "id": "q-sport-087",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Comment est désignée la voiture gagnante des 24 Heures du Mans ?",
+    "choix": [
+      "Celle qui a parcouru la plus grande distance en 24 heures",
+      "Celle qui a signé le tour le plus rapide",
+      "Celle qui a effectué le moins d'arrêts aux stands",
+      "Celle qui a franchi la première la ligne des 5 000 km"
+    ],
+    "bonneReponse": 0,
+    "explication": "Aux 24 Heures du Mans, il n'y a pas de distance fixée : l'équipage vainqueur est celui qui a couvert le plus de kilomètres en une journée et une nuit. La course teste donc autant la fiabilité que la vitesse.",
+    "source": "D'après Wikipédia — 24 Heures du Mans"
+  },
+  {
+    "id": "q-sport-088",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "D'où vient, selon son créateur Lamar Hunt, le nom « Super Bowl » ?",
+    "choix": [
+      "D'un jouet de ses enfants, la Super Ball",
+      "Du nom du stade de la première finale",
+      "D'un slogan publicitaire de 1967",
+      "D'un surnom donné au trophée par les joueurs"
+    ],
+    "bonneReponse": 0,
+    "explication": "Lamar Hunt, propriétaire des Chiefs de Kansas City, aurait pensé à ce nom en voyant ses enfants jouer avec une Super Ball. Il l'a lancé en plaisantant, mais la presse l'a repris, et il est devenu officiel en 1969.",
+    "source": "D'après Wikipédia — Super Bowl"
+  },
+  {
+    "id": "q-sport-089",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Combien de points Wilt Chamberlain a-t-il inscrits lors d'un match NBA, le 2 mars 1962 ?",
+    "choix": [
+      "100",
+      "81",
+      "72",
+      "90"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 2 mars 1962, Wilt Chamberlain, sous le maillot des Warriors de Philadelphie, marque 100 points contre les Knicks de New York. Cet exploit reste, des décennies plus tard, l'un des records de la ligue les plus célèbres.",
+    "source": "D'après Wikipédia — National Basketball Association"
+  },
+  {
+    "id": "q-sport-090",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Que recevait le vainqueur d'une épreuve aux Jeux olympiques antiques ?",
+    "choix": [
+      "Une couronne d'olivier sauvage",
+      "Une médaille d'or",
+      "Une couronne de laurier",
+      "Une somme d'argent versée par les organisateurs"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le vainqueur recevait le kotinos, une couronne tressée avec les feuilles d'un olivier sauvage sacré, près du temple de Zeus. Il n'y avait ni médaille d'or, d'argent ou de bronze. Sa cité pouvait en revanche le récompenser richement.",
+    "source": "D'après Wikipédia — Jeux olympiques antiques"
+  },
+  {
+    "id": "q-sport-091",
+    "domain": "sport",
+    "format": "qcm",
+    "question": "Où la flamme olympique est-elle allumée, avec un miroir parabolique, avant chaque édition des Jeux ?",
+    "choix": [
+      "À Olympie, devant les ruines du temple d'Héra",
+      "Au Stade panathénaïque d'Athènes",
+      "À Delphes, près de l'oracle",
+      "À Sparte, devant le monument de Léonidas"
+    ],
+    "bonneReponse": 0,
+    "explication": "La cérémonie se tient à Olympie, site des Jeux antiques, devant les ruines du temple d'Héra. Le miroir concentre les rayons du soleil. La flamme est ensuite transportée jusqu'au Stade panathénaïque d'Athènes, qui a accueilli les Jeux de 1896.",
+    "source": "D'après Wikipédia — Flamme olympique"
+  },
+  {
+    "id": "q-sport-092",
+    "domain": "sport",
+    "format": "vrai-faux",
+    "affirmation": "Chacun des cinq anneaux olympiques représente officiellement un continent précis : le bleu l'Europe, le jaune l'Asie, le noir l'Afrique.",
+    "reponse": false,
+    "explication": "Les anneaux représentent ensemble l'union des cinq continents, mais aucun anneau n'est attribué à l'un d'eux. Une table de correspondance publiée en 1949-1950 a été annulée en 1951, car rien ne prouvait que Coubertin l'avait voulue.",
+    "source": "D'après Wikipédia — Symboles olympiques"
+  },
+  {
+    "id": "q-sport-093",
+    "domain": "sport",
+    "format": "associer",
+    "question": "Associe chaque compétition à l'élément qui la caractérise.",
+    "paires": [
+      {
+        "gauche": "Tour d'Italie",
+        "droite": "Le maillot rose",
+        "explication": "Le leader du Giro porte un maillot rose, comme le papier de la Gazzetta dello Sport."
+      },
+      {
+        "gauche": "Coupe Davis",
+        "droite": "Le Saladier d'argent",
+        "explication": "Le trophée est un énorme saladier d'argent que Dwight Davis a payé environ 1 000 dollars."
+      },
+      {
+        "gauche": "Vendée Globe",
+        "droite": "Les Sables-d'Olonne",
+        "explication": "Les skippers partent des Sables-d'Olonne et y reviennent après leur tour du monde en solitaire."
+      },
+      {
+        "gauche": "Super Bowl",
+        "droite": "Le trophée Vince Lombardi",
+        "explication": "Le vainqueur du Super Bowl reçoit un trophée portant le nom d'un célèbre entraîneur."
+      },
+      {
+        "gauche": "24 Heures du Mans",
+        "droite": "La ligne droite des Hunaudières",
+        "explication": "Longue de près de 6 km, cette ligne droite est le passage le plus célèbre du circuit."
+      }
+    ],
+    "explication": "Chaque grande compétition a son symbole : une couleur de maillot, un trophée en forme de saladier, un port de départ, un nom de coach ou une ligne droite célèbre. Ils font partie de leur identité.",
+    "source": "D'après Wikipédia — Coupe Davis"
+  },
+  {
+    "id": "q-sport-094",
+    "domain": "sport",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Paris le 23 juin 1894, à la clôture d'un congrès.",
+      "Mon fondateur est le baron Pierre de Coubertin.",
+      "Mon siège est à Lausanne depuis 1915.",
+      "Je choisis, par un vote secret, la ville hôte des Jeux.",
+      "Je dirige le mouvement olympique."
+    ],
+    "reponse": "Le Comité international olympique",
+    "explication": "Le CIO est né à Paris en 1894, puis a déménagé à Lausanne en 1915 pour échapper à la guerre. Il organise les Jeux d'été, d'hiver et de la jeunesse, et sa session annuelle désigne les villes hôtes.",
+    "source": "D'après Wikipédia — Comité international olympique"
+  },
+  {
+    "id": "q-sport-095",
+    "domain": "sport",
+    "format": "frise",
+    "question": "Remets ces éditions de la Coupe du monde de rugby dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "La Nouvelle-Zélande gagne la toute première édition",
+        "annee": "1987"
+      },
+      {
+        "label": "L'Australie bat l'Angleterre à Twickenham",
+        "annee": "1991"
+      },
+      {
+        "label": "L'Afrique du Sud gagne à domicile, en prolongation",
+        "annee": "1995"
+      },
+      {
+        "label": "L'Australie bat la France à Cardiff",
+        "annee": "1999"
+      },
+      {
+        "label": "L'Angleterre s'impose après prolongation",
+        "annee": "2003"
+      }
+    ],
+    "explication": "Après la Nouvelle-Zélande en 1987, l'Australie gagne en 1991 puis en 1999, et l'Afrique du Sud s'impose en 1995. En 2003, l'Angleterre devient la première nation de l'hémisphère Nord championne du monde, en prolongation.",
+    "source": "D'après Wikipédia — Coupe du monde de rugby à XV"
+  },
+  {
+    "id": "q-sport-096",
+    "domain": "sport",
+    "format": "difference",
+    "question": "Quelle est la différence entre le Grand Chelem et la Triple Couronne au Tournoi des Six Nations ?",
+    "choix": [
+      "Le Grand Chelem se gagne en battant les cinq autres équipes ; la Triple Couronne en battant les trois autres nations britanniques et irlandaise",
+      "Le Grand Chelem récompense la meilleure attaque ; la Triple Couronne la meilleure défense",
+      "Le Grand Chelem est réservé à l'Italie et à la France ; la Triple Couronne aux autres équipes",
+      "Le Grand Chelem se joue en finale ; la Triple Couronne en phase de poules"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Grand Chelem revient à l'équipe qui gagne ses cinq matchs. La Triple Couronne ne concerne que l'Angleterre, l'Écosse, le pays de Galles ou l'Irlande, lorsqu'elles battent les trois autres nations de ce groupe.",
+    "source": "D'après Wikipédia — Tournoi des Six Nations"
+  },
+  {
+    "id": "q-sport-097",
+    "domain": "sport",
+    "format": "vrai-faux",
+    "affirmation": "Le relais de la flamme olympique entre Olympie et la ville hôte a été instauré pour les Jeux de Berlin en 1936.",
+    "reponse": true,
+    "explication": "Une flamme symbolique existait depuis les Jeux d'Amsterdam en 1928, mais le relais jusqu'à la ville hôte date de 1936, sur une idée de Carl Diem. Il s'inspire des courses de flambeau de l'Antiquité.",
+    "source": "D'après Wikipédia — Flamme olympique"
   }
 ]

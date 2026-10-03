@@ -2081,5 +2081,515 @@
       "wikipedia": "Intelligence artificielle générative"
     },
     "source": "D'après Wikipédia — Intelligence artificielle générative"
+  },
+  {
+    "id": "tech-059",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "La roue",
+    "subtitle": "Pièce tournant autour d'un axe, apparue au IVe millénaire av. J.-C.",
+    "summary": "Avant la roue, déplacer une lourde charge voulait dire la traîner ou la faire glisser sur des rondins. Montée sur un axe, la roue réduit les frottements : on transporte plus loin, avec moins d'effort.\nLes premières traces de véhicules à roues datent de la fin du IVe millénaire av. J.-C. Aucun inventeur connu : l'idée est apparue en Europe et au Proche-Orient, sans qu'on sache exactement où.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une origine qui reste discutée",
+          "texte": "Longtemps, on a cru la roue sumérienne. Mais un pot trouvé à Bronocice, en Pologne, porte un chariot à quatre roues gravé, vers 3500 av. J.-C., et des roues en bois ont été retrouvées en Europe centrale. La plus ancienne roue montée sur son axe et bien datée, découverte en 2002 près de Ljubljana, remonte à 3340-3030 av. J.-C."
+        },
+        {
+          "titre": "Rayons, chars et roulements",
+          "texte": "Les premières roues sont des disques de bois pleins, faits de trois ou quatre planches. Vers 2000 av. J.-C., la culture de Sintashta invente la roue à rayons, bien plus légère : elle permet des chars de combat rapides tirés par des chevaux. Plus tard, les roulements à billes réduisent encore les frottements entre l'axe et la roue, et le pneu apparaît dans les années 1870."
+        },
+        {
+          "titre": "Un impact sans roue partout",
+          "texte": "La roue est à la base des transports terrestres, des engrenages et des moulins à eau. Pourtant, les civilisations précolombiennes l'ont surtout connue comme jouet : sans animaux de trait, selon une hypothèse de Jared Diamond, elle servait peu."
+        }
+      ],
+      "anecdotes": [
+        "À la fin du XIXe siècle, des wagons Pullman roulaient sur des roues en papier comprimé cerclées d'acier : elles coûtaient plus cher, mais parcouraient en moyenne 400 000 km contre 160 000 km pour une roue de fer."
+      ],
+      "wikipedia": "Roue"
+    },
+    "source": "D'après Wikipédia — Roue"
+  },
+  {
+    "id": "tech-060",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "La boussole",
+    "subtitle": "Instrument d'orientation à aiguille aimantée, apparu en Chine",
+    "summary": "Quand le ciel est couvert ou la nuit sans étoiles, comment savoir où l'on va ? La boussole répond : une aiguille aimantée mobile se place dans la direction du champ magnétique terrestre et désigne le nord magnétique.\nInventée en Chine, d'abord pour des usages terrestres, elle sert à la navigation en mer au début du XIIe siècle, puis gagne l'Europe vers 1190.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le principe : un minuscule aimant libre",
+          "texte": "L'aiguille est elle-même un aimant, posée sur un pivot presque sans frottement. Le champ magnétique terrestre la fait tourner jusqu'à ce qu'elle pointe vers le nord magnétique, légèrement différent du nord géographique : cet écart s'appelle la déclinaison. Sur un navire, le compas baigne dans un liquide qui calme ses oscillations, et une suspension à cardan le garde horizontal."
+        },
+        {
+          "titre": "Des premières aiguilles à la mer",
+          "texte": "Un texte de 1040-1044 décrit un « poisson » de fer qui flotte dans un bol d'eau et se tourne vers le sud. Vers 1080, Shen Kua décrit une vraie aiguille aimantée et remarque la déclinaison. En 1117, un livre mentionne la boussole pour la navigation en mer. En Europe, elle est citée vers 1190 par Alexander Neckam, puis en 1204 par Guiot de Provins."
+        },
+        {
+          "titre": "Comprendre enfin le magnétisme",
+          "texte": "Pendant des siècles, on utilise la boussole sans en comprendre la cause. Il faut attendre 1600 pour que William Gilbert, dans De Magnete, décrive le magnétisme et fasse de la Terre elle-même un grand aimant. Aujourd'hui, la boussole voisine avec le GPS, qui ne la remplace pas partout."
+        }
+      ],
+      "anecdotes": [
+        "L'inventeur italien « Flavio Gioja d'Amalfi », censé avoir créé la boussole vers 1300, serait un mythe né de textes mal lus, selon l'historien Charles de La Roncière."
+      ],
+      "wikipedia": "Boussole"
+    },
+    "source": "D'après Wikipédia — Boussole"
+  },
+  {
+    "id": "tech-061",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "L'horloge",
+    "subtitle": "De l'ombre du cadran solaire aux atomes",
+    "summary": "Pour organiser une journée, une prière ou un voyage, il faut mesurer l'heure même sans soleil. Toute horloge repose sur la même idée : un phénomène qui se répète à rythme régulier, et un mécanisme qui compte ces répétitions.\nDu cadran solaire à la clepsydre, puis aux horloges mécaniques européennes vers 1300, la précision n'a cessé de progresser.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le principe : un balancier et un compteur",
+          "texte": "Dans toute horloge moderne, un oscillateur bat à fréquence constante : pendule, balancier, cristal de quartz ou, pour les plus précises, atomes dont les vibrations définissent la seconde. Des engrenages ou des circuits comptent ces battements et affichent l'heure, comme un enfant qui compterait chaque aller-retour d'une balançoire."
+        },
+        {
+          "titre": "Étapes et dates",
+          "texte": "Les Grecs tracent de vrais cadrans solaires vers le IVe siècle av. J.-C. ; l'eau s'écoulant d'un bol percé mesure le temps en Babylone et en Égypte vers le XVIe siècle av. J.-C. Vers 1300, l'échappement à verge permet les premières horloges mécaniques européennes. Christiaan Huygens invente l'horloge à pendule en 1656, et l'horloge électrique est brevetée en 1840."
+        },
+        {
+          "titre": "Une heure commune pour tous",
+          "texte": "Les cadrans solaires servaient encore à régler les horloges jusqu'aux années 1830. Puis le télégraphe et le train ont imposé une heure standard entre les villes et des fuseaux horaires : la mesure du temps est devenue un outil de coordination de toute une société."
+        }
+      ],
+      "anecdotes": [
+        "Le calife de Bagdad Hâroun ar-Rachîd offrit à Charlemagne un éléphant, Abul-Abbas, accompagné d'une horloge à eau particulièrement élaborée."
+      ],
+      "wikipedia": "Horloge"
+    },
+    "source": "D'après Wikipédia — Horloge"
+  },
+  {
+    "id": "tech-062",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "Le microscope",
+    "subtitle": "Instrument pour voir l'infiniment petit, apparu au début du XVIIe siècle",
+    "summary": "Une loupe ne suffit pas pour voir une cellule ou une bactérie. Le microscope combine des lentilles : l'une près de l'objet, l'autre près de l'œil, pour former une image très agrandie.\nSon inventeur est inconnu : on cite des fabricants de lunettes néerlandais du début du XVIIe siècle. Il a ensuite ouvert à la biologie et à la médecine un monde jusque-là invisible.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Du curieux instrument à l'outil de science",
+          "texte": "Galilée présente un microscope en 1625 ; le nom est forgé par Giovanni Faber. Le tournant arrive dans les années 1660-1670. Robert Hooke publie Micrographia en 1665, riche en dessins saisissants. Antonie van Leeuwenhoek, avec une seule minuscule lentille, atteint jusqu'à 300 fois de grossissement et rapporte le 9 octobre 1676 la découverte de micro-organismes."
+        },
+        {
+          "titre": "Aller plus loin que la lumière",
+          "texte": "La lumière visible limite la finesse de l'image : environ 0,25 micromètre, une limite décrite par Ernst Abbe. En 1931, Ernst Ruska et Max Knoll construisent un prototype de microscope électronique : un faisceau d'électrons remplace la lumière, des électroaimants remplacent les lentilles. Dans les années 1980, les microscopes à sonde de Binnig et Rohrer explorent la surface des matériaux."
+        },
+        {
+          "titre": "Un impact énorme sur le vivant",
+          "texte": "Le microscope a donné naissance à l'histologie, l'étude des tissus, et permis de découvrir cellules, microbes et, avec le microscope électronique, d'identifier des virus. Il sert aussi en science des matériaux. Aujourd'hui, la microscopie à fluorescence marque certaines structures cellulaires pour les observer dans des cellules vivantes."
+        }
+      ],
+      "anecdotes": [
+        "Galilée appelait son instrument « occhiolino », le « petit œil » ; c'est un ami, Giovanni Faber, qui inventa le mot « microscope » en 1625."
+      ],
+      "wikipedia": "Microscope"
+    },
+    "source": "D'après Wikipédia — Microscope"
+  },
+  {
+    "id": "tech-063",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "La pile électrique",
+    "subtitle": "Première source de courant continu, inventée par Volta en 1800",
+    "summary": "Avant 1800, on savait produire des étincelles avec l'électricité statique, mais pas un courant régulier. La pile d'Alessandro Volta change tout : deux métaux différents séparés par un feutre imbibé d'acide produisent un courant durable.\nElle est à l'origine de toutes nos piles et batteries, et le volt porte son nom.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le principe : une réaction qui pousse les électrons",
+          "texte": "Dans une pile, deux substances réagissent chimiquement : l'une cède facilement des électrons, l'autre les absorbe. Relier les deux bornes par un fil force ces électrons à circuler, et c'est le courant. On peut le voir avec une pile de fortune : un clou galvanisé et un fil de cuivre plantés dans un citron suffisent à allumer une petite diode."
+        },
+        {
+          "titre": "Des disques de Volta à nos piles",
+          "texte": "En 1786, Luigi Galvani voit des cuisses de grenouille se contracter au contact de métaux. Volta y voit autre chose que de l'électricité animale et invente la pile le 17 mars 1800 ; en mai, deux Britanniques l'utilisent pour décomposer l'eau. La pile Daniell (1836) est la première source durable, la pile Leclanché date de 1867, la pile sèche de 1888, l'alcaline de 1959 et la pile au lithium est commercialisée en 1977."
+        },
+        {
+          "titre": "Pile, accumulateur, batterie",
+          "texte": "En français, une pile n'est pas rechargeable : sa décharge est irréversible. Un accumulateur, lui, peut être rechargé ; une batterie est un assemblage de plusieurs éléments. L'invention de Volta a aussi alimenté le télégraphe, et la pile sèche a rendu les appareils portables pratiques."
+        }
+      ],
+      "anecdotes": [
+        "En 1813, Napoléon fit offrir à l'École polytechnique une pile de 600 couples cuivre-zinc, qui occupait 54 m² de surface."
+      ],
+      "wikipedia": "Pile électrique"
+    },
+    "source": "D'après Wikipédia — Pile électrique"
+  },
+  {
+    "id": "tech-064",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "La radio",
+    "subtitle": "Transmettre le son sans fil, de la TSF aux ondes pour tous",
+    "summary": "Comment parler à des milliers de personnes en même temps, sans câble ? La radio envoie des sons par ondes électromagnétiques, que n'importe quel poste réglé sur la bonne fréquence peut capter.\nDe la télégraphie sans fil (TSF) du début du XXe siècle aux foyers équipés dans les années 1930, la radio a été le premier média de masse du son.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le principe : une onde porteuse",
+          "texte": "Le micro transforme le son en signal électrique. Ce signal est superposé à une onde porteuse à haute fréquence, que l'antenne envoie dans l'air. En modulation d'amplitude (AM), le son fait varier la puissance de l'onde ; en modulation de fréquence (FM), il fait varier sa fréquence, ce qui rend l'écoute moins sensible aux parasites et permet la stéréo."
+        },
+        {
+          "titre": "Des étincelles aux émissions régulières",
+          "texte": "Le 5 novembre 1898, Eugène Ducretet montre en public la TSF : un message part de la tour Eiffel et arrive au Panthéon. Le 23 décembre 1900, Reginald Fessenden transmet la voix humaine sans fil. Une émission régulière commence à Laeken, en Belgique, le 28 mars 1914, avec un concert. Longtemps réservée aux marins et aux armées, la radio devient grand public après la Grande Guerre."
+        },
+        {
+          "titre": "Un média pour les foyers",
+          "texte": "Selon l'historien Eric Hobsbawm, aux États-Unis, la radio entre dans 10 millions de foyers en 1929, plus de 27 millions en 1939, plus de quarante millions en 1950. Il écrit qu'elle a transformé la vie des plus pauvres : même les plus solitaires disposaient désormais de tout ce qui se disait ou se chantait."
+        }
+      ],
+      "anecdotes": [
+        "En 1903, Gustave Eiffel offrit sa tour à Gustave Ferrié pour y tendre des antennes de TSF, afin qu'elle échappe à la démolition."
+      ],
+      "wikipedia": "Radiodiffusion"
+    },
+    "source": "D'après Wikipédia — Radiodiffusion"
+  },
+  {
+    "id": "tech-065",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "La télévision",
+    "subtitle": "Images animées à distance, des premiers essais de 1926 à nos écrans",
+    "summary": "Voir en direct ce qui se passe ailleurs : c'est la promesse de la télévision. Une caméra découpe l'image en lignes, transforme la lumière en signal électrique ; le récepteur reconstitue l'image ligne par ligne sur un écran.\nD'abord mécanique, puis électronique dans les années 1930, la télévision devient après la Seconde Guerre mondiale un média de masse.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le principe : balayer l'image",
+          "texte": "C'est comme lire une page ligne après ligne, très vite. Le système de télévision fait pareil avec une image : il la parcourt en lignes, envoie la luminosité de chaque point, et le récepteur la redessine en synchronisme. Au début, un disque de Nipkow troué en spirale servait à balayer ; plus tard, un tube cathodique à faisceau d'électrons a remplacé les pièces tournantes."
+        },
+        {
+          "titre": "Étapes et dates",
+          "texte": "Le 26 janvier 1926, John Logie Baird montre à Londres une image animée transmise en direct, avec seulement 30 lignes. En 1927, le jeune Philo Farnsworth dépose des brevets pour la télévision électronique ; il en fait une démonstration publique le 3 septembre 1928. En 1937, la BBC choisit un système électronique de 405 lignes. RCA lance en 1939 la première émission commerciale publique aux États-Unis."
+        },
+        {
+          "titre": "Une course à la définition",
+          "texte": "En vingt ans, des années 1930 aux années 1940, l'image gagne en finesse : de quelques dizaines de lignes, on approche le millier. Chaque pays défend sa norme : la France a utilisé un temps 819 lignes avant d'adopter le 625 lignes en 1963. La couleur arrive dans le courant des années 1960, et en 2013, 79 % des foyers du monde possédaient un téléviseur."
+        }
+      ],
+      "anecdotes": [
+        "Pour ses premiers essais en 1925, Baird filma un mannequin de ventriloque nommé Stooky Bill : un visage humain n'offrait pas assez de contraste pour son système rudimentaire."
+      ],
+      "wikipedia": "Télévision"
+    },
+    "source": "D'après Wikipédia — Télévision"
+  },
+  {
+    "id": "tech-066",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "Le radar",
+    "subtitle": "Détection par ondes radio, développée avant et pendant la Seconde Guerre mondiale",
+    "summary": "Comment repérer un navire dans le brouillard ou un avion dans la nuit ? Le radar émet des ondes radio et écoute leur écho, comme on crie dans une vallée en chronométrant le retour de sa voix.\nLe temps aller-retour donne la distance, l'effet Doppler la vitesse. Développé en secret par plusieurs pays avant et pendant la Seconde Guerre mondiale, il sert aujourd'hui aussi bien aux avions et aux navires qu'à la météo.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le principe : écouter l'écho",
+          "texte": "L'émetteur envoie des ondes très brèves ; quand elles rencontrent un obstacle, une petite part revient vers le récepteur. La durée du trajet donne la distance, la direction de l'antenne donne l'azimut, et le décalage de fréquence par effet Doppler donne la vitesse. Les ondes radio traversent nuages, brouillard et fumée, qui arrêtent la lumière."
+        },
+        {
+          "titre": "Des premières expériences à Chain Home",
+          "texte": "En 1904, l'Allemand Christian Hülsmeyer dépose le brevet du « Telemobiloskop », capable de détecter des bateaux dans un brouillard dense. En 1922, deux Américains remarquent que des bateaux perturbent un signal radio sur le Potomac. Le premier radar français équipe le cargo Orégon en 1934, puis le paquebot Normandie en 1935. En 1935, les Britanniques commandent le réseau Chain Home."
+        },
+        {
+          "titre": "Usage militaire, puis civil",
+          "texte": "Les besoins de la guerre font progresser la technique, notamment avec le magnétron à cavité mis au point au Royaume-Uni. Les opérateurs constatent aussi que la pluie renvoie des échos : après la guerre, cela mène aux radars météorologiques. Le radar sert aujourd'hui au contrôle aérien, à la navigation maritime, à la surveillance routière, à l'astronomie."
+        }
+      ],
+      "anecdotes": [
+        "En 1935, Robert Watson-Watt reçut un rapport sur un prétendu « rayon de la mort » allemand. Son collègue Arnold Wilkins montra par le calcul que c'était impossible, mais suggéra de détecter des avions grâce aux perturbations radio : ce fut l'expérience de Daventry, le 26 février 1935."
+      ],
+      "wikipedia": "Radar"
+    },
+    "source": "D'après Wikipédia — Radar"
+  },
+  {
+    "id": "tech-067",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "L'automobile",
+    "subtitle": "Du fardier de Cugnot à la voiture de série",
+    "summary": "Se déplacer sans cheval : voilà le rêve des inventeurs depuis le XVIIIe siècle. Une automobile place sur un châssis roulant un moteur, une transmission et des commandes, pour transporter quelques personnes et leurs bagages.\nDu fardier à vapeur de 1769 à la Ford T, en passant par la voiture à moteur de Karl Benz en 1886, l'automobile a profondément transformé les villes, les métiers et les paysages.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Vapeur, électricité, essence",
+          "texte": "Nicolas Joseph Cugnot construit en 1769 le fardier, premier véhicule à vapeur fonctionnel. En 1873, L'Obéissante d'Amédée Bollée est une des premières voitures à vapeur commercialisées. En 1881, Charles Jeantaud sort une voiture électrique. Au tournant du XXe siècle, trois modes de propulsion se concurrencent ; le moteur à combustion l'emporte, faute de progrès dans le stockage de l'électricité."
+        },
+        {
+          "titre": "De Benz à la Ford T",
+          "texte": "Carl Benz dépose en 1886 le brevet de sa Patent-Motorwagen, souvent vue comme la naissance de l'automobile moderne. En 1899, la voiture électrique La Jamais contente franchit la barre des 100 km/h. La Ford T, première voiture de grande série, s'appuie sur de nouvelles méthodes de production comme le fordisme et fait entrer l'automobile dans la société du XXe siècle."
+        },
+        {
+          "titre": "Un impact de société",
+          "texte": "Selon l'historien Jean-Claude Daumas, beaucoup de salariés français achètent leur première voiture entre les années 1950 et 1960. L'automobile fait vivre carrossiers, selliers et garagistes, impose de goudronner les routes, mais pose aussi des questions de sécurité routière et d'environnement, qui orientent les innovations récentes comme l'hybride (Toyota Prius, 1997)."
+        }
+      ],
+      "anecdotes": [
+        "En août 1888, Bertha Benz, épouse et associée de Carl Benz, fit le premier long trajet en automobile à moteur pour prouver que l'invention de son mari était fiable."
+      ],
+      "wikipedia": "Automobile"
+    },
+    "source": "D'après Wikipédia — Automobile"
+  },
+  {
+    "id": "tech-068",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "Le chemin de fer",
+    "subtitle": "Rails, locomotives et trains, nés en Grande-Bretagne au début du XIXe siècle",
+    "summary": "Déplacer de lourdes charges sur des routes de terre coûtait cher et allait lentement. Sur deux rails d'acier, la roue roule avec très peu de frottement : une locomotive peut tirer un long convoi.\nTout commence dans les mines de charbon, puis le train de voyageurs apparaît en 1825 : en un siècle, le chemin de fer relie les villes et les pays.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le principe : acier sur acier, en convoi",
+          "texte": "La roue d'acier roule sur un rail d'acier : le frottement est faible, donc il faut peu d'énergie pour tirer des wagons attelés en convoi. En contrepartie, le train freine moins vite, ne peut pas gravir de fortes pentes ni tourner brusquement, ce qui oblige à construire des tunnels, des viaducs et à suivre les fonds de vallée."
+        },
+        {
+          "titre": "Des mines au train de voyageurs",
+          "texte": "Dès 1550 environ, des chariots roulent sur des rails de bois dans les mines. En 1768, les rails en bois sont remplacés par de la fonte à Coalbrookdale. Richard Trevithick essaie une première locomotive en 1804. Le 27 septembre 1825, la ligne de Stockton à Darlington ouvre : tirés par la Locomotion n° 1 de George Stephenson, ses trains sont les premiers à transporter des voyageurs à la vapeur. Puis viennent la Belgique en 1835 et la ligne Paris-Le Pecq en 1837."
+        },
+        {
+          "titre": "Un outil pour transformer les sociétés",
+          "texte": "Le train baisse le coût et la durée des transports : il aide à créer de véritables marchés nationaux. Entre 1848 et 1914, le réseau se déploie plus vite que jamais en Europe et en Amérique du Nord. Après la crise pétrolière de 1973, le rail connaît un renouveau, notamment avec les trains à grande vitesse, dont la première ligne ouvre au Japon en 1964."
+        }
+      ],
+      "anecdotes": [
+        "Les mineurs allemands du XVIe siècle surnommaient « Hunde », les chiens, leurs wagonnets sur rails de bois : à cause du bruit qu'ils faisaient en roulant."
+      ],
+      "wikipedia": "Chemin de fer"
+    },
+    "source": "D'après Wikipédia — Chemin de fer"
+  },
+  {
+    "id": "tech-069",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "Le laser",
+    "subtitle": "Source de lumière cohérente, première réalisation en 1960",
+    "summary": "Une ampoule diffuse de la lumière dans toutes les directions. Un laser, au contraire, produit un faisceau très fin, d'une seule couleur, dont toutes les ondes vibrent en phase : on dit que la lumière est cohérente.\nLe premier laser fonctionne en 1960. Il est aujourd'hui partout : lecteurs de codes-barres, chirurgie, découpe industrielle, fibres optiques.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le principe : une réaction en chaîne de lumière",
+          "texte": "Quand un photon passe près d'un atome excité, il peut provoquer l'émission d'un photon identique : c'est l'émission stimulée. Dans un laser, un matériau est sans cesse « pompé » d'énergie, et la lumière rebondit entre deux miroirs, un peu comme un cri qui se renforce dans un couloir. Un des miroirs laisse sortir une partie de la lumière : c'est le faisceau."
+        },
+        {
+          "titre": "Étapes et dates",
+          "texte": "Albert Einstein décrit l'émission stimulée en 1917. Le premier maser, équivalent pour les micro-ondes, date de 1953 ; Townes, Bassov et Prokhorov reçoivent le prix Nobel de physique en 1964. En 1960, Theodore Maiman obtient le premier faisceau laser avec un cristal de rubis. Ali Javan réalise ensuite un laser à gaz, avec un mélange d'hélium et de néon."
+        },
+        {
+          "titre": "Des usages en cascade",
+          "texte": "Dès 1965, un laser perce du diamant. Le laser lit les codes-barres à partir de 1974 et les disques compacts à partir de 1982. Il sert aussi à découper des métaux sans contact ni usure d'outil, et il rend possible la transmission d'informations par fibre optique. Les lasers sont désormais utilisés dans la médecine, l'industrie et la recherche."
+        }
+      ],
+      "anecdotes": [
+        "La première application industrielle (1965) a percé un trou de 4,7 mm de diamètre dans du diamant en 15 minutes, au lieu des 24 heures d'un procédé classique."
+      ],
+      "wikipedia": "Laser"
+    },
+    "source": "D'après Wikipédia — Laser"
+  },
+  {
+    "id": "tech-070",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "La fibre optique",
+    "subtitle": "Fil de verre qui guide la lumière, utilisable pour les télécoms depuis 1970",
+    "summary": "Pour transmettre toujours plus d'informations, la fibre optique remplace l'électricité par la lumière. Un fil de verre très fin guide des impulsions lumineuses sur des centaines, voire des milliers de kilomètres.\nElle repose sur un principe connu dès les années 1840, mais il faut attendre 1970 pour fabriquer une fibre assez transparente pour les télécommunications.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le principe : un tuyau de lumière",
+          "texte": "La fibre a un cœur de verre entouré d'une gaine d'indice de réfraction un peu plus faible. La lumière entrée par une extrémité rebondit sans cesse sur la paroi par réflexion totale interne, suit un trajet en zigzag, et ressort à l'autre bout, même si la fibre est courbée. Colladon et Babinet l'avaient montré dès les années 1840 avec un jet d'eau qui guidait la lumière."
+        },
+        {
+          "titre": "Étapes et dates",
+          "texte": "Dans les années 1880, Alexander Graham Bell teste son photophone, qui transmet la voix par la lumière du soleil sur environ deux cents mètres. Vers 1953-1957, les premiers fibroscopes permettent de voir à l'intérieur du corps. En 1964, Charles Kao imagine la fibre pour les communications ; en 1970, trois chercheurs de Corning produisent une fibre à 20 décibels par kilomètre. Le premier système téléphonique optique est installé à Chicago en 1977."
+        },
+        {
+          "titre": "L'épine dorsale des télécoms",
+          "texte": "Charles Kao reçoit le prix Nobel de physique en 2009. Selon une estimation, depuis 2005, plus de 80 % du trafic à longue distance emprunte des câbles à fibres optiques, au total plus de 25 millions de kilomètres. D'abord réservée aux liaisons entre centraux téléphoniques, la fibre arrive peu à peu chez les particuliers."
+        }
+      ],
+      "anecdotes": [
+        "En 1968, la NASA a utilisé des fibres optiques dans les caméras envoyées vers la Lune ; cet usage était alors confidentiel, et les employés qui manipulaient ces caméras devaient être surveillés par quelqu'un disposant de l'habilitation requise."
+      ],
+      "wikipedia": "Fibre optique"
+    },
+    "source": "D'après Wikipédia — Fibre optique"
+  },
+  {
+    "id": "tech-071",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "L'écran tactile",
+    "subtitle": "Écran sensible au doigt, du laboratoire de 1965 aux smartphones",
+    "summary": "Pourquoi passer par une souris quand on peut toucher directement ce qu'on voit ? L'écran tactile affiche l'image et détecte en même temps où un doigt ou un stylet se pose.\nLe premier écran piloté au doigt est décrit en 1965 en Angleterre. Il faut attendre les années 2000 pour que les écrans multipoint se généralisent, avec les gestes de zoom et de défilement.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le principe : détecter le toucher",
+          "texte": "Deux grandes familles dominent. L'écran résistif a deux couches conductrices : une pression les met en contact et un circuit repère le point. L'écran capacitif détecte la modification des charges électriques quand un doigt, conducteur, s'approche d'une grille de fils invisibles. Mesurer le courant sur tout le quadrillage permet de suivre plusieurs doigts à la fois."
+        },
+        {
+          "titre": "Étapes et dates",
+          "texte": "Eric Johnson décrit en 1965 le premier écran tactile capacitif piloté au doigt. Le CERN met en service le sien en 1973. En 1971, Sam Hurst crée l'écran résistif, et PLATO IV, en 1972, passe pour le premier écran tactile vendu. Le HP-150 (1983) vise le grand public, l'Apple Newton paraît en 1993 et IBM Simon, en 1994, est vu comme le premier smartphone tactile."
+        },
+        {
+          "titre": "Le multipoint pour tous",
+          "texte": "En mars 2007, le LG Prada est le premier smartphone à écran capacitif utilisable sans stylet. L'iPhone, commercialisé à partir de juin 2007, popularise l'écran multipoint, et ses gestes de zoom et de défilement deviennent un standard. Aujourd'hui, on retrouve l'écran tactile sur les tablettes, les bornes, les distributeurs et les caisses automatiques."
+        }
+      ],
+      "anecdotes": [
+        "L'écran tactile du CERN, utilisé dès 1973, aurait pu détecter plusieurs doigts, selon un article de l'époque, mais cette capacité était volontairement bloquée par le logiciel."
+      ],
+      "wikipedia": "Écran tactile"
+    },
+    "source": "D'après Wikipédia — Écran tactile"
+  },
+  {
+    "id": "tech-072",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "L'impression 3D",
+    "subtitle": "Fabrication d'objets couche après couche, née dans les années 1980",
+    "summary": "Au lieu de creuser un bloc de matière, l'impression 3D construit un objet couche après couche, à partir d'un modèle numérique. C'est la fabrication additive, à l'opposé de la fabrication soustractive.\nElle commence dans les années 1980 pour fabriquer vite des prototypes, puis gagne la médecine, l'industrie et même la construction.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le principe : empiler des couches fines",
+          "texte": "Une imprimante 3D fonctionne un peu comme un pistolet à colle piloté par ordinateur. Elle dépose, solidifie ou fusionne de la matière : plastique, résine, poudre, métal ou béton. Le modèle numérique est découpé en tranches très fines, et chaque tranche est réalisée l'une sur l'autre. Cela permet des formes creuses ou compliquées, impossibles à usiner."
+        },
+        {
+          "titre": "Étapes et dates",
+          "texte": "En 1980, Hideo Kodama réalise au Japon l'ancêtre de la stéréolithographie. Le 16 juillet 1984, trois Français déposent le premier brevet de fabrication additive ; trois semaines plus tard, Charles Hull brevète la stéréolithographie. 3D Systems lance fin 1988 la première imprimante commerciale, et le procédé FDM est breveté en 1989. En 2004, le projet RepRap lance l'imprimante 3D libre."
+        },
+        {
+          "titre": "De l'atelier à la maison",
+          "texte": "Après l'expiration du brevet FDM en 2009, les imprimantes à quelques centaines d'euros se multiplient. On imprime des pièces pour la dentisterie, la bijouterie, l'aérospatiale et le cinéma. Des robots impriment aussi du béton : en 2014, une entreprise chinoise a fabriqué dix petites maisons en 24 heures, et un pont imprimé en 3D est ouvert à Amsterdam en 2021."
+        }
+      ],
+      "anecdotes": [
+        "Dans le film d'animation Tintin et le Lac aux requins (1972), le professeur Tournesol invente une photocopieuse tridimensionnelle que Rastapopoulos voudrait utiliser pour dupliquer des œuvres d'art volées."
+      ],
+      "wikipedia": "Impression 3D"
+    },
+    "source": "D'après Wikipédia — Impression 3D"
+  },
+  {
+    "id": "tech-073",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "L'accumulateur lithium-ion",
+    "subtitle": "Batterie rechargeable commercialisée en 1991, Nobel de chimie 2019",
+    "summary": "Pour rendre téléphones et ordinateurs vraiment portables, il fallait une batterie légère, rechargeable, et qui stocke beaucoup d'énergie. L'accumulateur lithium-ion répond à ces trois exigences : les ions lithium font la navette entre deux électrodes.\nSony le commercialise en 1991. Depuis, il équipe aussi les voitures électriques et les stockages d'électricité du réseau.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le principe : des ions en va-et-vient",
+          "texte": "Dans la batterie, des ions lithium se déplacent à travers un liquide d'une électrode à l'autre. À la décharge, ils quittent le graphite pour rejoindre un oxyde métallique ; pendant la charge, ils font le trajet inverse, comme un fauteuil à bascule (on parle de batteries « rocking-chair »). Comme les électrons passent par le circuit extérieur, l'appareil reçoit du courant."
+        },
+        {
+          "titre": "Trois inventeurs, un Nobel",
+          "texte": "Dans les années 1970, Stanley Whittingham conçoit la première batterie rechargeable au lithium. John Goodenough change la matière de l'électrode positive, avec de l'oxyde de cobalt, ce qui rend la batterie plus efficace. Au milieu des années 1980, Akira Yoshino abandonne le lithium pur au profit d'un matériau carboné, plus stable et plus durable. Tous trois reçoivent le prix Nobel de chimie en 2019."
+        },
+        {
+          "titre": "Précautions et progrès",
+          "texte": "Ces batteries tolèrent mal la surcharge et la chaleur : un système électronique de gestion les protège. En trente ans, leur densité d'énergie par volume a été multipliée par trois et leur coût divisé par dix. Fin 2024, la demande mondiale a dépassé 1 térawattheure par an."
+        }
+      ],
+      "anecdotes": [
+        "Le pétrolier Exxon, inquiet de la crise pétrolière, finança les travaux de Whittingham sur la première batterie au lithium, avant d'interrompre ses subventions à la fin de cette crise."
+      ],
+      "wikipedia": "Accumulateur lithium-ion"
+    },
+    "source": "D'après Wikipédia — Accumulateur lithium-ion"
+  },
+  {
+    "id": "tech-074",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "La cellule photovoltaïque",
+    "subtitle": "Transformer directement la lumière en électricité, effet découvert en 1839",
+    "summary": "Comment obtenir du courant sans moteur, sans pièce mobile, juste avec de la lumière ? La cellule photovoltaïque utilise l'effet découvert en 1839 par Edmond Becquerel : certains matériaux, éclairés, produisent de l'électricité.\nElle sert d'abord dans l'espace, avec le satellite Vanguard 1 en 1958, puis alimente sites isolés et toits : c'est la base du panneau solaire.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le principe : une pente pour les électrons",
+          "texte": "Dans une cellule en silicium, un photon d'énergie suffisante arrache un électron, laissant un « trou ». Sans précaution, l'électron retombe aussitôt dans un trou et l'énergie se perd. Une jonction entre deux couches de silicium traitées différemment crée un champ électrique, comme une pente qui envoie les électrons d'un côté, les trous de l'autre : une tension apparaît entre les deux faces."
+        },
+        {
+          "titre": "Étapes et dates",
+          "texte": "En 1839, Edmond Becquerel observe qu'un montage éclairé produit une tension. Charles Fritts réalise en 1883 une cellule en sélénium d'un rendement proche de 1 %. En 1954, les laboratoires Bell atteignent 6 %, et en 1958 les cellules alimentent les émetteurs radio du satellite Vanguard 1, avec 9 % de rendement. Dans les années 1970, elles apportent l'électricité aux lieux reculés."
+        },
+        {
+          "titre": "Silicium et rendement aujourd'hui",
+          "texte": "Le silicium, tiré du sable et du quartz, est le matériau le plus utilisé. Selon une estimation de 2015, les cellules monocristallines convertissent de 16 à 24 % de la lumière reçue. Il faut compter, selon la technique, deux à trois ans de fonctionnement à un module pour rembourser l'énergie dépensée à le fabriquer."
+        }
+      ],
+      "anecdotes": [
+        "En 1987, la première World Solar Challenge, course de 3 000 km à travers l'outback australien, fut remportée avec une large avance par une voiture solaire de General Motors, la Sunraycer."
+      ],
+      "wikipedia": "Cellule photovoltaïque"
+    },
+    "source": "D'après Wikipédia — Cellule photovoltaïque"
+  },
+  {
+    "id": "tech-075",
+    "domain": "tech",
+    "subtheme": "Grandes inventions",
+    "type": "classique",
+    "title": "Le drone",
+    "subtitle": "Engin sans pilote à bord, des premiers essais de 1917 aux usages civils",
+    "summary": "Un drone est un engin sans équipage à bord, piloté à distance ou en automatique. Il peut voler plus longtemps qu'un pilote ne le supporterait et aller dans des zones dangereuses ou difficiles d'accès.\nNé de tentatives pendant la Première Guerre mondiale, le drone s'est largement civilisé : photographie aérienne, secours, agriculture, inspection d'ouvrages.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le principe : un système à trois éléments",
+          "texte": "On parle de « système de drones » : un engin volant équipé de capteurs, une station de commande au sol et une liaison radio pour les données. Le pilote ne monte pas à bord, il pilote à distance, ou le drone suit un programme. Les plus répandus aujourd'hui sont des multicoptères à plusieurs hélices, capables de décoller verticalement et de rester en vol stationnaire."
+        },
+        {
+          "titre": "Étapes et dates",
+          "texte": "Le 2 juillet 1917, l'avion Voisin du pilote français Max Boucher parcourt 1 km sans intervention humaine ; le 14 septembre 1918, un vol de 51 minutes couvre 100 km. Le premier drone français, au sens strict, est testé en 1923 à Étampes. Dans les années 1930, des avions-cibles britanniques radiocommandés, les Queen Bee, donnent leur nom au mot « drone »."
+        },
+        {
+          "titre": "Des usages civils variés",
+          "texte": "Les drones servent à suivre la circulation routière, surveiller les côtes et l'environnement, mener des recherches pour retrouver des personnes, observer la météo, prendre des photographies aériennes, inspecter des ouvrages ou surveiller des feux de forêt. Leurs tailles vont de quelques centimètres à des dizaines de mètres d'envergure."
+        }
+      ],
+      "anecdotes": [
+        "Le mot « drone » signifie « faux bourdon » en anglais : dans les années 1930, on a ainsi surnommé par dérision des avions-cibles Queen Bee, dont le vol lent et bruyant évoquait plus un bourdon qu'une reine des abeilles."
+      ],
+      "wikipedia": "Drone"
+    },
+    "source": "D'après Wikipédia — Drone"
   }
 ]

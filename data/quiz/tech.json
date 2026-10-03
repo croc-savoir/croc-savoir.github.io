@@ -1000,5 +1000,298 @@
     "bonneReponse": 0,
     "explication": "Un compilateur transforme d'abord le code source en code exécutable par la machine. Un interprète, lui, traduit les instructions au fur et à mesure de l'exécution. Les deux sont des traducteurs automatiques de langages de programmation.",
     "source": "D'après Wikipédia — Langage de programmation"
+  },
+  {
+    "id": "q-tech-063",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Pourquoi, selon une hypothèse de Jared Diamond, les civilisations précolombiennes ont-elles très peu utilisé la roue pour transporter des charges ?",
+    "choix": [
+      "Elles ne disposaient pas d'animaux de trait pour tirer des véhicules",
+      "Elles ne connaissaient pas le travail du bois",
+      "Leur religion interdisait les objets ronds",
+      "Leurs routes étaient toutes pavées de pierres"
+    ],
+    "bonneReponse": 0,
+    "explication": "Des roues miniatures existent sur des jouets mésoaméricains, mais sans bœufs ni chevaux pour tirer des chariots, la roue servait peu. Jared Diamond estime que seules les sociétés dotées d'animaux de trait ont utilisé des attelages.",
+    "source": "D'après Wikipédia — Roue"
+  },
+  {
+    "id": "q-tech-064",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "La roue a été inventée uniquement à Sumer, en Mésopotamie, avant d'apparaître ailleurs.",
+    "reponse": false,
+    "explication": "On l'a longtemps cru, mais un pot de Bronocice, en Pologne, montre un chariot à quatre roues vers 3500 av. J.-C., et des roues en bois du IVe millénaire ont été retrouvées en Europe centrale, comme près de Ljubljana. L'origine reste discutée.",
+    "source": "D'après Wikipédia — Roue"
+  },
+  {
+    "id": "q-tech-065",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel est l'instrument d'orientation décrit dans un texte chinois daté de 1040-1044 ?",
+    "choix": [
+      "Un poisson de fer flottant dans un bol d'eau et se tournant vers le sud",
+      "Une aiguille suspendue à un fil de soie",
+      "Une tortue de bois posée sur une pointe de bambou",
+      "Un cadran solaire de poche"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ce « poisson indiquant le sud » servait à s'orienter la nuit ou par mauvais temps. L'aiguille suspendue à un fil de soie est décrite vers 1080 par Shen Kua, la tortue de bois en 1136 : ce sont des variantes plus tardives.",
+    "source": "D'après Wikipédia — Boussole"
+  },
+  {
+    "id": "q-tech-066",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Un certain Flavio Gioja, d'Amalfi, a inventé la boussole vers 1300.",
+    "reponse": false,
+    "explication": "Ce nom vient de textes mal lus et déformés : pour l'historien Charles de La Roncière, le personnage relève de la légende. La boussole est apparue en Chine bien avant, et des textes européens la mentionnent dès 1190.",
+    "source": "D'après Wikipédia — Boussole"
+  },
+  {
+    "id": "q-tech-067",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Qui invente l'horloge à pendule en 1656 ?",
+    "choix": [
+      "Christiaan Huygens",
+      "Robert Hooke",
+      "Galilée",
+      "James Watt"
+    ],
+    "bonneReponse": 0,
+    "explication": "Avec le pendule, régulier, l'horloge devient bien plus précise que les horloges mécaniques à balancier apparues vers 1300. La navigation, qui exigeait une heure fiable, a beaucoup stimulé ces progrès de précision.",
+    "source": "D'après Wikipédia — Horloge"
+  },
+  {
+    "id": "q-tech-068",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Qui annonce, le 9 octobre 1676, avoir découvert des micro-organismes grâce à ses microscopes ?",
+    "choix": [
+      "Antonie van Leeuwenhoek",
+      "Robert Hooke",
+      "Marcello Malpighi",
+      "Ernst Ruska"
+    ],
+    "bonneReponse": 0,
+    "explication": "Leeuwenhoek, avec de minuscules lentilles sphériques montées entre deux plaques de métal, atteignait environ 300 fois de grossissement. Hooke publie Micrographia en 1665, et Ruska, le microscope électronique en 1931.",
+    "source": "D'après Wikipédia — Microscope"
+  },
+  {
+    "id": "q-tech-069",
+    "domain": "tech",
+    "format": "associer",
+    "question": "Associe chaque acteur de l'histoire du microscope à son apport.",
+    "paires": [
+      {
+        "gauche": "Giovanni Faber",
+        "droite": "Invente le mot « microscope » en 1625",
+        "explication": "Faber nomme ainsi l'instrument que Galilée appelait « petit œil »."
+      },
+      {
+        "gauche": "Robert Hooke",
+        "droite": "Publie Micrographia en 1665",
+        "explication": "Ses illustrations spectaculaires ont popularisé le monde microscopique."
+      },
+      {
+        "gauche": "Antonie van Leeuwenhoek",
+        "droite": "Atteint environ 300 fois de grossissement",
+        "explication": "Il y parvient avec un microscope à une seule lentille minuscule."
+      },
+      {
+        "gauche": "Ernst Ruska",
+        "droite": "Construit un prototype électronique en 1931",
+        "explication": "Avec Max Knoll, il remplace la lumière par un faisceau d'électrons."
+      }
+    ],
+    "explication": "Du XVIIe siècle au XXe siècle, le microscope passe de la lentille de verre au faisceau d'électrons, ce qui a ouvert à la biologie des échelles de plus en plus fines.",
+    "source": "D'après Wikipédia — Microscope"
+  },
+  {
+    "id": "q-tech-070",
+    "domain": "tech",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom est un acronyme anglais forgé en 1940 par la marine américaine, devenu un nom commun.",
+      "Un brevet de 1904, déposé par l'Allemand Christian Hülsmeyer, décrit un de mes ancêtres capable de repérer des bateaux dans un brouillard dense.",
+      "J'envoie des ondes radio et j'écoute leur écho.",
+      "Le temps aller-retour de l'onde me donne la distance, l'effet Doppler la vitesse.",
+      "Je sers aux contrôleurs aériens, aux navigateurs et aux météorologues."
+    ],
+    "reponse": "Le radar",
+    "explication": "Développé en secret par plusieurs pays avant et pendant la Seconde Guerre mondiale, le radar a trouvé après la guerre des usages civils : les échos de pluie ont mené aux radars météorologiques, et il guide aujourd'hui avions et navires.",
+    "source": "D'après Wikipédia — Radar"
+  },
+  {
+    "id": "q-tech-071",
+    "domain": "tech",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire du chemin de fer dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Richard Trevithick essaie une locomotive à vapeur sur rails",
+        "annee": "1804"
+      },
+      {
+        "label": "Ouverture de la ligne Stockton-Darlington, avec des voyageurs",
+        "annee": "1825"
+      },
+      {
+        "label": "Première ligne à vapeur publique d'Europe continentale, en Belgique",
+        "annee": "1835"
+      },
+      {
+        "label": "Ouverture de la ligne de Paris au Pecq",
+        "annee": "1837"
+      },
+      {
+        "label": "Première ligne à grande vitesse, au Japon",
+        "annee": "1964"
+      }
+    ],
+    "explication": "La locomotive de Trevithick, trop lourde, brise ses rails en 1804. Puis le chemin de fer se répand : 1825 en Angleterre, 1835 en Belgique, 1837 vers Paris, et enfin la grande vitesse japonaise en 1964.",
+    "source": "D'après Wikipédia — Chemin de fer"
+  },
+  {
+    "id": "q-tech-072",
+    "domain": "tech",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de la radio dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Ducretet montre la TSF entre la tour Eiffel et le Panthéon",
+        "annee": "1898"
+      },
+      {
+        "label": "Fessenden transmet la voix humaine sans fil",
+        "annee": "1900"
+      },
+      {
+        "label": "Ferrié tend des antennes de TSF depuis la tour Eiffel",
+        "annee": "1903"
+      },
+      {
+        "label": "Premières émissions régulières de radio à Laeken, en Belgique",
+        "annee": "1914"
+      }
+    ],
+    "explication": "La TSF commence par la télégraphie, puis la voix : Fessenden transmet la parole sans fil en 1900. Avec les antennes de la tour Eiffel en 1903, la radio sert d'abord aux armées et aux marins, avant les concerts réguliers de Laeken en 1914.",
+    "source": "D'après Wikipédia — Radiodiffusion"
+  },
+  {
+    "id": "q-tech-073",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Qui obtient en 1960 la première émission laser, avec un cristal de rubis ?",
+    "choix": [
+      "Theodore Maiman",
+      "Charles Townes",
+      "Albert Einstein",
+      "Ali Javan"
+    ],
+    "bonneReponse": 0,
+    "explication": "Einstein décrit l'émission stimulée dès 1917, Townes reçoit le Nobel de physique en 1964 pour ses travaux sur le principe maser-laser, et Ali Javan met au point un laser à gaz. Mais c'est Maiman qui réalise le premier laser.",
+    "source": "D'après Wikipédia — Laser"
+  },
+  {
+    "id": "q-tech-074",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "En 1899, la voiture électrique La Jamais contente est la première à dépasser les 100 km/h.",
+    "reponse": true,
+    "explication": "Au tournant du XXe siècle, vapeur, électricité et essence se disputent la route. La voiture électrique brille d'abord en vitesse, mais le moteur à combustion l'emporte, faute de progrès dans le stockage de l'électricité.",
+    "source": "D'après Wikipédia — Automobile"
+  },
+  {
+    "id": "q-tech-075",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel phénomène physique garde la lumière enfermée dans le cœur d'une fibre optique ?",
+    "choix": [
+      "La réflexion totale interne",
+      "L'effet Doppler",
+      "La diffraction par un réseau",
+      "L'effet photovoltaïque"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le cœur de verre a un indice de réfraction légèrement supérieur à celui de la gaine : la lumière se réfléchit sans cesse sur l'interface et avance en zigzag. Colladon et Babinet l'avaient montré dès les années 1840 avec un jet d'eau.",
+    "source": "D'après Wikipédia — Fibre optique"
+  },
+  {
+    "id": "q-tech-076",
+    "domain": "tech",
+    "format": "difference",
+    "question": "Quelle est la différence de principe entre un écran tactile résistif et un écran tactile capacitif ?",
+    "choix": [
+      "Le résistif détecte une pression qui met deux couches conductrices en contact ; le capacitif détecte les charges électriques que modifie un doigt",
+      "Le résistif fonctionne avec la chaleur ; le capacitif fonctionne avec des ultrasons",
+      "Le résistif reconnaît plusieurs doigts ; le capacitif ne fonctionne qu'avec un stylet",
+      "Le résistif est le plus récent ; le capacitif date des années 1990"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le résistif réagit à la pression, doigt ou stylet. Le capacitif, sensible au doigt conducteur, laisse mieux passer la lumière et permet le multipoint : il se généralise à partir de 2007, avec le LG Prada puis l'iPhone.",
+    "source": "D'après Wikipédia — Écran tactile"
+  },
+  {
+    "id": "q-tech-077",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel prix a été décerné en 2019 à Whittingham, Goodenough et Yoshino pour la batterie lithium-ion ?",
+    "choix": [
+      "Le prix Nobel de chimie",
+      "Le prix Nobel de physique",
+      "Le prix Turing",
+      "Le prix Nobel de la paix"
+    ],
+    "bonneReponse": 0,
+    "explication": "Whittingham conçoit dans les années 1970 la première batterie rechargeable au lithium, Goodenough améliore son électrode, Yoshino perfectionne l'ensemble au milieu des années 1980. Sony commercialise la batterie en 1991.",
+    "source": "D'après Wikipédia — Accumulateur lithium-ion"
+  },
+  {
+    "id": "q-tech-078",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel satellite a utilisé des cellules solaires comme première application réelle, en 1958 ?",
+    "choix": [
+      "Vanguard 1",
+      "Spoutnik 1",
+      "Explorer 6",
+      "Hubble"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les cellules alimentaient les émetteurs radio de Vanguard 1, avec 9 % de rendement. Elles offraient le meilleur rapport puissance-poids, et sont restées ensuite la principale source d'énergie des satellites en orbite.",
+    "source": "D'après Wikipédia — Cellule photovoltaïque"
+  },
+  {
+    "id": "q-tech-079",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel projet lancé en 2004 par Adrian Bowyer est le premier projet libre d'imprimante 3D ?",
+    "choix": [
+      "RepRap",
+      "Stereoscan",
+      "Pyréolophore",
+      "Chain Home"
+    ],
+    "bonneReponse": 0,
+    "explication": "RepRap a donné naissance à la culture maker : l'idée était de fabriquer des imprimantes capables d'imprimer en partie leurs propres pièces. Avec l'expiration du brevet FDM en 2009, les machines abordables se sont multipliées.",
+    "source": "D'après Wikipédia — Impression 3D"
+  },
+  {
+    "id": "q-tech-080",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "D'où vient le mot « drone », utilisé pour les engins volants sans pilote ?",
+    "choix": [
+      "Du mot anglais pour « faux bourdon », donné par dérision à des avions-cibles",
+      "De l'acronyme d'un projet américain de 1941",
+      "Du mot grec pour « voler »",
+      "Du nom de leur inventeur, Reginald Drone"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans les années 1930, au Royaume-Uni, on a surnommé « drone » les avions-cibles Queen Bee : leur vol lent et bruyant évoquait celui d'un bourdon plus que celui d'une reine. L'armée américaine reprend le mot dès 1941.",
+    "source": "D'après Wikipédia — Drone"
   }
 ]

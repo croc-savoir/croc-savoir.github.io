@@ -1272,5 +1272,271 @@
     ],
     "explication": "L'inquiétude pour la nature s'installe au XIXe siècle : réserve de Fontainebleau en 1853, analyse de Marsh en 1864, premier grand parc américain en 1872. Les premiers accords internationaux arrivent au début du XXe siècle.",
     "source": "D'après Wikipédia — Écologisme"
+  },
+  {
+    "id": "q-politique-081",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quelle réforme Charles de Gaulle a-t-il fait adopter par référendum en 1962, après l'attentat du Petit-Clamart ?",
+    "choix": [
+      "L'élection du président de la République au suffrage universel direct",
+      "La création du Sénat",
+      "Le passage du mandat présidentiel à sept ans",
+      "L'abaissement de l'âge du droit de vote"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après l'attentat du Petit-Clamart qui le visait, de Gaulle fit adopter par référendum en 1962 l'élection du président au suffrage universel direct. Il fut réélu ainsi en 1965, ce que ses opposants jugeaient trop personnel.",
+    "source": "D'après Wikipédia — Charles de Gaulle"
+  },
+  {
+    "id": "q-politique-082",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Dans quel journal Georges Clemenceau s'est-il engagé pour la défense du capitaine Dreyfus ?",
+    "choix": [
+      "L'Aurore",
+      "La Justice",
+      "Le Temps",
+      "L'Humanité"
+    ],
+    "bonneReponse": 0,
+    "explication": "Clemenceau travailla à L'Aurore, le journal qui publia l'affaire Dreyfus au grand jour, et il publia en 1899 le livre L'Iniquité. Il avait fondé La Justice en 1880, mais c'est à L'Aurore qu'il mena ce combat.",
+    "source": "D'après Wikipédia — Georges Clemenceau"
+  },
+  {
+    "id": "q-politique-083",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Au congrès de Tours de 1920, Léon Blum a refusé de faire adhérer les socialistes à l'Internationale communiste.",
+    "reponse": true,
+    "explication": "Blum refusa de suivre la majorité qui voulait rejoindre la Troisième Internationale. Il plaida pour préserver la « vieille maison » socialiste ; la majorité le refusa, d'où la scission entre socialistes et communistes.",
+    "source": "D'après Wikipédia — Léon Blum"
+  },
+  {
+    "id": "q-politique-084",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quelles productions Robert Schuman a-t-il proposé de placer sous une autorité commune franco-allemande le 9 mai 1950 ?",
+    "choix": [
+      "Le charbon et l'acier",
+      "Le pétrole et le gaz",
+      "Le blé et le sucre",
+      "L'électricité et l'eau"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 9 mai 1950, Schuman proposa de mettre le charbon et l'acier franco-allemands sous une Haute Autorité commune. Le traité de Paris de 1951 créa la CECA, point de départ de l'Union européenne ; le 9 mai est devenu le Jour de l'Europe.",
+    "source": "D'après Wikipédia — Robert Schuman"
+  },
+  {
+    "id": "q-politique-085",
+    "domain": "politique",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Cognac dans une famille de négociants.",
+      "Je n'ai jamais exercé de fonction élective, mais j'ai conseillé des gouvernements pendant deux guerres mondiales.",
+      "J'ai été le premier commissaire au Plan de la France d'après-guerre.",
+      "J'ai présidé la Haute Autorité de la CECA et je suis considéré comme un « père de l'Europe »."
+    ],
+    "reponse": "Jean Monnet",
+    "explication": "Jean Monnet, fils de négociants en cognac, a coordonné les moyens alliés pendant la Première Guerre mondiale, puis pendant la seconde. Inspirateur du plan Schuman, il présida la Haute Autorité de la CECA de 1952 à 1955 et repose au Panthéon depuis 1988.",
+    "source": "D'après Wikipédia — Jean Monnet"
+  },
+  {
+    "id": "q-politique-086",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Qui a donné à Margaret Thatcher le surnom de « Dame de fer » en 1976 ?",
+    "choix": [
+      "Le journal de l'armée soviétique L'Étoile rouge",
+      "Le président américain Ronald Reagan",
+      "La presse conservatrice britannique",
+      "Ses propres ministres"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ce fut le quotidien militaire soviétique L'Étoile rouge qui la baptisa ainsi en 1976, pour dénoncer son anticommunisme. Le surnom, devenu célèbre dans le monde entier, symbolisa ensuite sa fermeté face aux grévistes.",
+    "source": "D'après Wikipédia — Margaret Thatcher"
+  },
+  {
+    "id": "q-politique-087",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Franklin Roosevelt a été élu président des États-Unis deux fois seulement.",
+    "reponse": false,
+    "explication": "Roosevelt a été élu quatre fois et a occupé la présidence de 1933 à sa mort en 1945, soit plus de douze ans. Deux ans après sa mort, le Congrès adopta le XXIIe amendement, qui limite à deux le nombre de mandats.",
+    "source": "D'après Wikipédia — Franklin Delano Roosevelt"
+  },
+  {
+    "id": "q-politique-088",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Comment s'appelait la vedette lance-torpilles de John Kennedy, coupée en deux par un destroyer japonais en août 1943 ?",
+    "choix": [
+      "PT-109",
+      "Amagiri",
+      "USS Arizona",
+      "USS Missouri"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le PT-109 fut éperonné et sectionné par un destroyer japonais, l'Amagiri, près des îles Salomon. Kennedy, blessé au dos, aida son équipage à rejoindre une île et reçut la Navy and Marine Corps Medal pour sa conduite.",
+    "source": "D'après Wikipédia — John Fitzgerald Kennedy"
+  },
+  {
+    "id": "q-politique-089",
+    "domain": "politique",
+    "format": "difference",
+    "question": "Quelle est la différence entre la perestroïka et la glasnost, les deux grandes réformes de Mikhaïl Gorbatchev ?",
+    "choix": [
+      "La perestroïka est la restructuration de l'économie, la glasnost est la transparence et la liberté d'expression",
+      "La perestroïka est la liberté de la presse, la glasnost est la réforme de l'économie",
+      "La perestroïka concerne la politique étrangère, la glasnost l'armée",
+      "La perestroïka est le retrait d'Afghanistan, la glasnost le désarmement nucléaire"
+    ],
+    "bonneReponse": 0,
+    "explication": "La perestroïka (« restructuration ») visait à réformer l'économie soviétique ; la glasnost (« transparence ») ouvrait la parole et la presse. Gorbatchev voulait sauver le système, mais ces réformes ont échappé à son contrôle.",
+    "source": "D'après Wikipédia — Mikhaïl Gorbatchev"
+  },
+  {
+    "id": "q-politique-090",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Václav Havel a été le dernier président de la Tchécoslovaquie, puis le premier président de la République tchèque.",
+    "reponse": true,
+    "explication": "Havel dirigea la Tchécoslovaquie de 1989 à 1992 et démissionna quand la séparation avec la Slovaquie devint inévitable. Il fut élu en janvier 1993 premier président de la République tchèque et le resta jusqu'en 2003.",
+    "source": "D'après Wikipédia — Václav Havel"
+  },
+  {
+    "id": "q-politique-091",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quelle commission de l'ONU Eleanor Roosevelt a-t-elle présidée après la Seconde Guerre mondiale ?",
+    "choix": [
+      "La Commission des droits de l'homme",
+      "Le Conseil de sécurité",
+      "La Commission du désarmement",
+      "L'Organisation mondiale de la santé"
+    ],
+    "bonneReponse": 0,
+    "explication": "Première déléguée américaine à l'ONU, Eleanor Roosevelt présida la Commission des droits de l'homme, qui rédigea la Déclaration universelle adoptée le 10 décembre 1948. Le président Truman l'appelait « la Première dame du monde ».",
+    "source": "D'après Wikipédia — Eleanor Roosevelt"
+  },
+  {
+    "id": "q-politique-092",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quelle guerre Pierre Mendès France a-t-il terminée en 1954, peu après la défaite de Diên Biên Phu ?",
+    "choix": [
+      "La guerre d'Indochine",
+      "La guerre d'Algérie",
+      "La guerre de Corée",
+      "La crise de Suez"
+    ],
+    "bonneReponse": 0,
+    "explication": "Investi à une très large majorité après Diên Biên Phu, Mendès France négocia la paix en Indochine en 1954. Il prépara aussi l'indépendance de la Tunisie, mais fut renversé en février 1955 sur la question algérienne.",
+    "source": "D'après Wikipédia — Pierre Mendès France"
+  },
+  {
+    "id": "q-politique-093",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel geste Willy Brandt a-t-il accompli en 1970 devant le mémorial du ghetto de Varsovie ?",
+    "choix": [
+      "Il s'est agenouillé en silence",
+      "Il a signé un traité avec la Pologne",
+      "Il a prononcé un discours en polonais",
+      "Il a déposé les clés de Berlin"
+    ],
+    "bonneReponse": 0,
+    "explication": "Lors de sa visite en Pologne, Brandt s'agenouilla devant le mémorial de l'insurrection du ghetto de Varsovie. Ce geste inattendu, le Kniefall de Varsovie, donna une dimension morale à son Ostpolitik et fut très remarqué.",
+    "source": "D'après Wikipédia — Willy Brandt"
+  },
+  {
+    "id": "q-politique-094",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel mouvement Jawaharlal Nehru a-t-il contribué à lancer avec Nasser après la conférence de Bandung de 1955 ?",
+    "choix": [
+      "Le Mouvement des non-alignés",
+      "Le Commonwealth",
+      "Le pacte de Bagdad",
+      "L'Organisation de coopération de Shanghai"
+    ],
+    "bonneReponse": 0,
+    "explication": "Avec Nasser, Nehru est à la source du mouvement des non-alignés, dont les pays refusaient de choisir l'un des deux blocs de la guerre froide. La conférence de Bandung, en 1955, en fut une étape importante.",
+    "source": "D'après Wikipédia — Jawaharlal Nehru"
+  },
+  {
+    "id": "q-politique-095",
+    "domain": "politique",
+    "format": "associer",
+    "question": "Associe chaque dirigeant à ce qui est resté attaché à son nom.",
+    "paires": [
+      {
+        "gauche": "Robert Schuman",
+        "droite": "La déclaration du 9 mai 1950",
+        "explication": "Il propose de mettre en commun le charbon et l'acier franco-allemands."
+      },
+      {
+        "gauche": "Willy Brandt",
+        "droite": "L'Ostpolitik",
+        "explication": "Il ouvre le dialogue avec la RDA, la Pologne et la Tchécoslovaquie."
+      },
+      {
+        "gauche": "Mikhaïl Gorbatchev",
+        "droite": "La perestroïka",
+        "explication": "Il lance la restructuration de l'économie soviétique."
+      },
+      {
+        "gauche": "Mustafa Kemal Atatürk",
+        "droite": "L'alphabet latin",
+        "explication": "Il remplace l'alphabet arabe par l'alphabet latin pour écrire le turc."
+      }
+    ],
+    "explication": "Ces quatre dirigeants du XXe siècle ont chacun marqué leur époque par une initiative devenue emblématique : un plan européen, une politique d'ouverture à l'Est, un programme de réformes et une réforme culturelle radicale.",
+    "source": "D'après Wikipédia — Robert Schuman"
+  },
+  {
+    "id": "q-politique-096",
+    "domain": "politique",
+    "format": "frise",
+    "question": "Remets ces étapes de la vie de Mustafa Kemal dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Défense des Dardanelles pendant la Première Guerre mondiale",
+        "annee": "1915"
+      },
+      {
+        "label": "Victoire de la Sakarya et titre de « Gazi »",
+        "annee": "1921"
+      },
+      {
+        "label": "Fin du sultanat ottoman",
+        "annee": "1922"
+      },
+      {
+        "label": "Proclamation de la République de Turquie",
+        "annee": "1923"
+      },
+      {
+        "label": "Attribution du nom d'Atatürk",
+        "annee": "1934"
+      }
+    ],
+    "explication": "Héros des Dardanelles en 1915, Mustafa Kemal gagna la Sakarya en 1921, mit fin au sultanat en 1922 et proclama la République en 1923. L'Assemblée lui donna le nom d'Atatürk, « père des Turcs », en 1934.",
+    "source": "D'après Wikipédia — Mustafa Kemal Atatürk"
+  },
+  {
+    "id": "q-politique-097",
+    "domain": "politique",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née à Kiev et j'ai grandi à Milwaukee, aux États-Unis.",
+      "En 1921, j'ai émigré en Palestine sous mandat britannique.",
+      "J'ai signé la déclaration d'indépendance de mon pays en 1948.",
+      "David Ben Gourion disait que j'étais le seul homme de son cabinet.",
+      "J'ai été Première ministre de 1969 à 1974, la première femme à ce poste dans mon pays."
+    ],
+    "reponse": "Golda Meir",
+    "explication": "Golda Meir fut ministre du Travail puis des Affaires étrangères avant de devenir Première ministre d'Israël en 1969. Elle démissionna en 1974 après la guerre du Kippour, sans que la commission d'enquête ne la juge fautive.",
+    "source": "D'après Wikipédia — Golda Meir"
   }
 ]

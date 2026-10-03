@@ -1293,5 +1293,277 @@
     "bonneReponse": 0,
     "explication": "Dans les années 1930, au Royaume-Uni, on a surnommé « drone » les avions-cibles Queen Bee : leur vol lent et bruyant évoquait celui d'un bourdon plus que celui d'une reine. L'armée américaine reprend le mot dès 1941.",
     "source": "D'après Wikipédia — Drone"
+  },
+  {
+    "id": "q-tech-081",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel message est transmis lors de la première liaison télégraphique officielle entre Washington et Baltimore, le 24 mai 1844 ?",
+    "choix": [
+      "« What hath God wrought »",
+      "« Le télégraphe fonctionne »",
+      "« Vive la République »",
+      "« Message reçu, à bientôt »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le premier message de la ligne Washington-Baltimore, d'environ 60 km, est une phrase tirée de la Bible : « What hath God wrought », soit « Voyez ce que Dieu a fait ». Cette démonstration spectaculaire a fait connaître le télégraphe de Morse.",
+    "source": "D'après Wikipédia — Samuel Morse"
+  },
+  {
+    "id": "q-tech-082",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel associé de Samuel Morse a compris que les lettres les plus fréquentes devaient avoir les signaux les plus courts ?",
+    "choix": [
+      "Alfred Vail",
+      "Leonard Gale",
+      "Charles Thomas Jackson",
+      "Samuel Colt"
+    ],
+    "bonneReponse": 0,
+    "explication": "Alfred Vail, plus porté sur la réalisation pratique, trouve en 1838 le code de points et de traits. Morse pensait d'abord à des nombres et à un dictionnaire. Vail comprend qu'il faut transmettre des lettres, en commençant par les plus utilisées.",
+    "source": "D'après Wikipédia — Samuel Morse"
+  },
+  {
+    "id": "q-tech-083",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Alexander Graham Bell, inventeur du téléphone, refusait d'en avoir un dans son bureau de travail.",
+    "reponse": true,
+    "explication": "Bell considérait son invention la plus célèbre comme une intrusion dans son travail de savant. Passionné de parole et d'audition, il refusait d'avoir un téléphone dans son bureau, alors qu'il avait obtenu le premier brevet américain en 1876.",
+    "source": "D'après Wikipédia — Alexander Graham Bell"
+  },
+  {
+    "id": "q-tech-084",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "En 1895, comment Marconi parvient-il à faire passer la portée de ses signaux radio d'environ 800 mètres à environ 2 kilomètres ?",
+    "choix": [
+      "En relevant l'antenne et en reliant émetteur et récepteur à la terre",
+      "En doublant la longueur du fil entre l'émetteur et le récepteur",
+      "En émettant uniquement la nuit, quand l'air est plus calme",
+      "En remplaçant le code Morse par la voix"
+    ],
+    "bonneReponse": 0,
+    "explication": "Marconi relève l'antenne et, comme on le faisait déjà pour le télégraphe filaire, relie émetteur et récepteur à la terre. Ses signaux franchissent alors les collines. C'est une étape vers la liaison transatlantique de 1901.",
+    "source": "D'après Wikipédia — Guglielmo Marconi"
+  },
+  {
+    "id": "q-tech-085",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel composant Konrad Zuse a-t-il utilisé dans son Z3, en 1941, en le récupérant largement dans du matériel mis au rebut ?",
+    "choix": [
+      "Des relais de téléphone",
+      "Des tubes à vide",
+      "Des transistors",
+      "Des engrenages en laiton"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Z3 fonctionne avec des relais de téléphone, souvent récupérés dans du matériel jeté. Zuse avait jugé « folle » l'idée d'utiliser des tubes à vide. Les transistors n'existaient pas encore en 1941.",
+    "source": "D'après Wikipédia — Konrad Zuse"
+  },
+  {
+    "id": "q-tech-086",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Benjamin Franklin, inventeur du paratonnerre, ne s'est jamais occupé de politique.",
+    "reponse": false,
+    "explication": "Franklin se retire des affaires à 42 ans pour entrer en politique. Il signe la Déclaration d'indépendance, le traité de Paris et la Constitution, et devient ambassadeur des États-Unis en France.",
+    "source": "D'après Wikipédia — Benjamin Franklin"
+  },
+  {
+    "id": "q-tech-087",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Avec les convoyeurs introduits par Henry Ford en 1913, combien de minutes faut-il désormais pour monter le châssis de la Ford T, contre 728 auparavant ?",
+    "choix": [
+      "93 minutes",
+      "250 minutes",
+      "400 minutes",
+      "15 minutes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Quand les pièces avancent sur des convoyeurs, chaque ouvrier répète un geste précis, et le montage d'un châssis tombe à 93 minutes. Cette baisse des coûts permet de vendre la Ford T de moins en moins cher.",
+    "source": "D'après Wikipédia — Henry Ford"
+  },
+  {
+    "id": "q-tech-088",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Où Bertha Benz a-t-elle acheté l'essence pendant son voyage de 1888 entre Mannheim et Pforzheim ?",
+    "choix": [
+      "Dans des pharmacies",
+      "Dans des stations-service",
+      "Chez des forgerons",
+      "Chez des commerçants de bougies"
+    ],
+    "bonneReponse": 0,
+    "explication": "Il n'existait pas de stations-service : Bertha Benz a dû chercher des pharmacies, qui vendaient la benzine. Ce trajet de 104 km, fait avec ses fils Richard et Eugen, a prouvé que la voiture de son mari était utilisable.",
+    "source": "D'après Wikipédia — Carl Benz"
+  },
+  {
+    "id": "q-tech-089",
+    "domain": "tech",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Paris en 1858, de parents allemands.",
+      "Ma machine à vapeur à l'ammoniac a explosé et m'a envoyé plusieurs mois à l'hôpital.",
+      "En 1892, je fais breveter un moteur sans bougie d'allumage.",
+      "Mon moteur chauffe de l'air par compression, jusqu'à ce que le carburant injecté s'enflamme.",
+      "Mon nom désigne un type de moteur et un carburant."
+    ],
+    "reponse": "Rudolf Diesel",
+    "explication": "Rudolf Diesel cherchait un moteur plus efficace que la machine à vapeur. Son moteur à allumage par compression, dont le premier prototype fonctionne en 1897, équipe aujourd'hui camions, trains et navires.",
+    "source": "D'après Wikipédia — Rudolf Diesel"
+  },
+  {
+    "id": "q-tech-090",
+    "domain": "tech",
+    "format": "difference",
+    "question": "Quelle est la différence entre le moteur de Rudolf Diesel et celui de Carl Benz ?",
+    "choix": [
+      "Chez Diesel, l'air comprimé devient assez chaud pour enflammer le carburant ; chez Benz, une étincelle allume le mélange",
+      "Chez Diesel, une étincelle allume le mélange ; chez Benz, l'air comprimé enflamme le carburant",
+      "Le moteur de Diesel brûle uniquement du charbon, celui de Benz de l'essence",
+      "Le moteur de Benz fonctionne à la vapeur, celui de Diesel à l'essence"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans le moteur Diesel, on comprime fortement l'air, qui s'échauffe : le carburant injecté s'enflamme tout seul, sans bougie. Le moteur de Benz, à essence, utilise un allumage électrique par étincelle.",
+    "source": "D'après Wikipédia — Rudolf Diesel"
+  },
+  {
+    "id": "q-tech-091",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quelle substance, qui durcit à la lumière, Nicéphore Niépce a-t-il utilisée pour réaliser le Point de vue du Gras en 1827 ?",
+    "choix": [
+      "Le bitume de Judée",
+      "Le chlorure d'argent",
+      "La vapeur de mercure",
+      "L'iode"
+    ],
+    "bonneReponse": 0,
+    "explication": "Niépce enduit une plaque d'étain de bitume de Judée, un asphalte qui durcit à la lumière. Le bitume resté mou est ensuite dissous. La pose a sans doute duré plusieurs jours, d'après les essais de reconstitution.",
+    "source": "D'après Wikipédia — Nicéphore Niépce"
+  },
+  {
+    "id": "q-tech-092",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quelle découverte de Louis Daguerre a réduit la durée de pose de plusieurs heures à quelques dizaines de minutes ?",
+    "choix": [
+      "Une image invisible, révélée par de la vapeur de mercure",
+      "Une lentille beaucoup plus lumineuse",
+      "Une plaque de verre à la place du cuivre",
+      "Un papier imprégné de sel marin"
+    ],
+    "bonneReponse": 0,
+    "explication": "Daguerre découvre qu'une pose courte laisse sur la plaque une image latente, invisible, que la vapeur de mercure fait apparaître. Il la fixe en 1837 à l'eau salée chaude. Le daguerréotype est né.",
+    "source": "D'après Wikipédia — Louis Daguerre"
+  },
+  {
+    "id": "q-tech-093",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "La machine à différences no 2 de Babbage, construite en 1991 d'après ses plans, a fonctionné.",
+    "reponse": true,
+    "explication": "Le module de calcul, achevé en 1991 d'après les plans de Babbage, fonctionne parfaitement avec des techniques du XIXe siècle. Cela montre que la machine aurait pu être construite de son vivant.",
+    "source": "D'après Wikipédia — Charles Babbage"
+  },
+  {
+    "id": "q-tech-094",
+    "domain": "tech",
+    "format": "associer",
+    "question": "Associe chaque inventeur à ce qui reste attaché à son nom.",
+    "paires": [
+      {
+        "gauche": "Samuel Morse",
+        "droite": "Un code de points et de traits",
+        "explication": "Le télégraphe de Morse et son code transmettent les lettres par des signaux courts et longs."
+      },
+      {
+        "gauche": "Guglielmo Marconi",
+        "droite": "La première liaison radio transatlantique",
+        "explication": "Un signal relie la Cornouailles à Terre-Neuve, par-dessus l'Atlantique, sans aucun fil."
+      },
+      {
+        "gauche": "Alessandro Volta",
+        "droite": "La pile électrique",
+        "explication": "Il empile des rondelles de métaux différents, séparées par du carton imbibé d'eau salée."
+      },
+      {
+        "gauche": "Rudolf Diesel",
+        "droite": "Un moteur à allumage par compression",
+        "explication": "L'air comprimé s'échauffe assez pour enflammer le carburant injecté, sans bougie."
+      },
+      {
+        "gauche": "Nicéphore Niépce",
+        "droite": "Le Point de vue du Gras",
+        "explication": "Cette vue prise depuis sa fenêtre est la plus ancienne photographie de scène réelle conservée."
+      }
+    ],
+    "explication": "Ces cinq inventeurs ont chacun transformé une technique : le télégraphe, la radio, l'électricité, le moteur et la photographie. Leurs idées restent à la base d'objets que nous utilisons encore.",
+    "source": "D'après Wikipédia — Alessandro Volta"
+  },
+  {
+    "id": "q-tech-095",
+    "domain": "tech",
+    "format": "frise",
+    "question": "Remets ces étapes de la carrière de Guglielmo Marconi dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Il construit un détecteur d'orages avec une sonnette",
+        "annee": "1894"
+      },
+      {
+        "label": "Il relève son antenne et la relie à la terre : la portée dépasse 2 km",
+        "annee": "1895"
+      },
+      {
+        "label": "Il franchit le canal de Bristol, sur plus de 13 km",
+        "annee": "1897"
+      },
+      {
+        "label": "Il réalise la première liaison radio transatlantique",
+        "annee": "1901"
+      },
+      {
+        "label": "Le Nobel de physique le récompense",
+        "annee": "1909"
+      }
+    ],
+    "explication": "Marconi progresse pas à pas : détecteur d'orages en 1894, antenne relevée en 1895, canal de Bristol en 1897, Atlantique en 1901. Le prix Nobel de physique, partagé avec Ferdinand Braun, couronne ces travaux en 1909.",
+    "source": "D'après Wikipédia — Guglielmo Marconi"
+  },
+  {
+    "id": "q-tech-096",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Combien de bits faut-il au minimum pour distinguer les 26 lettres de l'alphabet, selon la théorie de Claude Shannon ?",
+    "choix": [
+      "5 bits",
+      "4 bits",
+      "6 bits",
+      "8 bits"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un bit permet de choisir entre deux états, deux bits entre quatre, et ainsi de suite. Avec 4 bits, on obtient 16 combinaisons, pas assez ; avec 5 bits, on en obtient 32, ce qui suffit pour 26 lettres.",
+    "source": "D'après Wikipédia — Claude Shannon"
+  },
+  {
+    "id": "q-tech-097",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quelle expression Margaret Hamilton a-t-elle inventée pour désigner son métier ?",
+    "choix": [
+      "Génie logiciel",
+      "Intelligence artificielle",
+      "Architecture réseau",
+      "Programmation spatiale"
+    ],
+    "bonneReponse": 0,
+    "explication": "Margaret Hamilton, qui dirigeait l'équipe du logiciel de bord d'Apollo, a inventé l’expression « génie logiciel » (software engineering), pour distinguer ce travail du matériel et des autres formes d'ingénierie.",
+    "source": "D'après Wikipédia — Margaret Hamilton (scientifique)"
   }
 ]

@@ -2591,5 +2591,906 @@
       "wikipedia": "Drone"
     },
     "source": "D'après Wikipédia — Drone"
+  },
+  {
+    "id": "tech-076",
+    "domain": "tech",
+    "subtheme": "Inventeurs et pionniers",
+    "type": "personnage",
+    "title": "Samuel Morse",
+    "subtitle": "Peintre et inventeur américain, 1791-1872",
+    "summary": "Samuel Morse est d'abord un peintre américain respecté, fondateur de la National Academy of Design de New York. En 1832, sur un bateau qui le ramène d'Europe, il imagine un télégraphe électrique.\nAvec deux associés, il met au point un appareil simple et un code de points et de traits. Le 24 mai 1844, un message part de Washington vers Baltimore : le télégraphe entre dans la vie quotidienne.",
+    "details": {
+      "epoque": "XIXe siècle.",
+      "pourquoiCelebre": "Il a rendu le télégraphe électrique pratique et a donné son nom au code de points et de traits qui sert à transmettre les lettres.",
+      "ideesClefs": [
+        "En 1832, une discussion sur l'électro-aimant lui inspire un télégraphe électrique.",
+        "Son associé Alfred Vail trouve le code de points et de traits en 1838.",
+        "Le 24 mai 1844, la ligne Washington-Baltimore (environ 60 km) transmet son premier message."
+      ],
+      "liens": [
+        {
+          "nom": "Alfred Vail",
+          "relation": "Associé plus porté sur la réalisation pratique, il a construit le prototype et conçu le code."
+        },
+        {
+          "nom": "Louis Daguerre",
+          "relation": "Morse a acheté un appareil à daguerréotype en 1842 et s'est lancé dans la photographie."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "La Chambre des représentants",
+          "annee": "1821"
+        },
+        {
+          "titre": "Le télégraphe de Morse",
+          "annee": "1837"
+        },
+        {
+          "titre": "Le code Morse"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Du pinceau au télégraphe",
+          "texte": "Fils d'un géographe, Morse étudie à Yale puis part se former à la peinture à Londres. De retour, il peint des portraits et des scènes historiques. En 1832, une conversation avec un géologue lui donne l'idée d'envoyer des messages grâce à un électro-aimant. Il s'y consacre vraiment à partir de 1837, avec Leonard Gale et Alfred Vail, et dépose un brevet en 1840."
+        },
+        {
+          "titre": "Un code fait pour la rapidité",
+          "texte": "Morse imaginait d'abord des nombres et un dictionnaire pour les traduire. Vail comprend qu'il faut transmettre des lettres, et que les plus fréquentes méritent les signaux les plus courts, comme on le voit dans une imprimerie. Le code actuel est une version simplifiée par l'Allemand Friedrich Gerke, adoptée par l'Union internationale des télécommunications en 1865. Il résiste très bien aux parasites radio."
+        }
+      ],
+      "anecdotes": [
+        "Le premier message officiel, envoyé en 1844, était une phrase tirée de la Bible : « What hath God wrought » (« Voyez ce que Dieu a fait »)."
+      ],
+      "wikipedia": "Samuel Morse"
+    },
+    "source": "D'après Wikipédia — Samuel Morse"
+  },
+  {
+    "id": "tech-077",
+    "domain": "tech",
+    "subtheme": "Inventeurs et pionniers",
+    "type": "personnage",
+    "title": "Alexander Graham Bell",
+    "subtitle": "Inventeur et professeur né en Écosse, 1847-1922",
+    "summary": "Alexander Graham Bell naît à Édimbourg dans une famille spécialiste de la diction. Sa mère puis sa femme étaient sourdes : toute sa vie, il cherche à mieux faire entendre et enseigner la parole.\nCes recherches sur le son aboutissent au premier brevet américain de téléphone, le 7 mars 1876. Bell restera pourtant avant tout un curieux, qui touche aussi aux hydroptères et à la lumière.",
+    "details": {
+      "epoque": "XIXe et début du XXe siècle.",
+      "pourquoiCelebre": "Il a obtenu le premier brevet américain de téléphone en 1876 et reste le nom le plus associé à cette invention.",
+      "ideesClefs": [
+        "Né à Édimbourg en 1847, il arrive au Canada avec sa famille en 1870 et sera naturalisé américain en 1882.",
+        "Il obtient le premier brevet américain de téléphone le 7 mars 1876.",
+        "Il co-fonde l'American Telephone and Telegraph Company en 1885 et préside la National Geographic Society de 1898 à 1903."
+      ],
+      "liens": [
+        {
+          "nom": "Mabel Hubbard",
+          "relation": "Son élève devenue son épouse, sourde depuis l'âge de cinq ans."
+        },
+        {
+          "nom": "Charles Wheatstone",
+          "relation": "Il a montré aux Bell un automate imitant la voix humaine, en 1863."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Machine à décortiquer le grain",
+          "annee": "1858"
+        },
+        {
+          "titre": "Le téléphone",
+          "annee": "1876"
+        },
+        {
+          "titre": "L'hydroptère"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une enfance tournée vers la voix",
+          "texte": "Son père, son grand-père et son oncle enseignent l'élocution. Quand sa mère perd peu à peu l'ouïe, Alexander apprend l'alphabet des doigts et lui parle contre le front pour qu'elle le perçoive. Avec son frère, il construit une tête mécanique capable de dire « maman ». Ces jeux avec le son le conduisent à étudier l'acoustique, puis la transmission de la voix par l'électricité."
+        },
+        {
+          "titre": "Au-delà du téléphone",
+          "texte": "Le brevet de 1876 rend Bell célèbre, mais il y voit une intrusion dans son travail de savant et refuse un téléphone dans son bureau. Antonio Meucci, un Italien, est aujourd'hui reconnu comme un précurseur. Bell poursuit des recherches sur la communication par la lumière, sur les hydroptères et sur l'aéronautique."
+        }
+      ],
+      "anecdotes": [
+        "Adolescent, Bell apprend au chien de la famille à grogner sans arrêt, puis manipule ses lèvres pour produire un son proche de « How are you, grandmama ? » : les visiteurs croient à un chien parlant."
+      ],
+      "wikipedia": "Alexander Graham Bell"
+    },
+    "source": "D'après Wikipédia — Alexander Graham Bell"
+  },
+  {
+    "id": "tech-078",
+    "domain": "tech",
+    "subtheme": "Inventeurs et pionniers",
+    "type": "personnage",
+    "title": "Guglielmo Marconi",
+    "subtitle": "Physicien et inventeur italien, 1874-1937",
+    "summary": "Guglielmo Marconi, né à Bologne, fait sortir la radio du laboratoire. Dès 1895, il envoie des signaux sans fil de plus en plus loin, grâce à une haute antenne reliée à la terre.\nLe 12 décembre 1901, un signal relie la Cornouailles à Terre-Neuve par-dessus l'Atlantique. En 1909, il reçoit le Nobel de physique, à égalité avec Ferdinand Braun.",
+    "details": {
+      "epoque": "De 1895 aux années 1930.",
+      "pourquoiCelebre": "Il a rendu la télégraphie sans fil pratique et commerciale, ce qui le place parmi les pères de la radio.",
+      "ideesClefs": [
+        "Il s'inspire des ondes que Heinrich Hertz a produites en 1888 et du cohéreur d'Édouard Branly.",
+        "Il réussit la première liaison transatlantique le 12 décembre 1901.",
+        "En 1909, le Nobel de physique le récompense, avec Ferdinand Braun."
+      ],
+      "liens": [
+        {
+          "nom": "Édouard Branly",
+          "relation": "Son cohéreur détecte les ondes ; Marconi lui envoie un télégramme d'hommage lors de la liaison transmanche de 1899."
+        },
+        {
+          "nom": "Heinrich Hertz",
+          "relation": "Il a prouvé en 1888 l'existence des ondes que Marconi utilise."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "La première liaison radio transatlantique",
+          "annee": "1901"
+        },
+        {
+          "titre": "Le détecteur magnétique",
+          "annee": "1902"
+        },
+        {
+          "titre": "Radio Vatican",
+          "annee": "1931"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une antenne et une prise de terre",
+          "texte": "Vers vingt ans, Marconi bricole ses appareils dans le grenier de la villa familiale, près de Bologne. Son émetteur envoie des signaux courts et longs, qui correspondent au code Morse ; un récepteur à cohéreur les enregistre sur du papier. En 1895, il relève l'antenne et relie ses appareils à la terre : la portée passe de 800 mètres à environ 2 kilomètres, par-dessus les collines."
+        },
+        {
+          "titre": "Franchir les mers",
+          "texte": "Faute d'intérêt en Italie, Marconi part pour la Grande-Bretagne en 1896. Il traverse le canal de Bristol en 1897 (plus de 13 km), la Manche en 1899, puis l'Atlantique en 1901. Il fonde sa compagnie et ouvre en 1898 la première usine de radios du monde. La presse lui attribue en 1912 le mérite des sauvetages après le naufrage du Titanic, grâce à son invention."
+        }
+      ],
+      "anecdotes": [
+        "En décembre 1894, Marconi montre à sa mère, tard dans la nuit, son installation : en appuyant sur un bouton télégraphique, il fait sonner une sonnette à l'autre bout de la pièce, sans aucun fil."
+      ],
+      "wikipedia": "Guglielmo Marconi"
+    },
+    "source": "D'après Wikipédia — Guglielmo Marconi"
+  },
+  {
+    "id": "tech-079",
+    "domain": "tech",
+    "subtheme": "Inventeurs et pionniers",
+    "type": "personnage",
+    "title": "Alessandro Volta",
+    "subtitle": "Physicien italien, 1745-1827",
+    "summary": "Alessandro Volta, né à Côme, enseigne la physique à l'université de Pavie pendant près de quarante ans. Il isole le méthane des marais du lac Majeur et perfectionne l'électrophore, une machine à électricité statique.\nEn 1800, il invente la pile : un empilement de rondelles de métaux différents, séparées par du carton imbibé d'eau salée. On dispose enfin d'un courant électrique à peu près stable. Le volt porte son nom.",
+    "details": {
+      "epoque": "Fin du XVIIIe et début du XIXe siècle.",
+      "pourquoiCelebre": "Il a inventé la première pile électrique, qui a permis d'étudier et d'utiliser un courant continu.",
+      "ideesClefs": [
+        "Deux métaux différents séparés par un liquide salé font apparaître une tension électrique.",
+        "Sa pile, présentée en 1800, a rendu possible l'électrolyse de l'eau dès le 2 mai 1800.",
+        "Il est nommé comte par Napoléon Bonaparte en 1810."
+      ],
+      "liens": [
+        {
+          "nom": "Luigi Galvani",
+          "relation": "Son « électricité animale » a déclenché le débat qui a poussé Volta à inventer la pile."
+        },
+        {
+          "nom": "Benjamin Franklin",
+          "relation": "Son texte sur l'« air inflammable » a mis Volta sur la piste du méthane."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "L'électrophore perfectionné",
+          "annee": "1775"
+        },
+        {
+          "titre": "La découverte du méthane",
+          "annee": "1776"
+        },
+        {
+          "titre": "La pile voltaïque",
+          "annee": "1800"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une querelle féconde",
+          "texte": "Vers 1780, Luigi Galvani voit la patte d'une grenouille se contracter au contact de deux métaux et parle d'« électricité animale ». Volta remplace la patte par un buvard imbibé d'eau salée : l'effet persiste. Pour lui, la cause n'est pas l'animal, mais le contact entre deux métaux différents. Pour défendre cette idée, il construit en 1800 un appareil qui le prouve."
+        },
+        {
+          "titre": "Comment fonctionne sa pile",
+          "texte": "Volta essaie d'abord des gobelets de vin remplis d'eau salée, où trempent deux métaux différents, reliés en série. Il les remplace ensuite par des rondelles de zinc et d'argent empilées, séparées par du carton salé. Chaque couple ajoute sa tension, comme des marches d'escalier. En 1820, Ørsted déplace une boussole près d'un fil relié à une pile et découvre le lien entre électricité et magnétisme."
+        }
+      ],
+      "anecdotes": [
+        "Une espèce d'anguille électrique découverte en 2019, Electrophorus voltai, a été baptisée en l'honneur de Volta."
+      ],
+      "wikipedia": "Alessandro Volta"
+    },
+    "source": "D'après Wikipédia — Alessandro Volta"
+  },
+  {
+    "id": "tech-080",
+    "domain": "tech",
+    "subtheme": "Inventeurs et pionniers",
+    "type": "personnage",
+    "title": "Benjamin Franklin",
+    "subtitle": "Imprimeur, inventeur et diplomate américain, 1706-1790",
+    "summary": "Benjamin Franklin est un imprimeur de Philadelphie devenu l'un des pères fondateurs des États-Unis. Il est aussi un inventeur pratique, qui cherche à rendre la vie de ses voisins plus sûre et plus confortable.\nSon paratonnerre protège les bâtiments de la foudre, son poêle chauffe mieux, ses lunettes à double foyer servent de près et de loin. Il crée aussi la première bibliothèque de prêt de Philadelphie et ses premiers pompiers volontaires.",
+    "details": {
+      "epoque": "XVIIIe siècle.",
+      "pourquoiCelebre": "Il a inventé le paratonnerre, le poêle Franklin, les lunettes à double foyer et l'harmonica de verre, tout en jouant un rôle majeur dans la naissance des États-Unis.",
+      "ideesClefs": [
+        "Le paratonnerre, un conducteur métallique, guide la foudre vers le sol et protège les bâtiments.",
+        "Il invente aussi le poêle à bois à combustion contrôlée, les lunettes à double foyer et l'harmonica de verre.",
+        "Il est le seul à avoir signé la Déclaration d'indépendance, le traité de Paris et la Constitution."
+      ],
+      "liens": [
+        {
+          "nom": "Alessandro Volta",
+          "relation": "Volta a lu son texte sur l’« air inflammable » avant de découvrir le méthane."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "L'Almanach du Bonhomme Richard",
+          "annee": "1732"
+        },
+        {
+          "titre": "Expériences et observations sur l'électricité",
+          "annee": "1751"
+        },
+        {
+          "titre": "Autobiographie",
+          "annee": "1791"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Inventer pour la communauté",
+          "texte": "Franklin ne cherche pas la gloire, mais l'utilité. Le paratonnerre écarte le danger de la foudre, le poêle à combustion contrôlée chauffe mieux les maisons, les lunettes à double foyer évitent de changer de paire, l'harmonica de verre est un instrument de musique original. Il a aussi cartographié et nommé le Gulf Stream, ce grand courant de l'Atlantique."
+        },
+        {
+          "titre": "Un parcours hors norme",
+          "texte": "Dernier fils d'un fabricant de chandelles, Franklin quitte l'école à dix ans. Apprenti chez son frère imprimeur, il s'enfuit à 17 ans à Philadelphie. Il y rachète la Pennsylvania Gazette en 1729, fonde la bibliothèque en 1731 et publie dès 1732 un almanach. À 42 ans, il se retire des affaires pour la politique, puis devient ambassadeur des États-Unis en France."
+        }
+      ],
+      "anecdotes": [
+        "Jeune apprenti, Franklin écrit dans le journal de son frère sous le nom d'une vieille veuve imaginaire, Silence Dogood. Ses lettres plaisent beaucoup, et son frère ignore longtemps qui les écrit."
+      ],
+      "wikipedia": "Benjamin Franklin"
+    },
+    "source": "D'après Wikipédia — Benjamin Franklin"
+  },
+  {
+    "id": "tech-081",
+    "domain": "tech",
+    "subtheme": "Inventeurs et pionniers",
+    "type": "personnage",
+    "title": "Henry Ford",
+    "subtitle": "Industriel américain, 1863-1947",
+    "summary": "Henry Ford, fils de fermiers du Michigan, bricole des moteurs dès l'adolescence et fonde la Ford Motor Company en 1903. Sa Ford T, lancée le 1er octobre 1908, se conduit facilement et coûte peu à entretenir.\nGrâce à des pièces standardisées et, dès 1913, à des convoyeurs, le montage d'un châssis passe de 728 à 93 minutes. Les prix baissent et l'automobile devient accessible à des millions de ménages.",
+    "details": {
+      "epoque": "Fin du XIXe siècle et première moitié du XXe siècle.",
+      "pourquoiCelebre": "Il a popularisé l'automobile avec la Ford T et la production en série sur chaîne d'assemblage, qu'on appelle le fordisme.",
+      "ideesClefs": [
+        "Son premier véhicule, le Ford Quadricycle, est terminé en 1896.",
+        "La Ford T est produite de 1908 au 27 mai 1927, à plus de 16 millions d'exemplaires.",
+        "Le prix passe de 825 dollars au lancement à 290 dollars en 1927."
+      ],
+      "liens": [
+        {
+          "nom": "Thomas Edison",
+          "relation": "Ford a travaillé pour une compagnie d’électricité Edison à Détroit, et Edison a encouragé sa première voiture."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Le Ford Quadricycle",
+          "annee": "1896"
+        },
+        {
+          "titre": "La Ford T",
+          "annee": "1908"
+        },
+        {
+          "titre": "Ma vie et mon œuvre",
+          "annee": "1922"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Du bricoleur à l'ingénieur",
+          "texte": "À 12 ans, Ford démonte et remonte sans cesse la montre reçue de son père. À 16 ans, il part travailler comme apprenti mécanicien à Détroit. Ingénieur chez Edison Illuminating Company dès 1891, il construit le soir son premier véhicule à essence. Edison l'encourage en 1896. Sa première société automobile échoue, mais sa victoire en course en 1901 le rend célèbre."
+        },
+        {
+          "titre": "La Ford T et la chaîne",
+          "texte": "La Ford T est conçue pour être solide, simple et abordable. En 1913, les pièces avancent sur des convoyeurs et chaque ouvrier répète un geste précis. Le montage devient bien plus rapide. Les ventes passent de 250 000 voitures en 1914 à 472 000 en 1916, puis à un million au début des années 1920. Ce système de production et de salaires élevés s'appelle le fordisme."
+        }
+      ],
+      "anecdotes": [
+        "D'après ses mémoires, Ford a eu l'idée de la chaîne de montage en visitant un abattoir de Chicago. D'autres sources attribuent ce développement à quatre de ses collaborateurs."
+      ],
+      "wikipedia": "Henry Ford"
+    },
+    "source": "D'après Wikipédia — Henry Ford"
+  },
+  {
+    "id": "tech-082",
+    "domain": "tech",
+    "subtheme": "Inventeurs et pionniers",
+    "type": "personnage",
+    "title": "Carl Benz",
+    "subtitle": "Ingénieur et inventeur allemand, 1844-1929",
+    "summary": "Carl Benz, ingénieur de Karlsruhe, fonde en 1883 la société Benz & Cie à Mannheim. En 1885, il monte un moteur à essence sur un tricycle : c'est le Benz Patent-Motorwagen, qu'il fait breveter le 29 janvier 1886.\nOn l'appelle souvent le père de l'automobile. Sa voiture est mise en vente en 1888. En 1926, quelques années avant sa mort, sa firme fusionne avec Daimler pour devenir Mercedes-Benz.",
+    "details": {
+      "epoque": "Fin du XIXe siècle et début du XXe siècle.",
+      "pourquoiCelebre": "Il a conçu le Benz Patent-Motorwagen, considéré comme la première automobile pratique, vendue à partir de 1888.",
+      "ideesClefs": [
+        "Son tricycle de 1885 a un moteur à quatre temps refroidi par eau, un allumage électrique et un différentiel.",
+        "Le brevet est déposé le 29 janvier 1886.",
+        "Benz & Cie et Daimler fusionnent en 1926 pour former Mercedes-Benz."
+      ],
+      "liens": [
+        {
+          "nom": "Rudolf Diesel",
+          "relation": "Diesel dépose son brevet de moteur à auto-allumage six ans après la démonstration de la voiture de Benz."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Benz Patent-Motorwagen",
+          "annee": "1885"
+        },
+        {
+          "titre": "Benz Victoria",
+          "annee": "1893"
+        },
+        {
+          "titre": "Benz Velo",
+          "annee": "1894"
+        },
+        {
+          "titre": "Premier camion Benz",
+          "annee": "1896"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une voiture sans cheval",
+          "texte": "Le principe est celui d'un cylindre où de l'essence mélangée à l'air s'enflamme et pousse un piston, dont le mouvement fait tourner les roues par une courroie et des chaînes. Benz s'inspire des bicyclettes : roues à rayons, châssis léger. Lors d'une démonstration en 1885, l'engin heurte un mur. Le 3 juillet 1886, il roule pour de bon dans les rues de Mannheim."
+        },
+        {
+          "titre": "Le voyage de Bertha",
+          "texte": "Le 5 août 1888, Bertha Benz prend le véhicule avec ses fils Richard et Eugen et parcourt 104 km de Mannheim à Pforzheim, probablement à l’insu de son mari. Elle répare en route, fait clouer du cuir sur les freins par un cordonnier et conseille d'ajouter une vitesse pour les côtes. Ce voyage prouve que l'automobile peut servir. Un itinéraire de mémoire porte aujourd'hui son nom."
+        }
+      ],
+      "anecdotes": [
+        "Il n'existait pas de stations-service : pendant son voyage de 1888, Bertha Benz a dû acheter l'essence dans des pharmacies."
+      ],
+      "wikipedia": "Carl Benz"
+    },
+    "source": "D'après Wikipédia — Carl Benz"
+  },
+  {
+    "id": "tech-083",
+    "domain": "tech",
+    "subtheme": "Inventeurs et pionniers",
+    "type": "personnage",
+    "title": "Rudolf Diesel",
+    "subtitle": "Ingénieur allemand né à Paris, 1858-1913",
+    "summary": "Rudolf Diesel cherche un moteur bien plus efficace que la machine à vapeur, qui gaspille la plus grande partie de l'énergie de son combustible. Le 28 février 1892, il fait breveter un moteur qui s'allume tout seul.\nSon principe : on comprime fortement de l'air dans le cylindre, il devient très chaud, et le carburant injecté s'enflamme tout seul, sans bougie. Un premier moteur fonctionnel est testé en 1897.",
+    "details": {
+      "epoque": "Fin du XIXe siècle et début du XXe siècle.",
+      "pourquoiCelebre": "Il a inventé le moteur à allumage par compression, qui porte son nom et équipe aujourd'hui camions, trains et navires.",
+      "ideesClefs": [
+        "Né à Paris en 1858, il étudie à Munich avec Carl von Linde.",
+        "Le brevet de 1892 puis un traité en 1893 posent les bases de son moteur.",
+        "À l'Exposition universelle de 1900, son moteur remporte la plus haute récompense."
+      ],
+      "liens": [
+        {
+          "nom": "Carl Benz",
+          "relation": "Six ans avant le brevet de Diesel, Benz avait démontré sa voiture à moteur à essence."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Théorie et construction d'un moteur thermique rationnel",
+          "annee": "1893"
+        },
+        {
+          "titre": "Le moteur Diesel (Motor 250/400)",
+          "annee": "1897"
+        },
+        {
+          "titre": "Solidarismus",
+          "annee": "1903"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "De la réfrigération au moteur",
+          "texte": "Diesel commence chez son professeur Carl von Linde, dans les machines frigorifiques. Ses essais d'une machine à vapeur à l'ammoniac tournent mal : elle explose et l'envoie plusieurs mois à l'hôpital. Il se tourne alors vers un moteur à très haut rendement. De 1893 à 1897, l'industriel Heinrich von Buz finance ses essais à Augsbourg. Le prototype de 1897 développe 25 chevaux."
+        },
+        {
+          "titre": "Un moteur pour les artisans",
+          "texte": "Diesel voulait aider les petits artisans à rivaliser avec les grandes industries, qui dépendaient du charbon. Son moteur fonctionnait avec des huiles lourdes bon marché, et il a même été essayé avec de l'huile végétale. Le turbocompresseur de 1905 et l'injection améliorée l'ont rendu performant. Le premier navire océanique équipé, le Selandia, entre en service en 1912."
+        }
+      ],
+      "anecdotes": [
+        "En 1900, à Paris, un petit moteur Diesel fonctionne à l'huile d'arachide, à la demande du gouvernement français. Selon Diesel lui-même, très peu de visiteurs s'en aperçoivent."
+      ],
+      "wikipedia": "Rudolf Diesel"
+    },
+    "source": "D'après Wikipédia — Rudolf Diesel"
+  },
+  {
+    "id": "tech-084",
+    "domain": "tech",
+    "subtheme": "Inventeurs et pionniers",
+    "type": "personnage",
+    "title": "Nicéphore Niépce",
+    "subtitle": "Inventeur français, 1765-1833",
+    "summary": "Nicéphore Niépce, de Chalon-sur-Saône, invente avec son frère Claude le pyréolophore, l'un des tout premiers moteurs à combustion interne, breveté en 1807. Il se lance ensuite dans l'héliographie, le « dessin par le soleil ».\nEn 1827, il photographie la vue de sa fenêtre, à Saint-Loup-de-Varennes, sur une plaque d'étain. Cette image, le Point de vue du Gras, est la plus ancienne photo de scène réelle qui nous soit parvenue.",
+    "details": {
+      "epoque": "Fin du XVIIIe siècle et début du XIXe siècle.",
+      "pourquoiCelebre": "On lui attribue l'invention de la photographie, avec la plus vieille image faite dans une chambre noire qui nous reste.",
+      "ideesClefs": [
+        "Le pyréolophore est présenté à l'Institut de France en 1806 et breveté en 1807.",
+        "En 1822, il reproduit par la seule lumière un portrait dessiné de Pie VII, sur du verre.",
+        "En 1829, il s'associe avec Louis Daguerre pour exploiter l'invention."
+      ],
+      "liens": [
+        {
+          "nom": "Louis Daguerre",
+          "relation": "Associé de Niépce de 1829 à 1833, il met ensuite au point le daguerréotype, présenté en 1839."
+        },
+        {
+          "nom": "Claude Niépce",
+          "relation": "Son frère aîné, qui l'a aidé à construire le pyréolophore."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Le pyréolophore",
+          "annee": "1807"
+        },
+        {
+          "titre": "Copie du portrait du pape Pie VII",
+          "annee": "1822"
+        },
+        {
+          "titre": "Point de vue du Gras",
+          "annee": "1827"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le moteur des frères Niépce",
+          "texte": "À partir de 1801, Nicéphore et Claude gèrent leurs terres et inventent. Leur pyréolophore, un moteur qui fonctionne par de petites explosions, fait l'objet d'un rapport lu à l'Institut de France en décembre 1806, par Berthollet et Lazare Carnot. Il est breveté en 1807 mais jamais vendu. Claude part tenter de le négocier en Angleterre et y meurt peu après, ruiné."
+        },
+        {
+          "titre": "Fixer l'image du soleil",
+          "texte": "Niépce utilise le bitume de Judée, une sorte d'asphalte qui durcit à la lumière. Les parties restées dans l'ombre se dissolvent, et la plaque garde l'image. Pour le Point de vue du Gras, la pose a sans doute duré plusieurs jours. Niépce meurt en 1833. Daguerre présente en 1839 son procédé, et il faut quelques années pour que le rôle de Niépce soit reconnu."
+        }
+      ],
+      "anecdotes": [
+        "Selon une version, Joseph Niépce prend le prénom de Nicéphore en 1787 à la suite d'un renvoi du lycée : il y avait montré à ses camarades des images de lanterne magique."
+      ],
+      "wikipedia": "Nicéphore Niépce"
+    },
+    "source": "D'après Wikipédia — Nicéphore Niépce"
+  },
+  {
+    "id": "tech-085",
+    "domain": "tech",
+    "subtheme": "Inventeurs et pionniers",
+    "type": "personnage",
+    "title": "Louis Daguerre",
+    "subtitle": "Peintre et inventeur français, 1787-1851",
+    "summary": "Louis Daguerre est d'abord peintre et décorateur de théâtre. En 1822, avec Charles Marie Bouton, il crée le diorama : de grandes toiles translucides dont l'éclairage change, du jour à la nuit.\nAssocié à Nicéphore Niépce en 1829, il met ensuite au point le daguerréotype, une image unique sur une plaque de cuivre argentée. En 1839, l'État français l'achète et le met à la disposition du monde entier.",
+    "details": {
+      "epoque": "Première moitié du XIXe siècle.",
+      "pourquoiCelebre": "Il a mis au point le daguerréotype, premier procédé photographique utilisable et diffusé dans le monde entier.",
+      "ideesClefs": [
+        "Il invente le diorama en 1822, un spectacle d'illusion fondé sur la lumière.",
+        "Après la mort de Niépce en 1833, il découvre qu'une image invisible peut être révélée par la vapeur de mercure.",
+        "Le 19 août 1839, les détails techniques du daguerréotype sont rendus publics."
+      ],
+      "liens": [
+        {
+          "nom": "Nicéphore Niépce",
+          "relation": "Son associé de 1829 à 1833, dont les recherches ont ouvert la voie au daguerréotype."
+        },
+        {
+          "nom": "François Arago",
+          "relation": "le savant qui annonce l'invention le 7 janvier 1839, devant l'Académie des sciences."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Le diorama",
+          "annee": "1822"
+        },
+        {
+          "titre": "Boulevard du Temple"
+        },
+        {
+          "titre": "Le daguerréotype",
+          "annee": "1839"
+        },
+        {
+          "titre": "Historique et description du daguerréotype et du diorama",
+          "annee": "1839"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le magicien de l'illusion",
+          "texte": "Élève du peintre de panoramas Pierre Prévost, Daguerre devient décorateur à l'Opéra. Son diorama est une immense toile, haute de quatorze mètres et large de vingt-deux, peinte en trompe-l'œil et animée par des jeux de lumière : selon l’éclairage, la scène passe du jour à la nuit. Pour peindre aussi fidèlement que possible, Daguerre et Bouton se servent d'une chambre noire, un outil qui prépare déjà la photographie."
+        },
+        {
+          "titre": "Le daguerréotype",
+          "texte": "Daguerre sensibilise à la lumière une plaque de cuivre recouverte d'argent grâce à de l'iode. Il découvre ensuite qu'une pose courte laisse une image invisible, que la vapeur de mercure fait apparaître. Il la fixe en 1837 à l'eau salée chaude. La pose passe de plusieurs heures à quelques dizaines de minutes. En 1839, une loi permet à l'État d'acquérir le procédé, contre des pensions : 6 000 francs par an pour Daguerre, 4 000 pour Isidore Niépce."
+        }
+      ],
+      "anecdotes": [
+        "Dans l'église de Bry-sur-Marne, un diorama de Daguerre distrayait les fidèles quand un nuage passait devant le soleil peint : le curé, excédé par cette concurrence, l'a caché derrière un rideau."
+      ],
+      "wikipedia": "Louis Daguerre"
+    },
+    "source": "D'après Wikipédia — Louis Daguerre"
+  },
+  {
+    "id": "tech-086",
+    "domain": "tech",
+    "subtheme": "Inventeurs et pionniers",
+    "type": "personnage",
+    "title": "Charles Babbage",
+    "subtitle": "Mathématicien et inventeur britannique, 1791-1871",
+    "summary": "Charles Babbage veut supprimer les erreurs des tables de calcul utilisées pour la navigation et l'astronomie. Il imagine une machine à différences, qui calculerait sans fatigue ni faute.\nPuis il conçoit la machine analytique, qui lirait ses données et ses instructions sur des cartes perforées : l'ancêtre mécanique de l'ordinateur. Il ne l'achève jamais, mais une machine construite en 1991 d'après ses plans prouve qu'ils fonctionnaient.",
+    "details": {
+      "epoque": "XIXe siècle.",
+      "pourquoiCelebre": "Il a conçu la machine analytique, dont le principe annonce celui des ordinateurs modernes, avec mémoire, calcul et cartes d'instructions.",
+      "ideesClefs": [
+        "En 1821, il montre à la Société royale d'astronomie un modèle réduit de sa machine à différences.",
+        "Entre 1834 et 1836, il définit les principes de la machine analytique, avec cartes perforées.",
+        "En 1991, le Science Museum de Londres reconstruit sa machine à différences no 2 d'après ses plans."
+      ],
+      "liens": [
+        {
+          "nom": "Ada Lovelace",
+          "relation": "Elle a publié en 1843 un algorithme destiné à la machine de Babbage."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "La machine à différences",
+          "annee": "1822"
+        },
+        {
+          "titre": "Économie des machines et des manufactures",
+          "annee": "1832"
+        },
+        {
+          "titre": "La machine analytique",
+          "annee": "1834"
+        },
+        {
+          "titre": "Passages from the Life of a Philosopher",
+          "annee": "1864"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Calculer sans erreur",
+          "texte": "Les tables de logarithmes de l'époque contiennent beaucoup de fautes, parfois cause d'accidents de navigation. Babbage conçoit une machine qui calcule des polynômes par la méthode des différences. En 1823, le gouvernement britannique lui accorde 1 500 livres. Mais le mécanisme grippe sous les frottements, et Babbage modifie sans cesse ses plans : en 1833, 17 000 livres sont dépensées sans résultat satisfaisant."
+        },
+        {
+          "titre": "L'ancêtre de l'ordinateur",
+          "texte": "Pour la machine analytique, Babbage emprunte les cartes perforées des métiers Jacquard : elles donneraient à la fois les données et les instructions. La mécanique de l'époque, faite de roues dentées et de leviers, ne suffit pas à la bâtir. Son fils en construira pourtant le moulin, l'unité de calcul, et l'imprimante en 1888. La machine à différences no 2, achevée en 2002, compte 8 000 pièces et pèse 5 tonnes."
+        }
+      ],
+      "anecdotes": [
+        "Vers la fin de sa vie, Babbage affirme qu'il accepterait de mourir sur-le-champ s'il pouvait vivre trois jours cinq siècles plus tard, avec un guide scientifique pour lui présenter les inventions nées entre-temps."
+      ],
+      "wikipedia": "Charles Babbage"
+    },
+    "source": "D'après Wikipédia — Charles Babbage"
+  },
+  {
+    "id": "tech-087",
+    "domain": "tech",
+    "subtheme": "Inventeurs et pionniers",
+    "type": "personnage",
+    "title": "John von Neumann",
+    "subtitle": "Mathématicien américano-hongrois, 1903-1957",
+    "summary": "John von Neumann, né à Budapest, est un enfant prodige devenu l'un des plus grands mathématiciens du XXe siècle. Il marque la physique quantique, l’économie et l’informatique.\nSon nom reste attaché à l'architecture des ordinateurs : les instructions et les données se trouvent dans la même mémoire. Naturalisé américain en 1937, il est professeur à l'Institute for Advanced Study, à Princeton, de 1933 jusqu'à sa mort.",
+    "details": {
+      "epoque": "XXe siècle.",
+      "pourquoiCelebre": "Il a posé les principes de l'architecture des ordinateurs et marqué les mathématiques, la physique quantique et la théorie des jeux.",
+      "ideesClefs": [
+        "Il obtient son doctorat à 22 ans, dans une thèse consacrée à l'axiomatisation de la théorie des ensembles.",
+        "Il enseigne à l'Institute for Advanced Study à partir de 1933, aux côtés notamment d'Einstein, de Gödel et de Turing.",
+        "Il décrit dans les années 1940 l'architecture de von Neumann, encore à la base de la plupart des ordinateurs."
+      ],
+      "liens": [
+        {
+          "nom": "Alan Turing",
+          "relation": "Ils ont fréquenté la même institution de Princeton."
+        },
+        {
+          "nom": "Kurt Gödel",
+          "relation": "Von Neumann a vite compris ses théorèmes d'incomplétude, annoncés en 1930."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Axiomatisation de la théorie des ensembles (thèse)"
+        },
+        {
+          "titre": "La logique de la mécanique quantique",
+          "annee": "1936"
+        },
+        {
+          "titre": "L'architecture de von Neumann"
+        },
+        {
+          "titre": "L'automate cellulaire de von Neumann"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un prodige des nombres et des langues",
+          "texte": "À six ans, le jeune János converse en grec ancien avec son père et divise de tête des nombres de huit chiffres. Adulte, il parle couramment quatre langues et en converse dans quatre autres. À 22 ans, il décroche son doctorat, tout en obtenant un diplôme de génie chimique à Zurich, voulu par son père. Il devient le plus jeune privat-docent de l'histoire de l'université de Berlin."
+        },
+        {
+          "titre": "Du calcul à l'ordinateur",
+          "texte": "Pendant la guerre, Von Neumann se tourne vers les mathématiques appliquées : il développe la méthode de Monte-Carlo, qui économise du temps de calcul, et participe aux premiers ordinateurs. Dans l'architecture qui porte son nom, le programme et les données sont rangés dans la même mémoire. Il étudie aussi les automates cellulaires et l'auto-réplication, bien avant la découverte de la structure de l'ADN."
+        }
+      ],
+      "anecdotes": [
+        "Selon une anecdote, à six ans, Von Neumann avait déjà lu et mémorisé les quarante-quatre volumes d'une histoire universelle de la bibliothèque familiale, au point de pouvoir en citer des pages entières."
+      ],
+      "wikipedia": "John von Neumann"
+    },
+    "source": "D'après Wikipédia — John von Neumann"
+  },
+  {
+    "id": "tech-088",
+    "domain": "tech",
+    "subtheme": "Inventeurs et pionniers",
+    "type": "personnage",
+    "title": "Claude Shannon",
+    "subtitle": "Mathématicien et ingénieur américain, 1916-2001",
+    "summary": "Claude Shannon est le père de la théorie de l'information. Dans son mémoire de 1937, il montre que de simples interrupteurs électriques peuvent résoudre des problèmes de logique : c'est la base des circuits numériques.\nEn 1948, son article « Une théorie mathématique de la communication » popularise le mot « bit » et donne un cadre précis pour mesurer l'information et la transmettre malgré le bruit.",
+    "details": {
+      "epoque": "XXe siècle.",
+      "pourquoiCelebre": "Il a fondé la théorie de l'information et popularisé le bit, l'unité qui mesure l'information numérique.",
+      "ideesClefs": [
+        "Son mémoire du MIT, en 1937, applique l'algèbre de Boole aux circuits à relais.",
+        "Son article de 1948 décrit toute communication par un schéma : source, encodeur, signal, décodeur, destinataire.",
+        "Il a travaillé aux laboratoires Bell de 1941 à 1972 et enseigné au MIT."
+      ],
+      "liens": [
+        {
+          "nom": "Thomas Edison",
+          "relation": "Son héros d'enfance, qu'il découvrira plus tard être un lointain cousin."
+        },
+        {
+          "nom": "John von Neumann",
+          "relation": "Shannon l'a rencontré à l'Institute for Advanced Study de Princeton, en 1940."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "A Symbolic Analysis of Relay and Switching Circuits",
+          "annee": "1938"
+        },
+        {
+          "titre": "Une théorie mathématique de la communication",
+          "annee": "1948"
+        },
+        {
+          "titre": "La souris mécanique du labyrinthe (Thésée)"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Des interrupteurs qui raisonnent",
+          "texte": "Au MIT, Shannon travaille sur un calculateur analogique fait de pièces électromécaniques. Il s'aperçoit que l'algèbre de Boole, où tout est vrai ou faux, décrit parfaitement des relais ouverts ou fermés, notés 0 et 1. Ses schémas simplifient les circuits des centraux téléphoniques et incluent un additionneur de 4 bits. Le mémoire est souvent cité comme l'acte de naissance de la révolution numérique."
+        },
+        {
+          "titre": "Mesurer l'information",
+          "texte": "Un bit suffit pour choisir entre deux états, comme pile ou face ; il en faut au moins cinq pour distinguer les 26 lettres de l'alphabet. Shannon remarque aussi que les lettres fréquentes peuvent recevoir des codes courts, comme dans le code Morse. Ses théorèmes fixent des limites : jusqu'où on peut compresser un message, et quel débit maximal supporte un canal bruité."
+        }
+      ],
+      "anecdotes": [
+        "Shannon aimait la jonglerie, le monocycle et les machines farfelues, dont une « machine inutile » : quand on appuie sur l'interrupteur « on », un mécanisme remet aussitôt l'interrupteur sur « off »."
+      ],
+      "wikipedia": "Claude Shannon"
+    },
+    "source": "D'après Wikipédia — Claude Shannon"
+  },
+  {
+    "id": "tech-089",
+    "domain": "tech",
+    "subtheme": "Inventeurs et pionniers",
+    "type": "personnage",
+    "title": "Konrad Zuse",
+    "subtitle": "Ingénieur allemand, 1910-1995",
+    "summary": "Konrad Zuse, ingénieur berlinois, construit ses premiers calculateurs dans l'appartement de ses parents dès 1936. Son Z3, présenté le 12 mai 1941, est une machine programmable en calcul binaire qui fonctionne vraiment.\nTravaillant presque seul, il imagine aussi le Plankalkül, un premier langage de programmation évolué, resté inconnu jusqu'à sa publication en 1972. Son Z4 devient en 1950 l'un des premiers ordinateurs à être loué ou vendu.",
+    "details": {
+      "epoque": "Du milieu du XXe siècle.",
+      "pourquoiCelebre": "Il a construit le Z3, calculateur programmable binaire à virgule flottante, souvent présenté comme le premier ordinateur programmable qui ait réellement fonctionné.",
+      "ideesClefs": [
+        "Le Z1 (1936-1938) est un calculateur mécanique qui ne fonctionne jamais bien.",
+        "Le Z3 (1941) utilise des relais de téléphone et le système binaire de Leibniz.",
+        "Le Z4 est livré à l'ETH de Zurich en juillet 1950."
+      ],
+      "liens": [
+        {
+          "nom": "Charles Babbage",
+          "relation": "Zuse a obtenu des résultats proches des siens, mais n'a découvert ses travaux qu'après la guerre."
+        },
+        {
+          "nom": "Alan Turing",
+          "relation": "Zuse ne connaissait pas ses travaux ; il aurait assisté à une réunion avec lui à Göttingen en 1947."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Z1",
+          "annee": "1936"
+        },
+        {
+          "titre": "Z3",
+          "annee": "1941"
+        },
+        {
+          "titre": "Z4"
+        },
+        {
+          "titre": "Plankalkül"
+        },
+        {
+          "titre": "Z22",
+          "annee": "1958"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Calculer à la place des ingénieurs",
+          "texte": "Jeune ingénieur dans une usine d'avions, Zuse passe ses journées à faire des calculs répétitifs à la main. Il décide de les confier à une machine. Il choisit le binaire, avec seulement 0 et 1, plus simple à réaliser avec des interrupteurs. Le Z1 mécanique, avec environ 30 000 pièces métalliques, manque de précision. Le Z2 puis le Z3 utilisent des relais téléphoniques, et le Z3 compte en virgule flottante."
+        },
+        {
+          "titre": "Perdu, puis retrouvé",
+          "texte": "Les bombardements détruisent le Z3 en 1943 ou 1944, mais le Z4, commencé en 1942, survit. Zuse le met en service à Zurich en 1950, où il se montre très fiable : c'est alors le seul ordinateur en état de marche d'Europe centrale. Il fonde Zuse KG en 1949, vendue à Siemens en 1964. Il a été montré en 1998 que le Z3 pouvait, en théorie, exécuter n'importe quel calcul."
+        }
+      ],
+      "anecdotes": [
+        "Pour construire ses machines, Zuse a largement récupéré des relais téléphoniques dans du matériel mis au rebut."
+      ],
+      "wikipedia": "Konrad Zuse"
+    },
+    "source": "D'après Wikipédia — Konrad Zuse"
+  },
+  {
+    "id": "tech-090",
+    "domain": "tech",
+    "subtheme": "Inventeurs et pionniers",
+    "type": "personnage",
+    "title": "Steve Wozniak",
+    "subtitle": "Ingénieur et programmeur américain, né en 1950",
+    "summary": "Steve Wozniak, né à San José en Californie, est un électronicien passionné depuis l'enfance. Il conçoit seul le circuit de l'Apple I, puis de l'Apple II, présenté en 1977.\nIl cofonde Apple le 1er avril 1976 avec Steve Jobs et Ronald Wayne. Il quitte l'entreprise en 1985 et s'investit ensuite dans de nouveaux projets, notamment pour les écoles.",
+    "details": {
+      "epoque": "Depuis les années 1970.",
+      "pourquoiCelebre": "Il est l'ingénieur qui a conçu l'Apple I et l'Apple II, des ordinateurs qui ont lancé la micro-informatique personnelle.",
+      "ideesClefs": [
+        "Dès l'enfance, il bricole de l'électronique, jusqu'à un poste de radioamateur.",
+        "L'Apple II, avec graphisme haute résolution, est présenté en 1977.",
+        "En 1985, il fonde CL 9, qui crée des télécommandes universelles programmables."
+      ],
+      "liens": [
+        {
+          "nom": "Steve Jobs",
+          "relation": "Son ami et cofondateur d'Apple, qui a eu l'idée de vendre l'Apple I en carte préassemblée."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Apple I",
+          "annee": "1976"
+        },
+        {
+          "titre": "Apple II",
+          "annee": "1977"
+        },
+        {
+          "titre": "Integer BASIC",
+          "annee": "1977"
+        },
+        {
+          "titre": "iWoz (autobiographie)",
+          "annee": "2006"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un électronicien dans un garage",
+          "texte": "Son père, ingénieur, lui apprend l'électronique. À 13 ans, Wozniak gagne un concours scientifique avec une calculatrice à transistors. Embauché en 1973 chez Hewlett-Packard, il fréquente le Homebrew Computer Club de Palo Alto. Il découvre en septembre 1975 le processeur 6502 et conçoit l'Apple I, capable d'afficher des graphismes sur un écran, ce qui impressionne les passionnés. Pour financer le prototype, il vend sa calculatrice HP-65."
+        },
+        {
+          "titre": "De l'Apple I à l'Apple II",
+          "texte": "Jobs et Wozniak vendent leurs 50 premiers ordinateurs à un revendeur local pour 25 000 dollars. Wozniak quitte HP en mai 1976 pour se consacrer à Apple. Il écrit lui-même l'interpréteur BASIC de l'Apple II, un jeu de casse-briques avec du son, et conçoit en 1978 un lecteur de disquette peu coûteux. Apple entre en bourse le 12 décembre 1980. Il prend du recul en 1981, à la suite d'un accident d'avion, puis quitte l'entreprise en février 1985."
+        }
+      ],
+      "anecdotes": [
+        "Wozniak a un jour imprimé de fausses brochures vantant un ordinateur imaginaire, le « Zaltair », pour parodier le célèbre Altair 8800. Même Steve Jobs y a cru."
+      ],
+      "wikipedia": "Steve Wozniak"
+    },
+    "source": "D'après Wikipédia — Steve Wozniak"
+  },
+  {
+    "id": "tech-091",
+    "domain": "tech",
+    "subtheme": "Inventeurs et pionniers",
+    "type": "personnage",
+    "title": "Margaret Hamilton",
+    "subtitle": "Informaticienne américaine, née en 1936",
+    "summary": "Margaret Hamilton dirige, au laboratoire d'instrumentation du MIT, l'équipe qui écrit le logiciel de bord des missions Apollo de la NASA, chargé de la navigation et de l'atterrissage sur la Lune. Elle popularise l'expression « génie logiciel ».\nLors d'Apollo 11, des alarmes se déclenchent trois minutes avant l'alunissage : grâce à la gestion des priorités de ses programmes, l'ordinateur garde l'essentiel et la mission continue.",
+    "details": {
+      "epoque": "Depuis les années 1960.",
+      "pourquoiCelebre": "Elle a dirigé la conception du logiciel de vol des missions Apollo, modèle de logiciel fiable, et a contribué à faire reconnaître le génie logiciel.",
+      "ideesClefs": [
+        "Elle étudie les mathématiques et commence en 1959 au MIT, sur des programmes de prévision météo.",
+        "Elle dirige l'équipe du logiciel embarqué pour Apollo puis Skylab.",
+        "Elle reçoit la médaille présidentielle de la Liberté en 2016."
+      ],
+      "liens": [
+        {
+          "nom": "Ada Lovelace",
+          "relation": "Hamilton a reçu en 1986 le prix Ada-Lovelace de l'Association for Women in Computing."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Le logiciel de vol des missions Apollo"
+        },
+        {
+          "titre": "Higher Order Software, a methodology for defining software",
+          "annee": "1976"
+        },
+        {
+          "titre": "Universal Systems Language"
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Du ciel météo à la Lune",
+          "texte": "Margaret Hamilton arrive au MIT en 1959 pour programmer des prévisions météo pour le professeur Edward Lorenz. De 1961 à 1963, elle travaille sur SAGE, un système militaire de détection d'avions. Elle rejoint ensuite le laboratoire du MIT qui conçoit l'ordinateur de guidage d'Apollo. Elle y devient responsable de l'équipe qui écrit et teste tout le logiciel de vol du module de commande et du module lunaire."
+        },
+        {
+          "titre": "Le soir de l'alunissage",
+          "texte": "Trois minutes avant que le module lunaire d'Apollo 11 ne touche la Lune, l'ordinateur de bord signale qu'il est surchargé. Son système, conçu pour attribuer une priorité à chaque tâche, abandonne les tâches secondaires et garde celles de l'atterrissage. Hamilton fonde en 1976 la société Higher Order Software, puis en 1986 Hamilton Technologies, pour fiabiliser le logiciel dès sa conception."
+        }
+      ],
+      "anecdotes": [
+        "Au début de sa carrière, Hamilton hérite d'un programme que personne n'avait réussi à faire tourner, dont l'auteur avait écrit tous les commentaires en grec et en latin. Elle le fait fonctionner, et il affiche même ses résultats en latin et en grec."
+      ],
+      "wikipedia": "Margaret Hamilton (scientifique)"
+    },
+    "source": "D'après Wikipédia — Margaret Hamilton (scientifique)"
   }
 ]

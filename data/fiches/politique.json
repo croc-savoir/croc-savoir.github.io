@@ -421,7 +421,7 @@
   {
     "id": "politique-014",
     "domain": "politique",
-    "subtheme": "Organisations internationales",
+    "subtheme": "Relations internationales",
     "type": "classique",
     "title": "L'Organisation des Nations unies (ONU)",
     "summary": "Organisation internationale fondée en 1945 après la Seconde Guerre mondiale, réunissant la quasi-totalité des États du monde, avec pour mission principale le maintien de la paix et de la sécurité internationales.",
@@ -465,7 +465,7 @@
   {
     "id": "politique-015",
     "domain": "politique",
-    "subtheme": "Organisations internationales",
+    "subtheme": "Relations internationales",
     "type": "classique",
     "title": "L'Union européenne",
     "summary": "Union politique et économique regroupant des pays européens, née de la volonté d'assurer la paix sur le continent après la Seconde Guerre mondiale en liant durablement les économies des pays membres.",
@@ -1013,5 +1013,415 @@
       ]
     },
     "source": "D'après Wikipédia — Décentralisation en France"
+  },
+  {
+    "id": "politique-031",
+    "domain": "politique",
+    "subtheme": "Institutions françaises",
+    "type": "classique",
+    "title": "Le Conseil constitutionnel",
+    "subtitle": "Institution française créée en 1958, installée au Palais-Royal",
+    "summary": "Le Conseil constitutionnel vérifie que les lois votées par le Parlement respectent la Constitution. Il veille aussi à la régularité des élections présidentielles, législatives, sénatoriales et des référendums.\nCréé par la Constitution du 4 octobre 1958, il est surnommé « les Sages ». D'abord cantonné à un rôle limité, il est devenu, depuis les années 1970, un vrai juge constitutionnel et un protecteur des droits fondamentaux.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une naissance prudente, un rôle qui grandit",
+          "texte": "En 1958, le général de Gaulle se méfie d'un « gouvernement des juges » : pour lui, la vraie cour suprême, c'est le peuple. Le Conseil sert d'abord à empêcher le Parlement de déborder de son domaine. Mais en 1971, avec la décision Liberté d'association, il censure pour la première fois une loi au nom des principes du préambule de la Constitution de 1946, et sa puissance monte."
+        },
+        {
+          "titre": "Qui le saisit, qui y siège",
+          "texte": "Il compte neuf membres nommés pour neuf ans, non renouvelables, un tiers par le président de la République, un tiers par le président du Sénat et un tiers par celui de l'Assemblée. Depuis 1974, soixante députés ou soixante sénateurs peuvent le saisir. Et depuis 2010, un justiciable peut soulever une question prioritaire de constitutionnalité (QPC) contre la loi qu'on lui applique."
+        }
+      ],
+      "anecdotes": [
+        "Les anciens présidents de la République y siègent de droit et à vie, mais presque aucun ne l'a fait de façon continue : seul René Coty a siégé en permanence, alors que de Gaulle et Mitterrand n'y ont jamais siégé."
+      ],
+      "wikipedia": "Conseil constitutionnel (France)"
+    },
+    "source": "D'après Wikipédia — Conseil constitutionnel (France)"
+  },
+  {
+    "id": "politique-032",
+    "domain": "politique",
+    "subtheme": "Institutions françaises",
+    "type": "classique",
+    "title": "Le Conseil d'État",
+    "subtitle": "Conseiller du gouvernement et juridiction administrative suprême, créé en 1799",
+    "summary": "Le Conseil d'État a deux métiers. Il conseille le gouvernement, qui doit le consulter sur certains textes, notamment les projets de loi. Et il est la plus haute juridiction de l'ordre administratif : on y conteste les décisions de l'administration.\nFondé par Napoléon Bonaparte en 1799, il descend du Conseil du Roi de l'Ancien Régime. Son siège est le Palais-Royal, à Paris, depuis 1875.",
+    "details": {
+      "sections": [
+        {
+          "titre": "De la justice du roi à la justice « déléguée »",
+          "texte": "Sous l'Ancien Régime, le roi tranchait lui-même les litiges où son administration était en cause : c'est la « justice retenue ». Le Conseil d'État de 1799 conserve ce système : il propose, le chef de l'État décide. En 1849, la IIe République le supprime ; en 1872, la IIIe République rend définitivement au Conseil la justice déléguée : il juge « au nom du peuple français »."
+        },
+        {
+          "titre": "Une école de hauts fonctionnaires",
+          "texte": "Napoléon crée en 1803 l'auditorat, une filière où l'on se forme avant de rejoindre la haute fonction publique. Les grades, auditeur, maître des requêtes et conseiller d'État, existent toujours. Depuis la création des tribunaux administratifs en 1953, il juge surtout en appel ou en cassation. Son vice-président préside le Conseil, le Premier ministre ne le faisant qu'exceptionnellement."
+        }
+      ],
+      "anecdotes": [
+        "Le Conseil d'État siégeait au palais d'Orsay, ravagé par un incendie pendant la Commune de Paris. Sa riche bibliothèque est partie en fumée, et sa perte a longtemps paru définitive."
+      ],
+      "wikipedia": "Conseil d'État (France)"
+    },
+    "source": "D'après Wikipédia — Conseil d'État (France)"
+  },
+  {
+    "id": "politique-033",
+    "domain": "politique",
+    "subtheme": "Institutions françaises",
+    "type": "classique",
+    "title": "La Cour des comptes",
+    "subtitle": "Juridiction financière française, refondée en 1807",
+    "summary": "La Cour des comptes contrôle la régularité des comptes publics : ceux de l'État, de la Sécurité sociale, des établissements publics et des entreprises publiques. Elle informe le Parlement, le gouvernement et les citoyens.\nSes rapports ne sont pas contraignants. Créée en 1807 par Napoléon Ier, elle succède aux chambres des comptes de l'Ancien Régime et siège rue Cambon, à Paris, depuis 1912.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une longue histoire de comptes",
+          "texte": "Une Chambre des comptes siège à Paris dès le début du XIVe siècle. La Révolution la supprime en 1791 et la remplace par des bureaux inefficaces. En 1807, Napoléon crée un corps unique et centralisé, organisé sur le modèle d'une cour de justice, seul moyen à l'époque de garantir son indépendance envers les services contrôlés. La séance inaugurale a lieu le 5 novembre 1807."
+        },
+        {
+          "titre": "Ce qu'elle fait aujourd'hui",
+          "texte": "Ses magistrats, inamovibles, sont répartis en sept chambres par domaines (santé, éducation, défense, etc.). Depuis 2007, elle doit aussi certifier, comme un auditeur, les comptes de l'État et ceux de la Sécurité sociale. Depuis 1982, des chambres régionales des comptes contrôlent les collectivités locales. Elle rend chaque année un rapport public, mais elle ne peut pas imposer de réformes."
+        }
+      ],
+      "anecdotes": [
+        "En 1194, le roi Richard d'Angleterre s'empare des coffres contenant tous les comptes du royaume de France lors d'une bataille. Philippe Auguste décide alors de rendre les comptes sédentaires, ce qui prépare la future Chambre des comptes."
+      ],
+      "wikipedia": "Cour des comptes (France)"
+    },
+    "source": "D'après Wikipédia — Cour des comptes (France)"
+  },
+  {
+    "id": "politique-034",
+    "domain": "politique",
+    "subtheme": "Institutions françaises",
+    "type": "classique",
+    "title": "Le président de la République",
+    "subtitle": "Chef de l'État français, élu au suffrage universel direct depuis 1962",
+    "summary": "Le président de la République est le chef de l'État et le chef des armées. Il est le garant du respect de la Constitution et de la continuité de l'État, et il partage le pouvoir exécutif avec le gouvernement.\nÉlu au suffrage universel direct depuis 1962, pour cinq ans depuis 2002, il nomme le Premier ministre, peut dissoudre l'Assemblée nationale (mais pas le Sénat) et exerce le droit de grâce.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un pouvoir très variable selon les républiques",
+          "texte": "Le premier président, Louis-Napoléon Bonaparte, est élu en 1848 pour quatre ans. Sous la IIIe République, après Mac Mahon, les présidents se cantonnent à un rôle représentatif : on prête à Jules Grévy un « je ne ferai rien ». Sous la IVe, il reste très limité. La Constitution de 1958 renforce nettement sa place, et le référendum de 1962 lui donne l'élection directe."
+        },
+        {
+          "titre": "Le mandat et ses règles",
+          "texte": "Le mandat a duré quatre ans de 1848 à 1852, puis sept ans de 1873 à 2002 (le septennat). Un référendum en 2000 l'a ramené à cinq ans. Depuis la réforme de 2008, nul ne peut faire plus de deux mandats consécutifs. Pour se présenter, il faut réunir plus de 500 parrainages d'élus, surtout des maires, répartis dans au moins 30 départements ou collectivités d'outre-mer."
+        }
+      ],
+      "anecdotes": [
+        "Parmi ses titres peu connus, le président de la République est co-prince d'Andorre et grand maître de la Légion d'honneur. Il est aussi chanoine d'honneur d'une basilique de Rome, Saint-Jean-de-Latran."
+      ],
+      "wikipedia": "Président de la République française"
+    },
+    "source": "D'après Wikipédia — Président de la République française"
+  },
+  {
+    "id": "politique-035",
+    "domain": "politique",
+    "subtheme": "Institutions françaises",
+    "type": "classique",
+    "title": "Le Premier ministre",
+    "subtitle": "Chef du gouvernement depuis la Constitution de 1958",
+    "summary": "Le Premier ministre dirige l'action du gouvernement. Nommé par le président de la République, il propose les autres ministres, signe les décrets et fait le lien entre le gouvernement et le Parlement.\nSon gouvernement est responsable devant l'Assemblée nationale, qui peut le renverser par une motion de censure. Il siège à l'hôtel de Matignon, à Paris : « Matignon » désigne souvent ses services.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un titre venu de l'Ancien Régime",
+          "texte": "Sous les IIIe et IVe Républiques, le chef du gouvernement s'appelait président du Conseil. La Constitution de 1958 lui substitue le titre de Premier ministre, emprunté à l'Ancien Régime. Michel Debré est le premier à l'occuper, le 8 janvier 1959. Auparavant, les gouvernements tombaient souvent : sous la IIIe République, ils étaient parfois renversés deux fois par an."
+        },
+        {
+          "titre": "Que peut-il faire ?",
+          "texte": "Il exerce le pouvoir réglementaire : il signe les décrets et nomme à de nombreux emplois. Il peut saisir le Conseil constitutionnel et engager la responsabilité du gouvernement sur un texte (article 49, alinéa 3). Le texte est alors adopté, sauf si une motion de censure est votée. Son poids dépend du contexte : en cohabitation, il exerce pleinement les pouvoirs que lui donne la Constitution."
+        }
+      ],
+      "anecdotes": [
+        "Le Premier ministre n'a pas besoin d'être député ou sénateur. Georges Pompidou, Raymond Barre ou Dominique de Villepin ont ainsi été nommés sans mandat parlementaire au moment de leur nomination."
+      ],
+      "wikipedia": "Premier ministre français"
+    },
+    "source": "D'après Wikipédia — Premier ministre français"
+  },
+  {
+    "id": "politique-036",
+    "domain": "politique",
+    "subtheme": "Institutions françaises",
+    "type": "classique",
+    "title": "Le préfet",
+    "subtitle": "Représentant de l'État dans un département ou une région, fonction créée en 1800",
+    "summary": "Le préfet est un haut fonctionnaire qui représente l'État dans un département ou une région. Son nom vient du latin praefectus : « celui qui est mis à la tête de ».\nLa fonction a été créée en 1800 par Bonaparte. Aujourd'hui, le préfet veille à l'application des lois dans son territoire et contrôle la légalité des décisions des collectivités locales.",
+    "details": {
+      "sections": [
+        {
+          "titre": "De Rome à Napoléon",
+          "texte": "Dans la Rome antique, le préfet est un fonctionnaire dont l'autorité est déléguée : préfet de Rome, des vigiles qui luttent contre les incendies, ou de l'Annone, qui assure le ravitaillement en blé. En France, la fonction est créée le 17 février 1800 par Bonaparte. Le préfet est alors le grand administrateur du département, qui représente le gouvernement et dirige l'administration locale."
+        },
+        {
+          "titre": "Un rôle transformé par la décentralisation",
+          "texte": "Avec la loi du 2 mars 1982, les collectivités élues prennent en charge leurs affaires. Le préfet reste le représentant de l'État, mais n'est plus l'administrateur tout-puissant : il contrôle surtout la légalité et les comptes locaux. Les sous-préfets l'assistent dans les arrondissements. Le préfet de police de Paris dépend, lui, directement du ministre de l'Intérieur."
+        }
+      ],
+      "anecdotes": [
+        "Au Japon, le système des préfectures mis en place en 1871 s'inspire largement du modèle des préfets français."
+      ],
+      "wikipedia": "Préfet"
+    },
+    "source": "D'après Wikipédia — Préfet"
+  },
+  {
+    "id": "politique-037",
+    "domain": "politique",
+    "subtheme": "Institutions françaises",
+    "type": "classique",
+    "title": "Le maire",
+    "subtitle": "Élu qui dirige une commune, élu par le conseil municipal pour six ans",
+    "summary": "Le maire préside le conseil municipal et dirige l'administration de la commune. Il est élu par les conseillers municipaux pour six ans, au cours de leur première réunion après les municipales.\nIl a une double casquette : élu local, il gère les affaires de la commune ; agent de l'État, il est officier d'état civil (mariages, naissances) et officier de police judiciaire, et il dirige la police municipale.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Du maire nommé au maire élu",
+          "texte": "Les premières élections municipales ont lieu en 1790, mais Bonaparte revient en 1799 à la nomination par le préfet ou le roi, régime qui dure, avec des variantes, jusqu'en 1871. La loi du 5 avril 1884 généralise ensuite l'élection du maire par le conseil municipal dans toutes les communes, sauf à Paris, dont les principes inspirent encore la législation actuelle."
+        },
+        {
+          "titre": "Les règles de l'élection",
+          "texte": "Le maire est élu à bulletin secret parmi les conseillers municipaux. Si personne n'a la majorité absolue aux deux premiers tours, la majorité relative suffit au troisième ; en cas d'égalité, le plus âgé l'emporte. Il doit être français et majeur. Un maire ne peut cumuler sa mairie qu'avec un seul autre mandat électif, comme député, sénateur ou conseiller régional."
+        }
+      ],
+      "anecdotes": [
+        "Six communes de la Meuse, détruites à Verdun en 1916 et jamais reconstruites (munitions non explosées, sols pollués), n'élisent pas leur maire : il est désigné par le préfet. Paris, elle, est restée sans maire de 1871 à 1977."
+      ],
+      "wikipedia": "Maire (France)"
+    },
+    "source": "D'après Wikipédia — Maire (France)"
+  },
+  {
+    "id": "politique-038",
+    "domain": "politique",
+    "subtheme": "Institutions françaises",
+    "type": "classique",
+    "title": "La commune",
+    "subtitle": "Échelon de base de l'organisation territoriale, créé par la Révolution en 1789",
+    "summary": "La commune est le plus petit niveau de l'organisation du territoire français. Elle a un conseil municipal, un maire et une mairie, et elle gère les affaires de proximité : état civil, écoles primaires, voirie locale.\nLa France compte plus de 34 000 communes, bien plus que tout autre pays d'Europe. Des communes de très grande taille, comme Paris, côtoient de minuscules villages.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Héritage de la Révolution",
+          "texte": "Avant 1789, le territoire était découpé en paroisses, seigneuries et communautés, aux limites qui se chevauchaient. Le 14 décembre 1789, la Constituante crée des municipalités partout. Mirabeau l'emporte : une commune par communauté ou paroisse. Le mot « commune » remplace « ville, bourg ou village » par un décret de 1793. Dès 1792, l'état civil passe des curés aux mairies."
+        },
+        {
+          "titre": "Toutes égales, de très inégales tailles",
+          "texte": "Chaque commune a les mêmes compétences, qu'elle compte dix habitants ou plus de deux millions. La loi ajuste seulement la taille du conseil, le mode de scrutin ou l'indemnité du maire à la population. Au recensement de 1999, la moitié des communes métropolitaines avaient moins de 380 habitants. Paris, Lyon et Marseille sont en plus divisées en arrondissements municipaux."
+        }
+      ],
+      "anecdotes": [
+        "En 2023, la commune habitée la moins peuplée de France, Rochefourchat, n'avait qu'un seul habitant, alors que sept communes n'avaient aucun habitant."
+      ],
+      "wikipedia": "Commune (France)"
+    },
+    "source": "D'après Wikipédia — Commune (France)"
+  },
+  {
+    "id": "politique-039",
+    "domain": "politique",
+    "subtheme": "Institutions françaises",
+    "type": "classique",
+    "title": "La cohabitation",
+    "subtitle": "Président et Premier ministre de bords politiques opposés, trois fois sous la Ve République",
+    "summary": "On parle de cohabitation quand le président de la République et le Premier ministre appartiennent à des camps politiques opposés. Cela arrive lorsque la majorité de l'Assemblée nationale n'est pas celle du président.\nLe président garde la politique étrangère et la défense, mais c'est le Premier ministre, soutenu par l'Assemblée, qui conduit la politique de la nation. La France a connu trois cohabitations : 1986-1988, 1993-1995 et 1997-2002.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Pourquoi le pouvoir change de main",
+          "texte": "Le président nomme librement le Premier ministre, mais l'Assemblée peut renverser le gouvernement : il doit donc choisir quelqu'un que la majorité accepte. En cohabitation, le président reste chef des armées et domine la diplomatie, un « domaine réservé » parfois partagé. Il peut refuser de signer des ordonnances, mais le gouvernement passe alors par la voie parlementaire."
+        },
+        {
+          "titre": "Trois exemples historiques",
+          "texte": "En 1986, après la victoire de la droite aux législatives, François Mitterrand nomme Jacques Chirac. La deuxième, de 1993 à 1995, avec Édouard Balladur, est dite « de velours ». En 1997, Jacques Chirac dissout l'Assemblée, mais la gauche l'emporte et Lionel Jospin devient Premier ministre. Le mandat présidentiel passé à cinq ans en 2000 a rendu ce scénario moins probable."
+        }
+      ],
+      "anecdotes": [
+        "Le mot « cohabitation » est une invention d'Édouard Balladur, lancé dans le journal Le Monde en septembre 1983. François Mitterrand lui préférait l'expression « coexistence institutionnelle »."
+      ],
+      "wikipedia": "Cohabitation en France"
+    },
+    "source": "D'après Wikipédia — Cohabitation en France"
+  },
+  {
+    "id": "politique-040",
+    "domain": "politique",
+    "subtheme": "Institutions françaises",
+    "type": "classique",
+    "title": "La motion de censure",
+    "subtitle": "Moyen pour l'Assemblée nationale de renverser le gouvernement (article 49)",
+    "summary": "Avec la motion de censure, un parlement peut manifester sa défiance envers le gouvernement et l'obliger à démissionner. Dans un régime parlementaire, le gouvernement ne peut pas gouverner contre la majorité des députés.\nSous la Ve République, elle est strictement encadrée pour éviter l'instabilité des régimes précédents. Seule l'Assemblée nationale peut censurer le gouvernement.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des règles de plus en plus strictes",
+          "texte": "Sous la IIIe République, n'importe quel parlementaire pouvait interpeller un ministre, ce qui provoquait un débat puis un vote. La IVe République crée une vraie motion contre l'ensemble du gouvernement, mais le « vote calibré » permet de désavouer sans atteindre la majorité absolue. Les gouvernements tombent alors souvent : cette instabilité est l'un des grands défauts reprochés à ces régimes."
+        },
+        {
+          "titre": "Ce que prévoit la Constitution de 1958",
+          "texte": "Il faut la signature d'au moins un dixième des députés, et chaque député ne peut en signer que trois par session ordinaire. Le vote a lieu 48 heures après le dépôt. Seules les voix pour la censure sont comptées, de sorte que les abstentions favorisent le gouvernement : il faut que plus de la moitié des membres de l'Assemblée la votent. Elle a abouti pour la première fois en 1962, contre le gouvernement Pompidou."
+        }
+      ],
+      "anecdotes": [
+        "Au Royaume-Uni, le 28 mars 1979, une motion de censure est adoptée à une seule voix près : 311 voix contre 310. Le gouvernement Callaghan tombe, et les élections suivantes portent Margaret Thatcher au pouvoir."
+      ],
+      "wikipedia": "Motion de censure"
+    },
+    "source": "D'après Wikipédia — Motion de censure"
+  },
+  {
+    "id": "politique-041",
+    "domain": "politique",
+    "subtheme": "Institutions françaises",
+    "type": "classique",
+    "title": "Le Congrès du Parlement",
+    "subtitle": "Réunion des deux chambres à Versailles",
+    "summary": "Le Congrès rassemble les deux chambres du Parlement français : l'Assemblée nationale et le Sénat. Les parlementaires quittent Paris pour se rassembler au château de Versailles.\nIl sert à voter une révision de la Constitution, ou à écouter une déclaration du président de la République, qui n'est suivie d'aucun vote. Ce discours est possible depuis la révision constitutionnelle de 2008.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Réviser la Constitution",
+          "texte": "Pour changer la Constitution, il faut d'abord que les deux assemblées adoptent le même texte. Ensuite, deux voies existent : le référendum, ou le Congrès. Dans ce second cas, le texte doit réunir les trois cinquièmes des suffrages exprimés. Le Congrès ne peut pas amender : il approuve ou rejette. Deux révisions ont été adoptées par référendum : l'élection du président au suffrage direct (1962) et le quinquennat (2000)."
+        },
+        {
+          "titre": "Versailles, une salle construite en 1875",
+          "texte": "Le Congrès siège dans la salle de l'aile du Midi, bâtie en 1875 pour la Chambre des députés de la IIIe République, avant son retour à Paris en 1879. Sous la IIIe et la IVe République, les deux chambres réunies, qui s'appelaient alors Assemblée nationale ou Congrès, élisaient aussi le président de la République. Cette pratique a disparu avec la Ve République."
+        }
+      ],
+      "anecdotes": [
+        "Dans la salle du Congrès, pas de bancs par groupes : les élus s'assoient par ordre alphabétique de leur nom. Chaque réunion donne aussi lieu à un bureau de poste temporaire et à un cachet spécial, recherchés des philatélistes."
+      ],
+      "wikipedia": "Congrès du Parlement français"
+    },
+    "source": "D'après Wikipédia — Congrès du Parlement français"
+  },
+  {
+    "id": "politique-042",
+    "domain": "politique",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "1946-1958 : la Quatrième République",
+    "subtitle": "Régime parlementaire en vigueur du 27 octobre 1946 au 4 octobre 1958",
+    "summary": "La Quatrième République est le régime de la France entre la Libération et 1958. Elle reprend l'esprit de la Troisième : un régime parlementaire où l'essentiel du pouvoir revient à l'Assemblée nationale.\nElle reconstruit le pays et engage la France dans l'OTAN et la construction européenne, mais ses gouvernements tombent souvent. Les crises de la décolonisation, surtout la guerre d'Algérie, auront raison d'elle.",
+    "details": {
+      "contexte": "En 1945, la IIIe République est discréditée par la défaite de 1940. Par référendum, les Français refusent d'en revenir à ses institutions : 96 % votent pour une assemblée chargée de rédiger une nouvelle Constitution.",
+      "causes": "Charles de Gaulle voulait un président fort, mais socialistes et communistes s'y opposaient. Il démissionne en janvier 1946. Un premier projet de Constitution est rejeté par référendum en mai ; le second est adopté le 13 octobre 1946, avec 53,5 % de oui.",
+      "deroulement": "Le pouvoir réel appartient au président du Conseil et à l'Assemblée nationale, le président de la République ayant un rôle surtout honorifique. Le régime reconstruit l'économie avec le Plan de Jean Monnet, crée la Sécurité sociale et rejoint l'OTAN en 1949. Il connaît 21 gouvernements en douze ans.",
+      "consequences": "Affaibli en 1954 par l'échec en Indochine et le refus de la Communauté européenne de défense, il ne survit pas à la guerre d'Algérie. Rappelé au pouvoir en 1958, de Gaulle fait adopter par référendum la Constitution de la Ve République.",
+      "frise": [
+        {
+          "annee": "1946",
+          "evenement": "Adoption par référendum de la Constitution de la IVe République (13 octobre)"
+        },
+        {
+          "annee": "1954",
+          "evenement": "Défaite française en Indochine, refus de la CED et début de la guerre d'Algérie"
+        },
+        {
+          "annee": "1958",
+          "evenement": "Retour de Charles de Gaulle et naissance de la Ve République"
+        }
+      ],
+      "wikipedia": "Quatrième République (France)"
+    },
+    "source": "D'après Wikipédia — Quatrième République (France)"
+  },
+  {
+    "id": "politique-043",
+    "domain": "politique",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "1870-1940 : la Troisième République",
+    "subtitle": "Régime républicain en vigueur de septembre 1870 à juillet 1940, le plus long depuis 1789",
+    "summary": "La Troisième République dure près de 70 ans : c'est le premier régime à s'imposer durablement en France depuis 1789. Née dans la défaite de 1870, elle s'installe presque par défaut, faute d'accord entre monarchistes.\nElle laisse de grandes lois sur l'école, la laïcité, la liberté d'association ou le droit de grève. Elle s'achève en juillet 1940, quand l'Assemblée nationale vote les pleins pouvoirs à Pétain.",
+    "details": {
+      "contexte": "En 1870, l'empereur Napoléon III est capturé à Sedan. Le 4 septembre, la foule envahit le palais Bourbon. Des députés républicains annoncent que l'empereur est déchu, puis proclament la République à l'hôtel de ville de Paris.",
+      "causes": "L'Assemblée élue en février 1871 est majoritairement monarchiste, mais les royalistes se divisent entre légitimistes et orléanistes et ne s'accordent pas sur un roi. Le régime provisoire s'installe donc dans la durée.",
+      "deroulement": "Les lois constitutionnelles de 1875 créent une république parlementaire avec deux chambres. Le président n'a en pratique qu'un rôle représentatif. Les républicains font voter les lois scolaires, puis la loi de 1905 qui sépare les cultes de l'État ; l'impôt sur le revenu arrive en 1914. L'affaire Dreyfus divise profondément le pays.",
+      "consequences": "Le 10 juillet 1940, après la défaite contre l'Allemagne, députés et sénateurs réunis votent les pleins pouvoirs constituants à Philippe Pétain. Le lendemain, il se proclame chef de l'État français, ce qui met fin de fait à la IIIe République.",
+      "frise": [
+        {
+          "annee": "1870",
+          "evenement": "Fin du Second Empire : la République est proclamée à Paris (4 septembre)"
+        },
+        {
+          "annee": "1875",
+          "evenement": "Vote des lois constitutionnelles qui organisent le régime"
+        },
+        {
+          "annee": "1940",
+          "evenement": "Vote des pleins pouvoirs à Pétain (10 juillet) et début du régime de Vichy"
+        }
+      ],
+      "wikipedia": "Troisième République (France)"
+    },
+    "source": "D'après Wikipédia — Troisième République (France)"
+  },
+  {
+    "id": "politique-044",
+    "domain": "politique",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "1905 : la séparation des Églises et de l'État",
+    "subtitle": "Loi du 9 décembre 1905, texte fondateur de la laïcité en France",
+    "summary": "La loi du 9 décembre 1905 sépare les Églises et l'État. Portée par le député Aristide Briand, elle met fin au Concordat conclu avec le pape en 1801 : la République ne reconnaît, ne salarie ni ne subventionne plus aucun culte, tout en garantissant la liberté de conscience.\nElle clôt près de vingt-cinq ans de querelles sur le rôle des cultes dans la société.",
+    "details": {
+      "contexte": "Sous la IIIe République, les lois de Jules Ferry ont laïcisé l'école, les hôpitaux et les cimetières. L'affaire Dreyfus a ensuite ravivé l'opposition entre catholiques et anticléricaux.",
+      "causes": "Sous Émile Combes, la loi de 1901 sur les associations est appliquée durement aux congrégations. En 1904, le conflit avec le pape Pie X provoque la rupture des relations avec le Vatican, ce qui rend le Concordat caduc.",
+      "deroulement": "Une commission de trente-trois députés, présidée par Ferdinand Buisson, a pour rapporteur Aristide Briand, qui cherche une loi de conciliation plutôt que de combat. Le texte pose la liberté de conscience et le libre exercice des cultes (article 1), et la fin de leur financement public (article 2).",
+      "consequences": "Les églises restent mises à disposition des cultes, mais appartiennent à l'État ou aux communes. Les cultes s'organisent en associations. En Alsace-Moselle, alors allemande en 1905, le régime concordataire continue de s'appliquer.",
+      "frise": [
+        {
+          "annee": "1901",
+          "evenement": "Loi sur les associations, qui encadre les congrégations religieuses"
+        },
+        {
+          "annee": "1904",
+          "evenement": "Rupture des relations diplomatiques entre la France et le Vatican"
+        },
+        {
+          "annee": "1905",
+          "evenement": "Loi du 9 décembre séparant les Églises et l'État"
+        }
+      ],
+      "wikipedia": "Loi du 9 décembre 1905 concernant la séparation des Églises et de l'État"
+    },
+    "source": "D'après Wikipédia — Loi du 9 décembre 1905 concernant la séparation des Églises et de l'État"
+  },
+  {
+    "id": "politique-045",
+    "domain": "politique",
+    "subtheme": "Dates clés",
+    "type": "date",
+    "title": "1936 : le Front populaire",
+    "subtitle": "Coalition de gauche au pouvoir en France de 1936 à 1938",
+    "summary": "Le Front populaire est une coalition de gauche formée autour du Parti radical, des socialistes (SFIO) et des communistes. Elle gagne les élections législatives de mai 1936 et forme quatre gouvernements successifs jusqu'en avril 1938, le premier étant dirigé par Léon Blum.\nSon nom reste lié aux accords de Matignon, aux congés payés et à la semaine de 40 heures.",
+    "details": {
+      "contexte": "Dans les années 1930, la crise économique frappe la France et les ligues d'extrême droite se développent. Après les émeutes du 6 février 1934 à Paris, la gauche craint une menace contre la République et se rapproche.",
+      "causes": "Les communistes, longtemps hostiles aux socialistes, changent de ligne en 1934, puis les radicaux se rallient en 1935. Le 14 juillet 1935, environ 500 000 personnes défilent ensemble à Paris. Le slogan de la coalition est « Pain, Paix, Liberté ».",
+      "deroulement": "Après la victoire de mai 1936, une vague de grèves gagne les usines. Les accords de Matignon instaurent la semaine de 40 heures et deux semaines de congés payés. Léon Blum est le premier socialiste et le premier juif à diriger le gouvernement français.",
+      "consequences": "Le bilan est jugé contrasté : les hausses de salaires sont en partie annulées par la hausse des prix. La coalition éclate en 1938 quand le Sénat refuse à Blum les pleins pouvoirs financiers. Mais les congés payés ont duré et le Front populaire reste une référence.",
+      "frise": [
+        {
+          "annee": "1934",
+          "evenement": "Émeutes du 6 février à Paris, puis manifestation unitaire de gauche du 12 février"
+        },
+        {
+          "annee": "1936",
+          "evenement": "Victoire aux élections de mai, accords de Matignon et gouvernement de Léon Blum"
+        },
+        {
+          "annee": "1938",
+          "evenement": "Fin de la coalition ; Édouard Daladier succède à Léon Blum en avril"
+        }
+      ],
+      "wikipedia": "Front populaire (France)"
+    },
+    "source": "D'après Wikipédia — Front populaire (France)"
   }
 ]

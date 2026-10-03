@@ -472,5 +472,256 @@
     "bonneReponse": 0,
     "explication": "Les 348 sénateurs sont élus pour 6 ans au suffrage indirect, par des grands électeurs, surtout des élus locaux. Le Sénat est renouvelé par moitié tous les trois ans. Avant 2003, le mandat durait 9 ans. Les députés, eux, sont élus pour 5 ans au suffrage direct.",
     "source": "D'après Wikipédia — Sénat (France)"
+  },
+  {
+    "id": "q-politique-031",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Pour quelle durée les membres du Conseil constitutionnel sont-ils nommés ?",
+    "choix": [
+      "Neuf ans, non renouvelables",
+      "Six ans, renouvelables une fois",
+      "Cinq ans, comme le président",
+      "À vie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les neuf conseillers n'ont qu'un seul mandat, de neuf ans, et le Conseil se renouvelle par tiers tous les trois ans. Un tiers est désigné par le président de la République, un tiers par le président du Sénat et un tiers par celui de l'Assemblée.",
+    "source": "D'après Wikipédia — Conseil constitutionnel (France)"
+  },
+  {
+    "id": "q-politique-032",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Que permet la question prioritaire de constitutionnalité (QPC), créée en 2010 ?",
+    "choix": [
+      "À un justiciable de contester la constitutionnalité d'une loi appliquée dans son procès",
+      "À tout citoyen de saisir directement le président de la République",
+      "De demander la dissolution de l'Assemblée nationale",
+      "De faire juger un ministre devant le Conseil d'État"
+    ],
+    "bonneReponse": 0,
+    "explication": "Depuis le 1er mars 2010, une personne en procès peut soutenir que la loi qu'on lui applique viole la Constitution. Si la question est sérieuse, elle remonte au Conseil constitutionnel. Une loi censurée disparaît pour tout le monde.",
+    "source": "D'après Wikipédia — Question prioritaire de constitutionnalité"
+  },
+  {
+    "id": "q-politique-033",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Qui a refondé le Conseil d'État en 1799, après le Conseil du Roi de l'Ancien Régime ?",
+    "choix": [
+      "Napoléon Bonaparte",
+      "Louis XIV",
+      "Charles de Gaulle",
+      "Jules Ferry"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cette institution naît avec la Constitution du Consulat, en décembre 1799, et prolonge le Conseil du Roi de l'Ancien Régime. Napoléon l'utilise pour préparer les lois : elle est très active quand on rédige le Code civil.",
+    "source": "D'après Wikipédia — Conseil d'État (France)"
+  },
+  {
+    "id": "q-politique-034",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Les rapports de la Cour des comptes obligent le gouvernement à appliquer ses recommandations.",
+    "reponse": false,
+    "explication": "La Cour des comptes contrôle la régularité des comptes publics et publie des rapports, mais ceux-ci n'ont pas de caractère contraignant. Son poids vient de son indépendance et de la publicité de ses analyses, pas d'un pouvoir d'imposer des réformes.",
+    "source": "D'après Wikipédia — Cour des comptes (France)"
+  },
+  {
+    "id": "q-politique-035",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "En quelle année les Français ont-ils adopté par référendum l'élection du président de la République au suffrage universel direct ?",
+    "choix": [
+      "1962",
+      "1958",
+      "1974",
+      "2000"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le référendum de 1962 a modifié la Constitution de 1958, où le président était élu par un collège de grands électeurs. Le référendum de 2000 a, lui, ramené son mandat de sept ans à cinq ans, applicable depuis 2002.",
+    "source": "D'après Wikipédia — Président de la République française"
+  },
+  {
+    "id": "q-politique-036",
+    "domain": "politique",
+    "format": "qui-suis-je",
+    "indices": [
+      "Ancien membre du Conseil d'État, je suis entré dans la Résistance pendant l'Occupation.",
+      "En 1958, comme garde des Sceaux, je coordonne la rédaction de la nouvelle Constitution.",
+      "Dans un discours d'août 1958, je présente le président de la République comme la « clef de voûte » du régime.",
+      "Le 8 janvier 1959, je deviens le tout premier Premier ministre de la Ve République."
+    ],
+    "reponse": "Michel Debré",
+    "explication": "Michel Debré, fidèle du général de Gaulle, fut l'un des principaux rédacteurs de la Constitution de 1958. Il fut aussi le premier à porter le titre de Premier ministre, qui remplaçait celui de président du Conseil.",
+    "source": "D'après Wikipédia — Michel Debré"
+  },
+  {
+    "id": "q-politique-037",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "À Paris, de qui dépend le préfet de police, contrairement à la police municipale des autres communes, placée sous l'autorité du maire ?",
+    "choix": [
+      "Du ministre de l'Intérieur",
+      "Du maire de Paris",
+      "Du président du Sénat",
+      "Du Conseil d'État"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le préfet de police de Paris est placé sous l'autorité directe du ministre de l'Intérieur. Même quand Paris a retrouvé son maire, l'État a gardé la main sur la police dans la capitale.",
+    "source": "D'après Wikipédia — Préfet"
+  },
+  {
+    "id": "q-politique-038",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Comment le maire d'une commune française est-il élu ?",
+    "choix": [
+      "Par le conseil municipal, parmi ses membres",
+      "Directement par tous les habitants",
+      "Il est nommé par le préfet",
+      "Il est désigné par le président du département"
+    ],
+    "bonneReponse": 0,
+    "explication": "Depuis la loi municipale de 1884, le maire est élu par le conseil municipal en son sein, à bulletin secret, lors de sa première réunion. Seules six communes détruites à Verdun en 1916 ont un maire nommé par le préfet.",
+    "source": "D'après Wikipédia — Maire (France)"
+  },
+  {
+    "id": "q-politique-039",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "En France, une commune de dix habitants a les mêmes compétences qu'une commune de plus de deux millions d'habitants.",
+    "reponse": true,
+    "explication": "Chaque commune a un maire et un conseil municipal, avec les mêmes pouvoirs, quelle que soit sa taille. Cette uniformité vient de la Révolution. La loi adapte seulement la taille du conseil, le mode de scrutin ou l'indemnité du maire à la population.",
+    "source": "D'après Wikipédia — Commune (France)"
+  },
+  {
+    "id": "q-politique-040",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Combien de communes la France compte-t-elle environ ?",
+    "choix": [
+      "Plus de 34 000",
+      "Environ 3 500",
+      "Environ 12 000",
+      "Environ 80 000"
+    ],
+    "bonneReponse": 0,
+    "explication": "La France compte plus de 34 000 communes, bien plus que tout autre pays d'Europe. Ce maillage serré est hérité de la Révolution, qui a fait de chaque paroisse ou communauté une commune. Au recensement de 1999, la moitié avait moins de 380 habitants.",
+    "source": "D'après Wikipédia — Commune (France)"
+  },
+  {
+    "id": "q-politique-041",
+    "domain": "politique",
+    "format": "difference",
+    "question": "Quelle est la différence entre le Conseil constitutionnel et le Conseil d'État ?",
+    "choix": [
+      "Le premier vérifie que les lois respectent la Constitution ; le second conseille le gouvernement et juge l'administration",
+      "Le premier juge les litiges civils ; le second juge les crimes",
+      "Le premier est élu par le peuple ; le second est nommé par l'Assemblée",
+      "Le premier existe depuis 1799 ; le second a été créé en 1958"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Conseil constitutionnel, créé en 1958, contrôle la conformité des lois à la Constitution et veille aux élections. Le Conseil d'État, créé en 1799, conseille le gouvernement et est la juridiction suprême de l'ordre administratif. Tous deux siègent au Palais-Royal.",
+    "source": "D'après Wikipédia — Conseil constitutionnel (France)"
+  },
+  {
+    "id": "q-politique-042",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quelle fraction des députés doit au minimum signer une motion de censure sous la Ve République ?",
+    "choix": [
+      "Un dixième",
+      "Un seul député",
+      "Un tiers",
+      "La moitié"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sous la IVe République, un seul député pouvait la déposer. La Constitution de 1958 exige un dixième des membres de l'Assemblée, et chaque député ne peut en signer que trois par session ordinaire. Le vote a lieu 48 heures après le dépôt.",
+    "source": "D'après Wikipédia — Motion de censure"
+  },
+  {
+    "id": "q-politique-043",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Lors des réunions du Congrès à Versailles, les parlementaires sont placés par groupes politiques, comme à l'Assemblée nationale.",
+    "reponse": false,
+    "explication": "Au Congrès, députés et sénateurs sont placés par ordre alphabétique, et non par groupes politiques. La salle, dans l'aile du Midi du château de Versailles, a été construite en 1875 pour la Chambre des députés de la IIIe République.",
+    "source": "D'après Wikipédia — Congrès du Parlement français"
+  },
+  {
+    "id": "q-politique-044",
+    "domain": "politique",
+    "format": "associer",
+    "question": "Associe chaque personnage à son rôle dans l'histoire des institutions françaises.",
+    "paires": [
+      {
+        "gauche": "Aristide Briand",
+        "droite": "Rapporteur de la loi de 1905 sur les cultes",
+        "explication": "Il joue un rôle central dans la rédaction et le vote de la loi de 1905."
+      },
+      {
+        "gauche": "Léon Blum",
+        "droite": "Chef du premier gouvernement du Front populaire",
+        "explication": "Premier socialiste à diriger le gouvernement, il signe les accords de Matignon en 1936."
+      },
+      {
+        "gauche": "Émile Combes",
+        "droite": "Président du Conseil qui durcit l'application de la loi sur les congrégations",
+        "explication": "Il refuse les autorisations des congrégations, ce qui mène à la rupture avec le Vatican."
+      },
+      {
+        "gauche": "Louis-Napoléon Bonaparte",
+        "droite": "Premier président de la République élu au suffrage universel direct, en 1848",
+        "explication": "Élu en décembre 1848 avec près de 75 % des voix, il s'installe à l'Élysée."
+      }
+    ],
+    "explication": "Quatre figures de deux républiques : un artisan de la loi de laïcité, un chef de coalition de gauche, un chef de gouvernement très anticlérical et le premier président élu au suffrage direct.",
+    "source": "D'après Wikipédia — Troisième République (France)"
+  },
+  {
+    "id": "q-politique-045",
+    "domain": "politique",
+    "format": "frise",
+    "question": "Remets ces moments de l'histoire des régimes français dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Proclamation de la IIIe République",
+        "annee": "1870"
+      },
+      {
+        "label": "Loi de séparation des Églises et de l'État",
+        "annee": "1905"
+      },
+      {
+        "label": "Victoire du Front populaire aux législatives",
+        "annee": "1936"
+      },
+      {
+        "label": "Constitution de la IVe République",
+        "annee": "1946"
+      },
+      {
+        "label": "Naissance de la Ve République",
+        "annee": "1958"
+      }
+    ],
+    "explication": "La IIIe République naît le 4 septembre 1870 et se termine en 1940. Le Front populaire gagne en mai 1936. La Constitution de la IVe République date de 1946, puis celle de la Ve de 1958, adoptée par référendum.",
+    "source": "D'après Wikipédia — Troisième République (France)"
+  },
+  {
+    "id": "q-politique-046",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Qui a inventé le mot « cohabitation » pour désigner un président et un gouvernement de camps opposés ?",
+    "choix": [
+      "Édouard Balladur, dans une tribune au Monde en 1983",
+      "François Mitterrand, lors d'un discours en 1986",
+      "Michel Debré, en rédigeant la Constitution de 1958",
+      "Jacques Chirac, en 1997"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot apparaît en septembre 1983 sous la plume d'Édouard Balladur dans Le Monde, bien avant la première cohabitation de 1986. François Mitterrand lui préférait l'expression « coexistence institutionnelle ».",
+    "source": "D'après Wikipédia — Cohabitation en France"
   }
 ]

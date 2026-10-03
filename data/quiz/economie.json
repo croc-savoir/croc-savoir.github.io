@@ -471,5 +471,500 @@
     "reponse": true,
     "explication": "La dette publique française dépasse 110 % du PIB, soit plus de 3 000 milliards d'euros, contre environ 20 % en 1980. Elle a fortement augmenté après la crise de 2008 et la pandémie de Covid-19. Les traités européens fixent un plafond de 60 %, que beaucoup de pays dépassent.",
     "source": "D'après Wikipédia — Dette publique de la France"
+  },
+  {
+    "id": "q-economie-031",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel événement déclenche l'embargo pétrolier des pays arabes en octobre 1973 ?",
+    "choix": [
+      "La guerre du Kippour",
+      "La révolution iranienne",
+      "La crise de Suez",
+      "La guerre du Golfe"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'embargo suit la guerre du Kippour, lancée le 6 octobre 1973 par l'Égypte et la Syrie contre Israël. Les pays arabes visent ceux qui soutiennent Israël, d'abord les États-Unis puis les Pays-Bas, et le prix du baril s'envole.",
+    "source": "D'après Wikipédia — Premier choc pétrolier"
+  },
+  {
+    "id": "q-economie-032",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Par combien le prix du baril de pétrole a-t-il à peu près été multiplié entre octobre 1973 et mars 1974 ?",
+    "choix": [
+      "Environ quatre",
+      "Environ deux",
+      "Environ dix",
+      "Il n'a presque pas bougé"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le baril passe de 2,59 à 11,65 dollars en six mois environ, soit presque quatre fois plus. Habitués à un pétrole bon marché, les pays riches subissent une inflation sans croissance, la stagflation.",
+    "source": "D'après Wikipédia — Premier choc pétrolier"
+  },
+  {
+    "id": "q-economie-033",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel dispositif Wall Street met-il en place après le krach de 1987 pour limiter les paniques ?",
+    "choix": [
+      "Des coupe-circuits qui suspendent les échanges",
+      "L'interdiction de vendre des actions",
+      "La fermeture de la Bourse une semaine par an",
+      "Un impôt sur toutes les ventes d'actions"
+    ],
+    "bonneReponse": 0,
+    "explication": "À la demande du Congrès américain, des coupe-circuits sont appliqués dès 1988 : les échanges s'arrêtent quand les cours montent ou baissent trop. Les professionnels y sont plutôt opposés, pensant que l'arrêt peut augmenter l'inquiétude.",
+    "source": "D'après Wikipédia — Krach d'octobre 1987"
+  },
+  {
+    "id": "q-economie-034",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Contrairement au krach de 1929, celui d'octobre 1987 n'a pas été suivi d'une grande crise économique.",
+    "reponse": true,
+    "explication": "La Réserve fédérale a promis dès le 20 octobre 1987 de fournir des liquidités aux banques et aux maisons de titres, à l'inverse de 1929. Les marchés ont ensuite regagné peu à peu le terrain perdu, sans dépression durable.",
+    "source": "D'après Wikipédia — Krach d'octobre 1987"
+  },
+  {
+    "id": "q-economie-035",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel indice boursier, dominé par les valeurs technologiques, atteint son sommet le 10 mars 2000 avant l'éclatement de la bulle Internet ?",
+    "choix": [
+      "Le Nasdaq",
+      "Le CAC 40",
+      "Le Dow Jones",
+      "Le Nikkei"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Nasdaq, à 1 000 points début 1995, dépasse 5 000 en mars 2000. Il perd ensuite 78 % de sa valeur jusqu'en octobre 2002, effaçant tous les gains de la bulle, et des sites comme Pets.com disparaissent.",
+    "source": "D'après Wikipédia — Bulle Internet"
+  },
+  {
+    "id": "q-economie-036",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel événement de janvier 1923 aggrave l'hyperinflation allemande ?",
+    "choix": [
+      "L'occupation de la Ruhr par la France et la Belgique",
+      "La signature du traité de Versailles",
+      "La création du Reichsmark",
+      "La fin de la Première Guerre mondiale"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après des retards de livraisons de charbon, la France et la Belgique occupent la Ruhr. Berlin ordonne la résistance passive et paie les grévistes en imprimant des billets, ce qui fait s'envoler les prix à la fin de 1923.",
+    "source": "D'après Wikipédia — Hyperinflation de la république de Weimar"
+  },
+  {
+    "id": "q-economie-037",
+    "domain": "economie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né en Écosse et j'ai séduit un régent de France.",
+      "En 1716, je crée la Banque générale, dont les billets servent à payer les impôts.",
+      "Ma compagnie coloniale pour la Louisiane s'appelle la Compagnie du Mississippi.",
+      "La spéculation sur mes actions s'emballe rue Quincampoix, à Paris.",
+      "Ruiné en 1720, je quitte la France et m'exile à Venise."
+    ],
+    "reponse": "John Law",
+    "explication": "L'Écossais John Law a voulu réduire la dette de Louis XIV avec du papier-monnaie. Son système a duré de 1716 à 1720, puis s'est effondré quand les porteurs ont réclamé leur or, qui manquait. Il a fui la France en décembre 1720.",
+    "source": "D'après Wikipédia — Système de Law"
+  },
+  {
+    "id": "q-economie-038",
+    "domain": "economie",
+    "format": "difference",
+    "question": "Quelle est la différence entre le FMI et la Banque mondiale, tous deux issus de Bretton Woods ?",
+    "choix": [
+      "Le FMI veille à la stabilité monétaire et prête aux pays en difficulté de paiement, la Banque mondiale finance des projets de développement",
+      "Le FMI finance des routes et des écoles, la Banque mondiale fixe les taux de change",
+      "Le FMI émet l'euro, la Banque mondiale émet le dollar",
+      "Il n'y a aucune différence, ce sont deux noms pour la même institution"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les deux institutions sont nées de Bretton Woods et siègent à Washington. Le FMI s'occupe de la stabilité financière et des crises de paiement ; la Banque mondiale accorde des prêts aux pays en développement pour des projets d'investissement.",
+    "source": "D'après Wikipédia — Fonds monétaire international"
+  },
+  {
+    "id": "q-economie-039",
+    "domain": "economie",
+    "format": "associer",
+    "question": "Associe chaque institution à son année de création ou d'entrée en vigueur.",
+    "paires": [
+      {
+        "gauche": "Réserve fédérale des États-Unis",
+        "droite": "1913",
+        "explication": "Le Federal Reserve Act est adopté le 23 décembre 1913 après la panique de 1907."
+      },
+      {
+        "gauche": "Fonds monétaire international",
+        "droite": "1945",
+        "explication": "Conçu en 1944, il existe formellement le 27 décembre 1945 avec 29 pays."
+      },
+      {
+        "gauche": "Organisation mondiale du commerce",
+        "droite": "1995",
+        "explication": "Elle naît le 1er janvier 1995, après les accords de Marrakech de 1994."
+      },
+      {
+        "gauche": "Banque centrale européenne",
+        "droite": "1998",
+        "explication": "Elle est établie le 1er juin 1998 à Francfort, avant le lancement de l'euro."
+      }
+    ],
+    "explication": "Ces quatre institutions s'étalent sur plus de quatre-vingts ans : la Fed en 1913, le FMI en 1945, l'OMC en 1995 et la BCE en 1998, chacune répondant à des crises ou à de nouveaux besoins de coordination.",
+    "source": "D'après Wikipédia — Organisation mondiale du commerce"
+  },
+  {
+    "id": "q-economie-040",
+    "domain": "economie",
+    "format": "frise",
+    "question": "Remets ces événements ou institutions économiques dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Création de la Compagnie néerlandaise des Indes orientales",
+        "annee": "1602"
+      },
+      {
+        "label": "Début du système de Law en France",
+        "annee": "1716"
+      },
+      {
+        "label": "Création de la Réserve fédérale américaine",
+        "annee": "1913"
+      },
+      {
+        "label": "Lancement du New Deal par Roosevelt",
+        "annee": "1933"
+      },
+      {
+        "label": "Signature du traité de Maastricht",
+        "annee": "1992"
+      }
+    ],
+    "explication": "De la VOC en 1602 à Maastricht en 1992, ces dates jalonnent la finance moderne : sociétés par actions, papier-monnaie, banques centrales, intervention de l'État puis union monétaire européenne.",
+    "source": "D'après Wikipédia — Système de Law"
+  },
+  {
+    "id": "q-economie-041",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel résultat donne le référendum français sur le traité de Maastricht en septembre 1992 ?",
+    "choix": [
+      "Un « oui » de justesse, avec 51,05 %",
+      "Un « non » à 54 %",
+      "Un « oui » massif, à plus de 70 %",
+      "Un « non » de justesse, avec 50,2 %"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 20 septembre 1992, avec 69,70 % de participation, le « oui » gagne avec 51,05 % des voix. Au Danemark, le premier référendum avait rejeté le traité en juin, avant un second vote positif en 1993.",
+    "source": "D'après Wikipédia — Traité de Maastricht"
+  },
+  {
+    "id": "q-economie-042",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "La Compagnie néerlandaise des Indes orientales a été fondée avant la Compagnie anglaise des Indes orientales.",
+    "reponse": false,
+    "explication": "La compagnie anglaise date de 1600, la néerlandaise (VOC) du 20 mars 1602. En revanche, la VOC disposait d'un capital environ dix fois supérieur et ses actions s'échangeaient en Bourse : c'est la première grande société anonyme.",
+    "source": "D'après Wikipédia — Compagnie néerlandaise des Indes orientales"
+  },
+  {
+    "id": "q-economie-043",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel organisme créé par le New Deal garantit les dépôts bancaires des Américains ?",
+    "choix": [
+      "La FDIC",
+      "La SEC",
+      "La Tennessee Valley Authority",
+      "La Works Progress Administration"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Federal Deposit Insurance Corporation naît du Banking Act de 1933 pour rétablir la confiance après des milliers de faillites bancaires. Elle existe toujours, tout comme la SEC (régulation des marchés) et la TVA (électricité).",
+    "source": "D'après Wikipédia — New Deal"
+  },
+  {
+    "id": "q-economie-044",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel célèbre scientifique, directeur de la Monnaie royale, a conduit la Grande-Bretagne à l'étalon-or en 1717 ?",
+    "choix": [
+      "Isaac Newton",
+      "Adam Smith",
+      "Edmond Halley",
+      "John Maynard Keynes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Isaac Newton, à la tête de la Monnaie royale, fixe un rapport entre l'or et l'argent qui sous-évalue l'argent : les pièces d'argent disparaissent de la circulation. La Grande-Bretagne passe ainsi presque par accident à un étalon-or.",
+    "source": "D'après Wikipédia — Étalon-or"
+  },
+  {
+    "id": "q-economie-045",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quelle industrie est la première à se mécaniser pendant la révolution industrielle ?",
+    "choix": [
+      "Le textile",
+      "L'automobile",
+      "L'imprimerie",
+      "L'aéronautique"
+    ],
+    "bonneReponse": 0,
+    "explication": "La filature mécanique du coton multiplie par environ 500 la production par ouvrier. Le textile devient l'industrie dominante par l'emploi, la valeur produite et le capital investi, avec la machine à vapeur et le charbon.",
+    "source": "D'après Wikipédia — Révolution industrielle"
+  },
+  {
+    "id": "q-economie-046",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Comme la Réserve fédérale américaine, la Banque centrale européenne a un objectif officiel de plein emploi.",
+    "reponse": false,
+    "explication": "La Fed a un double mandat, plein emploi et stabilité des prix. La BCE a pour mandat principal la stabilité des prix. Sans nuire à cet objectif, elle soutient les autres objectifs économiques de l'Union, sans cible d'emploi chiffrée.",
+    "source": "D'après Wikipédia — Banque centrale européenne"
+  },
+  {
+    "id": "q-economie-047",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Que signifie aujourd'hui le sigle CAC dans « CAC 40 » ?",
+    "choix": [
+      "Cotation assistée en continu",
+      "Compagnie des agents de change",
+      "Capital annuel consolidé",
+      "Comité des actions cotées"
+    ],
+    "bonneReponse": 0,
+    "explication": "À l'origine, CAC voulait dire « Compagnie des agents de change », les officiers qui géraient les échanges avant 1988. Le sigle signifie aujourd'hui « Cotation assistée en continu » : l'indice, né le 31 décembre 1987, suit 40 grandes sociétés.",
+    "source": "D'après Wikipédia — CAC 40"
+  },
+  {
+    "id": "q-economie-048",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Sous quel arbre la Bourse de New York a-t-elle été fondée en 1792 ?",
+    "choix": [
+      "Un platane",
+      "Un chêne",
+      "Un orme",
+      "Un cèdre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 17 mai 1792, 24 courtiers signent l'accord de Buttonwood sous un platane, appelé « buttonwood » en anglais, et s'engagent à échanger cinq titres. C'est l'acte de naissance de la Bourse de New York, installée ensuite à Wall Street.",
+    "source": "D'après Wikipédia — Bourse des valeurs"
+  },
+  {
+    "id": "q-economie-049",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Quand un investisseur achète une action déjà cotée à un autre investisseur, l'argent va à l'entreprise qui l'a émise.",
+    "reponse": false,
+    "explication": "Faux : sur le marché secondaire, les titres déjà émis changent de mains entre investisseurs et l'argent va au vendeur. L'entreprise ne reçoit des fonds que lors de l'émission, par exemple à son introduction en Bourse (marché primaire).",
+    "source": "D'après Wikipédia — Bourse des valeurs"
+  },
+  {
+    "id": "q-economie-050",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Dans l'Union européenne, quel est le seuil d'effectif en dessous duquel une entreprise peut être une PME ?",
+    "choix": [
+      "Moins de 250 personnes",
+      "Moins de 50 personnes",
+      "Moins de 500 personnes",
+      "Moins de 1 000 personnes"
+    ],
+    "bonneReponse": 0,
+    "explication": "La définition européenne adoptée en 2003 exige moins de 250 personnes et un chiffre d'affaires d'au plus 50 millions d'euros, ou un bilan d'au plus 43 millions. Au-dessus, en France, on parle d'entreprise de taille intermédiaire (ETI) ou de grande entreprise.",
+    "source": "D'après Wikipédia — Petite ou moyenne entreprise"
+  },
+  {
+    "id": "q-economie-051",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quelle règle de vote caractérise une coopérative ?",
+    "choix": [
+      "Une personne, une voix",
+      "Une action, une voix",
+      "Le poids du vote dépend du capital détenu",
+      "Le plus ancien membre tranche"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans une coopérative, chaque membre dispose d'une voix, quelle que soit sa part de capital, et élit le conseil d'administration. C'est la différence majeure avec une société capitaliste, où le pouvoir de décision suit le nombre d'actions détenues.",
+    "source": "D'après Wikipédia — Coopérative"
+  },
+  {
+    "id": "q-economie-052",
+    "domain": "economie",
+    "format": "associer",
+    "question": "Associe chaque pionnier à son apport.",
+    "paires": [
+      {
+        "gauche": "Friedrich Wilhelm Raiffeisen",
+        "droite": "Première coopérative d'épargne et de crédit, en 1849",
+        "explication": "Ce Prussien crée en Rhénanie une coopérative qui offre l'épargne aux ouvriers pauvres."
+      },
+      {
+        "gauche": "Muhammad Yunus",
+        "droite": "Grameen Bank et microcrédit moderne",
+        "explication": "Il fonde la Grameen Bank au Bangladesh en 1976 et lance le microcrédit moderne."
+      },
+      {
+        "gauche": "Edward Lloyd",
+        "droite": "Taverne londonienne devenue marché de l'assurance maritime",
+        "explication": "Sa taverne réunit armateurs et assureurs : c'est l'origine du Lloyd's de Londres."
+      },
+      {
+        "gauche": "Nicholas Barbon",
+        "droite": "Premier bureau d'assurance contre l'incendie",
+        "explication": "Après le grand incendie de Londres, il ouvre un bureau pour assurer les bâtiments."
+      }
+    ],
+    "explication": "Raiffeisen, Yunus, Lloyd et Barbon ont chacun inventé un outil pour partager le risque ou rendre le crédit accessible : coopérative d'épargne, microcrédit, assurance maritime et assurance des maisons contre le feu.",
+    "source": "D'après Wikipédia — Microfinance"
+  },
+  {
+    "id": "q-economie-053",
+    "domain": "economie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Dans ma forme moderne, je naquis grâce à une loi américaine de 1790 puis à une loi française de 1791.",
+      "Mon nom vient d'un mot latin qui signifie « mettre à découvert ».",
+      "Je ne vaux que dans les pays où l'on m'a déposé.",
+      "Mon titulaire détient une exclusivité d'exploitation de 20 ans au maximum.",
+      "Je protège une invention nouvelle et non évidente, à condition qu'elle soit décrite publiquement."
+    ],
+    "reponse": "Un brevet",
+    "explication": "Le brevet donne à l'inventeur l'exclusivité d'exploitation de son invention, 20 ans au plus, en échange de sa divulgation publique. Son nom vient du latin patere, « mettre à découvert », et il ne vaut que dans les pays où il est déposé.",
+    "source": "D'après Wikipédia — Brevet d'invention"
+  },
+  {
+    "id": "q-economie-054",
+    "domain": "economie",
+    "format": "frise",
+    "question": "Remets ces épisodes de l'histoire des Bourses dans l'ordre.",
+    "evenements": [
+      {
+        "label": "La Compagnie néerlandaise des Indes orientales lève ses capitaux à Amsterdam",
+        "annee": "1602"
+      },
+      {
+        "label": "La grande bulle de la Compagnie du Mississippi et de celle des mers du Sud",
+        "annee": "1720"
+      },
+      {
+        "label": "L'accord de Buttonwood, à New York",
+        "annee": "1792"
+      },
+      {
+        "label": "La Bourse de Paris obtient son palais Brongniart",
+        "annee": "1826"
+      },
+      {
+        "label": "Création de la Bourse de Bombay par Premchand Roychand",
+        "annee": "1875"
+      }
+    ],
+    "explication": "Des marchands d'Amsterdam aux courtiers de Bombay, les Bourses se sont développées par étapes : financement des compagnies des Indes, bulle financière vers 1720, naissance de Wall Street en 1792, puis expansion des places au XIXe siècle.",
+    "source": "D'après Wikipédia — Bourse des valeurs"
+  },
+  {
+    "id": "q-economie-055",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "En France, c'est l'assemblée générale des actionnaires qui décide du versement d'un dividende.",
+    "reponse": true,
+    "explication": "Vrai : même en cas de bénéfice, le versement n'est pas automatique. Il relève d'un vote de l'assemblée générale, et la part du bénéfice non distribuée reste dans l'entreprise, en réserves. Au Canada, c'est en général le conseil d'administration qui décide.",
+    "source": "D'après Wikipédia — Dividende"
+  },
+  {
+    "id": "q-economie-056",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quelle société a versé des dividendes annuels d'environ 18 % de la valeur de ses actions pendant près de deux siècles ?",
+    "choix": [
+      "La Compagnie néerlandaise des Indes orientales",
+      "La Compagnie anglaise des Indes orientales",
+      "La Compagnie de la baie d'Hudson",
+      "La Compagnie du Mississippi"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Compagnie néerlandaise des Indes orientales (VOC), fondée en 1602, est la première société recensée à avoir payé régulièrement des dividendes, d'environ 18 % de la valeur de ses actions chaque année jusqu'en 1800, soit près de 200 ans.",
+    "source": "D'après Wikipédia — Dividende"
+  },
+  {
+    "id": "q-economie-057",
+    "domain": "economie",
+    "format": "difference",
+    "question": "Quelle est la différence entre l'intérêt simple et l'intérêt composé ?",
+    "choix": [
+      "Avec l'intérêt composé, les intérêts gagnés sont ajoutés au capital et produisent à leur tour des intérêts",
+      "L'intérêt composé est toujours plus faible, car il est calculé sur plusieurs placements",
+      "L'intérêt simple n'existe que pour les prêts, l'intérêt composé que pour l'épargne",
+      "Avec l'intérêt simple, les intérêts sont versés au début de la période"
+    ],
+    "bonneReponse": 0,
+    "explication": "Avec l'intérêt simple, seul le capital de départ rapporte. Avec l'intérêt composé, les intérêts déjà gagnés rejoignent le capital et produisent eux-mêmes des intérêts : la croissance devient exponentielle, et l'écart se creuse avec le temps.",
+    "source": "D'après Wikipédia — Intérêts composés"
+  },
+  {
+    "id": "q-economie-058",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel mathématicien a découvert la constante e en 1683 en étudiant une question sur les intérêts composés ?",
+    "choix": [
+      "Jacob Bernoulli",
+      "Leonhard Euler",
+      "John Napier",
+      "Luca Pacioli"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jacob Bernoulli découvre la constante e en 1683 en étudiant les intérêts composés. Napier a inventé les logarithmes, Euler a approfondi les intérêts continus et Pacioli a décrit la règle de 72 dès 1494.",
+    "source": "D'après Wikipédia — Intérêts composés"
+  },
+  {
+    "id": "q-economie-059",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel événement de 1666 a fait de l'assurance des bâtiments une urgence à Londres ?",
+    "choix": [
+      "Le grand incendie de Londres",
+      "La création de la Banque d'Angleterre",
+      "L'effondrement de la Compagnie des mers du Sud",
+      "La fondation du Lloyd's"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le grand incendie de Londres, en 1666, détruit 13 200 bâtiments selon une estimation. Peu après, Nicholas Barbon monte un bureau consacré à la protection des maisons contre le feu : c'est le début de l'assurance des biens au sens moderne.",
+    "source": "D'après Wikipédia — Assurance"
+  },
+  {
+    "id": "q-economie-060",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Pourquoi les banques classiques prêtent-elles rarement de très petites sommes aux plus pauvres ?",
+    "choix": [
+      "Gérer un crédit coûte à peu près la même chose quel que soit son montant, donc les petits prêts sont peu rentables",
+      "La loi interdit de prêter moins de 1 000 euros",
+      "Les pauvres ne remboursent presque jamais leurs crédits",
+      "Les taux d'intérêt sont plafonnés à 1 %"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le coût de gestion d'un compte ne dépend guère du montant : cent crédits de 1 000 euros rapportent autant qu'un seul de 100 000 euros mais coûtent bien plus de travail. La Grameen Bank a de plus montré que les pauvres remboursent leurs prêts.",
+    "source": "D'après Wikipédia — Microfinance"
+  },
+  {
+    "id": "q-economie-061",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Qu'impose la loi Doubin de 1989 au franchiseur en France ?",
+    "choix": [
+      "Remettre un document d'information au moins vingt jours avant la signature du contrat",
+      "Garantir un chiffre d'affaires minimum à son franchisé",
+      "Fixer lui-même tous les prix de vente du franchisé",
+      "Verser un salaire à son franchisé"
+    ],
+    "bonneReponse": 0,
+    "explication": "Adoptée le 31 décembre 1989, la loi Doubin oblige le franchiseur à remettre au candidat un document d'information précontractuelle au moins vingt jours avant la signature. Le franchisé reste un commerçant indépendant, responsable de son entreprise.",
+    "source": "D'après Wikipédia — Franchise (réseau commercial)"
   }
 ]

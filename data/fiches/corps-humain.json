@@ -2,7 +2,7 @@
   {
     "id": "corps-humain-001",
     "domain": "corps-humain",
-    "subtheme": "Système cardiovasculaire",
+    "subtheme": "Cœur, sang et respiration",
     "type": "classique",
     "title": "Le cœur",
     "summary": "Le cœur est un muscle qui pompe le sang dans tout le corps, environ 100 000 fois par jour chez un adulte au repos.\nIl est divisé en quatre cavités qui travaillent en synchronisation.",
@@ -49,7 +49,7 @@
   {
     "id": "corps-humain-002",
     "domain": "corps-humain",
-    "subtheme": "Système nerveux",
+    "subtheme": "Cerveau et nerfs",
     "type": "vocabulaire",
     "title": "Neurone",
     "summary": "Un neurone est une cellule spécialisée dans la transmission de signaux électriques et chimiques, unité de base du système nerveux.\nLe cerveau humain en contiendrait plusieurs dizaines de milliards.",
@@ -93,7 +93,7 @@
   {
     "id": "corps-humain-003",
     "domain": "corps-humain",
-    "subtheme": "Système digestif",
+    "subtheme": "Digestion et organes",
     "type": "classique",
     "title": "La digestion",
     "summary": "La digestion transforme les aliments en nutriments assimilables par l'organisme, via une série d'organes qui se succèdent.\nCe processus commence dès la bouche et se termine dans l'intestin.",
@@ -141,7 +141,7 @@
   {
     "id": "corps-humain-004",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Grands médecins",
     "type": "personnage",
     "title": "Andreas Vésale",
     "subtitle": "Fondateur de l'anatomie moderne",
@@ -190,7 +190,7 @@
   {
     "id": "corps-humain-005",
     "domain": "corps-humain",
-    "subtheme": "Système respiratoire",
+    "subtheme": "Cœur, sang et respiration",
     "type": "classique",
     "title": "Les poumons",
     "summary": "Les poumons permettent les échanges gazeux entre l'air inspiré et le sang : l'oxygène entre dans le sang, le dioxyde de carbone en sort.\nCet échange se déroule dans de minuscules sacs appelés alvéoles.",
@@ -234,7 +234,7 @@
   {
     "id": "corps-humain-006",
     "domain": "corps-humain",
-    "subtheme": "Système immunitaire",
+    "subtheme": "Immunité et maladies",
     "type": "vocabulaire",
     "title": "Anticorps",
     "summary": "Un anticorps est une protéine produite par le système immunitaire pour reconnaître et neutraliser un agent extérieur spécifique, comme un virus.\nChaque anticorps cible normalement un seul type d'agent.",
@@ -267,7 +267,7 @@
   {
     "id": "corps-humain-007",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Découvertes et techniques médicales",
     "type": "date",
     "title": "La découverte de la pénicilline",
     "summary": "En 1928, Alexander Fleming découvre presque par hasard que la moisissure Penicillium tue certaines bactéries, ouvrant la voie aux antibiotiques modernes.\nCette découverte a transformé la médecine du 20e siècle.",
@@ -347,7 +347,7 @@
   {
     "id": "corps-humain-009",
     "domain": "corps-humain",
-    "subtheme": "Système nerveux",
+    "subtheme": "Cerveau et nerfs",
     "type": "vocabulaire",
     "title": "Système nerveux central vs périphérique",
     "summary": "Le système nerveux central regroupe le cerveau et la moelle épinière, tandis que le système nerveux périphérique regroupe tous les nerfs qui relient ce centre au reste du corps.\nCette distinction structure toute la neurologie.",
@@ -377,7 +377,7 @@
   {
     "id": "corps-humain-010",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Grands médecins",
     "type": "personnage",
     "title": "Marie Curie",
     "subtitle": "Physicienne et chimiste, pionnière de la radioactivité médicale",
@@ -416,7 +416,7 @@
   {
     "id": "corps-humain-011",
     "domain": "corps-humain",
-    "subtheme": "Système digestif",
+    "subtheme": "Digestion et organes",
     "type": "vocabulaire",
     "title": "Microbiote intestinal",
     "summary": "Le microbiote intestinal désigne l'ensemble des micro-organismes, principalement des bactéries, qui vivent dans notre intestin.\nIl joue un rôle dans la digestion, mais aussi dans l'immunité et potentiellement l'humeur.",
@@ -456,7 +456,7 @@
   {
     "id": "corps-humain-012",
     "domain": "corps-humain",
-    "subtheme": "Sens",
+    "subtheme": "Sens et peau",
     "type": "classique",
     "title": "L'œil et la vision",
     "summary": "L'œil capte la lumière et la convertit en signaux nerveux interprétés par le cerveau comme des images.\nPlusieurs structures collaborent pour focaliser la lumière sur la rétine.",
@@ -496,7 +496,7 @@
   {
     "id": "corps-humain-013",
     "domain": "corps-humain",
-    "subtheme": "Système cardiovasculaire",
+    "subtheme": "Cœur, sang et respiration",
     "type": "vocabulaire",
     "title": "Artère vs veine",
     "summary": "Les artères transportent le sang du cœur vers les organes, tandis que les veines ramènent le sang des organes vers le cœur.\nCette distinction se fait par le sens de circulation, pas par la richesse en oxygène.",
@@ -532,7 +532,7 @@
   {
     "id": "corps-humain-014",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Découvertes et techniques médicales",
     "type": "date",
     "title": "La première vaccination",
     "summary": "En 1796, le médecin anglais Edward Jenner réalise la première vaccination connue, en utilisant la variole de la vache pour protéger contre la variole humaine.\nCe geste est à l'origine du mot « vaccin », dérivé du latin vacca (vache).",
@@ -571,7 +571,7 @@
   {
     "id": "corps-humain-015",
     "domain": "corps-humain",
-    "subtheme": "Sens",
+    "subtheme": "Sens et peau",
     "type": "vocabulaire",
     "title": "Goût vs flaveur",
     "summary": "Le goût correspond aux seules sensations détectées par la langue (sucré, salé, acide, amer, umami), tandis que la flaveur combine goût, odorat et texture pour former la perception globale d'un aliment.\nC'est pourquoi un nez bouché change tant la perception de la nourriture.",
@@ -654,7 +654,7 @@
   {
     "id": "corps-humain-017",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Cerveau et nerfs",
     "type": "classique",
     "title": "Le cerveau",
     "summary": "Le cerveau humain pèse environ 1,4 kg mais consomme à lui seul environ 20 % de l'énergie du corps.\nIl contrôle nos mouvements, nos sens, notre mémoire, nos émotions et notre pensée.",
@@ -698,7 +698,7 @@
   {
     "id": "corps-humain-018",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Digestion et organes",
     "type": "classique",
     "title": "Le foie",
     "summary": "Le foie est le plus gros organe interne : environ 1,5 kg. Véritable usine chimique, il assure plus de 300 fonctions vitales.\nC'est aussi le seul organe capable de se régénérer presque entièrement.",
@@ -741,7 +741,7 @@
   {
     "id": "corps-humain-019",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Digestion et organes",
     "type": "classique",
     "title": "Les reins",
     "summary": "Les deux reins, de la taille d'un poing, filtrent le sang en permanence pour éliminer les déchets et l'excès d'eau sous forme d'urine.\nIls régulent aussi la tension artérielle et l'équilibre en sels minéraux.",
@@ -781,7 +781,7 @@
   {
     "id": "corps-humain-020",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Sens et peau",
     "type": "classique",
     "title": "La peau",
     "summary": "La peau est le plus grand organe du corps : environ 2 m² et 4 kg chez un adulte.\nElle nous protège des microbes, des UV et de la déshydratation, régule notre température et nous permet de sentir le toucher.",
@@ -824,7 +824,7 @@
   {
     "id": "corps-humain-021",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Cœur, sang et respiration",
     "type": "classique",
     "title": "Le sang",
     "summary": "Un adulte possède environ 5 litres de sang, qui transportent oxygène, nutriments, hormones et défenses immunitaires dans tout le corps.\nLe sang est composé de plasma et de cellules : globules rouges, globules blancs et plaquettes.",
@@ -867,7 +867,7 @@
   {
     "id": "corps-humain-022",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Cerveau et nerfs",
     "type": "classique",
     "title": "Le sommeil",
     "summary": "Nous passons environ un tiers de notre vie à dormir. Le sommeil n'est pas un simple repos : il est indispensable à la mémoire, à la santé et à la régulation des émotions.\nUne nuit est composée de plusieurs cycles d'environ 90 minutes.",
@@ -907,7 +907,7 @@
   {
     "id": "corps-humain-023",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Immunité et maladies",
     "type": "classique",
     "title": "Le système immunitaire",
     "summary": "Le système immunitaire défend l'organisme contre les microbes, les parasites et les cellules anormales.\nIl combine une défense rapide mais peu ciblée (immunité innée) et une défense spécialisée qui garde la mémoire des ennemis (immunité adaptative).",
@@ -940,7 +940,7 @@
   {
     "id": "corps-humain-024",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Sens et peau",
     "type": "classique",
     "title": "L'oreille et l'audition",
     "summary": "L'oreille transforme les vibrations de l'air en signaux nerveux que le cerveau interprète comme des sons.\nElle abrite aussi l'organe de l'équilibre.",
@@ -976,7 +976,7 @@
   {
     "id": "corps-humain-025",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Hormones et glandes",
     "type": "vocabulaire",
     "title": "Hormone vs neurotransmetteur",
     "summary": "Une hormone est une molécule messagère libérée dans le sang, qui agit à distance et souvent lentement ; un neurotransmetteur est libéré dans une synapse et agit localement et très vite entre deux neurones.\nCertaines molécules, comme l'adrénaline, jouent les deux rôles.",
@@ -1004,7 +1004,7 @@
   {
     "id": "corps-humain-026",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Grands médecins",
     "type": "personnage",
     "title": "Hippocrate",
     "summary": "Médecin grec (vers 460 - vers 370 av. J.-C.), Hippocrate est considéré comme le père de la médecine occidentale.\nIl sépare la médecine de la religion en cherchant des causes naturelles aux maladies.",
@@ -1040,7 +1040,7 @@
   {
     "id": "corps-humain-027",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Découvertes et techniques médicales",
     "type": "date",
     "title": "1895 : La découverte des rayons X",
     "summary": "Le 8 novembre 1895, le physicien allemand Wilhelm Röntgen découvre par hasard un rayonnement invisible capable de traverser la matière.\nEn quelques mois, la radiographie révolutionne la médecine en permettant de voir l'intérieur du corps sans l'ouvrir.",
@@ -1078,7 +1078,7 @@
   {
     "id": "corps-humain-028",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Grands médecins",
     "type": "personnage",
     "title": "Florence Nightingale",
     "summary": "Infirmière britannique (1820-1910), Florence Nightingale a fondé les soins infirmiers modernes.\nPendant la guerre de Crimée, ses mesures d'hygiène font chuter la mortalité des soldats blessés, et elle utilise des graphiques statistiques pour convaincre les autorités.",
@@ -1129,7 +1129,7 @@
   {
     "id": "corps-humain-029",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Découvertes et techniques médicales",
     "type": "classique",
     "title": "L'anesthésie",
     "summary": "Avant le milieu du XIXe siècle, les opérations se faisaient à vif, et les chirurgiens devaient opérer le plus vite possible.\nLa découverte de l'anesthésie générale, en 1846, a transformé la chirurgie.",
@@ -1158,7 +1158,7 @@
   {
     "id": "corps-humain-030",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Digestion et organes",
     "type": "classique",
     "title": "L'estomac",
     "subtitle": "Poche musculaire du tube digestif, entre l'œsophage et le duodénum",
@@ -1184,7 +1184,7 @@
   {
     "id": "corps-humain-031",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Hormones et glandes",
     "type": "classique",
     "title": "Le pancréas",
     "subtitle": "Glande à double fonction, digestive et hormonale",
@@ -1210,7 +1210,7 @@
   {
     "id": "corps-humain-032",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Hormones et glandes",
     "type": "classique",
     "title": "La thyroïde",
     "subtitle": "Glande endocrine en forme de papillon, à la base du cou",
@@ -1236,7 +1236,7 @@
   {
     "id": "corps-humain-033",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Digestion et organes",
     "type": "classique",
     "title": "L'intestin grêle",
     "subtitle": "Le grand lieu de l'absorption des nutriments",
@@ -1262,7 +1262,7 @@
   {
     "id": "corps-humain-034",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Cerveau et nerfs",
     "type": "classique",
     "title": "L'hypothalamus",
     "subtitle": "Petit centre de commande du cerveau, de la taille d'une amande",
@@ -1288,7 +1288,7 @@
   {
     "id": "corps-humain-035",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Cerveau et nerfs",
     "type": "classique",
     "title": "Le cervelet",
     "subtitle": "Le « petit cerveau » qui coordonne les mouvements",
@@ -1314,7 +1314,7 @@
   {
     "id": "corps-humain-036",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Cerveau et nerfs",
     "type": "classique",
     "title": "La moelle épinière",
     "subtitle": "Le câble principal du système nerveux, dans la colonne vertébrale",
@@ -1340,7 +1340,7 @@
   {
     "id": "corps-humain-037",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Cœur, sang et respiration",
     "type": "classique",
     "title": "Le diaphragme",
     "subtitle": "Le grand muscle de la respiration, propre aux mammifères",
@@ -1366,7 +1366,7 @@
   {
     "id": "corps-humain-038",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Hormones et glandes",
     "type": "classique",
     "title": "L'insuline",
     "subtitle": "Hormone du pancréas qui règle le sucre dans le sang, découverte en 1921",
@@ -1392,7 +1392,7 @@
   {
     "id": "corps-humain-039",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Hormones et glandes",
     "type": "classique",
     "title": "L'adrénaline",
     "subtitle": "Hormone et neurotransmetteur du stress, aussi appelée épinéphrine",
@@ -1418,7 +1418,7 @@
   {
     "id": "corps-humain-040",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Hormones et glandes",
     "type": "classique",
     "title": "La mélatonine",
     "subtitle": "L'hormone de la nuit, produite par la glande pinéale",
@@ -1444,7 +1444,7 @@
   {
     "id": "corps-humain-041",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Cerveau et nerfs",
     "type": "classique",
     "title": "La dopamine",
     "subtitle": "Neurotransmetteur de la motivation, du mouvement et de la récompense",
@@ -1470,7 +1470,7 @@
   {
     "id": "corps-humain-042",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Cerveau et nerfs",
     "type": "classique",
     "title": "La sérotonine",
     "subtitle": "Neurotransmetteur et hormone locale, surtout fabriquée dans l'intestin",
@@ -1496,7 +1496,7 @@
   {
     "id": "corps-humain-043",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Cerveau et nerfs",
     "type": "classique",
     "title": "Le nerf vague",
     "subtitle": "Le dixième nerf crânien, grand chef d'orchestre des organes",
@@ -1522,7 +1522,7 @@
   {
     "id": "corps-humain-044",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Cerveau et nerfs",
     "type": "classique",
     "title": "L'hippocampe",
     "subtitle": "Structure du cerveau, centrale pour la mémoire et l'orientation",
@@ -1548,7 +1548,7 @@
   {
     "id": "corps-humain-045",
     "domain": "corps-humain",
-    "subtheme": "Sens",
+    "subtheme": "Sens et peau",
     "type": "classique",
     "title": "L'olfaction",
     "subtitle": "L'odorat, sens des molécules volatiles de l'air",
@@ -1574,7 +1574,7 @@
   {
     "id": "corps-humain-046",
     "domain": "corps-humain",
-    "subtheme": "Santé et maladies",
+    "subtheme": "Cœur, sang et respiration",
     "type": "vocabulaire",
     "title": "Groupe sanguin : A, B, AB, O",
     "subtitle": "Classification du sang, découverte en 1900-1901",
@@ -1612,7 +1612,7 @@
   {
     "id": "corps-humain-047",
     "domain": "corps-humain",
-    "subtheme": "Santé et maladies",
+    "subtheme": "Cœur, sang et respiration",
     "type": "classique",
     "title": "Les globules rouges",
     "subtitle": "Les cellules du sang qui transportent l'oxygène",
@@ -1638,7 +1638,7 @@
   {
     "id": "corps-humain-048",
     "domain": "corps-humain",
-    "subtheme": "Santé et maladies",
+    "subtheme": "Cœur, sang et respiration",
     "type": "classique",
     "title": "L'hémoglobine",
     "subtitle": "La protéine du sang qui transporte l'oxygène",
@@ -1664,7 +1664,7 @@
   {
     "id": "corps-humain-049",
     "domain": "corps-humain",
-    "subtheme": "Santé et maladies",
+    "subtheme": "Immunité et maladies",
     "type": "classique",
     "title": "Les lymphocytes",
     "subtitle": "Les globules blancs de l'immunité spécialisée",
@@ -1690,7 +1690,7 @@
   {
     "id": "corps-humain-050",
     "domain": "corps-humain",
-    "subtheme": "Santé et maladies",
+    "subtheme": "Immunité et maladies",
     "type": "vocabulaire",
     "title": "Fièvre vs hyperthermie",
     "subtitle": "Deux hausses de température aux causes opposées",
@@ -1728,7 +1728,7 @@
   {
     "id": "corps-humain-051",
     "domain": "corps-humain",
-    "subtheme": "Santé et maladies",
+    "subtheme": "Immunité et maladies",
     "type": "classique",
     "title": "Les allergies",
     "subtitle": "Quand le système immunitaire s'emballe",
@@ -1754,7 +1754,7 @@
   {
     "id": "corps-humain-052",
     "domain": "corps-humain",
-    "subtheme": "Santé et maladies",
+    "subtheme": "Immunité et maladies",
     "type": "classique",
     "title": "Le diabète",
     "subtitle": "Une maladie de la régulation du sucre dans le sang",
@@ -1780,7 +1780,7 @@
   {
     "id": "corps-humain-053",
     "domain": "corps-humain",
-    "subtheme": "Santé et maladies",
+    "subtheme": "Immunité et maladies",
     "type": "classique",
     "title": "Le cancer",
     "subtitle": "Un ensemble de maladies de cellules devenues incontrôlables",
@@ -1806,7 +1806,7 @@
   {
     "id": "corps-humain-054",
     "domain": "corps-humain",
-    "subtheme": "Santé et maladies",
+    "subtheme": "Cerveau et nerfs",
     "type": "classique",
     "title": "La maladie d'Alzheimer",
     "subtitle": "Maladie neurodégénérative décrite au début du XXe siècle",
@@ -1832,7 +1832,7 @@
   {
     "id": "corps-humain-055",
     "domain": "corps-humain",
-    "subtheme": "Santé et maladies",
+    "subtheme": "Cerveau et nerfs",
     "type": "classique",
     "title": "L'épilepsie",
     "subtitle": "Une maladie neurologique aux crises très variées",
@@ -1858,7 +1858,7 @@
   {
     "id": "corps-humain-056",
     "domain": "corps-humain",
-    "subtheme": "Santé et maladies",
+    "subtheme": "Cœur, sang et respiration",
     "type": "classique",
     "title": "La pression artérielle",
     "subtitle": "La force du sang sur la paroi des artères",
@@ -1884,7 +1884,7 @@
   {
     "id": "corps-humain-057",
     "domain": "corps-humain",
-    "subtheme": "Santé et maladies",
+    "subtheme": "Cœur, sang et respiration",
     "type": "classique",
     "title": "Le cholestérol",
     "subtitle": "Une molécule indispensable aux cellules",
@@ -1910,7 +1910,7 @@
   {
     "id": "corps-humain-058",
     "domain": "corps-humain",
-    "subtheme": "Santé et maladies",
+    "subtheme": "Cerveau et nerfs",
     "type": "classique",
     "title": "La douleur",
     "subtitle": "Une alarme à la fois sensorielle et émotionnelle",
@@ -1936,7 +1936,7 @@
   {
     "id": "corps-humain-059",
     "domain": "corps-humain",
-    "subtheme": "Santé et maladies",
+    "subtheme": "Cerveau et nerfs",
     "type": "classique",
     "title": "Le rêve",
     "subtitle": "Les images et les histoires du sommeil",
@@ -1962,7 +1962,7 @@
   {
     "id": "corps-humain-060",
     "domain": "corps-humain",
-    "subtheme": "Santé et maladies",
+    "subtheme": "Cerveau et nerfs",
     "type": "classique",
     "title": "La mémoire",
     "subtitle": "Comment le cerveau enregistre, garde et retrouve",
@@ -1988,7 +1988,7 @@
   {
     "id": "corps-humain-061",
     "domain": "corps-humain",
-    "subtheme": "Santé et maladies",
+    "subtheme": "Immunité et maladies",
     "type": "classique",
     "title": "Le vieillissement",
     "subtitle": "Pourquoi et comment le corps change avec l'âge",
@@ -2014,7 +2014,7 @@
   {
     "id": "corps-humain-062",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Grands médecins",
     "type": "personnage",
     "title": "Galien",
     "subtitle": "Médecin grec de l'Antiquité, né à Pergame en 129",
@@ -2057,7 +2057,7 @@
   {
     "id": "corps-humain-063",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Grands médecins",
     "type": "personnage",
     "title": "Ambroise Paré",
     "subtitle": "Chirurgien français, né vers 1510 et mort en 1590",
@@ -2096,7 +2096,7 @@
   {
     "id": "corps-humain-064",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Grands médecins",
     "type": "personnage",
     "title": "William Harvey",
     "subtitle": "Médecin anglais, né en 1578 et mort en 1657",
@@ -2139,7 +2139,7 @@
   {
     "id": "corps-humain-065",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Grands médecins",
     "type": "personnage",
     "title": "Ignace Semmelweis",
     "subtitle": "Obstétricien hongrois, né en 1818 et mort en 1865",
@@ -2182,7 +2182,7 @@
   {
     "id": "corps-humain-066",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Grands médecins",
     "type": "personnage",
     "title": "Robert Koch",
     "subtitle": "Médecin et bactériologiste allemand, né en 1843 et mort en 1910",
@@ -2225,7 +2225,7 @@
   {
     "id": "corps-humain-067",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Grands médecins",
     "type": "personnage",
     "title": "Paul Broca",
     "subtitle": "Médecin, anatomiste et anthropologue français, né en 1824 et mort en 1880",
@@ -2268,7 +2268,7 @@
   {
     "id": "corps-humain-068",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Grands médecins",
     "type": "personnage",
     "title": "Christiaan Barnard",
     "subtitle": "Chirurgien cardiaque sud-africain, né en 1922 et mort en 2001",
@@ -2307,7 +2307,7 @@
   {
     "id": "corps-humain-069",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Grands médecins",
     "type": "personnage",
     "title": "Elizabeth Blackwell",
     "subtitle": "Première femme médecin diplômée aux États-Unis, née en 1821 et morte en 1910",
@@ -2350,7 +2350,7 @@
   {
     "id": "corps-humain-070",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Grands médecins",
     "type": "personnage",
     "title": "Alexander Fleming",
     "subtitle": "Bactériologiste britannique, né en 1881 et mort en 1955",
@@ -2393,7 +2393,7 @@
   {
     "id": "corps-humain-071",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Grands médecins",
     "type": "personnage",
     "title": "Jonas Salk",
     "subtitle": "Virologue américain, né en 1914 et mort en 1995",
@@ -2436,7 +2436,7 @@
   {
     "id": "corps-humain-072",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Découvertes et techniques médicales",
     "type": "classique",
     "title": "La théorie des humeurs",
     "subtitle": "Idée centrale de la médecine antique et médiévale",
@@ -2466,7 +2466,7 @@
   {
     "id": "corps-humain-073",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Découvertes et techniques médicales",
     "type": "classique",
     "title": "La variole",
     "subtitle": "Maladie virale, éradiquée en 1980",
@@ -2492,7 +2492,7 @@
   {
     "id": "corps-humain-074",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Découvertes et techniques médicales",
     "type": "classique",
     "title": "Le stéthoscope",
     "subtitle": "Instrument d'écoute du corps, inventé en 1816",
@@ -2522,7 +2522,7 @@
   {
     "id": "corps-humain-075",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Découvertes et techniques médicales",
     "type": "classique",
     "title": "L'IRM",
     "subtitle": "Imagerie par résonance magnétique",
@@ -2552,7 +2552,7 @@
   {
     "id": "corps-humain-076",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Découvertes et techniques médicales",
     "type": "classique",
     "title": "La greffe d'organe",
     "subtitle": "Donner un organe sain à un malade",
@@ -2578,7 +2578,7 @@
   {
     "id": "corps-humain-077",
     "domain": "corps-humain",
-    "subtheme": "Médecine et médecins",
+    "subtheme": "Découvertes et techniques médicales",
     "type": "classique",
     "title": "La transfusion sanguine",
     "subtitle": "Donner du sang pour en sauver d'autres",
@@ -2842,7 +2842,7 @@
   {
     "id": "corps-humain-087",
     "domain": "corps-humain",
-    "subtheme": "Sens",
+    "subtheme": "Sens et peau",
     "type": "classique",
     "title": "La rétine",
     "subtitle": "La membrane qui transforme la lumière en signaux nerveux",
@@ -2868,7 +2868,7 @@
   {
     "id": "corps-humain-088",
     "domain": "corps-humain",
-    "subtheme": "Sens",
+    "subtheme": "Sens et peau",
     "type": "classique",
     "title": "La cochlée",
     "subtitle": "Le limaçon de l'oreille interne, organe de l'ouïe",
@@ -2894,7 +2894,7 @@
   {
     "id": "corps-humain-089",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Cerveau et nerfs",
     "type": "vocabulaire",
     "title": "Réflexe vs réaction volontaire",
     "subtitle": "Une réponse automatique contre un geste décidé",
@@ -2929,7 +2929,7 @@
   {
     "id": "corps-humain-090",
     "domain": "corps-humain",
-    "subtheme": "Organes et fonctions",
+    "subtheme": "Digestion et organes",
     "type": "vocabulaire",
     "title": "Vitamine vs minéral",
     "subtitle": "Deux familles de nutriments essentiels",

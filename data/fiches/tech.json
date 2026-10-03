@@ -2,7 +2,7 @@
   {
     "id": "tech-001",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Électricité et communications",
     "type": "personnage",
     "title": "Thomas Edison",
     "subtitle": "Inventeur et entrepreneur américain, 1847-1931",
@@ -60,7 +60,7 @@
   {
     "id": "tech-002",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Électricité et communications",
     "type": "personnage",
     "title": "Nikola Tesla",
     "subtitle": "Ingénieur et inventeur serbo-américain, 1856-1943",
@@ -116,7 +116,7 @@
   {
     "id": "tech-003",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Pionniers de l'informatique",
     "type": "personnage",
     "title": "Ada Lovelace",
     "subtitle": "Mathématicienne britannique, 1815-1852",
@@ -193,7 +193,7 @@
   {
     "id": "tech-005",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Pionniers de l'informatique",
     "type": "personnage",
     "title": "Alan Turing",
     "subtitle": "Mathématicien britannique, 1912-1954",
@@ -248,7 +248,7 @@
   {
     "id": "tech-006",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Communication et médias",
     "type": "date",
     "title": "L'imprimerie de Gutenberg",
     "summary": "Vers 1450, Johannes Gutenberg met au point en Europe un système d'imprimerie à caractères mobiles métalliques, révolutionnant la diffusion des textes.\nCette invention a considérablement accéléré la circulation des idées et des connaissances en Europe.",
@@ -288,7 +288,7 @@
   {
     "id": "tech-007",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Communication et médias",
     "type": "date",
     "title": "L'invention du téléphone",
     "summary": "En 1876, Alexander Graham Bell dépose un brevet pour un appareil transmettant la voix humaine par voie électrique. D'autres inventeurs, comme Elisha Gray, travaillaient sur des idées similaires à la même époque.\nCette invention a transformé les communications à distance.",
@@ -386,7 +386,7 @@
   {
     "id": "tech-010",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Énergie et transports",
     "type": "classique",
     "title": "L'ampoule électrique",
     "summary": "Dispositif produisant de la lumière grâce au passage d'un courant électrique dans un filament. Plusieurs inventeurs y ont contribué avant que Thomas Edison n'en propose une version durable et commercialisable.\nElle a profondément changé la vie quotidienne en rendant l'éclairage artificiel accessible et pratique.",
@@ -423,7 +423,7 @@
   {
     "id": "tech-011",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Énergie et transports",
     "type": "classique",
     "title": "Le moteur à combustion interne",
     "summary": "Moteur produisant de l'énergie mécanique par la combustion d'un carburant à l'intérieur de cylindres. Développé au XIXe siècle, il est à la base de l'automobile moderne.\nIl a profondément transformé les transports et l'organisation des sociétés industrielles.",
@@ -449,7 +449,7 @@
   {
     "id": "tech-012",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Informatique et électronique",
     "type": "classique",
     "title": "Le transistor",
     "summary": "Composant électronique inventé en 1947 dans les laboratoires Bell, capable d'amplifier ou de commuter un signal électrique. Il a remplacé les grosses lampes à vide des débuts de l'électronique.\nSa miniaturisation continue est à l'origine de tous les appareils électroniques modernes, des ordinateurs aux smartphones.",
@@ -483,7 +483,7 @@
   {
     "id": "tech-013",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Instruments et mesure",
     "type": "classique",
     "title": "Le GPS",
     "summary": "Système de positionnement par satellites, initialement développé par l'armée américaine, permettant de déterminer une position géographique précise n'importe où sur Terre.\nOuvert à un usage civil à partir des années 1980-1990, il est aujourd'hui intégré à la majorité des smartphones.",
@@ -617,7 +617,7 @@
   {
     "id": "tech-017",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Pionniers de l'informatique",
     "type": "personnage",
     "title": "Steve Jobs",
     "summary": "Cofondateur d'Apple en 1976 avec Steve Wozniak, Steve Jobs (1955-2011) a transformé l'informatique personnelle, la musique, la téléphonie et le cinéma d'animation.\nIl a lancé le Macintosh, l'iPod, l'iPhone et l'iPad.",
@@ -687,7 +687,7 @@
   {
     "id": "tech-018",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Pionniers de l'informatique",
     "type": "personnage",
     "title": "Bill Gates",
     "summary": "Né en 1955, Bill Gates cofonde Microsoft en 1975 avec Paul Allen. Son ambition : « un ordinateur sur chaque bureau et dans chaque maison ».\nWindows et Office ont fait de lui l'homme le plus riche du monde pendant de nombreuses années.",
@@ -745,7 +745,7 @@
   {
     "id": "tech-019",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Pionniers de l'informatique",
     "type": "personnage",
     "title": "Grace Hopper",
     "summary": "Mathématicienne et officière de la marine américaine (1906-1992), Grace Hopper est une pionnière de la programmation.\nElle a créé le premier compilateur et contribué au langage COBOL, encore utilisé dans les banques.",
@@ -799,7 +799,7 @@
   {
     "id": "tech-020",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Transports et image",
     "type": "personnage",
     "title": "Les frères Wright",
     "summary": "Le 17 décembre 1903, à Kitty Hawk, en Caroline du Nord, Orville et Wilbur Wright réalisent le premier vol motorisé et contrôlé d'un avion plus lourd que l'air.\nLe premier vol dure 12 secondes et couvre 37 mètres.",
@@ -861,7 +861,7 @@
   {
     "id": "tech-021",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Électricité et communications",
     "type": "personnage",
     "title": "Hedy Lamarr",
     "summary": "Actrice hollywoodienne célèbre (1914-2000), Hedy Lamarr était aussi inventrice. Pendant la Seconde Guerre mondiale, elle a coinventé un système de saut de fréquence pour guider des torpilles sans être brouillé.\nCe principe est aujourd'hui à la base du Wi-Fi, du Bluetooth et du GPS.",
@@ -914,7 +914,7 @@
   {
     "id": "tech-022",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Énergie et transports",
     "type": "date",
     "title": "1769 : La machine à vapeur de Watt",
     "summary": "En 1769, l'Écossais James Watt dépose le brevet d'un condenseur séparé qui rend la machine à vapeur beaucoup plus efficace.\nSa machine devient le moteur de la révolution industrielle.",
@@ -952,7 +952,7 @@
   {
     "id": "tech-023",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Informatique et électronique",
     "type": "classique",
     "title": "L'ordinateur",
     "summary": "D'énormes machines de calcul des années 1940 aux smartphones actuels, l'ordinateur a connu une miniaturisation et une accélération fulgurantes.\nIl repose sur un principe simple : tout traiter sous forme de 0 et de 1.",
@@ -991,7 +991,7 @@
   {
     "id": "tech-024",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Informatique et électronique",
     "type": "classique",
     "title": "Le smartphone",
     "summary": "Le smartphone combine téléphone, ordinateur, appareil photo, GPS et accès à Internet dans un objet de poche.\nDepuis la présentation de l'iPhone en 2007, il a transformé nos modes de vie : on en compte plus de 6 milliards dans le monde.",
@@ -1021,7 +1021,7 @@
   {
     "id": "tech-025",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Informatique et électronique",
     "type": "classique",
     "title": "L'intelligence artificielle",
     "summary": "L'intelligence artificielle (IA) désigne les techniques qui permettent à des machines de réaliser des tâches qui semblaient demander de l'intelligence humaine : reconnaître des images, traduire, jouer, écrire.\nDepuis les années 2010, l'apprentissage profond a provoqué des progrès spectaculaires.",
@@ -1054,7 +1054,7 @@
   {
     "id": "tech-026",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Communication et médias",
     "type": "classique",
     "title": "La photographie",
     "summary": "La photographie est née en France dans les années 1820-1830 : Nicéphore Niépce réalise la plus ancienne photographie connue, puis Louis Daguerre invente le daguerréotype en 1839.\nElle a bouleversé l'art, l'information et la mémoire.",
@@ -1080,7 +1080,7 @@
   {
     "id": "tech-027",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Énergie et transports",
     "type": "classique",
     "title": "L'électricité, des débuts à nos prises",
     "summary": "L'électricité est connue depuis l'Antiquité sous forme d'électricité statique, mais c'est au XIXe siècle qu'on apprend à la produire et à la transporter.\nElle a transformé l'industrie, l'éclairage, les communications et la vie quotidienne.",
@@ -2085,7 +2085,7 @@
   {
     "id": "tech-059",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Énergie et transports",
     "type": "classique",
     "title": "La roue",
     "subtitle": "Pièce tournant autour d'un axe, apparue au IVe millénaire av. J.-C.",
@@ -2115,7 +2115,7 @@
   {
     "id": "tech-060",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Instruments et mesure",
     "type": "classique",
     "title": "La boussole",
     "subtitle": "Instrument d'orientation à aiguille aimantée, apparu en Chine",
@@ -2145,7 +2145,7 @@
   {
     "id": "tech-061",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Instruments et mesure",
     "type": "classique",
     "title": "L'horloge",
     "subtitle": "De l'ombre du cadran solaire aux atomes",
@@ -2175,7 +2175,7 @@
   {
     "id": "tech-062",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Instruments et mesure",
     "type": "classique",
     "title": "Le microscope",
     "subtitle": "Instrument pour voir l'infiniment petit, apparu au début du XVIIe siècle",
@@ -2205,7 +2205,7 @@
   {
     "id": "tech-063",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Énergie et transports",
     "type": "classique",
     "title": "La pile électrique",
     "subtitle": "Première source de courant continu, inventée par Volta en 1800",
@@ -2235,7 +2235,7 @@
   {
     "id": "tech-064",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Communication et médias",
     "type": "classique",
     "title": "La radio",
     "subtitle": "Transmettre le son sans fil, de la TSF aux ondes pour tous",
@@ -2265,7 +2265,7 @@
   {
     "id": "tech-065",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Communication et médias",
     "type": "classique",
     "title": "La télévision",
     "subtitle": "Images animées à distance, des premiers essais de 1926 à nos écrans",
@@ -2295,7 +2295,7 @@
   {
     "id": "tech-066",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Informatique et électronique",
     "type": "classique",
     "title": "Le radar",
     "subtitle": "Détection par ondes radio, développée avant et pendant la Seconde Guerre mondiale",
@@ -2325,7 +2325,7 @@
   {
     "id": "tech-067",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Énergie et transports",
     "type": "classique",
     "title": "L'automobile",
     "subtitle": "Du fardier de Cugnot à la voiture de série",
@@ -2355,7 +2355,7 @@
   {
     "id": "tech-068",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Énergie et transports",
     "type": "classique",
     "title": "Le chemin de fer",
     "subtitle": "Rails, locomotives et trains, nés en Grande-Bretagne au début du XIXe siècle",
@@ -2385,7 +2385,7 @@
   {
     "id": "tech-069",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Informatique et électronique",
     "type": "classique",
     "title": "Le laser",
     "subtitle": "Source de lumière cohérente, première réalisation en 1960",
@@ -2415,7 +2415,7 @@
   {
     "id": "tech-070",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Communication et médias",
     "type": "classique",
     "title": "La fibre optique",
     "subtitle": "Fil de verre qui guide la lumière, utilisable pour les télécoms depuis 1970",
@@ -2445,7 +2445,7 @@
   {
     "id": "tech-071",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Informatique et électronique",
     "type": "classique",
     "title": "L'écran tactile",
     "subtitle": "Écran sensible au doigt, du laboratoire de 1965 aux smartphones",
@@ -2475,7 +2475,7 @@
   {
     "id": "tech-072",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Informatique et électronique",
     "type": "classique",
     "title": "L'impression 3D",
     "subtitle": "Fabrication d'objets couche après couche, née dans les années 1980",
@@ -2505,7 +2505,7 @@
   {
     "id": "tech-073",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Énergie et transports",
     "type": "classique",
     "title": "L'accumulateur lithium-ion",
     "subtitle": "Batterie rechargeable commercialisée en 1991, Nobel de chimie 2019",
@@ -2535,7 +2535,7 @@
   {
     "id": "tech-074",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Énergie et transports",
     "type": "classique",
     "title": "La cellule photovoltaïque",
     "subtitle": "Transformer directement la lumière en électricité, effet découvert en 1839",
@@ -2565,7 +2565,7 @@
   {
     "id": "tech-075",
     "domain": "tech",
-    "subtheme": "Grandes inventions",
+    "subtheme": "Énergie et transports",
     "type": "classique",
     "title": "Le drone",
     "subtitle": "Engin sans pilote à bord, des premiers essais de 1917 aux usages civils",
@@ -2595,7 +2595,7 @@
   {
     "id": "tech-076",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Électricité et communications",
     "type": "personnage",
     "title": "Samuel Morse",
     "subtitle": "Peintre et inventeur américain, 1791-1872",
@@ -2651,7 +2651,7 @@
   {
     "id": "tech-077",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Électricité et communications",
     "type": "personnage",
     "title": "Alexander Graham Bell",
     "subtitle": "Inventeur et professeur né en Écosse, 1847-1922",
@@ -2707,7 +2707,7 @@
   {
     "id": "tech-078",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Électricité et communications",
     "type": "personnage",
     "title": "Guglielmo Marconi",
     "subtitle": "Physicien et inventeur italien, 1874-1937",
@@ -2764,7 +2764,7 @@
   {
     "id": "tech-079",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Électricité et communications",
     "type": "personnage",
     "title": "Alessandro Volta",
     "subtitle": "Physicien italien, 1745-1827",
@@ -2821,7 +2821,7 @@
   {
     "id": "tech-080",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Électricité et communications",
     "type": "personnage",
     "title": "Benjamin Franklin",
     "subtitle": "Imprimeur, inventeur et diplomate américain, 1706-1790",
@@ -2874,7 +2874,7 @@
   {
     "id": "tech-081",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Transports et image",
     "type": "personnage",
     "title": "Henry Ford",
     "subtitle": "Industriel américain, 1863-1947",
@@ -2927,7 +2927,7 @@
   {
     "id": "tech-082",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Transports et image",
     "type": "personnage",
     "title": "Carl Benz",
     "subtitle": "Ingénieur et inventeur allemand, 1844-1929",
@@ -2984,7 +2984,7 @@
   {
     "id": "tech-083",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Transports et image",
     "type": "personnage",
     "title": "Rudolf Diesel",
     "subtitle": "Ingénieur allemand né à Paris, 1858-1913",
@@ -3037,7 +3037,7 @@
   {
     "id": "tech-084",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Transports et image",
     "type": "personnage",
     "title": "Nicéphore Niépce",
     "subtitle": "Inventeur français, 1765-1833",
@@ -3094,7 +3094,7 @@
   {
     "id": "tech-085",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Transports et image",
     "type": "personnage",
     "title": "Louis Daguerre",
     "subtitle": "Peintre et inventeur français, 1787-1851",
@@ -3154,7 +3154,7 @@
   {
     "id": "tech-086",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Pionniers de l'informatique",
     "type": "personnage",
     "title": "Charles Babbage",
     "subtitle": "Mathématicien et inventeur britannique, 1791-1871",
@@ -3211,7 +3211,7 @@
   {
     "id": "tech-087",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Pionniers de l'informatique",
     "type": "personnage",
     "title": "John von Neumann",
     "subtitle": "Mathématicien américano-hongrois, 1903-1957",
@@ -3269,7 +3269,7 @@
   {
     "id": "tech-088",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Pionniers de l'informatique",
     "type": "personnage",
     "title": "Claude Shannon",
     "subtitle": "Mathématicien et ingénieur américain, 1916-2001",
@@ -3325,7 +3325,7 @@
   {
     "id": "tech-089",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Pionniers de l'informatique",
     "type": "personnage",
     "title": "Konrad Zuse",
     "subtitle": "Ingénieur allemand, 1910-1995",
@@ -3388,7 +3388,7 @@
   {
     "id": "tech-090",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Pionniers de l'informatique",
     "type": "personnage",
     "title": "Steve Wozniak",
     "subtitle": "Ingénieur et programmeur américain, né en 1950",
@@ -3445,7 +3445,7 @@
   {
     "id": "tech-091",
     "domain": "tech",
-    "subtheme": "Inventeurs et pionniers",
+    "subtheme": "Pionniers de l'informatique",
     "type": "personnage",
     "title": "Margaret Hamilton",
     "subtitle": "Informaticienne américaine, née en 1936",

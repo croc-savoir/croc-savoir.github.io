@@ -2,7 +2,7 @@
   {
     "id": "litterature-001",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Auteurs français",
     "type": "personnage",
     "title": "Victor Hugo",
     "summary": "Écrivain et poète français du XIXe siècle, figure centrale du romantisme.\nAuteur des Misérables et de Notre-Dame de Paris, il fut aussi un homme politique engagé, exilé sous le Second Empire.",
@@ -101,7 +101,7 @@
   {
     "id": "litterature-002",
     "domain": "litterature",
-    "subtheme": "Mouvements littéraires",
+    "subtheme": "Mouvements et dates clés",
     "type": "classique",
     "title": "Le romantisme",
     "summary": "Mouvement littéraire et artistique né en Europe à la fin du XVIIIe siècle.\nIl met en avant les émotions, l'individu et la nature, en réaction au rationalisme des Lumières.",
@@ -135,7 +135,7 @@
   {
     "id": "litterature-003",
     "domain": "litterature",
-    "subtheme": "Vocabulaire littéraire",
+    "subtheme": "Genres et vocabulaire",
     "type": "vocabulaire",
     "title": "Métaphore vs comparaison",
     "summary": "Deux figures de style qui rapprochent deux éléments, mais l'une utilise un mot de liaison et l'autre non.\nLa comparaison est explicite, la métaphore est implicite.",
@@ -165,7 +165,7 @@
   {
     "id": "litterature-004",
     "domain": "litterature",
-    "subtheme": "Dates clés",
+    "subtheme": "Mouvements et dates clés",
     "type": "date",
     "title": "Publication des Misérables",
     "summary": "Roman de Victor Hugo publié en 1862, pendant son exil.\nIl retrace le parcours de Jean Valjean dans la France du XIXe siècle, entre misère sociale et rédemption.",
@@ -208,7 +208,7 @@
   {
     "id": "litterature-005",
     "domain": "litterature",
-    "subtheme": "Mouvements littéraires",
+    "subtheme": "Mouvements et dates clés",
     "type": "classique",
     "title": "Le réalisme",
     "summary": "Mouvement littéraire du milieu du XIXe siècle qui cherche à représenter la société telle qu'elle est.\nIl s'oppose aux excès sentimentaux du romantisme.",
@@ -242,7 +242,7 @@
   {
     "id": "litterature-006",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Auteurs français",
     "type": "personnage",
     "title": "Marcel Proust",
     "summary": "Écrivain français du début du XXe siècle, auteur d'À la recherche du temps perdu.\nSon œuvre explore la mémoire involontaire et le temps à travers une phrase longue et sinueuse.",
@@ -321,7 +321,7 @@
   {
     "id": "litterature-007",
     "domain": "litterature",
-    "subtheme": "Vocabulaire littéraire",
+    "subtheme": "Genres et vocabulaire",
     "type": "vocabulaire",
     "title": "Antithèse",
     "summary": "Figure de style qui rapproche deux idées ou mots opposés dans une même phrase.\nElle crée un effet de contraste marqué.",
@@ -347,7 +347,7 @@
   {
     "id": "litterature-008",
     "domain": "litterature",
-    "subtheme": "Mouvements littéraires",
+    "subtheme": "Mouvements et dates clés",
     "type": "classique",
     "title": "Le surréalisme",
     "summary": "Mouvement artistique et littéraire du XXe siècle né en France dans les années 1920.\nIl explore le rêve, l'inconscient et l'écriture automatique.",
@@ -373,7 +373,7 @@
   {
     "id": "litterature-009",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Auteurs français",
     "type": "personnage",
     "title": "Albert Camus",
     "summary": "Écrivain et philosophe français né en Algérie, prix Nobel de littérature en 1957.\nIl développe la philosophie de l'absurde à travers des romans comme L'Étranger.",
@@ -455,7 +455,7 @@
   {
     "id": "litterature-010",
     "domain": "litterature",
-    "subtheme": "Dates clés",
+    "subtheme": "Mouvements et dates clés",
     "type": "date",
     "title": "Publication de L'Étranger",
     "summary": "Roman d'Albert Camus publié en 1942, en pleine Occupation.\nIl raconte l'histoire de Meursault, un homme indifférent aux conventions sociales, jusqu'à un meurtre absurde.",
@@ -485,7 +485,7 @@
   {
     "id": "litterature-011",
     "domain": "litterature",
-    "subtheme": "Vocabulaire littéraire",
+    "subtheme": "Genres et vocabulaire",
     "type": "vocabulaire",
     "title": "Épopée vs conte",
     "summary": "Deux genres narratifs anciens, mais de nature très différente.\nL'épopée est un long récit héroïque en vers, le conte est un court récit merveilleux en prose.",
@@ -505,7 +505,7 @@
   {
     "id": "litterature-012",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Poètes et dramaturges",
     "type": "personnage",
     "title": "Molière",
     "summary": "Dramaturge et comédien français du XVIIe siècle, maître de la comédie classique.\nSes pièces comme Le Tartuffe ou Le Malade imaginaire critiquent les travers de la société de son temps.",
@@ -586,7 +586,7 @@
   {
     "id": "litterature-013",
     "domain": "litterature",
-    "subtheme": "Mouvements littéraires",
+    "subtheme": "Mouvements et dates clés",
     "type": "classique",
     "title": "Le classicisme",
     "summary": "Mouvement littéraire et artistique du XVIIe siècle en France, sous le règne de Louis XIV.\nIl valorise la raison, l'ordre et le respect de règles strictes.",
@@ -620,7 +620,7 @@
   {
     "id": "litterature-014",
     "domain": "litterature",
-    "subtheme": "Vocabulaire littéraire",
+    "subtheme": "Genres et vocabulaire",
     "type": "vocabulaire",
     "title": "Tragédie vs comédie",
     "summary": "Deux genres théâtraux opposés par leur ton et leur dénouement.\nLa tragédie finit mal et traite de sujets graves, la comédie finit bien et fait rire.",
@@ -640,7 +640,7 @@
   {
     "id": "litterature-015",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Romanciers étrangers",
     "type": "personnage",
     "title": "Jane Austen",
     "summary": "Romancière anglaise du début du XIXe siècle, connue pour ses romans de mœurs.\nOrgueil et Préjugés reste l'un des romans les plus lus de la littérature anglaise.",
@@ -704,7 +704,7 @@
   {
     "id": "litterature-016",
     "domain": "litterature",
-    "subtheme": "Dates clés",
+    "subtheme": "Mouvements et dates clés",
     "type": "date",
     "title": "Publication d'Orgueil et Préjugés",
     "summary": "Roman de Jane Austen publié en 1813 en Angleterre.\nIl suit Elizabeth Bennet et son évolution face aux préjugés sociaux et à Mr Darcy.",
@@ -739,7 +739,7 @@
   {
     "id": "litterature-017",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Poètes et dramaturges",
     "type": "personnage",
     "title": "William Shakespeare",
     "summary": "Poète et dramaturge anglais (1564-1616), Shakespeare est considéré comme le plus grand écrivain de langue anglaise.\nSes pièces, de Roméo et Juliette à Hamlet, sont jouées dans le monde entier depuis plus de quatre siècles.",
@@ -817,7 +817,7 @@
   {
     "id": "litterature-018",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Auteurs français",
     "type": "personnage",
     "title": "Émile Zola",
     "summary": "Romancier français (1840-1902), Émile Zola est le chef de file du naturalisme, avec sa grande saga des Rougon-Macquart.\nIl est aussi célèbre pour son engagement dans l'affaire Dreyfus avec l'article « J'accuse… ! ».",
@@ -899,7 +899,7 @@
   {
     "id": "litterature-019",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Poètes et dramaturges",
     "type": "personnage",
     "title": "Charles Baudelaire",
     "summary": "Poète français (1821-1867), Charles Baudelaire est l'auteur des Fleurs du mal (1857), recueil qui fonde la poésie moderne.\nCondamné pour « outrage à la morale publique », il a su tirer la beauté du laid et du quotidien.",
@@ -969,7 +969,7 @@
   {
     "id": "litterature-020",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Poètes et dramaturges",
     "type": "personnage",
     "title": "Arthur Rimbaud",
     "summary": "Poète français (1854-1891), Arthur Rimbaud a écrit toute son œuvre entre 15 et 20 ans, avant de renoncer à la poésie pour une vie d'aventurier en Afrique.\nIl est l'une des figures les plus fascinantes de la littérature.",
@@ -1031,7 +1031,7 @@
   {
     "id": "litterature-021",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Poètes et dramaturges",
     "type": "personnage",
     "title": "Jean de La Fontaine",
     "summary": "Poète français (1621-1695), Jean de La Fontaine est célèbre pour ses Fables, qui mettent en scène des animaux pour critiquer les travers humains et la société de Louis XIV.\nElles sont apprises par cœur à l'école depuis plus de trois siècles.",
@@ -1105,7 +1105,7 @@
   {
     "id": "litterature-022",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Auteurs français",
     "type": "personnage",
     "title": "Voltaire",
     "summary": "Écrivain et philosophe des Lumières (1694-1778), Voltaire a combattu toute sa vie l'intolérance religieuse, l'injustice et l'arbitraire.\nIl est l'auteur de contes philosophiques comme Candide et d'une immense correspondance.",
@@ -1185,7 +1185,7 @@
   {
     "id": "litterature-023",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Auteurs français",
     "type": "personnage",
     "title": "George Sand",
     "summary": "Romancière française (1804-1876), George Sand est l'une des écrivaines les plus lues de son siècle.\nPar ses romans et sa vie libre, elle a défié les conventions imposées aux femmes.",
@@ -1256,7 +1256,7 @@
   {
     "id": "litterature-024",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques français",
     "type": "classique",
     "title": "Le Petit Prince",
     "summary": "Publié en 1943, Le Petit Prince d'Antoine de Saint-Exupéry raconte la rencontre d'un aviateur perdu dans le désert avec un petit garçon venu d'un astéroïde.\nC'est l'un des livres les plus traduits au monde.",
@@ -1301,7 +1301,7 @@
   {
     "id": "litterature-025",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques du monde",
     "type": "classique",
     "title": "Don Quichotte",
     "summary": "Publié en deux parties (1605 et 1615) par l'Espagnol Miguel de Cervantes, Don Quichotte raconte les aventures d'un gentilhomme qui, à force de lire des romans de chevalerie, se prend pour un chevalier errant.\nIl est souvent considéré comme le premier roman moderne.",
@@ -1337,7 +1337,7 @@
   {
     "id": "litterature-026",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques du monde",
     "type": "classique",
     "title": "L'Odyssée",
     "summary": "Attribuée à Homère (VIIIe siècle av. J.-C.), L'Odyssée raconte le retour mouvementé d'Ulysse, roi d'Ithaque, après la guerre de Troie : dix ans d'errance en mer.\nAvec L'Iliade, c'est l'un des textes fondateurs de la littérature occidentale.",
@@ -1383,7 +1383,7 @@
   {
     "id": "litterature-027",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques du monde",
     "type": "classique",
     "title": "1984 de George Orwell",
     "summary": "Publié en 1949, 1984 de George Orwell décrit un État totalitaire où Big Brother surveille chaque citoyen et où le Parti contrôle jusqu'à la pensée et la langue.\nC'est devenu la référence pour parler de surveillance de masse et de manipulation.",
@@ -1419,7 +1419,7 @@
   {
     "id": "litterature-028",
     "domain": "litterature",
-    "subtheme": "Genres et notions",
+    "subtheme": "Genres et vocabulaire",
     "type": "vocabulaire",
     "title": "Sonnet",
     "summary": "Le sonnet est une forme poétique fixe de 14 vers, composée de deux quatrains (strophes de 4 vers) suivis de deux tercets (strophes de 3 vers).\nNé en Italie, il a été illustré par Pétrarque, Ronsard, Shakespeare et Baudelaire.",
@@ -1447,7 +1447,7 @@
   {
     "id": "litterature-029",
     "domain": "litterature",
-    "subtheme": "Genres et notions",
+    "subtheme": "Genres et vocabulaire",
     "type": "vocabulaire",
     "title": "Roman épistolaire",
     "summary": "Un roman épistolaire est un roman écrit sous forme de lettres échangées entre les personnages.\nCe genre a connu son âge d'or au XVIIIe siècle.",
@@ -1471,7 +1471,7 @@
   {
     "id": "litterature-030",
     "domain": "litterature",
-    "subtheme": "Genres et notions",
+    "subtheme": "Genres et vocabulaire",
     "type": "vocabulaire",
     "title": "Prix Goncourt",
     "summary": "Le prix Goncourt est le plus prestigieux prix littéraire français. Décerné chaque année début novembre, il récompense un roman en langue française.\nLe chèque n'est que de 10 euros, mais le prix fait exploser les ventes.",
@@ -1498,7 +1498,7 @@
   {
     "id": "litterature-031",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Poètes et dramaturges",
     "type": "personnage",
     "title": "Dante Alighieri",
     "subtitle": "Poète florentin, vers 1265-1321",
@@ -1562,7 +1562,7 @@
   {
     "id": "litterature-032",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Poètes et dramaturges",
     "type": "personnage",
     "title": "Johann Wolfgang von Goethe",
     "subtitle": "Écrivain et savant allemand, 1749-1832",
@@ -1635,7 +1635,7 @@
   {
     "id": "litterature-033",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Romanciers étrangers",
     "type": "personnage",
     "title": "Léon Tolstoï",
     "subtitle": "Romancier et penseur russe, 1828-1910",
@@ -1708,7 +1708,7 @@
   {
     "id": "litterature-034",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Romanciers étrangers",
     "type": "personnage",
     "title": "Fiodor Dostoïevski",
     "subtitle": "Romancier russe, 1821-1881",
@@ -1785,7 +1785,7 @@
   {
     "id": "litterature-035",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Romanciers étrangers",
     "type": "personnage",
     "title": "Franz Kafka",
     "subtitle": "Écrivain pragois de langue allemande, 1883-1924",
@@ -1854,7 +1854,7 @@
   {
     "id": "litterature-036",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Romanciers étrangers",
     "type": "personnage",
     "title": "Jorge Luis Borges",
     "subtitle": "Écrivain argentin, 1899-1986",
@@ -1919,7 +1919,7 @@
   {
     "id": "litterature-037",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Romanciers étrangers",
     "type": "personnage",
     "title": "Gabriel García Márquez",
     "subtitle": "Romancier colombien, 1927-2014",
@@ -1984,7 +1984,7 @@
   {
     "id": "litterature-038",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Romanciers étrangers",
     "type": "personnage",
     "title": "Ernest Hemingway",
     "subtitle": "Écrivain américain, 1899-1961",
@@ -2053,7 +2053,7 @@
   {
     "id": "litterature-039",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Auteurs français",
     "type": "personnage",
     "title": "Alexandre Dumas",
     "subtitle": "Romancier et dramaturge français, 1802-1870",
@@ -2130,7 +2130,7 @@
   {
     "id": "litterature-040",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Auteurs français",
     "type": "personnage",
     "title": "Honoré de Balzac",
     "subtitle": "Romancier français, 1799-1850",
@@ -2203,7 +2203,7 @@
   {
     "id": "litterature-041",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Auteurs français",
     "type": "personnage",
     "title": "Gustave Flaubert",
     "subtitle": "Romancier français, 1821-1880",
@@ -2272,7 +2272,7 @@
   {
     "id": "litterature-042",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Auteurs français",
     "type": "personnage",
     "title": "Guy de Maupassant",
     "subtitle": "Écrivain français, 1850-1893",
@@ -2341,7 +2341,7 @@
   {
     "id": "litterature-043",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Auteurs français",
     "type": "personnage",
     "title": "Stendhal",
     "subtitle": "Romancier français, 1783-1842",
@@ -2409,7 +2409,7 @@
   {
     "id": "litterature-044",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Poètes et dramaturges",
     "type": "personnage",
     "title": "Jean Racine",
     "subtitle": "Dramaturge français, 1639-1699",
@@ -2482,7 +2482,7 @@
   {
     "id": "litterature-045",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Poètes et dramaturges",
     "type": "personnage",
     "title": "Pierre Corneille",
     "subtitle": "Dramaturge français, 1606-1684",
@@ -2559,7 +2559,7 @@
   {
     "id": "litterature-046",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Auteurs français",
     "type": "personnage",
     "title": "François Rabelais",
     "subtitle": "Écrivain humaniste de la Renaissance, mort en 1553",
@@ -2624,7 +2624,7 @@
   {
     "id": "litterature-047",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Auteurs français",
     "type": "personnage",
     "title": "Michel de Montaigne",
     "subtitle": "Philosophe et écrivain français, 1533-1592",
@@ -2681,7 +2681,7 @@
   {
     "id": "litterature-048",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Poètes et dramaturges",
     "type": "personnage",
     "title": "Guillaume Apollinaire",
     "subtitle": "Poète français, 1880-1918",
@@ -2750,7 +2750,7 @@
   {
     "id": "litterature-049",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Poètes et dramaturges",
     "type": "personnage",
     "title": "Jacques Prévert",
     "subtitle": "Poète et scénariste français, 1900-1977",
@@ -2823,7 +2823,7 @@
   {
     "id": "litterature-050",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Auteurs français",
     "type": "personnage",
     "title": "Marguerite Duras",
     "subtitle": "Écrivaine et cinéaste française, 1914-1996",
@@ -2896,7 +2896,7 @@
   {
     "id": "litterature-051",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Auteurs français",
     "type": "personnage",
     "title": "Colette",
     "subtitle": "Romancière française, 1873-1954",
@@ -2965,7 +2965,7 @@
   {
     "id": "litterature-052",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Auteurs français",
     "type": "personnage",
     "title": "Louis-Ferdinand Céline",
     "subtitle": "Médecin et écrivain français, 1894-1961",
@@ -3030,7 +3030,7 @@
   {
     "id": "litterature-053",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Auteurs français",
     "type": "personnage",
     "title": "Jules Verne",
     "subtitle": "Romancier français, 1828-1905",
@@ -3099,7 +3099,7 @@
   {
     "id": "litterature-054",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Romanciers étrangers",
     "type": "personnage",
     "title": "Agatha Christie",
     "subtitle": "Romancière britannique, 1890-1976",
@@ -3164,7 +3164,7 @@
   {
     "id": "litterature-055",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Romanciers étrangers",
     "type": "personnage",
     "title": "Arthur Conan Doyle",
     "subtitle": "Médecin et écrivain écossais, 1859-1930",
@@ -3233,7 +3233,7 @@
   {
     "id": "litterature-056",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Romanciers étrangers",
     "type": "personnage",
     "title": "J. R. R. Tolkien",
     "subtitle": "Écrivain et philologue anglais, 1892-1973",
@@ -3298,7 +3298,7 @@
   {
     "id": "litterature-057",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Romanciers étrangers",
     "type": "personnage",
     "title": "Charles Dickens",
     "subtitle": "Romancier anglais, 1812-1870",
@@ -3367,7 +3367,7 @@
   {
     "id": "litterature-058",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Romanciers étrangers",
     "type": "personnage",
     "title": "Oscar Wilde",
     "subtitle": "Écrivain irlandais, 1854-1900",
@@ -3436,7 +3436,7 @@
   {
     "id": "litterature-059",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Romanciers étrangers",
     "type": "personnage",
     "title": "Virginia Woolf",
     "subtitle": "Romancière britannique, 1882-1941",
@@ -3509,7 +3509,7 @@
   {
     "id": "litterature-060",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Romanciers étrangers",
     "type": "personnage",
     "title": "Edgar Allan Poe",
     "subtitle": "Écrivain américain, 1809-1849",
@@ -3586,7 +3586,7 @@
   {
     "id": "litterature-061",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Romanciers étrangers",
     "type": "personnage",
     "title": "Mark Twain",
     "subtitle": "Écrivain humoriste américain, 1835-1910",
@@ -3651,7 +3651,7 @@
   {
     "id": "litterature-062",
     "domain": "litterature",
-    "subtheme": "Auteurs",
+    "subtheme": "Romanciers étrangers",
     "type": "personnage",
     "title": "Miguel de Cervantes",
     "subtitle": "Romancier espagnol, 1547-1616",
@@ -3712,7 +3712,7 @@
   {
     "id": "litterature-063",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques du monde",
     "type": "classique",
     "title": "La Divine Comédie",
     "subtitle": "Poème de Dante Alighieri, composé entre 1303 et 1321",
@@ -3744,7 +3744,7 @@
   {
     "id": "litterature-064",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques français",
     "type": "classique",
     "title": "Les Trois Mousquetaires",
     "subtitle": "Roman d'Alexandre Dumas, 1844",
@@ -3776,7 +3776,7 @@
   {
     "id": "litterature-065",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques français",
     "type": "classique",
     "title": "Le Comte de Monte-Cristo",
     "subtitle": "Roman d'Alexandre Dumas, publié à partir de 1844",
@@ -3808,7 +3808,7 @@
   {
     "id": "litterature-066",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques français",
     "type": "classique",
     "title": "Madame Bovary",
     "subtitle": "Roman de Gustave Flaubert, 1856-1857",
@@ -3840,7 +3840,7 @@
   {
     "id": "litterature-067",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques français",
     "type": "classique",
     "title": "Le Rouge et le Noir",
     "subtitle": "Roman de Stendhal, 1830",
@@ -3872,7 +3872,7 @@
   {
     "id": "litterature-068",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques français",
     "type": "classique",
     "title": "Germinal",
     "subtitle": "Roman d'Émile Zola, 1885",
@@ -3904,7 +3904,7 @@
   {
     "id": "litterature-069",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques français",
     "type": "classique",
     "title": "Les Fleurs du mal",
     "subtitle": "Recueil de poèmes de Charles Baudelaire, 1857",
@@ -3936,7 +3936,7 @@
   {
     "id": "litterature-070",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques français",
     "type": "classique",
     "title": "Candide",
     "subtitle": "Conte philosophique de Voltaire, 1759",
@@ -3968,7 +3968,7 @@
   {
     "id": "litterature-071",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques français",
     "type": "classique",
     "title": "Notre-Dame de Paris",
     "subtitle": "Roman de Victor Hugo, 1831",
@@ -4000,7 +4000,7 @@
   {
     "id": "litterature-072",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques français",
     "type": "classique",
     "title": "Le Père Goriot",
     "subtitle": "Roman d'Honoré de Balzac, 1835",
@@ -4032,7 +4032,7 @@
   {
     "id": "litterature-073",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques français",
     "type": "classique",
     "title": "Voyage au bout de la nuit",
     "subtitle": "Roman de Louis-Ferdinand Céline, 1932",
@@ -4064,7 +4064,7 @@
   {
     "id": "litterature-074",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques du monde",
     "type": "classique",
     "title": "Cent ans de solitude",
     "subtitle": "Roman de Gabriel García Márquez, 1967",
@@ -4096,7 +4096,7 @@
   {
     "id": "litterature-075",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques du monde",
     "type": "classique",
     "title": "Guerre et Paix",
     "subtitle": "Roman de Léon Tolstoï, 1865-1869",
@@ -4128,7 +4128,7 @@
   {
     "id": "litterature-076",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques du monde",
     "type": "classique",
     "title": "Crime et Châtiment",
     "subtitle": "Roman de Fiodor Dostoïevski, 1866",
@@ -4160,7 +4160,7 @@
   {
     "id": "litterature-077",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques du monde",
     "type": "classique",
     "title": "Le Procès",
     "subtitle": "Roman posthume de Franz Kafka, 1925",
@@ -4192,7 +4192,7 @@
   {
     "id": "litterature-078",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques du monde",
     "type": "classique",
     "title": "Moby-Dick",
     "subtitle": "Roman d'Herman Melville, 1851",
@@ -4224,7 +4224,7 @@
   {
     "id": "litterature-079",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques du monde",
     "type": "classique",
     "title": "Hamlet",
     "subtitle": "Tragédie de William Shakespeare, écrite entre 1599 et 1601",
@@ -4256,7 +4256,7 @@
   {
     "id": "litterature-080",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques du monde",
     "type": "classique",
     "title": "Roméo et Juliette",
     "subtitle": "Tragédie de William Shakespeare, publiée en 1597",
@@ -4288,7 +4288,7 @@
   {
     "id": "litterature-081",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques du monde",
     "type": "classique",
     "title": "Frankenstein",
     "subtitle": "Roman de Mary Shelley, 1818",
@@ -4320,7 +4320,7 @@
   {
     "id": "litterature-082",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques du monde",
     "type": "classique",
     "title": "Dracula",
     "subtitle": "Roman de Bram Stoker, 1897",
@@ -4352,7 +4352,7 @@
   {
     "id": "litterature-083",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques du monde",
     "type": "classique",
     "title": "Alice au pays des merveilles",
     "subtitle": "Roman de Lewis Carroll, 1865",
@@ -4384,7 +4384,7 @@
   {
     "id": "litterature-084",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques du monde",
     "type": "classique",
     "title": "Harry Potter à l'école des sorciers",
     "subtitle": "Premier roman de J. K. Rowling, 1997",
@@ -4416,7 +4416,7 @@
   {
     "id": "litterature-085",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques du monde",
     "type": "classique",
     "title": "Le Seigneur des anneaux",
     "subtitle": "Roman de J. R. R. Tolkien, 1954-1955",
@@ -4448,7 +4448,7 @@
   {
     "id": "litterature-086",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques du monde",
     "type": "classique",
     "title": "Les Aventures de Tom Sawyer",
     "subtitle": "Roman de Mark Twain, 1876",
@@ -4480,7 +4480,7 @@
   {
     "id": "litterature-087",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques du monde",
     "type": "classique",
     "title": "Le Meilleur des mondes",
     "subtitle": "Roman d'Aldous Huxley, 1932",
@@ -4512,7 +4512,7 @@
   {
     "id": "litterature-088",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques du monde",
     "type": "classique",
     "title": "Le Vieil Homme et la Mer",
     "subtitle": "Roman court d'Ernest Hemingway, 1952",
@@ -4544,7 +4544,7 @@
   {
     "id": "litterature-089",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques du monde",
     "type": "classique",
     "title": "Le Journal d'Anne Frank",
     "subtitle": "Journal d'une adolescente cachée à Amsterdam, 1942-1944",
@@ -4576,7 +4576,7 @@
   {
     "id": "litterature-090",
     "domain": "litterature",
-    "subtheme": "Œuvres",
+    "subtheme": "Classiques français",
     "type": "classique",
     "title": "Les Liaisons dangereuses",
     "subtitle": "Roman épistolaire de Choderlos de Laclos, 1782",
@@ -4608,7 +4608,7 @@
   {
     "id": "litterature-091",
     "domain": "litterature",
-    "subtheme": "Genres et notions",
+    "subtheme": "Genres et vocabulaire",
     "type": "classique",
     "title": "Roman policier",
     "subtitle": "Genre romanesque né au XIXe siècle, familièrement appelé « polar »",
@@ -4634,7 +4634,7 @@
   {
     "id": "litterature-092",
     "domain": "litterature",
-    "subtheme": "Genres et notions",
+    "subtheme": "Genres et vocabulaire",
     "type": "classique",
     "title": "Science-fiction",
     "subtitle": "Genre narratif fondé sur des progrès scientifiques imaginés",
@@ -4660,7 +4660,7 @@
   {
     "id": "litterature-093",
     "domain": "litterature",
-    "subtheme": "Genres et notions",
+    "subtheme": "Genres et vocabulaire",
     "type": "classique",
     "title": "La fable",
     "subtitle": "Court récit à morale, né dans l'Antiquité",
@@ -4686,7 +4686,7 @@
   {
     "id": "litterature-094",
     "domain": "litterature",
-    "subtheme": "Genres et notions",
+    "subtheme": "Genres et vocabulaire",
     "type": "vocabulaire",
     "title": "Nouvelle vs roman",
     "subtitle": "Deux formes du récit en prose",
@@ -4721,7 +4721,7 @@
   {
     "id": "litterature-095",
     "domain": "litterature",
-    "subtheme": "Genres et notions",
+    "subtheme": "Genres et vocabulaire",
     "type": "classique",
     "title": "Le haïku",
     "subtitle": "Poème japonais extrêmement bref, héritier de Bashō",
@@ -4747,7 +4747,7 @@
   {
     "id": "litterature-096",
     "domain": "litterature",
-    "subtheme": "Genres et notions",
+    "subtheme": "Genres et vocabulaire",
     "type": "classique",
     "title": "Le prix Nobel de littérature",
     "subtitle": "Récompense suédoise décernée chaque année depuis 1901",
@@ -4773,7 +4773,7 @@
   {
     "id": "litterature-097",
     "domain": "litterature",
-    "subtheme": "Vocabulaire littéraire",
+    "subtheme": "Genres et vocabulaire",
     "type": "vocabulaire",
     "title": "Alexandrin : le vers de douze syllabes",
     "subtitle": "Vers roi de la poésie et du théâtre français classiques",

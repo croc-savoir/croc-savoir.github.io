@@ -107,7 +107,7 @@ const Fiches = (() => {
       h += `<h4>Créé par</h4><ul class="createurs">${d.createurs.map(c => `<li>${ficheLink(c.fiche || c.nom, c.nom)}${c.role ? ` <span class="createur-role">· ${escapeHTML(c.role)}</span>` : ''}</li>`).join('')}</ul>`;
     }
     if (d.oeuvres?.length) {
-      h += `<h4>Œuvres principales</h4><ul class="timeline oeuvres">${d.oeuvres.map(o => `<li>${o.annee ? `<span class="tl-year">${escapeHTML(o.annee)}</span>` : ''}${ficheLink(o.titre, o.titre)}</li>`).join('')}</ul>`;
+      h += `<h4>Œuvres principales</h4><ul class="timeline oeuvres">${d.oeuvres.map(o => `<li>${o.annee ? `<span class="tl-year">${escapeHTML(o.annee)}</span>` : ''}${ficheLink(o.fiche || o.titre, o.titre)}</li>`).join('')}</ul>`;
     }
     if (d.chiffres?.length) {
       h += `<h4>En chiffres</h4><ul class="key-figures">${d.chiffres.map(c => `<li><span class="kf-value">${escapeHTML(c.valeur)}</span><span class="kf-label">${escapeHTML(c.label)}</span></li>`).join('')}</ul>`;

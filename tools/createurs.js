@@ -7,13 +7,13 @@ const path = require('path');
 const S = require('./sources');
 const { chargerTout, titreWikipedia, norm, lireJSON, ecrireJSON } = require('./lib');
 
-// Sous-thèmes qui contiennent des œuvres, et rôles Wikidata à rechercher (dans cet ordre).
+// Sous-thèmes qui contiennent des œuvres (à mettre à jour si tools/ranger.js les renomme), et rôles Wikidata à rechercher (dans cet ordre).
 const OEUVRES = {
-  manga: { sous: ['Séries cultes', 'Films et studios'], roles: [['P50', 'Mangaka'], ['P110', 'Dessinateur'], ['P57', 'Réalisateur']], anime: true },
+  manga: { sous: ["Shonen d'action", 'Seinen et grands récits', 'Comédie, sport et romance', 'Classiques et animés cultes', 'Films et studios'], roles: [['P50', 'Mangaka'], ['P110', 'Dessinateur'], ['P57', 'Réalisateur']], anime: true },
   cinema: { sous: ['Films cultes', 'Sorties marquantes', 'Animation'], roles: [['P57', 'Réalisateur']], studioSiAnimation: true },
   art: { sous: ['Œuvres célèbres'], roles: [['P170', 'Artiste']], max: 1 },
-  litterature: { sous: ['Œuvres'], roles: [['P50', 'Auteur']], max: 2 },
-  'jeux-video': { sous: ['Jeux et séries cultes'], roles: [['P178', 'Studio'], ['P287', 'Concepteur'], ['P50', 'Créateur']] },
+  litterature: { sous: ['Classiques français', 'Classiques du monde'], roles: [['P50', 'Auteur']], max: 2 },
+  'jeux-video': { sous: ['Classiques avant 2000', 'Jeux des années 2000 et 2010', 'Jeux récents'], roles: [['P178', 'Studio'], ['P287', 'Concepteur'], ['P50', 'Créateur']] },
   musique: { sous: ['Œuvres et dates'], roles: [['P86', 'Compositeur'], ['P175', 'Interprète'], ['P676', 'Parolier']] },
 };
 // Corrections à la main (Wikidata mêle producteurs, chaînes TV, mauvaises adaptations) : titre de la fiche → liste finale.
@@ -61,7 +61,7 @@ async function createursDe(conf, qid, parWiki) {
 }
 
 function oeuvresDuDomaine(dom, fiches) {
-  return fiches.filter(f => OEUVRES[dom].sous.includes(f.subtheme) && f.type !== 'date' && !PAS_UNE_OEUVRE.test(f.title));
+  return fiches.filter(f => OEUVRES[dom].sous.includes(f.subtheme) && f.type !== 'date' && !f.details?.oeuvres?.length && !PAS_UNE_OEUVRE.test(f.title));
 }
 
 async function proposer(dom, appliquer) {
@@ -99,7 +99,7 @@ function controle() {
     const oeuvres = oeuvresDuDomaine(dom, fiches);
     const sansCreateur = oeuvres.filter(f => !f.details?.createurs?.length).map(f => f.title);
     const manquants = new Set();
-    for (const f of oeuvres) for (const c of f.details?.createurs || []) if (!noms.has(norm(c.nom))) manquants.add(c.nom);
+    for (const f of oeuvres) for (const c of f.details?.createurs || []) if (!noms.has(norm(c.fiche || c.nom))) manquants.add(c.nom);
     console.log(`\n== ${dom}`);
     console.log(`  créateurs sans œuvre (${sansOeuvre.length}) : ${sansOeuvre.join('; ') || '—'}`);
     console.log(`  œuvres sans créateur (${sansCreateur.length}) : ${sansCreateur.join('; ') || '—'}`);

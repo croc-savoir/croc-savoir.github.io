@@ -1488,5 +1488,84 @@
     "bonneReponse": 0,
     "explication": "Gerville forge l'expression dans une lettre du 18 décembre 1818, par analogie avec les langues romanes. Il croyait à une filiation avec l'architecture romaine, ce qui était inexact, mais le mot est resté.",
     "source": "D'après Wikipédia — Art roman"
+  },
+  {
+    "id": "q-art-095",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Combien de jours les naufragés de la Méduse ont-ils dérivé sur leur radeau avant d'être secourus ?",
+    "choix": [
+      "Trois jours",
+      "Sept jours",
+      "Treize jours",
+      "Trente jours"
+    ],
+    "bonneReponse": 2,
+    "explication": "Après l'échouage de la frégate Méduse en 1816, les survivants dérivent treize jours sur un radeau de fortune. Géricault peint le moment où ils aperçoivent au loin le brick Argus, venu les sauver.",
+    "source": "D'après Wikipédia — Théodore Géricault"
+  },
+  {
+    "id": "q-art-096",
+    "domain": "art",
+    "format": "vrai-faux",
+    "affirmation": "Eugène Delacroix a posé pour l'une des figures du Radeau de la Méduse de son ami Géricault.",
+    "reponse": true,
+    "explication": "Vrai. Delacroix, de sept ans plus jeune que Géricault, a servi de modèle à l'un des naufragés. Ému par ce tableau, il peindra peu après La Barque de Dante, son premier grand succès au Salon, en 1822.",
+    "source": "D'après Wikipédia — Eugène Delacroix"
+  },
+  {
+    "id": "q-art-097",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel tableau de Delacroix, présenté au Salon de 1824, évoque le sort de civils grecs pendant la guerre d'indépendance ?",
+    "choix": [
+      "La Barque de Dante",
+      "La Mort de Sardanapale",
+      "Scènes des massacres de Scio",
+      "Femmes d'Alger dans leur appartement"
+    ],
+    "bonneReponse": 2,
+    "explication": "Scènes des massacres de Scio montre des civils grecs victimes de la répression ottomane. Il rencontre le succès, mais le peintre Gros y voit « un massacre de l'art » : le sujet est un désastre sans héros.",
+    "source": "D'après Wikipédia — Eugène Delacroix"
+  },
+  {
+    "id": "q-art-098",
+    "domain": "art",
+    "format": "qcm",
+    "question": "Quel surnom Édouard Manet donne-t-il à Vélasquez ?",
+    "choix": [
+      "Le prince des ombres",
+      "Le portraitiste des rois",
+      "Le peintre des peintres",
+      "Le maître du Siècle d'or"
+    ],
+    "bonneReponse": 2,
+    "explication": "Manet, émerveillé, appelle Vélasquez « le peintre des peintres », puis « le plus grand peintre qui eût jamais existé ». Les impressionnistes français voient en lui une référence, surtout entre 1880 et 1920.",
+    "source": "D'après Wikipédia — Diego Vélasquez"
+  },
+  {
+    "id": "q-art-099",
+    "domain": "art",
+    "format": "associer",
+    "question": "Associe chaque peintre à l'un de ses tableaux.",
+    "paires": [
+      {
+        "gauche": "Théodore Géricault",
+        "droite": "Le Derby d'Epsom",
+        "explication": "Peint en 1821 en Angleterre, il célèbre les courses de chevaux, passion de Géricault."
+      },
+      {
+        "gauche": "Eugène Delacroix",
+        "droite": "La Barque de Dante",
+        "explication": "Premier tableau de Delacroix au Salon, en 1822, acheté par l'État malgré les critiques."
+      },
+      {
+        "gauche": "Diego Vélasquez",
+        "droite": "La Reddition de Bréda",
+        "explication": "Grande toile de la maturité de Vélasquez, peintre officiel à la cour du roi Philippe IV."
+      }
+    ],
+    "explication": "Le Derby d'Epsom (1821) pour Géricault, La Barque de Dante (1822) pour Delacroix, La Reddition de Bréda pour Vélasquez : trois grands peintres, deux époques, un même goût pour le mouvement.",
+    "source": "D'après Wikipédia — Eugène Delacroix"
   }
 ]

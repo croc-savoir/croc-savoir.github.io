@@ -1652,5 +1652,59 @@
     "reponse": false,
     "explication": "Faux. Une trompette de poche contient autant de tuyau que la trompette normale, environ 1,50 m : il est simplement plus enroulé. Sa petite taille et son poids mieux réparti plaisent aux jeunes débutants, mais certains professionnels la jouent aussi.",
     "source": "D'après Wikipédia — Trompette"
+  },
+  {
+    "id": "q-musique-105",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Qui demande à Rouget de Lisle, en avril 1792, de composer un chant de guerre ?",
+    "choix": [
+      "Le maire de Strasbourg",
+      "Le roi Louis XVI",
+      "Lazare Carnot",
+      "L'empereur d'Autriche"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cinq jours après la déclaration de guerre à l'Autriche, le maire de Strasbourg, Philippe-Frédéric de Dietrich, sollicite le capitaine du génie. Rouget compose dans la nuit le chant, dédié au maréchal Luckner.",
+    "source": "D'après Wikipédia — Claude Joseph Rouget de Lisle"
+  },
+  {
+    "id": "q-musique-106",
+    "domain": "musique",
+    "format": "vrai-faux",
+    "affirmation": "Rouget de Lisle, auteur de La Marseillaise, était un républicain enthousiaste dès 1792.",
+    "reponse": false,
+    "explication": "Faux. Resté royaliste constitutionnel, il désapprouve la proclamation de la République et l'exécution du roi. Suspect, il est emprisonné sous la Terreur et échappe de peu à la guillotine.",
+    "source": "D'après Wikipédia — Claude Joseph Rouget de Lisle"
+  },
+  {
+    "id": "q-musique-107",
+    "domain": "musique",
+    "format": "qcm",
+    "question": "Quel élément emblématique de Queen Freddie Mercury a-t-il dessiné grâce à sa formation de graphiste ?",
+    "choix": [
+      "Le logo du groupe",
+      "La pochette de Bohemian Rhapsody",
+      "La scène du Live Aid",
+      "Le nom du groupe"
+    ],
+    "bonneReponse": 0,
+    "explication": "Mercury a étudié l'illustration graphique. Il dessine le blason de Queen, qui réunit les signes du zodiaque des quatre membres du groupe, avec un grand Q au centre. Le nom du groupe, lui, était déjà son choix.",
+    "source": "D'après Wikipédia — Freddie Mercury"
+  },
+  {
+    "id": "q-musique-108",
+    "domain": "musique",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Zanzibar en 1946, sous le nom de Farrokh Bulsara.",
+      "J'ai fui avec ma famille la révolution de Zanzibar en 1964.",
+      "J'ai étudié les arts graphiques à Londres avant de devenir chanteur.",
+      "J'ai cofondé Queen en 1970.",
+      "Mon concert au Live Aid, en 1985 à Wembley, est resté célèbre."
+    ],
+    "reponse": "Freddie Mercury",
+    "explication": "Freddie Mercury, né Farrokh Bulsara, devient le chanteur de Smile, rebaptisé Queen en 1970. Il compose Bohemian Rhapsody, We Are the Champions ou Don't Stop Me Now, et marque le Live Aid de 1985.",
+    "source": "D'après Wikipédia — Freddie Mercury"
   }
 ]

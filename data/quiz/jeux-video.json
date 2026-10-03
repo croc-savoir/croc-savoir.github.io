@@ -1655,5 +1655,526 @@
     ],
     "explication": "Ces studios montrent la variété de la création française : récits interactifs, jeux d'action indépendants ou grand jeu de rôle. Depuis 2008, un crédit d'impôt soutient la création de jeux vidéo en France, où des studios sont installés dans de nombreuses villes.",
     "source": "D'après Wikipédia — Jeu vidéo en France"
+  },
+  {
+    "id": "q-jeux-video-101",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quelle contrainte Jeff Braun a-t-il fixée pour le nom de Maxis ?",
+    "choix": [
+      "5 à 7 lettres, aucun sens, avec un x, un z ou un q",
+      "Un mot latin évoquant la ville",
+      "Un mélange des prénoms des fondateurs",
+      "Un acronyme de « maximum simulation »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour baptiser la société née autour de SimCity, Jeff Braun voulait un nom de 5 à 7 lettres, sans signification, facile à retenir et contenant un x, un z ou un q. « Maxis » a été proposé par son propre père.",
+    "source": "D'après Wikipédia — Maxis"
+  },
+  {
+    "id": "q-jeux-video-102",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel jeu a lancé l'aventure d'Epic Games en 1991 ?",
+    "choix": [
+      "ZZT",
+      "Epic Pinball",
+      "Unreal",
+      "Jazz Jackrabbit"
+    ],
+    "bonneReponse": 0,
+    "explication": "ZZT, créé par Tim Sweeney, sort en janvier 1991 en shareware. Il plaît surtout parce qu'on peut le modifier avec un petit langage intégré. Epic Pinball (1993), Jazz Jackrabbit (1994) et Unreal (1998) arrivent bien après.",
+    "source": "D'après Wikipédia — Epic Games"
+  },
+  {
+    "id": "q-jeux-video-103",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quelle boisson Taito fut-elle la première entreprise japonaise à distiller, à ses débuts ?",
+    "choix": [
+      "La vodka",
+      "Le saké",
+      "Le whisky",
+      "La bière"
+    ],
+    "bonneReponse": 0,
+    "explication": "Fondée en 1953, la Taito Trading Company a d'abord distillé de la vodka, une première au Japon. Face à la concurrence, elle y renonce en 1955 pour se concentrer sur les distributeurs automatiques et les juke-box.",
+    "source": "D'après Wikipédia — Taito (entreprise)"
+  },
+  {
+    "id": "q-jeux-video-104",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel jeu Nintendo la démo envoyée à Nintendo en 1990 par l'équipe d'id Software reproduisait-elle sur PC ?",
+    "choix": [
+      "Super Mario Bros. 3",
+      "The Legend of Zelda",
+      "Metroid",
+      "Donkey Kong"
+    ],
+    "bonneReponse": 0,
+    "explication": "Carmack et Hall avaient recopié le premier niveau de Super Mario Bros. 3 sur PC, avec un personnage de Romero à la place de Mario. Nintendo a refusé : ses jeux devaient rester sur ses consoles. La démo a été retrouvée en 2021.",
+    "source": "D'après Wikipédia — Id Software"
+  },
+  {
+    "id": "q-jeux-video-105",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Comment le nom « Blizzard » a-t-il été trouvé ?",
+    "choix": [
+      "En parcourant le dictionnaire, mot après mot",
+      "En souvenir d'une tempête de neige en Californie",
+      "Par un tirage au sort entre employés",
+      "Grâce à un personnage du jeu Warcraft"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après Silicon & Synapse puis Chaos Studios, Allen Adham a noté les mots intéressants d'un dictionnaire et les a fait vérifier par le service juridique. « Blizzard » a passé le test et le studio l'a adopté en mai 1994.",
+    "source": "D'après Wikipédia — Blizzard Entertainment"
+  },
+  {
+    "id": "q-jeux-video-106",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel changement de décor Call of Duty 4: Modern Warfare apporte-t-il à la série en 2007 ?",
+    "choix": [
+      "Il quitte la Seconde Guerre mondiale pour un conflit contemporain fictif",
+      "Il passe de la Seconde Guerre mondiale à la guerre du Viêt Nam",
+      "Il se déroule dans un futur lointain, dans l'espace",
+      "Il revient à la Première Guerre mondiale"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les premiers Call of Duty se déroulaient pendant la Seconde Guerre mondiale. Avec Modern Warfare, Infinity Ward choisit une époque contemporaine et un conflit fictif entre superpuissances. Le virage fait le succès de la série.",
+    "source": "D'après Wikipédia — Infinity Ward"
+  },
+  {
+    "id": "q-jeux-video-107",
+    "domain": "jeux-video",
+    "format": "associer",
+    "question": "Associe chaque studio à un jeu qui a marqué ses débuts.",
+    "paires": [
+      {
+        "gauche": "Maxis",
+        "droite": "SimCity",
+        "explication": "Maxis est fondé en 1987 pour publier SimCity, sorti en 1989."
+      },
+      {
+        "gauche": "Epic Games",
+        "droite": "ZZT",
+        "explication": "Tim Sweeney lance ZZT en 1991, le premier jeu d'Epic."
+      },
+      {
+        "gauche": "id Software",
+        "droite": "Commander Keen",
+        "explication": "La série Commander Keen sort en 1990, avant la création officielle d'id."
+      },
+      {
+        "gauche": "Naughty Dog",
+        "droite": "Crash Bandicoot",
+        "explication": "Crash Bandicoot, en 1996, est le premier jeu en 3D du studio."
+      }
+    ],
+    "explication": "Ces studios se sont fait connaître avec des jeux très différents : une simulation de ville, un jeu modifiable en shareware, un jeu de plateformes à défilement et un jeu de plateformes en 3D sur PlayStation.",
+    "source": "D'après Wikipédia — Maxis"
+  },
+  {
+    "id": "q-jeux-video-108",
+    "domain": "jeux-video",
+    "format": "frise",
+    "question": "Remets ces jeux d'id Software dans l'ordre de sortie.",
+    "evenements": [
+      {
+        "label": "Wolfenstein 3D",
+        "annee": "1992"
+      },
+      {
+        "label": "Doom",
+        "annee": "1993"
+      },
+      {
+        "label": "Quake",
+        "annee": "1996"
+      },
+      {
+        "label": "Quake III Arena",
+        "annee": "1999"
+      },
+      {
+        "label": "Doom 3",
+        "annee": "2004"
+      }
+    ],
+    "explication": "Wolfenstein 3D (mai 1992) ouvre la voie, suivi de Doom (1993) et de Quake (juin 1996), qui apporte un vrai monde en 3D. Quake III Arena arrive en 1999 et Doom 3 en 2004, avec un moteur à la pointe.",
+    "source": "D'après Wikipédia — Id Software"
+  },
+  {
+    "id": "q-jeux-video-109",
+    "domain": "jeux-video",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né en 1996 en Belgique.",
+      "Mon fondateur s'appelle Swen Vincke.",
+      "J'ai créé les séries Divinity.",
+      "J'ai financé Divinity: Original Sin avec un Kickstarter.",
+      "Mon jeu Baldur's Gate 3 a été élu jeu de l'année aux Game Awards en 2023."
+    ],
+    "reponse": "Larian Studios",
+    "explication": "Larian Studios, installé à Gand, a fondé sa réputation sur Divinity. Baldur's Gate 3 a été élu jeu de l'année aux Game Awards en 2023, après un accès anticipé en 2020 et une sortie complète en août 2023.",
+    "source": "D'après Wikipédia — Larian Studios"
+  },
+  {
+    "id": "q-jeux-video-110",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel studio d'Édimbourg, créateur de Grand Theft Auto, Rockstar a-t-il racheté en 1999 avant de le rebaptiser Rockstar North ?",
+    "choix": [
+      "DMA Design",
+      "Mobius Entertainment",
+      "Mad Doc Software",
+      "Remedy Entertainment"
+    ],
+    "bonneReponse": 0,
+    "explication": "DMA Design, basé à Édimbourg, avait développé les premiers Grand Theft Auto. Rockstar l'acquiert en 1999 et le renomme Rockstar North en 2002. Mobius et Mad Doc sont deux autres studios rachetés plus tard.",
+    "source": "D'après Wikipédia — Rockstar Games"
+  },
+  {
+    "id": "q-jeux-video-111",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "Le premier championnat du monde de League of Legends, en 2011, s'est tenu dans un petit événement lors d'une conférence en Suède.",
+    "reponse": true,
+    "explication": "Ce premier Worlds, en 2011, restait modeste. Riot a ensuite voulu rivaliser avec les sports traditionnels : dès 2012, le tournoi remplit le Galen Center de Los Angeles avec un million de dollars à gagner.",
+    "source": "D'après Wikipédia — Riot Games"
+  },
+  {
+    "id": "q-jeux-video-112",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel pays a poussé Harmonix à se recentrer sur le jeu vidéo en 1997 ?",
+    "choix": [
+      "Le Japon",
+      "La Corée du Sud",
+      "Le Royaume-Uni",
+      "L'Allemagne"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1997, les fondateurs découvrent au Japon le karaoké et des jeux musicaux comme PaRappa the Rapper, Beatmania ou Dance Dance Revolution. Ils comprennent ce qui plaît, se recentrent sur le jeu vidéo et se séparent de 40 % de l'équipe.",
+    "source": "D'après Wikipédia — Harmonix Music Systems"
+  },
+  {
+    "id": "q-jeux-video-113",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Dans quel cadre l'idée de Hollow Knight est-elle née en 2013 ?",
+    "choix": [
+      "Une game jam, la Ludum Dare",
+      "Un concours organisé par Nintendo",
+      "Une campagne Kickstarter",
+      "Un cours de design à l'université"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le concept de Hollow Knight apparaît lors de la Ludum Dare 2013, une game jam où l'on crée un jeu en un temps limité. Ari Gibson et William Pellen en tirent un jeu financé ensuite par Kickstarter et sorti en 2017.",
+    "source": "D'après Wikipédia — Team Cherry"
+  },
+  {
+    "id": "q-jeux-video-114",
+    "domain": "jeux-video",
+    "format": "difference",
+    "question": "Quelle est la différence entre Rockstar Games et Rockstar North ?",
+    "choix": [
+      "Rockstar Games est l'éditeur basé à New York, Rockstar North le studio d'Édimbourg qui développe GTA",
+      "Rockstar Games est le studio de développement, Rockstar North est la branche qui vend les jeux",
+      "Rockstar North est la maison mère, Rockstar Games est un studio qu'elle a racheté",
+      "Il n'y a aucune différence : les deux noms désignent le même bureau"
+    ],
+    "bonneReponse": 0,
+    "explication": "Rockstar Games, né en 1998 à New York, est le label éditeur de Take-Two. Rockstar North, à Édimbourg, est l'ancien DMA Design, rebaptisé en 2002 : c'est lui qui développe notamment la série Grand Theft Auto.",
+    "source": "D'après Wikipédia — Rockstar Games"
+  },
+  {
+    "id": "q-jeux-video-115",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "Candy Crush Saga est le tout premier jeu « saga » de King.",
+    "reponse": false,
+    "explication": "Faux : Bubble Witch Saga, sorti en octobre 2011, a inventé la formule avec des niveaux courts aux objectifs précis. Candy Crush Saga, lancé en avril 2012, a repris ce modèle et en a fait un phénomène mondial.",
+    "source": "D'après Wikipédia — King (entreprise)"
+  },
+  {
+    "id": "q-jeux-video-116",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "De quelle entreprise Niantic était-elle à l'origine une start-up interne ?",
+    "choix": [
+      "Google",
+      "Nintendo",
+      "Apple",
+      "Microsoft"
+    ],
+    "bonneReponse": 0,
+    "explication": "John Hanke, qui dirigeait la division cartographique de Google, fonde Niantic en 2010 au sein de Google. L'entreprise devient indépendante en octobre 2015, quand Google se réorganise en groupe Alphabet.",
+    "source": "D'après Wikipédia — Niantic (entreprise)"
+  },
+  {
+    "id": "q-jeux-video-117",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel jeu en blocs a poussé Markus Persson à reprendre son prototype pour créer Minecraft ?",
+    "choix": [
+      "Infiniminer",
+      "Lemmings",
+      "SimCity",
+      "Pong"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 2009, Markus Persson découvre Infiniminer, un jeu de mine fait de blocs. Il y retrouve l'idée d'une vue à la première personne et d'un monde en cubes, et l'applique à son prototype RubyDung, qui devient Minecraft.",
+    "source": "D'après Wikipédia — Markus Persson"
+  },
+  {
+    "id": "q-jeux-video-118",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel jeu d'enfance a inspiré Alekseï Pajitnov pour inventer Tetris ?",
+    "choix": [
+      "Les pentaminos",
+      "Les dominos",
+      "Les échecs",
+      "Le jeu de l'oie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pajitnov se rappelait les pentaminos, des formes à assembler qu'il avait du mal à ranger dans leur boîte. Il a voulu en faire un jeu sur ordinateur, ce qui a donné les pièces qui tombent de Tetris en 1985.",
+    "source": "D'après Wikipédia — Alekseï Pajitnov"
+  },
+  {
+    "id": "q-jeux-video-119",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "Alekseï Pajitnov a touché des droits d'auteur sur Tetris dès sa création, en 1985.",
+    "reponse": false,
+    "explication": "Faux. Pajitnov était salarié de l'Académie des sciences soviétique : le jeu appartenait à l'État et il n'a rien perçu. Il n'a touché des royalties qu'après avoir récupéré les droits, vers 1996, avec The Tetris Company.",
+    "source": "D'après Wikipédia — Alekseï Pajitnov"
+  },
+  {
+    "id": "q-jeux-video-120",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Qu'a réussi à créer Yūji Naka en portant Ghouls'n Ghosts sur Mega Drive, en modifiant les pentes du décor ?",
+    "choix": [
+      "Une boucle à 360 degrés",
+      "Un niveau sous-marin",
+      "Un mode deux joueurs",
+      "Un scrolling vertical"
+    ],
+    "bonneReponse": 0,
+    "explication": "En réglant la vitesse du héros et la forme des pentes, Naka a obtenu un tour complet à 360 degrés. Il a ainsi prouvé que la Mega Drive pouvait faire courir un personnage très vite, une qualité centrale de Sonic.",
+    "source": "D'après Wikipédia — Yuji Naka"
+  },
+  {
+    "id": "q-jeux-video-121",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Selon Dave Jones, que signifie finalement « DMA » dans DMA Design ?",
+    "choix": [
+      "Doesn't Mean Anything",
+      "Dundee Music Association",
+      "Digital Master Arcade",
+      "Dynamic Moving Animation"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans les manuels de l'Amiga, DMA désignait l'accès direct à la mémoire. Pour le nom du studio, Jones a fini par dire que ces lettres signifiaient « Doesn't Mean Anything », c'est-à-dire « ça ne veut rien dire ».",
+    "source": "D'après Wikipédia — Rockstar North"
+  },
+  {
+    "id": "q-jeux-video-122",
+    "domain": "jeux-video",
+    "format": "frise",
+    "question": "Remets ces jeux de Tomohiro Nishikado dans l'ordre de sortie.",
+    "evenements": [
+      {
+        "label": "Sky Fighter",
+        "annee": "1971"
+      },
+      {
+        "label": "TV Basketball",
+        "annee": "1974"
+      },
+      {
+        "label": "Western Gun",
+        "annee": "1975"
+      },
+      {
+        "label": "Space Invaders",
+        "annee": "1978"
+      }
+    ],
+    "explication": "Nishikado a commencé par le jeu mécanique Sky Fighter en 1971, puis a enchaîné les innovations : TV Basketball en 1974, le duel de cowboys Western Gun en 1975 et enfin Space Invaders en 1978.",
+    "source": "D'après Wikipédia — Tomohiro Nishikado"
+  },
+  {
+    "id": "q-jeux-video-123",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel jeu de Nishikado, vendu aux États-Unis sous le nom de Wheels, a introduit le défilement de la piste ?",
+    "choix": [
+      "Speed Race",
+      "Sky Fighter",
+      "Soccer",
+      "Western Gun"
+    ],
+    "bonneReponse": 0,
+    "explication": "Speed Race, sorti en 1974, fait défiler une piste vue de dessus et se joue avec un vrai volant. Aux États-Unis, Wheels et Wheels II se sont vendus à 10 000 bornes et ont été le jeu d'arcade le plus vendu de 1975.",
+    "source": "D'après Wikipédia — Tomohiro Nishikado"
+  },
+  {
+    "id": "q-jeux-video-124",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Comment Shinji Mikami a-t-il découvert Capcom, l'entreprise où il a débuté ?",
+    "choix": [
+      "Par un prospectus de salon de l'emploi avec buffet, à l'hôtel Hilton",
+      "En gagnant un concours de programmation",
+      "En envoyant une démo par la poste",
+      "Grâce à un ami qui travaillait déjà chez Capcom"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un ami lui a donné le prospectus d'un salon de l'emploi avec buffet. Mikami y est allé surtout pour manger gratuitement, puis il a postulé chez Capcom et chez Nintendo, et a choisi Capcom quand les entretiens ont eu lieu le même jour.",
+    "source": "D'après Wikipédia — Shinji Mikami"
+  },
+  {
+    "id": "q-jeux-video-125",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "Le terme « survival horror » a été inventé par Capcom pour promouvoir Resident Evil.",
+    "reponse": true,
+    "explication": "Vrai. Resident Evil, dirigé par Shinji Mikami et sorti en 1996, est le premier jeu présenté comme un survival horror. Capcom a créé cette expression pour le promouvoir, et elle a ensuite désigné tout un genre.",
+    "source": "D'après Wikipédia — Shinji Mikami"
+  },
+  {
+    "id": "q-jeux-video-126",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Quel sentiment a inspiré Katsuya Eguchi pour créer Animal Crossing ?",
+    "choix": [
+      "La solitude ressentie en arrivant à Kyoto, loin de ses proches",
+      "Le désir de rivaliser avec Mario",
+      "Un rêve d'enfance de vivre à la campagne",
+      "L'envie de créer un jeu de combat en famille"
+    ],
+    "bonneReponse": 0,
+    "explication": "En quittant Chiba pour Kyoto et Nintendo, Eguchi s'est senti très seul. Il a voulu recréer le plaisir de passer du temps avec ses proches, ce qui a donné un jeu où l'on partage des choses même sans jouer en même temps.",
+    "source": "D'après Wikipédia — Katsuya Eguchi"
+  },
+  {
+    "id": "q-jeux-video-127",
+    "domain": "jeux-video",
+    "format": "associer",
+    "question": "Associe chaque studio à l'un de ses jeux.",
+    "paires": [
+      {
+        "gauche": "Namco",
+        "droite": "Tekken",
+        "explication": "Tekken, sorti en 1994, fait partie des grands succès 3D de Namco."
+      },
+      {
+        "gauche": "Sonic Team",
+        "droite": "Nights into Dreams",
+        "explication": "Naka a lancé Nights into Dreams en 1996 sur Saturn, sans Sonic."
+      },
+      {
+        "gauche": "Mojang Studios",
+        "droite": "Minecraft Legends",
+        "explication": "Ce jeu de stratégie et d'action se déroule dans l'univers de Minecraft."
+      },
+      {
+        "gauche": "DMA Design",
+        "droite": "Lemmings",
+        "explication": "Lemmings a fait sensation sur Amiga et lancé le studio de Dave Jones."
+      }
+    ],
+    "explication": "Ces quatre studios ont marqué l'histoire : Namco avec la 3D de Tekken, Sonic Team avec ses jeux sans hérisson, Mojang avec l'univers Minecraft et DMA Design, ancêtre de Rockstar North, avec Lemmings.",
+    "source": "D'après Wikipédia — Namco"
+  },
+  {
+    "id": "q-jeux-video-128",
+    "domain": "jeux-video",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né en 1991 dans le New Hampshire.",
+      "J'ai étudié les sciences de l'environnement et composé pour un webcomic.",
+      "J'ai lancé une campagne Kickstarter en juin 2013.",
+      "J'ai composé Megalovania pour un hack d'EarthBound.",
+      "Je suis l'auteur d'Undertale et de Deltarune."
+    ],
+    "reponse": "Toby Fox",
+    "explication": "Toby Fox a composé Megalovania en 2008 pour un hack d'EarthBound. Il a ensuite créé Undertale presque seul, financé par Kickstarter, puis lancé Deltarune, dont le premier chapitre est sorti le 31 octobre 2018.",
+    "source": "D'après Wikipédia — Toby Fox"
+  },
+  {
+    "id": "q-jeux-video-129",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Environ combien de fois son objectif de 5 000 dollars la campagne Kickstarter d'Undertale a-t-elle rapporté ?",
+    "choix": [
+      "Plus de dix fois",
+      "Deux fois",
+      "Cinq fois",
+      "Cent fois"
+    ],
+    "bonneReponse": 0,
+    "explication": "Toby Fox visait 5 000 dollars en juin 2013 et a atteint ce but le jour du lancement. La campagne s'est terminée le 24 juillet avec plusieurs dizaines de milliers de dollars, soit plus de dix fois la somme demandée.",
+    "source": "D'après Wikipédia — Toby Fox"
+  },
+  {
+    "id": "q-jeux-video-130",
+    "domain": "jeux-video",
+    "format": "vrai-faux",
+    "affirmation": "Eric Barone a créé Stardew Valley avec une équipe d'une dizaine de personnes dès le début.",
+    "reponse": false,
+    "explication": "Faux. Barone a conçu le jeu seul : il en a été le programmeur, l'artiste, le compositeur et l'auteur. Diplômé sans emploi, il l'avait commencé en 2012 pour montrer son travail à de futurs employeurs. Une petite équipe ne l'aide que depuis 2019.",
+    "source": "D'après Wikipédia — Eric Barone (développeur)"
+  },
+  {
+    "id": "q-jeux-video-131",
+    "domain": "jeux-video",
+    "format": "difference",
+    "question": "Quelle est la différence entre Deltarune et une suite d'Undertale ?",
+    "choix": [
+      "Deltarune se passe dans un univers différent, avec d'autres personnages",
+      "Deltarune se déroule avant Undertale dans le même monde",
+      "Deltarune est un remake d'Undertale avec une nouvelle musique",
+      "Deltarune est un jeu créé par une autre équipe"
+    ],
+    "bonneReponse": 0,
+    "explication": "Toby Fox précise que Deltarune n'est pas le monde d'Undertale : c'est un univers distinct, avec des personnages qui ont vécu leur propre vie. Son idée est née d'un rêve fiévreux en 2011, avant même Undertale.",
+    "source": "D'après Wikipédia — Toby Fox"
+  },
+  {
+    "id": "q-jeux-video-132",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "Par quels produits Namco a-t-elle débuté en 1955 ?",
+    "choix": [
+      "Des chevaux mécaniques à bascule pour enfants",
+      "Des cartes à jouer",
+      "Des horloges à quartz",
+      "Des consoles de salon"
+    ],
+    "bonneReponse": 0,
+    "explication": "Masaya Nakamura a installé deux chevaux à bascule à manivelle sur le toit d'un grand magasin de Yokohama. Les enfants les ont adorés, et l'entreprise a grandi avec des manèges, puis l'arcade, jusqu'à Pac-Man.",
+    "source": "D'après Wikipédia — Namco"
+  },
+  {
+    "id": "q-jeux-video-133",
+    "domain": "jeux-video",
+    "format": "qcm",
+    "question": "De quel mot suédois vient le nom du studio Mojang ?",
+    "choix": [
+      "Mojäng, qui signifie « gadget »",
+      "Mojna, qui signifie « bloc »",
+      "Mojjan, qui signifie « mine »",
+      "Mojspel, qui signifie « jeu »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Mojang vient de « mojäng », « gadget » en suédois. Markus Persson avait déjà utilisé ce nom pour l'entreprise de son premier projet, Wurm Online, avant de le reprendre pour développer Minecraft en 2009.",
+    "source": "D'après Wikipédia — Mojang Studios"
   }
 ]

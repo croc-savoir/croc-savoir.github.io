@@ -1650,5 +1650,203 @@
     "bonneReponse": 0,
     "explication": "La césure est la pause qui coupe l'alexandrin en deux hémistiches de six syllabes. Selon la règle classique, elle doit coïncider avec une coupure du sens, et le e muet ne peut pas la précéder.",
     "source": "D'après Wikipédia — Alexandrin"
+  },
+  {
+    "id": "q-litterature-105",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Pour quel acteur célèbre Bram Stoker a-t-il administré le Lyceum Theatre de Londres ?",
+    "choix": [
+      "Henry Irving",
+      "David Garrick",
+      "Edmund Kean",
+      "Herbert Beerbohm Tree"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pendant vingt-sept ans, Stoker gère le Lyceum Theatre pour Henry Irving, l'acteur le plus célèbre de son temps. Irving lui a aussi servi de modèle pour imaginer le comte Dracula, alors que Stoker se projetait plutôt dans le jeune clerc Jonathan Harker.",
+    "source": "D'après Wikipédia — Bram Stoker"
+  },
+  {
+    "id": "q-litterature-106",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "Bram Stoker a longuement voyagé en Transylvanie avant d'écrire Dracula.",
+    "reponse": false,
+    "explication": "Faux. Stoker n'a jamais visité l'Europe de l'Est : il a décrit la Transylvanie grâce à ses lectures. À Dublin, la bibliothèque Marsh conserve encore les fiches d'emprunt des livres qu'il a consultés pour préparer son roman.",
+    "source": "D'après Wikipédia — Bram Stoker"
+  },
+  {
+    "id": "q-litterature-107",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel roman de Saint-Exupéry reçoit le prix Femina en 1931 ?",
+    "choix": [
+      "Courrier sud",
+      "Vol de nuit",
+      "Terre des hommes",
+      "Pilote de guerre"
+    ],
+    "bonneReponse": 1,
+    "explication": "Vol de nuit s'inspire de ses années de pilote en Amérique du Sud et lui apporte un grand succès. Son premier roman, Courrier sud, datait de 1929 ; Terre des hommes, en 1939, sera couronné par l'Académie française.",
+    "source": "D'après Wikipédia — Antoine de Saint-Exupéry"
+  },
+  {
+    "id": "q-litterature-108",
+    "domain": "litterature",
+    "format": "frise",
+    "question": "Remets ces livres de Saint-Exupéry dans l'ordre de leur publication.",
+    "evenements": [
+      {
+        "label": "Courrier sud",
+        "annee": "1929"
+      },
+      {
+        "label": "Vol de nuit",
+        "annee": "1931"
+      },
+      {
+        "label": "Terre des hommes",
+        "annee": "1939"
+      },
+      {
+        "label": "Pilote de guerre",
+        "annee": "1942"
+      },
+      {
+        "label": "Le Petit Prince",
+        "annee": "1943"
+      }
+    ],
+    "explication": "Courrier sud et Vol de nuit racontent l'aviation postale. Terre des hommes paraît en 1939, puis Pilote de guerre en 1942. Le Petit Prince sort en 1943 à New York, où l'auteur vit en exil pendant la guerre.",
+    "source": "D'après Wikipédia — Antoine de Saint-Exupéry"
+  },
+  {
+    "id": "q-litterature-109",
+    "domain": "litterature",
+    "format": "vrai-faux",
+    "affirmation": "Dans l'Antiquité, tous les Grecs s'accordaient sur la ville natale d'Homère.",
+    "reponse": false,
+    "explication": "Faux. Chios, Smyrne, Cymé ou Colophon se disputaient l'honneur d'avoir vu naître le poète. Chacune défendait sa version : Homère était déjà, pour les Grecs eux-mêmes, un personnage légendaire et énigmatique.",
+    "source": "D'après Wikipédia — Homère"
+  },
+  {
+    "id": "q-litterature-110",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quelle idée pratique Laclos propose-t-il en 1787 dans une lettre au Journal de Paris ?",
+    "choix": [
+      "Éclairer les rues la nuit",
+      "Numéroter les rues de la capitale",
+      "Créer un corps de pompiers",
+      "Paver tous les boulevards"
+    ],
+    "bonneReponse": 1,
+    "explication": "En 1787, l'officier devenu écrivain suggère de numéroter les rues de Paris. Artilleur méthodique, l'auteur des Liaisons dangereuses écrit aussi sur la guerre, l'éducation des femmes et la politique.",
+    "source": "D'après Wikipédia — Pierre Choderlos de Laclos"
+  },
+  {
+    "id": "q-litterature-111",
+    "domain": "litterature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né en 1903 en Inde, sous le nom d'Eric Blair.",
+      "J'ai été policier colonial en Birmanie avant de démissionner.",
+      "En Espagne, j'ai combattu dans les milices du POUM.",
+      "Mon pseudonyme apparaît en 1933, sur mon premier livre.",
+      "Mon roman de 1949 a donné au monde « Big Brother »."
+    ],
+    "reponse": "George Orwell",
+    "explication": "George Orwell est le pseudonyme d'Eric Blair, utilisé dès 1933. Policier en Birmanie puis combattant en Espagne, il a tiré de ses expériences Une histoire birmane et Hommage à la Catalogne. Son roman 1984 a popularisé « Big Brother ».",
+    "source": "D'après Wikipédia — George Orwell"
+  },
+  {
+    "id": "q-litterature-112",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Quel emploi Herman Melville occupe-t-il pendant dix-neuf ans, à partir de 1866 ?",
+    "choix": [
+      "Capitaine de baleinier",
+      "Professeur de littérature",
+      "Inspecteur des douanes de New York",
+      "Consul des États-Unis à l'étranger"
+    ],
+    "bonneReponse": 2,
+    "explication": "Ses livres se vendant mal, l'auteur de Moby-Dick devient inspecteur des douanes à New York. Presque oublié à sa mort en 1891, il ne sera redécouvert que dans les années 1920.",
+    "source": "D'après Wikipédia — Herman Melville"
+  },
+  {
+    "id": "q-litterature-113",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Qui lance en 1816, près de Genève, le défi d'écrire chacun une histoire de terreur, d'où naît Frankenstein ?",
+    "choix": [
+      "Percy Shelley",
+      "John Polidori",
+      "Samuel Taylor Coleridge",
+      "Lord Byron"
+    ],
+    "bonneReponse": 3,
+    "explication": "Pendant un été pluvieux, Lord Byron propose à ses invités d'écrire un récit de terreur. Mary Shelley commence Frankenstein, tandis que John Polidori reprend les pages de Byron pour bâtir sa nouvelle Vampire.",
+    "source": "D'après Wikipédia — Mary Shelley"
+  },
+  {
+    "id": "q-litterature-114",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Comment Charles Dodgson a-t-il fabriqué son pseudonyme, Lewis Carroll ?",
+    "choix": [
+      "Il a traduit ses prénoms en latin, les a inversés, puis retraduits en anglais",
+      "Il a repris le nom de ses deux grands-pères",
+      "Il a fait une anagramme de son nom de famille",
+      "Il a choisi le nom d'une rue d'Oxford"
+    ],
+    "bonneReponse": 0,
+    "explication": "Charles Lutwidge devient Carolus Ludovicus en latin ; une fois inversé, Ludovicus Carolus donne Lewis Carroll. En 1856, le rédacteur Edmund Yates choisit ce nom parmi quatre propositions de Dodgson.",
+    "source": "D'après Wikipédia — Lewis Carroll"
+  },
+  {
+    "id": "q-litterature-115",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Pourquoi J. K. Rowling signe-t-elle ses livres avec deux initiales ?",
+    "choix": [
+      "Elle voulait échapper à la presse",
+      "Son éditeur craignait que des garçons boudent un livre écrit par une femme",
+      "C'était la mode chez les auteurs de fantasy",
+      "Un autre auteur portait déjà son nom"
+    ],
+    "bonneReponse": 1,
+    "explication": "Chez Bloomsbury, on pensait que les jeunes garçons hésiteraient à lire un livre écrit par une femme. Joanne, qui n'a pas de deuxième prénom, a choisi K comme Kathleen, le prénom de sa grand-mère paternelle.",
+    "source": "D'après Wikipédia — J. K. Rowling"
+  },
+  {
+    "id": "q-litterature-116",
+    "domain": "litterature",
+    "format": "difference",
+    "question": "Quelle est la différence entre la dystopie d'Aldous Huxley et celle de George Orwell ?",
+    "choix": [
+      "Chez Huxley, le contrôle passe par le conditionnement, chez Orwell par la surveillance de Big Brother",
+      "Chez Huxley, le contrôle passe par la surveillance, chez Orwell par le conditionnement",
+      "Huxley décrit une société du passé, Orwell une société actuelle",
+      "Huxley décrit une société sans gouvernement, Orwell une dictature militaire"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans Le Meilleur des mondes, la société repose sur la production de masse et le conditionnement ; Huxley parlait de gens privés de liberté mais plutôt heureux. Chez Orwell, Big Brother surveille tout le monde.",
+    "source": "D'après Wikipédia — Aldous Huxley"
+  },
+  {
+    "id": "q-litterature-117",
+    "domain": "litterature",
+    "format": "qcm",
+    "question": "Qu'est-ce qui pousse Anne Frank, au printemps 1944, à récrire son journal pour le publier un jour ?",
+    "choix": [
+      "Une lettre de son père",
+      "Un concours littéraire organisé à Amsterdam",
+      "Un appel à la radio du ministre néerlandais en exil, qui veut rassembler les témoignages de l'occupation",
+      "La visite d'un éditeur"
+    ],
+    "bonneReponse": 2,
+    "explication": "Anne entend à la radio, depuis Londres, un ministre néerlandais en exil annoncer qu'on réunira après la guerre des témoignages, dont des journaux intimes. Elle décide alors d'en tirer un livre et remanie ses pages.",
+    "source": "D'après Wikipédia — Anne Frank"
   }
 ]

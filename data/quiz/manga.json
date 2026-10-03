@@ -1889,5 +1889,742 @@
     ],
     "explication": "Umezu débute en 1955, s'impose dans l'horreur au milieu des années 1960, puis surprend avec la comédie Makoto-chan. Une tendinite met fin à sa carrière de mangaka en 1995 ; le prix reçu à Angoulême en 2018 lui redonne l'envie de créer.",
     "source": "D'après Wikipédia — Kazuo Umezu"
+  },
+  {
+    "id": "q-manga-121",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Qui dessine Death Note, sur un scénario de Tsugumi Ōba ?",
+    "choix": [
+      "Takeshi Obata",
+      "Tite Kubo",
+      "Hirohiko Araki",
+      "Kōhei Horikoshi"
+    ],
+    "bonneReponse": 0,
+    "explication": "Takeshi Obata a dessiné Death Note de 2003 à 2006. Il travaille presque toujours avec un scénariste : Yumi Hotta pour Hikaru no Go, puis Tsugumi Ōba pour Death Note, Bakuman et Platinum End.",
+    "source": "D'après Wikipédia — Takeshi Obata"
+  },
+  {
+    "id": "q-manga-122",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Que sait-on officiellement de l'identité de Tsugumi Ōba, le scénariste de Death Note ?",
+    "choix": [
+      "Elle n'a jamais été révélée",
+      "C'est une ancienne mangaka célèbre",
+      "C'est un duo de deux auteurs",
+      "C'est le dessinateur Takeshi Obata lui-même"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tsugumi Ōba est un pseudonyme et son éditeur, Shūeisha, garde le secret. Une rumeur évoque le mangaka Hiroshi Gamō, mais elle n'a jamais été confirmée : on connaît surtout ses habitudes, comme s'asseoir les genoux repliés.",
+    "source": "D'après Wikipédia — Tsugumi Ōba"
+  },
+  {
+    "id": "q-manga-123",
+    "domain": "manga",
+    "format": "vrai-faux",
+    "affirmation": "Koyoharu Gotōge, l'autrice de Demon Slayer, se représente sous la forme d'un crocodile à lunettes.",
+    "reponse": true,
+    "explication": "Gotōge publie sous pseudonyme et n'a jamais révélé son visage ni son genre. L'autrice se montre sous les traits d'un crocodile portant des lunettes. Demon Slayer a paru dans le Weekly Shōnen Jump de 2016 à 2020.",
+    "source": "D'après Wikipédia — Koyoharu Gotōge"
+  },
+  {
+    "id": "q-manga-124",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Pourquoi Gege Akutami est-il venu en cosplay de Mechamaru recevoir un prix en 2021 ?",
+    "choix": [
+      "Pour garder son identité secrète",
+      "Pour célébrer l'anniversaire de la série",
+      "Parce qu'il n'avait pas de vrai costume",
+      "Pour promouvoir un jeu vidéo"
+    ],
+    "bonneReponse": 0,
+    "explication": "En janvier 2021, Akutami fait sa première apparition publique pour un prix, mais déguisé en Mechamaru, un personnage de Jujutsu Kaisen. Ce choix lui permet de rester anonyme tout en venant sur place.",
+    "source": "D'après Wikipédia — Gege Akutami"
+  },
+  {
+    "id": "q-manga-125",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quel groupe a inspiré à Tite Kubo le titre de Bleach ?",
+    "choix": [
+      "Nirvana",
+      "Metallica",
+      "Oasis",
+      "Queen"
+    ],
+    "bonneReponse": 0,
+    "explication": "Fan de rock, Tite Kubo a nommé sa série en référence au premier album de Nirvana, Bleach. Le manga a paru dans le Weekly Shōnen Jump de 2001 à 2016 et a été primé par le prix Shōgakukan.",
+    "source": "D'après Wikipédia — Tite Kubo"
+  },
+  {
+    "id": "q-manga-126",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quel mangaka a créé Les Chevaliers du Zodiaque (Saint Seiya) ?",
+    "choix": [
+      "Masami Kurumada",
+      "Hirohiko Araki",
+      "Masamune Shirow",
+      "Kentarō Miura"
+    ],
+    "bonneReponse": 0,
+    "explication": "Masami Kurumada est le créateur de Saint Seiya, publié en France sous le titre Les Chevaliers du Zodiaque. Avant ce succès mondial, il avait lancé en 1977 Ring ni kakero, une série de boxe en 25 volumes.",
+    "source": "D'après Wikipédia — Masami Kurumada"
+  },
+  {
+    "id": "q-manga-127",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quel cinéaste français a demandé à Masami Kurumada de dessiner des illustrations pour son film Le Choc des Titans ?",
+    "choix": [
+      "Louis Leterrier",
+      "Luc Besson",
+      "Christophe Gans",
+      "Jean-Pierre Jeunet"
+    ],
+    "bonneReponse": 0,
+    "explication": "Louis Leterrier, grand lecteur de Saint Seiya dans sa jeunesse, a fait appel à Kurumada en 2010 pour créer des illustrations promotionnelles de son film Clash of the Titans, une preuve de l'influence du manga.",
+    "source": "D'après Wikipédia — Masami Kurumada"
+  },
+  {
+    "id": "q-manga-128",
+    "domain": "manga",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né en 1960 à Ube et j'ai tourné des films en 8 mm quand j'étais étudiant.",
+      "Un budget de 8000 yens m'a suffi pour une parodie d'Ultraman, où je jouais le héros sans masque.",
+      "J'ai animé des scènes de Nausicaä de la Vallée du Vent après avoir répondu à une annonce.",
+      "J'ai cofondé le studio Gainax en 1984.",
+      "J'ai créé la série Neon Genesis Evangelion."
+    ],
+    "reponse": "Hideaki Anno",
+    "explication": "Hideaki Anno a débuté comme animateur chez Miyazaki, puis fondé Gainax avec Hiroyuki Yamaga, son camarade d'université. Sa série Neon Genesis Evangelion, diffusée en 1995-1996, est devenue un monument de l'animation japonaise.",
+    "source": "D'après Wikipédia — Hideaki Anno"
+  },
+  {
+    "id": "q-manga-129",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quel genre musical est au cœur de Cowboy Bebop, réalisé par Shin'ichirō Watanabe ?",
+    "choix": [
+      "Le jazz",
+      "Le hip-hop",
+      "Le funk",
+      "Le rock progressif"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cowboy Bebop mêle science-fiction, film noir et jazz, avec une musique de Yoko Kanno. Watanabe change de genre selon ses séries : le hip-hop pour Samurai Champloo, le funk pour Space Dandy.",
+    "source": "D'après Wikipédia — Shin'ichirō Watanabe"
+  },
+  {
+    "id": "q-manga-130",
+    "domain": "manga",
+    "format": "associer",
+    "question": "Associe chaque réalisateur ou mangaka à son œuvre.",
+    "paires": [
+      {
+        "gauche": "Shin'ichirō Watanabe",
+        "droite": "Samurai Champloo",
+        "explication": "Une série mêlant Japon d'Edo et hip-hop, sortie en 2004."
+      },
+      {
+        "gauche": "Masamune Shirow",
+        "droite": "Appleseed",
+        "explication": "Son premier grand succès, prix Seiun du meilleur manga en 1986."
+      },
+      {
+        "gauche": "Hirohiko Araki",
+        "droite": "JoJo's Bizarre Adventure",
+        "explication": "Saga lancée en 1987 dans le Weekly Shōnen Jump."
+      },
+      {
+        "gauche": "Kentarō Miura",
+        "droite": "Berserk",
+        "explication": "Une série de dark fantasy publiée de 1989 à 2021."
+      }
+    ],
+    "explication": "Ces quatre auteurs ont chacun créé une œuvre qui les identifie. Watanabe pour la musique, Shirow pour le cyberpunk, Araki pour son style baroque et Miura pour la dark fantasy sombre de Berserk, très détaillée.",
+    "source": "D'après Wikipédia — Hirohiko Araki"
+  },
+  {
+    "id": "q-manga-131",
+    "domain": "manga",
+    "format": "vrai-faux",
+    "affirmation": "Le pseudonyme de Masamune Shirow vient d'un célèbre forgeron de sabres japonais.",
+    "reponse": true,
+    "explication": "Masamune était un forgeron japonais du XIVe siècle, célèbre pour ses sabres. Shirow lui emprunte son nom et a aussi donné des noms de sabres à des personnages, comme Kusanagi dans Ghost in the Shell.",
+    "source": "D'après Wikipédia — Masamune Shirow"
+  },
+  {
+    "id": "q-manga-132",
+    "domain": "manga",
+    "format": "difference",
+    "question": "Quelle est la différence entre le Hamon et un Stand dans JoJo's Bizarre Adventure ?",
+    "choix": [
+      "Le Hamon est une technique de respiration de la première partie, les Stands sont des esprits de combat introduits dans la troisième",
+      "Les Stands sont des armes forgées, le Hamon un sort de magie",
+      "Le Hamon est un monstre, le Stand son maître",
+      "Il n'y en a aucune, les deux termes désignent la même chose"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Hamon est la technique de respiration de Jonathan Joestar dans la première partie. Les Stands apparaissent avec Stardust Crusaders, la troisième, et restent depuis le cœur de la série.",
+    "source": "D'après Wikipédia — Hirohiko Araki"
+  },
+  {
+    "id": "q-manga-133",
+    "domain": "manga",
+    "format": "frise",
+    "question": "Remets ces étapes de la carrière de Tite Kubo dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Premier récit court de Tite Kubo",
+        "annee": "1996"
+      },
+      {
+        "label": "Zombiepowder, sa première série",
+        "annee": "1999"
+      },
+      {
+        "label": "Début de Bleach",
+        "annee": "2001"
+      },
+      {
+        "label": "Fin de la série Bleach",
+        "annee": "2016"
+      },
+      {
+        "label": "Burn the Witch, récit court pour les 50 ans du Jump",
+        "annee": "2018"
+      },
+      {
+        "label": "Retour de Bleach avec un nouvel arc",
+        "annee": "2021"
+      }
+    ],
+    "explication": "Kubo publie un premier récit court en 1996, lance Zombiepowder en 1999, puis Bleach en 2001. La série se termine en 2016, Burn the Witch paraît en 2018 pour fêter les cinquante ans du magazine, et un nouvel arc de Bleach arrive en 2021.",
+    "source": "D'après Wikipédia — Tite Kubo"
+  },
+  {
+    "id": "q-manga-134",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Sur quel jeu vidéo Takeshi Obata a-t-il travaillé comme concepteur de personnages ?",
+    "choix": [
+      "Castlevania Judgment",
+      "Final Fantasy VII",
+      "Dark Souls",
+      "Zelda"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 2009, Takeshi Obata a conçu les personnages du jeu Castlevania Judgment. Il a aussi illustré des romans et dessiné, en 2014, une adaptation en manga du roman de science-fiction All You Need Is Kill.",
+    "source": "D'après Wikipédia — Takeshi Obata"
+  },
+  {
+    "id": "q-manga-135",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quel film d'horreur de 1974 a inspiré Tatsuki Fujimoto pour créer Chainsaw Man ?",
+    "choix": [
+      "Massacre à la tronçonneuse",
+      "Halloween",
+      "Vendredi 13",
+      "Les Griffes de la nuit"
+    ],
+    "bonneReponse": 0,
+    "explication": "Fujimoto a raconté s'être inspiré du film américain Massacre à la tronçonneuse (1974) pour imaginer Chainsaw Man. Le manga paraît à partir de décembre 2018 dans le Weekly Shōnen Jump et connaît un énorme succès.",
+    "source": "D'après Wikipédia — Tatsuki Fujimoto"
+  },
+  {
+    "id": "q-manga-136",
+    "domain": "manga",
+    "format": "vrai-faux",
+    "affirmation": "Avant Spy × Family, Tatsuya Endō publiait surtout des histoires sombres.",
+    "reponse": true,
+    "explication": "Vrai. Ses premiers titres, comme Tista, étaient matures et sombres. Son éditeur, Shihei Lin, l'a poussé vers un manga plus joyeux : cela a donné Spy × Family, lancé en 2019 sur le Shōnen Jump+.",
+    "source": "D'après Wikipédia — Tatsuya Endō"
+  },
+  {
+    "id": "q-manga-137",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quelle série de 1979, signée Yoshiyuki Tomino, a lancé le genre du « robot réaliste » ?",
+    "choix": [
+      "Mobile Suit Gundam",
+      "Space Runaway Ideon",
+      "Brave Raideen",
+      "Zambot 3"
+    ],
+    "bonneReponse": 0,
+    "explication": "Avec Mobile Suit Gundam, Tomino veut des robots plus crédibles, nés d'engins de chantier spatiaux devenus des armes. La série est écourtée à 43 épisodes, mais trois films en 1981 et 1982 la rendent très populaire.",
+    "source": "D'après Wikipédia — Yoshiyuki Tomino"
+  },
+  {
+    "id": "q-manga-138",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Dans quel studio Yoshiyuki Tomino a-t-il débuté en 1964, sur Astro, le petit robot ?",
+    "choix": [
+      "Mushi Production, le studio d'Osamu Tezuka",
+      "Toei Animation",
+      "Studio Ghibli",
+      "Sunrise"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tomino entre en 1964 chez Mushi Production, la société d'Osamu Tezuka. Il y dessine des storyboards et écrit des scénarios pour Astro, le petit robot, avant de devenir réalisateur puis une figure du studio Sunrise.",
+    "source": "D'après Wikipédia — Yoshiyuki Tomino"
+  },
+  {
+    "id": "q-manga-139",
+    "domain": "manga",
+    "format": "vrai-faux",
+    "affirmation": "La Rose de Versailles de Riyoko Ikeda a d'abord paru dans le Weekly Shōnen Jump.",
+    "reponse": false,
+    "explication": "Faux. La série paraît dans le magazine Margaret, un magazine shōjo, à partir de 1972. Son succès est tel que les ventes du magazine explosent, et le shōjo manga entre dans une période faste.",
+    "source": "D'après Wikipédia — Riyoko Ikeda"
+  },
+  {
+    "id": "q-manga-140",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quelle biographie a donné à Riyoko Ikeda l'idée de La Rose de Versailles ?",
+    "choix": [
+      "Marie-Antoinette, de Stefan Zweig",
+      "Napoléon, d'Emil Ludwig",
+      "Joséphine, de Jean Orieux",
+      "Louis XIV, de Voltaire"
+    ],
+    "bonneReponse": 0,
+    "explication": "Au lycée, Ikeda lit Marie-Antoinette de Stefan Zweig et décide d'en faire une œuvre, avec déjà le titre en tête. Son manga mêle la Révolution française aux codes du shōjo et rencontre un succès immédiat au Japon.",
+    "source": "D'après Wikipédia — Riyoko Ikeda"
+  },
+  {
+    "id": "q-manga-141",
+    "domain": "manga",
+    "format": "associer",
+    "question": "Associe chaque série à son auteur.",
+    "paires": [
+      {
+        "gauche": "Haikyū!!",
+        "droite": "Haruichi Furudate",
+        "explication": "Furudate a pratiqué le volley-ball au collège et au lycée."
+      },
+      {
+        "gauche": "One-Punch Man",
+        "droite": "ONE",
+        "explication": "ONE l'a lancé sur le web en 2009, avant le remake dessiné."
+      },
+      {
+        "gauche": "Vinland Saga",
+        "droite": "Makoto Yukimura",
+        "explication": "Cette saga viking commence en 2005 et dure jusqu'en 2025."
+      },
+      {
+        "gauche": "Karakuri Circus",
+        "droite": "Kazuhiro Fujita",
+        "explication": "Fujita l'a publié dans le Weekly Shōnen Sunday."
+      },
+      {
+        "gauche": "Spy × Family",
+        "droite": "Tatsuya Endō",
+        "explication": "Endō l'a lancé en 2019 dans le Shōnen Jump+."
+      }
+    ],
+    "explication": "Ces cinq mangakas ont chacun signé un grand succès du manga moderne, publié dans les magazines Jump, Sunday, Afternoon ou sur le web. Leurs séries ont presque toutes été adaptées en anime.",
+    "source": "D'après Wikipédia — Makoto Yukimura"
+  },
+  {
+    "id": "q-manga-142",
+    "domain": "manga",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Sannois en 1950 et j'ai quitté l'école après le BEPC.",
+      "En 1968, j'ai fondé une société qui distribuait des prospectus publicitaires.",
+      "Cette société est devenue DIC, un grand producteur de dessins animés.",
+      "J'ai coécrit Ulysse 31, puis Les Mystérieuses Cités d'or.",
+      "J'ai participé à la création d'Inspecteur Gadget."
+    ],
+    "reponse": "Jean Chalopin",
+    "explication": "Jean Chalopin a fait de DIC un géant du dessin animé : Ulysse 31 et Les Mystérieuses Cités d'or, puis Inspecteur Gadget en 1983. Il produisait ses séries avec des studios japonais, d'où des coproductions franco-japonaises.",
+    "source": "D'après Wikipédia — Jean Chalopin (réalisateur)"
+  },
+  {
+    "id": "q-manga-143",
+    "domain": "manga",
+    "format": "frise",
+    "question": "Remets ces séries de Kazuhiro Fujita dans l'ordre de leur début.",
+    "evenements": [
+      {
+        "label": "Ushio et Tora",
+        "annee": "1990"
+      },
+      {
+        "label": "Karakuri Circus",
+        "annee": "1997"
+      },
+      {
+        "label": "Moonlight Act",
+        "annee": "2008"
+      },
+      {
+        "label": "Sōbōtei Kowasubeshi",
+        "annee": "2016"
+      },
+      {
+        "label": "Silver Mountain",
+        "annee": "2025"
+      }
+    ],
+    "explication": "Fujita a débuté en 1989 dans le Weekly Shōnen Sunday. Ushio et Tora puis Karakuri Circus l'ont rendu célèbre ; il a enchaîné avec Moonlight Act, Sōbōtei Kowasubeshi et, en 2025, Silver Mountain.",
+    "source": "D'après Wikipédia — Kazuhiro Fujita"
+  },
+  {
+    "id": "q-manga-144",
+    "domain": "manga",
+    "format": "difference",
+    "question": "Quelle est la différence entre ONE et Yusuke Murata pour One-Punch Man ?",
+    "choix": [
+      "ONE a créé le webmanga d'origine, Murata dessine le remake",
+      "Murata a créé l'histoire, ONE dessine le remake",
+      "Les deux dessinent des chapitres différents du même manga",
+      "ONE écrit pour le Jump, Murata publie seulement sur le web"
+    ],
+    "bonneReponse": 0,
+    "explication": "ONE, autodidacte, a lancé One-Punch Man sur le web en 2009 avec un dessin simple. Séduit, Yusuke Murata a proposé un remake dessiné avec son style ultra détaillé, publié à partir de 2012 : les deux versions existent.",
+    "source": "D'après Wikipédia — ONE (mangaka)"
+  },
+  {
+    "id": "q-manga-145",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quel dessin animé de son enfance a donné à Makoto Yukimura le goût des Vikings ?",
+    "choix": [
+      "Vicky le Viking",
+      "Ulysse 31",
+      "Les Mystérieuses Cités d'or",
+      "Albator"
+    ],
+    "bonneReponse": 0,
+    "explication": "Yukimura a été fasciné par les Vikings en regardant Vicky le Viking, enfant. Il en a tiré Vinland Saga, lancé en 2005, qui lui a valu le grand prix du Japan Media Arts Festival 2009 puis le prix Kōdansha en 2012.",
+    "source": "D'après Wikipédia — Makoto Yukimura"
+  },
+  {
+    "id": "q-manga-146",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Pour quel jeu vidéo Yusuke Murata a-t-il imaginé des ennemis dès l'âge de 12 ans ?",
+    "choix": [
+      "Mega Man",
+      "Sonic",
+      "Metroid",
+      "Castlevania"
+    ],
+    "bonneReponse": 0,
+    "explication": "À 12 ans, Murata a gagné deux fois un concours pour dessiner des méchants de Mega Man. Dust Man, de Mega Man 4, et Crystal Man, de Mega Man 5, viennent de ses croquis. Il est ensuite devenu mangaka.",
+    "source": "D'après Wikipédia — Yusuke Murata"
+  },
+  {
+    "id": "q-manga-147",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quel mangaka a dessiné Candy Candy d'après le scénario de Kyōko Mizuki ?",
+    "choix": [
+      "Yumiko Igarashi",
+      "Riyoko Ikeda",
+      "Waki Yamato",
+      "Naoko Takeuchi"
+    ],
+    "bonneReponse": 0,
+    "explication": "Candy Candy est né de la rencontre entre Kyōko Mizuki, qui l'écrit, et Yumiko Igarashi, qui le dessine. Publié dans Nakayoshi à partir de 1975, il reçoit le prix Kōdansha du shōjo en 1977.",
+    "source": "D'après Wikipédia — Yumiko Igarashi"
+  },
+  {
+    "id": "q-manga-148",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quel one-shot de Tatsuki Fujimoto, publié en 2021, s'inspire librement de ses débuts de mangaka ?",
+    "choix": [
+      "Look Back",
+      "Adieu Eri",
+      "Fire Punch",
+      "Just Listen to the Song"
+    ],
+    "bonneReponse": 0,
+    "explication": "Look Back est paru sur le Shōnen Jump+ le 19 juillet 2021. Fujimoto s'est inspiré de ses débuts pour l'écrire. Il est arrivé en tête d'un grand classement japonais, Kono Manga wo Yome !, parmi les lecteurs masculins.",
+    "source": "D'après Wikipédia — Tatsuki Fujimoto"
+  },
+  {
+    "id": "q-manga-149",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "D'où vient le nom du studio Ufotable ?",
+    "choix": [
+      "D'un vrai meuble, une « table OVNI » rapportée d'Europe du Nord",
+      "D'un film de science-fiction des années 1970",
+      "D'une mascotte en forme de soucoupe volante",
+      "D'une pièce de théâtre sur les extraterrestres"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le fondateur Hikaru Kondō avait craqué pour un meuble appelé « UFO Table » et avait réussi à l'obtenir d'un propriétaire d'Europe du Nord. Le studio a aussi une mascotte, « ufo-kun », qui apparaît dans le jingle de ses films.",
+    "source": "D'après Wikipédia — Ufotable"
+  },
+  {
+    "id": "q-manga-150",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Pourquoi le studio Bones s'appelle-t-il « os » en anglais ?",
+    "choix": [
+      "Il comptait huit personnes à sa création, comme un squelette à étoffer",
+      "Son logo représente un squelette de dinosaure",
+      "Son fondateur était un ancien médecin",
+      "Il a débuté avec une série sur les fossiles"
+    ],
+    "bonneReponse": 0,
+    "explication": "Masahiko Minami a comparé son équipe de départ, huit personnes, à des os auxquels il fallait ajouter de la chair en travaillant dur. Le nom évoque aussi une chanson populaire japonaise dont le titre signifie « T'aimer jusqu'aux os ».",
+    "source": "D'après Wikipédia — Bones (studio)"
+  },
+  {
+    "id": "q-manga-151",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Que signifient les lettres I et G de Production I.G ?",
+    "choix": [
+      "Les initiales de ses deux fondateurs, Ishikawa et Gotō",
+      "Image Group",
+      "Imagination Générale",
+      "Les deux premières lettres d'« Ishin Gakuen »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nom a été choisi par Takayuki Gotō : le I vient d'Ishikawa, le chef de la production, et le G de Gotō lui-même, à la tête du studio d'animation. Au départ, le studio s'appelait I.G Tatsunoko, avec le nom de son studio parent.",
+    "source": "D'après Wikipédia — Production I.G"
+  },
+  {
+    "id": "q-manga-152",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "D'où vient le nom du studio Pierrot ?",
+    "choix": [
+      "Du clown de la commedia dell'arte, via le mot japonais « piero »",
+      "D'un célèbre mime japonais",
+      "D'une chanson d'enfants",
+      "D'un jeu de cartes populaire au Japon"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot japonais « piero » signifie clown et dérive du français Pierrot, personnage de la commedia dell'arte. Son fondateur, Yūji Nunokawa, aurait aussi pensé à une troupe de cirque qui l'avait marqué dans son enfance.",
+    "source": "D'après Wikipédia — Pierrot (studio)"
+  },
+  {
+    "id": "q-manga-153",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quel film de Production I.G les Wachowski ont-ils montré au producteur de Matrix pour expliquer ce qu'ils voulaient faire ?",
+    "choix": [
+      "Ghost in the Shell",
+      "Blood: The Last Vampire",
+      "Jin-Roh, la brigade des loups",
+      "Patlabor 2"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour présenter le projet de Matrix à Joel Silver, les Wachowski ont projeté Ghost in the Shell et dit vouloir réaliser un film du même genre. Le film de Mamoru Oshii est sorti en 1995 et a été numéro un des ventes de vidéo aux États-Unis en 1996.",
+    "source": "D'après Wikipédia — Production I.G"
+  },
+  {
+    "id": "q-manga-154",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quel studio a produit les quatre longs métrages du réalisateur Satoshi Kon ?",
+    "choix": [
+      "Madhouse",
+      "Gainax",
+      "Pierrot",
+      "Sunrise"
+    ],
+    "bonneReponse": 0,
+    "explication": "Perfect Blue, Millennium Actress, Tokyo Godfathers et Paprika ont tous été produits par Madhouse, tout comme sa série Paranoia Agent. Kon fait partie des réalisateurs d'auteur recrutés par le studio dans les années 1990.",
+    "source": "D'après Wikipédia — Madhouse (studio)"
+  },
+  {
+    "id": "q-manga-155",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Dans le dialecte dont est tiré le nom de Gainax, que signifie « gaina » ?",
+    "choix": [
+      "Énorme ou superbe",
+      "Petit et rapide",
+      "Lumière",
+      "Rêveur"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nom Gainax vient d'un dialecte local de l'ouest du Japon, le unpaku, où « gaina » veut dire énorme ou superbe. La raison de l'ajout du x final reste inconnue, d'après les sources consultées.",
+    "source": "D'après Wikipédia — Gainax"
+  },
+  {
+    "id": "q-manga-156",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "Quel groupe a racheté le studio Sunrise en 1994 ?",
+    "choix": [
+      "Bandai, le fabricant de jouets",
+      "Sony",
+      "Toei",
+      "Namco"
+    ],
+    "bonneReponse": 0,
+    "explication": "Bandai, entreprise de jouets, a acheté Sunrise en 1994. Le studio avait été fondé sur une idée proche : faire des séries de robots dont on pourrait vendre les jouets. En 2005, Bandai a fusionné avec Namco pour former un groupe unique.",
+    "source": "D'après Wikipédia — Sunrise (studio)"
+  },
+  {
+    "id": "q-manga-157",
+    "domain": "manga",
+    "format": "qcm",
+    "question": "À quelle histoire biblique le nom de David Production fait-il référence ?",
+    "choix": [
+      "David et Goliath",
+      "Noé et le Déluge",
+      "Adam et Ève",
+      "Moïse et la mer Rouge"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ce choix rappelle qu'un studio plus petit que ses grands concurrents peut créer de la belle animation, portée par de bons personnages. Le nom est aussi un acronyme : Design Audio & Visual Illusion Dynamics.",
+    "source": "D'après Wikipédia — David Production"
+  },
+  {
+    "id": "q-manga-158",
+    "domain": "manga",
+    "format": "vrai-faux",
+    "affirmation": "CloverWorks est né d'une division du studio A-1 Pictures.",
+    "reponse": true,
+    "explication": "CloverWorks s'appelait Kōenji Studio, une division d'A-1 Pictures, rebaptisée en avril 2018. Le 1er octobre de la même année, il devient une filiale à part entière d'Aniplex, comme A-1 Pictures, avec Akira Shimizu à sa tête.",
+    "source": "D'après Wikipédia — CloverWorks"
+  },
+  {
+    "id": "q-manga-159",
+    "domain": "manga",
+    "format": "vrai-faux",
+    "affirmation": "Le studio OLM a pris son nom d'un grand studio japonais de mangas.",
+    "reponse": false,
+    "explication": "OLM signifie Oriental Light and Magic, un clin d'œil au studio américain d'effets spéciaux Industrial Light & Magic. Fondé en 1994, le studio est surtout connu pour avoir animé la série Pokémon à partir de 1997.",
+    "source": "D'après Wikipédia — OLM (studio)"
+  },
+  {
+    "id": "q-manga-160",
+    "domain": "manga",
+    "format": "vrai-faux",
+    "affirmation": "Le film Demon Slayer : Le Train de l'infini est le premier film non hollywoodien arrivé en tête du box-office mondial annuel.",
+    "reponse": true,
+    "explication": "Sorti en 2020, ce film d'Ufotable a atteint cette première place, une performance inédite pour une production hors d'Hollywood. En 2025, La Forteresse infinie a ensuite dépassé son record au box-office.",
+    "source": "D'après Wikipédia — Ufotable"
+  },
+  {
+    "id": "q-manga-161",
+    "domain": "manga",
+    "format": "associer",
+    "question": "Associe chaque studio à l'une de ses œuvres.",
+    "paires": [
+      {
+        "gauche": "Wit Studio",
+        "droite": "L'Attaque des Titans",
+        "explication": "Wit Studio, fondé par des producteurs de Production I.G, a animé les trois premières saisons de cette série mondiale."
+      },
+      {
+        "gauche": "Bones",
+        "droite": "Fullmetal Alchemist",
+        "explication": "Bones a adapté ce manga d'alchimie une première fois, puis une seconde avec la version Brotherhood."
+      },
+      {
+        "gauche": "Madhouse",
+        "droite": "Death Note",
+        "explication": "Madhouse a animé ce thriller psychologique, et aussi Monster, Paprika ou Hunter × Hunter."
+      },
+      {
+        "gauche": "Ufotable",
+        "droite": "Demon Slayer",
+        "explication": "Ufotable a animé cette série, puis ses films, avec des combats spectaculaires, très remarqués."
+      },
+      {
+        "gauche": "Pierrot",
+        "droite": "Naruto",
+        "explication": "Pierrot a animé ce manga de ninjas, et aussi Bleach, Yū Yū Hakusho ou Tokyo Ghoul."
+      }
+    ],
+    "explication": "Chaque studio est lié à des séries emblématiques : Wit Studio aux Titans, Bones à Fullmetal Alchemist, Madhouse à Death Note, Ufotable à Demon Slayer et Pierrot à Naruto, mais aussi à Bleach.",
+    "source": "D'après Wikipédia — Wit Studio"
+  },
+  {
+    "id": "q-manga-162",
+    "domain": "manga",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né de jeunes étudiants d'Osaka passionnés de science-fiction.",
+      "Mon nom vient d'un dialecte où « gaina » signifie énorme.",
+      "J'ai réalisé les courts métrages Daicon III et Daicon IV.",
+      "Hideaki Anno est l'un de mes fondateurs.",
+      "J'ai produit Neon Genesis Evangelion et je n'existe plus depuis 2024."
+    ],
+    "reponse": "Gainax",
+    "explication": "Gainax est fondé en décembre 1984 par la bande qui avait réalisé les courts métrages Daicon. Il a produit Evangelion en 1995, puis Gurren Lagann, avant de déposer le bilan en mai 2024 et de cesser son activité.",
+    "source": "D'après Wikipédia — Gainax"
+  },
+  {
+    "id": "q-manga-163",
+    "domain": "manga",
+    "format": "frise",
+    "question": "Remets ces studios dans l'ordre de leur fondation.",
+    "evenements": [
+      {
+        "label": "Pierrot",
+        "annee": "1979"
+      },
+      {
+        "label": "Gainax",
+        "annee": "1984"
+      },
+      {
+        "label": "Bones",
+        "annee": "1998"
+      },
+      {
+        "label": "Wit Studio",
+        "annee": "2012"
+      },
+      {
+        "label": "CloverWorks",
+        "annee": "2018"
+      }
+    ],
+    "explication": "Pierrot naît en 1979, Gainax en 1984, Bones en 1998, Wit Studio en 2012 et CloverWorks en 2018. Bones et Wit ont été fondés par d'anciens de Sunrise et de Production I.G, deux autres grands studios.",
+    "source": "D'après Wikipédia — Pierrot (studio)"
+  },
+  {
+    "id": "q-manga-164",
+    "domain": "manga",
+    "format": "difference",
+    "question": "Quelle est la différence entre Wit Studio et Production I.G ?",
+    "choix": [
+      "Wit Studio, créé en 2012 par des producteurs d'I.G, est une filiale du même groupe, IG Port",
+      "Wit Studio fait des films, Production I.G uniquement des séries",
+      "Production I.G est une filiale de Wit Studio",
+      "Les deux studios sont la même société sous deux noms"
+    ],
+    "bonneReponse": 0,
+    "explication": "Production I.G est le studio d'origine. Wit Studio a été créé en juin 2012 par George Wada et Tetsuya Nakatake, des producteurs d'I.G, et appartient au groupe IG Port, qui possède aussi Production I.G.",
+    "source": "D'après Wikipédia — Wit Studio"
+  },
+  {
+    "id": "q-manga-165",
+    "domain": "manga",
+    "format": "difference",
+    "question": "Quelle est la différence entre A-1 Pictures et CloverWorks ?",
+    "choix": [
+      "CloverWorks est né en 2018 d'une division d'A-1 Pictures, puis s'en est séparé",
+      "A-1 Pictures est le studio de Sony, CloverWorks celui de Bandai",
+      "CloverWorks est plus ancien qu'A-1 Pictures",
+      "CloverWorks ne produit que des films"
+    ],
+    "bonneReponse": 0,
+    "explication": "A-1 Pictures a été fondé par Aniplex, la branche anime de Sony Music Japan. Sa division Kōenji Studio est devenue CloverWorks en avril 2018 puis s'est séparée en octobre, mais les deux restent filiales d'Aniplex.",
+    "source": "D'après Wikipédia — CloverWorks"
   }
 ]

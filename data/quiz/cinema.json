@@ -1660,5 +1660,456 @@
     "bonneReponse": 0,
     "explication": "Comme le film ne quitte jamais le canot, Hitchcock apparaît dans une publicité de journal lue par un personnage. Ses caméos, au nombre de quarante et un, sont devenus sa signature.",
     "source": "D'après Wikipédia — Les Naufragés (film, 1944)"
+  },
+  {
+    "id": "q-cinema-105",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel premier long métrage de George Lucas la Warner a-t-elle jugé impossible à vendre, en 1970 ?",
+    "choix": [
+      "THX 1138",
+      "American Graffiti",
+      "Star Wars",
+      "Indiana Jones"
+    ],
+    "bonneReponse": 0,
+    "explication": "THX 1138, adapté du court métrage d'étudiant de Lucas, déçoit les dirigeants de la Warner, qui exigent d'être remboursés. Lucas fonde alors Lucasfilm et décide de garder un contrôle total sur ses films.",
+    "source": "D'après Wikipédia — George Lucas"
+  },
+  {
+    "id": "q-cinema-106",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "En 2012, James Cameron est descendu seul au point le plus profond des océans, la fosse des Mariannes.",
+    "reponse": true,
+    "explication": "Le 26 mars 2012, Cameron a atteint le Challenger Deep à bord du sous-marin Deepsea Challenger, à 10 898 mètres de profondeur. Il a ainsi établi un record de plongée en solitaire et ramené des images et des échantillons.",
+    "source": "D'après Wikipédia — James Cameron"
+  },
+  {
+    "id": "q-cinema-107",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Pour quel film Peter Jackson a-t-il reçu l'Oscar du meilleur réalisateur ?",
+    "choix": [
+      "Le Seigneur des anneaux : Le Retour du roi",
+      "King Kong",
+      "Créatures célestes",
+      "Le Hobbit : Un voyage inattendu"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jackson décroche en 2004 la statuette de la meilleure réalisation pour ce dernier volet, qui clôt la trilogie. L'ensemble des trois films a récolté 17 Oscars, et King Kong en a gagné trois en 2006.",
+    "source": "D'après Wikipédia — Peter Jackson"
+  },
+  {
+    "id": "q-cinema-108",
+    "domain": "cinema",
+    "format": "associer",
+    "question": "Associe chaque réalisateur à l'un de ses films.",
+    "paires": [
+      {
+        "gauche": "Victor Fleming",
+        "droite": "Le Magicien d'Oz",
+        "explication": "Fleming a réalisé Le Magicien d'Oz puis Autant en emporte le vent en 1939."
+      },
+      {
+        "gauche": "Michael Curtiz",
+        "droite": "Casablanca",
+        "explication": "Curtiz a reçu l'Oscar du meilleur réalisateur pour ce film tourné avec Bogart."
+      },
+      {
+        "gauche": "Robert Zemeckis",
+        "droite": "Forrest Gump",
+        "explication": "Ce film avec Tom Hanks lui a valu l'Oscar du meilleur réalisateur."
+      },
+      {
+        "gauche": "Jean-Pierre Jeunet",
+        "droite": "Le Fabuleux Destin d'Amélie Poulain",
+        "explication": "Ce succès parisien a remporté quatre César, dont celui du meilleur film."
+      },
+      {
+        "gauche": "Gérard Oury",
+        "droite": "Le Corniaud",
+        "explication": "Cette comédie de route réunit Bourvil et Louis de Funès."
+      }
+    ],
+    "explication": "Ces cinq cinéastes ont marqué leur époque : l'âge d'or hollywoodien pour Fleming et Curtiz, le blockbuster pour Zemeckis, et la comédie ou le conte pour Jeunet et Oury.",
+    "source": "D'après Wikipédia — Victor Fleming"
+  },
+  {
+    "id": "q-cinema-109",
+    "domain": "cinema",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Paris en 1919 et j'ai d'abord été acteur, jusqu'à la Comédie-Française.",
+      "J'ai réalisé mon premier film en 1959.",
+      "Mon succès est lancé par Le crime ne paie pas, en 1962.",
+      "J'ai fait de Bourvil et de Louis de Funès un duo de comédie célèbre.",
+      "Je suis le réalisateur de La Grande Vadrouille."
+    ],
+    "reponse": "Gérard Oury",
+    "explication": "Gérard Oury a signé Le Corniaud, La Grande Vadrouille puis Les Aventures de Rabbi Jacob. Presque tous ses films, écrits par lui, sont des comédies populaires. Il a reçu un César d'honneur en 1993.",
+    "source": "D'après Wikipédia — Gérard Oury"
+  },
+  {
+    "id": "q-cinema-110",
+    "domain": "cinema",
+    "format": "frise",
+    "question": "Remets ces films de James Cameron dans l'ordre de sortie.",
+    "evenements": [
+      {
+        "label": "Terminator",
+        "annee": "1984"
+      },
+      {
+        "label": "Aliens, le retour",
+        "annee": "1986"
+      },
+      {
+        "label": "Abyss",
+        "annee": "1989"
+      },
+      {
+        "label": "Terminator 2 : Le Jugement dernier",
+        "annee": "1991"
+      },
+      {
+        "label": "Titanic",
+        "annee": "1997"
+      }
+    ],
+    "explication": "Cameron enchaîne des succès techniques : Terminator (1984), Aliens (1986), Abyss (1989), Terminator 2 (1991) puis Titanic (1997). Avatar suivra douze ans plus tard, en 2009.",
+    "source": "D'après Wikipédia — James Cameron"
+  },
+  {
+    "id": "q-cinema-111",
+    "domain": "cinema",
+    "format": "difference",
+    "question": "Quelle différence entre les effets de Roger Rabbit et ceux du Pôle express ?",
+    "choix": [
+      "Roger Rabbit insère des personnages dessinés dans des prises de vues réelles ; Le Pôle express transforme le jeu des acteurs en personnages numériques",
+      "Roger Rabbit est tourné en 3D ; Le Pôle express est un film en noir et blanc",
+      "Roger Rabbit est entièrement en images de synthèse ; Le Pôle express utilise des marionnettes",
+      "Il n'y a aucune différence, les deux films mélangent dessin et acteurs"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans Roger Rabbit, des personnages dessinés évoluent parmi des acteurs filmés. Dans Le Pôle express (2004), Zemeckis utilise la performance capture : les mouvements des acteurs sont enregistrés puis transformés en personnages numériques.",
+    "source": "D'après Wikipédia — Robert Zemeckis"
+  },
+  {
+    "id": "q-cinema-112",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Avec quel dessinateur Jean-Pierre Jeunet a-t-il réalisé ses premiers films, dont Delicatessen ?",
+    "choix": [
+      "Marc Caro",
+      "Luc Besson",
+      "Jean-Jacques Beineix",
+      "Moebius"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jeunet et Marc Caro se rencontrent au festival d'Annecy et signent des courts métrages d'animation, puis Delicatessen (1991) et La Cité des enfants perdus (1995). Ils se séparent quand Jeunet part réaliser Alien, la résurrection.",
+    "source": "D'après Wikipédia — Jean-Pierre Jeunet"
+  },
+  {
+    "id": "q-cinema-113",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Jean-Pierre Jeunet a réalisé Alien, la résurrection avant son premier long métrage, Delicatessen.",
+    "reponse": false,
+    "explication": "C'est l'inverse : Delicatessen date de 1991, La Cité des enfants perdus de 1995, et Alien, la résurrection de 1997. Ce film reste jusqu'ici le seul long métrage américain de Jeunet.",
+    "source": "D'après Wikipédia — Jean-Pierre Jeunet"
+  },
+  {
+    "id": "q-cinema-114",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film de Toledano et Nakache s'inspire de leurs souvenirs d'animateurs de colonies de vacances ?",
+    "choix": [
+      "Nos jours heureux",
+      "Samba",
+      "Hors normes",
+      "Le Sens de la fête"
+    ],
+    "bonneReponse": 0,
+    "explication": "Nos jours heureux (2006) est tiré d'un court métrage de 2002, Ces jours heureux. Le duo y raconte ses années de pensionnaires, d'animateurs et de directeurs de colonies, et le film attire plus d'un million de spectateurs.",
+    "source": "D'après Wikipédia — Olivier Nakache"
+  },
+  {
+    "id": "q-cinema-115",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film de Jean-Marie Poiré a été vendu avec un slogan comparant son coût à celui du Débarquement ?",
+    "choix": [
+      "Papy fait de la résistance",
+      "Le père Noël est une ordure",
+      "Les Visiteurs",
+      "Les Anges gardiens"
+    ],
+    "bonneReponse": 0,
+    "explication": "Papy fait de la résistance (1983) est adapté d'une pièce de Christian Clavier et Martin Lamotte. Il dispose d'un gros budget et d'une distribution prestigieuse, ce que sa publicité souligne avec humour.",
+    "source": "D'après Wikipédia — Jean-Marie Poiré"
+  },
+  {
+    "id": "q-cinema-116",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Avec quel film les Wachowski ont-elles fait leurs débuts de réalisatrices, en 1996 ?",
+    "choix": [
+      "Bound",
+      "Matrix",
+      "Speed Racer",
+      "Cloud Atlas"
+    ],
+    "bonneReponse": 0,
+    "explication": "Bound est un polar à huis clos très stylisé, tourné avant Matrix. Il a convaincu Warner de leur confier ensuite Matrix, qui a rencontré un énorme succès en 1999 et leur a valu un Saturn Award de la meilleure réalisation.",
+    "source": "D'après Wikipédia — Lana et Lilly Wachowski"
+  },
+  {
+    "id": "q-cinema-117",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel studio fait venir Michael Curtiz à Hollywood en 1926 ?",
+    "choix": [
+      "Warner Bros.",
+      "MGM",
+      "Paramount",
+      "Universal"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les frères Warner remarquent son péplum The Moon of Israel, tourné à Vienne, et lui proposent un contrat. Curtiz a alors 39 ans et déjà 64 films à son actif. Il réalisera 102 films à Hollywood, surtout pour la Warner.",
+    "source": "D'après Wikipédia — Michael Curtiz"
+  },
+  {
+    "id": "q-cinema-118",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel célèbre cinéaste a produit les deux premiers longs métrages de Robert Zemeckis ?",
+    "choix": [
+      "Steven Spielberg",
+      "George Lucas",
+      "Francis Ford Coppola",
+      "Martin Scorsese"
+    ],
+    "bonneReponse": 0,
+    "explication": "Impressionné par le film d'étudiant A Field of Honor, Spielberg produit Crazy Day (1978) et La Grosse Magouille (1980). Ces deux films, bien reçus par la critique, échouent pourtant au box-office.",
+    "source": "D'après Wikipédia — Robert Zemeckis"
+  },
+  {
+    "id": "q-cinema-119",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Où est né le réalisateur Frank Darabont, de parents hongrois ?",
+    "choix": [
+      "Dans un camp de réfugiés à Montbéliard, en France",
+      "À Budapest, en Hongrie",
+      "À Chicago, aux États-Unis",
+      "À Los Angeles, en Californie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ses parents avaient fui la Hongrie après la révolution de 1956. Darabont naît en 1959 dans un camp de réfugiés de Montbéliard, puis la famille émigre aux États-Unis : Chicago d'abord, Los Angeles quand il a cinq ans.",
+    "source": "D'après Wikipédia — Frank Darabont"
+  },
+  {
+    "id": "q-cinema-120",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel écrivain a confié à Frank Darabont les droits de la nouvelle dont est tiré Les Évadés, après avoir vu son court métrage ?",
+    "choix": [
+      "Stephen King",
+      "Thomas Harris",
+      "Michael Crichton",
+      "Dean Koontz"
+    ],
+    "bonneReponse": 0,
+    "explication": "Darabont adapte d'abord une nouvelle de Stephen King en court métrage, en 1983. Impressionné, l'écrivain lui accorde, sur une poignée de main, les droits de Rita Hayworth et la Rédemption de Shawshank, devenue Les Évadés.",
+    "source": "D'après Wikipédia — Frank Darabont"
+  },
+  {
+    "id": "q-cinema-121",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Le Silence des agneaux, de Jonathan Demme, est l'un des trois seuls films à avoir remporté les cinq Oscars principaux : film, réalisateur, acteur, actrice et scénario.",
+    "reponse": true,
+    "explication": "En 1992, le film de Demme rejoint deux autres grands classiques de ce club très fermé. Il récompense aussi Anthony Hopkins, Jodie Foster et le scénario adapté. Depuis, aucun film n'a refait ce grand chelem.",
+    "source": "D'après Wikipédia — Jonathan Demme"
+  },
+  {
+    "id": "q-cinema-122",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel groupe de rock Jonathan Demme a-t-il filmé en concert dans Stop Making Sense, sorti en 1984 ?",
+    "choix": [
+      "Talking Heads",
+      "New Order",
+      "R.E.M.",
+      "The Police"
+    ],
+    "bonneReponse": 0,
+    "explication": "Demme filme les Talking Heads sur la scène du Pantages Theatre de Hollywood, en décembre 1983. Le film remporte le prix du meilleur documentaire des critiques américains. New Order, lui, a tourné avec Demme un clip en 1985.",
+    "source": "D'après Wikipédia — Jonathan Demme"
+  },
+  {
+    "id": "q-cinema-123",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Qui a codirigé Le Roi lion avec Roger Allers, après son arrivée sur le projet en avril 1992 ?",
+    "choix": [
+      "Rob Minkoff",
+      "Don Hahn",
+      "Gary Trousdale",
+      "Kirk Wise"
+    ],
+    "bonneReponse": 0,
+    "explication": "Rob Minkoff devient codirecteur le 1er avril 1992, quand le film s'appelle encore King of the Jungle. Selon lui, il a mis en scène « Le Cercle de la vie » pendant qu'Allers dirigeait la séquence de « Je voudrais déjà être roi ».",
+    "source": "D'après Wikipédia — Rob Minkoff"
+  },
+  {
+    "id": "q-cinema-124",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Dans L'Illusionniste de Sylvain Chomet, quel cinéaste a écrit le scénario resté inachevé à l'origine du film ?",
+    "choix": [
+      "Jacques Tati",
+      "Jacques Prévert",
+      "François Truffaut",
+      "Charlie Chaplin"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tati avait écrit ce scénario en 1956, comme une lettre à sa fille aînée, avec Henri Marquet. Chomet l'adapte en animation et met en scène une version dessinée de Tati. Le film obtient le premier César du film d'animation, en 2011.",
+    "source": "D'après Wikipédia — Sylvain Chomet"
+  },
+  {
+    "id": "q-cinema-125",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "La Bergère et le Ramoneur, sorti en 1953, est la version que Paul Grimault et Jacques Prévert avaient voulue de leur film.",
+    "reponse": false,
+    "explication": "Le producteur André Sarrut a sorti le film en bâclant la fin, contre l'avis de Grimault et de Prévert, qui l'ont renié. Grimault a ensuite récupéré le négatif et refait le film à sa façon : ce fut Le Roi et l'Oiseau, en 1980.",
+    "source": "D'après Wikipédia — Paul Grimault"
+  },
+  {
+    "id": "q-cinema-126",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Dans quel pays d'Afrique Michel Ocelot, créateur de Kirikou, a-t-il passé son enfance ?",
+    "choix": [
+      "En Guinée",
+      "Au Sénégal",
+      "Au Mali",
+      "En Côte d'Ivoire"
+    ],
+    "bonneReponse": 0,
+    "explication": "Né à Villefranche-sur-Mer, Ocelot grandit à Conakry, en Guinée. Il revient en France à l'adolescence, après l'indépendance du pays en 1958. Cette enfance explique son goût pour les cultures d'Afrique de l'Ouest dans Kirikou.",
+    "source": "D'après Wikipédia — Michel Ocelot"
+  },
+  {
+    "id": "q-cinema-127",
+    "domain": "cinema",
+    "format": "associer",
+    "question": "Associe chaque réalisateur à l'un de ses films.",
+    "paires": [
+      {
+        "gauche": "Frank Darabont",
+        "droite": "The Mist",
+        "explication": "Adaptation d'une histoire de Stephen King : des habitants piégés dans un supermarché par une brume."
+      },
+      {
+        "gauche": "Rob Minkoff",
+        "droite": "Stuart Little",
+        "explication": "Comédie familiale où une petite souris numérique est adoptée par une famille de New York."
+      },
+      {
+        "gauche": "Marjane Satrapi",
+        "droite": "Radioactive",
+        "explication": "Biographie de la savante Marie Curie, double lauréate du prix Nobel, adaptée d'un livre."
+      },
+      {
+        "gauche": "Michel Ocelot",
+        "droite": "Dilili à Paris",
+        "explication": "Film d'animation qui suit une petite fille dans le Paris de la Belle Époque, couronné d'un César."
+      },
+      {
+        "gauche": "Jonathan Demme",
+        "droite": "Philadelphia",
+        "explication": "Drame social sur le sida, qui a valu à Tom Hanks son premier Oscar du meilleur acteur."
+      }
+    ],
+    "explication": "Ces cinq cinéastes ont signé des films très différents, de l'horreur à la biographie, de l'animation au drame social. Les relier à leurs films aide à mieux situer leurs univers respectifs.",
+    "source": "D'après Wikipédia — Marjane Satrapi"
+  },
+  {
+    "id": "q-cinema-128",
+    "domain": "cinema",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né en 1970 à La Rochelle.",
+      "J'ai commencé par un fanzine et une revue, Ferraille, avec mon ami Cizo.",
+      "En bande dessinée, je signe d'un pseudonyme qui sonne comme un mot allemand.",
+      "Mon album Pinocchio a reçu le Fauve d'or à Angoulême.",
+      "J'ai codirigé Persepolis avec Marjane Satrapi."
+    ],
+    "reponse": "Vincent Paronnaud",
+    "explication": "Vincent Paronnaud, alias Winshluss, mêle humour noir et récits sombres en bande dessinée. Il a codirigé Persepolis et Poulet aux prunes avec Marjane Satrapi, et son Pinocchio a reçu le Fauve d'or d'Angoulême.",
+    "source": "D'après Wikipédia — Winshluss"
+  },
+  {
+    "id": "q-cinema-129",
+    "domain": "cinema",
+    "format": "frise",
+    "question": "Remets ces films de Rob Minkoff dans l'ordre de sortie.",
+    "evenements": [
+      {
+        "label": "Le Roi lion",
+        "annee": "1994"
+      },
+      {
+        "label": "Stuart Little",
+        "annee": "1999"
+      },
+      {
+        "label": "Le Manoir hanté",
+        "annee": "2003"
+      },
+      {
+        "label": "Le Royaume interdit",
+        "annee": "2008"
+      },
+      {
+        "label": "M. Peabody et Sherman",
+        "annee": "2014"
+      }
+    ],
+    "explication": "Minkoff passe de l'animation traditionnelle (Le Roi lion) aux prises de vues réelles avec Stuart Little, puis revient à l'animation en images de synthèse avec M. Peabody et Sherman, produit par DreamWorks.",
+    "source": "D'après Wikipédia — Rob Minkoff"
+  },
+  {
+    "id": "q-cinema-130",
+    "domain": "cinema",
+    "format": "difference",
+    "question": "Quelle est la différence entre la bande dessinée Persepolis et le film du même nom ?",
+    "choix": [
+      "La bande dessinée (2000-2003) compte quatre tomes ; le film (2007) l'adapte en animation noir et blanc, avec Vincent Paronnaud",
+      "La bande dessinée est en couleurs et le film est en noir et blanc, sans lien avec l'histoire de l'autrice",
+      "Le film est sorti avant la bande dessinée et en est la source",
+      "La bande dessinée est signée par Vincent Paronnaud et le film par Marjane Satrapi seule"
+    ],
+    "bonneReponse": 0,
+    "explication": "Marjane Satrapi a publié Persepolis en quatre tomes chez L'Association. Elle a adapté son récit autobiographique en film avec Vincent Paronnaud : le film de 2007 garde le noir et blanc de la bande dessinée.",
+    "source": "D'après Wikipédia — Marjane Satrapi"
+  },
+  {
+    "id": "q-cinema-131",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Qui a choisi Vicky Jenson pour réaliser Shrek, alors qu'elle y travaillait comme artiste d'histoire ?",
+    "choix": [
+      "Le producteur Jeffrey Katzenberg",
+      "Le producteur Steven Spielberg",
+      "Le comédien Mike Myers",
+      "L'écrivain William Steig"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jenson était d'abord artiste d'histoire sur Shrek. Quand l'un des deux premiers réalisateurs est parti, Jeffrey Katzenberg l'a choisie pour codiriger le film avec Andrew Adamson. Elle y a gagné un Annie Award en 2001.",
+    "source": "D'après Wikipédia — Vicky Jenson"
   }
 ]

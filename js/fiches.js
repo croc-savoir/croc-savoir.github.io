@@ -104,7 +104,7 @@ const Fiches = (() => {
       d.sections.forEach(s => { h += `<h4>${escapeHTML(s.titre)}</h4>${paragraphs(s.texte)}`; });
     }
     if (d.createurs?.length) {
-      h += `<h4>Créé par</h4><ul class="createurs">${d.createurs.map(c => `<li>${ficheLink(c.nom, c.nom)}${c.role ? ` <span class="createur-role">· ${escapeHTML(c.role)}</span>` : ''}</li>`).join('')}</ul>`;
+      h += `<h4>Créé par</h4><ul class="createurs">${d.createurs.map(c => `<li>${ficheLink(c.fiche || c.nom, c.nom)}${c.role ? ` <span class="createur-role">· ${escapeHTML(c.role)}</span>` : ''}</li>`).join('')}</ul>`;
     }
     if (d.oeuvres?.length) {
       h += `<h4>Œuvres principales</h4><ul class="timeline oeuvres">${d.oeuvres.map(o => `<li>${o.annee ? `<span class="tl-year">${escapeHTML(o.annee)}</span>` : ''}${ficheLink(o.titre, o.titre)}</li>`).join('')}</ul>`;

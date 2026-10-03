@@ -1071,6 +1071,12 @@
       "anecdotes": [
         "La célèbre réplique « Je suis ton père » (1980) était tenue secrète : même l'acteur dans le costume de Vador disait une autre phrase au tournage.",
         "Le son du sabre laser mélange le bourdonnement d'un projecteur et les parasites d'une télévision."
+      ],
+      "createurs": [
+        {
+          "nom": "George Lucas",
+          "role": "Réalisateur"
+        }
       ]
     },
     "source": "D'après Wikipédia — Star Wars"
@@ -1101,6 +1107,12 @@
       "anecdotes": [
         "La tête de cheval dans le lit du producteur était une vraie tête, obtenue auprès d'une usine de nourriture pour chiens.",
         "« Je vais lui faire une offre qu'il ne pourra pas refuser » est l'une des répliques les plus citées du cinéma."
+      ],
+      "createurs": [
+        {
+          "nom": "Francis Ford Coppola",
+          "role": "Réalisateur"
+        }
       ]
     },
     "source": "D'après Wikipédia — Le Parrain (film)"
@@ -1141,6 +1153,12 @@
       "anecdotes": [
         "Le dessin de Rose a été réalisé par James Cameron lui-même.",
         "Le film dure 3 h 14, plus longtemps que le naufrage réel (environ 2 h 40)."
+      ],
+      "createurs": [
+        {
+          "nom": "James Cameron",
+          "role": "Réalisateur"
+        }
       ]
     },
     "source": "D'après Wikipédia — Titanic (film, 1997)"
@@ -1172,6 +1190,16 @@
         {
           "valeur": "~426 millions $",
           "label": "de recettes mondiales"
+        }
+      ],
+      "createurs": [
+        {
+          "nom": "Olivier Nakache",
+          "role": "Réalisateur"
+        },
+        {
+          "nom": "Éric Toledano",
+          "role": "Réalisateur"
         }
       ]
     },
@@ -1212,6 +1240,12 @@
       ],
       "anecdotes": [
         "Viggo Mortensen s'est cassé deux orteils en donnant un coup de pied dans un casque d'orque ; son cri de douleur est resté dans le film."
+      ],
+      "createurs": [
+        {
+          "nom": "Peter Jackson",
+          "role": "Réalisateur"
+        }
       ]
     },
     "source": "D'après Wikipédia — Le Seigneur des anneaux (série de films)"
@@ -3506,7 +3540,13 @@
       "anecdotes": [
         "Parmi les acteurs crédités, seuls trois sont nés aux États-Unis (Bogart, Dooley Wilson et Joy Page). Le reste du casting est très international, avec des exilés ayant fui le nazisme, comme Conrad Veidt, pourtant souvent engagé à Hollywood pour jouer des nazis."
       ],
-      "wikipedia": "Casablanca (film)"
+      "wikipedia": "Casablanca (film)",
+      "createurs": [
+        {
+          "nom": "Michael Curtiz",
+          "role": "Réalisateur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Casablanca (film)"
   },
@@ -3532,7 +3572,13 @@
       "anecdotes": [
         "La première mondiale du film n'a pas lieu à Hollywood mais à Oconomowoc, dans le Wisconsin, le 12 août 1939. Hollywood n'a sa première que trois jours plus tard, le 15 août."
       ],
-      "wikipedia": "Le Magicien d'Oz (film, 1939)"
+      "wikipedia": "Le Magicien d'Oz (film, 1939)",
+      "createurs": [
+        {
+          "nom": "Victor Fleming",
+          "role": "Réalisateur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Magicien d'Oz (film, 1939)"
   },
@@ -3558,7 +3604,13 @@
       "anecdotes": [
         "En France, le film n'arrive qu'en 1950, retardé par la guerre. Il y rencontre un énorme succès : plus de 16 millions d'entrées au total, dont plus de 5 millions lors de cette première exploitation."
       ],
-      "wikipedia": "Autant en emporte le vent (film)"
+      "wikipedia": "Autant en emporte le vent (film)",
+      "createurs": [
+        {
+          "nom": "Victor Fleming",
+          "role": "Réalisateur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Autant en emporte le vent (film)"
   },
@@ -3584,7 +3636,13 @@
       "anecdotes": [
         "Hitchcock aurait donné l'ordre de racheter tous les exemplaires du roman, afin que le public n'en connaisse pas les surprises avant d'aller voir le film. En France, Psychose a d'abord été interdit aux moins de 18 ans ; il est tous publics depuis mars 2022."
       ],
-      "wikipedia": "Psychose (film)"
+      "wikipedia": "Psychose (film)",
+      "createurs": [
+        {
+          "nom": "Alfred Hitchcock",
+          "role": "Réalisateur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Psychose (film)"
   },
@@ -3610,7 +3668,13 @@
       "anecdotes": [
         "L'histoire s'inspire d'un fait réel : en 1942, un avion allié canadien est abattu au-dessus de Paris. L'un des aviateurs se pose sur les toits d'un grand magasin parisien, le Louvre, un autre place Clichy."
       ],
-      "wikipedia": "La Grande Vadrouille"
+      "wikipedia": "La Grande Vadrouille",
+      "createurs": [
+        {
+          "nom": "Gérard Oury",
+          "role": "Réalisateur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — La Grande Vadrouille"
   },
@@ -3636,7 +3700,13 @@
       "anecdotes": [
         "À l'origine, le rôle était destiné à la Britannique Emily Watson, mais elle ne parlait pas bien français et n'était pas libre à cause d'un autre tournage. Audrey Tautou est la première actrice qu'il auditionne, après l'avoir remarquée sur l'affiche d'un film de 1999."
       ],
-      "wikipedia": "Le Fabuleux Destin d'Amélie Poulain"
+      "wikipedia": "Le Fabuleux Destin d'Amélie Poulain",
+      "createurs": [
+        {
+          "nom": "Jean-Pierre Jeunet",
+          "role": "Réalisateur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Fabuleux Destin d'Amélie Poulain"
   },
@@ -3662,7 +3732,13 @@
       "anecdotes": [
         "Will Smith a refusé le rôle de Neo pour tourner Wild Wild West, sceptique sur les effets du bullet time. Il a reconnu plus tard qu'il n'était alors « pas assez mûr » comme acteur et qu'il aurait sans doute gâché le film."
       ],
-      "wikipedia": "Matrix (film)"
+      "wikipedia": "Matrix (film)",
+      "createurs": [
+        {
+          "nom": "Les Wachowski",
+          "role": "Réalisateurs"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Matrix (film)"
   },
@@ -3688,7 +3764,13 @@
       "anecdotes": [
         "Pour voyager dans le temps, la DeLorean doit atteindre 88 miles par heure, soit environ 142 km/h, et disposer de 1,21 gigawatts de puissance. Dans la version française d'origine, ce chiffre devenait « 2,21 gigowatts »."
       ],
-      "wikipedia": "Retour vers le futur"
+      "wikipedia": "Retour vers le futur",
+      "createurs": [
+        {
+          "nom": "Robert Zemeckis",
+          "role": "Réalisateur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Retour vers le futur"
   },
@@ -3714,7 +3796,13 @@
       "anecdotes": [
         "Lors de l'audition d'Henry Thomas, Spielberg lui présente un faux officiel de la NASA, chargé de lui reprendre l'extraterrestre caché chez lui. Le garçon se met à pleurer pour de vrai, et Spielberg l'engage sur-le-champ."
       ],
-      "wikipedia": "E.T., l'extra-terrestre"
+      "wikipedia": "E.T., l'extra-terrestre",
+      "createurs": [
+        {
+          "nom": "Steven Spielberg",
+          "role": "Réalisateur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — E.T., l'extra-terrestre"
   },
@@ -3740,7 +3828,13 @@
       "anecdotes": [
         "Spielberg a supervisé la post-production depuis la Pologne, où il tournait en même temps La Liste de Schindler, avec l'aide de son ami George Lucas. Il avait découvert le roman en discutant avec Crichton d'un scénario qui allait devenir la série médicale ER."
       ],
-      "wikipedia": "Jurassic Park"
+      "wikipedia": "Jurassic Park",
+      "createurs": [
+        {
+          "nom": "Steven Spielberg",
+          "role": "Réalisateur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Jurassic Park"
   },
@@ -3766,7 +3860,13 @@
       "anecdotes": [
         "Le château de Montmirail des scènes modernes est en réalité celui d'Ermenonville, dans l'Oise, alors que le château médiéval a été tourné à la Cité de Carcassonne."
       ],
-      "wikipedia": "Les Visiteurs (film, 1993)"
+      "wikipedia": "Les Visiteurs (film, 1993)",
+      "createurs": [
+        {
+          "nom": "Jean-Marie Poiré",
+          "role": "Réalisateur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Les Visiteurs (film, 1993)"
   },
@@ -3792,7 +3892,13 @@
       "anecdotes": [
         "Jules devait porter une énorme coiffure afro, mais l'assistant de Tarantino a acheté par erreur une perruque aux cheveux frisés et brillants. Tarantino était furieux, mais Samuel L. Jackson l'a convaincu de la garder."
       ],
-      "wikipedia": "Pulp Fiction"
+      "wikipedia": "Pulp Fiction",
+      "createurs": [
+        {
+          "nom": "Quentin Tarantino",
+          "role": "Réalisateur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Pulp Fiction"
   },
@@ -3818,7 +3924,13 @@
       "anecdotes": [
         "Les producteurs ont insisté pour une conclusion moins ouverte que celle prévue. C'est à regret que Darabont a filmé sa scène finale, à peine quelques semaines avant l'arrivée en salles."
       ],
-      "wikipedia": "Les Évadés (film, 1994)"
+      "wikipedia": "Les Évadés (film, 1994)",
+      "createurs": [
+        {
+          "nom": "Frank Darabont",
+          "role": "Réalisateur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Les Évadés (film, 1994)"
   },
@@ -3844,7 +3956,13 @@
       "anecdotes": [
         "Les droits du personnage d'Hannibal Lecter appartenaient au producteur Dino De Laurentiis, qui avait financé Sixième Sens (Manhunter) en 1986, d'après un premier roman de Harris. Ce film ayant été un échec, il a prêté les droits à Orion gratuitement."
       ],
-      "wikipedia": "Le Silence des agneaux (film)"
+      "wikipedia": "Le Silence des agneaux (film)",
+      "createurs": [
+        {
+          "nom": "Jonathan Demme",
+          "role": "Réalisateur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Silence des agneaux (film)"
   },
@@ -4011,7 +4129,21 @@
       "anecdotes": [
         "Les noms viennent du swahili : Simba signifie « lion », Rafiki « ami », Nala « chance » et Pumbaa « étourdi ». Quant à Hakuna Matata, la devise de Timon et Pumbaa, elle veut dire « sans souci »."
       ],
-      "wikipedia": "Le Roi lion"
+      "wikipedia": "Le Roi lion",
+      "createurs": [
+        {
+          "nom": "Roger Allers",
+          "role": "Réalisateur"
+        },
+        {
+          "nom": "Rob Minkoff",
+          "role": "Réalisateur"
+        },
+        {
+          "nom": "Walt Disney",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Roi lion"
   },
@@ -4097,7 +4229,13 @@
       "anecdotes": [
         "Dans la scène d'ouverture, un spectacle de music-hall réunit des vedettes caricaturées : Django Reinhardt gratte sa guitare avec les pieds, Fred Astaire est pris à partie par ses chaussures, et Charles Trenet dirige l'orchestre."
       ],
-      "wikipedia": "Les Triplettes de Belleville"
+      "wikipedia": "Les Triplettes de Belleville",
+      "createurs": [
+        {
+          "nom": "Sylvain Chomet",
+          "role": "Réalisateur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Les Triplettes de Belleville"
   },
@@ -4123,7 +4261,13 @@
       "anecdotes": [
         "Le film devait d'abord être fait en silhouettes noires, comme un théâtre d'ombres. Les conseillers d'Ocelot craignaient que les investisseurs refusent, il a donc opté pour des dessins colorés. Les nombreux bijoux de Karaba, eux, viennent de cette première version."
       ],
-      "wikipedia": "Kirikou et la Sorcière"
+      "wikipedia": "Kirikou et la Sorcière",
+      "createurs": [
+        {
+          "nom": "Michel Ocelot",
+          "role": "Réalisateur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Kirikou et la Sorcière"
   },
@@ -4149,7 +4293,13 @@
       "anecdotes": [
         "La version de 1980 réutilise 42 minutes de la version de 1953, complétées par de nouvelles images. La différence se voit dans la fosse aux lions, dessinés dans deux styles : les plus simples sont les plus récents."
       ],
-      "wikipedia": "Le Roi et l'Oiseau"
+      "wikipedia": "Le Roi et l'Oiseau",
+      "createurs": [
+        {
+          "nom": "Paul Grimault",
+          "role": "Réalisateur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Roi et l'Oiseau"
   },
@@ -4175,7 +4325,17 @@
       "anecdotes": [
         "Pour la scène où Marjane écoute du Iron Maiden, le groupe réclamait trop d'argent pour 20 secondes de musique. Le compositeur Olivier Bernet a donc écrit un morceau dans le style du groupe de metal."
       ],
-      "wikipedia": "Persepolis (film)"
+      "wikipedia": "Persepolis (film)",
+      "createurs": [
+        {
+          "nom": "Marjane Satrapi",
+          "role": "Réalisatrice"
+        },
+        {
+          "nom": "Vincent Paronnaud",
+          "role": "Réalisateur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Persepolis (film)"
   },
@@ -4201,7 +4361,17 @@
       "anecdotes": [
         "Au départ, c'est le comédien Chris Farley qui prêtait sa voix à Shrek. Il est mort en 1997 avant d'avoir fini. Mike Myers l'a remplacé et a donné à l'ogre son accent écossais."
       ],
-      "wikipedia": "Shrek (film)"
+      "wikipedia": "Shrek (film)",
+      "createurs": [
+        {
+          "nom": "Andrew Adamson",
+          "role": "Réalisateur"
+        },
+        {
+          "nom": "Vicky Jenson",
+          "role": "Réalisatrice"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Shrek (film)"
   },

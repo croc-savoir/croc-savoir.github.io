@@ -323,6 +323,12 @@
       ],
       "anecdotes": [
         "L'idée des Titans lui serait venue en travaillant dans un cybercafé, où il a été agressé par un client ivre : la peur d'un humain qu'on ne peut raisonner."
+      ],
+      "oeuvres": [
+        {
+          "titre": "L'Attaque des Titans",
+          "annee": "2009"
+        }
       ]
     },
     "source": "D'après Wikipédia — Hajime Isayama"
@@ -437,7 +443,17 @@
           "texte": "One Piece détient le Guinness record de la bande dessinée la plus publiée par un seul auteur, avec plus de 500 millions d'exemplaires. L'anime dépasse les 1 100 épisodes. Une adaptation en série live par Netflix a été lancée en 2023."
         }
       ],
-      "wikipedia": "One Piece"
+      "wikipedia": "One Piece",
+      "createurs": [
+        {
+          "nom": "Eiichiro Oda",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Toei Animation",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — One Piece"
   },
@@ -474,6 +490,16 @@
       "wikipedia": "Dragon Ball",
       "anecdotes": [
         "Le Super Saiyan a les cheveux blonds en partie parce que c'était plus rapide à dessiner que des cheveux noirs à encrer, selon Toriyama."
+      ],
+      "createurs": [
+        {
+          "nom": "Akira Toriyama",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Toei Animation",
+          "role": "Studio d'animation"
+        }
       ]
     },
     "source": "D'après Wikipédia — Dragon Ball"
@@ -521,6 +547,16 @@
       ],
       "anecdotes": [
         "Pokémon vient de Pocket Monsters, « monstres de poche »."
+      ],
+      "createurs": [
+        {
+          "nom": "Satoshi Tajiri",
+          "role": "Concepteur"
+        },
+        {
+          "nom": "OLM",
+          "role": "Studio d'animation"
+        }
       ]
     },
     "source": "D'après Wikipédia — Pokémon"
@@ -729,6 +765,16 @@
       "anecdotes": [
         "La course « ninja » bras tendus en arrière est devenue un mème mondial.",
         "Naruto est aussi le nom d'un ingrédient des ramen, le narutomaki, que le héros adore."
+      ],
+      "createurs": [
+        {
+          "nom": "Masashi Kishimoto",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Pierrot",
+          "role": "Studio d'animation"
+        }
       ]
     },
     "source": "D'après Wikipédia — Naruto"
@@ -758,6 +804,12 @@
       ],
       "anecdotes": [
         "Le film se déroule en 2019 et évoque les Jeux olympiques de Tokyo de 2020 ; Tokyo a réellement obtenu les JO de 2020… repoussés à cause d'une pandémie."
+      ],
+      "createurs": [
+        {
+          "nom": "Katsuhiro Otomo",
+          "role": "Mangaka et réalisateur"
+        }
       ]
     },
     "source": "D'après Wikipédia — Akira (film d'animation)"
@@ -787,6 +839,20 @@
       ],
       "anecdotes": [
         "Le manga a été interdit dans certaines villes chinoises après que des élèves ont écrit des noms de camarades dans de faux Death Note."
+      ],
+      "createurs": [
+        {
+          "nom": "Tsugumi Ōba",
+          "role": "Scénariste"
+        },
+        {
+          "nom": "Takeshi Obata",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Madhouse",
+          "role": "Studio d'animation"
+        }
       ]
     },
     "source": "D'après Wikipédia — Death Note"
@@ -822,6 +888,16 @@
       ],
       "anecdotes": [
         "La mangaka garde son identité secrète ; elle se représente sous la forme d'un crocodile à lunettes."
+      ],
+      "createurs": [
+        {
+          "nom": "Koyoharu Gotōge",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Ufotable",
+          "role": "Studio d'animation"
+        }
       ]
     },
     "source": "D'après Wikipédia — Demon Slayer"
@@ -847,6 +923,16 @@
       ],
       "anecdotes": [
         "L'auteur a cité Bleach, Naruto et Hunter × Hunter comme influences."
+      ],
+      "createurs": [
+        {
+          "nom": "Gege Akutami",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "MAPPA",
+          "role": "Studio d'animation"
+        }
       ]
     },
     "source": "D'après Wikipédia — Jujutsu Kaisen"
@@ -873,6 +959,16 @@
       "anecdotes": [
         "En France, la série a été si populaire que les jouets à armures démontables ont été parmi les plus vendus de la fin des années 1980.",
         "Le générique français, chanté par Bernard Minet, est devenu culte."
+      ],
+      "createurs": [
+        {
+          "nom": "Masami Kurumada",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Toei Animation",
+          "role": "Studio d'animation"
+        }
       ]
     },
     "source": "D'après Wikipédia — Saint Seiya"
@@ -1234,7 +1330,17 @@
           "texte": "Le nom Naruto désigne une rondelle de surimi en spirale posée sur les ramens, le plat préféré du héros, et aussi un détroit japonais aux célèbres tourbillons. Le motif de spirale se retrouve partout dans la série."
         }
       ],
-      "wikipedia": "Masashi Kishimoto"
+      "wikipedia": "Masashi Kishimoto",
+      "oeuvres": [
+        {
+          "titre": "Naruto",
+          "annee": "1999"
+        },
+        {
+          "titre": "Samurai 8 : La Légende d’Hachimaru",
+          "annee": "2019"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Masashi Kishimoto"
   },
@@ -2031,7 +2137,21 @@
           "texte": "Refusé par le Weekly Shōnen Jump, le manga paraît chez Kōdansha. L'anime, produit par Wit Studio puis par MAPPA pour la saison finale, achevée en 2023, est l'un des plus regardés au monde. La ville natale d'Isayama, Hita, a installé des statues des héros."
         }
       ],
-      "wikipedia": "L'Attaque des Titans"
+      "wikipedia": "L'Attaque des Titans",
+      "createurs": [
+        {
+          "nom": "Hajime Isayama",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Wit Studio",
+          "role": "Studio d'animation"
+        },
+        {
+          "nom": "MAPPA",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — L'Attaque des Titans"
   },
@@ -2054,7 +2174,17 @@
           "texte": "Une première adaptation sort en 2003, alors que le manga n'est pas fini : elle invente sa propre fin. Fullmetal Alchemist: Brotherhood (2009) suit fidèlement le manga jusqu'au bout et figure régulièrement en tête des classements des meilleurs animes."
         }
       ],
-      "wikipedia": "Fullmetal Alchemist"
+      "wikipedia": "Fullmetal Alchemist",
+      "createurs": [
+        {
+          "nom": "Hiromu Arakawa",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Bones",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Fullmetal Alchemist"
   },
@@ -2077,7 +2207,17 @@
           "texte": "La série a été adaptée en 1999 puis de nouveau en 2011 par le studio Madhouse, en 148 épisodes. La version de 2011 est considérée comme l'un des meilleurs animes d'aventure."
         }
       ],
-      "wikipedia": "Hunter × Hunter"
+      "wikipedia": "Hunter × Hunter",
+      "createurs": [
+        {
+          "nom": "Yoshihiro Togashi",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Madhouse",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Hunter × Hunter"
   },
@@ -2100,7 +2240,17 @@
           "texte": "L'anime s'était arrêté en 2012 sans adapter le dernier arc. Il revient en 2022 avec Thousand-Year Blood War, qui adapte la guerre finale contre les Quincy, avec une animation saluée par les fans."
         }
       ],
-      "wikipedia": "Bleach (manga)"
+      "wikipedia": "Bleach (manga)",
+      "createurs": [
+        {
+          "nom": "Tite Kubo",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Pierrot",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Bleach (manga)"
   },
@@ -2123,7 +2273,17 @@
           "texte": "Autour de Sakuragi : Rukawa, la star froide et son rival, Akagi, le capitaine surnommé « le gorille », Miyagi, le petit meneur rapide, et Mitsui, ancien prodige revenu après avoir mal tourné."
         }
       ],
-      "wikipedia": "Slam Dunk (manga)"
+      "wikipedia": "Slam Dunk (manga)",
+      "createurs": [
+        {
+          "nom": "Takehiko Inoue",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Toei Animation",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Slam Dunk (manga)"
   },
@@ -2146,7 +2306,17 @@
           "texte": "Sailor Mercury, Mars, Jupiter, Venus, puis Uranus, Neptune, Pluto et Saturn : chaque guerrière porte le nom d'un astre et possède son pouvoir. Le manga est publié dans Nakayoshi, magazine de shōjo, ce qui en fait un succès aussi bien chez les filles que chez les garçons."
         }
       ],
-      "wikipedia": "Sailor Moon"
+      "wikipedia": "Sailor Moon",
+      "createurs": [
+        {
+          "nom": "Naoko Takeuchi",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Toei Animation",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Sailor Moon"
   },
@@ -2169,7 +2339,17 @@
           "texte": "Le réalisateur Hideaki Anno sortait d'une longue dépression quand il a conçu la série, et y a mis ses propres angoisses. Il a ensuite réalisé une nouvelle version en quatre films, conclue en 2021, et Shin Godzilla (2016)."
         }
       ],
-      "wikipedia": "Neon Genesis Evangelion"
+      "wikipedia": "Neon Genesis Evangelion",
+      "createurs": [
+        {
+          "nom": "Hideaki Anno",
+          "role": "Réalisateur"
+        },
+        {
+          "nom": "Gainax",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Neon Genesis Evangelion"
   },
@@ -2192,7 +2372,17 @@
           "texte": "Diffusée aux États-Unis en 2001, la série a fait découvrir l'animation japonaise pour adultes à beaucoup d'Occidentaux. Netflix en a tiré une adaptation avec de vrais acteurs en 2021, arrêtée après une seule saison."
         }
       ],
-      "wikipedia": "Cowboy Bebop"
+      "wikipedia": "Cowboy Bebop",
+      "createurs": [
+        {
+          "nom": "Shin'ichirō Watanabe",
+          "role": "Réalisateur"
+        },
+        {
+          "nom": "Sunrise",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Cowboy Bebop"
   },
@@ -2215,7 +2405,17 @@
           "texte": "En 2017, Hollywood en tire un film avec Scarlett Johansson. Le choix d'une actrice américaine pour un personnage japonais a déclenché une polémique, et le film a été un échec commercial."
         }
       ],
-      "wikipedia": "Ghost in the Shell"
+      "wikipedia": "Ghost in the Shell",
+      "createurs": [
+        {
+          "nom": "Masamune Shirow",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Production I.G",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Ghost in the Shell"
   },
@@ -2238,7 +2438,13 @@
           "texte": "Kentaro Miura meurt en 2021, à 54 ans, sans avoir achevé son œuvre. Son ami d'enfance, le mangaka Kōji Mori, qui connaissait la fin prévue, poursuit la série avec les assistants de Miura depuis 2022."
         }
       ],
-      "wikipedia": "Berserk"
+      "wikipedia": "Berserk",
+      "createurs": [
+        {
+          "nom": "Kentarō Miura",
+          "role": "Mangaka"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Berserk"
   },
@@ -2261,7 +2467,17 @@
           "texte": "Le studio Madhouse en a tiré en 2004 un anime de 74 épisodes, très fidèle au manga, régulièrement cité parmi les meilleurs thrillers animés."
         }
       ],
-      "wikipedia": "Monster (manga)"
+      "wikipedia": "Monster (manga)",
+      "createurs": [
+        {
+          "nom": "Naoki Urasawa",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Madhouse",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Monster (manga)"
   },
@@ -2287,7 +2503,17 @@
       "anecdotes": [
         "Araki est célèbre au Japon pour son apparence qui semble ne pas vieillir, ce qui alimente de nombreuses blagues chez les fans."
       ],
-      "wikipedia": "JoJo's Bizarre Adventure"
+      "wikipedia": "JoJo's Bizarre Adventure",
+      "createurs": [
+        {
+          "nom": "Hirohiko Araki",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "David Production",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — JoJo's Bizarre Adventure"
   },
@@ -2310,7 +2536,17 @@
           "texte": "Le manga s'est achevé en août 2024 après dix ans de publication dans le Weekly Shōnen Jump. Son adaptation animée, lancée en 2016, compte plusieurs saisons et films."
         }
       ],
-      "wikipedia": "My Hero Academia"
+      "wikipedia": "My Hero Academia",
+      "createurs": [
+        {
+          "nom": "Kōhei Horikoshi",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Bones",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — My Hero Academia"
   },
@@ -2333,7 +2569,17 @@
           "texte": "Tatsuki Fujimoto est aussi l'auteur de Fire Punch et de Look Back, histoire courte sur deux jeunes dessinatrices adaptée en film en 2024. L'anime de Chainsaw Man est produit par le studio MAPPA depuis 2022."
         }
       ],
-      "wikipedia": "Chainsaw Man"
+      "wikipedia": "Chainsaw Man",
+      "createurs": [
+        {
+          "nom": "Tatsuki Fujimoto",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "MAPPA",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Chainsaw Man"
   },
@@ -2356,7 +2602,21 @@
           "texte": "Le manga est publié en ligne sur Shōnen Jump+, l'application de l'éditeur Shūeisha. L'anime, lancé en 2022, a fait de Spy × Family l'un des plus grands succès de ces dernières années."
         }
       ],
-      "wikipedia": "Spy × Family"
+      "wikipedia": "Spy × Family",
+      "createurs": [
+        {
+          "nom": "Tatsuya Endō",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Wit Studio",
+          "role": "Studio d'animation"
+        },
+        {
+          "nom": "CloverWorks",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Spy × Family"
   },
@@ -2382,7 +2642,17 @@
       "anecdotes": [
         "Le générique français, « Goldorak, go ! », chanté par Noam, est l'un des plus connus de la télévision française."
       ],
-      "wikipedia": "Goldorak"
+      "wikipedia": "Goldorak",
+      "createurs": [
+        {
+          "nom": "Gō Nagai",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Toei Animation",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Goldorak"
   },
@@ -2405,7 +2675,17 @@
           "texte": "Les maquettes de Gundam à assembler, les « Gunpla », se vendent par centaines de millions depuis 1980. Une statue grandeur nature de près de 20 mètres se dresse à Odaiba, à Tokyo."
         }
       ],
-      "wikipedia": "Gundam"
+      "wikipedia": "Gundam",
+      "createurs": [
+        {
+          "nom": "Yoshiyuki Tomino",
+          "role": "Réalisateur"
+        },
+        {
+          "nom": "Sunrise",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Gundam"
   },
@@ -2428,7 +2708,13 @@
           "texte": "Le cinéaste Jacques Demy en tire un film avec de vrais acteurs en 1979, tourné en anglais. L'anime, diffusé en France sous le titre Lady Oscar, fait découvrir la Révolution à de nombreux enfants. Riyoko Ikeda a reçu la Légion d'honneur en 2009."
         }
       ],
-      "wikipedia": "La Rose de Versailles"
+      "wikipedia": "La Rose de Versailles",
+      "createurs": [
+        {
+          "nom": "Riyoko Ikeda",
+          "role": "Mangaka"
+        }
+      ]
     },
     "source": "D'après Wikipédia — La Rose de Versailles"
   },
@@ -2451,7 +2737,21 @@
           "texte": "Dans les années 1990, un conflit juridique oppose la scénariste Kyōko Mizuki à la dessinatrice Yumiko Igarashi sur les droits de l'œuvre. Depuis, le manga et l'anime ne sont presque plus réédités ni rediffusés."
         }
       ],
-      "wikipedia": "Candy Candy"
+      "wikipedia": "Candy Candy",
+      "createurs": [
+        {
+          "nom": "Kyōko Mizuki",
+          "role": "Scénariste"
+        },
+        {
+          "nom": "Yumiko Igarashi",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Toei Animation",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Candy Candy"
   },
@@ -2474,7 +2774,13 @@
           "texte": "La série est produite par le studio français DIC et le studio japonais Pierrot, avec la NHK. Une suite a été produite en France à partir de 2012, trente ans après la série originale."
         }
       ],
-      "wikipedia": "Les Mystérieuses Cités d'or (série télévisée d'animation, 1982)"
+      "wikipedia": "Les Mystérieuses Cités d'or (série télévisée d'animation, 1982)",
+      "createurs": [
+        {
+          "nom": "Jean Chalopin",
+          "role": "Créateur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Les Mystérieuses Cités d'or (série télévisée d'animation, 1982)"
   },
@@ -2497,7 +2803,17 @@
           "texte": "Le film de 2024 qui adapte le match tant attendu contre le lycée rival de Nekoma, a été l'un des plus grands succès du box-office japonais de l'année."
         }
       ],
-      "wikipedia": "Haikyū!!"
+      "wikipedia": "Haikyū!!",
+      "createurs": [
+        {
+          "nom": "Haruichi Furudate",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Production I.G",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Haikyū!!"
   },
@@ -2520,7 +2836,21 @@
           "texte": "Le manga a reçu le prix Manga Taishō en 2021. L'anime du studio Madhouse, lancé en 2023, a pris la première place du classement des animes du site de fans MyAnimeList."
         }
       ],
-      "wikipedia": "Frieren"
+      "wikipedia": "Frieren",
+      "createurs": [
+        {
+          "nom": "Kanehito Yamada",
+          "role": "Scénariste"
+        },
+        {
+          "nom": "Tsukasa Abe",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Madhouse",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Frieren"
   },
@@ -2543,7 +2873,17 @@
           "texte": "ONE publie d'abord One-Punch Man en 2009 sur Internet, avec un dessin très simple. Le dessinateur Yusuke Murata le redessine à partir de 2012 avec un talent spectaculaire. L'anime de 2015, du studio Madhouse, en fait un phénomène mondial."
         }
       ],
-      "wikipedia": "One Punch Man"
+      "wikipedia": "One Punch Man",
+      "createurs": [
+        {
+          "nom": "ONE",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Yusuke Murata",
+          "role": "Dessinateur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — One Punch Man"
   },
@@ -2566,7 +2906,17 @@
           "texte": "Le Vinland correspond à une partie de l'Amérique du Nord, atteinte par les Vikings vers l'an 1000, cinq siècles avant Christophe Colomb. Des personnages réels apparaissent dans le manga, comme le roi Knut le Grand et l'explorateur Leif Erikson."
         }
       ],
-      "wikipedia": "Vinland Saga"
+      "wikipedia": "Vinland Saga",
+      "createurs": [
+        {
+          "nom": "Makoto Yukimura",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Wit Studio",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Vinland Saga"
   },
@@ -2592,7 +2942,17 @@
       "anecdotes": [
         "Le nom Totoro vient de la façon dont la petite Mei prononce le mot « troll » (tororu en japonais)."
       ],
-      "wikipedia": "Mon voisin Totoro"
+      "wikipedia": "Mon voisin Totoro",
+      "createurs": [
+        {
+          "nom": "Hayao Miyazaki",
+          "role": "Réalisateur"
+        },
+        {
+          "nom": "Le Studio Ghibli",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Mon voisin Totoro"
   },
@@ -2618,7 +2978,17 @@
       "anecdotes": [
         "Sans-Visage, l'esprit masqué qui offre de l'or à tout le monde, est devenu l'un des personnages les plus reconnaissables de Ghibli."
       ],
-      "wikipedia": "Le Voyage de Chihiro"
+      "wikipedia": "Le Voyage de Chihiro",
+      "createurs": [
+        {
+          "nom": "Hayao Miyazaki",
+          "role": "Réalisateur"
+        },
+        {
+          "nom": "Le Studio Ghibli",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Voyage de Chihiro"
   },
@@ -2641,7 +3011,17 @@
           "texte": "Quand le distributeur américain Miramax veut raccourcir le film, le producteur de Ghibli, Toshio Suzuki, lui aurait envoyé un vrai sabre japonais avec un message : « Pas de coupure ». Le film est sorti intact."
         }
       ],
-      "wikipedia": "Princesse Mononoké"
+      "wikipedia": "Princesse Mononoké",
+      "createurs": [
+        {
+          "nom": "Hayao Miyazaki",
+          "role": "Réalisateur"
+        },
+        {
+          "nom": "Le Studio Ghibli",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Princesse Mononoké"
   },
@@ -2664,7 +3044,17 @@
           "texte": "La petite boîte métallique de bonbons aux fruits de Setsuko est devenue un symbole du film. La marque qui les fabriquait a même vendu des boîtes à l'effigie des deux enfants."
         }
       ],
-      "wikipedia": "Le Tombeau des lucioles"
+      "wikipedia": "Le Tombeau des lucioles",
+      "createurs": [
+        {
+          "nom": "Isao Takahata",
+          "role": "Réalisateur"
+        },
+        {
+          "nom": "Le Studio Ghibli",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Tombeau des lucioles"
   },
@@ -2687,7 +3077,17 @@
           "texte": "La forêt toxique purifie en réalité la terre polluée par les humains. Les Ômus, gigantesques insectes à carapace, ne sont dangereux que lorsqu'on les attaque. Ce message écologique traverse ensuite toute l'œuvre de Miyazaki."
         }
       ],
-      "wikipedia": "Nausicaä de la Vallée du Vent (film d'animation)"
+      "wikipedia": "Nausicaä de la Vallée du Vent (film d'animation)",
+      "createurs": [
+        {
+          "nom": "Hayao Miyazaki",
+          "role": "Mangaka et réalisateur"
+        },
+        {
+          "nom": "Le Studio Ghibli",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Nausicaä de la Vallée du Vent (film d'animation)"
   },
@@ -2710,7 +3110,17 @@
           "texte": "Pour dessiner la ville minière de Pazu, Miyazaki s'est rendu au pays de Galles en 1984, pendant la grande grève des mineurs britanniques. Il a été marqué par la solidarité des communautés ouvrières qui se battaient pour sauver leurs mines."
         }
       ],
-      "wikipedia": "Le Château dans le ciel"
+      "wikipedia": "Le Château dans le ciel",
+      "createurs": [
+        {
+          "nom": "Hayao Miyazaki",
+          "role": "Réalisateur"
+        },
+        {
+          "nom": "Le Studio Ghibli",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Château dans le ciel"
   },
@@ -2733,7 +3143,17 @@
           "texte": "La ville de Koriko mélange des souvenirs de Stockholm et de Visby, en Suède, avec d'autres villes européennes. Le film adapte un roman d'Eiko Kadono publié en 1985."
         }
       ],
-      "wikipedia": "Kiki la petite sorcière"
+      "wikipedia": "Kiki la petite sorcière",
+      "createurs": [
+        {
+          "nom": "Hayao Miyazaki",
+          "role": "Réalisateur"
+        },
+        {
+          "nom": "Le Studio Ghibli",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Kiki la petite sorcière"
   },
@@ -2756,7 +3176,17 @@
           "texte": "Au Japon, le film sort sans bande-annonce ni résumé, avec une seule affiche : un pari inédit. Il remporte en 2024 l'Oscar du meilleur film d'animation, le deuxième de Miyazaki après Le Voyage de Chihiro."
         }
       ],
-      "wikipedia": "Le Garçon et le Héron"
+      "wikipedia": "Le Garçon et le Héron",
+      "createurs": [
+        {
+          "nom": "Hayao Miyazaki",
+          "role": "Réalisateur"
+        },
+        {
+          "nom": "Le Studio Ghibli",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Garçon et le Héron"
   },
@@ -2779,7 +3209,17 @@
           "texte": "Les chansons du groupe de rock RADWIMPS rythment le film. Les décors, d'un réalisme éblouissant, ont provoqué des pèlerinages de fans vers les lieux réels qui les ont inspirés, comme un escalier du quartier de Yotsuya, à Tokyo."
         }
       ],
-      "wikipedia": "Your Name."
+      "wikipedia": "Your Name.",
+      "createurs": [
+        {
+          "nom": "Makoto Shinkai",
+          "role": "Réalisateur"
+        },
+        {
+          "nom": "CoMix Wave Films",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Your Name."
   },
@@ -3596,7 +4036,17 @@
           "texte": "Le studio A-1 Pictures adapte la série en deux saisons de 25 épisodes, diffusées de 2012 à 2014. Le succès fait naître Magi: Adventure of Sinbad, une préquelle sur la jeunesse du roi aventurier, écrite par Ohtaka et dessinée par son ancien assistant Yoshifumi Ōtera. En 2014, Magi reçoit le prix Shōgakukan dans la catégorie shōnen."
         }
       ],
-      "wikipedia": "Magi (manga)"
+      "wikipedia": "Magi (manga)",
+      "createurs": [
+        {
+          "nom": "Shinobu Ohtaka",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "A-1 Pictures",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Magi (manga)"
   },
@@ -3622,7 +4072,13 @@
       "anecdotes": [
         "Le manga a été porté au cinéma en 1987 par Nobuhiko Obayashi, puis librement adapté à la télévision japonaise en 2002 sous le titre Long Love Letter."
       ],
-      "wikipedia": "L'École emportée"
+      "wikipedia": "L'École emportée",
+      "createurs": [
+        {
+          "nom": "Kazuo Umezu",
+          "role": "Mangaka"
+        }
+      ]
     },
     "source": "D'après Wikipédia — L'École emportée"
   },
@@ -3648,7 +4104,17 @@
       "anecdotes": [
         "En France, Delcourt a abandonné la série après 21 tomes faute de ventes : il a fallu attendre la réédition de Meian, à partir de 2022, pour lire la fin."
       ],
-      "wikipedia": "Karakuri Circus"
+      "wikipedia": "Karakuri Circus",
+      "createurs": [
+        {
+          "nom": "Kazuhiro Fujita",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Studio VOLN",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Karakuri Circus"
   },
@@ -3674,7 +4140,17 @@
       "anecdotes": [
         "Le manga a remporté le prix Shōgakukan du meilleur shōnen en 2023."
       ],
-      "wikipedia": "Call of the Night"
+      "wikipedia": "Call of the Night",
+      "createurs": [
+        {
+          "nom": "Kotoyama",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "Liden Films",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Call of the Night"
   },
@@ -3700,7 +4176,17 @@
       "anecdotes": [
         "L'anime a été élu meilleure comédie aux Crunchyroll Anime Awards de 2022."
       ],
-      "wikipedia": "Komi cherche ses mots"
+      "wikipedia": "Komi cherche ses mots",
+      "createurs": [
+        {
+          "nom": "Tomohito Oda",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "OLM",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Komi cherche ses mots"
   },
@@ -3726,7 +4212,17 @@
       "anecdotes": [
         "La série animée de 1969 est la toute première de la collection qui deviendra le World Masterpiece Theater. Une nouvelle version, signée MAPPA et Tezuka Productions, est sortie en 2019."
       ],
-      "wikipedia": "Dororo (manga)"
+      "wikipedia": "Dororo (manga)",
+      "createurs": [
+        {
+          "nom": "Osamu Tezuka",
+          "role": "Mangaka"
+        },
+        {
+          "nom": "MAPPA",
+          "role": "Studio d'animation"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Dororo (manga)"
   },

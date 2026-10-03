@@ -2429,7 +2429,13 @@
       "anecdotes": [
         "Lors de la création, Beethoven, presque sourd, bat la mesure à côté du chef Umlauf, à qui l'on a demandé d'ignorer ses gestes. À la fin, Beethoven a plusieurs mesures de retard : la contralto Caroline Unger le retourne doucement pour qu'il voie le public l'acclamer."
       ],
-      "wikipedia": "Symphonie no 9 de Beethoven"
+      "wikipedia": "Symphonie no 9 de Beethoven",
+      "createurs": [
+        {
+          "nom": "Ludwig van Beethoven",
+          "role": "Compositeur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Symphonie no 9 de Beethoven"
   },
@@ -2490,7 +2496,13 @@
       "anecdotes": [
         "Rouget de Lisle n'a jamais appelé son chant La Marseillaise. Son premier titre est tout autre : un chant destiné à l'armée du Rhin. C'est la foule parisienne qui le baptise ainsi, en voyant les volontaires de Marseille l'entonner en entrant aux Tuileries le 30 juillet 1792."
       ],
-      "wikipedia": "La Marseillaise"
+      "wikipedia": "La Marseillaise",
+      "createurs": [
+        {
+          "nom": "Claude Joseph Rouget de Lisle",
+          "role": "Auteur et compositeur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — La Marseillaise"
   },
@@ -4207,7 +4219,13 @@
       "anecdotes": [
         "Pour contourner les réticences, Mercury confie une copie à l'animateur Kenny Everett en lui disant de ne surtout pas la diffuser. Everett la passe quatorze fois en un week-end."
       ],
-      "wikipedia": "Bohemian Rhapsody"
+      "wikipedia": "Bohemian Rhapsody",
+      "createurs": [
+        {
+          "nom": "Freddie Mercury",
+          "role": "Auteur et compositeur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Bohemian Rhapsody"
   },

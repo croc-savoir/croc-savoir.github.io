@@ -29,3 +29,10 @@ Longueur moyenne du résumé, longueur moyenne de `details` (JSON), pourcentage 
 
 ## Fiches modèles (style à imiter)
 À compléter à la prochaine session avec 2 ou 3 fiches choisies parmi les meilleures déjà produites (une fiche « personnage », une « classique », une « vocabulaire »), pour les donner en exemple à chaque agent.
+
+## Règle auteur ↔ œuvre (demande de l'utilisateur, à respecter dans chaque tour)
+- Chaque créateur (mangaka, réalisateur, auteur, peintre, compositeur, studio, concepteur de jeu) doit avoir au moins une œuvre dans `details.oeuvres`.
+- Chaque fiche d'œuvre doit avoir `details.createurs` : `[{nom, role}]`, avec `fiche` = titre exact de la fiche quand il diffère du nom affiché. Manga adapté en anime : mangaka ET studio d'animation ; film : réalisateur ; peinture : peintre ; roman : auteur ; jeu vidéo : studio ou concepteur.
+- Dans l'appli, le nom devient un lien dès qu'une fiche porte ce titre (et inversement pour les œuvres listées chez un créateur) : il faut donc que le titre de la fiche du créateur soit son nom usuel.
+- Priorité des premiers tours de niches : créer les fiches des créateurs déjà cités sans fiche, listés dans `tools/createurs-a-creer.txt` (à régénérer avec `node tools/createurs.js --controle`).
+- Pour chaque nouvelle œuvre : `node tools/createurs.js <domaine> --appliquer` (Wikidata, relire le résultat : Wikidata mêle producteurs et chaînes de télévision ; corriger via `tools/createurs-corrections.json`), puis `node tools/createurs.js --controle` doit ne rien signaler dans « créateurs sans œuvre » et « œuvres sans créateur ».

@@ -51,7 +51,7 @@ async function main() {
           if (!q.question) erreurs.push(`${ou} : question manquante`);
           if (!Array.isArray(q.choix) || q.choix.length < 2) erreurs.push(`${ou} : choix invalides`);
           else if (!(q.bonneReponse >= 0 && q.bonneReponse < q.choix.length)) erreurs.push(`${ou} : bonneReponse hors des choix`);
-          else if (new Set(q.choix.map(norm)).size !== q.choix.length) erreurs.push(`${ou} : deux choix identiques`);
+          else if (new Set(q.choix.map(c => norm(c) + '|' + String(c).replace(/[\p{L}\p{N}\s]/gu, ''))).size !== q.choix.length) erreurs.push(`${ou} : deux choix identiques`);
           break;
         case 'vrai-faux':
           if (!q.affirmation || typeof q.reponse !== 'boolean') erreurs.push(`${ou} : affirmation ou réponse invalide`);

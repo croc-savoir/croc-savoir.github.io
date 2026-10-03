@@ -1288,6 +1288,12 @@
       ],
       "anecdotes": [
         "Le livre a d'abord été publié aux États-Unis, en anglais et en français, avant de paraître en France en 1946."
+      ],
+      "createurs": [
+        {
+          "nom": "Antoine de Saint-Exupéry",
+          "role": "Auteur"
+        }
       ]
     },
     "source": "D'après Wikipédia — Le Petit Prince"
@@ -1318,6 +1324,12 @@
       "anecdotes": [
         "Cervantes a perdu l'usage de sa main gauche à la bataille de Lépante (1571) et a été captif cinq ans à Alger.",
         "L'adjectif « donquichottesque » désigne un idéalisme généreux mais irréaliste."
+      ],
+      "createurs": [
+        {
+          "nom": "Miguel de Cervantes",
+          "role": "Auteur"
+        }
       ]
     },
     "source": "D'après Wikipédia — Don Quichotte"
@@ -1358,6 +1370,12 @@
       "anecdotes": [
         "Le mot « odyssée » désigne aujourd'hui tout long voyage plein d'aventures.",
         "L'existence d'Homère lui-même est débattue ; les poèmes viennent d'une longue tradition orale."
+      ],
+      "createurs": [
+        {
+          "nom": "Homère",
+          "role": "Auteur"
+        }
       ]
     },
     "source": "D'après Wikipédia — Odyssée"
@@ -1388,6 +1406,12 @@
       "anecdotes": [
         "L'adjectif « orwellien » désigne une société de surveillance et de manipulation du langage.",
         "L'émission de télé-réalité Big Brother tire son nom du roman."
+      ],
+      "createurs": [
+        {
+          "nom": "George Orwell",
+          "role": "Auteur"
+        }
       ]
     },
     "source": "D'après Wikipédia — 1984 (roman)"
@@ -3707,7 +3731,13 @@
       "anecdotes": [
         "Dante n'a jamais écrit « divine » : il appelait son poème simplement Commedia. L'adjectif vient de Boccace, dans un hommage à Dante, et le titre Divina Commedia ne s'impose qu'avec l'édition vénitienne de 1555."
       ],
-      "wikipedia": "Divine Comédie"
+      "wikipedia": "Divine Comédie",
+      "createurs": [
+        {
+          "nom": "Dante Alighieri",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Divine Comédie"
   },
@@ -3733,7 +3763,13 @@
       "anecdotes": [
         "Le roman devait s'appeler Athos, Porthos et Aramis. Desnoyers, responsable du feuilleton au Siècle, y voyait une évocation des trois Parques et proposa Les Trois Mousquetaires. Dumas accepta en notant que l'absurdité du titre, puisque les héros sont quatre, servirait le succès."
       ],
-      "wikipedia": "Les Trois Mousquetaires"
+      "wikipedia": "Les Trois Mousquetaires",
+      "createurs": [
+        {
+          "nom": "Alexandre Dumas",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Les Trois Mousquetaires"
   },
@@ -3759,7 +3795,13 @@
       "anecdotes": [
         "Edmond Dantès change sans cesse d'identité : outre le comte de Monte-Cristo, il se fait passer pour l'abbé Busoni, lord Wilmore, Zaccone ou encore Simbad le Marin."
       ],
-      "wikipedia": "Le Comte de Monte-Cristo"
+      "wikipedia": "Le Comte de Monte-Cristo",
+      "createurs": [
+        {
+          "nom": "Alexandre Dumas",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Comte de Monte-Cristo"
   },
@@ -3785,7 +3827,13 @@
       "anecdotes": [
         "En 1873, pour son édition « définitive », Flaubert fait inclure le réquisitoire du procureur, la plaidoirie de son avocat et le jugement. Sous le Second Empire, la publication des procès de presse était pourtant interdite."
       ],
-      "wikipedia": "Madame Bovary"
+      "wikipedia": "Madame Bovary",
+      "createurs": [
+        {
+          "nom": "Gustave Flaubert",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Madame Bovary"
   },
@@ -3811,7 +3859,13 @@
       "anecdotes": [
         "Chaque chapitre s'ouvre sur une épigraphe, souvent inventée par Stendhal lui-même. Celle du premier livre, « La vérité, l'âpre vérité », est attribuée à Danton, mais comme la plupart des autres, elle est fictive."
       ],
-      "wikipedia": "Le Rouge et le Noir"
+      "wikipedia": "Le Rouge et le Noir",
+      "createurs": [
+        {
+          "nom": "Stendhal",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Rouge et le Noir"
   },
@@ -3837,7 +3891,13 @@
       "anecdotes": [
         "Aux obsèques de Zola, des foules d'ouvriers venues accompagner le cortège l'ont acclamé en criant « Germinal ! Germinal ! »."
       ],
-      "wikipedia": "Germinal (roman)"
+      "wikipedia": "Germinal (roman)",
+      "createurs": [
+        {
+          "nom": "Émile Zola",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Germinal (roman)"
   },
@@ -3863,7 +3923,13 @@
       "anecdotes": [
         "Après la condamnation, Victor Hugo écrit à Baudelaire que ses poèmes « rayonnent » comme des étoiles, et salue plus tard le « frisson nouveau » qu'ils apportent à la littérature."
       ],
-      "wikipedia": "Les Fleurs du mal"
+      "wikipedia": "Les Fleurs du mal",
+      "createurs": [
+        {
+          "nom": "Charles Baudelaire",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Les Fleurs du mal"
   },
@@ -3889,7 +3955,13 @@
       "anecdotes": [
         "En 1978, les biologistes Stephen Jay Gould et Richard Lewontin ont forgé l'expression « paradigme panglossien » pour critiquer l'école adaptationniste de l'évolution, en référence au Pangloss de Voltaire."
       ],
-      "wikipedia": "Candide"
+      "wikipedia": "Candide",
+      "createurs": [
+        {
+          "nom": "Voltaire",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Candide"
   },
@@ -3915,7 +3987,13 @@
       "anecdotes": [
         "Hugo écrit ce roman d'un seul élan, de septembre 1830 à janvier 1831, alors que le projet traînait depuis des années, repoussé par ses autres travaux. Le titre complet, Notre-Dame de Paris. 1482, rappelle que l'histoire se passe quelque cinq cents ans avant l'époque où il l'écrit."
       ],
-      "wikipedia": "Notre-Dame de Paris (roman)"
+      "wikipedia": "Notre-Dame de Paris (roman)",
+      "createurs": [
+        {
+          "nom": "Victor Hugo",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Notre-Dame de Paris (roman)"
   },
@@ -3941,7 +4019,13 @@
       "anecdotes": [
         "En avril 1834, Balzac rencontre Vidocq, ancien escroc devenu policier dont les mémoires sensationnelles avaient paru en 1828-1829. Il s'en inspire pour créer le personnage de Vautrin."
       ],
-      "wikipedia": "Le Père Goriot"
+      "wikipedia": "Le Père Goriot",
+      "createurs": [
+        {
+          "nom": "Honoré de Balzac",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Père Goriot"
   },
@@ -3967,7 +4051,13 @@
       "anecdotes": [
         "Avant la publication, Céline promet le prix Goncourt à l'éditeur qui le publiera. Le livre manque le Goncourt de deux voix et obtient le prix Renaudot."
       ],
-      "wikipedia": "Voyage au bout de la nuit"
+      "wikipedia": "Voyage au bout de la nuit",
+      "createurs": [
+        {
+          "nom": "Louis-Ferdinand Céline",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Voyage au bout de la nuit"
   },
@@ -3993,7 +4083,13 @@
       "anecdotes": [
         "Pour envoyer le manuscrit à son éditeur de Buenos Aires, le couple doit payer 82 pesos de port. Il n'envoie d'abord que la moitié du texte, puis vend un radiateur, un sèche-cheveux et un mixeur pour expédier l'autre moitié."
       ],
-      "wikipedia": "Cent Ans de solitude"
+      "wikipedia": "Cent Ans de solitude",
+      "createurs": [
+        {
+          "nom": "Gabriel García Márquez",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Cent Ans de solitude"
   },
@@ -4019,7 +4115,13 @@
       "anecdotes": [
         "Tolstoï s'est sans doute inspiré, pour le titre, de La Guerre et la Paix de Proudhon (1861), dont il avait rencontré l'auteur à Bruxelles sans partager ses idées. Une légende tenace prétend que le titre signifie « La Guerre et le Monde » : en russe, « paix » et « monde » sont devenus homonymes avec la réforme orthographique de 1917-1918, mais cela ne justifie pas ce sens."
       ],
-      "wikipedia": "Guerre et Paix"
+      "wikipedia": "Guerre et Paix",
+      "createurs": [
+        {
+          "nom": "Léon Tolstoï",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Guerre et Paix"
   },
@@ -4045,7 +4147,13 @@
       "anecdotes": [
         "Dostoïevski devait aussi finir Le Joueur pour un éditeur aux conditions très dures. Il est aidé par la sténographe Anna Snitkina, qui deviendra sa femme."
       ],
-      "wikipedia": "Crime et Châtiment"
+      "wikipedia": "Crime et Châtiment",
+      "createurs": [
+        {
+          "nom": "Fiodor Dostoïevski",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Crime et Châtiment"
   },
@@ -4071,7 +4179,13 @@
       "anecdotes": [
         "Le 17 novembre 1988, le manuscrit du Procès est adjugé à Londres, chez Sotheby's, pour un million de livres sterling : aucun manuscrit de la littérature allemande n'a jamais atteint un tel prix. L'institut de Marbach, en Allemagne, le rachète dès le lendemain."
       ],
-      "wikipedia": "Le Procès"
+      "wikipedia": "Le Procès",
+      "createurs": [
+        {
+          "nom": "Franz Kafka",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Procès"
   },
@@ -4097,7 +4211,13 @@
       "anecdotes": [
         "Le titre s'écrit avec un trait d'union, mais dans le texte des deux premières éditions, la baleine s'appelle « Moby Dick », sans trait d'union. Melville avait changé le titre de l'édition new-yorkaise au dernier moment."
       ],
-      "wikipedia": "Moby-Dick"
+      "wikipedia": "Moby-Dick",
+      "createurs": [
+        {
+          "nom": "Herman Melville",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Moby-Dick"
   },
@@ -4123,7 +4243,13 @@
       "anecdotes": [
         "Il existe trois versions anciennes de la pièce. Le premier quarto, de 1603, ne contient qu'un peu plus de la moitié du texte du deuxième, publié en 1604 ; il n'a été découvert qu'en 1823. Le troisième texte figure dans le Premier Folio de 1623."
       ],
-      "wikipedia": "Hamlet"
+      "wikipedia": "Hamlet",
+      "createurs": [
+        {
+          "nom": "William Shakespeare",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Hamlet"
   },
@@ -4149,7 +4275,13 @@
       "anecdotes": [
         "Dante cite déjà les familles Montecchi et Cappelletti au chant VI du Purgatoire, au XIVe siècle, mais sans aucune histoire d'amour. Et seuls les Montaigu sont de Vérone : les Capulet, eux, viennent de Crémone."
       ],
-      "wikipedia": "Roméo et Juliette"
+      "wikipedia": "Roméo et Juliette",
+      "createurs": [
+        {
+          "nom": "William Shakespeare",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Roméo et Juliette"
   },
@@ -4175,7 +4307,13 @@
       "anecdotes": [
         "Dans le roman, la créature n'a pas de nom : Frankenstein est celui du savant. L'usage a pourtant fini par donner ce nom au monstre. Quant à celui de Mary Shelley, il n'apparaît sur le livre qu'en 1821, dans la traduction française de Jules Saladin."
       ],
-      "wikipedia": "Frankenstein ou le Prométhée moderne"
+      "wikipedia": "Frankenstein ou le Prométhée moderne",
+      "createurs": [
+        {
+          "nom": "Mary Shelley",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Frankenstein ou le Prométhée moderne"
   },
@@ -4201,7 +4339,13 @@
       "anecdotes": [
         "Dans le roman, le soleil ne tue pas Dracula : il l'affaiblit seulement. L'idée du vampire détruit par la lumière vient du film Nosferatu (1922), adaptation non autorisée du livre."
       ],
-      "wikipedia": "Dracula"
+      "wikipedia": "Dracula",
+      "createurs": [
+        {
+          "nom": "Bram Stoker",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Dracula"
   },
@@ -4227,7 +4371,13 @@
       "anecdotes": [
         "Presque tous les livres de la toute première édition ont disparu : on n'en connaîtrait plus que vingt-deux. L'un d'eux a été vendu un million et demi de dollars en 1998, un record pour un livre pour enfants."
       ],
-      "wikipedia": "Les Aventures d'Alice au pays des merveilles"
+      "wikipedia": "Les Aventures d'Alice au pays des merveilles",
+      "createurs": [
+        {
+          "nom": "Lewis Carroll",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Les Aventures d'Alice au pays des merveilles"
   },
@@ -4253,7 +4403,13 @@
       "anecdotes": [
         "Son éditeur craignait que les garçons ne lisent pas un livre écrit par une femme. L'autrice a donc pris pour la publication le nom de plume « J. K. Rowling » : le « K » vient de Kathleen, le prénom de sa grand-mère."
       ],
-      "wikipedia": "Harry Potter à l'école des sorciers"
+      "wikipedia": "Harry Potter à l'école des sorciers",
+      "createurs": [
+        {
+          "nom": "J. K. Rowling",
+          "role": "Auteure"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Harry Potter à l'école des sorciers"
   },
@@ -4279,7 +4435,13 @@
       "anecdotes": [
         "Dans un état précoce de l'histoire, le héros n'est pas Frodon : Tolkien imagine d'abord Bingo, fils de Bilbon, parti pour Fondcombe avec des cousins nommés Frodo et Odo. L'Anneau, simple objet magique au départ, devient peu à peu l'Anneau unique."
       ],
-      "wikipedia": "Le Seigneur des anneaux"
+      "wikipedia": "Le Seigneur des anneaux",
+      "createurs": [
+        {
+          "nom": "J. R. R. Tolkien",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Seigneur des anneaux"
   },
@@ -4305,7 +4467,13 @@
       "anecdotes": [
         "Twain a affirmé que Tom Sawyer était le premier roman écrit à la machine à écrire. L'historien Darryl Rehr a toutefois montré que son premier texte tapé était en réalité La Vie sur le Mississippi."
       ],
-      "wikipedia": "Les Aventures de Tom Sawyer"
+      "wikipedia": "Les Aventures de Tom Sawyer",
+      "createurs": [
+        {
+          "nom": "Mark Twain",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Les Aventures de Tom Sawyer"
   },
@@ -4331,7 +4499,13 @@
       "anecdotes": [
         "Dans ce monde, Henry Ford est devenu un dieu : on dit « Notre Ford » et « Ford du Tacot ». Les croix des églises sont coupées en forme de T, en souvenir de la Ford Modèle T, dont le lancement marque l'an zéro du calendrier."
       ],
-      "wikipedia": "Le Meilleur des mondes"
+      "wikipedia": "Le Meilleur des mondes",
+      "createurs": [
+        {
+          "nom": "Aldous Huxley",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Meilleur des mondes"
   },
@@ -4357,7 +4531,13 @@
       "anecdotes": [
         "Le modèle de Santiago serait le pêcheur Gregorio Fuentes, capitaine du Pilar pendant plus de trente ans, mort en 2002 à 104 ans. Il n'aurait jamais lu le livre, et a offert le Pilar au gouvernement cubain peu avant sa mort."
       ],
-      "wikipedia": "Le Vieil Homme et la Mer"
+      "wikipedia": "Le Vieil Homme et la Mer",
+      "createurs": [
+        {
+          "nom": "Ernest Hemingway",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Vieil Homme et la Mer"
   },
@@ -4383,7 +4563,13 @@
       "anecdotes": [
         "Het Achterhuis, que l'on traduit par « l'Annexe », est le titre qu'Anne avait elle-même imaginé pour le livre qu'elle voulait écrire après la guerre. Son grand rêve était de devenir écrivain."
       ],
-      "wikipedia": "Le Journal d'Anne Frank"
+      "wikipedia": "Le Journal d'Anne Frank",
+      "createurs": [
+        {
+          "nom": "Anne Frank",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Journal d'Anne Frank"
   },
@@ -4409,7 +4595,13 @@
       "anecdotes": [
         "Malgré sa réputation scandaleuse, le livre aurait plu à des royalistes, dont la reine Marie-Antoinette. On ne l'a lu comme un pamphlet contre l'aristocratie qu'après la Révolution, avec le recul."
       ],
-      "wikipedia": "Les Liaisons dangereuses"
+      "wikipedia": "Les Liaisons dangereuses",
+      "createurs": [
+        {
+          "nom": "Pierre Choderlos de Laclos",
+          "role": "Auteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Les Liaisons dangereuses"
   },

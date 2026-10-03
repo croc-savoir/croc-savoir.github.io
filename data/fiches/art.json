@@ -1241,6 +1241,12 @@
       "anecdotes": [
         "Elle est peinte sur un panneau de bois de peuplier, pas sur toile.",
         "Elle n'a pas de sourcils visibles, peut-être effacés par des restaurations anciennes."
+      ],
+      "createurs": [
+        {
+          "nom": "Léonard de Vinci",
+          "role": "Artiste"
+        }
       ]
     },
     "source": "D'après Wikipédia — La Joconde"
@@ -1276,6 +1282,12 @@
       ],
       "anecdotes": [
         "Selon une tradition non prouvée, le modèle aurait été Simonetta Vespucci, célèbre beauté florentine."
+      ],
+      "createurs": [
+        {
+          "nom": "Sandro Botticelli",
+          "role": "Artiste"
+        }
       ]
     },
     "source": "D'après Wikipédia — La Naissance de Vénus (Botticelli)"
@@ -1311,6 +1323,12 @@
         {
           "valeur": "15",
           "label": "survivants sur environ 150"
+        }
+      ],
+      "createurs": [
+        {
+          "nom": "Théodore Géricault",
+          "role": "Artiste"
         }
       ]
     },
@@ -3544,7 +3562,13 @@
       "anecdotes": [
         "En 2024, une étude a vu dans les tourbillons du ciel les signes de vraies turbulences. En 2025, des chercheurs ont retrouvé la même signature mathématique dans un tableau de Degas, sans aucun mouvement d'air : la preuve est donc très discutée."
       ],
-      "wikipedia": "La Nuit étoilée (1889)"
+      "wikipedia": "La Nuit étoilée (1889)",
+      "createurs": [
+        {
+          "nom": "Vincent van Gogh",
+          "role": "Artiste"
+        }
+      ]
     },
     "source": "D'après Wikipédia — La Nuit étoilée (1889)"
   },
@@ -3570,7 +3594,13 @@
       "anecdotes": [
         "Le couturier Jacques Doucet l'a achetée le 12 décembre 1924, sur le conseil d'André Breton, pour 25 000 francs : Picasso fut payé en versements de 2 000 francs par mois."
       ],
-      "wikipedia": "Les Demoiselles d'Avignon"
+      "wikipedia": "Les Demoiselles d'Avignon",
+      "createurs": [
+        {
+          "nom": "Pablo Picasso",
+          "role": "Artiste"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Les Demoiselles d'Avignon"
   },
@@ -3596,7 +3626,13 @@
       "anecdotes": [
         "En 1939, la toile fut décrochée, roulée autour d'un cylindre et cachée quatre ans dans un coffre aménagé dans les grottes de Maastricht, à l'abri de la guerre."
       ],
-      "wikipedia": "La Ronde de nuit"
+      "wikipedia": "La Ronde de nuit",
+      "createurs": [
+        {
+          "nom": "Rembrandt",
+          "role": "Artiste"
+        }
+      ]
     },
     "source": "D'après Wikipédia — La Ronde de nuit"
   },
@@ -3622,7 +3658,13 @@
       "anecdotes": [
         "En 1881, des Tombe l'a payée à une vente publique deux florins et trente cents, une somme dérisoire. La toile était sale et non signée : le nettoyage a révélé la signature de Vermeer."
       ],
-      "wikipedia": "La Jeune Fille à la perle"
+      "wikipedia": "La Jeune Fille à la perle",
+      "createurs": [
+        {
+          "nom": "Johannes Vermeer",
+          "role": "Artiste"
+        }
+      ]
     },
     "source": "D'après Wikipédia — La Jeune Fille à la perle"
   },
@@ -3648,7 +3690,13 @@
       "anecdotes": [
         "Le 12 février 1994, jour de l'ouverture des Jeux olympiques de Lillehammer, des voleurs emportent la toile de la Galerie nationale d'Oslo et laissent un mot : « Merci pour la mauvaise sécurité »."
       ],
-      "wikipedia": "Le Cri"
+      "wikipedia": "Le Cri",
+      "createurs": [
+        {
+          "nom": "Edvard Munch",
+          "role": "Artiste"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Cri"
   },
@@ -3674,7 +3722,13 @@
       "anecdotes": [
         "Une histoire souvent racontée dit que, sous l'Occupation, un officier allemand, devant une photo du tableau, demanda à Picasso : « C'est vous qui avez fait ça ? » Il aurait répondu : « Non, c'est vous. »"
       ],
-      "wikipedia": "Guernica (Picasso)"
+      "wikipedia": "Guernica (Picasso)",
+      "createurs": [
+        {
+          "nom": "Pablo Picasso",
+          "role": "Artiste"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Guernica (Picasso)"
   },
@@ -3700,7 +3754,13 @@
       "anecdotes": [
         "Pendant des décennies, le tableau a été catalogué sous le titre « Impression, soleil couchant » : il n'a repris celui de « soleil levant » qu'en 1965. Une enquête du musée en 2014 a établi que c'est bien un lever de soleil."
       ],
-      "wikipedia": "Impression, soleil levant"
+      "wikipedia": "Impression, soleil levant",
+      "createurs": [
+        {
+          "nom": "Claude Monet",
+          "role": "Artiste"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Impression, soleil levant"
   },
@@ -3726,7 +3786,13 @@
       "anecdotes": [
         "La restauration de 2023-2024 a retiré huit couches de vernis et de crasse : elle a révélé de vifs nuages blancs et une botte, dans le coin inférieur gauche, qui se confondait depuis des années avec les pavés."
       ],
-      "wikipedia": "La Liberté guidant le peuple"
+      "wikipedia": "La Liberté guidant le peuple",
+      "createurs": [
+        {
+          "nom": "Eugène Delacroix",
+          "role": "Artiste"
+        }
+      ]
     },
     "source": "D'après Wikipédia — La Liberté guidant le peuple"
   },
@@ -3752,7 +3818,13 @@
       "anecdotes": [
         "Philippe IV refusait d'être peint vieillissant, mais il a fait une exception pour ce tableau. À la mort de Vélasquez, en 1660, le roi, très proche de lui, écrit en marge d'un document : « Je suis brisé »."
       ],
-      "wikipedia": "Les Ménines"
+      "wikipedia": "Les Ménines",
+      "createurs": [
+        {
+          "nom": "Diego Vélasquez",
+          "role": "Artiste"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Les Ménines"
   },
@@ -3778,7 +3850,13 @@
       "anecdotes": [
         "Klimt a mis encore un an à finir la toile après son achat : il a redessiné la pelouse fleurie et les motifs des robes, et corrigé une erreur d'anatomie, les tibias trop allongés de la femme agenouillée."
       ],
-      "wikipedia": "Le Baiser (Klimt)"
+      "wikipedia": "Le Baiser (Klimt)",
+      "createurs": [
+        {
+          "nom": "Gustav Klimt",
+          "role": "Artiste"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Baiser (Klimt)"
   },
@@ -3804,7 +3882,13 @@
       "anecdotes": [
         "Le prieur du couvent se plaignait de la lenteur de Léonard. L'artiste répondit qu'il cherchait un visage assez vil pour Judas et que, faute de mieux, il prendrait le sien."
       ],
-      "wikipedia": "La Cène (Léonard de Vinci)"
+      "wikipedia": "La Cène (Léonard de Vinci)",
+      "createurs": [
+        {
+          "nom": "Léonard de Vinci",
+          "role": "Artiste"
+        }
+      ]
     },
     "source": "D'après Wikipédia — La Cène (Léonard de Vinci)"
   },
@@ -3830,7 +3914,13 @@
       "anecdotes": [
         "En 1904, l'amateur d'art Max Linde fit couler un exemplaire pour le jardin de sa villa : Edvard Munch, l'auteur du Cri, y peignit Le Penseur de Rodin dans le jardin du docteur Linde."
       ],
-      "wikipedia": "Le Penseur"
+      "wikipedia": "Le Penseur",
+      "createurs": [
+        {
+          "nom": "Auguste Rodin",
+          "role": "Artiste"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Penseur"
   },
@@ -3856,7 +3946,13 @@
       "anecdotes": [
         "Quand la statue fut déplacée vers la place en 1504, il fallut une garde pour la protéger : des pierres furent lancées dans la nuit, et leurs marques sont encore visibles dans le haut du dos."
       ],
-      "wikipedia": "David (Michel-Ange)"
+      "wikipedia": "David (Michel-Ange)",
+      "createurs": [
+        {
+          "nom": "Michel-Ange",
+          "role": "Artiste"
+        }
+      ]
     },
     "source": "D'après Wikipédia — David (Michel-Ange)"
   },
@@ -3882,7 +3978,13 @@
       "anecdotes": [
         "Beaucoup y voient un écho de la relativité d'Einstein. Interrogé sur ce point, Dalí a répondu que ses montres venaient d'un camembert fondant au soleil. Exposé en 1932, le tableau fut vendu 250 dollars."
       ],
-      "wikipedia": "La Persistance de la mémoire"
+      "wikipedia": "La Persistance de la mémoire",
+      "createurs": [
+        {
+          "nom": "Salvador Dalí",
+          "role": "Artiste"
+        }
+      ]
     },
     "source": "D'après Wikipédia — La Persistance de la mémoire"
   },
@@ -3908,7 +4010,13 @@
       "anecdotes": [
         "Une séquence du film Ceux de chez nous (1915) a conservé l'image de Monet discutant avec Sacha Guitry, puis peignant debout, en plein air, l'une de ses plus vastes toiles sur ce thème au bord du bassin."
       ],
-      "wikipedia": "Les Nymphéas"
+      "wikipedia": "Les Nymphéas",
+      "createurs": [
+        {
+          "nom": "Claude Monet",
+          "role": "Artiste"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Les Nymphéas"
   },
@@ -3934,7 +4042,13 @@
       "anecdotes": [
         "Le tableau n'a pas trouvé preneur à ses débuts : Manet l'a gardé jusqu'en 1878, quand le chanteur d'opéra Jean-Baptiste Faure l'a acheté pour 2 600 francs. Il entre dans les collections publiques en 1906, par un don."
       ],
-      "wikipedia": "Le Déjeuner sur l'herbe"
+      "wikipedia": "Le Déjeuner sur l'herbe",
+      "createurs": [
+        {
+          "nom": "Édouard Manet",
+          "role": "Artiste"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Le Déjeuner sur l'herbe"
   },

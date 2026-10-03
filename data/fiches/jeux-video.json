@@ -326,6 +326,17 @@
       "anecdotes": [
         "Mario était d'abord charpentier, puis plombier. Il doit son nom à Mario Segale, propriétaire d'un entrepôt loué par Nintendo aux États-Unis.",
         "Le 10 mars (MAR10) est le « jour de Mario »."
+      ],
+      "createurs": [
+        {
+          "nom": "Shigeru Miyamoto",
+          "role": "Concepteur"
+        },
+        {
+          "nom": "Nintendo",
+          "role": "Studio",
+          "fiche": "Nintendo, de la carte à jouer à la Switch"
+        }
       ]
     },
     "source": "D'après Wikipédia — Mario (personnage)"
@@ -364,6 +375,17 @@
       "anecdotes": [
         "Beaucoup de joueurs croient que Zelda est le héros : c'est en fait la princesse. Le héros s'appelle Link.",
         "Le nom Zelda vient de Zelda Fitzgerald, femme de l'écrivain F. Scott Fitzgerald."
+      ],
+      "createurs": [
+        {
+          "nom": "Shigeru Miyamoto",
+          "role": "Concepteur"
+        },
+        {
+          "nom": "Nintendo",
+          "role": "Studio",
+          "fiche": "Nintendo, de la carte à jouer à la Switch"
+        }
       ]
     },
     "source": "D'après Wikipédia — The Legend of Zelda"
@@ -407,6 +429,16 @@
       ],
       "anecdotes": [
         "Reporters sans frontières a créé dans Minecraft une bibliothèque contenant des articles censurés dans certains pays, accessible aux joueurs du monde entier."
+      ],
+      "createurs": [
+        {
+          "nom": "Markus Persson",
+          "role": "Concepteur"
+        },
+        {
+          "nom": "Mojang Studios",
+          "role": "Studio"
+        }
       ]
     },
     "source": "D'après Wikipédia — Minecraft"
@@ -448,6 +480,12 @@
       "wikipedia": "Tetris",
       "anecdotes": [
         "En 2023, un adolescent américain, Willis Gibson, a été le premier humain à « finir » Tetris sur NES en faisant planter le jeu au niveau 157."
+      ],
+      "createurs": [
+        {
+          "nom": "Alekseï Pajitnov",
+          "role": "Concepteur"
+        }
       ]
     },
     "source": "D'après Wikipédia — Tetris"
@@ -704,6 +742,16 @@
       "anecdotes": [
         "Son nom japonais vient de « paku paku », onomatopée qui évoque le fait de croquer.",
         "Pac-Man a été exposé au MoMA de New York."
+      ],
+      "createurs": [
+        {
+          "nom": "Toru Iwatani",
+          "role": "Concepteur"
+        },
+        {
+          "nom": "Namco",
+          "role": "Studio"
+        }
       ]
     },
     "source": "D'après Wikipédia — Pac-Man"
@@ -730,6 +778,16 @@
       "anecdotes": [
         "Mario et Sonic se retrouvent ensemble dans la série Mario & Sonic aux Jeux olympiques depuis 2007.",
         "Le film Sonic (2020) a dû refaire le design du personnage après un tollé des fans devant la première bande-annonce."
+      ],
+      "createurs": [
+        {
+          "nom": "Sonic Team",
+          "role": "Studio"
+        },
+        {
+          "nom": "Yūji Naka",
+          "role": "Concepteur"
+        }
       ]
     },
     "source": "D'après Wikipédia — Sonic the Hedgehog"
@@ -765,6 +823,16 @@
       ],
       "anecdotes": [
         "La sortie de GTA VI, très attendue, a été annoncée pour 2025-2026 ; sa bande-annonce a battu des records de vues sur YouTube."
+      ],
+      "createurs": [
+        {
+          "nom": "David Jones",
+          "role": "Concepteur"
+        },
+        {
+          "nom": "Rockstar North",
+          "role": "Studio"
+        }
       ]
     },
     "source": "D'après Wikipédia — Grand Theft Auto"
@@ -794,6 +862,12 @@
       ],
       "anecdotes": [
         "Chun-Li a été l'un des premiers personnages féminins jouables d'un jeu de combat."
+      ],
+      "createurs": [
+        {
+          "nom": "Capcom",
+          "role": "Studio"
+        }
       ]
     },
     "source": "D'après Wikipédia — Street Fighter II"
@@ -829,6 +903,16 @@
       ],
       "anecdotes": [
         "Retirer l'échelle de la piscine pour que les Sims ne puissent pas sortir est devenu une blague culte des joueurs."
+      ],
+      "createurs": [
+        {
+          "nom": "Will Wright",
+          "role": "Concepteur"
+        },
+        {
+          "nom": "Maxis",
+          "role": "Studio"
+        }
       ]
     },
     "source": "D'après Wikipédia — Les Sims"
@@ -858,6 +942,12 @@
       ],
       "anecdotes": [
         "En 2019, un adolescent américain de 16 ans a gagné 3 millions de dollars à la Coupe du monde de Fortnite."
+      ],
+      "createurs": [
+        {
+          "nom": "Epic Games",
+          "role": "Studio"
+        }
       ]
     },
     "source": "D'après Wikipédia — Fortnite"
@@ -1270,7 +1360,21 @@
       "anecdotes": [
         "Le nom Atari vient d'un terme du jeu de go, le jeu de plateau préféré de Nolan Bushnell."
       ],
-      "wikipedia": "Nolan Bushnell"
+      "wikipedia": "Nolan Bushnell",
+      "oeuvres": [
+        {
+          "titre": "Computer Space",
+          "annee": "1971"
+        },
+        {
+          "titre": "Pong",
+          "annee": "1972"
+        },
+        {
+          "titre": "Atari",
+          "annee": "1972"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Nolan Bushnell"
   },
@@ -2057,7 +2161,17 @@
       "anecdotes": [
         "Selon une légende tenace, le jeu aurait provoqué au Japon une pénurie de pièces de 100 yens ; elle n'a jamais été prouvée."
       ],
-      "wikipedia": "Space Invaders"
+      "wikipedia": "Space Invaders",
+      "createurs": [
+        {
+          "nom": "Tomohiro Nishikado",
+          "role": "Concepteur"
+        },
+        {
+          "nom": "Taito",
+          "role": "Studio"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Space Invaders"
   },
@@ -2083,7 +2197,17 @@
       "anecdotes": [
         "Pour animer certains monstres, les graphistes les ont sculptés en argile, puis photographiés sous plusieurs angles avant de les numériser."
       ],
-      "wikipedia": "Doom (jeu vidéo, 1993)"
+      "wikipedia": "Doom (jeu vidéo, 1993)",
+      "createurs": [
+        {
+          "nom": "id Software",
+          "role": "Studio"
+        },
+        {
+          "nom": "John Carmack",
+          "role": "Concepteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Doom (jeu vidéo, 1993)"
   },
@@ -2109,7 +2233,17 @@
       "anecdotes": [
         "En 2003, Square fusionne avec son grand rival Enix, éditeur de Dragon Quest, pour former Square Enix."
       ],
-      "wikipedia": "Final Fantasy"
+      "wikipedia": "Final Fantasy",
+      "createurs": [
+        {
+          "nom": "Hironobu Sakaguchi",
+          "role": "Concepteur"
+        },
+        {
+          "nom": "Square Enix",
+          "role": "Studio"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Final Fantasy"
   },
@@ -2132,7 +2266,17 @@
           "texte": "Au Japon, la série s'appelle Biohazard (« danger biologique »). Ce nom ne pouvait pas être utilisé aux États-Unis, car un groupe de musique s'appelait déjà Biohazard : le titre Resident Evil a donc été choisi pour l'Occident. La série a aussi inspiré six films avec Milla Jovovich et dépasse les 150 millions d'exemplaires vendus."
         }
       ],
-      "wikipedia": "Resident Evil"
+      "wikipedia": "Resident Evil",
+      "createurs": [
+        {
+          "nom": "Capcom",
+          "role": "Studio"
+        },
+        {
+          "nom": "Shinji Mikami",
+          "role": "Concepteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Resident Evil"
   },
@@ -2158,7 +2302,14 @@
       "anecdotes": [
         "Le troisième épisode, attendu depuis 2007, n'est jamais sorti et « Half-Life 3 » est devenu une blague récurrente chez les joueurs. La série est revenue en 2020 avec Half-Life: Alyx, en réalité virtuelle."
       ],
-      "wikipedia": "Half-Life (jeu vidéo)"
+      "wikipedia": "Half-Life (jeu vidéo)",
+      "createurs": [
+        {
+          "nom": "Valve",
+          "role": "Studio",
+          "fiche": "Valve et Steam"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Half-Life (jeu vidéo)"
   },
@@ -2184,7 +2335,13 @@
       "anecdotes": [
         "La vidéo « Leeroy Jenkins » (2005), où un joueur fonce seul sur les ennemis et fait échouer tout son groupe, est devenue un mème mondial. Ses auteurs ont reconnu en 2017 qu'elle avait été mise en scène."
       ],
-      "wikipedia": "World of Warcraft"
+      "wikipedia": "World of Warcraft",
+      "createurs": [
+        {
+          "nom": "Blizzard Entertainment",
+          "role": "Studio"
+        }
+      ]
     },
     "source": "D'après Wikipédia — World of Warcraft"
   },
@@ -2207,7 +2364,13 @@
           "texte": "Infinity Ward a été fondé par d'anciens développeurs de Medal of Honor : Débarquement allié, la série de guerre rivale de l'époque, que Call of Duty finit par largement dépasser. En 2023, Microsoft rachète Activision Blizzard, propriétaire de la série, pour un montant record de 68,7 milliards de dollars."
         }
       ],
-      "wikipedia": "Call of Duty"
+      "wikipedia": "Call of Duty",
+      "createurs": [
+        {
+          "nom": "Infinity Ward",
+          "role": "Studio"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Call of Duty"
   },
@@ -2230,7 +2393,14 @@
           "texte": "Dès le premier épisode, Mario Kart se joue à deux sur un écran partagé, et le mode Bataille propose de crever les ballons des adversaires dans une arène. Mario Kart Wii (2008) est vendu avec un volant en plastique dans lequel on glisse la manette. En 2019, Mario Kart Tour emmène la série sur les téléphones."
         }
       ],
-      "wikipedia": "Mario Kart"
+      "wikipedia": "Mario Kart",
+      "createurs": [
+        {
+          "nom": "Nintendo",
+          "role": "Studio",
+          "fiche": "Nintendo, de la carte à jouer à la Switch"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Mario Kart"
   },
@@ -2253,7 +2423,18 @@
           "texte": "Le tanuki Tom Nook vend sa maison au joueur, puis lui propose de l'agrandir, à condition de le rembourser. Il faut payer en clochettes, la monnaie du jeu, gagnées en vendant fruits, poissons ou coquillages. Au musée, le hibou Thibou expose les fossiles et les poissons que l'on rapporte, et le renard Rounard vend des tableaux parfois faux."
         }
       ],
-      "wikipedia": "Animal Crossing"
+      "wikipedia": "Animal Crossing",
+      "createurs": [
+        {
+          "nom": "Nintendo",
+          "role": "Studio",
+          "fiche": "Nintendo, de la carte à jouer à la Switch"
+        },
+        {
+          "nom": "Katsuya Eguchi",
+          "role": "Concepteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Animal Crossing"
   },
@@ -2279,7 +2460,14 @@
       "anecdotes": [
         "Portal 2, sorti en 2011, ajoute un mode coopératif dans lequel deux joueurs incarnent deux robots."
       ],
-      "wikipedia": "Portal (jeu vidéo)"
+      "wikipedia": "Portal (jeu vidéo)",
+      "createurs": [
+        {
+          "nom": "Valve",
+          "role": "Studio",
+          "fiche": "Valve et Steam"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Portal (jeu vidéo)"
   },
@@ -2302,7 +2490,13 @@
           "texte": "Une suite, The Last of Us Part II, sort en 2020 et retrouve Ellie cinq ans plus tard. En 2023, la chaîne HBO adapte le premier jeu en série télévisée, avec Pedro Pascal dans le rôle de Joel et Bella Ramsey dans celui d'Ellie. Le jeu original, lui, s'est vendu à 17 millions d'exemplaires en cinq ans."
         }
       ],
-      "wikipedia": "The Last of Us (jeu vidéo)"
+      "wikipedia": "The Last of Us (jeu vidéo)",
+      "createurs": [
+        {
+          "nom": "Naughty Dog",
+          "role": "Studio"
+        }
+      ]
     },
     "source": "D'après Wikipédia — The Last of Us (jeu vidéo)"
   },
@@ -2325,7 +2519,13 @@
           "texte": "Plus de huit ans de travail et tous les studios Rockstar réunis ont été nécessaires pour cette préquelle, qui se déroule en 1899. Son monde est d'un réalisme rare : faune sauvage, météo, interactions avec les passants. À sa sortie, en octobre 2018, il rapporte 725 millions de dollars en trois jours, le deuxième plus gros lancement de l'histoire du divertissement."
         }
       ],
-      "wikipedia": "Red Dead Redemption"
+      "wikipedia": "Red Dead Redemption",
+      "createurs": [
+        {
+          "nom": "Rockstar Games",
+          "role": "Studio"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Red Dead Redemption"
   },
@@ -2351,7 +2551,13 @@
       "anecdotes": [
         "En 2021, Netflix diffuse Arcane, une série d'animation tirée de l'univers du jeu et animée par le studio français Fortiche. Elle remporte quatre Emmy Awards en 2022."
       ],
-      "wikipedia": "League of Legends"
+      "wikipedia": "League of Legends",
+      "createurs": [
+        {
+          "nom": "Riot Games",
+          "role": "Studio"
+        }
+      ]
     },
     "source": "D'après Wikipédia — League of Legends"
   },
@@ -2594,7 +2800,17 @@
       "anecdotes": [
         "Aux États-Unis, la série s'est longtemps appelée Dragon Warrior, car le nom Dragon Quest appartenait déjà à un jeu de rôle sur table."
       ],
-      "wikipedia": "Dragon Quest"
+      "wikipedia": "Dragon Quest",
+      "createurs": [
+        {
+          "nom": "Yūji Horii",
+          "role": "Concepteur"
+        },
+        {
+          "nom": "Square Enix",
+          "role": "Studio"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Dragon Quest"
   },
@@ -2621,7 +2837,14 @@
           "texte": "Les villes sont reconstituées avec soin. Après l'incendie de Notre-Dame de Paris en 2019, de nombreux joueurs partagent des images de la cathédrale modélisée dans Assassin's Creed Unity (2014). Depuis Origins (2017), un mode Discovery Tour, sans combat, permet de visiter l'Égypte antique comme un musée, et des enseignants l'utilisent en classe."
         }
       ],
-      "wikipedia": "Assassin's Creed"
+      "wikipedia": "Assassin's Creed",
+      "createurs": [
+        {
+          "nom": "Ubisoft Montréal",
+          "role": "Studio",
+          "fiche": "Ubisoft"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Assassin's Creed"
   },
@@ -2644,7 +2867,13 @@
           "texte": "En 2003, alors que la série semble oubliée, Ubisoft Montréal sort Prince of Persia : Les Sables du Temps. Le prince peut y remonter le temps de quelques secondes pour corriger un saut raté. Le succès donne naissance à une trilogie, puis à un film produit par Disney en 2010, avec Jake Gyllenhaal."
         }
       ],
-      "wikipedia": "Prince of Persia"
+      "wikipedia": "Prince of Persia",
+      "createurs": [
+        {
+          "nom": "Jordan Mechner",
+          "role": "Concepteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Prince of Persia"
   },
@@ -2667,7 +2896,14 @@
           "texte": "Suivent Counter-Strike: Source (2004), Counter-Strike: Global Offensive (2012) et Counter-Strike 2 (2023). Des manches courtes, des tirs à la tête souvent mortels et des cartes connues par cœur, comme de_dust2 : c'est un jeu de précision et de tactique, au cœur de grands tournois d'esport."
         }
       ],
-      "wikipedia": "Counter-Strike"
+      "wikipedia": "Counter-Strike",
+      "createurs": [
+        {
+          "nom": "Valve",
+          "role": "Studio",
+          "fiche": "Valve et Steam"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Counter-Strike"
   },
@@ -2690,7 +2926,13 @@
           "texte": "Selon le Livre Guinness des records, il bat en un mois le record de téléchargements pour un jeu mobile, avec 130 millions. Deux mois après sa sortie, il a été téléchargé 500 millions de fois. Pour faire éclore certains œufs, il faut parcourir à pied 2, 5 ou 10 kilomètres : le jeu a fait marcher des millions de personnes."
         }
       ],
-      "wikipedia": "Pokémon Go"
+      "wikipedia": "Pokémon Go",
+      "createurs": [
+        {
+          "nom": "Niantic",
+          "role": "Studio"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Pokémon Go"
   },
@@ -2716,7 +2958,13 @@
       "anecdotes": [
         "En 2021, une croquette de poulet ressemblant à un membre d'équipage s'est vendue près de 100 000 dollars aux enchères sur eBay."
       ],
-      "wikipedia": "Among Us"
+      "wikipedia": "Among Us",
+      "createurs": [
+        {
+          "nom": "Innersloth",
+          "role": "Studio"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Among Us"
   },
@@ -2739,7 +2987,13 @@
           "texte": "Candy Crush n'a pas inventé le principe : il reprend celui de Bejeweled (2001), où l'on aligne des pierres précieuses. Sa force est d'avoir découpé l'aventure en niveaux courts, faciles à jouer n'importe où. En 2016, King est racheté par Activision Blizzard pour 5,9 milliards de dollars, lui-même racheté par Microsoft en 2023."
         }
       ],
-      "wikipedia": "Candy Crush Saga"
+      "wikipedia": "Candy Crush Saga",
+      "createurs": [
+        {
+          "nom": "King",
+          "role": "Studio"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Candy Crush Saga"
   },
@@ -2762,7 +3016,13 @@
           "texte": "Des guitaristes comme Slash, de Guns N' Roses, ou Tom Morello apparaissent dans Guitar Hero III, animés grâce à la capture de mouvement. Des épisodes entiers sont consacrés à Aerosmith ou à Metallica. Face à la baisse des ventes, Activision arrête la série en 2011, avant un bref retour avec Guitar Hero Live en 2015."
         }
       ],
-      "wikipedia": "Guitar Hero (série de jeux vidéo)"
+      "wikipedia": "Guitar Hero (série de jeux vidéo)",
+      "createurs": [
+        {
+          "nom": "Harmonix",
+          "role": "Studio"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Guitar Hero (série de jeux vidéo)"
   },
@@ -2785,7 +3045,14 @@
           "texte": "Just Dance s'adresse autant aux joueurs habitués qu'aux enfants et aux parents. Il fonctionne avec la Wiimote, la caméra Kinect de la Xbox, les Joy-Con de la Switch ou un simple smartphone. On y joue pour s'amuser, faire du sport ou même à l'école. La série s'est vendue à des dizaines de millions d'exemplaires."
         }
       ],
-      "wikipedia": "Just Dance (série de jeux vidéo)"
+      "wikipedia": "Just Dance (série de jeux vidéo)",
+      "createurs": [
+        {
+          "nom": "Ubisoft Paris",
+          "role": "Studio",
+          "fiche": "Ubisoft"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Just Dance (série de jeux vidéo)"
   },
@@ -2808,7 +3075,13 @@
           "texte": "Toby Fox a écrit, programmé et composé presque tout le jeu ; seuls certains dessins sont confiés à d'autres, notamment Temmie Chang. Avant, il était surtout connu pour la musique de la bande dessinée en ligne Homestuck. Il finance Undertale en 2013 sur Kickstarter : il demande 5 000 dollars et en obtient plus de 51 000."
         }
       ],
-      "wikipedia": "Undertale"
+      "wikipedia": "Undertale",
+      "createurs": [
+        {
+          "nom": "Toby Fox",
+          "role": "Concepteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Undertale"
   },
@@ -2831,7 +3104,13 @@
           "texte": "Hollow Knight s'inspire de Metroid et de Zelda II : on explore un immense labyrinthe, on meurt souvent, et chaque nouveau pouvoir ouvre de nouveaux chemins. Quatre extensions sont offertes gratuitement en 2017 et 2018. Sa suite, Silksong, a été attendue pendant des années par les fans."
         }
       ],
-      "wikipedia": "Hollow Knight"
+      "wikipedia": "Hollow Knight",
+      "createurs": [
+        {
+          "nom": "Team Cherry",
+          "role": "Studio"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Hollow Knight"
   },
@@ -2857,7 +3136,13 @@
       "anecdotes": [
         "Barone a choisi de ne pas permettre d'abattre les animaux de la ferme : on leur donne un nom et on prend soin d'eux."
       ],
-      "wikipedia": "Stardew Valley"
+      "wikipedia": "Stardew Valley",
+      "createurs": [
+        {
+          "nom": "Eric Barone",
+          "role": "Concepteur"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Stardew Valley"
   },
@@ -2880,7 +3165,13 @@
           "texte": "Convaincre un ennemi, le tromper, l'éviter ou le combattre au tour par tour : presque tout est possible. Les dialogues, entièrement doublés, changent selon les choix et les origines du personnage. C'est le premier jeu à remporter le prix du jeu de l'année aux cinq grandes cérémonies du jeu vidéo."
         }
       ],
-      "wikipedia": "Baldur's Gate III"
+      "wikipedia": "Baldur's Gate III",
+      "createurs": [
+        {
+          "nom": "Larian Studios",
+          "role": "Studio"
+        }
+      ]
     },
     "source": "D'après Wikipédia — Baldur's Gate III"
   },

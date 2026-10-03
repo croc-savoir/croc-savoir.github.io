@@ -1247,5 +1247,257 @@
     "bonneReponse": 0,
     "explication": "Alfred Marshall a introduit la notion d'externalité en 1890, et Arthur Pigou en a tiré la taxe corrective dans son ouvrage de 1920. Cette taxe pigouvienne fait payer au pollueur le coût que son activité impose aux autres.",
     "source": "D'après Wikipédia — Externalité"
+  },
+  {
+    "id": "q-economie-080",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel livre de Hayek, publié en 1944, soutient que l'intervention massive de l'État dans l'économie menace les libertés individuelles ?",
+    "choix": [
+      "La Route de la servitude",
+      "La Constitution de la liberté",
+      "Droit, législation et liberté",
+      "La présomption fatale"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Route de la servitude (1944) est le livre le plus lu de Hayek. Il y défend que socialiser l'économie finit par supprimer les libertés. Une version abrégée de 1945 a touché environ 600 000 lecteurs américains.",
+    "source": "D'après Wikipédia — Friedrich Hayek"
+  },
+  {
+    "id": "q-economie-081",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quelle est la thèse centrale du Capital au XXIe siècle de Thomas Piketty ?",
+    "choix": [
+      "Le rendement du capital dépasse durablement la croissance, ce qui accentue la concentration des richesses",
+      "La croissance économique réduit toujours les inégalités",
+      "Les impôts élevés freinent toujours l'activité",
+      "Le travail rapporte toujours plus que le capital"
+    ],
+    "bonneReponse": 0,
+    "explication": "Piketty s'appuie sur 250 ans de données. Quand le capital rapporte plus que la croissance de l'économie, les patrimoines hérités pèsent plus que le travail. Il propose un impôt mondial progressif, thèse discutée par d'autres économistes.",
+    "source": "D'après Wikipédia — Thomas Piketty"
+  },
+  {
+    "id": "q-economie-082",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Selon Amartya Sen, la famine du Bengale de 1943 est due à un manque global de nourriture.",
+    "reponse": false,
+    "explication": "Sen, témoin à neuf ans de cette famine, a conclu que la nourriture ne manquait pas. Des travailleurs ruraux avaient perdu leur emploi et ne pouvaient plus l'acheter : les famines naissent souvent d'inégalités d'accès.",
+    "source": "D'après Wikipédia — Amartya Sen"
+  },
+  {
+    "id": "q-economie-083",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel indice, créé en 1990, doit beaucoup à Amartya Sen et Mahbub ul Haq ?",
+    "choix": [
+      "L'indice de développement humain",
+      "L'indice de Gini",
+      "L'indice des prix à la consommation",
+      "L'indice de la Bourse de Paris"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'IDH, présenté dans le premier Rapport sur le développement humain, combine la santé (espérance de vie), l'éducation et le revenu par habitant. Il traduit l'idée de Sen que le développement ne se mesure pas au seul revenu.",
+    "source": "D'après Wikipédia — Amartya Sen"
+  },
+  {
+    "id": "q-economie-084",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel économiste imagine un « commissaire-priseur » fictif qui ajuste les prix par tâtonnement jusqu'à l'équilibre ?",
+    "choix": [
+      "Léon Walras",
+      "Alfred Marshall",
+      "Jean-Baptiste Say",
+      "Thomas Malthus"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans les Éléments d'économie politique pure, Walras suppose que les échanges ne commencent qu'après ce tâtonnement. Il en tire l'idée d'équilibre général, qui a conduit Schumpeter à le juger « le plus grand de tous les économistes ».",
+    "source": "D'après Wikipédia — Léon Walras"
+  },
+  {
+    "id": "q-economie-085",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "La règle des 80-20 s'inspire d'une observation de Pareto selon laquelle 20 % des Italiens possédaient 80 % des propriétés.",
+    "reponse": true,
+    "explication": "Pareto fait cette remarque en 1906 à propos de l'Italie. Joseph Juran l'a ensuite généralisée en « principe de Pareto ». C'est une règle empirique approximative, pas une loi exacte valable partout.",
+    "source": "D'après Wikipédia — Vilfredo Pareto"
+  },
+  {
+    "id": "q-economie-086",
+    "domain": "economie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Né à Tel Aviv en 1934, j'ai passé mon enfance à Paris.",
+      "J'étais psychologue de formation et je n'avais jamais suivi de cours d'économie.",
+      "Avec Amos Tversky, j'ai écrit en 1979 la théorie des perspectives.",
+      "J'ai reçu le prix Nobel d'économie en 2002.",
+      "Mon best-seller s'appelle Système 1, Système 2."
+    ],
+    "reponse": "Daniel Kahneman",
+    "explication": "Daniel Kahneman (1934-2024) a montré avec Tversky que nos décisions s'écartent souvent de la rationalité supposée par les économistes. Ces travaux fondent l'économie comportementale, notamment avec l'aversion à la perte.",
+    "source": "D'après Wikipédia — Daniel Kahneman"
+  },
+  {
+    "id": "q-economie-087",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "En 2009, Elinor Ostrom devient la première femme à recevoir quel prix ?",
+    "choix": [
+      "Le prix Nobel d'économie",
+      "Le prix Nobel de la paix",
+      "La médaille Fields",
+      "Le prix Nobel de chimie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ostrom a été récompensée pour son analyse de la gouvernance économique, en particulier des biens communs. Politologue de formation, elle a montré que des communautés gèrent durablement l'eau, les forêts ou les pêcheries.",
+    "source": "D'après Wikipédia — Elinor Ostrom"
+  },
+  {
+    "id": "q-economie-088",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Que dit en substance la « loi des débouchés » de Jean-Baptiste Say ?",
+    "choix": [
+      "Produire un bien ouvre des débouchés aux autres produits",
+      "C'est la demande qui crée toujours l'offre",
+      "Les crises viennent toujours d'un excès de monnaie",
+      "Les prix suivent toujours les salaires"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour Say, « les produits s'achètent avec des produits » : ce qu'on produit procure un revenu, dépensé ensuite. La formule « l'offre crée sa propre demande » est de Keynes, qui critiquait cette loi.",
+    "source": "D'après Wikipédia — Jean-Baptiste Say"
+  },
+  {
+    "id": "q-economie-089",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Selon Malthus, comment évoluent la population et les ressources s'il n'y a aucun frein ?",
+    "choix": [
+      "La population croît de façon géométrique, les ressources de façon arithmétique",
+      "La population et les ressources croissent au même rythme",
+      "Les ressources croissent plus vite que la population",
+      "La population diminue à mesure que la production augmente"
+    ],
+    "bonneReponse": 0,
+    "explication": "Malthus compare 1, 2, 4, 8, 16 pour la population à 1, 2, 3, 4, 5 pour les ressources. Il en tire le risque de famines. John Stuart Mill jugeait ces chiffres plus illustratifs que décisifs.",
+    "source": "D'après Wikipédia — Thomas Malthus"
+  },
+  {
+    "id": "q-economie-090",
+    "domain": "economie",
+    "format": "difference",
+    "question": "Quelle est la différence entre l'équilibre partiel de Marshall et l'équilibre général de Walras ?",
+    "choix": [
+      "Marshall étudie un marché à la fois, Walras tous les marchés ensemble",
+      "Marshall étudie tous les marchés, Walras un seul",
+      "Marshall raisonne sur l'État, Walras sur les ménages",
+      "Il n'y a aucune différence"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour Marshall, un marché peut être à l'équilibre sans que les autres le soient. Walras cherche au contraire des prix qui équilibrent tous les marchés à la fois. Marshall jugeait cette approche moins utile en pratique.",
+    "source": "D'après Wikipédia — Alfred Marshall"
+  },
+  {
+    "id": "q-economie-091",
+    "domain": "economie",
+    "format": "frise",
+    "question": "Remets ces ouvrages d'économie dans l'ordre de leur publication.",
+    "evenements": [
+      {
+        "label": "Malthus : Essai sur le principe de population",
+        "annee": "1798"
+      },
+      {
+        "label": "Say : Traité d'économie politique",
+        "annee": "1803"
+      },
+      {
+        "label": "Marshall : Principes d'économie politique",
+        "annee": "1890"
+      },
+      {
+        "label": "Veblen : Théorie de la classe de loisir",
+        "annee": "1899"
+      },
+      {
+        "label": "Piketty : Le Capital au XXIe siècle",
+        "annee": "2013"
+      }
+    ],
+    "explication": "Malthus ouvre la série à la fin du XVIIIe siècle, suivi de Say au début du XIXe. Marshall publie à la fin du XIXe siècle, peu avant Veblen. Le Capital au XXIe siècle de Piketty est le plus récent de la liste, devenu un succès mondial.",
+    "source": "D'après Wikipédia — Thomas Malthus"
+  },
+  {
+    "id": "q-economie-092",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quelle question pose Ronald Coase dans La Nature de l'entreprise (1937) ?",
+    "choix": [
+      "Pourquoi existe-t-il des entreprises ?",
+      "Pourquoi les prix montent-ils ?",
+      "Pourquoi les banques prêtent-elles ?",
+      "Pourquoi les salaires varient-ils ?"
+    ],
+    "bonneReponse": 0,
+    "explication": "Coase répond que passer par le marché a un coût (chercher les prix, négocier, surveiller). Une entreprise permet d'éviter une partie de ces coûts de transaction, mais elle ne peut grossir indéfiniment.",
+    "source": "D'après Wikipédia — Ronald Coase"
+  },
+  {
+    "id": "q-economie-093",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel prix Muhammad Yunus a-t-il reçu en 2006, avec la Grameen Bank ?",
+    "choix": [
+      "Le prix Nobel de la paix",
+      "Le prix Nobel d'économie",
+      "Le prix Nobel de la littérature",
+      "Le prix Nobel de médecine"
+    ],
+    "bonneReponse": 0,
+    "explication": "Yunus a eu ce Nobel pour ses efforts de développement économique et social, en partant des plus humbles. Il avait été proposé aussi pour le Nobel d'économie en 2005, mais c'est celui de la paix qu'il a obtenu.",
+    "source": "D'après Wikipédia — Muhammad Yunus"
+  },
+  {
+    "id": "q-economie-094",
+    "domain": "economie",
+    "format": "associer",
+    "question": "Associe chaque économiste à son ouvrage.",
+    "paires": [
+      {
+        "gauche": "Friedrich Hayek",
+        "droite": "La Route de la servitude",
+        "explication": "C'est le livre le plus lu de Hayek, une analyse de la menace pesant sur les libertés."
+      },
+      {
+        "gauche": "Thorstein Veblen",
+        "droite": "Théorie de la classe de loisir",
+        "explication": "Ce livre lance l'idée de consommation ostentatoire chez les plus riches."
+      },
+      {
+        "gauche": "Thomas Malthus",
+        "droite": "Essai sur le principe de population",
+        "explication": "Publié sans nom d'auteur, au départ sous forme de pamphlet philosophique."
+      },
+      {
+        "gauche": "Jean Fourastié",
+        "droite": "Les 40 000 heures",
+        "explication": "Il y décrit une vie active d'environ quarante mille heures au total."
+      }
+    ],
+    "explication": "Ces quatre ouvrages sont les plus connus de leurs auteurs. Ils couvrent plus de deux siècles de pensée économique, de la population chez Malthus aux modes de consommation chez Veblen.",
+    "source": "D'après Wikipédia — Thorstein Veblen"
+  },
+  {
+    "id": "q-economie-095",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Joan Robinson, l'une des figures de l'école de Cambridge, a reçu le prix Nobel d'économie.",
+    "reponse": false,
+    "explication": "Elle ne l'a jamais reçu, alors qu'on l'attendait largement en 1975. Elle a pourtant inventé le mot « monopsone » et animé la controverse des deux Cambridge. Deux de ses étudiants, Sen et Stiglitz, l'ont obtenu.",
+    "source": "D'après Wikipédia — Joan Robinson"
   }
 ]

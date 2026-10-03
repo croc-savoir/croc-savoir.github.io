@@ -2396,5 +2396,859 @@
       "wikipedia": "Externalité"
     },
     "source": "D'après Wikipédia — Externalité"
+  },
+  {
+    "id": "economie-077",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Friedrich Hayek",
+    "subtitle": "Économiste et philosophe austro-britannique, 1899-1992",
+    "summary": "Friedrich Hayek (1899-1992) est un économiste et philosophe autrichien, naturalisé britannique en 1938. Il compte parmi les grands penseurs du libéralisme au XXe siècle.\nIl a surtout montré que les prix transmettent de l'information à des millions de personnes qui ne se connaissent pas. Il a partagé le prix Nobel d'économie en 1974.",
+    "details": {
+      "epoque": "XXe siècle, de la Première Guerre mondiale à 1992.",
+      "pourquoiCelebre": "Il a analysé le rôle des prix comme signaux et défendu une économie de marché contre la planification.",
+      "ideesClefs": [
+        "Les prix transmettent l'information et coordonnent des millions d'acteurs sans chef d'orchestre",
+        "La Route de la servitude (1944) : l'intervention massive de l'État menacerait les libertés individuelles",
+        "Il appartient à l'école autrichienne, qui récuse la mathématisation de l'économie"
+      ],
+      "liens": [
+        {
+          "nom": "Ludwig Wittgenstein",
+          "relation": "Philosophe dont Hayek était un cousin éloigné par sa mère."
+        },
+        {
+          "nom": "John Maynard Keynes",
+          "relation": "Principal adversaire intellectuel de Hayek dans les années 1930."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Les prix, un système de signaux",
+          "texte": "Pour Hayek, aucun planificateur ne peut connaître tout ce que savent producteurs et consommateurs. Les prix remplissent ce rôle : quand un prix monte ou baisse, chacun comprend ce qui devient rare ou abondant et ajuste ses choix, sans que personne ne dirige l'ensemble. Cet « ordre spontané » est jugé par beaucoup comme sa contribution majeure à l'économie."
+        },
+        {
+          "titre": "La Route de la servitude",
+          "texte": "Publié en 1944, c'est son livre le plus lu. Hayek y soutient que socialiser l'économie et multiplier les interventions de l'État finit par supprimer les libertés individuelles. Traduit en 20 langues, il touche environ 600 000 lecteurs américains grâce à une version abrégée de 1945. Il lui vaut aussi une réputation de polémiste, et ses idées restent très discutées."
+        }
+      ],
+      "anecdotes": [
+        "À l'école, Hayek était dans les derniers de sa classe et a même eu des notes d'échec en latin, en grec et en mathématiques."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Prix et production",
+          "annee": "1931"
+        },
+        {
+          "titre": "La Route de la servitude",
+          "annee": "1944"
+        },
+        {
+          "titre": "La Constitution de la liberté",
+          "annee": "1960"
+        },
+        {
+          "titre": "Droit, législation et liberté",
+          "annee": "1973"
+        },
+        {
+          "titre": "La présomption fatale",
+          "annee": "1988"
+        }
+      ],
+      "wikipedia": "Friedrich Hayek"
+    },
+    "source": "D'après Wikipédia — Friedrich Hayek"
+  },
+  {
+    "id": "economie-078",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Thomas Piketty",
+    "subtitle": "Économiste français, né en 1971",
+    "summary": "Thomas Piketty, né en 1971 à Clichy, est un économiste français spécialiste des inégalités. Il est directeur d'études à l'EHESS et il a cofondé l'École d'économie de Paris.\nSon livre Le Capital au XXIe siècle (2013) a dépassé les 2,5 millions d'exemplaires vendus à travers la planète. Il y suit l'évolution de la répartition des richesses sur plus de deux siècles.",
+    "details": {
+      "epoque": "Depuis les années 1990.",
+      "pourquoiCelebre": "Il a mesuré sur le très long terme la concentration des richesses, grâce aux archives fiscales.",
+      "ideesClefs": [
+        "Les archives des impôts permettent de suivre les très hauts revenus sur un siècle",
+        "Le Capital au XXIe siècle (2013) : le rendement du capital dépasse durablement la croissance",
+        "Il propose un impôt progressif sur la fortune, à l'échelle mondiale"
+      ],
+      "liens": [
+        {
+          "nom": "Emmanuel Saez",
+          "relation": "Économiste avec qui il a mené de nombreux travaux sur les inégalités."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Mesurer les inégalités avec les impôts",
+          "texte": "Piketty a reconstitué des séries statistiques sur tout le XXe siècle à partir des déclarations de revenus. En France, il montre que les inégalités ont fortement baissé, surtout parce que les grands patrimoines ont fondu, après les deux guerres mondiales et avec la montée de l'impôt sur le revenu. Les pays anglo-saxons ont ensuite connu une remontée des inégalités."
+        },
+        {
+          "titre": "Le Capital au XXIe siècle",
+          "texte": "Le livre s'appuie sur 250 ans de données. Sa thèse : quand le rendement du capital dépasse durablement la croissance de l'économie, les patrimoines hérités prennent le pas sur le travail et la concentration des richesses s'accentue. Il propose un impôt mondial progressif sur le capital. Cette analyse est discutée : d'autres économistes contestent ses mesures et ses conclusions."
+        }
+      ],
+      "anecdotes": [
+        "En janvier 2015, Piketty a refusé la Légion d'honneur, estimant que ce n'était pas au gouvernement de décider qui est honorable."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Les hauts revenus en France au XXe siècle",
+          "annee": "2001"
+        },
+        {
+          "titre": "Le Capital au XXIe siècle",
+          "annee": "2013"
+        },
+        {
+          "titre": "Capital et idéologie",
+          "annee": "2019"
+        },
+        {
+          "titre": "Une brève histoire de l'égalité"
+        }
+      ],
+      "wikipedia": "Thomas Piketty"
+    },
+    "source": "D'après Wikipédia — Thomas Piketty"
+  },
+  {
+    "id": "economie-079",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Amartya Sen",
+    "subtitle": "Économiste et philosophe indien, né en 1933",
+    "summary": "Amartya Sen, né en 1933 en Inde, est un économiste et philosophe. Le prix Nobel d'économie lui a été décerné en 1998, pour ses travaux sur le bien-être des sociétés.\nPour lui, la richesse ne suffit pas à mesurer le développement : ce qui compte, c'est ce que les gens peuvent réellement faire et être. Il a inspiré l'indice de développement humain.",
+    "details": {
+      "epoque": "Depuis les années 1950.",
+      "pourquoiCelebre": "Il a replacé la liberté réelle des personnes au cœur de l'économie du développement.",
+      "ideesClefs": [
+        "Les « capabilités » : les possibilités réelles de choisir sa vie",
+        "Les famines viennent souvent d'inégalités d'accès à la nourriture, pas d'un manque de nourriture",
+        "Il a co-écrit le premier Rapport sur le développement humain (1990) à l'origine de l'IDH"
+      ],
+      "liens": [
+        {
+          "nom": "Joan Robinson",
+          "relation": "Elle a dirigé sa thèse à Cambridge."
+        },
+        {
+          "nom": "John Rawls",
+          "relation": "Philosophe de la justice avec lequel Sen a débattu."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Comprendre les famines",
+          "texte": "À neuf ans, Sen a vu la famine du Bengale de 1943, qui a fait trois millions de morts. Il en a conclu que la nourriture ne manquait pas : des travailleurs ruraux avaient perdu leur emploi et ne pouvaient plus l'acheter. Dans Poverty and Famines (1981), il montre que les famines naissent souvent de mécanismes de distribution inégalitaires."
+        },
+        {
+          "titre": "Capabilités et indice de développement humain",
+          "texte": "Avoir le droit de voter ne suffit pas, dit Sen : encore faut-il avoir été à l'école et pouvoir se rendre au bureau de vote. C'est l'idée de capabilité. Avec Mahbub ul Haq, il a rédigé en 1990 le premier Rapport sur le développement humain, qui a créé l'IDH, combinant santé, éducation et revenu par habitant."
+        }
+      ],
+      "anecdotes": [
+        "Son prénom lui a été donné par Rabindranath Tagore, le poète qui avait fondé l'université de sa ville natale. Il signifie « immortel »."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Poverty and Famines",
+          "annee": "1981"
+        },
+        {
+          "titre": "Un nouveau modèle économique",
+          "annee": "1999"
+        },
+        {
+          "titre": "L'Idée de justice",
+          "annee": "2009"
+        }
+      ],
+      "wikipedia": "Amartya Sen"
+    },
+    "source": "D'après Wikipédia — Amartya Sen"
+  },
+  {
+    "id": "economie-080",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Léon Walras",
+    "subtitle": "Économiste français, 1834-1910",
+    "summary": "Léon Walras (1834-1910) est un économiste français dont toute la carrière universitaire s'est déroulée à Lausanne, en Suisse. Ses seuls diplômes étaient deux baccalauréats.\nDans ses Éléments d'économie politique pure, il imagine un marché où tous les prix s'ajustent ensemble jusqu'à ce que l'offre rejoigne la demande. Cette idée d'équilibre général a marqué toute la science économique.",
+    "details": {
+      "epoque": "XIXe siècle, de 1834 à 1910.",
+      "pourquoiCelebre": "Il a démontré mathématiquement qu'un équilibre peut exister sur tous les marchés à la fois.",
+      "ideesClefs": [
+        "L'équilibre général : tous les marchés sont liés entre eux",
+        "Le tâtonnement : un commissaire-priseur fictif ajuste les prix par essais et erreurs",
+        "Il a contribué à mathématiser l'économie à partir de la notion de rareté"
+      ],
+      "liens": [
+        {
+          "nom": "Vilfredo Pareto",
+          "relation": "Son successeur à la chaire d'économie politique de Lausanne."
+        },
+        {
+          "nom": "Joseph Schumpeter",
+          "relation": "Il l'a qualifié de « plus grand de tous les économistes »."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "L'équilibre général et le commissaire-priseur",
+          "texte": "Un prix ne se fixe pas isolément : celui du blé dépend du pain, de la farine, des salaires... Walras montre qu'en partant d'une seule hypothèse, la rareté, on peut décrire un équilibre pour tous les marchés en même temps. Pour y arriver, il imagine un commissaire-priseur qui propose des prix, les corrige par tâtonnement, et ne laisse les échanges commencer qu'une fois l'équilibre trouvé."
+        },
+        {
+          "titre": "Un parcours semé d'échecs",
+          "texte": "Walras échoue au concours de l'École polytechnique, une première fois puis une seconde, puis à l'École des Mines. Il tente ensuite la littérature : son roman, refusé par une revue, est publié à compte d'auteur. Lors d'une promenade, son père, passionné d'économie, le convainc de se consacrer à la science sociale. En 1870, l'homme politique Louis Ruchonnet lui offre la chaire de Lausanne."
+        }
+      ],
+      "anecdotes": [
+        "En 1872, Walras a exposé pendant quatre heures à Louis Ruchonnet sa théorie mathématique de l'échange, ce qui lui a valu une augmentation de salaire."
+      ],
+      "oeuvres": [
+        {
+          "titre": "L'Économie politique et la Justice"
+        },
+        {
+          "titre": "Éléments d'économie politique pure",
+          "annee": "1874"
+        },
+        {
+          "titre": "Théorie mathématique de la richesse sociale"
+        }
+      ],
+      "wikipedia": "Léon Walras"
+    },
+    "source": "D'après Wikipédia — Léon Walras"
+  },
+  {
+    "id": "economie-081",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Vilfredo Pareto",
+    "subtitle": "Ingénieur, économiste et sociologue italien, 1848-1923",
+    "summary": "Vilfredo Pareto (1848-1923), né à Paris dans une famille italienne, est d'abord ingénieur, avant de devenir économiste et sociologue. Il a pris la suite de Léon Walras à Lausanne.\nEn 1906, il observe que 20 % de la population possède 80 % des propriétés en Italie. Cette observation est à l'origine du « principe de Pareto », ou règle des 80-20, très utilisé encore aujourd'hui.",
+    "details": {
+      "epoque": "De la fin du XIXe siècle à 1923.",
+      "pourquoiCelebre": "Son nom désigne la règle des 80-20 et la notion d'efficacité de Pareto.",
+      "ideesClefs": [
+        "Le principe de Pareto : une petite part de la population détient la plus grande part des richesses",
+        "Le concept d'efficacité (ou optimum) de Pareto, outil de la microéconomie",
+        "La circulation des élites : l'histoire est un « cimetière d'aristocraties »"
+      ],
+      "liens": [
+        {
+          "nom": "Léon Walras",
+          "relation": "Il a repris sa chaire à Lausanne."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "De la règle des 80-20 à la distribution de Pareto",
+          "texte": "Pareto observe que les revenus ne se répartissent pas de façon égale et que cette inégalité suit une forme régulière, qu'il croit constante dans toutes les sociétés. Sa remarque de 1906 sur l'Italie a été généralisée plus tard par Joseph Juran en « principe de Pareto ». C'est une règle empirique approximative, qu'on utilise encore comme repère pour repérer ce qui compte le plus."
+        },
+        {
+          "titre": "Les actions non logiques et les élites",
+          "texte": "Après l'économie, Pareto se met à la sociologie : selon lui, les équations échouent parfois à prévoir nos actes. Il pense que beaucoup d'actions sont non logiques, guidées par des habitudes et des croyances (les « résidus »), que nous justifions ensuite par de belles raisons (les « dérivations »). Il décrit aussi comment de nouvelles élites montent de la masse pour remplacer les anciennes."
+        }
+      ],
+      "anecdotes": [
+        "Sa thèse d'ingénieur portait sur l'équilibre des corps solides. Son intérêt ultérieur pour l'équilibre en économie et en sociologie remonterait à ce travail."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Les Systèmes socialistes"
+        },
+        {
+          "titre": "Traité de sociologie générale",
+          "annee": "1916"
+        },
+        {
+          "titre": "Compendio di sociologia generale",
+          "annee": "1920"
+        }
+      ],
+      "wikipedia": "Vilfredo Pareto"
+    },
+    "source": "D'après Wikipédia — Vilfredo Pareto"
+  },
+  {
+    "id": "economie-082",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Daniel Kahneman",
+    "subtitle": "Psychologue israélo-américain, 1934-2024",
+    "summary": "Daniel Kahneman (1934-2024) était un psychologue israélo-américain. Il a reçu le prix Nobel d'économie en 2002, alors qu'il disait n'avoir jamais suivi un seul cours d'économie.\nAvec son collègue Amos Tversky, il a montré que nos décisions s'écartent souvent de la rationalité supposée par les économistes. Leurs travaux sont à la base de l'économie comportementale.",
+    "details": {
+      "epoque": "De 1934 à 2024.",
+      "pourquoiCelebre": "Il a intégré la psychologie dans l'économie en étudiant les biais qui faussent nos décisions.",
+      "ideesClefs": [
+        "La théorie des perspectives (1979), écrite avec Amos Tversky",
+        "Les biais cognitifs, comme l'aversion à la perte",
+        "Son best-seller Système 1, Système 2 (2011 en anglais) résume ses recherches"
+      ],
+      "liens": [
+        {
+          "nom": "Amos Tversky",
+          "relation": "Psychologue avec qui il a travaillé pendant des années, jusqu'à la mort de celui-ci en 1996."
+        },
+        {
+          "nom": "Richard Thaler",
+          "relation": "Économiste devenu son ami, qui a lancé l'économie comportementale à partir de leurs travaux."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "La théorie des perspectives",
+          "texte": "Publiée en 1979 dans la revue Econometrica, elle étudie comment on choisit quand l'issue est incertaine. Kahneman et Tversky montrent que nous n'agissons pas comme le modèle économique standard le suppose : nous pesons les pertes plus lourdement que les gains, par exemple. Cet article est devenu le plus cité de l'économie. Tversky serait mort avant le Nobel de 2002, qu'il aurait partagé avec lui."
+        },
+        {
+          "titre": "Une enfance dans la France occupée",
+          "texte": "Kahneman grandit à Paris. En 1940, l'armée allemande envahit la France. Son père est raflé, puis relâché au bout de six semaines. La famille se cache et survit, mais son père meurt du diabète en 1944. Il attribue en partie à ces années sa vocation de psychologue. Pendant son service militaire, il conçoit un entretien pour évaluer les recrues, utilisé pendant des décennies."
+        }
+      ],
+      "anecdotes": [
+        "Pour décider quel nom apparaîtrait en premier sur leur tout premier article, Kahneman et Tversky ont tiré à pile ou face, puis ont alterné pour les suivants."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Attention and Effort"
+        },
+        {
+          "titre": "Système 1, Système 2 : les deux vitesses de la pensée",
+          "annee": "2011"
+        },
+        {
+          "titre": "Noise",
+          "annee": "2021"
+        }
+      ],
+      "wikipedia": "Daniel Kahneman"
+    },
+    "source": "D'après Wikipédia — Daniel Kahneman"
+  },
+  {
+    "id": "economie-083",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Elinor Ostrom",
+    "subtitle": "Politologue et économiste américaine, 1933-2012",
+    "summary": "Elinor Ostrom (1933-2012) était une politologue et économiste américaine. En 2009, elle est devenue la première femme à recevoir le prix Nobel d'économie.\nElle a étudié comment des communautés réussissent à partager des ressources (eau, forêts, pêcheries), sans que la solution passe forcément par l'État ou par la propriété privée.",
+    "details": {
+      "epoque": "De 1933 à 2012.",
+      "pourquoiCelebre": "Elle a montré que des groupes d'usagers peuvent gérer durablement des biens communs.",
+      "ideesClefs": [
+        "Les biens communs : eau, forêts, pêcheries partagés par une communauté",
+        "Une troisième voie entre l'État et la propriété privée : l'autogouvernement",
+        "Réciprocité et confiance comme clés de la coopération"
+      ],
+      "liens": [
+        {
+          "nom": "Garrett Hardin",
+          "relation": "Auteur de « La Tragédie des biens communs » (1968), dont elle a contesté la conclusion."
+        },
+        {
+          "nom": "Vincent Ostrom",
+          "relation": "Son mari, politologue, avec qui elle a fondé un atelier de recherche en 1973."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Les communs ne sont pas condamnés",
+          "texte": "Un pré ou un lac partagé finira-t-il forcément surexploité ? Garrett Hardin le soutenait en 1968. Ostrom répond par le terrain : irrigation en Espagne et aux Philippines, villages de montagne en Suisse et au Japon, pêcheries en Indonésie. Les usagers se donnent souvent des règles durables. Elle en tire huit principes dans Governing the Commons (1990). Après sa mort, ses travaux ont aussi été critiqués, par des partisans de l'État comme par des défenseurs de la propriété privée."
+        },
+        {
+          "titre": "Une thèse sur l'eau de Californie",
+          "texte": "Sa thèse de 1965 portait sur une nappe d'eau souterraine du sud de la Californie. Chacun pompait toujours plus : c'était la « course au pompage », qui a causé la surexploitation et l'infiltration d'eau de mer. Les usagers ont pourtant fini par s'entendre, devant les tribunaux et au sein d'associations, pour limiter leur consommation. Ce cas a posé les bases de toute son œuvre."
+        }
+      ],
+      "anecdotes": [
+        "Lycéenne, on ne l'a pas laissée suivre la trigonométrie parce qu'elle était une fille. Faute de ce cours, l'UCLA a refusé son doctorat d'économie, et elle a étudié la science politique avant de recevoir le Nobel d'économie."
+      ],
+      "oeuvres": [
+        {
+          "titre": "La Gouvernance des biens communs (Governing the Commons)",
+          "annee": "1990"
+        },
+        {
+          "titre": "Understanding Institutional Diversity",
+          "annee": "2005"
+        },
+        {
+          "titre": "Understanding Knowledge as a Commons",
+          "annee": "2006"
+        }
+      ],
+      "wikipedia": "Elinor Ostrom"
+    },
+    "source": "D'après Wikipédia — Elinor Ostrom"
+  },
+  {
+    "id": "economie-084",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Jean-Baptiste Say",
+    "subtitle": "Économiste et industriel français, 1767-1832",
+    "summary": "Jean-Baptiste Say (1767-1832) est le principal économiste classique français. Industriel du coton et journaliste, il défendait le libéralisme.\nSon Traité d'économie politique (1803) répartit l'économie en trois temps : production, répartition, consommation. Il a aussi formulé la célèbre « loi des débouchés », que l'on résume souvent trop vite.",
+    "details": {
+      "epoque": "De la Révolution française à 1832.",
+      "pourquoiCelebre": "Il a formulé la loi des débouchés et fait de l'entrepreneur un acteur central de l'économie.",
+      "ideesClefs": [
+        "La loi de Say : la production ouvre des débouchés aux autres produits",
+        "L'entrepreneur est l'organisateur qui combine la terre, le capital et le travail",
+        "Il défend la libre concurrence et un rôle limité de l'État"
+      ],
+      "liens": [
+        {
+          "nom": "Adam Smith",
+          "relation": "Sa lecture de La Richesse des nations l'a fortement marqué à 21 ans."
+        },
+        {
+          "nom": "John Maynard Keynes",
+          "relation": "Il a baptisé et critiqué la loi de Say, qu'il résumait par « l'offre crée sa propre demande »."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "La loi des débouchés",
+          "texte": "Pour Say, ce qu'on produit procure à son auteur un revenu, qu'il dépense ensuite en achetant d'autres produits : « les produits s'achètent avec des produits ». Une crise générale de surproduction serait donc impossible ; seuls certains secteurs peuvent connaître un excédent passager. Keynes a résumé la loi par « l'offre crée sa propre demande », formule que Say n'a jamais écrite et que ses défenseurs jugent trompeuse."
+        },
+        {
+          "titre": "Le penseur de l'entrepreneur",
+          "texte": "Say voit dans l'entrepreneur celui qui combine la terre, le capital et le travail pour répondre aux besoins des consommateurs, et qui doit juger sans cesse ce que le marché veut. Il a mis ses idées en pratique : refusant de réécrire son traité pour Napoléon, il est écarté du Tribunat en 1804, puis ouvre une filature de coton, qui passe de 80 à 400 ouvriers en 1810."
+        }
+      ],
+      "anecdotes": [
+        "Dans sa filature, Say payait ses ouvriers le lundi plutôt que le samedi, afin que la paie serve à nourrir leur famille plutôt qu'à financer le cabaret du dimanche."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Olbie",
+          "annee": "1798"
+        },
+        {
+          "titre": "Traité d'économie politique",
+          "annee": "1803"
+        },
+        {
+          "titre": "De l'Angleterre et des Anglais"
+        },
+        {
+          "titre": "Cours complet d'économie politique pratique",
+          "annee": "1828"
+        }
+      ],
+      "wikipedia": "Jean-Baptiste Say"
+    },
+    "source": "D'après Wikipédia — Jean-Baptiste Say"
+  },
+  {
+    "id": "economie-085",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Thomas Malthus",
+    "subtitle": "Économiste et pasteur britannique, 1766-1834",
+    "summary": "Thomas Malthus (1766-1834) était un économiste britannique et un pasteur anglican. Dans son Essai sur le principe de population (1798), il affirme que la population croît plus vite que les ressources.\nSon nom a donné l'adjectif « malthusien ». Ses idées sont restées très débattues, notamment parce qu'il n'avait pas prévu la révolution industrielle.",
+    "details": {
+      "epoque": "De 1766 à 1834, époque du décollage industriel britannique.",
+      "pourquoiCelebre": "Il a mis en garde contre la croissance de la population, une thèse pessimiste très discutée.",
+      "ideesClefs": [
+        "La population croît de façon géométrique, les ressources de façon arithmétique",
+        "La « contrainte morale » : se marier plus tard pour limiter les naissances",
+        "Il préconisait de mettre fin aux aides aux pauvres, selon lui contre-productives"
+      ],
+      "liens": [
+        {
+          "nom": "David Ricardo",
+          "relation": "Ami et adversaire dans de grands débats d'économie politique."
+        },
+        {
+          "nom": "Charles Darwin",
+          "relation": "L'un des pionniers de la biologie de l'évolution qui ont lu Malthus."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "L'Essai sur le principe de population",
+          "texte": "Publié sans nom d'auteur en 1798, l'Essai répond à l'optimisme de Godwin et Condorcet. Malthus imagine une population qui double régulièrement (1, 2, 4, 8, 16...) face à des ressources qui progressent de façon régulière (1, 2, 3, 4, 5...). Sans frein, cela mène à la famine. Il propose la contrainte morale : se marier plus tard et limiter sa famille à ce qu'on peut nourrir."
+        },
+        {
+          "titre": "Un débat qui dure",
+          "texte": "On reproche à Malthus d'ignorer le progrès technique, qui a fait augmenter la production alimentaire. John Stuart Mill jugeait que ses chiffres n'étaient qu'une illustration. Après 1815, Malthus s'oppose aussi à Ricardo : le second explique la crise par un manque de capital, lui par un excès de biens, donc un manque de demande. Keynes se rapprochera plus tard de cette idée."
+        }
+      ],
+      "anecdotes": [
+        "À l'East India Company College, où Malthus enseignait, ses étudiants l'appelaient affectueusement « Pop » ou « Population » Malthus."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Essai sur le principe de population",
+          "annee": "1798"
+        },
+        {
+          "titre": "Principes d'économie politique",
+          "annee": "1820"
+        },
+        {
+          "titre": "Définitions en économie politique",
+          "annee": "1827"
+        }
+      ],
+      "wikipedia": "Thomas Malthus"
+    },
+    "source": "D'après Wikipédia — Thomas Malthus"
+  },
+  {
+    "id": "economie-086",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Alfred Marshall",
+    "subtitle": "Économiste britannique, 1842-1924",
+    "summary": "Alfred Marshall (1842-1924) était un économiste britannique, professeur à Cambridge de 1885 à 1908. On le considère comme l'un des pères de l'école néoclassique.\nSes Principes d'économie politique (1890) ont rassemblé l'offre et la demande, l'utilité marginale et les coûts de production en un tout cohérent. Ils sont longtemps restés le manuel de référence au Royaume-Uni.",
+    "details": {
+      "epoque": "De 1842 à 1924, époque victorienne et début du XXe siècle.",
+      "pourquoiCelebre": "Il a fait la synthèse entre les économistes classiques et les marginalistes, et a formé de grands élèves.",
+      "ideesClefs": [
+        "Le prix dépend à la fois de ce que le consommateur est prêt à payer et des coûts de production",
+        "Le temps compte : à court terme la demande domine, à long terme les coûts",
+        "L'équilibre partiel : on peut étudier un marché sans étudier tous les autres"
+      ],
+      "liens": [
+        {
+          "nom": "John Maynard Keynes",
+          "relation": "Son élève à Cambridge, devenu son principal critique."
+        },
+        {
+          "nom": "Léon Walras",
+          "relation": "Marshall s'oppose à son équilibre général en défendant l'équilibre partiel."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Offre, demande et facteur temps",
+          "texte": "Avant Marshall, les classiques expliquaient le prix par les coûts de production, les marginalistes par l'utilité pour le consommateur. Marshall montre que les deux approches se complètent, à condition de tenir compte du temps. À court terme, l'offre ne peut pas bouger et la demande domine. À long terme, un producteur doit couvrir ses coûts, y compris le remplacement de ses machines : les coûts deviennent décisifs."
+        },
+        {
+          "titre": "Un équilibre à la fois et peu de maths",
+          "texte": "Contrairement à Walras, Marshall étudie un marché à la fois : l'équilibre d'un marché n'entraîne pas forcément celui des autres. Il veut une économie rigoureuse mais lisible : dans ses livres, les mathématiques sont reléguées aux notes et aux annexes, et il s'aide de nombreux graphiques. Le manuel de 1890 a profondément marqué l'enseignement de l'économie dans les pays anglophones."
+        }
+      ],
+      "anecdotes": [
+        "Dans une lettre à un collègue, Marshall résume sa méthode : utiliser les mathématiques comme un raccourci, les traduire en langage courant, les illustrer par des exemples réels, puis les « brûler »."
+      ],
+      "oeuvres": [
+        {
+          "titre": "The Economics of Industry",
+          "annee": "1879"
+        },
+        {
+          "titre": "Principes d'économie politique",
+          "annee": "1890"
+        },
+        {
+          "titre": "Industry and Trade",
+          "annee": "1919"
+        },
+        {
+          "titre": "Money, Credit and Commerce",
+          "annee": "1924"
+        }
+      ],
+      "wikipedia": "Alfred Marshall"
+    },
+    "source": "D'après Wikipédia — Alfred Marshall"
+  },
+  {
+    "id": "economie-087",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Ronald Coase",
+    "subtitle": "Économiste britannique, 1910-2013",
+    "summary": "Ronald Coase (1910-2013) était un économiste britannique, installé à Chicago depuis 1964. Il a reçu le prix Nobel d'économie en 1991.\nIl s'est demandé pourquoi les entreprises existent, alors que le marché coordonne déjà les échanges. Sa réponse : utiliser le marché a un coût, que l'on appelle le coût de transaction.",
+    "details": {
+      "epoque": "De 1910 à 2013.",
+      "pourquoiCelebre": "Il a introduit les coûts de transaction pour expliquer l'existence des entreprises.",
+      "ideesClefs": [
+        "Les coûts de transaction (chercher les prix, négocier, rédiger des contrats) expliquent les entreprises",
+        "Le « théorème de Coase » : des droits de propriété clairs peuvent résoudre des conflits d'usage",
+        "Il refusait les modèles mathématiques complexes et préférait étudier les marchés réels"
+      ],
+      "liens": [
+        {
+          "nom": "Oliver Williamson",
+          "relation": "Économiste qui a remis les coûts de transaction au centre de l'économie des organisations."
+        },
+        {
+          "nom": "Arthur Cecil Pigou",
+          "relation": "Économiste dont Coase a contesté l'analyse, qui jugeait l'État nécessaire pour traiter les externalités."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Pourquoi les entreprises existent",
+          "texte": "Dans La Nature de l'entreprise (1937), Coase pose une question simple : si le marché est efficace, pourquoi ne pas tout acheter à des travailleurs indépendants ? Parce que passer par le marché coûte : chercher les prix, négocier, surveiller l'exécution. Une entreprise permet d'éviter ces coûts, mais elle grossit jusqu'à un point où l'organiser coûte à son tour trop cher."
+        },
+        {
+          "titre": "Le coût social et l'éleveur",
+          "texte": "Dans un article de 1960, Coase imagine un éleveur dont le troupeau abîme les cultures du fermier voisin. Si les droits de chacun sont clairs et que négocier ne coûte rien, ils trouveront un arrangement efficace, quel que soit celui qui avait raison au départ. Mais négocier coûte souvent cher. Les économistes discutent encore les différentes versions de ce « théorème »."
+        }
+      ],
+      "anecdotes": [
+        "À près de 100 ans, Coase travaillait encore à un livre sur l'essor économique de la Chine et du Vietnam. Il est mort à 102 ans."
+      ],
+      "oeuvres": [
+        {
+          "titre": "The Nature of the Firm (La nature de l'entreprise)",
+          "annee": "1937"
+        },
+        {
+          "titre": "The Problem of Social Cost",
+          "annee": "1960"
+        },
+        {
+          "titre": "How China Became Capitalist",
+          "annee": "2012"
+        }
+      ],
+      "wikipedia": "Ronald Coase"
+    },
+    "source": "D'après Wikipédia — Ronald Coase"
+  },
+  {
+    "id": "economie-088",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Muhammad Yunus",
+    "subtitle": "Économiste et banquier bangladais, né en 1940",
+    "summary": "Muhammad Yunus, né en 1940 au Bangladesh, est un économiste surnommé le « banquier des pauvres ». Il a fondé la Grameen Bank, première institution de microcrédit.\nLe Nobel de la paix lui a été attribué en 2006, avec cette banque, pour leurs efforts en faveur du développement, en partant des plus humbles.",
+    "details": {
+      "epoque": "Depuis les années 1970.",
+      "pourquoiCelebre": "Il a inventé le microcrédit moderne, qui prête de très petites sommes aux plus pauvres.",
+      "ideesClefs": [
+        "Le microcrédit : de petits prêts sans garantie pour lancer une activité",
+        "Les groupes de solidarité : les emprunteurs se portent garants les uns des autres",
+        "Le « social business » : une entreprise dont l'objectif est social"
+      ],
+      "liens": [
+        {
+          "nom": "Nicholas Georgescu-Roegen",
+          "relation": "Économiste qui a dirigé sa thèse à l'université Vanderbilt."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le village de Jobra",
+          "texte": "Professeur d'économie pendant une terrible famine, Yunus dit avoir été saisi de vertige : ses théories ne sauvaient personne autour de lui. Il visite le village voisin de Jobra. Les paysans n'ont pas de terres assez grandes pour garantir un prêt bancaire, et les usuriers demandent plus de 20 % d'intérêt par mois. Il prête alors de sa poche quelques dollars à des villageois, qui le remboursent sans difficulté."
+        },
+        {
+          "titre": "La Grameen Bank",
+          "texte": "Son programme, nommé « Grameen » (village), démarre en 1977 et devient une banque en 1983. Pour garantir les remboursements, les emprunteurs forment de petits groupes solidaires. Le modèle part à l'étranger dès 1989 et a inspiré des programmes dans une centaine de pays. Yunus a utilisé une partie de son prix Nobel pour créer, avec Danone, une entreprise sociale : la Grameen Danone Foods."
+        }
+      ],
+      "anecdotes": [
+        "Le premier prêt de Yunus, en 1976 : 27 dollars de sa poche, prêtés à 42 femmes du village qui fabriquaient des meubles en bambou. Chacune a gagné environ 2 centimes de dollar de profit."
+      ],
+      "wikipedia": "Muhammad Yunus"
+    },
+    "source": "D'après Wikipédia — Muhammad Yunus"
+  },
+  {
+    "id": "economie-089",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Thorstein Veblen",
+    "subtitle": "Économiste et sociologue américain, 1857-1929",
+    "summary": "Thorstein Veblen (1857-1929) était un économiste et sociologue américain, fils d'immigrés norvégiens. Critique du capitalisme de son époque, il a popularisé l'idée de « consommation ostentatoire ».\nDans La Théorie de la classe de loisir (1899), il montre que les plus riches dépensent souvent pour afficher leur statut, plus que pour répondre à un besoin.",
+    "details": {
+      "epoque": "Fin du XIXe siècle et début du XXe, jusqu'en 1929.",
+      "pourquoiCelebre": "Il a montré que la consommation sert aussi à se distinguer, et fondé l'institutionnalisme américain.",
+      "ideesClefs": [
+        "La consommation ostentatoire (conspicuous consumption) et le loisir ostentatoire",
+        "L'« effet Veblen » : pour certains biens, la demande augmente quand le prix monte",
+        "Une institution est une « habitude de penser » qui évolue, à étudier comme une science évolutionniste"
+      ],
+      "liens": [
+        {
+          "nom": "Charles Darwin",
+          "relation": "Veblen est l'un des premiers économistes à vouloir intégrer le darwinisme aux sciences sociales."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Consommer pour se montrer",
+          "texte": "Pour Veblen, les plus riches gaspillent du temps (le loisir) et des biens pour montrer qu'ils peuvent se le permettre. Exemple de son livre : le lustre d'une étoffe est apprécié sur un chapeau, qu'on change souvent, mais mal vu sur un pantalon, qui trahit un usage prolongé. Le tissu est pourtant le même ! Chaque classe sociale imite celle du dessus. D'où l'effet Veblen : pour un bien de prestige, un prix élevé attire plus qu'il ne détourne."
+        },
+        {
+          "titre": "Un économiste de l'évolution",
+          "texte": "Dans un article de 1898, Veblen demande pourquoi l'économie n'est pas une science évolutionniste. Il refuse l'idée d'un individu toujours rationnel qui tend vers un équilibre stable, et veut étudier les comportements réels et leurs habitudes. Ce programme fonde l'institutionnalisme américain, important dans les années 1920 et 1930. Il propose aussi que les ingénieurs, plutôt que les propriétaires, dirigent l'industrie."
+        }
+      ],
+      "anecdotes": [
+        "Docteur de Yale en 1884 avec de solides lettres de recommandation, Veblen n'a trouvé aucun poste d'université pendant presque sept ans."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Théorie de la classe de loisir",
+          "annee": "1899"
+        },
+        {
+          "titre": "Théorie de l'entreprise d'affaires",
+          "annee": "1904"
+        },
+        {
+          "titre": "L'Instinct artisan et l'état des arts industriels",
+          "annee": "1914"
+        },
+        {
+          "titre": "The Higher Learning in America",
+          "annee": "1918"
+        },
+        {
+          "titre": "Les Ingénieurs et le capitalisme",
+          "annee": "1921"
+        }
+      ],
+      "wikipedia": "Thorstein Veblen"
+    },
+    "source": "D'après Wikipédia — Thorstein Veblen"
+  },
+  {
+    "id": "economie-090",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Joan Robinson",
+    "subtitle": "Économiste britannique, 1903-1983",
+    "summary": "Joan Robinson (1903-1983) était une économiste britannique, figure majeure de l'école de Cambridge. Dans les années 1930, elle a fait partie du groupe de jeunes économistes réunis autour de Keynes.\nElle a inventé le mot « monopsone » et critiqué la théorie néoclassique, qu'elle jugeait trop éloignée du fonctionnement réel des entreprises.",
+    "details": {
+      "epoque": "De 1903 à 1983.",
+      "pourquoiCelebre": "Elle a renouvelé l'étude de la concurrence et incarné le courant post-keynésien.",
+      "ideesClefs": [
+        "Le monopsone : un acheteur unique, par exemple un employeur qui fixe les salaires",
+        "Les prix sont en grande partie fixés par les entreprises, pas par le seul jeu de l'offre et de la demande",
+        "La controverse des deux Cambridge sur le capital et la croissance"
+      ],
+      "liens": [
+        {
+          "nom": "John Maynard Keynes",
+          "relation": "Elle a fait partie du Cambridge Circus, groupe de jeunes économistes qui l'ont aidé à écrire la Théorie générale."
+        },
+        {
+          "nom": "Amartya Sen",
+          "relation": "Futur prix Nobel dont elle a dirigé la thèse à Cambridge."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "La concurrence imparfaite",
+          "texte": "Dans L'Économie de la concurrence imparfaite (1933), Robinson part d'un constat : le marché réel ne ressemble pas au modèle de concurrence idéale. Les entreprises différencient leurs produits, font de la publicité et fixent en grande partie leurs prix. C'est là qu'elle invente le mot monopsone, pour désigner le cas d'un acheteur unique, qu'on applique à un employeur qui impose les salaires."
+        },
+        {
+          "titre": "Cambridge contre Cambridge",
+          "texte": "Après la guerre, Robinson et Nicholas Kaldor, de Cambridge en Angleterre, s'opposent à Paul Samuelson et Robert Solow, de Cambridge aux États-Unis. Pour eux, le capital et le travail ne se séparent pas comme le suppose la théorie néoclassique, et c'est la croissance qui détermine l'épargne et les profits, pas l'inverse. Elle ironise sur les hypothèses de Solow et son « royaume magique de Solowie »."
+        }
+      ],
+      "anecdotes": [
+        "Comme Cambridge refusait de remettre des diplômes aux femmes avant 1948, Joan Robinson, pourtant titulaire d'un cursus complet, n'a jamais été formellement diplômée de l'université."
+      ],
+      "oeuvres": [
+        {
+          "titre": "L'Économie de la concurrence imparfaite",
+          "annee": "1933"
+        },
+        {
+          "titre": "Essai sur l'économie de Marx",
+          "annee": "1942"
+        },
+        {
+          "titre": "L'Accumulation du capital",
+          "annee": "1956"
+        },
+        {
+          "titre": "Philosophie économique"
+        }
+      ],
+      "wikipedia": "Joan Robinson"
+    },
+    "source": "D'après Wikipédia — Joan Robinson"
+  },
+  {
+    "id": "economie-091",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Jean Fourastié",
+    "subtitle": "Économiste français, 1907-1990",
+    "summary": "Jean Fourastié (1907-1990) était un économiste français, auteur d'une quarantaine d'ouvrages. Il est connu pour avoir inventé l'expression « Trente Glorieuses ».\nPour lui, le progrès technique est la clé de l'économie. Il a mesuré sur le long terme l'évolution des prix et des métiers, et annoncé une société dominée par les services.",
+    "details": {
+      "epoque": "De 1907 à 1990.",
+      "pourquoiCelebre": "Il a montré le rôle du progrès technique dans l'évolution des prix, de l'emploi et du niveau de vie.",
+      "ideesClefs": [
+        "Partir des faits et des séries statistiques plutôt que des seuls raisonnements",
+        "Trois secteurs : agriculture, industrie, services, avec un progrès technique inégal",
+        "Le Grand Espoir du XXe siècle (1949) : le progrès technique doit amener le bien-être"
+      ],
+      "liens": [
+        {
+          "nom": "Jean Monnet",
+          "relation": "Il l'a appelé au Commissariat général au Plan, en 1944."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Du champ au bureau",
+          "texte": "Fourastié observe que le progrès technique libère de la main-d'œuvre : en 1800, environ 65 % des actifs français travaillaient dans l'agriculture, contre 2,9 % en 2013. En 1851, un agriculteur nourrissait quatre personnes ; en 2013, près de cent. Les bras libérés vont d'abord à l'industrie, puis, quand elle s'automatise, aux services. Les prix baissent beaucoup dans l'industrie, mais suivent les salaires dans les services."
+        },
+        {
+          "titre": "Les prix en heures de travail",
+          "texte": "Pour comparer des prix à travers les siècles, Fourastié les exprime en heures de salaire. Vers 1700, un kilo de blé valait environ 3 heures de travail. En 2013, un kilo de pain valait environ 14 minutes de travail. Il rêvait aussi d'une vie active de 40 000 heures, soit environ 1 200 heures par an pendant 35 ans, titre de son livre Les 40 000 heures."
+        }
+      ],
+      "anecdotes": [
+        "Avec François Perroux, Fourastié est à l'origine du mot « mercatique », inventé en 1970 par la commission de terminologie économique et financière."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Le Grand Espoir du XXe siècle",
+          "annee": "1949"
+        },
+        {
+          "titre": "Machinisme et bien-être",
+          "annee": "1951"
+        },
+        {
+          "titre": "Les 40 000 heures",
+          "annee": "1965"
+        },
+        {
+          "titre": "Les Trente Glorieuses, ou la révolution invisible",
+          "annee": "1979"
+        },
+        {
+          "titre": "Pourquoi les prix baissent",
+          "annee": "1984"
+        }
+      ],
+      "wikipedia": "Jean Fourastié"
+    },
+    "source": "D'après Wikipédia — Jean Fourastié"
   }
 ]

@@ -990,5 +990,287 @@
     "bonneReponse": 0,
     "explication": "En 1962, le déploiement de missiles soviétiques à Cuba, après celui de missiles américains en Europe, provoque une crise majeure. Elle est largement vue comme le moment le plus proche d'un affrontement nucléaire direct entre les deux superpuissances.",
     "source": "D'après Wikipédia — Guerre froide"
+  },
+  {
+    "id": "q-politique-064",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Que signifie la formule d'Adolphe Thiers : « Le roi règne mais ne gouverne pas » ?",
+    "choix": [
+      "Le monarque est un symbole, le pouvoir réel appartient au gouvernement",
+      "Le monarque dirige seul mais laisse l'administration à ses ministres",
+      "Le monarque gouverne mais ne peut pas légiférer",
+      "Le monarque a perdu tous ses titres mais garde son palais"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans une monarchie constitutionnelle, le souverain incarne l'unité et la continuité de l'État, mais ne dirige pas au quotidien. Le pouvoir est exercé par un Premier ministre soutenu par le Parlement, devant lequel il est responsable.",
+    "source": "D'après Wikipédia — Monarchie constitutionnelle"
+  },
+  {
+    "id": "q-politique-065",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quelle souveraine est la dernière à avoir opposé son veto à une loi du Parlement britannique, en 1708 ?",
+    "choix": [
+      "La reine Anne",
+      "La reine Victoria",
+      "La reine Élisabeth Ire",
+      "La reine Marie II"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 11 mars 1708, la reine Anne bloque un projet de loi sur la milice écossaise. Depuis, aucun monarque britannique n'a refusé de promulguer une loi : le veto royal est tombé en désuétude et le rôle du souverain est devenu symbolique.",
+    "source": "D'après Wikipédia — Monarchie constitutionnelle"
+  },
+  {
+    "id": "q-politique-066",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel penseur du XVIIe siècle, auteur de Politica en 1603, passe pour l'inventeur du fédéralisme moderne ?",
+    "choix": [
+      "Johannes Althusius",
+      "Thomas Hobbes",
+      "Jean Bodin",
+      "Jacques-Bénigne Bossuet"
+    ],
+    "bonneReponse": 0,
+    "explication": "Johannes Althusius expose dans Politica, en 1603, les bases d'une organisation où plusieurs entités autonomes s'associent. Le fédéralisme moderne prendra ensuite sa forme concrète avec la Constitution des États-Unis de 1787.",
+    "source": "D'après Wikipédia — Fédéralisme"
+  },
+  {
+    "id": "q-politique-067",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "La Suisse, qui s'appelle « Confédération suisse », est en réalité un État fédéral depuis la constitution de 1848.",
+    "reponse": true,
+    "explication": "Avant 1848, les cantons formaient une confédération d'États liés par un pacte. La constitution de 1848 crée un véritable État fédéral, mais le pays a conservé son ancien nom, ce qui entretient la confusion entre fédération et confédération.",
+    "source": "D'après Wikipédia — Fédéralisme"
+  },
+  {
+    "id": "q-politique-068",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Sous la République romaine, comment appelait-on le magistrat qui recevait les pleins pouvoirs en cas de crise grave, pour six mois au maximum ?",
+    "choix": [
+      "Le dictateur",
+      "Le censeur",
+      "Le tribun de la plèbe",
+      "Le questeur"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le dictateur était nommé légalement pour faire face à une crise, avec l'imperium, pour six mois au plus à l'origine. Le terme n'avait alors rien d'insultant : il désignait une institution, avant de devenir synonyme de tyran à l'époque moderne.",
+    "source": "D'après Wikipédia — Dictature"
+  },
+  {
+    "id": "q-politique-069",
+    "domain": "politique",
+    "format": "difference",
+    "question": "Selon Hannah Arendt, quelle différence sépare une dictature d'un régime totalitaire ?",
+    "choix": [
+      "Le totalitarisme contrôle toutes les sphères de la société, jusqu'à la vie privée",
+      "La dictature est toujours militaire, le totalitarisme est toujours civil",
+      "Le totalitarisme tolère l'opposition, la dictature l'interdit",
+      "La dictature est temporaire, le totalitarisme est héréditaire"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour Arendt, la différence ne tient pas à l'ampleur de l'arbitraire, mais au degré de contrôle sur la société. Une dictature devient totalitaire quand elle investit la totalité des sphères sociales, y compris les familles et les mentalités.",
+    "source": "D'après Wikipédia — Dictature"
+  },
+  {
+    "id": "q-politique-070",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Selon Aristote, désigner les magistrats par tirage au sort est un procédé oligarchique.",
+    "reponse": false,
+    "explication": "Aristote écrit l'inverse : il est démocratique que les charges soient tirées au sort, et oligarchique qu'elles soient électives. À Athènes, le tirage au sort donnait à chaque citoyen une chance égale d'exercer le pouvoir.",
+    "source": "D'après Wikipédia — Oligarchie"
+  },
+  {
+    "id": "q-politique-071",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel petit État, dirigé par le pape, est créé en 1929 par les accords du Latran ?",
+    "choix": [
+      "La Cité du Vatican",
+      "Saint-Marin",
+      "Monaco",
+      "Malte"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les États pontificaux sont annexés par l'Italie en 1870. En 1929, les accords du Latran créent l'État de la Cité du Vatican, dont le chef est le pape, élu par les cardinaux. On cite souvent ce cas comme exemple de pouvoir religieux.",
+    "source": "D'après Wikipédia — Théocratie"
+  },
+  {
+    "id": "q-politique-072",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Le mot « théocratie » a été inventé au Ier siècle par l'historien Flavius Josèphe.",
+    "reponse": true,
+    "explication": "Flavius Josèphe forge le terme pour décrire la singularité du gouvernement des Juifs, où Dieu est souverain et sa Loi fait loi. Chez lui, l'idée n'a rien d'un projet politique : elle sert à accepter n'importe quel pouvoir humain.",
+    "source": "D'après Wikipédia — Théocratie"
+  },
+  {
+    "id": "q-politique-073",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Dans quel pays le mot « libéralisme » a-t-il été forgé comme étiquette politique, en 1812 ?",
+    "choix": [
+      "L'Espagne",
+      "La France",
+      "L'Angleterre",
+      "Les États-Unis"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1812, les liberales, députés espagnols, défendent la Constitution de Cadix. Ils sont les premiers à utiliser le mot comme étiquette politique. Le terme apparaît en français au début du XIXe siècle, puis dans le monde entier.",
+    "source": "D'après Wikipédia — Libéralisme"
+  },
+  {
+    "id": "q-politique-074",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Qui est le premier penseur à se déclarer « anarchiste » et à donner un sens positif au mot, en 1840 ?",
+    "choix": [
+      "Pierre-Joseph Proudhon",
+      "Mikhaïl Bakounine",
+      "Pierre Kropotkine",
+      "Karl Marx"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans Qu'est-ce que la propriété ?, Proudhon se dit « anarchiste » et définit l'anarchie comme un gouvernement où il n'y a ni maître ni souverain. Il veut montrer que l'ordre peut exister sans pouvoir : c'est l'origine du A cerclé.",
+    "source": "D'après Wikipédia — Anarchisme"
+  },
+  {
+    "id": "q-politique-075",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel mot est devenu synonyme d'« anarchiste » en France après les « lois scélérates » de 1893-1894 ?",
+    "choix": [
+      "Libertaire",
+      "Républicain",
+      "Socialiste",
+      "Syndicaliste"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ces lois criminalisent l'emploi même des termes « anarchisme » et « anarchiste ». Le néologisme « libertaire » se répand alors comme synonyme, surtout dans le monde francophone, et il reste très courant aujourd'hui.",
+    "source": "D'après Wikipédia — Anarchisme"
+  },
+  {
+    "id": "q-politique-076",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel homme d'État anglo-irlandais, opposé à la Révolution française, est considéré comme le fondateur du conservatisme moderne ?",
+    "choix": [
+      "Edmund Burke",
+      "John Locke",
+      "Jean-Jacques Rousseau",
+      "Adam Smith"
+    ],
+    "bonneReponse": 0,
+    "explication": "Edmund Burke plaide pour la tradition plutôt que pour une « Raison » abstraite. Il n'est pas hostile au changement, mais il veut qu'il soit progressif : pour lui, un État incapable de se transformer risque de ne pas durer.",
+    "source": "D'après Wikipédia — Conservatisme"
+  },
+  {
+    "id": "q-politique-077",
+    "domain": "politique",
+    "format": "associer",
+    "question": "Associe chaque penseur à son idée.",
+    "paires": [
+      {
+        "gauche": "John Locke",
+        "droite": "Les droits naturels : vie, liberté, propriété",
+        "explication": "Locke est souvent considéré comme le fondateur de la tradition libérale."
+      },
+      {
+        "gauche": "Robert Owen",
+        "droite": "Organiser la production en coopératives",
+        "explication": "Owen est l'un des pères du mouvement coopératif britannique."
+      },
+      {
+        "gauche": "Edmund Burke",
+        "droite": "Un changement progressif plutôt qu'une révolution",
+        "explication": "Burke défend la tradition contre la Révolution française."
+      },
+      {
+        "gauche": "Pierre Kropotkine",
+        "droite": "L'anarcho-communisme et l'entraide",
+        "explication": "Il montre que les espèces qui s'entraident survivent le mieux."
+      }
+    ],
+    "explication": "Ces quatre penseurs incarnent des courants différents : libéralisme, socialisme, conservatisme et anarchisme. Chacun répond à sa façon aux questions de liberté, d'égalité et d'organisation de la société.",
+    "source": "D'après Wikipédia — Libéralisme"
+  },
+  {
+    "id": "q-politique-078",
+    "domain": "politique",
+    "format": "associer",
+    "question": "Associe chaque régime à sa définition.",
+    "paires": [
+      {
+        "gauche": "Oligarchie",
+        "droite": "Le pouvoir d'un petit groupe dirigeant",
+        "explication": "Du grec oligos, « peu nombreux », et arkhô, « commander »."
+      },
+      {
+        "gauche": "Théocratie",
+        "droite": "Un pouvoir fondé sur le divin ou exercé par des religieux",
+        "explication": "Du grec theos, « dieu », et kratos, « pouvoir »."
+      },
+      {
+        "gauche": "Démocratie directe",
+        "droite": "Les citoyens décident sans représentants",
+        "explication": "Athènes à l'époque de Périclès en est l'exemple antique."
+      },
+      {
+        "gauche": "Monarchie constitutionnelle",
+        "droite": "Un monarque dont les pouvoirs sont limités par une constitution",
+        "explication": "Le monarque règne, mais le gouvernement rend des comptes au Parlement."
+      }
+    ],
+    "explication": "Ces quatre régimes se distinguent par qui détient le pouvoir : un petit nombre, le divin, tous les citoyens ou un monarque encadré par la loi. Le suffixe -cratie vient du grec kratos, « pouvoir ».",
+    "source": "D'après Wikipédia — Oligarchie"
+  },
+  {
+    "id": "q-politique-079",
+    "domain": "politique",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom vient du mot latin foedus, qui signifie « alliance ».",
+      "Dans mon système, les compétences sont réparties entre l'État central et des entités autonomes.",
+      "L'Allemagne, la Suisse et le Canada m'appliquent.",
+      "Je m'oppose à l'État unitaire.",
+      "Ma forme moderne naît avec la Constitution américaine de 1787."
+    ],
+    "reponse": "Le fédéralisme",
+    "explication": "Le fédéralisme associe des entités relativement autonomes dans un ensemble plus vaste : la diversité dans l'unité. Son modèle moderne naît aux États-Unis en 1787, et la constitution garantit le partage des compétences.",
+    "source": "D'après Wikipédia — Fédéralisme"
+  },
+  {
+    "id": "q-politique-080",
+    "domain": "politique",
+    "format": "frise",
+    "question": "Remets ces événements de l'histoire de l'écologie dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Protection de la forêt de Fontainebleau",
+        "annee": "1853"
+      },
+      {
+        "label": "Marsh signe L'Homme et la Nature",
+        "annee": "1864"
+      },
+      {
+        "label": "Création du parc national de Yellowstone",
+        "annee": "1872"
+      },
+      {
+        "label": "Convention européenne pour la protection des oiseaux utiles",
+        "annee": "1902"
+      },
+      {
+        "label": "Congrès de Berne pour une protection mondiale de la nature",
+        "annee": "1913"
+      }
+    ],
+    "explication": "L'inquiétude pour la nature s'installe au XIXe siècle : réserve de Fontainebleau en 1853, analyse de Marsh en 1864, premier grand parc américain en 1872. Les premiers accords internationaux arrivent au début du XXe siècle.",
+    "source": "D'après Wikipédia — Écologisme"
   }
 ]

@@ -1936,5 +1936,465 @@
       "wikipedia": "Faillite"
     },
     "source": "D'après Wikipédia — Faillite"
+  },
+  {
+    "id": "economie-060",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Croissance économique",
+    "subtitle": "L'augmentation durable de ce qu'un pays produit",
+    "summary": "La croissance économique, c'est l'augmentation, sur une longue période, de tout ce qu'un pays fabrique et de tous les services qu'il rend. On la mesure le plus souvent par l'évolution du PIB, calculé « en volume » pour effacer l'effet de l'inflation.\nElle ne date pas de toujours : avant la révolution industrielle, on produisait davantage surtout parce qu'on était plus nombreux, pas parce qu'on vivait mieux.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Quand la richesse décolle",
+          "texte": "Pendant des siècles, le niveau de vie a peu bougé : la production augmentait au rythme de la population. À partir du XVIIIe siècle, le progrès technique, le charbon puis le pétrole la font grimper plus vite que le nombre d'habitants. L'économiste Simon Kuznets ne parle de vraie croissance que si la production progresse plus vite que la population."
+        },
+        {
+          "titre": "Croissance n'est pas progrès",
+          "texte": "Le PIB ignore le travail domestique, compte la reconstruction après une catastrophe et ne dit rien de la pollution ni des inégalités. Frédéric Bastiat résumait déjà en 1850 : « destruction n'est pas profit ». En 1970, le rapport du Club de Rome sur les limites de la croissance a lancé le débat sur une croissance illimitée dans un monde fini."
+        }
+      ],
+      "anecdotes": [
+        "En 1957, la Corée du Sud avait un PIB par habitant inférieur à celui du Ghana ; en 2008, il était environ 17 fois plus élevé."
+      ],
+      "wikipedia": "Croissance économique"
+    },
+    "source": "D'après Wikipédia — Croissance économique"
+  },
+  {
+    "id": "economie-061",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "La productivité",
+    "subtitle": "Produire plus avec autant d'efforts",
+    "summary": "La productivité mesure ce qu'on obtient pour une quantité donnée de travail, de capital ou de matières premières. La plus courante est la productivité du travail : la valeur produite divisée par le nombre d'heures travaillées.\nSur le long terme, elle est la principale source de hausse du niveau de vie, car elle permet de produire davantage, ou de produire moins cher.",
+    "details": {
+      "sections": [
+        {
+          "titre": "D'où viennent les gains",
+          "texte": "Organisation du travail, machines plus performantes, qualification, climat social : tout compte. Une étude menée en Inde a offert du conseil en management à des entreprises tirées au sort : elle a gagné 17 % en douze mois. Les économistes regroupent souvent tout cela sous le mot « technologie » et le mesurent par la productivité globale des facteurs."
+        },
+        {
+          "titre": "Le cas des services",
+          "texte": "Les gains sont très inégaux selon les secteurs. Adam Smith citait déjà les coiffeurs : couper les cheveux ne va pas beaucoup plus vite qu'avant. William Baumol en a tiré la « maladie des coûts » : dans les services, les salaires suivent ceux des autres secteurs sans gain équivalent, donc les prix montent."
+        }
+      ],
+      "anecdotes": [
+        "Dans une banque américaine, des salariés ont porté des badges intelligents enregistrant leurs mouvements : les plus efficaces étaient ceux d'équipes soudées qui échangeaient beaucoup, et renforcer la cohésion a fait grimper la productivité d'environ 10 %."
+      ],
+      "wikipedia": "Productivité"
+    },
+    "source": "D'après Wikipédia — Productivité"
+  },
+  {
+    "id": "economie-062",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "La bulle spéculative",
+    "subtitle": "Quand les prix s'envolent loin de la valeur réelle",
+    "summary": "Une bulle apparaît quand le prix d'un bien (actions, immobilier, matière première) dépasse largement sa valeur fondamentale, celle que justifient les profits futurs. On achète parce qu'on croit pouvoir revendre plus cher demain.\nLe mot vient de la South Sea Bubble anglaise de 1720 : une bulle de savon, brillante mais fragile, qui finit par éclater.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le mécanisme de l'emballement",
+          "texte": "Le point de départ est souvent une bonne nouvelle réelle, comme une innovation. S'y ajoutent des taux d'intérêt bas qui encouragent l'emprunt, et un comportement moutonnier : en voyant les autres gagner, on veut sa part. Le prix ne se justifie plus que par la croyance qu'il montera encore. Quand la confiance se retourne, la chute est brutale."
+        },
+        {
+          "titre": "Des exemples célèbres",
+          "texte": "La tulipomanie néerlandaise du XVIIe siècle, l'affaire anglaise des mers du Sud, la bulle Internet des années 1990, la bulle immobilière américaine qui a mené à la crise de 2008. Les économistes débattent : peut-on repérer une bulle avant qu'elle éclate ? Eugene Fama en doute, car on ne la reconnaît souvent qu'après coup."
+        }
+      ],
+      "anecdotes": [
+        "Isaac Newton, interrogé sur ce krach, aurait avoué qu'il savait prévoir la course des astres, mais pas les emballements de la foule."
+      ],
+      "wikipedia": "Bulle (économie)"
+    },
+    "source": "D'après Wikipédia — Bulle (économie)"
+  },
+  {
+    "id": "economie-063",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Le taux de change",
+    "subtitle": "Le prix d'une monnaie exprimé dans une autre",
+    "summary": "Le taux de change indique combien coûte une monnaie dans une autre : c'est le prix de l'euro en dollars, ou du dollar en yens. Chaque devise est désignée par un code de trois lettres, comme EUR, USD ou JPY.\nIl pèse sur le prix des produits importés, sur la compétitivité des exportateurs et sur les voyages à l'étranger.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Fixe ou flottant",
+          "texte": "Avec un change fixe, l'État rattache sa monnaie à une monnaie de référence et ne la modifie que par une dévaluation ou une réévaluation. Avec un change flottant, le prix naît de l'offre et de la demande sur le marché des changes. Si les réserves ne suffisent pas à défendre un taux fixe attaqué par les marchés, l'État doit céder et changer la parité."
+        },
+        {
+          "titre": "Une monnaie faible, bonne ou mauvaise ?",
+          "texte": "Une baisse de la monnaie rend les produits nationaux moins chers à l'étranger, mais renchérit les importations. Elle n'améliore la balance commerciale que sous certaines conditions, et l'effet peut d'abord être négatif avant de devenir favorable : c'est la « courbe en J ». Le taux de change est aussi un canal de la politique monétaire."
+        }
+      ],
+      "anecdotes": [
+        "Le marché des changes tourne en continu, 24 heures sur 24, du dimanche soir au vendredi soir."
+      ],
+      "wikipedia": "Taux de change"
+    },
+    "source": "D'après Wikipédia — Taux de change"
+  },
+  {
+    "id": "economie-064",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "La balance commerciale",
+    "subtitle": "Exportations moins importations",
+    "summary": "La balance commerciale est la différence, sur une période donnée, entre la valeur de ce qu'un pays vend à l'étranger et de ce qu'il lui achète. Si les exportations dépassent les importations, c'est un excédent ; dans le cas inverse, un déficit.\nLes deux mots sonnent comme « riche » et « pauvre », mais la réalité est plus nuancée.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Excédent n'est pas victoire",
+          "texte": "Le mercantilisme jugeait qu'un pays s'enrichit en vendant plus qu'il n'achète. Adam Smith jugeait cette doctrine absurde : un échange profite aux deux parties. Pour les partisans du libre-échange, déficit et excédent ne sont ni bons ni mauvais en soi, mais ils peuvent révéler un autre problème, comme une industrie fragile ou une monnaie surévaluée."
+        },
+        {
+          "titre": "Ne pas tout lire dans un seul solde",
+          "texte": "La balance commerciale n'est qu'un morceau de la balance courante, qui s'inscrit à son tour dans la balance des paiements. Un pays très touristique peut avoir un déficit commercial tout en affichant un solde courant positif, car les dépenses des visiteurs compensent l'excès d'importations. En France, la douane calcule le solde chaque mois, uniquement pour les biens."
+        }
+      ],
+      "anecdotes": [
+        "Si l'on additionne les chiffres officiels de tous les pays, le monde semble avoir un excédent commercial avec lui-même, ce qui est impossible. On l'explique en partie par le blanchiment d'argent, la fraude et des erreurs d'enregistrement."
+      ],
+      "wikipedia": "Balance commerciale"
+    },
+    "source": "D'après Wikipédia — Balance commerciale"
+  },
+  {
+    "id": "economie-065",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Le libre-échange",
+    "subtitle": "Commercer sans barrières entre pays",
+    "summary": "Le libre-échange consiste à supprimer les obstacles au commerce entre pays : droits de douane, quotas, règles qui avantagent les producteurs nationaux. Il repose sur l'idée d'avantage comparatif : chaque pays gagne à se spécialiser dans ce qu'il fait le mieux.\nSon contraire, c'est le protectionnisme, et le sujet reste très débattu.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une histoire en dents de scie",
+          "texte": "Le libre-échange est longtemps resté une exception. Il progresse avec Adam Smith, le traité franco-anglais de 1786, puis l'ouverture britannique de 1846 et le traité Cobden-Chevalier de 1860. L'Allemagne rétablit des droits de douane en 1879. Après la Seconde Guerre mondiale, le GATT (1947) puis l'OMC (1995) relancent l'ouverture des marchés."
+        },
+        {
+          "titre": "Pour et contre",
+          "texte": "La plupart des économistes estiment qu'il stimule la croissance et élargit le choix des consommateurs. Ses critiques rappellent qu'il fait des perdants : des industries et des emplois exposés à des pays où la main-d'œuvre coûte moins cher, et un possible avantage aux pays aux normes écologiques les plus faibles. Presque tous les États gardent d'ailleurs quelques protections."
+        }
+      ],
+      "anecdotes": [
+        "Vers 1875, les États-Unis taxaient les produits manufacturés importés à 40 à 50 %, contre 9 à 12 % en Europe continentale, alors à l'apogée de son libéralisme."
+      ],
+      "wikipedia": "Libre-échange"
+    },
+    "source": "D'après Wikipédia — Libre-échange"
+  },
+  {
+    "id": "economie-066",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Le protectionnisme",
+    "subtitle": "Protéger ses producteurs de la concurrence étrangère",
+    "summary": "Le protectionnisme est une politique qui protège les producteurs et les travailleurs d'un pays de la concurrence étrangère, en rendant les produits importés plus chers ou plus difficiles à vendre.\nSes partisans veulent défendre l'emploi et les industries naissantes ; ses détracteurs y voient un frein à la croissance et une hausse des prix pour les consommateurs.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Les outils de la protection",
+          "texte": "Le plus connu est le droit de douane, un impôt sur la marchandise importée. Viennent ensuite les quotas, qui limitent les quantités, l'embargo, qui interdit un produit, et les normes techniques, sanitaires ou environnementales qui alourdissent le coût d'entrée. Les subventions aux entreprises nationales jouent aussi ce rôle. Presque tous les pays en utilisent au moins un."
+        },
+        {
+          "titre": "Remède ou poison ?",
+          "texte": "Les économistes libéraux jugent qu'il réduit la productivité et l'efficacité. D'autres, dans la lignée de Keynes, défendent une part d'autosuffisance. Thomas Piketty note que presque tous les pays qui ont réussi leur décollage, de l'Angleterre au Japon, ont d'abord protégé leur économie. Le tarif américain Smoot-Hawley de 1930 reste l'exemple le plus débattu."
+        }
+      ],
+      "anecdotes": [
+        "En 1982, pour freiner les magnétoscopes japonais, la France a exigé que tous soient dédouanés à Poitiers, une petite ville de l'intérieur du pays : la lenteur administrative servait de barrière."
+      ],
+      "wikipedia": "Protectionnisme"
+    },
+    "source": "D'après Wikipédia — Protectionnisme"
+  },
+  {
+    "id": "economie-067",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Le capitalisme",
+    "subtitle": "Un système fondé sur la propriété privée et le profit",
+    "summary": "Le capitalisme est un système économique où les moyens de production appartiennent à des propriétaires privés, qui investissent pour dégager un profit, dans un cadre régulé par le marché. Il s'est développé en Europe à la fin du Moyen Âge, puis s'est diffusé avec la révolution industrielle.\nIl existe sous des formes très variées, et ses mérites comme ses défauts sont l'objet de débats.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des origines marchandes",
+          "texte": "Les premières pratiques apparaissent en Italie et aux Pays-Bas, avec le commerce, la banque et la finance. En 1602, la Compagnie néerlandaise des Indes orientales devient la première grande société par actions, de durée permanente et à responsabilité limitée aux apports. Max Weber a lié l'esprit du capitalisme à la morale protestante."
+        },
+        {
+          "titre": "Un mot, plusieurs visions",
+          "texte": "Selon le dosage de marché et d'État, on parle de laissez-faire, d'économie sociale de marché ou de capitalisme d'État : la plupart des économies sont mixtes. Ses défenseurs soulignent la croissance et l'innovation, ses critiques les inégalités, le pouvoir du capital et les dégâts écologiques. Les libéraux préfèrent souvent dire « économie de marché »."
+        }
+      ],
+      "anecdotes": [
+        "Karl Marx, le plus célèbre critique du capitalisme, parlait de « mode de production capitaliste » et n'employait pratiquement pas le mot. Le sens moderne du mot est attribué au socialiste Louis Blanc, vers 1850."
+      ],
+      "wikipedia": "Capitalisme"
+    },
+    "source": "D'après Wikipédia — Capitalisme"
+  },
+  {
+    "id": "economie-068",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "L'économie sociale et solidaire",
+    "subtitle": "Entreprendre autrement, sans viser d'abord le profit",
+    "summary": "L'économie sociale et solidaire (ESS) regroupe des organisations qui cherchent à concilier activité économique et utilité sociale : coopératives, mutuelles, associations et fondations. On la présente parfois comme le « tiers secteur », à côté du privé lucratif et du public.\nEn France, une loi de l'été 2014, dite loi Hamon, a précisé son périmètre.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des règles différentes",
+          "texte": "Ces structures donnent la priorité aux membres et à la communauté plutôt qu'à la seule rentabilité. La gouvernance est démocratique : dans une coopérative, une personne égale une voix, quel que soit son apport. C'est le principe de double qualité : ceux qui bénéficient du service en sont aussi les propriétaires, comme dans une mutuelle où les assurés sont les assureurs."
+        },
+        {
+          "titre": "Social ou solidaire ?",
+          "texte": "Les deux mots se recoupent. L'économie sociale vient surtout d'Europe, où les coopératives ont toujours compté. L'économie solidaire est née plus récemment de mouvements sociaux, comme les usines reprises par leurs ouvriers lors de la crise argentine. Du commerce équitable à l'épargne solidaire, ses domaines sont très variés."
+        }
+      ],
+      "anecdotes": [
+        "Lors de sa création officielle en 2002, le réseau international RIPESS a volontairement supprimé le mot « et » de son nom, pour souligner que la solidarité va au-delà de l'économie sociale."
+      ],
+      "wikipedia": "Économie sociale et solidaire"
+    },
+    "source": "D'après Wikipédia — Économie sociale et solidaire"
+  },
+  {
+    "id": "economie-069",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Le salaire minimum",
+    "subtitle": "Un plancher légal pour la rémunération du travail",
+    "summary": "Le salaire minimum est la rémunération la plus basse qu'un employeur a le droit de verser. Il vise à garantir un revenu aux salariés et à éviter que des entreprises ne se fassent concurrence en payant le moins possible.\nLe principe est admis presque partout, mais son niveau déclenche des débats vifs entre économistes.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le débat des économistes",
+          "texte": "Pour beaucoup d'économistes libéraux, un plancher trop haut interdit d'embaucher ceux dont le travail rapporte moins : c'est un frein à l'emploi. Pour d'autres, il limite l'exploitation, réduit les inégalités et rééquilibre le rapport de force avec les employeurs. Les modèles simples prédisent du chômage ; dans le cas d'un employeur dominant, l'effet peut s'inverser."
+        },
+        {
+          "titre": "Des lois récentes, des règles anciennes",
+          "texte": "Les premières lois modernes datent des années 1890 : Nouvelle-Zélande en 1894, puis l'État australien de Victoria en 1896, pour lutter contre les ateliers de misère. Le Royaume-Uni suit en 1909 et les États-Unis en 1938 au niveau fédéral. Certains pays, comme la Suède ou l'Italie, s'en remettent aux négociations entre syndicats et employeurs."
+        }
+      ],
+      "anecdotes": [
+        "En Angleterre, après la peste noire, le roi Édouard III fixa en 1349 un salaire maximum, pas minimum : la pénurie de main-d'œuvre faisait grimper les salaires, et il voulait les plafonner."
+      ],
+      "wikipedia": "Salaire minimum"
+    },
+    "source": "D'après Wikipédia — Salaire minimum"
+  },
+  {
+    "id": "economie-070",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "L'impôt",
+    "subtitle": "Un prélèvement obligatoire pour financer l'intérêt général",
+    "summary": "L'impôt est un prélèvement obligatoire, fait par la puissance publique sur les ressources des personnes, sans contrepartie directe. Il finance les services d'intérêt général : écoles, routes, justice, sécurité.\nDans une démocratie, c'est le pouvoir législatif qui décide de le créer et de le fixer. Trois paramètres le caractérisent : sur quoi on le calcule (l'assiette), à quel taux, et comment on le perçoit.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une très vieille histoire",
+          "texte": "Les premiers systèmes connus remontent à l'Égypte ancienne, avec la corvée et la dîme. À Rome, la collecte était confiée à des fermiers d'impôts, les publicains. Au Moyen Âge, on paie la taille, la gabelle ou la dîme. En France, Charles VII dispense en 1439 le roi de réunir les états généraux pour lever l'impôt. La TVA, elle, ne naît qu'en 1954."
+        },
+        {
+          "titre": "À quoi sert-il ?",
+          "texte": "D'abord à financer les dépenses publiques. Mais il sert aussi à orienter les comportements : certaines taxes, dites pigouviennes, font payer le pollueur pour compenser les effets négatifs de son activité sur autrui. Pour les keynésiens, il aide à lisser les cycles économiques. Impôts et cotisations sociales forment ensemble les « prélèvements obligatoires »."
+        }
+      ],
+      "anecdotes": [
+        "La pierre de Rosette, qui a permis de déchiffrer les hiéroglyphes, porte un décret de Ptolémée V accordant des exemptions fiscales."
+      ],
+      "wikipedia": "Impôt"
+    },
+    "source": "D'après Wikipédia — Impôt"
+  },
+  {
+    "id": "economie-071",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "La Sécurité sociale en France",
+    "subtitle": "Un système de protection né en 1945",
+    "summary": "La Sécurité sociale protège les Français contre les « risques sociaux » : maladie, vieillesse, accident du travail, charges de famille, perte d'autonomie. Elle repose sur la solidarité nationale.\nElle a été instituée par les ordonnances d'octobre 1945, dans l'esprit du programme du Conseil national de la Résistance, avec le haut fonctionnaire Pierre Laroque et les ministres Alexandre Parodi puis Ambroise Croizat.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des racines plus anciennes",
+          "texte": "Avant 1945 existaient déjà des mutuelles, reconnues par la loi de 1835 puis encouragées par la charte de 1898, une loi de 1898 sur les accidents du travail, et des assurances sociales votées en 1928. La Sécurité sociale a unifié et généralisé ces dispositifs. Les historiens débattent du rôle exact des uns et des autres, certains parlant d'un large consensus politique."
+        },
+        {
+          "titre": "Un système inspiré de Bismarck",
+          "texte": "Elle fut d'abord financée par des cotisations sur les salaires, selon la logique d'assurance née en Allemagne, plutôt que par l'impôt comme dans le modèle britannique de Beveridge. Les régimes spéciaux ont subsisté pour certains métiers. Une branche autonomie s'est ajoutée en 2021. Son équilibre financier reste un sujet récurrent de réforme."
+        }
+      ],
+      "anecdotes": [
+        "La loi de 1910 sur les retraites ouvrières fixait l'âge de la retraite à 65 ans, bien au-delà de l'espérance de vie de nombreux ouvriers de l'époque."
+      ],
+      "wikipedia": "Sécurité sociale (France)"
+    },
+    "source": "D'après Wikipédia — Sécurité sociale (France)"
+  },
+  {
+    "id": "economie-072",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "La retraite par répartition",
+    "subtitle": "Les actifs d'aujourd'hui paient les pensions d'aujourd'hui",
+    "summary": "Dans la retraite par répartition, les cotisations des travailleurs en activité servent à payer, au même moment, les pensions des retraités. En échange, les actifs acquièrent des droits : leur propre pension sera financée par les générations suivantes.\nC'est un système fondé sur la solidarité entre générations, que l'on oppose à la retraite par capitalisation.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un équilibre à tenir",
+          "texte": "Les caisses ne constituent en principe pas de réserve : les cotisations perçues doivent couvrir les pensions versées. Si le nombre de retraités grimpe, par exemple parce que l'on vit plus longtemps, ou si le chômage réduit les cotisants, l'équilibre se tend. Trois leviers existent : le taux de cotisation, le niveau des pensions et l'âge de départ. Chacun a ses partisans et ses opposants."
+        },
+        {
+          "titre": "Pourquoi ce système s'est imposé",
+          "texte": "Les premiers régimes obligatoires, comme celui de Bismarck en 1889 ou les retraites ouvrières françaises de 1910, fonctionnaient par capitalisation. Les crises et l'inflation d'après-guerre en ont montré les limites. La répartition s'est alors généralisée, appuyée sur la masse salariale. En France, le régime actuel date du vote du 26 avril 1946, dans le cadre de la Sécurité sociale."
+        }
+      ],
+      "anecdotes": [
+        "En France, en 2000, seuls 20 % des hommes de 60 à 64 ans travaillaient, contre 70 % en 1960 : un recul qui pèse sur le nombre de cotisants."
+      ],
+      "wikipedia": "Retraite par répartition"
+    },
+    "source": "D'après Wikipédia — Retraite par répartition"
+  },
+  {
+    "id": "economie-073",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "La théorie des jeux",
+    "subtitle": "Comment décider quand le résultat dépend des choix des autres",
+    "summary": "La théorie des jeux étudie les situations où plusieurs « joueurs » prennent des décisions qui s'influencent mutuellement : deux entreprises qui fixent leurs prix, deux pays qui négocient, ou deux joueurs d'échecs.\nNée dans les mathématiques, elle est devenue un outil majeur de l'économie, et plusieurs de ses spécialistes ont reçu le prix Nobel d'économie.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des origines à Nash",
+          "texte": "Dès 1838, Antoine-Augustin Cournot analyse la concurrence entre deux producteurs. Émile Borel et Ernst Zermelo posent des bases dans les années 1920. En 1944, John von Neumann et Oskar Morgenstern publient l'ouvrage fondateur. Vers 1950, John Nash formalise l'équilibre qui porte son nom : une situation où aucun joueur n'a intérêt à changer seul de stratégie."
+        },
+        {
+          "titre": "Des types de jeux",
+          "texte": "Dans un jeu à somme nulle, comme les échecs ou pierre-feuille-ciseaux, ce que l'un gagne, l'autre le perd. Le célèbre dilemme du prisonnier n'en est pas un : les deux joueurs peuvent perdre. Quand le jeu se répète, la réputation et la mémoire changent les stratégies. Certains économistes y voient moins une prédiction qu'une façon de réfléchir, comme les fables."
+        }
+      ],
+      "anecdotes": [
+        "Plus d'un siècle avant Nash, l'analyse du duopole de Cournot (1838) contenait déjà l'idée de l'équilibre de Nash. Nash, Selten et Harsanyi n'ont reçu le Nobel d'économie qu'en 1994."
+      ],
+      "wikipedia": "Théorie des jeux"
+    },
+    "source": "D'après Wikipédia — Théorie des jeux"
+  },
+  {
+    "id": "economie-074",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "vocabulaire",
+    "title": "Coefficient de Gini",
+    "subtitle": "Un indicateur d'inégalité conçu en 1912",
+    "summary": "Un seul nombre pour résumer l'inégalité d'une répartition, le plus souvent celle des revenus d'un pays : c'est le coefficient de Gini, aussi appelé indice de Gini. Il va de 0 à 1.\nIl a été mis au point par le statisticien italien Corrado Gini, qui l'a publié en 1912.",
+    "details": {
+      "definition": "Mesure statistique qui varie de 0, égalité parfaite, à 1, valeur limite où une seule personne détiendrait tout le revenu.",
+      "exemple": "Si tous les habitants d'un pays gagnaient exactement la même somme, le coefficient vaudrait 0. Plus quelques personnes concentrent les revenus, plus il se rapproche de 1.",
+      "confusions": [
+        {
+          "mot": "Courbe de Lorenz",
+          "explication": "Courbe qui cumule les revenus des plus pauvres aux plus riches ; le coefficient de Gini mesure l'écart entre elle et l'égalité parfaite."
+        },
+        {
+          "mot": "Indice d'Atkinson",
+          "explication": "Il tient compte du poids que la société accorde aux inégalités, ce que le coefficient de Gini ne fait pas."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un nombre qui cache des différences",
+          "texte": "Deux sociétés très différentes peuvent avoir le même coefficient. Si la moitié de la population n'a aucun revenu et que l'autre moitié gagne autant, il vaut 0,5. Il vaut aussi 0,5 si 75 % des gens se partagent 25 % du revenu et 25 % se partagent les 75 % restants. Il ne distingue pas non plus inégalités en bas ou en haut de l'échelle."
+        },
+        {
+          "titre": "Ordres de grandeur et usages",
+          "texte": "D'après des données de la Banque mondiale, les pays les plus égalitaires se situent autour de 0,2 et les plus inégalitaires autour de 0,5. On l'emploie aussi pour la richesse ou le patrimoine, et même en informatique, dans certaines méthodes d'apprentissage comme les arbres de décision."
+        }
+      ],
+      "wikipedia": "Coefficient de Gini"
+    },
+    "source": "D'après Wikipédia — Coefficient de Gini"
+  },
+  {
+    "id": "economie-075",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "vocabulaire",
+    "title": "Indice des prix à la consommation (IPC)",
+    "subtitle": "Le thermomètre officiel de l'inflation",
+    "summary": "L'IPC suit comment varie, en moyenne, le prix de ce que les ménages achètent. Un indice qui passe à 105 signifie que les prix ont monté de 5 %.\nSa variation sur un an sert de mesure habituelle de l'inflation. En France, il est calculé par l'Insee, dont le premier indice date de 1914.",
+    "details": {
+      "definition": "Indice statistique qui suit, dans le temps, le prix d'un panier de biens et services représentatif des achats des ménages, chaque produit étant pondéré selon son poids dans le budget.",
+      "exemple": "Si le panier coûte 100 une année de référence et 105 un an plus tard, l'inflation sur la période est de 5 %. Chaque produit pèse selon sa part dans le budget moyen des ménages.",
+      "confusions": [
+        {
+          "mot": "Indice des prix à la consommation harmonisé (IPCH)",
+          "explication": "Version harmonisée entre pays de l'Union européenne pour pouvoir comparer leurs inflations."
+        },
+        {
+          "mot": "Déflateur du PIB",
+          "explication": "Il mesure le prix des biens produits dans le pays, y compris ceux vendus aux entreprises, à l'État ou à l'étranger, et non ceux achetés par les ménages."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Comment on le construit",
+          "texte": "Impossible de suivre tous les prix : l'Insee relève chaque mois environ 200 000 prix, dans des milliers de points de vente et auprès d'opérateurs comme les transports ou l'énergie. Ces prix sont pondérés par la place de chaque dépense dans la consommation moyenne. L'idée d'un panier de référence remonte à l'économiste anglais Joseph Lowe, en 1822."
+        },
+        {
+          "titre": "Ses limites",
+          "texte": "L'indice repose sur un consommateur moyen : une personne au profil particulier peut vivre une inflation très différente. L'innovation, l'amélioration de la qualité et les changements d'habitudes compliquent le calcul. Il n'est pas non plus un indicateur du coût de la vie. Il sert pourtant à indexer des contrats, des pensions alimentaires et le SMIC."
+        }
+      ],
+      "wikipedia": "Indice des prix à la consommation"
+    },
+    "source": "D'après Wikipédia — Indice des prix à la consommation"
+  },
+  {
+    "id": "economie-076",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Les externalités",
+    "subtitle": "Ce que l'on subit ou gagne sans en avoir décidé",
+    "summary": "Une externalité apparaît quand l'activité d'un agent économique avantage ou pénalise d'autres personnes, sans que ce soit pris en compte dans le prix. La pollution d'une usine en est l'exemple type.\nAutrement dit, certains coûts et certains bénéfices échappent au marché, ce que les économistes appellent une défaillance du marché.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Positives et négatives",
+          "texte": "Une externalité négative nuit à autrui sans compensation : bruit, fumées, changement climatique. Une externalité positive profite à d'autres gratuitement : une infrastructure qui valorise les terrains voisins, ou un savoir-faire qui se diffuse entre collègues. Le cas de l'apiculteur et de l'arboriculteur, décrit par James Meade en 1952, est un exemple positif dans les deux sens."
+        },
+        {
+          "titre": "Que faire ?",
+          "texte": "Alfred Marshall a introduit la notion en 1890 et Arthur Pigou a proposé en 1920 une taxe égale au dommage causé, dite pigouvienne, pour que le pollueur en supporte le coût. D'autres préfèrent les règles ou les compensations. En 1904, la Cour suprême du Tennessee a autorisé des mines de cuivre à continuer, à condition d'indemniser les victimes de leurs pluies acides."
+        }
+      ],
+      "anecdotes": [
+        "Dans l'exemple de James Meade, chacun profite de l'autre sans payer : les abeilles de l'apiculteur pollinisent les arbres fruitiers, et la proximité des arbres améliore son miel."
+      ],
+      "wikipedia": "Externalité"
+    },
+    "source": "D'après Wikipédia — Externalité"
   }
 ]

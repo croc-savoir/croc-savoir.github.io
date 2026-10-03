@@ -966,5 +966,286 @@
     "bonneReponse": 0,
     "explication": "Adoptée le 31 décembre 1989, la loi Doubin oblige le franchiseur à remettre au candidat un document d'information précontractuelle au moins vingt jours avant la signature. Le franchisé reste un commerçant indépendant, responsable de son entreprise.",
     "source": "D'après Wikipédia — Franchise (réseau commercial)"
+  },
+  {
+    "id": "q-economie-062",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Selon une estimation célèbre de Robert Solow, quelle part de la hausse à long terme du revenu par habitant aux États-Unis vient du progrès technique ?",
+    "choix": [
+      "Environ 80 %",
+      "Environ 20 %",
+      "Environ 50 %",
+      "Environ 95 %"
+    ],
+    "bonneReponse": 0,
+    "explication": "Solow a estimé que le progrès technique explique environ 80 % de la hausse à long terme du revenu par habitant américain, et l'investissement en capital seulement les 20 % restants. La productivité est donc le grand moteur de la croissance.",
+    "source": "D'après Wikipédia — Croissance économique"
+  },
+  {
+    "id": "q-economie-063",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel économiste a généralisé l'observation d'Adam Smith sur les coiffeurs pour expliquer les faibles gains de productivité dans les services ?",
+    "choix": [
+      "William Baumol",
+      "Thomas Malthus",
+      "Vilfredo Pareto",
+      "Ronald Coase"
+    ],
+    "bonneReponse": 0,
+    "explication": "Adam Smith citait déjà les coiffeurs : couper les cheveux ne devient pas beaucoup plus rapide. William Baumol a généralisé l'idée, d'où la « maladie de Baumol » : les services gagnent peu en productivité mais voient leurs prix monter.",
+    "source": "D'après Wikipédia — Productivité"
+  },
+  {
+    "id": "q-economie-064",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel savant aurait avoué, après le krach des mers du Sud, qu'il prévoyait la course des astres mais pas les emballements de la foule ?",
+    "choix": [
+      "Isaac Newton",
+      "Gottfried Leibniz",
+      "Blaise Pascal",
+      "Adam Smith"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après la déroute de 1720, Isaac Newton aurait fait cet aveu. L'épisode a donné le mot « bulle » à la finance : un prix gonflé, fragile, qui finit par éclater, et le Parlement anglais a réagi par une loi, le Bubble Act.",
+    "source": "D'après Wikipédia — Bulle (économie)"
+  },
+  {
+    "id": "q-economie-065",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "À propos d'une baisse de la valeur d'une monnaie, que décrit la « courbe en J » ?",
+    "choix": [
+      "La balance commerciale peut d'abord se dégrader avant de s'améliorer",
+      "La monnaie remonte aussitôt à son niveau précédent",
+      "Les prix des importations baissent puis restent stables",
+      "Les exportations chutent durablement avant de disparaître"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une dépréciation rend les importations plus chères tout de suite, alors que les volumes mettent du temps à s'ajuster : le solde commercial se creuse d'abord, puis s'améliore, dessinant un J, si une certaine condition, dite de Marshall-Lerner, est remplie.",
+    "source": "D'après Wikipédia — Taux de change"
+  },
+  {
+    "id": "q-economie-066",
+    "domain": "economie",
+    "format": "difference",
+    "question": "Quelle est la différence entre la balance commerciale et la balance courante ?",
+    "choix": [
+      "La balance commerciale compare exportations et importations ; la balance courante y ajoute notamment les revenus d'investissements et l'aide internationale",
+      "La balance commerciale inclut les mouvements de capitaux ; la balance courante ne concerne que les marchandises",
+      "La balance commerciale est calculée chaque année, la balance courante chaque jour",
+      "Il n'y a aucune différence : les deux termes désignent le même solde"
+    ],
+    "bonneReponse": 0,
+    "explication": "La balance commerciale n'est qu'une composante de la balance courante, qui s'inscrit elle-même dans la balance des paiements. Un pays très touristique peut ainsi afficher un déficit commercial mais un solde courant positif.",
+    "source": "D'après Wikipédia — Balance commerciale"
+  },
+  {
+    "id": "q-economie-067",
+    "domain": "economie",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire du libre-échange dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Traité de commerce franco-anglais",
+        "annee": "1786"
+      },
+      {
+        "label": "Ouverture commerciale britannique avec l'Anti-Corn Law League",
+        "annee": "1846"
+      },
+      {
+        "label": "Traité Cobden-Chevalier signé par Napoléon III",
+        "annee": "1860"
+      },
+      {
+        "label": "Signature du GATT",
+        "annee": "1947"
+      },
+      {
+        "label": "Création de l'Organisation mondiale du commerce",
+        "annee": "1995"
+      }
+    ],
+    "explication": "Le libre-échange avance par à-coups : traité de 1786, libéralisation britannique de 1846, traité Cobden-Chevalier de 1860, puis GATT en 1947 que l'OMC remplace en 1995. Le protectionnisme est revenu entre-temps, par exemple en Allemagne en 1879.",
+    "source": "D'après Wikipédia — Libre-échange"
+  },
+  {
+    "id": "q-economie-068",
+    "domain": "economie",
+    "format": "associer",
+    "question": "Associe chaque instrument protectionniste à sa définition.",
+    "paires": [
+      {
+        "gauche": "Droit de douane",
+        "droite": "Taxe sur une marchandise qui entre dans le pays",
+        "explication": "Il renchérit le produit étranger pour décourager son achat."
+      },
+      {
+        "gauche": "Quota d'importation",
+        "droite": "Limite sur la quantité d'un produit qu'on peut importer",
+        "explication": "Il plafonne le volume, quel que soit le prix du produit."
+      },
+      {
+        "gauche": "Embargo commercial",
+        "droite": "Interdiction d'importer certains produits",
+        "explication": "C'est la forme la plus radicale de fermeture à un produit."
+      },
+      {
+        "gauche": "Norme technique ou sanitaire",
+        "droite": "Cahier des charges à respecter pour vendre dans le pays",
+        "explication": "Elle peut alourdir le coût d'entrée des produits importés."
+      }
+    ],
+    "explication": "Le protectionnisme combine mesures tarifaires (droits de douane) et non tarifaires (quotas, embargos, normes). Presque tous les pays en pratiquent au moins une forme, pour protéger des producteurs ou pour des raisons de sécurité.",
+    "source": "D'après Wikipédia — Protectionnisme"
+  },
+  {
+    "id": "q-economie-069",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quelle compagnie fondée en 1602 est considérée comme la première grande société par actions ?",
+    "choix": [
+      "La Compagnie néerlandaise des Indes orientales",
+      "La Compagnie des mers du Sud",
+      "La Compagnie du Mississippi",
+      "La Banque d'Amsterdam"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Compagnie néerlandaise des Indes orientales a innové : durée permanente et responsabilité limitée aux apports. Ses actions, négociées et très spéculées, ont fait d'elle un des symboles des débuts du capitalisme.",
+    "source": "D'après Wikipédia — Capitalisme"
+  },
+  {
+    "id": "q-economie-070",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Dans une mutuelle, selon le principe de « double qualité », qui joue à la fois le rôle de clients et d'assureurs ?",
+    "choix": [
+      "Les assurés eux-mêmes",
+      "L'État",
+      "Des actionnaires extérieurs",
+      "La banque centrale"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans l'économie sociale, celui qui bénéficie du service en est aussi le sociétaire, détenteur du pouvoir en assemblée. Le fonds de garantie d'une mutuelle est alimenté par les cotisations de ses assurés, qui sont donc aussi ses assureurs.",
+    "source": "D'après Wikipédia — Économie sociale et solidaire"
+  },
+  {
+    "id": "q-economie-071",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Les premières lois modernes sur le salaire minimum datent des années 1890, en Nouvelle-Zélande et en Australie.",
+    "reponse": true,
+    "explication": "La Nouvelle-Zélande adopte une loi en 1894, suivie de l'État australien de Victoria en 1896. Le Royaume-Uni suit en 1909, puis les États-Unis au niveau fédéral en 1938. Le but initial était de lutter contre les ateliers de misère.",
+    "source": "D'après Wikipédia — Salaire minimum"
+  },
+  {
+    "id": "q-economie-072",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Après la peste noire, que fixe le roi d'Angleterre Édouard III en 1349 ?",
+    "choix": [
+      "Un salaire maximum pour les ouvriers",
+      "Un salaire minimum légal",
+      "Un prix plafond du pain",
+      "Une durée maximale de travail"
+    ],
+    "bonneReponse": 0,
+    "explication": "La peste avait décimé la population : la main-d'œuvre manquait et les salaires s'envolaient. L'ordonnance des travailleurs de 1349 les plafonne, à l'inverse d'un salaire minimum. Ce n'est que plus tard que ces règles servent à garantir un salaire de subsistance.",
+    "source": "D'après Wikipédia — Salaire minimum"
+  },
+  {
+    "id": "q-economie-073",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel haut fonctionnaire est à l'origine des travaux sur lesquels reposent les ordonnances de 1945 créant la Sécurité sociale ?",
+    "choix": [
+      "Pierre Laroque",
+      "Jean Monnet",
+      "Alfred Sauvy",
+      "Jacques Rueff"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pierre Laroque, spécialiste des questions sociales, portait le projet depuis 1940. Ses idées ont servi de base aux ordonnances d'octobre 1945 ; Alexandre Parodi puis Ambroise Croizat, au ministère du Travail, ont ensuite installé le régime général.",
+    "source": "D'après Wikipédia — Sécurité sociale (France)"
+  },
+  {
+    "id": "q-economie-074",
+    "domain": "economie",
+    "format": "difference",
+    "question": "Quelle est la différence entre la retraite par répartition et la retraite par capitalisation ?",
+    "choix": [
+      "En répartition, les cotisations des actifs paient les pensions du moment ; en capitalisation, chacun constitue un capital pour sa propre retraite",
+      "En répartition, chacun épargne pour lui-même ; en capitalisation, l'État paie toutes les pensions",
+      "La répartition est réservée aux fonctionnaires, la capitalisation aux salariés du privé",
+      "La répartition ne verse des pensions qu'après 75 ans, la capitalisation dès 60 ans"
+    ],
+    "bonneReponse": 0,
+    "explication": "La répartition repose sur la solidarité entre générations : les actifs d'aujourd'hui financent les retraités d'aujourd'hui. Les premiers régimes obligatoires, comme celui de Bismarck en 1889, fonctionnaient par capitalisation, jusqu'aux crises d'après-guerre.",
+    "source": "D'après Wikipédia — Retraite par répartition"
+  },
+  {
+    "id": "q-economie-075",
+    "domain": "economie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis un économiste français du XIXe siècle.",
+      "En 1838, j'ai publié un ouvrage cherchant à appliquer les mathématiques à la théorie des richesses.",
+      "J'y analyse un duopole : deux entreprises qui choisissent chacune la quantité à produire.",
+      "Mon analyse est vue comme une préfiguration de l'équilibre de Nash."
+    ],
+    "reponse": "Antoine-Augustin Cournot",
+    "explication": "Cournot a analysé le duopole dès 1838, plus d'un siècle avant John Nash. Son modèle est vu comme une toute première version de l'équilibre de Nash, un des piliers de la théorie des jeux.",
+    "source": "D'après Wikipédia — Théorie des jeux"
+  },
+  {
+    "id": "q-economie-076",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Le dilemme du prisonnier est un jeu à somme nulle.",
+    "reponse": false,
+    "explication": "Dans un jeu à somme nulle, comme les échecs, le poker ou pierre-feuille-ciseaux, ce que l'un gagne, l'autre le perd. Dans le dilemme du prisonnier, les joueurs peuvent perdre tous les deux : leurs intérêts ne sont pas strictement opposés.",
+    "source": "D'après Wikipédia — Théorie des jeux"
+  },
+  {
+    "id": "q-economie-077",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Si l'indice des prix à la consommation passe de 100 à 105 en un an, que peut-on en conclure ?",
+    "choix": [
+      "Les prix du panier ont augmenté d'environ 5 %",
+      "Les prix ont baissé de 5 %",
+      "Les prix ont augmenté de 105 %",
+      "Le pouvoir d'achat a augmenté de 5 %"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un indice de 105 par rapport à une base de 100 signifie que le prix du panier a progressé de 5 %, soit une inflation de 5 % sur la période. Cette inflation ne dit pas à elle seule ce que devient le pouvoir d'achat, qui dépend aussi des revenus.",
+    "source": "D'après Wikipédia — Indice des prix à la consommation"
+  },
+  {
+    "id": "q-economie-078",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Un coefficient de Gini égal à 0 signifie qu'une seule personne détient tout le revenu.",
+    "reponse": false,
+    "explication": "C'est l'inverse : 0 correspond à l'égalité parfaite, où tous les revenus sont identiques. Plus on s'approche de 1, plus les revenus sont concentrés. Le chiffre 1 ne peut jamais être atteint tout à fait.",
+    "source": "D'après Wikipédia — Coefficient de Gini"
+  },
+  {
+    "id": "q-economie-079",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel économiste britannique a proposé, en 1920, de taxer une nuisance à hauteur du dommage qu'elle cause ?",
+    "choix": [
+      "Arthur Pigou",
+      "Alfred Marshall",
+      "John Maynard Keynes",
+      "James Meade"
+    ],
+    "bonneReponse": 0,
+    "explication": "Alfred Marshall a introduit la notion d'externalité en 1890, et Arthur Pigou en a tiré la taxe corrective dans son ouvrage de 1920. Cette taxe pigouvienne fait payer au pollueur le coût que son activité impose aux autres.",
+    "source": "D'après Wikipédia — Externalité"
   }
 ]

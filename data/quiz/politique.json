@@ -723,5 +723,272 @@
     "bonneReponse": 0,
     "explication": "Le mot apparaît en septembre 1983 sous la plume d'Édouard Balladur dans Le Monde, bien avant la première cohabitation de 1986. François Mitterrand lui préférait l'expression « coexistence institutionnelle ».",
     "source": "D'après Wikipédia — Cohabitation en France"
+  },
+  {
+    "id": "q-politique-047",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Combien de voix faut-il au minimum pour adopter une résolution de fond au Conseil de sécurité de l'ONU, en l'absence de veto ?",
+    "choix": [
+      "Neuf voix sur quinze",
+      "Huit voix sur quinze",
+      "Dix voix sur quinze",
+      "Douze voix sur quinze"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une résolution de fond exige neuf voix sur quinze, sans vote négatif d'un des cinq membres permanents. Chaque membre dispose d'une seule voix, qu'il soit permanent ou élu pour deux ans.",
+    "source": "D'après Wikipédia — Conseil de sécurité des Nations unies"
+  },
+  {
+    "id": "q-politique-048",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Au Conseil de sécurité de l'ONU, la simple abstention d'un membre permanent suffit à bloquer une résolution.",
+    "reponse": false,
+    "explication": "Faux. Seul un vote négatif d'un membre permanent est un veto. Dans la pratique, l'abstention d'un membre permanent n'empêche pas l'adoption du texte, tant que neuf voix favorables sont réunies.",
+    "source": "D'après Wikipédia — Conseil de sécurité des Nations unies"
+  },
+  {
+    "id": "q-politique-049",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Où siège la Cour internationale de justice, seul organe principal de l'ONU installé hors de New York ?",
+    "choix": [
+      "À La Haye, aux Pays-Bas",
+      "À Genève, en Suisse",
+      "À Bruxelles, en Belgique",
+      "À Vienne, en Autriche"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Cour internationale de justice siège au palais de la Paix, à La Haye. Ses langues officielles sont le français et l'anglais, et ses quinze juges sont élus pour neuf ans par l'Assemblée générale et le Conseil de sécurité.",
+    "source": "D'après Wikipédia — Cour internationale de justice"
+  },
+  {
+    "id": "q-politique-050",
+    "domain": "politique",
+    "format": "difference",
+    "question": "Quelle est la différence entre la Cour pénale internationale et la Cour internationale de justice ?",
+    "choix": [
+      "La CPI juge des individus accusés de crimes graves, la CIJ règle des différends entre États",
+      "La CPI règle des différends entre États, la CIJ juge des individus",
+      "La CPI dépend de l'ONU, la CIJ est une organisation indépendante",
+      "La CPI siège à La Haye, la CIJ siège à New York"
+    ],
+    "bonneReponse": 0,
+    "explication": "La CPI poursuit des personnes pour génocide, crimes contre l'humanité, crimes de guerre et crime d'agression. La CIJ, organe de l'ONU, tranche les litiges juridiques entre États. Les deux siègent pourtant à La Haye.",
+    "source": "D'après Wikipédia — Cour pénale internationale"
+  },
+  {
+    "id": "q-politique-051",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel nouvel emblème, en plus de la croix et du croissant rouges, a été créé par le protocole additionnel de 2005 aux conventions de Genève ?",
+    "choix": [
+      "Le cristal rouge",
+      "L'étoile rouge",
+      "Le triangle rouge",
+      "Le losange bleu"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le protocole additionnel de décembre 2005 a créé le cristal rouge, un losange rouge sur fond blanc. Il permet à des sociétés nationales de secours de rejoindre le Mouvement de la Croix-Rouge sans adopter la croix ni le croissant.",
+    "source": "D'après Wikipédia — Conventions de Genève"
+  },
+  {
+    "id": "q-politique-052",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel est le titre de l'appel publié en 1961 par Peter Benenson, qui a lancé Amnesty International ?",
+    "choix": [
+      "Les prisonniers oubliés",
+      "Un souvenir de Solferino",
+      "Pour la liberté de tous",
+      "La paix perpétuelle"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 28 mai 1961, le journal The Observer publie l'article de Peter Benenson, Les prisonniers oubliés. Il y dénonce l'emprisonnement de personnes pour leurs opinions. L'appel déclenche plus de 1 000 offres de soutien.",
+    "source": "D'après Wikipédia — Amnesty International"
+  },
+  {
+    "id": "q-politique-053",
+    "domain": "politique",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Genève et mes affaires en Algérie ont fini par faire faillite en 1867.",
+      "En juin 1859, je découvre les champs de bataille de Solferino, où des milliers de blessés ne reçoivent aucun soin.",
+      "J'ai publié en 1862 un livre intitulé Un souvenir de Solferino.",
+      "J'ai participé à la fondation du Comité international de la Croix-Rouge en 1863.",
+      "J'ai reçu en 1901 le premier prix Nobel de la paix."
+    ],
+    "reponse": "Henry Dunant",
+    "explication": "Henry Dunant, Genevois, a été bouleversé par Solferino et a écrit Un souvenir de Solferino. Il a cofondé le Comité de la Croix-Rouge en 1863, puis a obtenu en 1901 le premier prix Nobel de la paix.",
+    "source": "D'après Wikipédia — Henry Dunant"
+  },
+  {
+    "id": "q-politique-054",
+    "domain": "politique",
+    "format": "associer",
+    "question": "Associe chaque institution à la ville où se tiennent son siège ou ses séances plénières.",
+    "paires": [
+      {
+        "gauche": "Organisation mondiale de la santé",
+        "droite": "Genève",
+        "explication": "L'OMS a son siège à Genève, en Suisse, depuis sa première assemblée en 1948."
+      },
+      {
+        "gauche": "UNESCO",
+        "droite": "Paris",
+        "explication": "L'UNESCO a son siège à Paris, place de Fontenoy, dans le 7e arrondissement."
+      },
+      {
+        "gauche": "Commission européenne",
+        "droite": "Bruxelles",
+        "explication": "La Commission européenne siège à Bruxelles, dans le bâtiment Berlaymont."
+      },
+      {
+        "gauche": "Parlement européen (séances plénières)",
+        "droite": "Strasbourg",
+        "explication": "Les séances plénières mensuelles du Parlement européen ont lieu à Strasbourg."
+      }
+    ],
+    "explication": "Ces institutions sont réparties entre plusieurs villes. Le Parlement européen est même installé sur trois sites : Strasbourg pour les séances plénières, Bruxelles pour les commissions, Luxembourg pour une partie de son secrétariat.",
+    "source": "D'après Wikipédia — Organisation mondiale de la santé"
+  },
+  {
+    "id": "q-politique-055",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quelle grande puissance, pourtant principale promotrice de la Société des Nations, n'en a jamais été membre ?",
+    "choix": [
+      "Les États-Unis",
+      "Le Royaume-Uni",
+      "La France",
+      "L'Italie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le président américain Woodrow Wilson a beaucoup œuvré pour la SDN et a obtenu un Nobel de la paix, en 1919. Mais le Sénat américain a refusé de ratifier le traité de Versailles, et les États-Unis n'ont jamais adhéré.",
+    "source": "D'après Wikipédia — Société des Nations"
+  },
+  {
+    "id": "q-politique-056",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Le G7 repose sur un traité et dispose d'un secrétariat permanent.",
+    "reponse": false,
+    "explication": "Faux. Le G7 est un forum informel : il n'est pas fondé sur un traité et n'a pas de secrétariat permanent. La présidence tourne chaque année, et le pays qui l'exerce fixe les priorités et accueille le sommet.",
+    "source": "D'après Wikipédia — Groupe des sept (économie)"
+  },
+  {
+    "id": "q-politique-057",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quelle organisation est devenue le 21e membre du G20 lors du sommet de 2023 ?",
+    "choix": [
+      "L'Union africaine",
+      "L'ASEAN",
+      "L'OPEP",
+      "Le Mercosur"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le G20 compte dix-neuf pays et l'Union européenne depuis ses débuts. L'Union africaine les a rejoints comme 21e membre au sommet de New Delhi, en 2023, ce qui renforce la présence du continent africain dans le forum.",
+    "source": "D'après Wikipédia — Groupe des vingt"
+  },
+  {
+    "id": "q-politique-058",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "D'où vient le sigle BRIC, utilisé pour la première fois en 2001 ?",
+    "choix": [
+      "D'une note d'un économiste d'une banque d'investissement",
+      "D'un traité signé par quatre chefs d'État",
+      "D'un rapport de l'ONU sur les pays émergents",
+      "D'une déclaration du G7"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le sigle a été inventé en 2001 par Jim O'Neill, économiste de Goldman Sachs, pour désigner le Brésil, la Russie, l'Inde et la Chine. Les quatre pays en ont ensuite fait un groupe, dont le premier sommet a eu lieu en 2009.",
+    "source": "D'après Wikipédia — BRICS+"
+  },
+  {
+    "id": "q-politique-059",
+    "domain": "politique",
+    "format": "frise",
+    "question": "Remets ces événements dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Première convention de Genève",
+        "annee": "1864"
+      },
+      {
+        "label": "Création de la Société des Nations",
+        "annee": "1919"
+      },
+      {
+        "label": "Création de l'UNESCO",
+        "annee": "1945"
+      },
+      {
+        "label": "Mise en œuvre de l'espace Schengen",
+        "annee": "1995"
+      },
+      {
+        "label": "Entrée en vigueur du Statut de Rome, début de la CPI",
+        "annee": "2002"
+      }
+    ],
+    "explication": "Ces dates jalonnent la coopération internationale : convention de 1864, pacte de la SDN en 1919, UNESCO en novembre 1945, Schengen en mars 1995 et CPI en juillet 2002, après 60 ratifications du Statut de Rome.",
+    "source": "D'après Wikipédia — Société des Nations"
+  },
+  {
+    "id": "q-politique-060",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quelle institution européenne a le quasi-monopole de l'initiative des lois de l'Union dans ses domaines de compétence ?",
+    "choix": [
+      "La Commission européenne",
+      "Le Parlement européen",
+      "Le Conseil européen",
+      "La Cour de justice de l'Union européenne"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Commission européenne propose les textes, qui sont ensuite votés par le Parlement européen et le Conseil de l'Union européenne. Le Parlement et le Conseil peuvent seulement lui demander de présenter une proposition.",
+    "source": "D'après Wikipédia — Commission européenne"
+  },
+  {
+    "id": "q-politique-061",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Depuis 1979, les députés européens sont élus au suffrage universel direct.",
+    "reponse": true,
+    "explication": "Vrai. Jusqu'en 1979, les membres de l'assemblée étaient désignés parmi les parlementaires nationaux. Depuis les premières élections directes, en 1979, les citoyens de l'Union élisent leurs députés tous les cinq ans.",
+    "source": "D'après Wikipédia — Parlement européen"
+  },
+  {
+    "id": "q-politique-062",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel État membre de l'Union européenne a négocié une exemption pour rester hors de Schengen et garder sa zone de voyage avec le Royaume-Uni ?",
+    "choix": [
+      "L'Irlande",
+      "Le Danemark",
+      "La Pologne",
+      "Le Portugal"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'Irlande effectue toujours des contrôles aux frontières avec les autres pays de l'Union. Elle conserve la zone commune de voyage avec le Royaume-Uni, en place depuis 1923, qui permet de circuler sans passeport entre ces territoires.",
+    "source": "D'après Wikipédia — Espace Schengen"
+  },
+  {
+    "id": "q-politique-063",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel épisode de 1962 est considéré comme le moment où la Guerre froide a été le plus près de devenir une guerre nucléaire ?",
+    "choix": [
+      "La crise des missiles de Cuba",
+      "Le blocus de Berlin",
+      "La guerre de Corée",
+      "Le soulèvement de Budapest"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1962, le déploiement de missiles soviétiques à Cuba, après celui de missiles américains en Europe, provoque une crise majeure. Elle est largement vue comme le moment le plus proche d'un affrontement nucléaire direct entre les deux superpuissances.",
+    "source": "D'après Wikipédia — Guerre froide"
   }
 ]

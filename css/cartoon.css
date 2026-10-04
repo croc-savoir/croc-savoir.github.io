@@ -1,0 +1,115 @@
+/* ===================== cartoon.css =====================
+ * Style « cartoon » : mode alternatif, activé par le bouton « Style » en bas de l'accueil.
+ * Tout est sous « html.style-cartoon » : sans cette classe (mode néon), rien ne change.
+ * Contours noirs épais, ombres NETTES (aucune lueur), aplats francs, boutons qui s'enfoncent.
+ * Pour retirer ce mode : supprimer ce fichier, js/style-toggle.js et leurs lignes dans index.html.
+ * ======================================================== */
+html.style-cartoon {
+  --bg: #2a2f37; --bg-soft: #30353e; --bg-elevated: #3b424d; --card: #343a44; --card-hover: #3b424d; --ink: #12161c;
+  --border: #12161c; --border-soft: #12161c;
+  --text: #f7f3ec; --text-muted: #d3d9e2; --text-faint: #a9b3c1;
+  --accent: #3f82e8; --accent-2: #9cc2ff; --accent-pale: #e2edff; --accent-rgb: 63, 130, 232;
+  --success: #47d08a; --success-bg: rgba(71, 208, 138, 0.24); --danger: #ff6b6b; --danger-bg: rgba(255, 107, 107, 0.24);
+  --radius-xl: 24px; --radius-lg: 20px; --radius-md: 16px;
+  --shadow-soft: 0 5px 0 #12161c; --shadow-lift: 0 6px 0 #12161c;
+  --g-vivant: #36c98a; --g-arts: #ff7aa8; --g-monde: #ffb83d;
+}
+html.style-cartoon body {
+  background: radial-gradient(rgba(255, 255, 255, 0.055) 1.6px, transparent 1.7px) 0 0 / 20px 20px, var(--bg);
+}
+html.style-cartoon body::before { display: none; }
+html.style-cartoon .screen-bar { background: var(--bg-soft); backdrop-filter: none; -webkit-backdrop-filter: none; border-bottom: 3px solid var(--ink); }
+
+/* ---------- Panneaux : contour épais + ombre nette ---------- */
+html.style-cartoon :is(.home-card, .daily-card, .mode-card, .fiche-card, .quiz-card, .serie-end, .serie-end__scorecard, .search-pill) {
+  border: 3px solid var(--ink); box-shadow: 0 5px 0 var(--ink);
+}
+html.style-cartoon :is(.subtheme-row, .fiche-list-item, .serie-rec, .dt-group, .dt-card) { border: 3px solid var(--ink); box-shadow: 0 4px 0 var(--ink); }
+html.style-cartoon .dt-group { color: var(--text); }
+html.style-cartoon .dt-group__emoji { filter: drop-shadow(0 3px 0 rgba(18, 22, 28, 0.85)); }
+html.style-cartoon :is(.fiche-card, .quiz-card, .serie-end, .mode-card, .subtheme-row, .fiche-list-item, .search-pill) { background: var(--card); }
+html.style-cartoon .serie-end__scorecard { background: var(--bg-elevated); box-shadow: 0 4px 0 var(--ink); }
+html.style-cartoon .fiche-card::before { display: none; }
+
+/* ---------- Accueil : une couleur franche par carte, logos posés directement et centrés ---------- */
+html.style-cartoon .daily-card:not(.daily-card--quiz) { background: #ffb02e; color: var(--ink); }
+html.style-cartoon .daily-card:not(.daily-card--quiz) .daily-card__desc { color: #4a3510; }
+html.style-cartoon .daily-card--quiz { background: #ff7a9c; color: var(--ink); }
+html.style-cartoon .daily-card--quiz .daily-card__desc { color: #5a1c30; }
+html.style-cartoon .daily-card.is-done { background: var(--card); color: var(--text); }
+html.style-cartoon .daily-card.is-done .daily-card__desc { color: var(--text-muted); }
+html.style-cartoon .home-card--fiches { background: #3f82e8; color: #fff; }
+html.style-cartoon .home-card--quiz { background: #8f63f0; color: #fff; }
+html.style-cartoon .home-card--dragon { background: #2eb27a; color: #fff; }
+html.style-cartoon .home-card__desc { color: rgba(255, 255, 255, 0.9); }
+html.style-cartoon .daily-card__streak { background: var(--ink); color: #ffb02e; }
+html.style-cartoon :is(.home-card__icon, .daily-card__icon, .mode-card__icon) {
+  background: none; border: none; width: 56px; height: 56px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 40px; line-height: 1; padding-bottom: 5px;           /* l'emoji est dessiné un peu bas : on le remonte */
+  filter: drop-shadow(0 3px 0 rgba(18, 22, 28, 0.85));
+}
+
+/* ---------- Boutons : « touches » qui s'enfoncent ; principal = bleu ---------- */
+html.style-cartoon .btn {
+  border: 3px solid var(--ink); border-radius: 16px; box-shadow: 0 5px 0 var(--ink); font-weight: 800;
+  display: inline-flex; align-items: center; justify-content: center; text-align: center; line-height: 1.2;
+  transition: transform .08s ease, box-shadow .08s ease;
+}
+html.style-cartoon .btn:active { transform: translateY(4px); box-shadow: 0 1px 0 var(--ink); }
+html.style-cartoon .btn-primary { background: #3f82e8; color: #fff; text-shadow: 0 2px 0 rgba(0, 0, 0, 0.28); }
+html.style-cartoon .btn-ghost { background: #4a5260; color: #fff; }
+html.style-cartoon .btn-ghost:hover { background: #566072; border-color: var(--ink); }
+html.style-cartoon .btn-next { width: 100%; }
+html.style-cartoon .btn--wide { width: 100%; }
+html.style-cartoon :is(.home-link, .crumb-back) { background: var(--bg-elevated); border: 3px solid var(--ink); box-shadow: 0 4px 0 var(--ink); color: var(--text); font-weight: 800; }
+html.style-cartoon .home-link:active { transform: translateY(3px); box-shadow: 0 1px 0 var(--ink); background: var(--bg-elevated); }
+html.style-cartoon .chip { border: 2.5px solid var(--ink); background: var(--bg-elevated); color: var(--text); box-shadow: 0 3px 0 var(--ink); }
+html.style-cartoon .chip.is-active { background: #3f82e8; color: #fff; border-color: var(--ink); }
+html.style-cartoon .toast { background: #fff; color: var(--ink); border: 3px solid var(--ink); box-shadow: 0 4px 0 var(--ink); font-weight: 800; }
+
+/* ---------- Thèmes : logo direct, contour de la couleur du groupe tout autour ---------- */
+html.style-cartoon .domain-tile {
+  --g: var(--g-monde); background: var(--card);
+  border: 4px solid var(--g); box-shadow: 0 0 0 3px var(--ink), 0 8px 0 3px var(--ink); margin-bottom: 4px;
+}
+html.style-cartoon .domain-tile[data-g="vivant"] { --g: var(--g-vivant); }
+html.style-cartoon .domain-tile[data-g="arts"] { --g: var(--g-arts); }
+html.style-cartoon .domain-tile[data-g="monde"] { --g: var(--g-monde); }
+html.style-cartoon .domain-tile--wide { --g: #3f82e8; }
+html.style-cartoon .domain-grid { gap: 18px 14px; }
+html.style-cartoon .domain-tile__emoji {
+  display: block; align-self: flex-start; width: auto; height: auto; background: none; border: none;
+  font-size: 34px; line-height: 1; filter: drop-shadow(0 3px 0 rgba(18, 22, 28, 0.85));
+}
+html.style-cartoon .domain-tile--wide .domain-tile__emoji { align-self: center; }
+html.style-cartoon .domain-tile__label { color: #fff; font-weight: 800; }
+
+/* ---------- Fiche, quiz : étiquette en ruban, réponses « touches » ---------- */
+html.style-cartoon .fiche-card__type { background: #ffc93c; color: var(--ink); border: 2.5px solid var(--ink); border-radius: 10px; transform: rotate(-2deg); font-weight: 800; }
+html.style-cartoon .fiche-card__title { text-shadow: 0 2px 0 var(--ink); }
+html.style-cartoon :is(.opt-btn, .pair-item, .frise-item) { background: var(--bg-elevated); border: 3px solid var(--ink); box-shadow: 0 4px 0 var(--ink); font-weight: 700; color: var(--text); }
+html.style-cartoon .opt-btn.is-selected { background: #3f82e8; border-color: var(--ink); color: #fff; }
+html.style-cartoon .opt-btn.is-selected .opt-letter { color: #fff; border-color: #fff; }
+html.style-cartoon :is(.opt-btn.is-correct, .pair-item.is-good, .frise-item.is-correct-pos) { background: #47d08a; border-color: var(--ink); color: var(--ink); }
+html.style-cartoon :is(.opt-btn.is-wrong, .pair-item.is-bad, .frise-item.is-wrong-pos) { background: #ff6b6b; border-color: var(--ink); color: var(--ink); }
+html.style-cartoon .pair-item.is-linked { border-color: var(--ink); background: #4a5260; }
+html.style-cartoon .result-banner.is-correct { background: #47d08a; color: var(--ink); border: 3px solid var(--ink); font-weight: 800; }
+html.style-cartoon .result-banner.is-wrong { background: #ff6b6b; color: var(--ink); border: 3px solid var(--ink); font-weight: 800; }
+
+/* ---------- Écran de fin : score façon autocollant (la couleur suit toujours le score) ---------- */
+html.style-cartoon .serie-end__value {
+  color: hsl(var(--score-h) 92% 62%); -webkit-text-stroke: 3px var(--ink); paint-order: stroke fill; text-shadow: 0 4px 0 var(--ink); font-size: 66px;
+}
+html.style-cartoon .serie-end__msg { text-shadow: 0 3px 0 var(--ink); }
+html.style-cartoon .serie-rec.is-ok { background: rgba(71, 208, 138, 0.3); border-color: var(--ink); }
+html.style-cartoon .serie-rec.is-ko { background: rgba(255, 107, 107, 0.3); border-color: var(--ink); }
+html.style-cartoon .serie-rec__tag { color: #ffc93c; }
+html.style-cartoon .serie-rec__a.is-ok strong { color: #7ff0b3; }
+html.style-cartoon .serie-rec__a.is-ko strong { color: #ff9a9a; }
+html.style-cartoon .serie-bar { border: 2.5px solid var(--ink); background: var(--bg-elevated); height: 12px; }
+html.style-cartoon .serie-bar__fill { background: #3f82e8; }
+
+/* ---------- Pas de lueur en mode cartoon (animations) ---------- */
+html.style-cartoon.anim-on :is(.opt-btn.is-correct, .pair-item.is-good, .frise-item.is-correct-pos)::before { display: none; }
+html.style-cartoon.anim-on :is(.home-card, .daily-card, .mode-card, .domain-tile, .subtheme-row, .fiche-list-item)::after { display: none; }

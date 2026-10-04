@@ -112,10 +112,12 @@ const App = (() => {
     renderDailyCard();
     Series.updateHomeCard();
     document.getElementById('dragon-badge').hidden = !Dragon.hasDue();
-    const nErr = Store.getErrorIds().length;
-    const errBtn = document.getElementById('btn-errors');
-    errBtn.hidden = nErr === 0;
-    errBtn.textContent = `🔁 Revoir mes erreurs (${nErr})`;
+    const errBtn = document.getElementById('btn-errors');   // retiré de l'accueil (remplacé par le choix de style)
+    if (errBtn) {
+      const nErr = Store.getErrorIds().length;
+      errBtn.hidden = nErr === 0;
+      errBtn.textContent = `🔁 Revoir mes erreurs (${nErr})`;
+    }
   }
 
   function renderDailyCard() {
@@ -162,7 +164,7 @@ const App = (() => {
     document.getElementById('screen-back').addEventListener('click', back);
     document.getElementById('screen-home').addEventListener('click', goHome);
     document.getElementById('btn-stats')?.addEventListener('click', openStats);
-    document.getElementById('btn-errors').addEventListener('click', showErrorReview);
+    document.getElementById('btn-errors')?.addEventListener('click', showErrorReview);
 
     window.addEventListener('popstate', (e) => {
       const statsEl = document.getElementById('view-stats');

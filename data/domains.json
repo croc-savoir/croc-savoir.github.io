@@ -3,126 +3,147 @@
     "id": "histoire",
     "label": "Histoire",
     "emoji": "🏛️",
-    "hue": 42
+    "hue": 42,
+    "groupe": "monde"
   },
   {
     "id": "geo",
     "label": "Géographie",
     "emoji": "🌍",
-    "hue": 172
-  },
-  {
-    "id": "sciences",
-    "label": "Sciences",
-    "emoji": "🔬",
-    "hue": 195
-  },
-  {
-    "id": "astronomie",
-    "label": "Astronomie",
-    "emoji": "🪐",
-    "hue": 250
-  },
-  {
-    "id": "nature",
-    "label": "Plantes & nature",
-    "emoji": "🌿",
-    "hue": 135
-  },
-  {
-    "id": "animaux",
-    "label": "Animaux",
-    "emoji": "🦁",
-    "hue": 28
-  },
-  {
-    "id": "corps-humain",
-    "label": "Corps humain",
-    "emoji": "🧬",
-    "hue": 350
-  },
-  {
-    "id": "art",
-    "label": "Art",
-    "emoji": "🎨",
-    "hue": 320
-  },
-  {
-    "id": "litterature",
-    "label": "Littérature",
-    "emoji": "✒️",
-    "hue": 18
-  },
-  {
-    "id": "musique",
-    "label": "Musique",
-    "emoji": "🎸",
-    "hue": 282
-  },
-  {
-    "id": "cinema",
-    "label": "Cinéma",
-    "emoji": "🎬",
-    "hue": 0
-  },
-  {
-    "id": "mythologie",
-    "label": "Mythologie",
-    "emoji": "🦄",
-    "hue": 300
-  },
-  {
-    "id": "religions",
-    "label": "Religions",
-    "emoji": "🕯️",
-    "hue": 60
-  },
-  {
-    "id": "philosophie",
-    "label": "Philosophie",
-    "emoji": "🦉",
-    "hue": 225
-  },
-  {
-    "id": "economie",
-    "label": "Économie",
-    "emoji": "💰",
-    "hue": 152
+    "hue": 172,
+    "groupe": "monde"
   },
   {
     "id": "politique",
     "label": "Politique",
     "emoji": "⚖️",
-    "hue": 210
+    "hue": 210,
+    "groupe": "monde"
   },
   {
-    "id": "sport",
-    "label": "Sport",
-    "emoji": "⚽",
-    "hue": 100
+    "id": "economie",
+    "label": "Économie",
+    "emoji": "💰",
+    "hue": 152,
+    "groupe": "monde"
   },
   {
-    "id": "cuisine",
-    "label": "Cuisine",
-    "emoji": "🍳",
-    "hue": 10
+    "id": "religions",
+    "label": "Religions",
+    "emoji": "🕯️",
+    "hue": 60,
+    "groupe": "monde"
+  },
+  {
+    "id": "philosophie",
+    "label": "Philosophie",
+    "emoji": "🦉",
+    "hue": 225,
+    "groupe": "monde"
+  },
+  {
+    "id": "mythologie",
+    "label": "Mythologie",
+    "emoji": "🦄",
+    "hue": 300,
+    "groupe": "monde"
+  },
+  {
+    "id": "sciences",
+    "label": "Sciences",
+    "emoji": "🔬",
+    "hue": 195,
+    "groupe": "vivant"
+  },
+  {
+    "id": "astronomie",
+    "label": "Astronomie",
+    "emoji": "🪐",
+    "hue": 250,
+    "groupe": "vivant"
+  },
+  {
+    "id": "corps-humain",
+    "label": "Corps humain",
+    "emoji": "🧬",
+    "hue": 350,
+    "groupe": "vivant"
+  },
+  {
+    "id": "animaux",
+    "label": "Animaux",
+    "emoji": "🦁",
+    "hue": 28,
+    "groupe": "vivant"
+  },
+  {
+    "id": "nature",
+    "label": "Plantes & nature",
+    "emoji": "🌿",
+    "hue": 135,
+    "groupe": "vivant"
   },
   {
     "id": "tech",
     "label": "Inventions & tech",
     "emoji": "💡",
-    "hue": 45
+    "hue": 45,
+    "groupe": "vivant"
   },
   {
-    "id": "manga",
-    "label": "Manga & animés",
-    "emoji": "🍥",
-    "hue": 330
+    "id": "cuisine",
+    "label": "Cuisine",
+    "emoji": "🍳",
+    "hue": 10,
+    "groupe": "vivant"
+  },
+  {
+    "id": "cinema",
+    "label": "Cinéma",
+    "emoji": "🎬",
+    "hue": 0,
+    "groupe": "arts"
   },
   {
     "id": "jeux-video",
     "label": "Jeux vidéo",
     "emoji": "🎮",
-    "hue": 265
+    "hue": 265,
+    "groupe": "arts"
+  },
+  {
+    "id": "art",
+    "label": "Art",
+    "emoji": "🎨",
+    "hue": 320,
+    "groupe": "arts"
+  },
+  {
+    "id": "musique",
+    "label": "Musique",
+    "emoji": "🎸",
+    "hue": 282,
+    "groupe": "arts"
+  },
+  {
+    "id": "litterature",
+    "label": "Littérature",
+    "emoji": "✒️",
+    "hue": 18,
+    "groupe": "arts"
+  },
+  {
+    "id": "manga",
+    "label": "Manga & animés",
+    "emoji": "🍥",
+    "hue": 330,
+    "groupe": "arts"
+  },
+  {
+    "id": "sport",
+    "label": "Sport",
+    "emoji": "⚽",
+    "hue": 100,
+    "groupe": "arts"
   }
 ]

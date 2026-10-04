@@ -45,7 +45,8 @@ const App = (() => {
     if (name === 'search') Library.initSearch();
     if (name === 'favoris') Library.initFavorites();
     if (name === 'quiz-aleatoire') Quiz.initAleatoire();
-    if (name === 'quiz-theme') Quiz.initTheme();
+    if (name === 'quiz-theme') Series.initSeries();
+    if (name === 'quiz-jour') Series.initJour();
   }
 
   function render(name) {
@@ -109,6 +110,7 @@ const App = (() => {
         ? `${nD} thèmes · ${DataStore.compte(nF, 'fiche')} · ${DataStore.compte(nQ, 'question')}`
         : `${nD} thèmes · ${approx(nF, 'fiches')} · ${approx(nQ, 'quiz')}`;
     renderDailyCard();
+    Series.updateHomeCard();
     document.getElementById('dragon-badge').hidden = !Dragon.hasDue();
     const nErr = Store.getErrorIds().length;
     const errBtn = document.getElementById('btn-errors');

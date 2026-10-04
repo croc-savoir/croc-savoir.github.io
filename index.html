@@ -42,6 +42,14 @@
       <span class="daily-card__streak" id="daily-card-streak" hidden></span>
     </button>
 
+    <button class="daily-card daily-card--quiz" type="button" id="quizjour-card" data-go="quiz-jour">
+      <span class="daily-card__icon">🗓️</span>
+      <span class="daily-card__text">
+        <span class="daily-card__title">Quiz du jour</span>
+        <span class="daily-card__desc" id="quizjour-desc">20 questions · les mêmes pour tout le monde</span>
+      </span>
+    </button>
+
     <div class="home-choices">
       <button class="home-card home-card--fiches" type="button" data-go="fiches-menu">
         <span class="home-card__icon">📖</span>
@@ -107,19 +115,19 @@
   <section class="screen" data-screen="quiz-menu" data-title="Quiz" data-back="home" hidden>
     <p class="mode-intro">Quel type de quiz ?</p>
     <div class="mode-list">
-      <button class="mode-card" type="button" data-go="quiz-aleatoire">
-        <span class="mode-card__icon">🎲</span>
+      <button class="mode-card" type="button" data-go="quiz-theme">
+        <span class="mode-card__icon">🎯</span>
         <span class="mode-card__text">
-          <span class="mode-card__title">Aléatoire</span>
-          <span class="mode-card__desc">Des questions de tous les thèmes, en priorité celles que tu dois revoir.</span>
+          <span class="mode-card__title">Série de questions</span>
+          <span class="mode-card__desc">Choisis un thème et 10, 15 ou 20 questions. Un score et une médaille à la clé.</span>
         </span>
         <span class="mode-card__arrow">›</span>
       </button>
-      <button class="mode-card" type="button" data-go="quiz-theme">
-        <span class="mode-card__icon">🗂️</span>
+      <button class="mode-card" type="button" data-go="quiz-jour">
+        <span class="mode-card__icon">🗓️</span>
         <span class="mode-card__text">
-          <span class="mode-card__title">Par thème</span>
-          <span class="mode-card__desc">Choisis un domaine et un format de question.</span>
+          <span class="mode-card__title">Quiz du jour</span>
+          <span class="mode-card__desc">20 questions, les mêmes pour tout le monde. Une seule tentative par jour.</span>
         </span>
         <span class="mode-card__arrow">›</span>
       </button>
@@ -165,7 +173,11 @@
     <div class="card-stage" id="quiz-aleatoire-stage"></div>
   </section>
 
-  <section class="screen" data-screen="quiz-theme" data-title="Quiz · Par thème" data-back="quiz-menu" hidden>
+  <section class="screen" data-screen="quiz-jour" data-title="Quiz du jour" data-back="home" hidden>
+    <div id="quiz-jour-content"></div>
+  </section>
+
+  <section class="screen" data-screen="quiz-theme" data-title="Quiz · Série de questions" data-back="quiz-menu" hidden>
     <div id="quiz-theme-content"></div>
   </section>
 
@@ -195,6 +207,7 @@
 <script src="js/quiz-generators.js"></script>
 <script src="js/fiches.js"></script>
 <script src="js/quiz.js"></script>
+<script src="js/series.js"></script>
 <script src="js/stats.js"></script>
 <script src="js/daily.js"></script>
 <script src="js/library.js"></script>

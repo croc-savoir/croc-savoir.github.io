@@ -172,6 +172,13 @@
             if (justAnswered) confetti(/Sans faute/.test(daily.textContent) ? 60 : 34);
             continue;
           }
+          const serie = node.matches('.serie-end') ? node : node.querySelector('.serie-end');
+          if (serie) {
+            const pct = parseFloat(serie.dataset.pct || '0');
+            animateNumbers(serie.querySelector('.serie-end__value'), [0], 900);
+            if (justAnswered && pct >= 0.5) confetti(pct === 1 ? 70 : pct >= 0.9 ? 46 : 28);
+            continue;
+          }
           const fin = node.matches('.empty-state') ? node : node.querySelector('.empty-state');
           if (justAnswered && fin && /🎉/.test(fin.textContent)) confetti(34);
         }

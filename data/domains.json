@@ -2,106 +2,127 @@
   {
     "id": "histoire",
     "label": "Histoire",
-    "emoji": "🏛️"
+    "emoji": "🏛️",
+    "hue": 42
   },
   {
     "id": "geo",
     "label": "Géographie",
-    "emoji": "🌍"
+    "emoji": "🌍",
+    "hue": 172
   },
   {
     "id": "sciences",
     "label": "Sciences",
-    "emoji": "🔬"
+    "emoji": "🔬",
+    "hue": 195
   },
   {
     "id": "astronomie",
     "label": "Astronomie",
-    "emoji": "🪐"
+    "emoji": "🪐",
+    "hue": 250
   },
   {
     "id": "nature",
     "label": "Plantes & nature",
-    "emoji": "🌿"
+    "emoji": "🌿",
+    "hue": 135
   },
   {
     "id": "animaux",
     "label": "Animaux",
-    "emoji": "🦁"
+    "emoji": "🦁",
+    "hue": 28
   },
   {
     "id": "corps-humain",
     "label": "Corps humain",
-    "emoji": "🧬"
+    "emoji": "🧬",
+    "hue": 350
   },
   {
     "id": "art",
     "label": "Art",
-    "emoji": "🎨"
+    "emoji": "🎨",
+    "hue": 320
   },
   {
     "id": "litterature",
     "label": "Littérature",
-    "emoji": "✒️"
+    "emoji": "✒️",
+    "hue": 18
   },
   {
     "id": "musique",
     "label": "Musique",
-    "emoji": "🎸"
+    "emoji": "🎸",
+    "hue": 282
   },
   {
     "id": "cinema",
     "label": "Cinéma",
-    "emoji": "🎬"
+    "emoji": "🎬",
+    "hue": 0
   },
   {
     "id": "mythologie",
     "label": "Mythologie",
-    "emoji": "🦄"
+    "emoji": "🦄",
+    "hue": 300
   },
   {
     "id": "religions",
     "label": "Religions",
-    "emoji": "🕯️"
+    "emoji": "🕯️",
+    "hue": 60
   },
   {
     "id": "philosophie",
     "label": "Philosophie",
-    "emoji": "🦉"
+    "emoji": "🦉",
+    "hue": 225
   },
   {
     "id": "economie",
     "label": "Économie",
-    "emoji": "💰"
+    "emoji": "💰",
+    "hue": 152
   },
   {
     "id": "politique",
     "label": "Politique",
-    "emoji": "⚖️"
+    "emoji": "⚖️",
+    "hue": 210
   },
   {
     "id": "sport",
     "label": "Sport",
-    "emoji": "⚽"
+    "emoji": "⚽",
+    "hue": 100
   },
   {
     "id": "cuisine",
     "label": "Cuisine",
-    "emoji": "🍳"
+    "emoji": "🍳",
+    "hue": 10
   },
   {
     "id": "tech",
     "label": "Inventions & tech",
-    "emoji": "💡"
+    "emoji": "💡",
+    "hue": 45
   },
   {
     "id": "manga",
     "label": "Manga & animés",
-    "emoji": "🍥"
+    "emoji": "🍥",
+    "hue": 330
   },
   {
     "id": "jeux-video",
     "label": "Jeux vidéo",
-    "emoji": "🎮"
+    "emoji": "🎮",
+    "hue": 265
   }
 ]

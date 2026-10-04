@@ -271,6 +271,7 @@ const Fiches = (() => {
         const n = DataStore.compte(counts[d.id]?.fiches || 0, 'fiche');
         const tile = document.createElement('button');
         tile.className = 'domain-tile';
+        tile.style.setProperty('--th', d.hue ?? 220);
         tile.type = 'button';
         tile.innerHTML = `<span class="domain-tile__emoji">${d.emoji}</span><span class="domain-tile__label">${escapeHTML(d.label)}</span>${n ? `<span class="domain-tile__count">${n}</span>` : ''}`;
         tile.addEventListener('click', () => {

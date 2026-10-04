@@ -122,6 +122,16 @@ const Quiz = (() => {
     return btn;
   }
 
+  // Bouton de validation, inactif tant que rien n'est choisi.
+  function validateButton(texte = 'Valider la réponse') {
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'btn btn-primary btn-validate';
+    btn.textContent = texte;
+    btn.disabled = true;
+    return btn;
+  }
+
   function cardShell(item) {
     const wrap = document.createElement('div');
     wrap.className = 'quiz-card';
@@ -161,30 +171,42 @@ const Quiz = (() => {
     body.appendChild(list);
 
     let answered = false;
+    let picked = -1;
     // Ordre des réponses mélangé à chaque affichage : la bonne réponse n'a pas de place fixe.
     const order = QuizGen.shuffle(item.choix.map((_, i) => i));
     const good = order.indexOf(item.bonneReponse);
+    const validate = validateButton();
     order.forEach((orig, i) => {
       const btn = document.createElement('button');
       btn.className = 'opt-btn';
       btn.type = 'button';
       btn.textContent = item.choix[orig];
+      btn.innerHTML = `<span class="opt-letter">${String.fromCharCode(65 + i)}</span><span>${btn.innerHTML}</span>`;
       btn.addEventListener('click', () => {
         if (answered) return;
-        answered = true;
-        const correct = i === good;
-        [...list.children].forEach((b, j) => {
-          b.disabled = true;
-          if (j === good) b.classList.add('is-correct');
-          else if (j === i) b.classList.add('is-wrong');
-          else b.classList.add('is-dim');
-        });
-        const after = document.createElement('div');
-        answeredWrap(after, item, correct);
-        after.appendChild(nextButton(next));
-        wrap.appendChild(after);
+        picked = i;
+        [...list.children].forEach((b, j) => b.classList.toggle('is-selected', j === i));
+        validate.disabled = false;
       });
       list.appendChild(btn);
+    });
+    body.appendChild(validate);
+    validate.addEventListener('click', () => {
+      if (answered || picked < 0) return;
+      answered = true;
+      validate.remove();
+      const correct = picked === good;
+      [...list.children].forEach((b, j) => {
+        b.disabled = true;
+        b.classList.remove('is-selected');
+        if (j === good) b.classList.add('is-correct');
+        else if (j === picked) b.classList.add('is-wrong');
+        else b.classList.add('is-dim');
+      });
+      const after = document.createElement('div');
+      answeredWrap(after, item, correct);
+      after.appendChild(nextButton(next));
+      wrap.appendChild(after);
     });
   }
 
@@ -200,6 +222,8 @@ const Quiz = (() => {
     body.appendChild(row);
 
     let answered = false;
+    let picked = null;
+    const validate = validateButton();
     [['Vrai', true], ['Faux', false]].forEach(([label, val]) => {
       const btn = document.createElement('button');
       btn.className = 'opt-btn';
@@ -207,21 +231,30 @@ const Quiz = (() => {
       btn.textContent = label;
       btn.addEventListener('click', () => {
         if (answered) return;
-        answered = true;
-        const correct = val === item.reponse;
-        [...row.children].forEach((b) => {
-          b.disabled = true;
-          const bIsTrue = b.textContent === 'Vrai';
-          if (bIsTrue === item.reponse) b.classList.add('is-correct');
-          else if (b === btn) b.classList.add('is-wrong');
-          else b.classList.add('is-dim');
-        });
-        const after = document.createElement('div');
-        answeredWrap(after, item, correct);
-        after.appendChild(nextButton(next));
-        wrap.appendChild(after);
+        picked = val;
+        [...row.children].forEach(b => b.classList.toggle('is-selected', b === btn));
+        validate.disabled = false;
       });
       row.appendChild(btn);
+    });
+    body.appendChild(validate);
+    validate.addEventListener('click', () => {
+      if (answered || picked === null) return;
+      answered = true;
+      validate.remove();
+      const correct = picked === item.reponse;
+      [...row.children].forEach((b) => {
+        b.disabled = true;
+        b.classList.remove('is-selected');
+        const bIsTrue = b.textContent === 'Vrai';
+        if (bIsTrue === item.reponse) b.classList.add('is-correct');
+        else if (bIsTrue === picked) b.classList.add('is-wrong');
+        else b.classList.add('is-dim');
+      });
+      const after = document.createElement('div');
+      answeredWrap(after, item, correct);
+      after.appendChild(nextButton(next));
+      wrap.appendChild(after);
     });
   }
 
@@ -310,10 +343,12 @@ const Quiz = (() => {
   }
 
   // ---------------- Frise chronologique ----------------
+  // Les événements se déplacent en les faisant glisser par la poignée (comme les titres d'une playlist) ;
+  // la réponse n'est vérifiée qu'au clic sur « Valider l'ordre ».
   function renderFrise(item, body, wrap, next) {
     const q = document.createElement('p');
     q.className = 'quiz-card__question';
-    q.textContent = item.question || 'Touche les événements dans l\'ordre chronologique (du plus ancien au plus récent).';
+    q.textContent = item.question || 'Fais glisser les événements pour les ranger dans l\'ordre chronologique (du plus ancien en haut au plus récent en bas).';
     body.appendChild(q);
 
     const list = document.createElement('div');
@@ -321,44 +356,67 @@ const Quiz = (() => {
     body.appendChild(list);
 
     const events = QuizGen.shuffle(item.evenements.map((e, i) => ({ ...e, origIdx: i })));
-    const correctOrder = [...item.evenements]
-      .map((e, i) => ({ ...e, origIdx: i }))
-      .sort((a, b) => parseFloat(a.annee) - parseFloat(b.annee));
+    const sortedYears = [...item.evenements].map(e => parseFloat(e.annee)).sort((a, b) => a - b);
+    let locked = false;
 
-    const selection = [];
-    const itemEls = events.map((e) => {
-      const el = document.createElement('button');
-      el.type = 'button';
-      el.className = 'frise-item';
-      el.innerHTML = `<span class="frise-item__handle">${e.origIdx === -1 ? '' : '☰'}</span><span>${e.label}</span><span class="frise-item__year-tag"></span>`;
-      el.addEventListener('click', () => {
-        if (el.disabled) return;
-        el.disabled = true;
-        selection.push(e);
-        el.querySelector('.frise-item__handle').textContent = String(selection.length);
-        if (selection.length === events.length) finish();
+    function attachDrag(el, handle) {
+      handle.addEventListener('pointerdown', (ev) => {
+        if (locked) return;
+        ev.preventDefault();
+        el.classList.add('is-dragging');
+        // Écoute sur la fenêtre : déplacer l'élément dans la page ferait perdre la capture du doigt.
+        const move = (e) => {
+          const y = e.clientY;
+          // Défilement automatique près des bords de l'écran
+          if (y < 90) window.scrollBy(0, -14);
+          else if (y > window.innerHeight - 90) window.scrollBy(0, 14);
+          const autres = [...list.children].filter(c => c !== el);
+          const avant = autres.find(c => { const r = c.getBoundingClientRect(); return y < r.top + r.height / 2; });
+          if (avant) { if (el.nextSibling !== avant) list.insertBefore(el, avant); }
+          else if (list.lastElementChild !== el) list.appendChild(el);
+        };
+        const fin = () => {
+          el.classList.remove('is-dragging');
+          window.removeEventListener('pointermove', move);
+          window.removeEventListener('pointerup', fin);
+          window.removeEventListener('pointercancel', fin);
+        };
+        window.addEventListener('pointermove', move);
+        window.addEventListener('pointerup', fin);
+        window.addEventListener('pointercancel', fin);
       });
+    }
+
+    events.forEach((e) => {
+      const el = document.createElement('div');
+      el.className = 'frise-item';
+      el.innerHTML = `<span class="frise-item__handle" aria-label="Déplacer">☰</span><span class="frise-item__label">${e.label}</span><span class="frise-item__year-tag"></span>`;
+      el._evt = e;
+      attachDrag(el, el.querySelector('.frise-item__handle'));
       list.appendChild(el);
-      return el;
     });
 
-    function finish() {
-      // Pour chaque élément, on compare le rang auquel il a été touché
-      // au rang qu'il occupe dans l'ordre chronologique réel.
+    const validate = validateButton("Valider l'ordre");
+    validate.disabled = false;
+    body.appendChild(validate);
+    validate.addEventListener('click', () => {
+      if (locked) return;
+      locked = true;
+      validate.remove();
+      list.classList.add('is-locked');
+      list.querySelectorAll('.is-dragging').forEach(el => el.classList.remove('is-dragging'));
+      // Chaque événement doit se trouver à la place que son année lui donne dans l'ordre chronologique.
       let correct = true;
-      events.forEach((e, domIdx) => {
-        const el = itemEls[domIdx];
-        const clickRank = selection.indexOf(e);
-        const correctRank = correctOrder.findIndex(c => c.origIdx === e.origIdx);
-        el.querySelector('.frise-item__year-tag').textContent = e.annee;
-        if (clickRank === correctRank) el.classList.add('is-correct-pos');
+      [...list.children].forEach((el, pos) => {
+        el.querySelector('.frise-item__year-tag').textContent = el._evt.annee;
+        if (parseFloat(el._evt.annee) === sortedYears[pos]) el.classList.add('is-correct-pos');
         else { el.classList.add('is-wrong-pos'); correct = false; }
       });
       const after = document.createElement('div');
       answeredWrap(after, item, correct);
       after.appendChild(nextButton(next));
       wrap.appendChild(after);
-    }
+    });
   }
 
   // ---------------- Qui suis-je ? ----------------

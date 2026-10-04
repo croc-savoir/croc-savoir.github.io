@@ -20,12 +20,13 @@
   :root { --a-med: 280ms; --a-slow: 320ms; --a-shift: 32px; }
 }
 
-/* Pas de barre de défilement horizontale parasite pendant un mouvement */
-html.anim-busy { overflow-x: clip; }
+/* Pas de barre de défilement horizontale parasite pendant un mouvement : on coupe ce qui dépasse
+ * sur le conteneur des écrans (en permanence), et NON sur <html> : changer l'overflow de <html>
+ * en cours de route modifiait la taille de l'écran sur certains téléphones (l'accueil « grandissait »). */
+html.anim-on #view-root { overflow-x: clip; }
 
 /* ---------- 1. Transitions entre écrans ---------- */
 /* a) API View Transitions (Chrome, Edge, Safari récents) : l'en-tête reste en place, le contenu glisse */
-html.anim-on .screen-bar { view-transition-name: screen-bar; }
 html.anim-on.vt-fwd::view-transition-old(root),
 html.anim-on.vt-back::view-transition-old(root),
 html.anim-on.vt-home::view-transition-old(root),

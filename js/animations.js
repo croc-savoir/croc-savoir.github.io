@@ -23,6 +23,9 @@
   }
 
   // ---------- Transitions entre écrans ----------
+  // Désactivées (false) : sur Samsung Browser, l'API View Transitions superposait l'ancien et le nouvel écran
+  // un instant (effet de « rafraîchissement »). Le repli CSS ci-dessous est utilisé à la place.
+  const USE_VIEW_TRANSITIONS = false;
   const screenOf = (name) => document.querySelector(`.screen[data-screen="${name}"]`);
   function depth(name) {
     let d = 0, n = name;
@@ -37,7 +40,7 @@
   // a) API View Transitions : on intercepte le clic, on laisse le navigateur photographier l'écran,
   //    puis on rejoue le clic à l'intérieur de la transition (l'appli fait alors son changement d'écran).
   document.addEventListener('click', (e) => {
-    if (replaying || !isOn() || !document.startViewTransition) return;
+    if (replaying || !USE_VIEW_TRANSITIONS || !isOn() || !document.startViewTransition) return;
     const t = e.target.closest && e.target.closest('[data-go], #screen-back, #screen-home');
     if (!t || t.disabled) return;
     const dir = t.id === 'screen-back' ? 'back' : t.id === 'screen-home' ? 'home' : 'fwd';
@@ -75,7 +78,8 @@
         if (!el.classList || !el.classList.contains('screen') || el.hidden) continue;
         const name = el.dataset.screen;
         if (name === shown) continue;
-        const dir = depth(name) > depth(shown) ? 'fwd' : depth(name) < depth(shown) ? 'back' : 'fade';
+        // L'accueil apparaît en simple fondu (sans glissement) : un mouvement de toute la page y ressemblait à un rafraîchissement
+        const dir = name === 'home' ? 'fade' : depth(name) > depth(shown) ? 'fwd' : depth(name) < depth(shown) ? 'back' : 'fade';
         shown = name;
         setThemeColor(name);
         if (!isOn() || viewTransitionRunning) continue;

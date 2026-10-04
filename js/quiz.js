@@ -259,11 +259,18 @@ const Quiz = (() => {
   }
 
   // ---------------- Associer ----------------
+  // On relie un élément de gauche à un élément de droite (un trait coloré les joint), on peut défaire et refaire,
+  // et la réponse n'est vérifiée qu'au clic sur « Valider les paires ».
   function renderAssocier(item, body, wrap, next) {
     const q = document.createElement('p');
     q.className = 'quiz-card__question';
-    q.textContent = item.question || 'Associe chaque élément à sa paire.';
+    q.textContent = item.question || 'Relie chaque élément à sa paire.';
     body.appendChild(q);
+
+    const hint = document.createElement('p');
+    hint.className = 'pair-hint';
+    hint.textContent = "Touche un élément à gauche, puis son correspondant à droite. Touche un élément relié pour défaire le lien.";
+    body.appendChild(hint);
 
     const board = document.createElement('div');
     board.className = 'pair-board';
@@ -273,73 +280,122 @@ const Quiz = (() => {
     rightCol.className = 'pair-col';
     board.appendChild(leftCol);
     board.appendChild(rightCol);
+    const NS = 'http://www.w3.org/2000/svg';
+    const svg = document.createElementNS(NS, 'svg');
+    svg.setAttribute('class', 'pair-lines');
+    board.appendChild(svg);
     body.appendChild(board);
 
     const paires = item.paires;
     const rightShuffled = QuizGen.shuffle(paires.map((p, i) => ({ text: p.droite, idx: i })));
-
+    const links = new Map(); // indice gauche -> indice d'origine du correspondant choisi à droite
     let selectedLeft = null;
-    let matchedCount = 0;
-    let mistakes = 0;
+    let locked = false;
+    const couleur = i => `hsl(${(i * 360 / paires.length + 210) % 360} 85% 64%)`;
 
+    const validate = validateButton('Valider les paires');
     const leftBtns = paires.map((p, i) => {
-      const b = document.createElement('button');
-      b.type = 'button';
-      b.className = 'pair-item';
-      b.textContent = p.gauche;
-      b.dataset.idx = i;
-      b.addEventListener('click', () => {
-        if (b.classList.contains('is-matched')) return;
-        [...leftCol.children].forEach(c => c.classList.remove('is-selected'));
-        b.classList.add('is-selected');
-        selectedLeft = i;
+      const bt = document.createElement('button');
+      bt.type = 'button';
+      bt.className = 'pair-item';
+      bt.textContent = p.gauche;
+      bt.addEventListener('click', () => {
+        if (locked) return;
+        if (selectedLeft === i) selectedLeft = null;
+        else { links.delete(i); selectedLeft = i; }
+        refresh();
       });
-      leftCol.appendChild(b);
-      return b;
+      leftCol.appendChild(bt);
+      return bt;
     });
-
     const rightBtns = rightShuffled.map((r) => {
-      const b = document.createElement('button');
-      b.type = 'button';
-      b.className = 'pair-item';
-      b.textContent = r.text;
-      b.dataset.idx = r.idx;
-      b.addEventListener('click', () => {
-        if (b.classList.contains('is-matched') || selectedLeft === null) return;
-        if (Number(b.dataset.idx) === selectedLeft) {
-          b.classList.add('is-matched');
-          leftBtns[selectedLeft].classList.add('is-matched');
-          matchedCount += 1;
+      const bt = document.createElement('button');
+      bt.type = 'button';
+      bt.className = 'pair-item';
+      bt.textContent = r.text;
+      bt.dataset.idx = r.idx;
+      bt.addEventListener('click', () => {
+        if (locked) return;
+        const proprio = [...links.entries()].find(([, d]) => d === r.idx)?.[0];
+        if (selectedLeft !== null) {
+          if (proprio !== undefined) links.delete(proprio);
+          links.set(selectedLeft, r.idx);
           selectedLeft = null;
-          if (matchedCount === paires.length) finish();
-        } else {
-          mistakes += 1;
-          b.classList.add('is-wrong-flash');
-          leftBtns[selectedLeft]?.classList.add('is-wrong-flash');
-          setTimeout(() => {
-            b.classList.remove('is-wrong-flash');
-            leftBtns.forEach(l => l.classList.remove('is-wrong-flash', 'is-selected'));
-          }, 450);
-          selectedLeft = null;
+        } else if (proprio !== undefined) {
+          links.delete(proprio);
+          selectedLeft = proprio;
         }
+        refresh();
       });
-      rightCol.appendChild(b);
-      return b;
+      rightCol.appendChild(bt);
+      return bt;
     });
+    const rightBtnOf = idx => rightBtns.find(x => Number(x.dataset.idx) === idx);
 
-    function finish() {
-      const correct = mistakes === 0;
-      // Réaligne la colonne de droite sur celle de gauche : on lit les bonnes paires ligne par ligne.
-      paires.forEach((_, i) => {
-        const b = rightBtns.find(r => Number(r.dataset.idx) === i);
-        if (b) rightCol.appendChild(b);
+    function drawLines() {
+      svg.innerHTML = '';
+      const br = board.getBoundingClientRect();
+      if (!br.width) return;
+      svg.setAttribute('width', br.width);
+      svg.setAttribute('height', br.height);
+      for (const [l, d] of links) {
+        const ra = leftBtns[l].getBoundingClientRect();
+        const rb = rightBtnOf(d).getBoundingClientRect();
+        const x1 = ra.right - br.left, y1 = ra.top + ra.height / 2 - br.top;
+        const x2 = rb.left - br.left, y2 = rb.top + rb.height / 2 - br.top;
+        const mx = (x1 + x2) / 2;
+        const path = document.createElementNS(NS, 'path');
+        path.setAttribute('d', `M${x1} ${y1} C${mx} ${y1} ${mx} ${y2} ${x2} ${y2}`);
+        path.setAttribute('fill', 'none');
+        path.setAttribute('stroke-width', '3');
+        path.setAttribute('stroke-linecap', 'round');
+        path.setAttribute('stroke', locked ? (l === d ? 'var(--success)' : 'var(--danger)') : couleur(l));
+        svg.appendChild(path);
+      }
+    }
+
+    function refresh() {
+      leftBtns.forEach((bt, i) => {
+        const linked = links.has(i);
+        bt.classList.toggle('is-linked', linked);
+        bt.classList.toggle('is-selected', selectedLeft === i);
+        bt.style.setProperty('--pc', linked ? couleur(i) : 'var(--text-faint)');
       });
+      rightBtns.forEach((bt) => {
+        const l = [...links.entries()].find(([, d]) => d === Number(bt.dataset.idx))?.[0];
+        bt.classList.toggle('is-linked', l !== undefined);
+        bt.style.setProperty('--pc', l !== undefined ? couleur(l) : 'var(--text-faint)');
+      });
+      validate.disabled = locked || links.size !== paires.length;
+      drawLines();
+    }
+
+    body.appendChild(validate);
+    refresh();
+    // Le tracé dépend de la mise en page : on le refait dès que le plateau est affiché ou redimensionné.
+    if (typeof ResizeObserver !== 'undefined') new ResizeObserver(() => drawLines()).observe(board);
+    requestAnimationFrame(drawLines);
+
+    validate.addEventListener('click', () => {
+      if (locked || links.size !== paires.length) return;
+      locked = true;
+      selectedLeft = null;
+      validate.remove();
+      hint.remove();
+      let correct = true;
+      for (const [l, d] of links) {
+        const ok = l === d;
+        if (!ok) correct = false;
+        leftBtns[l].classList.add(ok ? 'is-good' : 'is-bad');
+        rightBtnOf(d).classList.add(ok ? 'is-good' : 'is-bad');
+      }
       board.classList.add('is-final');
+      refresh();
       const after = document.createElement('div');
       answeredWrap(after, item, correct);
       after.appendChild(nextButton(next));
       wrap.appendChild(after);
-    }
+    });
   }
 
   // ---------------- Frise chronologique ----------------

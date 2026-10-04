@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr" class="style-cartoon">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<title>Démo dragons — Croc'Savoir</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/cartoon.css">
+<style>
+  /* Page de démo temporaire : à supprimer une fois le choix fait (demo-dragons.html). */
+  .demo { max-width: 560px; margin: 0 auto; padding: 14px 16px 70px; position: relative; z-index: 1; }
+  .demo h1 { font-size: 24px; margin: 6px 0 4px; font-family: var(--font-display); }
+  .lead { color: var(--text-muted); font-size: 14.5px; margin: 0 0 12px; }
+  .d { margin: 0 0 18px; padding: 14px; background: var(--card); border: 3px solid var(--ink); border-radius: 20px; box-shadow: 0 4px 0 var(--ink); }
+  .d h2 { font-size: 16px; margin: 0 0 2px; font-family: var(--font-display); }
+  .d p { margin: 0 0 10px; font-size: 12.5px; color: var(--text-faint); }
+  .d .ligne { display: flex; gap: 16px; align-items: center; }
+  .d .grand { width: 110px; height: 110px; background: #3a414c; border-radius: 16px; padding: 8px; flex: 0 0 110px; }
+  .d .carte { flex: 1; pointer-events: none; min-height: 84px; padding: 14px 16px; }
+  .d .carte .home-card__icon img { width: 52px; height: 52px; }
+  .note { color: var(--text-faint); font-size: 12.5px; margin-top: 16px; }
+</style>
+</head>
+<body>
+<div class="demo">
+  <h1>Les dragons</h1>
+  <p class="lead">Chaque proposition est montrée en grand, puis sur la vraie carte « Dragon Tour » de l'accueil. Dis-moi ton numéro préféré.</p>
+  <div id="liste"></div>
+  <p class="note">Page temporaire, non liée à l'appli. Les dragons OpenMoji sont sous licence CC BY-SA 4.0 (crédit déjà affiché dans l'appli).</p>
+</div>
+<script>
+  var D = [
+    ["0 · Celui d'aujourd'hui", "Le visage de face avec deux cornes.", 'actuel.svg', false],
+    ["1 · OpenMoji : dragon entier", "Le dragon d'OpenMoji, entier, de profil.", 'openmoji-dragon.svg', true],
+    ["2 · OpenMoji : visage de dragon", "Le visage de dragon d'OpenMoji.", 'openmoji-visage.svg', true],
+    ["3 · Petit dragon mignon assis", "Dessin maison : rond, de profil, avec des ailes et une queue.", 'mignon.svg', false],
+    ["4 · Dragon qui crache du feu", "Dessin maison : la tête de profil et une flamme.", 'feu.svg', false],
+    ["5 · Œuf de dragon qui éclot", "Dessin maison : un œuf tacheté fendu, avec deux yeux qui brillent.", 'oeuf.svg', false],
+    ["6 · Dragon en vol", "Dessin maison : de profil, ailes ouvertes.", 'vol.svg', false]
+  ];
+  document.getElementById('liste').innerHTML = D.map(function (x) {
+    var src = 'icons/dragons-test/' + x[2];
+    var cls = x[3] ? 'icone--om' : '';
+    return '<section class="d"><h2>' + x[0] + '</h2><p>' + x[1] + '</p><div class="ligne"><img class="grand ' + cls + '" src="' + src + '" alt="">' +
+      '<button class="home-card home-card--dragon carte" type="button"><span class="home-card__icon"><img class="' + cls + '" src="' + src + '" alt=""></span><span class="home-card__text"><span class="home-card__title">Dragon Tour</span><span class="home-card__desc">Drapeaux et capitales</span></span></button></div></section>';
+  }).join('');
+</script>
+</body>
+</html>

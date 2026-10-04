@@ -159,7 +159,7 @@ const App = (() => {
     });
     document.getElementById('screen-back').addEventListener('click', back);
     document.getElementById('screen-home').addEventListener('click', goHome);
-    document.getElementById('btn-stats').addEventListener('click', openStats);
+    document.getElementById('btn-stats')?.addEventListener('click', openStats);
     document.getElementById('btn-errors').addEventListener('click', showErrorReview);
 
     window.addEventListener('popstate', (e) => {

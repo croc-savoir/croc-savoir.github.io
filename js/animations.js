@@ -4,47 +4,21 @@
  * Retirer les animations : supprimer ce fichier, css/animations.css et leurs deux lignes dans index.html.
  *
  * Contenu :
- *  - le réglage « Animations » (bouton en bas de l'accueil, sauvegardé en local, activé par défaut) ;
+ *  - l'activation des animations : toujours actives, sauf si l'appareil demande de réduire les animations ;
  *  - les transitions entre écrans (API View Transitions si dispo, sinon repli CSS) ;
  *  - l'état « chargement » de l'accueil.
  * ========================================================= */
 (() => {
-  const KEY = 'croc-animations';              // 'off' quand l'utilisateur les a coupées
   const root = document.documentElement;
   const reduce = window.matchMedia ? window.matchMedia('(prefers-reduced-motion: reduce)') : { matches: false };
 
-  const read = () => { try { return localStorage.getItem(KEY); } catch (e) { return null; } };
-  const write = (v) => { try { localStorage.setItem(KEY, v); } catch (e) { /* stockage indisponible */ } };
+  // Pas de réglage dans l'appli : les animations sont les mêmes pour tout le monde.
+  const isOn = () => !reduce.matches;
 
-  let userOn = read() !== 'off';
-  const isOn = () => userOn && !reduce.matches;
-
-  // ---------- Réglage ----------
+  // ---------- Activation ----------
   function apply() {
     root.classList.toggle('anim-on', isOn());
     if (!isOn()) root.classList.remove('anim-busy', 'vt-fwd', 'vt-back', 'vt-home');
-    const btn = document.getElementById('btn-anim');
-    if (btn) {
-      btn.textContent = reduce.matches
-        ? '✨ Animations : désactivées (réglage du téléphone)'
-        : `✨ Animations : ${userOn ? 'activées' : 'désactivées'}`;
-      btn.setAttribute('aria-pressed', userOn ? 'true' : 'false');
-    }
-  }
-  function setOn(on) { userOn = !!on; write(on ? 'on' : 'off'); apply(); }
-
-  function injectButton() {
-    const footer = document.querySelector('.home-footer');
-    if (!footer || document.getElementById('btn-anim')) return;
-    const btn = document.createElement('button');
-    btn.type = 'button';
-    btn.id = 'btn-anim';
-    btn.className = 'home-link';
-    btn.addEventListener('click', () => {
-      setOn(!userOn);
-      if (window.App && App.toast) App.toast(userOn ? 'Animations activées' : 'Animations désactivées');
-    });
-    footer.appendChild(btn);
   }
 
   // ---------- Transitions entre écrans ----------
@@ -123,10 +97,9 @@
   }
 
   // ---------- Démarrage ----------
-  injectButton();
   apply();
   watchScreens();
   watchLoading();
   if (reduce.addEventListener) reduce.addEventListener('change', apply);
-  window.Anim = { isOn, setOn };
+  window.Anim = { isOn };
 })();

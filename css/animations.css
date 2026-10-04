@@ -131,15 +131,6 @@ html.anim-on.anim-loading :is(.home-card, .daily-card, .home-hero__subtitle, .se
 html.anim-on .btn-approfondir:disabled { animation: a-pulse 1s ease-in-out infinite; }
 html.anim-on .skel { animation: a-pulse 1.3s ease-in-out infinite; }
 
-/* ---------- 8. Balayage des fiches (mode Aléatoire) : la fiche suit le doigt et s'envole ---------- */
-html.anim-on #fiches-aleatoire-card .fiche-card { touch-action: pan-y; }
-@media (hover: hover) and (pointer: fine) {
-  html.anim-on #fiches-aleatoire-card .fiche-card { cursor: grab; }
-}
-html.anim-on .fiche-card.is-swiping { transition: none; cursor: grabbing; user-select: none; -webkit-user-select: none; will-change: transform; }
-html.anim-on .fiche-card.is-flying { transition: transform 230ms cubic-bezier(.5, 0, .9, .6), opacity 230ms ease-in; pointer-events: none; }
-html.anim-on .fiche-card.is-returning { transition: transform var(--a-med) var(--a-bounce), opacity var(--a-fast) ease; }
-
 /* ---------- Réglage « réduire les animations » du téléphone : tout s'arrête ---------- */
 @media (prefers-reduced-motion: reduce) {
   html.anim-on *, html.anim-on *::before, html.anim-on *::after { animation: none !important; transition: none !important; }

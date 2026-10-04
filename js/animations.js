@@ -6,7 +6,6 @@
  * Contenu :
  *  - le réglage « Animations » (bouton en bas de l'accueil, sauvegardé en local, activé par défaut) ;
  *  - les transitions entre écrans (API View Transitions si dispo, sinon repli CSS) ;
- *  - le balayage des fiches du mode Aléatoire ;
  *  - l'état « chargement » de l'accueil.
  * ========================================================= */
 (() => {
@@ -114,81 +113,6 @@
     }).observe(view, { subtree: true, attributes: true, attributeFilter: ['hidden'] });
   }
 
-  // ---------- Balayage des fiches (mode Aléatoire) ----------
-  function setupSwipe() {
-    const stage = document.getElementById('fiches-aleatoire-card');
-    if (!stage) return;
-    const nextBtn = () => stage.querySelector('.btn-next');
-
-    stage.addEventListener('pointerdown', (ev) => {
-      if (!isOn() || ev.button > 0) return;
-      const card = ev.target.closest('.fiche-card');
-      if (!card || ev.target.closest('button, a, input, textarea')) return;
-      const x0 = ev.clientX, y0 = ev.clientY, t0 = performance.now();
-      let mode = 'wait';   // wait → swiping (on suit le doigt) ou abort (c'est un défilement vertical)
-      let dx = 0;
-
-      const move = (e) => {
-        dx = e.clientX - x0;
-        const dy = e.clientY - y0;
-        if (mode === 'wait') {
-          if (Math.abs(dy) > 12 && Math.abs(dy) > Math.abs(dx)) { mode = 'abort'; cleanup(); return; }
-          if (Math.abs(dx) > 12 && Math.abs(dx) > Math.abs(dy) * 1.4) {
-            mode = 'swiping';
-            root.classList.add('anim-busy');
-            card.classList.add('is-swiping');
-          } else return;
-        }
-        card.style.transform = `translate3d(${dx}px, 0, 0) rotate(${dx * 0.035}deg)`;
-        card.style.opacity = String(Math.max(0.35, 1 - Math.abs(dx) / (window.innerWidth * 1.1)));
-      };
-
-      const cleanup = () => {
-        window.removeEventListener('pointermove', move);
-        window.removeEventListener('pointerup', up);
-        window.removeEventListener('pointercancel', up);
-      };
-
-      const up = () => {
-        cleanup();
-        if (mode !== 'swiping') return;
-        const v = Math.abs(dx) / Math.max(1, performance.now() - t0);   // px par ms
-        card.classList.remove('is-swiping');
-        if (Math.abs(dx) > card.offsetWidth * 0.28 || v > 0.6) {
-          const sens = dx < 0 ? -1 : 1;
-          card.classList.add('is-flying');
-          card.style.transform = `translate3d(${sens * window.innerWidth}px, 0, 0) rotate(${sens * 16}deg)`;
-          card.style.opacity = '0';
-          setTimeout(() => { root.classList.remove('anim-busy'); const b = nextBtn(); if (b) b.click(); }, 230);
-        } else {
-          card.classList.add('is-returning');
-          card.style.transform = '';
-          card.style.opacity = '';
-          setTimeout(() => { card.classList.remove('is-returning'); root.classList.remove('anim-busy'); }, 320);
-        }
-      };
-
-      window.addEventListener('pointermove', move);
-      window.addEventListener('pointerup', up);
-      window.addEventListener('pointercancel', up);
-    });
-
-    // Ordinateur : flèches gauche/droite = même geste
-    document.addEventListener('keydown', (e) => {
-      if (!isOn() || (e.key !== 'ArrowRight' && e.key !== 'ArrowLeft')) return;
-      if (/^(INPUT|TEXTAREA|SELECT)$/.test((document.activeElement || {}).tagName || '')) return;
-      const screen = screenOf('fiches-aleatoire');
-      const card = stage.querySelector('.fiche-card');
-      if (!screen || screen.hidden || !card || card.classList.contains('is-flying')) return;
-      const sens = e.key === 'ArrowLeft' ? -1 : 1;
-      root.classList.add('anim-busy');
-      card.classList.add('is-flying');
-      card.style.transform = `translate3d(${sens * window.innerWidth}px, 0, 0) rotate(${sens * 16}deg)`;
-      card.style.opacity = '0';
-      setTimeout(() => { root.classList.remove('anim-busy'); const b = nextBtn(); if (b) b.click(); }, 230);
-    });
-  }
-
   // ---------- Chargement de l'accueil : pulsation douce ----------
   function watchLoading() {
     const g = document.getElementById('home-greeting');
@@ -202,7 +126,6 @@
   injectButton();
   apply();
   watchScreens();
-  setupSwipe();
   watchLoading();
   if (reduce.addEventListener) reduce.addEventListener('change', apply);
   window.Anim = { isOn, setOn };

@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Démo version ordinateur — Croc'Savoir</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/cartoon.css">
+<style>
+  /* Page de démo temporaire : à supprimer une fois le choix fait (demo-pc.html). Maquettes statiques pour grand écran. */
+  #view-root { max-width: none; padding: 0 0 100px; }
+  .vue { display: none; position: relative; z-index: 1; }
+  .vue.on { display: block; }
+  .pc { max-width: 1280px; margin: 0 auto; padding: 0 32px; }
+  .nav { position: sticky; top: 0; z-index: 30; background: var(--bg-soft); border-bottom: 1px solid var(--border); }
+  html.style-cartoon .nav { border-bottom: 3px solid var(--ink); }
+  .nav .pc { display: flex; align-items: center; gap: 28px; height: 68px; }
+  .logo { display: flex; align-items: center; gap: 10px; font-family: var(--font-display); font-weight: 800; font-size: 22px; }
+  .logo span:first-child { font-size: 28px; }
+  .nav a { color: var(--text-muted); font-weight: 700; font-size: 15px; text-decoration: none; padding: 8px 4px; border-bottom: 3px solid transparent; }
+  .nav a.act { color: var(--text); border-bottom-color: var(--accent); }
+  .nav .sp { flex: 1; }
+  .rech { display: flex; align-items: center; gap: 8px; padding: 10px 16px; border-radius: 999px; border: 1px solid var(--border); background: var(--bg-elevated); color: var(--text-faint); min-width: 260px; font-size: 14px; }
+  html.style-cartoon .rech { border: 3px solid var(--ink); box-shadow: 0 3px 0 var(--ink); }
+  h2.titre { font-family: var(--font-display); font-size: 24px; margin: 44px 0 18px; }
+  .groupe-titre { display: flex; align-items: center; gap: 10px; margin: 22px 0 12px; font-family: var(--font-display); font-weight: 800; font-size: 16px; color: var(--text-muted); }
+  .groupe-titre i { width: 14px; height: 14px; border-radius: 4px; display: inline-block; background: var(--g); }
+  .tuiles { display: grid; grid-template-columns: repeat(7, 1fr); gap: 16px; }
+  .tuiles.six { grid-template-columns: repeat(6, 1fr); }
+  .tuiles .domain-tile { pointer-events: none; min-height: 112px; }
+  .dem { pointer-events: none; }
+
+  /* ----- A ----- */
+  .A .hero { text-align: center; padding: 56px 0 8px; }
+  .A .hero h1 { font-size: 58px; margin: 0 0 8px; font-family: var(--font-display); letter-spacing: -.01em; }
+  .A .hero p { color: var(--text-muted); font-size: 18px; margin: 0 auto 26px; max-width: 620px; }
+  .A .rech { margin: 0 auto; max-width: 560px; font-size: 16px; padding: 16px 22px; }
+  .A .duo { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 38px; }
+  .A .trio { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 20px; }
+  .A .duo .daily-card, .A .trio .home-card { margin: 0; min-height: 132px; }
+  /* ----- B ----- */
+  .B .hero2 { display: grid; grid-template-columns: 1.05fr 1fr; gap: 56px; align-items: center; padding: 56px 0 10px; }
+  .B .hero2 h1 { font-size: 54px; line-height: 1.05; margin: 0 0 12px; font-family: var(--font-display); }
+  .B .hero2 p { color: var(--text-muted); font-size: 18px; margin: 0 0 24px; }
+  .B .rech { max-width: 520px; font-size: 16px; padding: 16px 22px; }
+  .B .qj { padding: 24px; transform: rotate(-1deg); }
+  .B .qj h3 { margin: 0 0 4px; font-size: 14px; letter-spacing: .08em; text-transform: uppercase; color: var(--accent-2); }
+  .B .qj .q { font-family: var(--font-display); font-weight: 800; font-size: 22px; margin: 6px 0 18px; }
+  .B .qj .opts { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .B .trio { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; margin-top: 18px; }
+  .B .trio .home-card, .B .trio .daily-card { margin: 0; min-height: 190px; flex-direction: column; align-items: flex-start; justify-content: flex-end; gap: 12px; }
+  .B .trio .home-card__icon, .B .trio .daily-card__icon { font-size: 52px; }
+  /* ----- C ----- */
+  .C .side { position: fixed; left: 0; top: 0; bottom: 0; width: 270px; overflow: auto; padding: 18px 16px 60px; background: var(--bg-soft); border-right: 1px solid var(--border); z-index: 20; }
+  html.style-cartoon .C .side { border-right: 3px solid var(--ink); }
+  .C .side .logo { margin: 4px 6px 18px; }
+  .C .side .m { display: flex; align-items: center; gap: 12px; padding: 11px 12px; border-radius: 12px; font-weight: 700; color: var(--text-muted); font-size: 15px; }
+  .C .side .m.act { background: var(--accent); color: #fff; }
+  .C .side h4 { margin: 20px 8px 6px; font-size: 12px; letter-spacing: .1em; text-transform: uppercase; color: var(--text-faint); }
+  .C .side .t { display: flex; align-items: center; gap: 10px; padding: 7px 10px 7px 12px; border-left: 5px solid var(--g); margin: 4px 0; border-radius: 4px; font-size: 14px; color: var(--text); }
+  .C .side .t.act { background: var(--bg-elevated); font-weight: 800; }
+  .C .side .t img { width: 22px; height: 22px; }
+  .C .main { margin-left: 270px; padding: 0 36px 80px; }
+  .C .haut { display: flex; align-items: center; justify-content: space-between; height: 68px; }
+  .C .haut h1 { font-size: 28px; margin: 0; font-family: var(--font-display); }
+  .C .cols { display: grid; grid-template-columns: 360px 1fr; gap: 28px; align-items: start; }
+  .C .liste { display: flex; flex-direction: column; gap: 12px; }
+  .C .liste .fiche-list-item { pointer-events: none; text-align: left; min-height: 62px; }
+  .C .liste .fiche-list-item.sel { outline: 3px solid var(--accent); }
+  .C .lecture .fiche-card { padding: 30px 34px; }
+  .C .lecture .fiche-card__title { font-size: 30px; }
+  .C .lecture .fiche-card__summary p { font-size: 17px; line-height: 1.6; }
+  .C .lecture h4 { margin: 20px 0 6px; font-size: 14px; letter-spacing: .06em; text-transform: uppercase; color: var(--accent-2); }
+  .C .lecture p.t2 { font-size: 16px; line-height: 1.6; color: var(--text-muted); margin: 0; }
+
+  /* barre de réglages de la démo */
+  .ctl { position: fixed; bottom: 16px; left: 50%; transform: translateX(-50%); z-index: 100; display: flex; gap: 8px; padding: 10px; background: #12161c; border: 2px solid #3b424d; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,.5); }
+  .ctl button { padding: 9px 14px; border-radius: 10px; border: 2px solid #3b424d; background: #2a2f37; color: #f7f3ec; font: inherit; font-weight: 800; font-size: 13px; cursor: pointer; }
+  .ctl button.on { background: #3f82e8; border-color: #9cc2ff; }
+  .ctl .sep { width: 2px; background: #3b424d; margin: 0 4px; }
+</style>
+</head>
+<body>
+<div id="view-root">
+
+<!-- ============ A · Accueil riche ============ -->
+<div class="vue A on" id="vA">
+  <div class="nav"><div class="pc">
+    <div class="logo"><span>🍔</span><span>Croc'Savoir</span></div>
+    <a class="act">Accueil</a><a>Fiches</a><a>Quiz</a><a>Quiz du jour</a><a>Dragon Tour</a>
+    <span class="sp"></span><div class="rech">🔍 Rechercher une fiche…</div>
+  </div></div>
+  <div class="pc">
+    <div class="hero"><h1>Croc'Savoir</h1><p>Un peu de culture, à ton rythme : 2 079 fiches et 2 162 questions sur 21 thèmes.</p><div class="rech">🔍 Napoléon, volcan, jazz…</div></div>
+    <div class="duo">
+      <button class="daily-card dem" type="button"><span class="daily-card__icon">🍔</span><span class="daily-card__text"><span class="daily-card__title">Ta bouchée du jour</span><span class="daily-card__desc">5 fiches + 5 questions · environ 5 min</span></span><span class="daily-card__streak">🔥 3</span></button>
+      <button class="daily-card daily-card--quiz dem" type="button"><span class="daily-card__icon">🗓️</span><span class="daily-card__text"><span class="daily-card__title">Quiz du jour</span><span class="daily-card__desc">20 questions · les mêmes pour tout le monde</span></span></button>
+    </div>
+    <div class="trio">
+      <button class="home-card home-card--fiches dem" type="button"><span class="home-card__icon">📖</span><span class="home-card__text"><span class="home-card__title">Fiches</span><span class="home-card__desc">Lire et apprendre, fiche par fiche</span></span></button>
+      <button class="home-card home-card--quiz dem" type="button"><span class="home-card__icon">🎯</span><span class="home-card__text"><span class="home-card__title">Quiz</span><span class="home-card__desc">Séries de 10, 15 ou 20 questions</span></span></button>
+      <button class="home-card home-card--dragon dem" type="button"><span class="home-card__icon">🐉</span><span class="home-card__text"><span class="home-card__title">Dragon Tour</span><span class="home-card__desc">Drapeaux et capitales du monde</span></span></button>
+    </div>
+    <h2 class="titre">Tous les thèmes</h2>
+    <div id="themesA"></div>
+  </div>
+</div>
+
+<!-- ============ B · Tableau de bord ============ -->
+<div class="vue B" id="vB">
+  <div class="nav"><div class="pc">
+    <div class="logo"><span>🍔</span><span>Croc'Savoir</span></div>
+    <a class="act">Accueil</a><a>Tous les thèmes</a><a>Quiz</a><a>Dragon Tour</a>
+    <span class="sp"></span><div class="rech">🔍 Rechercher…</div>
+  </div></div>
+  <div class="pc">
+    <div class="hero2">
+      <div>
+        <h1>Teste ta culture.<br>Apprends en t'amusant.</h1>
+        <p>Des fiches claires, des quiz du jour, des séries avec médailles. Plus de 2 000 fiches, 21 thèmes.</p>
+        <div class="rech">🔍 Rechercher une fiche…</div>
+      </div>
+      <div class="quiz-card qj dem">
+        <h3>Question du jour · Histoire</h3>
+        <div class="q">Que commémore la Colonne de Juillet, place de la Bastille ?</div>
+        <div class="opts">
+          <button class="opt-btn" type="button">La prise de la Bastille</button><button class="opt-btn is-selected" type="button">Le sacre de Napoléon</button>
+          <button class="opt-btn" type="button">La Révolution de 1830</button><button class="opt-btn" type="button">La fin de la Seconde Guerre mondiale</button>
+        </div>
+        <button class="btn btn-primary" type="button" style="margin-top:16px;width:100%">Valider la réponse</button>
+      </div>
+    </div>
+    <h2 class="titre">Aujourd'hui</h2>
+    <div class="trio">
+      <button class="daily-card dem" type="button"><span class="daily-card__icon">🍔</span><span class="daily-card__text"><span class="daily-card__title">Ta bouchée du jour</span><span class="daily-card__desc">5 fiches + 5 questions · environ 5 min</span></span></button>
+      <button class="daily-card daily-card--quiz dem" type="button"><span class="daily-card__icon">🗓️</span><span class="daily-card__text"><span class="daily-card__title">Quiz du jour</span><span class="daily-card__desc">20 questions · les mêmes pour tout le monde</span></span></button>
+      <button class="home-card home-card--dragon dem" type="button"><span class="home-card__icon">🐉</span><span class="home-card__text"><span class="home-card__title">Dragon Tour</span><span class="home-card__desc">Drapeaux et capitales du monde</span></span></button>
+    </div>
+    <h2 class="titre">Explorer par thème</h2>
+    <div id="themesB"></div>
+  </div>
+</div>
+
+<!-- ============ C · Application à panneaux ============ -->
+<div class="vue C" id="vC">
+  <aside class="side">
+    <div class="logo"><span>🍔</span><span>Croc'Savoir</span></div>
+    <div class="m act">🏠 Accueil</div><div class="m">📖 Fiches</div><div class="m">🎯 Quiz</div><div class="m">🗓️ Quiz du jour</div><div class="m">🐉 Dragon Tour</div>
+    <h4>Thèmes</h4>
+    <div id="themesC"></div>
+  </aside>
+  <div class="main">
+    <div class="haut"><h1>🏛️ Histoire</h1><div class="rech">🔍 Rechercher une fiche…</div></div>
+    <div class="cols">
+      <div class="liste">
+        <button class="fiche-list-item sel" type="button"><span class="fiche-list-item__title">1789 : la prise de la Bastille</span><span class="fiche-list-item__type">Date clé · Révolution française</span></button>
+        <button class="fiche-list-item" type="button"><span class="fiche-list-item__title">La Déclaration des droits de l'homme</span><span class="fiche-list-item__type">Fiche · Révolution française</span></button>
+        <button class="fiche-list-item" type="button"><span class="fiche-list-item__title">Louis XVI</span><span class="fiche-list-item__type">Personnage · Révolution française</span></button>
+        <button class="fiche-list-item" type="button"><span class="fiche-list-item__title">Robespierre</span><span class="fiche-list-item__type">Personnage · Révolution française</span></button>
+        <button class="fiche-list-item" type="button"><span class="fiche-list-item__title">La Terreur</span><span class="fiche-list-item__type">Fiche · Révolution française</span></button>
+        <button class="fiche-list-item" type="button"><span class="fiche-list-item__title">Napoléon Bonaparte</span><span class="fiche-list-item__type">Personnage · Empire napoléonien</span></button>
+      </div>
+      <div class="lecture">
+        <div class="fiche-card">
+          <div class="fiche-card__type">🏛️ Date clé · Révolution française</div>
+          <h3 class="fiche-card__title">1789 : la prise de la Bastille</h3>
+          <p class="fiche-card__subtitle">14 juillet 1789, Paris</p>
+          <div class="fiche-card__summary"><p>Le 14 juillet 1789, des Parisiens s'emparent de la Bastille, forteresse qui symbolise l'arbitraire royal. L'événement marque le début de la Révolution.</p></div>
+          <h4>Contexte</h4><p class="t2">Paris est agité : la rumeur d'un renvoi du ministre Necker et la crainte d'une répression poussent la foule à chercher des armes.</p>
+          <h4>Conséquences</h4><p class="t2">La nouvelle se répand dans le pays. Le roi doit reconnaître la nouvelle autorité de l'Assemblée.</p>
+          <div style="display:flex;gap:12px;margin-top:22px"><button class="btn btn-ghost" type="button" style="flex:1">🔎 Approfondir</button><button class="btn btn-primary" type="button" style="flex:1">Fiche suivante →</button></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+<div class="ctl">
+  <button data-v="vA" class="on">A · Accueil riche</button><button data-v="vB">B · Tableau de bord</button><button data-v="vC">C · Panneaux</button>
+  <span class="sep"></span>
+  <button data-s="neon" class="on">Néon</button><button data-s="cartoon">Cartoon</button>
+</div>
+
+<script src="js/emoji-centre.js"></script>
+<script>
+  var ids = { monde: ['histoire','geo','politique','economie','religions','philosophie','mythologie'], vivant: ['sciences','astronomie','corps-humain','animaux','nature','tech','cuisine'], arts: ['cinema','jeux-video','art','musique','litterature','manga','sport'] };
+  var NOMS = { monde: 'Monde & société', vivant: 'Sciences & vivant', arts: 'Arts & divertissement' };
+  var COUL = { monde: 'var(--g-monde,#ffb83d)', vivant: 'var(--g-vivant,#36c98a)', arts: 'var(--g-arts,#ff7aa8)' };
+  document.documentElement.style.setProperty('--g-monde', '#ffb83d'); document.documentElement.style.setProperty('--g-vivant', '#36c98a'); document.documentElement.style.setProperty('--g-arts', '#ff7aa8');
+  fetch('data/domains.json').then(function (r) { return r.json(); }).then(function (d) {
+    var par = {}; d.forEach(function (x) { par[x.id] = x; });
+    function tuile(x) { return '<div class="domain-tile" data-g="' + x.groupe + '" style="--th:' + (x.hue || 220) + '"><span class="domain-tile__emoji">' + x.emoji + '</span><span class="domain-tile__label">' + x.label + '</span><span class="domain-tile__count">100 fiches</span></div>'; }
+    function bloc(cls) { return Object.keys(ids).map(function (g) { return '<div class="groupe-titre" style="--g:' + COUL[g] + '"><i></i>' + NOMS[g] + '</div><div class="tuiles ' + cls + '">' + ids[g].map(function (i) { return tuile(par[i]); }).join('') + '</div>'; }).join(''); }
+    document.getElementById('themesA').innerHTML = bloc('');
+    document.getElementById('themesB').innerHTML = bloc('');
+    document.getElementById('themesC').innerHTML = Object.keys(ids).map(function (g) { return '<h4>' + NOMS[g] + '</h4>' + ids[g].map(function (i) { var x = par[i]; return '<div class="t' + (i === 'histoire' ? ' act' : '') + '" style="--g:' + COUL[g] + '"><span class="domain-tile__emoji" style="font-size:18px;width:22px;height:22px;display:inline-flex">' + x.emoji + '</span>' + x.label + '</div>'; }).join(''); }).join('');
+  });
+  document.querySelector('.ctl').addEventListener('click', function (e) {
+    var b = e.target.closest('button'); if (!b) return;
+    if (b.dataset.v) { document.querySelectorAll('.vue').forEach(function (v) { v.classList.toggle('on', v.id === b.dataset.v); }); document.querySelectorAll('.ctl [data-v]').forEach(function (x) { x.classList.toggle('on', x === b); }); window.scrollTo(0, 0); }
+    if (b.dataset.s) { document.documentElement.classList.toggle('style-cartoon', b.dataset.s === 'cartoon'); document.querySelectorAll('.ctl [data-s]').forEach(function (x) { x.classList.toggle('on', x === b); }); }
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<title>Démo couleurs chaleureuses — Croc'Savoir</title>
+<link rel="stylesheet" href="css/style.css">
+<style>
+  /* Page de démo temporaire : à supprimer une fois le choix fait (demo-chaleur.html). */
+  .demo { max-width: 560px; margin: 0 auto; padding: 14px 16px 70px; position: relative; z-index: 1; }
+  .demo h1 { font-size: 24px; margin: 6px 0 4px; font-family: var(--font-display); }
+  .demo h2 { font-size: 17px; margin: 28px 0 12px; font-family: var(--font-display); }
+  .lead { color: var(--text-muted); font-size: 14.5px; margin: 0 0 6px; }
+  .switch { position: sticky; top: 0; z-index: 40; display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; padding: calc(10px + env(safe-area-inset-top, 0px)) 0 10px; background: var(--bg); }
+  .switch button { padding: 10px 4px; border-radius: 12px; border: 1px solid var(--border); background: var(--bg-elevated); color: var(--text-muted); font: inherit; font-weight: 800; font-size: 12.5px; cursor: pointer; }
+  .switch button.on { background: var(--accent); border-color: var(--accent-2); color: #1a0f05; }
+  .what { font-size: 13px; color: var(--text-faint); margin: 0 0 4px; min-height: 36px; }
+  .stack { display: flex; flex-direction: column; gap: 12px; }
+  .demo .daily-card { margin-bottom: 0; }
+  .demo .home-card, .demo .daily-card, .demo .domain-tile { pointer-events: none; }
+  .row { display: flex; gap: 10px; flex-wrap: wrap; }
+  .grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .note { color: var(--text-faint); font-size: 12.5px; margin-top: 22px; }
+
+  /* ===== Palettes chaleureuses ===== */
+  /* A · Café chaud : bruns profonds, crème, ambre */
+  body.p-a { --bg:#17110e; --bg-soft:#1f1612; --bg-elevated:#2b1f19; --card:#241a15; --card-hover:#2e211b; --border:#473529; --border-soft:#372a21;
+    --text:#fbf0e3; --text-muted:#dcc7b2; --text-faint:#ab9580; --accent:#f59e0b; --accent-2:#fbbf24; --accent-pale:#ffe9bd; --accent-rgb:245,158,11;
+    --success:#8fd18c; --success-bg:rgba(143,209,140,.14); --danger:#f4837d; --danger-bg:rgba(244,131,125,.14);
+    --p1:#f59e0b; --p2:#f97316; --pbtn:#2a1503; --quiz:226,120,98; --dragon:130,170,80; --glow2:255,170,60; }
+  /* B · Crépuscule : aubergine, corail, pêche */
+  body.p-b { --bg:#16101f; --bg-soft:#1d1529; --bg-elevated:#292038; --card:#221a31; --card-hover:#2b2140; --border:#46385e; --border-soft:#342a49;
+    --text:#fff3ec; --text-muted:#ddc9d6; --text-faint:#b09bb5; --accent:#fb7185; --accent-2:#fdba74; --accent-pale:#ffe1d6; --accent-rgb:251,113,133;
+    --success:#8fd9a8; --success-bg:rgba(143,217,168,.14); --danger:#ff8a8a; --danger-bg:rgba(255,138,138,.14);
+    --p1:#fb7185; --p2:#fb923c; --pbtn:#2b0d14; --quiz:190,120,255; --dragon:110,200,160; --glow2:253,186,116; }
+  /* C · Forêt chaleureuse : vert profond, miel, crème */
+  body.p-c { --bg:#0f1812; --bg-soft:#15211a; --bg-elevated:#1f2f25; --card:#1a281f; --card-hover:#223329; --border:#3a5444; --border-soft:#2c4034;
+    --text:#f8f1dc; --text-muted:#d3cdb0; --text-faint:#9fa88f; --accent:#e9b44c; --accent-2:#f4cf7a; --accent-pale:#fbe9b8; --accent-rgb:233,180,76;
+    --success:#9bd78a; --success-bg:rgba(155,215,138,.14); --danger:#f08a7a; --danger-bg:rgba(240,138,122,.14);
+    --p1:#e9b44c; --p2:#e07a3f; --pbtn:#2b1a05; --quiz:214,106,76; --dragon:120,190,110; --glow2:240,160,80; }
+
+  body.p-a, body.p-b, body.p-c {
+    background: radial-gradient(ellipse 900px 500px at 15% -10%, rgba(var(--accent-rgb), .16), transparent 60%),
+                radial-gradient(ellipse 700px 500px at 100% 0%, rgba(var(--glow2), .10), transparent 55%), var(--bg);
+  }
+  .p-a .btn-primary, .p-b .btn-primary, .p-c .btn-primary { background: linear-gradient(135deg, var(--p1), var(--p2)); color: var(--pbtn);
+    box-shadow: inset 0 0 0 1px rgba(255,255,255,.3), 0 12px 30px rgba(var(--accent-rgb), .35); }
+  .p-a .home-card--quiz, .p-b .home-card--quiz, .p-c .home-card--quiz { background: linear-gradient(140deg, rgba(var(--quiz), .40), var(--card) 65%); }
+  .p-a .daily-card--quiz, .p-b .daily-card--quiz, .p-c .daily-card--quiz { border-color: rgba(var(--quiz), .5); background: linear-gradient(135deg, rgba(var(--quiz), .30), rgba(var(--accent-rgb), .14) 70%); box-shadow: 0 10px 28px rgba(var(--quiz), .18); }
+  .p-a .home-card--dragon, .p-b .home-card--dragon, .p-c .home-card--dragon { background: linear-gradient(140deg, rgba(var(--dragon), .34), var(--card) 65%); }
+  .p-a .daily-card, .p-b .daily-card, .p-c .daily-card { border-color: rgba(var(--accent-rgb), .45); }
+  .p-a .quiz-card, .p-b .quiz-card, .p-c .quiz-card { background: linear-gradient(165deg, var(--card), var(--bg-soft)); }
+</style>
+</head>
+<body class="p-cur">
+<div class="demo">
+  <h1>Des couleurs plus chaleureuses</h1>
+  <p class="lead">Touche un bouton : tout ce qui est en dessous change. Je garde la même mise en page, les mêmes formes et les mêmes icônes ; seules les couleurs changent.</p>
+
+  <div class="switch" id="switch">
+    <button data-set="p-cur" class="on">Actuel</button>
+    <button data-set="p-a">A · Café</button>
+    <button data-set="p-b">B · Crépuscule</button>
+    <button data-set="p-c">C · Forêt</button>
+  </div>
+  <p class="what" id="what"></p>
+
+  <h2>Accueil</h2>
+  <div class="stack">
+    <button class="daily-card" type="button"><span class="daily-card__icon">🍔</span><span class="daily-card__text"><span class="daily-card__title">Ta bouchée du jour</span><span class="daily-card__desc">5 fiches + 5 questions · environ 5 min</span></span><span class="daily-card__streak">🔥 3</span></button>
+    <button class="daily-card daily-card--quiz" type="button"><span class="daily-card__icon">🗓️</span><span class="daily-card__text"><span class="daily-card__title">Quiz du jour</span><span class="daily-card__desc">20 questions · les mêmes pour tout le monde</span></span></button>
+    <button class="home-card home-card--fiches" type="button"><span class="home-card__icon">📖</span><span class="home-card__text"><span class="home-card__title">Fiches</span><span class="home-card__desc">Lire et apprendre, fiche par fiche</span></span></button>
+    <button class="home-card home-card--quiz" type="button"><span class="home-card__icon">🎯</span><span class="home-card__text"><span class="home-card__title">Quiz</span><span class="home-card__desc">Tester ce que tu sais</span></span></button>
+    <button class="home-card home-card--dragon" type="button"><span class="home-card__icon">🐉</span><span class="home-card__text"><span class="home-card__title">Dragon Tour</span><span class="home-card__desc">Drapeaux et capitales du monde</span></span></button>
+  </div>
+
+  <h2>Boutons</h2>
+  <div class="row"><button class="btn btn-primary" type="button">Suivante →</button><button class="btn btn-ghost" type="button">🔎 Approfondir</button></div>
+  <div class="row" style="margin-top:12px"><span class="chip">Tous</span><span class="chip is-active">Histoire</span><span class="chip">QCM</span></div>
+
+  <h2>Thèmes</h2>
+  <div class="grid">
+    <div class="domain-tile" style="--th:42"><span class="domain-tile__emoji">🏛️</span><span class="domain-tile__label">Histoire</span><span class="domain-tile__count">100 fiches</span></div>
+    <div class="domain-tile" style="--th:172"><span class="domain-tile__emoji">🌍</span><span class="domain-tile__label">Géographie</span><span class="domain-tile__count">101 fiches</span></div>
+    <div class="domain-tile" style="--th:282"><span class="domain-tile__emoji">🎸</span><span class="domain-tile__label">Musique</span><span class="domain-tile__count">100 fiches</span></div>
+    <div class="domain-tile" style="--th:350"><span class="domain-tile__emoji">🧬</span><span class="domain-tile__label">Corps humain</span><span class="domain-tile__count">90 fiches</span></div>
+  </div>
+
+  <h2>Une fiche</h2>
+  <div class="fiche-card">
+    <div class="fiche-card__type">🏛️ Date clé · Révolution française</div>
+    <h3 class="fiche-card__title">1789 : la prise de la Bastille</h3>
+    <p class="fiche-card__subtitle">14 juillet 1789, Paris</p>
+    <div class="fiche-card__summary"><p>Le 14 juillet 1789, des Parisiens s'emparent de la Bastille, forteresse qui symbolise l'arbitraire royal. L'événement marque le début de la Révolution.</p></div>
+    <button type="button" class="btn btn-ghost" style="margin-top:14px;width:100%;pointer-events:none">🔎 Approfondir</button>
+    <div class="fiche-card__source">📎 D'après Wikipédia — Prise de la Bastille</div>
+  </div>
+
+  <h2>Une question</h2>
+  <div class="quiz-card">
+    <div class="quiz-card__format">QCM <span class="quiz-card__domain">· 🏛️ Histoire</span></div>
+    <p class="quiz-card__question">Que commémore la Colonne de Juillet, place de la Bastille ?</p>
+    <div class="opt-list">
+      <button class="opt-btn" type="button" style="pointer-events:none">La prise de la Bastille</button>
+      <button class="opt-btn is-selected" type="button" style="pointer-events:none">Le sacre de Napoléon</button>
+      <button class="opt-btn is-correct" type="button" style="pointer-events:none">La Révolution de 1830</button>
+      <button class="opt-btn is-wrong" type="button" style="pointer-events:none">La fin de la Seconde Guerre mondiale</button>
+    </div>
+  </div>
+
+  <h2>Écran de fin</h2>
+  <div class="serie-end" style="--score-h:28">
+    <div class="serie-end__top"><span class="serie-end__medal-emoji">🥇</span><h2 class="serie-end__msg" style="margin:6px 0 4px">Excellent !</h2><p class="serie-end__sub">Médaille d'or · Tous les thèmes · 10 questions</p></div>
+    <div class="serie-end__scorecard"><span class="serie-end__label">TON SCORE</span><div class="serie-end__scorebig" style="padding-bottom:6px"><span class="serie-end__value">9/10</span></div><span class="serie-end__pct">90 % de réussite</span></div>
+    <h3 class="serie-recap__title">Récapitulatif</h3>
+    <div class="serie-recap">
+      <div class="serie-rec is-ok"><span class="serie-rec__icon">✓</span><div class="serie-rec__body"><div class="serie-rec__tag">🏛️ Histoire · QCM</div><div class="serie-rec__q">Qui dépose le dernier empereur romain d'Occident ?</div><div class="serie-rec__a is-ok">Ta réponse : <strong>Odoacre</strong></div></div></div>
+      <div class="serie-rec is-ko"><span class="serie-rec__icon">✕</span><div class="serie-rec__body"><div class="serie-rec__tag">🌍 Géographie · QCM</div><div class="serie-rec__q">Quel fleuve traverse Le Caire ?</div><div class="serie-rec__a is-ko">Ta réponse : <strong>Le Tigre</strong></div><div class="serie-rec__a is-ok">Bonne réponse : <strong>Le Nil</strong></div></div></div>
+    </div>
+    <div class="serie-end__actions"><button class="btn btn-primary btn--wide" type="button">Rejouer</button><button class="btn btn-ghost" type="button">Autre thème</button><button class="btn btn-ghost" type="button">Retour</button></div>
+  </div>
+
+  <p class="note">Page temporaire, non liée à l'appli. Dis-moi laquelle te donne la sensation la plus chaleureuse, ou ce que tu changerais (un fond plus clair, un accent moins vif…).</p>
+</div>
+<script>
+  var TEXTES = {
+    'p-cur': "Le style actuel : bleu nuit, bleu électrique et cyan.",
+    'p-a': "Café chaud : des bruns profonds, du crème et de l'ambre. Doux, rassurant, un peu « livre ancien ».",
+    'p-b': "Crépuscule : une aubergine profonde avec du corail et de la pêche. Chaleureux et un peu plus vivant.",
+    'p-c': "Forêt chaleureuse : un vert très sombre avec du miel et du crème. Naturel et apaisant."
+  };
+  function show(p) {
+    document.body.classList.remove('p-cur', 'p-a', 'p-b', 'p-c'); document.body.classList.add(p);
+    document.getElementById('what').textContent = TEXTES[p];
+    document.querySelectorAll('#switch button').forEach(function (b) { b.classList.toggle('on', b.dataset.set === p); });
+  }
+  document.getElementById('switch').addEventListener('click', function (e) { var b = e.target.closest('button'); if (b) show(b.dataset.set); });
+  show('p-cur');
+</script>
+</body>
+</html>

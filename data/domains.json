@@ -1,23 +1,107 @@
 [
-  { "id": "histoire", "label": "Histoire", "emoji": "🏛️" },
-  { "id": "geo", "label": "Géographie", "emoji": "🌍" },
-  { "id": "sciences", "label": "Sciences", "emoji": "🔬" },
-  { "id": "astronomie", "label": "Astronomie", "emoji": "🪐" },
-  { "id": "nature", "label": "Plantes & nature", "emoji": "🌿" },
-  { "id": "animaux", "label": "Animaux", "emoji": "🦋" },
-  { "id": "corps-humain", "label": "Corps humain", "emoji": "🫀" },
-  { "id": "art", "label": "Art", "emoji": "🎨" },
-  { "id": "litterature", "label": "Littérature", "emoji": "📚" },
-  { "id": "musique", "label": "Musique", "emoji": "🎵" },
-  { "id": "cinema", "label": "Cinéma", "emoji": "🎬" },
-  { "id": "mythologie", "label": "Mythologie", "emoji": "⚡" },
-  { "id": "religions", "label": "Religions", "emoji": "🕊️" },
-  { "id": "philosophie", "label": "Philosophie", "emoji": "🧠" },
-  { "id": "economie", "label": "Économie", "emoji": "📈" },
-  { "id": "politique", "label": "Politique", "emoji": "🗳️" },
-  { "id": "sport", "label": "Sport", "emoji": "⚽" },
-  { "id": "cuisine", "label": "Cuisine", "emoji": "🍳" },
-  { "id": "tech", "label": "Inventions & tech", "emoji": "💡" },
-  { "id": "manga", "label": "Manga & animés", "emoji": "🎴" },
-  { "id": "jeux-video", "label": "Jeux vidéo", "emoji": "🎮" }
+  {
+    "id": "histoire",
+    "label": "Histoire",
+    "emoji": "🏛️"
+  },
+  {
+    "id": "geo",
+    "label": "Géographie",
+    "emoji": "🌍"
+  },
+  {
+    "id": "sciences",
+    "label": "Sciences",
+    "emoji": "🔬"
+  },
+  {
+    "id": "astronomie",
+    "label": "Astronomie",
+    "emoji": "🪐"
+  },
+  {
+    "id": "nature",
+    "label": "Plantes & nature",
+    "emoji": "🌿"
+  },
+  {
+    "id": "animaux",
+    "label": "Animaux",
+    "emoji": "🦁"
+  },
+  {
+    "id": "corps-humain",
+    "label": "Corps humain",
+    "emoji": "🧬"
+  },
+  {
+    "id": "art",
+    "label": "Art",
+    "emoji": "🎨"
+  },
+  {
+    "id": "litterature",
+    "label": "Littérature",
+    "emoji": "✒️"
+  },
+  {
+    "id": "musique",
+    "label": "Musique",
+    "emoji": "🎸"
+  },
+  {
+    "id": "cinema",
+    "label": "Cinéma",
+    "emoji": "🎬"
+  },
+  {
+    "id": "mythologie",
+    "label": "Mythologie",
+    "emoji": "🦄"
+  },
+  {
+    "id": "religions",
+    "label": "Religions",
+    "emoji": "🕯️"
+  },
+  {
+    "id": "philosophie",
+    "label": "Philosophie",
+    "emoji": "🦉"
+  },
+  {
+    "id": "economie",
+    "label": "Économie",
+    "emoji": "💰"
+  },
+  {
+    "id": "politique",
+    "label": "Politique",
+    "emoji": "⚖️"
+  },
+  {
+    "id": "sport",
+    "label": "Sport",
+    "emoji": "⚽"
+  },
+  {
+    "id": "cuisine",
+    "label": "Cuisine",
+    "emoji": "🍳"
+  },
+  {
+    "id": "tech",
+    "label": "Inventions & tech",
+    "emoji": "💡"
+  },
+  {
+    "id": "manga",
+    "label": "Manga & animés",
+    "emoji": "🔮"
+  },
+  {
+    "id": "jeux-video",
+    "label": "Jeux vidéo",
+    "emoji": "🎮"
+  }
 ]

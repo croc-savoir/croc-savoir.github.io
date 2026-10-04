@@ -99,7 +99,7 @@
   }
 
   // ---------- Couleur de la barre du téléphone (meta theme-color), selon la rubrique ----------
-  const THEME_COLORS = { home: '#0a0e1a', fiches: '#0e1b3d', quiz: '#1b1442', dragon: '#08271f', daily: '#2b1d09' };
+  const THEME_COLORS = { home: '#0a0e1a', fiches: '#12306e', quiz: '#2a1b6b', dragon: '#0b4533', daily: '#5a3a0e' };
   function setThemeColor(name) {
     const meta = document.querySelector('meta[name="theme-color"]');
     if (!meta) return;

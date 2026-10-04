@@ -14,7 +14,7 @@
   const D = 'icons/dessins/', O = 'icons/openmoji/';
   // emoji (sans le sélecteur de variante) -> [fichier, taille relative au texte]
   const ICONES = {
-    '🍔': [D + 'burger.svg', 1.12], '🗓': [D + 'calendrier.svg', 1.12], '📖': [D + 'livre.svg', 1.12], '🎯': [D + 'cible.svg', 1.12], '🐉': [D + 'dragon.svg', 1.12],
+    '🍔': [D + 'burger.svg', 1.12], '🗓': [D + 'calendrier.svg', 1.12], '📖': [D + 'livre.svg', 1.12], '🎯': [D + 'cible.svg', 1.12],
     '🏛': [O + 'histoire.svg', 1.3], '🌍': [O + 'geo.svg', 1.3], '⚖': [O + 'politique.svg', 1.3], '💰': [O + 'economie.svg', 1.3], '🕯': [O + 'religions.svg', 1.3],
     '🦉': [O + 'philosophie.svg', 1.3], '🦄': [O + 'mythologie.svg', 1.3], '🔬': [O + 'sciences.svg', 1.3], '🪐': [O + 'astronomie.svg', 1.3], '🧬': [O + 'corps-humain.svg', 1.3],
     '🦁': [O + 'animaux.svg', 1.3], '🌿': [O + 'nature.svg', 1.3], '💡': [O + 'tech.svg', 1.3], '🍳': [O + 'cuisine.svg', 1.3], '🎬': [O + 'cinema.svg', 1.3],

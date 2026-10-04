@@ -88,6 +88,7 @@ html.style-cartoon .domain-tile__emoji {
   font-size: 34px; line-height: 1; filter: drop-shadow(0 3px 0 rgba(18, 22, 28, 0.85));
 }
 html.style-cartoon .domain-tile--wide .domain-tile__emoji { align-self: center; }
+html.style-cartoon .domain-tile__emoji { filter: none; }   /* le liseré blanc est porté par l'image elle-même */
 html.style-cartoon .domain-tile__label { color: #fff; font-weight: 800; }
 
 /* ---------- Fiche, quiz : étiquette en ruban, réponses « touches » ---------- */

@@ -1,13 +1,27 @@
 /* ===================== emoji-centre.js =====================
- * Centre précisément les logos (emojis) de l'accueil, des menus et des thèmes.
+ * Remplace les logos (emojis) de l'accueil, des menus, des thèmes et des médailles par de vrais DESSINS (identiques sur
+ * tous les téléphones) : dessins maison (accueil) et icônes OpenMoji (thèmes, menus, médailles).
+ * Les emojis sans dessin sont, eux, recentrés précisément.
+ * (Recentrage : chaque police d'emojis dessine les siens à une hauteur différente.
  * Chaque police d'emojis dessine ses emojis à une hauteur différente (le burger plus bas, le dragon plus haut…),
  * donc un simple réglage de marge ne peut pas les centrer tous. Ici, on dessine chaque emoji dans un canvas,
  * on mesure où se trouve réellement le dessin, puis on l'affiche en image recentrée.
- * Si le canvas n'est pas disponible, on garde l'emoji tel quel (texte).
+ * Si le canvas n'est pas disponible, on garde l'emoji tel quel (texte).)
  * Pour retirer : supprimer ce fichier et sa ligne dans index.html.
  * ========================================================= */
 (() => {
-  const SEL = '.home-card__icon, .daily-card__icon, .mode-card__icon, .domain-tile__emoji';
+  const SEL = '.home-card__icon, .daily-card__icon, .mode-card__icon, .domain-tile__emoji, .serie-end__medal-emoji';
+  const D = 'icons/dessins/', O = 'icons/openmoji/';
+  // emoji (sans le sélecteur de variante) -> [fichier, taille relative au texte]
+  const ICONES = {
+    '🍔': [D + 'burger.svg', 1.12], '🗓': [D + 'calendrier.svg', 1.12], '📖': [D + 'livre.svg', 1.12], '🎯': [D + 'cible.svg', 1.12], '🐉': [D + 'dragon.svg', 1.12],
+    '🏛': [O + 'histoire.svg', 1.3], '🌍': [O + 'geo.svg', 1.3], '⚖': [O + 'politique.svg', 1.3], '💰': [O + 'economie.svg', 1.3], '🕯': [O + 'religions.svg', 1.3],
+    '🦉': [O + 'philosophie.svg', 1.3], '🦄': [O + 'mythologie.svg', 1.3], '🔬': [O + 'sciences.svg', 1.3], '🪐': [O + 'astronomie.svg', 1.3], '🧬': [O + 'corps-humain.svg', 1.3],
+    '🦁': [O + 'animaux.svg', 1.3], '🌿': [O + 'nature.svg', 1.3], '💡': [O + 'tech.svg', 1.3], '🍳': [O + 'cuisine.svg', 1.3], '🎬': [O + 'cinema.svg', 1.3],
+    '🎮': [O + 'jeux-video.svg', 1.3], '🎨': [O + 'art.svg', 1.3], '🎸': [O + 'musique.svg', 1.3], '✒': [O + 'litterature.svg', 1.3], '🍥': [O + 'manga.svg', 1.3], '⚽': [O + 'sport.svg', 1.3],
+    '🎲': [O + 'des.svg', 1.3], '🗂': [O + 'dossiers.svg', 1.3], '⭐': [O + 'etoile.svg', 1.3], '⚡': [O + 'eclair.svg', 1.3], '🏆': [O + 'trophee.svg', 1.3],
+    '🥇': [O + 'medaille-or.svg', 1.3], '🥈': [O + 'medaille-argent.svg', 1.3], '🥉': [O + 'medaille-bronze.svg', 1.3], '💪': [O + 'muscle.svg', 1.3],
+  };
   const cache = new Map();
   const dpr = Math.min(3, Math.max(1, window.devicePixelRatio || 1));
 
@@ -52,6 +66,14 @@
     const cs = getComputedStyle(el);
     const fontPx = parseFloat(cs.fontSize);
     if (!fontPx) return;
+    const dessin = ICONES[text.replace(/\uFE0F/g, '')];
+    if (dessin) {
+      const side = fontPx * dessin[1];
+      el.dataset.centre = '1';
+      el.setAttribute('aria-label', text);
+      el.innerHTML = `<img class="${dessin[0].includes('openmoji') ? 'icone--om' : 'icone'}" alt="" draggable="false" src="${dessin[0]}" style="display:block;width:${side}px;height:${side}px;margin:${-(side - fontPx) / 2}px;pointer-events:none">`;
+      return;
+    }
     const r = recentre(text, cs.fontFamily, fontPx);
     if (!r) return;
     const m = -((r.side - fontPx) / 2);

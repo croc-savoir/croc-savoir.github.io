@@ -4,10 +4,10 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="robots" content="noindex">
-<title>Démo couleurs chaleureuses — Croc'Savoir</title>
+<title>Démo style mat — Croc'Savoir</title>
 <link rel="stylesheet" href="css/style.css">
 <style>
-  /* Page de démo temporaire : à supprimer une fois le choix fait (demo-chaleur.html). */
+  /* Page de démo temporaire : à supprimer une fois le choix fait (demo-mat.html). */
   .demo { max-width: 560px; margin: 0 auto; padding: 14px 16px 70px; position: relative; z-index: 1; }
   .demo h1 { font-size: 24px; margin: 6px 0 4px; font-family: var(--font-display); }
   .demo h2 { font-size: 17px; margin: 28px 0 12px; font-family: var(--font-display); }
@@ -23,46 +23,60 @@
   .grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
   .note { color: var(--text-faint); font-size: 12.5px; margin-top: 22px; }
 
-  /* ===== Palettes chaleureuses ===== */
-  /* A · Café chaud : bruns profonds, crème, ambre */
-  body.p-a { --bg:#17110e; --bg-soft:#1f1612; --bg-elevated:#2b1f19; --card:#241a15; --card-hover:#2e211b; --border:#473529; --border-soft:#372a21;
-    --text:#fbf0e3; --text-muted:#dcc7b2; --text-faint:#ab9580; --accent:#f59e0b; --accent-2:#fbbf24; --accent-pale:#ffe9bd; --accent-rgb:245,158,11;
-    --success:#8fd18c; --success-bg:rgba(143,209,140,.14); --danger:#f4837d; --danger-bg:rgba(244,131,125,.14);
-    --p1:#f59e0b; --p2:#f97316; --pbtn:#2a1503; --quiz:226,120,98; --dragon:130,170,80; --glow2:255,170,60; }
-  /* B · Crépuscule : aubergine, corail, pêche */
-  body.p-b { --bg:#16101f; --bg-soft:#1d1529; --bg-elevated:#292038; --card:#221a31; --card-hover:#2b2140; --border:#46385e; --border-soft:#342a49;
-    --text:#fff3ec; --text-muted:#ddc9d6; --text-faint:#b09bb5; --accent:#fb7185; --accent-2:#fdba74; --accent-pale:#ffe1d6; --accent-rgb:251,113,133;
-    --success:#8fd9a8; --success-bg:rgba(143,217,168,.14); --danger:#ff8a8a; --danger-bg:rgba(255,138,138,.14);
-    --p1:#fb7185; --p2:#fb923c; --pbtn:#2b0d14; --quiz:190,120,255; --dragon:110,200,160; --glow2:253,186,116; }
-  /* C · Forêt chaleureuse : vert profond, miel, crème */
-  body.p-c { --bg:#0f1812; --bg-soft:#15211a; --bg-elevated:#1f2f25; --card:#1a281f; --card-hover:#223329; --border:#3a5444; --border-soft:#2c4034;
-    --text:#f8f1dc; --text-muted:#d3cdb0; --text-faint:#9fa88f; --accent:#e9b44c; --accent-2:#f4cf7a; --accent-pale:#fbe9b8; --accent-rgb:233,180,76;
-    --success:#9bd78a; --success-bg:rgba(155,215,138,.14); --danger:#f08a7a; --danger-bg:rgba(240,138,122,.14);
-    --p1:#e9b44c; --p2:#e07a3f; --pbtn:#2b1a05; --quiz:214,106,76; --dragon:120,190,110; --glow2:240,160,80; }
+  /* ===== Style « mat » : aplats, ombres douces, aucune lueur, aucun dégradé brillant ===== */
+  body.flat { background: var(--bg); }
+  body.flat::before { display: none; }
+  body.flat .home-card, body.flat .daily-card, body.flat .fiche-card, body.flat .quiz-card, body.flat .serie-end, body.flat .domain-tile,
+  body.flat .serie-end__scorecard { background: var(--card); border: 1px solid var(--border); box-shadow: var(--sh); }
+  body.flat .home-card--fiches { background: var(--c1); }
+  body.flat .home-card--quiz, body.flat .daily-card--quiz { background: var(--c2); }
+  body.flat .home-card--dragon { background: var(--c3); }
+  body.flat .daily-card:not(.daily-card--quiz) { background: var(--c4); }
+  body.flat .daily-card__icon, body.flat .home-card__icon { background: var(--chip); }
+  body.flat .daily-card__streak { background: var(--chip); color: var(--accent-2); }
+  body.flat .btn-primary { background: var(--accent); color: var(--onaccent); box-shadow: none; border: none; }
+  body.flat .btn-ghost { background: transparent; border: 1.5px solid var(--accent); color: var(--accent-2); box-shadow: none; }
+  body.flat .chip { background: var(--chip); border: 1px solid var(--border); color: var(--text-muted); }
+  body.flat .chip.is-active { background: var(--accent); border-color: var(--accent); color: var(--onaccent); }
+  body.flat .domain-tile { border-top: 1px solid var(--border); }
+  body.flat .domain-tile__label { color: var(--text); }
+  body.flat .domain-tile__count { color: var(--text-faint); }
+  body.flat .serie-rec__tag { color: var(--accent-2); }
+  body.flat .domain-tile__emoji { background: hsl(var(--th) 35% 45% / .22); }
+  body.flat .opt-btn { background: var(--bg-elevated); border: 1px solid var(--border); }
+  body.flat .opt-btn.is-selected { background: var(--accent); border-color: var(--accent); color: var(--onaccent); }
+  body.flat .serie-end__value { color: var(--accent); }
+  body.flat .fiche-card::before { display: none; }
+  body.flat .fiche-card__type { background: var(--chip); color: var(--accent-2); }
+  body.flat .switch button.on { background: var(--accent); color: var(--onaccent); border-color: var(--accent); }
 
-  body.p-a, body.p-b, body.p-c {
-    background: radial-gradient(ellipse 900px 500px at 15% -10%, rgba(var(--accent-rgb), .16), transparent 60%),
-                radial-gradient(ellipse 700px 500px at 100% 0%, rgba(var(--glow2), .10), transparent 55%), var(--bg);
-  }
-  .p-a .btn-primary, .p-b .btn-primary, .p-c .btn-primary { background: linear-gradient(135deg, var(--p1), var(--p2)); color: var(--pbtn);
-    box-shadow: inset 0 0 0 1px rgba(255,255,255,.3), 0 12px 30px rgba(var(--accent-rgb), .35); }
-  .p-a .home-card--quiz, .p-b .home-card--quiz, .p-c .home-card--quiz { background: linear-gradient(140deg, rgba(var(--quiz), .40), var(--card) 65%); }
-  .p-a .daily-card--quiz, .p-b .daily-card--quiz, .p-c .daily-card--quiz { border-color: rgba(var(--quiz), .5); background: linear-gradient(135deg, rgba(var(--quiz), .30), rgba(var(--accent-rgb), .14) 70%); box-shadow: 0 10px 28px rgba(var(--quiz), .18); }
-  .p-a .home-card--dragon, .p-b .home-card--dragon, .p-c .home-card--dragon { background: linear-gradient(140deg, rgba(var(--dragon), .34), var(--card) 65%); }
-  .p-a .daily-card, .p-b .daily-card, .p-c .daily-card { border-color: rgba(var(--accent-rgb), .45); }
-  .p-a .quiz-card, .p-b .quiz-card, .p-c .quiz-card { background: linear-gradient(165deg, var(--card), var(--bg-soft)); }
+  /* A · Mat chaleureux (sombre) : bruns doux, crème, terracotta */
+  body.s-a { --bg:#1d1916; --bg-soft:#231f1c; --bg-elevated:#2e2825; --card:#272220; --border:#3d3530; --border-soft:#3d3530;
+    --text:#f3eadf; --text-muted:#cdbfaf; --text-faint:#9d8f80; --accent:#d9774a; --accent-2:#f0b08e; --accent-rgb:217,119,74; --onaccent:#1f120a;
+    --sh:0 2px 8px rgba(0,0,0,.25); --c1:#3a2d24; --c2:#3d2b30; --c3:#2b3a2c; --c4:#43301f; --chip:rgba(255,255,255,.07);
+    --success:#8fbf86; --success-bg:rgba(143,191,134,.15); --danger:#e08277; --danger-bg:rgba(224,130,119,.15); color-scheme: dark; }
+  /* B · Papier (clair) : crème, brun, terracotta — comme un livre */
+  body.s-b { --bg:#f5eee3; --bg-soft:#f0e7d9; --bg-elevated:#ece1d0; --card:#fffaf1; --border:#ddcfba; --border-soft:#e6d9c5;
+    --text:#2e2318; --text-muted:#6a5846; --text-faint:#8f7d68; --accent:#c4592f; --accent-2:#a8451f; --accent-rgb:196,89,47; --onaccent:#fff7ee;
+    --sh:0 2px 10px rgba(80,55,30,.10); --c1:#f4e3cc; --c2:#f1dcd9; --c3:#e2ead3; --c4:#f7e2b8; --chip:rgba(120,80,40,.10);
+    --success:#3f8a4e; --success-bg:rgba(63,138,78,.12); --danger:#bf4038; --danger-bg:rgba(191,64,56,.10); color-scheme: light; }
+  /* C · Ardoise douce (sombre adouci) : gris-bleu chaud, corail doux */
+  body.s-c { --bg:#2a2f37; --bg-soft:#30353e; --bg-elevated:#3b424d; --card:#343a44; --border:#4a525f; --border-soft:#4a525f;
+    --text:#f1f3f6; --text-muted:#c4cad3; --text-faint:#98a1ae; --accent:#e58c5c; --accent-2:#f4b898; --accent-rgb:229,140,92; --onaccent:#26150c;
+    --sh:0 2px 8px rgba(0,0,0,.2); --c1:#3d4658; --c2:#473d52; --c3:#35483f; --c4:#51412f; --chip:rgba(255,255,255,.08);
+    --success:#8cc59a; --success-bg:rgba(140,197,154,.15); --danger:#e6847d; --danger-bg:rgba(230,132,125,.15); color-scheme: dark; }
 </style>
 </head>
 <body class="p-cur">
 <div class="demo">
-  <h1>Des couleurs plus chaleureuses</h1>
-  <p class="lead">Touche un bouton : tout ce qui est en dessous change. Je garde la même mise en page, les mêmes formes et les mêmes icônes ; seules les couleurs changent.</p>
+  <h1>Un style mat, sans néon</h1>
+  <p class="lead">Plus de lueurs, plus de dégradés brillants : des aplats de couleur, des ombres douces, des contours fins. Touche un bouton pour comparer. Mise en page, formes et icônes ne changent pas.</p>
 
   <div class="switch" id="switch">
     <button data-set="p-cur" class="on">Actuel</button>
-    <button data-set="p-a">A · Café</button>
-    <button data-set="p-b">B · Crépuscule</button>
-    <button data-set="p-c">C · Forêt</button>
+    <button data-set="s-a">A · Mat chaud</button>
+    <button data-set="s-b">B · Papier</button>
+    <button data-set="s-c">C · Ardoise</button>
   </div>
   <p class="what" id="what"></p>
 
@@ -125,13 +139,14 @@
 </div>
 <script>
   var TEXTES = {
-    'p-cur': "Le style actuel : bleu nuit, bleu électrique et cyan.",
-    'p-a': "Café chaud : des bruns profonds, du crème et de l'ambre. Doux, rassurant, un peu « livre ancien ».",
-    'p-b': "Crépuscule : une aubergine profonde avec du corail et de la pêche. Chaleureux et un peu plus vivant.",
-    'p-c': "Forêt chaleureuse : un vert très sombre avec du miel et du crème. Naturel et apaisant."
+    'p-cur': "Le style actuel : fond très sombre, dégradés vifs et lueurs colorées.",
+    's-a': "Mat chaud : fond brun doux, cartes unies, bouton terracotta plein. Sombre mais sans aucun effet lumineux.",
+    's-b': "Papier : fond crème comme une page de livre, texte brun, accent terracotta. Le plus éloigné du côté technologique.",
+    's-c': "Ardoise : un sombre adouci gris-bleu, moins contrasté, avec un corail doux. Posé et sobre."
   };
   function show(p) {
-    document.body.classList.remove('p-cur', 'p-a', 'p-b', 'p-c'); document.body.classList.add(p);
+    document.body.classList.remove('p-cur', 's-a', 's-b', 's-c', 'flat');
+    document.body.classList.add(p); if (p !== 'p-cur') document.body.classList.add('flat');
     document.getElementById('what').textContent = TEXTES[p];
     document.querySelectorAll('#switch button').forEach(function (b) { b.classList.toggle('on', b.dataset.set === p); });
   }

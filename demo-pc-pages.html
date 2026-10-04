@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Démo pages ordinateur — Croc'Savoir</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/cartoon.css">
+<style>
+  /* Démo temporaire (maquettes statiques) : à supprimer après choix. */
+  #view-root { max-width: none; padding: 0 0 110px; }
+  .pc { max-width: 1180px; margin: 0 auto; padding: 0 32px; }
+  .dem { pointer-events: none; }
+  .logo { display: flex; align-items: center; gap: 10px; font-family: var(--font-display); font-weight: 800; font-size: 22px; }
+  .logo span:first-child { font-size: 28px; }
+  .rech { display: flex; align-items: center; gap: 8px; padding: 10px 16px; border-radius: 999px; border: 1px solid var(--border); background: var(--bg-elevated); color: var(--text-faint); min-width: 260px; font-size: 14px; }
+  html.style-cartoon .rech { border: 3px solid var(--ink); box-shadow: 0 3px 0 var(--ink); }
+  /* chrome haut */
+  .nav { position: sticky; top: 0; z-index: 30; background: var(--bg-soft); border-bottom: 1px solid var(--border); }
+  html.style-cartoon .nav { border-bottom: 3px solid var(--ink); }
+  .nav .pc { display: flex; align-items: center; gap: 26px; height: 66px; max-width: 1280px; }
+  .nav a { color: var(--text-muted); font-weight: 700; font-size: 15px; padding: 8px 4px; border-bottom: 3px solid transparent; cursor: pointer; }
+  .nav a.act { color: var(--text); border-bottom-color: var(--accent); }
+  .sp { flex: 1; }
+  /* chrome latéral */
+  .side { display: none; position: fixed; left: 0; top: 0; bottom: 0; width: 240px; padding: 18px 14px; background: var(--bg-soft); border-right: 1px solid var(--border); z-index: 20; overflow: auto; }
+  html.style-cartoon .side { border-right: 3px solid var(--ink); }
+  .side .logo { margin: 4px 6px 20px; }
+  .side a { display: flex; gap: 12px; padding: 12px; border-radius: 12px; font-weight: 700; color: var(--text-muted); cursor: pointer; margin-bottom: 4px; }
+  .side a.act { background: var(--accent); color: #fff; }
+  .side .rech { min-width: 0; margin-top: 18px; }
+  body.lat .nav { display: none; }
+  body.lat .side { display: block; }
+  body.lat #view-root { margin-left: 240px; }
+  .page { display: none; padding-top: 34px; }
+  .page.on { display: block; }
+  h1.t { font-family: var(--font-display); font-size: 34px; margin: 0 0 6px; }
+  .sub { color: var(--text-muted); margin: 0 0 26px; }
+  .grille { display: grid; gap: 16px; }
+  .g7 { grid-template-columns: repeat(7, 1fr); } .g2 { grid-template-columns: 1fr 1fr; } .g3 { grid-template-columns: repeat(3, 1fr); }
+  .grille .domain-tile { min-height: 108px; }
+  .tags { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 22px; }
+  .chip { padding: 8px 16px; border-radius: 999px; border: 1px solid var(--border); background: var(--bg-elevated); font-weight: 700; font-size: 14px; }
+  .chip.on { background: var(--accent); color: #fff; border-color: transparent; }
+  html.style-cartoon .chip { border: 3px solid var(--ink); }
+  .cols2 { display: grid; grid-template-columns: 1fr 340px; gap: 30px; align-items: start; }
+  .panneau { background: var(--bg-elevated); border: 1px solid var(--border); border-radius: 18px; padding: 20px; }
+  html.style-cartoon .panneau { border: 3px solid var(--ink); box-shadow: 0 5px 0 var(--ink); }
+  .panneau h4 { margin: 0 0 12px; font-size: 13px; letter-spacing: .08em; text-transform: uppercase; color: var(--text-muted); }
+  .panneau .fiche-list-item { width: 100%; margin-bottom: 8px; text-align: left; }
+  .fiche-list-item { pointer-events: none; }
+  .fiche-card h5 { margin: 22px 0 6px; font-size: 14px; letter-spacing: .06em; text-transform: uppercase; color: var(--accent-2); }
+  .fiche-card p.t2 { font-size: 17px; line-height: 1.65; color: var(--text-muted); margin: 0; }
+  .fiche-card__title { font-size: 34px; }
+  .lien { display: flex; justify-content: space-between; padding: 12px 14px; border-radius: 12px; background: var(--bg-soft); margin-bottom: 8px; font-weight: 700; font-size: 15px; }
+  /* quiz */
+  .qtop { display: flex; align-items: center; gap: 16px; margin-bottom: 22px; }
+  .barre { flex: 1; height: 12px; border-radius: 99px; background: var(--bg-soft); overflow: hidden; }
+  .barre i { display: block; height: 100%; width: 40%; background: var(--accent); border-radius: 99px; }
+  .qwrap { max-width: 860px; margin: 0 auto; }
+  .qwrap .quiz-card { padding: 34px; }
+  .qwrap .quiz-card__question { font-size: 26px; line-height: 1.35; }
+  .qwrap .opt-list { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .qwrap .opt-btn { min-height: 76px; font-size: 17px; pointer-events: none; }
+  .kbd { display: inline-block; min-width: 24px; padding: 2px 7px; border-radius: 6px; border: 1px solid var(--border); font-size: 12px; font-weight: 800; margin-right: 10px; color: var(--text-muted); }
+  .aide { text-align: center; color: var(--text-faint); font-size: 13px; margin-top: 16px; }
+  /* fin */
+  .fin { display: grid; grid-template-columns: 380px 1fr; gap: 30px; align-items: start; max-width: 1080px; margin: 0 auto; }
+  .fin .score { text-align: center; padding: 34px 24px; }
+  .fin .med { font-size: 84px; line-height: 1; }
+  .fin .pts { font-family: var(--font-display); font-size: 72px; font-weight: 800; color: #ff7a3d; margin: 10px 0 0; }
+  .fin .btns { display: grid; gap: 10px; margin-top: 22px; }
+  .rec { display: grid; grid-template-columns: 30px 1fr 1fr; gap: 14px; padding: 12px 6px; border-bottom: 1px solid var(--border); font-size: 14px; align-items: center; }
+  .rec b { display: block; margin-bottom: 3px; }
+  .ok { color: #36c98a; font-weight: 800; } .ko { color: #ff6b6b; font-weight: 800; }
+  .dtgrid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+  .dtgrid .dt-group { min-height: 110px; pointer-events: none; }
+  /* barre démo */
+  .ctl { position: fixed; bottom: 14px; left: 50%; transform: translateX(-50%); z-index: 100; display: flex; flex-wrap: wrap; gap: 6px; padding: 9px; background: #12161c; border: 2px solid #3b424d; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,.5); max-width: 96vw; }
+  .ctl button { padding: 8px 12px; border-radius: 10px; border: 2px solid #3b424d; background: #2a2f37; color: #f7f3ec; font: inherit; font-weight: 800; font-size: 13px; cursor: pointer; }
+  .ctl button.on { background: #3f82e8; border-color: #9cc2ff; }
+  .ctl .sep { width: 2px; background: #3b424d; margin: 0 3px; }
+</style>
+</head>
+<body>
+<aside class="side">
+  <div class="logo"><span>🍔</span><span>Croc'Savoir</span></div>
+  <a class="act">🏠 Accueil</a><a>📖 Fiches</a><a>🎯 Quiz</a><a>🗓️ Quiz du jour</a><a>🐉 Dragon Tour</a>
+  <div class="rech">🔍 Rechercher…</div>
+</aside>
+<div class="nav"><div class="pc">
+  <div class="logo"><span>🍔</span><span>Croc'Savoir</span></div>
+  <a class="act">Accueil</a><a>Fiches</a><a>Quiz</a><a>Quiz du jour</a><a>Dragon Tour</a>
+  <span class="sp"></span><div class="rech">🔍 Rechercher une fiche…</div>
+</div></div>
+
+<div id="view-root">
+
+<!-- Accueil -->
+<section class="page on" id="p-accueil"><div class="pc">
+  <h1 class="t">Bonjour 👋</h1><p class="sub">2 079 fiches, 2 162 questions, 21 thèmes. Qu'est-ce qu'on apprend aujourd'hui ?</p>
+  <div class="grille g2">
+    <button class="daily-card dem" type="button"><span class="daily-card__icon">🍔</span><span class="daily-card__text"><span class="daily-card__title">Ta bouchée du jour</span><span class="daily-card__desc">5 fiches + 5 questions</span></span><span class="daily-card__streak">🔥 3</span></button>
+    <button class="daily-card daily-card--quiz dem" type="button"><span class="daily-card__icon">🗓️</span><span class="daily-card__text"><span class="daily-card__title">Quiz du jour</span><span class="daily-card__desc">20 questions pour tout le monde</span></span></button>
+  </div>
+  <div class="grille g3" style="margin-top:16px">
+    <button class="home-card home-card--fiches dem" type="button"><span class="home-card__icon">📖</span><span class="home-card__text"><span class="home-card__title">Fiches</span><span class="home-card__desc">Lire et apprendre</span></span></button>
+    <button class="home-card home-card--quiz dem" type="button"><span class="home-card__icon">🎯</span><span class="home-card__text"><span class="home-card__title">Quiz</span><span class="home-card__desc">Séries 10 / 15 / 20</span></span></button>
+    <button class="home-card home-card--dragon dem" type="button"><span class="home-card__icon">🐉</span><span class="home-card__text"><span class="home-card__title">Dragon Tour</span><span class="home-card__desc">Drapeaux et capitales</span></span></button>
+  </div>
+  <h2 style="font-family:var(--font-display);margin:36px 0 14px">Tous les thèmes</h2>
+  <div class="grille g7 themes"></div>
+</div></section>
+
+<!-- Thème : liste -->
+<section class="page" id="p-theme"><div class="pc">
+  <h1 class="t">🏛️ Histoire</h1><p class="sub">100 fiches · 7 rubriques</p>
+  <div class="tags"><span class="chip on">Tout</span><span class="chip">Antiquité</span><span class="chip">Moyen Âge</span><span class="chip">Révolution française</span><span class="chip">Empire</span><span class="chip">XXe siècle</span><span class="chip">Personnages</span></div>
+  <div class="grille g3" id="liste"></div>
+</div></section>
+
+<!-- Fiche -->
+<section class="page" id="p-fiche"><div class="pc"><div class="cols2">
+  <div class="fiche-card">
+    <div class="fiche-card__type">🏛️ Date clé · Révolution française</div>
+    <h3 class="fiche-card__title">1789 : la prise de la Bastille</h3>
+    <p class="fiche-card__subtitle">14 juillet 1789, Paris</p>
+    <div class="fiche-card__summary"><p>Le 14 juillet 1789, des Parisiens s'emparent de la Bastille, forteresse qui symbolise l'arbitraire royal. L'événement marque le début de la Révolution.</p></div>
+    <h5>Contexte</h5><p class="t2">Paris est agité : la rumeur d'un renvoi du ministre Necker et la crainte d'une répression poussent la foule à chercher des armes. La Bastille abrite de la poudre.</p>
+    <h5>Déroulement</h5><p class="t2">Après des négociations, des tirs éclatent. En fin d'après-midi, le gouverneur de Launay se rend ; il est tué par la foule.</p>
+    <h5>Conséquences</h5><p class="t2">La nouvelle se répand dans le pays. Le roi reconnaît l'Assemblée et le drapeau tricolore apparaît.</p>
+    <div style="display:flex;gap:12px;margin-top:26px"><button class="btn btn-ghost dem" style="flex:1">🔎 Approfondir</button><button class="btn btn-primary dem" style="flex:1">Fiche suivante →</button></div>
+  </div>
+  <div>
+    <div class="panneau"><h4>Liens</h4><div class="lien"><span>Louis XVI</span><span>›</span></div><div class="lien"><span>Déclaration des droits de l'homme</span><span>›</span></div><div class="lien"><span>La Terreur</span><span>›</span></div></div>
+    <div class="panneau" style="margin-top:16px"><h4>Tester cette fiche</h4><p style="margin:0 0 12px;color:var(--text-muted)">3 questions liées à la Révolution.</p><button class="btn btn-primary dem" style="width:100%">Lancer le mini-quiz</button></div>
+  </div>
+</div></div></section>
+
+<!-- Quiz en cours -->
+<section class="page" id="p-quiz"><div class="pc"><div class="qwrap">
+  <div class="qtop"><span style="font-weight:800">Question 8 / 20</span><div class="barre"><i></i></div><span>🏛️ Histoire</span></div>
+  <div class="quiz-card">
+    <div class="quiz-card__format">QCM</div>
+    <p class="quiz-card__question">Quel événement la Colonne de Juillet, place de la Bastille, commémore-t-elle ?</p>
+    <div class="opt-list">
+      <button class="opt-btn" type="button"><span class="kbd">1</span>La prise de la Bastille</button>
+      <button class="opt-btn is-selected" type="button"><span class="kbd">2</span>Les Trois Glorieuses de 1830</button>
+      <button class="opt-btn" type="button"><span class="kbd">3</span>Le sacre de Napoléon</button>
+      <button class="opt-btn" type="button"><span class="kbd">4</span>La fin de la Première Guerre mondiale</button>
+    </div>
+    <button class="btn btn-primary dem" style="width:100%;margin-top:22px">Valider la réponse</button>
+  </div>
+  <p class="aide">Touches : 1 à 4 pour choisir · Entrée pour valider</p>
+</div></div></section>
+
+<!-- Fin de quiz -->
+<section class="page" id="p-fin"><div class="pc"><div class="fin">
+  <div class="quiz-card score">
+    <div class="med">🥇</div><div class="pts">18/20</div><p style="color:var(--text-muted);margin:6px 0 0">Médaille d'or · Histoire</p>
+    <div class="btns"><button class="btn btn-primary dem">Rejouer</button><button class="btn btn-ghost dem">Autre thème</button><button class="btn btn-ghost dem">Retour</button></div>
+  </div>
+  <div class="panneau"><h4>Récapitulatif</h4>
+    <div class="rec"><span class="ok">✔</span><div><b>Qui a prononcé le Serment du Jeu de paume ?</b>Ta réponse : l'Assemblée nationale</div><div>Bonne réponse : l'Assemblée nationale</div></div>
+    <div class="rec"><span class="ko">✘</span><div><b>Que commémore la Colonne de Juillet ?</b>Ta réponse : Le sacre de Napoléon</div><div>Bonne réponse : Les Trois Glorieuses</div></div>
+    <div class="rec"><span class="ok">✔</span><div><b>En quelle année tombe la Bastille ?</b>Ta réponse : 1789</div><div>Bonne réponse : 1789</div></div>
+    <div class="rec"><span class="ko">✘</span><div><b>Qui est le dernier roi de France ?</b>Ta réponse : Louis XVI</div><div>Bonne réponse : Louis-Philippe Ier</div></div>
+    <div class="rec"><span class="ok">✔</span><div><b>Quel traité met fin à la guerre de Cent Ans ?</b>Ta réponse : Picquigny</div><div>Bonne réponse : Picquigny</div></div>
+  </div>
+</div></div></section>
+
+<!-- Quiz du jour -->
+<section class="page" id="p-jour"><div class="pc" style="max-width:900px">
+  <div class="quiz-card" style="text-align:center;padding:48px 30px">
+    <div style="font-size:72px">🗓️</div><h1 class="t">Quiz du jour</h1>
+    <p class="sub">Dimanche 4 octobre · 20 questions, les mêmes pour tout le monde. Une seule tentative par jour.</p>
+    <div class="grille g3" style="margin:0 0 26px"><div class="panneau"><h4>Série</h4><b style="font-size:26px">🔥 3 jours</b></div><div class="panneau"><h4>Hier</h4><b style="font-size:26px">17/20</b></div><div class="panneau"><h4>Meilleur</h4><b style="font-size:26px">20/20 🥇</b></div></div>
+    <button class="btn btn-primary dem" style="min-width:300px">Commencer</button>
+  </div>
+</div></section>
+
+<!-- Dragon Tour -->
+<section class="page" id="p-dragon"><div class="pc">
+  <h1 class="t">🐉 Dragon Tour</h1><p class="sub">Drapeaux et capitales du monde, continent par continent.</p>
+  <div class="dtgrid">
+    <div class="dt-group dt-group--monde"><span class="dt-group__emoji">🌍</span><span class="dt-group__text"><span class="dt-group__label">Europe</span><span class="dt-group__desc">44 pays</span></span></div>
+    <div class="dt-group dt-group--monde"><span class="dt-group__emoji">🌏</span><span class="dt-group__text"><span class="dt-group__label">Asie</span><span class="dt-group__desc">48 pays</span></span></div>
+    <div class="dt-group dt-group--monde"><span class="dt-group__emoji">🌍</span><span class="dt-group__text"><span class="dt-group__label">Afrique</span><span class="dt-group__desc">54 pays</span></span></div>
+    <div class="dt-group dt-group--monde"><span class="dt-group__emoji">🌎</span><span class="dt-group__text"><span class="dt-group__label">Amériques</span><span class="dt-group__desc">35 pays</span></span></div>
+  </div>
+</div></section>
+
+</div>
+
+<div class="ctl">
+  <button data-p="accueil" class="on">Accueil</button><button data-p="theme">Thème</button><button data-p="fiche">Fiche</button><button data-p="quiz">Quiz</button><button data-p="fin">Fin de quiz</button><button data-p="jour">Quiz du jour</button><button data-p="dragon">Dragon Tour</button>
+  <span class="sep"></span><button data-c="haut" class="on">Menu haut</button><button data-c="lat">Menu côté</button>
+  <span class="sep"></span><button data-s="neon" class="on">Néon</button><button data-s="cartoon">Cartoon</button>
+</div>
+<script src="js/emoji-centre.js"></script>
+<script>
+  var G = { monde: '#ffb83d', vivant: '#36c98a', arts: '#ff7aa8' };
+  fetch('data/domains.json').then(function (r) { return r.json(); }).then(function (d) {
+    document.querySelector('.themes').innerHTML = d.map(function (x) { return '<div class="domain-tile" style="--th:' + (x.hue || 220) + ';--g:' + G[x.groupe] + '"><span class="domain-tile__emoji">' + x.emoji + '</span><span class="domain-tile__label">' + x.label + '</span><span class="domain-tile__count">100 fiches</span></div>'; }).join('');
+  });
+  var noms = ['1789 : la prise de la Bastille','Louis XVI','Robespierre','La Terreur','Napoléon Bonaparte','Waterloo','Jeanne d\'Arc','Charlemagne','Louis XIV'];
+  document.getElementById('liste').innerHTML = noms.map(function (n, i) { return '<button class="fiche-list-item" type="button"><span class="fiche-list-item__title">' + n + '</span><span class="fiche-list-item__type">' + (i % 2 ? 'Personnage' : 'Date clé') + '</span></button>'; }).join('');
+  document.querySelector('.ctl').addEventListener('click', function (e) {
+    var b = e.target.closest('button'); if (!b) return;
+    function only(attr) { document.querySelectorAll('.ctl [' + attr + ']').forEach(function (x) { x.classList.toggle('on', x === b); }); }
+    if (b.dataset.p) { document.querySelectorAll('.page').forEach(function (p) { p.classList.toggle('on', p.id === 'p-' + b.dataset.p); }); only('data-p'); window.scrollTo(0, 0); }
+    if (b.dataset.c) { document.body.classList.toggle('lat', b.dataset.c === 'lat'); only('data-c'); }
+    if (b.dataset.s) { document.documentElement.classList.toggle('style-cartoon', b.dataset.s === 'cartoon'); only('data-s'); }
+  });
+</script>
+</body>
+</html>

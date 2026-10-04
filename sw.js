@@ -4,12 +4,12 @@
  *   et à mesure (stale-while-revalidate), pour supporter l'ajout de
  *   nouveaux domaines/lots sans jamais devoir republier le service worker.
  * ================================================================= */
-const SHELL_VERSION = 'v46';
+const SHELL_VERSION = 'v47';
 const SHELL_CACHE = `culture-g-shell-${SHELL_VERSION}`;
 const DATA_CACHE = 'culture-g-data';
 
 // Fichiers facultatifs (animations) : mis en cache s'ils existent, mais leur absence ne bloque jamais l'installation.
-const OPTIONAL_FILES = ['css/animations.css', 'js/animations.js', 'css/cartoon.css', 'js/style-toggle.js'];
+const OPTIONAL_FILES = ['css/animations.css', 'js/animations.js', 'css/cartoon.css', 'js/style-toggle.js', 'js/emoji-centre.js'];
 
 const SHELL_FILES = [
   './',

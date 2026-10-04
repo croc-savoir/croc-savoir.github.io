@@ -16,6 +16,7 @@ const Store = (() => {
       favorites: {}, // ficheId -> date d'ajout (ISO)
       daily: null,  // session du jour en cours : { date, ficheIds, quizIds, step, results, done }
       streak: { count: 0, lastDate: null }, // jours consécutifs avec une bouchée terminée
+      quizJour: null, // quiz du jour : { date, ids, results, done, score }
     };
   }
 
@@ -32,6 +33,7 @@ const Store = (() => {
       if (!data.streak) data.streak = { count: 0, lastDate: null };
       if (!data.favorites) data.favorites = {};
       if (!data.dragon) data.dragon = {};
+      if (!('quizJour' in data)) data.quizJour = null;
     } catch (e) {
       console.warn('Progression illisible, réinitialisation locale.', e);
       data = blank();
@@ -166,6 +168,8 @@ const Store = (() => {
   function setDaily(d) { load(); data.daily = d; save(); }
   function getStreakRaw() { load(); return data.streak; }
   function setStreakRaw(st) { load(); data.streak = st; save(); }
+  function getQuizJour() { load(); return data.quizJour || null; }
+  function setQuizJour(q) { load(); data.quizJour = q; save(); }
 
   function setAccent(name) {
     load();
@@ -188,5 +192,6 @@ const Store = (() => {
     getDragonMeta, recordDragonSeen, dragonProgress,
     isFavorite, toggleFavorite, favoriteIds,
     getDaily, setDaily, getStreakRaw, setStreakRaw,
+    getQuizJour, setQuizJour,
   };
 })();

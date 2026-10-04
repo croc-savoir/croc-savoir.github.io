@@ -211,7 +211,7 @@ html.anim-on .toast:not([hidden]) { animation: a-toast 2200ms ease both; }
 }
 
 /* ---------- 16. Écran final des séries : anneau, médaille, flammes du sans-faute ---------- */
-html.anim-on .serie-end__scorebox { animation: a-zoom-in 520ms var(--a-bounce) backwards; }
+html.anim-on .serie-end__scorecard { animation: a-zoom-in 520ms var(--a-bounce) 200ms backwards; }
 html.anim-on .serie-end__medal { animation: a-pop 520ms var(--a-bounce) 700ms backwards; }
 html.anim-on .serie-end__msg { animation: a-fade-up var(--a-med) var(--a-ease) 900ms backwards; }
 html.anim-on .serie-end__flame { animation: a-flame-flicker 1.1s ease-in-out infinite; animation-delay: var(--fd, 0ms); }

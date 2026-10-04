@@ -53,15 +53,26 @@ const Series = (() => {
     }
   }
 
+  const FORMAT_NAMES = { qcm: 'QCM', 'vrai-faux': 'Vrai ou faux', associer: 'Associer', frise: 'Frise', difference: 'Différence', 'qui-suis-je': 'Qui suis-je ?' };
+
+  // Texte de la réponse choisie (QCM, différence, vrai/faux) : lu dans la carte après validation. Sinon null.
+  function readGiven(stage, it) {
+    if (!['qcm', 'difference', 'vrai-faux'].includes(it.format)) return null;
+    const txt = (b) => { const c = b.cloneNode(true); c.querySelectorAll('.opt-letter').forEach(x => x.remove()); return c.textContent.trim(); };
+    const b = stage.querySelector('.opt-btn.is-wrong') || stage.querySelector('.opt-btn.is-correct');
+    return b ? txt(b) : null;
+  }
+
   // ---------- Déroulé d'une série de questions ----------
   // box : conteneur ; items : questions ; hooks : { index, results, onStep(nbFaites, results), onFinish(results), onQuit }
   function playItems(box, items, hooks) {
     const results = hooks.results || [];
+    const given = hooks.given || [];
     const total = items.length;
 
     function show(i) {
       box.innerHTML = '';
-      if (i >= total) { hooks.onFinish(results); return; }
+      if (i >= total) { hooks.onFinish(results, given); return; }
       const head = document.createElement('div');
       head.className = 'serie-head';
       head.innerHTML = `<span class="serie-head__count">Question ${i + 1}/${total}</span>`;
@@ -89,7 +100,8 @@ const Series = (() => {
       Quiz.renderQuestion(items[i], stage, () => {
         const meta = Store.getQuizMeta(items[i].id);
         results[i] = !!(meta && meta.lastResult);
-        if (hooks.onStep) hooks.onStep(i + 1, results);
+        given[i] = readGiven(stage, items[i]);
+        if (hooks.onStep) hooks.onStep(i + 1, results, given);
         show(i + 1);
       });
     }
@@ -102,6 +114,7 @@ const Series = (() => {
     const score = results.filter(Boolean).length;
     const pct = total ? score / total : 0;
     const medal = medalFor(pct);
+    const given = opts.given || [];
     box.innerHTML = '';
     const wrap = document.createElement('div');
     wrap.className = 'serie-end' + (pct === 1 ? ' is-perfect' : '');
@@ -110,44 +123,49 @@ const Series = (() => {
 
     let flames = '';
     if (pct === 1) {
-      for (let k = 0; k < 9; k++) {   // flammes en demi-cercle autour du score
+      for (let k = 0; k < 9; k++) {   // flammes en demi-cercle sous le score
         const a = (195 + k * 18.75) * Math.PI / 180;
-        flames += `<span class="serie-end__flame" style="left:calc(50% + ${(Math.cos(a) * 112).toFixed(0)}px);top:calc(50% - ${(Math.sin(a) * 50).toFixed(0)}px);--fd:${(k * 130) % 700}ms">🔥</span>`;
+        flames += `<span class="serie-end__flame" style="left:calc(50% + ${(Math.cos(a) * 112).toFixed(0)}px);top:calc(50% - ${(Math.sin(a) * 46).toFixed(0)}px);--fd:${(k * 130) % 700}ms">🔥</span>`;
       }
     }
-    wrap.innerHTML = `
-      <p class="serie-end__title">${escapeHTML(opts.title)}</p>
-      <div class="serie-end__scorebox">
-        <span class="serie-end__value">${score}/${total}</span>
-        <span class="serie-end__pct">${Math.round(pct * 100)} % de réussite</span>
-        ${flames}
-      </div>
-      ${medal ? `<div class="serie-end__medal"><span class="serie-end__medal-emoji">${medal.emoji}</span><span>${medal.label}</span></div>` : ''}
-      <p class="serie-end__msg">${messageFor(pct)}</p>`;
 
-    // Erreurs corrigées
-    const wrong = items.map((it, i) => ({ it, ok: results[i] })).filter(x => !x.ok);
-    if (wrong.length) {
-      const sec = document.createElement('div');
-      sec.className = 'serie-errors';
-      sec.innerHTML = `<h3 class="serie-errors__title">À retenir (${wrong.length})</h3>` + wrong.map(({ it }) => `
-        <div class="serie-err">
-          <div class="serie-err__q">${escapeHTML(questionText(it))}</div>
-          <div class="serie-err__a">✓ ${escapeHTML(answerText(it))}</div>
-          ${it.explication ? `<div class="serie-err__e">${escapeHTML(it.explication)}</div>` : ''}
-        </div>`).join('');
-      wrap.appendChild(sec);
-    }
+    // Récapitulatif : chaque question avec ta réponse et la bonne réponse (sans les explications)
+    const recap = items.map((it, i) => {
+      const ok = !!results[i];
+      const d = DataStore.getDomain(it.domain);
+      const tag = `${d ? d.emoji + ' ' + escapeHTML(d.label) : ''} · ${escapeHTML(FORMAT_NAMES[it.format] || it.format)}`;
+      const good = escapeHTML(answerText(it));
+      let lines;
+      if (ok) lines = `<div class="serie-rec__a is-ok">${given[i] ? 'Ta réponse' : 'Bonne réponse'} : <strong>${given[i] ? escapeHTML(given[i]) : good}</strong></div>`;
+      else lines = (given[i] ? `<div class="serie-rec__a is-ko">Ta réponse : <strong>${escapeHTML(given[i])}</strong></div>` : '') +
+        `<div class="serie-rec__a is-ok">Bonne réponse : <strong>${good}</strong></div>`;
+      return `<div class="serie-rec ${ok ? 'is-ok' : 'is-ko'}"><span class="serie-rec__icon">${ok ? '✓' : '✕'}</span><div class="serie-rec__body"><div class="serie-rec__tag">${tag}</div><div class="serie-rec__q">${escapeHTML(questionText(it))}</div>${lines}</div></div>`;
+    }).join('');
+
+    wrap.innerHTML = `
+      <div class="serie-end__top">
+        <div class="serie-end__medal"><span class="serie-end__medal-emoji">${medal ? medal.emoji : '💪'}</span></div>
+        <h2 class="serie-end__msg">${messageFor(pct)}</h2>
+        <p class="serie-end__sub">${medal ? medal.label + ' · ' : ''}${escapeHTML(opts.title)}</p>
+      </div>
+      <div class="serie-end__scorecard">
+        <span class="serie-end__label">TON SCORE</span>
+        <div class="serie-end__scorebig"><span class="serie-end__value">${score}/${total}</span>${flames}</div>
+        <span class="serie-end__pct">${Math.round(pct * 100)} % de réussite</span>
+      </div>
+      ${opts.note ? `<p class="serie-end__note">${escapeHTML(opts.note)}</p>` : ''}
+      <h3 class="serie-recap__title">Récapitulatif</h3>
+      <div class="serie-recap">${recap}</div>`;
 
     const actions = document.createElement('div');
     actions.className = 'serie-end__actions';
     (opts.actions || []).forEach(a => {
-      const b = document.createElement('button');
-      b.type = 'button';
-      b.className = 'btn ' + (a.primary ? 'btn-primary' : 'btn-ghost');
-      b.textContent = a.label;
-      b.addEventListener('click', a.onClick);
-      actions.appendChild(b);
+      const bt = document.createElement('button');
+      bt.type = 'button';
+      bt.className = 'btn ' + (a.primary ? 'btn-primary' : 'btn-ghost') + (a.wide ? ' btn--wide' : '');
+      bt.textContent = a.label;
+      bt.addEventListener('click', a.onClick);
+      actions.appendChild(bt);
     });
     wrap.appendChild(actions);
     box.appendChild(wrap);
@@ -237,12 +255,14 @@ const Series = (() => {
     if (st.level === 'play') {
       playItems(root, st.items, {
         onQuit: () => App.back(),
-        onFinish: (results) => {
+        onFinish: (results, given) => {
           renderEnd(root, st.items, results, {
             title: `${labelFor(st.domainId)} · ${st.items.length} questions`,
+            given,
             actions: [
-              { label: 'Rejouer', primary: true, onClick: () => startPlay(st.domainId, st.n) },
+              { label: 'Rejouer', primary: true, wide: true, onClick: () => startPlay(st.domainId, st.n) },
               { label: 'Autre thème', onClick: () => App.back() },
+              { label: 'Retour', onClick: () => App.go('quiz-menu') },
             ],
           });
         },
@@ -305,15 +325,13 @@ const Series = (() => {
     const items = jourItems(qj);
     renderEnd(root, items, qj.results, {
       title: 'Quiz du jour',
+      given: qj.given || [],
+      note: 'Une seule tentative par jour : reviens demain pour 20 nouvelles questions !',
       actions: [
-        { label: 'Partager mon score', primary: true, onClick: () => share(shareText(qj, items)) },
-        { label: 'Retour', onClick: () => App.back() },
+        { label: 'Partager mon score', primary: true, wide: true, onClick: () => share(shareText(qj, items)) },
+        { label: 'Retour', wide: true, onClick: () => App.back() },
       ],
     });
-    const note = document.createElement('p');
-    note.className = 'serie-end__note';
-    note.textContent = 'Une seule tentative par jour : reviens demain pour 20 nouvelles questions !';
-    root.querySelector('.serie-end').insertBefore(note, root.querySelector('.serie-end__actions'));
   }
 
   function initJour() {
@@ -328,9 +346,11 @@ const Series = (() => {
       playItems(root, items, {
         index: qj.results.length,
         results: qj.results,
-        onStep: (done, results) => { qj.results = results.slice(0, done); Store.setQuizJour(qj); updateHomeCard(); },
-        onFinish: (results) => {
+        given: qj.given || (qj.given = []),
+        onStep: (done, results, given) => { qj.results = results.slice(0, done); qj.given = given.slice(0, done); Store.setQuizJour(qj); updateHomeCard(); },
+        onFinish: (results, given) => {
           qj.results = results.slice();
+          qj.given = given.slice();
           qj.done = true;
           qj.score = qj.results.filter(Boolean).length;
           Store.setQuizJour(qj);

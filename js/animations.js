@@ -158,14 +158,18 @@
     new MutationObserver((muts) => {
       if (!isOn()) return;
       const justAnswered = muts.some(m => [...m.removedNodes].some(hasQuiz));
-      if (!justAnswered) return;
       for (const m of muts) {
         for (const node of m.addedNodes) {
           if (node.nodeType !== 1) continue;
           const daily = node.matches('.daily-end') ? node : node.querySelector('.daily-end');
-          if (daily) { confetti(/Sans faute/.test(daily.textContent) ? 60 : 34); return; }
+          if (daily) {
+            // le score (« 4/5 ») et la série (« 🔥 3 ») défilent ; seul le premier nombre de chaque valeur
+            daily.querySelectorAll('.daily-end__value').forEach(v => animateNumbers(v, [0], 800));
+            if (justAnswered) confetti(/Sans faute/.test(daily.textContent) ? 60 : 34);
+            continue;
+          }
           const fin = node.matches('.empty-state') ? node : node.querySelector('.empty-state');
-          if (fin && /🎉/.test(fin.textContent)) { confetti(34); return; }
+          if (justAnswered && fin && /🎉/.test(fin.textContent)) confetti(34);
         }
       }
     }).observe(view, { childList: true, subtree: true });
@@ -209,6 +213,66 @@
     }, { passive: true });
   }
 
+  // ---------- Nombres qui défilent (accueil, fin de bouchée) ----------
+  // Remplace les nombres du texte de l'élément par une valeur qui monte de 0 à sa valeur finale.
+  // « only » : indices des nombres à animer (les autres restent fixes, ex. le total dans « 4/5 »).
+  function animateNumbers(el, only, dur = 900) {
+    if (!isOn() || !el) return;
+    const original = el.textContent;
+    const toks = [...original.matchAll(/\d+(?:[\u202f\u00a0 ]\d{3})*/g)];
+    if (!toks.length) return;
+    const finals = toks.map(t => parseInt(t[0].replace(/\D/g, ''), 10));
+    const anime = new Set(toks.map((_, i) => i).filter(i => !only || only.includes(i)));
+    const render = (k) => {
+      let out = '', last = 0;
+      toks.forEach((t, i) => {
+        out += original.slice(last, t.index);
+        out += anime.has(i) ? Math.round(finals[i] * k).toLocaleString('fr-FR') : t[0];
+        last = t.index + t[0].length;
+      });
+      el.textContent = out + original.slice(last);
+    };
+    const t0 = performance.now();
+    render(0);
+    const step = (now) => {
+      const p = Math.min(1, (now - t0) / dur);
+      render(1 - Math.pow(1 - p, 3));
+      if (p < 1) requestAnimationFrame(step); else el.textContent = original;
+    };
+    requestAnimationFrame(step);
+    setTimeout(() => { el.textContent = original; }, dur + 400);   // filet : le texte final est toujours remis
+  }
+
+  // Accueil : « 21 thèmes · 2 079 fiches · … » défile une fois par lancement, après l'écran de démarrage
+  function countGreeting() {
+    const g = document.getElementById('home-greeting');
+    if (!g) return;
+    let done = false;
+    const start = () => {
+      if (done || !/thèmes/.test(g.textContent || '')) return;
+      done = true;
+      if (!isOn()) return;
+      const go = () => animateNumbers(g, null, 1000);
+      const sp = () => document.getElementById('a-splash');
+      if (sp() && !sp().classList.contains('is-leaving')) {
+        const iv = setInterval(() => { const s = sp(); if (!s || s.classList.contains('is-leaving')) { clearInterval(iv); go(); } }, 60);
+        setTimeout(() => clearInterval(iv), 6000);
+      } else go();
+    };
+    new MutationObserver(start).observe(g, { childList: true, characterData: true, subtree: true });
+    start();
+  }
+
+  // Notification : on relance l'animation quand le message change alors qu'elle est déjà affichée
+  function watchToast() {
+    const t = document.getElementById('toast');
+    if (!t) return;
+    new MutationObserver(() => {
+      if (!isOn() || t.hidden) return;
+      t.style.animation = 'none'; void t.offsetWidth; t.style.animation = '';
+    }).observe(t, { childList: true, characterData: true, subtree: true });
+  }
+
   // ---------- Démarrage ----------
   apply();
   watchScreens();
@@ -216,6 +280,8 @@
   watchCelebrations();
   setupGlow();
   splash();
+  countGreeting();
+  watchToast();
   watchLoading();
   if (reduce.addEventListener) reduce.addEventListener('change', apply);
   window.Anim = { isOn };

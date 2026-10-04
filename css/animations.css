@@ -37,13 +37,13 @@ html.anim-on.vt-fwd::view-transition-new(root)  { animation: a-vt-in-r  var(--a-
 html.anim-on.vt-back::view-transition-old(root) { animation: a-vt-out-r var(--a-med) var(--a-ease) both; }
 html.anim-on.vt-back::view-transition-new(root) { animation: a-vt-in-l  var(--a-med) var(--a-ease) both; }
 html.anim-on.vt-home::view-transition-old(root) { animation: a-vt-fade-out var(--a-fast) ease both; }
-html.anim-on.vt-home::view-transition-new(root) { animation: a-vt-zoom-in var(--a-med) var(--a-ease) both; }
+html.anim-on.vt-home::view-transition-new(root) { animation: a-vt-fade-in var(--a-med) ease both; }
 @keyframes a-vt-out-l { to   { opacity: 0; transform: translate3d(calc(var(--a-shift) * -1), 0, 0); } }
 @keyframes a-vt-out-r { to   { opacity: 0; transform: translate3d(var(--a-shift), 0, 0); } }
 @keyframes a-vt-in-r  { from { opacity: 0; transform: translate3d(var(--a-shift), 0, 0); } }
 @keyframes a-vt-in-l  { from { opacity: 0; transform: translate3d(calc(var(--a-shift) * -1), 0, 0); } }
 @keyframes a-vt-fade-out { to { opacity: 0; } }
-@keyframes a-vt-zoom-in  { from { opacity: 0; transform: scale(.985); } }
+@keyframes a-vt-fade-in  { from { opacity: 0; } }
 
 /* b) Repli CSS (navigateurs sans View Transitions, ou retour par le geste du téléphone) */
 html.anim-on .screen.anim-in-fwd  { animation: a-in-fwd  var(--a-med) var(--a-ease) backwards; }
@@ -51,7 +51,7 @@ html.anim-on .screen.anim-in-back { animation: a-in-back var(--a-med) var(--a-ea
 html.anim-on .screen.anim-in-fade { animation: a-in-fade var(--a-med) var(--a-ease) backwards; }
 @keyframes a-in-fwd  { from { opacity: 0; transform: translate3d(var(--a-shift), 0, 0); } }
 @keyframes a-in-back { from { opacity: 0; transform: translate3d(calc(var(--a-shift) * -1), 0, 0); } }
-@keyframes a-in-fade { from { opacity: 0; transform: scale(.985); } }
+@keyframes a-in-fade { from { opacity: 0; } }
 
 /* ---------- 2. Ouverture d'une fiche : zoom doux ---------- */
 html.anim-on .fiche-card { animation: a-zoom-in var(--a-med) var(--a-ease) backwards; }
@@ -70,20 +70,20 @@ html.anim-on .quiz-card > div:not([class]) {
 html.anim-on .quiz-card .result-banner { animation: a-pop var(--a-slow) var(--a-bounce) both; animation-delay: 80ms; }
 
 /* ---------- 4. Apparition en cascade des listes ---------- */
-html.anim-on :is(.mode-card, .home-card, .daily-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn) {
+html.anim-on :is(.mode-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn) {
   animation: a-fade-up var(--a-med) var(--a-ease) backwards;
   animation-delay: calc(var(--i, 0) * 35ms);
 }
-html.anim-on :is(.mode-card, .home-card, .daily-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn):nth-child(2)  { --i: 1; }
-html.anim-on :is(.mode-card, .home-card, .daily-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn):nth-child(3)  { --i: 2; }
-html.anim-on :is(.mode-card, .home-card, .daily-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn):nth-child(4)  { --i: 3; }
-html.anim-on :is(.mode-card, .home-card, .daily-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn):nth-child(5)  { --i: 4; }
-html.anim-on :is(.mode-card, .home-card, .daily-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn):nth-child(6)  { --i: 5; }
-html.anim-on :is(.mode-card, .home-card, .daily-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn):nth-child(7)  { --i: 6; }
-html.anim-on :is(.mode-card, .home-card, .daily-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn):nth-child(8)  { --i: 7; }
-html.anim-on :is(.mode-card, .home-card, .daily-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn):nth-child(9)  { --i: 8; }
-html.anim-on :is(.mode-card, .home-card, .daily-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn):nth-child(10) { --i: 9; }
-html.anim-on :is(.mode-card, .home-card, .daily-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn):nth-child(n+11) { --i: 10; }
+html.anim-on :is(.mode-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn):nth-child(2)  { --i: 1; }
+html.anim-on :is(.mode-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn):nth-child(3)  { --i: 2; }
+html.anim-on :is(.mode-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn):nth-child(4)  { --i: 3; }
+html.anim-on :is(.mode-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn):nth-child(5)  { --i: 4; }
+html.anim-on :is(.mode-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn):nth-child(6)  { --i: 5; }
+html.anim-on :is(.mode-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn):nth-child(7)  { --i: 6; }
+html.anim-on :is(.mode-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn):nth-child(8)  { --i: 7; }
+html.anim-on :is(.mode-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn):nth-child(9)  { --i: 8; }
+html.anim-on :is(.mode-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn):nth-child(10) { --i: 9; }
+html.anim-on :is(.mode-card, .domain-tile, .subtheme-row, .fiche-list-item, .lib-row, .opt-btn):nth-child(n+11) { --i: 10; }
 @keyframes a-fade-up { from { opacity: 0; transform: translate3d(0, 10px, 0); } }
 
 /* ---------- 5. Retour tactile des boutons (rétrécissement, petit rebond au relâchement) ---------- */
@@ -91,14 +91,19 @@ html.anim-on :is(.mode-card, .home-card, .daily-card, .domain-tile, .subtheme-ro
 :where(html.anim-on) :where(button, .btn):where(:not(:disabled)) { transition: transform var(--a-fast) var(--a-bounce); }
 :where(html.anim-on) :where(button, .btn):where(:not(:disabled)):active { transform: scale(.965); }
 /* Boutons qui ont déjà leur propre transition : on y ajoute le mouvement */
-html.anim-on :is(.opt-btn, .pair-item, .home-link, .search-pill, .daily-card, .home-card, .mode-card, .domain-tile, .subtheme-row, .fiche-list-item):not(:disabled) {
+html.anim-on :is(.opt-btn, .pair-item, .home-link):not(:disabled) {
   transition: transform var(--a-fast) var(--a-bounce), border-color .15s ease, background .15s ease, opacity .15s ease;
 }
-html.anim-on :is(.opt-btn, .pair-item, .home-link, .search-pill, .daily-card, .home-card, .mode-card, .domain-tile, .subtheme-row, .fiche-list-item):not(:disabled):active { transform: scale(.97); }
+html.anim-on :is(.opt-btn, .pair-item, .home-link):not(:disabled):active { transform: scale(.97); }
+/* Grandes cartes : retour doux, sans rebond (un rebond les faisait grossir un instant après le tap) */
+html.anim-on :is(.search-pill, .daily-card, .home-card, .mode-card, .domain-tile, .subtheme-row, .fiche-list-item):not(:disabled) {
+  transition: transform 130ms ease-out, border-color .15s ease, background .15s ease, opacity .15s ease;
+}
+html.anim-on :is(.search-pill, .daily-card, .home-card, .mode-card, .domain-tile, .subtheme-row, .fiche-list-item):not(:disabled):active { transform: scale(.985); }
 /* Ordinateur : léger soulèvement au survol */
 @media (hover: hover) and (pointer: fine) {
   html.anim-on :is(.daily-card, .home-card, .mode-card, .domain-tile, .subtheme-row, .fiche-list-item, .search-pill):not(:disabled):hover { transform: translateY(-2px); }
-  html.anim-on :is(.daily-card, .home-card, .mode-card, .domain-tile, .subtheme-row, .fiche-list-item, .search-pill):not(:disabled):active { transform: scale(.975); }
+  html.anim-on :is(.daily-card, .home-card, .mode-card, .domain-tile, .subtheme-row, .fiche-list-item, .search-pill):not(:disabled):active { transform: scale(.985); }
   html.anim-on .opt-btn:not(:disabled):hover { transform: translateX(3px); }
   html.anim-on .opt-btn:not(:disabled):active { transform: scale(.98); }
 }
@@ -193,6 +198,15 @@ html.anim-on #a-splash.is-leaving img { animation: none; transform: scale(1.12);
     opacity: 0; transition: opacity .25s ease; pointer-events: none;
   }
   html.anim-on :is(.home-card, .daily-card, .mode-card, .domain-tile, .subtheme-row, .fiche-list-item):hover::after { opacity: 1; }
+}
+
+/* ---------- 15. Notification (toast) : elle glisse en entrant et en sortant ---------- */
+html.anim-on .toast:not([hidden]) { animation: a-toast 2200ms ease both; }
+@keyframes a-toast {
+  0%   { opacity: 0; transform: translate3d(-50%, 14px, 0); }
+  9%   { opacity: 1; transform: translate3d(-50%, 0, 0); }
+  88%  { opacity: 1; transform: translate3d(-50%, 0, 0); }
+  100% { opacity: 0; transform: translate3d(-50%, -6px, 0); }
 }
 
 /* ---------- Réglage « réduire les animations » du téléphone : tout s'arrête ---------- */

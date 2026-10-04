@@ -4,9 +4,12 @@
  *   et à mesure (stale-while-revalidate), pour supporter l'ajout de
  *   nouveaux domaines/lots sans jamais devoir republier le service worker.
  * ================================================================= */
-const SHELL_VERSION = 'v32';
+const SHELL_VERSION = 'v35';
 const SHELL_CACHE = `culture-g-shell-${SHELL_VERSION}`;
 const DATA_CACHE = 'culture-g-data';
+
+// Fichiers facultatifs (animations) : mis en cache s'ils existent, mais leur absence ne bloque jamais l'installation.
+const OPTIONAL_FILES = ['css/animations.css', 'js/animations.js'];
 
 const SHELL_FILES = [
   './',
@@ -38,7 +41,7 @@ const SHELL_FILES = [
 self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open(SHELL_CACHE)
-      .then(cache => cache.addAll(SHELL_FILES))
+      .then(cache => cache.addAll(SHELL_FILES).then(() => Promise.allSettled(OPTIONAL_FILES.map(f => cache.add(f)))))
       .then(() => self.skipWaiting())
   );
 });
@@ -125,7 +128,7 @@ self.addEventListener('fetch', (event) => {
     : fetch(req, { cache: 'no-cache' });
   event.respondWith(
     fresh.then(res => {
-      if (res && res.ok && (req.mode === 'navigate' || SHELL_FILES.some(f => req.url.endsWith(f)))) {
+      if (res && res.ok && (req.mode === 'navigate' || SHELL_FILES.some(f => req.url.endsWith(f)) || OPTIONAL_FILES.some(f => req.url.endsWith(f)))) {
         const copy = res.clone();
         caches.open(SHELL_CACHE).then(cache => cache.put(cacheKey, copy));
       }

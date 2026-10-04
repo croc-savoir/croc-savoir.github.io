@@ -179,7 +179,9 @@ const Fiches = (() => {
           } catch (e) {
             btn.disabled = false;
             btn.textContent = '🔎 Approfondir';
-            App.toast('Pas de connexion : réessaie une fois en ligne');
+            App.toast(location.protocol === 'file:'
+              ? "Ouvre l'appli avec lancer-test.bat : un fichier ouvert directement ne peut pas charger les données"
+              : 'Pas de connexion : réessaie une fois en ligne');
             return;
           }
           btn.disabled = false;

@@ -15,6 +15,9 @@
 <link rel="stylesheet" href="css/style.css">
 <!-- ANIMATIONS (retirer : supprimer ces 2 lignes, css/animations.css et js/animations.js) -->
 <link rel="stylesheet" href="css/animations.css">
+<!-- STYLE CARTOON (retirer : supprimer ces 3 lignes, css/cartoon.css et js/style-toggle.js) -->
+<link rel="stylesheet" href="css/cartoon.css">
+<script>try { if (localStorage.getItem('croc-style') === 'cartoon') document.documentElement.classList.add('style-cartoon'); } catch (e) {}</script>
 </head>
 <body>
 
@@ -76,7 +79,7 @@
     </div>
 
     <div class="home-footer">
-      <button class="home-link" type="button" id="btn-errors">🔁 Revoir mes erreurs</button>
+      <button class="home-link" type="button" id="btn-style">🎨 Style</button>
     </div>
   </section>
 
@@ -215,5 +218,7 @@
 <script src="js/app.js"></script>
 <!-- ANIMATIONS -->
 <script src="js/animations.js"></script>
+<!-- STYLE CARTOON -->
+<script src="js/style-toggle.js"></script>
 </body>
 </html>

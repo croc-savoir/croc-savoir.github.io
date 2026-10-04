@@ -272,6 +272,7 @@ const Fiches = (() => {
         const tile = document.createElement('button');
         tile.className = 'domain-tile';
         tile.style.setProperty('--th', d.hue ?? 220);
+        tile.dataset.g = d.groupe || 'monde';
         tile.type = 'button';
         tile.innerHTML = `<span class="domain-tile__emoji">${d.emoji}</span><span class="domain-tile__label">${escapeHTML(d.label)}</span>${n ? `<span class="domain-tile__count">${n}</span>` : ''}`;
         tile.addEventListener('click', () => {

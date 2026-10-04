@@ -146,7 +146,7 @@ const Series = (() => {
       <div class="serie-end__top">
         <div class="serie-end__medal"><span class="serie-end__medal-emoji">${medal ? medal.emoji : '💪'}</span></div>
         <h2 class="serie-end__msg">${messageFor(pct)}</h2>
-        <p class="serie-end__sub">${medal ? medal.label + ' · ' : ''}${escapeHTML(opts.title)}</p>
+        <p class="serie-end__sub">${escapeHTML(opts.title)}</p>
       </div>
       <div class="serie-end__scorecard">
         <span class="serie-end__label">TON SCORE</span>
@@ -207,11 +207,12 @@ const Series = (() => {
       root.appendChild(intro);
       const grid = document.createElement('div');
       grid.className = 'domain-grid';
-      const tile = (id, emoji, label, count, hue, wide) => {
+      const tile = (id, emoji, label, count, hue, wide, groupe) => {
         const t = document.createElement('button');
         t.type = 'button';
         t.className = 'domain-tile' + (wide ? ' domain-tile--wide' : '');
         t.style.setProperty('--th', hue);
+        if (groupe) t.dataset.g = groupe;
         const n = DataStore.compte(count, 'question');
         t.innerHTML = `<span class="domain-tile__emoji">${emoji}</span><span class="domain-tile__label">${escapeHTML(label)}</span>${n ? `<span class="domain-tile__count">${n}</span>` : ''}`;
         t.addEventListener('click', () => {
@@ -224,7 +225,7 @@ const Series = (() => {
       };
       grid.appendChild(tile(ALL, '🎲', 'Tous les thèmes', DataStore.getAllQuiz().length, 215, true));
       const counts = DataStore.domainCounts();
-      DataStore.getDomains().forEach(d => grid.appendChild(tile(d.id, d.emoji, d.label, counts[d.id]?.quiz || 0, d.hue ?? 220, false)));
+      DataStore.getDomains().forEach(d => grid.appendChild(tile(d.id, d.emoji, d.label, counts[d.id]?.quiz || 0, d.hue ?? 220, false, d.groupe)));
       root.appendChild(grid);
       return;
     }

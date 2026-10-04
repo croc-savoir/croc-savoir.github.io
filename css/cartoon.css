@@ -18,6 +18,9 @@ html.style-cartoon {
   --shadow-soft: 0 5px 0 #12161c; --shadow-lift: 0 6px 0 #12161c;
   --g-vivant: #36c98a; --g-arts: #ff7aa8; --g-monde: #ffb83d;
 }
+/* Avec « color-scheme: only light », les boutons et champs sans couleur explicite deviendraient noirs :
+ * on leur donne la couleur du texte (:where() = priorité nulle, toute règle de classe garde le dessus). */
+:where(html.style-cartoon) :where(button, input, textarea, select) { color: var(--text); }
 html.style-cartoon body {
   background: radial-gradient(rgba(255, 255, 255, 0.055) 1.6px, transparent 1.7px) 0 0 / 20px 20px, var(--bg);
 }

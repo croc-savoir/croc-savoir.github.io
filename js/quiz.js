@@ -299,6 +299,8 @@ const Quiz = (() => {
       bt.type = 'button';
       bt.className = 'pair-item';
       bt.textContent = p.gauche;
+      bt.style.gridColumn = '1';
+      bt.style.gridRow = String(i + 1);
       bt.addEventListener('click', () => {
         if (locked) return;
         if (selectedLeft === i) selectedLeft = null;
@@ -308,11 +310,13 @@ const Quiz = (() => {
       leftCol.appendChild(bt);
       return bt;
     });
-    const rightBtns = rightShuffled.map((r) => {
+    const rightBtns = rightShuffled.map((r, pos) => {
       const bt = document.createElement('button');
       bt.type = 'button';
       bt.className = 'pair-item';
       bt.textContent = r.text;
+      bt.style.gridColumn = '2';
+      bt.style.gridRow = String(pos + 1);
       bt.dataset.idx = r.idx;
       bt.addEventListener('click', () => {
         if (locked) return;
@@ -341,8 +345,8 @@ const Quiz = (() => {
       for (const [l, d] of links) {
         const ra = leftBtns[l].getBoundingClientRect();
         const rb = rightBtnOf(d).getBoundingClientRect();
-        const x1 = ra.right - br.left, y1 = ra.top + ra.height / 2 - br.top;
-        const x2 = rb.left - br.left, y2 = rb.top + rb.height / 2 - br.top;
+        const x1 = ra.right - br.left + 10, y1 = ra.top + ra.height / 2 - br.top;
+        const x2 = rb.left - br.left - 10, y2 = rb.top + rb.height / 2 - br.top;
         const mx = (x1 + x2) / 2;
         const path = document.createElementNS(NS, 'path');
         path.setAttribute('d', `M${x1} ${y1} C${mx} ${y1} ${mx} ${y2} ${x2} ${y2}`);

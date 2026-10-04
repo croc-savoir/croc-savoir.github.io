@@ -981,19 +981,25 @@ body::before {
 
 /* ===================== Quiz « Associer » : relier par des traits ===================== */
 .pair-hint { margin: -4px 0 12px; font-size: 13px; color: var(--text-faint); }
-.pair-board { position: relative; gap: 44px; }
+/* Une rangée par paire : la gauche et la droite d'une même ligne ont la même hauteur, même si un texte passe sur deux lignes. */
+.pair-board { position: relative; display: grid; grid-template-columns: 1fr 1fr; column-gap: 40px; row-gap: 14px; }
+.pair-col { display: contents; }
+.pair-item { min-height: 58px; display: flex; align-items: center; }
 .pair-lines { position: absolute; left: 0; top: 0; pointer-events: none; overflow: visible; }
 .pair-item { position: relative; }
 .pair-item::after {
   content: ''; position: absolute; top: 50%; width: 12px; height: 12px; border-radius: 50%;
   background: var(--pc, var(--text-faint)); transform: translateY(-50%); border: 2px solid var(--bg);
+  display: none;
 }
-.pair-col:first-child .pair-item::after { right: -28px; }
-.pair-col:nth-child(2) .pair-item::after { left: -28px; }
+.pair-item.is-linked::after, .pair-item.is-selected::after { display: block; }
+.pair-item.is-selected:not(.is-linked)::after { background: var(--accent-2); }
+.pair-col:first-child .pair-item::after { right: -16px; }
+.pair-col:nth-child(2) .pair-item::after { left: -16px; }
 .pair-item.is-linked { border-color: var(--pc); }
 .pair-item.is-selected { border-color: var(--accent-2); box-shadow: 0 0 0 2px rgba(var(--accent-rgb), 0.35); }
 .pair-item.is-good { border-color: var(--success); background: var(--success-bg); }
 .pair-item.is-bad { border-color: var(--danger); background: var(--danger-bg); }
-.pair-board.is-final .pair-item::after { background: var(--text-faint); }
+.pair-board.is-final .pair-item::after { background: var(--text-faint); display: block; }
 .pair-board.is-final .pair-item.is-good::after { background: var(--success); }
 .pair-board.is-final .pair-item.is-bad::after { background: var(--danger); }

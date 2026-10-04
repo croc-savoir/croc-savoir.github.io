@@ -131,6 +131,70 @@ html.anim-on.anim-loading :is(.home-card, .daily-card, .home-hero__subtitle, .se
 html.anim-on .btn-approfondir:disabled { animation: a-pulse 1s ease-in-out infinite; }
 html.anim-on .skel { animation: a-pulse 1.3s ease-in-out infinite; }
 
+/* ---------- 9. Étoile des favoris : « pop » et étincelles ---------- */
+html.anim-on .fav-btn.is-popping svg { animation: a-star-pop 440ms var(--a-bounce); }
+@keyframes a-star-pop { 0% { transform: scale(.5) rotate(-25deg); } 60% { transform: scale(1.35) rotate(8deg); } 100% { transform: scale(1) rotate(0); } }
+html.anim-on .fav-spark {
+  position: absolute; left: 50%; top: 50%; width: 5px; height: 5px; margin: -2.5px 0 0 -2.5px;
+  border-radius: 50%; background: #ffcf4a; pointer-events: none; opacity: 0;
+  animation: a-spark 560ms ease-out forwards;
+}
+@keyframes a-spark { 0% { opacity: 1; transform: translate3d(0, 0, 0) scale(1); } 100% { opacity: 0; transform: translate3d(var(--dx), var(--dy), 0) scale(.2); } }
+
+/* ---------- 10. Confettis (fin de la bouchée du jour, fin d'une série de quiz) ---------- */
+html.anim-on .a-confetti { position: fixed; inset: 0; z-index: 90; pointer-events: none; overflow: hidden; }
+html.anim-on .a-confetti i {
+  position: absolute; top: -14px; width: 8px; height: 12px; border-radius: 2px; opacity: 0;
+  animation: a-confetti-fall var(--d, 1800ms) cubic-bezier(.2, .6, .4, 1) var(--dl, 0ms) forwards;
+}
+@keyframes a-confetti-fall {
+  0% { opacity: 1; transform: translate3d(0, 0, 0) rotate(0deg); }
+  80% { opacity: 1; }
+  100% { opacity: 0; transform: translate3d(var(--x), 85vh, 0) rotate(var(--r)); }
+}
+
+/* ---------- 11. Barres de progression qui se remplissent en douceur ---------- */
+html.anim-on .daily-progress__seg.is-done,
+html.anim-on .daily-progress__seg.is-miss { transform-origin: left center; animation: a-seg-fill 420ms var(--a-ease) backwards; animation-delay: calc(var(--j, 0) * 45ms); }
+html.anim-on .daily-progress__seg.is-current { animation: a-pulse 1.6s ease-in-out infinite; }
+@keyframes a-seg-fill { from { transform: scaleX(0); } }
+html.anim-on .daily-progress__seg:nth-child(2) { --j: 1; }
+html.anim-on .daily-progress__seg:nth-child(3) { --j: 2; }
+html.anim-on .daily-progress__seg:nth-child(4) { --j: 3; }
+html.anim-on .daily-progress__seg:nth-child(5) { --j: 4; }
+html.anim-on .daily-progress__seg:nth-child(6) { --j: 5; }
+html.anim-on .daily-progress__seg:nth-child(7) { --j: 6; }
+html.anim-on .daily-progress__seg:nth-child(8) { --j: 7; }
+html.anim-on .daily-progress__seg:nth-child(9) { --j: 8; }
+html.anim-on .daily-progress__seg:nth-child(10) { --j: 9; }
+
+/* ---------- 12. Flamme de la série : palpite doucement ---------- */
+html.anim-on .daily-card__streak:not([hidden]) { animation: a-flame 2.4s ease-in-out infinite; }
+@keyframes a-flame { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.07); } }
+
+/* ---------- 13. Écran de démarrage : le logo apparaît en douceur ---------- */
+html.anim-on #a-splash {
+  position: fixed; inset: 0; z-index: 100; display: flex; align-items: center; justify-content: center;
+  background: var(--bg, #0a0e1a); animation: a-fade-in 180ms ease backwards;
+}
+html.anim-on #a-splash img { width: 96px; height: 96px; border-radius: 24px; animation: a-splash-logo 1.3s ease-in-out infinite; }
+html.anim-on #a-splash.is-leaving { opacity: 0; pointer-events: none; transition: opacity 340ms ease; }
+html.anim-on #a-splash.is-leaving img { animation: none; transform: scale(1.12); transition: transform 340ms var(--a-ease); }
+@keyframes a-fade-in { from { opacity: 0; } }
+@keyframes a-splash-logo { 0%, 100% { transform: scale(.94); opacity: .85; } 50% { transform: scale(1.04); opacity: 1; } }
+
+/* ---------- 14. Ordinateur : lueur douce qui suit la souris sur les cartes ---------- */
+@media (hover: hover) and (pointer: fine) {
+  html.anim-on :is(.home-card, .daily-card, .mode-card, .domain-tile, .subtheme-row, .fiche-list-item) { position: relative; overflow: hidden; }
+  html.anim-on :is(.home-card, .daily-card, .mode-card, .domain-tile, .subtheme-row, .fiche-list-item)::after {
+    content: ''; position: absolute; left: 0; top: 0; width: 260px; height: 260px; margin: -130px 0 0 -130px;
+    border-radius: 50%; background: radial-gradient(circle, rgba(255, 255, 255, .12), transparent 65%);
+    transform: translate3d(var(--mx, -999px), var(--my, -999px), 0);
+    opacity: 0; transition: opacity .25s ease; pointer-events: none;
+  }
+  html.anim-on :is(.home-card, .daily-card, .mode-card, .domain-tile, .subtheme-row, .fiche-list-item):hover::after { opacity: 1; }
+}
+
 /* ---------- Réglage « réduire les animations » du téléphone : tout s'arrête ---------- */
 @media (prefers-reduced-motion: reduce) {
   html.anim-on *, html.anim-on *::before, html.anim-on *::after { animation: none !important; transition: none !important; }

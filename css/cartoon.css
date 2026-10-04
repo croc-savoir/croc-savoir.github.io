@@ -5,6 +5,10 @@
  * Pour retirer ce mode : supprimer ce fichier, js/style-toggle.js et leurs lignes dans index.html.
  * ======================================================== */
 html.style-cartoon {
+  /* Ce style a déjà ses propres couleurs sombres : on demande au navigateur de ne pas les retoucher
+   * (le « mode sombre des sites » de certains téléphones assombrissait les couleurs et noircissait le fond). */
+  color-scheme: only light;
+  scrollbar-color: #566072 #2a2f37;
   --bg: #2a2f37; --bg-soft: #30353e; --bg-elevated: #3b424d; --card: #343a44; --card-hover: #3b424d; --ink: #12161c;
   --border: #12161c; --border-soft: #12161c;
   --text: #f7f3ec; --text-muted: #d3d9e2; --text-faint: #a9b3c1;
@@ -68,16 +72,17 @@ html.style-cartoon .chip { border: 2.5px solid var(--ink); background: var(--bg-
 html.style-cartoon .chip.is-active { background: #3f82e8; color: #fff; border-color: var(--ink); }
 html.style-cartoon .toast { background: #fff; color: var(--ink); border: 3px solid var(--ink); box-shadow: 0 4px 0 var(--ink); font-weight: 800; }
 
-/* ---------- Thèmes : logo direct, contour de la couleur du groupe tout autour ---------- */
+/* ---------- Thèmes : logo direct, fine bande de la couleur du groupe sur le côté gauche ---------- */
 html.style-cartoon .domain-tile {
-  --g: var(--g-monde); background: var(--card);
-  border: 4px solid var(--g); box-shadow: 0 0 0 3px var(--ink), 0 8px 0 3px var(--ink); margin-bottom: 4px;
+  --g: var(--g-monde); padding-left: 24px;
+  background: linear-gradient(90deg, var(--g) 0 7px, var(--card) 7px);
+  border: 3px solid var(--ink); box-shadow: 0 4px 0 var(--ink); margin-bottom: 0;
 }
 html.style-cartoon .domain-tile[data-g="vivant"] { --g: var(--g-vivant); }
 html.style-cartoon .domain-tile[data-g="arts"] { --g: var(--g-arts); }
 html.style-cartoon .domain-tile[data-g="monde"] { --g: var(--g-monde); }
 html.style-cartoon .domain-tile--wide { --g: #3f82e8; }
-html.style-cartoon .domain-grid { gap: 18px 14px; }
+html.style-cartoon .domain-grid { gap: 16px 14px; }
 html.style-cartoon .domain-tile__emoji {
   display: block; align-self: flex-start; width: auto; height: auto; background: none; border: none;
   font-size: 34px; line-height: 1; filter: drop-shadow(0 3px 0 rgba(18, 22, 28, 0.85));

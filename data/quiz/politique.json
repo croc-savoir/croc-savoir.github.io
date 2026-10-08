@@ -637,7 +637,7 @@
       "La moitié"
     ],
     "bonneReponse": 0,
-    "explication": "Sous la IVe République, un seul député pouvait la déposer. La Constitution de 1958 exige un dixième des membres de l'Assemblée, et chaque député ne peut en signer que trois par session ordinaire. Le vote a lieu 48 heures après le dépôt.",
+    "explication": "Sous la IVe République, un seul député pouvait la déposer. La Constitution de 1958 exige un dixième des membres de l'Assemblée, et chaque député ne peut en signer que trois par session ordinaire. Le vote ne peut avoir lieu que 48 heures après le dépôt.",
     "source": "D'après Wikipédia — Motion de censure"
   },
   {
@@ -1018,7 +1018,7 @@
       "La reine Marie II"
     ],
     "bonneReponse": 0,
-    "explication": "Le 11 mars 1708, la reine Anne bloque un projet de loi sur la milice écossaise. Depuis, aucun monarque britannique n'a refusé de promulguer une loi : le veto royal est tombé en désuétude et le rôle du souverain est devenu symbolique.",
+    "explication": "Le 11 mars 1708, la reine Anne bloque un projet de loi sur la milice écossaise. Depuis, aucun monarque britannique n'a opposé son veto à une loi : le veto royal est tombé en désuétude, et le rôle politique du souverain s'est ensuite réduit peu à peu jusqu'à devenir symbolique.",
     "source": "D'après Wikipédia — Monarchie constitutionnelle"
   },
   {
@@ -1222,7 +1222,7 @@
       {
         "gauche": "Monarchie constitutionnelle",
         "droite": "Un monarque dont les pouvoirs sont limités par une constitution",
-        "explication": "Le monarque règne, mais le gouvernement rend des comptes au Parlement."
+        "explication": "Dans sa forme parlementaire, le monarque règne mais ne gouverne pas : le gouvernement rend des comptes au Parlement."
       }
     ],
     "explication": "Ces quatre régimes se distinguent par qui détient le pouvoir : un petit nombre, le divin, tous les citoyens ou un monarque encadré par la loi. Le suffixe -cratie vient du grec kratos, « pouvoir ».",
@@ -1233,11 +1233,11 @@
     "domain": "politique",
     "format": "qui-suis-je",
     "indices": [
-      "Mon nom vient du mot latin foedus, qui signifie « alliance ».",
+      "Ma forme moderne naît avec la Constitution américaine de 1787.",
+      "Je m'oppose à l'État unitaire.",
       "Dans mon système, les compétences sont réparties entre l'État central et des entités autonomes.",
       "L'Allemagne, la Suisse et le Canada m'appliquent.",
-      "Je m'oppose à l'État unitaire.",
-      "Ma forme moderne naît avec la Constitution américaine de 1787."
+      "Mon nom vient du mot latin foedus, qui signifie « alliance »."
     ],
     "reponse": "Le fédéralisme",
     "explication": "Le fédéralisme associe des entités relativement autonomes dans un ensemble plus vaste : la diversité dans l'unité. Son modèle moderne naît aux États-Unis en 1787, et la constitution garantit le partage des compétences.",
@@ -1254,7 +1254,7 @@
         "annee": "1853"
       },
       {
-        "label": "Marsh signe L'Homme et la Nature",
+        "label": "Marsh publie L'Homme et la Nature",
         "annee": "1864"
       },
       {
@@ -1285,7 +1285,7 @@
       "L'abaissement de l'âge du droit de vote"
     ],
     "bonneReponse": 0,
-    "explication": "Après l'attentat du Petit-Clamart qui le visait, de Gaulle fit adopter par référendum en 1962 l'élection du président au suffrage universel direct. Il fut réélu ainsi en 1965, ce que ses opposants jugeaient trop personnel.",
+    "explication": "Après l'attentat du Petit-Clamart qui le visait, de Gaulle fit adopter par référendum en 1962 l'élection du président de la République au suffrage universel direct. Il fut lui-même réélu selon ce mode de scrutin en 1965, face à François Mitterrand.",
     "source": "D'après Wikipédia — Charles de Gaulle"
   },
   {
@@ -1300,16 +1300,16 @@
       "L'Humanité"
     ],
     "bonneReponse": 0,
-    "explication": "Clemenceau travailla à L'Aurore, le journal qui publia l'affaire Dreyfus au grand jour, et il publia en 1899 le livre L'Iniquité. Il avait fondé La Justice en 1880, mais c'est à L'Aurore qu'il mena ce combat.",
+    "explication": "Après avoir fondé La Justice en 1880, Clemenceau travailla à L'Aurore, qui publia en 1898 le « J'accuse… ! » de Zola, titre trouvé par Clemenceau lui-même. Il y mena le combat pour Dreyfus et publia en 1899 le livre L'Iniquité.",
     "source": "D'après Wikipédia — Georges Clemenceau"
   },
   {
     "id": "q-politique-083",
     "domain": "politique",
     "format": "vrai-faux",
-    "affirmation": "Au congrès de Tours de 1920, Léon Blum a refusé de faire adhérer les socialistes à l'Internationale communiste.",
+    "affirmation": "Au congrès de Tours de 1920, Léon Blum s'est opposé à l'adhésion des socialistes à l'Internationale communiste.",
     "reponse": true,
-    "explication": "Blum refusa de suivre la majorité qui voulait rejoindre la Troisième Internationale. Il plaida pour préserver la « vieille maison » socialiste ; la majorité le refusa, d'où la scission entre socialistes et communistes.",
+    "explication": "La majorité du congrès vota pour rejoindre la Troisième Internationale et fonda le futur Parti communiste. Blum, minoritaire, refusa de la suivre : il fallait que « quelqu'un reste garder la vieille maison » socialiste. D'où la scission.",
     "source": "D'après Wikipédia — Léon Blum"
   },
   {
@@ -1416,7 +1416,7 @@
       "L'Organisation mondiale de la santé"
     ],
     "bonneReponse": 0,
-    "explication": "Première déléguée américaine à l'ONU, Eleanor Roosevelt présida la Commission des droits de l'homme, qui rédigea la Déclaration universelle adoptée le 10 décembre 1948. Le président Truman l'appelait « la Première dame du monde ».",
+    "explication": "Déléguée des États-Unis à l'ONU, Eleanor Roosevelt présida la Commission des droits de l'homme, qui rédigea la Déclaration universelle adoptée le 10 décembre 1948. Le président Truman l'appelait « la Première dame du monde ».",
     "source": "D'après Wikipédia — Eleanor Roosevelt"
   },
   {
@@ -1441,7 +1441,7 @@
     "question": "Quel geste Willy Brandt a-t-il accompli en 1970 devant le mémorial du ghetto de Varsovie ?",
     "choix": [
       "Il s'est agenouillé en silence",
-      "Il a signé un traité avec la Pologne",
+      "Il a planté un arbre du souvenir",
       "Il a prononcé un discours en polonais",
       "Il a déposé les clés de Berlin"
     ],

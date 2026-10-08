@@ -40,6 +40,20 @@ for (const [titre, extra] of Object.entries(lot.enrich || {})) {
   nEnr++;
 }
 
+// Corrections de fiches existantes (relecture) :
+//   "fichesMaj": { "Titre exact": { subtitle?, summary?, details?: { sections?, anecdotes?, chiffres?… } } }
+// chaque champ donné REMPLACE l'ancien (details : champ par champ)
+let nFM = 0;
+for (const [titre, maj] of Object.entries(lot.fichesMaj || {})) {
+  const f = fiches.find(x => x.title === titre);
+  if (!f) { erreurs.push(`fichesMaj : fiche introuvable « ${titre} »`); continue; }
+  const { details, ...champs } = maj;
+  Object.assign(f, champs);
+  if (details) f.details = Object.assign(f.details || {}, details);
+  if (!f.summary) erreurs.push(`fichesMaj : résumé vide pour « ${titre} »`);
+  nFM++;
+}
+
 // Nouvelles fiches
 let n = prochain(fiches), nF = 0;
 const titres = new Set(fiches.map(f => norm(f.title)));
@@ -104,7 +118,7 @@ if (erreurs.length) {
   console.log('❌ Rien n’a été écrit :\n' + erreurs.map(e => '  - ' + e).join('\n'));
   process.exit(1);
 }
-const bilan = `${dom} : +${nF} fiches (total ${fiches.length}), ${nEnr} enrichies, +${nQ} questions, ${nMaj} corrigées (total ${quiz.length})`;
+const bilan = `${dom} : +${nF} fiches (total ${fiches.length}), ${nEnr} enrichies, ${nFM} fiches corrigées, +${nQ} questions, ${nMaj} corrigées (total ${quiz.length})`;
 if (essai) { console.log('✅ Essai OK, rien d’écrit. ' + bilan); process.exit(0); }
 ecrireJSON(fP, fiches);
 ecrireJSON(qP, quiz);

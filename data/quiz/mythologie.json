@@ -587,7 +587,7 @@
     "choix": [
       "Il lui offre un trône d'or qui la retient prisonnière",
       "Il lui forge une couronne empoisonnée",
-      "Il enferme sa chambre dans un coffre de bronze",
+      "Il l'enferme dans un coffre de bronze",
       "Il détruit son temple d'Argos"
     ],
     "bonneReponse": 0,
@@ -663,7 +663,7 @@
     "indices": [
       "Les Étrusques me connaissaient sous le nom d'Utuze.",
       "Mon nom viendrait d'un verbe grec qui signifie « être irrité ».",
-      "Une cicatrice au pied, due à un sanglier, permet de me reconnaître.",
+      "Une cicatrice à la jambe, due à un sanglier, permet de me reconnaître.",
       "Mon lit est taillé dans un olivier enraciné.",
       "Roi d'Ithaque, je rentre chez moi après dix ans de voyage."
     ],
@@ -838,7 +838,7 @@
       {
         "gauche": "Le sanglier d'Érymanthe",
         "droite": "Le ramener vivant à Eurysthée",
-        "explication": "Ce troisième exploit consiste à capturer l'énorme animal sans le tuer, puis à l'amener au roi."
+        "explication": "Le héros doit capturer l'énorme animal sans le tuer, puis l'amener au roi, terrifié à sa vue."
       },
       {
         "gauche": "Les oiseaux du lac Stymphale",
@@ -848,7 +848,7 @@
       {
         "gauche": "Les Hespérides",
         "droite": "Cueillir les pommes d'or gardées par Ladon",
-        "explication": "Le jardin des pommes d'or est gardé par le dragon Ladon : c'est l'avant-dernier travail du héros."
+        "explication": "Le jardin des pommes d'or est gardé par le dragon Ladon : c'est l'un des deux derniers travaux du héros."
       }
     ],
     "explication": "Les douze travaux se partagent entre le Péloponnèse et des terres plus lointaines. Chacun consiste à tuer, chasser ou rapporter une créature ou un trésor extraordinaire pour le compte du roi Eurysthée.",
@@ -882,7 +882,7 @@
     "id": "q-mythologie-057",
     "domain": "mythologie",
     "format": "qcm",
-    "question": "Quel chercheur a repris le nom de Gaïa en 1970 pour désigner la Terre comme un être vivant ?",
+    "question": "Quel scientifique a repris le nom de Gaïa, dans les années 1970, pour désigner la Terre comme un être vivant ?",
     "choix": [
       "James Lovelock",
       "Charles Darwin",
@@ -890,7 +890,7 @@
       "Alfred Wegener"
     ],
     "bonneReponse": 0,
-    "explication": "Le géologue britannique James Lovelock utilise dès 1970 le nom de la déesse pour son hypothèse : la Terre serait un superorganisme qui s'autorégule. Chez les Grecs, pourtant, Gaïa était surtout une déesse géologique.",
+    "explication": "Le scientifique britannique James Lovelock donne le nom de la déesse à son hypothèse : la Terre serait un superorganisme capable de s'autoréguler. Chez les Grecs, pourtant, Gaïa était surtout une déesse géologique, mère des montagnes et des mers.",
     "source": "D'après Wikipédia — Gaïa"
   },
   {
@@ -1064,7 +1064,7 @@
       "Le roi Latinus"
     ],
     "bonneReponse": 0,
-    "explication": "Pendant que Troie brûle, Énée emmène son vieux père Anchise, avec son fils Ascagne. Cette image de piété filiale est restée célèbre : elle figure déjà sur des statuettes trouvées à Véies, qui datent du Ve siècle au plus tard.",
+    "explication": "Pendant que Troie brûle, Énée emmène son vieux père Anchise, avec son fils Ascagne. Cette image de piété filiale est restée célèbre : elle figure déjà sur des statuettes trouvées à Véies, en Étrurie, qui datent au plus tard du Ve siècle av. J.-C.",
     "source": "D'après Wikipédia — Énée"
   },
   {
@@ -1079,7 +1079,7 @@
       "Rhéa Silvia"
     ],
     "bonneReponse": 0,
-    "explication": "À Carthage, Didon tombe amoureuse d'Énée. Quand il repart sur l'ordre de Mercure, elle lance une malédiction qui oppose pour toujours Carthage à Rome, avant de se donner la mort. Virgile y voit l'origine de l'ennemi d'Hannibal.",
+    "explication": "À Carthage, Didon tombe amoureuse d'Énée. Quand il repart sur l'ordre de Mercure, elle lance une malédiction qui dresse pour toujours Carthage contre Rome, avant de se donner la mort. Virgile annonce ainsi les guerres puniques et la figure d'Hannibal.",
     "source": "D'après Wikipédia — Énée"
   },
   {
@@ -1194,9 +1194,9 @@
     "id": "q-mythologie-077",
     "domain": "mythologie",
     "format": "vrai-faux",
-    "affirmation": "Dans le mythe de Baldr, tous les êtres ont juré de ne pas lui nuire, sauf le gui.",
+    "affirmation": "Dans le mythe de Baldr, tous les êtres et toutes les choses ont juré de ne pas lui nuire, sauf le gui.",
     "reponse": true,
-    "explication": "Frigg fait jurer tous les êtres de ne pas blesser son fils, mais oublie le gui, qu'elle juge trop frêle. Loki en fabrique un trait que le dieu aveugle Höd lance sur Baldr, qui meurt. Ce détail inspire la peur du gui dans plusieurs traditions.",
+    "explication": "Frigg fait jurer à tous les êtres et à toutes les choses de ne pas blesser son fils, mais oublie le gui, qu'elle juge trop frêle et trop jeune. Loki en donne un trait au dieu aveugle Höd et guide son bras : Baldr, transpercé, meurt aussitôt.",
     "source": "D'après Wikipédia — Baldr"
   },
   {

@@ -525,7 +525,7 @@
       "Babe Ruth"
     ],
     "bonneReponse": 0,
-    "explication": "Alexander Cartwright a codifié les règles des Knickerbockers en 1845. La légende d'Abner Doubleday, née au début du XXe siècle, avait été démentie par des connaisseurs du jeu dès 1909.",
+    "explication": "Le 3 juin 1953, le Congrès américain a crédité Alexander Cartwright, qui avait codifié les règles des Knickerbockers en 1845. La légende d'Abner Doubleday, inventeur supposé du jeu en 1839 à Cooperstown, avait été contestée dès 1909 par des connaisseurs du baseball.",
     "source": "D'après Wikipédia — Baseball"
   },
   {
@@ -534,7 +534,7 @@
     "format": "vrai-faux",
     "affirmation": "Le judo est devenu sport olympique aux Jeux de Tokyo en 1964.",
     "reponse": true,
-    "explication": "Le Japon, pays organisateur, a poussé pour son entrée au programme. Les judokas japonais ont gagné trois des quatre titres, mais le Néerlandais Anton Geesink a remporté la catégorie ouverte, devant le public japonais.",
+    "explication": "Vrai. Le judo est entré au programme olympique à Tokyo, dans son pays d'origine. Les judokas japonais ont gagné trois des quatre titres, mais le Néerlandais Anton Geesink a remporté la catégorie toutes catégories, devant le public japonais.",
     "source": "D'après Wikipédia — Judo"
   },
   {
@@ -657,7 +657,7 @@
     "format": "vrai-faux",
     "affirmation": "L'escalade sportive a fait ses débuts aux Jeux olympiques de Tokyo 2020.",
     "reponse": true,
-    "explication": "Vrai. L'escalade est entrée au programme olympique d'été à Tokyo, avec trois types d'épreuves de compétition : la difficulté, le bloc et la vitesse. Le sport est né en France au début des années 1980.",
+    "explication": "Vrai. L'escalade est entrée au programme olympique à Tokyo, avec trois types d'épreuves : la difficulté, le bloc et la vitesse, réunies en un seul classement combiné. Ce sport est né en France au début des années 1980, sur des falaises équipées de points d'ancrage.",
     "source": "D'après Wikipédia — Escalade sportive"
   },
   {
@@ -689,10 +689,10 @@
       {
         "gauche": "Cricket",
         "droite": "Angleterre",
-        "explication": "Il est né dans le sud-est de l'Angleterre, d'abord comme jeu d'enfants."
+        "explication": "Il est né dans le sud-est de l'Angleterre, sans doute à partir d'un jeu d'enfants."
       }
     ],
-    "explication": "Ces cinq sports sont nés dans des pays différents, puis se sont répandus par les marins, les colons, les associations sportives ou les familles. Le hockey et le cricket sont deux sports de crosse et de batte très éloignés.",
+    "explication": "Ces cinq sports sont nés dans des pays différents avant de conquérir le monde. Le cricket a voyagé avec l'Empire britannique, le volley-ball avec les associations chrétiennes américaines, et le hockey s'est répandu du Canada vers l'Europe.",
     "source": "D'après Wikipédia — Hockey sur glace"
   },
   {
@@ -700,11 +700,11 @@
     "domain": "sport",
     "format": "qui-suis-je",
     "indices": [
-      "On me pratique debout, sur une planche, au bord de l'océan.",
       "Des explorateurs européens m'ont observé à Tahiti en 1767.",
-      "Duke Kahanamoku, double champion olympique de natation, m'a fait connaître dans le monde.",
       "Tom Blake a ajouté un aileron à mes planches vers 1935.",
-      "Les premiers champions olympiques de ma discipline ont été couronnés à Tokyo."
+      "Mes premiers champions olympiques ont été couronnés à Tokyo, avec les Jeux de 2020.",
+      "Duke Kahanamoku, champion olympique de natation, m'a fait connaître dans le monde.",
+      "On me pratique debout sur une planche, en glissant sur les vagues."
     ],
     "reponse": "Le surf",
     "explication": "Le surf vient de la culture polynésienne, notamment hawaïenne. Popularisé au XXe siècle par Duke Kahanamoku, il est devenu un sport olympique avec les Jeux de Tokyo 2020.",
@@ -886,7 +886,7 @@
     "format": "vrai-faux",
     "affirmation": "Roger Federer a remporté la finale de Wimbledon 2008 contre Rafael Nadal.",
     "reponse": false,
-    "explication": "C'est Nadal qui gagne, en 4 h 48, la plus longue finale de l'histoire du tournoi, alors que la nuit tombe. Federer avait remporté celles de 2006 et de 2007, et voyait sa série de 65 victoires sur gazon s'arrêter.",
+    "explication": "C'est Nadal qui gagne, en 4 h 48, ce qui est alors la plus longue finale de l'histoire du tournoi, alors que la nuit tombe. Federer avait remporté celles de 2006 et de 2007, et voyait sa série de 65 victoires sur gazon s'arrêter.",
     "source": "D'après Wikipédia — Rivalité Federer-Nadal"
   },
   {
@@ -901,7 +901,7 @@
       "Rome"
     ],
     "bonneReponse": 0,
-    "explication": "Fosbury remporte l'or à Mexico en 1968 en franchissant la barre dos tourné. Son style, d'abord jugé étrange, est devenu la seule technique utilisée en compétition, grâce aux épais matelas de réception.",
+    "explication": "Fosbury remporte l'or à Mexico en 1968 en franchissant la barre dos tourné. Son style, d'abord jugé étrange, est devenu la seule technique utilisée dans les grandes compétitions, grâce aux épais matelas de réception.",
     "source": "D'après Wikipédia — Fosbury-flop"
   },
   {
@@ -968,7 +968,7 @@
     "id": "q-sport-061",
     "domain": "sport",
     "format": "qcm",
-    "question": "Dans quelle pièce de Shakespeare l'expression « fair play » serait-elle apparue, en 1598 ?",
+    "question": "À quelle pièce de Shakespeare attribue-t-on souvent l'invention de l'expression « fair play » ?",
     "choix": [
       "Le Roi Jean",
       "Hamlet",
@@ -976,7 +976,7 @@
       "Othello"
     ],
     "bonneReponse": 0,
-    "explication": "L'expression est réputée avoir été forgée par Shakespeare dans Le Roi Jean. Elle existait toutefois dès le XIVe siècle, où elle évoquait la courtoisie des chevaliers, bien avant de désigner l'esprit sportif.",
+    "explication": "L'expression est réputée avoir été forgée par Shakespeare dans Le Roi Jean. En réalité, elle est bien plus ancienne : au XVe siècle déjà, le poète John Lydgate parle de « fair play » à propos des échecs. Elle ne désignera l'esprit sportif que bien plus tard.",
     "source": "D'après Wikipédia — Fair-play"
   },
   {
@@ -1140,7 +1140,7 @@
         "explication": "Le « Roi James », surnom de l'ailier né à Akron."
       }
     ],
-    "explication": "Ces surnoms sont devenus presque aussi célèbres que les noms de ces champions : un enfant d'or pour Maradona, un baron rouge pour Schumacher, un volant pour Cruyff, un mamba pour Bryant et un roi pour James.",
+    "explication": "Ces surnoms sont devenus presque aussi célèbres que les champions eux-mêmes : « gamin en or » pour Maradona, Baron rouge pour Schumacher et sa Ferrari, Hollandais volant pour Cruyff, Black Mamba pour Bryant et « Roi James » pour LeBron James.",
     "source": "D'après Wikipédia — Diego Maradona"
   },
   {

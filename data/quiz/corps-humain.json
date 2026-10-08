@@ -583,7 +583,7 @@
       "Réguler la température du corps"
     ],
     "bonneReponse": 0,
-    "explication": "Le cervelet ne déclenche pas les mouvements : il les rend précis, assure l'équilibre et la posture. Son atteinte ne paralyse pas, mais rend les gestes imprécis. Il contient pourtant plus de neurones que le néocortex.",
+    "explication": "Le cervelet ne déclenche pas les mouvements : il les rend précis, assure l'équilibre et la posture. Son atteinte ne paralyse pas, mais rend les gestes imprécis. Bien qu'il ne fasse que 10 % du volume du cerveau, il compte 3,6 fois plus de neurones que le néocortex.",
     "source": "D'après Wikipédia — Cervelet"
   },
   {
@@ -600,9 +600,9 @@
     "domain": "corps-humain",
     "format": "qui-suis-je",
     "indices": [
+      "On m'a découverte en 1958 en étudiant des glandes de bœuf et la peau des grenouilles.",
+      "Mon précurseur direct est la sérotonine.",
       "Je suis fabriquée surtout la nuit, au cœur du cerveau.",
-      "On m'a découverte en 1958 en étudiant des glandes de bœuf et des grenouilles.",
-      "Mon précurseur est la sérotonine.",
       "Je suis produite par la glande pinéale.",
       "On m'appelle souvent « l'hormone du sommeil »."
     ],
@@ -622,7 +622,7 @@
       "Qui accélère"
     ],
     "bonneReponse": 0,
-    "explication": "Le mot dérive du latin ad renes, « à côté du rein », car l'hormone est sécrétée par les glandes surrénales. Son équivalent américain, épinéphrine, vient du grec et signifie « au-dessus du rein ».",
+    "explication": "Le mot dérive du latin ad renes, « près du rein », car l'hormone est sécrétée par les glandes surrénales. Son équivalent américain, épinéphrine, vient du grec et signifie « au-dessus du rein ».",
     "source": "D'après Wikipédia — Adrénaline"
   },
   {
@@ -698,7 +698,7 @@
     "id": "q-corps-humain-045",
     "domain": "corps-humain",
     "format": "qcm",
-    "question": "Que montra le cas du patient H.M., qui avait subi le retrait de l'hippocampe pour soigner son épilepsie ?",
+    "question": "Que montra le cas du patient H.M., à qui l'on retira une grande partie des deux hippocampes pour soigner son épilepsie ?",
     "choix": [
       "L'hippocampe est central pour former de nouveaux souvenirs",
       "L'hippocampe commande la respiration",
@@ -706,7 +706,7 @@
       "L'hippocampe est inutile à l'âge adulte"
     ],
     "bonneReponse": 0,
-    "explication": "Après l'opération, Henry Molaison ne pouvait plus former de nouveaux souvenirs épisodiques, mais gardait ceux de l'enfance. Étudié par Scoville et Brenda Milner, il est devenu le patient le plus étudié de la médecine.",
+    "explication": "Après l'opération, Henry Molaison ne pouvait plus former de nouveaux souvenirs d'événements, mais gardait ceux de l'enfance. Étudié par Scoville et Brenda Milner, il est sans doute devenu le patient le plus étudié de l'histoire de la médecine.",
     "source": "D'après Wikipédia — Hippocampe (cerveau)"
   },
   {
@@ -715,13 +715,13 @@
     "format": "difference",
     "question": "Quelle est la différence entre le goût de la langue et l'odorat du nez ?",
     "choix": [
-      "La langue ne distingue que cinq saveurs, le nez des centaines de substances",
+      "La langue ne distingue que cinq saveurs, le nez des milliers d'odeurs",
       "La langue distingue des milliers d'odeurs, le nez seulement cinq",
       "Les deux perçoivent exactement les mêmes molécules",
       "Le nez est relié au thalamus, la langue directement au cortex"
     ],
     "bonneReponse": 0,
-    "explication": "La langue ne distingue que cinq qualités de goût, alors que le nez différencie des centaines de substances, même en quantités infimes. L'odorat est aussi le seul sens à contourner le thalamus.",
+    "explication": "La langue ne distingue que cinq qualités de goût, alors que le nez différencie des milliers d'odeurs, même en quantités infimes. L'odorat est aussi le seul sens à contourner le thalamus pour rejoindre directement l'avant du cerveau.",
     "source": "D'après Wikipédia — Olfaction"
   },
   {
@@ -798,11 +798,11 @@
     "domain": "corps-humain",
     "format": "qui-suis-je",
     "indices": [
-      "Je suis une cellule du sang, mais je me déplace aussi dans la lymphe, d'où mon nom.",
-      "Je me présente en trois familles : B, T et NK.",
-      "Les T finissent leur maturation dans le thymus, tandis que mes cousins B fabriquent des anticorps.",
-      "Je garde en mémoire les microbes déjà rencontrés.",
-      "Je suis un globule blanc."
+      "Mon « B » ne vient pas de la moelle osseuse mais d'un organe propre aux oiseaux, la bourse de Fabricius.",
+      "Le virus du sida s'attaque à l'une de mes familles, les T CD4.",
+      "Certains de mes semblables deviennent des cellules mémoire et se souviennent des microbes déjà rencontrés.",
+      "On me classe en trois familles : B, T et NK.",
+      "Globule blanc, je circule dans le sang et dans la lymphe, d'où mon nom."
     ],
     "reponse": "Le lymphocyte",
     "explication": "Les lymphocytes sont des globules blancs spécialisés dans la défense. Les B produisent les anticorps, les T coordonnent la défense ou détruisent les cellules infectées, et les NK tuent les cellules anormales sans apprentissage préalable.",
@@ -911,7 +911,7 @@
     "id": "q-corps-humain-059",
     "domain": "corps-humain",
     "format": "vrai-faux",
-    "affirmation": "Pour parler d'épilepsie, il faut avoir eu au moins deux crises spontanées.",
+    "affirmation": "Pour parler d'épilepsie, il faut en général avoir eu plusieurs crises spontanées.",
     "reponse": true,
     "explication": "Une crise isolée ne suffit pas : jusqu'à 10 % de la population en vit une seule dans sa vie. L'épilepsie se définit par la répétition de crises spontanées, dues à des décharges électriques anormales de groupes de neurones.",
     "source": "D'après Wikipédia — Épilepsie"
@@ -1012,7 +1012,7 @@
       "La peste"
     ],
     "bonneReponse": 0,
-    "explication": "Robert Koch présente le bacille de la tuberculose le 24 mars 1882, jour devenu la Journée mondiale de la tuberculose. Il avait déjà identifié l'agent du charbon en 1876 et allait isoler celui du choléra en 1883.",
+    "explication": "Robert Koch présente le bacille de la tuberculose le 24 mars 1882, jour devenu la Journée mondiale de la tuberculose. Il avait déjà montré en 1876 le rôle de la bactérie du charbon, et allait isoler celle du choléra en 1883.",
     "source": "D'après Wikipédia — Robert Koch"
   },
   {
@@ -1036,7 +1036,7 @@
       "Les bains d'eau froide"
     ],
     "bonneReponse": 0,
-    "explication": "À la Renaissance, on brûlait les plaies et les moignons pour arrêter le sang, ce qui tuait parfois le blessé. Paré préfère lier les artères avec une pince, la technique qui va s'imposer en chirurgie.",
+    "explication": "À la Renaissance, on brûlait les plaies et les moignons au fer rouge pour arrêter le sang, ce qui tuait parfois le blessé. Paré saisit les artères avec une pince, le « bec de corbin », et les lie avec un fil : une technique déjà connue de Galien, qu'il impose en chirurgie.",
     "source": "D'après Wikipédia — Ambroise Paré"
   },
   {
@@ -1165,7 +1165,7 @@
       "Charles Drew"
     ],
     "bonneReponse": 0,
-    "explication": "Landsteiner observe que le sang d'une personne agglutine ou non les globules rouges d'une autre. Il reçoit le prix Nobel en 1930. Le groupe AB sera identifié en 1901, puis le facteur rhésus en 1940.",
+    "explication": "Landsteiner observe que le sang d'une personne agglutine ou non les globules rouges d'une autre. Il reçoit le prix Nobel en 1930. Le groupe AB est décrit peu après, et Landsteiner découvre le facteur rhésus en 1940, avec Alexander Wiener.",
     "source": "D'après Wikipédia — Transfusion sanguine"
   },
   {
@@ -1225,7 +1225,7 @@
       "La streptomycine"
     ],
     "bonneReponse": 0,
-    "explication": "Fleming constate que son propre mucus nasal détruit des bactéries, puis que les larmes de ses collègues ont le même effet. Il nomme cette enzyme lysozyme. Il ne découvrira la pénicilline que six ans plus tard, en 1928.",
+    "explication": "En 1921, Fleming constate que son propre mucus nasal détruit des bactéries, puis que le mucus de ses collègues et les larmes ont le même effet. En 1922, il attribue cet effet à une enzyme qu'il nomme lysozyme. Il ne découvrira la pénicilline que six ans plus tard, en 1928.",
     "source": "D'après Wikipédia — Alexander Fleming"
   },
   {
@@ -1234,7 +1234,7 @@
     "format": "vrai-faux",
     "affirmation": "Jonas Salk a déposé un brevet pour son vaccin contre la poliomyélite.",
     "reponse": false,
-    "explication": "Salk a refusé de le breveter afin que le vaccin soit diffusé le plus largement possible. À la télévision, il a demandé : « Pourrait-on breveter le soleil ? » Il aurait pu gagner environ 7 milliards de dollars.",
+    "explication": "Faux : Salk a choisi de ne pas le breveter afin que le vaccin soit diffusé le plus largement possible. À la télévision, il a lancé : « Pourrait-on breveter le soleil ? » Selon certaines estimations, il aurait ainsi renoncé à environ 7 milliards de dollars.",
     "source": "D'après Wikipédia — Jonas Salk"
   },
   {
@@ -1245,11 +1245,11 @@
     "choix": [
       "22",
       "14",
-      "28",
+      "36",
       "33"
     ],
     "bonneReponse": 0,
-    "explication": "Le consensus retient 22 os : huit pour la boîte crânienne, qui abrite le cerveau, et quatorze pour le squelette de la face. Certaines sources comptent un peu différemment, mais la mandibule reste le plus gros os de la face.",
+    "explication": "Le décompte habituel retient 22 os : huit pour la boîte crânienne, qui abrite le cerveau, et quatorze pour le squelette de la face. Certaines sources y ajoutent les osselets de l'oreille. La mandibule, seul os mobile du crâne, est le plus gros os de la face.",
     "source": "D'après Wikipédia — Crâne"
   },
   {
@@ -1273,7 +1273,7 @@
     "format": "vrai-faux",
     "affirmation": "Les doigts humains contiennent de gros muscles qui les font plier.",
     "reponse": false,
-    "explication": "Faux : les muscles qui plient et étendent les doigts sont logés dans l'avant-bras. Seuls leurs tendons descendent jusque dans les doigts, qui ne contiennent donc que des tendons, et pas de muscles.",
+    "explication": "Faux : les gros muscles qui plient et étendent les doigts sont logés dans l'avant-bras, et de petits muscles se trouvent dans la paume. Seuls leurs tendons descendent jusque dans les doigts, qui ne contiennent donc que des tendons, et pas de muscles.",
     "source": "D'après Wikipédia — Main"
   },
   {
@@ -1313,8 +1313,8 @@
       },
       {
         "gauche": "Hanche",
-        "droite": "Rotule (mouvements dans tous les sens)",
-        "explication": "La tête du fémur s'emboîte dans une cavité sphérique, comme à l'épaule."
+        "droite": "Sphéroïde (mouvements dans tous les sens)",
+        "explication": "La tête du fémur, en forme de boule, s'emboîte dans une cavité sphérique, comme à l'épaule."
       },
       {
         "gauche": "Base du pouce",
@@ -1327,7 +1327,7 @@
         "explication": "Un joint fibreux presque immobile unit les os du crâne pour protéger le cerveau."
       }
     ],
-    "explication": "La forme des surfaces articulaires décide du mouvement possible : charnière pour le coude, rotule pour la hanche, selle pour le pouce, et suture quasi immobile pour le crâne.",
+    "explication": "La forme des surfaces articulaires décide du mouvement possible : charnière pour le coude, sphéroïde (ou énarthrose) pour la hanche, selle pour le pouce, et suture quasi immobile pour le crâne.",
     "source": "D'après Wikipédia — Articulation (anatomie)"
   },
   {
@@ -1336,10 +1336,10 @@
     "format": "qui-suis-je",
     "indices": [
       "Je suis une vertèbre, et je n'ai ni corps ni apophyse épineuse.",
-      "Aucun disque ne me sépare du crâne.",
-      "Je porte le nom d'un titan de la mythologie grecque.",
+      "Mes masses latérales s'articulent directement avec l'os occipital du crâne.",
       "Mon voisin du dessous, l'axis, porte une dent qui me sert de pivot.",
-      "Je suis la première vertèbre cervicale et je porte la tête."
+      "Je suis la première vertèbre cervicale et je porte la tête.",
+      "Je porte le nom d'un titan de la mythologie grecque, condamné à porter le ciel."
     ],
     "reponse": "L'atlas",
     "explication": "L'atlas, ou C1, est la première vertèbre cervicale. Son nom vient du titan qui portait le monde : il porte la tête. Il pivote autour de la dent de l'axis, ce qui permet de tourner la tête de droite à gauche.",

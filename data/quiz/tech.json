@@ -498,7 +498,7 @@
       "Nikola Tesla"
     ],
     "bonneReponse": 0,
-    "explication": "En 1752, Benjamin Franklin fait voler par temps d'orage un cerf-volant muni d'une clé métallique au bout du fil : des étincelles jaillissent de la clé, prouvant que la foudre est de l'électricité. L'expérience était très dangereuse. Il invente ensuite le paratonnerre, une tige de métal qui conduit la foudre vers le sol.",
+    "explication": "En 1752, Benjamin Franklin fait voler par temps d'orage un cerf-volant muni d'une clé métallique au bout du fil : des étincelles jaillissent de la clé, signe que la foudre est bien de nature électrique. L'expérience était très dangereuse. Franklin est aussi l'inventeur du paratonnerre, une tige de métal qui conduit la foudre vers le sol.",
     "source": "D'après Wikipédia — Benjamin Franklin"
   },
   {
@@ -644,10 +644,10 @@
     "domain": "tech",
     "format": "qui-suis-je",
     "indices": [
-      "Mon nom vient de la lutte contre les incendies.",
+      "Mon nom anglais est prononcé dans le film WarGames, en 1983.",
       "Je compare chaque paquet de données à une liste de règles.",
       "Je sépare des zones de confiance, comme Internet et un réseau interne.",
-      "On m'a vu nommé dans le film WarGames, en 1983.",
+      "Mon nom vient de la lutte contre les incendies.",
       "Je suis un portier pour les communications d'un réseau."
     ],
     "reponse": "Le pare-feu",
@@ -735,7 +735,7 @@
       "Un thermostat"
     ],
     "bonneReponse": 0,
-    "explication": "Des étudiants ont équipé de capteurs le distributeur de Coca-Cola de leur département, pour consulter sa température et son stock à distance. Il est resté connu comme le premier appareil relié à ARPANET.",
+    "explication": "Des étudiants ont équipé de capteurs le distributeur de Coca-Cola de leur département, pour consulter sa température et son stock à distance. Il est resté connu comme le premier appareil du quotidien relié à ARPANET, bien avant que l'on parle d'Internet des objets.",
     "source": "D'après Wikipédia — Internet des objets"
   },
   {
@@ -1291,7 +1291,7 @@
       "Du nom de leur inventeur, Reginald Drone"
     ],
     "bonneReponse": 0,
-    "explication": "Dans les années 1930, au Royaume-Uni, on a surnommé « drone » les avions-cibles Queen Bee : leur vol lent et bruyant évoquait celui d'un bourdon plus que celui d'une reine. L'armée américaine reprend le mot dès 1941.",
+    "explication": "Dans les années 1930, au Royaume-Uni, on a surnommé « drone », le faux bourdon ou mâle de l'abeille, les avions-cibles Queen Bee (« reine des abeilles ») : leur vol lent et bruyant évoquait plus un faux bourdon qu'une reine. L'armée américaine reprend le mot dès 1941.",
     "source": "D'après Wikipédia — Drone"
   },
   {
@@ -1330,7 +1330,7 @@
     "format": "vrai-faux",
     "affirmation": "Alexander Graham Bell, inventeur du téléphone, refusait d'en avoir un dans son bureau de travail.",
     "reponse": true,
-    "explication": "Bell considérait son invention la plus célèbre comme une intrusion dans son travail de savant. Passionné de parole et d'audition, il refusait d'avoir un téléphone dans son bureau, alors qu'il avait obtenu le premier brevet américain en 1876.",
+    "explication": "Bell considérait son invention la plus célèbre comme une intrusion dans son vrai travail de savant. Passionné de parole et d'audition, il refusait d'avoir un téléphone dans son bureau, alors qu'il avait obtenu en 1876 le premier brevet américain pour le téléphone.",
     "source": "D'après Wikipédia — Alexander Graham Bell"
   },
   {
@@ -1517,7 +1517,7 @@
         "annee": "1894"
       },
       {
-        "label": "Il relève son antenne et la relie à la terre : la portée dépasse 2 km",
+        "label": "Il relève son antenne et la relie à la terre : la portée atteint environ 2 km",
         "annee": "1895"
       },
       {
@@ -1555,7 +1555,7 @@
     "id": "q-tech-097",
     "domain": "tech",
     "format": "qcm",
-    "question": "Quelle expression Margaret Hamilton a-t-elle inventée pour désigner son métier ?",
+    "question": "Quelle expression Margaret Hamilton a-t-elle employée et fait connaître pour désigner son métier, au temps d'Apollo ?",
     "choix": [
       "Génie logiciel",
       "Intelligence artificielle",
@@ -1563,7 +1563,7 @@
       "Programmation spatiale"
     ],
     "bonneReponse": 0,
-    "explication": "Margaret Hamilton, qui dirigeait l'équipe du logiciel de bord d'Apollo, a inventé l’expression « génie logiciel » (software engineering), pour distinguer ce travail du matériel et des autres formes d'ingénierie.",
+    "explication": "Margaret Hamilton, qui dirigeait l'équipe du logiciel de bord d'Apollo, s'attribue l'expression « génie logiciel » (software engineering) : elle voulait distinguer ce travail du matériel et des autres formes d'ingénierie, et le faire reconnaître comme une vraie discipline.",
     "source": "D'après Wikipédia — Margaret Hamilton (scientifique)"
   }
 ]

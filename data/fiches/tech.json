@@ -1277,7 +1277,7 @@
     "type": "classique",
     "title": "Réseau social",
     "subtitle": "Service en ligne de profils et d'échanges, apparu dans les années 1990",
-    "summary": "Un réseau social numérique est un service en ligne où l'on crée un profil pour entrer en relation avec d'autres personnes, échanger et partager des contenus. L'idée est ancienne : se retrouver sur la place du marché existe depuis les premières villes. Internet étend ce cercle au monde entier.\nSixDegrees, lancé en 1997, est considéré comme le premier réseau social du Web. L'expression « média social » apparaît en 2004.",
+    "summary": "Un réseau social numérique est un service en ligne où l'on crée un profil pour entrer en relation avec d'autres personnes, échanger et partager des contenus. Internet donne une portée mondiale à ce très vieux besoin de se rencontrer et de bavarder.\nSixDegrees, lancé en 1997, est considéré comme le premier réseau social du Web. L'expression « média social » apparaît en 2004.",
     "details": {
       "sections": [
         {
@@ -1286,7 +1286,7 @@
         },
         {
           "titre": "Les années 2000",
-          "texte": "MSN Messenger, lancé le 22 juillet 1999, fait entrer la messagerie instantanée dans le quotidien des adolescents. Les sites de réseautage se multiplient dès 2001, avec Friendster et MySpace, puis Facebook, créé en 2004 et ouvert au public en 2006. Avec les smartphones, les usages se déplacent : dès 2014, l'usage quotidien d'Internet se fait davantage sur mobile que sur ordinateur."
+          "texte": "MSN Messenger, lancé le 22 juillet 1999, fait entrer la messagerie instantanée dans le quotidien des adolescents. Les sites de réseautage apparaissent dès 2001 et se multiplient vers 2002-2003, avec Friendster et MySpace, puis Facebook, créé en 2004 et ouvert au public en 2006. Avec les smartphones, les usages se déplacent : en 2014, les appareils mobiles dépassent les ordinateurs pour l'usage quotidien d'Internet."
         }
       ],
       "anecdotes": [
@@ -1340,7 +1340,7 @@
         },
         {
           "titre": "Du brouillon aux normes",
-          "texte": "Au début, ce sont les navigateurs qui font la loi. Mosaic ajoute l'élément image et les formulaires en 1993. Le premier vrai standard, HTML 2.0, date de 1995, suivi de HTML 4.0 en 1997. Après les années XHTML, HTML5 devient une recommandation du W3C le 28 octobre 2014. Depuis 2019, c'est le standard évolutif du groupe WHATWG qui fait référence."
+          "texte": "Au début, ce sont les navigateurs qui font la loi. Mosaic ajoute l'élément image en 1993, puis les formulaires, qui rendent le Web interactif. Le premier vrai standard, HTML 2.0, date de 1995, suivi de HTML 4.0 en 1997. Après les années XHTML, HTML5 devient une recommandation du W3C le 28 octobre 2014. Depuis 2019, c'est le standard évolutif du groupe WHATWG qui fait référence."
         }
       ],
       "anecdotes": [
@@ -1367,7 +1367,7 @@
         },
         {
           "titre": "Quatre couches et une histoire",
-          "texte": "Les protocoles s'empilent en couches : liaison, réseau, transport, application. En haut se trouvent HTTP pour le Web, SMTP pour le courrier ou DNS, qui relie noms et adresses. Bob Kahn voulait relier des réseaux différents et jugeait le protocole d'ARPANET insuffisant, car sans contrôle des erreurs. Il crée TCP/IP avec Vinton Cerf, publié en septembre 1973. En mars 1982, le ministère américain de la Défense en fait la norme de ses réseaux."
+          "texte": "Les protocoles s'empilent en couches : liaison, réseau, transport, application. En haut se trouvent HTTP pour le Web, SMTP pour le courrier ou DNS, qui relie noms et adresses. Bob Kahn voulait relier des réseaux différents et jugeait le protocole d'ARPANET insuffisant, car sans contrôle des erreurs. Il conçoit TCP/IP avec Vinton Cerf, présenté pour la première fois en septembre 1973 lors d'une conférence. En mars 1982, le ministère américain de la Défense en fait la norme de ses réseaux."
         }
       ],
       "anecdotes": [
@@ -1533,7 +1533,7 @@
         }
       ],
       "anecdotes": [
-        "En 1982, des étudiants de l'université Carnegie Mellon relient aux réseaux le distributeur de Coca-Cola de leur département pour savoir, sans se déplacer, s'il restait des boissons et si elles étaient fraîches. Il est resté connu comme le premier appareil relié à ARPANET."
+        "En 1982, des étudiants de l'université Carnegie Mellon relient aux réseaux le distributeur de Coca-Cola de leur département pour savoir, sans se déplacer, s'il restait des boissons et si elles étaient fraîches. Il est resté connu comme le premier appareil du quotidien relié à ARPANET."
       ],
       "wikipedia": "Internet des objets"
     },
@@ -1913,7 +1913,7 @@
     "type": "vocabulaire",
     "title": "Bluetooth",
     "subtitle": "Norme radio à courte portée, développée chez Ericsson dans les années 1990",
-    "summary": "Le Bluetooth est une technologie radio qui relie sans fil des appareils proches : écouteurs, enceinte, clavier, souris, voiture, téléphone. Il remplace des câbles sur une distance d'une dizaine de mètres au plus.\nIl a été développé chez Ericsson, en Suède, puis ouvert à toute l'industrie. Son nom vient d'un roi viking du Xe siècle, Harald à la dent bleue, qui avait réuni les tribus danoises.",
+    "summary": "Le Bluetooth est une technologie radio qui relie sans fil des appareils proches : écouteurs, enceinte, clavier, souris, voiture, téléphone. Il remplace des câbles sur une courte distance, en général une dizaine de mètres.\nIl a été développé chez Ericsson, en Suède, puis ouvert à toute l'industrie. Son nom vient d'un roi viking du Xe siècle, Harald à la dent bleue, qui avait réuni les tribus danoises.",
     "details": {
       "definition": "Le Bluetooth est une norme de télécommunication qui permet l'échange de données à courte distance par ondes radio UHF, entre 2,402 et 2,480 GHz.",
       "exemple": "Un casque sans fil se jumelle à ton téléphone : les deux appareils s'authentifient, échangent une clé, puis le son passe par radio au lieu d'un câble.",
@@ -1934,7 +1934,7 @@
         },
         {
           "titre": "Des années 1990 à aujourd'hui",
-          "texte": "Le projet démarre chez Ericsson à Lund, avec une idée de casque sans fil. Le standard devient ouvert : en 1998, Ericsson, IBM, Intel, Nokia et Toshiba créent le Bluetooth SIG. Le premier produit, un kit mains libres, est présenté en 1999. Les versions se succèdent ensuite, la 4.0 de 2010 apportant la basse consommation."
+          "texte": "Le projet démarre chez Ericsson à Lund, avec une idée de casque sans fil. Le standard devient ouvert : en 1998, Ericsson, IBM, Intel, Nokia et Toshiba créent le Bluetooth SIG. Le premier produit, une oreillette mains libres pour téléphone, est présenté en 1999. Les versions se succèdent ensuite, la 4.0 de 2010 apportant la basse consommation."
         }
       ],
       "anecdotes": [
@@ -2055,7 +2055,7 @@
         }
       ],
       "anecdotes": [
-        "La Télécarte française, lancée en 1983 pour les cabines téléphoniques, est le premier usage massif de la carte à puce. La carte bancaire à puce s'est généralisée en France en 1992, après un premier lot de plusieurs millions de cartes détruites à cause d'un défaut de sécurité."
+        "La Télécarte française, lancée en 1983 pour les cabines téléphoniques, est le premier usage massif de la carte à puce. La carte bancaire à puce ne s'est généralisée en France qu'en 1992 : un premier lot de plusieurs millions de cartes, dont le code secret pouvait être lu avec un simple jouet du commerce, avait dû être détruit sur ordre des banques."
       ],
       "wikipedia": "Carte à puce"
     },
@@ -2129,7 +2129,7 @@
         },
         {
           "titre": "Une histoire plus ancienne qu'on ne croit",
-          "texte": "Dès 1906, Andreï Markov modélise le langage avec ce qu'on appelle aujourd'hui une chaîne de Markov. Au début des années 1970, Harold Cohen expose les peintures du programme AARON. Mais jusqu'au début des années 2010, les réseaux de neurones servaient surtout à classer des données : entraîner des modèles génératifs était plus difficile."
+          "texte": "En 1906, Andreï Markov introduit la chaîne qui porte son nom ; elle servira ensuite à modéliser le langage et, entraînée sur un texte, à produire des phrases probables. Au début des années 1970, Harold Cohen expose les peintures du programme AARON. Mais jusqu'au début des années 2010, les réseaux de neurones servaient surtout à classer des données : entraîner des modèles génératifs était plus difficile."
         }
       ],
       "anecdotes": [
@@ -2156,10 +2156,10 @@
         },
         {
           "titre": "Rayons, chars et roulements",
-          "texte": "Les premières roues sont des disques de bois pleins, faits de trois ou quatre planches. Vers 2000 av. J.-C., la culture de Sintashta invente la roue à rayons, bien plus légère : elle permet des chars de combat rapides tirés par des chevaux. Plus tard, les roulements à billes réduisent encore les frottements entre l'axe et la roue, et le pneu apparaît dans les années 1870."
+          "texte": "Les premières roues sont des disques de bois pleins, faits de trois ou quatre planches. Vers 2000 av. J.-C., la culture de Sintashta invente la roue à rayons, bien plus légère : elle permet des chars de combat rapides tirés par des chevaux. Plus tard, les roulements à billes réduisent encore les frottements entre l'axe et la roue, et le pneu à air se répand à la fin du XIXe siècle."
         },
         {
-          "titre": "Un impact sans roue partout",
+          "titre": "Un rôle immense, mais pas partout",
           "texte": "La roue est à la base des transports terrestres, des engrenages et des moulins à eau. Pourtant, les civilisations précolombiennes l'ont surtout connue comme jouet : sans animaux de trait, selon une hypothèse de Jared Diamond, elle servait peu."
         }
       ],
@@ -2218,7 +2218,7 @@
         },
         {
           "titre": "Étapes et dates",
-          "texte": "Les Grecs tracent de vrais cadrans solaires vers le IVe siècle av. J.-C. ; l'eau s'écoulant d'un bol percé mesure le temps en Babylone et en Égypte vers le XVIe siècle av. J.-C. Vers 1300, l'échappement à verge permet les premières horloges mécaniques européennes. Christiaan Huygens invente l'horloge à pendule en 1656, et l'horloge électrique est brevetée en 1840."
+          "texte": "Vers le XVIe siècle av. J.-C., à Babylone et en Égypte, l'eau qui s'écoule d'un bol percé mesure déjà le temps. Les Grecs tracent de vrais cadrans solaires vers le IVe siècle av. J.-C. Vers 1300, l'échappement à verge permet les premières horloges mécaniques européennes. Christiaan Huygens invente l'horloge à pendule en 1656, et l'horloge électrique est brevetée en 1840."
         },
         {
           "titre": "Une heure commune pour tous",
@@ -2245,7 +2245,7 @@
       "sections": [
         {
           "titre": "Du curieux instrument à l'outil de science",
-          "texte": "Galilée présente un microscope en 1625 ; le nom est forgé par Giovanni Faber. Le tournant arrive dans les années 1660-1670. Robert Hooke publie Micrographia en 1665, riche en dessins saisissants. Antonie van Leeuwenhoek, avec une seule minuscule lentille, atteint jusqu'à 300 fois de grossissement et rapporte le 9 octobre 1676 la découverte de micro-organismes."
+          "texte": "En 1625, Galilée présente un microscope à l'Accademia dei Lincei, à Rome. Le tournant arrive dans les années 1660-1670. Robert Hooke publie Micrographia en 1665, riche en dessins saisissants. Antonie van Leeuwenhoek, avec une seule minuscule lentille, atteint jusqu'à 300 fois de grossissement et rapporte le 9 octobre 1676 la découverte de micro-organismes."
         },
         {
           "titre": "Aller plus loin que la lumière",
@@ -2276,7 +2276,7 @@
       "sections": [
         {
           "titre": "Le principe : une réaction qui pousse les électrons",
-          "texte": "Dans une pile, deux substances réagissent chimiquement : l'une cède facilement des électrons, l'autre les absorbe. Relier les deux bornes par un fil force ces électrons à circuler, et c'est le courant. On peut le voir avec une pile de fortune : un clou galvanisé et un fil de cuivre plantés dans un citron suffisent à allumer une petite diode."
+          "texte": "Dans une pile, deux substances réagissent chimiquement : l'une cède facilement des électrons, l'autre les absorbe. Relier les deux bornes par un fil force ces électrons à circuler, et c'est le courant. On peut le voir avec une pile de fortune : un clou galvanisé et un fil de cuivre plantés dans un citron peuvent faire briller une diode bien choisie."
         },
         {
           "titre": "Des disques de Volta à nos piles",
@@ -2346,7 +2346,7 @@
         },
         {
           "titre": "Une course à la définition",
-          "texte": "En vingt ans, des années 1930 aux années 1940, l'image gagne en finesse : de quelques dizaines de lignes, on approche le millier. Chaque pays défend sa norme : la France a utilisé un temps 819 lignes avant d'adopter le 625 lignes en 1963. La couleur arrive dans le courant des années 1960, et en 2013, 79 % des foyers du monde possédaient un téléviseur."
+          "texte": "Entre 1930 et la fin des années 1940, l'image gagne en finesse : de quelques dizaines de lignes, on approche le millier. Chaque pays défend sa norme : la France choisit d'abord 819 lignes, puis adopte le 625 lignes pour ses nouvelles chaînes à partir de 1963. La couleur arrive dans le courant des années 1960, et en 2013, 79 % des foyers du monde possédaient un téléviseur."
         }
       ],
       "anecdotes": [
@@ -2381,7 +2381,7 @@
         }
       ],
       "anecdotes": [
-        "En 1935, Robert Watson-Watt reçut un rapport sur un prétendu « rayon de la mort » allemand. Son collègue Arnold Wilkins montra par le calcul que c'était impossible, mais suggéra de détecter des avions grâce aux perturbations radio : ce fut l'expérience de Daventry, le 26 février 1935."
+        "En 1935, Robert Watson-Watt fut chargé d'évaluer des rumeurs sur un « rayon de la mort » allemand fondé sur les ondes radio. Son collègue Arnold Wilkins montra par le calcul que c'était impossible, mais rappela que des avions perturbaient les signaux radio : ce fut l'expérience de Daventry, le 26 février 1935."
       ],
       "wikipedia": "Radar"
     },
@@ -2563,7 +2563,7 @@
         },
         {
           "titre": "De l'atelier à la maison",
-          "texte": "Après l'expiration du brevet FDM en 2009, les imprimantes à quelques centaines d'euros se multiplient. On imprime des pièces pour la dentisterie, la bijouterie, l'aérospatiale et le cinéma. Des robots impriment aussi du béton : en 2014, une entreprise chinoise a fabriqué dix petites maisons en 24 heures, et un pont imprimé en 3D est ouvert à Amsterdam en 2021."
+          "texte": "Après l'expiration du brevet FDM en 2009, les imprimantes à quelques centaines d'euros se multiplient. On imprime des pièces pour la dentisterie, la bijouterie, l'aérospatiale et le cinéma. Le procédé gagne aussi le bâtiment : en 2014, l'entreprise chinoise WinSun imprime en 24 heures les éléments de dix petites maisons, et en 2021 un pont piéton en acier imprimé en 3D est mis en service sur un canal d'Amsterdam."
         }
       ],
       "anecdotes": [
@@ -2652,7 +2652,7 @@
         },
         {
           "titre": "Étapes et dates",
-          "texte": "Le 2 juillet 1917, l'avion Voisin du pilote français Max Boucher parcourt 1 km sans intervention humaine ; le 14 septembre 1918, un vol de 51 minutes couvre 100 km. Le premier drone français, au sens strict, est testé en 1923 à Étampes. Dans les années 1930, des avions-cibles britanniques radiocommandés, les Queen Bee, donnent leur nom au mot « drone »."
+          "texte": "Le 2 juillet 1917, l'avion Voisin du pilote français Max Boucher parcourt 1 km sans intervention humaine ; le 14 septembre 1918, un vol de 51 minutes couvre 100 km. Le premier drone français, au sens strict, est testé en 1923 à Étampes. Dans les années 1930, les Britanniques s'entraînent au tir sur des avions-cibles radiocommandés, les Queen Bee ; en 1941, l'US Navy commande un drone-cible, le TDD-1, construit à plus de mille exemplaires."
         },
         {
           "titre": "Des usages civils variés",
@@ -2660,7 +2660,7 @@
         }
       ],
       "anecdotes": [
-        "Le mot « drone » signifie « faux bourdon » en anglais : dans les années 1930, on a ainsi surnommé par dérision des avions-cibles Queen Bee, dont le vol lent et bruyant évoquait plus un bourdon qu'une reine des abeilles."
+        "Le mot « drone » désigne en anglais le faux bourdon, le mâle de l'abeille : dans les années 1930, on a ainsi surnommé par dérision les avions-cibles Queen Bee (« reine des abeilles »), dont le vol lent et bruyant évoquait plus un faux bourdon qu'une reine."
       ],
       "wikipedia": "Drone"
     },
@@ -2713,7 +2713,7 @@
         },
         {
           "titre": "Un code fait pour la rapidité",
-          "texte": "Morse imaginait d'abord des nombres et un dictionnaire pour les traduire. Vail comprend qu'il faut transmettre des lettres, et que les plus fréquentes méritent les signaux les plus courts, comme on le voit dans une imprimerie. Le code actuel est une version simplifiée par l'Allemand Friedrich Gerke, adoptée par l'Union internationale des télécommunications en 1865. Il résiste très bien aux parasites radio."
+          "texte": "Morse imaginait d'abord des nombres et un dictionnaire pour les traduire. Vail comprend qu'il faut transmettre des lettres ; en visitant une imprimerie, il remarque que certaines lettres servent bien plus que d'autres, et leur réserve les signaux les plus courts. Le code actuel est une version simplifiée par l'Allemand Friedrich Gerke, adoptée en 1865 par l'Union télégraphique internationale, l'ancêtre de l'UIT. Il résiste très bien aux parasites radio."
         }
       ],
       "anecdotes": [
@@ -2752,8 +2752,7 @@
       ],
       "oeuvres": [
         {
-          "titre": "Machine à décortiquer le grain",
-          "annee": "1858"
+          "titre": "Machine à décortiquer le grain"
         },
         {
           "titre": "Le téléphone",
@@ -3012,7 +3011,7 @@
     "type": "personnage",
     "title": "Carl Benz",
     "subtitle": "Ingénieur et inventeur allemand, 1844-1929",
-    "summary": "Carl Benz, ingénieur de Karlsruhe, fonde en 1883 la société Benz & Cie à Mannheim. En 1885, il monte un moteur à essence sur un tricycle : c'est le Benz Patent-Motorwagen, qu'il fait breveter le 29 janvier 1886.\nOn l'appelle souvent le père de l'automobile. Sa voiture est mise en vente en 1888. En 1926, quelques années avant sa mort, sa firme fusionne avec Daimler pour devenir Mercedes-Benz.",
+    "summary": "Carl Benz, ingénieur de Karlsruhe, fonde en 1883 la société Benz & Cie à Mannheim. En 1885, il monte un moteur à essence sur un tricycle : c'est le Benz Patent-Motorwagen, qu'il fait breveter le 29 janvier 1886.\nOn l'appelle souvent le père de l'automobile. Sa voiture est mise en vente en 1888. En 1926, quelques années avant sa mort, sa firme fusionne avec celle de Daimler : la nouvelle société, Daimler-Benz, vend ses voitures sous la marque Mercedes-Benz.",
     "details": {
       "epoque": "Fin du XIXe siècle et début du XXe siècle.",
       "pourquoiCelebre": "Il a conçu le Benz Patent-Motorwagen, considéré comme la première automobile pratique, vendue à partir de 1888.",
@@ -3160,7 +3159,7 @@
       "sections": [
         {
           "titre": "Le moteur des frères Niépce",
-          "texte": "À partir de 1801, Nicéphore et Claude gèrent leurs terres et inventent. Leur pyréolophore, un moteur qui fonctionne par de petites explosions, fait l'objet d'un rapport lu à l'Institut de France en décembre 1806, par Berthollet et Lazare Carnot. Il est breveté en 1807 mais jamais vendu. Claude part tenter de le négocier en Angleterre et y meurt peu après, ruiné."
+          "texte": "À partir de 1801, Nicéphore et Claude gèrent leurs terres et inventent. Leur pyréolophore, un moteur qui fonctionne par de petites explosions, fait l'objet d'un rapport lu à l'Institut de France en décembre 1806, par Berthollet et Lazare Carnot. Il est breveté en 1807 mais jamais vendu. Fin 1817, Claude part tenter de le négocier en Angleterre ; il n'y parvient pas et y meurt en 1828, ruiné."
         },
         {
           "titre": "Fixer l'image du soleil",
@@ -3342,11 +3341,11 @@
         },
         {
           "titre": "Du calcul à l'ordinateur",
-          "texte": "Pendant la guerre, Von Neumann se tourne vers les mathématiques appliquées : il développe la méthode de Monte-Carlo, qui économise du temps de calcul, et participe aux premiers ordinateurs. Dans l'architecture qui porte son nom, le programme et les données sont rangés dans la même mémoire. Il étudie aussi les automates cellulaires et l'auto-réplication, bien avant la découverte de la structure de l'ADN."
+          "texte": "Pendant la guerre, Von Neumann se tourne vers les mathématiques appliquées : il développe la méthode de Monte-Carlo, qui économise du temps de calcul, et participe aux premiers ordinateurs. Dans l'architecture qui porte son nom, le programme et les données sont rangés dans la même mémoire. Il étudie aussi les automates cellulaires et l'auto-réplication, avant même la découverte de la structure de l'ADN."
         }
       ],
       "anecdotes": [
-        "Selon une anecdote, à six ans, Von Neumann avait déjà lu et mémorisé les quarante-quatre volumes d'une histoire universelle de la bibliothèque familiale, au point de pouvoir en citer des pages entières."
+        "Selon une anecdote, enfant, Von Neumann avait déjà lu et mémorisé les quarante-quatre volumes d'une histoire universelle de la bibliothèque familiale, au point de pouvoir en citer des pages entières."
       ],
       "wikipedia": "John von Neumann"
     },

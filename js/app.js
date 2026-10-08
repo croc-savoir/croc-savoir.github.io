@@ -60,6 +60,7 @@ const App = (() => {
     if (name !== current) inner.length = 0;
     current = name;
     window.scrollTo(0, 0);
+    document.dispatchEvent(new CustomEvent('screenchange', { detail: name }));   // menu du haut (pc.js)
   }
 
   // Aller vers un écran (ajoute une entrée d'historique).

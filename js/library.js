@@ -119,7 +119,7 @@ const Library = (() => {
     const stage = document.getElementById('search-fiche');
     stage.hidden = false;
     stage.innerHTML = '';
-    stage.appendChild(Fiches.renderCard(f));
+    stage.appendChild(Fiches.cardWithAside(f));
   }
 
   // ---------- Favoris ----------
@@ -145,7 +145,7 @@ const Library = (() => {
     App.pushInner(() => renderFavorites());
     const root = document.getElementById('favorites-content');
     root.innerHTML = '';
-    root.appendChild(Fiches.renderCard(f));
+    root.appendChild(Fiches.cardWithAside(f));
   }
 
   function favoritesCount() { return Store.favoriteIds().filter(id => DataStore.ficheById(id)).length; }

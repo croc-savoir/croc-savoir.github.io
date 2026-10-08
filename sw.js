@@ -4,7 +4,7 @@
  *   et à mesure (stale-while-revalidate), pour supporter l'ajout de
  *   nouveaux domaines/lots sans jamais devoir republier le service worker.
  * ================================================================= */
-const SHELL_VERSION = 'v54';
+const SHELL_VERSION = 'v55';
 const SHELL_CACHE = `culture-g-shell-${SHELL_VERSION}`;
 const DATA_CACHE = 'culture-g-data';
 
@@ -31,6 +31,8 @@ const SHELL_FILES = [
   'js/library.js',
   'js/dragon.js',
   'js/app.js',
+  'js/pc.js',
+  'css/pc.css',
   'fonts/mplus-rounded-500.woff2',
   'fonts/mplus-rounded-700.woff2',
   'fonts/mplus-rounded-800.woff2',

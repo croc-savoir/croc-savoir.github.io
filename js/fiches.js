@@ -195,6 +195,18 @@ const Fiches = (() => {
     return wrap;
   }
 
+  // Sur ordinateur : la fiche à gauche, un panneau « liens + mini-quiz » à droite (cf. pc.js).
+  const isPC = () => window.matchMedia('(min-width: 1024px)').matches;
+  function cardWithAside(fiche) {
+    const card = renderCard(fiche);
+    if (!isPC() || typeof PC === 'undefined') return card;
+    const layout = document.createElement('div');
+    layout.className = 'fiche-layout';
+    layout.appendChild(card);
+    layout.appendChild(PC.ficheAside(fiche));
+    return layout;
+  }
+
   // ---------- Aléatoire ----------
   // Tirage « sac mélangé » : ordre entièrement aléatoire, pas de répétition
   // avant d'avoir tout vu, et jamais deux fois la même fiche d'affilée.
@@ -219,8 +231,7 @@ const Fiches = (() => {
     if (aleaIndex >= aleaPool.length) buildAleaPool();
     const fiche = aleaPool[aleaIndex];
     lastShownId = fiche.id;
-    const card = renderCard(fiche);
-    container.appendChild(card);
+    container.appendChild(cardWithAside(fiche));
 
     const nextBtn = document.createElement('button');
     nextBtn.className = 'btn btn-primary btn-next';
@@ -284,6 +295,7 @@ const Fiches = (() => {
       return;
     }
 
+    if (themeState.level === 'subthemes' && isPC()) return renderDomainPC(root);
     if (themeState.level === 'subthemes') {
       const domain = DataStore.getDomain(themeState.domainId);
       root.appendChild(crumbRow(`${domain.emoji} ${domain.label}`, () => App.back()));
@@ -332,9 +344,59 @@ const Fiches = (() => {
     if (themeState.level === 'fiche') {
       root.appendChild(crumbRow('Retour à la liste', () => App.back()));
       const fiche = DataStore.ficheById(themeState.ficheId);
-      if (fiche) root.appendChild(renderCard(fiche));
+      if (fiche) root.appendChild(cardWithAside(fiche));
       return;
     }
+  }
+
+  // Ordinateur : toutes les fiches du thème en grille, les rubriques en pastilles pour filtrer.
+  function renderDomainPC(root) {
+    const domain = DataStore.getDomain(themeState.domainId);
+    const map = DataStore.subthemesFor(themeState.domainId);
+    const all = [...map.values()].flat();
+    const head = document.createElement('div');
+    head.className = 'pc-head';
+    head.innerHTML = `<h1 class="pc-head__title">${domain.emoji} ${escapeHTML(domain.label)}</h1>
+      <p class="pc-head__sub">${all.length} fiche${all.length > 1 ? 's' : ''} · ${map.size} rubrique${map.size > 1 ? 's' : ''}</p>`;
+    root.appendChild(head);
+    if (!all.length) { root.appendChild(emptyState('Aucune fiche dans ce domaine pour le moment.')); return; }
+
+    const chips = document.createElement('div');
+    chips.className = 'pc-chips';
+    const grid = document.createElement('div');
+    grid.className = 'fiche-list pc-fiche-grid';
+    const show = (label) => {
+      themeState.chip = label;
+      [...chips.children].forEach(c => c.classList.toggle('is-on', (c.dataset.label || null) === label));
+      grid.innerHTML = '';
+      (label ? map.get(label) || [] : all).forEach(f => {
+        const item = document.createElement('button');
+        item.type = 'button';
+        item.className = 'fiche-list-item';
+        item.innerHTML = `<span class="fiche-list-item__title">${escapeHTML(f.title)}</span><span class="fiche-list-item__type">${escapeHTML(TYPE_LABELS[f.type] || '')}${label ? '' : ` · ${escapeHTML(f.subtheme || 'Général')}`}</span>`;
+        item.addEventListener('click', () => {
+          goDeeper({ level: 'fiche', domainId: themeState.domainId, subtheme: f.subtheme, ficheId: f.id, chip: themeState.chip });
+        });
+        grid.appendChild(item);
+      });
+    };
+    [['Tout', null], ...[...map.keys()].map(k => [k, k])].forEach(([text, label]) => {
+      const c = document.createElement('button');
+      c.type = 'button';
+      c.className = 'pc-chip';
+      c.dataset.label = label || '';
+      c.textContent = text;
+      c.addEventListener('click', () => show(label));
+      chips.appendChild(c);
+    });
+    root.appendChild(chips);
+    root.appendChild(grid);
+    show(themeState.chip || null);
+  }
+
+  // Ouvre directement un thème (tuiles « Tous les thèmes » de l'accueil sur ordinateur).
+  function openDomain(domainId) {
+    goDeeper({ level: 'subthemes', domainId, subtheme: null, ficheId: null });
   }
 
   function crumbRow(title, onBack) {
@@ -353,5 +415,5 @@ const Fiches = (() => {
     return row;
   }
 
-  return { initAleatoire, initTheme, renderCard, TYPE_LABELS };
+  return { initAleatoire, initTheme, renderCard, cardWithAside, openLinked, openDomain, TYPE_LABELS };
 })();

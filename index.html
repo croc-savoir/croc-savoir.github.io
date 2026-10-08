@@ -17,9 +17,28 @@
 <link rel="stylesheet" href="css/animations.css">
 <!-- STYLE CARTOON (retirer : supprimer ces 3 lignes, css/cartoon.css et js/style-toggle.js) -->
 <link rel="stylesheet" href="css/cartoon.css">
+<!-- VERSION ORDINATEUR (≥ 1024 px de large ; le téléphone n'est pas concerné) -->
+<link rel="stylesheet" href="css/pc.css">
 <script>try { if (localStorage.getItem('croc-style') === 'cartoon') document.documentElement.classList.add('style-cartoon'); } catch (e) {}</script>
 </head>
 <body>
+
+<!-- Menu du haut (ordinateur uniquement, cf. css/pc.css) -->
+<nav class="pc-nav" id="pc-nav" aria-label="Menu principal">
+  <div class="pc-nav__in">
+    <button class="pc-nav__logo" type="button" data-go="home"><img src="icons/icon-192.png" alt=""><span>Croc'Savoir</span></button>
+    <button class="pc-nav__link" type="button" data-go="home" data-nav="home">Accueil</button>
+    <button class="pc-nav__link" type="button" data-go="fiches-menu" data-nav="fiches">Fiches</button>
+    <button class="pc-nav__link" type="button" data-go="quiz-menu" data-nav="quiz">Quiz</button>
+    <button class="pc-nav__link" type="button" data-go="quiz-jour" data-nav="quiz-jour">Quiz du jour</button>
+    <button class="pc-nav__link" type="button" data-go="dragon" data-nav="dragon">Dragon Tour</button>
+    <span class="pc-nav__sp"></span>
+    <button class="pc-nav__search" type="button" data-go="search" data-nav="search">
+      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+      <span>Rechercher une fiche…</span>
+    </button>
+  </div>
+</nav>
 
 <main id="view-root">
 
@@ -28,6 +47,7 @@
     <div class="home-hero">
       <img class="home-hero__logo" src="icons/icon-192.png" alt="">
       <h1 class="home-hero__title">Croc'Savoir</h1>
+      <h1 class="home-hero__hello">Bonjour 👋</h1>
       <p class="home-hero__subtitle" id="home-greeting">Un peu de culture, à ton rythme.</p>
     </div>
 
@@ -76,6 +96,12 @@
         </span>
         <span class="home-card__badge" id="dragon-badge" hidden>🔁 À revoir</span>
       </button>
+    </div>
+
+    <!-- Tous les thèmes (ordinateur uniquement) -->
+    <div class="pc-themes">
+      <h2 class="pc-themes__title">Tous les thèmes</h2>
+      <div class="domain-grid" id="home-themes"></div>
     </div>
 
     <div class="home-footer">
@@ -217,6 +243,7 @@
 <script src="js/library.js"></script>
 <script src="js/dragon.js"></script>
 <script src="js/app.js"></script>
+<script src="js/pc.js"></script>
 <!-- ANIMATIONS -->
 <script src="js/animations.js"></script>
 <!-- STYLE CARTOON -->

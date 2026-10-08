@@ -1,0 +1,202 @@
+/* ===================== Version ordinateur =====================
+ * Tout ce fichier ne s'applique qu'à partir de 1024 px de large : le téléphone ne change pas.
+ * Maquette choisie : demo-pc-pages.html (menu en haut). Pour retirer : supprimer ce fichier,
+ * js/pc.js et leurs lignes dans index.html (ainsi que le menu .pc-nav et le bloc .pc-themes).
+ * ============================================================= */
+
+/* Éléments propres à l'ordinateur, cachés sur téléphone */
+.pc-nav, .pc-themes, .home-hero__hello { display: none; }
+
+@media (min-width: 1024px) {
+  :root { --pc-nav-h: 66px; --pc-w: 1180px; }
+
+  /* ---------- Menu du haut ---------- */
+  .pc-nav {
+    display: block; position: sticky; top: 0; z-index: 30;
+    background: rgba(10, 14, 26, 0.92); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border-soft);
+  }
+  .pc-nav__in { display: flex; align-items: center; gap: 24px; height: var(--pc-nav-h); max-width: 1280px; margin: 0 auto; padding: 0 32px; }
+  .pc-nav button { font: inherit; background: none; border: none; color: inherit; cursor: pointer; }
+  .pc-nav__logo { display: flex; align-items: center; gap: 10px; font-family: var(--font-display); font-weight: 800; font-size: 21px; color: var(--text); margin-right: 8px; }
+  .pc-nav__logo img { width: 34px; height: 34px; border-radius: 10px; }
+  .pc-nav__link { color: var(--text-muted); font-weight: 700; font-size: 15px; padding: 8px 2px; border-bottom: 3px solid transparent; }
+  .pc-nav__link:hover { color: var(--text); }
+  .pc-nav__link.is-active { color: var(--text); border-bottom-color: var(--accent); }
+  .pc-nav__sp { flex: 1; }
+  .pc-nav__search {
+    display: flex; align-items: center; gap: 8px; min-width: 260px;
+    padding: 10px 16px; border-radius: 999px !important;
+    border: 1px solid var(--border) !important; background: var(--bg-elevated) !important;
+    color: var(--text-faint) !important; font-size: 14px !important;
+  }
+  .pc-nav__search:hover, .pc-nav__search.is-active { border-color: var(--accent) !important; color: var(--text) !important; }
+
+  /* ---------- Cadre général ---------- */
+  #view-root { max-width: var(--pc-w); padding: 0 32px 64px; }
+  .screen:not([hidden]) { display: block; min-height: 0; justify-content: initial; padding-bottom: 32px; }
+  .screen:not(.screen--home) { padding-top: 66px; }
+  .screen:not(.screen--home) > * { max-width: 820px; margin-left: auto; margin-right: auto; }
+  .toast { bottom: 32px; }
+
+  /* Barre de titre des écrans intérieurs : sous le menu, alignée sur le contenu */
+  .screen-bar {
+    top: var(--pc-nav-h); background: transparent; backdrop-filter: none; -webkit-backdrop-filter: none; border-bottom: none;
+    padding: 10px max(32px, calc((100vw - var(--pc-w)) / 2 + 32px)) 4px; pointer-events: none;
+  }
+  .screen-bar__back { pointer-events: auto; background: var(--bg-elevated); }
+  .screen-bar__back:hover { background: rgba(var(--accent-rgb), 0.3); }
+  .screen-bar__home { visibility: hidden; }
+  .screen-bar__title { text-align: left; font-size: 22px; }
+  /* La barre ne doit pas recouvrir le contenu quand on fait défiler */
+  body:not(.is-home) .screen-bar { position: absolute; }
+
+  /* Boutons : petit retour au survol (souris) */
+  .mode-card:hover, .home-card:hover, .daily-card:hover, .domain-tile:hover, .dt-group:hover, .fiche-list-item:hover, .subtheme-row:hover {
+    border-color: var(--accent); transform: translateY(-2px);
+  }
+  .opt-btn:not(:disabled):hover { border-color: var(--accent); }
+
+  /* ---------- Accueil ---------- */
+  .screen--home:not([hidden]) {
+    display: grid; grid-template-columns: 1fr 1fr; column-gap: 16px; align-content: start;
+    padding: 34px 0 32px; min-height: 0;
+  }
+  .screen--home > * { grid-column: 1 / -1; }
+  .home-hero { text-align: left; margin: 0 0 26px; }
+  .home-hero__logo, .home-hero__title { display: none; }
+  .home-hero__hello { display: block; font-size: 34px; margin: 0 0 6px; }
+  .home-hero__subtitle { font-size: 16px; }
+  .screen--home > .search-pill { display: none; }
+  .screen--home > .daily-card { grid-column: auto; margin-bottom: 16px; min-height: 96px; }
+  .home-choices { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+  .home-card { min-height: 128px; }
+  .pc-themes { display: block; margin-top: 36px; }
+  .pc-themes__title { font-family: var(--font-display); font-size: 24px; margin: 0 0 14px; }
+  .home-footer { flex-direction: row; align-items: center; justify-content: space-between; margin-top: 32px; }
+  .home-footer .home-link { width: auto; min-height: 42px; padding: 0 18px; }
+
+  /* Grilles de thèmes : 7 par ligne (accueil, fiches par thème, quiz) */
+  .domain-grid { grid-template-columns: repeat(7, 1fr); gap: 16px; }
+  .domain-tile { min-height: 108px; }
+  .screen[data-screen="fiches-theme"] > *, .screen[data-screen="quiz-theme"] > * { max-width: none; }
+
+  /* ---------- Menus (Fiches, Quiz, modes du Dragon) : cartes côte à côte ---------- */
+  .mode-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; }
+  .screen[data-screen="fiches-menu"] > *, .screen[data-screen="quiz-menu"] > * { max-width: 980px; }
+  .mode-card { flex-direction: column; align-items: flex-start; min-height: 190px; padding: 24px 22px; }
+  .mode-card__arrow { display: none; }
+  .mode-intro { font-size: 16px; margin: 4px 0 18px; }
+
+  /* ---------- Thème : en-tête, rubriques en pastilles, fiches en grille ---------- */
+  .pc-head { margin: 4px 0 18px; }
+  .pc-head__title { font-family: var(--font-display); font-size: 34px; margin: 0 0 6px; }
+  .pc-head__sub { color: var(--text-muted); margin: 0; }
+  .pc-chips { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 22px; }
+  .pc-chip {
+    padding: 8px 16px; border-radius: 999px; cursor: pointer;
+    border: 1.5px solid var(--border); background: var(--bg-elevated); color: var(--text);
+    font: inherit; font-weight: 700; font-size: 14px;
+  }
+  .pc-chip:hover { border-color: var(--accent); }
+  .pc-chip.is-on { background: var(--accent); border-color: transparent; color: #fff; }
+  .pc-fiche-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+  .pc-fiche-grid .fiche-list-item { min-height: 76px; flex-direction: column; justify-content: center; gap: 4px; }
+
+  /* ---------- Fiche : texte + panneau à droite ---------- */
+  .fiche-layout { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 30px; align-items: start; }
+  .screen[data-screen="fiches-theme"] .fiche-layout,
+  .screen[data-screen="fiches-aleatoire"] > *, .screen[data-screen="search"] > *, .screen[data-screen="favoris"] > * { max-width: 1120px; }
+  .screen[data-screen="search"] .search-bar, .screen[data-screen="search"] #search-results,
+  .screen[data-screen="favoris"] .fiche-list { max-width: 820px; margin-left: auto; margin-right: auto; }
+  .fiche-layout .fiche-card { padding: 30px 32px; }
+  .fiche-layout .fiche-card__title { font-size: 32px; }
+  .fiche-layout .fiche-card__summary { font-size: 17px; line-height: 1.65; }
+  .fiche-layout .fiche-details { font-size: 16px; line-height: 1.65; }
+  .fiche-layout + .btn-next, .card-stage > .btn-next { max-width: 360px; margin-left: auto; }
+  .fiche-aside { position: sticky; top: calc(var(--pc-nav-h) + 16px); display: flex; flex-direction: column; gap: 16px; }
+  .pc-panel { background: var(--bg-elevated); border: 1px solid var(--border); border-radius: 18px; padding: 20px; }
+  .pc-panel__title { margin: 0 0 12px; font-size: 13px; letter-spacing: .08em; text-transform: uppercase; color: var(--text-muted); }
+  .pc-panel__text { margin: 0 0 12px; color: var(--text-muted); font-size: 14.5px; }
+  .pc-panel__btn { width: 100%; }
+  .pc-link {
+    display: flex; justify-content: space-between; align-items: center; gap: 10px; width: 100%;
+    padding: 12px 14px; margin-bottom: 8px; border-radius: 12px; border: 1px solid transparent;
+    background: var(--bg-soft); color: var(--text); font: inherit; font-weight: 700; font-size: 14.5px; text-align: left; cursor: pointer;
+  }
+  .pc-link:last-child { margin-bottom: 0; }
+  .pc-link:hover { border-color: var(--accent); }
+  .pc-link span:last-child { color: var(--text-faint); }
+
+  /* Fenêtres par-dessus (fiche liée, mini-quiz) : centrées */
+  .fiche-modal { align-items: center; }
+  .fiche-modal__panel { max-width: 760px; border-radius: 20px; padding: 16px 18px 24px; }
+  .pc-mini__end { text-align: center; padding: 24px 0 8px; }
+  .pc-mini__score { font-family: var(--font-display); font-size: 64px; font-weight: 800; color: var(--accent-2); }
+  .pc-mini__sub { color: var(--text-faint); font-size: 13.5px; }
+
+  /* ---------- Quiz ---------- */
+  .screen[data-screen="quiz-theme"] .card-stage, .screen[data-screen="quiz-jour"] .card-stage,
+  .screen[data-screen="quiz-aleatoire"] .card-stage, .serie-head, .serie-bar { max-width: 860px; margin-left: auto; margin-right: auto; }
+  .serie-bar { height: 5px; margin-bottom: 22px; }
+  .quiz-card { padding: 34px; }
+  .quiz-card__question { font-size: 26px; line-height: 1.35; }
+  .quiz-card .opt-list { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .quiz-card .opt-btn { min-height: 76px; font-size: 17px; }
+  .opt-btn .opt-letter { width: 28px; height: 28px; font-size: 13px; line-height: 1; font-variant-numeric: lining-nums; }
+  .vf-row .opt-btn { min-height: 64px; font-size: 18px; }
+  .btn-validate, .quiz-card .btn-next { margin-top: 22px; }
+  .screen[data-screen="quiz-theme"] .card-stage::after,
+  .screen[data-screen="quiz-jour"] .card-stage::after,
+  .screen[data-screen="quiz-aleatoire"] .card-stage::after {
+    content: "Touches : A à D (ou 1 à 4) pour choisir · Entrée pour valider";
+    text-align: center; color: var(--text-faint); font-size: 13px;
+  }
+
+  /* Fin de série : score à gauche, récapitulatif à droite */
+  .screen[data-screen="quiz-theme"] > *, .screen[data-screen="quiz-jour"] > * { max-width: 1080px; }
+  .serie-end {
+    display: grid; grid-template-columns: 380px minmax(0, 1fr); grid-template-rows: auto auto auto auto 1fr;
+    column-gap: 30px; align-items: start; text-align: center;
+  }
+  .serie-end > * { grid-column: 1; }
+  .serie-end__top { grid-row: 1; display: flex; flex-direction: column; align-items: center; }
+  .serie-end__scorecard { grid-row: 2; }
+  .serie-end__note { grid-row: 3; }
+  .serie-end__actions { grid-row: 4; grid-template-columns: 1fr; }
+  .serie-recap__title { grid-column: 2; grid-row: 1; margin-top: 0; }
+  .serie-recap { grid-column: 2; grid-row: 2 / 6; }
+
+  /* Quiz du jour : carte centrée */
+  .serie-intro {
+    max-width: 900px; margin: 10px auto 0; padding: 48px 30px;
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius-xl); box-shadow: var(--shadow-soft);
+  }
+  .serie-intro__emoji { font-size: 72px; }
+  .serie-intro__title { font-size: 34px; }
+  .serie-intro__text { max-width: 560px; font-size: 16px; }
+  .serie-intro__go { max-width: 300px; }
+
+  /* ---------- Dragon Tour : 4 colonnes ---------- */
+  .screen[data-screen="dragon"] > * { max-width: 1080px; }
+  .dt-groups { grid-template-columns: repeat(4, 1fr); gap: 16px; }
+  .dt-group { min-height: 110px; }
+  .dt-group--wide { grid-column: 1 / -1; }
+  .dt-group--monde { grid-column: span 2; }
+  .dt-card, .dt-actions, .dt-run-head, .dt-q, .dt-answer, .dt-missed, .daily-end, .dt-type,
+  #dragon-content > .btn-next { max-width: 640px; margin-left: auto; margin-right: auto; }
+  #dragon-content > .mode-list { max-width: 980px; margin: 0 auto; }
+  .dt-q .opt-list { grid-template-columns: 1fr 1fr; }
+
+  /* ---------- Bouchée du jour, recherche : colonne lisible ---------- */
+  .screen[data-screen="daily"] > * { max-width: 860px; }
+}
+
+/* Style cartoon sur ordinateur */
+@media (min-width: 1024px) {
+  html.style-cartoon .pc-nav { background: var(--bg-soft); backdrop-filter: none; -webkit-backdrop-filter: none; border-bottom: 3px solid var(--ink); }
+  html.style-cartoon .pc-nav__search { border: 3px solid var(--ink) !important; box-shadow: 0 3px 0 var(--ink); }
+  html.style-cartoon .pc-chip { border: 3px solid var(--ink); }
+  html.style-cartoon .pc-panel, html.style-cartoon .serie-intro { border: 3px solid var(--ink); box-shadow: 0 5px 0 var(--ink); }
+  html.style-cartoon .screen-bar { background: transparent; border-bottom: none; }
+}

@@ -499,7 +499,7 @@
       "Il n'a presque pas bougé"
     ],
     "bonneReponse": 0,
-    "explication": "Le baril passe de 2,59 à 11,65 dollars en six mois environ, soit presque quatre fois plus. Habitués à un pétrole bon marché, les pays riches subissent une inflation sans croissance, la stagflation.",
+    "explication": "Le baril passe de 2,59 à 11,65 dollars en six mois environ : son prix est plus que quadruplé. Habitués à un pétrole bon marché, les pays riches subissent alors une inflation sans croissance, qu'on appelle la stagflation.",
     "source": "D'après Wikipédia — Premier choc pétrolier"
   },
   {
@@ -736,7 +736,7 @@
       "Comité des actions cotées"
     ],
     "bonneReponse": 0,
-    "explication": "À l'origine, CAC voulait dire « Compagnie des agents de change », les officiers qui géraient les échanges avant 1988. Le sigle signifie aujourd'hui « Cotation assistée en continu » : l'indice, né le 31 décembre 1987, suit 40 grandes sociétés.",
+    "explication": "À l'origine, CAC voulait dire « Compagnie des agents de change », les officiers qui géraient les échanges avant 1988. Le sigle signifie aujourd'hui « Cotation assistée en continu » : l'indice, lancé en juin 1988 sur une base de 1 000 points au 31 décembre 1987, suit 40 grandes sociétés.",
     "source": "D'après Wikipédia — CAC 40"
   },
   {
@@ -801,8 +801,8 @@
     "paires": [
       {
         "gauche": "Friedrich Wilhelm Raiffeisen",
-        "droite": "Première coopérative d'épargne et de crédit, en 1849",
-        "explication": "Ce Prussien crée en Rhénanie une coopérative qui offre l'épargne aux ouvriers pauvres."
+        "droite": "Coopératives d'épargne et de crédit en Rhénanie, dès 1849",
+        "explication": "Ce bourgmestre prussien fonde en Rhénanie une coopérative qui offre l'épargne et le crédit aux plus pauvres."
       },
       {
         "gauche": "Muhammad Yunus",
@@ -811,13 +811,13 @@
       },
       {
         "gauche": "Edward Lloyd",
-        "droite": "Taverne londonienne devenue marché de l'assurance maritime",
-        "explication": "Sa taverne réunit armateurs et assureurs : c'est l'origine du Lloyd's de Londres."
+        "droite": "Café londonien devenu marché de l'assurance maritime",
+        "explication": "Son café réunit armateurs et assureurs à la fin du XVIIe siècle : c'est l'origine du Lloyd's de Londres."
       },
       {
         "gauche": "Nicholas Barbon",
         "droite": "Premier bureau d'assurance contre l'incendie",
-        "explication": "Après le grand incendie de Londres, il ouvre un bureau pour assurer les bâtiments."
+        "explication": "Après le grand incendie de Londres, il fonde en 1681 un bureau pour assurer les maisons."
       }
     ],
     "explication": "Raiffeisen, Yunus, Lloyd et Barbon ont chacun inventé un outil pour partager le risque ou rendre le crédit accessible : coopérative d'épargne, microcrédit, assurance maritime et assurance des maisons contre le feu.",
@@ -934,7 +934,7 @@
       "La fondation du Lloyd's"
     ],
     "bonneReponse": 0,
-    "explication": "Le grand incendie de Londres, en 1666, détruit 13 200 bâtiments selon une estimation. Peu après, Nicholas Barbon monte un bureau consacré à la protection des maisons contre le feu : c'est le début de l'assurance des biens au sens moderne.",
+    "explication": "Le grand incendie de Londres, en 1666, ravage plus de 13 000 maisons et fait de l'assurance une urgence. En 1681, Nicholas Barbon fonde un bureau consacré à la protection des maisons contre le feu : c'est le début de l'assurance des biens au sens moderne.",
     "source": "D'après Wikipédia — Assurance"
   },
   {
@@ -1001,7 +1001,7 @@
     "id": "q-economie-064",
     "domain": "economie",
     "format": "qcm",
-    "question": "Quel savant aurait avoué, après le krach des mers du Sud, qu'il prévoyait la course des astres mais pas les emballements de la foule ?",
+    "question": "Quel savant aurait avoué, après le krach de la Compagnie des mers du Sud en 1720, qu'il savait calculer la course des astres mais pas la folie des gens ?",
     "choix": [
       "Isaac Newton",
       "Gottfried Leibniz",
@@ -1009,7 +1009,7 @@
       "Adam Smith"
     ],
     "bonneReponse": 0,
-    "explication": "Après la déroute de 1720, Isaac Newton aurait fait cet aveu. L'épisode a donné le mot « bulle » à la finance : un prix gonflé, fragile, qui finit par éclater, et le Parlement anglais a réagi par une loi, le Bubble Act.",
+    "explication": "Isaac Newton, alors maître de la Monnaie de Londres, aurait répondu qu'il « pouvait calculer les mouvements des corps célestes, mais pas la folie des gens ». La spéculation sur la Compagnie des mers du Sud reste une bulle célèbre : un prix gonflé sans raison solide, qui finit par éclater.",
     "source": "D'après Wikipédia — Bulle (économie)"
   },
   {
@@ -1039,7 +1039,7 @@
       "Il n'y a aucune différence : les deux termes désignent le même solde"
     ],
     "bonneReponse": 0,
-    "explication": "La balance commerciale n'est qu'une composante de la balance courante, qui s'inscrit elle-même dans la balance des paiements. Un pays très touristique peut ainsi afficher un déficit commercial mais un solde courant positif.",
+    "explication": "La balance commerciale n'est qu'une composante de la balance courante, elle-même incluse dans la balance des paiements. Selon les pays, elle compte ou non les services ; en France, elle se limite aux biens. Un pays très touristique peut ainsi afficher un déficit commercial et un solde courant positif.",
     "source": "D'après Wikipédia — Balance commerciale"
   },
   {
@@ -1153,7 +1153,7 @@
       "Une durée maximale de travail"
     ],
     "bonneReponse": 0,
-    "explication": "La peste avait décimé la population : la main-d'œuvre manquait et les salaires s'envolaient. L'ordonnance des travailleurs de 1349 les plafonne, à l'inverse d'un salaire minimum. Ce n'est que plus tard que ces règles servent à garantir un salaire de subsistance.",
+    "explication": "La peste avait décimé la population : la main-d'œuvre manquait et les salaires s'envolaient. L'ordonnance des travailleurs de 1349 les plafonne, à l'inverse d'un salaire minimum. Le statut des travailleurs de 1351 alourdit ensuite les peines contre ceux qui payaient plus que le tarif fixé.",
     "source": "D'après Wikipédia — Salaire minimum"
   },
   {
@@ -1488,7 +1488,7 @@
         "explication": "Il y décrit une vie active d'environ quarante mille heures au total."
       }
     ],
-    "explication": "Ces quatre ouvrages sont les plus connus de leurs auteurs. Ils couvrent plus de deux siècles de pensée économique, de la population chez Malthus aux modes de consommation chez Veblen.",
+    "explication": "Ces quatre ouvrages comptent parmi les plus connus de leurs auteurs. Ils couvrent plus d'un siècle et demi de pensée économique, de la population chez Malthus (1798) au temps de travail chez Fourastié (1965), en passant par la consommation ostentatoire chez Veblen.",
     "source": "D'après Wikipédia — Thorstein Veblen"
   },
   {

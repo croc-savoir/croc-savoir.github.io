@@ -596,13 +596,13 @@
     "domain": "religions",
     "format": "qui-suis-je",
     "indices": [
+      "Mon plan suit les six ordres de la Mishna.",
       "Mon nom signifie « étude » en hébreu.",
-      "J'existe en deux versions, celle de Jérusalem et celle de Babylone.",
-      "Je comprends 63 traités, rassemblés en six ordres.",
-      "Je réunis la Mishna et la Guemara."
+      "Je réunis la Mishna et la Guemara, les discussions des Sages.",
+      "On distingue celui de Jérusalem et celui de Babylone."
     ],
     "reponse": "Le Talmud",
-    "explication": "Le Talmud est un texte fondamental du judaïsme rabbinique. La version de Babylone, fixée entre le VIe et le début du VIIe siècle, est la plus longue et la plus étudiée ; celle de Jérusalem est restée inachevée.",
+    "explication": "Le Talmud est un texte fondamental du judaïsme rabbinique. La version de Babylone, fixée entre le milieu du VIe et le début du VIIe siècle, est la plus longue et la plus étudiée ; celle de Jérusalem, rédigée en Galilée, est restée inachevée.",
     "source": "D'après Wikipédia — Talmud"
   },
   {
@@ -755,7 +755,7 @@
       "Paradis éternel"
     ],
     "bonneReponse": 0,
-    "explication": "Le mot évoque une flamme (ou une fièvre) qui s'éteint, image de la fin des passions et de l'ignorance. Il désigne aussi la libération du cycle des renaissances. Dans le langage courant, on en a fait un synonyme de bonheur suprême.",
+    "explication": "Le mot évoque une flamme (ou une fièvre) qui s'éteint, image de la fin des passions et de l'ignorance. Il désigne aussi la libération du cycle des renaissances. Dans le langage familier, on en a fait un synonyme de plaisir intense, loin du sens d'origine.",
     "source": "D'après Wikipédia — Nirvana (monde indien)"
   },
   {
@@ -933,7 +933,7 @@
     "question": "Remets ces repères de l'histoire de Noël dans l'ordre.",
     "evenements": [
       {
-        "label": "L'empereur Aurélien fixe au 25 décembre la fête du Soleil invaincu",
+        "label": "L'empereur Aurélien fait du Soleil invaincu un culte officiel de Rome",
         "annee": "274"
       },
       {
@@ -949,7 +949,7 @@
         "annee": "1718"
       }
     ],
-    "explication": "Avant de devenir la fête chrétienne que l'on connaît, le 25 décembre était déjà une date solaire à Rome. Le Chronographe de 354 est le premier document à y placer la naissance de Jésus.",
+    "explication": "Le 25 décembre est souvent rattaché à la fête du Soleil invaincu, culte officialisé par Aurélien en 274. Le Chronographe de 354 est le premier document à y placer la naissance de Jésus, et le sacre de Charlemagne en 800 renforce le prestige de la fête.",
     "source": "D'après Wikipédia — Noël"
   },
   {
@@ -1003,7 +1003,7 @@
     "format": "vrai-faux",
     "affirmation": "Dans la Grèce antique, prier à genoux était considéré comme le geste normal d'un homme libre.",
     "reponse": false,
-    "explication": "Faux : les Grecs jugeaient cette posture peu digne d'un homme libre, bonne pour les esclaves. On priait alors debout, les bras levés. L'agenouillement, mains jointes, se répand au haut Moyen Âge.",
+    "explication": "Faux : les Grecs jugeaient cette posture peu digne d'un homme libre, bonne pour les esclaves et les Barbares. On priait alors plutôt debout. L'habitude de prier à genoux ne devient courante qu'au Moyen Âge.",
     "source": "D'après Wikipédia — Prière"
   },
   {
@@ -1057,7 +1057,7 @@
       "Harpe de David"
     ],
     "bonneReponse": 0,
-    "explication": "Maguen David signifie « bouclier de David ». L'expression apparaît au XIe siècle dans un livre de prières. L'étoile à six branches était alors surtout un motif décoratif, et elle ne s'impose comme emblème juif que bien plus tard.",
+    "explication": "Maguen David signifie « bouclier de David » : l'expression, employée dès le XIe siècle dans un livre de prières, évoque la protection divine accordée au roi David. L'étoile à six branches devient l'emblème des Juifs de Prague, puis s'impose dans le monde entier avec le sionisme, à la fin du XIXe siècle.",
     "source": "D'après Wikipédia — Étoile de David"
   },
   {
@@ -1065,8 +1065,8 @@
     "domain": "religions",
     "format": "qui-suis-je",
     "indices": [
-      "Mon nom vient du sanskrit et signifie « cercle ».",
       "On me trouve dans l'hindouisme, le bouddhisme et le jaïnisme.",
+      "Mon nom vient du sanskrit et signifie « cercle ».",
       "Des moines tibétains me dessinent parfois pendant des jours avec du sable coloré.",
       "Une fois terminé, je suis détruit pour rappeler que tout est éphémère."
     ],
@@ -1264,7 +1264,7 @@
     "indices": [
       "Les informations historiques sur moi sont rares, et certains chercheurs me croient fictif.",
       "On me représente en vieillard à barbe blanche, parfois monté sur un buffle.",
-      "À une passe frontière, un gardien m'aurait demandé de mettre mon enseignement par écrit.",
+      "Au col qui marque la frontière, un gardien m'aurait demandé de mettre mon enseignement par écrit.",
       "Les taoïstes me vénèrent comme un dieu."
     ],
     "reponse": "Laozi",
@@ -1358,7 +1358,7 @@
       "L'édit de Caracalla"
     ],
     "bonneReponse": 0,
-    "explication": "L'édit de Milan, cosigné en 313 par Constantin et Licinius, légalise le christianisme dans l'Empire romain. Douze ans plus tard, Constantin réunit le concile de Nicée pour apaiser les querelles entre Églises d'Orient.",
+    "explication": "L'édit de Milan, cosigné en 313 par Constantin et Licinius, accorde la liberté de culte et met fin aux persécutions des chrétiens. Douze ans plus tard, en 325, Constantin réunit le concile de Nicée pour trancher la querelle de l'arianisme sur la nature du Christ.",
     "source": "D'après Wikipédia — Constantin Ier (empereur romain)"
   },
   {
@@ -1382,7 +1382,7 @@
     "format": "vrai-faux",
     "affirmation": "Élu pape en 2013, François a été le premier pape issu de la Compagnie de Jésus.",
     "reponse": true,
-    "explication": "Jésuite depuis 1956, François est élu pape en mars 2013 : il devient le premier pape issu de la Compagnie de Jésus. L'ordre, fondé en 1540, ne compte pourtant que peu d'évêques et de cardinaux, car ses membres ne recherchent pas les honneurs.",
+    "explication": "Jorge Bergoglio, entré chez les jésuites en 1958, est élu pape en mars 2013 sous le nom de François : il devient le premier pape issu de la Compagnie de Jésus. L'ordre, fondé en 1540, compte pourtant peu d'évêques et de cardinaux, car ses membres ne recherchent pas les honneurs.",
     "source": "D'après Wikipédia — Compagnie de Jésus"
   },
   {
@@ -1496,7 +1496,7 @@
       "Le latin médiéval"
     ],
     "bonneReponse": 0,
-    "explication": "Le mot vient du toungouse, langue de Sibérie. Connu en Europe dès le XVIIe siècle par des récits de voyageurs, elle est admise officiellement en français en 1842. En evenki, saman signifie « danser, bondir, s'agiter ».",
+    "explication": "Le mot vient du toungouse, langue de Sibérie. Connu en Europe dès le XVIIe siècle par des récits de voyageurs, il entre officiellement en français en 1842. En evenki, une langue toungouse, saman signifie « danser, bondir, s'agiter ».",
     "source": "D'après Wikipédia — Chamanisme"
   },
   {
@@ -1520,7 +1520,7 @@
       "L'anachorète est un abbé, le cénobite un simple novice"
     ],
     "bonneReponse": 0,
-    "explication": "Les anachorètes mènent une vie érémitique, donc solitaire, comme Antoine le Grand dans le désert égyptien. Les cénobites se regroupent en communautés, que Pacôme le Grand a organisées avec une règle vers 329.",
+    "explication": "Les anachorètes mènent une vie érémitique, donc solitaire, comme Antoine le Grand dans le désert égyptien vers 270. Les cénobites se regroupent en communautés, que Pacôme le Grand a organisées de manière méthodique en Haute-Égypte au IVe siècle.",
     "source": "D'après Wikipédia — Monachisme"
   },
   {
@@ -1565,7 +1565,7 @@
     "question": "Remets ces événements dans l'ordre chronologique.",
     "evenements": [
       {
-        "label": "Benoît de Nursie fonde le premier monastère, au mont Cassin",
+        "label": "Benoît de Nursie fonde l'abbaye du Mont-Cassin",
         "annee": "529"
       },
       {
@@ -1573,19 +1573,19 @@
         "annee": "817"
       },
       {
-        "label": "Le IVe concile de Latran emploie le mot « bénédictin »",
-        "annee": "1215"
+        "label": "L'Assemblée constituante abolit les vœux monastiques en France",
+        "annee": "1790"
       },
       {
-        "label": "Une bulle du pape Benoît XII emploie le nom de bénédictins",
-        "annee": "1336"
+        "label": "Dom Guéranger restaure l'ordre bénédictin à Solesmes",
+        "annee": "1833"
       },
       {
         "label": "Léon XIII crée la Confédération bénédictine",
         "annee": "1893"
       }
     ],
-    "explication": "De la fondation du mont Cassin à la Confédération bénédictine, mille quatre cents ans d'histoire monastique : le mot « bénédictin » n'apparaît que tardivement, au XIIIe puis au XIVe siècle, longtemps après la règle.",
+    "explication": "Du Mont-Cassin, fondé vers 529, à la Confédération bénédictine de 1893, l'ordre a traversé des siècles d'essor et de crises. Supprimé en France par la Révolution en 1790, il y renaît dès 1833 à Solesmes grâce à Dom Guéranger.",
     "source": "D'après Wikipédia — Ordre de Saint-Benoît"
   },
   {

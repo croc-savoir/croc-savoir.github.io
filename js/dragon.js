@@ -1,12 +1,18 @@
 /* ===================== Dragon Tour =====================
  * Réviser les pays, leurs drapeaux et leurs capitales.
  * Écran « dragon » à niveaux internes :
- *   groupes (monde, continents, territoires) → modes → session.
- * Mode 🃏 Découvrir : paquets de 10 cartes à retourner (drapeau au recto,
- * pays + capitale au verso), « Je savais » / « À revoir ».
+ *   groupes (monde, continents, territoires) → modes → type → session.
+ *
+ * Pas de paquets : chaque session est un flux sans fin, mélangé, piloté par
+ * une répétition espacée commune à tous les modes. Chaque pays a deux suivis
+ * séparés : drapeau (f) et capitale (c).
+ *   - raté          → revient 5 à 8 cartes plus tard ;
+ *   - su 1 fois     → revient ~20 cartes plus tard ;
+ *   - su 2 fois     → revient ~60 cartes plus tard ;
+ *   - su 3 fois     → acquis : revient dans 1 jour, puis 3, puis de plus en plus loin.
+ * L'horloge en cartes (Store.dragonClock) avance à chaque réponse, tous modes confondus.
  * ======================================================== */
 const Dragon = (() => {
-  const PACK_SIZE = 10;
   const FLAG_DIR = 'data/dragon-tour/drapeaux/';
 
   const GROUPS = [
@@ -20,7 +26,32 @@ const Dragon = (() => {
     { id: 'territoires', emoji: '🏳️', label: 'Territoires', desc: 'Kosovo, Taïwan, Groenland, Écosse… des drapeaux hors des 195 pays.' },
   ];
 
+  const MODES = [
+    { id: 'decouvrir', emoji: '🃏', label: 'Découvrir', desc: 'Des cartes à retourner, puis « Je savais » ou « À revoir ».' },
+    { id: 'entrainer', emoji: '🎯', label: 'S’entraîner', desc: 'QCM à 4 choix : drapeaux, pays et capitales dans tous les sens.' },
+    { id: 'maitriser', emoji: '✍️', label: 'Maîtriser', desc: 'Tape toi-même la réponse. Les accents et petites fautes sont tolérés.' },
+  ];
+
+  const KINDS = {
+    decouvrir: [
+      { id: 'mix', emoji: '🎲', label: 'Tout mélangé', desc: 'Cartes drapeaux et cartes capitales.' },
+      { id: 'drapeaux', emoji: '🏳️', label: 'Drapeaux', desc: 'Le drapeau d’un côté, le pays de l’autre.' },
+      { id: 'capitales', emoji: '🏛️', label: 'Capitales', desc: 'Le pays d’un côté, sa capitale de l’autre.' },
+    ],
+    entrainer: [
+      { id: 'mix', emoji: '🎲', label: 'Tout mélangé', desc: 'Drapeaux et capitales, dans tous les sens.' },
+      { id: 'drapeaux', emoji: '🏳️', label: 'Drapeaux', desc: 'Reconnaître un drapeau, ou retrouver celui d’un pays.' },
+      { id: 'capitales', emoji: '🏛️', label: 'Capitales', desc: 'Capitale d’un pays, ou pays d’une capitale.' },
+    ],
+    maitriser: [
+      { id: 'mix', emoji: '🎲', label: 'Tout mélangé', desc: 'Pays à partir du drapeau, capitales dans les deux sens.' },
+      { id: 'drapeaux', emoji: '🏳️', label: 'Drapeaux', desc: 'Écris le nom du pays à partir de son drapeau.' },
+      { id: 'capitales', emoji: '🏛️', label: 'Capitales', desc: 'Écris la capitale d’un pays, ou le pays d’une capitale.' },
+    ],
+  };
+
   let pays = null;          // liste complète
+  let byCode = null;
   let flagsPrefetched = false;
   let state = { level: 'groups', groupId: null };
 
@@ -33,6 +64,7 @@ const Dragon = (() => {
     if (pays) return pays;
     const res = await fetch('data/dragon-tour/pays.json');
     pays = await res.json();
+    byCode = new Map(pays.map(p => [p.code, p]));
     return pays;
   }
 
@@ -54,6 +86,141 @@ const Dragon = (() => {
   function flagImg(p, cls = 'dt-flag') {
     return `<img class="${cls}" src="${FLAG_DIR}${p.code}.svg" alt="Drapeau" draggable="false">`;
   }
+
+  // Cartes d'un groupe : un suivi drapeau par pays, un suivi capitale s'il y en a une.
+  function itemsOf(groupId, kind = 'mix') {
+    const items = [];
+    membersOf(groupId).forEach(p => {
+      if (kind !== 'capitales') items.push({ code: p.code, track: 'f' });
+      if (kind !== 'drapeaux' && p.capitale) items.push({ code: p.code, track: 'c' });
+    });
+    return items;
+  }
+
+  const keyOf = it => it.code + ':' + it.track;
+  const metaOf = it => Store.getDragonTrack(it.code, it.track);
+
+  // ---------- Répétition espacée ----------
+  const GRAD = 3;                                  // réussites d'affilée pour passer aux jours
+  const LEARN_GAPS = [[5, 8], [16, 24], [50, 70]]; // écart en cartes selon le nombre de réussites
+  const FRAGILE_MAX = 6;                           // pas de nouveau pays si autant sont encore fragiles
+  const STALE_MS = 6 * 3600000;                    // pays en cours laissé de côté depuis 6 h → à revoir
+  const DAY = 86400000;
+
+  const rand = (a, b) => a + Math.floor(Math.random() * (b - a + 1));
+  const isLearning = m => (m.reps || 0) < GRAD;
+  function isDue(m, clock, now) {
+    return isLearning(m) ? (m.nextAt == null || m.nextAt <= clock) : new Date(m.due).getTime() <= now;
+  }
+
+  // Calcule le nouveau suivi après une réponse et l'enregistre (l'horloge avance d'une carte).
+  // Une carte revue en avance (proposée faute de mieux) ne monte pas si elle est revue trop tôt.
+  function answer(it, known, opts = {}) {
+    const m = metaOf(it);
+    const clock = Store.dragonClock();
+    const now = Date.now();
+    const t = m ? { ...m } : { reps: 0, ef: 2.5, interval: 0, seen: 0 };
+    t.seen = (t.seen || 0) + 1;
+    t.lastSeen = new Date(now).toISOString();
+    t.lastKnown = known;
+    if (opts.typed && known) t.typedOk = true;
+
+    if (!known) {
+      if (!isLearning(t)) t.ef = Math.max(1.3, (t.ef || 2.5) - 0.2);
+      t.reps = 0;
+      t.interval = 0;
+      delete t.due;
+      t.nextAt = clock + rand(...LEARN_GAPS[0]);
+    } else {
+      let advance = true;
+      if (m && !isDue(m, clock, now)) {
+        if (isLearning(m)) {
+          const last = m.lastAt != null ? m.lastAt : -1000;
+          advance = clock - last >= (m.nextAt - last) / 2;
+        } else advance = false;
+      }
+      if (advance) {
+        t.reps = (t.reps || 0) + 1;
+        if (t.reps < GRAD) {
+          t.nextAt = clock + rand(...LEARN_GAPS[t.reps]);
+        } else {
+          delete t.nextAt;
+          t.interval = t.reps === GRAD ? 1 : t.reps === GRAD + 1 ? 3 : Math.round((t.interval || 3) * (t.ef || 2.5));
+          t.due = new Date(now + t.interval * DAY).toISOString();
+        }
+      }
+    }
+    t.lastAt = clock;
+    Store.saveDragonTrack(it.code, it.track, t);
+  }
+
+  // Choisit la prochaine carte d'une session.
+  // Ordre : pays en cours dont l'écart est écoulé → nouveaux pays (au compte-gouttes) /
+  // pays acquis dont le jour est venu → sinon la carte la plus proche de son échéance.
+  // Jamais un des 3 derniers pays montrés (drapeau et capitale comptent pour le même pays).
+  // En révision, chaque carte retenue au départ est posée au moins une fois.
+  function pickNext(se, avoidN = 3) {
+    const clock = Store.dragonClock();
+    const now = Date.now();
+    const codes = new Set(se.pool.map(it => it.code));
+    const avoid = new Set(avoidN ? se.recent.slice(-Math.min(avoidN, codes.size - 1)) : []);
+    const entries = se.pool
+      .filter(it => !avoid.has(it.code))
+      .map(it => ({ it, m: metaOf(it) }));
+    const due = e => isDue(e.m, clock, now) || (se.revision && !se.asked.has(keyOf(e.it)));
+
+    const learningDue = entries.filter(e => e.m && isLearning(e.m) && due(e))
+      .sort((a, b) => (a.m.nextAt || 0) - (b.m.nextAt || 0));
+    if (learningDue.length) return learningDue[0].it;
+
+    const gradDue = entries.filter(e => e.m && !isLearning(e.m) && due(e))
+      .sort((a, b) => new Date(a.m.due) - new Date(b.m.due));
+    const fresh = se.allowNew ? entries.filter(e => !e.m) : [];
+    const fragile = se.pool.filter(it => { const m = metaOf(it); return m && isLearning(m) && (m.reps || 0) <= 1; }).length;
+    const pickFresh = () => { se.sinceNew = 0; return fresh[Math.floor(Math.random() * fresh.length)].it; };
+
+    if (fresh.length && fragile < FRAGILE_MAX && (!gradDue.length || se.sinceNew >= 2)) return pickFresh();
+    if (gradDue.length) return gradDue[0].it;
+    if (fresh.length) return pickFresh();
+
+    // Révision : on ne repose que ce qui a été raté pendant la session, avant de s'arrêter.
+    if (se.revision) {
+      const again = entries.filter(e => se.missed.has(keyOf(e.it)) && e.m && e.m.lastKnown === false)
+        .sort((a, b) => (a.m.nextAt || 0) - (b.m.nextAt || 0));
+      if (again.length) return again[0].it;
+      return avoidN ? pickNext(se, 0) : null;
+    }
+
+    // Tout est vu et rien n'est échu : la carte la plus proche de son échéance.
+    const seen = entries.filter(e => e.m);
+    if (!seen.length) return se.pool.find(it => it.code !== se.recent[se.recent.length - 1]) || se.pool[0] || null;
+    const soon = e => isLearning(e.m) ? (e.m.nextAt - clock) * 1e3 : new Date(e.m.due).getTime() - now + 1e12;
+    return seen.sort((a, b) => soon(a) - soon(b))[0].it;
+  }
+
+  // À revoir dans la « Révision du jour » : pays acquis dont le jour est venu,
+  // ou pays en cours dont l'écart est écoulé / laissés de côté depuis quelques heures.
+  function dueForRevision(m, clock, now) {
+    if (!isLearning(m)) return new Date(m.due).getTime() <= now;
+    return m.nextAt == null || m.nextAt <= clock || now - new Date(m.lastSeen || 0).getTime() > STALE_MS;
+  }
+
+  function revisionItems() {
+    const clock = Store.dragonClock();
+    const now = Date.now();
+    const all = Store.dragonProgress();
+    const out = [];
+    for (const code in all) {
+      for (const track of ['f', 'c']) {
+        const m = all[code][track];
+        if (m && dueForRevision(m, clock, now)) out.push({ code, track });
+      }
+    }
+    return out;
+  }
+
+  // Ne lit que la progression enregistrée (pas besoin de charger la liste des pays).
+  function hasDue() { return revisionItems().length > 0; }
 
   // ---------- Navigation interne ----------
   function goDeeper(next) {
@@ -83,12 +250,8 @@ const Dragon = (() => {
     window.scrollTo(0, 0);
     if (state.level === 'groups') return renderGroups(root);
     if (state.level === 'modes') return renderModes(root);
-    if (state.level === 'decouvrir') return renderDecouvrir(root);
-    if (state.level === 'entrainer') return renderEntrainerSetup(root);
-    if (state.level === 'entrainer-run') return renderEntrainer(root);
-    if (state.level === 'maitriser') return renderMaitriserSetup(root);
-    if (state.level === 'maitriser-run') return renderMaitriser(root);
-    if (state.level === 'revision') return renderRevision(root);
+    if (state.level === 'setup') return renderSetup(root);
+    if (state.level === 'run' || state.level === 'revision') return renderRun(root);
   }
 
   // ---------- Groupes ----------
@@ -104,7 +267,7 @@ const Dragon = (() => {
     rev.type = 'button';
     rev.className = 'dt-group dt-group--wide dt-revision' + (hasDue() ? ' is-due' : ' is-idle');
     rev.innerHTML = revisionCardHTML();
-    rev.addEventListener('click', () => { if (hasDue()) goDeeper({ level: 'revision', groupId: 'monde', series: null }); });
+    rev.addEventListener('click', () => { if (hasDue()) goDeeper({ level: 'revision', groupId: 'monde', session: null }); });
     list.appendChild(rev);
     GROUPS.forEach(g => {
       const btn = document.createElement('button');
@@ -130,72 +293,155 @@ const Dragon = (() => {
     title.className = 'crumb-row';
     title.innerHTML = `<span class="crumb-title">${g.emoji} ${escapeHTML(g.label)}</span><span class="dt-mastery">${dotsHTML(groupMastery(g.id))}<span>${masteryWord(groupMastery(g.id))}</span></span>`;
     root.appendChild(title);
+    root.appendChild(cardList(MODES, m => goDeeper({ level: 'setup', groupId: state.groupId, mode: m.id })));
+  }
 
-    const modes = [
-      { id: 'decouvrir', emoji: '🃏', label: 'Découvrir', desc: 'Des cartes à retourner : le drapeau d’un côté, le pays et sa capitale de l’autre.' },
-      { id: 'entrainer', emoji: '🎯', label: 'S’entraîner', desc: 'QCM à 4 choix : drapeaux, pays et capitales dans tous les sens.' },
-      { id: 'maitriser', emoji: '✍️', label: 'Maîtriser', desc: 'Tape toi-même la réponse. Les accents et petites fautes sont tolérés.' },
-    ];
+  function cardList(entries, onPick) {
     const list = document.createElement('div');
     list.className = 'mode-list';
-    modes.forEach(m => {
+    entries.forEach(e => {
       const btn = document.createElement('button');
       btn.type = 'button';
-      btn.className = 'mode-card' + (m.soon ? ' is-soon' : '');
-      btn.disabled = !!m.soon;
+      btn.className = 'mode-card';
       btn.innerHTML = `
-        <span class="mode-card__icon">${m.emoji}</span>
+        <span class="mode-card__icon">${e.emoji}</span>
         <span class="mode-card__text">
-          <span class="mode-card__title">${m.label}${m.soon ? ' <span class="dt-soon">bientôt</span>' : ''}</span>
-          <span class="mode-card__desc">${m.desc}</span>
+          <span class="mode-card__title">${e.label}</span>
+          <span class="mode-card__desc">${e.desc}</span>
         </span>
-        ${m.soon ? '' : '<span class="mode-card__arrow">›</span>'}`;
-      if (!m.soon) btn.addEventListener('click', () => goDeeper({ level: m.id, groupId: state.groupId, pack: null }));
+        <span class="mode-card__arrow">›</span>`;
+      btn.addEventListener('click', () => onPick(e));
       list.appendChild(btn);
     });
-    root.appendChild(list);
+    return list;
   }
 
-  // ---------- Découvrir ----------
-  // Prochain paquet : jamais vus d'abord, puis ceux « à revoir », puis le reste.
-  function buildPack(groupId) {
-    const members = QuizGen.shuffle(membersOf(groupId));
-    const rank = p => {
-      const m = Store.getDragonMeta(p.code);
-      if (!m) return 0;
-      if (m.lastKnown === false) return 1;
-      return 2;
-    };
-    members.sort((a, b) => rank(a) - rank(b));
-    return members.slice(0, PACK_SIZE).map(p => p.code);
+  // ---------- Choix du type (drapeaux / capitales / mélangé) ----------
+  function renderSetup(root) {
+    const g = group(state.groupId);
+    const mode = MODES.find(m => m.id === state.mode);
+    const title = document.createElement('div');
+    title.className = 'crumb-row';
+    title.innerHTML = `<span class="crumb-title">${mode.emoji} ${mode.label} · ${escapeHTML(g.label)}</span>`;
+    root.appendChild(title);
+    root.appendChild(cardList(KINDS[state.mode], k => goDeeper({ level: 'run', groupId: state.groupId, mode: state.mode, kind: k.id, session: null })));
   }
 
-  function renderDecouvrir(root) {
-    if (!state.pack) {
-      state.pack = { queue: buildPack(state.groupId), done: 0, firstTry: 0, missed: new Set() };
+  // ---------- Session (flux sans fin) ----------
+  function newSession() {
+    const base = { recent: [], asked: new Set(), sinceNew: 0, count: 0, correct: 0, missed: new Map(), current: null, ended: false };
+    if (state.level === 'revision') {
+      const due = revisionItems().filter(it => byCode.has(it.code) && (it.track === 'f' || byCode.get(it.code).capitale));
+      return { ...base, revision: true, mode: 'adaptatif', allowNew: false, pool: due };
     }
-    const pack = state.pack;
-    const total = pack.done + pack.queue.length;
+    return { ...base, mode: state.mode, allowNew: true, pool: itemsOf(state.groupId, state.kind) };
+  }
 
-    if (!pack.queue.length) return renderPackEnd(root, pack);
+  const norm = s => QuizGen.normalize(s);
+  // La capitale ne fait que répéter le nom du pays (Luxembourg, Djibouti…) : « capitale → pays » serait trop facile.
+  const trivialCapital = p => !p.capitale || norm(p.capitale).includes(norm(p.nom)) || norm(p.nom).includes(norm(p.capitale));
 
-    const bar = document.createElement('div');
-    bar.className = 'daily-progress';
-    for (let i = 0; i < total; i++) {
-      const seg = document.createElement('span');
-      seg.className = 'daily-progress__seg' + (i < pack.done ? ' is-done' : i === pack.done ? ' is-current' : '');
-      bar.appendChild(seg);
+  // Forme de la question selon le suivi et le mode.
+  function questionType(it, mode) {
+    const p = byCode.get(it.code);
+    if (mode === 'adaptatif') mode = level(it) >= 2 ? 'maitriser' : 'entrainer';
+    const pick = arr => arr[Math.floor(Math.random() * arr.length)];
+    const capTypes = trivialCapital(p) ? ['pays2cap'] : ['pays2cap', 'cap2pays'];
+    if (mode === 'decouvrir') return { ui: 'card', type: it.track === 'f' ? 'flagcard' : 'capcard' };
+    if (mode === 'maitriser') return { ui: 'typed', type: it.track === 'f' ? 'flag2pays' : pick(capTypes) };
+    return { ui: 'qcm', type: it.track === 'f' ? pick(['flag2pays', 'pays2flag']) : pick(capTypes) };
+  }
+
+  function renderRun(root) {
+    if (!state.session) state.session = newSession();
+    const se = state.session;
+    if (se.ended) return renderEnd(root, se);
+
+    if (!se.current) {
+      const it = se.pool.length ? pickNext(se) : null;
+      if (!it) {
+        if (!se.count && !se.revision) {
+          root.innerHTML = '<div class="empty-state"><div class="empty-state__emoji">🤷</div><div>Pas de question possible pour ce groupe.</div></div>';
+          return;
+        }
+        se.ended = true;
+        se.allDone = true;
+        return renderEnd(root, se);
+      }
+      se.current = { it, ...questionType(it, se.mode), result: null };
+      se.recent.push(it.code);
+      se.asked.add(keyOf(it));
+      se.sinceNew += 1;
     }
-    root.appendChild(bar);
 
-    const p = pays.find(x => x.code === pack.queue[0]);
+    root.appendChild(runHead(se));
+    const cur = se.current;
+    if (cur.ui === 'card') renderFlipCard(root, se, cur);
+    else if (cur.ui === 'typed') renderTyped(root, se, cur);
+    else renderQcm(root, se, cur);
+  }
+
+  function runHead(se) {
+    const head = document.createElement('div');
+    head.className = 'dt-run-head';
+    const mastery = se.revision ? '' : dotsHTML(groupMastery(state.groupId));
+    head.innerHTML = `
+      <span class="dt-run-count">${mastery}<span>${se.count} carte${se.count > 1 ? 's' : ''} · ${se.correct} ✓</span></span>
+      <button type="button" class="btn btn-ghost dt-run-stop">Terminer</button>`;
+    head.querySelector('.dt-run-stop').addEventListener('click', () => {
+      if (!se.count) return App.back();
+      se.ended = true;
+      render();
+    });
+    return head;
+  }
+
+  // Enregistre la réponse de la carte en cours.
+  function record(se, cur, known, opts) {
+    cur.result = known;
+    answer(cur.it, known, opts);
+    se.count += 1;
+    if (known) se.correct += 1;
+    else se.missed.set(keyOf(cur.it), cur.it);
+  }
+
+  function nextCard(se) { se.current = null; render(); }
+
+  function nextButton(root, se) {
+    const next = document.createElement('button');
+    next.type = 'button';
+    next.className = 'btn btn-primary btn-next';
+    next.textContent = 'Suivante →';
+    next.addEventListener('click', () => nextCard(se));
+    root.appendChild(next);
+    return next;
+  }
+
+  function answerHTML(p, ok, title, detail = '') {
+    return `
+      ${flagImg(p, 'dt-flag dt-flag--tiny')}
+      <div class="dt-answer__text">
+        <strong>${title || (ok ? '✓ Bonne réponse' : '✕ Raté')}</strong>
+        <span>${escapeHTML(p.nom)}${p.capitale ? ' · ' + escapeHTML(p.capitale) : ''}</span>
+        ${detail}
+        ${p.note ? `<small>${escapeHTML(p.note)}</small>` : ''}
+      </div>`;
+  }
+
+  // ---------- Découvrir : carte à retourner ----------
+  function renderFlipCard(root, se, cur) {
+    const p = byCode.get(cur.it.code);
+    const front = cur.type === 'flagcard'
+      ? `${flagImg(p)}
+          <p class="dt-card__prompt">Quel est ce pays ?</p>`
+      : `${flagImg(p, 'dt-flag dt-flag--small')}
+          <p class="dt-card__prompt">Quelle est la capitale ${escapeHTML(p.de)} ?</p>`;
     const card = document.createElement('div');
     card.className = 'dt-card';
     card.innerHTML = `
       <div class="dt-card__inner">
         <div class="dt-card__face dt-card__front">
-          ${flagImg(p)}
-          <p class="dt-card__prompt">Quel est ce pays ?</p>
+          ${front}
           <p class="dt-card__hint">Touche la carte pour la retourner</p>
         </div>
         <div class="dt-card__face dt-card__back">
@@ -215,119 +461,16 @@ const Dragon = (() => {
     actions.hidden = true;
     root.appendChild(actions);
 
-    const flip = () => {
+    card.addEventListener('click', () => {
       card.classList.add('is-flipped');
       actions.hidden = false;
-    };
-    card.addEventListener('click', flip);
-
-    const answer = (known) => {
-      const code = pack.queue.shift();
-      Store.recordDragonSeen(code, known);
-      if (known) {
-        pack.done += 1;
-        if (!pack.missed.has(code)) pack.firstTry += 1;
-      } else {
-        pack.missed.add(code);
-        // Revient un peu plus loin dans le paquet.
-        pack.queue.splice(Math.min(3, pack.queue.length), 0, code);
-      }
-      render();
-    };
-    actions.querySelector('.dt-btn-know').addEventListener('click', () => answer(true));
-    actions.querySelector('.dt-btn-again').addEventListener('click', () => answer(false));
-
-    // Précharge le drapeau suivant.
-    if (pack.queue[1]) { const img = new Image(); img.src = FLAG_DIR + pack.queue[1] + '.svg'; }
-  }
-
-  function renderPackEnd(root, pack) {
-    const g = group(state.groupId);
-    const div = document.createElement('div');
-    div.className = 'daily-end';
-    const perfect = pack.firstTry === pack.done;
-    div.innerHTML = `
-      <div class="daily-end__emoji">${perfect ? '🏆' : '🐉'}</div>
-      <h2 class="daily-end__title">Paquet terminé !</h2>
-      <p class="daily-end__msg">${perfect ? 'Tout du premier coup, impressionnant !' : `${pack.firstTry} sur ${pack.done} du premier coup.`}</p>`;
-    const next = document.createElement('button');
-    next.type = 'button';
-    next.className = 'btn btn-primary daily-end__btn';
-    next.textContent = `🃏 Paquet suivant · ${g.label}`;
-    next.addEventListener('click', () => { state.pack = null; render(); });
-    const back = document.createElement('button');
-    back.type = 'button';
-    back.className = 'btn btn-ghost daily-end__btn';
-    back.textContent = 'Changer de mode';
-    back.addEventListener('click', () => App.back());
-    div.appendChild(next);
-    div.appendChild(back);
-    root.appendChild(div);
-  }
-
-  // ---------- S'entraîner (QCM) ----------
-  const SERIES_SIZE = 10;
-  const KINDS = [
-    { id: 'mix', emoji: '🎲', label: 'Tout mélangé', desc: 'Drapeaux et capitales, dans tous les sens.' },
-    { id: 'drapeaux', emoji: '🏳️', label: 'Drapeaux', desc: 'Reconnaître un drapeau, ou retrouver celui d’un pays.' },
-    { id: 'capitales', emoji: '🏛️', label: 'Capitales', desc: 'Capitale d’un pays, ou pays d’une capitale.' },
-  ];
-
-  function renderEntrainerSetup(root) {
-    const g = group(state.groupId);
-    const title = document.createElement('div');
-    title.className = 'crumb-row';
-    title.innerHTML = `<span class="crumb-title">🎯 S’entraîner · ${escapeHTML(g.label)}</span>`;
-    root.appendChild(title);
-    const list = document.createElement('div');
-    list.className = 'mode-list';
-    KINDS.forEach(k => {
-      const btn = document.createElement('button');
-      btn.type = 'button';
-      btn.className = 'mode-card';
-      btn.innerHTML = `
-        <span class="mode-card__icon">${k.emoji}</span>
-        <span class="mode-card__text">
-          <span class="mode-card__title">${k.label}</span>
-          <span class="mode-card__desc">${k.desc}</span>
-        </span>
-        <span class="mode-card__arrow">›</span>`;
-      btn.addEventListener('click', () => goDeeper({ level: 'entrainer-run', groupId: state.groupId, kind: k.id, series: null }));
-      list.appendChild(btn);
     });
-    root.appendChild(list);
+    const choose = known => { record(se, cur, known); nextCard(se); };
+    actions.querySelector('.dt-btn-know').addEventListener('click', () => choose(true));
+    actions.querySelector('.dt-btn-again').addEventListener('click', () => choose(false));
   }
 
-  const norm = s => QuizGen.normalize(s);
-  // La capitale ne fait que répéter le nom du pays (Luxembourg, Djibouti…) : « capitale → pays » serait trop facile.
-  const trivialCapital = p => !p.capitale || norm(p.capitale).includes(norm(p.nom)) || norm(p.nom).includes(norm(p.capitale));
-
-  function questionTypesFor(kind, p) {
-    const flags = ['flag2pays', 'pays2flag'];
-    const caps = [];
-    if (p.capitale) caps.push('pays2cap');
-    if (!trivialCapital(p)) caps.push('cap2pays');
-    if (kind === 'drapeaux') return flags;
-    if (kind === 'capitales') return caps;
-    return flags.concat(caps);
-  }
-
-  // Ratés d'abord, puis jamais vus, puis déjà sus.
-  function pickSeries(groupId, kind) {
-    const members = QuizGen.shuffle(membersOf(groupId)).filter(p => questionTypesFor(kind, p).length);
-    const prio = p => {
-      const m = Store.getDragonMeta(p.code);
-      if (m && m.lastKnown === false) return 1000 + Math.random() * 10;
-      return SRS.priority(m) + Math.random() * 10;
-    };
-    const weights = new Map(members.map(p => [p.code, prio(p)]));
-    members.sort((a, b) => weights.get(b.code) - weights.get(a.code));
-    return members.slice(0, SERIES_SIZE).map(p => {
-      const types = questionTypesFor(kind, p);
-      return { code: p.code, type: types[Math.floor(Math.random() * types.length)] };
-    });
-  }
-
+  // ---------- S'entraîner : QCM ----------
   // 3 mauvaises réponses, de préférence du même continent, sans doublon d'affichage.
   function distractors(p, type) {
     const sameTerr = !!p.territoire;
@@ -348,30 +491,10 @@ const Dragon = (() => {
     return out;
   }
 
-  function renderEntrainer(root) {
-    if (!state.series) {
-      state.series = { items: pickSeries(state.groupId, state.kind), index: 0, results: [] };
-    }
-    const se = state.series;
-    if (!se.items.length) {
-      root.innerHTML = '<div class="empty-state"><div class="empty-state__emoji">🤷</div><div>Pas de question possible pour ce groupe.</div></div>';
-      return;
-    }
-    if (se.index >= se.items.length) return renderSeriesEnd(root, se);
-
-    const bar = document.createElement('div');
-    bar.className = 'daily-progress';
-    se.items.forEach((_, i) => {
-      const seg = document.createElement('span');
-      const r = se.results[i];
-      seg.className = 'daily-progress__seg' + (r === true ? ' is-done' : r === false ? ' is-miss' : i === se.index ? ' is-current' : '');
-      bar.appendChild(seg);
-    });
-    root.appendChild(bar);
-
-    const { code, type } = se.items[se.index];
-    const p = pays.find(x => x.code === code);
-    const options = QuizGen.shuffle([p, ...distractors(p, type)]);
+  function renderQcm(root, se, cur) {
+    const p = byCode.get(cur.it.code);
+    const type = cur.type;
+    if (!cur.options) cur.options = QuizGen.shuffle([p, ...distractors(p, type)]).map(o => o.code);
 
     const card = document.createElement('div');
     card.className = 'quiz-card dt-q';
@@ -384,7 +507,8 @@ const Dragon = (() => {
 
     const list = document.createElement('div');
     list.className = type === 'pays2flag' ? 'dt-flag-grid' : 'opt-list';
-    options.forEach(o => {
+    cur.options.forEach(code => {
+      const o = byCode.get(code);
       const btn = document.createElement('button');
       btn.type = 'button';
       btn.className = type === 'pays2flag' ? 'dt-flag-opt' : 'opt-btn';
@@ -395,173 +519,31 @@ const Dragon = (() => {
     card.appendChild(list);
     root.appendChild(card);
 
-    let answered = false;
-    list.addEventListener('click', (e) => {
-      const btn = e.target.closest('button');
-      if (!btn || answered) return;
-      answered = true;
-      const correct = btn.dataset.code === p.code;
+    const showResult = (picked) => {
       [...list.children].forEach(b => {
         b.disabled = true;
         if (b.dataset.code === p.code) b.classList.add('is-correct');
-        else if (b === btn) b.classList.add('is-wrong');
+        else if (b.dataset.code === picked) b.classList.add('is-wrong');
         else b.classList.add('is-dim');
       });
-      se.results[se.index] = correct;
-      Store.recordDragonSeen(p.code, correct);
-
       const info = document.createElement('div');
-      info.className = 'dt-answer ' + (correct ? 'is-correct' : 'is-wrong');
-      info.innerHTML = `
-        ${flagImg(p, 'dt-flag dt-flag--tiny')}
-        <div class="dt-answer__text">
-          <strong>${correct ? '✓ Bonne réponse' : '✕ Raté'}</strong>
-          <span>${escapeHTML(p.nom)}${p.capitale ? ' · ' + escapeHTML(p.capitale) : ''}</span>
-          ${p.note ? `<small>${escapeHTML(p.note)}</small>` : ''}
-        </div>`;
+      info.className = 'dt-answer ' + (cur.result ? 'is-correct' : 'is-wrong');
+      info.innerHTML = answerHTML(p, cur.result);
       card.appendChild(info);
-
-      const next = document.createElement('button');
-      next.type = 'button';
-      next.className = 'btn btn-primary btn-next';
-      next.textContent = se.index === se.items.length - 1 ? 'Voir mon score →' : 'Suivante →';
-      next.addEventListener('click', () => { se.index += 1; render(); });
-      root.appendChild(next);
-    });
-
-    const nextItem = se.items[se.index + 1];
-    if (nextItem) { const img = new Image(); img.src = FLAG_DIR + nextItem.code + '.svg'; }
-  }
-
-  function renderSeriesEnd(root, se) {
-    const score = se.results.filter(Boolean).length;
-    const total = se.items.length;
-    const div = document.createElement('div');
-    div.className = 'daily-end';
-    const msg = score === total ? 'Sans faute, bravo !' : score >= total - 2 ? 'Très joli !' : score >= total / 2 ? 'Bien joué, continue !' : 'Chaque série te fait progresser.';
-    div.innerHTML = `
-      <div class="daily-end__emoji">${score === total ? '🏆' : '🎯'}</div>
-      <h2 class="daily-end__title">${score} / ${total}</h2>
-      <p class="daily-end__msg">${msg}</p>`;
-    const missed = se.items.filter((_, i) => se.results[i] === false).map(it => pays.find(x => x.code === it.code));
-    if (missed.length) {
-      const box = document.createElement('div');
-      box.className = 'dt-missed';
-      box.innerHTML = '<h3>À retenir</h3>' + missed.map(p => `
-        <div class="dt-missed__row">${flagImg(p, 'dt-flag dt-flag--tiny')}<span><strong>${escapeHTML(p.nom)}</strong>${p.capitale ? ' · ' + escapeHTML(p.capitale) : ''}</span></div>`).join('');
-      div.appendChild(box);
-    }
-    const again = document.createElement('button');
-    again.type = 'button';
-    again.className = 'btn btn-primary daily-end__btn';
-    again.textContent = se.revision ? '🔁 Continuer la révision' : '🎯 Nouvelle série';
-    if (se.revision && !hasDue()) again.hidden = true;
-    again.addEventListener('click', () => { state.series = null; render(); });
-    const back = document.createElement('button');
-    back.type = 'button';
-    back.className = 'btn btn-ghost daily-end__btn';
-    back.textContent = se.revision ? 'Retour à Dragon Tour' : 'Changer de type';
-    back.addEventListener('click', () => App.back());
-    div.appendChild(again);
-    div.appendChild(back);
-    root.appendChild(div);
-  }
-
-  // ---------- Maîtrise (0 à 3 par pays, points par groupe) ----------
-  // 0 : jamais su · 1 et 2 : bonnes réponses d'affilée · 3 : trois d'affilée ET déjà tapé juste en « Maîtriser ».
-  function level(code) {
-    const m = Store.getDragonMeta(code);
-    if (!m || !m.reps) return 0;
-    if (m.reps >= 3 && m.typedOk) return 3;
-    return Math.min(m.reps, 2);
-  }
-
-  function groupMastery(groupId) {
-    const members = membersOf(groupId);
-    if (!members.length) return 0;
-    const sum = members.reduce((s, p) => s + level(p.code), 0);
-    return sum / (members.length * 3);
-  }
-
-  function dotsHTML(frac) {
-    // Le premier point s'allume dès qu'on a commencé le groupe.
-    const on = frac > 0 ? Math.max(1, Math.round(frac * 4)) : 0;
-    let h = '<span class="dt-dots" aria-label="Maîtrise">';
-    for (let i = 0; i < 4; i++) h += `<span class="dt-dot${i < on ? ' is-on' : ''}"></span>`;
-    return h + '</span>';
-  }
-
-  function masteryWord(frac) {
-    if (frac >= 0.999) return 'Maîtrisé';
-    if (frac >= 0.625) return 'Avancé';
-    if (frac >= 0.375) return 'En progrès';
-    if (frac > 0) return 'Débutant';
-    return 'À découvrir';
-  }
-
-  // ---------- Maîtriser (réponse tapée) ----------
-  const KINDS_TYPED = [
-    { id: 'mix', emoji: '🎲', label: 'Tout mélangé', desc: 'Pays à partir du drapeau, capitales dans les deux sens.' },
-    { id: 'drapeaux', emoji: '🏳️', label: 'Drapeaux', desc: 'Écris le nom du pays à partir de son drapeau.' },
-    { id: 'capitales', emoji: '🏛️', label: 'Capitales', desc: 'Écris la capitale d’un pays, ou le pays d’une capitale.' },
-  ];
-
-  function renderMaitriserSetup(root) {
-    const g = group(state.groupId);
-    const title = document.createElement('div');
-    title.className = 'crumb-row';
-    title.innerHTML = `<span class="crumb-title">✍️ Maîtriser · ${escapeHTML(g.label)}</span>`;
-    root.appendChild(title);
-    const list = document.createElement('div');
-    list.className = 'mode-list';
-    KINDS_TYPED.forEach(k => {
-      const btn = document.createElement('button');
-      btn.type = 'button';
-      btn.className = 'mode-card';
-      btn.innerHTML = `
-        <span class="mode-card__icon">${k.emoji}</span>
-        <span class="mode-card__text">
-          <span class="mode-card__title">${k.label}</span>
-          <span class="mode-card__desc">${k.desc}</span>
-        </span>
-        <span class="mode-card__arrow">›</span>`;
-      btn.addEventListener('click', () => goDeeper({ level: 'maitriser-run', groupId: state.groupId, kind: k.id, series: null }));
-      list.appendChild(btn);
-    });
-    root.appendChild(list);
-  }
-
-  function typedTypesFor(kind, p) {
-    const flags = ['flag2pays'];
-    const caps = [];
-    if (p.capitale) caps.push('pays2cap');
-    if (!trivialCapital(p)) caps.push('cap2pays');
-    if (kind === 'drapeaux') return flags;
-    if (kind === 'capitales') return caps;
-    return flags.concat(caps);
-  }
-
-  // Ratés d'abord, puis les pays déjà vus qu'il est temps de revoir, puis les autres.
-  function pickTyped(groupId, kind) {
-    const now = Date.now();
-    const prio = p => {
-      const m = Store.getDragonMeta(p.code);
-      if (!m) return 50 + Math.random() * 10;
-      if (m.lastKnown === false) return 1000 + Math.random() * 10;
-      const due = m.due ? new Date(m.due).getTime() : 0;
-      if (due <= now) return 500 + (now - due) / 86400000 + Math.random() * 10;
-      return 10 + Math.random() * 10;
+      nextButton(root, se);
     };
-    const members = membersOf(groupId).filter(p => typedTypesFor(kind, p).length)
-      .map(p => ({ p, w: prio(p) }))
-      .sort((a, b) => b.w - a.w)
-      .map(x => x.p);
-    return members.slice(0, SERIES_SIZE).map(p => {
-      const types = typedTypesFor(kind, p);
-      return { code: p.code, type: types[Math.floor(Math.random() * types.length)] };
+
+    if (cur.result != null) return showResult(cur.picked);
+    list.addEventListener('click', (e) => {
+      const btn = e.target.closest('button');
+      if (!btn || cur.result != null) return;
+      cur.picked = btn.dataset.code;
+      record(se, cur, cur.picked === p.code);
+      showResult(cur.picked);
     });
   }
 
+  // ---------- Maîtriser : réponse tapée ----------
   // Comparaison tolérante : sans accents, majuscules ni articles ; quelques fautes selon la longueur.
   function canon(s) {
     return norm(s).replace(/\b(le|la|les|l|the)\b/g, ' ').replace(/\s+/g, ' ').trim();
@@ -579,29 +561,9 @@ const Dragon = (() => {
     return { ok: false, exact: false };
   }
 
-  function renderMaitriser(root) {
-    if (!state.series) {
-      state.series = { items: pickTyped(state.groupId, state.kind), index: 0, results: [] };
-    }
-    const se = state.series;
-    if (!se.items.length) {
-      root.innerHTML = '<div class="empty-state"><div class="empty-state__emoji">🤷</div><div>Pas de question possible pour ce groupe.</div></div>';
-      return;
-    }
-    if (se.index >= se.items.length) return renderSeriesEnd(root, se);
-
-    const bar = document.createElement('div');
-    bar.className = 'daily-progress';
-    se.items.forEach((_, i) => {
-      const seg = document.createElement('span');
-      const r = se.results[i];
-      seg.className = 'daily-progress__seg' + (r === true ? ' is-done' : r === false ? ' is-miss' : i === se.index ? ' is-current' : '');
-      bar.appendChild(seg);
-    });
-    root.appendChild(bar);
-
-    const { code, type } = se.items[se.index];
-    const p = pays.find(x => x.code === code);
+  function renderTyped(root, se, cur) {
+    const p = byCode.get(cur.it.code);
+    const type = cur.type;
     const wantCapital = type === 'pays2cap';
     const answers = wantCapital
       ? [p.capitale, ...(p.autresCapitales || [])]
@@ -625,96 +587,127 @@ const Dragon = (() => {
     const form = card.querySelector('.dt-type');
     const input = card.querySelector('.dt-type__input');
     const skip = card.querySelector('.dt-type__skip');
-    let answered = false;
 
-    const finish = (guess) => {
-      if (answered) return;
-      answered = true;
-      const res = guess == null ? { ok: false, exact: false } : matchTyped(guess, answers);
+    const showResult = () => {
+      const res = cur.res;
+      input.value = cur.guess || '';
       input.disabled = true;
       card.querySelector('.dt-type__ok').disabled = true;
       skip.hidden = true;
       input.classList.add(res.ok ? 'is-correct' : 'is-wrong');
-      se.results[se.index] = res.ok;
-      Store.recordDragonSeen(p.code, res.ok, { typed: true });
-
-      const expected = answers[0];
       let detail = '';
       if (res.ok && !res.exact) detail = `<small>Orthographe exacte : <strong>${escapeHTML(res.answer)}</strong></small>`;
-      if (!res.ok) detail = `<small>La bonne réponse : <strong>${escapeHTML(expected)}</strong>${answers.length > 1 ? ` (ou ${answers.slice(1).map(escapeHTML).join(', ')})` : ''}</small>`;
+      if (!res.ok) detail = `<small>La bonne réponse : <strong>${escapeHTML(answers[0])}</strong>${answers.length > 1 ? ` (ou ${answers.slice(1).map(escapeHTML).join(', ')})` : ''}</small>`;
       const info = document.createElement('div');
       info.className = 'dt-answer ' + (res.ok ? 'is-correct' : 'is-wrong');
-      info.innerHTML = `
-        ${flagImg(p, 'dt-flag dt-flag--tiny')}
-        <div class="dt-answer__text">
-          <strong>${res.ok ? '✓ Bonne réponse' : guess == null ? '✕ Pas grave, retiens-le' : '✕ Raté'}</strong>
-          <span>${escapeHTML(p.nom)}${p.capitale ? ' · ' + escapeHTML(p.capitale) : ''}</span>
-          ${detail}
-          ${p.note ? `<small>${escapeHTML(p.note)}</small>` : ''}
-        </div>`;
+      info.innerHTML = answerHTML(p, res.ok, res.ok ? '' : cur.guess == null ? '✕ Pas grave, retiens-le' : '', detail);
       card.appendChild(info);
-
-      const next = document.createElement('button');
-      next.type = 'button';
-      next.className = 'btn btn-primary btn-next';
-      next.textContent = se.index === se.items.length - 1 ? 'Voir mon score →' : 'Suivante →';
-      next.addEventListener('click', () => { se.index += 1; render(); });
-      root.appendChild(next);
-      next.focus();
+      nextButton(root, se).focus();
     };
 
+    if (cur.result != null) return showResult();
+
+    const finish = (guess) => {
+      if (cur.result != null) return;
+      cur.guess = guess;
+      cur.res = guess == null ? { ok: false, exact: false } : matchTyped(guess, answers);
+      record(se, cur, cur.res.ok, { typed: true });
+      showResult();
+    };
     form.addEventListener('submit', (e) => {
       e.preventDefault();
       if (!input.value.trim()) { input.focus(); return; }
       finish(input.value);
     });
     skip.addEventListener('click', () => finish(null));
-
     input.focus();
-    const nextItem = se.items[se.index + 1];
-    if (nextItem) { const img = new Image(); img.src = FLAG_DIR + nextItem.code + '.svg'; }
+  }
+
+  // ---------- Bilan ----------
+  function renderEnd(root, se) {
+    const div = document.createElement('div');
+    div.className = 'daily-end';
+    const { count, correct } = se;
+    if (se.revision && se.allDone && !count) {
+      div.innerHTML = `
+        <div class="daily-end__emoji">✅</div>
+        <h2 class="daily-end__title">Tout est à jour !</h2>
+        <p class="daily-end__msg">Aucun pays à revoir pour l’instant. Reviens demain, ou découvre de nouveaux pays.</p>`;
+    } else {
+      const msg = se.revision && se.allDone ? 'Révision terminée, tout est à jour !'
+        : correct === count ? 'Sans faute, bravo !'
+          : correct >= count * 0.8 ? 'Très joli !'
+            : correct >= count / 2 ? 'Bien joué, continue !' : 'Chaque carte te fait progresser.';
+      div.innerHTML = `
+        <div class="daily-end__emoji">${correct === count ? '🏆' : '🐉'}</div>
+        <h2 class="daily-end__title">${correct} / ${count}</h2>
+        <p class="daily-end__msg">${msg}</p>`;
+    }
+    if (se.missed.size) {
+      const box = document.createElement('div');
+      box.className = 'dt-missed';
+      box.innerHTML = '<h3>À retenir</h3>' + [...se.missed.values()].map(it => {
+        const p = byCode.get(it.code);
+        const what = it.track === 'f' ? 'drapeau' : 'capitale';
+        return `<div class="dt-missed__row">${flagImg(p, 'dt-flag dt-flag--tiny')}<span><strong>${escapeHTML(p.nom)}</strong>${p.capitale ? ' · ' + escapeHTML(p.capitale) : ''} <small class="dt-missed__what">${what}</small></span></div>`;
+      }).join('');
+      div.appendChild(box);
+    }
+    if (!se.allDone) {
+      const again = document.createElement('button');
+      again.type = 'button';
+      again.className = 'btn btn-primary daily-end__btn';
+      again.textContent = '▶️ Continuer';
+      again.addEventListener('click', () => { se.ended = false; render(); });
+      div.appendChild(again);
+    }
+    const back = document.createElement('button');
+    back.type = 'button';
+    back.className = 'btn ' + (se.allDone ? 'btn-primary' : 'btn-ghost') + ' daily-end__btn';
+    back.textContent = se.revision ? 'Retour à Dragon Tour' : 'Changer de type';
+    back.addEventListener('click', () => App.back());
+    div.appendChild(back);
+    root.appendChild(div);
+  }
+
+  // ---------- Maîtrise (0 à 3 par carte, points par groupe) ----------
+  // 0 : jamais su · 1 et 2 : bonnes réponses d'affilée · 3 : acquis ET déjà tapé juste en « Maîtriser ».
+  function level(it) {
+    const m = metaOf(it);
+    if (!m || !m.reps) return 0;
+    if (m.reps >= GRAD && m.typedOk) return 3;
+    return Math.min(m.reps, 2);
+  }
+
+  function groupMastery(groupId) {
+    const items = itemsOf(groupId);
+    if (!items.length) return 0;
+    const sum = items.reduce((s, it) => s + level(it), 0);
+    return sum / (items.length * 3);
+  }
+
+  function dotsHTML(frac) {
+    // Le premier point s'allume dès qu'on a commencé le groupe.
+    const on = frac > 0 ? Math.max(1, Math.round(frac * 4)) : 0;
+    let h = '<span class="dt-dots" aria-label="Maîtrise">';
+    for (let i = 0; i < 4; i++) h += `<span class="dt-dot${i < on ? ' is-on' : ''}"></span>`;
+    return h + '</span>';
+  }
+
+  function masteryWord(frac) {
+    if (frac >= 0.999) return 'Maîtrisé';
+    if (frac >= 0.625) return 'Avancé';
+    if (frac >= 0.375) return 'En progrès';
+    if (frac > 0) return 'Débutant';
+    return 'À découvrir';
   }
 
   // ---------- Révision du jour ----------
-  const REVISION_MAX = 15;
-
-  // Pays déjà vus qu'il est temps de revoir : ratés, ou échéance de répétition espacée dépassée.
-  // Ne lit que la progression enregistrée (pas besoin de charger la liste des pays).
-  function dueCodes() {
-    const now = Date.now();
-    const all = Store.dragonProgress();
-    const out = [];
-    for (const code in all) {
-      const m = all[code];
-      const due = m.due ? new Date(m.due).getTime() : 0;
-      if (m.lastKnown === false) out.push({ code, w: 1e12 + (now - due) });
-      else if (due <= now) out.push({ code, w: now - due });
-    }
-    return out.sort((a, b) => b.w - a.w).map(x => x.code);
-  }
-
-  function hasDue() { return dueCodes().length > 0; }
-
-  // Série adaptée au niveau : QCM si le pays est encore fragile, réponse tapée s'il est bien connu.
-  function buildRevision() {
-    const items = [];
-    for (const code of dueCodes()) {
-      const p = pays.find(x => x.code === code);
-      if (!p) continue;
-      const typed = level(code) >= 2;
-      const types = typed ? typedTypesFor('mix', p) : questionTypesFor('mix', p);
-      if (!types.length) continue;
-      items.push({ code, type: types[Math.floor(Math.random() * types.length)], mode: typed ? 'typed' : 'qcm' });
-      if (items.length >= REVISION_MAX) break;
-    }
-    return items;
-  }
-
   function revisionCardHTML() {
     const seenAny = Object.keys(Store.dragonProgress()).length > 0;
     const due = hasDue();
     const desc = due ? 'À revoir aujourd’hui · tous continents mélangés'
-      : seenAny ? '✓ Tout est à jour, reviens demain'
+      : seenAny ? '✓ Tout est à jour, reviens plus tard'
         : 'Découvre d’abord quelques pays dans un continent';
     return `
       <span class="dt-group__emoji">🔁</span>
@@ -723,31 +716,6 @@ const Dragon = (() => {
         <span class="dt-group__desc">${desc}</span>
       </span>
       ${due ? '<span class="dt-revision__arrow">›</span>' : ''}`;
-  }
-
-  function renderRevision(root) {
-    if (!state.series) {
-      state.series = { items: buildRevision(), index: 0, results: [], revision: true };
-    }
-    const se = state.series;
-    if (!se.items.length) {
-      const div = document.createElement('div');
-      div.className = 'daily-end';
-      div.innerHTML = `
-        <div class="daily-end__emoji">✅</div>
-        <h2 class="daily-end__title">Tout est à jour !</h2>
-        <p class="daily-end__msg">Aucun pays à revoir pour l’instant. Reviens demain, ou découvre de nouveaux pays.</p>`;
-      const back = document.createElement('button');
-      back.type = 'button';
-      back.className = 'btn btn-primary daily-end__btn';
-      back.textContent = 'Retour à Dragon Tour';
-      back.addEventListener('click', () => App.back());
-      div.appendChild(back);
-      root.appendChild(div);
-      return;
-    }
-    if (se.index >= se.items.length) return renderSeriesEnd(root, se);
-    return se.items[se.index].mode === 'typed' ? renderMaitriser(root) : renderEntrainer(root);
   }
 
   return { init, hasDue };

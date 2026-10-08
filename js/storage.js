@@ -12,7 +12,8 @@ const Store = (() => {
       fiches: {},   // ficheId -> { views, lastViewed }
       quiz: {},     // questionId -> { ef, interval, reps, due, lastResult, history: [{date, correct}] }
       settings: { accent: 'blue' },
-      dragon: {},    // code pays -> { seen, lastKnown, lastSeen }
+      dragon: {},    // code pays -> { f: suivi drapeau, c: suivi capitale } (cf. dragon.js)
+      dragonClock: 0, // nombre total de cartes Dragon Tour répondues (horloge de la répétition espacée)
       favorites: {}, // ficheId -> date d'ajout (ISO)
       daily: null,  // session du jour en cours : { date, ficheIds, quizIds, step, results, done }
       streak: { count: 0, lastDate: null }, // jours consécutifs avec une bouchée terminée
@@ -33,6 +34,7 @@ const Store = (() => {
       if (!data.streak) data.streak = { count: 0, lastDate: null };
       if (!data.favorites) data.favorites = {};
       if (!data.dragon) data.dragon = {};
+      migrateDragon();
       if (!('quizJour' in data)) data.quizJour = null;
     } catch (e) {
       console.warn('Progression illisible, réinitialisation locale.', e);
@@ -127,24 +129,44 @@ const Store = (() => {
     if (!data.streak) data.streak = { count: 0, lastDate: null };
     if (!data.favorites) data.favorites = {};
     if (!data.dragon) data.dragon = {};
+    migrateDragon();
     save();
   }
 
   // ---------- Dragon Tour ----------
+  // Ancien format (un seul suivi par pays, SM-2 en jours) → deux suivis : drapeau (f) et capitale (c).
+  // L'ancien suivi est recopié sur les deux pour ne rien perdre. Les pays pas encore
+  // acquis (moins de 3 réussites d'affilée) reviennent vite, étalés sur les premières cartes.
+  const NO_CAPITAL = ['hk', 'mo'];
+  function migrateDragon() {
+    if (typeof data.dragonClock !== 'number') data.dragonClock = 0;
+    for (const code in data.dragon) {
+      const old = data.dragon[code];
+      if (!old || old.f || old.c) continue;
+      const track = () => {
+        const t = {
+          reps: old.reps || 0, ef: old.ef || 2.5, interval: old.interval || 0,
+          seen: old.seen || 0, lastKnown: old.lastKnown, lastSeen: old.lastSeen,
+          lastAt: -1000, typedOk: !!old.typedOk,
+        };
+        if (t.reps >= 3) t.due = old.due || new Date().toISOString();
+        else { t.nextAt = Math.floor(Math.random() * 15); t.interval = 0; }
+        return t;
+      };
+      data.dragon[code] = NO_CAPITAL.includes(code) ? { f: track() } : { f: track(), c: track() };
+    }
+  }
+
   function dragonProgress() { load(); return data.dragon; }
-  function getDragonMeta(code) { load(); return data.dragon[code] || null; }
-  // Met à jour la répétition espacée du pays (SM-2 simplifié, cf. srs.js).
-  // opts.typed : réponse tapée en mode « Maîtriser » (nécessaire pour le niveau 3).
-  function recordDragonSeen(code, known, opts = {}) {
+  function dragonClock() { load(); return data.dragonClock; }
+  // track : 'f' (drapeau) ou 'c' (capitale).
+  function getDragonTrack(code, track) { load(); return (data.dragon[code] && data.dragon[code][track]) || null; }
+  // Enregistre le suivi recalculé par Dragon et fait avancer l'horloge d'une carte.
+  function saveDragonTrack(code, track, meta) {
     load();
-    const cur = data.dragon[code] || { seen: 0 };
-    const srs = SRS.update(cur.reps != null ? cur : null, known);
-    Object.assign(cur, srs);
-    cur.seen = (cur.seen || 0) + 1;
-    cur.lastKnown = known;
-    cur.lastSeen = new Date().toISOString();
-    if (opts.typed && known) cur.typedOk = true;
-    data.dragon[code] = cur;
+    if (!data.dragon[code]) data.dragon[code] = {};
+    data.dragon[code][track] = meta;
+    data.dragonClock += 1;
     save();
   }
 
@@ -189,7 +211,7 @@ const Store = (() => {
     domainStats, globalCounts,
     exportJSON, importJSON,
     setAccent, getAccent,
-    getDragonMeta, recordDragonSeen, dragonProgress,
+    dragonProgress, dragonClock, getDragonTrack, saveDragonTrack,
     isFavorite, toggleFavorite, favoriteIds,
     getDaily, setDaily, getStreakRaw, setStreakRaw,
     getQuizJour, setQuizJour,

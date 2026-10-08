@@ -894,6 +894,13 @@ body::before {
 .dt-dot.is-on { background: #34d399; border-color: #34d399; box-shadow: 0 0 6px rgba(52, 211, 153, 0.6); }
 .dt-mastery { display: inline-flex; align-items: center; gap: 8px; margin-left: auto; font-size: 12.5px; font-weight: 700; color: var(--text-muted); }
 .dt-mastery .dt-dots { margin-top: 0; }
+
+/* Dragon Tour — session sans fin */
+.dt-run-head { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin: 0 0 12px; }
+.dt-run-count { display: inline-flex; align-items: center; gap: 10px; font-size: 13.5px; font-weight: 700; color: var(--text-muted); }
+.dt-run-count .dt-dots { margin-top: 0; }
+.dt-run-stop { min-height: 36px; padding: 6px 14px; font-size: 14px; }
+.dt-missed__what { font-size: 11.5px; font-weight: 700; text-transform: uppercase; letter-spacing: .03em; color: var(--text-faint); margin-left: 4px; }
 .crumb-row { justify-content: space-between; }
 
 .dt-type { display: flex; gap: 8px; }

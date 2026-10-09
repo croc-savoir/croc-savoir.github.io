@@ -514,7 +514,7 @@
     "id": "q-litterature-034",
     "domain": "litterature",
     "format": "qcm",
-    "question": "Quel métier Franz Kafka exerce-t-il pendant la plus grande partie de sa vie ?",
+    "question": "Quel métier Franz Kafka exerce-t-il pendant l'essentiel de sa vie professionnelle ?",
     "choix": [
       "Employé dans une compagnie d'assurance contre les accidents du travail",
       "Professeur de littérature allemande",
@@ -671,7 +671,7 @@
       "Corneille écrit en prose, Racine en alexandrins"
     ],
     "bonneReponse": 0,
-    "explication": "Chez Corneille, des âmes fortes choisissent entre amour et honneur (Le Cid). Chez Racine, la passion, surtout amoureuse, domine et ruine rois et princesses (Phèdre). Tous deux écrivent en alexandrins et respectent les unités.",
+    "explication": "Chez Corneille, des âmes fortes choisissent entre amour et honneur (Le Cid). Chez Racine, la passion, surtout amoureuse, domine et ruine rois et princesses (Phèdre). Tous deux écrivent leurs tragédies en alexandrins, dans le cadre des règles classiques.",
     "source": "D'après Wikipédia — Jean Racine"
   },
   {
@@ -764,7 +764,7 @@
     "format": "vrai-faux",
     "affirmation": "En 1911, Guillaume Apollinaire a été arrêté, soupçonné d'avoir aidé au vol de La Joconde.",
     "reponse": true,
-    "explication": "Un ancien secrétaire d'Apollinaire avait volé des statuettes au Louvre : le poète passe huit jours en prison, à la Santé. Picasso est lui aussi interrogé. Le vrai voleur du tableau, Peruggia, agissait seul.",
+    "explication": "Un ancien secrétaire d'Apollinaire avait volé des statuettes au Louvre : le poète est arrêté le 7 septembre 1911 et passe environ une semaine à la prison de la Santé. Picasso est lui aussi interrogé. Le vrai voleur du tableau était Vincenzo Peruggia, démasqué deux ans plus tard.",
     "source": "D'après Wikipédia — Guillaume Apollinaire"
   },
   {
@@ -775,11 +775,11 @@
     "choix": [
       "Parade",
       "Le Sacre du printemps",
-      "Les Mamelles de Tirésias",
+      "Le Bœuf sur le toit",
       "L'Enfant et les Sortilèges"
     ],
     "bonneReponse": 0,
-    "explication": "Apollinaire écrit le programme de Parade, ballet de Jean Cocteau et Erik Satie créé en mai 1917, et y parle d'« une sorte de surréalisme ». Le mot précède de plusieurs années le mouvement lancé par André Breton.",
+    "explication": "Apollinaire écrit le programme de Parade, ballet de Jean Cocteau, Erik Satie et Picasso créé en mai 1917, et y parle d'« une sorte de surréalisme ». Il reprend le mot un mois plus tard pour sa pièce Les Mamelles de Tirésias, bien avant le mouvement d'André Breton.",
     "source": "D'après Wikipédia — Guillaume Apollinaire"
   },
   {
@@ -788,13 +788,13 @@
     "format": "qui-suis-je",
     "indices": [
       "Mon père est emprisonné pour dettes à la prison de Marshalsea.",
-      "À douze ans, je travaille dans une manufacture de cirage.",
+      "À douze ans, je colle des étiquettes sur des pots de cirage.",
       "Mes romans paraissent en feuilleton, avec des suspenses à chaque épisode.",
       "J'ai écrit Oliver Twist et David Copperfield.",
-      "Mon Un chant de Noël est célèbre dans le monde entier."
+      "J'ai inventé l'avare Scrooge dans Un chant de Noël."
     ],
     "reponse": "Charles Dickens",
-    "explication": "Charles Dickens, né en 1812, a connu enfant la misère et le travail en usine. Cette épreuve nourrit David Copperfield et La Petite Dorrit. Il a pratiquement inventé le roman-feuilleton à succès.",
+    "explication": "Charles Dickens, né en 1812, a connu enfant la misère et le travail dans un entrepôt de cirage. Cette épreuve nourrit David Copperfield et La Petite Dorrit. Ses romans en épisodes ont fait du feuilleton le grand mode de publication de l'époque victorienne.",
     "source": "D'après Wikipédia — Charles Dickens"
   },
   {
@@ -850,7 +850,7 @@
         "annee": "1870"
       },
       {
-        "label": "Le tour du monde de Phileas Fogg",
+        "label": "Le Tour du monde en quatre-vingts jours",
         "annee": "1872"
       }
     ],
@@ -878,7 +878,7 @@
       "Le vainqueur d'Alger"
     ],
     "bonneReponse": 0,
-    "explication": "Blessé le 7 octobre 1571, Cervantes perd l'usage de sa main gauche. Il en tire une grande fierté : ce fait d'armes est pour lui la plus belle occasion qu'aient vue les siècles.",
+    "explication": "Blessé le 7 octobre 1571, Cervantes perd l'usage de sa main gauche, d'où son surnom de « manchot de Lépante » (el manco de Lepanto). Il en tire une grande fierté. Le « chevalier à la triste figure », lui, est Don Quichotte.",
     "source": "D'après Wikipédia — Miguel de Cervantes"
   },
   {
@@ -904,11 +904,11 @@
     "choix": [
       "Les Inklings",
       "Le Bloomsbury Group",
-      "Le Tea Club Barrovian Society",
+      "Le Tea Club and Barrovian Society",
       "La Pléiade"
     ],
     "bonneReponse": 0,
-    "explication": "Les Inklings étaient un cercle informel d'amis écrivains à Oxford. Lewis y encourage Tolkien à poursuivre l'écriture de la Terre du Milieu. Le TCBS, lui, était sa société d'amis du collège.",
+    "explication": "Les Inklings étaient un cercle informel d'amis écrivains à Oxford. Lewis y encourage Tolkien à poursuivre l'écriture de la Terre du Milieu. Le TCBS, lui, était la société secrète fondée par Tolkien avec ses camarades de lycée, à Birmingham.",
     "source": "D'après Wikipédia — J. R. R. Tolkien"
   },
   {
@@ -932,7 +932,7 @@
       "Au Caire, dans un hôtel qu'elle avait connu enfant"
     ],
     "bonneReponse": 0,
-    "explication": "Sa voiture est retrouvée abandonnée, des milliers de volontaires la cherchent. On la découvre dans un hôtel d'Harrogate, inscrite sous le nom de la maîtresse de son mari. Elle n'a jamais expliqué cet épisode.",
+    "explication": "Sa voiture est retrouvée abandonnée, des milliers de volontaires la cherchent. On la découvre dans un hôtel d'Harrogate, inscrite sous le nom de « Mrs Teresa Neele », Neele étant le nom de la maîtresse de son mari. Elle n'a jamais expliqué cet épisode.",
     "source": "D'après Wikipédia — Agatha Christie"
   },
   {
@@ -1115,7 +1115,7 @@
     "format": "qui-suis-je",
     "indices": [
       "Je suis une caricature d'un grand philosophe allemand, Leibniz.",
-      "Mon titre est « professeur de métaphysico-théologo-cosmolo-nigologie ».",
+      "J'enseigne la « métaphysico-théologo-cosmolonigologie ».",
       "J'ai été le précepteur de Candide et de Cunégonde.",
       "Je soutiens que ce monde est le meilleur possible et que tout y est bien."
     ],
@@ -1241,7 +1241,7 @@
     "id": "q-litterature-081",
     "domain": "litterature",
     "format": "associer",
-    "question": "Associe chaque personnage au roman dont il est le héros.",
+    "question": "Associe chaque personnage au roman dont il est la figure centrale.",
     "paires": [
       {
         "gauche": "Rastignac",
@@ -1269,7 +1269,7 @@
         "explication": "Ancien étudiant misérable de Saint-Pétersbourg, tourmenté par sa théorie sur les hommes extraordinaires."
       }
     ],
-    "explication": "Cinq héros du roman du XIXe siècle : Rastignac, Julien Sorel et Esmeralda en France, Étienne Lantier dans le Nord minier, Raskolnikov à Saint-Pétersbourg. Chacun porte un roman entier et incarne son époque.",
+    "explication": "Cinq grandes figures de romans du XIXe siècle, quatre français et un russe : Rastignac chez Balzac, Julien Sorel chez Stendhal, Étienne Lantier chez Zola, Esmeralda chez Hugo et Raskolnikov chez Dostoïevski. Chacun porte son livre et incarne une époque, du Paris de Louis XI à la Russie des années 1860.",
     "source": "D'après Wikipédia — Le Père Goriot"
   },
   {
@@ -1380,7 +1380,7 @@
       {
         "gauche": "Dracula",
         "droite": "Bram Stoker",
-        "explication": "Roman épistolaire irlandais qui a fixé l'image moderne du vampire."
+        "explication": "Roman épistolaire de 1897 qui a fixé l'image moderne du vampire."
       },
       {
         "gauche": "Le Meilleur des mondes",
@@ -1403,7 +1403,7 @@
         "explication": "Conte illustré à l'origine par John Tenniel, dessinateur de Punch."
       }
     ],
-    "explication": "Ces cinq classiques viennent de la littérature anglophone, du XIXe siècle à celui d'Hemingway. Chacun a donné naissance à de nombreuses adaptations, au cinéma comme sur scène.",
+    "explication": "Ces cinq classiques de la littérature anglophone, parus entre 1865 et 1952, ont tous donné naissance à de nombreuses adaptations, au cinéma comme sur scène.",
     "source": "D'après Wikipédia — Dracula"
   },
   {
@@ -1460,10 +1460,10 @@
       "Dante",
       "Pétrarque",
       "Boccace",
-      "Ariosto"
+      "L'Arioste"
     ],
     "bonneReponse": 0,
-    "explication": "Dante mentionne ces deux familles au chant VI du Purgatoire, mais sans histoire d'amour. L'intrigue des amants naît plus tard, en Italie, chez Luigi da Porto en 1530, puis arrive jusqu'à Shakespeare.",
+    "explication": "Dante mentionne ces deux familles au chant VI du Purgatoire, mais sans histoire d'amour. Les amants ne prennent les noms de Roméo et Juliette que chez Luigi da Porto, en 1530, qui reprend un conte italien plus ancien ; l'histoire arrive ensuite jusqu'à Shakespeare.",
     "source": "D'après Wikipédia — Roméo et Juliette"
   },
   {
@@ -1496,7 +1496,7 @@
     "format": "vrai-faux",
     "affirmation": "Anne Frank a écrit son journal sous forme de lettres adressées à une amie imaginaire nommée Kitty.",
     "reponse": true,
-    "explication": "Après avoir écrit sous forme de notes, Anne s'adresse à Kitty, une amie imaginaire, jusqu'à sa dernière entrée du 1er août 1944. Elle voulait devenir écrivain, et son père Otto a publié ses carnets en 1947.",
+    "explication": "Après avoir d'abord écrit à plusieurs personnages imaginaires, Anne ne s'adresse plus qu'à Kitty à partir de la fin de 1942, jusqu'à sa dernière entrée du 1er août 1944. Elle voulait devenir écrivain, et son père Otto a publié ses carnets en 1947.",
     "source": "D'après Wikipédia — Le Journal d'Anne Frank"
   },
   {
@@ -1582,7 +1582,7 @@
       {
         "gauche": "Phèdre",
         "droite": "Ancien esclave latin, fabuliste en vers",
-        "explication": "Affranchi par Auguste, il compose six livres de fables en vers."
+        "explication": "Affranchi par Auguste, il fait de la fable un genre poétique à part entière."
       },
       {
         "gauche": "Pañchatantra",
@@ -1648,7 +1648,7 @@
       "Les rimes masculines des rimes féminines"
     ],
     "bonneReponse": 0,
-    "explication": "La césure est la pause qui coupe l'alexandrin en deux hémistiches de six syllabes. Selon la règle classique, elle doit coïncider avec une coupure du sens, et le e muet ne peut pas la précéder.",
+    "explication": "La césure est la pause qui coupe l'alexandrin en deux hémistiches de six syllabes. Selon la règle classique, elle doit coïncider avec une coupure importante de la phrase, et la sixième syllabe, juste avant elle, ne peut pas être un e muet.",
     "source": "D'après Wikipédia — Alexandrin"
   },
   {
@@ -1663,7 +1663,7 @@
       "Herbert Beerbohm Tree"
     ],
     "bonneReponse": 0,
-    "explication": "Pendant vingt-sept ans, Stoker gère le Lyceum Theatre pour Henry Irving, l'acteur le plus célèbre de son temps. Irving lui a aussi servi de modèle pour imaginer le comte Dracula, alors que Stoker se projetait plutôt dans le jeune clerc Jonathan Harker.",
+    "explication": "Pendant vingt-sept ans, Stoker gère le Lyceum Theatre pour Henry Irving, l'un des grands acteurs de l'Angleterre victorienne. Irving lui a aussi servi de modèle pour imaginer le comte Dracula, alors que Stoker se projetait plutôt dans le jeune clerc Jonathan Harker.",
     "source": "D'après Wikipédia — Bram Stoker"
   },
   {
@@ -1749,10 +1749,10 @@
     "domain": "litterature",
     "format": "qui-suis-je",
     "indices": [
-      "Je suis né en 1903 en Inde, sous le nom d'Eric Blair.",
       "J'ai été policier colonial en Birmanie avant de démissionner.",
       "En Espagne, j'ai combattu dans les milices du POUM.",
       "Mon pseudonyme apparaît en 1933, sur mon premier livre.",
+      "Je suis né en 1903 en Inde, sous le nom d'Eric Blair.",
       "Mon roman de 1949 a donné au monde « Big Brother »."
     ],
     "reponse": "George Orwell",
@@ -1831,7 +1831,7 @@
       "Huxley décrit une société sans gouvernement, Orwell une dictature militaire"
     ],
     "bonneReponse": 0,
-    "explication": "Dans Le Meilleur des mondes, la société repose sur la production de masse et le conditionnement ; Huxley parlait de gens privés de liberté mais plutôt heureux. Chez Orwell, Big Brother surveille tout le monde.",
+    "explication": "Dans Le Meilleur des mondes, la société tient par la production de masse et le conditionnement ; chez Orwell, Big Brother surveille tout le monde. En 1962, Huxley comparait les deux visions et jugeait la sienne plus efficace et plus durable.",
     "source": "D'après Wikipédia — Aldous Huxley"
   },
   {

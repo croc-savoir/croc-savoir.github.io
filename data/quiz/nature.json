@@ -495,11 +495,11 @@
     "choix": [
       "Environ 485 ans",
       "Environ 1 850 ans",
-      "Environ 4 858 ans",
+      "Environ 4 850 ans",
       "Environ 9 000 ans"
     ],
     "bonneReponse": 2,
-    "explication": "Mathusalem, un pin Bristlecone des montagnes Blanches, en Californie, a environ 4 858 ans d'après le comptage de ses cernes. Sa position exacte est gardée secrète pour éviter le vandalisme.",
+    "explication": "Mathusalem, un pin Bristlecone des montagnes Blanches, en Californie, a environ 4 850 ans d'après le comptage de ses cernes : c'est le plus vieil arbre non clonal dont l'âge est confirmé. Sa position exacte est gardée secrète pour éviter le vandalisme.",
     "source": "D'après Wikipédia — Pin Bristlecone"
   },
   {
@@ -993,7 +993,7 @@
       "L'ortie blanche est une ortie de montagne, plus petite"
     ],
     "bonneReponse": 0,
-    "explication": "L'ortie blanche est en réalité un lamier (Lamium album), une plante comestible sans poils urticants, à tige carrée et à fleurs colorées. On la surnomme aussi « ortie morte ». Les vraies orties, du genre Urtica, piquent.",
+    "explication": "L'ortie blanche est en réalité un lamier (Lamium album), une plante comestible sans poils urticants, à tige carrée et à grandes fleurs blanches. On la surnomme aussi « ortie morte ». Les vraies orties, du genre Urtica, piquent.",
     "source": "D'après Wikipédia — Ortie"
   },
   {
@@ -1151,7 +1151,7 @@
     "format": "vrai-faux",
     "affirmation": "La fonte de la banquise fait monter le niveau des océans.",
     "reponse": false,
-    "explication": "La banquise flotte déjà : en fondant, elle occupe exactement le même volume que l'eau qu'elle donne, comme un glaçon dans un verre. Ce sont les glaces posées sur les continents, les inlandsis, dont la fonte élève le niveau de la mer.",
+    "explication": "La banquise flotte déjà : en fondant, elle occupe pratiquement le même volume que l'eau qu'elle déplaçait, comme un glaçon dans un verre. Ce sont les glaces posées sur les continents, les inlandsis et les glaciers, dont la fonte élève le niveau de la mer.",
     "source": "D'après Wikipédia — Banquise"
   },
   {
@@ -1324,7 +1324,7 @@
         "annee": "2009"
       }
     ],
-    "explication": "Du Challenger (1872) au Nereus (2009), l'exploration des grands fonds avance par à-coups : chalutages, bathyscaphe habité, puis robots. Après la retraite du Trieste (1960), seul le robot Kaikō pouvait atteindre ce fond, jusqu'à sa perte en 2003.",
+    "explication": "Du Challenger (1872) au Nereus (2009), l'exploration des grands fonds avance par à-coups : chalutages, bathyscaphe habité, puis robots. Après la retraite du Trieste, descendu au fond des Mariannes en 1960, seul le robot japonais Kaikō pouvait atteindre ce fond, jusqu'à sa perte en 2003.",
     "source": "D'après Wikipédia — Abysse"
   },
   {
@@ -1378,7 +1378,7 @@
     "format": "vrai-faux",
     "affirmation": "Dans l'hémisphère nord, les vents d'une tornade tournent presque toujours dans le sens inverse des aiguilles d'une montre.",
     "reponse": true,
-    "explication": "La rotation vient des vents de grande échelle, eux-mêmes soumis à la force de Coriolis. Une minorité de tornades, 1 à 2 % aux États-Unis, tournent dans l'autre sens, souvent petites et faibles, comme celles de la cellule gauche d'un orage.",
+    "explication": "Leur rotation vient des vents de grande échelle, eux-mêmes déviés par la force de Coriolis, même si celle-ci n'agit pas directement sur la tornade. Seules 1 à 2 % des tornades américaines tournent dans l'autre sens, le plus souvent petites et faibles.",
     "source": "D'après Wikipédia — Tornade"
   },
   {
@@ -1473,11 +1473,11 @@
     "choix": [
       "Un gratte-ciel de 60 étages à Uhuru Park",
       "Un barrage sur la rivière Tana",
-      "Un golf dans la forêt de Karura",
+      "Un hôtel de luxe sur les rives du lac Victoria",
       "Un aéroport au pied du mont Kenya"
     ],
     "bonneReponse": 0,
-    "explication": "En 1989, elle protestait contre une tour de 60 étages prévue dans Uhuru Park, avec la statue du président. Ses lettres et la couverture des médias poussent les investisseurs étrangers à annuler en janvier 1990. Le golf de Karura date de 1999.",
+    "explication": "En 1989, elle proteste contre une tour de 60 étages prévue dans Uhuru Park, avec une statue du président Moi. Ses nombreuses lettres et l'écho dans les médias poussent les investisseurs étrangers à abandonner le projet en janvier 1990.",
     "source": "D'après Wikipédia — Wangari Muta Maathai"
   },
   {
@@ -1626,7 +1626,7 @@
         "explication": "Ce dispositif permet d'étudier la canopée des forêts tropicales sans la détruire, depuis les airs."
       }
     ],
-    "explication": "Un siècle et demi sépare Buffon de Redouté et de Carson, mais tous ont voulu faire connaître la nature au grand public. Hallé continue cette tradition avec le Radeau des cimes, au-dessus de la forêt tropicale.",
+    "explication": "Du XVIIIe au XXe siècle, ces naturalistes ont voulu faire connaître la nature au plus grand nombre : par un grand traité, un livre d'alerte, des planches peintes ou un radeau posé sur la cime des arbres tropicaux.",
     "source": "D'après Wikipédia — Francis Hallé"
   }
 ]

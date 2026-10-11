@@ -537,7 +537,7 @@
     "id": "q-histoire-034",
     "domain": "histoire",
     "format": "qcm",
-    "question": "Quelle langue Cléopâtre est-elle la seule de sa dynastie à avoir apprise ?",
+    "question": "Quelle langue Cléopâtre est-elle sans doute la première de sa dynastie à parler ?",
     "choix": [
       "L'égyptien",
       "Le grec",
@@ -545,7 +545,7 @@
       "Le perse"
     ],
     "bonneReponse": 0,
-    "explication": "Les Ptolémées, d'origine macédonienne, gouvernaient l'Égypte en grec sans apprendre la langue du pays. Cléopâtre est la seule de la dynastie connue pour avoir parlé égyptien. Selon Plutarque, elle maîtrisait aussi l'araméen, le mède ou l'hébreu.",
+    "explication": "Les Ptolémées, d'origine macédonienne, gouvernaient l'Égypte en grec sans apprendre la langue du pays. Cléopâtre est sans doute la première, et la seule, de la dynastie à parler égyptien. Selon Plutarque, elle maîtrisait aussi l'araméen, le mède, l'éthiopien et sans doute l'hébreu.",
     "source": "D'après Wikipédia — Cléopâtre VII"
   },
   {
@@ -709,7 +709,7 @@
         "annee": "1219"
       },
       {
-        "label": "Mort en combattant les Xia occidentaux",
+        "label": "Mort pendant sa campagne contre les Xia occidentaux",
         "annee": "1227"
       }
     ],
@@ -773,7 +773,7 @@
       "Bayezid Ier"
     ],
     "bonneReponse": 0,
-    "explication": "Mehmed II, devenu sultan à 19 ans, prend la ville le 29 mai 1453 après un siège de 53 jours. Il y gagne le surnom de « Conquérant » et fait de Constantinople sa capitale. Mourad II était son père.",
+    "explication": "Mehmed II, sultan depuis 1451, n'a que 21 ans quand il prend la ville, le 29 mai 1453, après un siège de 53 jours. Il y gagne le surnom de « Conquérant » et fait de Constantinople sa capitale. Mourad II était son père.",
     "source": "D'après Wikipédia — Chute de Constantinople"
   },
   {
@@ -842,7 +842,7 @@
     "id": "q-histoire-055",
     "domain": "histoire",
     "format": "qcm",
-    "question": "Quel fut le premier port négrier de la traite atlantique ?",
+    "question": "Quel fut le plus grand port négrier de toute la traite atlantique ?",
     "choix": [
       "Rio de Janeiro",
       "Nantes",
@@ -906,8 +906,8 @@
       },
       {
         "gauche": "Buffon",
-        "droite": "Un âge de la Terre bien plus long que la Bible",
-        "explication": "En proposant 74 000 ans pour la Terre, il est sommé de se rétracter par la Sorbonne."
+        "droite": "L'Histoire naturelle",
+        "explication": "Refusant d'attribuer à Dieu ce que la science peut expliquer, il s'attire les foudres de la Sorbonne."
       }
     ],
     "explication": "Les Lumières mêlent science et philosophie : la réussite de Newton pousse à chercher aussi des lois pour la société. Locke et Rousseau en tirent une nouvelle vision de la liberté, tandis que Buffon refuse d'expliquer par Dieu ce que la science peut comprendre.",
@@ -1228,7 +1228,7 @@
       "L'impératrice du monde"
     ],
     "bonneReponse": 0,
-    "explication": "Mariés à des princes et princesses de tout le continent, ses neuf enfants font d'elle  la « grand-mère de l'Europe ». Reine de 1837 à 1901, elle a aussi donné son nom à l'ère victorienne.",
+    "explication": "Mariés à des princes et princesses de tout le continent, ses neuf enfants font d'elle la « grand-mère de l'Europe ». Reine de 1837 à 1901, elle a aussi donné son nom à l'ère victorienne.",
     "source": "D'après Wikipédia — Victoria (reine)"
   },
   {
@@ -1345,7 +1345,7 @@
     "format": "vrai-faux",
     "affirmation": "Le traité de Versailles a été ratifié par les États-Unis.",
     "reponse": false,
-    "explication": "Faux. Le président Wilson a pesé sur la négociation, mais le Sénat américain a refusé de ratifier le traité. Les États-Unis ont signé à part une paix séparée avec l'Allemagne, et n'ont jamais rejoint la Société des Nations que Wilson avait tant défendue.",
+    "explication": "Faux. Le président Wilson a pesé sur la négociation, mais le Sénat américain a refusé de ratifier le traité. Les États-Unis ont conclu une paix séparée avec l'Allemagne, et n'ont jamais rejoint la Société des Nations que Wilson avait tant défendue.",
     "source": "D'après Wikipédia — Traité de Versailles"
   },
   {
@@ -1414,7 +1414,7 @@
     "format": "vrai-faux",
     "affirmation": "Les porte-avions américains du Pacifique ont échappé à l'attaque de Pearl Harbor.",
     "reponse": true,
-    "explication": "Vrai. Les trois porte-avions de la flotte du Pacifique étaient en mer le 7 décembre 1941. Les Japonais ont coulé quatre cuirassés, mais ont manqué ces navires, ainsi que les réserves de carburant et les ateliers. Les porte-avions joueront un rôle clé dans la suite de la guerre.",
+    "explication": "Vrai. Les trois porte-avions de la flotte du Pacifique étaient absents de la base le 7 décembre 1941. Les Japonais ont coulé quatre cuirassés, mais ont manqué ces navires, ainsi que les réserves de carburant et les ateliers. Les porte-avions joueront un rôle clé dans la suite de la guerre.",
     "source": "D'après Wikipédia — Attaque de Pearl Harbor"
   },
   {
@@ -1539,8 +1539,8 @@
       },
       {
         "gauche": "Jawaharlal Nehru",
-        "droite": "Compagnon de Gandhi au Congrès",
-        "explication": "Disciple de Gandhi, il devient l'une des grandes figures du Congrès national indien."
+        "droite": "Premier chef du gouvernement de l'Inde indépendante",
+        "explication": "Disciple de Gandhi au Congrès, il devient en 1947 le premier Premier ministre de l'Inde indépendante."
       }
     ],
     "explication": "Le mouvement indien n'avait pas une seule voix. Gandhi incarnait la non-violence, Bose la lutte armée, Jinnah les revendications des musulmans, et Nehru la relève du Congrès. Ces divisions expliquent en partie la partition de 1947.",
@@ -1558,7 +1558,7 @@
       "La création d'une monnaie commune afro-asiatique"
     ],
     "bonneReponse": 0,
-    "explication": "Réunis autour de Nehru, Soekarno, Nasser et Zhou Enlai, les 29 pays condamnent le colonialisme et refusent de choisir entre Washington et Moscou. Malgré leurs divisions, cette idée de non-alignement mène en 1961 au mouvement lancé à Belgrade.",
+    "explication": "Réunis notamment autour de Nehru, Soekarno, Nasser et Zhou Enlai, 29 pays d'Asie et d'Afrique condamnent le colonialisme, et beaucoup refusent de choisir entre Washington et Moscou. Malgré leurs divisions, cette idée mène en 1961 à la conférence de Belgrade, base du mouvement des non-alignés.",
     "source": "D'après Wikipédia — Conférence de Bandung"
   },
   {

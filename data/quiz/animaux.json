@@ -606,7 +606,7 @@
       "Environ 50"
     ],
     "bonneReponse": 0,
-    "explication": "Chassé pour sa fourrure et pour le castoréum, le castor d'Europe a failli disparaître : environ 1 200 individus survivaient, dans huit populations isolées. Grâce à la protection et aux réintroductions, il en compte aujourd'hui au moins 1,5 million.",
+    "explication": "Chassé pour sa fourrure et pour le castoréum, le castor d'Europe a failli disparaître : environ 1 200 individus survivaient, dans huit populations isolées. Grâce à la protection et aux réintroductions, il en comptait au moins 1,5 million en 2020.",
     "source": "D'après Wikipédia — Castor fiber"
   },
   {
@@ -642,7 +642,7 @@
       "Une seule femelle, la reine, se reproduit, comme chez les abeilles",
       "Les mâles élèvent seuls les petits",
       "Chaque couple vit isolé dans un terrier",
-      "Les petits sont élevés par les pères uniquement"
+      "La colonie obéit au mâle le plus âgé"
     ],
     "bonneReponse": 0,
     "explication": "Le rat-taupe nu est l'un des très rares mammifères eusociaux : une reine unique assure la reproduction, tandis que les autres, ouvrières, nourrices ou soldats, creusent, nourrissent et défendent la colonie, qui compte de 70 à 300 individus.",
@@ -676,7 +676,7 @@
       },
       {
         "gauche": "Dromadaire",
-        "droite": "Boit des litres d'eau en une minute",
+        "droite": "Boit jusqu'à 15 litres d'eau par minute",
         "explication": "Un exploit qui tuerait la plupart des autres mammifères."
       },
       {
@@ -766,7 +766,7 @@
     "choix": [
       "L'albatros hurleur",
       "Le condor des Andes",
-      "Le pélican blanc",
+      "La cigogne blanche",
       "L'autruche d'Afrique"
     ],
     "bonneReponse": 0,
@@ -785,7 +785,7 @@
       "Le manchot Adélie"
     ],
     "bonneReponse": 0,
-    "explication": "Le manchot empereur rejoint sa colonie en parcourant entre 50 et 120 km de glace. La femelle pond un seul œuf que le mâle couve, sans manger pendant plus de deux mois, tandis qu'elle retourne se nourrir en mer.",
+    "explication": "C'est la seule espèce de manchot qui se reproduit en plein hiver antarctique, quand l'air peut descendre à −40 °C. Les adultes marchent de 50 à 120 km sur la glace pour rejoindre la colonie, puis se serrent en « tortues » pour résister au blizzard.",
     "source": "D'après Wikipédia — Manchot empereur"
   },
   {
@@ -841,14 +841,14 @@
     "domain": "animaux",
     "format": "qui-suis-je",
     "indices": [
-      "On m'a découvert pour la science occidentale en 1910, après des rumeurs de « crocodile terrestre ».",
+      "Les scientifiques occidentaux m'ont découvert en 1910, après des rumeurs de « crocodile terrestre ».",
       "Je ne vis à l'état sauvage que sur quelques îles d'Indonésie, dont Komodo et Rinca.",
       "Les petits que je mets au monde grimpent aux arbres pour échapper à mes congénères cannibales.",
       "Je suis le plus grand lézard vivant, avec 2 à 3 m de long.",
       "On me surnomme « dragon » alors que je suis un varan."
     ],
     "reponse": "Le dragon de Komodo",
-    "explication": "Ce varan géant est le plus grand lézard du monde. Il n'habite que cinq îles d'Indonésie, dont Komodo, Rinca et Florès. Son nom a été popularisé par W. Douglas Burden, dont l'expédition de 1926 inspira King Kong.",
+    "explication": "Ce varan géant est le plus grand lézard du monde. Il n'habite que cinq îles d'Indonésie, dont Komodo, Rinca et Florès. C'est W. Douglas Burden qui l'a baptisé « dragon de Komodo » ; son expédition de 1926 inspira le film King Kong.",
     "source": "D'après Wikipédia — Dragon de Komodo"
   },
   {
@@ -875,7 +875,7 @@
       {
         "gauche": "Faucon pèlerin",
         "droite": "Le piqué le plus rapide",
-        "explication": "Un piqué mesuré en 2005 a dépassé tous les records."
+        "explication": "Un piqué à 389 km/h a été enregistré en 2005."
       }
     ],
     "explication": "Ces quatre oiseaux détiennent chacun un record : le plus grand voilier des mers australes, le plongeur de l'Antarctique, le plus grand oiseau actuel et le rapace le plus rapide en piqué.",
@@ -913,8 +913,8 @@
     "choix": [
       "Des poils microscopiques sous ses doigts, les setæ",
       "Des ventouses remplies de colle",
-      "De griffes en crochet très pointues",
-      "D'une sécrétion visqueuse sur ses pattes"
+      "Des griffes en crochet très pointues",
+      "Une sécrétion visqueuse sur ses pattes"
     ],
     "bonneReponse": 0,
     "explication": "Les coussinets des geckos portent de minuscules poils, les setæ. Chez beaucoup d'espèces, l'adhérence vient de forces de Van der Waals entre les molécules des poils et celles de la surface, sans colle ni ventouse.",
@@ -991,7 +991,7 @@
         "annee": "1574"
       },
       {
-        "label": "Des pigeons portent des messages depuis Paris assiégé",
+        "label": "Des pigeons relient Paris assiégé à la province",
         "annee": "1870"
       },
       {
@@ -1097,7 +1097,7 @@
       "Alexandre Dumas"
     ],
     "bonneReponse": 0,
-    "explication": "En 1861, l'équipage de l'Alecton aperçoit un calmar géant au large de Tenerife et tente de le hisser à bord. Jules Verne s'en inspire dans Vingt mille lieues sous les mers, avec un calmar « de dimensions colossales » de 18 mètres.",
+    "explication": "En 1861, l'équipage de l'aviso Alecton aperçoit un calmar géant au large de Tenerife et tente en vain de le hisser à bord. Jules Verne s'en inspire dans Vingt mille lieues sous les mers, où il évoque cet épisode et un calmar « de dimensions colossales ».",
     "source": "D'après Wikipédia — Calmar géant"
   },
   {
@@ -1178,8 +1178,8 @@
       },
       {
         "gauche": "Raie manta",
-        "droite": "Un test du miroir passé en 2016",
-        "explication": "Des mantas devant un miroir ont semblé vérifier si leur reflet imitait leurs mouvements."
+        "droite": "Un comportement étonnant devant un miroir",
+        "explication": "En 2016, des mantas devant un miroir ont semblé vérifier si leur reflet imitait leurs mouvements."
       },
       {
         "gauche": "Hippocampe",
@@ -1241,7 +1241,7 @@
       "La demoiselle vit dans l'eau salée, la libellule dans l'eau douce"
     ],
     "bonneReponse": 0,
-    "explication": "Les deux groupes appartiennent aux odonates et ont quatre ailes. Au repos, la demoiselle redresse ses ailes au-dessus du corps, tandis que la libellule les étale à l'horizontale. Ses yeux, gros, se touchent souvent.",
+    "explication": "Les deux groupes appartiennent aux odonates et ont quatre ailes. Au repos, la demoiselle redresse ses ailes au-dessus du corps, tandis que la libellule les étale à l'horizontale. Les gros yeux de la libellule se touchent souvent ; ceux de la demoiselle sont bien séparés.",
     "source": "D'après Wikipédia — Odonata"
   },
   {
@@ -1343,7 +1343,7 @@
     "format": "vrai-faux",
     "affirmation": "Des mammouths laineux vivaient encore à l'époque où l'on construisait les pyramides de Gizeh.",
     "reponse": true,
-    "explication": "Vrai. De petits groupes vivaient encore sur l'île Wrangel il y a environ 4 000 ans, alors qu'en Égypte on bâtissait la pyramide de Khéops et le sphinx. Sur le continent, en revanche, l'espèce avait disparu il y a 10 000 ans.",
+    "explication": "Vrai. De petits groupes ont survécu sur l'île Wrangel, au large de la Sibérie, jusqu'à il y a environ 4 000 ans : ils vivaient donc encore quand l'Égypte bâtissait la pyramide de Khéops, vers 2560 av. J.-C. Sur le continent, l'espèce avait disparu il y a 10 000 ans.",
     "source": "D'après Wikipédia — Mammouth laineux"
   },
   {
@@ -1368,7 +1368,7 @@
     "question": "Remets ces étapes du destin de la tourte voyageuse dans l'ordre chronologique.",
     "evenements": [
       {
-        "label": "Pehr Kalm décrit des nuées de tourtes voyageuses en Pennsylvanie",
+        "label": "Des nuées immenses de tourtes voyageuses obscurcissent le ciel de Pennsylvanie",
         "annee": "1749"
       },
       {
@@ -1384,7 +1384,7 @@
         "annee": "1914"
       }
     ],
-    "explication": "En 1749, des nuées cachent le Soleil en Pennsylvanie ; en 1871, plus de cent millions d'oiseaux nichent ensemble au Wisconsin. Sept ans plus tard, la chasse en masse prend fin faute de gibier, et Martha, la dernière, meurt en 1914.",
+    "explication": "En 1749, selon le récit du naturaliste Pehr Kalm, des nuées de tourtes obscurcissent le ciel de Pennsylvanie ; en 1871, plus de cent millions d'oiseaux nichent encore ensemble au Wisconsin. Mais 1878 est la dernière année de grande chasse, et Martha, la dernière, meurt en 1914.",
     "source": "D'après Wikipédia — Tourte voyageuse"
   },
   {
@@ -1514,7 +1514,7 @@
     "question": "Quelle découverte de Jane Goodall, en octobre 1960, a ébranlé la définition de l'homme ?",
     "choix": [
       "Un chimpanzé fabriquait et utilisait un outil pour attraper des termites",
-      "Les chimpanzés se reconnaissent dans un miroir",
+      "Les chimpanzés vivent en couples fidèles toute leur vie",
       "Les chimpanzés sont strictement végétariens",
       "Les chimpanzés parlent un langage articulé"
     ],

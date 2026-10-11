@@ -1107,7 +1107,8 @@
       ]
     },
     "source": "D'après Wikipédia — Fourmi",
-    "notoriete": 1
+    "notoriete": 1,
+    "subtitle": "Formicidae, insectes sociaux aux colonies géantes"
   },
   {
     "id": "animaux-033",
@@ -1116,12 +1117,12 @@
     "type": "classique",
     "title": "Le lion",
     "subtitle": "Panthera leo, grand félin social d'Afrique et d'Inde",
-    "summary": "Le lion est le plus grand carnivore d'Afrique et le deuxième plus grand félin du monde, derrière le tigre. C'est aussi le seul félin à vivre en groupe : une famille de lionnes et de petits, surveillée par un ou quelques mâles à crinière.\nIl est classé vulnérable : ses effectifs africains ont baissé d'environ 43 % depuis le début des années 1990, et il n'en reste qu'un petit noyau en Inde, dans la forêt de Gir.",
+    "summary": "Le lion est le plus grand carnivore d'Afrique et le deuxième plus grand félin du monde, derrière le tigre. C'est aussi le seul félin vraiment social : il vit en groupe, une famille de lionnes et de petits, surveillée par un ou quelques mâles à crinière.\nIl est classé vulnérable : sa population a baissé de 43 % entre 1993 et 2017, et il n'en reste qu'un petit noyau en Inde, dans la forêt de Gir.",
     "details": {
       "sections": [
         {
           "titre": "Une crinière qui en dit long",
-          "texte": "Elle pousse à partir de trois ans et couvre les joues et les épaules. Longue et sombre, elle signale un mâle en pleine forme : les femelles la préfèrent, et les rivaux la respectent. Pourtant, elle capte la chaleur. La porter est un handicap, donc une preuve de robustesse. Les lions du Tsavo, eux, n'en ont pas."
+          "texte": "Elle pousse à partir de trois ans et couvre les joues et les épaules. Longue et sombre, elle signale un mâle en pleine forme : les femelles la préfèrent, et les rivaux la respectent. Pourtant, elle capte la chaleur. La porter est un handicap, donc une preuve de robustesse. Au Kenya, les mâles du Tsavo en sont souvent dépourvus."
         },
         {
           "titre": "Une vie en groupe",
@@ -1156,7 +1157,7 @@
         }
       ],
       "anecdotes": [
-        "La girafe met bas debout : le girafon tombe donc de près de deux mètres de haut. Il doit tenir sur ses pattes en une heure environ pour atteindre le lait de sa mère. Sinon, elle ne l'adopte pas."
+        "La girafe met bas debout : le girafon tombe donc de près de deux mètres de haut. Il se lève en général en un quart d'heure, et doit tenir sur ses pattes au bout d'une heure pour atteindre les mamelles : sa mère ne l'adopte que s'il se dresse vite."
       ],
       "wikipedia": "Girafe"
     },
@@ -1175,7 +1176,7 @@
       "sections": [
         {
           "titre": "Une gueule à presque 180°",
-          "texte": "Il peut ouvrir la gueule à près de 180°. Ses canines atteignent cinquante cm, mais elles ne servent qu'au combat : l'herbe est arrachée par ses larges lèvres, puis écrasée par les molaires. Sa morsure est la troisième plus puissante du règne animal, derrière celles des crocodiles marin et du Nil. Il broute quatre à cinq heures par nuit, jusqu'à 68 kg d'herbe."
+          "texte": "Il peut ouvrir la gueule à près de 180°. Ses canines atteignent jusqu'à 50 cm, mais elles ne servent qu'au combat : l'herbe est arrachée par ses larges lèvres, puis écrasée par les molaires. Sa morsure est la troisième plus puissante du règne animal, derrière celles des crocodiles marin et du Nil. Il broute quatre à cinq heures par nuit, jusqu'à 68 kg d'herbe."
         },
         {
           "titre": "Un animal de rivière",
@@ -1224,7 +1225,7 @@
     "type": "classique",
     "title": "Le koala",
     "subtitle": "Phascolarctos cinereus, marsupial arboricole d'Australie",
-    "summary": "Le koala est un marsupial arboricole qui ne vit qu'en Australie et ne mange que les feuilles de certains eucalyptus. Ce n'est pas un ours : la femelle porte son petit dans une poche, où il passe ses six à sept premiers mois.\nCe régime pauvre et toxique le condamne à dormir jusqu'à vingt heures par jour. L'espèce est classée vulnérable, menacée par la perte de son habitat : il reste moins de 80 000 koalas en liberté.",
+    "summary": "Le koala est un marsupial arboricole qui ne vit qu'en Australie et ne mange que les feuilles de certains eucalyptus. Ce n'est pas un ours : la femelle porte son petit dans une poche, où il passe ses six à sept premiers mois.\nCe régime pauvre et toxique le condamne à dormir jusqu'à vingt heures par jour. L'espèce est classée vulnérable, menacée par la perte de son habitat : en 2009, on estimait qu'il restait entre 43 000 et 80 000 koalas en liberté.",
     "details": {
       "sections": [
         {
@@ -1283,7 +1284,7 @@
       "sections": [
         {
           "titre": "Un pelage verdâtre",
-          "texte": "Des algues et des cyanobactéries vivent dans les poils du paresseux et le teintent de vert à la saison des pluies. C'est un camouflage, une isolation, et sans doute une source de nutriments : les paresseux captifs survivent mal, peut-être faute de ces algues. Des papillons de nuit pondent dans ses excréments puis remontent dans sa fourrure, ce qui nourrirait les algues."
+          "texte": "Des algues et des cyanobactéries vivent dans les poils du paresseux et le teintent de vert à la saison des pluies. C'est un camouflage, une isolation, et sans doute une source de nutriments : les paresseux à trois doigts survivent mal en captivité, peut-être faute de ces algues. Des papillons de nuit pondraient dans ses excréments, puis remonteraient dans sa fourrure, où ils nourriraient les algues."
         },
         {
           "titre": "Une descente risquée",
@@ -1305,7 +1306,7 @@
     "type": "classique",
     "title": "Le castor d'Europe",
     "subtitle": "Castor fiber, le plus grand rongeur d'Europe",
-    "summary": "Le castor d'Europe est le plus grand rongeur d'Europe, et l'un des rares animaux capables de couper des arbres et de bâtir des barrages. On le qualifie d'« espèce-ingénieur » : ses retenues d'eau enrichissent les zones humides.\nChassé pour sa fourrure et son castoréum, il n'en restait qu'environ 1 200 au début du XXe siècle. Protégé et réintroduit, il en compte aujourd'hui au moins 1,5 million.",
+    "summary": "Le castor d'Europe est le plus grand rongeur d'Europe, et l'un des rares animaux capables de couper des arbres et de bâtir des barrages. On le qualifie d'« espèce-ingénieur » : ses retenues d'eau enrichissent les zones humides.\nChassé pour sa fourrure et son castoréum, il n'en restait qu'environ 1 200 au début du XXe siècle. Protégé et réintroduit, il en comptait au moins 1,5 million en 2020.",
     "details": {
       "sections": [
         {
@@ -1337,11 +1338,11 @@
       "sections": [
         {
           "titre": "Une armure articulée",
-          "texte": "Les piquants sortent de la peau par trois. Creux, donc légers, et cannelés, ils sont quasi incassables : on pourrait théoriquement suspendre l'animal à un seul. Chacun tient jusqu'à 18 mois. Face au danger, le hérisson dresse d'abord ses piquants. Il ne se met en boule que lorsqu'on le touche, et peut y rester des heures. Seul le blaireau a été vu en train d'ouvrir une boule."
+          "texte": "Les piquants sortent de la peau par trois. Creux, donc légers, et cannelés, ils sont quasi incassables : on pourrait théoriquement suspendre l'animal à un seul. Chacun tient jusqu'à 18 mois. Face au danger, le hérisson dresse d'abord ses piquants. Il ne se met en boule que lorsqu'on le touche, et peut y rester des heures. Le blaireau sait pourtant ouvrir une boule, et le grand-duc vient à bout des piquants avec ses serres."
         },
         {
           "titre": "Un chasseur du soir",
-          "texte": "Il dort environ 18 heures par jour, puis chasse à l'odorat et à l'ouïe, car sa vue est très basse : il entend même un ver de terre se glisser sous les feuilles. Sa masse varie énormément : il peut peser 300 g, mais dépasse 2 kg avant l'hiver. Il hiberne alors dans un nid de feuilles mortes, en puisant 30 % de ses réserves de graisse."
+          "texte": "Il dort environ 18 heures par jour, puis chasse à l'odorat et à l'ouïe, car sa vue est très basse : il entend même un ver de terre se glisser sous les feuilles. Sa masse varie énormément selon la saison et l'individu : de 300 g pour les plus légers à plus de 2 kg pour les plus gros à l'approche de l'hiver. Il hiberne alors dans un nid de feuilles mortes, en puisant 30 % de ses réserves de graisse."
         }
       ],
       "wikipedia": "Erinaceus europaeus",
@@ -1391,11 +1392,11 @@
       "sections": [
         {
           "titre": "Une société de type insecte",
-          "texte": "Une colonie compte une seule femelle reproductrice, la reine, et quelques mâles. Les autres femelles restent non fécondes tant qu'elle vit. Une portée compte une douzaine de petits, jusqu'à 27, un record chez les mammifères. Les rôles (ouvrières, soldats...) sont répartis, et chaque colonie a son propre dialecte vocal, reconnu par tous ses membres."
+          "texte": "Une colonie compte une seule femelle reproductrice, la reine, et quelques mâles. Les autres femelles restent non fécondes tant qu'elle vit. La reine peut avoir cinq portées par an, d'une douzaine de petits en général, et jusqu'à 27. Les rôles (ouvrières, soldats...) sont répartis, et chaque colonie a son propre dialecte vocal, reconnu par tous ses membres."
         },
         {
           "titre": "Un vieillissement négligeable",
-          "texte": "À partir de 40 ans, notre risque de mourir double tous les 8 ans. Chez le rat-taupe nu, il n'augmente pas avec l'âge. Son acide hyaluronique, cinq fois plus massif que chez l'homme ou la souris, bloquerait les tumeurs, comme l'ont montré en 2013 des chercheurs de l'université de Rochester. Il serait aussi insensible à la douleur de l'acide."
+          "texte": "À partir de 40 ans, notre risque de mourir double tous les 8 ans. Chez le rat-taupe nu, il n'augmente pas avec l'âge. Son acide hyaluronique, dont les molécules sont cinq fois plus grosses que chez l'homme ou la souris, bloquerait les tumeurs, comme l'ont montré en 2013 des chercheurs de l'université de Rochester. Il serait aussi insensible à la douleur de l'acide."
         },
         {
           "titre": "Sans oxygène, presque à sang froid",
@@ -1563,8 +1564,8 @@
       ],
       "sections": [
         {
-          "titre": "Se réchauffer sans produire de chaleur",
-          "texte": "Les reptiles et de nombreux insectes se placent au soleil, en orientant leur corps pour capter un maximum de chaleur. Les abeilles se serrent en hiver pour garder la chaleur. Le papillon étale ses ailes avant de s'envoler. La peau de la grenouille-taureau sécrète plus de mucus quand il fait chaud, ce qui la refroidit. La grenouille des bois, elle, peut mettre son métabolisme à l'arrêt pendant le froid."
+          "titre": "Se réchauffer par le comportement",
+          "texte": "Les reptiles et de nombreux insectes se placent au soleil, en orientant leur corps pour capter un maximum de chaleur. Le papillon étale ses ailes avant de s'envoler. Les abeilles se serrent en hiver pour garder la chaleur, et font même vibrer leurs muscles avant de voler : la frontière avec les endothermes n'est pas toujours nette. La peau de la grenouille-taureau sécrète plus de mucus quand il fait chaud, ce qui la refroidit. La grenouille des bois, elle, peut mettre son métabolisme à l'arrêt pendant le froid."
         },
         {
           "titre": "Économe, mais dépendant",
@@ -1859,11 +1860,11 @@
         },
         {
           "titre": "Géant sensible au froid",
-          "texte": "Gustave, un spécimen du Burundi, a dépassé 6,1 m et 1 089 kg. Pourtant, ce reptile dépend de la température : il cesse de manger sous 15,6 °C et ne sait plus nager sous 7,6 °C. En Afrique du Sud, il s'enterre dans des tunnels pendant l'été sec, un état proche de l'hibernation. Au sein du groupe, les gros mâles âgés ont droit aux meilleures places au soleil."
+          "texte": "Des spécimens de plus de 6,1 m, pesant jusqu'à 1 089 kg, ont été signalés ; le plus célèbre est Gustave, un crocodile géant du Burundi. Pourtant, ce reptile dépend de la température : il cesse de manger sous 15,6 °C et ne sait plus nager sous 7,6 °C. En Afrique du Sud, il s'enterre dans des tunnels pendant l'été sec, un état de vie ralentie proche de l'hibernation. Au sein du groupe, les gros mâles âgés ont droit aux meilleures places au soleil."
         }
       ],
       "anecdotes": [
-        "Malgré son nom, le crocodile du Nil ne vit plus dans le Nil égyptien : on ne le croise que dans la partie du fleuve située après la troisième cataracte, au Soudan. Pourtant, les anciens Égyptiens le tenaient pour sacré : il était lié à Sobek, divinité à tête de crocodile."
+        "Malgré son nom, le crocodile du Nil a presque disparu du Nil égyptien : il vit surtout en amont de la troisième cataracte, au Soudan, même si des individus sont signalés depuis les années 1970 dans le lac Nasser, derrière le barrage d'Assouan. Les anciens Égyptiens le tenaient pour sacré : c'était l'animal de Sobek, dieu à tête de crocodile."
       ],
       "wikipedia": "Crocodile du Nil"
     },
@@ -1890,11 +1891,11 @@
         },
         {
           "titre": "De 3 à 70 centimètres",
-          "texte": "Les plus petites espèces, comme Brookesia nana découverte en 2012, mesurent près de 3 cm ; les plus grandes atteignent 70 cm, queue comprise. Tous sont insectivores, et les plus gros avalent aussi de petits oiseaux ou lézards. Chez Calumma parsonii, l'incubation des œufs peut approcher deux ans. Les femelles de nombreuses espèces gardent le sperme du mâle pendant plus d'un mois."
+          "texte": "Les plus petites espèces, des Brookesia de Madagascar, mesurent à peine 3 cm ; les plus grandes atteignent 70 cm, queue comprise. Tous sont insectivores, et les plus gros avalent aussi de petits oiseaux ou lézards. Chez Calumma parsonii, l'incubation des œufs peut approcher deux ans. Les femelles de nombreuses espèces gardent le sperme du mâle pendant plus d'un mois."
         }
       ],
       "anecdotes": [
-        "Dans l'Antiquité, Aristote décrit très précisément le caméléon. Pline l'Ancien y ajoute des légendes, comme celle d'un animal qui ne se nourrirait que d'air, reprise ensuite par Ovide. Le nom lui-même vient du grec « lion du sol »."
+        "Dans l'Antiquité, Aristote décrit très précisément le caméléon. Une légende tenace prétend pourtant qu'il ne se nourrit que d'air : Ovide la mentionne, et Pline l'Ancien la reprend parmi bien d'autres idées fantaisistes. Le nom lui-même vient du grec « lion du sol »."
       ],
       "wikipedia": "Chamaeleonidae"
     },
@@ -1913,11 +1914,11 @@
       "sections": [
         {
           "titre": "Un prédateur à l'affût",
-          "texte": "Il mange surtout des charognes, mais sait aussi surprendre cerfs ou porcs, qu'il mord au ventre ou à la gorge, voire assomme d'un coup de queue. Ses quelque 60 dents dentelées sont recouvertes d'une fine couche de fer. Il avale une chèvre entière en un quart d'heure à vingt minutes, peut manger 80 % de son poids en un repas et survivre avec un repas par mois. Sa langue lui permet de repérer des odeurs jusqu'à 4 km, voire 9,5 km."
+          "texte": "Il mange surtout des charognes, mais sait aussi surprendre cerfs ou porcs, qu'il mord au ventre ou à la gorge, voire assomme d'un coup de queue. Ses quelque 60 dents dentelées ont un tranchant renforcé par une fine couche de fer, de couleur orange. Il avale une chèvre entière en un quart d'heure à vingt minutes, peut manger 80 % de son poids en un repas et survivre avec un repas par mois. Sa langue lui permet de repérer des odeurs jusqu'à 4 km, voire 9,5 km."
         },
         {
           "titre": "Salive mortelle ou venin ?",
-          "texte": "On a longtemps cru que des bactéries de sa salive tuaient ses proies : les buffles mordus mouraient d'une infection. Des études récentes montrent que ces bactéries sont banales chez les prédateurs : les buffles, arrivés récemment sur ces îles, fuient vers des eaux stagnantes où leurs plaies s'infectent. Des chercheurs de Melbourne ont aussi conclu, en 2005, que le varan est légèrement venimeux."
+          "texte": "On a longtemps cru que des bactéries de sa salive tuaient ses proies : les buffles mordus mouraient d'une infection. Des études récentes montrent que ces bactéries sont banales chez les prédateurs : les buffles, arrivés récemment sur ces îles, fuient vers des eaux stagnantes où leurs plaies s'infectent. En 2005, des chercheurs de Melbourne ont aussi montré que plusieurs varans sont légèrement venimeux, et le dragon de Komodo possède lui aussi des glandes à venin."
         },
         {
           "titre": "Une enfance dans les arbres",
@@ -1952,11 +1953,11 @@
         },
         {
           "titre": "Sauvées de justesse",
-          "texte": "Les chèvres introduites ont détruit la végétation dont se nourrissent les tortues. Depuis 1960, la Fondation Charles Darwin a sauvé plus de 2 500 jeunes. En 2007, cent tortues d'Española ont été installées sur l'île de Pinta, débarrassée de ses chèvres. Georges le Solitaire, dernier de l'espèce de Pinta, est mort le 24 juin 2012."
+          "texte": "Les chèvres introduites ont détruit la végétation dont se nourrissent les tortues ; des îles comme Pinta en ont depuis été débarrassées. Depuis 1960, la Fondation Charles Darwin a sauvé plus de 2 500 jeunes et lutte contre les rats, les porcs et les chèvres qui pillent les nids. Georges le Solitaire, dernier représentant de l'espèce de Pinta, est mort le 24 juin 2012."
         }
       ],
       "anecdotes": [
-        "Harriet, tortue des Galápagos installée dans un zoo du Queensland, en Australie, est morte le 23 juin 2006 à 176 ans. Née vers 1830, elle a peut-être été connue de Charles Darwin."
+        "Harriet, une tortue des Galápagos installée dans un zoo du Queensland, en Australie, est morte le 23 juin 2006 à environ 176 ans. Née vers 1830, elle passait pour avoir été rapportée par Charles Darwin lui-même, une belle légende que les analyses génétiques n'ont pas confirmée."
       ],
       "wikipedia": "Tortue géante des Galápagos"
     },
@@ -2064,7 +2065,7 @@
         },
         {
           "titre": "Au rythme d'El Niño",
-          "texte": "Pendant les épisodes El Niño, les algues se raréfient et les iguanes se mettent à rétrécir : les générations nées alors sont 20 % plus petites. Elles retrouvent leur taille quand la nourriture revient. À la saison des amours, les mâles des îles du sud arborent du rouge et du bleu-vert, défendent leur territoire et secouent la tête pour montrer leur force."
+          "texte": "Pendant les épisodes El Niño, les algues se raréfient : les générations qui grandissent alors restent 20 % plus petites, et même les adultes rapetissent, leurs os raccourcissant légèrement. Les générations suivantes retrouvent leur taille quand la nourriture revient. À la saison des amours, les mâles des îles du sud arborent du rouge et du bleu-vert, défendent leur territoire et secouent la tête pour montrer leur force."
         }
       ],
       "anecdotes": [
@@ -2091,7 +2092,7 @@
         },
         {
           "titre": "Un grand voyageur à sang chaud",
-          "texte": "Contrairement à la plupart des poissons, il garde un corps chaud, jusqu'à 20 °C au-dessus de l'eau ambiante, ce qui lui permet de fréquenter des eaux fraîches. En 2005, une femelle équipée d'un capteur a fait l'aller-retour entre Le Cap et le sud de l'Australie : soit près de 10 000 km parcourus en moins de neuf mois. Les raisons de ces traversées restent mystérieuses."
+          "texte": "Contrairement à la plupart des poissons, il garde un corps chaud, jusqu'à 20 °C au-dessus de l'eau ambiante, ce qui lui permet de fréquenter des eaux fraîches. Au début des années 2000, une femelle équipée d'une balise, surnommée Nicole, a fait l'aller-retour entre l'Afrique du Sud et l'Australie en moins de neuf mois, soit environ 20 000 km. Les raisons de ces traversées restent mystérieuses."
         }
       ],
       "anecdotes": [
@@ -2114,7 +2115,7 @@
       "sections": [
         {
           "titre": "Un menu selon la famille",
-          "texte": "Les orques se spécialisent. Dans le Pacifique nord-est, les résidentes mangent du poisson, les nomades presque uniquement des mammifères marins, et celles de haute mer surtout des requins, dont la peau abrasive lime leurs dents jusqu'à la gencive. En Antarctique, six orques ont tué une baleine bleue de 18 m en avril 2019, rejointes par près de cinquante autres."
+          "texte": "Les orques se spécialisent. Dans le Pacifique nord-est, les résidentes mangent du poisson, les nomades presque uniquement des mammifères marins, et celles de haute mer surtout des requins, dont la peau abrasive lime leurs dents jusqu'à la gencive. En 2019, six orques ont tué une baleine bleue de 18 m, puis près de cinquante autres les ont rejointes pour le festin."
         },
         {
           "titre": "Une culture qui se transmet",
@@ -2276,7 +2277,7 @@
       "sections": [
         {
           "titre": "Une filtreuse toujours en mouvement",
-          "texte": "La manta nage autour du plancton pour le rassembler en une « balle » dense, puis fonce dessus, bouche ouverte et nageoires céphaliques déroulées. Elle consomme chaque mois environ 13 % de sa masse. Elle doit nager sans arrêt pour que l'eau oxygénée traverse ses branchies, et visite des stations de nettoyage où des poissons la débarrassent de ses parasites."
+          "texte": "La manta nage autour du plancton pour le rassembler en une « balle » dense, puis fonce dessus, bouche ouverte et nageoires céphaliques déroulées. Elle doit nager sans arrêt pour que l'eau oxygénée traverse ses branchies, et visite des stations de nettoyage où des poissons la débarrassent de ses parasites."
         },
         {
           "titre": "Une raie curieuse",
@@ -2334,7 +2335,7 @@
         },
         {
           "titre": "Un mystère pour la science",
-          "texte": "Les pêcheurs n'ont jamais trouvé de jeune anguille : c'est Johannes Schmidt qui a désigné la mer des Sargasses comme lieu de ponte, au début du XXe siècle. La reproduction n'a toujours pas été observée dans la nature. Barrages, surpêche et parasites ont fait chuter les arrivées d'environ 90 % depuis les années 1970. Boucler le cycle en captivité reste, lui, un défi."
+          "texte": "Pendant des siècles, les pêcheurs n'ont jamais capturé d'anguille qu'ils puissent reconnaître comme un juvénile : c'est le Danois Johannes Schmidt qui a désigné la mer des Sargasses comme lieu de ponte le plus probable, au début du XXe siècle. La reproduction n'a toujours pas été observée dans la nature. Barrages, surpêche et parasites ont fait chuter les arrivées d'environ 90 % depuis les années 1970. Boucler le cycle en captivité reste, lui, un défi."
         }
       ],
       "anecdotes": [
@@ -2357,7 +2358,7 @@
       "sections": [
         {
           "titre": "Une migration sur plusieurs générations",
-          "texte": "Vers le sud, le voyage se fait en une seule génération : le papillon rejoint la Sierra Nevada mexicaine, au Michoacán, où les colonies se serrent sur moins de 20 hectares. Il parcourt 80 à 120 km par jour. Au printemps, le retour vers le nord s'étale sur plusieurs générations. Sa boussole solaire se trouve dans son cerveau, et ses horloges circadiennes dans ses antennes."
+          "texte": "Vers le sud, le voyage se fait en une seule génération : le papillon rejoint les hautes forêts du Michoacán, au Mexique, où les colonies se serrent sur moins de 20 hectares. Il parcourt 80 à 120 km par jour. Au printemps, le retour vers le nord s'étale sur plusieurs générations. Sa boussole solaire se trouve dans son cerveau, et ses horloges circadiennes dans ses antennes."
         },
         {
           "titre": "Un papillon qu'on évite",
@@ -2415,7 +2416,7 @@
         },
         {
           "titre": "Bête à bon Dieu et espèce invasive",
-          "texte": "Son nom vient du latin pour « écarlate », et son surnom, de la Vierge Marie : les sept points de la coccinelle à sept points rappelleraient ses sept joies et ses sept douleurs. La coccinelle asiatique, importée contre les pucerons, est devenue envahissante et s'attaque aux larves des espèces locales. Entre 2004 et 2012, en Grande-Bretagne, sept espèces endémiques sur huit ont perdu la moitié de leurs effectifs."
+          "texte": "Son nom vient du latin coccinus, « écarlate ». En français, on la surnomme « bête à bon Dieu » ; dans d'autres langues, son nom évoque la Vierge Marie, comme ladybird en anglais ou Marienkäfer en allemand : les sept points de la coccinelle à sept points rappelleraient les sept joies et les sept douleurs de Marie. La coccinelle asiatique, importée contre les pucerons, est devenue envahissante et s'attaque aux larves des espèces locales. Entre 2004 et 2012, en Grande-Bretagne, sept espèces endémiques sur huit ont perdu la moitié de leurs effectifs."
         }
       ],
       "anecdotes": [
@@ -2438,11 +2439,11 @@
       "sections": [
         {
           "titre": "Une société en castes",
-          "texte": "Ouvriers et soldats sont stériles. Presque tous sont aveugles et communiquent par des phéromones. Les soldats défendent la colonie : certains, du genre Nasutitermes, projettent un liquide gluant et toxique. La reine peut pondre un œuf toutes les trois secondes pendant vingt ans, soit en théorie 146 millions de termites. Les castes existent depuis au moins 100 millions d'années."
+          "texte": "Ouvriers et soldats sont stériles. Presque tous sont aveugles et communiquent par des phéromones. Les soldats défendent la colonie : certains, du genre Nasutitermes, projettent un liquide gluant et toxique. La reine peut pondre un œuf toutes les trois secondes, et ce pendant une vingtaine d'années. Les castes existent depuis au moins 100 millions d'années."
         },
         {
           "titre": "Digérer le bois",
-          "texte": "Pour digérer la cellulose, les termites dits inférieurs hébergent des protozoaires qui peuvent représenter jusqu'au tiers de leur poids. Les termites champignonnistes cultivent un champignon, Termitomyces, sur des meules d'excréments. La nourriture circule d'un termite à l'autre et traverse toute la colonie en près de 3 jours. Leur digestion produit plus de méthane que celle de tout autre être vivant non bactérien."
+          "texte": "Pour digérer la cellulose, les termites dits inférieurs hébergent des protozoaires qui peuvent représenter jusqu'au tiers de leur poids. Les termites champignonnistes cultivent un champignon, Termitomyces, sur des meules d'excréments. La nourriture circule d'un termite à l'autre et traverse toute la colonie en près de 3 jours. Rapportée à leur masse, leur digestion produit plus de méthane que celle de tout autre être vivant non bactérien."
         }
       ],
       "anecdotes": [
@@ -2465,7 +2466,7 @@
       "sections": [
         {
           "titre": "Des mâles au nectar, des femelles au sang",
-          "texte": "Mâles et femelles se nourrissent de nectar et de sève, mais les femelles de nombreuses espèces piquent aussi pour obtenir ce qu'il faut à leurs œufs. Seules les femelles bourdonnent, et le bruit permet aux mâles de les repérer. Chaque femelle n'est fécondée qu'une fois dans sa vie. Un moustique vole en moyenne à 3 km/h."
+          "texte": "Mâles et femelles se nourrissent de nectar et de sève, mais les femelles de nombreuses espèces piquent aussi pour obtenir ce qu'il faut à leurs œufs. Le bourdonnement des femelles, propre à chaque espèce, permet aux mâles de les repérer. Chaque femelle n'est fécondée qu'une fois dans sa vie. Un moustique vole en moyenne à 3 km/h."
         },
         {
           "titre": "Un cycle dans l'eau",
@@ -2568,7 +2569,7 @@
     "type": "classique",
     "title": "Le mammouth laineux",
     "subtitle": "Éléphantidé des steppes glacées, disparu il y a environ 4 000 ans",
-    "summary": "Le mammouth laineux vivait dans les steppes froides d'Eurasie et d'Amérique du Nord. Il avait à peu près la taille d'un éléphant d'Afrique actuel, et son plus proche parent vivant est l'éléphant d'Asie.\nIl a disparu du continent il y a environ 10 000 ans. Quelques groupes ont tenu bon sur l'île Wrangel, jusqu'à voici 4 000 ans environ, à l'époque où l'on bâtissait les pyramides de Gizeh.",
+    "summary": "Le mammouth laineux vivait dans les steppes froides d'Eurasie et d'Amérique du Nord. Il avait à peu près la taille d'un éléphant d'Afrique actuel, et son plus proche parent vivant est l'éléphant d'Asie.\nIl a disparu du continent il y a environ 10 000 ans. Quelques groupes ont tenu bon sur l'île Wrangel jusqu'à voici 4 000 ans environ : ils vivaient donc encore quand l'Égypte bâtissait les pyramides de Gizeh.",
     "details": {
       "sections": [
         {
@@ -2667,7 +2668,7 @@
         }
       ],
       "anecdotes": [
-        "Dès l'Antiquité, on a pris ses dents pour des « langues de pierre » : Pline l'Ancien écrit qu'elles tombaient du ciel lors des éclipses de Lune. Au Moyen Âge et à la Renaissance, des nobles en faisaient des amulettes ou de la vaisselle censées détecter les poisons."
+        "Dès l'Antiquité, on a pris ses dents pour des « langues de pierre » : Pline l'Ancien rapporte qu'on les croyait tombées du ciel lors des éclipses de Lune. Au Moyen Âge et à la Renaissance, des nobles en faisaient des amulettes ou de la vaisselle censées détecter les poisons."
       ],
       "wikipedia": "Mégalodon"
     },
@@ -2681,7 +2682,7 @@
     "type": "classique",
     "title": "Le tyrannosaure",
     "subtitle": "Dinosaure carnivore d'Amérique du Nord, de 69 à 66 millions d'années",
-    "summary": "Tyrannosaurus rex, « roi des lézards tyrans », a vécu en Amérique du Nord il y a 69 à 66 millions d'années, parmi les derniers dinosaures non aviens avant l'extinction de la fin du Crétacé. Il dépassait 13 mètres de long et pouvait peser jusqu'à 8 tonnes.\nSes bras minuscules n'avaient que deux doigts, mais sa morsure passe pour la plus puissante de tous les animaux connus.",
+    "summary": "Tyrannosaurus rex, « roi des lézards tyrans », a vécu en Amérique du Nord il y a 69 à 66 millions d'années, parmi les derniers dinosaures non aviens avant l'extinction de la fin du Crétacé. Il dépassait 13 mètres de long et pouvait peser jusqu'à 8 tonnes.\nSes bras minuscules n'avaient que deux doigts, mais sa morsure compte parmi les plus puissantes de tout le règne animal.",
     "details": {
       "sections": [
         {
@@ -2722,7 +2723,7 @@
       ],
       "anecdotes": [
         "Le mot « penguin » a d'abord désigné le grand pingouin. Quand les explorateurs ont découvert, dans l'hémisphère sud, des oiseaux de silhouette semblable, ils leur ont donné ce nom : les manchots ne sont pourtant pas de proches parents.",
-        "Chez des peuples de l'Amérique du Nord, un défunt a été retrouvé couvert de plus de 200 becs de grands pingouins, restes probables d'un manteau fait de leurs peaux."
+        "Dans une sépulture de l'Archaïque maritime, une culture amérindienne du nord-est de l'Amérique du Nord, un défunt a été retrouvé couvert de plus de 200 becs de grands pingouins, restes probables d'un manteau fait de leurs peaux."
       ],
       "wikipedia": "Grand Pingouin"
     },
@@ -2880,7 +2881,7 @@
       "sections": [
         {
           "titre": "Les chimpanzés de Gombe",
-          "texte": "Sans diplôme, Jane Goodall s'installe en 1960 sur les rives du lac Tanganyika. Son observation d'un chimpanzé façonnant des brins d'herbe pour attraper des termites ébranle la définition de l'homme : Louis Leakey écrit qu'il faut redéfinir l'outil, redéfinir l'homme, ou accepter le chimpanzé comme humain. Elle montre aussi qu'ils chassent, et qu'ils peuvent être violents."
+          "texte": "Sans diplôme universitaire, Jane Goodall s'installe en 1960 sur les rives du lac Tanganyika. Son observation d'un chimpanzé façonnant des brins d'herbe pour attraper des termites ébranle la définition de l'homme : Louis Leakey écrit qu'il faut redéfinir l'outil, redéfinir l'homme, ou accepter le chimpanzé comme humain. Elle montre aussi qu'ils chassent, et qu'ils peuvent être violents."
         },
         {
           "titre": "Une autre façon de faire de la science",
@@ -2995,11 +2996,11 @@
       "sections": [
         {
           "titre": "Des catégories pour mesurer le danger",
-          "texte": "Les experts évaluent chaque espèce selon cinq critères : rythme de déclin, population totale, aire de répartition, degré de peuplement et fragmentation. Les catégories vont de « éteinte » (EX) à « préoccupation mineure » (LC), en passant par « en danger critique » (CR), « en danger » (EN), « vulnérable » (VU), « quasi menacée » (NT) et « données insuffisantes » (DD). Les trois du milieu forment les espèces « menacées »."
+          "texte": "Les experts évaluent chaque espèce selon cinq critères : rythme de déclin, population totale, aire de répartition, degré de peuplement et fragmentation. Entre « éteinte » (EX) et « préoccupation mineure » (LC) s'échelonnent « en danger critique » (CR), « en danger » (EN), « vulnérable » (VU) et « quasi menacée » (NT) : CR, EN et VU forment les espèces dites « menacées ». À part, « données insuffisantes » (DD) signale les espèces trop mal connues pour être évaluées."
         },
         {
           "titre": "Un outil d'alerte, pas une loi",
-          "texte": "L'UICN naît à Fontainebleau. Les premiers livres rouges paraissent dans les années 1960, puis la liste prend sa forme actuelle, avec environ 7 000 experts bénévoles. Elle n'a aucune valeur légale contraignante, mais guide les politiques de protection. En 2012, 41 % des amphibiens, 33 % des coraux constructeurs de récifs, 25 % des mammifères et 13 % des oiseaux étaient menacés."
+          "texte": "L'UICN naît en 1948 à Fontainebleau. La liste, lancée en 1964, prend sa forme actuelle avec la refonte de ses critères dans les années 1990 ; près de 7 000 experts, en grande partie bénévoles, la tiennent à jour. Elle n'a aucune valeur légale contraignante, mais guide les politiques de protection. En 2012, 41 % des amphibiens, 33 % des coraux constructeurs de récifs, 25 % des mammifères et 13 % des oiseaux étaient menacés."
         }
       ],
       "anecdotes": [
@@ -3075,7 +3076,7 @@
         },
         {
           "titre": "Des zoos à la steppe",
-          "texte": "Tous les chevaux actuels descendent de 9 à 12 reproducteurs, issus eux-mêmes de 13 animaux capturés vers 1900. Il n'y avait que 300 chevaux en captivité vers 1977, environ 1 800 au début du XXIe siècle. La consanguinité pose des problèmes de santé. Les premiers sont ramenés en Mongolie en 1992 ; fin 2007, environ 330 y vivaient en liberté."
+          "texte": "Tous les chevaux actuels descendent de 9 ou 12 reproducteurs selon les sources, issus eux-mêmes de 13 animaux capturés vers 1900. Il n'y avait que 300 chevaux en captivité vers 1977, environ 1 800 au début du XXIe siècle. La consanguinité pose des problèmes de santé. Les premiers sont ramenés en Mongolie en 1992 ; fin 2007, environ 330 y vivaient en liberté."
         }
       ],
       "chiffres": [

@@ -490,7 +490,7 @@
       "Max Planck"
     ],
     "bonneReponse": 0,
-    "explication": "Maxwell avait montré que toutes les couleurs peuvent se fabriquer en mélangeant rouge, vert et bleu. Ce principe est celui de la couleur à la télévision et sur nos écrans.",
+    "explication": "Maxwell avait montré que toutes les couleurs peuvent naître d'un mélange de rouge, de vert et de bleu. Sa photographie d'un ruban écossais, présentée en 1861, applique ce principe : c'est celui de la couleur à la télévision et sur nos écrans.",
     "source": "D'après Wikipédia — James Clerk Maxwell"
   },
   {
@@ -738,7 +738,7 @@
     "choix": [
       "La pesanteur ajoute à la gravité l'effet de la rotation de la Terre",
       "La gravité s'applique aux planètes, la pesanteur aux étoiles",
-      "La gravité dépend de la masse, la pesanteur de la couleur",
+      "La pesanteur s'exerce dans l'espace, la gravité seulement au sol",
       "Il n'y a aucune différence, ce sont deux mots pour la même force"
     ],
     "bonneReponse": 0,
@@ -1003,7 +1003,7 @@
     "format": "vrai-faux",
     "affirmation": "Chien-Shiung Wu a reçu le prix Nobel de physique en 1957 pour son expérience sur la parité.",
     "reponse": false,
-    "explication": "Le Nobel de physique 1957 est allé aux théoriciens Tsung-Dao Lee et Chen Ning Yang. Wu, qui avait réalisé l'expérience, n'a été honorée publiquement qu'en 1978, avec le premier prix Wolf de physique.",
+    "explication": "Le Nobel de physique 1957 est allé aux seuls théoriciens Tsung-Dao Lee et Chen Ning Yang. Wu, qui avait pourtant réalisé l'expérience décisive, n'a pas été associée au prix ; en 1978, elle reçoit le premier prix Wolf de physique.",
     "source": "D'après Wikipédia — Chien-Shiung Wu"
   },
   {
@@ -1033,7 +1033,7 @@
       "Louis Pasteur"
     ],
     "bonneReponse": 0,
-    "explication": "Le naturaliste anglais Robert Hooke découvre les cellules en 1665. Il les nomme ainsi en pensant aux alvéoles de miel des ruches. La théorie cellulaire, selon laquelle tout être vivant est fait de cellules, n'arrive qu'en 1839.",
+    "explication": "Le naturaliste anglais Robert Hooke découvre les cellules en 1665 et les nomme cellula, « petite chambre » : selon les sources, il pense aux alvéoles des ruches ou aux cellules des moines. La théorie cellulaire n'arrive qu'en 1839.",
     "source": "D'après Wikipédia — Cellule (biologie)"
   },
   {
@@ -1182,7 +1182,7 @@
       "Je suis né à Delft en 1632 et j'ai commencé comme drapier.",
       "Je n'avais aucune formation scientifique et je ne parlais ni anglais ni latin.",
       "Mes lettres envoyées à la Royal Society décrivent un monde invisible.",
-      "Je fabriquais moi-même mes microscopes, qui grossissaient jusqu'à 200 fois."
+      "Je fabriquais moi-même mes microscopes, qui grossissaient plus de 200 fois."
     ],
     "reponse": "Antoni van Leeuwenhoek",
     "explication": "Leeuwenhoek, drapier de Delft, découvre grâce à ses lentilles les protozoaires, les spermatozoïdes et les bactéries. Il garde sa technique secrète, ce qui retarde la reconnaissance de ses observations.",
@@ -1257,7 +1257,7 @@
     "id": "q-sciences-081",
     "domain": "sciences",
     "format": "qcm",
-    "question": "Quel fossile marin Mary Anning a-t-elle découvert à l'âge de 13 ans ?",
+    "question": "Quel fossile marin Mary Anning a-t-elle mis au jour, encore enfant, avec son frère Joseph ?",
     "choix": [
       "Un squelette complet d'ichtyosaure",
       "Un squelette de plésiosaure",
@@ -1265,7 +1265,7 @@
       "Un squelette de mammouth"
     ],
     "bonneReponse": 0,
-    "explication": "À 13 ans, Mary Anning exhume le premier squelette complet d'ichtyosaure. Le plésiosaure n'est trouvé qu'en 1821 et le ptérosaure en 1828. Elle ne pourra pourtant jamais entrer à la Société géologique de Londres.",
+    "explication": "En 1811, Joseph trouve un crâne ; quelques mois plus tard, Mary, 12 ou 13 ans, dégage le reste : le premier squelette complet d'ichtyosaure. Le plésiosaure ne vient qu'en 1821 et le ptérosaure en 1828, deux autres trouvailles de Mary.",
     "source": "D'après Wikipédia — Mary Anning"
   },
   {
@@ -1508,7 +1508,7 @@
       {
         "gauche": "Archimède",
         "droite": "Dénombrer les grains de sable",
-        "explication": "Il soutient que les grains de sable sont dénombrables, pas infinis."
+        "explication": "Il montre que les grains de sable ne sont pas en nombre infini : on peut les compter."
       },
       {
         "gauche": "John Wallis",

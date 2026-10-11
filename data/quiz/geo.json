@@ -554,7 +554,7 @@
       "Le Baekdu"
     ],
     "bonneReponse": 0,
-    "explication": "Le Hallasan s'élève à 1 950 m. Sur le continent, les plus hauts sommets sont le Jirisan (1 915 m) et le Seoraksan (1 708 m), dont la chaîne protège l'ouest des vents de la mer du Japon.",
+    "explication": "Le Hallasan, un volcan de l'île de Jeju, s'élève à 1 950 m. Sur le continent, les plus hauts sommets sont le Jirisan (1 915 m) et le Seoraksan (1 708 m). Le Baekdu, plus haut encore, se trouve à la frontière entre la Corée du Nord et la Chine.",
     "source": "D'après Wikipédia — Hallasan"
   },
   {
@@ -647,7 +647,7 @@
     "format": "vrai-faux",
     "affirmation": "Le cap Nord est le point le plus septentrional de la Norvège et de l'Europe.",
     "reponse": false,
-    "explication": "Le cap Nord, sur l'île de Magerøya, est le plus célèbre, mais le Knivskjellodden, situé sur la même île, se trouve plus au nord. C'est lui le véritable point le plus septentrional de l'Europe.",
+    "explication": "Le cap Nord, sur l'île de Magerøya, est le plus célèbre, mais le Knivskjellodden, sur la même île, pointe un peu plus au nord. Et l'archipel norvégien du Svalbard, en plein océan Arctique, s'étend bien plus loin encore vers le pôle.",
     "source": "D'après Wikipédia — Norvège"
   },
   {
@@ -931,7 +931,7 @@
       "La Grande Vague de Kanagawa, d'Hokusai"
     ],
     "bonneReponse": 0,
-    "explication": "Les cendres du Krakatoa ont produit des nuages lumineux visibles jusqu'en Europe du Nord. Edvard Munch les a reproduits dix ans plus tard dans Le Cri. L'éruption de 1883 a aussi fait des dizaines de milliers de victimes.",
+    "explication": "Les cendres du Krakatoa ont embrasé les couchers de soleil jusqu'en Europe du Nord. On suppose souvent qu'Edvard Munch s'en est souvenu pour le ciel rouge sang du Cri, peint en 1893, dix ans après l'éruption. Le lien reste toutefois une hypothèse.",
     "source": "D'après Wikipédia — Éruption du Krakatoa en 1883"
   },
   {
@@ -973,19 +973,19 @@
     "format": "vrai-faux",
     "affirmation": "Le Gulf Stream est la seule cause des hivers doux de l'Europe de l'Ouest.",
     "reponse": false,
-    "explication": "Faux. Cette idée, lancée en 1855 par Matthew Fontaine Maury, a longtemps figuré dans les manuels. Aujourd'hui, le rôle du Gulf Stream dans la régulation des températures, jugé prépondérant autrefois, est de plus en plus contesté.",
+    "explication": "Faux. Cette idée, avancée en 1855 par Matthew Fontaine Maury, a longtemps figuré dans les manuels. Depuis les travaux de Richard Seager en 2002, de nombreuses études attribuent surtout cette douceur aux vents d'ouest, qui apportent de l'air océanique tempéré sur le continent.",
     "source": "D'après Wikipédia — Gulf Stream"
   },
   {
     "id": "q-geo-063",
     "domain": "geo",
     "format": "associer",
-    "question": "Associe chaque sommet ou chaîne à son pays ou continent.",
+    "question": "Associe chaque sommet à son pays.",
     "paires": [
       {
-        "gauche": "Grand Canyon",
-        "droite": "États-Unis",
-        "explication": "Gorge creusée par le Colorado dans le nord de l'Arizona."
+        "gauche": "Aconcagua",
+        "droite": "Argentine",
+        "explication": "Point culminant des Andes et de tout le continent américain, à 6 962 m."
       },
       {
         "gauche": "Mont Fuji",
@@ -1003,7 +1003,7 @@
         "explication": "Sommet situé à la frontière franco-italienne, plus haut point des Alpes."
       }
     ],
-    "explication": "Chaque sommet est le point culminant de son ensemble : l'Aconcagua pour les Andes, le Fuji pour le Japon, le Kilimandjaro pour l'Afrique, le mont Blanc pour les Alpes.",
+    "explication": "Chaque sommet est un point culminant : l'Aconcagua pour les Andes, le Fuji pour le Japon, le Kilimandjaro pour l'Afrique, le mont Blanc pour les Alpes.",
     "source": "D'après Wikipédia — Cordillère des Andes"
   },
   {
@@ -1043,11 +1043,11 @@
         "annee": "1876"
       },
       {
-        "label": "Les États-Unis adoptent leurs zones horaires",
+        "label": "Les chemins de fer nord-américains adoptent des fuseaux horaires",
         "annee": "1883"
       }
     ],
-    "explication": "Le temps de Greenwich naît en 1675 pour aider les marins. Les chemins de fer britanniques unifient l'heure en 1847, la Nouvelle-Zélande suit en 1868, Fleming propose le découpage mondial en 1876 et l'Amérique du Nord adopte ses zones en 1883.",
+    "explication": "Le temps de Greenwich naît en 1675 pour aider les marins. Les chemins de fer britanniques unifient l'heure en 1847, la Nouvelle-Zélande suit en 1868, Fleming propose le découpage mondial en 1876 et les chemins de fer d'Amérique du Nord adoptent leurs fuseaux en 1883.",
     "source": "D'après Wikipédia — Fuseau horaire"
   },
   {
@@ -1077,7 +1077,7 @@
       "La Grande Mer"
     ],
     "bonneReponse": 0,
-    "explication": "On parlait de mer Océane : Le titre d'« amiral de la mer Océane » fut d'ailleurs celui de Christophe Colomb. Le nom Atlantique, lui, renvoie au Titan Atlas et à ce qui se trouvait au-delà des Colonnes d'Hercule.",
+    "explication": "On parlait de mer Océane : le titre d'« amiral de la mer Océane » fut d'ailleurs celui de Christophe Colomb. Le nom Atlantique, lui, renvoie au Titan Atlas et à ce qui se trouvait au-delà des Colonnes d'Hercule.",
     "source": "D'après Wikipédia — Océan Atlantique"
   },
   {
@@ -1223,7 +1223,7 @@
       "La fosse de la Sonde"
     ],
     "bonneReponse": 0,
-    "explication": "Challenger Deep, au sud de la fosse, dépasse 10 900 m, d'après une analyse de 2014. Il doit son nom au navire britannique Challenger, qui en a sondé le fond en 1951 après l'expédition pionnière de 1875.",
+    "explication": "Challenger Deep, au sud de la fosse, dépasse 10 900 m, d'après une analyse de 2014. Il doit son nom aux navires britanniques Challenger : l'expédition pionnière de 1875, puis le Challenger II, qui en sonde le fond en 1951.",
     "source": "D'après Wikipédia — Fosse des Mariannes"
   },
   {
@@ -1268,7 +1268,7 @@
       "Strasbourg"
     ],
     "bonneReponse": 0,
-    "explication": "Seattle est à la latitude de Nantes. Grâce au Pacifique et aux courants marins, ses hivers sont doux et arrosés, sans gel sur la côte : on parle même parfois de « climat breton ».",
+    "explication": "Seattle est à la latitude de Nantes. Grâce au Pacifique et aux courants marins, ses hivers sont doux et arrosés, avec peu de gel sur la côte : on parle même parfois de « climat breton » pour cette région du nord-ouest américain.",
     "source": "D'après Wikipédia — Climat océanique"
   },
   {
@@ -1367,7 +1367,7 @@
     "format": "vrai-faux",
     "affirmation": "Londres est la première ville à avoir organisé les Jeux olympiques d'été à trois reprises.",
     "reponse": true,
-    "explication": "Londres a organisé les Jeux d'été en 1908, en 1948 puis en 2012, ce qui en fait la première ville de l'histoire à les recevoir trois fois. Les autres villes ont ensuite pu l'égaler, mais elle a ouvert la voie.",
+    "explication": "Londres a organisé les Jeux d'été en 1908, en 1948 puis en 2012, ce qui en fait la première ville de l'histoire à les recevoir trois fois. Paris l'a rejointe en 2024, après 1900 et 1924, mais c'est bien Londres qui a ouvert la voie.",
     "source": "D'après Wikipédia — Londres"
   },
   {
@@ -1496,7 +1496,7 @@
       "Le transit de Mercure"
     ],
     "bonneReponse": 0,
-    "explication": "La Royal Society envoie Cook observer le transit de Vénus du 3 juin 1769, afin de mieux mesurer la distance entre Vénus et le Soleil. Les mesures varient plus que prévu, mais le voyage continue vers la Nouvelle-Zélande.",
+    "explication": "La Royal Society envoie Cook observer le transit de Vénus du 3 juin 1769 : ces mesures, prises en plusieurs points du globe, devaient permettre de calculer la distance entre la Terre et le Soleil. Les résultats varient plus que prévu, mais le voyage continue vers la Nouvelle-Zélande.",
     "source": "D'après Wikipédia — James Cook"
   },
   {
@@ -1519,9 +1519,9 @@
     "domain": "geo",
     "format": "qui-suis-je",
     "indices": [
-      "Né à Tanger en 1304, je suis parti à 21 ans faire le pèlerinage à La Mecque.",
-      "Mon voyage a duré près de vingt-cinq ans.",
       "J'ai visité l'Inde, l'Asie du Sud-Est et la Chine.",
+      "Mon voyage a duré près de vingt-cinq ans.",
+      "Né à Tanger en 1304, je suis parti à 21 ans faire le pèlerinage à La Mecque.",
       "Mes récits ont été rassemblés dans la Rihla."
     ],
     "reponse": "Ibn Battûta",
@@ -1557,20 +1557,20 @@
       {
         "gauche": "James Cook",
         "droite": "La côte est de l'Australie",
-        "explication": "Il y débarque à Botany Bay, après avoir longé la côte."
+        "explication": "En 1770, il la cartographie et débarque à Botany Bay."
       },
       {
         "gauche": "Roald Amundsen",
-        "droite": "Le passage du Nord-Ouest",
-        "explication": "Il le franchit à bord du Gjøa, entre 1903 et 1906."
+        "droite": "Le pôle Sud",
+        "explication": "Il l'atteint le premier, en décembre 1911, devant Scott."
       },
       {
         "gauche": "David Livingstone",
-        "droite": "Les chutes Victoria",
-        "explication": "Il les atteint sur le Zambèze et les nomme en l'honneur de la reine."
+        "droite": "La traversée de l'Afrique d'ouest en est",
+        "explication": "Parti de Luanda, il rejoint l'océan Indien en 1856 : une première pour un Européen."
       }
     ],
-    "explication": "Quatre explorateurs, quatre exploits : route des Indes pour Gama, Pacifique et Australie pour Cook, passage polaire pour Amundsen, cœur de l'Afrique pour Livingstone.",
+    "explication": "Quatre explorateurs, quatre exploits : route des Indes pour Gama, côte australienne pour Cook, pôle Sud pour Amundsen, traversée de l'Afrique pour Livingstone.",
     "source": "D'après Wikipédia — Roald Amundsen"
   },
   {

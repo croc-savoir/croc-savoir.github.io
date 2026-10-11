@@ -469,7 +469,7 @@
       "Avec plus de 400 volcans actifs, je suis l'astre le plus agité du Système solaire."
     ],
     "reponse": "Io",
-    "explication": "Io, la plus proche des lunes galiléennes, est malaxée en permanence par la gravité de Jupiter. Ce frottement interne fait fondre ses roches et alimente plus de 400 volcans actifs, qui la recouvrent de soufre et ont chassé toute son eau.",
+    "explication": "Io, la plus proche des lunes galiléennes, est malaxée en permanence par la gravité de Jupiter. Ce frottement interne fait fondre ses roches et alimente plus de 400 volcans actifs, qui la recouvrent de soufre. Cette chaleur extrême a aussi fait s'évaporer presque toute son eau.",
     "source": "D'après Wikipédia — Satellites galiléens"
   },
   {
@@ -532,13 +532,13 @@
     "format": "difference",
     "question": "Quelle est la différence entre la ceinture de Kuiper et le nuage de Oort ?",
     "choix": [
-      "La ceinture de Kuiper est un anneau de corps glacés observés au-delà de Neptune ; le nuage de Oort, une sphère supposée, environ mille fois plus lointaine",
+      "La ceinture de Kuiper est un anneau de corps glacés observés au-delà de Neptune ; le nuage de Oort, une sphère supposée, des centaines à des milliers de fois plus lointaine",
       "La ceinture de Kuiper est faite de rochers et de métaux ; le nuage de Oort, de gaz et de poussières",
       "La ceinture de Kuiper se trouve entre Mars et Jupiter ; le nuage de Oort, juste après Neptune",
       "La ceinture de Kuiper n'a jamais été observée ; le nuage de Oort a été photographié par la sonde Voyager"
     ],
     "bonneReponse": 0,
-    "explication": "Depuis 1992, on a repéré des milliers d'objets glacés dans la ceinture de Kuiper, Pluton en tête. Le nuage de Oort, lui, reste théorique : ce réservoir de comètes envelopperait tout le Système solaire, environ mille fois plus loin.",
+    "explication": "Depuis 1992, on a repéré des milliers d'objets glacés dans la ceinture de Kuiper, Pluton en tête. Le nuage de Oort, lui, reste théorique : ce réservoir de comètes envelopperait tout le Système solaire, à des milliers de fois la distance Terre-Soleil, jusqu'à plus d'une année-lumière.",
     "source": "D'après Wikipédia — Ceinture de Kuiper"
   },
   {
@@ -562,7 +562,7 @@
       "La chute d'un satellite de communication dans le Saint-Laurent"
     ],
     "bonneReponse": 0,
-    "explication": "Les rafales de vent solaire les plus violentes peuvent créer des courants dans les longues lignes électriques et faire surchauffer les transformateurs. En 1989, environ six millions de clients d'Hydro-Québec se sont ainsi retrouvés sans courant.",
+    "explication": "Les rafales de vent solaire les plus violentes peuvent créer des courants dans les longues lignes électriques et faire surchauffer les transformateurs. En 1989, environ six millions de personnes desservies par Hydro-Québec se sont ainsi retrouvées sans courant.",
     "source": "D'après Wikipédia — Vent solaire"
   },
   {
@@ -642,7 +642,7 @@
     "paires": [
       {
         "gauche": "Johann Galle",
-        "droite": "L'observe le premier à Berlin, en 1846",
+        "droite": "La repère à Berlin en 1846, guidé par Le Verrier",
         "explication": "Il a repéré la planète en moins d'une heure, le soir même où il recevait la lettre de Le Verrier."
       },
       {
@@ -709,7 +709,7 @@
         "annee": "1957"
       },
       {
-        "label": "Le pulsar binaire de Hulse et Taylor fournit une preuve indirecte",
+        "label": "Hulse et Taylor découvrent un pulsar binaire, future preuve indirecte de ces ondes",
         "annee": "1974"
       },
       {
@@ -1217,7 +1217,7 @@
         "explication": "Ce rover cherche des traces de vie passée dans le cratère Jezero, un ancien lac."
       }
     ],
-    "explication": "Chaque mission a ouvert un monde nouveau : Huygens a réussi le premier atterrissage sur une lune autre que la nôtre, Rosetta a accompagné une comète, New Horizons a dévoilé Pluton, et Perseverance prépare le retour d'échantillons martiens sur Terre.",
+    "explication": "Chaque mission a ouvert un monde nouveau : Huygens a réussi le premier atterrissage sur une lune autre que la nôtre, Rosetta a accompagné une comète, New Horizons a dévoilé Pluton, et Perseverance prélève des échantillons martiens en vue d'un futur retour sur Terre.",
     "source": "D'après Wikipédia — Cassini-Huygens"
   },
   {
@@ -1294,7 +1294,7 @@
       "Je suis le dixième Français à être allé dans l'espace."
     ],
     "reponse": "Thomas Pesquet",
-    "explication": "Né à Rouen en 1978, Thomas Pesquet a été ingénieur puis pilote de ligne avant d'être choisi par l'Agence spatiale européenne en 2009. Il a séjourné dans l'ISS en 2016-2017 puis en 2021, et détient le record européen de temps passé en sortie dans l'espace.",
+    "explication": "Né à Rouen en 1978, Thomas Pesquet a été ingénieur puis pilote de ligne avant d'être choisi par l'Agence spatiale européenne en 2009. Il a séjourné dans l'ISS en 2016-2017 puis en 2021, année où il a battu le record européen de temps passé en sortie dans l'espace.",
     "source": "D'après Wikipédia — Thomas Pesquet"
   },
   {
@@ -1335,7 +1335,7 @@
       "Fille de pasteur, je suis née en 1868 dans le Massachusetts.",
       "À l'observatoire de Harvard, j'étais payée 30 cents de l'heure pour examiner des plaques photographiques.",
       "Une maladie m'a peu à peu rendue sourde.",
-      "J'ai étudié des milliers d'étoiles variables dans les nuages de Magellan.",
+      "J'ai repéré plus de 1 700 étoiles variables dans les nuages de Magellan.",
       "J'ai découvert la relation entre la période et la luminosité des céphéides."
     ],
     "reponse": "Henrietta Swan Leavitt",
@@ -1414,7 +1414,7 @@
       "Elle est en train d'être éclipsée"
     ],
     "bonneReponse": 0,
-    "explication": "D'où le dicton « la Lune est menteuse » : en forme de D, elle croît ; en forme de C, elle décroît. L'astuce ne vaut que dans l'hémisphère nord : dans l'hémisphère sud, l'aspect de la Lune est inversé et la règle ne marche plus.",
+    "explication": "D'où le dicton « la Lune est menteuse » : quand elle dessine un D, elle croît ; quand elle dessine un C, on croirait qu'elle « croît », mais elle décroît. L'astuce ne vaut que dans l'hémisphère nord : dans l'hémisphère sud, l'aspect de la Lune est inversé.",
     "source": "D'après Wikipédia — Phase de la Lune"
   },
   {
@@ -1471,7 +1471,7 @@
     "format": "vrai-faux",
     "affirmation": "C'est Georges Lemaître lui-même qui a inventé l'expression « Big Bang ».",
     "reponse": false,
-    "explication": "Faux : Lemaître parlait d'« atome primitif ». L'expression « Big Bang » a été lancée par l'astronome Fred Hoyle en 1949, lors d'une émission de radio, pour se moquer de cette théorie. Le surnom ironique est pourtant resté.",
+    "explication": "Faux : Lemaître parlait d'« atome primitif ». L'expression « Big Bang » a été lancée par l'astronome Fred Hoyle en 1949, lors d'une émission de radio, sur un ton ironique : Hoyle défendait une théorie rivale. Le surnom est pourtant resté.",
     "source": "D'après Wikipédia — Georges Lemaître"
   },
   {
@@ -1535,12 +1535,12 @@
     "question": "Remets dans l'ordre ces étapes de la vie de William Herschel.",
     "evenements": [
       {
-        "label": "Il quitte Hanovre pour s'installer en Angleterre",
+        "label": "Il quitte Hanovre pour se réfugier en Angleterre",
         "annee": "1757"
       },
       {
-        "label": "Il devient organiste de la chapelle octogonale de Bath",
-        "annee": "1766"
+        "label": "Il donne son premier concert comme organiste de la chapelle octogonale de Bath",
+        "annee": "1767"
       },
       {
         "label": "Il découvre la planète Uranus",

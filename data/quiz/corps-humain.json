@@ -1458,5 +1458,1409 @@
     "reponse": false,
     "explication": "Seule la racine, cachée dans la peau, est vivante. La tige visible est faite de kératine morte, la même matière que les ongles. C'est pourquoi couper ses cheveux ne fait pas mal.",
     "source": "D'après Wikipédia — Cheveu"
+  },
+  {
+    "id": "q-corps-humain-094",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Que faisait Phineas Gage quand il a eu son célèbre accident, le 13 septembre 1848 ?",
+    "choix": [
+      "Il tassait de la poudre dans un trou de roche pour un chantier de chemin de fer",
+      "Il abattait un arbre dans une forêt du Vermont",
+      "Il posait des rails sur un pont en construction",
+      "Il forgeait une barre de fer chez un forgeron"
+    ],
+    "bonneReponse": 0,
+    "explication": "Gage dirigeait un chantier de chemin de fer. En tassant la poudre dans un trou de roche, il a provoqué une explosion qui a projeté sa barre de fer à travers son crâne. Il a pourtant parlé quelques minutes plus tard.",
+    "source": "D'après Wikipédia — Phineas Gage"
+  },
+  {
+    "id": "q-corps-humain-095",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quel neurologue français décrit en 1868 la triade de symptômes de la sclérose en plaques : parole hachée, mouvements saccadés des yeux et tremblement ?",
+    "choix": [
+      "Jean-Martin Charcot",
+      "Joseph Babinski",
+      "Paul Broca",
+      "Alfred Vulpian"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jean-Martin Charcot, neurologue à la Salpêtrière, propose cette triade en 1868. Son élève Joseph Babinski consacrera un traité à la maladie en 1885, et Alfred Vulpian emploie le nom « sclérose en plaques » dès 1866.",
+    "source": "D'après Wikipédia — Sclérose en plaques"
+  },
+  {
+    "id": "q-corps-humain-096",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "La synesthésie, par exemple voir les lettres en couleurs, est une maladie du cerveau.",
+    "reponse": false,
+    "explication": "C'est un phénomène neurologique non pathologique : les associations entre sens sont involontaires et durables, sans signe de maladie. Selon une estimation, environ une personne sur 23 serait synesthète, soit à peu près 4 % de la population.",
+    "source": "D'après Wikipédia — Synesthésie"
+  },
+  {
+    "id": "q-corps-humain-097",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Que relie le corps calleux, grand faisceau de fibres nerveuses du cerveau ?",
+    "choix": [
+      "L'hémisphère gauche et l'hémisphère droit",
+      "Le cerveau et le cervelet",
+      "L'hypophyse et l'hypothalamus",
+      "Le cerveau et la moelle épinière"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le corps calleux est une bande de 200 à 300 millions de fibres, longue d'environ 10 cm. Elle connecte les deux hémisphères et leur permet d'échanger des informations. Son nom latin signifie « corps dur ».",
+    "source": "D'après Wikipédia — Corps calleux"
+  },
+  {
+    "id": "q-corps-humain-098",
+    "domain": "corps-humain",
+    "format": "associer",
+    "question": "Associe chaque substance produite par le corps à son rôle.",
+    "paires": [
+      {
+        "gauche": "Cortisol",
+        "droite": "Hormone du stress qui fait monter le sucre dans le sang",
+        "explication": "Fabriqué par les surrénales, il libère de l'énergie en cas d'effort."
+      },
+      {
+        "gauche": "Ocytocine",
+        "droite": "Contraction de l'utérus et éjection du lait",
+        "explication": "Produite par l'hypothalamus, elle joue aussi un rôle dans le lien social."
+      },
+      {
+        "gauche": "Endorphine",
+        "droite": "Atténuation de la douleur et bien-être",
+        "explication": "C'est une sorte de morphine fabriquée par l'organisme lui-même."
+      }
+    ],
+    "explication": "Ces trois messagers chimiques sont produits par l'hypothalamus, l'hypophyse ou les surrénales. Chacun a un rôle majeur : gérer l'effort, accompagner la naissance et l'allaitement, ou calmer la douleur.",
+    "source": "D'après Wikipédia — Cortisol"
+  },
+  {
+    "id": "q-corps-humain-099",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "D'où vient le mot « endorphine » ?",
+    "choix": [
+      "De « morphine endogène », une morphine fabriquée par le corps",
+      "D'« Orphée », le musicien de la mythologie grecque",
+      "Du latin « fin de la douleur »",
+      "Des initiales de ses deux découvreurs"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Endo » signifie « à l'intérieur » en grec, et morphine vient de Morphée, dieu des rêves. Les endorphines agissent comme la morphine, mais le corps les fabrique lui-même, notamment lors d'un effort intense.",
+    "source": "D'après Wikipédia — Endorphine"
+  },
+  {
+    "id": "q-corps-humain-100",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Que signifie le nom « ocytocine », formé à partir du grec ?",
+    "choix": [
+      "Accouchement rapide",
+      "Hormone de l'amour",
+      "Lait abondant",
+      "Contraction douce"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nom associe « ocy », qui veut dire rapide, et « tokos », l'accouchement. L'hormone a été reconnue d'abord pour sa capacité à faire contracter l'utérus, avant qu'on lui prête un rôle dans l'attachement.",
+    "source": "D'après Wikipédia — Ocytocine"
+  },
+  {
+    "id": "q-corps-humain-101",
+    "domain": "corps-humain",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de la sclérose en plaques dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Cruveilhier décrit les lésions de la moelle",
+        "annee": "1835"
+      },
+      {
+        "label": "Vulpian emploie le nom « sclérose en plaques »",
+        "annee": "1866"
+      },
+      {
+        "label": "Charcot propose sa triade de symptômes",
+        "annee": "1868"
+      },
+      {
+        "label": "Babinski consacre un traité à la maladie",
+        "annee": "1885"
+      },
+      {
+        "label": "Le rôle majeur du virus d'Epstein-Barr est mis en évidence",
+        "annee": "2022"
+      }
+    ],
+    "explication": "En près de deux siècles, la maladie passe de la description de lésions à l'étude de ses causes. Les médecins français Cruveilhier, Vulpian, Charcot et Babinski ont joué un rôle clé, avant la piste du virus d'Epstein-Barr.",
+    "source": "D'après Wikipédia — Sclérose en plaques"
+  },
+  {
+    "id": "q-corps-humain-102",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Le taux de cortisol atteint son maximum au milieu de la nuit.",
+    "reponse": false,
+    "explication": "C'est l'inverse : le pic de cortisol se situe entre 6 h et 8 h du matin, puis la sécrétion baisse jusqu'à presque s'annuler au milieu de la nuit. Ce rythme suit le cycle du jour et de la nuit, comme celui de la mélatonine.",
+    "source": "D'après Wikipédia — Cortisol"
+  },
+  {
+    "id": "q-corps-humain-103",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Qu'appelle-t-on l'« aura » dans une migraine avec aura ?",
+    "choix": [
+      "Des troubles passagers, souvent visuels, avant la douleur",
+      "La douleur la plus forte de la crise",
+      "Les nausées qui suivent la crise",
+      "Une odeur forte qui déclenche la crise"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'aura dure de 5 à 60 minutes. Elle prend le plus souvent la forme de points scintillants ou de lignes lumineuses en zigzag. Environ une personne migraineuse sur trois la connaît, et elle peut aussi survenir sans mal de tête.",
+    "source": "D'après Wikipédia — Migraine"
+  },
+  {
+    "id": "q-corps-humain-104",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Que montrent les études menées sur les chauffeurs de taxi de Londres, à propos du cerveau ?",
+    "choix": [
+      "Leur hippocampe est modifié par la mémorisation du plan de la ville",
+      "Leur cervelet est plus petit que la moyenne",
+      "Ils ont plus de neurones à la naissance",
+      "Leur corps calleux est absent"
+    ],
+    "bonneReponse": 0,
+    "explication": "Eleanor Maguire a observé une redistribution de la matière grise dans l'hippocampe de ces chauffeurs, qui apprennent le plan de Londres. C'est un exemple célèbre de plasticité du cerveau adulte.",
+    "source": "D'après Wikipédia — Plasticité neuronale"
+  },
+  {
+    "id": "q-corps-humain-105",
+    "domain": "corps-humain",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis une maladie qui touche le cerveau et le mouvement.",
+      "Un médecin anglais m'a décrite en détail en 1817, dans un essai sur la « paralysie tremblante ».",
+      "Mes signes sont des tremblements au repos, de la lenteur et de la raideur.",
+      "Je suis liée à la disparition de neurones qui fabriquent la dopamine.",
+      "Je porte le nom de ce médecin."
+    ],
+    "reponse": "La maladie de Parkinson",
+    "explication": "James Parkinson publie en 1817 « An Essay on the Shaking Palsy ». La maladie, liée à la perte de neurones à dopamine de la substance noire, arrive en deuxième position des troubles neurodégénératifs, derrière Alzheimer.",
+    "source": "D'après Wikipédia — Maladie de Parkinson"
+  },
+  {
+    "id": "q-corps-humain-106",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Que fait l'épiglotte quand on avale ?",
+    "choix": [
+      "Elle bascule en arrière pour protéger les voies respiratoires",
+      "Elle pousse les aliments dans l'estomac",
+      "Elle produit la salive",
+      "Elle ferme l'entrée de l'estomac"
+    ],
+    "bonneReponse": 0,
+    "explication": "En basculant en arrière, l'épiglotte empêche les aliments d'entrer dans le larynx et les poumons. Les aliments descendent alors dans l'œsophage, long d'environ 25 cm, poussés par des ondes de contraction.",
+    "source": "D'après Wikipédia — Œsophage"
+  },
+  {
+    "id": "q-corps-humain-107",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Le côlon est le lieu principal de l'absorption des nutriments.",
+    "reponse": false,
+    "explication": "En amont, l'intestin grêle a déjà absorbé la quasi-totalité des nutriments ainsi que la majeure partie de l'eau. Le côlon reprend surtout l'eau et les sels minéraux restants, avec l'aide des bactéries du microbiote.",
+    "source": "D'après Wikipédia — Côlon"
+  },
+  {
+    "id": "q-corps-humain-108",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quel est le rôle de la vésicule biliaire ?",
+    "choix": [
+      "Stocker et concentrer la bile fabriquée par le foie",
+      "Fabriquer la bile à partir du cholestérol",
+      "Produire l'insuline",
+      "Filtrer le sang avant le foie"
+    ],
+    "bonneReponse": 0,
+    "explication": "La bile est fabriquée par le foie, pas par la vésicule. Celle-ci la garde en réserve, la concentre jusqu'à dix fois et la libère quand des graisses arrivent dans l'intestin, déclenchant sa contraction.",
+    "source": "D'après Wikipédia — Vésicule biliaire"
+  },
+  {
+    "id": "q-corps-humain-109",
+    "domain": "corps-humain",
+    "format": "difference",
+    "question": "Quelle est la différence entre une amnésie rétrograde et une amnésie antérograde ?",
+    "choix": [
+      "La rétrograde efface des souvenirs anciens ; l'antérograde empêche d'en former de nouveaux",
+      "La rétrograde est temporaire ; l'antérograde est toujours définitive",
+      "La rétrograde touche les gestes appris ; l'antérograde touche les mots",
+      "La rétrograde est psychologique ; l'antérograde est physique"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans l'amnésie rétrograde, on perd des informations acquises avant l'accident. Dans l'amnésie antérograde, on ne parvient plus à enregistrer de nouveaux souvenirs. Les deux types peuvent aussi coexister chez une même personne.",
+    "source": "D'après Wikipédia — Amnésie"
+  },
+  {
+    "id": "q-corps-humain-110",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Dans la médecine antique, quelle humeur était associée au caractère colérique ?",
+    "choix": [
+      "La bile jaune",
+      "Le sang",
+      "La pituite",
+      "La bile noire"
+    ],
+    "bonneReponse": 0,
+    "explication": "La bile jaune, venue du foie, rendait colérique : d'où « déverser sa bile ». La bile noire, venue de la rate, rendait mélancolique, d'où « se faire de la bile ». Le sang était associé au caractère jovial.",
+    "source": "D'après Wikipédia — Bile"
+  },
+  {
+    "id": "q-corps-humain-111",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quel virus très répandu a été identifié en 2022 comme jouant un rôle majeur dans la sclérose en plaques ?",
+    "choix": [
+      "Le virus d'Epstein-Barr",
+      "Le cytomégalovirus",
+      "Le virus de la grippe",
+      "Le virus de la rougeole"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une étude sur plus de 10 millions de militaires américains a trouvé un risque multiplié par 32 après une infection par le virus d'Epstein-Barr, et pas après d'autres virus comme le cytomégalovirus.",
+    "source": "D'après Wikipédia — Sclérose en plaques"
+  },
+  {
+    "id": "q-corps-humain-112",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Qui pose le 8 octobre 1958 le premier stimulateur cardiaque totalement implanté chez un patient ?",
+    "choix": [
+      "Åke Senning",
+      "Christiaan Barnard",
+      "Willem Einthoven",
+      "Albert Hyman"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le chirurgien suédois Åke Senning implante le premier stimulateur cardiaque entièrement interne à Arne Larsson, le 8 octobre 1958. Albert Hyman avait, lui, déposé dès 1931 un brevet pour une machine envoyant des impulsions au cœur.",
+    "source": "D'après Wikipédia — Stimulateur cardiaque"
+  },
+  {
+    "id": "q-corps-humain-113",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Pour quels travaux Willem Einthoven reçoit-il le prix Nobel en 1924 ?",
+    "choix": [
+      "L'électrocardiographie",
+      "La découverte des groupes sanguins",
+      "L'invention du stéthoscope",
+      "La découverte des rayons X"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1895, Willem Einthoven identifie les ondulations P, Q, R, S et T du tracé du cœur, puis adopte en 1901 le galvanomètre à cordes. Ces travaux sur l'électrocardiographie lui valent le Nobel en 1924.",
+    "source": "D'après Wikipédia — Électrocardiographie"
+  },
+  {
+    "id": "q-corps-humain-114",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Un infarctus du myocarde peut se produire sans aucun symptôme.",
+    "reponse": true,
+    "explication": "Certains infarctus sont dits « silencieux » : on ne les découvre que plus tard, sur un électrocardiogramme ou une prise de sang. Selon l'article anglais de Wikipédia, ils représentent de 22 à 64 % des infarctus.",
+    "source": "D'après Wikipédia — Infarctus du myocarde"
+  },
+  {
+    "id": "q-corps-humain-115",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "D'où le système sanguin Rhésus tire-t-il son nom ?",
+    "choix": [
+      "D'un singe, le macaque rhésus",
+      "D'un médecin nommé Rhésus",
+      "D'un mot grec signifiant « sang »",
+      "D'une région d'Asie du Sud-Est"
+    ],
+    "bonneReponse": 0,
+    "explication": "Karl Landsteiner et Alexander Wiener ont immunisé un lapin avec des globules rouges de macaque rhésus, vers la fin des années 1930. On a réalisé plus tard que le facteur humain diffère de celui du singe, mais le nom s'était imposé.",
+    "source": "D'après Wikipédia — Système Rhésus"
+  },
+  {
+    "id": "q-corps-humain-116",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Que signifie littéralement le mot « hémophilie », formé à partir du grec ?",
+    "choix": [
+      "L'amour du sang",
+      "La peur du sang",
+      "Le sang fragile",
+      "Le sang lent"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot associe haîma, « sang », et philía, « amour ». Cette maladie héréditaire de la coagulation a aussi été nommée « maladie royale », car la reine Victoria l'a transmise à plusieurs familles royales d'Europe.",
+    "source": "D'après Wikipédia — Hémophilie"
+  },
+  {
+    "id": "q-corps-humain-117",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Comment s'appelle la très grosse cellule de la moelle osseuse qui se fragmente pour donner les plaquettes ?",
+    "choix": [
+      "Le mégacaryocyte",
+      "Le macrophage",
+      "Le lymphocyte",
+      "L'érythroblaste"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les plaquettes ne sont pas de vraies cellules, mais des fragments de mégacaryocytes. Avec 100 à 150 micromètres, c'est la plus grosse cellule de la moelle osseuse, mais aussi la plus rare.",
+    "source": "D'après Wikipédia — Thrombocyte"
+  },
+  {
+    "id": "q-corps-humain-118",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "À quoi sert le surfactant sécrété dans les alvéoles pulmonaires ?",
+    "choix": [
+      "À éviter qu'elles ne s'affaissent",
+      "À filtrer les poussières",
+      "À transporter l'oxygène dans le sang",
+      "À produire le mucus des bronches"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une alvéole ressemble à une petite bulle, qui tend à s'écraser. Le surfactant, un film de graisses fabriqué par les cellules de type II, réduit la tension de surface et aide les alvéoles à se rouvrir après chaque expiration.",
+    "source": "D'après Wikipédia — Alvéole pulmonaire"
+  },
+  {
+    "id": "q-corps-humain-119",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Mis bout à bout, les capillaires sanguins d'un corps humain mesureraient environ 100 000 kilomètres.",
+    "reponse": false,
+    "explication": "C'est un chiffre très répandu, mais Wikipédia le juge faux : la longueur cumulée des capillaires serait plutôt de 9 000 à 19 000 kilomètres. Ces vaisseaux de 8 à 10 micromètres de large restent pourtant les plus fins du corps.",
+    "source": "D'après Wikipédia — Capillaire sanguin"
+  },
+  {
+    "id": "q-corps-humain-120",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Dans quelle œuvre antique le mot grec ásthma, à l'origine du mot « asthme », apparaît-il pour la première fois ?",
+    "choix": [
+      "L'Iliade d'Homère",
+      "Les Aphorismes d'Hippocrate",
+      "La République de Platon",
+      "Les Perses d'Eschyle"
+    ],
+    "bonneReponse": 0,
+    "explication": "Homère emploie ásthma dans l'Iliade pour décrire la suffocation du héros Hector. Eschyle, Platon puis Hippocrate reprennent ensuite le mot, ce dernier dans un sens médical. Il signifie « respiration difficile ».",
+    "source": "D'après Wikipédia — Asthme"
+  },
+  {
+    "id": "q-corps-humain-121",
+    "domain": "corps-humain",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom vient du latin amygdala, qui signifie « amande ».",
+      "Je suis en réalité un ensemble d'au moins 13 noyaux de neurones.",
+      "Je suis située dans le lobe temporal, en avant de l'hippocampe.",
+      "Je fais partie du système limbique.",
+      "Je joue le rôle de système d'alerte face à la peur."
+    ],
+    "reponse": "L'amygdale",
+    "explication": "L'amygdale évalue la dimension émotionnelle de ce que nous percevons et déclenche les réactions du corps, notamment face au danger. Elle doit son nom à sa forme d'amande, repérée par Karl Burdach en 1822.",
+    "source": "D'après Wikipédia — Amygdale (cerveau)"
+  },
+  {
+    "id": "q-corps-humain-122",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Qui propose le mot « synapse » en 1897 pour nommer la zone de contact entre deux neurones ?",
+    "choix": [
+      "Charles Sherrington",
+      "Santiago Ramón y Cajal",
+      "Camillo Golgi",
+      "Rudolf Virchow"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le physiologiste britannique Charles Sherrington propose ce terme en 1897. Il vient du grec synapsis, « conjonction », suggéré par un ami de son éditeur. Cajal et Golgi, eux, se partagent le Nobel en 1906.",
+    "source": "D'après Wikipédia — Synapse"
+  },
+  {
+    "id": "q-corps-humain-123",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Comment appelle-t-on les petits espaces sans myéline le long d'un axone, où l'influx nerveux se régénère ?",
+    "choix": [
+      "Les nœuds de Ranvier",
+      "Les nœuds de Schwann",
+      "Les fentes synaptiques",
+      "Les internœuds"
+    ],
+    "bonneReponse": 0,
+    "explication": "La gaine de myéline laisse à nu de petits segments d'environ un micromètre, les nœuds de Ranvier. L'influx saute de l'un à l'autre, ce qu'on nomme la conduction saltatoire, bien plus rapide qu'une propagation continue.",
+    "source": "D'après Wikipédia — Myéline"
+  },
+  {
+    "id": "q-corps-humain-124",
+    "domain": "corps-humain",
+    "format": "difference",
+    "question": "Quelle est la différence entre une synapse chimique et une synapse électrique ?",
+    "choix": [
+      "La chimique passe par des neurotransmetteurs, l'électrique par des jonctions communicantes",
+      "La chimique relie deux muscles, l'électrique deux neurones",
+      "La chimique transmet dans les deux sens, l'électrique dans un seul sens",
+      "La chimique n'existe que chez l'enfant, l'électrique chez l'adulte"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans la synapse chimique, la plus courante, un neurotransmetteur traverse la fente synaptique. Dans la synapse électrique, bien plus rare, le courant passe directement par des jonctions communicantes, avec une fente de 2 nanomètres seulement.",
+    "source": "D'après Wikipédia — Synapse"
+  },
+  {
+    "id": "q-corps-humain-125",
+    "domain": "corps-humain",
+    "format": "difference",
+    "question": "Quelle est la différence entre l'hémostase primaire et l'hémostase secondaire ?",
+    "choix": [
+      "La primaire forme le clou de plaquettes, la secondaire le renforce avec de la fibrine",
+      "La primaire dissout le caillot, la secondaire le fabrique",
+      "La primaire concerne les veines, la secondaire les artères",
+      "La primaire dure des jours, la secondaire quelques secondes"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'hémostase primaire correspond au clou plaquettaire qui bouche la brèche. L'hémostase secondaire, qui démarre en même temps, est la cascade des facteurs de coagulation, qui aboutit à un réseau de fibrine renforçant le clou.",
+    "source": "D'après Wikipédia — Coagulation sanguine"
+  },
+  {
+    "id": "q-corps-humain-126",
+    "domain": "corps-humain",
+    "format": "associer",
+    "question": "Associe chaque scientifique à son apport.",
+    "paires": [
+      {
+        "gauche": "Willem Einthoven",
+        "droite": "Les ondes P, Q, R, S et T de l'ECG",
+        "explication": "Elles forment le tracé de l'activité électrique du cœur."
+      },
+      {
+        "gauche": "Camillo Golgi",
+        "droite": "Une coloration à l'argent des neurones",
+        "explication": "Sa méthode ne teint que quelques cellules à la fois, bien visibles."
+      },
+      {
+        "gauche": "Rudolf Virchow",
+        "droite": "Le mot « myéline »",
+        "explication": "Il forge le terme d'après le grec myelos, la moelle."
+      },
+      {
+        "gauche": "Charles Sherrington",
+        "droite": "Le mot « synapse »",
+        "explication": "Il propose ce terme de « jonction » en 1897."
+      }
+    ],
+    "explication": "Chacun de ces scientifiques a marqué l'étude du cœur ou du système nerveux, par un instrument, une technique ou un mot qui sont toujours utilisés aujourd'hui.",
+    "source": "D'après Wikipédia — Synapse"
+  },
+  {
+    "id": "q-corps-humain-127",
+    "domain": "corps-humain",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire du stimulateur cardiaque dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Galvani refait avec succès son expérience sur le cœur",
+        "annee": "1791"
+      },
+      {
+        "label": "Albert Hyman dépose un brevet de machine à impulsions",
+        "annee": "1931"
+      },
+      {
+        "label": "Premier modèle fonctionnant sur batterie",
+        "annee": "1957"
+      },
+      {
+        "label": "Premier stimulateur totalement implanté, par Åke Senning",
+        "annee": "1958"
+      },
+      {
+        "label": "Création du premier défibrillateur implantable",
+        "annee": "1985"
+      }
+    ],
+    "explication": "De l'expérience de Galvani sur un cœur en 1791 au défibrillateur implantable de 1985, il aura fallu près de deux siècles. Le grand tournant est l'implant de 1958 posé par Åke Senning sur Arne Larsson.",
+    "source": "D'après Wikipédia — Stimulateur cardiaque"
+  },
+  {
+    "id": "q-corps-humain-128",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Chez les oiseaux, les thrombocytes possèdent un noyau, contrairement aux plaquettes des mammifères.",
+    "reponse": true,
+    "explication": "Chez les mammifères, les plaquettes sont des fragments de cellules sans noyau. Chez les oiseaux et les autres vertébrés non mammifères, les thrombocytes circulent comme des cellules entières, avec un noyau.",
+    "source": "D'après Wikipédia — Thrombocyte"
+  },
+  {
+    "id": "q-corps-humain-129",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Selon Aristote, à quoi servait le cerveau ?",
+    "choix": [
+      "À refroidir le sang chauffé par le cœur",
+      "À fabriquer les cellules du sang",
+      "À abriter la pensée et les émotions",
+      "À produire les rêves"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour Aristote, pensées et émotions résidaient dans le cœur, et le cerveau n'était qu'un refroidisseur du sang. Hippocrate pensait à l'inverse que le cerveau abritait les sensations et les perceptions.",
+    "source": "D'après Wikipédia — Cortex cérébral"
+  },
+  {
+    "id": "q-corps-humain-130",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quelle enzyme de la salive commence à digérer l'amidon dès la bouche ?",
+    "choix": [
+      "L'amylase",
+      "La pepsine",
+      "La lipase",
+      "La trypsine"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'amylase salivaire, aussi appelée ptyaline, coupe l'amidon en sucres plus simples. Environ 30 % de la digestion de l'amidon a lieu dans la bouche, tant que la nourriture n'est pas trop chaude.",
+    "source": "D'après Wikipédia — Salive"
+  },
+  {
+    "id": "q-corps-humain-131",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Chez les mammifères, l'appendice n'est apparu qu'une seule fois au cours de l'évolution.",
+    "reponse": false,
+    "explication": "Faux : chez les mammifères, l'appendice a surgi au moins 16 fois, indépendamment, et a bien moins souvent disparu. Cette asymétrie suggère qu'il apporte un avantage, par exemple pour l'immunité.",
+    "source": "D'après Wikipédia — Appendice iléo-cæcal"
+  },
+  {
+    "id": "q-corps-humain-132",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "À partir de quel volume d'urine environ l'envie d'uriner se fait-elle sentir chez l'adulte ?",
+    "choix": [
+      "Environ 50 ml",
+      "Environ 150 ml",
+      "Environ 300 ml",
+      "Environ 1 litre"
+    ],
+    "bonneReponse": 2,
+    "explication": "Les récepteurs d'étirement de la paroi de la vessie signalent au cerveau l'envie d'uriner vers 300 ml. Sa contenance habituelle chez l'adulte est du même ordre, jusqu'à 600 ml.",
+    "source": "D'après Wikipédia — Vessie"
+  },
+  {
+    "id": "q-corps-humain-133",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quel déchet, issu de la dégradation de l'hémoglobine des vieux globules rouges, donne sa couleur jaune à l'urine ?",
+    "choix": [
+      "L'urobiline",
+      "La mélanine",
+      "Le carotène",
+      "L'hémoglobine"
+    ],
+    "bonneReponse": 0,
+    "explication": "La teinte jaune de l'urine vient surtout de l'urobiline, produite quand l'hémoglobine des globules rouges vieillissants est dégradée. Plus on boit, plus l'urine est diluée et claire.",
+    "source": "D'après Wikipédia — Urine"
+  },
+  {
+    "id": "q-corps-humain-134",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quelle molécule fait le lien entre l'anabolisme, qui la consomme, et le catabolisme, qui la produit ?",
+    "choix": [
+      "L'ATP",
+      "L'ADN",
+      "Le glucagon",
+      "L'amylase"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'ATP est la « monnaie énergétique » des cellules : les réactions de dégradation la fabriquent, celles de construction la dépensent. Le corps en régénère sans cesse, jusqu'à son poids chaque jour.",
+    "source": "D'après Wikipédia — Métabolisme"
+  },
+  {
+    "id": "q-corps-humain-135",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Que signifie littéralement le mot « glycémie », formé sur le grec glukus et haima ?",
+    "choix": [
+      "Sang doux",
+      "Sucre du foie",
+      "Eau du sang",
+      "Chaleur du sang"
+    ],
+    "bonneReponse": 0,
+    "explication": "Glukus veut dire « doux » et haima « sang » : la glycémie est donc la douceur du sang, c'est-à-dire sa teneur en glucose. Elle est finement réglée par l'insuline et le glucagon.",
+    "source": "D'après Wikipédia — Glycémie"
+  },
+  {
+    "id": "q-corps-humain-136",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Le hoquet touche aussi le fœtus.",
+    "reponse": true,
+    "explication": "Vrai : le hoquet touche toute la population humaine, fœtus compris, et même d'autres mammifères. Il est très fréquent à la naissance et diminue ensuite avec l'âge. Son rôle exact reste mal compris.",
+    "source": "D'après Wikipédia — Hoquet"
+  },
+  {
+    "id": "q-corps-humain-137",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quelle maladie du système nerveux, dont le nom lui a longtemps été associé, Jean-Martin Charcot a-t-il décrite en 1869 ?",
+    "choix": [
+      "La sclérose latérale amyotrophique",
+      "La maladie d'Alzheimer",
+      "La maladie de Parkinson",
+      "L'épilepsie"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1869, Charcot décrit la sclérose latérale amyotrophique (SLA), parfois appelée maladie de Charcot. Un an plus tôt, avec Vulpian, il avait décrit la sclérose en plaques et l'avait distinguée de la maladie de Parkinson.",
+    "source": "D'après Wikipédia — Jean-Martin Charcot"
+  },
+  {
+    "id": "q-corps-humain-138",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Que montrent les données épidémiologiques sur l'alimentation pauvre en calcium et les calculs urinaires ?",
+    "choix": [
+      "Elle augmente le risque de calculs",
+      "Elle supprime le risque de calculs",
+      "Elle n'a aucun effet",
+      "Elle ne concerne que les enfants"
+    ],
+    "bonneReponse": 0,
+    "explication": "Contre l'idée reçue, manquer de calcium dans l'assiette accroît le risque de calculs, même si la plupart contiennent de l'oxalate de calcium. Dans l'intestin, le calcium capte l'oxalate et limite son passage vers l'urine.",
+    "source": "D'après Wikipédia — Lithiase urinaire"
+  },
+  {
+    "id": "q-corps-humain-139",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Combien vaut une petite calorie (cal) en joules ?",
+    "choix": [
+      "Environ 0,418 joule",
+      "Environ 4,184 joules",
+      "Environ 41,84 joules",
+      "Environ 4 184 joules"
+    ],
+    "bonneReponse": 1,
+    "explication": "Une petite calorie, qui chauffe un gramme d'eau d'un degré, vaut environ 4,184 joules. C'est la kilocalorie, mille fois plus grande, que l'on appelle simplement « calorie » en diététique.",
+    "source": "D'après Wikipédia — Calorie"
+  },
+  {
+    "id": "q-corps-humain-140",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Un gramme de graisse apporte moins d'énergie qu'un gramme de glucides.",
+    "reponse": false,
+    "explication": "Faux : les graisses apportent environ 9 kilocalories par gramme, contre environ 4 pour les glucides et les protéines. C'est pourquoi elles sont les aliments les plus riches en énergie.",
+    "source": "D'après Wikipédia — Calorie"
+  },
+  {
+    "id": "q-corps-humain-141",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quel nom Walter Cannon donnera-t-il plus tard à la constance du « milieu intérieur » imaginé par Claude Bernard ?",
+    "choix": [
+      "L'homéostasie",
+      "L'hémostase",
+      "L'hématopoïèse",
+      "L'hypnose"
+    ],
+    "bonneReponse": 0,
+    "explication": "Claude Bernard montre vers 1850 que le corps maintient stable le milieu qui baigne ses cellules. Le physiologiste américain Walter Cannon baptisera plus tard ce principe d'équilibre « homéostasie ».",
+    "source": "D'après Wikipédia — Claude Bernard"
+  },
+  {
+    "id": "q-corps-humain-142",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Avec quel objet René Laennec a-t-il fabriqué son premier stéthoscope en 1816 ?",
+    "choix": [
+      "Une feuille de papier roulée en cylindre",
+      "Un tube de verre",
+      "Une corne d'animal",
+      "Un entonnoir en métal"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour écouter le cœur d'une patiente sans coller l'oreille à sa poitrine, Laennec roule une feuille de papier. L'idée lui serait venue d'enfants jouant avec une poutre. Il nomme l'objet stéthoscope, du grec « poitrine ».",
+    "source": "D'après Wikipédia — René Laennec"
+  },
+  {
+    "id": "q-corps-humain-143",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quelle théorie Santiago Ramón y Cajal a-t-il établie, face au réseau continu défendu par Golgi ?",
+    "choix": [
+      "La théorie neuronale : les neurones sont des cellules séparées",
+      "La théorie des humeurs",
+      "La théorie des germes",
+      "La théorie réticulaire"
+    ],
+    "bonneReponse": 0,
+    "explication": "Grâce à la coloration à l'argent de Golgi qu'il a perfectionnée, Cajal prouve que les neurones sont des cellules distinctes, que de minces intervalles séparent : Sherrington les appellera synapses. Les deux hommes partagent le Nobel 1906.",
+    "source": "D'après Wikipédia — Santiago Ramón y Cajal"
+  },
+  {
+    "id": "q-corps-humain-144",
+    "domain": "corps-humain",
+    "format": "qui-suis-je",
+    "indices": [
+      "Fils de prêtre, j'ai quitté le séminaire pour les sciences naturelles.",
+      "J'ai étudié la salive et les sécrétions digestives du chien.",
+      "En 1904, j'ai reçu le prix Nobel pour mes travaux sur la digestion.",
+      "Mes chiens salivaient avant même de recevoir leur repas."
+    ],
+    "reponse": "Ivan Pavlov",
+    "explication": "Ivan Pavlov, premier Russe à recevoir le Nobel de physiologie ou médecine (1904), a découvert les réflexes conditionnels en observant que ses chiens salivaient avant même d'être nourris.",
+    "source": "D'après Wikipédia — Ivan Pavlov"
+  },
+  {
+    "id": "q-corps-humain-145",
+    "domain": "corps-humain",
+    "format": "frise",
+    "question": "Remets ces événements dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Laennec invente le stéthoscope",
+        "annee": "1816"
+      },
+      {
+        "label": "Claude Bernard publie son livre sur la médecine expérimentale",
+        "annee": "1865"
+      },
+      {
+        "label": "Yersin découvre le bacille de la peste",
+        "annee": "1894"
+      },
+      {
+        "label": "Cajal reçoit le prix Nobel avec Golgi",
+        "annee": "1906"
+      },
+      {
+        "label": "Ehrlich met au point le Salvarsan",
+        "annee": "1909"
+      }
+    ],
+    "explication": "Du papier roulé de Laennec (1816) au Salvarsan d'Ehrlich (1909), la médecine gagne en méthode : expérimentation avec Bernard, identification du microbe de la peste par Yersin, puis Nobel de neurosciences pour Cajal.",
+    "source": "D'après Wikipédia — Paul Ehrlich"
+  },
+  {
+    "id": "q-corps-humain-146",
+    "domain": "corps-humain",
+    "format": "difference",
+    "question": "Quelle est la différence entre une calorie et une kilocalorie ?",
+    "choix": [
+      "Une kilocalorie vaut mille calories ; en diététique, « calorie » désigne en fait la kilocalorie",
+      "Une calorie mesure la chaleur et une kilocalorie le poids des aliments",
+      "Il n'y a aucune différence, ce sont deux noms pour la même unité",
+      "Une kilocalorie vaut un millième de calorie"
+    ],
+    "bonneReponse": 0,
+    "explication": "La petite calorie chauffe un gramme d'eau d'un degré ; la kilocalorie ou grande calorie, mille fois plus grande, en chauffe un kilogramme. Les étiquettes alimentaires parlent de « calories » mais comptent en kilocalories.",
+    "source": "D'après Wikipédia — Calorie"
+  },
+  {
+    "id": "q-corps-humain-147",
+    "domain": "corps-humain",
+    "format": "associer",
+    "question": "Associe chaque médecin à son apport.",
+    "paires": [
+      {
+        "gauche": "Joseph Lister",
+        "droite": "L'antisepsie au phénol",
+        "explication": "Il désinfecte instruments et plaies avec du phénol pour réduire les infections."
+      },
+      {
+        "gauche": "Paul Ehrlich",
+        "droite": "La « balle magique » et le Salvarsan",
+        "explication": "Il imagine un médicament ciblant le microbe et met au point un médicament ciblé."
+      },
+      {
+        "gauche": "Alexandre Yersin",
+        "droite": "Le bacille de la peste",
+        "explication": "Il l'isole à Hong Kong ; le microbe s'appelle aujourd'hui Yersinia pestis."
+      },
+      {
+        "gauche": "Ivan Pavlov",
+        "droite": "Le réflexe conditionnel",
+        "explication": "Ses chiens salivent avant le repas, quand un signal annonce la nourriture."
+      }
+    ],
+    "explication": "Quatre grands noms de la médecine : Lister contre l'infection des plaies, Ehrlich pour la chimiothérapie, Yersin pour le microbe de la peste, Pavlov pour les réflexes appris.",
+    "source": "D'après Wikipédia — Joseph Lister"
+  },
+  {
+    "id": "q-corps-humain-148",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Qui a baptisé de lettres, de P à T, les différentes ondes de l'électrocardiogramme, encore utilisées aujourd'hui ?",
+    "choix": [
+      "Willem Einthoven",
+      "Augustus Waller",
+      "Carlo Matteucci",
+      "Norman Holter"
+    ],
+    "bonneReponse": 0,
+    "explication": "Einthoven a désigné chaque creux et chaque bosse du tracé de son galvanomètre à cordes par une lettre. Waller avait parlé d'électrocardiogramme avant lui, mais c'est la convention d'Einthoven qui a traversé plus d'un siècle de cardiologie.",
+    "source": "D'après Wikipédia — Willem Einthoven"
+  },
+  {
+    "id": "q-corps-humain-149",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Avec qui Frederick Banting a-t-il partagé l'argent de son prix Nobel de 1923 ?",
+    "choix": [
+      "Charles Best, son jeune assistant",
+      "James Collip, le chimiste",
+      "Clarence Starr, son ancien chef",
+      "Edwin Seacole, un médecin"
+    ],
+    "bonneReponse": 0,
+    "explication": "Banting a partagé son prix avec Charles Best, étudiant qui l'avait aidé à Toronto en 1921. De son côté, John Macleod, colauréat, a cédé une partie de la sienne au chimiste James Collip, qui avait purifié l'insuline.",
+    "source": "D'après Wikipédia — Frederick Banting"
+  },
+  {
+    "id": "q-corps-humain-150",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Comment Mary Seacole est-elle partie pour la guerre de Crimée ?",
+    "choix": [
+      "Elle a emprunté l'argent et voyagé par ses propres moyens",
+      "Elle faisait partie des 38 infirmières de Florence Nightingale",
+      "Elle y a été envoyée par le ministère de la Guerre",
+      "Elle a suivi un régiment jamaïcain sur son bateau"
+    ],
+    "bonneReponse": 0,
+    "explication": "Refusée par le ministère de la Guerre et absente du groupe de 38 infirmières de Florence Nightingale, Mary Seacole a emprunté de l'argent et parcouru seule 6 500 kilomètres pour soigner les soldats en Crimée.",
+    "source": "D'après Wikipédia — Mary Seacole"
+  },
+  {
+    "id": "q-corps-humain-151",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Dans son traité al-Judari wa al-Hasbah, Rhazès décrit deux maladies comme distinctes. Lesquelles ?",
+    "choix": [
+      "La variole et la rougeole",
+      "La peste et le choléra",
+      "La diphtérie et la coqueluche",
+      "La tuberculose et la lèpre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Rhazès fait partie des premiers médecins à distinguer la variole (petite vérole) de la rougeole, avec des descriptions de symptômes très précises. Son livre sera traduit dans plus d'une douzaine de langues.",
+    "source": "D'après Wikipédia — Rhazès"
+  },
+  {
+    "id": "q-corps-humain-152",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Contre quelle maladie infantile Émile Roux a-t-il développé un sérum célèbre à partir de 1891 ?",
+    "choix": [
+      "La diphtérie",
+      "Le tétanos",
+      "La tuberculose",
+      "Le choléra"
+    ],
+    "bonneReponse": 0,
+    "explication": "Avec Alexandre Yersin, Roux avait isolé la toxine de la diphtérie en 1888, puis il a mis au point un sérum. Les essais ont montré un net recul de la mortalité chez les enfants, et Roux fut salué comme un héros de la science.",
+    "source": "D'après Wikipédia — Émile Roux"
+  },
+  {
+    "id": "q-corps-humain-153",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quel médicament introduit par Henri Laborit en 1951 est le premier neuroleptique ?",
+    "choix": [
+      "La chlorpromazine",
+      "L'érythromycine",
+      "La streptomycine",
+      "La vancomycine"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cherchant à mieux protéger ses opérés du choc, Laborit obtient la chlorpromazine (code 4560 RP) en 1951. Il remarque qu'elle rend les patients indifférents à leur entourage, ce qui l'amène à suggérer de la tester en psychiatrie.",
+    "source": "D'après Wikipédia — Henri Laborit"
+  },
+  {
+    "id": "q-corps-humain-154",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Pourquoi l'échographiste applique-t-il un gel sur la peau avant de poser la sonde ?",
+    "choix": [
+      "Pour chasser l'air, qui bloquerait presque tous les ultrasons",
+      "Pour refroidir la sonde",
+      "Pour colorer les organes à l'écran",
+      "Pour anesthésier la peau"
+    ],
+    "bonneReponse": 0,
+    "explication": "Entre la sonde et la peau, une mince couche d'air arrêterait presque tout le signal. Le gel, choisi pour que les ultrasons le traversent presque comme la peau, les laisse passer et rend l'image possible.",
+    "source": "D'après Wikipédia — Échographie"
+  },
+  {
+    "id": "q-corps-humain-155",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Qui ont reçu le prix Nobel de médecine de 1979 pour la mise au point du scanner ?",
+    "choix": [
+      "Godfrey Hounsfield et Allan Cormack",
+      "Paul Lauterbur et Peter Mansfield",
+      "John Wild et Ian Donald",
+      "Wilhelm Röntgen et Marie Curie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hounsfield, ingénieur britannique d'un laboratoire financé par EMI, a construit le premier scanner au début des années 1970, à partir des travaux publiés plus tôt par le physicien Allan Cormack. Ils ont partagé le Nobel de 1979.",
+    "source": "D'après Wikipédia — Tomodensitométrie"
+  },
+  {
+    "id": "q-corps-humain-156",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "De combien Joseph Lister a-t-il fait baisser la mortalité des opérations en 1869 grâce au phénol ?",
+    "choix": [
+      "De 60 % à 15 %",
+      "De 90 % à 80 %",
+      "De 30 % à 25 %",
+      "De 15 % à 1 %"
+    ],
+    "bonneReponse": 0,
+    "explication": "Inspiré par les travaux de Pasteur, Lister vaporise du phénol et traite instruments, plaies et blouses. En 1869, la mortalité opératoire tombe de 60 à 15 % chez ses patients. Sa méthode est acceptée de tous dans les années 1880.",
+    "source": "D'après Wikipédia — Joseph Lister"
+  },
+  {
+    "id": "q-corps-humain-157",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Qui a reçu le prix Nobel de médecine en 2023 pour les découvertes qui ont permis les vaccins à ARN messager ?",
+    "choix": [
+      "Katalin Karikó et Drew Weissman",
+      "Shinya Yamanaka et James Thomson",
+      "Ernest McCulloch et James Till",
+      "Selman Waksman et Albert Schatz"
+    ],
+    "bonneReponse": 0,
+    "explication": "Karikó et Weissman ont montré que des nucléosides modifiés permettent à l'ARN d'entrer dans les cellules sans déclencher une forte réponse de défense. Cela a rendu possibles les vaccins à ARN efficaces contre la Covid-19.",
+    "source": "D'après Wikipédia — Vaccin à ARN"
+  },
+  {
+    "id": "q-corps-humain-158",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Le premier endoscope a été inventé en 1852 par le Français Antonin Jean Desormeaux.",
+    "reponse": true,
+    "explication": "Desormeaux invente le premier endoscope en 1852, puis le mot entre en français en 1866. L'endoscopie progressera avec les fibres optiques à la fin des années 1950 et les caméras miniatures des années 1980.",
+    "source": "D'après Wikipédia — Endoscopie"
+  },
+  {
+    "id": "q-corps-humain-159",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Dans la résistance aux antibiotiques, c'est le corps du patient qui s'habitue au médicament.",
+    "reponse": false,
+    "explication": "La résistance est une propriété du microbe, pas de la personne. Les bactéries qui survivent à un antibiotique se multiplient et transmettent leurs gènes de résistance. Pourtant, 75 % des personnes interrogées par l'OMS croyaient le contraire.",
+    "source": "D'après Wikipédia — Résistance aux antibiotiques"
+  },
+  {
+    "id": "q-corps-humain-160",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Chez l'adulte, les cellules souches neurales ne se trouvent que dans deux régions du cerveau.",
+    "reponse": true,
+    "explication": "Chez les mammifères adultes, les cellules souches neurales sont présentes seulement dans l'hippocampe et dans la zone sous-ventriculaire, près des ventricules latéraux. Les cellules souches adultes sont rares et cachées dans des niches.",
+    "source": "D'après Wikipédia — Cellule souche"
+  },
+  {
+    "id": "q-corps-humain-161",
+    "domain": "corps-humain",
+    "format": "associer",
+    "question": "Associe chaque antibiotique ou famille d'antibiotiques à celui qui l'a mis au point ou découvert.",
+    "paires": [
+      {
+        "gauche": "Pénicilline",
+        "droite": "Alexander Fleming",
+        "explication": "Il la remarque en 1928 dans des boîtes de culture contaminées."
+      },
+      {
+        "gauche": "Prontosil, premier antibiotique de synthèse",
+        "droite": "Gerhard Domagk",
+        "explication": "Il le met au point en 1932 chez Bayer."
+      },
+      {
+        "gauche": "Streptomycine",
+        "droite": "Selman Waksman",
+        "explication": "Découverte en 1944, premier antibiotique actif contre le bacille de Koch."
+      },
+      {
+        "gauche": "Tyrothricine",
+        "droite": "René Dubos",
+        "explication": "Il l'isole en 1939 à partir d'un bacille du sol."
+      }
+    ],
+    "explication": "Ces quatre découvertes s'étalent de 1928 à 1944. Elles ont ouvert l'ère des antibiotiques : d'abord un champignon, puis des molécules de synthèse, puis un médicament efficace contre la tuberculose.",
+    "source": "D'après Wikipédia — Antibiotique"
+  },
+  {
+    "id": "q-corps-humain-162",
+    "domain": "corps-humain",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né en 1843 dans un village qui porte aujourd'hui mon nom.",
+      "Je me suis installé un laboratoire dans une ancienne cuisine d'hôpital.",
+      "Ma coloration à l'argent fait ressortir en noir quelques cellules entières.",
+      "Une structure de la cellule et un organe du tendon portent mon nom.",
+      "J'ai partagé le prix Nobel de 1906 avec Santiago Ramón y Cajal."
+    ],
+    "reponse": "Camillo Golgi",
+    "explication": "Golgi a mis au point en 1873 la « réaction noire », qui montre le neurone en entier. Rival scientifique de Cajal, il a partagé avec lui le Nobel de 1906, et son nom désigne l'appareil de Golgi dans les cellules.",
+    "source": "D'après Wikipédia — Camillo Golgi"
+  },
+  {
+    "id": "q-corps-humain-163",
+    "domain": "corps-humain",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire des antibiotiques dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Alexander Fleming remarque l'action de la pénicilline",
+        "annee": "1928"
+      },
+      {
+        "label": "Gerhard Domagk met au point le Prontosil",
+        "annee": "1932"
+      },
+      {
+        "label": "Découverte de la streptomycine, active contre la tuberculose",
+        "annee": "1944"
+      },
+      {
+        "label": "Découverte de la vancomycine",
+        "annee": "1956"
+      },
+      {
+        "label": "Mise sur le marché du linézolide, nouvelle classe d'antibiotiques",
+        "annee": "2000"
+      }
+    ],
+    "explication": "De la pénicilline de 1928 au linézolide de 2000, la recherche a avancé par vagues. Après les années 1970, elle a ralenti, puis a repris à cause de la résistance. Le linézolide fut la première nouvelle classe en 20 ans.",
+    "source": "D'après Wikipédia — Antibiotique"
+  },
+  {
+    "id": "q-corps-humain-164",
+    "domain": "corps-humain",
+    "format": "difference",
+    "question": "Quelle est la différence entre un antiseptique et un antibiotique ?",
+    "choix": [
+      "L'antiseptique s'applique sur la peau ou les muqueuses ; l'antibiotique agit contre les bactéries dans l'organisme",
+      "L'antiseptique détruit uniquement les virus ; l'antibiotique détruit uniquement les champignons",
+      "L'antiseptique est toujours injecté ; l'antibiotique s'utilise seulement sur la peau",
+      "Il n'y a aucune différence, ce sont deux mots pour la même chose"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'antiseptique est un produit désinfectant pour le corps, non spécifique, appliqué en surface. Un antibiotique agit de manière ciblée sur les bactéries, par la bouche ou par injection. Ni l'un ni l'autre ne vise spécialement les virus.",
+    "source": "D'après Wikipédia — Antiseptique"
+  },
+  {
+    "id": "q-corps-humain-165",
+    "domain": "corps-humain",
+    "format": "difference",
+    "question": "Quelle est la différence entre l'hémodialyse et la dialyse péritonéale ?",
+    "choix": [
+      "L'hémodialyse filtre le sang hors du corps ; la dialyse péritonéale utilise le péritoine comme membrane",
+      "L'hémodialyse utilise le péritoine ; la dialyse péritonéale filtre le sang hors du corps",
+      "L'hémodialyse traite le foie ; la dialyse péritonéale traite les reins",
+      "Il s'agit du même procédé, mais avec des noms différents selon le pays"
+    ],
+    "bonneReponse": 0,
+    "explication": "En hémodialyse, le sang circule dans un filtre extérieur à membrane. En dialyse péritonéale, un liquide est introduit dans le ventre et le péritoine joue le rôle de membrane. Dans les deux cas, on épure le sang.",
+    "source": "D'après Wikipédia — Dialyse"
+  },
+  {
+    "id": "q-corps-humain-166",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quel mot courant a la même origine grecque que « choléra », qui renvoie à la bile ?",
+    "choix": [
+      "Colère",
+      "Chaleur",
+      "Chorale",
+      "Chlore"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot « choléra » vient du grec kholê, « bile », car on croyait la maladie causée par la bile. Cette même racine a donné le mot « colère ». On sait aujourd'hui que le choléra est une infection due à la bactérie Vibrio cholerae.",
+    "source": "D'après Wikipédia — Choléra"
+  },
+  {
+    "id": "q-corps-humain-167",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "La carte des cas de choléra établie par John Snow, entre 1849 et 1854, est le premier suivi épidémiologique connu.",
+    "reponse": true,
+    "explication": "En étudiant le choléra en Angleterre, John Snow a relié la maladie à l'eau contaminée. Sa carte des cas est considérée comme la première trace d'un suivi épidémiologique, ce qui a fait progresser cette science.",
+    "source": "D'après Wikipédia — Choléra"
+  },
+  {
+    "id": "q-corps-humain-168",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quel surnom la tuberculose a-t-elle reçu, en écho à la peste noire ?",
+    "choix": [
+      "La peste blanche",
+      "La peste grise",
+      "La fièvre des marais",
+      "Le mal bleu"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'expression « peste blanche » date du XVIIe siècle et rappelle la peste noire qui frappait alors l'Europe. Un siècle et demi plus tard, la maladie était responsable d'un décès sur trois environ dans les pays occidentaux.",
+    "source": "D'après Wikipédia — Tuberculose"
+  },
+  {
+    "id": "q-corps-humain-169",
+    "domain": "corps-humain",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de la tuberculose dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Ouverture du premier sanatorium à Görbersdorf",
+        "annee": "1859"
+      },
+      {
+        "label": "Robert Koch annonce la découverte du bacille",
+        "annee": "1882"
+      },
+      {
+        "label": "Calmette et Guérin mettent au point le BCG",
+        "annee": "1906"
+      },
+      {
+        "label": "Selman Waksman découvre la streptomycine",
+        "annee": "1943"
+      },
+      {
+        "label": "Premier essai clinique randomisé de l'histoire",
+        "annee": "1948"
+      }
+    ],
+    "explication": "Le sanatorium de 1859 soigne par l'air pur, Koch trouve le bacille en 1882 et le BCG apparaît en 1906. La streptomycine de 1943 permet ensuite un traitement efficace, testé dans le premier essai randomisé en 1948.",
+    "source": "D'après Wikipédia — Tuberculose"
+  },
+  {
+    "id": "q-corps-humain-170",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Qu'a-t-on ajouté au biberon pour faire disparaître le scorbut du nourrisson, ou maladie de Barlow ?",
+    "choix": [
+      "Du jus d'orange",
+      "De l'huile de foie de morue",
+      "Du sucre",
+      "Du miel"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les premiers laits en conserve, du lait de vache bouilli, n'avaient plus de vitamine C, détruite par la chaleur. Décrite par Thomas Barlow en 1883, la maladie a disparu quand on a versé du jus d'orange dans les biberons.",
+    "source": "D'après Wikipédia — Scorbut"
+  },
+  {
+    "id": "q-corps-humain-171",
+    "domain": "corps-humain",
+    "format": "associer",
+    "question": "Associe chaque savant à sa contribution à la connaissance du paludisme.",
+    "paires": [
+      {
+        "gauche": "Alphonse Laveran",
+        "droite": "Observe le parasite dans le sang des malades",
+        "explication": "En 1880, à Constantine, il voit le parasite dans les globules rouges."
+      },
+      {
+        "gauche": "Ronald Ross",
+        "droite": "Prouve que les anophèles transmettent la maladie",
+        "explication": "Il démontre le rôle des moustiques, longtemps ignoré."
+      },
+      {
+        "gauche": "Pelletier et Caventou",
+        "droite": "Isolent la quinine de l'écorce de quinquina",
+        "explication": "Cette séparation, en 1820, permet de doser le médicament."
+      },
+      {
+        "gauche": "Camillo Golgi",
+        "droite": "Distingue plusieurs formes de paludisme",
+        "explication": "Il décrit la périodicité des fièvres selon les parasites."
+      }
+    ],
+    "explication": "Laveran (Nobel 1907) découvre le parasite, Ross (Nobel 1902) prouve le rôle du moustique. Pelletier et Caventou isolent la quinine en 1820, et Golgi distingue plusieurs formes de la maladie.",
+    "source": "D'après Wikipédia — Paludisme"
+  },
+  {
+    "id": "q-corps-humain-172",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Le virus de la rage peut traverser une peau saine et intacte.",
+    "reponse": false,
+    "explication": "Une peau saine l'arrête. Le virus passe surtout par une morsure avec blessure, une griffure, un léchage sur une peau lésée, ou une projection de salive sur une muqueuse, comme l'œil.",
+    "source": "D'après Wikipédia — Rage (maladie)"
+  },
+  {
+    "id": "q-corps-humain-173",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quel animal est à l'origine de la quasi-totalité des cas de rage humaine dans le monde ?",
+    "choix": [
+      "Le chien",
+      "Le renard",
+      "La chauve-souris",
+      "Le chat"
+    ],
+    "bonneReponse": 0,
+    "explication": "Près de 98 % des cas humains viennent de morsures de chien enragé. Les chauves-souris sont le réservoir primitif du virus, mais elles transmettent très rarement la maladie à l'humain en Europe.",
+    "source": "D'après Wikipédia — Rage (maladie)"
+  },
+  {
+    "id": "q-corps-humain-174",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Grâce à la vaccination, combien de cas de poliomyélite par virus sauvage a-t-on compté en 2016, contre 350 000 en 1988 ?",
+    "choix": [
+      "37",
+      "370",
+      "3 700",
+      "37 000"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'initiative mondiale lancée en 1988 par l'OMS, l'Unicef et le Rotary International a fait passer les cas par virus sauvage de 350 000 à 37 en 2016. La maladie restait alors présente au Pakistan et en Afghanistan.",
+    "source": "D'après Wikipédia — Poliomyélite"
+  },
+  {
+    "id": "q-corps-humain-175",
+    "domain": "corps-humain",
+    "format": "difference",
+    "question": "Quelle est la différence entre les « vraies » et les « fausses » côtes ?",
+    "choix": [
+      "Les vraies côtes rejoignent directement le sternum par leur propre cartilage, pas les fausses",
+      "Les vraies côtes sont plus longues que les fausses",
+      "Les vraies côtes s'attachent aux vertèbres, pas les fausses",
+      "Les vraies côtes protègent le cœur, les fausses protègent les reins"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les sept premières paires, vraies côtes, joignent le sternum chacune par son cartilage. Les paires 8 à 12, fausses côtes, ne le font pas directement, et les deux dernières, dites flottantes, ne tiennent qu'aux vertèbres.",
+    "source": "D'après Wikipédia — Cage thoracique"
+  },
+  {
+    "id": "q-corps-humain-176",
+    "domain": "corps-humain",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom latin signifie « petite clef ».",
+      "Je mesure environ 15 centimètres et j'ai la forme d'un S allongé.",
+      "Je suis le premier os à commencer à se former chez l'embryon.",
+      "Je relie le sternum à l'omoplate.",
+      "Je suis le seul os long du corps humain en position horizontale."
+    ],
+    "reponse": "La clavicule",
+    "explication": "La clavicule commence à s'ossifier aux cinquième et sixième semaines de gestation, mais finit seulement vers 21 à 25 ans. C'est aussi l'os que l'on fracture le plus souvent, lors d'une chute sur l'épaule.",
+    "source": "D'après Wikipédia — Clavicule"
+  },
+  {
+    "id": "q-corps-humain-177",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "D'après une étude américaine de 2017, quel est le seul facteur vraiment critique pour l'efficacité du lavage des mains ?",
+    "choix": [
+      "Le temps de lavage",
+      "La température de l'eau",
+      "La quantité de savon",
+      "Un savon antibactérien plutôt qu'un savon classique"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les chercheurs ont testé la durée de frottage, la température, la quantité et le type de savon. Seul le temps de lavage compte vraiment. Ils notent aussi que la littérature sur le sujet contient beaucoup de fausses informations.",
+    "source": "D'après Wikipédia — Hygiène des mains"
+  },
+  {
+    "id": "q-corps-humain-178",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Dans le tissu osseux, quelles cellules détruisent l'os ancien ?",
+    "choix": [
+      "Les ostéoclastes",
+      "Les ostéoblastes",
+      "Les ostéocytes",
+      "Les cellules satellites"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les ostéoclastes résorbent l'os ancien, tandis que les ostéoblastes fabriquent la nouvelle matrice, puis deviennent des ostéocytes une fois piégés dedans. Ce chantier permanent renouvelle environ 10 % de la masse osseuse de l'adulte par an.",
+    "source": "D'après Wikipédia — Tissu osseux"
+  },
+  {
+    "id": "q-corps-humain-179",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Pourquoi appelle-t-on souvent l'ostéoporose une « épidémie silencieuse » ?",
+    "choix": [
+      "Elle ne provoque en général aucun signe avant la première fracture",
+      "Elle touche surtout des personnes qui vivent seules",
+      "Elle reste invisible sur toutes les radiographies",
+      "Elle ne provoque jamais de douleur, même après une fracture"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'ostéoporose fragilise l'os sans bruit : on la découvre souvent à l'occasion d'une fracture du poignet, des vertèbres ou du col du fémur. On la diagnostique par la mesure de la densité osseuse, avec des rayons X.",
+    "source": "D'après Wikipédia — Ostéoporose"
+  },
+  {
+    "id": "q-corps-humain-180",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Environ quelle part du coût énergétique de la course à pied le tendon d'Achille permet-il d'économiser ?",
+    "choix": [
+      "50 %",
+      "10 %",
+      "25 %",
+      "90 %"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le tendon d'Achille agit comme un ressort : il stocke de l'énergie quand le pied se pose et la restitue pour la propulsion, ce qui économise environ 50 % du coût de la course. Le gain est bien plus faible pour la marche.",
+    "source": "D'après Wikipédia — Tendon calcanéen"
+  },
+  {
+    "id": "q-corps-humain-181",
+    "domain": "corps-humain",
+    "format": "qcm",
+    "question": "Quelle particularité a la cellule musculaire squelettique par rapport aux autres cellules musculaires ?",
+    "choix": [
+      "Elle possède plusieurs noyaux, issus de la fusion de cellules embryonnaires",
+      "Elle n'a aucun noyau",
+      "Elle est lisse, sans aucune strie",
+      "Elle se contracte uniquement de façon involontaire"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une fibre squelettique naît de la fusion de nombreux myoblastes, chacun apportant son noyau. Les cellules cardiaques et lisses, elles, ont un ou deux noyaux. Un biceps de jeune adulte compte environ 253 000 fibres.",
+    "source": "D'après Wikipédia — Myocyte"
+  },
+  {
+    "id": "q-corps-humain-182",
+    "domain": "corps-humain",
+    "format": "vrai-faux",
+    "affirmation": "Les marathoniens sujets aux crampes ont, dans le sang, moins d'électrolytes que ceux qui n'en ont pas.",
+    "reponse": false,
+    "explication": "Selon le chercheur Michael Behringer, leurs électrolytes sanguins ne diffèrent pas de ceux des coureurs sans crampes. La sueur peut y contribuer, mais d'autres facteurs, notamment nerveux, sont en jeu.",
+    "source": "D'après Wikipédia — Crampe"
+  },
+  {
+    "id": "q-corps-humain-183",
+    "domain": "corps-humain",
+    "format": "difference",
+    "question": "Quelle est la différence entre une scoliose et une attitude scoliotique ?",
+    "choix": [
+      "La scoliose est une déformation permanente avec rotation des vertèbres, l'attitude scoliotique est temporaire et réductible",
+      "La scoliose touche les enfants, l'attitude scoliotique les adultes",
+      "La scoliose est un mauvais pli de posture, l'attitude scoliotique une malformation",
+      "La scoliose se corrige en position couchée, l'attitude scoliotique jamais"
+    ],
+    "bonneReponse": 0,
+    "explication": "La scoliose déforme durablement la colonne, avec une rotation des vertèbres visible par une gibbosité. L'attitude scoliotique, ou scoliose posturale, n'a pas de rotation et se corrige en position couchée.",
+    "source": "D'après Wikipédia — Scoliose"
   }
 ]

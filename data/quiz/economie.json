@@ -1499,5 +1499,1135 @@
     "reponse": false,
     "explication": "Elle ne l'a jamais reçu, alors qu'on l'attendait largement en 1975. Elle a pourtant inventé le mot « monopsone » et animé la controverse des deux Cambridge. Deux de ses étudiants, Sen et Stiglitz, l'ont obtenu.",
     "source": "D'après Wikipédia — Joan Robinson"
+  },
+  {
+    "id": "q-economie-096",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel biologiste popularise en 1968 l'expression « tragédie des biens communs » dans la revue Science ?",
+    "choix": [
+      "Garrett Hardin",
+      "Elinor Ostrom",
+      "Ronald Coase",
+      "Thomas Malthus"
+    ],
+    "bonneReponse": 0,
+    "explication": "Garrett Hardin publie en 1968 un article intitulé « The Tragedy of the Commons », qui reprend l'exemple d'un pâturage commun imaginé en 1833 par William Forster Lloyd. Cet article reste l'un des textes les plus cités de l'écologie.",
+    "source": "D'après Wikipédia — Tragédie des biens communs"
+  },
+  {
+    "id": "q-economie-097",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Garrett Hardin a reconnu après coup que son célèbre titre était trop large : il aurait dû parler de communs « non gérés ».",
+    "reponse": true,
+    "explication": "Face aux exemples de communs bien gérés par des règles locales, Hardin a admis que sa thèse concernait les ressources en libre accès, sans régulation. Elinor Ostrom a montré que des communautés savent limiter l'exploitation.",
+    "source": "D'après Wikipédia — Tragédie des biens communs"
+  },
+  {
+    "id": "q-economie-098",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel responsable politique britannique emploie le mot « stagflation » en 1965 devant le Parlement ?",
+    "choix": [
+      "Iain Macleod",
+      "Edmund Phelps",
+      "Paul Volcker",
+      "Margaret Thatcher"
+    ],
+    "bonneReponse": 0,
+    "explication": "Iain Macleod parle en 1965 d'une situation où l'on cumule inflation et stagnation, « le pire des deux mondes ». Il devient chancelier de l'Échiquier en 1970. Le mot se répand ensuite avec les chocs pétroliers des années 1970.",
+    "source": "D'après Wikipédia — Stagflation"
+  },
+  {
+    "id": "q-economie-099",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Dans une trappe à liquidité, une nouvelle baisse des taux d'intérêt relance facilement l'investissement.",
+    "reponse": false,
+    "explication": "C'est l'inverse : les taux sont si bas que presque tout le monde préfère garder du cash plutôt que des obligations, et la banque centrale perd sa prise sur l'économie. Keynes avait décrit ce cas limite dans sa Théorie générale de 1936.",
+    "source": "D'après Wikipédia — Trappe à liquidité"
+  },
+  {
+    "id": "q-economie-100",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel pays est le premier à appliquer l'assouplissement quantitatif, en mars 2001 ?",
+    "choix": [
+      "Le Japon",
+      "Les États-Unis",
+      "Le Royaume-Uni",
+      "La Suède"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Banque du Japon adopte le QE en mars 2001 pour sortir de la déflation, après la « décennie perdue ». Elle y renonce officiellement le 9 mars 2006. Les Occidentaux ne s'y mettront qu'à partir de la crise de 2007-2008.",
+    "source": "D'après Wikipédia — Assouplissement quantitatif"
+  },
+  {
+    "id": "q-economie-101",
+    "domain": "economie",
+    "format": "difference",
+    "question": "Quelle est la différence entre l'assouplissement quantitatif et les opérations d'open market habituelles ?",
+    "choix": [
+      "Il porte sur de très gros volumes, sur plusieurs années, et sur des titres plus variés, y compris à long terme",
+      "Il consiste à baisser le taux directeur de la banque centrale",
+      "Il vise à vendre des titres pour retirer de la monnaie",
+      "Il est réservé à l'achat de bons du Trésor à court terme"
+    ],
+    "bonneReponse": 0,
+    "explication": "Racheter des titres est courant pour une banque centrale. Ce qui rend le QE non conventionnel, c'est l'ampleur du programme, son étalement sur des années et le choix de titres achetés : long terme, dettes privées, parfois titres hypothécaires.",
+    "source": "D'après Wikipédia — Assouplissement quantitatif"
+  },
+  {
+    "id": "q-economie-102",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Si le prix d'un produit baisse de 10 % et que les quantités vendues augmentent de 15 %, que vaut l'élasticité-prix de la demande ?",
+    "choix": [
+      "-1,5",
+      "-0,67",
+      "1,5",
+      "-25"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'élasticité est le quotient de la variation des quantités par la variation du prix : 15 % divisé par -10 % donne -1,5. Comme ce chiffre dépasse 1 en valeur absolue, la demande est élastique et le chiffre d'affaires augmente.",
+    "source": "D'après Wikipédia — Élasticité (économie)"
+  },
+  {
+    "id": "q-economie-103",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel économiste décrit dès 1768 des rendements décroissants, en notant que des avances doubles ne donnent jamais un produit double ?",
+    "choix": [
+      "Turgot",
+      "David Ricardo",
+      "Alfred Marshall",
+      "Jean-Baptiste Say"
+    ],
+    "bonneReponse": 0,
+    "explication": "Turgot observe en 1768 que doubler les avances (le capital engagé) dans une terre ne double pas la récolte. David Ricardo reprend l'idée en 1817 pour expliquer pourquoi la rente des meilleures terres monte avec la population.",
+    "source": "D'après Wikipédia — Loi des rendements décroissants"
+  },
+  {
+    "id": "q-economie-104",
+    "domain": "economie",
+    "format": "difference",
+    "question": "Quelle est la différence entre un bien public pur et un bien de club ?",
+    "choix": [
+      "Dans un bien de club, on peut exclure ceux qui ne paient pas, comme avec un péage ou une chaîne cryptée",
+      "Un bien de club est toujours produit par l'État",
+      "Un bien public pur est un bien rival, un bien de club ne l'est pas",
+      "Un bien public pur est gratuit à produire"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un bien public pur est non rival et non excluable, comme une émission de radio. Si l'on installe un contrôle d'accès (péage, télévision cryptée), on obtient un bien de club : l'exclusion devient possible, le passager clandestin aussi.",
+    "source": "D'après Wikipédia — Bien public"
+  },
+  {
+    "id": "q-economie-105",
+    "domain": "economie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis versé à chaque membre d'une communauté, de la naissance à la mort.",
+      "Je ne tiens pas compte des ressources de la personne qui me reçoit.",
+      "On ne me demande aucune contrepartie en échange.",
+      "Thomas More en rêve dans Utopia, en 1516.",
+      "Un fonds alimenté par le pétrole et les mines en verse une forme en Alaska."
+    ],
+    "reponse": "Le revenu de base",
+    "explication": "Le revenu de base est une somme versée à tous, individuellement, sans condition de ressources ni contrepartie. L'idée est ancienne : Utopia (1516), Thomas Paine, Voltaire. Des essais ont eu lieu au Canada, en Inde et en Namibie.",
+    "source": "D'après Wikipédia — Revenu de base"
+  },
+  {
+    "id": "q-economie-106",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Que signifie un prêt immobilier subprime « 2/28 » ?",
+    "choix": [
+      "2 ans à taux fixe bas, puis 28 ans à taux variable",
+      "2 ans de remboursement, puis 28 ans de report",
+      "Un apport de 2 % et un taux de 28 %",
+      "Un prêt de 2 ans renouvelé 28 fois"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans un prêt « 2/28 », le taux reste bas et fixe pendant deux ans, puis s'ajuste sur un indice pendant 28 ans. Les mensualités pouvaient alors bondir, ce qui a pesé dans la crise des subprimes de 2007.",
+    "source": "D'après Wikipédia — Subprime"
+  },
+  {
+    "id": "q-economie-107",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Qui engage ses fonds propres pour endiguer la panique bancaire de 1907 à New York ?",
+    "choix": [
+      "J. P. Morgan",
+      "John D. Rockefeller",
+      "Andrew Carnegie",
+      "Charles W. Morse"
+    ],
+    "bonneReponse": 0,
+    "explication": "Faute de banque centrale pour injecter des liquidités, c'est le financier J. P. Morgan qui engage ses fonds et convainc d'autres banquiers de l'imiter. La crise mène à la création de la Réserve fédérale, en décembre 1913.",
+    "source": "D'après Wikipédia — Panique bancaire américaine de 1907"
+  },
+  {
+    "id": "q-economie-108",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "À quel niveau record les taux d'intérêt américains à court terme montent-ils à New York en juin 1981, pendant le choc Volcker ?",
+    "choix": [
+      "20 %",
+      "10 %",
+      "15 %",
+      "30 %"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour casser l'inflation, Paul Volcker réduit la masse monétaire et fait grimper les taux directeurs de 9 % à 19 %. En juin 1981, les taux à court terme atteignent 20 %, un record. Le prix : une profonde récession en 1982.",
+    "source": "D'après Wikipédia — Choc Volcker"
+  },
+  {
+    "id": "q-economie-109",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Dans quel pays la crise économique asiatique éclate-t-elle le 2 juillet 1997 ?",
+    "choix": [
+      "La Thaïlande",
+      "La Corée du Sud",
+      "L'Indonésie",
+      "Les Philippines"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 2 juillet 1997, la Thaïlande, à court de devises, laisse flotter le baht qu'elle défendait face au dollar. La défiance gagne les monnaies voisines, puis la Corée du Sud. En Thaïlande, on l'appelle la « crise Tom Yum Kung ».",
+    "source": "D'après Wikipédia — Crise économique asiatique"
+  },
+  {
+    "id": "q-economie-110",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Selon les règles de l'OMC, un pays importateur peut appliquer des droits de douane antidumping pour protéger ses producteurs.",
+    "reponse": true,
+    "explication": "Face à un produit vendu à un prix trop bas, l'OMC autorise un droit antidumping correspondant à l'écart entre coût de production et prix de vente. Dans l'Union européenne, une enquête précède l'instauration de ces droits.",
+    "source": "D'après Wikipédia — Dumping"
+  },
+  {
+    "id": "q-economie-111",
+    "domain": "economie",
+    "format": "associer",
+    "question": "Associe chaque crise à son point de départ.",
+    "paires": [
+      {
+        "gauche": "Panique bancaire de 1907",
+        "droite": "Corner raté sur United Copper",
+        "explication": "L'échec du corner d'Otto Heinze déclenche des retraits massifs dans les banques de New York."
+      },
+      {
+        "gauche": "Crise asiatique de 1997",
+        "droite": "Flottement du baht thaïlandais",
+        "explication": "La Thaïlande, à court de devises, ne peut plus défendre le lien de sa monnaie avec le dollar."
+      },
+      {
+        "gauche": "Crise de la dette en zone euro",
+        "droite": "Révélation du déficit grec",
+        "explication": "Fin 2009, la Grèce annonce un déficit de 12,7 % du PIB, très supérieur aux prévisions."
+      },
+      {
+        "gauche": "Choc Volcker",
+        "droite": "Hausse des taux pour casser l'inflation",
+        "explication": "La Réserve fédérale resserre très fortement sa politique monétaire à partir de 1979."
+      }
+    ],
+    "explication": "Quatre crises, quatre déclencheurs très différents : une spéculation ratée, une monnaie qui flotte, un déficit révélé et une décision de politique monétaire. Chacune a eu des répercussions bien au-delà de son point de départ.",
+    "source": "D'après Wikipédia — Crise économique asiatique"
+  },
+  {
+    "id": "q-economie-112",
+    "domain": "economie",
+    "format": "frise",
+    "question": "Remets ces épisodes dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Navigation Act anglais",
+        "annee": "1651"
+      },
+      {
+        "label": "Panique bancaire à New York",
+        "annee": "1907"
+      },
+      {
+        "label": "Paul Volcker prend la tête de la Fed",
+        "annee": "1979"
+      },
+      {
+        "label": "Le baht thaïlandais flotte",
+        "annee": "1997"
+      },
+      {
+        "label": "Début du QE au Japon",
+        "annee": "2001"
+      }
+    ],
+    "explication": "Du mercantilisme du XVIIe siècle à l'assouplissement quantitatif japonais, ces épisodes montrent l'évolution du rôle de l'État et des banques centrales. La Fed, née de la panique de 1907, est dirigée par Volcker en 1979.",
+    "source": "D'après Wikipédia — Choc Volcker"
+  },
+  {
+    "id": "q-economie-113",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Pour les mercantilistes, la richesse d'un pays peut croître sans que cela se fasse aux dépens des autres pays.",
+    "reponse": false,
+    "explication": "Les mercantilistes voient la richesse comme un stock quasi fixe : ce que gagne un pays, un autre le perd. Cette vision a nourri des guerres commerciales et la colonisation, avant les critiques d'Adam Smith en 1776.",
+    "source": "D'après Wikipédia — Mercantilisme"
+  },
+  {
+    "id": "q-economie-114",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Neuf jours avant le krach de 1929, quel économiste affirme que les actions ont atteint « un haut plateau permanent » ?",
+    "choix": [
+      "Irving Fisher",
+      "John Maynard Keynes",
+      "Friedrich Hayek",
+      "Joseph Schumpeter"
+    ],
+    "bonneReponse": 0,
+    "explication": "Irving Fisher, alors économiste très en vue, tient ces propos peu avant le krach d'octobre 1929. Sa réputation et sa fortune en souffrent. Il en tire ensuite sa théorie de la déflation par la dette, qui explique comment les dettes aggravent une dépression.",
+    "source": "D'après Wikipédia — Irving Fisher"
+  },
+  {
+    "id": "q-economie-115",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel économiste, auteur du manuel d'économie le plus vendu de l'histoire (1948), est le premier Américain à recevoir le prix Nobel d'économie, en 1970 ?",
+    "choix": [
+      "Paul Samuelson",
+      "Milton Friedman",
+      "John Kenneth Galbraith",
+      "Robert Solow"
+    ],
+    "bonneReponse": 0,
+    "explication": "Paul Samuelson reçoit le Nobel en 1970, après le premier prix de 1969, pour avoir élevé le niveau d'analyse de l'économie. Son manuel de 1948 a formé des générations d'étudiants et lui a rapporté des millions de dollars.",
+    "source": "D'après Wikipédia — Paul Samuelson"
+  },
+  {
+    "id": "q-economie-116",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "D'après le paradoxe de Grossman et Stiglitz (1980), des marchés parfaitement efficients ne pourraient pas exister.",
+    "reponse": true,
+    "explication": "Si les prix reflétaient déjà toute l'information disponible, personne n'aurait intérêt à la chercher ni à échanger, et les marchés s'effondreraient. Joseph Stiglitz et Sanford Grossman en tirent ce paradoxe, lié à ses travaux sur l'information imparfaite.",
+    "source": "D'après Wikipédia — Joseph E. Stiglitz"
+  },
+  {
+    "id": "q-economie-117",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Selon Paul Krugman, qu'est-ce qui explique que deux pays riches s'échangent des voitures de marques différentes, comme les Volvo et les BMW ?",
+    "choix": [
+      "Les consommateurs aiment la variété et produire en grande série coûte moins cher",
+      "Chaque pays manque des matières premières pour fabriquer la voiture de l'autre",
+      "Les droits de douane obligent chaque pays à acheter des voitures étrangères",
+      "La Suède et l'Allemagne ont des salaires très différents"
+    ],
+    "bonneReponse": 0,
+    "explication": "Krugman explique en 1979 que le goût de la diversité et les économies d'échelle expliquent le commerce entre pays semblables. Produire une marque en série dans quelques usines coûte moins cher, d'où l'échange de modèles. Ce travail lui vaut le Nobel 2008.",
+    "source": "D'après Wikipédia — Paul Krugman"
+  },
+  {
+    "id": "q-economie-118",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel événement historique Ben Bernanke a-t-il longuement étudié avant de présider la Réserve fédérale ?",
+    "choix": [
+      "La Grande Dépression des années 1930",
+      "Le premier choc pétrolier de 1973",
+      "L'hyperinflation allemande de 1923",
+      "La bulle Internet de 2000"
+    ],
+    "bonneReponse": 0,
+    "explication": "Bernanke a montré que les faillites bancaires avaient coupé le crédit et prolongé la crise de 1929. Ce travail est au cœur de son prix Nobel 2022. Président de la Fed de 2006 à 2014, il a appliqué ces leçons face à la crise de 2008.",
+    "source": "D'après Wikipédia — Ben Bernanke"
+  },
+  {
+    "id": "q-economie-119",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Pourquoi Richard Thaler a-t-il décidé de noter ses examens sur 137 points au lieu de 100 ?",
+    "choix": [
+      "Pour que les notes paraissent élevées et que les étudiants cessent de se plaindre",
+      "Pour rendre l'examen plus difficile à réussir",
+      "Pour faire plus facilement la moyenne de la classe",
+      "Pour obliger les étudiants à calculer de tête"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ses étudiants jugeaient sa notation sévère, avec 72 sur 100 de moyenne. Sur 137, la moyenne passe à 96, un score qui semble excellent, alors que le niveau est identique. Thaler illustre ainsi que la présentation d'un chiffre influence nos réactions.",
+    "source": "D'après Wikipédia — Richard Thaler"
+  },
+  {
+    "id": "q-economie-120",
+    "domain": "economie",
+    "format": "difference",
+    "question": "Quelle est la différence entre le « capital humain » défini par Gary Becker et le capital matériel d'une entreprise ?",
+    "choix": [
+      "Le capital humain regroupe les connaissances, la formation et la santé d'une personne, qui accroissent ses revenus futurs ; le capital matériel regroupe les machines et équipements",
+      "Le capital humain désigne le nombre de salariés d'une entreprise ; le capital matériel désigne ses locaux",
+      "Le capital humain désigne l'argent économisé par un particulier ; le capital matériel désigne celui de l'entreprise",
+      "Le capital humain est donné par l'État ; le capital matériel est acheté par l'entreprise"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour Becker, étudier, se former ou se soigner est un investissement : il coûte du temps et de l'argent aujourd'hui et rapporte un meilleur revenu plus tard, comme une machine pour une entreprise. Son livre Human Capital de 1964 est devenu un classique.",
+    "source": "D'après Wikipédia — Gary Becker"
+  },
+  {
+    "id": "q-economie-121",
+    "domain": "economie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Né à Chicago en 1919, j'ai passé ma thèse à Harvard sous la direction de Joseph Schumpeter.",
+      "Mon livre Stabilizing an Unstable Economy date de 1986.",
+      "Selon moi, les périodes calmes préparent les crises : plus on est confiant, plus on s'endette.",
+      "Je distingue des emprunteurs prudents, spéculatifs et de type Ponzi.",
+      "Mes idées sont redevenues célèbres en 2008, et un « moment » porte mon nom."
+    ],
+    "reponse": "Hyman Minsky",
+    "explication": "Hyman Minsky, économiste post-keynésien, a décrit comment la stabilité engendre la fragilité financière. Le « moment Minsky » désigne le basculement où des investisseurs surendettés vendent, ce qui fait chuter les prix des actifs. Ses idées n'ont pas fait école, mais elles sont revenues en 2008.",
+    "source": "D'après Wikipédia — Hyman Minsky"
+  },
+  {
+    "id": "q-economie-122",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Dans le vocabulaire de Nassim Nicholas Taleb, qu'est-ce qu'un « cygne noir » ?",
+    "choix": [
+      "Un événement très improbable, à fort impact, que l'on explique après coup comme prévisible",
+      "Une entreprise très rentable dont les profits dépendent d'un seul client",
+      "Un investisseur qui réussit toujours à prévoir les crises",
+      "Une crise financière qui revient régulièrement"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans Le Cygne noir (2007), Taleb désigne ainsi les événements rares et imprévisibles qui ont des conséquences énormes. Nous les trouvons logiques après coup, alors que les modèles fondés sur le passé les sous-estiment. Le livre s'est vendu à près de trois millions d'exemplaires.",
+    "source": "D'après Wikipédia — Nassim Nicholas Taleb"
+  },
+  {
+    "id": "q-economie-123",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Que réclament les fabricants de chandelles dans la célèbre satire de Frédéric Bastiat ?",
+    "choix": [
+      "Qu'on ferme les fenêtres pour les protéger de la concurrence du Soleil",
+      "Qu'on interdise l'importation de cire étrangère",
+      "Qu'on taxe lourdement les marchands de lampes à huile",
+      "Qu'on les subventionne pour qu'ils baissent leurs prix"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans sa pétition satirique, Bastiat fait demander aux chandeliers une loi fermant fenêtres et lucarnes, afin d'être protégés de la « concurrence déloyale » de la lumière du Soleil, gratuite. Il ridiculise ainsi le protectionnisme en poussant sa logique jusqu'à l'absurde.",
+    "source": "D'après Wikipédia — Frédéric Bastiat"
+  },
+  {
+    "id": "q-economie-124",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Jean Tirole est le premier Français à avoir reçu le prix Nobel d'économie.",
+    "reponse": false,
+    "explication": "Jean Tirole, récompensé en 2014 pour ses travaux sur la puissance des grandes entreprises et sa régulation, est le troisième Français distingué. Gérard Debreu l'avait été en 1983, puis Maurice Allais en 1988. Il est rattaché à la Toulouse School of Economics.",
+    "source": "D'après Wikipédia — Jean Tirole"
+  },
+  {
+    "id": "q-economie-125",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quelle découverte médicale a inspiré le Tableau économique de François Quesnay ?",
+    "choix": [
+      "La circulation du sang",
+      "La vaccination",
+      "L'anesthésie",
+      "L'anatomie du cerveau"
+    ],
+    "bonneReponse": 0,
+    "explication": "Quesnay, médecin de Louis XV, s'inspire de la circulation sanguine découverte par William Harvey pour décrire l'économie comme un circuit de flux entre classes sociales. Son Tableau de 1758 est la première représentation d'ensemble de l'économie.",
+    "source": "D'après Wikipédia — François Quesnay"
+  },
+  {
+    "id": "q-economie-126",
+    "domain": "economie",
+    "format": "difference",
+    "question": "Quelle est la différence entre l'avantage absolu d'Adam Smith et l'avantage comparatif de David Ricardo ?",
+    "choix": [
+      "L'avantage absolu suppose de produire à moindre coût que ses partenaires ; l'avantage comparatif joue même quand un pays est moins bon partout",
+      "L'avantage absolu concerne les entreprises ; l'avantage comparatif concerne les consommateurs",
+      "L'avantage absolu favorise le protectionnisme ; l'avantage comparatif l'interdit",
+      "L'avantage absolu date du XXe siècle ; l'avantage comparatif date du XVIIIe"
+    ],
+    "bonneReponse": 0,
+    "explication": "Smith conseille de se spécialiser dans ce que l'on produit à moindre coût. Ricardo montre en 1817 que même le pays moins productif en tout gagne à échanger, en se concentrant sur ce pour quoi son désavantage est le plus faible. Cela répond à l'objection du pays « sans avantage ».",
+    "source": "D'après Wikipédia — Avantage comparatif"
+  },
+  {
+    "id": "q-economie-127",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "À propos de quel dieu Adam Smith parle-t-il pour la première fois d'une « main invisible », dans un essai sur l'histoire de l'astronomie ?",
+    "choix": [
+      "Jupiter",
+      "Mars",
+      "Neptune",
+      "Apollon"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans cet essai, Smith explique que les peuples antiques attribuaient à la « main invisible de Jupiter » les phénomènes irréguliers comme la foudre et les orages. L'expression revient dans deux textes sur l'économie, mais seulement trois fois dans toute son œuvre.",
+    "source": "D'après Wikipédia — Main invisible"
+  },
+  {
+    "id": "q-economie-128",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Une idée proche de la courbe de Laffer avait déjà été exprimée au XIVe siècle par Ibn Khaldoun.",
+    "reponse": true,
+    "explication": "Les premières réflexions sur le lien entre taux d'imposition et recettes remontent à Ibn Khaldoun. Jean-Baptiste Say ou Frédéric Bastiat l'évoquent aussi. Arthur Laffer a seulement popularisé l'idée dans les années 1970, et il le reconnaît lui-même.",
+    "source": "D'après Wikipédia — Courbe de Laffer"
+  },
+  {
+    "id": "q-economie-129",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Un actionnaire apporte 10 à une entreprise qui emprunte 50 pour acheter 60 d'actifs. Quel est l'effet de levier ?",
+    "choix": [
+      "6",
+      "5",
+      "1,2",
+      "60"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les actifs achetés (60) représentent six fois l'apport de l'actionnaire (10) : le levier vaut 6. Il amplifie les gains si l'investissement rapporte plus que la dette, mais aussi les pertes, jusqu'à la faillite si l'entreprise ne peut plus rembourser.",
+    "source": "D'après Wikipédia — Effet de levier"
+  },
+  {
+    "id": "q-economie-130",
+    "domain": "economie",
+    "format": "associer",
+    "question": "Associe chaque économiste à une idée ou une notion qu'il a développée.",
+    "paires": [
+      {
+        "gauche": "John Kenneth Galbraith",
+        "droite": "La technostructure",
+        "explication": "Il décrit un pouvoir passé des actionnaires aux gestionnaires des grandes entreprises."
+      },
+      {
+        "gauche": "Paul Krugman",
+        "droite": "La nouvelle théorie du commerce",
+        "explication": "Économies d'échelle et goût de la variété expliquent le commerce entre pays semblables."
+      },
+      {
+        "gauche": "Richard Thaler",
+        "droite": "Le nudge",
+        "explication": "Coup de pouce qui oriente les choix sans interdire aucune option."
+      },
+      {
+        "gauche": "Hyman Minsky",
+        "droite": "L'instabilité financière",
+        "explication": "La stabilité favorise l'endettement, donc la fragilité et le moment Minsky."
+      },
+      {
+        "gauche": "Nassim Nicholas Taleb",
+        "droite": "L'antifragilité",
+        "explication": "Certains systèmes ne résistent pas seulement au désordre : ils en tirent profit."
+      }
+    ],
+    "explication": "Ces cinq économistes contemporains ont chacun popularisé un concept devenu célèbre : technostructure, nouvelle théorie du commerce, nudge, instabilité financière et antifragilité. Chacun décrit un comportement que le modèle classique ignore ou sous-estime.",
+    "source": "D'après Wikipédia — John Kenneth Galbraith"
+  },
+  {
+    "id": "q-economie-131",
+    "domain": "economie",
+    "format": "frise",
+    "question": "Remets ces ouvrages d'Irving Fisher dans l'ordre de leur publication.",
+    "evenements": [
+      {
+        "label": "The Nature of Capital and Income",
+        "annee": "1906"
+      },
+      {
+        "label": "The Purchasing Power of Money",
+        "annee": "1911"
+      },
+      {
+        "label": "The Theory of Interest",
+        "annee": "1930"
+      },
+      {
+        "label": "The Debt-Deflation Theory of Great Depressions",
+        "annee": "1933"
+      },
+      {
+        "label": "Son projet de réserves intégrales pour les banques",
+        "annee": "1935"
+      }
+    ],
+    "explication": "Fisher publie sa théorie du capital et du revenu en 1906, puis Le pouvoir d'achat de la monnaie en 1911. La Théorie de l'intérêt résume en 1930 des années de recherche. Il expose la déflation par la dette en 1933, puis son projet de réserves intégrales en 1935.",
+    "source": "D'après Wikipédia — Irving Fisher"
+  },
+  {
+    "id": "q-economie-132",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel médecin de formation, auteur du Tableau économique en 1758, est le chef de file des physiocrates ?",
+    "choix": [
+      "François Quesnay",
+      "Anne-Robert-Jacques Turgot",
+      "Richard Cantillon",
+      "Vincent de Gournay"
+    ],
+    "bonneReponse": 0,
+    "explication": "François Quesnay publie le Tableau économique en 1758 et devient le chef de file incontesté des physiocrates. Il y décrit la circulation des richesses entre paysans, marchands et propriétaires, un peu comme le sang circule dans le corps.",
+    "source": "D'après Wikipédia — Physiocratie"
+  },
+  {
+    "id": "q-economie-133",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quelle journaliste a publié, entre 1902 et 1904, une grande enquête sur les méthodes de Standard Oil ?",
+    "choix": [
+      "Ida Tarbell",
+      "Nellie Bly",
+      "Dorothy Thompson",
+      "Margaret Sanger"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ida Tarbell publie dix-neuf articles dans McClure's Magazine, puis un livre en 1904. Son enquête alimente l'opinion contre le monopole de Rockefeller, qui sera démantelé en 34 sociétés après la décision de la Cour suprême en 1911.",
+    "source": "D'après Wikipédia — Standard Oil"
+  },
+  {
+    "id": "q-economie-134",
+    "domain": "economie",
+    "format": "associer",
+    "question": "Associe chaque personnalité à son rôle lors de la conférence de Bretton Woods en 1944.",
+    "paires": [
+      {
+        "gauche": "Harry Dexter White",
+        "droite": "Présidait la commission sur le FMI",
+        "explication": "Principal négociateur américain, il dirigeait la commission consacrée au Fonds monétaire."
+      },
+      {
+        "gauche": "John Maynard Keynes",
+        "droite": "Présidait la commission sur la banque de reconstruction",
+        "explication": "Chef de la délégation britannique, il présidait la commission sur la future Banque mondiale."
+      },
+      {
+        "gauche": "Eduardo Suárez",
+        "droite": "Présidait la commission sur la coopération financière",
+        "explication": "Ministre mexicain des Finances, il dirigeait la troisième commission, consacrée aux autres sujets."
+      },
+      {
+        "gauche": "Henry Morgenthau",
+        "droite": "Présidait la conférence",
+        "explication": "Le ministre américain du Trésor parla en clôture de la fin du nationalisme économique."
+      }
+    ],
+    "explication": "À Bretton Woods, 730 délégués de 44 pays se répartissent en trois commissions. Les deux grandes figures, White et Keynes, présidaient celles du FMI et de la banque, tandis que Morgenthau dirigeait l'ensemble de la conférence.",
+    "source": "D'après Wikipédia — Conférence de Bretton Woods"
+  },
+  {
+    "id": "q-economie-135",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Les accords du Plaza, signés à New York en 1985 par cinq grandes puissances, cherchaient à faire baisser le dollar.",
+    "reponse": true,
+    "explication": "Le 22 septembre 1985, les États-Unis et quatre partenaires, dont le Japon et la France, décident d'agir ensemble sur le marché des changes. Le dollar, qui avait pris environ 50 % depuis 1980, pénalisait l'industrie américaine.",
+    "source": "D'après Wikipédia — Accords du Plaza"
+  },
+  {
+    "id": "q-economie-136",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quelle monnaie commune pour les échanges régionaux fut proposée par l'Argentine et le Brésil dans leur programme d'intégration de 1986 ?",
+    "choix": [
+      "Le gaucho",
+      "Le condor",
+      "Le pampa",
+      "L'andino"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un protocole du programme d'intégration argentino-brésilien de 1986 proposait le « gaucho » comme monnaie des échanges régionaux. Cette idée n'a pas abouti, mais ce programme a préparé la naissance du Mercosur en 1991.",
+    "source": "D'après Wikipédia — Marché commun du Sud"
+  },
+  {
+    "id": "q-economie-137",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel plafond de déficit public, en pourcentage du PIB, un pays doit-il respecter pour rejoindre la zone euro ?",
+    "choix": [
+      "3 %",
+      "5 %",
+      "1 %",
+      "10 %"
+    ],
+    "bonneReponse": 0,
+    "explication": "Parmi les conditions d'entrée figurent un déficit sous la barre de 3 % du PIB et une dette limitée à 60 %. Il faut aussi une inflation maîtrisée et deux ans de stabilité de la monnaie nationale dans le mécanisme MCE II.",
+    "source": "D'après Wikipédia — Zone euro"
+  },
+  {
+    "id": "q-economie-138",
+    "domain": "economie",
+    "format": "difference",
+    "question": "Quelle est la différence entre un marché commun et un marché unique ?",
+    "choix": [
+      "Le marché commun supprime les droits de douane et libère la circulation, mais des obstacles comme les normes subsistent ; le marché unique cherche à les effacer aussi",
+      "Le marché commun ne concerne que les marchandises, alors que le marché unique ne concerne que les personnes",
+      "Le marché commun impose une monnaie unique, ce qui n'est pas le cas du marché unique",
+      "Le marché commun regroupe des pays voisins, alors que le marché unique réunit forcément des continents entiers"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le marché commun est souvent vu comme la première étape : plus de quotas ni de tarifs, mais des règles nationales différentes. Le marché unique pousse plus loin, pour que biens, services, capitaux et personnes circulent comme dans un seul pays.",
+    "source": "D'après Wikipédia — Marché commun"
+  },
+  {
+    "id": "q-economie-139",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quelle célèbre marque américaine est née de la première société créée par Henry Ford, qu'il a quittée en 1902 ?",
+    "choix": [
+      "Cadillac",
+      "Lincoln",
+      "Dodge",
+      "Chrysler"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Henry Ford Company, créée en 1901, devient la Cadillac Motor Company en 1902 : Henry Ford l'a quittée en gardant les droits sur son nom. Il fonde ensuite en 1903 la Ford Motor Company, qui rachète Lincoln en 1922.",
+    "source": "D'après Wikipédia — Ford"
+  },
+  {
+    "id": "q-economie-140",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "La faillite de quelle compagnie, en 1970, a poussé à généraliser les notes de crédit pour chaque émetteur de papier commercial ?",
+    "choix": [
+      "Penn Central",
+      "Lehman Brothers",
+      "Enron",
+      "Bethlehem Steel"
+    ],
+    "bonneReponse": 0,
+    "explication": "La faillite de la compagnie Penn Central, en 1970, a plongé Goldman Sachs dans une crise : la banque avait placé la plupart de ses titres de dette. Elle a conduit les agences à noter chaque émetteur de papier commercial.",
+    "source": "D'après Wikipédia — Goldman Sachs"
+  },
+  {
+    "id": "q-economie-141",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel événement de 1906 a consolidé la réputation de fiabilité de Lloyd's, qui a payé intégralement ses clients ?",
+    "choix": [
+      "Le séisme de San Francisco",
+      "Le naufrage du Titanic",
+      "Le grand incendie de Londres",
+      "Le krach de Wall Street"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après le séisme de San Francisco, l'assureur Cuthbert Heath demande à son agent de payer tous les assurés en totalité, quelles que soient les clauses de leurs contrats. Cette générosité a fait de Lloyd's un partenaire de confiance.",
+    "source": "D'après Wikipédia — Lloyd's of London"
+  },
+  {
+    "id": "q-economie-142",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Dans un fonds de pension à prestations définies, c'est le salarié qui supporte l'essentiel du risque des placements.",
+    "reponse": false,
+    "explication": "Dans un régime à prestations définies, la pension est promise par une formule et c'est l'employeur ou le promoteur qui porte l'essentiel du risque. Dans un régime à cotisations définies, au contraire, le risque pèse surtout sur le salarié.",
+    "source": "D'après Wikipédia — Fonds de pension"
+  },
+  {
+    "id": "q-economie-143",
+    "domain": "economie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis investisseur et sociologue d'origine australienne.",
+      "En 1949, je crée ce qu'on considère comme le premier fonds spéculatif moderne.",
+      "Je l'appelle d'abord un « hedged fund », un fonds couvert.",
+      "J'achète des actions que je juge prometteuses et je vends à découvert les autres pour limiter l'effet des marchés."
+    ],
+    "reponse": "Alfred Winslow Jones",
+    "explication": "Alfred Winslow Jones lance son fonds en 1949 et invente l'expression « hedge fund ». Sa méthode combine achats d'actions et ventes à découvert, afin de neutraliser en partie les mouvements du marché. Il est aussi lié au schéma 2 % et 20 %.",
+    "source": "D'après Wikipédia — Gestion alternative"
+  },
+  {
+    "id": "q-economie-144",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Qu'est-ce qui caractérise un rachat d'entreprise avec effet de levier (LBO) dans le capital-investissement ?",
+    "choix": [
+      "Il est financé en grande partie par de la dette, remboursée grâce aux revenus de l'entreprise rachetée",
+      "Il est financé uniquement par des dons de salariés",
+      "Il consiste à acheter des actions déjà cotées en Bourse pendant une seule journée",
+      "Il consiste à prêter de l'argent à un État sans garantie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans un LBO, le fonds emprunte une grande partie du prix d'achat et rembourse avec les bénéfices de la société rachetée. Cela peut multiplier les gains si l'affaire marche bien, mais aussi les pertes si elle est moins rentable que prévu.",
+    "source": "D'après Wikipédia — Capital-investissement"
+  },
+  {
+    "id": "q-economie-145",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Pourquoi le prospectus provisoire d'une introduction en bourse américaine s'appelle-t-il « red herring » ?",
+    "choix": [
+      "À cause de l'avertissement imprimé en rouge sur sa couverture",
+      "Parce qu'il était autrefois remis dans des boîtes à poisson",
+      "À cause de sa couverture entièrement rouge pour attirer l'œil",
+      "Parce qu'il est réservé aux investisseurs qui ont déjà perdu de l'argent"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ce prospectus préliminaire porte en couverture une mise en garde en rouge : les informations sont incomplètes et peuvent changer. Il circule pendant la « période de silence », durant laquelle les actions ne peuvent pas encore être vendues.",
+    "source": "D'après Wikipédia — Introduction en bourse"
+  },
+  {
+    "id": "q-economie-146",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "En France, un contrat de crédit-bail indique une suite de loyers mais ne mentionne jamais de taux d'intérêt.",
+    "reponse": true,
+    "explication": "Contrairement à un prêt classique, le contrat de crédit-bail fait apparaître une chaîne de loyers, pas un taux d'intérêt. Pour comparer avec un emprunt, on doit donc calculer soi-même le coût total. En fin de contrat, le client peut acheter le bien.",
+    "source": "D'après Wikipédia — Crédit-bail"
+  },
+  {
+    "id": "q-economie-147",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "De quel verbe latin vient le mot « crédit », qui rappelle que le prêteur fait confiance à l'emprunteur ?",
+    "choix": [
+      "Credere, « croire »",
+      "Creare, « créer »",
+      "Cedere, « céder »",
+      "Colere, « cultiver »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot crédit vient du latin credere, « croire ». Le prêteur est donc celui qui accorde sa confiance : il croit que le débiteur pourra payer sa dette à l'échéance. C'est pourquoi aucun prêteur n'est obligé d'accorder un crédit.",
+    "source": "D'après Wikipédia — Crédit"
+  },
+  {
+    "id": "q-economie-148",
+    "domain": "economie",
+    "format": "difference",
+    "question": "Quelle est la différence entre une hypothèque et un gage ?",
+    "choix": [
+      "Avec une hypothèque, le propriétaire garde son bien immobilier ; avec un gage, le débiteur remet l'objet au créancier",
+      "L'hypothèque porte toujours sur des objets mobiles, le gage uniquement sur des immeubles",
+      "L'hypothèque supprime la dette, alors que le gage l'augmente",
+      "L'hypothèque est réservée aux États, le gage aux particuliers"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'hypothèque est une garantie sur un immeuble sans dépossession : l'emprunteur continue d'habiter chez lui. Dans un gage, il remet l'objet de valeur au créancier jusqu'au remboursement. Si l'emprunteur ne paie plus, le créancier peut faire vendre le bien hypothéqué.",
+    "source": "D'après Wikipédia — Hypothèque"
+  },
+  {
+    "id": "q-economie-149",
+    "domain": "economie",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de la monnaie unique européenne dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Naissance de l'Union latine, premier projet d'union monétaire",
+        "annee": "1865"
+      },
+      {
+        "label": "Signature du traité de Maastricht",
+        "annee": "1992"
+      },
+      {
+        "label": "Naissance de la zone euro avec onze pays",
+        "annee": "1999"
+      },
+      {
+        "label": "Mise en circulation des billets et des pièces en euro",
+        "annee": "2002"
+      },
+      {
+        "label": "Entrée de la Croatie dans la zone euro",
+        "annee": "2023"
+      }
+    ],
+    "explication": "L'Union latine de 1865 fut un premier essai d'union monétaire. Après Maastricht en 1992, l'euro naît en 1999 pour les paiements, puis les pièces et billets circulent dès 2002. La Croatie rejoint la zone en 2023.",
+    "source": "D'après Wikipédia — Zone euro"
+  },
+  {
+    "id": "q-economie-150",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Dans quel pays le remboursement du prêt étudiant prend-il la forme d'un supplément d'impôt lié au revenu, avec le dispositif HECS-HELP ?",
+    "choix": [
+      "Australie",
+      "Canada",
+      "Inde",
+      "Corée du Sud"
+    ],
+    "bonneReponse": 0,
+    "explication": "En Australie, le HECS-HELP fonctionne comme un supplément d'impôt selon un barème lié au revenu imposable : on ne rembourse que si l'on gagne assez. Une critique : ceux qui quittent le pays sans déclarer de revenus ne paient rien.",
+    "source": "D'après Wikipédia — Prêt étudiant"
+  },
+  {
+    "id": "q-economie-151",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Le mot « monnaie » vient du latin moneta. Il serait lié au temple de quelle déesse romaine, où se trouvait l'atelier monétaire de Rome ?",
+    "choix": [
+      "Junon",
+      "Minerve",
+      "Vénus",
+      "Vesta"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le latin moneta désignait la pièce. Le mot serait lié au temple de Junon Moneta, sur le Capitole, là où l'on frappait la monnaie de la Rome antique. Dans l'Antiquité, Junon était d'ailleurs souvent associée à l'argent.",
+    "source": "D'après Wikipédia — Monnaie"
+  },
+  {
+    "id": "q-economie-152",
+    "domain": "economie",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire du billet de banque dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Les jiaozi chinois sont adoptés officiellement",
+        "annee": "1024"
+      },
+      {
+        "label": "Marco Polo décrit le papier-monnaie du Grand Khan",
+        "annee": "1298"
+      },
+      {
+        "label": "La Banque d'Écosse met ses premiers billets en circulation",
+        "annee": "1696"
+      },
+      {
+        "label": "Les assignats sont créés en France",
+        "annee": "1790"
+      },
+      {
+        "label": "La Banque de France émet ses premiers billets",
+        "annee": "1800"
+      }
+    ],
+    "explication": "Les jiaozi chinois (1024) devancent l'Europe de plusieurs siècles. Marco Polo en parle en 1298, la Banque d'Écosse émet en 1696, la Révolution lance les assignats en 1790 et la Banque de France ses premiers billets en 1800.",
+    "source": "D'après Wikipédia — Billet de banque"
+  },
+  {
+    "id": "q-economie-153",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Le mot anglais check, à l'origine du mot « chèque », tire son sens de « contrôle » d'un terme issu de quel jeu ?",
+    "choix": [
+      "Les échecs",
+      "Les dames",
+      "Les cartes",
+      "Les dés"
+    ],
+    "bonneReponse": 0,
+    "explication": "Selon les dictionnaires étymologiques, check (« contrôle ») vient du jeu d'échecs, via le français, le latin et l'arabe, du persan shah, « roi ». Le sens financier évoque un contrôle contre la falsification.",
+    "source": "D'après Wikipédia — Chèque"
+  },
+  {
+    "id": "q-economie-154",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Les cartes American Express ont un numéro à 16 chiffres, comme celles de Visa et de Mastercard.",
+    "reponse": false,
+    "explication": "Visa et Mastercard utilisent 16 chiffres, répartis en quatre groupes de quatre. American Express en compte 15 (en groupes de 4, 6 et 5), et Diners Club International 14. Le dernier chiffre est souvent une clé de contrôle (formule de Luhn).",
+    "source": "D'après Wikipédia — Carte de paiement"
+  },
+  {
+    "id": "q-economie-155",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quels deux États américains ont attiré des sièges sociaux dès la fin du XIXe siècle grâce à un droit des sociétés souple ?",
+    "choix": [
+      "Le New Jersey et le Delaware",
+      "Le Texas et la Floride",
+      "La Californie et le Nevada",
+      "New York et la Pennsylvanie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans les années 1880, le New Jersey, en difficulté budgétaire, puis le Delaware en 1898 ont assoupli leur droit des sociétés. Impôts américains obligent, ils n'étaient pas vraiment des paradis fiscaux, mais de futurs paradis s'en sont inspirés.",
+    "source": "D'après Wikipédia — Paradis fiscal"
+  },
+  {
+    "id": "q-economie-156",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Un commerçant achète un stylo 1,00 € hors taxe et le revend 1,50 € hors taxe, avec une TVA de 20 %. Combien reverse-t-il à l'administration fiscale ?",
+    "choix": [
+      "0,10 €",
+      "0,20 €",
+      "0,30 €",
+      "0,50 €"
+    ],
+    "bonneReponse": 0,
+    "explication": "Il collecte 0,30 € de TVA sur sa vente, mais a déjà payé 0,20 € à son fournisseur. Il ne reverse que la différence, 0,10 €, soit 20 % de la valeur qu'il a ajoutée. C'est le principe : la TVA ne frappe que la valeur ajoutée à chaque étape.",
+    "source": "D'après Wikipédia — Taxe sur la valeur ajoutée"
+  },
+  {
+    "id": "q-economie-157",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Pourquoi l'actif et le passif d'un bilan comptable sont-ils toujours égaux ?",
+    "choix": [
+      "Parce que la comptabilité est tenue en partie double",
+      "Parce que l'entreprise réalise toujours un bénéfice",
+      "Parce que l'État impose des montants identiques",
+      "Parce que les dettes égalent toujours les stocks"
+    ],
+    "bonneReponse": 0,
+    "explication": "La comptabilité en partie double enregistre chaque flux deux fois : d'où vient l'argent, et ce qu'on en a fait. L'actif égale donc toujours le passif, avec ou sans gain : le résultat vient simplement s'ajouter du côté du passif.",
+    "source": "D'après Wikipédia — État de la situation financière"
+  },
+  {
+    "id": "q-economie-158",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Un équipement de 20 000 € est amorti en mode linéaire sur 5 ans. Quel montant est amorti chaque année complète ?",
+    "choix": [
+      "4 000 €",
+      "2 000 €",
+      "5 000 €",
+      "10 000 €"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le taux linéaire vaut 100 % divisé par la durée : 20 % pour 5 ans, soit 4 000 € par an sur 20 000 €. Le mode dégressif, au contraire, déprécie davantage le bien durant les premières années de sa vie.",
+    "source": "D'après Wikipédia — Amortissement comptable"
+  },
+  {
+    "id": "q-economie-159",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Si le nombre d'actions d'une société double et que le cours de l'action est divisé par deux, sa capitalisation boursière reste inchangée.",
+    "reponse": true,
+    "explication": "La capitalisation boursière est le nombre d'actions multiplié par le cours. Doubler l'un et diviser l'autre par deux laisse le produit identique. Elle diffère de la valeur de l'entreprise, qui inclut aussi sa dette financière.",
+    "source": "D'après Wikipédia — Capitalisation boursière"
+  },
+  {
+    "id": "q-economie-160",
+    "domain": "economie",
+    "format": "difference",
+    "question": "Quelle est la différence entre la solvabilité et la liquidité ?",
+    "choix": [
+      "La solvabilité juge la capacité à payer ses dettes à court, moyen et long terme, sans s'appuyer forcément sur les flux de trésorerie, contrairement à la liquidité",
+      "La solvabilité ne concerne que les États, la liquidité seulement les entreprises",
+      "La solvabilité mesure les bénéfices passés, la liquidité les bénéfices futurs",
+      "Les deux mots sont synonymes, seul le vocabulaire change"
+    ],
+    "bonneReponse": 0,
+    "explication": "La solvabilité évalue si l'on peut honorer ses dettes à court, moyen et long terme. Son analyse n'utilise pas obligatoirement les flux de trésorerie, qui sont au cœur de l'analyse de la liquidité. Un prêteur la vérifie avant d'accorder un crédit.",
+    "source": "D'après Wikipédia — Solvabilité"
+  },
+  {
+    "id": "q-economie-161",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Quel indicateur décrit mieux que le taux de chômage l'emploi des forces de travail d'une nation ?",
+    "choix": [
+      "Le taux d'emploi",
+      "Le taux de croissance du PIB",
+      "Le taux d'épargne",
+      "Le taux d'inflation"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le taux d'emploi prend en compte la part d'actifs et d'inactifs dans la population, alors que le taux de chômage ne rapporte les chômeurs qu'à la population active. Les médias citent pourtant surtout ce dernier.",
+    "source": "D'après Wikipédia — Taux de chômage"
+  },
+  {
+    "id": "q-economie-162",
+    "domain": "economie",
+    "format": "associer",
+    "question": "Associe chaque indice boursier à son pays.",
+    "paires": [
+      {
+        "gauche": "CAC 40",
+        "droite": "France",
+        "explication": "Principal indice de la Bourse de Paris, exprimé en base 1 000."
+      },
+      {
+        "gauche": "DAX",
+        "droite": "Allemagne",
+        "explication": "Indice national allemand cité parmi les plus suivis."
+      },
+      {
+        "gauche": "Nikkei 225",
+        "droite": "Japon",
+        "explication": "Indice pondéré par les prix, exprimé en yens."
+      },
+      {
+        "gauche": "FTSE 100",
+        "droite": "Royaume-Uni",
+        "explication": "Indice des grandes sociétés cotées à la Bourse de Londres."
+      },
+      {
+        "gauche": "S&P 500",
+        "droite": "États-Unis",
+        "explication": "Indice pondéré par la capitalisation, très représentatif du marché américain."
+      }
+    ],
+    "explication": "Les indices nationaux les plus cités regroupent les grandes entreprises cotées de chaque pays. Ils servent de thermomètre, mais les médias les relient parfois à tort à la santé de toute l'économie nationale.",
+    "source": "D'après Wikipédia — Indice boursier"
+  },
+  {
+    "id": "q-economie-163",
+    "domain": "economie",
+    "format": "difference",
+    "question": "Quelle est la différence entre le produit national brut (PNB) et le produit intérieur brut (PIB) ?",
+    "choix": [
+      "Le PNB compte la production des résidents d'un pays où qu'elle ait lieu, le PIB celle réalisée sur son territoire",
+      "Le PNB exclut les services, alors que le PIB les inclut",
+      "Le PNB est calculé par habitant, le PIB pour l'ensemble du pays",
+      "Le PNB mesure la dette d'un pays, le PIB sa production"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le PNB suit les résidents d'un pays (principe de nationalité), le PIB suit le lieu de production (principe de territorialité). PNB = PIB + revenus reçus de l'étranger - revenus versés à l'étranger.",
+    "source": "D'après Wikipédia — Produit national brut"
+  },
+  {
+    "id": "q-economie-164",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "Comment s'appelle l'effet qui explique que les monnaies des pays pauvres soient systématiquement sous-évaluées par leur moindre productivité ?",
+    "choix": [
+      "L'effet Balassa-Samuelson",
+      "L'effet Veblen",
+      "L'effet Giffen",
+      "L'effet Laffer"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'effet Balassa-Samuelson explique la sous-évaluation des devises des pays pauvres sur les marchés des changes. C'est l'une des raisons pour lesquelles on compare les niveaux de vie en parité de pouvoir d'achat plutôt qu'au taux de change.",
+    "source": "D'après Wikipédia — Parité de pouvoir d'achat"
+  },
+  {
+    "id": "q-economie-165",
+    "domain": "economie",
+    "format": "vrai-faux",
+    "affirmation": "Quand le revenu médian d'un pays baisse, le taux de pauvreté relative augmente forcément.",
+    "reponse": false,
+    "explication": "Le seuil relatif suit le revenu médian : s'il baisse, le seuil baisse aussi, et le taux de pauvreté relative peut diminuer, même si les bas revenus ne bougent pas. Cette mesure s'apparente donc plus à un indicateur d'inégalités.",
+    "source": "D'après Wikipédia — Seuil de pauvreté"
+  },
+  {
+    "id": "q-economie-166",
+    "domain": "economie",
+    "format": "qcm",
+    "question": "En France, en 1944, avant la Libération, combien de fois son tarif officiel le beurre se vendait-il au marché noir ?",
+    "choix": [
+      "Cinq fois",
+      "Deux fois",
+      "Trois fois",
+      "Dix fois"
+    ],
+    "bonneReponse": 0,
+    "explication": "Avant la Libération, le beurre se vendait cinq fois son tarif officiel, et les œufs quatre fois. Pénurie, rationnement et prix plafonnés faisaient prospérer ce marché. Jean Dutourd en a tiré le roman Au bon beurre, publié en 1952.",
+    "source": "D'après Wikipédia — Marché noir"
+  },
+  {
+    "id": "q-economie-167",
+    "domain": "economie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom vient du latin trochus, lui-même emprunté au grec.",
+      "Aucune société connue n'a vécu uniquement grâce à moi, selon les anthropologues.",
+      "Selon Adam Smith, je suis l'ancêtre de la monnaie.",
+      "En Argentine, en 2001, on m'a utilisé pour échanger des voitures contre des céréales."
+    ],
+    "reponse": "Le troc",
+    "explication": "Le troc est l'échange direct d'un bien contre un autre, sans monnaie. Adam Smith y voyait l'origine de la monnaie, mais des anthropologues comme David Graeber estiment au contraire qu'il suppose déjà une monnaie de compte.",
+    "source": "D'après Wikipédia — Troc"
   }
 ]

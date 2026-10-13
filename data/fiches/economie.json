@@ -3342,5 +3342,2416 @@
     },
     "source": "D'après Wikipédia — Jean Fourastié",
     "notoriete": 2
+  },
+  {
+    "id": "economie-092",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Loi des rendements décroissants",
+    "subtitle": "Principe de production, formulé dès le XVIIIe siècle",
+    "summary": "La loi des rendements décroissants dit qu'en augmentant un seul facteur de production (le travail ou le capital) alors que les autres restent fixes, chaque unité ajoutée rapporte de moins en moins.\nLa production peut continuer de croître, mais à un rythme ralenti. L'idée est née dans l'agriculture : on cultive d'abord les meilleures terres, puis des terres moins fertiles.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le champ de pommes de terre",
+          "texte": "Imaginez un champ équipé de deux tracteurs. Chaque ouvrier ajouté fait grimper la récolte, mais après le deuxième, les suivants doivent travailler sans tracteur, ce qui est plus pénible : la récolte augmente de moins en moins. Dans une usine, c'est pareil : à machines et surface constantes, trop d'employés se gênent mutuellement, et l'on peut même atteindre des rendements négatifs."
+        },
+        {
+          "titre": "Des racines agricoles à la technologie",
+          "texte": "Turgot l'énonce dès 1768 : des avances doubles ne donnent jamais un produit double. En 1817, Ricardo l'applique aux terres : si la population croît, on cultive des terres moins fertiles et la rente des meilleures monte. Le progrès technique (engrais, mécanisation) a repoussé cette limite, et le modèle de Solow ajoute ce facteur pour expliquer la croissance de long terme."
+        }
+      ],
+      "anecdotes": [
+        "Selon les économistes Renaud Bourlès et Gilbert Cette, la loi explique un paradoxe : comme la France compte moins d'heures travaillées et un taux d'emploi plus faible, les moins productifs sont écartés des statistiques, et la productivité horaire observée paraît presque égale à celle des États-Unis."
+      ],
+      "wikipedia": "Loi des rendements décroissants"
+    },
+    "source": "D'après Wikipédia — Loi des rendements décroissants",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-093",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Élasticité (économie)",
+    "subtitle": "Mesure de la sensibilité d'une grandeur à une autre",
+    "summary": "L'élasticité mesure de combien varie une grandeur quand une autre change. Exemple classique : si le prix baisse de 10 % et que les quantités vendues montent de 15 %, l'élasticité-prix de la demande vaut -1,5.\nPlus ce chiffre est grand en valeur absolue, plus les acheteurs sont sensibles au prix. Le mot apparaît en 1890 dans les Principes d'économie d'Alfred Marshall.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Élastique, inélastique, unitaire",
+          "texte": "Si la demande est élastique, une baisse de prix fait grimper les quantités plus vite que le prix ne baisse : le chiffre d'affaires augmente. Si elle est inélastique, c'est l'inverse : même une hausse de prix fait monter les recettes, car les quantités reculent moins. À élasticité unitaire, rien ne bouge. Les produits de première nécessité et les dépenses engagées (loyer, abonnements) réagissent peu à court terme."
+        },
+        {
+          "titre": "Giffen, Veblen et longue durée",
+          "texte": "L'élasticité peut même être positive. Pour un bien de Giffen comme le pain, la hausse du prix oblige à renoncer à la viande, donc à manger plus de pain. Pour un bien de Veblen, comme un parfum de luxe, un prix trop bas ternit l'image de qualité. Et l'effet change avec le temps : le pétrole est peu substituable à court terme, mais sa cherté pousse à long terme vers d'autres énergies."
+        }
+      ],
+      "anecdotes": [
+        "Dès la fin du XVIIe siècle, Gregory King constate qu'une mauvaise récolte de blé fait bondir le prix bien plus que proportionnellement : les agriculteurs s'enrichissent donc quand les récoltes sont mauvaises et s'appauvrissent quand elles sont bonnes."
+      ],
+      "wikipedia": "Élasticité (économie)"
+    },
+    "source": "D'après Wikipédia — Élasticité (économie)",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-094",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Bien public",
+    "subtitle": "Bien non rival et non excluable",
+    "summary": "Un bien public pur est à la fois non rival (l'utiliser n'en prive personne) et non excluable (impossible d'empêcher quelqu'un d'en profiter, même sans avoir payé).\nUne émission de radio en est l'exemple type : l'écouter n'empêche personne d'autre de le faire, et les ondes ne permettent pas de réserver l'accès aux seuls payeurs. La défense nationale ou l'éclairage public en sont d'autres.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le problème du passager clandestin",
+          "texte": "Quand personne ne peut être exclu, chacun est tenté de ne pas payer : c'est le problème du passager clandestin. Le bien risque alors d'être produit en quantité insuffisante. D'où des financements par l'impôt, la redevance, les dons ou la publicité, comme pour la télévision, qui peut être publique ou payée par des annonceurs."
+        },
+        {
+          "titre": "Biens de club et biens communs",
+          "texte": "Si l'on peut contrôler l'accès, le bien devient un bien de club : péage, télévision cryptée. Si l'on ne peut exclure mais que l'usage épuise la ressource, c'est un bien commun, comme les stocks de poissons de l'océan. Une route est faiblement rivale tant qu'elle est vide, puis la congestion la rend rivale. Paul Samuelson a formalisé la théorie moderne dans un article de 1954."
+        }
+      ],
+      "anecdotes": [
+        "Des plateformes de financement participatif comme Kickstarter reprennent le principe des contrats d'assurance proposés en 1989 par Bagnoli et Lipman : l'argent n'est dépensé que si la somme totale réunie suffit."
+      ],
+      "wikipedia": "Bien public"
+    },
+    "source": "D'après Wikipédia — Bien public",
+    "notoriete": 3
+  },
+  {
+    "id": "economie-095",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Tragédie des biens communs",
+    "subtitle": "Concept popularisé par Garrett Hardin en 1968",
+    "summary": "La tragédie des biens communs décrit ce qui arrive quand une ressource partagée est exploitée par des acteurs qui suivent chacun leur intérêt : tous la surexploitent, et elle s'épuise au détriment de tous.\nL'image classique est un pâturage commun où chaque éleveur ajoute une bête de plus. L'expression est popularisée en 1968 par le biologiste Garrett Hardin, dans un article de la revue Science.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le pâturage du village",
+          "texte": "Hardin raisonne ainsi : en ajoutant un animal, l'éleveur empoche seul le gain, mais le coût (de l'herbe en moins) est partagé entre tous. Chacun a donc intérêt à agrandir son troupeau, et le champ finit en mare de boue. L'idée remonte à un essai de 1833 de William Forster Lloyd, et Aristote notait déjà que ce qui est commun à tous reçoit moins de soins."
+        },
+        {
+          "titre": "Trois pistes et une critique",
+          "texte": "Trois solutions sont avancées : la nationalisation (l'État réglemente ou exploite), la privatisation (par exemple des quotas de pêche échangeables) et la gestion locale par les communautés, analysée par Elinor Ostrom, récompensée en 2009. Des critiques reprochent à Hardin d'avoir confondu propriété commune, souvent encadrée par des règles, et libre accès. Il admettra qu'il aurait dû parler de « communs non gérés »."
+        }
+      ],
+      "anecdotes": [
+        "Dans une enquête menée en 2002 par Barrett et Mabry auprès de biologistes, l'article de Hardin de 1968 est apparu comme celui qui avait eu le plus d'impact sur les carrières, et comme le plus cité."
+      ],
+      "wikipedia": "Tragédie des biens communs"
+    },
+    "source": "D'après Wikipédia — Tragédie des biens communs",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-096",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Optimum de Pareto",
+    "subtitle": "Critère d'efficacité nommé d'après Vilfredo Pareto (1848-1923)",
+    "summary": "Une situation est un optimum de Pareto quand on ne peut plus améliorer le sort de quelqu'un sans détériorer celui d'une autre personne. Le concept doit son nom à Vilfredo Pareto, économiste italien.\nAttention : « optimal » ne veut pas dire « juste ». C'est une notion minimale d'efficacité, qui ne dit rien de la manière dont les richesses sont réparties.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Efficace n'est pas juste",
+          "texte": "Si une seule personne détient toute la richesse, la société est quand même un optimum de Pareto : en transférer une part réduirait son bien-être. Beaucoup d'états très différents sont donc des optima, et il faut d'autres critères pour les départager. Le concept sert surtout à éviter les grossières erreurs de décision et à indiquer une direction générale."
+        },
+        {
+          "titre": "Pareto, utilitarisme et marchés",
+          "texte": "Augmenter chaque salarié de 10 euros est une amélioration de Pareto : personne n'y perd. Retirer 100 euros à 10 % d'entre eux pour en donner 15 aux 90 % restants augmente le total (critère utilitariste), mais n'est pas comparable au sens de Pareto. Selon le premier théorème du bien-être, démontré par Arrow et Debreu, un marché en concurrence parfaite aboutit à un optimum, sous des hypothèses strictes."
+        }
+      ],
+      "anecdotes": [
+        "Pareto employait à l'origine le mot « optimal », ce qui est un abus de langage : son idée est plus proche d'une notion d'efficacité, car elle ne désigne pas un seul meilleur résultat mais un ensemble de résultats possibles."
+      ],
+      "wikipedia": "Optimum de Pareto"
+    },
+    "source": "D'après Wikipédia — Optimum de Pareto",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-097",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Économie comportementale",
+    "subtitle": "Branche de l'économie à la frontière de la psychologie",
+    "summary": "L'économie comportementale étudie comment les êtres humains décident vraiment dans les situations économiques, avec leurs biais, leurs émotions et leurs raccourcis mentaux, au lieu de supposer un Homo œconomicus parfaitement rationnel.\nElle mêle économie et psychologie et s'appuie sur des expériences. Daniel Kahneman a reçu en 2002 le « Nobel » d'économie pour ses travaux pionniers.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Les limites de la rationalité",
+          "texte": "Dès les années 1960, des psychologues comme Kahneman et Tversky confrontent leurs modèles de décision aux modèles économiques. Leur théorie des perspectives (1979) montre qu'on réagit plus fort aux pertes qu'aux gains : en 1992, ils trouvent qu'une perte pèse environ 2,25 fois plus qu'un gain équivalent. Herbert Simon parlait déjà de rationalité limitée : on se contente souvent d'une solution acceptable."
+        },
+        {
+          "titre": "Des expériences aux politiques publiques",
+          "texte": "Vernon Smith, co-lauréat en 2002, a perfectionné dès les années 1960 la méthode expérimentale en reproduisant des marchés en laboratoire. Cass Sunstein et Richard Thaler proposent, dans Nudge, de repenser la présentation des choix, par exemple en plaçant les aliments plus sains à hauteur des yeux. Des travaux récents sur la reproductibilité de certaines études invitent toutefois à la prudence."
+        }
+      ],
+      "anecdotes": [
+        "Bien avant la discipline, Adam Smith abordait dans sa Théorie des sentiments moraux des idées que l'économie comportementale a popularisées, comme l'aversion aux pertes."
+      ],
+      "wikipedia": "Économie comportementale"
+    },
+    "source": "D'après Wikipédia — Économie comportementale",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-098",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Stagflation",
+    "subtitle": "Croissance atone et forte inflation à la fois",
+    "summary": "La stagflation, contraction de « stagnation » et d'« inflation », désigne une économie où la croissance est faible ou nulle alors que les prix montent fortement, souvent avec un chômage élevé.\nLe mot est employé en 1965 par le Britannique Iain Macleod. La situation se banalise dans les années 1970, surtout après le premier choc pétrolier de 1973.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un casse-tête pour les gouvernements",
+          "texte": "Les keynésiens croyaient à un arbitrage entre inflation et chômage (la courbe de Phillips) : quand l'un monte, l'autre baisse. Avec la stagflation, les deux montent ensemble. Relancer l'activité nourrit l'inflation, la freiner risque d'aggraver le chômage. Deux explications dominent : un choc d'offre, comme la flambée du pétrole, ou des politiques qui freinent l'industrie tout en créant trop de monnaie."
+        },
+        {
+          "titre": "Un tournant intellectuel",
+          "texte": "Face à la stagflation, les politiques de relance ne fonctionnaient plus, et l'image du keynésianisme en a souffert. Milton Friedman et Edmund Phelps expliquent que, lorsque salariés et entreprises anticipent plus d'inflation, la courbe de Phillips se déplace vers le haut. Place au monétarisme, aux politiques de l'offre et à la rigueur, qui ont freiné l'inflation sans toujours sortir du marasme."
+        }
+      ],
+      "anecdotes": [
+        "Dans son discours aux Communes en 1965, Iain Macleod parle d'une sorte de situation de « stagflation » et du « pire des deux mondes » : l'inflation et la stagnation réunies. Il deviendra chancelier de l'Échiquier en 1970."
+      ],
+      "wikipedia": "Stagflation"
+    },
+    "source": "D'après Wikipédia — Stagflation",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-099",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Trappe à liquidité",
+    "subtitle": "Quand la politique monétaire ne fonctionne plus",
+    "summary": "Une trappe à liquidité est une situation où les taux d'intérêt sont si bas que presque tout le monde préfère garder son argent liquide plutôt que de le prêter ou de le placer. La banque centrale ne parvient plus à relancer l'économie en baissant ses taux.\nL'idée vient de l'analyse keynésienne et de la Théorie générale de Keynes, publiée en 1936.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Pourquoi tout se bloque",
+          "texte": "D'ordinaire, une banque centrale baisse ses taux pour encourager l'investissement et la consommation. Mais près de zéro, détenir des obligations rapporte presque rien : on préfère thésauriser. Le piège peut s'auto-entretenir : si l'inflation est faible, les taux réels restent trop élevés, l'inflation devient déflation, les taux réels remontent encore et la récession risque de s'aggraver."
+        },
+        {
+          "titre": "De Hicks au Japon",
+          "texte": "John Hicks a intégré l'idée dans son modèle IS/LM. Des économistes comme Paul Krugman ont jugé que la « décennie perdue » du Japon, dans les années 1990, en montrait tous les symptômes : les taux nominaux avaient baissé, mais la déflation laissait les taux réels positifs. L'existence même du phénomène reste débattue, et la banque centrale peut agir autrement, par exemple en achetant des titres."
+        }
+      ],
+      "anecdotes": [
+        "Keynes écrivait en 1936 que ce cas limite pourrait devenir important à l'avenir, mais qu'il n'en connaissait aucun exemple jusque-là."
+      ],
+      "wikipedia": "Trappe à liquidité"
+    },
+    "source": "D'après Wikipédia — Trappe à liquidité",
+    "notoriete": 3
+  },
+  {
+    "id": "economie-100",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Assouplissement quantitatif",
+    "subtitle": "Politique monétaire non conventionnelle, appliquée depuis 2001",
+    "summary": "L'assouplissement quantitatif, souvent abrégé QE, consiste pour une banque centrale à racheter en masse de la dette publique ou d'autres titres, afin de mettre plus de monnaie en circulation, faire baisser les taux à long terme et stimuler la croissance.\nLa Banque du Japon l'applique la première, en 2001. Les grandes banques centrales occidentales l'adoptent pendant ou après la crise de 2007-2008.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Quand les taux ne suffisent plus",
+          "texte": "Une banque centrale pilote d'ordinaire l'économie avec ses taux directeurs. Mais à 0 %, l'outil ne marche plus. Elle achète alors, pendant des années, de gros volumes de titres, y compris à long terme. Leur prix monte, leur rendement baisse, et les banques sont incitées à prêter davantage. Ce qui distingue le QE des opérations ordinaires, c'est sa taille, sa durée et la nature des titres achetés."
+        },
+        {
+          "titre": "De Tokyo à Londres",
+          "texte": "Le Japon lance le QE en mars 2001 et y renonce le 9 mars 2006. La Fed annonce son programme en août 2008 : son bilan passe de 800 milliards à plus de 4 000 milliards de dollars. La Banque d'Angleterre débute en mars 2009 avec 75 milliards de livres, portés ensuite à 375. Les critiques : risque de bulles d'actifs, inégalités accrues, et rien ne garantit que l'argent finance l'économie réelle."
+        }
+      ],
+      "anecdotes": [
+        "Le nom « quantitative easing » viendrait de l'économiste Richard Werner, qui l'invente en 1994 lors d'une présentation à des investisseurs japonais à Tokyo, puis l'utilise dans un article du Nihon Keizai Shinbun en 1995."
+      ],
+      "wikipedia": "Assouplissement quantitatif"
+    },
+    "source": "D'après Wikipédia — Assouplissement quantitatif",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-101",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Revenu de base",
+    "subtitle": "Idée d'un versement universel et inconditionnel",
+    "summary": "Le revenu de base, c'est un montant que la collectivité verse à chacun de ses membres, individuellement, sans tenir compte de ses ressources et sans rien demander en échange.\nL'idée, défendue par des courants très différents, divise : ses partisans y voient un moyen de réduire la pauvreté, ses détracteurs s'inquiètent de son coût et de son effet sur l'emploi.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une idée ancienne",
+          "texte": "Thomas More imagine dans Utopia (1516) une société où chacun reçoit de quoi vivre. À la fin du XVIIIe siècle, Thomas Paine propose une dotation pour les jeunes adultes et une pension, financées par une taxe sur l'héritage de la terre. Bertrand Russell défend en 1918 un petit revenu garanti à tous, qu'on travaille ou non. L'idée est reprise tantôt par des penseurs libéraux, tantôt par des penseurs marxistes."
+        },
+        {
+          "titre": "Arguments et critiques",
+          "texte": "Les partisans y voient un moyen de réduire la pauvreté et de remplacer de multiples aides sous conditions. Les critiques jugent le coût hors de portée, craignent que moins de gens travaillent et trouvent injuste de verser le même montant à tous. Des essais ont eu lieu au Canada, en Inde et en Namibie. En Alaska, un fonds alimenté par le pétrole et les mines verse un dividende à tous les habitants."
+        }
+      ],
+      "anecdotes": [
+        "Voltaire, dans L'Homme aux quarante écus (1768), imagine que la valeur locative des terres du royaume soit répartie entre tous les sujets : cela donne quarante écus chacun, de quoi vivre pauvre, mais libre de tout travail."
+      ],
+      "wikipedia": "Revenu de base"
+    },
+    "source": "D'après Wikipédia — Revenu de base",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-102",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Économie circulaire",
+    "subtitle": "Modèle économique qui fonctionne en boucle",
+    "summary": "L'économie circulaire fonctionne en boucle plutôt qu'en ligne droite : au lieu d'extraire, fabriquer puis jeter, elle vise à réparer, réemployer et recycler pour limiter le gaspillage de matières premières et d'énergie.\nElle s'appuie sur l'écoconception des produits. Le terme apparaît pour la première fois dans un ouvrage de 1989 sur l'économie de l'environnement.",
+    "details": {
+      "sections": [
+        {
+          "titre": "De la ligne droite à la boucle",
+          "texte": "Dans une économie linéaire, on prend, on fabrique, on jette. La Fondation Ellen MacArthur distingue deux flux : les nutriments biologiques, qui retournent sans danger dans la biosphère, et les nutriments techniques, conçus pour être recyclés en gardant une haute qualité. Kenneth Boulding avait défendu dès 1966 un système cyclique ; Braungart et McDonough formalisent en 2002 la théorie « du berceau au berceau »."
+        },
+        {
+          "titre": "Promesses et limites",
+          "texte": "Un rapport de McKinsey pour la Fondation Ellen MacArthur estime que les entreprises européennes pourraient économiser plus de 240 milliards de dollars par an. Les critiques notent que le cycle n'est jamais tout à fait fermé : chaque étape demande de l'énergie, et selon Circle Economy la réutilisation a progressé de 3 % entre 2015 et 2017, moins vite que l'extraction. En France, la loi du 10 février 2020 a créé un indice de réparabilité."
+        }
+      ],
+      "anecdotes": [
+        "La pratique est bien plus ancienne que le mot : jusqu'aux années 1930, on collectait et on utilisait encore les boues et les ordures, avant qu'on se mette à les enlever pour les détruire."
+      ],
+      "wikipedia": "Économie circulaire"
+    },
+    "source": "D'après Wikipédia — Économie circulaire",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-103",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Dumping",
+    "subtitle": "Vente à perte ou allègement déloyal des règles",
+    "summary": "Le mot dumping vient du verbe anglais to dump, qui signifie déverser ou se débarrasser de. Il désigne d'abord la vente à perte : exporter un produit à un prix inférieur à celui du pays d'origine pour conquérir un marché.\nLe mot s'emploie aussi quand un État ou une entreprise allège, contourne ou viole les règles fiscales, sociales ou environnementales pour gagner en compétitivité.",
+    "details": {
+      "sections": [
+        {
+          "titre": "La vente à perte à l'export",
+          "texte": "Une entreprise exporte à un prix inférieur à celui de son marché d'origine, soit pour écouler sa production sans faire baisser les prix chez elle, soit pour s'installer à l'étranger avec des marges faibles ou nulles. Le manque à gagner est compensé par les marges confortables du marché intérieur ou par des subventions du gouvernement. Ces pratiques sont jugées déloyales car contraires à une concurrence efficace."
+        },
+        {
+          "titre": "Fiscal, social, environnemental et riposte",
+          "texte": "Le dumping fiscal consiste pour un État à taxer moins qu'ailleurs pour attirer sociétés et personnes. Le dumping social, selon un rapport parlementaire français du 25 mai 2000, est le fait de violer, contourner ou dégrader le droit social pour gagner en compétitivité. Les règles de l'OMC autorisent le pays importateur à imposer des droits antidumping, égaux à l'écart entre coût de production et prix de vente."
+        }
+      ],
+      "anecdotes": [
+        "Le dumping ne concerne pas seulement les exportations : au sein d'un même pays, une entreprise qui se diversifie peut pratiquer des tarifs très offensifs, à marge quasi nulle, financés par son activité principale, afin de conquérir un domaine d'activité nouveau."
+      ],
+      "wikipedia": "Dumping"
+    },
+    "source": "D'après Wikipédia — Dumping",
+    "notoriete": 3
+  },
+  {
+    "id": "economie-104",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Subprime",
+    "subtitle": "Crédit à haut risque, au cœur de la crise de 2007-2008",
+    "summary": "Un crédit subprime est un prêt plus risqué pour le prêteur que la catégorie « prime », accordé à des emprunteurs jugés moins fiables, avec un taux plus élevé en compensation. Le terme désigne surtout des crédits immobiliers américains.\nIl est devenu célèbre avec la crise des subprimes, qui a lancé la crise financière mondiale de 2007-2008.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Comment ces prêts fonctionnaient",
+          "texte": "Les emprunteurs avaient souvent de faibles revenus ou des retards de paiement passés. Un score de crédit inférieur à environ 620, sur une échelle de 300 à 850, les classait subprime. Pour rendre le prêt abordable au départ, certains prêts (dits « 2/28 ») offraient 2 ans de taux bas, puis 28 ans à taux variable : les mensualités pouvaient alors bondir. Les prêteurs se rassuraient car la hausse des prix de l'immobilier permettait de revendre le bien en cas de défaut."
+        },
+        {
+          "titre": "De la titrisation à la crise",
+          "texte": "Les banques regroupaient des paquets de plus de 1 000 créances en titres (ABS), puis en CDO notés AAA, revendus à des investisseurs : le prêt sortait de leur bilan. Entre 2004 et 2007, la Réserve fédérale relève son taux directeur de 1 % à plus de 5 %, et les mensualités explosent. Fin 2006, l'immobilier cesse de monter, les saisies font baisser les prix, et la revente ne suffit plus à rembourser les prêteurs."
+        }
+      ],
+      "anecdotes": [
+        "Dès septembre 2006, plusieurs experts, dont Nouriel Roubini et Raghuram Rajan, alertent sur un risque de bulle immobilière, alors que les subprimes représentaient en 2006 près d'un quart des prêts immobiliers américains (23 %)."
+      ],
+      "wikipedia": "Subprime"
+    },
+    "source": "D'après Wikipédia — Subprime",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-105",
+    "domain": "economie",
+    "subtheme": "Dates clés",
+    "type": "classique",
+    "title": "Panique bancaire américaine de 1907",
+    "subtitle": "Crise financière d'octobre 1907 aux États-Unis",
+    "summary": "En octobre 1907, la Bourse de New York s'effondre et les déposants se ruent sur les banques et sociétés fiduciaires, dans un pays qui n'a alors aucune banque centrale. La panique s'étend à tout le territoire.\nLe financier J. P. Morgan réunit des fonds pour la contenir. La crise débouche sur la naissance de la Fed, la banque centrale américaine, le 22 décembre 1913.",
+    "details": {
+      "sections": [
+        {
+          "titre": "L'étincelle : un corner raté",
+          "texte": "Otto Heinze veut cornériser les actions de United Copper : acheter massivement pour forcer les vendeurs à découvert à racheter cher. Le 14 octobre, l'action passe de 39 à 52 dollars, mais les vendeurs trouvent des titres ailleurs et le cours s'effondre à 10 dollars le mercredi. Les banques liées aux Heinze et à Charles Morse subissent des retraits massifs, puis la Knickerbocker Trust Company, troisième société fiduciaire de New York, ferme le 22 octobre."
+        },
+        {
+          "titre": "Morgan et la naissance de la Fed",
+          "texte": "Faute de banque centrale, personne ne peut réinjecter des liquidités. J. P. Morgan engage ses fonds propres et persuade d'autres banquiers d'en faire autant. En novembre, nouvelle alerte autour du titre de la compagnie Tennessee Coal, Iron and Railroad : U.S. Steel la rachète d'urgence, avec l'accord du président Theodore Roosevelt. L'année suivante, le sénateur Nelson Aldrich préside une commission d'enquête, qui mène à la Fed."
+        }
+      ],
+      "anecdotes": [
+        "Quand le chaos s'installe, J. P. Morgan, le banquier le plus célèbre de New York, se trouve à un rassemblement religieux, loin de New York, dans la ville de Richmond (Virginie)."
+      ],
+      "wikipedia": "Panique bancaire américaine de 1907"
+    },
+    "source": "D'après Wikipédia — Panique bancaire américaine de 1907",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-106",
+    "domain": "economie",
+    "subtheme": "Dates clés",
+    "type": "classique",
+    "title": "Choc Volcker",
+    "subtitle": "Politique monétaire restrictive de 1979 à 1982 aux États-Unis",
+    "summary": "Le choc Volcker est une politique monétaire très restrictive menée entre 1979 et 1982 par Paul Volcker, qui prend la tête de la Réserve fédérale le 6 août 1979, pour casser l'inflation américaine.\nIl a fait reculer l'inflation, mais au prix de taux d'intérêt records et d'une profonde récession en 1982.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Casser l'inflation",
+          "texte": "Dans les années 1970, deux chocs pétroliers (1973 et 1979) alimentent l'inflation. Le président Carter nomme Volcker avec pour mission de la maîtriser. S'appuyant sur le monétarisme, pour qui l'inflation est toujours un phénomène monétaire, il réduit la masse monétaire et relève les taux directeurs de 9 % à 19 %. En juin 1981, les taux à court terme atteignent à New York le record de 20 %."
+        },
+        {
+          "titre": "Le prix à payer",
+          "texte": "L'inflation chute, mais le PIB américain recule de 2 % en 1982 et le chômage augmente nettement. La hausse des taux se propage au monde entier et alourdit le service de la dette : celle de l'Argentine passe de 45 à 65 milliards de dollars en 1989, celle du Brésil double en dix ans, et dès 1982 le Mexique se déclare incapable de payer."
+        }
+      ],
+      "anecdotes": [
+        "Paul Volcker est aussi connu pour la règle qui porte son nom, adoptée en juillet 2010, qui limite les investissements spéculatifs des banques."
+      ],
+      "wikipedia": "Choc Volcker"
+    },
+    "source": "D'après Wikipédia — Choc Volcker",
+    "notoriete": 3
+  },
+  {
+    "id": "economie-107",
+    "domain": "economie",
+    "subtheme": "Dates clés",
+    "type": "classique",
+    "title": "Crise économique asiatique",
+    "subtitle": "Crise financière née en Thaïlande en juillet 1997",
+    "summary": "La crise asiatique commence le 2 juillet 1997 en Thaïlande, quand le pays laisse flotter sa monnaie, le baht, faute de devises pour la défendre. Elle gagne la Corée du Sud, l'Indonésie, la Malaisie et les Philippines.\nElle met fin au « miracle asiatique » des années 1980-1990, mais la reprise est rapide en 1998 et 1999.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un miracle fragile",
+          "texte": "Dans les années 1980-1990, l'Asie du Sud-Est croît vite (de 8 à 12 % du PIB) et attire près de la moitié des capitaux envoyés vers les pays en développement. La Thaïlande rattache le baht au dollar, ce qui rassure les investisseurs, et ses banques empruntent en dollars. Une bulle immobilière gonfle. Entre 1993 et 1996, la dette extérieure des quatre grandes économies de l'ASEAN passe de 100 % à 167 % du PIB."
+        },
+        {
+          "titre": "L'effet domino",
+          "texte": "Le dollar s'apprécie, les exportations perdent en compétitivité et les capitaux fuient. La banque centrale thaïlandaise épuise 23 milliards de dollars de réserves avant de laisser flotter le baht. Les banques endettées en dollars ne peuvent plus rembourser. En novembre, le won sud-coréen perd 50 % face au dollar. Le FMI lance un programme de 40 milliards de dollars, dont l'austérité est critiquée. En Indonésie, Suharto démissionne le 21 mai 1998."
+        }
+      ],
+      "anecdotes": [
+        "En Thaïlande, la crise est surnommée « crise Tom Yum Kung », du nom d'une célèbre soupe épicée de crevettes."
+      ],
+      "wikipedia": "Crise économique asiatique"
+    },
+    "source": "D'après Wikipédia — Crise économique asiatique",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-108",
+    "domain": "economie",
+    "subtheme": "Dates clés",
+    "type": "classique",
+    "title": "Crise de la dette dans la zone euro",
+    "subtitle": "Crise des dettes souveraines de 2010 à 2018",
+    "summary": "Cette crise, aussi appelée crise des dettes souveraines, est une suite d'événements financiers qui frappe entre 2010 et 2018 les économies de la zone euro (19 pays de l'Union européenne). Elle débute avec la crise de la dette grecque, quand la Grèce révèle l'ampleur de son déficit.\nElle s'étend à l'Irlande, au Portugal, à Chypre et touche l'Espagne.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Pourquoi la crise éclate",
+          "texte": "Depuis la création de l'euro, des capitaux venus de pays plus prospères (Allemagne, France, Pays-Bas) se sont investis en périphérie, surtout dans le logement et le secteur public. Les dettes publiques et privées ont gonflé, les coûts ont monté et la compétitivité a baissé. Avec une monnaie commune, ces pays ne pouvaient pas dévaluer. En Irlande et en Espagne, immobilier et sauvetage des banques ont aggravé la situation."
+        },
+        {
+          "titre": "Les réponses européennes",
+          "texte": "Fin 2009, la Grèce révèle un déficit de 12,7 % du PIB, bien au-dessus des 6 à 8 % annoncés. En mai 2010 : plan d'aide de 110 milliards d'euros de prêts sur trois ans, puis fonds de stabilisation de 750 milliards. Le fonds européen FESF puis le Mécanisme européen de stabilité sont créés, et la BCE annonce le 6 septembre 2012 son soutien aux pays aidés. Irlande et Portugal sortent de leurs programmes en 2014. L'austérité a fait grimper le chômage jusqu'à 27 % en Grèce et en Espagne."
+        }
+      ],
+      "anecdotes": [
+        "Lors de la « quinzaine noire » du 25 juillet au 8 août 2011, le CAC 40 enchaîne 11 séances consécutives de baisse, un record depuis sa création en 1987."
+      ],
+      "wikipedia": "Crise de la dette dans la zone euro"
+    },
+    "source": "D'après Wikipédia — Crise de la dette dans la zone euro",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-109",
+    "domain": "economie",
+    "subtheme": "Dates clés",
+    "type": "classique",
+    "title": "Mercantilisme",
+    "subtitle": "Courant de pensée économique du XVIe au XVIIIe siècle",
+    "summary": "Le mercantilisme est un courant de pensée économique, pratiqué en Europe du XVIe siècle au milieu du XVIIIe, qui cherche à maximiser l'excédent commercial d'un pays pour y faire entrer un maximum de richesses.\nL'État y joue un rôle central : protectionnisme, soutien aux exportations et à l'industrie. Le débat actuel sur le libre-échange lui redonne une certaine actualité.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Plusieurs versions",
+          "texte": "Le bullionisme, influent en Espagne, vise l'accumulation de métaux précieux venus des colonies américaines. Le colbertisme, appliqué en France, confie à l'État un rôle moteur dans le commerce et l'industrie. Hollande et Angleterre développent le commercialisme, les États allemands le caméralisme. Une idée neuve s'impose : mieux vaut vendre des produits manufacturés que des produits bruts, comme le résume dès 1485 la formule attribuée à Henry VII."
+        },
+        {
+          "titre": "Un jeu à somme nulle",
+          "texte": "Pour les mercantilistes, la richesse est un stock quasi fixe : un pays ne s'enrichit qu'aux dépens d'un autre. D'où des lois comme le Navigation Act anglais de 1651, des conflits comme les guerres anglo-hollandaises, et une expansion coloniale souvent confiée à des monopoles, comme la Compagnie des Indes. Mirabeau (1763) puis Adam Smith (1776) critiquent ce « système mercantile ». L'abrogation des Corn Laws en 1846 symbolise le tournant vers le libre-échange."
+        }
+      ],
+      "anecdotes": [
+        "En 1684, le juriste autrichien Philipp Wilhelm von Hornick résume la doctrine en neuf points dans Austria Over All, If She Only Will, dont l'idée de décourager autant que possible l'importation de biens étrangers."
+      ],
+      "wikipedia": "Mercantilisme"
+    },
+    "source": "D'après Wikipédia — Mercantilisme",
+    "notoriete": 1
+  },
+  {
+    "id": "economie-110",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Irving Fisher",
+    "subtitle": "Économiste américain, 1867-1947",
+    "summary": "Irving Fisher enseigne à Yale et reçoit en 1891 le premier doctorat d'économie de cette université. Il étudie les taux d'intérêt, le temps et la valeur de l'argent, et formule l'équation MV = PT sur la monnaie et les prix.\nSa gloire de « premier économiste vedette » s'effondre en 1929, quand il annonce un « haut plateau permanent » en Bourse juste avant le krach. Il en tire sa théorie de la déflation par la dette.",
+    "details": {
+      "epoque": "De la fin du XIXe siècle aux années 1940.",
+      "pourquoiCelebre": "Il a mathématisé la théorie des taux d'intérêt et du capital, et expliqué comment une spirale de dettes peut aggraver une dépression.",
+      "ideesClefs": [
+        "Une même marchandise n'a pas la même valeur maintenant ou plus tard : le taux d'intérêt mesure le prix du temps.",
+        "L'équation MV = PT relie la quantité de monnaie en circulation au niveau des prix.",
+        "La déflation par la dette : quand tout le monde vend pour rembourser, les prix baissent et la dette pèse plus lourd."
+      ],
+      "liens": [
+        {
+          "nom": "John Maynard Keynes",
+          "relation": "Son œuvre a été largement éclipsée par celle de Keynes après la crise des années 1930."
+        },
+        {
+          "nom": "Friedrich Hayek",
+          "relation": "Autre théoricien monétaire des cycles, mais Fisher jugeait l'intervention de l'État nécessaire pour stopper la spirale déflationniste."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le prix du temps",
+          "texte": "Pour Fisher, la valeur d'un bien dépend aussi du moment où on le reçoit : un bien disponible aujourd'hui ne vaut pas le même bien disponible dans un an. Le taux d'intérêt mesure ce prix du temps. Il l'a montré en retitrant les axes des graphiques d'économie : « consommation maintenant » et « consommation plus tard », au lieu des pommes et des oranges. Cette théorie du capital et de l'intérêt est restée un classique."
+        },
+        {
+          "titre": "La déflation par la dette",
+          "texte": "Après 1929, Fisher décrit un cercle vicieux. Des ménages et des entreprises très endettés vendent leurs biens pour rembourser. Ces ventes font chuter les prix, ce qui alourdit la valeur réelle des dettes restantes, donc il faut vendre encore. Selon ses estimations, la dette réelle aurait augmenté d'environ 40 % entre 1929 et 1933. Sa solution : une intervention de l'État pour casser la spirale."
+        },
+        {
+          "titre": "L'idée du 100 % monnaie",
+          "texte": "Pour éviter les krachs, Fisher propose de supprimer les réserves fractionnaires : les banques ne pourraient plus créer de monnaie en prêtant plus qu'elles n'ont en dépôt. Elles prêteraient seulement l'argent placé sur des comptes d'épargne. Cette proposition de « 100 % monnaie », défendue dans son livre de 1935, a été reprise par d'autres économistes."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "The Nature of Capital and Income",
+          "annee": "1906"
+        },
+        {
+          "titre": "The Purchasing Power of Money",
+          "annee": "1911"
+        },
+        {
+          "titre": "The Theory of Interest",
+          "annee": "1930"
+        },
+        {
+          "titre": "Booms and Depressions",
+          "annee": "1932"
+        },
+        {
+          "titre": "100% Money",
+          "annee": "1935"
+        }
+      ],
+      "anecdotes": [
+        "Pour illustrer sa thèse, il construit une machine hydraulique à pompes et leviers qui montre comment les prix d'équilibre d'un marché s'ajustent quand l'offre ou la demande change. Il invente aussi un système de fichiers « visibles », breveté en 1913 et vendu en 1925, qui le rend riche avant le krach de 1929."
+      ],
+      "wikipedia": "Irving Fisher"
+    },
+    "source": "D'après Wikipédia — Irving Fisher",
+    "notoriete": 3
+  },
+  {
+    "id": "economie-111",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "John Kenneth Galbraith",
+    "subtitle": "Économiste américano-canadien, 1908-2006",
+    "summary": "Né dans une ferme de l'Ontario, John Kenneth Galbraith devient professeur à Harvard et conseiller de plusieurs présidents américains. Pendant la Seconde Guerre mondiale, il contribue à bloquer les prix aux États-Unis.\nSes livres, écrits d'une plume vive, critiquent le pouvoir des grandes entreprises et la publicité. Il est l'un des économistes les plus lus du XXe siècle.",
+    "details": {
+      "epoque": "Du milieu des années 1930 aux années 2000.",
+      "pourquoiCelebre": "Il a soutenu que les grandes entreprises façonnent les besoins des consommateurs et que les sociétés riches négligent leurs services publics.",
+      "ideesClefs": [
+        "La « filière inversée » : ce sont les entreprises qui imposent leurs produits aux consommateurs, par la publicité et le crédit.",
+        "La « technostructure » : les gestionnaires, plus que les actionnaires, prennent les décisions dans les grandes sociétés.",
+        "Dans L'Ère de l'opulence (1958), il dénonce l'opulence privée à côté de la pauvreté des écoles et de l'environnement publics."
+      ],
+      "liens": [
+        {
+          "nom": "Milton Friedman",
+          "relation": "Son grand adversaire intellectuel, partisan d'une économie bien moins encadrée."
+        },
+        {
+          "nom": "John Maynard Keynes",
+          "relation": "Il a découvert ses idées à Cambridge en 1937 et en est resté un héritier hétérodoxe."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Du « tsar des prix » à Harvard",
+          "texte": "De 1941 à 1943, Galbraith est adjoint à l'Office of Price Administration, chargé de stabiliser prix, salaires et loyers pendant la guerre. Il y voyait son plus grand accomplissement. Poussé dehors en 1943 par des opposants qui l'accusent de « tendances communistes », il rejoint le magazine Fortune. Professeur à Harvard en 1949, il devient ambassadeur des États-Unis en Inde sous Kennedy, de 1961 à 1963."
+        },
+        {
+          "titre": "Critique du pouvoir des entreprises",
+          "texte": "Pour Galbraith, l'idée d'un consommateur souverain qui dicte la production est fausse. Les grandes firmes ont assez de poids pour fixer leurs prix, créer des besoins par la publicité et faciliter l'achat grâce au crédit. Dans Le Nouvel État industriel (1967), il décrit un pouvoir passé aux experts de la technostructure. Il se situe dans la tradition institutionnaliste, très critique envers ses collègues néoclassiques."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "La Crise économique de 1929",
+          "annee": "1955"
+        },
+        {
+          "titre": "L'Ère de l'opulence",
+          "annee": "1958"
+        },
+        {
+          "titre": "Le Nouvel État industriel",
+          "annee": "1967"
+        },
+        {
+          "titre": "L'Anatomie du pouvoir",
+          "annee": "1983"
+        },
+        {
+          "titre": "Brève histoire de l'euphorie financière",
+          "annee": "1990"
+        }
+      ],
+      "anecdotes": [
+        "Galbraith mesurait 6 pieds 9 pouces, soit 206 cm. Henry Luce, patron de Fortune qui l'avait embauché après son départ de l'administration, aurait dit au président Kennedy : « Je lui ai appris à écrire, et je l'ai regretté depuis. »"
+      ],
+      "wikipedia": "John Kenneth Galbraith"
+    },
+    "source": "D'après Wikipédia — John Kenneth Galbraith",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-112",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Paul Samuelson",
+    "subtitle": "Économiste américain, 1915-2009",
+    "summary": "Paul Samuelson transforme l'économie en discipline mathématique. Sa thèse, écrite à 22 ans, devient Foundations of Economic Analysis. En 1970, il est le premier Américain à recevoir le prix Nobel d'économie.\nSon manuel de 1948, le plus vendu de l'histoire de la discipline, a formé des générations d'étudiants. Il a aussi conseillé les présidents Kennedy et Johnson.",
+    "details": {
+      "epoque": "Des années 1930 aux années 2000.",
+      "pourquoiCelebre": "Il a élevé le niveau scientifique de l'économie et popularisé la synthèse entre les idées de Keynes et l'économie néoclassique.",
+      "ideesClefs": [
+        "Les mathématiques sont le « langage naturel » de l'économiste.",
+        "La « synthèse néoclassique » : reprendre Keynes pour l'économie globale et les marchés classiques pour l'économie des acteurs.",
+        "Un modèle qui combine multiplicateur et accélérateur peut produire des cycles économiques de lui-même."
+      ],
+      "liens": [
+        {
+          "nom": "Milton Friedman",
+          "relation": "Chroniqueur à ses côtés dans Newsweek, avec des positions opposées."
+        },
+        {
+          "nom": "Joseph Stiglitz",
+          "relation": "Parmi les étudiants devenus célèbres qu'il a formés au MIT."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un manuel qui a fait école",
+          "texte": "Installé au MIT dès 1940, Samuelson publie en 1948 son manuel d'économie, devenu le plus vendu de tous les temps. Il y vulgarise l'approche de Keynes pour des étudiants américains. Son ancien camarade George Stigler a ironisé : la gloire acquise, Samuelson partait désormais en quête de la fortune. L'ouvrage a rapporté des millions de dollars à sa famille."
+        },
+        {
+          "titre": "Les mathématiques au pouvoir",
+          "texte": "Dans Foundations of Economic Analysis, tiré de sa thèse de Harvard, Samuelson s'inspire de la thermodynamique de Willard Gibbs. Il y déduit des lois économiques à partir des comportements individuels. Il a aussi travaillé sur les choix des consommateurs, les biens publics, le commerce international et les marchés financiers. Il se décrivait comme le « dernier généraliste de l'économie »."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Foundations of Economic Analysis",
+          "annee": "1947"
+        },
+        {
+          "titre": "Economics: An Introductory Analysis",
+          "annee": "1948"
+        },
+        {
+          "titre": "Linear Programming and Economic Analysis",
+          "annee": "1958"
+        }
+      ],
+      "anecdotes": [
+        "Le mathématicien Stanislaw Ulam l'a défié de citer une théorie des sciences sociales à la fois vraie et non triviale. Des années plus tard, Samuelson a répondu : l'avantage comparatif de Ricardo, dont la vérité logique est évidente, mais que tant de gens intelligents n'ont jamais compris."
+      ],
+      "wikipedia": "Paul Samuelson"
+    },
+    "source": "D'après Wikipédia — Paul Samuelson",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-113",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Joseph E. Stiglitz",
+    "subtitle": "Économiste américain, né en 1943",
+    "summary": "Joseph Stiglitz, docteur à 24 ans et professeur à 27, a montré que les marchés fonctionnent mal quand les acteurs n'ont pas la même information. Ce travail lui vaut le prix Nobel d'économie en 2001, partagé avec George Akerlof et Michael Spence.\nIl a conseillé le président Clinton puis travaillé à la Banque mondiale de 1997 à 2000.",
+    "details": {
+      "epoque": "Depuis les années 1960.",
+      "pourquoiCelebre": "Il a prouvé que, quand l'information est imparfaite, les marchés ne mènent pas d'eux-mêmes à une situation optimale, ce qui fonde l'économie de l'information.",
+      "ideesClefs": [
+        "L'asymétrie d'information : un vendeur ou un emprunteur en sait plus que l'acheteur ou le prêteur, ce qui fausse le marché.",
+        "Le salaire d'efficience (modèle Shapiro-Stiglitz, 1984) : un employeur peut payer plus que nécessaire pour attirer et garder de bons salariés.",
+        "Pour lui, il n'existe rien de tel qu'une main invisible garantissant l'efficacité des marchés."
+      ],
+      "liens": [
+        {
+          "nom": "George Akerlof",
+          "relation": "Colauréat du prix Nobel 2001 pour les marchés à information inégale, avec Michael Spence."
+        },
+        {
+          "nom": "Amartya Sen",
+          "relation": "Associé à lui en 2008 dans la commission chargée de repenser les mesures de la croissance."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Quand l'information manque",
+          "texte": "Avant Stiglitz, on pensait que les marchés étaient efficaces, sauf défaillances connues. Lui montre que si l'information est imparfaite et inégale, ce qui est presque toujours le cas, l'équilibre d'un marché concurrentiel n'est pas un optimum. Il étudie le « screening », ces techniques par lesquelles une partie obtient l'information privée de l'autre. Ce raisonnement donne un rôle plus large à l'État que les écoles qui ne voient que quelques défaillances du marché."
+        },
+        {
+          "titre": "Des postes à responsabilité",
+          "texte": "Stiglitz dirige de 1995 à 1997 le Conseil des conseillers économiques du président Clinton. Il passe ensuite trois ans à la Banque mondiale, comme vice-président et économiste principal. Après son départ, il critique cette institution et le Fonds monétaire international, ce qui le rend célèbre auprès du grand public. En 2008, la France lui confie, avec Amartya Sen et Jean-Paul Fitoussi, une réflexion sur la mesure de la croissance."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "La Grande Désillusion",
+          "annee": "2002"
+        },
+        {
+          "titre": "Le Triomphe de la cupidité",
+          "annee": "2010"
+        },
+        {
+          "titre": "Le Prix de l'inégalité",
+          "annee": "2012"
+        }
+      ],
+      "anecdotes": [
+        "Avec Sanford Grossman, Stiglitz a formulé en 1980 un paradoxe : si les prix reflétaient déjà toute l'information disponible, personne n'aurait intérêt à se donner la peine de la chercher, et les marchés s'effondreraient. Des marchés parfaitement efficients ne peuvent donc pas exister."
+      ],
+      "wikipedia": "Joseph E. Stiglitz"
+    },
+    "source": "D'après Wikipédia — Joseph E. Stiglitz",
+    "notoriete": 1
+  },
+  {
+    "id": "economie-114",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Paul Krugman",
+    "subtitle": "Économiste américain, né en 1953",
+    "summary": "Paul Krugman reçoit seul le prix Nobel d'économie en 2008 pour avoir expliqué pourquoi des pays semblables, comme la Suède et l'Allemagne, s'échangent des produits similaires : voitures contre voitures.\nIl est aussi connu du grand public pour ses livres de vulgarisation et sa chronique dans le New York Times, tenue jusqu'en 2024.",
+    "details": {
+      "epoque": "Depuis les années 1970.",
+      "pourquoiCelebre": "Il a renouvelé la théorie du commerce international en y intégrant les économies d'échelle et le goût des consommateurs pour la variété.",
+      "ideesClefs": [
+        "La nouvelle théorie du commerce : on échange des produits similaires parce que les consommateurs aiment la diversité et que produire en grande série coûte moins cher.",
+        "La nouvelle économie géographique : la production se concentre dans quelques régions ou villes plutôt que de se répartir partout.",
+        "Il a modélisé les crises de change et plaidé pour une politique budgétaire offensive quand une économie est piégée dans une trappe à liquidité."
+      ],
+      "liens": [
+        {
+          "nom": "David Ricardo",
+          "relation": "Krugman complète sa théorie de l'avantage comparatif, qui explique surtout le commerce entre économies différentes."
+        },
+        {
+          "nom": "Paul Samuelson",
+          "relation": "Son manuel de principes d'économie, écrit avec Robin Wells, s'inspire de celui de Samuelson."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Pourquoi la Suède vend des Volvo à l'Allemagne",
+          "texte": "La théorie classique expliquait le commerce par la différence entre les pays, l'un exportant des matières premières, l'autre des produits manufacturés. Mais l'essentiel des échanges a lieu entre pays riches et similaires. Krugman propose en 1979 : chacun préfère choisir entre plusieurs marques, et produire en grande série coûte moins cher. D'où des Volvo vers l'Allemagne et des BMW vers la Suède."
+        },
+        {
+          "titre": "L'économie dans l'espace",
+          "texte": "Si produire en grand coûte moins cher, les régions qui produisent déjà beaucoup deviennent plus compétitives et attirent d'autres entreprises. La production tend donc à se regrouper dans quelques pays, quelques régions ou quelques villes denses, plus riches. Ses articles à partir de 1991 fondent la nouvelle économie géographique. Le comité Nobel a salué en 2008 ces deux apports, au commerce et à la localisation de l'activité."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Peddling Prosperity"
+        },
+        {
+          "titre": "The Age of Diminished Expectations"
+        },
+        {
+          "titre": "La mondialisation n'est pas coupable",
+          "annee": "2000"
+        },
+        {
+          "titre": "The Conscience of a Liberal",
+          "annee": "2007"
+        }
+      ],
+      "anecdotes": [
+        "Passionné de science-fiction, Krugman explique que son intérêt pour l'économie est né des romans de la saga Fondation d'Isaac Asimov, où des savants prédisent l'avenir grâce à la « psychohistoire ». En 1978, pour se détendre, il écrit même un essai humoristique, « La Théorie du commerce interstellaire », sur le calcul des intérêts de marchandises voyageant près de la vitesse de la lumière."
+      ],
+      "wikipedia": "Paul Krugman"
+    },
+    "source": "D'après Wikipédia — Paul Krugman",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-115",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Ben Bernanke",
+    "subtitle": "Économiste américain, né en 1953",
+    "summary": "Ben Bernanke est professeur à Princeton, spécialiste de la crise de 1929, avant de présider la Réserve fédérale américaine de 2006 à 2014. Il dirige la réponse de la banque centrale à la crise financière de 2008.\nIl reçoit le prix Nobel d'économie en 2022, avec Douglas Diamond et Philip Dybvig, pour ses recherches sur les banques et les crises financières.",
+    "details": {
+      "epoque": "Depuis la fin des années 1970.",
+      "pourquoiCelebre": "Historien de la Grande Dépression devenu patron de la Fed, il a mis en pratique en 2008 ce qu'il avait étudié sur les crises bancaires.",
+      "ideesClefs": [
+        "Une crise bancaire aggrave une dépression en coupant le crédit à l'économie (son article de 1983 sur la crise de 1929).",
+        "En moins d'un an, la Fed ramène son taux directeur de 5,25 % à 0 %, puis lance l'assouplissement quantitatif.",
+        "Il a contribué à l'idée de « Grande modération » : des cycles économiques moins violents depuis les années 1990."
+      ],
+      "liens": [
+        {
+          "nom": "Janet Yellen",
+          "relation": "Elle lui succède à la présidence de la Réserve fédérale en février 2014."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le spécialiste de la Grande Dépression",
+          "texte": "Avant la politique, Bernanke enseigne à Stanford, puis à Princeton, où il dirige le département d'économie de 1996 à 2002. Il y étudie la crise de 1929 et montre que les faillites bancaires ont coupé le crédit et prolongé la dépression. Avec Alan Blinder puis Mark Gertler, il analyse aussi comment la politique monétaire agit par le crédit, un des « canaux de transmission » qui l'ont rendu célèbre."
+        },
+        {
+          "titre": "À la tête de la Fed pendant la crise",
+          "texte": "Nommé en 2005 par George W. Bush, Bernanke préside la Fed du 1er février 2006 au 31 janvier 2014. Face à la crise de 2008, la banque centrale baisse ses taux à presque zéro, puis achète des actifs avec de la monnaie créée (assouplissement quantitatif) : son bilan passe d'environ 800 milliards à plus de 4 000 milliards de dollars. Le magazine Time le désigne personnalité de l'année 2009. Dans ses mémoires, il reconnaît ne pas avoir mesuré assez vite la gravité de la crise."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Essays on the Great Depression",
+          "annee": "2005"
+        },
+        {
+          "titre": "Inflation Targeting: Lessons from the International Experience",
+          "annee": "2005"
+        },
+        {
+          "titre": "Mémoires de crise",
+          "annee": "2015"
+        }
+      ],
+      "anecdotes": [
+        "Lycéen à Dillon, en Caroline du Sud, Bernanke s'est enseigné lui-même le calcul différentiel, car son lycée n'en proposait pas. Il a aussi participé en 1965 au concours national d'orthographe des États-Unis. Il a été reconduit à la tête de la Fed en 2010 par 70 voix contre 30, la plus faible marge jamais enregistrée pour ce poste à l'époque."
+      ],
+      "wikipedia": "Ben Bernanke"
+    },
+    "source": "D'après Wikipédia — Ben Bernanke",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-116",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Richard Thaler",
+    "subtitle": "Économiste américain, né en 1945",
+    "summary": "Richard Thaler est l'un des fondateurs de l'économie comportementale : l'étude de la façon dont les gens décident vraiment, avec leurs biais, plutôt que comme des calculateurs parfaits. Il a reçu le prix Nobel d'économie en 2017.\nSon livre Nudge, écrit avec Cass Sunstein, montre qu'on peut guider les choix sans rien interdire, simplement en changeant la manière de présenter les options.",
+    "details": {
+      "epoque": "Depuis les années 1970.",
+      "pourquoiCelebre": "Il a relié l'économie et la psychologie en montrant que les comportements réels s'écartent systématiquement du modèle de l'homme parfaitement rationnel.",
+      "ideesClefs": [
+        "L'effet de dotation : on attribue plus de valeur à un objet dès qu'il nous appartient.",
+        "La comptabilité mentale : on range son argent dans des « comptes » séparés selon son origine, ce qui mène à des choix parfois étonnants.",
+        "Le nudge ou « coup de pouce » : organiser les choix pour aider à bien décider, sans retirer la liberté de choisir."
+      ],
+      "liens": [
+        {
+          "nom": "Daniel Kahneman",
+          "relation": "Avec lui et Amos Tversky, Thaler a trouvé à Stanford le cadre théorique qui expliquait ses anomalies."
+        },
+        {
+          "nom": "Cass Sunstein",
+          "relation": "Coauteur de Nudge, livre qui a popularisé le « paternalisme libertarien »."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Les anomalies de l'homo œconomicus",
+          "texte": "L'économie classique suppose des agents très rationnels et sans émotions. Thaler collectionne les écarts à ce modèle. Avec l'effet de dotation, des personnes exigent souvent plus pour vendre un objet qu'elles n'auraient payé pour l'acheter. Avec la comptabilité mentale, on dépense plus facilement un remboursement d'impôts imprévu que le même montant tiré d'un salaire. Il a travaillé à Cornell de 1978 à 1995, puis à l'école de commerce Booth, à Chicago."
+        },
+        {
+          "titre": "Nudge : des choix mieux présentés",
+          "texte": "Pour Thaler et Sunstein, la présentation des options, qu'ils appellent « architecture du choix », influence les décisions. Exemple : quand l'inscription à un plan d'épargne retraite est automatique et qu'on peut en sortir librement, environ 90 % des personnes concernées y participent, bien plus que si elles devaient s'inscrire elles-mêmes. Tout reste possible, mais le chemin par défaut aide."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "The Winner's Curse",
+          "annee": "1992"
+        },
+        {
+          "titre": "Nudge",
+          "annee": "2008"
+        },
+        {
+          "titre": "Misbehaving",
+          "annee": "2015"
+        }
+      ],
+      "anecdotes": [
+        "Jeune enseignant, Thaler voit ses étudiants se plaindre de ses notes : la moyenne à son examen était de 72 sur 100. Il décide de noter sur 137 points. La moyenne passe à 96 sur 137, soit environ 70 sur 100, un peu moins qu'avant, et plus personne ne se plaint. Il a aussi fait une apparition dans le film The Big Short en 2015."
+      ],
+      "wikipedia": "Richard Thaler"
+    },
+    "source": "D'après Wikipédia — Richard Thaler",
+    "notoriete": 3
+  },
+  {
+    "id": "economie-117",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Gary Becker",
+    "subtitle": "Économiste américain, 1930-2014",
+    "summary": "Gary Becker a appliqué les outils de l'économie à des sujets qu'on croyait réservés aux sociologues : l'éducation, la famille, la discrimination, le crime. Il a reçu le prix Nobel d'économie en 1992.\nSon idée la plus célèbre, le capital humain, traite l'éducation et la formation comme un investissement, au même titre qu'une machine pour une entreprise.",
+    "details": {
+      "epoque": "Des années 1950 à 2014.",
+      "pourquoiCelebre": "Il a étendu la microéconomie à de nombreux comportements humains, y compris hors marché, et popularisé la notion de capital humain.",
+      "ideesClefs": [
+        "Le capital humain (Human Capital, 1964) : études, formation et santé sont des investissements qui accroissent le revenu futur.",
+        "L'économie du crime (article de 1968) : un délinquant compare les gains, le risque d'être pris et la peine encourue.",
+        "L'économie de la famille : mariage, divorce et natalité peuvent s'analyser en coûts et en avantages."
+      ],
+      "liens": [
+        {
+          "nom": "Milton Friedman",
+          "relation": "Son professeur à Chicago, qu'il a qualifié de « meilleur professeur que j'aie jamais eu »."
+        },
+        {
+          "nom": "Jacob Mincer",
+          "relation": "Collaborateur à Columbia, avec qui il a lancé l'économie domestique moderne."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "L'impérialisme économique",
+          "texte": "Becker revendique le terme d'« impérialisme économique » : appliquer la méthode économique à toute la vie sociale. Sa thèse de 1955, publiée en 1957, porte sur la discrimination. Selon lui, discriminer coûte cher à l'employeur, donc la concurrence tend à la réduire. D'autres chercheurs lui reprochent de tout expliquer par l'intérêt individuel et de simplifier la complexité du social."
+        },
+        {
+          "titre": "Du capital humain au temps",
+          "texte": "Avec son livre de 1964, Becker montre que se former a un coût, le temps passé à étudier plutôt qu'à travailler, et un rendement, un meilleur salaire plus tard. En 1965, il traite aussi le temps comme une ressource : le consommateur devient producteur de ses propres satisfactions, par exemple un repas, en combinant des ingrédients et du temps. Ces idées ont nourri l'étude de l'éducation et du marché du travail."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "The Economics of Discrimination",
+          "annee": "1957"
+        },
+        {
+          "titre": "Human Capital",
+          "annee": "1964"
+        },
+        {
+          "titre": "A Treatise on the Family",
+          "annee": "1981"
+        }
+      ],
+      "anecdotes": [
+        "Selon l'anecdote, Becker, en retard pour faire passer un examen, doit choisir entre une place de stationnement payante, qui lui fait perdre du temps, et un stationnement interdit qui risque de lui coûter une amende. Après un rapide calcul des probabilités, il choisit le « crime » : l'idée de modéliser les délinquants comme des acteurs qui calculent était née."
+      ],
+      "wikipedia": "Gary Becker"
+    },
+    "source": "D'après Wikipédia — Gary Becker",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-118",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Hyman Minsky",
+    "subtitle": "Économiste américain, 1919-1996",
+    "summary": "Hyman Minsky est un économiste post-keynésien qui a étudié pourquoi les crises financières reviennent. Pour lui, les périodes calmes préparent les crises : plus tout va bien, plus on s'endette.\nIgnorées pendant des décennies, ses idées ont retrouvé de l'intérêt lors de la crise de 2008, et l'expression « moment Minsky » est entrée dans le vocabulaire.",
+    "details": {
+      "epoque": "Des années 1950 aux années 1990.",
+      "pourquoiCelebre": "Il a décrit comment la stabilité elle-même fabrique la fragilité financière, jusqu'au « moment Minsky ».",
+      "ideesClefs": [
+        "L'hypothèse d'instabilité financière : un système financier oscille entre robustesse et fragilité.",
+        "Trois types d'emprunteurs : prudent (hedge), spéculatif, et de type Ponzi.",
+        "Seule une régulation et un prêteur en dernier ressort, comme la banque centrale, peuvent limiter ces cycles."
+      ],
+      "liens": [
+        {
+          "nom": "John Maynard Keynes",
+          "relation": "Minsky a consacré à Keynes un livre en 1975 et s'est initié à sa pensée par son traité sur les probabilités."
+        },
+        {
+          "nom": "Joseph Schumpeter",
+          "relation": "Il a préparé sa thèse de Harvard sous sa direction, puis celle de Wassily Leontief."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Les trois sortes d'emprunteurs",
+          "texte": "Minsky distingue l'emprunteur prudent, qui rembourse capital et intérêts avec ses revenus, l'emprunteur spéculatif, qui couvre seulement les intérêts et doit réemprunter le capital, et l'emprunteur « Ponzi », qui ne compte que sur la hausse de la valeur de son bien pour refinancer sa dette. Plus la confiance grandit, plus ces deux derniers profils se multiplient. Le nom vient de Charles Ponzi, à qui l'on doit l'expression de « montage de Ponzi »."
+        },
+        {
+          "titre": "Le moment Minsky",
+          "texte": "Quand les prix des actifs cessent de monter, des investisseurs surendettés vendent pour rembourser. Les prix baissent, d'autres anticipent la baisse et vendent aussi, et la spirale s'auto-entretient. La valeur des actifs s'effondre alors que les dettes restent les mêmes. La crise financière devient une crise économique. Ce basculement, impossible à prévoir à l'avance, est le « moment Minsky »."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "John Maynard Keynes",
+          "annee": "1975"
+        },
+        {
+          "titre": "Stabilizing an Unstable Economy",
+          "annee": "1986"
+        }
+      ],
+      "anecdotes": [
+        "Minsky présentait ses théories en mots et à l'aide de bilans comptables imbriqués, sans modèles mathématiques. C'est l'une des raisons pour lesquelles elles n'ont pas été intégrées aux modèles dominants, dont les équations ignoraient la dette privée, jusqu'à ce que la crise des prêts hypothécaires à risque de 2008 les remette à l'honneur."
+      ],
+      "wikipedia": "Hyman Minsky"
+    },
+    "source": "D'après Wikipédia — Hyman Minsky",
+    "notoriete": 3
+  },
+  {
+    "id": "economie-119",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Nassim Nicholas Taleb",
+    "subtitle": "Essayiste, statisticien et ancien trader libano-américain, né en 1960",
+    "summary": "Nassim Nicholas Taleb a été trader d'options pendant une vingtaine d'années avant de devenir professeur d'ingénierie du risque à New York. Son thème : les événements rares et imprévisibles, qui pèsent plus lourd que tous les autres.\nSon livre Le Cygne noir (2007) s'est vendu à près de trois millions d'exemplaires et a donné au grand public un vocabulaire du hasard et de l'incertitude.",
+    "details": {
+      "epoque": "Depuis les années 1980.",
+      "pourquoiCelebre": "Il a popularisé l'idée que les événements rares et imprévisibles, les « cygnes noirs », dominent l'histoire et la finance, et que les modèles statistiques courants les sous-estiment.",
+      "ideesClefs": [
+        "Le cygne noir : un événement très improbable, à fort impact, que l'on explique après coup comme s'il était prévisible.",
+        "Mediocristan et Extremistan : deux mondes statistiques, celui où la moyenne compte (la taille) et celui où un seul cas pèse sur tout (la fortune).",
+        "L'antifragilité : certains systèmes ne font pas que résister au désordre, ils en profitent."
+      ],
+      "liens": [
+        {
+          "nom": "Benoît Mandelbrot",
+          "relation": "Mathématicien dont les lois de distribution inspirent ses critiques du modèle gaussien."
+        },
+        {
+          "nom": "Daniel Kahneman",
+          "relation": "Il a salué Le Cygne noir comme une analyse originale de la façon dont on interprète l'imprévu."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Le monde des événements extrêmes",
+          "texte": "Pour Taleb, certaines grandeurs, comme la taille d'une personne, restent proches d'une moyenne : même la plus grande ne bouleverse pas le total. Dans d'autres domaines, comme l'argent, un seul cas peut écraser tous les autres. Il appelle ces mondes Mediocristan et Extremistan. Dans le second, les prévisions fondées sur le passé sont trompeuses, et il juge le modèle gaussien trop optimiste sur les événements rares."
+        },
+        {
+          "titre": "De la finance à l'antifragilité",
+          "texte": "Après des postes de trader dans plusieurs grandes banques, Taleb fonde Empirica puis devient conseiller du fonds Universa Investments. Il publie ensuite l'Incerto, cinq livres écrits de 2001 à 2018 : Le Hasard sauvage, Le Cygne noir, Le lit de Procuste, Antifragile et Jouer sa peau. Dans Antifragile, il distingue la robustesse, qui résiste, la résilience, qui revient à l'état initial, et l'antifragilité, qui progresse grâce aux chocs."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Le Hasard sauvage",
+          "annee": "2001"
+        },
+        {
+          "titre": "Le Cygne noir",
+          "annee": "2007"
+        },
+        {
+          "titre": "Le lit de Procuste",
+          "annee": "2010"
+        },
+        {
+          "titre": "Antifragile",
+          "annee": "2012"
+        },
+        {
+          "titre": "Jouer sa peau",
+          "annee": "2018"
+        }
+      ],
+      "anecdotes": [
+        "Taleb a nommé sa société Empirica en hommage au philosophe sceptique Sextus Empiricus. Polyglotte, il lit les textes classiques en grec, en latin et en araméen. Le Cygne noir a été traduit en 50 langues, et le Sunday Times l'a classé parmi les douze livres les plus influents depuis la Seconde Guerre mondiale."
+      ],
+      "wikipedia": "Nassim Nicholas Taleb"
+    },
+    "source": "D'après Wikipédia — Nassim Nicholas Taleb",
+    "notoriete": 1
+  },
+  {
+    "id": "economie-120",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Frédéric Bastiat",
+    "subtitle": "Économiste et député français, 1801-1850",
+    "summary": "Frédéric Bastiat, né à Bayonne, est un propriétaire landais devenu journaliste économique. Sa carrière publique dure à peine six ans, de 1844 à sa mort en 1850. Défenseur du libre-échange, il combat le protectionnisme et le socialisme.\nIl écrit des fables satiriques qui ont fait sa gloire, dont la pétition des fabricants de chandelles et la parabole de la vitre cassée.",
+    "details": {
+      "epoque": "Première moitié du XIXe siècle, jusqu'à 1850.",
+      "pourquoiCelebre": "Il a rendu les raisonnements économiques accessibles par l'humour et les paraboles, en défendant le libre-échange et la liberté individuelle.",
+      "ideesClefs": [
+        "Le visible et l'invisible : toute décision a des effets que l'on constate et d'autres, cachés, qu'il faut aussi compter.",
+        "Le libre-échange est un jeu gagnant pour tous les partenaires, même face à des pays protectionnistes.",
+        "L'État doit se limiter à garantir la justice et la sécurité, thèse défendue dans La Loi (1850)."
+      ],
+      "liens": [
+        {
+          "nom": "Richard Cobden",
+          "relation": "Leader britannique de la ligue contre les lois sur les céréales, dont Bastiat s'inspire et à qui il consacre un livre."
+        },
+        {
+          "nom": "Pierre-Joseph Proudhon",
+          "relation": "Adversaire d'une polémique de 13 semaines dans la presse."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Un propriétaire devenu polémiste",
+          "texte": "Orphelin à neuf ans, Bastiat hérite du domaine de Sengresse en 1825 et mène la vie d'un propriétaire agricole. Il lit Say, Smith et le journal Le Censeur européen. En 1844, un article de défense du libre-échange le rend célèbre. Il monte à Paris, fonde le journal Libre-Échange et anime l'association pour la liberté des échanges, dont il est le secrétaire général. Il est élu député des Landes en 1848, puis réélu en 1849."
+        },
+        {
+          "titre": "La vitre cassée et les chandelles",
+          "texte": "Dans la parabole de la vitre cassée, un vitrier gagne de l'argent après un accident. Ce qu'on ne voit pas, c'est que cette somme aurait été dépensée autrement. Dans sa pétition satirique, les fabricants de chandelles demandent qu'on obstrue les fenêtres pour les protéger d'un rival étranger déloyal : le Soleil. Le style est direct, plein de fables et de comparaisons."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Sophismes économiques"
+        },
+        {
+          "titre": "Pétition des fabricants de chandelles",
+          "annee": "1845"
+        },
+        {
+          "titre": "La Loi",
+          "annee": "1850"
+        },
+        {
+          "titre": "Harmonies économiques",
+          "annee": "1850"
+        }
+      ],
+      "anecdotes": [
+        "Bastiat contracte la tuberculose pendant sa tournée de conférences en France. Dans La Loi, il écrit qu'il proclamera son principe « de toute la force de mes poumons (qui, hélas, est bien insuffisante) ». Il meurt à Rome fin 1850, après un séjour en Italie ; Schumpeter l'a qualifié de plus brillant journaliste économique de tous les temps."
+      ],
+      "wikipedia": "Frédéric Bastiat"
+    },
+    "source": "D'après Wikipédia — Frédéric Bastiat",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-121",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "Jean Tirole",
+    "subtitle": "Économiste français, né en 1953",
+    "summary": "Jean Tirole, ingénieur polytechnicien devenu économiste, a reçu le prix Nobel d'économie en 2014 pour ses travaux sur la puissance des grandes entreprises et la manière de l'encadrer. Il est le troisième Français distingué, après Gérard Debreu et Maurice Allais.\nSes travaux, fondés sur la théorie des jeux et de l'information, montrent comment encadrer les grandes entreprises dominantes sans freiner l'innovation.",
+    "details": {
+      "epoque": "Depuis les années 1980.",
+      "pourquoiCelebre": "Il a montré comment réguler les monopoles et oligopoles, au cas par cas, plutôt que d'appliquer une règle unique à tous les secteurs.",
+      "ideesClefs": [
+        "Les marchés sont rarement parfaitement concurrentiels : le pouvoir de marché doit être surveillé secteur par secteur.",
+        "Le régulateur en sait moins que les entreprises : il doit concevoir des règles qui tiennent compte de cette asymétrie d'information.",
+        "Un contrat à prix fixe incite l'entreprise à baisser ses coûts, tandis qu'un contrat « coût plus marge » la protège des aléas."
+      ],
+      "liens": [
+        {
+          "nom": "Jean-Jacques Laffont",
+          "relation": "Son coauteur sur la régulation, avec qui il a lancé le projet de l'école d'économie de Toulouse."
+        },
+        {
+          "nom": "Eric Maskin",
+          "relation": "Directeur de sa thèse au MIT, lui-même prix Nobel d'économie en 2007."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Domestiquer les entreprises puissantes",
+          "texte": "Sa conférence Nobel de 2014 s'intitule « la science de dompter les firmes puissantes ». Son idée : le nombre d'entreprises d'un secteur ne dit pas si la concurrence y est bonne. Il faut étudier chaque industrie en détail, ce que le régulateur sait ou ignore, et accepter qu'une entreprise efficace garde le bénéfice de ses efforts, sinon elle n'a plus de raison de baisser ses coûts."
+        },
+        {
+          "titre": "Des télécoms aux banques",
+          "texte": "Ses recherches portent sur l'économie industrielle, la régulation des industries de réseau comme les télécommunications, le système bancaire et la finance d'entreprise. Il a aussi publié des ouvrages de référence, dont The Theory of Industrial Organization (1988), puis un livre grand public, Économie du bien commun (2016). Certains économistes dits hétérodoxes lui reprochent une vision trop libérale ; ses défenseurs rappellent que ses travaux justifient le contrôle des marchés."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "The Theory of Industrial Organization",
+          "annee": "1988"
+        },
+        {
+          "titre": "Game Theory",
+          "annee": "1991"
+        },
+        {
+          "titre": "The Theory of Corporate Finance",
+          "annee": "2005"
+        },
+        {
+          "titre": "Économie du bien commun",
+          "annee": "2016"
+        }
+      ],
+      "anecdotes": [
+        "Tirole n'a songé à étudier l'économie qu'à 21 ans, en la trouvant à la fois très rigoureuse et « toujours une science sociale ». En 2007, il reçoit la médaille d'or du CNRS, devenant le second économiste, après Maurice Allais, à obtenir cette distinction."
+      ],
+      "wikipedia": "Jean Tirole"
+    },
+    "source": "D'après Wikipédia — Jean Tirole",
+    "notoriete": 1
+  },
+  {
+    "id": "economie-122",
+    "domain": "economie",
+    "subtheme": "Économistes",
+    "type": "personnage",
+    "title": "François Quesnay",
+    "subtitle": "Médecin et économiste français, 1694-1774",
+    "summary": "François Quesnay, fils de petit propriétaire terrien, devient chirurgien puis médecin de Louis XV. Vers 1750, il se tourne vers l'économie et fonde l'école des physiocrates, qui voit dans la terre la seule source de richesse.\nSon Tableau économique (1758) est la première représentation d'ensemble de l'économie : un circuit de flux entre grandes classes sociales.",
+    "details": {
+      "epoque": "XVIIIe siècle, époque des Lumières.",
+      "pourquoiCelebre": "Il a imaginé le premier schéma de l'économie comme un tout, où l'argent et les produits circulent comme le sang dans le corps.",
+      "ideesClefs": [
+        "Le Tableau économique (1758) décrit la circulation des richesses entre fermiers, propriétaires et artisans.",
+        "Pour les physiocrates, seule l'agriculture crée un « produit net » : le reste ne fait que transformer les biens.",
+        "L'économie obéit à un ordre naturel, dont les économistes doivent révéler les lois, comme celles de la physique."
+      ],
+      "liens": [
+        {
+          "nom": "Adam Smith",
+          "relation": "Il a rencontré Quesnay à Paris en 1764-1766 et a salué le travail des physiocrates dans La Richesse des nations."
+        },
+        {
+          "nom": "Wassily Leontief",
+          "relation": "Son tableau entrées-sorties est vu comme un descendant du Tableau de Quesnay."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Du chevet du roi à l'économie",
+          "texte": "Maître chirurgien à Paris en 1718, Quesnay devient docteur en médecine en 1744 et médecin de Madame de Pompadour en 1749. Il est installé à Versailles, dans un entresol où se réunissent d'Alembert, Diderot ou Condorcet. Dans les années 1750, il écrit pour l'Encyclopédie sur les fermiers et les grains. Ses disciples, dont Mirabeau et Du Pont de Nemours, fondent avec lui l'école des physiocrates, que ses détracteurs appelaient la « secte des économistes »."
+        },
+        {
+          "titre": "Le Tableau économique",
+          "texte": "Quesnay découpe la société en trois classes : les fermiers (classe productive), les propriétaires, et la classe stérile des artisans et marchands. Il suit les flux de produits et d'argent entre elles. L'idée s'inspire de la découverte de la circulation du sang. La production agricole annuelle, évaluée à 5 milliards, y est répartie entre ces trois groupes. L'économie s'y reproduit telle quelle d'année en année, sans croissance."
+        }
+      ],
+      "oeuvres": [
+        {
+          "titre": "Tableau économique",
+          "annee": "1758"
+        },
+        {
+          "titre": "Maximes générales du gouvernement économique d'un royaume agricole",
+          "annee": "1758"
+        },
+        {
+          "titre": "Le Despotisme de la Chine",
+          "annee": "1767"
+        }
+      ],
+      "anecdotes": [
+        "Louis XV, qui l'appelait son « penseur », l'anoblit en 1752 après la guérison du Dauphin. Les armoiries données à Quesnay montraient trois fleurs de pensée, un jeu de mots sur la « pensée ». Admirateur de la Chine, il fut surnommé par ses disciples le « Confucius de l'Europe »."
+      ],
+      "wikipedia": "François Quesnay"
+    },
+    "source": "D'après Wikipédia — François Quesnay",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-123",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Avantage comparatif",
+    "subtitle": "Principe du commerce international formulé par Ricardo en 1817",
+    "summary": "L'avantage comparatif explique pourquoi deux pays ont intérêt à échanger même si l'un est meilleur que l'autre dans tous les domaines. Chacun gagne à se spécialiser dans ce qu'il fait relativement le mieux.\nDavid Ricardo l'a démontré en 1817. C'est l'un des principes les plus célèbres de l'économie, et l'un des plus souvent mal compris.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le principe : meilleur n'est pas tout",
+          "texte": "Prenons un avocat plus rapide que sa secrétaire pour absolument toutes les tâches, même la frappe. Il a pourtant intérêt à lui déléguer la frappe : il gagne du temps pour des dossiers mieux payés, et la secrétaire garde un emploi utile. Ricardo applique ce raisonnement aux pays. L'important n'est pas de produire chaque bien à meilleur coût que les autres, mais de se concentrer sur ce pour quoi l'écart avec ses partenaires est le plus favorable. Même le pays le moins productif y gagne."
+        },
+        {
+          "titre": "De Smith à Ricardo",
+          "texte": "Les mercantilistes voyaient le commerce comme un jeu à somme nulle : pour garder son or, mieux valait peu importer. En 1776, Adam Smith défend la spécialisation selon l'avantage absolu : produire ce qu'on fait à moindre coût. Mais que faire si l'on ne fait rien mieux que les autres ? Ricardo répond en 1817, dans son grand livre sur l'économie politique et l'impôt, avec l'exemple du vin du Portugal et du drap anglais. Robert Torrens avait approché l'idée dès 1815."
+        },
+        {
+          "titre": "Les limites de la théorie",
+          "texte": "La démonstration repose sur des hypothèses simplifiées. Elle montre que le libre-échange vaut mieux que l'autarcie, pas qu'il bat toute autre politique commerciale. Elle admet aussi que l'ouverture modifie la répartition des revenus : une partie de la population y gagne, une autre peut y perdre. Enfin, une part du commerce, comme les voitures échangées entre pays riches, répond à la variété des produits plus qu'aux écarts de coûts."
+        }
+      ],
+      "anecdotes": [
+        "L'économiste James Ingram imagine un entrepreneur américain qui semble transformer du blé et du bois en produits manufacturés grâce à une technologie secrète. On le fête comme un héros, jusqu'à ce qu'un journaliste découvre qu'il échange simplement ces matières contre des produits fabriqués à l'étranger : on l'accuse de trahison, alors que la richesse du pays est la même."
+      ],
+      "wikipedia": "Avantage comparatif"
+    },
+    "source": "D'après Wikipédia — Avantage comparatif",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-124",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Main invisible",
+    "subtitle": "Image d'Adam Smith, 1759-1776",
+    "summary": "La « main invisible » est l'image d'Adam Smith pour dire que des individus qui poursuivent leur seul intérêt peuvent, sans le vouloir, servir celui de la société.\nSmith ne l'emploie que trois fois dans toute son œuvre. Devenue célèbre au XXe siècle, l'expression est aujourd'hui interprétée de multiples façons, de la défense des marchés à l'ironie.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Trois apparitions discrètes",
+          "texte": "Smith emploie l'expression trois fois. D'abord dans un essai sur l'histoire de l'astronomie, à propos de la « main invisible de Jupiter » qu'on invoquait pour expliquer foudre et tempêtes. Puis dans la Théorie des sentiments moraux (1759), où des riches égoïstes font vivre d'autres personnes en dépensant leur fortune. Enfin dans La Richesse des nations (1776), où un investisseur qui préfère placer son capital près de chez lui sert l'intérêt de la société sans l'avoir cherché."
+        },
+        {
+          "titre": "Du détail d'un livre au slogan",
+          "texte": "Pour Smith, ce n'était pas un principe général. Au XXe siècle, des économistes, notamment Paul Samuelson, ont donné à l'expression le sens d'un marché libre qui tend vers l'optimum et que l'État ne peut améliorer. Elle sert aujourd'hui de repère : on débat de l'efficacité de cette main. Certains pensent que la grande industrie, la finance ou la publicité l'affaiblissent."
+        },
+        {
+          "titre": "Une expression très débattue",
+          "texte": "L'économiste William Grampp a recensé neuf interprétations de la main invisible : harmonie des intérêts, mécanisme des prix, conséquences involontaires, concurrence, providence, et même plaisanterie ironique, thèse d'Emma Rothschild. Les spécialistes se demandent aussi si les trois passages parlent de la même chose."
+        }
+      ],
+      "anecdotes": [
+        "La première « main invisible » de Smith n'a rien d'économique : c'est celle de Jupiter, dieu du tonnerre. Smith note que les peuples antiques lui attribuent seulement les phénomènes irréguliers, comme la foudre et les orages, jamais la chute des corps lourds ni le feu."
+      ],
+      "wikipedia": "Main invisible"
+    },
+    "source": "D'après Wikipédia — Main invisible",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-125",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Destruction créatrice",
+    "subtitle": "Concept popularisé par Joseph Schumpeter en 1942",
+    "summary": "La destruction créatrice désigne le mouvement par lequel de nouvelles innovations remplacent les anciennes, font disparaître les activités moins productives et renouvellent l'économie. C'est, pour Schumpeter, le moteur de la croissance à long terme.\nElle crée de la richesse mais bouscule des entreprises et des emplois, ce qui nourrit un débat ancien.",
+    "details": {
+      "sections": [
+        {
+          "titre": "L'ouragan perpétuel",
+          "texte": "L'expression en allemand, « schöpferische Zerstörung », est popularisée par Joseph Schumpeter dans Capitalisme, socialisme et démocratie (1942). Selon lui, les entrepreneurs innovent pour capter un profit temporaire, comme un monopole sur leur nouveauté. Chaque innovation fait perdre leurs avantages aux concurrents, parfois jusqu'à la faillite. Il décrit ce processus comme un « ouragan perpétuel », qui recompose sans cesse le tissu productif."
+        },
+        {
+          "titre": "Gagnants, perdants et emplois",
+          "texte": "Des entreprises qui avaient révolutionné leur marché, comme Xerox pour les photocopieurs, Polaroid pour les appareils photo instantanés ou Nokia pour les téléphones mobiles, ont vu leur domination disparaître face à des rivaux plus innovants. Pour l'emploi, la transition est difficile : les travailleurs aux compétences devenues obsolètes doivent se reconvertir, des champs vers l'usine, puis vers les services. Une assurance-chômage généreuse peut atténuer ces effets à court terme."
+        },
+        {
+          "titre": "Un concept en débat",
+          "texte": "D'après une étude de l'OCDE (2005), environ un tiers, dans les pays développés, des gains de productivité du travail viendrait de ce renouvellement d'entreprises, le reste des entreprises déjà installées. Daron Acemoglu et James Robinson soutiennent que des pays stagnent quand leurs élites bloquent ce processus. D'autres critiques soulignent le chômage de court terme, ou les innovations qui ne sont pas toutes bénéfiques, ainsi que les limites de la croissance sur une planète aux ressources finies."
+        }
+      ],
+      "anecdotes": [
+        "Schumpeter, qui se disait conservateur, a puisé une grande partie de son idée dans l'œuvre de Karl Marx. Marx n'emploie pas l'expression, mais décrit les crises qui détruisent périodiquement du capital. Le terme apparaît d'abord chez le sociologue Werner Sombart en 1913, avant que Schumpeter le rende célèbre."
+      ],
+      "wikipedia": "Destruction créatrice"
+    },
+    "source": "D'après Wikipédia — Destruction créatrice",
+    "notoriete": 1
+  },
+  {
+    "id": "economie-126",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Courbe de Laffer",
+    "subtitle": "Hypothèse sur le lien entre taux d'impôt et recettes, popularisée dans les années 1970",
+    "summary": "La courbe de Laffer illustre une idée simple : à 0 % d'impôt, l'État ne perçoit rien ; à 100 %, plus personne n'a intérêt à travailler officiellement, donc il ne perçoit rien non plus. Entre les deux, il existe un taux qui rapporte le plus.\nSa forme exacte est inconnue et fait débat parmi les économistes.",
+    "details": {
+      "sections": [
+        {
+          "titre": "L'idée et la nappe de restaurant",
+          "texte": "Quand les taux deviennent très élevés, certains travaillent moins ou cherchent à échapper à l'impôt, et les recettes peuvent baisser. L'idée est ancienne : Ibn Khaldoun au XIVe siècle, puis Jean-Baptiste Say et Frédéric Bastiat l'évoquent. L'économiste Arthur Laffer l'aurait dessinée un soir de 1974, sur une nappe, dans un restaurant de la capitale américaine, devant Donald Rumsfeld, Dick Cheney et le journaliste Jude Wanniski, qui lui donne son nom."
+        },
+        {
+          "titre": "Un usage politique",
+          "texte": "Les économistes de l'offre ont utilisé la courbe pour défendre des baisses d'impôt, thèse centrale des politiques menées par Ronald Reagan et Margaret Thatcher dans les années 1980. Mais le taux qui maximise les recettes dépend du pays, de l'époque et des services publics. Selon un ouvrage de référence, les estimations se situent en moyenne autour de 70 %, avec de fortes variations selon les études."
+        },
+        {
+          "titre": "Pourquoi on en débat encore",
+          "texte": "L'existence d'un taux optimal n'est pas contestée, mais sa valeur l'est. Les critiques, comme Joseph Stiglitz, reprochent à Laffer de présenter une courbe dont la forme n'a pas été établie par des études précises. Les cas cités en exemple par ses défenseurs sont jugés non probants par ses détracteurs, car d'autres facteurs expliquent les résultats. D'autres chercheurs estiment que la plupart des pays se situent encore à gauche du sommet."
+        }
+      ],
+      "anecdotes": [
+        "Arthur Laffer lui-même affirme ne se rappeler aucune nappe. Il rappelle qu'il n'a pas inventé l'idée et cite Ibn Khaldoun, Keynes et Adam Smith. Dès 1924, le secrétaire au Trésor américain Andrew Mellon, partisan de baisser les tarifs d'impôt, répétait que « 73 % de rien, c'est rien »."
+      ],
+      "wikipedia": "Courbe de Laffer"
+    },
+    "source": "D'après Wikipédia — Courbe de Laffer",
+    "notoriete": 1
+  },
+  {
+    "id": "economie-127",
+    "domain": "economie",
+    "subtheme": "Notions et mécanismes",
+    "type": "classique",
+    "title": "Effet de levier",
+    "subtitle": "Mécanisme d'amplification par l'endettement",
+    "summary": "L'effet de levier consiste à utiliser de l'argent emprunté pour acquérir plus d'actifs qu'avec ses seuls fonds. Si l'investissement rapporte plus que le coût de la dette, le gain est démultiplié. S'il rapporte moins, la perte l'est aussi.\nLe nom vient du levier en physique, qui amplifie une petite force.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le principe, par l'exemple",
+          "texte": "Un actionnaire apporte 10 à une entreprise, qui emprunte 50 : l'entreprise achète 60 d'actifs, dont l'actionnaire est seul propriétaire. Le levier vaut alors 6. Cela repose sur la responsabilité limitée de l'actionnaire. Pour que le gain soit réel, la valeur créée par l'entreprise doit lui permettre de rembourser sa dette. Sinon, elle s'expose à l'« effet de massue », et même à la faillite."
+        },
+        {
+          "titre": "Un amplificateur des gains et des pertes",
+          "texte": "Un investisseur qui achète des actions avec 50 % d'emprunt perd 40 % de sa mise si le titre baisse de 20 %. Quand le prix des actifs recule, le levier augmente par rapport aux fonds propres restants, ce qui multiplie les pertes. Le levier ajoute du risque à un actif donné, mais une entreprise endettée n'est pas toujours plus risquée qu'une autre : cela dépend de ce qu'elle finance."
+        },
+        {
+          "titre": "Levier et crises financières",
+          "texte": "Dès 1933, Irving Fisher montre qu'un endettement excessif suivi de ventes forcées d'actifs peut précipiter une dépression. En 2008, le levier élevé des institutions financières est considéré comme l'un des facteurs de la crise. Depuis les années 1980, les régulateurs imposent des exigences de fonds propres aux banques, et plusieurs pays plafonnent le levier proposé aux particuliers sur certains produits."
+        }
+      ],
+      "anecdotes": [
+        "Exiger des fonds propres égaux à 8 % des actifs revient à plafonner le levier comptable à 12,5 pour 1. C'était le principe de Bâle I, appliqué en 1988 par la plupart des grandes banques internationales. En 1958, Modigliani et Miller ont démontré que, dans un monde sans impôts ni coûts de faillite, le levier ne crée pas de valeur : il répartit seulement le risque."
+      ],
+      "wikipedia": "Effet de levier"
+    },
+    "source": "D'après Wikipédia — Effet de levier",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-128",
+    "domain": "economie",
+    "subtheme": "Dates clés",
+    "type": "classique",
+    "title": "Physiocratie",
+    "subtitle": "École économique française, milieu du XVIIIe siècle",
+    "summary": "La physiocratie est une école de pensée née en France au XVIIIe siècle. Ses membres, qu'on appelait alors simplement « les économistes », soutiennent que la vraie richesse vient de la terre. Le mot veut dire « gouvernement par la nature ».\nSelon eux, seul l'agriculteur crée un surplus : artisans et marchands se contentent de transformer ce que la terre a donné. Ce courant a ouvert la voie à l'économie classique.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le Tableau économique de Quesnay",
+          "texte": "Autour de 1757, François Quesnay et le marquis de Mirabeau se rencontrent à Versailles et fondent le mouvement. En 1758, le Tableau économique décrit comment l'argent circule entre trois classes : les paysans, seule classe « productive », les marchands et artisans, jugés « stériles », et les propriétaires fonciers. Les paysans dégagent un surplus, le « produit net », qui devient le revenu des propriétaires. C'est l'un des premiers modèles de l'économie."
+        },
+        {
+          "titre": "Laisser faire et impôt unique",
+          "texte": "Les physiocrates veulent supprimer tous les impôts pour les remplacer par un seul, prélevé sur le produit net des terres. Ils réclament aussi la liberté du commerce des grains, alors très encadré, avec la devise « laissez faire, laissez passer ». Ils défendent la propriété et la liberté comme droits naturels, ce qui a inspiré les rédacteurs de la Déclaration de 1789. Ils sont aussi favorables à une monarchie forte, soumise aux lois de la nature."
+        }
+      ],
+      "anecdotes": [
+        "François Quesnay était médecin de formation. Selon l'article anglais, il se serait inspiré de la découverte de la circulation du sang par William Harvey : pour lui, la richesse devait circuler dans le pays comme le sang entre les organes."
+      ],
+      "wikipedia": "Physiocratie"
+    },
+    "source": "D'après Wikipédia — Physiocratie",
+    "notoriete": 1
+  },
+  {
+    "id": "economie-129",
+    "domain": "economie",
+    "subtheme": "Dates clés",
+    "type": "classique",
+    "title": "Standard Oil",
+    "subtitle": "Géant américain du pétrole, 1870-1911",
+    "summary": "Standard Oil est la société pétrolière que John D. Rockefeller et ses associés fondent dans l'Ohio en 1870. En quelques années, elle écrase ses rivales et contrôle presque tout le raffinage du pétrole aux États-Unis.\nElle devient le symbole du monopole. En 1911, la Cour suprême ordonne son démantèlement. De cet empire sortent des noms encore connus aujourd'hui, comme Exxon, Mobil ou Chevron.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un empire bâti sur les rabais",
+          "texte": "Standard Oil naît avec un capital de 1 million de dollars. Rockefeller choisit ce nom pour évoquer des « standards » fiables de qualité. Son arme est la taille : les chemins de fer lui accordent des rabais énormes en échange de gros volumes, jusqu'à 71 % de réduction pour une entente de 1868. Entre 1865 et 1870, le prix du baril de kérosène passe de 58 à 26 cents. Les consommateurs y gagnent, mais les petits concurrents ne peuvent pas suivre."
+        },
+        {
+          "titre": "Du trust au démantèlement",
+          "texte": "En 1882, les actionnaires confient leurs titres à neuf administrateurs : cette formule fait figure de pionnière parmi les trusts. En 1890, le Congrès vote la loi Sherman contre les ententes. Entre 1902 et 1904, la journaliste Ida Tarbell publie une grande enquête dans McClure's Magazine, puis un livre sur la compagnie. En 1911, la Cour suprême exige l'éclatement du groupe en 34 sociétés indépendantes."
+        }
+      ],
+      "anecdotes": [
+        "À l'époque, beaucoup de concurrents jetaient l'essence dans les rivières, faute de lui trouver un usage. Standard Oil, elle, l'utilisait comme carburant pour ses machines, et elle a même racheté en 1908 la firme qui avait mis au point la vaseline."
+      ],
+      "wikipedia": "Standard Oil"
+    },
+    "source": "D'après Wikipédia — Standard Oil",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-130",
+    "domain": "economie",
+    "subtheme": "Dates clés",
+    "type": "classique",
+    "title": "Conférence de Bretton Woods",
+    "subtitle": "Conférence monétaire internationale, juillet 1944",
+    "summary": "En juillet 1944, alors que la guerre n'est pas finie, 730 délégués de 44 pays alliés se réunissent dans un grand hôtel du New Hampshire. Leur but est de bâtir l'ordre monétaire et financier de l'après-guerre.\nIls veulent éviter le retour des dévaluations en chaîne et des guerres commerciales de l'entre-deux-guerres. De la conférence naissent le Fonds monétaire international et la future Banque mondiale.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une conférence en coulisses de la guerre",
+          "texte": "La conférence se tient du 1er au 22 juillet 1944 au Mount Washington Hotel, à Bretton Woods. Elle prolonge des idées nées chez deux experts : John Maynard Keynes, côté britannique, et Harry Dexter White, côté américain. Un travail préparatoire a lieu à Atlantic City en juin. À Bretton Woods, l'essentiel se joue dans trois commissions : White préside celle du FMI, Keynes celle de la banque, et le Mexicain Eduardo Suárez la troisième."
+        },
+        {
+          "titre": "Taux de change fixes mais ajustables",
+          "texte": "Le texte le plus important crée le FMI. Les monnaies sont rattachées à l'or, avec des taux de change ajustables : un pays peut modifier le sien de 10 % sans objection du FMI. La Banque pour la reconstruction (BIRD) doit financer la reconstruction et les infrastructures. Les États-Unis, première économie du monde, pèsent le plus lourd. Leur ministre Henry Morgenthau parle de la fin du nationalisme économique."
+        }
+      ],
+      "anecdotes": [
+        "Le mot « International » a été ajouté très tard, pendant la conférence, au nom de la future Banque mondiale. Elle s'appelait d'abord simplement Banque pour la reconstruction et le développement. La conférence a aussi dû être prolongée de trois jours, du 19 au 22 juillet."
+      ],
+      "wikipedia": "Conférence de Bretton Woods"
+    },
+    "source": "D'après Wikipédia — Conférence de Bretton Woods",
+    "notoriete": 3
+  },
+  {
+    "id": "economie-131",
+    "domain": "economie",
+    "subtheme": "Dates clés",
+    "type": "classique",
+    "title": "Accords du Plaza",
+    "subtitle": "Accord monétaire du G5, 22 septembre 1985",
+    "summary": "Le 22 septembre 1985, les ministres des Finances et les banquiers centraux de cinq pays se retrouvent au Plaza Hotel de New York : États-Unis, Japon, Allemagne de l'Ouest, Royaume-Uni et France.\nIls décident d'agir ensemble sur le marché des changes pour faire baisser un dollar jugé trop cher. Cet accord reste l'exemple le plus célèbre d'une coopération entre grandes puissances sur les monnaies.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un dollar devenu trop fort",
+          "texte": "Entre 1980 et 1985, le dollar a gagné environ 50 % face au yen, au mark, au franc et à la livre. Les produits américains deviennent chers à l'étranger et le déficit courant atteint 3,5 % du PIB. Les industriels, comme Caterpillar, IBM ou les constructeurs automobiles, font pression sur le Congrès, qui envisage des lois protectionnistes. Pour éviter ce scénario, l'administration Reagan accepte de négocier avec ses alliés."
+        },
+        {
+          "titre": "Des effets réels, mais un bilan nuancé",
+          "texte": "Le lundi suivant l'annonce, le dollar recule de 4 %. Fin 1986, il retombe à son plus bas niveau depuis 1979. Les pays concernés cessent ensuite d'intervenir lors des accords du Louvre, en février 1987. Le déficit avec le Japon, lui, ne se réduit pas vraiment. Certains économistes accusent aussi l'accord d'avoir nourri la bulle japonaise de la fin des années 1980, ce que d'autres contestent."
+        }
+      ],
+      "anecdotes": [
+        "En mars 1985, quelques mois avant l'accord, le dollar atteint face à la livre sterling un sommet historique. Ce record n'a pas été battu pendant plus de 30 ans."
+      ],
+      "wikipedia": "Accords du Plaza"
+    },
+    "source": "D'après Wikipédia — Accords du Plaza",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-132",
+    "domain": "economie",
+    "subtheme": "Dates clés",
+    "type": "classique",
+    "title": "Marché commun du Sud",
+    "subtitle": "Mercosur, bloc commercial d'Amérique du Sud, créé en 1991",
+    "summary": "Le Marché commun du Sud, ou Mercosur, est un bloc commercial d'Amérique du Sud. Il voit le jour le 26 mars 1991 grâce au traité d'Asunción, signé par l'Argentine, le Brésil, le Paraguay et l'Uruguay.\nSon idée de départ : faire circuler librement biens, services et personnes entre pays voisins, et adopter des règles douanières communes envers le reste du monde.",
+    "details": {
+      "sections": [
+        {
+          "titre": "De la réconciliation à l'union douanière",
+          "texte": "Tout commence en décembre 1985, quand les présidents brésilien et argentin, José Sarney et Raúl Alfonsín, signent la déclaration d'Iguaçu. Leurs pays sortent de dictatures et portent une lourde dette extérieure. Le Paraguay et l'Uruguay les rejoignent en 1991. Le bloc commence comme zone de libre-échange, puis devient union douanière le 1er janvier 1995, avec un tarif extérieur commun."
+        },
+        {
+          "titre": "Un bloc à géométrie variable",
+          "texte": "Les langues officielles sont l'espagnol, le portugais et, depuis 2006, le guarani. Le Venezuela entre en 2012 puis est suspendu en 2016. La Bolivie est acceptée en 2023 et devient membre en 2024. Des pays comme le Chili ou la Colombie sont associés. Le bloc est un grand exportateur de viande et de soja. Mais les petits pays, Uruguay et Paraguay, estiment avoir moins profité des échanges, d'où la création d'un fonds de rééquilibrage."
+        }
+      ],
+      "anecdotes": [
+        "Dans le programme d'intégration lancé par l'Argentine et le Brésil en 1986, un protocole avait proposé de créer une monnaie commune pour les échanges régionaux : le « gaucho »."
+      ],
+      "wikipedia": "Marché commun du Sud"
+    },
+    "source": "D'après Wikipédia — Marché commun du Sud",
+    "notoriete": 1
+  },
+  {
+    "id": "economie-133",
+    "domain": "economie",
+    "subtheme": "Dates clés",
+    "type": "classique",
+    "title": "Zone euro",
+    "subtitle": "Union monétaire de l'Union européenne, depuis 1999",
+    "summary": "La zone euro regroupe les pays de l'Union européenne qui utilisent l'euro. Elle naît le 1er janvier 1999 avec onze pays, rejoints ensuite par d'autres, comme la Grèce en 2001 ou la Croatie en 2023.\nUne seule banque centrale, la BCE, fixe le taux directeur pour tous, mais chaque pays garde sa propre politique budgétaire. C'est à la fois la force et la fragilité de l'ensemble.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Rejoindre l'euro, mode d'emploi",
+          "texte": "Pour entrer, un pays doit respecter des critères : un déficit sous la barre de 3 % du PIB, une dette limitée à 60 %, des prix peu fluctuants et une monnaie stable pendant au moins deux ans dans le mécanisme MCE II. L'objectif principal de la BCE est la stabilité des prix. Aucun pays n'a quitté la zone euro, et les textes ne prévoient ni sortie volontaire ni exclusion."
+        },
+        {
+          "titre": "Un pari discuté dès le départ",
+          "texte": "Dès les années 1950, Robert Mundell avait montré que partager une monnaie suppose des économies proches et capables de s'ajuster. Les responsables savaient que la zone euro n'y répondait qu'en partie. À partir de 2010, la crise de la dette grecque met l'union monétaire à rude épreuve et conduit à créer de nouveaux outils, comme le programme OMT de rachat de dette en 2012."
+        }
+      ],
+      "anecdotes": [
+        "Les billets et les pièces ne circulent que depuis le 1er janvier 2002, mais ils sont fabriqués depuis 1998 dans les pays fondateurs. En France, les billets sortent de Chamalières et les pièces de Pessac."
+      ],
+      "wikipedia": "Zone euro"
+    },
+    "source": "D'après Wikipédia — Zone euro",
+    "notoriete": 1
+  },
+  {
+    "id": "economie-134",
+    "domain": "economie",
+    "subtheme": "Dates clés",
+    "type": "classique",
+    "title": "Marché commun",
+    "subtitle": "Étape de l'intégration économique entre pays",
+    "summary": "Un marché commun est un espace où plusieurs pays suppriment les droits de douane et les quotas entre eux, et laissent circuler librement les marchandises, les services, les capitaux et les travailleurs.\nC'est souvent la première étape vers un véritable marché unique, où passer une frontière devient presque aussi simple que d'aller d'une ville à l'autre d'un même pays.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Du libre-échange au marché unique",
+          "texte": "Au départ, il y a une zone de libre-échange, sans droits de douane sur les marchandises. Le marché commun ajoute la libre circulation des capitaux, des services et des personnes, mais des obstacles subsistent : normes de sécurité, règles d'emballage, démarches administratives différentes. Le marché unique cherche à les effacer aussi, pour que chaque entreprise puisse vendre le même produit partout dans le bloc. La Communauté économique européenne fut le premier grand exemple de marché commun."
+        },
+        {
+          "titre": "Des gagnants et des perdants",
+          "texte": "Dans un marché élargi, la concurrence est plus vive : les entreprises efficaces profitent d'économies d'échelle et de coûts plus bas, et les consommateurs peuvent espérer des produits moins chers et de meilleure qualité. À l'inverse, les entreprises qui vivaient à l'abri de la protection nationale peuvent disparaître. Le débat politique porte aussi sur les migrations de travailleurs et sur la pression possible sur les salaires."
+        }
+      ],
+      "anecdotes": [
+        "Les États-Unis sont souvent cités comme un marché pleinement unifié. Chaque État y a ses propres règles, par exemple pour certaines professions ou pour les assurances, mais personnes et marchandises y circulent sans droits de douane."
+      ],
+      "wikipedia": "Marché commun"
+    },
+    "source": "D'après Wikipédia — Marché commun",
+    "notoriete": 3
+  },
+  {
+    "id": "economie-135",
+    "domain": "economie",
+    "subtheme": "Entreprises",
+    "type": "classique",
+    "title": "Ford",
+    "subtitle": "Constructeur automobile américain, fondé en 1903",
+    "summary": "Ford Motor Company est fondée le 16 juin 1903 par Henry Ford, à Détroit, dans une ancienne fabrique de fiacres. Cinq ans plus tard, la célèbre Ford T devient l'un des plus grands succès industriels de l'histoire.\nL'entreprise a popularisé la chaîne de montage mobile et reste, plus d'un siècle après sa naissance, contrôlée en partie par la famille du fondateur.",
+    "details": {
+      "sections": [
+        {
+          "titre": "De la Ford T à la Mustang",
+          "texte": "La Ford T arrive en 1908 et se vend à plus de quinze millions d'exemplaires. Elle est produite grâce à une organisation du travail nouvelle, le fordisme. Ford lance la Model A en 1927, puis, en 1932, une voiture bon marché équipée d'un moteur V8. La Mustang apparaît en avril 1964, à l'Exposition universelle de New York. L'entreprise a aussi connu des échecs, comme la marque Edsel, disparue en 1959."
+        },
+        {
+          "titre": "Une entreprise de famille cotée en Bourse",
+          "texte": "Ford entre en Bourse en 1956, une opération géante pour l'époque, conseillée par la banque Goldman Sachs. Grâce à des actions spéciales, la famille Ford garde environ 40 % des droits de vote. Au XXIe siècle, Ford vend ses marques de luxe : Jaguar et Land Rover à Tata en 2008, Volvo à Geely en 2010. Il ne garde alors que Ford et Lincoln. Durant la crise de 2008-2010, il n'a pas eu besoin d'être sauvé par l'État."
+        }
+      ],
+      "anecdotes": [
+        "Avant la Ford Motor Company, Henry Ford avait déjà créé une première société à son nom, en 1901. Il l'a quittée en gardant les droits sur son nom, et elle est devenue Cadillac en 1902."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Ford T",
+          "annee": "1908"
+        },
+        {
+          "titre": "Ford Model A",
+          "annee": "1927"
+        },
+        {
+          "titre": "Ford V8",
+          "annee": "1932"
+        },
+        {
+          "titre": "Ford Mustang",
+          "annee": "1964"
+        }
+      ],
+      "wikipedia": "Ford"
+    },
+    "source": "D'après Wikipédia — Ford",
+    "notoriete": 1
+  },
+  {
+    "id": "economie-136",
+    "domain": "economie",
+    "subtheme": "Entreprises",
+    "type": "classique",
+    "title": "Goldman Sachs",
+    "subtitle": "Banque d'investissement américaine, fondée en 1869",
+    "summary": "Goldman Sachs est l'une des plus grandes banques d'investissement du monde. Elle a été fondée en 1869 à New York par Marcus Goldman, rejoint plus tard par son gendre Samuel Sachs.\nElle conseille des entreprises et des États dans les fusions-acquisitions et les introductions en bourse. Elle gère aussi des marchés financiers. Longtemps société de partenaires, elle est entrée en Bourse en 1999.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Du papier commercial aux grandes introductions en Bourse",
+          "texte": "La firme débute avec le papier commercial, un prêt à court terme entre entreprises. Elle rejoint la Bourse de New York en 1896 et participe en 1906 à l'introduction en bourse de Sears. Elle y innove en valorisant les entreprises selon leurs bénéfices plutôt que leurs seuls biens, ce qui permet de lever de l'argent pour des commerçants peu dotés en actifs. Elle conseille aussi l'introduction de Ford en 1956."
+        },
+        {
+          "titre": "Crises et tournants",
+          "texte": "Sous Sidney Weinberg, à partir de 1930, la banque se recentre sur le conseil et reconstruit sa réputation après le krach de 1929. En 1970, la faillite de la compagnie Penn Central met la firme en difficulté. Elle a conduit à généraliser les notes de crédit pour les émetteurs. Goldman devient société cotée en mai 1999. En septembre 2008, en pleine crise financière, elle adopte le statut de holding bancaire, ce qui lui ouvre l'accès aux liquidités de la Réserve fédérale."
+        }
+      ],
+      "anecdotes": [
+        "Marcus Goldman a lancé son affaire en 1869 dans un bureau d'une seule pièce, situé au sous-sol, à côté d'une goulotte à charbon."
+      ],
+      "wikipedia": "Goldman Sachs"
+    },
+    "source": "D'après Wikipédia — Goldman Sachs",
+    "notoriete": 1
+  },
+  {
+    "id": "economie-137",
+    "domain": "economie",
+    "subtheme": "Entreprises",
+    "type": "classique",
+    "title": "Lloyd's of London",
+    "subtitle": "Marché d'assurance londonien, né vers 1688",
+    "summary": "Lloyd's of London n'est pas une compagnie d'assurance mais un marché, où des assureurs se regroupent en syndicats pour couvrir ensemble de gros risques. Il est né vers 1688 dans un café de Tower Street, tenu par Edward Lloyd.\nMarins, armateurs et marchands s'y retrouvaient pour discuter de l'assurance de leurs navires. Ce lieu de rencontre est devenu l'un des plus célèbres centres de l'assurance dans le monde.",
+    "details": {
+      "sections": [
+        {
+          "titre": "D'un café à un marché organisé",
+          "texte": "Le café d'Edward Lloyd attire les gens de mer, qui y trouvent des nouvelles des navires. Il devient vite un lieu où s'assurer contre les risques de la mer. Une loi de 1871, le Lloyd's Act, donne au marché son cadre légal. Les assureurs, les « membres », peuvent être des sociétés ou des particuliers, appelés Names, qui engageaient autrefois toute leur fortune personnelle. Comme d'autres assureurs, Lloyd's a aussi couvert des navires négriers jusqu'à l'abolition de la traite en 1807 : l'institution s'en est excusée en 2020."
+        },
+        {
+          "titre": "Payer, quoi qu'il arrive",
+          "texte": "Sa devise est Fidentia, « confiance ». En 1906, après le séisme de San Francisco, l'un de ses grands assureurs, Cuthbert Heath, demande à son agent de payer tous les clients en totalité, quelles que soient les clauses de leurs contrats. Cette décision bâtit la réputation de fiabilité de Lloyd's. En 1965, il écrit aussi la première assurance de satellite, pour Intelsat I avant son lancement."
+        }
+      ],
+      "anecdotes": [
+        "Le Titanic était assuré à Lloyd's pour un million de livres en 1912, soit environ 20 % de la capacité de tout le marché, le plus gros risque maritime jamais assuré. Le registre qui note son naufrage est exposé dans l'immeuble de Lloyd's."
+      ],
+      "wikipedia": "Lloyd's of London"
+    },
+    "source": "D'après Wikipédia — Lloyd's of London",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-138",
+    "domain": "economie",
+    "subtheme": "Entreprises",
+    "type": "classique",
+    "title": "Banque de France",
+    "subtitle": "Banque centrale française, créée en 1800",
+    "summary": "Banque centrale française, la Banque de France est fondée par Bonaparte le 18 janvier 1800, au temps du Consulat, avec un capital privé. L'État en devient propriétaire le 1er janvier 1946.\nAujourd'hui, elle appartient à l'Eurosystème, avec la BCE. Elle ne décide plus seule de la politique monétaire, mais assure des missions variées : stabilité financière, billets, surendettement, droit au compte.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des banquiers à l'État, puis à l'Europe",
+          "texte": "À sa naissance, la banque est contrôlée par de grands banquiers. Elle obtient le monopole des billets à Paris en 1803, puis dans tout le pays en 1848. Elle est nationalisée par de Gaulle en 1946 et devient indépendante du gouvernement en 1994, avec la stabilité des prix comme objectif. En 1999, elle rejoint l'Eurosystème : la BCE fixe désormais la politique monétaire de la zone euro."
+        },
+        {
+          "titre": "Billets, or et services au public",
+          "texte": "Elle fait partie des rares banques centrales qui maîtrisent toute la fabrication des billets, du papier à l'impression, aujourd'hui en Auvergne à Vic-le-Comte et Chamalières. Elle gère aussi le droit au compte, le fichier des incidents de paiement, la médiation du crédit pour les entreprises et la cotation de 266 730 entreprises en 2018. En 2025, la France détenait environ 2 437 tonnes d'or, ce qui la plaçait au 4e rang mondial."
+        }
+      ],
+      "anecdotes": [
+        "Son or est conservé dans « la Souterraine », une immense cave sous l'hôtel de Toulouse, à Paris. Elle est creusée à 26 mètres de profondeur, soutenue par 658 piliers, et fut construite de 1924 à 1927 par 1 200 ouvriers. À l'époque, c'était le plus grand coffre-fort du monde."
+      ],
+      "wikipedia": "Banque de France"
+    },
+    "source": "D'après Wikipédia — Banque de France",
+    "notoriete": 1
+  },
+  {
+    "id": "economie-139",
+    "domain": "economie",
+    "subtheme": "Entreprises",
+    "type": "classique",
+    "title": "Fonds de pension",
+    "subtitle": "Fonds qui finance des retraites par capitalisation",
+    "summary": "Un fonds de pension collecte l'épargne des salariés, souvent complétée par leur employeur, et l'investit pendant des années. Plus tard, il verse aux retraités une pension, souvent sous forme de rente.\nC'est l'outil de la retraite par capitalisation : chacun finance sa retraite avec son propre capital, contrairement à la répartition où les actifs paient les pensions du moment.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Deux grands modèles",
+          "texte": "Dans un régime à prestations définies, la pension est promise par une formule. Par exemple, 1 % du salaire final par année travaillée : après 35 ans et un salaire moyen de 60 000 dollars, cela donne 21 000 dollars par an. L'employeur porte alors le risque. Dans un régime à cotisations définies, seule l'épargne versée est fixée, et le montant final dépend des placements. Le risque pèse alors sur le salarié."
+        },
+        {
+          "titre": "Placements et repères en France",
+          "texte": "Les fonds de pension placent leurs capitaux en actions, en obligations, en immobilier et parfois en actifs non cotés. Une chute des marchés peut réduire leur valeur, d'où l'exigence d'une gestion prudente. En France, le terme reste flou : la loi Sapin II de 2016 a créé les fonds de retraite professionnelle supplémentaire, et la loi PACTE de 2019 a instauré le plan d'épargne retraite."
+        }
+      ],
+      "anecdotes": [
+        "D'après une estimation de 2012, les fonds de pension détenaient dans le monde environ 33,9 mille milliards de dollars d'actifs, plus que n'importe quelle autre catégorie d'investisseurs institutionnels, comme les assureurs ou les fonds spéculatifs."
+      ],
+      "wikipedia": "Fonds de pension"
+    },
+    "source": "D'après Wikipédia — Fonds de pension",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-140",
+    "domain": "economie",
+    "subtheme": "Entreprises",
+    "type": "classique",
+    "title": "Gestion alternative",
+    "subtitle": "Les fonds spéculatifs, ou hedge funds, depuis 1949",
+    "summary": "La gestion alternative désigne la façon de gérer l'argent des fonds spéculatifs, appelés hedge funds en anglais. Ces fonds ont une grande liberté de placement : ils peuvent emprunter, vendre à découvert ou utiliser des produits dérivés.\nIls sont peu réglementés, car ils s'adressent à des investisseurs institutionnels ou très fortunés, pas au grand public. Leur but affiché est de gagner de l'argent même quand les marchés baissent.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des outils très particuliers",
+          "texte": "La vente à découvert consiste à vendre un titre emprunté, en espérant le racheter moins cher plus tard. L'effet de levier consiste à emprunter pour investir davantage que son capital. Ces outils peuvent amplifier les gains comme les pertes : en cas de forte hausse d'un titre vendu à découvert, la perte peut être très lourde. Le gestionnaire est souvent payé environ 2 % de la valeur du fonds par an, plus 20 % de la hausse de cette valeur."
+        },
+        {
+          "titre": "Des débuts discrets à l'essor des années 1970",
+          "texte": "En 1949, Alfred Winslow Jones crée ce que l'on considère comme le premier hedge fund moderne. Il achète des actions qu'il juge prometteuses et vend à découvert celles qu'il juge fragiles, pour limiter l'effet des mouvements du marché. L'essor vient dans les années 1970. Il y avait environ 530 hedge funds en 1990, contre près de 10 000 fin 2007. La crise de 2008 a ensuite provoqué une forte chute des actifs gérés."
+        }
+      ],
+      "anecdotes": [
+        "Le mot « hedge » signifie « haie ». Il évoque la clôture qui protège un champ. Alfred Jones écrivait même « hedged fund », « fonds couvert » : à l'origine, le terme parlait de limiter les risques, alors que beaucoup de ces fonds prennent aujourd'hui des paris plus audacieux."
+      ],
+      "wikipedia": "Gestion alternative"
+    },
+    "source": "D'après Wikipédia — Gestion alternative",
+    "notoriete": 1
+  },
+  {
+    "id": "economie-141",
+    "domain": "economie",
+    "subtheme": "Entreprises",
+    "type": "classique",
+    "title": "Capital-investissement",
+    "subtitle": "Private equity : investir dans des entreprises non cotées",
+    "summary": "Le capital-investissement, ou private equity, consiste à acheter des parts d'entreprises absentes de la cote. Des fonds spécialisés y mettent de l'argent, des conseils et un réseau, puis revendent leurs parts plusieurs années plus tard.\nLe pari est de faire grandir ou redresser l'entreprise pour la revendre plus cher. Il en existe plusieurs variantes, du soutien à une jeune pousse au rachat d'une société mature.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le rachat avec effet de levier (LBO)",
+          "texte": "Dans un LBO, le fonds finance une grande partie de l'achat par de la dette que l'entreprise rachetée remboursera avec ses propres revenus. Exemple simplifié : un fonds emprunte 9 milliards, ajoute 2 milliards de ses fonds et achète une société pour 11. S'il la revend 13 deux ans plus tard, le profit avant intérêts est de 2 milliards. La dette représentait environ 70 % du prix d'achat moyen en 2005, mais plutôt 50 % en 2020."
+        },
+        {
+          "titre": "Plusieurs stades, plusieurs métiers",
+          "texte": "Le capital d'amorçage soutient un projet encore en recherche. Le capital-risque finance de jeunes entreprises sans revenus suffisants. Le capital-développement aide une société déjà stable à grandir. Le capital-transmission accompagne la cession d'une entreprise, et le capital-retournement aide une société en difficulté. Les fonds revendent en général après 3 à 10 ans, soit à un autre acquéreur, soit par introduction en bourse."
+        }
+      ],
+      "anecdotes": [
+        "Dès le Moyen Âge, en Chine comme en Europe, un investisseur confiait de l'argent à un capitaine de navire chargé de rapporter une cargaison, et le profit était partagé. Pour sécuriser ces échanges, on a inventé des outils comme la lettre de change."
+      ],
+      "wikipedia": "Capital-investissement"
+    },
+    "source": "D'après Wikipédia — Capital-investissement",
+    "notoriete": 1
+  },
+  {
+    "id": "economie-142",
+    "domain": "economie",
+    "subtheme": "Entreprises",
+    "type": "classique",
+    "title": "Introduction en bourse",
+    "subtitle": "IPO : la première mise en vente d'actions au public",
+    "summary": "Une introduction en bourse, ou IPO, est le moment où une entreprise propose pour la première fois ses actions au public sur un marché financier. Elle devient alors une société cotée.\nElle y gagne de l'argent frais pour se développer et de la visibilité. En échange, elle doit publier de nombreuses informations et accepter l'œil des actionnaires et des analystes.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Pourquoi franchir le pas",
+          "texte": "Une introduction en bourse permet de lever des capitaux pour financer la croissance, la recherche ou l'expansion à l'étranger. Elle offre aussi une porte de sortie aux fondateurs, aux salariés et aux premiers investisseurs, dont les actions deviennent faciles à vendre. Mais elle coûte cher en frais juridiques et comptables, prend beaucoup de temps aux dirigeants et oblige à rendre publiques des informations financières."
+        },
+        {
+          "titre": "Comment se déroule l'opération",
+          "texte": "Une ou plusieurs banques d'investissement, appelées preneurs fermes, aident à fixer le prix et à placer les actions auprès des investisseurs. La banque chef de file peut prélever jusqu'à 6 à 8 % du produit dans certains cas. Les futurs acheteurs reçoivent un prospectus détaillé. Une option dite de surallocation permet d'augmenter l'offre d'environ 15 % si la demande est forte."
+        }
+      ],
+      "anecdotes": [
+        "Aux États-Unis, le prospectus provisoire s'appelle « red herring », le « hareng rouge ». Ce nom vient de l'avertissement imprimé en rouge sur sa couverture, qui précise que les informations sont incomplètes et peuvent changer."
+      ],
+      "wikipedia": "Introduction en bourse"
+    },
+    "source": "D'après Wikipédia — Introduction en bourse",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-143",
+    "domain": "economie",
+    "subtheme": "Entreprises",
+    "type": "classique",
+    "title": "Crédit-bail",
+    "subtitle": "Leasing : louer un bien avec option d'achat",
+    "summary": "Dans un crédit-bail, ou leasing, une société financière achète un équipement choisi par son client et le lui loue pour une durée fixée, contre des loyers réguliers. À la fin, le client peut rendre le bien, l'acheter à un prix prévu d'avance, ou, plus rarement, renouveler la location.\nLa formule sert surtout pour les véhicules, le matériel informatique et les machines.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un financement entre location et prêt",
+          "texte": "Technique apparue en France au début des années 1960, le crédit-bail se distingue de la location simple, que l'on peut arrêter avec un préavis. Ici, le locataire s'engage à payer les loyers jusqu'au terme, comme pour un prêt. Le bien n'appartient au client qu'à la levée de l'option. Pour un particulier, on parle plutôt de location avec option d'achat (LOA), notamment pour les voitures. Les contrats peuvent inclure l'entretien."
+        },
+        {
+          "titre": "Machines, voitures, immeubles",
+          "texte": "Le crédit-bail immobilier permet à une entreprise ou une commune de faire acheter ou construire un bâtiment par une société financière, qui reste propriétaire pendant le contrat. Ces contrats durent rarement moins de vingt ans. En 2024, le leasing social pour des véhicules électriques destinés aux ménages modestes a donné lieu à 50 000 dossiers en six semaines, selon France Stratégie."
+        }
+      ],
+      "anecdotes": [
+        "Les contrats français affichent une suite de loyers mais jamais de taux d'intérêt : le coût du financement est caché dans ces mensualités."
+      ],
+      "wikipedia": "Crédit-bail"
+    },
+    "source": "D'après Wikipédia — Crédit-bail",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-144",
+    "domain": "economie",
+    "subtheme": "Entreprises",
+    "type": "classique",
+    "title": "Crédit",
+    "subtitle": "Mettre de l'argent à disposition contre remboursement",
+    "summary": "Un crédit, c'est de l'argent mis à disposition par un prêteur, le créancier, au profit d'un emprunteur, le débiteur, qui doit le rembourser avec un intérêt. Le mot vient du latin credere, « croire » : le prêteur fait confiance.\nLe crédit finance les achats des ménages, la vie des entreprises et le fonctionnement même de l'économie, mais il suppose que chacun respecte ses échéances.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Pourquoi payer des intérêts",
+          "texte": "L'intérêt est le prix du crédit. Il rémunère le service rendu par le prêteur et le fait qu'il renonce à disposer de son argent. Il couvre aussi le risque que certains emprunteurs ne remboursent pas, et il compense en partie l'inflation, qui réduit la valeur de l'argent rendu. Pour protéger les emprunteurs, la France fixe un plafond : le taux d'usure, au-delà d'un tiers au-dessus du taux moyen constaté."
+        },
+        {
+          "titre": "Du carnet du commerçant à la carte bancaire",
+          "texte": "Au XIXe siècle, les épiciers des campagnes tenaient un registre de crédit. Les agriculteurs achetaient à crédit toute l'année et payaient après la récolte. Le XXe siècle a généralisé les cartes de crédit, dont les premières émises par des banques datent de 1958. Pour comparer le coût des prêts, on utilise un taux qui inclut les frais obligatoires : en France, le TAEG."
+        }
+      ],
+      "anecdotes": [
+        "Selon un chiffre cité pour décembre 2013, environ 97 % de la monnaie en circulation dans l'économie britannique avait été créée sous forme de crédit par les banques, lorsqu'elles accordent des prêts."
+      ],
+      "wikipedia": "Crédit"
+    },
+    "source": "D'après Wikipédia — Crédit",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-145",
+    "domain": "economie",
+    "subtheme": "Entreprises",
+    "type": "classique",
+    "title": "Hypothèque",
+    "subtitle": "Garantie sur un bien immobilier, héritée du droit romain",
+    "summary": "Une hypothèque est une garantie donnée à un prêteur sur un bien immobilier, par exemple une maison. Si l'emprunteur ne rembourse pas, le créancier peut faire vendre le bien et se payer sur le prix.\nL'emprunteur garde sa maison : contrairement au gage, il n'a pas à remettre l'objet au prêteur. Ce mécanisme rend les banques plus à l'aise pour accorder de gros prêts.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une garantie sans dépossession",
+          "texte": "En droit français, l'hypothèque est une sûreté réelle : elle donne au créancier un droit sur l'immeuble sans que le propriétaire en soit dépossédé. Elle naît d'un contrat passé devant notaire ou d'une décision de justice, puis elle est inscrite dans un registre. En cas de défaillance, le créancier passe avant d'autres pour être payé sur la vente. Le bien ne change pas de mains tant que la dette est honorée."
+        },
+        {
+          "titre": "Des origines romaines aux marchés financiers",
+          "texte": "L'hypothèque vient du droit romain. Elle a été reprise à la Renaissance pour les biens immobiliers. Dans les pays de common law, le terme équivalent est mortgage, et le droit québécois définit l'hypothèque à l'article 2660 de son Code civil. Sur les marchés financiers, on parle de réhypothèque quand un prêteur réutilise la garantie reçue pour obtenir lui-même un financement."
+        }
+      ],
+      "anecdotes": [
+        "Avant la faillite de Lehman Brothers, le FMI estimait que des banques américaines recevaient plus de 4 mille milliards de dollars de financement par réhypothèque. Cela ne reposait que sur environ 1 mille milliard de garanties de départ, donc réutilisées en moyenne environ quatre fois."
+      ],
+      "wikipedia": "Hypothèque"
+    },
+    "source": "D'après Wikipédia — Hypothèque",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-146",
+    "domain": "economie",
+    "subtheme": "Entreprises",
+    "type": "classique",
+    "title": "Prêt étudiant",
+    "subtitle": "Crédit destiné à financer des études supérieures",
+    "summary": "Un prêt étudiant sert à financer des études supérieures : frais d'inscription, livres, matériel, logement. Il se distingue d'un crédit classique par un taux souvent bas et un remboursement différé, qui ne démarre en général qu'à l'entrée dans la vie active.\nSelon les pays, le prêteur est public (la Student Loans Company au Royaume-Uni) ou privé (Sallie Mae aux États-Unis, où existent aussi des prêts fédéraux). En France, les banques demandent une garantie : un proche, ou un dispositif garanti par l'État.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Rembourser selon ses revenus",
+          "texte": "Dans plusieurs pays, le remboursement dépend du salaire. En Australie, le dispositif HECS-HELP fonctionne comme un supplément d'impôt, selon un barème lié au revenu : tant que l'ancien étudiant gagne trop peu, il ne paie rien. En Nouvelle-Zélande, l'employeur retient 12 cents par dollar gagné au-delà d'un seuil, et aucun intérêt n'est facturé tant que l'emprunteur vit dans le pays. Au Royaume-Uni, le fisc collecte les remboursements depuis 1998."
+        },
+        {
+          "titre": "Le modèle américain",
+          "texte": "Aux États-Unis, la grande majorité des prêts sont fédéraux. Un prêt « subventionné » ne produit pas d'intérêts pendant les études, un prêt « non subventionné » si. Jusqu'en 2010, l'État garantissait aussi des prêts accordés par des prêteurs privés ; ce programme a été supprimé, car on estimait qu'il gonflait les profits des prêteurs sans faire baisser le coût pour les étudiants. Les prêts fédéraux coûtent en général moins cher que les prêts privés."
+        }
+      ],
+      "anecdotes": [
+        "En Colombie-Britannique, au Canada, l'assureur public ICBC peut refuser de délivrer ou de renouveler le permis de conduire d'une personne en retard dans le remboursement de son prêt étudiant, comme pour des amendes impayées."
+      ],
+      "wikipedia": "Prêt étudiant"
+    },
+    "source": "D'après Wikipédia — Prêt étudiant",
+    "notoriete": 3
+  },
+  {
+    "id": "economie-147",
+    "domain": "economie",
+    "subtheme": "Entreprises",
+    "type": "classique",
+    "title": "Monnaie",
+    "subtitle": "Instrument de paiement fondé sur la confiance",
+    "summary": "La monnaie se définit par trois fonctions : unité de compte, réserve de valeur et intermédiaire des échanges. Sa force repose sur la confiance de ceux qui l'utilisent, appuyée par la loi (le cours légal) et par l'usage.\nElle a pris des formes très variées : bœuf, sel, coquillages, ambre, métal, papier. Aujourd'hui, elle est surtout dématérialisée : espèces et pièces ne pèsent plus que très peu dans l'ensemble de la monnaie en circulation.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Des coquillages aux pièces",
+          "texte": "Bien avant les pièces, des sociétés ont utilisé des « paléomonnaies » : coquillages, dents d'animaux, plumes, pierres polies, jusqu'à la monnaie de pierre de l'île de Yap. Elles servaient à régler naissances, mariages, deuils ou offenses. La plus ancienne monnaie au sens actuel serait celle du roi de Lydie Gygès : des morceaux d'électrum (un mélange naturel d'or et d'argent), de poids fixe et marqués d'un sceau garantissant leur valeur."
+        },
+        {
+          "titre": "Du troc à la monnaie de confiance",
+          "texte": "Sans monnaie, il faut trouver quelqu'un qui possède ce qu'on veut et désire ce qu'on offre : c'est la « double coïncidence des désirs ». La monnaie sépare l'échange en deux temps, vendre puis acheter. Longtemps liée à l'or et à l'argent, elle s'en détache : en 1971, les États-Unis suspendent la convertibilité du dollar en or, et la plupart des monnaies ne valent plus que par la décision de l'État et la confiance des utilisateurs."
+        }
+      ],
+      "anecdotes": [
+        "Le mot « monnaie » vient du latin moneta. Il serait lié au temple de Junon Moneta, sur le Capitole à Rome, là où se trouvait l'atelier monétaire de la Rome antique."
+      ],
+      "wikipedia": "Monnaie"
+    },
+    "source": "D'après Wikipédia — Monnaie",
+    "notoriete": 1
+  },
+  {
+    "id": "economie-148",
+    "domain": "economie",
+    "subtheme": "Entreprises",
+    "type": "classique",
+    "title": "Billet de banque",
+    "subtitle": "Papier-monnaie né en Chine il y a près de mille ans",
+    "summary": "Le billet de banque est un papier qui sert à payer, en général imprimé pour le compte de la banque centrale d'un pays. Il est dit fiduciaire, du latin fiducia, « confiance » : sa valeur dépend de la confiance accordée à l'émetteur.\nLes premiers billets sont chinois : les jiaozi, adoptés officiellement en 1024 sous la dynastie Song. Ils évitaient de transporter de lourdes quantités de métal sur les routes, et de se les faire voler. L'Europe n'y vient qu'au XVIIe siècle.",
+    "details": {
+      "sections": [
+        {
+          "titre": "De la Chine à l'Europe",
+          "texte": "Des négociants en thé chinois auraient réglé leurs grosses transactions avec des billets à ordre dès le VIIe siècle. Marco Polo décrit en 1298 le papier-monnaie du Grand Khan, fabriqué avec de l'écorce de mûrier. En Europe, la Banque de Stockholm émet les premiers billets bancaires au XVIIe siècle, puis la Banque d'Écosse en 1696. La France tente l'expérience avec John Law en 1716, puis avec les assignats de 1790, deux épisodes marqués par la spéculation et l'inflation. Les billets de la Banque de France datent de 1800."
+        },
+        {
+          "titre": "Fabriquer un billet difficile à copier",
+          "texte": "Le papier n'a rien d'ordinaire : de la pâte de chiffon de coton, enduite de gélatine, portant un filigrane et un fil de sécurité. L'impression combine des encres qui changent de couleur selon l'angle de vue, et la gravure en taille-douce, qui donne un toucher en relief. Dans les années 1980 apparaissent des billets en polymère, bien plus durs à déchirer. Un billet de papier a une vie moyenne d'environ deux ans."
+        }
+      ],
+      "anecdotes": [
+        "En Nouvelle-France, de 1685 à 1757, des cartes à jouer ont servi de moyen de paiement. Cette « monnaie de carte » a été créée par l'intendant Jacques de Meulles et s'est répandue jusqu'à La Nouvelle-Orléans."
+      ],
+      "wikipedia": "Billet de banque"
+    },
+    "source": "D'après Wikipédia — Billet de banque",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-149",
+    "domain": "economie",
+    "subtheme": "Entreprises",
+    "type": "classique",
+    "title": "Chèque",
+    "subtitle": "Ordre écrit de payer, descendant des lettres de change",
+    "summary": "Le chèque est un ordre écrit : le « tireur », qui signe, demande à sa banque de verser une somme précise au bénéficiaire. La monnaie passe ainsi d'un compte à un autre, sans espèces.\nIl a presque disparu dans beaucoup de pays industrialisés, mais n'a pas disparu partout : des Français, des Britanniques, des Américains et des Canadiens en signent encore. Il descend des lettres de change, inventées pour payer à distance sans transporter de lourdes quantités d'or ou d'argent.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une histoire de plus de deux mille ans",
+          "texte": "Dans l'Inde des Maurya, un ordre de paiement appelé adesha existait déjà. En Perse puis dans le califat abbasside, le sakk permettait à un marchand d'encaisser dans un pays une somme tirée sur sa banque d'un autre. Au XVIIe siècle, des chèques manuscrits circulent à Londres ; le plus ancien conservé date de 1659. En 1717, la Banque d'Angleterre imprime les premiers formulaires, et en 1830 elle distribue des carnets. Vers 1770, les employés des banques londoniennes se retrouvent dans une taverne pour échanger leurs chèques : c'est la première chambre de compensation."
+        },
+        {
+          "titre": "Les règles du jeu",
+          "texte": "Pour qu'un chèque soit honoré, la provision, c'est-à-dire la somme disponible sur le compte du tireur, doit exister. Émettre un chèque sans provision pour tromper quelqu'un est puni dans la plupart des pays. En France, l'émetteur doit indiquer le montant en lettres, la date et sa signature ; en cas de différence entre chiffres et lettres, le montant en lettres l'emporte. Les chèques sont pré-barrés : le bénéficiaire ne peut les encaisser qu'auprès d'une banque. En 1959, un standard de caractères lisibles par machine a ouvert la voie au tri automatisé."
+        }
+      ],
+      "anecdotes": [
+        "Le mot anglais check, à l'origine de « chèque », vient d'un sens de « contrôle » lié au jeu d'échecs. Il est issu, via le français, le latin et l'arabe, du mot persan shah, « roi »."
+      ],
+      "wikipedia": "Chèque"
+    },
+    "source": "D'après Wikipédia — Chèque",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-150",
+    "domain": "economie",
+    "subtheme": "Entreprises",
+    "type": "classique",
+    "title": "Carte de paiement",
+    "subtitle": "Carte à puce ou à bande magnétique pour payer et retirer",
+    "summary": "Une carte de paiement est une carte de plastique ou de métal, de 85,60 sur 53,98 millimètres, dotée d'une piste magnétique et/ou d'un circuit électronique. Elle permet de payer chez un commerçant ou en ligne, et souvent de retirer des espèces.\nElle s'appuie sur un réseau : Visa, Mastercard ou American Express à l'échelle mondiale, et des réseaux nationaux comme CB (France), Bancontact (Belgique) ou Interac (Canada). On distingue surtout la carte de débit et la carte de crédit.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Débit, crédit, débit différé",
+          "texte": "Avec une carte de débit, chaque achat est prélevé sur le compte du client. Avec une carte de crédit, le client emprunte jusqu'à une limite, puis rembourse plus tard. Aux États-Unis, il peut ne rembourser qu'une partie et payer des intérêts sur le reste. En France, la carte à débit différé, qui prélève tous les achats du mois d'un seul coup, est classée par le règlement européen de 2015 parmi les cartes de crédit. La carte « charge », elle, impose de tout régler à l'échéance."
+        },
+        {
+          "titre": "Du distributeur à la puce",
+          "texte": "Les premières cartes bancaires servaient à retirer de l'argent : Barclays à Londres en 1967, Chemical Bank près de New York en 1969. En 1972, Lloyds Bank lance une carte à bande magnétique protégée par un code secret. La puce arrive dans le secteur bancaire en 1979 et se généralise au milieu des années 1980. Pour acheter en ligne dans l'Union européenne, la directive DSP 2 impose une authentification renforcée, combinant deux éléments parmi ce que l'on sait, possède ou est."
+        }
+      ],
+      "anecdotes": [
+        "Fin 2024, on comptait environ 27,76 milliards de cartes de paiement en circulation dans le monde, contre 20,48 milliards en 2017. Le dernier chiffre du numéro d'une carte est souvent une clé de contrôle calculée avec la formule de Luhn."
+      ],
+      "wikipedia": "Carte de paiement"
+    },
+    "source": "D'après Wikipédia — Carte de paiement",
+    "notoriete": 1
+  },
+  {
+    "id": "economie-151",
+    "domain": "economie",
+    "subtheme": "Entreprises",
+    "type": "classique",
+    "title": "Paradis fiscal",
+    "subtitle": "Territoire à fiscalité très basse et peu transparent",
+    "summary": "Un paradis fiscal est un pays ou un territoire où les impôts sont nettement plus bas, parfois nuls, et où les règles sont moins contraignantes qu'ailleurs, par exemple grâce au secret bancaire ou aux sociétés-écrans.\nLa notion est relative et débattue : dès 1987, l'OCDE écrivait qu'aucun critère unique, clair et objectif ne permet de désigner un paradis fiscal. En France, la loi parle plutôt de « pays à régime fiscal privilégié ».",
+    "details": {
+      "sections": [
+        {
+          "titre": "Comment les reconnaît-on ?",
+          "texte": "Un juge français, Renaud Van Ruymbeke, décrit quatre piliers : le secret bancaire, une imposition faible ou nulle, les sociétés-écrans qui cachent le vrai bénéficiaire, et des professionnels spécialisés (avocats, banquiers, fiduciaires). L'OCDE retient trois critères : des impôts insignifiants, un manque de transparence, et l'absence d'échange de renseignements fiscaux avec les autres États. Un pays peut avoir des taxes très basses sans être sur sa liste, s'il le fait en toute transparence."
+        },
+        {
+          "titre": "Une histoire entre États et entreprises",
+          "texte": "Dès le Ve siècle, Salvien de Marseille raconte que des Romains fuient chez les barbares pour échapper aux collecteurs d'impôts. Dans les années 1880 et en 1898, le New Jersey puis le Delaware attirent les sièges sociaux par un droit des sociétés souple. Dans les années 1920, le triangle Zurich-Zoug-Liechtenstein s'impose, et la Suisse place le secret bancaire sous protection pénale en 1934. Les défenseurs y voient une concurrence fiscale légitime ; les critiques, une perte de recettes pour les autres États et un risque de blanchiment."
+        }
+      ],
+      "anecdotes": [
+        "Le Liechtenstein a créé en 1924 l'« Anstalt », une forme de société d'un genre nouveau. Quelques années plus tard, en 1929, le Luxembourg a lancé à son tour des sociétés holding exonérées d'impôt."
+      ],
+      "wikipedia": "Paradis fiscal"
+    },
+    "source": "D'après Wikipédia — Paradis fiscal",
+    "notoriete": 1
+  },
+  {
+    "id": "economie-152",
+    "domain": "economie",
+    "subtheme": "Entreprises",
+    "type": "classique",
+    "title": "Taxe sur la valeur ajoutée",
+    "subtitle": "Impôt indirect sur la consommation, instauré en France en 1954",
+    "summary": "La TVA est un impôt indirect : à chaque étape de la production, elle ne frappe que la valeur ajoutée. Chaque entreprise collecte la taxe sur ses ventes, déduit celle payée sur ses achats, et reverse la différence à l'État.\nImaginée en France par Maurice Lauré, elle y est instaurée le 10 avril 1954 pour supprimer l'effet de cascade des anciennes taxes sur les ventes. Elle s'est ensuite diffusée : en janvier 2025, 175 des 193 pays membres de l'ONU l'utilisaient.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un exemple avec un stylo",
+          "texte": "Un magasin achète un stylo 1,00 € hors taxe à son fournisseur, qui lui facture 1,20 € avec une TVA de 20 %. Il le revend 1,50 € hors taxe, soit 1,80 € toutes taxes comprises : il a collecté 0,30 € de TVA. Il ne reverse à l'administration que la différence, 0,10 €, soit 20 % de la valeur qu'il a ajoutée : l'écart entre son prix de vente et son prix d'achat. Le client final paie la taxe, mais ce sont les entreprises qui la collectent."
+        },
+        {
+          "titre": "Atouts, critiques et fraude",
+          "texte": "Ses partisans soulignent sa neutralité, sa forte rentabilité pour l'État et le contrôle croisé : chaque entreprise déclare ventes et achats. En France, elle est la première source de recettes fiscales. Ses détracteurs la jugent régressive : en 2006, selon une étude citée, les 10 % les plus pauvres y consacraient 11,5 % de leur revenu, contre 5,9 % pour les 10 % les plus riches. Des taux réduits cherchent à corriger cet effet. La fraude « carrousel » reste un défi : la Commission européenne estimait les fraudes à 137 milliards d'euros en 2017."
+        }
+      ],
+      "anecdotes": [
+        "À sa création en 1954, la TVA française avait deux taux principaux : 20 % pour les produits manufacturés comme le ciment ou l'acier, et 33⅓ % pour les produits de luxe, tels que les automobiles et les appareils photographiques."
+      ],
+      "wikipedia": "Taxe sur la valeur ajoutée"
+    },
+    "source": "D'après Wikipédia — Taxe sur la valeur ajoutée",
+    "notoriete": 1
+  },
+  {
+    "id": "economie-153",
+    "domain": "economie",
+    "subtheme": "Vocabulaire",
+    "type": "classique",
+    "title": "État de la situation financière",
+    "subtitle": "Le bilan comptable, photographie d'une entreprise à une date donnée",
+    "summary": "L'état de la situation financière, nom officiel du bilan comptable dans les normes internationales, est une photographie d'une entreprise à un moment précis. À gauche, l'actif liste ce qu'elle possède ; à droite, le passif explique d'où viennent les ressources qui ont servi à l'acquérir.\nLes deux colonnes sont toujours égales, grâce à la comptabilité « en partie double » : chaque flux est enregistré deux fois, pour dire d'où vient l'argent et ce qu'on en a fait.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Lire l'actif et le passif",
+          "texte": "L'actif regroupe terrains, locaux, machines, véhicules, stocks, créances et trésorerie. Le passif détaille les sources : capital apporté par les actionnaires, fonds propres accumulés, résultat de l'année, dettes et emprunts. Les normes internationales séparent le courant (ce qui sera utilisé ou réglé dans le cycle normal d'activité) du non courant (immobilisations durables, emprunts à plus de douze mois). En cas de bénéfice, le résultat apparaît au passif ; en cas de perte, il y figure avec un signe moins."
+        },
+        {
+          "titre": "À quoi sert le bilan ?",
+          "texte": "Il permet d'évaluer ce que vaut l'entreprise et si elle est solvable, c'est-à-dire capable de payer ses dettes. Les banques et l'administration s'en servent. Il est indissociable des autres documents des comptes annuels : le résultat qu'il affiche doit être identique à celui du compte de résultat. On distingue un bilan interne, un bilan officiel, vérifié par un commissaire aux comptes pour certaines sociétés, et un bilan fiscal, qui sert à calculer le bénéfice imposable."
+        }
+      ],
+      "anecdotes": [
+        "Parmi les quatre états financiers de base, le bilan est le seul qui décrit un instant précis : les autres couvrent une période. Un particulier peut aussi dresser son bilan personnel, avec ses comptes, son logement et ses emprunts."
+      ],
+      "wikipedia": "État de la situation financière"
+    },
+    "source": "D'après Wikipédia — État de la situation financière",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-154",
+    "domain": "economie",
+    "subtheme": "Vocabulaire",
+    "type": "classique",
+    "title": "Amortissement comptable",
+    "subtitle": "Étaler le coût d'un investissement sur sa durée d'utilisation",
+    "summary": "L'amortissement comptable étale le coût d'un investissement de l'entreprise sur sa durée d'utilisation. Une machine achetée 20 000 euros n'est pas une dépense d'un seul coup : chaque année, on en inscrit une part qui reflète son usure.\nCette règle donne une image plus juste des résultats, rappelle qu'il faudra renouveler les équipements, et sert aussi au calcul de l'impôt. En France, elle est devenue légale après la loi fiscale de 1917.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Comment on calcule",
+          "texte": "Le mode le plus courant est le linéaire : un taux constant, égal à 100 % divisé par la durée d'utilisation. Pour 20 000 € sur 5 ans, le taux est de 20 %, soit 4 000 € par an. Le mode dégressif, réservé en France aux biens neufs utilisés au moins trois ans, concentre l'amortissement sur les premières années : sur 4 ans, 25 % × 1,75 = 43,75 %. La méthode « Softy » additionne les années (1+2+3+4+5 = 15) et amortit 5/15e la première année, 4/15e la suivante. Les terrains ne s'amortissent pas."
+        },
+        {
+          "titre": "Une idée née chez les marchands",
+          "texte": "Les premiers cas connus remontent au XVIe siècle : des commerçants de Venise et de Toscane remarquent que leurs équipements se dégradent. La Compagnie des Indes tenait un compte de retour pour chaque navire et y inscrivait sa moins-value. Ses statuts interdisaient d'entamer le capital par le dividende, une idée qui servira de base juridique à l'amortissement au XIXe siècle. L'amortissement remplit à la fois des fonctions juridique, financière, économique et fiscale."
+        }
+      ],
+      "anecdotes": [
+        "Les normes IFRS ont introduit l'amortissement « par composant » : chaque partie d'un bien est amortie séparément, comme les sièges d'un autobus."
+      ],
+      "wikipedia": "Amortissement comptable"
+    },
+    "source": "D'après Wikipédia — Amortissement comptable",
+    "notoriete": 3
+  },
+  {
+    "id": "economie-155",
+    "domain": "economie",
+    "subtheme": "Vocabulaire",
+    "type": "classique",
+    "title": "Capitalisation boursière",
+    "subtitle": "Valeur de toutes les actions en circulation d'une société cotée",
+    "summary": "La capitalisation boursière est le prix de marché, à un instant T, de toutes les actions d'une société cotée en Bourse. On la calcule en multipliant le nombre d'actions par le cours d'une action.\nAvec 1 000 actions à 500 €, elle atteint 500 000 €. Elle bouge chaque jour avec le cours. Elle diffère de la valeur comptable inscrite au bilan, et de la valeur totale de l'entreprise, qui inclut aussi sa dette.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un calcul simple, des nuances",
+          "texte": "Si le cours monte de 5 %, la capitalisation monte de 5 % à nombre d'actions constant. Si le nombre d'actions double mais que le cours est divisé par deux, elle ne change pas. Elle représente le prix théorique pour racheter toutes les actions au cours du jour, mais, en pratique, un acheteur paie une prime de contrôle pour convaincre les actionnaires de vendre. Il suffit d'ailleurs de détenir la moitié des actions plus une pour prendre le contrôle d'une société."
+        },
+        {
+          "titre": "Grandes, petites et micro-capitalisations",
+          "texte": "On classe traditionnellement les sociétés en grandes, moyennes et petites capitalisations, puis en méga, micro et nano-capitalisations. Aucune définition officielle ne fixe ces seuils, et les experts ne s'accordent pas : un milliard de dollars était une grande capitalisation en 1950, plus aujourd'hui. L'indicateur Buffett, popularisé en 2001, compare la capitalisation boursière à la production annuelle pour repérer une éventuelle surévaluation du marché, un usage discuté."
+        }
+      ],
+      "anecdotes": [
+        "En 2018, Apple est devenue la première entreprise à atteindre 1 000 milliards de dollars de capitalisation, battant le record de 620,58 milliards de Microsoft en 1999. Mais en dollars corrigés de l'inflation, Microsoft garde l'avantage."
+      ],
+      "wikipedia": "Capitalisation boursière"
+    },
+    "source": "D'après Wikipédia — Capitalisation boursière",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-156",
+    "domain": "economie",
+    "subtheme": "Vocabulaire",
+    "type": "classique",
+    "title": "Solvabilité",
+    "subtitle": "Capacité à rembourser ses dettes",
+    "summary": "La solvabilité mesure la capacité d'une personne ou d'une entreprise à payer ses dettes à court, moyen et long terme. L'incapacité à le faire s'appelle l'insolvabilité.\nUne banque doit vérifier la solvabilité d'un emprunteur avant de lui prêter, et le taux d'intérêt proposé en dépend : prêter à quelqu'un de très solvable est moins risqué. Pour un État, on parle plutôt de soutenabilité de la dette publique.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Comment l'évalue-t-on ?",
+          "texte": "Pour une entreprise, l'outil privilégié est l'excédent brut d'exploitation. Une fois retirée l'annuité d'emprunt à payer, il doit rester un solde positif, et même nettement positif pour obtenir un meilleur taux. Le ratio de levier financier complète l'analyse. Pour un particulier, le prêteur examine revenus, charges et patrimoine, avec des ratios et parfois des scores prédictifs. Depuis la directive européenne de 2014 sur le crédit immobilier, cette analyse est une obligation légale des prêteurs."
+        },
+        {
+          "titre": "Solvabilité et liquidité",
+          "texte": "Ces deux notions se ressemblent mais diffèrent. La liquidité s'appuie davantage sur les flux de trésorerie. La solvabilité s'intéresse à la capacité de faire face à l'ensemble des engagements, y compris à long terme, et ses indicateurs n'utilisent pas forcément les flux de trésorerie. Une définition simple compare ce que l'on possède à court terme à ce que l'on doit à court terme."
+        }
+      ],
+      "wikipedia": "Solvabilité"
+    },
+    "source": "D'après Wikipédia — Solvabilité",
+    "notoriete": 3
+  },
+  {
+    "id": "economie-157",
+    "domain": "economie",
+    "subtheme": "Vocabulaire",
+    "type": "classique",
+    "title": "Taux de chômage",
+    "subtitle": "Part des actifs sans emploi qui en cherchent un",
+    "summary": "Le taux de chômage est le pourcentage de la population active qui est au chômage. La population active regroupe les personnes en âge de travailler qui ont un emploi ou en souhaitent un ; un chômeur n'a pas d'emploi et en cherche un.\nLes définitions varient selon les pays : le Bureau international du travail donne une référence, et l'OCDE calcule des taux harmonisés pour comparer. Très cité par les médias, ce taux est complété par le taux d'emploi, plus fidèle à l'usage de la main-d'œuvre.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Mesurer le chômage",
+          "texte": "Dans de nombreux pays, on utilise une enquête auprès des ménages, comme l'enquête emploi, plutôt qu'un simple décompte des inscrits. Comparer sans précaution les taux officiels de deux pays est donc trompeur. Le chômage peut aussi varier fortement d'une région à l'autre, comme entre l'ex-Allemagne de l'Ouest et l'ex-Allemagne de l'Est. Selon l'Organisation internationale du travail, 172 millions de personnes, soit 5 % de la main-d'œuvre mondiale déclarée, étaient sans emploi en 2018."
+        },
+        {
+          "titre": "Plusieurs formes, plusieurs remèdes",
+          "texte": "Le chômage cyclique, dit keynésien, vient d'une demande trop faible dans l'économie. Le chômage structurel naît d'un décalage entre les compétences recherchées et celles disponibles, souvent à cause de la technologie ou de la mondialisation. Le chômage frictionnel correspond au temps de recherche d'un emploi. Pour les pays à chômage élevé, l'OCDE conseille notamment la formation tout au long de la vie, davantage de souplesse du marché du travail et le développement du temps partiel ; ces pistes font débat."
+        }
+      ],
+      "anecdotes": [
+        "La « flexicurité », initiée au Danemark, associe facilité d'embauche et de licenciement, indemnisation élevée du chômage, obligation d'accepter des emplois et formations efficaces."
+      ],
+      "wikipedia": "Taux de chômage"
+    },
+    "source": "D'après Wikipédia — Taux de chômage",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-158",
+    "domain": "economie",
+    "subtheme": "Vocabulaire",
+    "type": "classique",
+    "title": "Indice boursier",
+    "subtitle": "Thermomètre d'un panier d'actions cotées",
+    "summary": "Un indice boursier suit l'évolution d'un panier d'actions cotées, choisies selon des règles précises. C'est un thermomètre : il montre comment les cours de ces entreprises évoluent ensemble depuis une date de départ.\nLe CAC 40 en France, le DAX en Allemagne, le Nikkei 225 au Japon, le FTSE 100 au Royaume-Uni ou le S&P 500 aux États-Unis en sont des exemples. Les médias annoncent leurs variations chaque jour, parfois sans nuance.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Qui pèse combien ?",
+          "texte": "Tout dépend de la pondération. Dans un indice pondéré par les prix, comme le Dow Jones ou le Nikkei 225, un titre cher pèse plus lourd qu'un titre bon marché. Dans un indice pondéré par la capitalisation, comme le S&P 500, les plus grosses sociétés comptent davantage. Dans un indice équipondéré, chaque société pèse le même poids, 1/n pour n sociétés. Un indice peut aussi couvrir le monde, une région, un pays, une Bourse ou un secteur comme la biotechnologie."
+        },
+        {
+          "titre": "Ce que cachent les « points »",
+          "texte": "Un indice part d'une date de base et d'une valeur de départ : 1 000 pour le CAC 40, 100 pour le NASDAQ Composite, 10 pour le S&P 500. Un « point » n'a donc pas la même valeur d'un indice à l'autre. Exemple : un indice lancé en base 5 000 qui affiche 5 693 a progressé de 13,86 % depuis son départ. Les professionnels utilisent aussi les indices comme référence pour juger un placement ou pour construire des fonds qui les reproduisent. Les médias les associent parfois, à tort, à la santé de l'économie d'un pays."
+        }
+      ],
+      "anecdotes": [
+        "Le Dow Jones et le Nikkei 225 font exception : ils ne sont pas des nombres purs mais s'expriment en unités monétaires, en dollars pour l'un, en yens pour l'autre."
+      ],
+      "wikipedia": "Indice boursier"
+    },
+    "source": "D'après Wikipédia — Indice boursier",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-159",
+    "domain": "economie",
+    "subtheme": "Vocabulaire",
+    "type": "classique",
+    "title": "Produit national brut",
+    "subtitle": "Richesse produite par les résidents d'un pays, où qu'ils travaillent",
+    "summary": "Le produit national brut (PNB) mesure la richesse créée en un an par les acteurs économiques d'un pays, que les entreprises et les travailleurs soient installés chez eux ou dehors. Le PIB, lui, compte ce qui est produit sur le territoire.\nPNB = PIB + revenus reçus de l'étranger − revenus versés à l'étranger. Depuis la révision des normes de 1993, on parle plutôt de revenu national brut (RNB), un concept très proche. La France ne mesure plus le PNB depuis cette date.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Nationalité contre territoire",
+          "texte": "Le PNB suit les résidents d'un pays (principe de nationalité), le PIB suit le lieu de production (principe de territorialité). L'écart peut être significatif. Le revenu national de la France dépasse son PIB, car beaucoup de résidents travaillent au Luxembourg, à Monaco ou en Suisse. En 2009, les États-Unis estimaient leur PIB à 14,119 milliers de milliards de dollars, et leur PNB à 14,265. En 1991, ils ont adopté le PIB comme mesure principale, car presque tous les autres pays l'utilisaient déjà."
+        },
+        {
+          "titre": "Origine et limites",
+          "texte": "Le concept moderne de PNB, comme celui de PIB, est mis au point par Simon Kuznets pour un rapport au Congrès américain en 1934. L'ONU le définit dans son système de comptabilité nationale de 1953. Mais beaucoup d'économistes doutent qu'il mesure le bien-être : il ne compte pas la plupart du travail non rémunéré, et il compte des activités inutiles ou même destructrices. Il ne distingue pas non plus une amélioration de qualité d'une simple hausse de quantité."
+        }
+      ],
+      "anecdotes": [
+        "En 2017, la Banque centrale d'Irlande a remplacé le PIB irlandais par un nouvel indicateur, le RNB modifié. Les montages fiscaux de multinationales américaines faussaient le PIB : il atteignait 127 % du RNB irlandais."
+      ],
+      "wikipedia": "Produit national brut"
+    },
+    "source": "D'après Wikipédia — Produit national brut",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-160",
+    "domain": "economie",
+    "subtheme": "Vocabulaire",
+    "type": "classique",
+    "title": "Parité de pouvoir d'achat",
+    "subtitle": "Comparer le pouvoir d'achat des monnaies, au-delà du taux de change",
+    "summary": "La parité de pouvoir d'achat (PPA) est une méthode pour comparer le pouvoir d'achat de monnaies de pays différents. Les taux de change ne suffisent pas : une même somme n'achète pas la même chose partout, car le coût de la vie varie.\nLes économistes composent un « panier » type de produits et de prestations, puis comparent son prix d'un pays à l'autre. Le dollar américain sert souvent de référence. La PPA est surtout employée pour comparer les niveaux de vie, par exemple le PIB par habitant.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Du prix unique au panier",
+          "texte": "La loi du prix unique dit qu'un produit identique devrait coûter le même prix partout, sans coûts de transport ni douane. C'est théorique : l'indice Big Mac l'applique à un seul produit. La PPA utilise donc un panier. Exemple fictif : un panier à 1 000 dollars aux États-Unis coûte 900 euros en France, donc le taux PPA est de 0,90, indépendamment du cours de l'euro sur les marchés. Le panier de l'OCDE couvre environ 3 000 biens et services de consommation, 30 emplois publics, 200 équipements et une quinzaine de projets de construction."
+        },
+        {
+          "titre": "Pourquoi corriger les taux de change",
+          "texte": "Les taux de change peuvent varier brutalement sans que l'économie change. Les monnaies des pays pauvres sont souvent sous-évaluées, à cause de leur moindre productivité (effet Balassa-Samuelson). Certains États fixaient aussi leur taux par décision administrative, comme l'Europe de l'Est avant 1989. En 1999, le yen surévalué faisait paraître le PIB par habitant japonais bien supérieur à l'américain, alors qu'en PPA il était beaucoup plus bas. Selon la Banque mondiale, en 2003, un dollar international valait environ 1,8 yuan en PPA."
+        }
+      ],
+      "anecdotes": [
+        "La PPA a des limites : le panier est subjectif et les prix varient dans un même pays. Servie sur les Champs-Élysées, une bière coûte bien plus qu'au village, en pleine campagne du Massif central."
+      ],
+      "wikipedia": "Parité de pouvoir d'achat"
+    },
+    "source": "D'après Wikipédia — Parité de pouvoir d'achat",
+    "notoriete": 1
+  },
+  {
+    "id": "economie-161",
+    "domain": "economie",
+    "subtheme": "Vocabulaire",
+    "type": "classique",
+    "title": "Seuil de pauvreté",
+    "subtitle": "Niveau de ressources en dessous duquel on est considéré comme pauvre",
+    "summary": "Le seuil de pauvreté est un indicateur qui fixe le niveau de ressources en dessous duquel une personne est considérée comme pauvre. Il peut être absolu, calculé d'après un panier de consommation minimale, ou relatif, fixé en pourcentage du revenu médian.\nSa valeur change radicalement selon la méthode. L'Union européenne fixe le sien à 60 % du revenu médian, tandis que les États-Unis, le Canada ou la Banque mondiale utilisent des seuils absolus.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Absolu ou relatif",
+          "texte": "Le seuil absolu estime ce que coûtent les besoins essentiels pendant un an, souvent avec le logement comme poste le plus lourd. La Banque mondiale a fixé 1 dollar par jour et par personne en 1990, relevé à 1,90 dollar en 2015, puis à 3 dollars en juin 2025, en parité de pouvoir d'achat. Le seuil relatif, lui, dépend du niveau de vie du pays : le plus souvent une fraction du revenu médian, entre 40 % et 70 %. En France, il était de 50 % jusqu'en 2008, puis un seuil à 60 % a été ajouté."
+        },
+        {
+          "titre": "Des pièges de lecture",
+          "texte": "Le seuil relatif mesure surtout les inégalités. Si le revenu médian monte sans que les bas revenus bougent, le taux de pauvreté relative augmente mécaniquement, sans appauvrissement général. Eurostat parle d'ailleurs de « seuil de risque de pauvreté ». Dire « il y a 14 % de pauvres en France » est donc approximatif. À titre d'exemple, en 2018, le seuil à 60 % valait 1 063 euros par mois pour une personne seule. Au début du XXe siècle, Seebohm Rowntree avait montré que 27,84 % des habitants de York vivaient sous sa ligne de pauvreté, preuve que le problème ne se limitait pas à Londres."
+        }
+      ],
+      "anecdotes": [
+        "Le seuil de pauvreté officiel américain a été élaboré en 1963-1964 par Mollie Orshansky : elle a pris le coût d'un régime alimentaire pour une famille de trois ou quatre personnes et l'a multiplié par trois."
+      ],
+      "wikipedia": "Seuil de pauvreté"
+    },
+    "source": "D'après Wikipédia — Seuil de pauvreté",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-162",
+    "domain": "economie",
+    "subtheme": "Vocabulaire",
+    "type": "classique",
+    "title": "Marché noir",
+    "subtitle": "Échanges clandestins nés des pénuries et des interdits",
+    "summary": "Le marché noir est un marché clandestin où l'on échange des biens ou des services en contournant les règles ou les taxes. Il prospère surtout en période de pénurie : quand l'État plafonne les prix et rationne la distribution, des produits sont détournés pour être revendus plus cher.\nL'expression date probablement de la Seconde Guerre mondiale. En France, avant la Libération en 1944, le beurre se vendait cinq fois son tarif officiel et les œufs quatre fois.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Comment il fonctionne",
+          "texte": "L'existence d'un marché noir est rarement un mystère : acheteurs comme vendeurs savent qu'il est là, et l'alimentent tous les deux. Une partie des marchandises du circuit officiel est détournée, parfois avec des complicités internes, ce qui aggrave la pénurie et fait monter les prix. Mais ces prix ne sont pas toujours plus élevés : sans taxes ni coûts de production, des biens volés ou travaillés « sans facture » peuvent coûter moins cher qu'en boutique. Il se distingue du marché gris, légal mais non autorisé par le fabricant, et du marché blanc, officiel."
+        },
+        {
+          "titre": "De l'Occupation à Internet",
+          "texte": "Le mot schwarz, « noir » en allemand, se serait diffusé sous l'Occupation et les restrictions alimentaires, avec des marchés clandestins souvent tenus dans des caves. La littérature et le cinéma s'en sont emparés : le roman Au bon beurre de Jean Dutourd (1952, prix Interallié) et le film La Traversée de Paris, sorti en 1956 avec Gabin, de Funès et Bourvil. Aujourd'hui, ces marchés profitent d'Internet. Des robots achètent en masse des places de spectacle, ensuite revendues parfois jusqu'à dix fois leur prix."
+        }
+      ],
+      "anecdotes": [
+        "Selon le Prodiss, l'union du spectacle musical, environ 20 à 30 % des places de concerts et de spectacles sont raflées par des réseaux de revente. Le syndicat a lancé le site levraibillet.fr pour alerter le public."
+      ],
+      "wikipedia": "Marché noir"
+    },
+    "source": "D'après Wikipédia — Marché noir",
+    "notoriete": 2
+  },
+  {
+    "id": "economie-163",
+    "domain": "economie",
+    "subtheme": "Vocabulaire",
+    "type": "classique",
+    "title": "Troc",
+    "subtitle": "Échange direct d'un bien contre un autre, sans monnaie",
+    "summary": "Le troc est l'échange direct d'un bien ou d'un service contre un autre, sans passer par la monnaie. Chacun cède quelque chose et reçoit autre chose en retour.\nDepuis Adam Smith, beaucoup d'économistes y voient l'ancêtre de la monnaie. Les historiens et les anthropologues sont plus nuancés : aucune société connue n'aurait vécu uniquement de troc, et la monnaie existerait avant lui. Le troc réapparaît surtout lors des crises.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Le troc a-t-il précédé la monnaie ?",
+          "texte": "Pour Adam Smith, la spécialisation des métiers rend les échanges difficiles : il faut que chacun veuille ce que l'autre possède, c'est la « double coïncidence des désirs ». Les artisans auraient alors stocké une marchandise que nul ne refuse, comme le sel, devenue monnaie. Des chercheurs comme Karl Polanyi puis David Graeber contestent ce récit. Selon Graeber, le troc suppose une monnaie de compte : l'Égypte et la Mésopotamie comptaient en dettes, en poids d'argent, payées en orge, bien avant la frappe de pièces vers 600 avant notre ère."
+        },
+        {
+          "titre": "Le retour du troc",
+          "texte": "En cas de crise, les gens troquent : pendant l'effondrement financier argentin de 2001, on pouvait échanger des voitures contre des céréales, et des clubs de troc ont subsisté. Entre entreprises, selon une association du secteur, plus de 400 000 sociétés ont échangé 10 milliards de dollars en 2008. Il existe aussi des systèmes d'échange local, des trocs de plantes et des plateformes sur Internet. Le troc a des limites : il exige une double coïncidence des désirs, n'offre pas de mesure commune de la valeur et rend difficile le stockage de richesse."
+        }
+      ],
+      "anecdotes": [
+        "Le mot « troc » vient du latin trochus, lui-même emprunté au grec pour « roue » ou « anneau ». Les « troques » sont aussi des coquilles de mollusques, prisées pour leur nacre, qui ont servi de monnaie d'échange."
+      ],
+      "wikipedia": "Troc"
+    },
+    "source": "D'après Wikipédia — Troc",
+    "notoriete": 2
   }
 ]

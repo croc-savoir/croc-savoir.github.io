@@ -2111,5 +2111,2851 @@
     "bonneReponse": 0,
     "explication": "Jenson était d'abord artiste d'histoire sur Shrek. Quand l'un des deux premiers réalisateurs est parti, Jeffrey Katzenberg l'a choisie pour codiriger le film avec Andrew Adamson. Elle y a gagné un Annie Award en 2001.",
     "source": "D'après Wikipédia — Vicky Jenson"
+  },
+  {
+    "id": "q-cinema-132",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Blade Runner, de Ridley Scott, a été un triomphe dès sa sortie en salles en 1982.",
+    "reponse": false,
+    "explication": "Au contraire : le film quitte vite les écrans. C'est la télévision puis la vidéo qui en font un film culte. Scott a plus tard encadré dans son bureau la très sévère critique de Pauline Kael.",
+    "source": "D'après Wikipédia — Ridley Scott"
+  },
+  {
+    "id": "q-cinema-133",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel roman inspire la célèbre publicité réalisée par Ridley Scott en 1984 pour le lancement du Macintosh ?",
+    "choix": [
+      "1984, de George Orwell",
+      "Fahrenheit 451, de Ray Bradbury",
+      "Le Meilleur des mondes, d'Aldous Huxley",
+      "La Ferme des animaux, de George Orwell"
+    ],
+    "bonneReponse": 0,
+    "explication": "La publicité de 60 secondes met en scène une héroïne qui brise l'écran géant de Big Brother. Elle n'a été diffusée qu'une fois aux États-Unis, pendant le Super Bowl du 22 janvier 1984.",
+    "source": "D'après Wikipédia — Ridley Scott"
+  },
+  {
+    "id": "q-cinema-134",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel est le premier long métrage de David Fincher, qu'il a ensuite renié ?",
+    "choix": [
+      "Alien 3",
+      "Seven",
+      "The Game",
+      "Fight Club"
+    ],
+    "bonneReponse": 0,
+    "explication": "Engagé pour remplacer Vincent Ward, Fincher subit les interventions du studio et un scénario instable. Alien 3 sort en 1992 avec des critiques mitigées, et le réalisateur le désavoue ensuite publiquement.",
+    "source": "D'après Wikipédia — David Fincher"
+  },
+  {
+    "id": "q-cinema-135",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel dramaturge a écrit la pièce de théâtre adaptée par Denis Villeneuve dans Incendies ?",
+    "choix": [
+      "Wajdi Mouawad",
+      "Michel Tremblay",
+      "Robert Lepage",
+      "Michel Marc Bouchard"
+    ],
+    "bonneReponse": 0,
+    "explication": "Incendies, sorti en 2010, adapte la pièce de Wajdi Mouawad : l'histoire de jumeaux partis sur les traces de leur passé. Le film est nommé à l'Oscar du meilleur film en langue étrangère.",
+    "source": "D'après Wikipédia — Denis Villeneuve"
+  },
+  {
+    "id": "q-cinema-136",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle conséquence a eu le triplé de Barton Fink au Festival de Cannes 1991 (Palme d'or, mise en scène, interprétation masculine) ?",
+    "choix": [
+      "Le règlement a changé : un même film ne peut plus, en théorie, cumuler plusieurs prix",
+      "Les frères Coen ont été interdits de compétition pendant dix ans",
+      "Le festival a créé un prix spécial réservé aux frères",
+      "Le jury a été remplacé par un vote du public"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ce triplé inédit a poussé Cannes à modifier son règlement : en théorie, un jury ne peut plus donner plusieurs prix à un même film, hormis un prix d'interprétation. Barton Fink reste un cas à part.",
+    "source": "D'après Wikipédia — Joel et Ethan Coen"
+  },
+  {
+    "id": "q-cinema-137",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "À quelle promesse faite aux esclaves libérés le nom de la société de Spike Lee, 40 Acres & A Mule Filmworks, fait-il référence ?",
+    "choix": [
+      "40 acres de terre et une mule",
+      "40 dollars et un cheval",
+      "4 acres de terre et deux bœufs",
+      "40 acres de terre et une charrue"
+    ],
+    "bonneReponse": 0,
+    "explication": "Au sortir de la guerre de Sécession, on promet aux esclaves affranchis 40 acres de terre et un animal de trait, la mule. Spike Lee a repris cette promesse pour nommer sa société de production.",
+    "source": "D'après Wikipédia — Spike Lee"
+  },
+  {
+    "id": "q-cinema-138",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Do the Right Thing, de Spike Lee, a été nommé à l'Oscar du meilleur film en 1990.",
+    "reponse": false,
+    "explication": "Le film n'a obtenu que deux nominations : meilleur scénario original pour Spike Lee et meilleur second rôle pour Danny Aiello. L'absence de nomination pour le meilleur film a surpris beaucoup de monde.",
+    "source": "D'après Wikipédia — Spike Lee"
+  },
+  {
+    "id": "q-cinema-139",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle paire de films vaut à Clint Eastwood l'Oscar du meilleur film et celui du meilleur réalisateur ?",
+    "choix": [
+      "Impitoyable et Million Dollar Baby",
+      "Mystic River et Gran Torino",
+      "Sur la route de Madison et Impitoyable",
+      "Million Dollar Baby et American Sniper"
+    ],
+    "bonneReponse": 0,
+    "explication": "Eastwood a remporté ces deux Oscars deux fois : en 1993 pour le western Impitoyable, puis pour le drame sportif Million Dollar Baby, sorti en 2004. Mystic River a obtenu d'autres nominations.",
+    "source": "D'après Wikipédia — Clint Eastwood"
+  },
+  {
+    "id": "q-cinema-140",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film d'Alfred Hitchcock a beaucoup marqué Brian De Palma quand il était étudiant à l'université Columbia ?",
+    "choix": [
+      "Sueurs froides",
+      "Psychose",
+      "La Mort aux trousses",
+      "Fenêtre sur cour"
+    ],
+    "bonneReponse": 0,
+    "explication": "Étudiant en physique, De Palma découvre Sueurs froides et Citizen Kane, qui le poussent vers le cinéma. Il rendra hommage à Hitchcock dans Obsession, Pulsions et Body Double.",
+    "source": "D'après Wikipédia — Brian De Palma"
+  },
+  {
+    "id": "q-cinema-141",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel pseudonyme John Carpenter utilise-t-il pour le montage d'Assaut ?",
+    "choix": [
+      "John T. Chance",
+      "Jack Burton",
+      "Snake Plissken",
+      "Rick Deckard"
+    ],
+    "bonneReponse": 0,
+    "explication": "Carpenter signe le montage d'Assaut « John T. Chance », nom du personnage de John Wayne dans Rio Bravo, le western de Howard Hawks dont son film est une version moderne et urbaine.",
+    "source": "D'après Wikipédia — John Carpenter"
+  },
+  {
+    "id": "q-cinema-142",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film de David Lynch obtient la Palme d'or en 1990 ?",
+    "choix": [
+      "Sailor et Lula",
+      "Blue Velvet",
+      "Elephant Man",
+      "Mulholland Drive"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sailor et Lula raconte la fuite de deux amants, joués par Nicolas Cage et Laura Dern, dans un mélange de conte, de road movie et de polar. C'est le 43e Festival de Cannes qui le couronne.",
+    "source": "D'après Wikipédia — David Lynch"
+  },
+  {
+    "id": "q-cinema-143",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Terrence Malick a laissé passer une vingtaine d'années sans tourner entre son deuxième et son troisième long métrage.",
+    "reponse": true,
+    "explication": "Après Les Moissons du ciel (1978), Malick s'est retiré de l'industrie et n'est revenu qu'avec La Ligne rouge, en 1998. Aucun autre cinéaste n'avait attendu aussi longtemps entre deux de ses films.",
+    "source": "D'après Wikipédia — Terrence Malick"
+  },
+  {
+    "id": "q-cinema-144",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "À quoi renvoie le nom de la société de production de Paul Thomas Anderson, Ghoulardi Film Company ?",
+    "choix": [
+      "À un personnage de présentateur de films d'horreur créé par son père",
+      "À un film de science-fiction de son enfance",
+      "À une marque de caméra",
+      "À une chanson de rock"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ghoulardi était un personnage de présentateur de films d'horreur à la télévision de Cleveland, créé par Ernie Anderson, le père du cinéaste, qui a voulu lui rendre hommage en nommant sa société.",
+    "source": "D'après Wikipédia — Paul Thomas Anderson"
+  },
+  {
+    "id": "q-cinema-145",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Qu'est-il arrivé au premier projet de film de Guillermo del Toro, un long métrage en animation de marionnettes appelé Omnivore ?",
+    "choix": [
+      "Des cambrioleurs ont détruit le studio, les décors et les marionnettes",
+      "Le studio a fait faillite avant la fin du tournage",
+      "Le projet a été abandonné faute de scénario",
+      "Le film a été interdit par la censure mexicaine"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après trois ans de travail, des cambrioleurs ont saccagé le studio et détruit environ cent marionnettes. Del Toro a alors choisi de passer à la prise de vues réelles avec Cronos, son premier long métrage.",
+    "source": "D'après Wikipédia — Guillermo del Toro"
+  },
+  {
+    "id": "q-cinema-146",
+    "domain": "cinema",
+    "format": "frise",
+    "question": "Remets ces films d'Alejandro González Iñárritu dans l'ordre de sortie.",
+    "evenements": [
+      {
+        "label": "Amours chiennes",
+        "annee": "2000"
+      },
+      {
+        "label": "21 Grammes",
+        "annee": "2003"
+      },
+      {
+        "label": "Babel",
+        "annee": "2006"
+      },
+      {
+        "label": "Biutiful",
+        "annee": "2010"
+      },
+      {
+        "label": "Birdman",
+        "annee": "2014"
+      }
+    ],
+    "explication": "Iñárritu a d'abord signé sa « trilogie de la mort » (Amours chiennes, 21 Grammes, Babel), puis Biutiful à Barcelone en 2010 et Birdman en 2014, qui lui vaut l'Oscar du meilleur film.",
+    "source": "D'après Wikipédia — Alejandro González Iñárritu"
+  },
+  {
+    "id": "q-cinema-147",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Qui a suggéré le nom d'Alfonso Cuarón au studio pour réaliser Harry Potter et le Prisonnier d'Azkaban ?",
+    "choix": [
+      "J. K. Rowling, l'auteure des romans",
+      "Steven Spielberg",
+      "Le producteur David Heyman",
+      "Daniel Radcliffe"
+    ],
+    "bonneReponse": 0,
+    "explication": "J. K. Rowling avait aimé La Petite Princesse et Y tu mamá también. Elle a proposé Cuarón au studio et dira plus tard qu'Azkaban est son adaptation préférée de la saga.",
+    "source": "D'après Wikipédia — Alfonso Cuarón"
+  },
+  {
+    "id": "q-cinema-148",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle récompense Old Boy, de Park Chan-wook, remporte-t-il au Festival de Cannes 2004, sous la présidence de Quentin Tarantino ?",
+    "choix": [
+      "Le Grand Prix",
+      "La Palme d'or",
+      "Le prix du jury",
+      "Le prix de la mise en scène"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tarantino, président du jury, a défendu Old Boy pour la Palme d'or, qui est allée à un autre film. Le thriller sud-coréen obtient le Grand Prix, la deuxième distinction du festival.",
+    "source": "D'après Wikipédia — Park Chan-wook"
+  },
+  {
+    "id": "q-cinema-149",
+    "domain": "cinema",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Daegu en 1969 et j'ai étudié la sociologie avant l'école de cinéma.",
+      "Lycéen, j'ai cru voir un monstre dans le fleuve Han, ce qui a inspiré l'un de mes films.",
+      "J'ai adapté la bande dessinée française Le Transperceneige.",
+      "En 2019, tout le jury m'a donné la Palme d'or.",
+      "En 2020, mon film Parasite a remporté quatre Oscars en une soirée."
+    ],
+    "reponse": "Bong Joon-ho",
+    "explication": "Bong Joon-ho est le réalisateur de The Host, Snowpiercer et Parasite, premier film non anglophone à recevoir l'Oscar du meilleur film. Il égale en 2020 le record de quatre Oscars en une soirée de Walt Disney.",
+    "source": "D'après Wikipédia — Bong Joon-ho"
+  },
+  {
+    "id": "q-cinema-150",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film de Zhang Yimou, son premier long métrage, est couronné à Berlin par l'Ours d'or en 1988 ?",
+    "choix": [
+      "Le Sorgho rouge",
+      "Ju Dou",
+      "Vivre !",
+      "Hero"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Sorgho rouge, adapté d'un roman de Mo Yan, est le premier film de Zhang Yimou comme réalisateur. Son Ours d'or à Berlin en 1988 le révèle au monde et lance le cinéma de la « cinquième génération » chinoise.",
+    "source": "D'après Wikipédia — Zhang Yimou"
+  },
+  {
+    "id": "q-cinema-151",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel est le premier film en anglais d'Ang Lee, adapté d'un roman de Jane Austen ?",
+    "choix": [
+      "Raison et Sentiments",
+      "Ice Storm",
+      "Hulk",
+      "Chevauchée avec le diable"
+    ],
+    "bonneReponse": 0,
+    "explication": "Raison et Sentiments (1995) est tourné au Royaume-Uni avec Emma Thompson, Kate Winslet et Hugh Grant. Il vaut à Ang Lee un deuxième Ours d'or à Berlin, et un Oscar du meilleur scénario adapté à Emma Thompson.",
+    "source": "D'après Wikipédia — Ang Lee"
+  },
+  {
+    "id": "q-cinema-152",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle particularité marque le style de Yasujirō Ozu ?",
+    "choix": [
+      "Sa caméra est placée très bas, presque au ras du sol",
+      "Il tourne uniquement avec des caméras à l'épaule",
+      "Il multiplie les très gros plans sur les visages",
+      "Il utilise surtout des mouvements de grue spectaculaires"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ozu place sa caméra très bas, presque au niveau d'une personne assise sur un tatami, et la laisse le plus souvent fixe. Ce « plan tatami » est la signature visuelle de ses films de famille, calmes et épurés.",
+    "source": "D'après Wikipédia — Yasujirō Ozu"
+  },
+  {
+    "id": "q-cinema-153",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle particularité marque l'œuvre de Kenji Mizoguchi, auteur de plus de quatre-vingt-dix films ?",
+    "choix": [
+      "Plus de soixante de ses films ont aujourd'hui disparu",
+      "Tous ses films ont été tournés en couleur",
+      "Il n'a jamais tourné de film muet",
+      "Tous ses films se déroulent à l'époque moderne"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sur quatre-vingt-quatorze films, plus de soixante sont perdus, surtout des films muets des années 1920 et 1930. C'est le record parmi les grands cinéastes, devant John Ford. Il reste de quoi juger ses chefs-d'œuvre tardifs.",
+    "source": "D'après Wikipédia — Kenji Mizoguchi"
+  },
+  {
+    "id": "q-cinema-154",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Comment Satyajit Ray a-t-il tourné son premier film, La Complainte du sentier ?",
+    "choix": [
+      "Avec des acteurs amateurs, sur trois ans, grâce à un prêt du gouvernement du Bengale",
+      "Avec de grandes stars de Bombay et un gros studio",
+      "En quelques semaines, grâce à un financement américain",
+      "En studio, avec des décors de carton-pâte"
+    ],
+    "bonneReponse": 0,
+    "explication": "Faute d'argent, Ray tourne par à-coups pendant trois ans avec des amateurs, avant qu'un prêt du gouvernement du Bengale-Occidental permette de finir. Le film sort en 1955 et remporte onze prix internationaux.",
+    "source": "D'après Wikipédia — Satyajit Ray"
+  },
+  {
+    "id": "q-cinema-155",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "À quel film de Stanley Kubrick le Solaris d'Andreï Tarkovski est-il souvent comparé ?",
+    "choix": [
+      "2001, l'Odyssée de l'espace",
+      "Orange mécanique",
+      "Shining",
+      "Barry Lyndon"
+    ],
+    "bonneReponse": 0,
+    "explication": "Solaris, sorti en 1972, est souvent vu comme la réponse soviétique à 2001, l'Odyssée de l'espace. Tarkovski le jugeait pourtant bien moins important que ses autres films, à cause de ses décors technologiques.",
+    "source": "D'après Wikipédia — Andreï Tarkovski"
+  },
+  {
+    "id": "q-cinema-156",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Pour quel anniversaire historique Eisenstein reçoit-il la commande du Cuirassé Potemkine ?",
+    "choix": [
+      "Le jubilé de la révolution manquée de 1905",
+      "Les dix ans de la révolution d'Octobre 1917",
+      "La fin de la guerre civile russe",
+      "La naissance de l'Union soviétique"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le film est commandé pour commémorer 1905. Faute de temps, Eisenstein ne raconte qu'un épisode : la mutinerie du cuirassé. Les dix ans de 1917 donneront un autre film, Octobre, en 1927.",
+    "source": "D'après Wikipédia — Sergueï Eisenstein"
+  },
+  {
+    "id": "q-cinema-157",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle invention du cinéma de Fritz Lang est née dans La Femme sur la Lune, en 1929 ?",
+    "choix": [
+      "Le compte à rebours avant le lancement d'une fusée",
+      "Le premier film entièrement en couleurs",
+      "Le zoom avant",
+      "Le doublage des voix"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour La Femme sur la Lune, Lang s'entoure du physicien Hermann Oberth, pionnier des fusées. Le film imagine un lancement très réaliste, avec fusée dressée et compte à rebours, devenu ensuite un classique.",
+    "source": "D'après Wikipédia — Fritz Lang"
+  },
+  {
+    "id": "q-cinema-158",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film de Murnau reçoit un prix lors de la toute première cérémonie des Oscars ?",
+    "choix": [
+      "L'Aurore",
+      "Faust",
+      "Le Dernier des hommes",
+      "Tabou"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'Aurore (1927), tourné pour la Fox, reçoit le prix de la production unique et artistique, et sa vedette Janet Gaynor est la première Oscar de la meilleure actrice. Le film n'a pas été un succès financier.",
+    "source": "D'après Wikipédia — Friedrich Wilhelm Murnau"
+  },
+  {
+    "id": "q-cinema-159",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Ernst Lubitsch est le seul réalisateur de Hollywood à avoir dirigé la production d'un grand studio, la Paramount.",
+    "reponse": true,
+    "explication": "Lubitsch prend la tête des productions de la Paramount en 1935, ce qu'aucun autre cinéaste de Hollywood n'a fait dans un grand studio. Il délègue mal et revient à la mise en scène au bout d'un an.",
+    "source": "D'après Wikipédia — Ernst Lubitsch"
+  },
+  {
+    "id": "q-cinema-160",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle méprise vit Frank Capra lors de la cérémonie des Oscars de 1934 ?",
+    "choix": [
+      "Il se lève en croyant avoir gagné, mais le vainqueur était Frank Lloyd",
+      "Il reçoit par erreur l'Oscar d'un autre cinéaste",
+      "Il refuse de monter sur scène",
+      "Il arrive en retard et manque l'annonce de son prix"
+    ],
+    "bonneReponse": 0,
+    "explication": "Will Rogers annonce que le lauréat est un ami nommé Frank. Capra, ovationné, monte vers la scène avant de comprendre que le vainqueur est Frank Lloyd. Il sera récompensé plus tard avec New York-Miami.",
+    "source": "D'après Wikipédia — Frank Capra"
+  },
+  {
+    "id": "q-cinema-161",
+    "domain": "cinema",
+    "format": "frise",
+    "question": "Remets ces films de John Ford dans l'ordre de sortie.",
+    "evenements": [
+      {
+        "label": "Le Mouchard",
+        "annee": "1935"
+      },
+      {
+        "label": "La Chevauchée fantastique",
+        "annee": "1939"
+      },
+      {
+        "label": "La Poursuite infernale",
+        "annee": "1946"
+      },
+      {
+        "label": "L'Homme tranquille",
+        "annee": "1952"
+      },
+      {
+        "label": "La Prisonnière du désert",
+        "annee": "1956"
+      }
+    ],
+    "explication": "Ford passe du drame irlandais Le Mouchard (1935) aux westerns La Chevauchée fantastique (1939) et La Poursuite infernale (1946), puis à la comédie L'Homme tranquille (1952), avant La Prisonnière du désert (1956).",
+    "source": "D'après Wikipédia — John Ford"
+  },
+  {
+    "id": "q-cinema-162",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Qu'est-ce qui distingue les dialogues de La Dame du vendredi, de Howard Hawks ?",
+    "choix": [
+      "Les acteurs parlent encore plus vite que d'habitude",
+      "Ils sont entièrement chantés",
+      "Ils sont doublés après le tournage",
+      "Ils sont remplacés par des intertitres"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hawks pense que le parlant ralentit les films : il fait donc parler ses acteurs plus vite, en se coupant la parole, comme dans la vie. La Dame du vendredi pousse le procédé au maximum, et il y voit la clé du succès.",
+    "source": "D'après Wikipédia — Howard Hawks"
+  },
+  {
+    "id": "q-cinema-163",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Le régime de Franco a d'abord accepté que Viridiana, de Buñuel, représente l'Espagne au Festival de Cannes.",
+    "reponse": true,
+    "explication": "Franco avait permis le tournage et laissé le film partir pour Cannes sous les couleurs de l'Espagne. Mais après la Palme d'or 1961 et le scandale, le film est interdit, ses copies sont saisies, et il ne sort en Espagne qu'en 1977.",
+    "source": "D'après Wikipédia — Luis Buñuel"
+  },
+  {
+    "id": "q-cinema-164",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Michael Haneke n'a remporté la Palme d'or qu'une seule fois, pour Amour.",
+    "reponse": false,
+    "explication": "Haneke a deux Palmes d'or : Le Ruban blanc en 2009, puis Amour en 2012. Il fait partie d'un petit groupe de cinéastes doublement palmés, aux côtés notamment de Coppola, des frères Dardenne et de Ken Loach.",
+    "source": "D'après Wikipédia — Michael Haneke"
+  },
+  {
+    "id": "q-cinema-165",
+    "domain": "cinema",
+    "format": "associer",
+    "question": "Associe chaque film à son réalisateur.",
+    "paires": [
+      {
+        "gauche": "La Règle du jeu",
+        "droite": "Jean Renoir",
+        "explication": "Ce film de 1939, satire de la société française, fut un échec à sa sortie avant de devenir un grand classique."
+      },
+      {
+        "gauche": "Le Quai des brumes",
+        "droite": "Marcel Carné",
+        "explication": "Tourné en 1938 avec Jacques Prévert au scénario, c'est un grand succès du réalisme poétique de Carné."
+      },
+      {
+        "gauche": "Metropolis",
+        "droite": "Fritz Lang",
+        "explication": "Cette ville futuriste coupée en deux selon le rang social est l'un des grands films muets de Lang, sorti en 1927."
+      },
+      {
+        "gauche": "Voyage à Tokyo",
+        "droite": "Yasujirō Ozu",
+        "explication": "Chronique familiale, tournée avec la caméra basse chère à Ozu, souvent citée parmi les plus grands films."
+      },
+      {
+        "gauche": "La Complainte du sentier",
+        "droite": "Satyajit Ray",
+        "explication": "Premier film de Ray, tourné avec des amateurs, sorti en 1955 et primé à Cannes : premier volet de la trilogie d'Apu."
+      }
+    ],
+    "explication": "Ces cinq réalisateurs, venus de France, d'Allemagne, du Japon et d'Inde, ont marqué le cinéma d'avant la Nouvelle Vague. Chacun a un film qui résume son style : satire, poésie, fresque futuriste, chronique familiale.",
+    "source": "D'après Wikipédia — Jean Renoir"
+  },
+  {
+    "id": "q-cinema-166",
+    "domain": "cinema",
+    "format": "qui-suis-je",
+    "indices": [
+      "Fils d'un ébéniste, je préfère le cinéma à l'établi.",
+      "Je gagne un concours de critique de films, puis je deviens l'assistant de Jacques Feyder.",
+      "Mon premier film, Jenny, sort en 1936.",
+      "Avec le poète Jacques Prévert, je tourne Le Quai des brumes.",
+      "Mon chef-d'œuvre est Les Enfants du paradis, situé sur le Boulevard du Crime."
+    ],
+    "reponse": "Marcel Carné",
+    "explication": "Marcel Carné a réalisé Carné a réalisé Les Enfants du paradis, mais aussi Le Quai des brumes puis Le jour se lève, tous écrits avec Jacques Prévert. Arletty l'a surnommé le « Karajan du septième art ».",
+    "source": "D'après Wikipédia — Marcel Carné"
+  },
+  {
+    "id": "q-cinema-167",
+    "domain": "cinema",
+    "format": "difference",
+    "question": "Quelle est la différence entre la mise en scène de Yasujirō Ozu et celle de Kenji Mizoguchi ?",
+    "choix": [
+      "Ozu place sa caméra très bas et presque fixe, Mizoguchi pratique le long plan avec le grand angle (« une scène, un plan »)",
+      "Ozu tourne uniquement en extérieur, Mizoguchi uniquement en studio",
+      "Ozu multiplie les gros plans, Mizoguchi n'emploie que des plans larges fixes",
+      "Ozu filme des époques lointaines, Mizoguchi seulement le Japon moderne"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chez Ozu, la caméra est basse, souvent fixe, avec des plans de coupe sur des objets. Mizoguchi, aidé de son décorateur, emploie le grand angle et son approche « une scène, un plan », avec peu de coupes.",
+    "source": "D'après Wikipédia — Kenji Mizoguchi"
+  },
+  {
+    "id": "q-cinema-168",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel est le vrai nom de naissance de l'acteur Cary Grant ?",
+    "choix": [
+      "Archibald Leach",
+      "Archibald Lockwood",
+      "Carlton Grant",
+      "Cary Leach"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cary Grant est né Archibald Leach à Bristol en 1904. À Hollywood, la Paramount lui cherche un nom dans une liste de pseudonymes. Il le change légalement en Cary Grant lors de sa naturalisation américaine, en 1942.",
+    "source": "D'après Wikipédia — Cary Grant"
+  },
+  {
+    "id": "q-cinema-169",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Gary Cooper a refusé le rôle masculin principal d'Autant en emporte le vent.",
+    "reponse": true,
+    "explication": "Gary Cooper était le premier choix du producteur David O. Selznick. Il aurait refusé en prédisant un échec énorme, content que ce soit Clark Gable qui prenne le risque.",
+    "source": "D'après Wikipédia — Gary Cooper"
+  },
+  {
+    "id": "q-cinema-170",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film de 1930, tourné aux studios de l'UFA, révèle Marlene Dietrich dans le rôle d'une chanteuse de cabaret ?",
+    "choix": [
+      "L'Ange bleu",
+      "Morocco",
+      "Shanghaï Express",
+      "La Femme et le Pantin"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'Ange bleu, de Josef von Sternberg, marque l'arrivée du parlant dans le cinéma allemand. Dietrich y joue Lola-Lola. Remarquée par la Paramount, qui cherche une rivale à Greta Garbo, elle part aussitôt pour les États-Unis.",
+    "source": "D'après Wikipédia — Marlene Dietrich"
+  },
+  {
+    "id": "q-cinema-171",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel grade James Stewart atteint-il dans l'armée de l'air américaine, un record pour un acteur ?",
+    "choix": [
+      "Général de brigade",
+      "Colonel",
+      "Capitaine",
+      "Major"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pilote de bombardier pendant la Seconde Guerre mondiale, Stewart devient colonel en 1945. Resté dans la réserve, il est promu général de brigade en 1959 : aucun autre acteur n'est monté aussi haut dans la hiérarchie militaire américaine.",
+    "source": "D'après Wikipédia — James Stewart"
+  },
+  {
+    "id": "q-cinema-172",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Combien d'Oscars de la meilleure actrice Katharine Hepburn a-t-elle remportés ?",
+    "choix": [
+      "Quatre",
+      "Deux",
+      "Trois",
+      "Six"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hepburn en a reçu quatre, pour Morning Glory, Devine qui vient dîner..., Le Lion en hiver et La Maison du lac. Elle n'est jamais venue les chercher : sa seule apparition à la cérémonie date de 1974, pour remettre un prix.",
+    "source": "D'après Wikipédia — Katharine Hepburn"
+  },
+  {
+    "id": "q-cinema-173",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Bette Davis a remporté trois Oscars de la meilleure actrice.",
+    "reponse": false,
+    "explication": "Bette Davis en a remporté deux, pour L'Intruse puis L'Insoumise. Dix fois nommée, elle n'a jamais obtenu de troisième statuette, même pour Ève ou Qu'est-il arrivé à Baby Jane ?, qui sont pourtant parmi ses rôles les plus célèbres.",
+    "source": "D'après Wikipédia — Bette Davis"
+  },
+  {
+    "id": "q-cinema-174",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Pour quel film Ingrid Bergman reçoit-elle son premier Oscar de la meilleure actrice ?",
+    "choix": [
+      "Hantise",
+      "Casablanca",
+      "Pour qui sonne le glas",
+      "Anastasia"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hantise, de George Cukor, lui offre la statuette de la meilleure actrice. Elle en reçoit un deuxième pour Anastasia en 1956, puis un troisième, comme second rôle, pour Le Crime de l'Orient-Express en 1974.",
+    "source": "D'après Wikipédia — Ingrid Bergman"
+  },
+  {
+    "id": "q-cinema-175",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Dans quel film Elizabeth Taylor tient-elle, à 12 ans, son premier grand rôle, celui d'une jeune fille qui veut devenir jockey ?",
+    "choix": [
+      "Le Grand National",
+      "Fidèle Lassie",
+      "Géant",
+      "Le Père de la mariée"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans Le Grand National, sorti fin 1944, la jeune Elizabeth Taylor entraîne un cheval pour une célèbre course. Le film est un succès. Avant lui, elle n'avait tenu que de petits rôles, comme dans Fidèle Lassie.",
+    "source": "D'après Wikipédia — Elizabeth Taylor"
+  },
+  {
+    "id": "q-cinema-176",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Qui a offert à Grace Kelly sa célèbre robe de mariée, portée à Monaco en 1956 ?",
+    "choix": [
+      "Son studio, la MGM",
+      "Le palais princier de Monaco",
+      "Le couturier Christian Dior",
+      "Alfred Hitchcock"
+    ],
+    "bonneReponse": 0,
+    "explication": "Selon la tradition pour les vedettes, c'est le studio qui offre la robe : la MGM la fait dessiner par la costumière Helen Rose. Elle est devenue l'une des plus célèbres au monde et a inspiré de nombreux mariages princiers.",
+    "source": "D'après Wikipédia — Grace Kelly"
+  },
+  {
+    "id": "q-cinema-177",
+    "domain": "cinema",
+    "format": "associer",
+    "question": "Associe chaque actrice française à un film qui a marqué sa carrière.",
+    "paires": [
+      {
+        "gauche": "Brigitte Bardot",
+        "droite": "Le Mépris",
+        "explication": "Jean-Luc Godard la dirige dans Le Mépris, sorti en 1963."
+      },
+      {
+        "gauche": "Jeanne Moreau",
+        "droite": "Jules et Jim",
+        "explication": "Elle y chante Le Tourbillon dans le film de François Truffaut, sorti en 1962."
+      },
+      {
+        "gauche": "Isabelle Huppert",
+        "droite": "La Pianiste",
+        "explication": "Dirigée par Michael Haneke, elle obtient le prix d'interprétation à Cannes."
+      },
+      {
+        "gauche": "Juliette Binoche",
+        "droite": "Le Patient anglais",
+        "explication": "Ce film aux neuf Oscars lui rapporte celui du meilleur second rôle."
+      },
+      {
+        "gauche": "Marion Cotillard",
+        "droite": "La Môme",
+        "explication": "Elle y incarne Édith Piaf et reçoit l'Oscar de la meilleure actrice."
+      }
+    ],
+    "explication": "Ces cinq actrices ont chacune trouvé dans un grand film le rôle qui les a fait connaître dans le monde entier, avec des réalisateurs aussi différents que Godard, Truffaut, Haneke ou Anthony Minghella.",
+    "source": "D'après Wikipédia — Brigitte Bardot"
+  },
+  {
+    "id": "q-cinema-178",
+    "domain": "cinema",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né en 1936 à Santa Monica, en Californie.",
+      "Mon premier film comme réalisateur reçoit quatre Oscars, dont celui du meilleur film.",
+      "J'ai refusé Le Lauréat pour ne pas rester cantonné aux rôles de beau blond.",
+      "Je forme un duo célèbre avec Paul Newman dans Butch Cassidy et le Kid.",
+      "J'ai fondé l'institut dont le festival porte le nom de Sundance."
+    ],
+    "reponse": "Robert Redford",
+    "explication": "Robert Redford a joué dans Butch Cassidy et le Kid, puis réalisé Des gens comme les autres, couronné de quatre Oscars. Il a ensuite créé le Sundance Institute, à l'origine du festival de cinéma indépendant de l'Utah.",
+    "source": "D'après Wikipédia — Robert Redford"
+  },
+  {
+    "id": "q-cinema-179",
+    "domain": "cinema",
+    "format": "frise",
+    "question": "Remets ces films de Cary Grant dans l'ordre de leur sortie.",
+    "evenements": [
+      {
+        "label": "Cette sacrée vérité",
+        "annee": "1937"
+      },
+      {
+        "label": "L'Impossible Monsieur Bébé",
+        "annee": "1938"
+      },
+      {
+        "label": "Les Enchaînés",
+        "annee": "1946"
+      },
+      {
+        "label": "La Main au collet",
+        "annee": "1955"
+      },
+      {
+        "label": "La Mort aux trousses",
+        "annee": "1959"
+      }
+    ],
+    "explication": "Grant brille d'abord dans la comédie loufoque, à la fin des années 1930. Hitchcock le dirige ensuite dans Les Enchaînés, puis dans deux de ses plus grands succès : La Main au collet et La Mort aux trousses.",
+    "source": "D'après Wikipédia — Cary Grant"
+  },
+  {
+    "id": "q-cinema-180",
+    "domain": "cinema",
+    "format": "difference",
+    "question": "Quelle est la différence entre Ingrid Bergman et Ingmar Bergman ?",
+    "choix": [
+      "Ingrid est une actrice, Ingmar un réalisateur, et ils n'ont aucun lien de parenté",
+      "Ingrid est la fille du réalisateur Ingmar Bergman",
+      "Ingrid est la sœur d'Ingmar, réalisateur comme elle",
+      "Ingmar est le nom de scène d'Ingrid en Suède"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les deux Suédois portent le même nom sans être de la même famille. Leur première rencontre artistique a lieu dans Sonate d'automne (1978), où Ingmar Bergman dirige Ingrid Bergman.",
+    "source": "D'après Wikipédia — Ingrid Bergman"
+  },
+  {
+    "id": "q-cinema-181",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel rôle de 1990 vaut à Gérard Depardieu le prix d'interprétation à Cannes et une nomination à l'Oscar ?",
+    "choix": [
+      "Cyrano de Bergerac",
+      "Danton",
+      "Jean de Florette",
+      "Green Card"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans Cyrano de Bergerac, Depardieu campe le poète au grand nez. Le rôle lui vaut aussi son deuxième César. Il part ensuite aux États-Unis avec Green Card, qui lui rapporte un Golden Globe.",
+    "source": "D'après Wikipédia — Gérard Depardieu"
+  },
+  {
+    "id": "q-cinema-182",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Qui a peint les tableaux montrés dans le film Les Amants du Pont-Neuf ?",
+    "choix": [
+      "Juliette Binoche, l'actrice principale",
+      "Le réalisateur Leos Carax",
+      "Denis Lavant, son partenaire",
+      "Un peintre invité du tournage"
+    ],
+    "bonneReponse": 0,
+    "explication": "Juliette Binoche a peint elle-même les toiles du film, et dessiné son affiche, une encre de deux amants enlacés. Le tournage, très difficile, a pris trois ans de retard et a nécessité trois producteurs.",
+    "source": "D'après Wikipédia — Juliette Binoche"
+  },
+  {
+    "id": "q-cinema-183",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Qu'a de particulier l'Oscar remporté par Marion Cotillard en 2008 pour La Môme ?",
+    "choix": [
+      "Première Française récompensée pour un film tourné en français",
+      "Premier Oscar remis pour un film d'animation français",
+      "Premier Oscar obtenu pour seulement huit minutes à l'écran",
+      "Premier Oscar remis à une actrice de moins de 25 ans"
+    ],
+    "bonneReponse": 0,
+    "explication": "Marion Cotillard est la première Française à recevoir l'Oscar de la meilleure actrice pour un rôle tourné en français. Elle y incarne Édith Piaf, après avoir été choisie par le réalisateur Olivier Dahan contre l'avis des producteurs.",
+    "source": "D'après Wikipédia — Marion Cotillard"
+  },
+  {
+    "id": "q-cinema-184",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Avec quel partenaire Omar Sy forme-t-il le duo comique Omar et Fred ?",
+    "choix": [
+      "Fred Testot",
+      "Jamel Debbouze",
+      "Kad Merad",
+      "Éric Judor"
+    ],
+    "bonneReponse": 0,
+    "explication": "Omar Sy rencontre Fred Testot à Radio Nova, où Jamel Debbouze l'a fait entrer. Le duo anime ensuite des sketches sur Canal+, dont Service après-vente des émissions, avant la carrière cinéma d'Omar Sy.",
+    "source": "D'après Wikipédia — Omar Sy"
+  },
+  {
+    "id": "q-cinema-185",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Jeanne Moreau a été deux fois présidente du jury à Cannes, une première fois en 1975.",
+    "reponse": true,
+    "explication": "Elle a présidé le jury en 1975, puis de nouveau en 1995, et a aussi animé plusieurs cérémonies. Elle est entrée à l'Académie des beaux-arts en 2000, où aucune femme n'avait été élue avant elle.",
+    "source": "D'après Wikipédia — Jeanne Moreau"
+  },
+  {
+    "id": "q-cinema-186",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "En 1954, Claude Chabrol et François Truffaut, intimidés de rencontrer Alfred Hitchcock sur un tournage, ont marché dans un bassin d'eau.",
+    "reponse": true,
+    "explication": "Vrai. Les deux jeunes critiques interviewent Hitchcock sur le tournage de La Main au collet et, éblouis, marchent dans un bassin. Des années plus tard, Hitchcock dira à Truffaut qu'il pensait à eux en voyant des glaçons dans un verre de whisky.",
+    "source": "D'après Wikipédia — Claude Chabrol"
+  },
+  {
+    "id": "q-cinema-187",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Comment s'appelle le cycle de films de Rohmer où un homme, engagé auprès d'une femme, est tenté par une autre avant de revenir à la première ?",
+    "choix": [
+      "Les Contes moraux",
+      "Les Comédies et proverbes",
+      "Les Contes des quatre saisons",
+      "Les Chroniques parisiennes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les Contes moraux (1963-1972) racontent six fois la même histoire, comme six variations sur un thème. Pour Rohmer, le mot « moral » est à prendre au sens littéraire : l'étude des caractères et des états d'esprit des personnages.",
+    "source": "D'après Wikipédia — Éric Rohmer"
+  },
+  {
+    "id": "q-cinema-188",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Comment Robert Bresson appelle-t-il les acteurs non professionnels qui jouent dans ses films ?",
+    "choix": [
+      "Des modèles",
+      "Des figurants",
+      "Des témoins",
+      "Des interprètes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après Journal d'un curé de campagne (1951), Bresson ne tourne plus qu'avec des non-professionnels. Ces « modèles » n'ont jamais fait ni théâtre ni cinéma, et répètent de nombreuses prises pour effacer toute impression de jeu.",
+    "source": "D'après Wikipédia — Robert Bresson"
+  },
+  {
+    "id": "q-cinema-189",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel personnage de Lola réapparaît dans Les Parapluies de Cherbourg, illustrant l'habitude de Jacques Demy de faire passer ses personnages d'un film à l'autre ?",
+    "choix": [
+      "Roland Cassard",
+      "Michel",
+      "Guy",
+      "Jackie Demaistre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Roland Cassard, joué par Marc Michel, évoque son ancien amour pour Lola dans Les Parapluies de Cherbourg, puis y épouse un des personnages. Demy aime ces clins d'œil : son univers forme un grand monde où les films se répondent.",
+    "source": "D'après Wikipédia — Jacques Demy"
+  },
+  {
+    "id": "q-cinema-190",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film de Clouzot a reçu à la fois l'Ours d'or à Berlin et la plus haute récompense de Cannes, alors appelée grand prix, en 1953 ?",
+    "choix": [
+      "Le Salaire de la peur",
+      "Les Diaboliques",
+      "Quai des Orfèvres",
+      "Le Corbeau"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Salaire de la peur remporte les deux récompenses suprêmes la même année, un doublé devenu impossible depuis. Avec le Lion d'or de Manon, Clouzot rejoint les rares cinéastes couronnés dans les trois grands festivals.",
+    "source": "D'après Wikipédia — Henri-Georges Clouzot"
+  },
+  {
+    "id": "q-cinema-191",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Où Claude Lelouch a-t-il imaginé le début du scénario d'Un homme et une femme, en apercevant, au petit matin, une femme avec son enfant sur la grève ?",
+    "choix": [
+      "À Deauville",
+      "À Biarritz",
+      "À Cannes",
+      "À Saint-Malo"
+    ],
+    "bonneReponse": 0,
+    "explication": "Déprimé car son film précédent ne sortirait jamais, Lelouch part pour Deauville. À l'aube, il croise une jeune femme et son enfant et se demande ce qu'elle fait là : le scénario naît. Le film obtient la Palme d'or en 1966.",
+    "source": "D'après Wikipédia — Claude Lelouch"
+  },
+  {
+    "id": "q-cinema-192",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Dans quelle langue De Niro joue-t-il presque tous ses dialogues, en jeune Vito Corleone, dans Le Parrain, 2e partie ?",
+    "choix": [
+      "En sicilien",
+      "En anglais",
+      "En napolitain",
+      "En français"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour incarner Vito Corleone jeune, De Niro parle surtout sicilien : il ne prononce que huit mots en anglais. Il reprend le rôle tenu par Marlon Brando dans Le Parrain et remporte l'Oscar du meilleur second rôle masculin.",
+    "source": "D'après Wikipédia — Robert De Niro"
+  },
+  {
+    "id": "q-cinema-193",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Pourquoi Heat (1995) est-il considéré comme la première vraie rencontre à l'écran entre Al Pacino et Robert De Niro ?",
+    "choix": [
+      "Leurs personnages du Parrain, 2e partie vivaient à des époques différentes, sans scène commune",
+      "Ils n'avaient jamais tourné dans le même film auparavant",
+      "Ils s'étaient croisés seulement dans des courts métrages",
+      "Dans Le Parrain, 2e partie, l'un des deux n'apparaissait que dans un caméo"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans Le Parrain, 2e partie, Pacino joue Michael et De Niro le jeune Vito : leurs personnages évoluent à des époques différentes. Heat, de Michael Mann, les réunit enfin : un braqueur (De Niro) face à un policier tenace (Pacino).",
+    "source": "D'après Wikipédia — Al Pacino"
+  },
+  {
+    "id": "q-cinema-194",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Jack Nicholson a refusé le rôle de Michael Corleone dans Le Parrain parce que, selon lui, les rôles d'Italiens devaient revenir à des acteurs italiens.",
+    "reponse": true,
+    "explication": "Vrai. En 1972, Nicholson pressent le succès du film mais décline : il estime que ces personnages doivent être incarnés par des comédiens d'origine italienne. Le rôle revient finalement à Al Pacino, presque inconnu à l'époque.",
+    "source": "D'après Wikipédia — Jack Nicholson"
+  },
+  {
+    "id": "q-cinema-195",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Pour quel film Dustin Hoffman remporte-t-il son premier Oscar du meilleur acteur ?",
+    "choix": [
+      "Kramer contre Kramer",
+      "Le Lauréat",
+      "Tootsie",
+      "Macadam Cowboy"
+    ],
+    "bonneReponse": 0,
+    "explication": "Kramer contre Kramer (1979) lui vaut son premier Oscar du meilleur acteur. Il avait déjà été nommé pour Le Lauréat et Macadam Cowboy, et sera de nouveau couronné pour Rain Man, en 1988.",
+    "source": "D'après Wikipédia — Dustin Hoffman"
+  },
+  {
+    "id": "q-cinema-196",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Combien de temps Anthony Hopkins apparaît-il à l'écran dans Le Silence des agneaux, un film de deux heures pour lequel il reçoit pourtant l'Oscar du meilleur acteur ?",
+    "choix": [
+      "Environ seize minutes",
+      "Environ trente minutes",
+      "Environ quarante-cinq minutes",
+      "Environ une heure"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hannibal Lecter n'occupe qu'environ seize minutes du film, mais l'interprétation de Hopkins lui vaut l'Oscar du meilleur acteur. Le film, de Jonathan Demme, remporte les cinq Oscars majeurs en 1992.",
+    "source": "D'après Wikipédia — Anthony Hopkins"
+  },
+  {
+    "id": "q-cinema-197",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle performance a ébloui Daniel Day-Lewis et l'a poussé à s'inscrire au Bristol Old Vic, alors qu'il rêvait de devenir ébéniste ?",
+    "choix": [
+      "Celle de Robert De Niro dans Taxi Driver",
+      "Celle de Marlon Brando dans Le Parrain",
+      "Celle d'Al Pacino dans Serpico",
+      "Celle de Jack Nicholson dans Shining"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après un refus comme apprenti ébéniste, Day-Lewis est ébloui par De Niro dans Taxi Driver (1976). Il s'inscrit alors aux cours de théâtre du Bristol Old Vic, qu'il fréquente trois années durant.",
+    "source": "D'après Wikipédia — Daniel Day-Lewis"
+  },
+  {
+    "id": "q-cinema-198",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Denzel Washington est, après Sidney Poitier, le deuxième acteur afro-américain à avoir remporté l'Oscar du meilleur acteur.",
+    "reponse": true,
+    "explication": "Vrai. Il est récompensé comme meilleur acteur pour le policier véreux de Training Day (2001), après Sidney Poitier. Il avait déjà remporté celui du meilleur second rôle pour Glory (1989).",
+    "source": "D'après Wikipédia — Denzel Washington"
+  },
+  {
+    "id": "q-cinema-199",
+    "domain": "cinema",
+    "format": "associer",
+    "question": "Associe chaque film de Morgan Freeman au personnage qu'il y joue.",
+    "paires": [
+      {
+        "gauche": "Les Évadés",
+        "droite": "Ellis Boyd « Red » Redding",
+        "explication": "Il est aussi le narrateur du film, dont il prête sa voix dans la version originale."
+      },
+      {
+        "gauche": "Million Dollar Baby",
+        "droite": "Eddie « Scrap-Iron » Dupris, ancien boxeur",
+        "explication": "Ce rôle, dans un film de Clint Eastwood, lui vaut l'Oscar du meilleur second rôle."
+      },
+      {
+        "gauche": "Invictus",
+        "droite": "Nelson Mandela",
+        "explication": "Il avait rencontré Mandela à plusieurs reprises avant de l'incarner à l'écran."
+      },
+      {
+        "gauche": "Batman Begins",
+        "droite": "Lucius Fox",
+        "explication": "Il retrouve ce personnage dans les deux autres films de la trilogie de Christopher Nolan."
+      },
+      {
+        "gauche": "Bruce tout-puissant",
+        "droite": "Dieu",
+        "explication": "Il reprend le même rôle quatre ans plus tard dans Evan tout-puissant."
+      }
+    ],
+    "explication": "Morgan Freeman a joué des rôles très variés : un prisonnier, un ancien boxeur, un chef d'État, le conseiller de Batman et même Dieu. Son Oscar vient de son rôle dans Million Dollar Baby.",
+    "source": "D'après Wikipédia — Morgan Freeman"
+  },
+  {
+    "id": "q-cinema-200",
+    "domain": "cinema",
+    "format": "frise",
+    "question": "Remets ces films d'Harrison Ford dans l'ordre de sortie.",
+    "evenements": [
+      {
+        "label": "American Graffiti",
+        "annee": "1973"
+      },
+      {
+        "label": "Star Wars, épisode IV : Un nouvel espoir",
+        "annee": "1977"
+      },
+      {
+        "label": "Blade Runner",
+        "annee": "1982"
+      },
+      {
+        "label": "Witness",
+        "annee": "1985"
+      },
+      {
+        "label": "Le Fugitif",
+        "annee": "1993"
+      }
+    ],
+    "explication": "American Graffiti (1973) lance Ford, Star Wars (1977) le rend célèbre, puis viennent Blade Runner (1982), Witness (1985), qui lui vaut sa seule nomination à l'Oscar, et Le Fugitif (1993).",
+    "source": "D'après Wikipédia — Harrison Ford"
+  },
+  {
+    "id": "q-cinema-201",
+    "domain": "cinema",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Édimbourg en 1930, dans un milieu très modeste.",
+      "J'ai été livreur de lait, matelot dans la Royal Navy, puis modèle pour des étudiants en art.",
+      "Un entraîneur de Manchester United m'a proposé un contrat, mais j'ai préféré devenir acteur.",
+      "Je suis le premier acteur à avoir incarné James Bond au cinéma.",
+      "En 2000, la reine Élisabeth II m'a fait chevalier."
+    ],
+    "reponse": "Sean Connery",
+    "explication": "Sean Connery est le premier James Bond au cinéma, dans sept films entre 1962 et 1983. Avant la gloire, il fut livreur de lait, marin et modèle. Il a reçu l'Oscar du meilleur second rôle pour Les Incorruptibles.",
+    "source": "D'après Wikipédia — Sean Connery"
+  },
+  {
+    "id": "q-cinema-202",
+    "domain": "cinema",
+    "format": "difference",
+    "question": "Quelle est la différence entre Opération Tonnerre (1965) et Jamais plus jamais (1983), les deux films avec Sean Connery en James Bond ?",
+    "choix": [
+      "Jamais plus jamais est une nouvelle version non officielle d'Opération Tonnerre, produite hors de la société EON",
+      "Jamais plus jamais est la suite directe d'Opération Tonnerre, produite par EON",
+      "Opération Tonnerre est une nouvelle version de Jamais plus jamais, tournée vingt ans plus tard",
+      "Les deux films sont identiques ; seul le titre change selon les pays"
+    ],
+    "bonneReponse": 0,
+    "explication": "Opération Tonnerre est l'un des six films officiels d'EON Productions. Jamais plus jamais, produit par Warner Bros., en est un remake non officiel. Son titre vient d'une phrase de Connery, qui disait qu'il ne rejouerait plus jamais Bond.",
+    "source": "D'après Wikipédia — Sean Connery"
+  },
+  {
+    "id": "q-cinema-203",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle place Paul Newman obtient-il aux 24 Heures du Mans 1979, à l'âge de 54 ans ?",
+    "choix": [
+      "La deuxième",
+      "La première",
+      "La cinquième",
+      "La dixième"
+    ],
+    "bonneReponse": 0,
+    "explication": "Passionné de course depuis le tournage de Virages (1968), Newman termine deuxième des 24 Heures du Mans 1979 avec deux coéquipiers, Rolf Stommelen et Dick Barbour, à bord d'une Porsche 935. Il gagnera sa catégorie à Daytona en 1995.",
+    "source": "D'après Wikipédia — Paul Newman"
+  },
+  {
+    "id": "q-cinema-204",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Dans La Mort aux trousses, quel est le nom de l'agent inventé que l'on prend Roger Thornhill pour ?",
+    "choix": [
+      "George Kaplan",
+      "Phillip Vandamm",
+      "Lester Townsend",
+      "Eldon Tyrell"
+    ],
+    "bonneReponse": 0,
+    "explication": "Thornhill est pris pour George Kaplan, un agent qui n'existe pas : les services secrets l'ont inventé comme leurre. Hitchcock tenait l'idée d'un journaliste américain, qui a vendu cette piste 10 000 dollars.",
+    "source": "D'après Wikipédia — La Mort aux trousses"
+  },
+  {
+    "id": "q-cinema-205",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Dans Fenêtre sur cour, la caméra reste presque toujours dans l'appartement du héros et montre surtout ce qu'il voit depuis sa fenêtre.",
+    "reponse": true,
+    "explication": "Le film est tourné presque entièrement depuis une seule pièce. Un homme regarde, on montre ce qu'il voit, puis sa réaction : ce principe simple fait du spectateur un complice du regard du photographe.",
+    "source": "D'après Wikipédia — Fenêtre sur cour"
+  },
+  {
+    "id": "q-cinema-206",
+    "domain": "cinema",
+    "format": "associer",
+    "question": "Associe chaque film à son compositeur.",
+    "paires": [
+      {
+        "gauche": "La Mort aux trousses",
+        "droite": "Bernard Herrmann",
+        "explication": "Herrmann a aussi composé pour Hitchcock la musique d'autres films, et celle de Taxi Driver."
+      },
+      {
+        "gauche": "Le Bon, la Brute et le Truand",
+        "droite": "Ennio Morricone",
+        "explication": "Sa musique accompagne chacun des trois personnages du film de Sergio Leone."
+      },
+      {
+        "gauche": "Blade Runner",
+        "droite": "Vangelis",
+        "explication": "Sa partition électronique est nommée en 1982 aux BAFTA et aux Golden Globes."
+      },
+      {
+        "gauche": "Les Aventuriers de l'arche perdue",
+        "droite": "John Williams",
+        "explication": "Il signe la musique de ce film, comme celle de nombreux films de Spielberg."
+      },
+      {
+        "gauche": "Alien, le huitième passager",
+        "droite": "Jerry Goldsmith",
+        "explication": "Le compositeur américain a écrit la partition du film de Ridley Scott."
+      }
+    ],
+    "explication": "Cinq grands compositeurs de cinéma : Herrmann pour Hitchcock, Morricone pour Leone, Vangelis pour Ridley Scott à l'époque de Blade Runner, Williams pour Spielberg et Goldsmith pour Alien.",
+    "source": "D'après Wikipédia — Blade Runner (film)"
+  },
+  {
+    "id": "q-cinema-207",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Combien de rôles Peter Sellers joue-t-il finalement dans Docteur Folamour ?",
+    "choix": [
+      "Trois",
+      "Deux",
+      "Quatre",
+      "Cinq"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sellers joue le président américain, un officier britannique et le Docteur Folamour. Columbia exigeait au moins quatre rôles, mais il n'a pas pu incarner le pilote : il s'est foulé la cheville pendant le tournage dans la maquette de l'avion.",
+    "source": "D'après Wikipédia — Docteur Folamour"
+  },
+  {
+    "id": "q-cinema-208",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Pour 2001, l'Odyssée de l'espace, Stanley Kubrick a commandé une musique originale à un compositeur de cinéma.",
+    "reponse": false,
+    "explication": "Kubrick a préféré des œuvres classiques existantes : Ainsi parlait Zarathoustra de Richard Strauss, Le Beau Danube bleu de Johann Strauss et des pièces de Ligeti. Il refusait la règle d'une musique originale pour un grand film.",
+    "source": "D'après Wikipédia — 2001, l'Odyssée de l'espace"
+  },
+  {
+    "id": "q-cinema-209",
+    "domain": "cinema",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis une intelligence artificielle de bord.",
+      "Je pilote la plupart des opérations du vaisseau Discovery One.",
+      "Dans la version française d'origine, on m'appelait CARL 500.",
+      "Les astronautes décident de me déconnecter, mais je lis sur leurs lèvres.",
+      "Mon nom est HAL, suivi de 9000."
+    ],
+    "reponse": "HAL 9000",
+    "explication": "HAL 9000 est l'ordinateur de bord de 2001, l'Odyssée de l'espace. Il lit sur les lèvres des astronautes qui veulent le débrancher. En français, il s'appelait d'abord CARL 500, un sigle dont le L signifie « Liaison ».",
+    "source": "D'après Wikipédia — 2001, l'Odyssée de l'espace"
+  },
+  {
+    "id": "q-cinema-210",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Comment s'appelle le cimetière où se joue le duel final du Bon, la Brute et le Truand ?",
+    "choix": [
+      "Sad Hill",
+      "Boot Hill",
+      "Dead Man's Gulch",
+      "Sweetwater"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le cimetière de Sad Hill a été construit pour le film près de Santo Domingo de Silos, en Espagne. C'est là que Blondin, Tuco et Sentenza se retrouvent autour de la tombe qui cache les 200 000 dollars.",
+    "source": "D'après Wikipédia — Le Bon, la Brute et le Truand"
+  },
+  {
+    "id": "q-cinema-211",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quels deux jeunes cinéastes aident Sergio Leone à imaginer l'histoire d'Il était une fois dans l'Ouest ?",
+    "choix": [
+      "Bernardo Bertolucci et Dario Argento",
+      "Federico Fellini et Luchino Visconti",
+      "Pier Paolo Pasolini et Francesco Rosi",
+      "Michelangelo Antonioni et Mario Bava"
+    ],
+    "bonneReponse": 0,
+    "explication": "Bertolucci et Argento ont passé des mois chez Leone à revoir des westerns classiques. Le récit est presque entièrement bâti sur des références à ces films, que Leone transforme avec sa lenteur et sa musique.",
+    "source": "D'après Wikipédia — Il était une fois dans l'Ouest"
+  },
+  {
+    "id": "q-cinema-212",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Prévu pour durer cinq mois, le tournage d'Apocalypse Now aux Philippines a finalement duré plus d'un an.",
+    "reponse": true,
+    "explication": "Commencé en mars 1976, le tournage s'est achevé en mai 1977, après 427 jours. Typhon, retards et problèmes de casting ont fait passer le budget de 16 à 31 millions de dollars, et Coppola a engagé sa fortune.",
+    "source": "D'après Wikipédia — Apocalypse Now"
+  },
+  {
+    "id": "q-cinema-213",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film français, avec Alain Delon, a inspiré à Martin Scorsese le personnage de Travis Bickle dans Taxi Driver ?",
+    "choix": [
+      "Le Samouraï",
+      "Plein Soleil",
+      "Borsalino",
+      "Le Cercle rouge"
+    ],
+    "bonneReponse": 0,
+    "explication": "Scorsese a cité le tueur solitaire Jef Costello, joué par Alain Delon dans Le Samouraï, comme source d'inspiration pour Travis Bickle. Le rôle a même été proposé à Delon, comme à de nombreux autres acteurs.",
+    "source": "D'après Wikipédia — Taxi Driver"
+  },
+  {
+    "id": "q-cinema-214",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel artiste suisse a imaginé la créature et les décors extraterrestres d'Alien ?",
+    "choix": [
+      "H. R. Giger",
+      "Hans Hartung",
+      "Alberto Giacometti",
+      "Jean Tinguely"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le plasticien suisse H. R. Giger a conçu la créature et les environnements du film. Son univers a marqué le cinéma de science-fiction, et le film a remporté l'Oscar des meilleurs effets visuels.",
+    "source": "D'après Wikipédia — Alien (film)"
+  },
+  {
+    "id": "q-cinema-215",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Qui a suggéré au scénariste David Webb Peoples le mot « réplicant » pour Blade Runner ?",
+    "choix": [
+      "Sa fille, étudiante en microbiologie",
+      "Philip K. Dick, l'auteur du roman",
+      "Ridley Scott, le réalisateur",
+      "Hampton Fancher, le premier scénariste"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans le roman de Dick, on parle d'androïdes. Ridley Scott voulait un autre mot, et la fille de Peoples a proposé le verbe « répliquer », qui décrit la copie des cellules. Le terme est entré dans le scénario.",
+    "source": "D'après Wikipédia — Blade Runner (film)"
+  },
+  {
+    "id": "q-cinema-216",
+    "domain": "cinema",
+    "format": "difference",
+    "question": "Dans Terminator 2, quelle est la différence entre le T-800 et le T-1000 ?",
+    "choix": [
+      "Le T-800 a un squelette métallique recouvert de tissu vivant, le T-1000 est en métal liquide",
+      "Le T-800 est un robot liquide, le T-1000 un humain amélioré",
+      "Le T-800 vient du passé, le T-1000 vient d'un autre univers",
+      "Le T-800 est un modèle plus récent et plus avancé que le T-1000"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le T-800 est un endosquelette métallique recouvert de tissu vivant. Le T-1000, plus avancé, est en métal liquide et change de forme. Il repose sur des effets numériques d'Industrial Light & Magic.",
+    "source": "D'après Wikipédia — Terminator 2 : Le Jugement dernier"
+  },
+  {
+    "id": "q-cinema-217",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "D'où vient le nom d'Indiana Jones ?",
+    "choix": [
+      "Du chien de George Lucas",
+      "D'un oncle de Steven Spielberg",
+      "De l'État américain où Lucas est né",
+      "D'un personnage de western des années 1950"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le héros s'appelait d'abord Indiana Smith. Son nom vient du chien de George Lucas, un malamute d'Alaska. Spielberg a conseillé de passer à Jones car Smith ressemblait trop au titre du film Nevada Smith.",
+    "source": "D'après Wikipédia — Les Aventuriers de l'arche perdue"
+  },
+  {
+    "id": "q-cinema-218",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Qu'a exigé Sylvester Stallone avant d'accepter de vendre le scénario de Rocky ?",
+    "choix": [
+      "Jouer lui-même le rôle de Rocky",
+      "Réaliser le film lui-même",
+      "Choisir la chanson du film",
+      "Recevoir une part des recettes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les producteurs rêvaient d'une star comme Robert Redford, mais Stallone a refusé de vendre son scénario sans jouer Rocky. Il disait plus tard qu'il aurait eu d'éternels regrets si un autre avait connu ce succès à sa place.",
+    "source": "D'après Wikipédia — Rocky (film)"
+  },
+  {
+    "id": "q-cinema-219",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle nouveauté technique Stanley Kubrick utilise-t-il dans Shining pour filmer des plans fluides dans les couloirs ?",
+    "choix": [
+      "La Steadicam",
+      "Le drone",
+      "La caméra sous-marine",
+      "Les images de synthèse"
+    ],
+    "bonneReponse": 0,
+    "explication": "Kubrick a utilisé la Steadicam, alors toute nouvelle, qui permet de filmer en mouvement avec fluidité. Il tournait aussi de nombreuses prises, parfois jusqu'à l'épuisement des acteurs et de l'équipe.",
+    "source": "D'après Wikipédia — Shining (film)"
+  },
+  {
+    "id": "q-cinema-220",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Pourquoi Steven Spielberg n'a-t-il touché aucun salaire pour La Liste de Schindler ?",
+    "choix": [
+      "Il y voyait de l'« argent du sang »",
+      "Il voulait financer lui-même tout le film",
+      "Le studio refusait de le payer",
+      "Il reversait son salaire à une association de cinéma"
+    ],
+    "bonneReponse": 0,
+    "explication": "Spielberg a refusé tout salaire : pour lui, un revenu tiré de ce film aurait été de l'« argent du sang ». Il a longtemps hésité à le réaliser et a d'abord proposé le projet à Polanski, puis à Scorsese.",
+    "source": "D'après Wikipédia — La Liste de Schindler"
+  },
+  {
+    "id": "q-cinema-221",
+    "domain": "cinema",
+    "format": "frise",
+    "question": "Remets ces films dans l'ordre de sortie.",
+    "evenements": [
+      {
+        "label": "Alien, le huitième passager",
+        "annee": "1979"
+      },
+      {
+        "label": "Shining",
+        "annee": "1980"
+      },
+      {
+        "label": "Les Aventuriers de l'arche perdue",
+        "annee": "1981"
+      },
+      {
+        "label": "Blade Runner",
+        "annee": "1982"
+      },
+      {
+        "label": "Terminator 2 : Le Jugement dernier",
+        "annee": "1991"
+      }
+    ],
+    "explication": "Quatre films cultes se suivent en quatre ans, de 1979 à 1982, avec Alien, Shining, Les Aventuriers de l'arche perdue et Blade Runner. Terminator 2 arrive neuf ans plus tard, en 1991.",
+    "source": "D'après Wikipédia — Alien (film)"
+  },
+  {
+    "id": "q-cinema-222",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "D'où vient le nom de scène « Bourvil » ?",
+    "choix": [
+      "Du village normand de son enfance, Bourville",
+      "D'une boulangerie de Rouen où il a travaillé",
+      "Du nom d'un personnage de music-hall qu'il admirait",
+      "De la ferme familiale de son beau-père"
+    ],
+    "bonneReponse": 0,
+    "explication": "André Raimbourg devient Bourvil en 1942, en référence au village de son enfance, Bourville. Ce nom lui évite aussi d'être confondu avec son cousin éloigné Lucien Raimbourg, déjà acteur. Avant, il se faisait appeler Andrel, clin d'œil à Fernandel.",
+    "source": "D'après Wikipédia — Bourvil"
+  },
+  {
+    "id": "q-cinema-223",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Que désigne le « paradis » dans le titre Les Enfants du paradis ?",
+    "choix": [
+      "Les places les moins chères, tout en haut du théâtre",
+      "La loge réservée aux nobles et aux invités d'honneur",
+      "Le décor peint représentant le ciel sur scène",
+      "Le surnom du boulevard où se trouvent les théâtres"
+    ],
+    "bonneReponse": 0,
+    "explication": "En argot de théâtre, le « paradis » (ou poulailler) est l'étage le plus haut, aux places les moins chères. Prévert voulait rendre hommage à ce public populaire, enthousiaste, qui réagit à haute voix. Le boulevard, lui, était surnommé le « boulevard du Crime ».",
+    "source": "D'après Wikipédia — Les Enfants du paradis"
+  },
+  {
+    "id": "q-cinema-224",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel groupe a composé la nouvelle musique accompagnant la version coloriée restaurée du Voyage dans la Lune, présentée à Cannes en 2011 ?",
+    "choix": [
+      "Air",
+      "Daft Punk",
+      "Phoenix",
+      "Justice"
+    ],
+    "bonneReponse": 0,
+    "explication": "La version coloriée à la main, retrouvée à Barcelone en 1993, a été restaurée image par image. Elle a ouvert l'édition 2011 du festival de Cannes, avec une bande originale créée par le groupe français Air.",
+    "source": "D'après Wikipédia — Le Voyage dans la Lune"
+  },
+  {
+    "id": "q-cinema-225",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Que signifie en allemand le nom de Max Schreck, l'acteur qui joue le comte Orlock dans Nosferatu ?",
+    "choix": [
+      "Peur",
+      "Ombre",
+      "Nuit",
+      "Sang"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Schreck » veut dire « peur » en allemand. Son interprétation du vampire, grand, anguleux, aux gestes lents, a tellement marqué que certains ont prétendu qu'il était un vrai vampire. Une simple légende, née de cette coïncidence de nom et de ce rôle.",
+    "source": "D'après Wikipédia — Nosferatu le vampire"
+  },
+  {
+    "id": "q-cinema-226",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Dans M le maudit, qui siffle réellement la mélodie de Grieg que l'on entend à l'écran ?",
+    "choix": [
+      "Fritz Lang lui-même",
+      "Peter Lorre, l'acteur du meurtrier",
+      "Le compositeur de la musique du film",
+      "L'acteur qui joue le chef de la pègre"
+    ],
+    "bonneReponse": 0,
+    "explication": "On croit entendre Peter Lorre, mais c'est le réalisateur Fritz Lang qui siffle cet air d'Edvard Grieg. Cette mélodie, tirée de Peer Gynt, sert de leitmotiv : dès qu'on l'entend, on sait que le meurtrier est proche.",
+    "source": "D'après Wikipédia — M le maudit"
+  },
+  {
+    "id": "q-cinema-227",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel objet de la scène de l'escalier d'Odessa, dans Le Cuirassé Potemkine, Brian De Palma a-t-il repris dans Les Incorruptibles ?",
+    "choix": [
+      "Un landau qui dévale les marches",
+      "Un piano qui glisse le long de l'escalier",
+      "Un cheval lancé au galop",
+      "Un drapeau rouge brandi par la foule"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le landau échappant à sa mère et dévalant l'escalier est l'image la plus imitée du film d'Eisenstein. De Palma la reprend au ralenti dans une gare, et Terry Gilliam la détourne dans Brazil avec un aspirateur. La scène dure environ six minutes.",
+    "source": "D'après Wikipédia — Le Cuirassé Potemkine"
+  },
+  {
+    "id": "q-cinema-228",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle chanson célèbre est née du thème musical composé par Chaplin pour Les Temps modernes ?",
+    "choix": [
+      "Smile",
+      "Over the Rainbow",
+      "Singin' in the Rain",
+      "Moon River"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le thème romantique des Temps modernes reçoit des paroles en 1954 et devient la chanson Smile, d'abord enregistrée par Nat King Cole. Depuis, elle a été reprise par des dizaines d'artistes et est devenue un grand standard de la chanson.",
+    "source": "D'après Wikipédia — Les Temps modernes (film)"
+  },
+  {
+    "id": "q-cinema-229",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Qu'arrive-t-il au négatif original de La Règle du jeu, tel que présenté à la première de 1939 ?",
+    "choix": [
+      "Il est détruit lors d'un bombardement allié, en 1942",
+      "Il est saisi et brûlé par les autorités en 1940",
+      "Il disparaît dans un incendie de la Cinémathèque",
+      "Il est vendu à un studio américain et jamais retrouvé"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le film tel qu'il fut montré en juillet 1939 est définitivement perdu : son négatif original a été détruit par un bombardement allié en 1942. La version que l'on voit aujourd'hui a été remontée à la fin des années 1950, à partir des éléments retrouvés.",
+    "source": "D'après Wikipédia — La Règle du jeu"
+  },
+  {
+    "id": "q-cinema-230",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel instrument joue Anton Karas dans la célèbre musique du Troisième Homme ?",
+    "choix": [
+      "La cithare",
+      "L'accordéon",
+      "Le violon",
+      "L'harmonica"
+    ],
+    "bonneReponse": 0,
+    "explication": "Carol Reed repère Anton Karas dans un restaurant viennois, près de la grande roue du Prater. Sa cithare donne au film un son unique, et son Thème de Harry Lime reste onze semaines en tête des ventes de disques américaines en 1950.",
+    "source": "D'après Wikipédia — Le Troisième Homme (film)"
+  },
+  {
+    "id": "q-cinema-231",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel effet technique Hitchcock invente-t-il pour traduire le vertige dans Sueurs froides ?",
+    "choix": [
+      "Un travelling arrière combiné à un zoom avant",
+      "Un ralenti associé à une image floue",
+      "Une caméra tournant à toute vitesse autour de l'acteur",
+      "Un long plan-séquence filmé à l'épaule"
+    ],
+    "bonneReponse": 0,
+    "explication": "La caméra recule pendant que l'objectif zoome en avant : le décor semble s'étirer et se déformer. Utilisé pour la première fois dans un film, ce procédé est resté connu sous le nom d'effet Vertigo, repris ensuite par de nombreux cinéastes.",
+    "source": "D'après Wikipédia — Sueurs froides"
+  },
+  {
+    "id": "q-cinema-232",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Jean Dujardin a reçu le César du meilleur acteur pour The Artist, la même année que son Oscar.",
+    "reponse": false,
+    "explication": "Faux : à Paris, c'est Omar Sy, pour Intouchables, qui l'emporte. Dujardin reçoit en revanche l'Oscar le 26 février 2012, devenant le premier acteur français à le remporter, après le Prix d'interprétation à Cannes et un BAFTA.",
+    "source": "D'après Wikipédia — Jean Dujardin"
+  },
+  {
+    "id": "q-cinema-233",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Metropolis est le premier film à avoir été inscrit au registre Mémoire du monde de l'UNESCO.",
+    "reponse": true,
+    "explication": "Vrai : en 2001, le film de Fritz Lang devient le premier film distingué par ce registre. Amputé après sa sortie en 1927, il a été reconstitué peu à peu ; une copie plus complète a même été retrouvée en Argentine en 2008.",
+    "source": "D'après Wikipédia — Metropolis (film, 1927)"
+  },
+  {
+    "id": "q-cinema-234",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Frank Sinatra a finalement joué le rôle de Terry Malloy dans Sur les quais.",
+    "reponse": false,
+    "explication": "Faux : Sinatra avait donné son accord de principe, mais Elia Kazan voulait Marlon Brando, qui avait d'abord refusé. Après un essai avec Paul Newman et Joanne Woodward, Brando accepte et obtient l'Oscar du meilleur acteur.",
+    "source": "D'après Wikipédia — Sur les quais"
+  },
+  {
+    "id": "q-cinema-235",
+    "domain": "cinema",
+    "format": "associer",
+    "question": "Associe chaque film à son réalisateur.",
+    "paires": [
+      {
+        "gauche": "Metropolis",
+        "droite": "Fritz Lang",
+        "explication": "Film muet de science-fiction allemand, avec sa ville futuriste divisée en deux mondes."
+      },
+      {
+        "gauche": "Le Troisième Homme",
+        "droite": "Carol Reed",
+        "explication": "Film noir tourné dans la Vienne de l'après-guerre, sur un scénario de Graham Greene."
+      },
+      {
+        "gauche": "Voyage à Tokyo",
+        "droite": "Yasujirō Ozu",
+        "explication": "Drame familial japonais, filmé avec une caméra placée très bas et presque immobile."
+      },
+      {
+        "gauche": "Sur les quais",
+        "droite": "Elia Kazan",
+        "explication": "Drame sur la corruption d'un syndicat de dockers, tourné dans les vrais ports américains."
+      },
+      {
+        "gauche": "Les Sept Samouraïs",
+        "droite": "Akira Kurosawa",
+        "explication": "Épopée japonaise de plus de trois heures, sur des paysans défendus par sept guerriers."
+      }
+    ],
+    "explication": "Cinq grands classiques du siècle dernier : l'expressionnisme allemand de Lang, le film noir de Reed, le Japon d'Ozu et de Kurosawa, et le drame social américain de Kazan, tourné sur les docks.",
+    "source": "D'après Wikipédia — Metropolis (film, 1927)"
+  },
+  {
+    "id": "q-cinema-236",
+    "domain": "cinema",
+    "format": "associer",
+    "question": "Associe chaque film à l'un de ses acteurs principaux.",
+    "paires": [
+      {
+        "gauche": "Chantons sous la pluie",
+        "droite": "Gene Kelly",
+        "explication": "Il joue Don Lockwood, star du muet, et co-réalise ce musical de 1952 avec Stanley Donen."
+      },
+      {
+        "gauche": "Sueurs froides",
+        "droite": "James Stewart",
+        "explication": "Il incarne Scottie, ancien policier pris de vertige, qui suit une mystérieuse jeune femme à San Francisco."
+      },
+      {
+        "gauche": "Rashōmon",
+        "droite": "Toshirō Mifune",
+        "explication": "Il joue le brigand Tajōmaru, l'un des quatre témoins du drame, dans le film de Kurosawa de 1950."
+      },
+      {
+        "gauche": "Les Enfants du paradis",
+        "droite": "Arletty",
+        "explication": "Elle est Garance, la femme libre et mystérieuse, aimée par quatre hommes dans le Paris des années 1820."
+      }
+    ],
+    "explication": "Quatre classiques, quatre vedettes : une comédie musicale américaine, un thriller d'Hitchcock, un film japonais de Kurosawa et un chef-d'œuvre français tourné sous l'Occupation, en pleine guerre.",
+    "source": "D'après Wikipédia — Chantons sous la pluie"
+  },
+  {
+    "id": "q-cinema-237",
+    "domain": "cinema",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né en 1917, dans une famille d'agriculteurs normands.",
+      "J'ai été boulanger à Rouen avant de me lancer dans la musique.",
+      "Mon idole s'appelait Fernandel, et j'ai d'abord signé mes premiers numéros sous le nom d'Andrel.",
+      "Je me fais connaître avec la chanson Les Crayons.",
+      "Dans Le Corniaud et La Grande Vadrouille, je fais équipe avec Louis de Funès."
+    ],
+    "reponse": "Bourvil",
+    "explication": "Bourvil, de son vrai nom André Raimbourg, mêle chansons et cinéma, du comique paysan à des rôles dramatiques comme La Traversée de Paris, qui lui vaut le prix d'interprétation à Venise en 1956.",
+    "source": "D'après Wikipédia — Bourvil"
+  },
+  {
+    "id": "q-cinema-238",
+    "domain": "cinema",
+    "format": "frise",
+    "question": "Remets ces films dans l'ordre de leur sortie.",
+    "evenements": [
+      {
+        "label": "Le Voyage dans la Lune",
+        "annee": "1902"
+      },
+      {
+        "label": "Nosferatu le vampire",
+        "annee": "1922"
+      },
+      {
+        "label": "Metropolis",
+        "annee": "1927"
+      },
+      {
+        "label": "M le maudit",
+        "annee": "1931"
+      },
+      {
+        "label": "La Règle du jeu",
+        "annee": "1939"
+      }
+    ],
+    "explication": "De Méliès à Renoir, trente-sept ans de cinéma : l'invention du spectacle fantastique, l'expressionnisme allemand, le premier parlant de Lang, puis une comédie sociale tournée à la veille de la guerre.",
+    "source": "D'après Wikipédia — Le Voyage dans la Lune"
+  },
+  {
+    "id": "q-cinema-239",
+    "domain": "cinema",
+    "format": "difference",
+    "question": "Quelle est la différence entre Les Sept Samouraïs et Les Sept Mercenaires ?",
+    "choix": [
+      "Le premier est un film japonais de Kurosawa (1954), le second un western américain (1960) qui s'en inspire",
+      "Les deux sont le même film, sorti sous deux titres différents selon les pays",
+      "Le premier est un western américain, le second un film de samouraïs japonais",
+      "Le premier est un remake de 1960, le second est l'original de 1954"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les Sept Samouraïs, film japonais d'Akira Kurosawa, se déroule au XVIe siècle. Le western Les Sept Mercenaires, sorti en 1960, en reprend l'histoire : des villageois menacés par des bandits recrutent sept hommes pour les défendre.",
+    "source": "D'après Wikipédia — Les Sept Samouraïs"
+  },
+  {
+    "id": "q-cinema-240",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle place occupe Le Grand Bleu au Festival de Cannes 1988 ?",
+    "choix": [
+      "Il est le film d'ouverture du festival",
+      "Il remporte la Palme d'or",
+      "Il est le film de clôture du festival",
+      "Il reçoit le prix du jury"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le film de Luc Besson ouvre le Festival de Cannes 1988, le jour même de sa sortie en France. La presse le reçoit froidement, mais le public suit : plus de 9 millions de spectateurs français, un record pour un film français des années 1980.",
+    "source": "D'après Wikipédia — Le Grand Bleu"
+  },
+  {
+    "id": "q-cinema-241",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Dans le Vœu de chasteté du Dogme95, les réalisateurs doivent faire composer une musique originale pour leur film.",
+    "reponse": false,
+    "explication": "C'est le contraire : la musique est interdite, sauf si elle est jouée pendant que la scène est filmée. Le son ne doit jamais être produit à part de l'image. Von Trier lui-même a pourtant glissé un air de Saint-Saëns dans Les Idiots.",
+    "source": "D'après Wikipédia — Dogme95"
+  },
+  {
+    "id": "q-cinema-242",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle scène du Cuirassé Potemkine, d'Eisenstein, est restée la plus célèbre ?",
+    "choix": [
+      "Le massacre des manifestants sur les escaliers d'Odessa",
+      "L'assaut du palais d'Hiver",
+      "La mort de Lénine",
+      "La bataille navale de Tsushima"
+    ],
+    "bonneReponse": 0,
+    "explication": "La scène des escaliers d'Odessa, qui met en images un épisode de la révolution de 1905, a prouvé que le cinéma pouvait rivaliser avec les autres arts. Le film, sorti en 1925, a fait la renommée internationale d'Eisenstein.",
+    "source": "D'après Wikipédia — Cinéma soviétique"
+  },
+  {
+    "id": "q-cinema-243",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel cinéaste iranien remporte la Palme d'or à Cannes en 1997 avec Le Goût de la cerise ?",
+    "choix": [
+      "Abbas Kiarostami",
+      "Jafar Panahi",
+      "Dariush Mehrjui",
+      "Bahman Ghobadi"
+    ],
+    "bonneReponse": 0,
+    "explication": "Abbas Kiarostami offre à l'Iran sa première Palme d'or avec Le Goût de la cerise en 1997. Il fait partie de la génération qui, depuis les années 1990, a installé le cinéma iranien dans les grands festivals internationaux.",
+    "source": "D'après Wikipédia — Cinéma iranien"
+  },
+  {
+    "id": "q-cinema-244",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle règle protège le cinéma sud-coréen face aux films américains ?",
+    "choix": [
+      "Un film coréen doit rester à l'affiche des salles pendant au moins 40 % de l'année",
+      "Les films étrangers sont toujours interdits aux moins de 18 ans",
+      "Les films américains doivent être doublés en coréen",
+      "Chaque film étranger doit être produit avec un studio coréen"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un système de quotas impose aux salles de montrer un film coréen pendant au moins 40 % de l'année. Aujourd'hui, la part de marché des films coréens dans leur pays dépasse même les 50 %, ce qui est rare dans le monde.",
+    "source": "D'après Wikipédia — Cinéma sud-coréen"
+  },
+  {
+    "id": "q-cinema-245",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel cinéaste sénégalais est surnommé le « père du cinéma africain » ?",
+    "choix": [
+      "Ousmane Sembène",
+      "Djibril Diop Mambety",
+      "Souleymane Cissé",
+      "Youssef Chahine"
+    ],
+    "bonneReponse": 0,
+    "explication": "D'abord écrivain, Ousmane Sembène s'est tourné vers le cinéma pour toucher un public plus large, souvent dans les langues africaines. Son film La Noire de… (1966) fut le premier long métrage d'Afrique subsaharienne remarqué dans le monde.",
+    "source": "D'après Wikipédia — Cinéma africain"
+  },
+  {
+    "id": "q-cinema-246",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film italien de 1914 présente pour la première fois le héros musclé Maciste ?",
+    "choix": [
+      "Cabiria",
+      "Quo vadis ?",
+      "Intolérance",
+      "La Chute de Troie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans Cabiria, de Giovanni Pastrone, Maciste n'est d'abord que le fidèle compagnon du héros. Joué par Bartolomeo Pagano, il devient si populaire qu'il apparaît dans plus de vingt films muets entre 1915 et 1926.",
+    "source": "D'après Wikipédia — Péplum"
+  },
+  {
+    "id": "q-cinema-247",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film de Fritz Lang, sorti en 1927, introduit au cinéma la ville futuriste, les androïdes et la peur d'un système oppressif ?",
+    "choix": [
+      "Metropolis",
+      "Aelita",
+      "King Kong",
+      "L'Homme invisible"
+    ],
+    "bonneReponse": 0,
+    "explication": "Metropolis apporte au genre une ambiance sombre et une lecture sociale : oppression du système, androïdes, opulence technologique. Son influence sur la science-fiction des décennies suivantes a été considérable.",
+    "source": "D'après Wikipédia — Film de science-fiction"
+  },
+  {
+    "id": "q-cinema-248",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Stanley Kubrick s'est intéressé à la science-fiction notamment en découvrant des films japonais de monstres comme Warning from Space.",
+    "reponse": true,
+    "explication": "Selon son biographe John Baxter, ces films, malgré leurs maquettes maladroites, étaient souvent bien photographiés en couleur. Ils ont éveillé l'intérêt de Kubrick et influencé 2001, l'Odyssée de l'espace, sorti en 1968.",
+    "source": "D'après Wikipédia — Film de science-fiction"
+  },
+  {
+    "id": "q-cinema-249",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel cinéaste a défini l'objectif d'un film de guerre comme « faire ressentir la guerre au spectateur » ?",
+    "choix": [
+      "Samuel Fuller",
+      "François Truffaut",
+      "Stanley Kubrick",
+      "Steven Spielberg"
+    ],
+    "bonneReponse": 0,
+    "explication": "Samuel Fuller, qui a lui-même tourné des films de guerre, juge que le but du genre est de faire sentir la guerre, même dans un récit personnel ou émouvant. Truffaut, lui, doutait qu'un film puisse vraiment être contre la guerre.",
+    "source": "D'après Wikipédia — Film de guerre"
+  },
+  {
+    "id": "q-cinema-250",
+    "domain": "cinema",
+    "format": "difference",
+    "question": "Quelle est la différence entre le « néoréalisme rose » et la comédie à l'italienne ?",
+    "choix": [
+      "Le néoréalisme rose ajoute des fins heureuses à des drames, alors que la comédie à l'italienne mêle rire et satire sociale grinçante",
+      "Le néoréalisme rose est tourné en couleurs et la comédie à l'italienne en noir et blanc",
+      "Le néoréalisme rose parle de la guerre et la comédie à l'italienne de l'Antiquité",
+      "Le néoréalisme rose est réservé aux comédies musicales, la comédie à l'italienne aux drames"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le néoréalisme rose adoucit les drames de l'après-guerre par des fins heureuses. La comédie à l'italienne, à partir de 1958, va plus loin : elle se moque des mœurs, de l'argent et de la morale, avec une tristesse derrière les rires.",
+    "source": "D'après Wikipédia — Comédie à l'italienne"
+  },
+  {
+    "id": "q-cinema-251",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Que désigne la « politique des auteurs », définie par François Truffaut en 1955 ?",
+    "choix": [
+      "Étudier un film comme la suite des choix artistiques de son réalisateur",
+      "Donner le pouvoir de décision aux producteurs",
+      "Réserver les films aux scénaristes qui sont aussi réalisateurs",
+      "Interdire les films de genre dans les festivals"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans les Cahiers du cinéma, Truffaut propose de lire chaque film comme le prolongement des décisions artistiques de son auteur. C'est l'origine de la notion de film d'auteur, qui a ensuite nourri la Nouvelle Vague.",
+    "source": "D'après Wikipédia — Film d'auteur"
+  },
+  {
+    "id": "q-cinema-252",
+    "domain": "cinema",
+    "format": "associer",
+    "question": "Associe chaque film catastrophe à la catastrophe qu'il met en scène.",
+    "paires": [
+      {
+        "gauche": "Airport (1970)",
+        "droite": "Un avion en difficulté",
+        "explication": "Un avion abîmé par une explosion : le film établit le modèle du genre."
+      },
+      {
+        "gauche": "L'Aventure du Poséidon (1972)",
+        "droite": "Un paquebot retourné par une vague géante",
+        "explication": "Les survivants doivent remonter vers la sortie du navire renversé."
+      },
+      {
+        "gauche": "Tremblement de terre (1974)",
+        "droite": "Des séismes qui ravagent Los Angeles",
+        "explication": "Le film est présenté comme le premier à utiliser le procédé Sensurround."
+      },
+      {
+        "gauche": "La Tour infernale (1974)",
+        "droite": "Un feu géant au sommet d'une tour californienne",
+        "explication": "Paul Newman et Steve McQueen mènent la lutte contre les flammes."
+      }
+    ],
+    "explication": "Ces quatre films des années 1970 ont installé la formule du genre : une catastrophe spectaculaire, une distribution de vedettes et plusieurs destins croisés. Airport a lancé la mode dès 1970.",
+    "source": "D'après Wikipédia — Film catastrophe"
+  },
+  {
+    "id": "q-cinema-253",
+    "domain": "cinema",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis le cousin au cinéma du roman picaresque, un très ancien genre littéraire.",
+      "On parle de moi aux États-Unis vers 1967-1969, après Bonnie and Clyde.",
+      "Mes décors typiques sont la voiture, la moto, les motels et les grands espaces.",
+      "Mes personnages quittent un espace clos pour une destination mythique ou inconnue.",
+      "Easy Rider et Thelma et Louise sont mes exemples les plus connus."
+    ],
+    "reponse": "Le road movie",
+    "explication": "Le road movie fait du voyage le moteur du récit. Né en Amérique du Nord, il utilise la route pour parler de liberté, de marginalité et de société, avec une structure souvent errante plutôt qu'un scénario très cadré.",
+    "source": "D'après Wikipédia — Road movie"
+  },
+  {
+    "id": "q-cinema-254",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Le premier film tourné en Technicolor trichrome est un dessin animé de Walt Disney.",
+    "reponse": true,
+    "explication": "Les studios hésitaient devant ce procédé neuf. Disney, lui, a flairé son potentiel et l'a testé en 1932 avec Des arbres et des fleurs, un court métrage des Silly Symphonies, avant Blanche-Neige et les Sept Nains.",
+    "source": "D'après Wikipédia — Technicolor (procédé)"
+  },
+  {
+    "id": "q-cinema-255",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film est le premier à sortir en salles en CinemaScope, en 1953 ?",
+    "choix": [
+      "La Tunique",
+      "Comment épouser un millionnaire",
+      "La Belle et le Clochard",
+      "20 000 lieues sous les mers"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Tunique, film biblique d'Henry Koster, sort en premier. Comment épouser un millionnaire avait pourtant été tourné avant, mais la Fox a préféré lancer le nouveau procédé avec un film plus spectaculaire.",
+    "source": "D'après Wikipédia — CinemaScope"
+  },
+  {
+    "id": "q-cinema-256",
+    "domain": "cinema",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de Dolby dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Ray Dolby fonde sa société à Londres",
+        "annee": "1965"
+      },
+      {
+        "label": "Orange mécanique, premier film à utiliser la technologie Dolby",
+        "annee": "1971"
+      },
+      {
+        "label": "Lancement du Dolby Stereo",
+        "annee": "1975"
+      },
+      {
+        "label": "Batman Returns, premier film en son numérique Dolby",
+        "annee": "1992"
+      },
+      {
+        "label": "Lancement du Dolby Atmos",
+        "annee": "2012"
+      }
+    ],
+    "explication": "Dolby débute par la réduction du bruit en 1965, puis conquiert le cinéma : Orange mécanique en 1971, le surround Dolby Stereo en 1975, le numérique 5.1 en 1992 et le Dolby Atmos, avec des sons venus d'en haut, en 2012.",
+    "source": "D'après Wikipédia — Dolby"
+  },
+  {
+    "id": "q-cinema-257",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Comment Garrett Brown a-t-il été engagé sur Rocky, pour la célèbre course dans l'escalier ?",
+    "choix": [
+      "Sa vidéo de démonstration montrait déjà une course sur ces mêmes marches",
+      "Il avait travaillé avec l'acteur principal sur un film publicitaire",
+      "Il a remporté un concours de cadreurs organisé par le studio",
+      "Le réalisateur l'a repéré lors d'un festival de cinéma"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans sa vidéo de démonstration, Brown avait filmé une comédienne courant sur les marches du musée de Philadelphie. Le réalisateur du film lui a demandé où se trouvait cet escalier, et lui a confié la scène.",
+    "source": "D'après Wikipédia — Steadicam"
+  },
+  {
+    "id": "q-cinema-258",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel acteur, alors peu connu du grand public, Steven Spielberg choisit-il pour incarner le soldat Ryan, après l'avoir repéré dans un film de guerre précédent ?",
+    "choix": [
+      "Matt Damon",
+      "Edward Norton",
+      "Giovanni Ribisi",
+      "Casey Affleck"
+    ],
+    "bonneReponse": 0,
+    "explication": "C'est Matt Damon, encore peu connu, que Spielberg engage après l'avoir remarqué dans À l'épreuve du feu, un film de guerre. Edward Norton avait aussi été envisagé, mais il a préféré tourner American History X.",
+    "source": "D'après Wikipédia — Il faut sauver le soldat Ryan"
+  },
+  {
+    "id": "q-cinema-259",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel tableau du XIXe siècle les producteurs montrent-ils à Ridley Scott pour le convaincre de tourner Gladiator ?",
+    "choix": [
+      "Pollice verso, de Jean-Léon Gérôme",
+      "La Mort de Sardanapale, d'Eugène Delacroix",
+      "Le Radeau de la Méduse, de Théodore Géricault",
+      "La Liberté guidant le peuple, d'Eugène Delacroix"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les producteurs Walter Parkes et Douglas Wick montrent à Scott Pollice verso, peint par Gérôme en 1872 (« pouce baissé » en latin). Le tableau l'attire vers l'idée d'un film situé dans la Rome antique.",
+    "source": "D'après Wikipédia — Gladiator (film, 2000)"
+  },
+  {
+    "id": "q-cinema-260",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Avant d'être un thriller, Inception a d'abord été imaginé par Christopher Nolan comme un film d'horreur sur des « voleurs de rêves ».",
+    "reponse": true,
+    "explication": "Nolan écrit au début des années 2000 un traitement de quatre-vingts pages, pensé comme un film d'horreur. Il le transforme ensuite en thriller et film de casse, après avoir attendu presque dix ans pour le réaliser.",
+    "source": "D'après Wikipédia — Inception"
+  },
+  {
+    "id": "q-cinema-261",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel physicien a imaginé le point de départ d'Interstellar avec la productrice Lynda Obst, puis a servi de conseiller scientifique au film ?",
+    "choix": [
+      "Kip Thorne",
+      "Stephen Hawking",
+      "Carl Sagan",
+      "Brian Greene"
+    ],
+    "bonneReponse": 0,
+    "explication": "Kip Thorne est à l'origine de l'idée avec Lynda Obst et devient producteur délégué et conseiller scientifique. Il a aussi écrit le livre La Science d'Interstellar. Carl Sagan, lui, les avait présentés l'un à l'autre.",
+    "source": "D'après Wikipédia — Interstellar"
+  },
+  {
+    "id": "q-cinema-262",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel autre titre le studio Disney avait-il suggéré pour Le Cercle des poètes disparus, en voulant centrer le film sur le professeur ?",
+    "choix": [
+      "Sultans of Swing",
+      "Carpe Diem",
+      "Le Capitaine Keating",
+      "Welton Academy"
+    ],
+    "bonneReponse": 0,
+    "explication": "Disney proposait d'intituler le film Sultans of Swing, centré sur M. Keating, et de remplacer la passion des garçons pour la poésie par la danse. L'équipe a rejeté ces idées tout de suite.",
+    "source": "D'après Wikipédia — Le Cercle des poètes disparus"
+  },
+  {
+    "id": "q-cinema-263",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "La vie est belle, de Frank Capra, a été un immense succès commercial dès sa sortie en 1946.",
+    "reponse": false,
+    "explication": "Le film déçoit au box-office : son seuil de rentabilité, 6,3 millions de dollars, est loin d'être atteint. Il devient un classique de Noël après 1974, quand ses droits expirent et que les télévisions peuvent le diffuser librement.",
+    "source": "D'après Wikipédia — La vie est belle (film, 1946)"
+  },
+  {
+    "id": "q-cinema-264",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Dans Cinema Paradiso, que fait le curé du village avant chaque séance publique ?",
+    "choix": [
+      "Il fait couper les scènes de baisers",
+      "Il interdit l'entrée aux enfants",
+      "Il choisit uniquement des films religieux",
+      "Il fait projeter les films en silence"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le curé, propriétaire de la salle, fait couper par le projectionniste Alfredo les scènes jugées indécentes, comme un simple baiser. Le public proteste quand les films sautent, et ces morceaux coupés jouent un rôle important plus tard.",
+    "source": "D'après Wikipédia — Cinema Paradiso"
+  },
+  {
+    "id": "q-cinema-265",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel titre provisoire Mathieu Kassovitz a-t-il dû adopter pour La Haine afin d'obtenir des autorisations de tournage ?",
+    "choix": [
+      "Droit de cité",
+      "Quartier libre",
+      "Les Enfants de la cité",
+      "Banlieue nord"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le producteur trouvait La Haine trop dur et craignait que des maires refusent le tournage dans leur commune. Le film a donc été appelé Droit de cité, avant que Kassovitz n'impose finalement son titre.",
+    "source": "D'après Wikipédia — La Haine"
+  },
+  {
+    "id": "q-cinema-266",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel est le passe-temps de François Pignon, l'invité choisi par Pierre Brochant pour son dîner dans Le Dîner de cons ?",
+    "choix": [
+      "Construire des maquettes en allumettes",
+      "Collectionner les boomerangs",
+      "Réparer des trains miniatures",
+      "Collectionner les timbres"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pignon, employé du ministère des Finances, construit des maquettes en allumettes. Brochant croit tenir le champion de la soirée, sans se douter que sa maladresse va ruiner sa soirée.",
+    "source": "D'après Wikipédia — Le Dîner de cons (film)"
+  },
+  {
+    "id": "q-cinema-267",
+    "domain": "cinema",
+    "format": "associer",
+    "question": "Associe chaque film à son compositeur.",
+    "paires": [
+      {
+        "gauche": "Les Parapluies de Cherbourg",
+        "droite": "Michel Legrand",
+        "explication": "Il compose toute la musique du film, dont les dialogues sont entièrement chantés."
+      },
+      {
+        "gauche": "Cinema Paradiso",
+        "droite": "Ennio Morricone",
+        "explication": "Il compose la musique avec son fils Andrea, et collabore ensuite longtemps avec Tornatore."
+      },
+      {
+        "gauche": "Jules et Jim",
+        "droite": "Georges Delerue",
+        "explication": "Il signe la musique, hors la chanson Le Tourbillon, écrite par Serge Rezvani."
+      },
+      {
+        "gauche": "À bout de souffle",
+        "droite": "Martial Solal",
+        "explication": "Ce pianiste de jazz écrit une musique pour big band et cordes sur le film de Godard."
+      },
+      {
+        "gauche": "Jean de Florette",
+        "droite": "Jean-Claude Petit",
+        "explication": "Il bâtit son thème principal sur un air de Verdi, avec l'harmonica de Toots Thielemans."
+      }
+    ],
+    "explication": "Ces cinq films sont indissociables de leur musique : un pianiste de jazz, des thèmes inspirés d'opéra, un film entièrement chanté ou une collaboration entre un cinéaste et son compositeur en font une véritable signature.",
+    "source": "D'après Wikipédia — Les Parapluies de Cherbourg"
+  },
+  {
+    "id": "q-cinema-268",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel chanteur a fourni la chanson du générique des Bronzés, Sea, Sex and Sun, parue en juin 1978 ?",
+    "choix": [
+      "Serge Gainsbourg",
+      "Jacques Dutronc",
+      "Michel Polnareff",
+      "Johnny Hallyday"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le producteur Yves Rousset-Rouard suggère la chanson de Serge Gainsbourg à Patrice Leconte. Amusé, Gainsbourg laisse faire. Peu sûr de lui, il assiste pourtant à la première en toute discrétion, à l'automne 1978.",
+    "source": "D'après Wikipédia — Les Bronzés"
+  },
+  {
+    "id": "q-cinema-269",
+    "domain": "cinema",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon générique de fin précise avec humour qu'un acteur a été « coupé au tendon ».",
+      "Claude Berri a refusé de me réaliser, jugeant mon scénario « un peu débile ».",
+      "Je me moque des films d'horreur et de Basic Instinct.",
+      "Mon scénario est écrit par les Nuls et je sors en 1994.",
+      "Mon action se passe pendant le festival de Cannes, où des projectionnistes disparaissent."
+    ],
+    "reponse": "La Cité de la peur",
+    "explication": "La Cité de la peur est une parodie signée Alain Chabat, Dominique Farrugia et Chantal Lauby, réalisée par Alain Berbérian. Mal reçue par la presse, elle est devenue culte et ressort en salle en 2019.",
+    "source": "D'après Wikipédia — La Cité de la peur (film, 1994)"
+  },
+  {
+    "id": "q-cinema-270",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "De quel auteur ancien Michel Audiard aurait-il tiré une célèbre réplique des Tontons flingueurs sur l'audace des imbéciles ?",
+    "choix": [
+      "Saint Thomas d'Aquin",
+      "Blaise Pascal",
+      "Voltaire",
+      "Molière"
+    ],
+    "bonneReponse": 0,
+    "explication": "Audiard, qui avait lu la Somme théologique, aurait arrangé une phrase de saint Thomas d'Aquin : tous les idiots tentent tout. Il aurait aussi préféré appeler le film Le Terminus des prétentieux.",
+    "source": "D'après Wikipédia — Les Tontons flingueurs"
+  },
+  {
+    "id": "q-cinema-271",
+    "domain": "cinema",
+    "format": "difference",
+    "question": "Quelle est la grande différence entre le roman Grisbi or not grisbi, d'Albert Simonin, et son adaptation par Georges Lautner ?",
+    "choix": [
+      "Le film transforme le polar sombre en comédie portée par les dialogues d'Audiard",
+      "Le film se déroule dans l'Italie des années 1920 au lieu de Paris",
+      "Le film raconte l'histoire du point de vue de la police",
+      "Le film ne garde aucun personnage du roman"
+    ],
+    "bonneReponse": 0,
+    "explication": "Coscénariste du film, Simonin met de côté le ton noir et violent de son livre pour une veine comique, que Michel Audiard met en dialogues. Les personnages de Patricia et d'Antoine sont ajoutés pour le film.",
+    "source": "D'après Wikipédia — Les Tontons flingueurs"
+  },
+  {
+    "id": "q-cinema-272",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Pour ses travellings dans À bout de souffle, Godard a installé de longs rails comme dans les grosses productions classiques.",
+    "reponse": false,
+    "explication": "Pour éviter les rails, longs à poser, Godard poussait souvent son chef opérateur Raoul Coutard dans un fauteuil roulant. Pour certaines scènes de rue, Coutard se cachait dans une charrette postale.",
+    "source": "D'après Wikipédia — À bout de souffle"
+  },
+  {
+    "id": "q-cinema-273",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle particularité ont les deux personnages principaux de Hiroshima mon amour ?",
+    "choix": [
+      "Ils n'ont pas de nom dans le film",
+      "Ils sont interprétés par des enfants",
+      "Ils ne se parlent jamais directement",
+      "Ils sont tous les deux architectes"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'actrice française et l'architecte japonais restent anonymes, dans une vision égalitaire de l'après-bombe. À la fin, elle dit s'appeler « Hiroshima », et lui « Nevers », le nom de la ville natale de la jeune femme.",
+    "source": "D'après Wikipédia — Hiroshima, mon amour"
+  },
+  {
+    "id": "q-cinema-274",
+    "domain": "cinema",
+    "format": "frise",
+    "question": "Remets ces films dans l'ordre de leur sortie.",
+    "evenements": [
+      {
+        "label": "Hiroshima mon amour",
+        "annee": "1959"
+      },
+      {
+        "label": "À bout de souffle",
+        "annee": "1960"
+      },
+      {
+        "label": "Jules et Jim",
+        "annee": "1962"
+      },
+      {
+        "label": "Les Tontons flingueurs",
+        "annee": "1963"
+      },
+      {
+        "label": "Les Parapluies de Cherbourg",
+        "annee": "1964"
+      }
+    ],
+    "explication": "Hiroshima mon amour (1959) et À bout de souffle (1960) lancent la Nouvelle Vague. Jules et Jim (1962), Les Tontons flingueurs (1963) puis Les Parapluies de Cherbourg (1964) suivent en quelques années.",
+    "source": "D'après Wikipédia — Les Parapluies de Cherbourg"
+  },
+  {
+    "id": "q-cinema-275",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel acteur, jugé trop beau pour jouer Ugolin dans Jean de Florette, se rase la tête et redemande un rendez-vous à Claude Berri ?",
+    "choix": [
+      "Daniel Auteuil",
+      "Richard Anconina",
+      "Jacques Villeret",
+      "Coluche"
+    ],
+    "bonneReponse": 0,
+    "explication": "Claude Berri refuse d'abord Daniel Auteuil, jugé trop beau. Il se rase la tête, retrouve l'accent provençal et se transforme physiquement, ce qui lui vaut le César du meilleur acteur en 1987.",
+    "source": "D'après Wikipédia — Jean de Florette (film)"
+  },
+  {
+    "id": "q-cinema-276",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Qui a perfectionné et breveté en 1915 le procédé appelé rotoscope ?",
+    "choix": [
+      "Max et Dave Fleischer",
+      "Walt Disney",
+      "Émile Reynaud",
+      "Ub Iwerks"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les frères Max et Dave Fleischer ont breveté le rotoscope en 1915 pour leur série Out of the Inkwell. Une table transparente permettait de décalquer, image par image, des scènes filmées avec de vrais acteurs.",
+    "source": "D'après Wikipédia — Rotoscopie"
+  },
+  {
+    "id": "q-cinema-277",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Pourquoi appelle-t-on « plan américain » le cadrage d'un personnage à mi-cuisse ?",
+    "choix": [
+      "Parce que des cinéastes et critiques français l'ont repéré dans les films américains des années 1910 à 1940",
+      "Parce qu'il a été inventé par D. W. Griffith à Hollywood",
+      "Parce que les studios américains l'imposaient à tous leurs réalisateurs",
+      "Parce qu'il servait à filmer les cow-boys américains au galop"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ce sont des Français qui ont baptisé ce cadrage, typique à leurs yeux des films américains, notamment ceux de Thomas H. Ince. Il avait un atout dans les westerns : il montrait en entier le pistolet à la ceinture.",
+    "source": "D'après Wikipédia — Plan américain"
+  },
+  {
+    "id": "q-cinema-278",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Dans les trois premiers films Star Wars, la lueur des sabres laser a été créée par rotoscopie.",
+    "reponse": true,
+    "explication": "Les acteurs tenaient de simples bâtons. Des techniciens ont tracé une ligne sur chaque image à l'emplacement du bâton, puis ils y ont ajouté un halo lumineux : c'est un usage classique de la rotoscopie dans les effets visuels.",
+    "source": "D'après Wikipédia — Rotoscopie"
+  },
+  {
+    "id": "q-cinema-279",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Dans King Kong, sorti en 1933, quelle part du gorille géant est de l'animation en volume ?",
+    "choix": [
+      "Environ 90 %",
+      "Environ 50 %",
+      "Environ 25 %",
+      "Seulement ses yeux"
+    ],
+    "bonneReponse": 0,
+    "explication": "Willis O'Brien a fait du singe géant, à 90 %, une figurine animée image par image. Seule sa main géante a été filmée en prises de vues réelles, grâce à des mécanismes astucieux et à des manipulateurs.",
+    "source": "D'après Wikipédia — Animation en volume"
+  },
+  {
+    "id": "q-cinema-280",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel procédé, développé par Phil Tippett, ajoute du flou de mouvement à l'animation en volume pour rendre les gestes rapides plus fluides ?",
+    "choix": [
+      "Le go motion",
+      "La pixilation",
+      "La claymation",
+      "La rotoscopie"
+    ],
+    "bonneReponse": 0,
+    "explication": "En go motion, on bouge un peu la figurine pendant la prise de vue, ce qui recrée le flou naturel. Les tauntauns de L'Empire contre-attaque, en go motion, sont ainsi plus fluides que les créatures saccadées du jeu d'échecs holographique.",
+    "source": "D'après Wikipédia — Animation en volume"
+  },
+  {
+    "id": "q-cinema-281",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film de 1999 est le premier long métrage dont un personnage principal est créé par capture de mouvement ?",
+    "choix": [
+      "Star Wars, épisode I : La Menace fantôme",
+      "Final Fantasy : Les Créatures de l'esprit",
+      "Total Recall",
+      "Matrix"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jar Jar Binks, joué par Ahmed Best, est le premier personnage principal créé ainsi. Total Recall en 1990 s'en servait déjà pour une scène, et Final Fantasy en 2001 fut le premier film largement diffusé fait par capture de mouvement.",
+    "source": "D'après Wikipédia — Capture de mouvement"
+  },
+  {
+    "id": "q-cinema-282",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Tron, sorti en 1982, est le premier long métrage à avoir intégré des images de synthèse en 3D à son récit.",
+    "reponse": false,
+    "explication": "C'est Les Rescapés du futur (Futureworld), en 1976, qui est le premier long métrage à intégrer de la 3D. Tron, en 1982, est le premier film à mélanger des images réelles et des images créées ou retouchées par ordinateur.",
+    "source": "D'après Wikipédia — Infographie"
+  },
+  {
+    "id": "q-cinema-283",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Qui a inventé le générique moderne en 1955 avec L'Homme au bras d'or, avant de signer ceux de Sueurs froides et de West Side Story ?",
+    "choix": [
+      "Saul Bass",
+      "Pablo Ferro",
+      "Maurice Binder",
+      "Émile Cohl"
+    ],
+    "bonneReponse": 0,
+    "explication": "Saul Bass a transformé le générique de début, simple liste de noms, en vraie introduction au film. Pour Sueurs froides, il a dessiné des spirales qui évoquent à la fois le vertige et le temps.",
+    "source": "D'après Wikipédia — Générique (œuvre)"
+  },
+  {
+    "id": "q-cinema-284",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Comment reconnaît-on au montage un clap de fin ?",
+    "choix": [
+      "L'ardoise est présentée à l'envers, tête en bas",
+      "La claquette est peinte en rouge",
+      "Le clap est tenu par le réalisateur",
+      "La réglette reste grande ouverte"
+    ],
+    "bonneReponse": 0,
+    "explication": "On choisit le clap de fin quand claquer au début serait gênant, par exemple avec un cheval ou pour préserver l'émotion des acteurs. L'ardoise retournée, tête en bas, signale au monteur qu'elle a été filmée à la fin de la prise.",
+    "source": "D'après Wikipédia — Clap"
+  },
+  {
+    "id": "q-cinema-285",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel compositeur a écrit en 1908 la première musique originale pour un film, L'Assassinat du duc de Guise ?",
+    "choix": [
+      "Camille Saint-Saëns",
+      "Erik Satie",
+      "Claude Debussy",
+      "Maurice Ravel"
+    ],
+    "bonneReponse": 0,
+    "explication": "La société Le Film d'art a demandé la partition à Camille Saint-Saëns, compositeur de renom. Avant cela, la musique était improvisée au piano ou empruntée au répertoire classique. Cette partition inaugure le genre.",
+    "source": "D'après Wikipédia — Musique de film"
+  },
+  {
+    "id": "q-cinema-286",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Dans quel film Lumière de 1896 deux plans se suivent parce que la barque tardait à arriver ?",
+    "choix": [
+      "Barque en mer",
+      "L'Arroseur arrosé",
+      "La Sortie de l'usine Lumière",
+      "L'Arrivée d'un train en gare de La Ciotat"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le ressac retardait la barque. L'opérateur a arrêté sa manivelle, puis l'a relancée quand elle approchait. Les deux plans ont été collés à l'acétone : c'est un « montage obligé », né d'une contrainte et non d'un choix.",
+    "source": "D'après Wikipédia — Montage"
+  },
+  {
+    "id": "q-cinema-287",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Dans A Chess Dispute, tourné en 1903, la bagarre des deux joueurs reste presque entièrement hors-champ.",
+    "reponse": true,
+    "explication": "Les joueurs roulent à terre sous le cadre : on ne voit que des jambes, un torse et des vêtements qui volent. Cacher l'essentiel fait le gag, dans un film de 1903 déjà très ancien dans l'usage dramatique du hors-champ.",
+    "source": "D'après Wikipédia — Hors-champ"
+  },
+  {
+    "id": "q-cinema-288",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Comment le premier palmarès de la Mostra de Venise, en 1932, a-t-il été décidé ?",
+    "choix": [
+      "Par un vote du public",
+      "Par un jury de critiques italiens",
+      "Par le fondateur du festival seul",
+      "Par un tirage au sort"
+    ],
+    "bonneReponse": 0,
+    "explication": "La première Mostra n'était pas une compétition : sans jury, un référendum a été organisé auprès des spectateurs. Le public a notamment élu À nous la liberté film le plus amusant et Fredric March meilleur acteur.",
+    "source": "D'après Wikipédia — Mostra de Venise"
+  },
+  {
+    "id": "q-cinema-289",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film de 1969, avec Michael Caine, se termine littéralement par un cliffhanger, avec un car en équilibre au-dessus du vide ?",
+    "choix": [
+      "The Italian Job",
+      "Bullitt",
+      "Butch Cassidy et le Kid",
+      "Easy Rider"
+    ],
+    "bonneReponse": 0,
+    "explication": "The Italian Job laisse le car des voleurs suspendu au bord d'un précipice, sans montrer la suite. Le mot « cliffhanger » vient de cette image de personnage suspendu à une falaise. Le film laisse volontairement le spectateur sur sa faim.",
+    "source": "D'après Wikipédia — Cliffhanger"
+  },
+  {
+    "id": "q-cinema-290",
+    "domain": "cinema",
+    "format": "associer",
+    "question": "Associe chaque métier du cinéma à sa mission.",
+    "paires": [
+      {
+        "gauche": "Scénariste",
+        "droite": "Écrit le récit, les situations et les personnages",
+        "explication": "Il met en situation l'histoire dans le scénario, adapté ou original."
+      },
+      {
+        "gauche": "Dialoguiste",
+        "droite": "Écrit les répliques des personnages",
+        "explication": "Souvent assuré par le scénariste, ce travail peut être confié à un spécialiste."
+      },
+      {
+        "gauche": "Producteur",
+        "droite": "Réunit les financements et suit la fabrication du film",
+        "explication": "Son rôle est à la fois artistique et financier, du scénario à l'exploitation."
+      },
+      {
+        "gauche": "Chef opérateur",
+        "droite": "Conçoit la lumière et l'image avec le réalisateur",
+        "explication": "Il dirige les équipes de la caméra et de l'éclairage."
+      }
+    ],
+    "explication": "Ces quatre métiers se complètent : le scénariste imagine l'histoire, le dialoguiste lui donne sa voix, le producteur rend le film possible et le chef opérateur lui donne sa lumière.",
+    "source": "D'après Wikipédia — Producteur de cinéma"
+  },
+  {
+    "id": "q-cinema-291",
+    "domain": "cinema",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom est un faux anglicisme que la critique française emploie dès les années 1920.",
+      "En 1896, un opérateur Lumière m'a utilisé depuis une gondole à Venise.",
+      "On me confond parfois avec un zoom, alors que je modifie les perspectives.",
+      "Je peux être avant, arrière ou latéral.",
+      "La caméra se déplace, souvent sur un chariot poussé par des machinistes."
+    ],
+    "reponse": "Le travelling",
+    "explication": "Le travelling est un mouvement où la caméra elle-même se déplace pour suivre un sujet, s'en approcher ou le contourner. Les Anglophones disent « tracking shot » ou « dolly shot », et les Italiens carrello.",
+    "source": "D'après Wikipédia — Travelling"
+  },
+  {
+    "id": "q-cinema-292",
+    "domain": "cinema",
+    "format": "frise",
+    "question": "Remets ces moments de l'histoire de la musique de film dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Émile Reynaud fait écrire une musique pour son Théâtre optique",
+        "annee": "1892"
+      },
+      {
+        "label": "Un pianiste improvise pour couvrir le bruit du projecteur des frères Lumière",
+        "annee": "1896"
+      },
+      {
+        "label": "Camille Saint-Saëns compose la première musique originale de film",
+        "annee": "1908"
+      },
+      {
+        "label": "Edison Studios publie Suggestion for Music, un catalogue de mélodies classiques",
+        "annee": "1909"
+      }
+    ],
+    "explication": "Dès 1892, Reynaud fait composer une musique pour ses dessins animés. Puis un pianiste couvre le bruit du projecteur en 1896, Saint-Saëns signe la première musique originale en 1908 et Edison propose un catalogue de mélodies en 1909.",
+    "source": "D'après Wikipédia — Musique de film"
+  },
+  {
+    "id": "q-cinema-293",
+    "domain": "cinema",
+    "format": "difference",
+    "question": "Quelle est la différence entre un travelling et un zoom ?",
+    "choix": [
+      "Le travelling déplace vraiment la caméra et change les perspectives, le zoom grossit l'image sans bouger",
+      "Le travelling est toujours latéral, le zoom toujours vers l'avant",
+      "Le travelling se fait uniquement sur rails, le zoom uniquement à la main",
+      "Le zoom change les perspectives, le travelling donne un effet plat"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le travelling modifie les perspectives à l'intérieur du décor, car la caméra se déplace. Le zoom, lui, grossit l'image avec l'objectif et donne un effet plat de glissement, mais permet un rapprochement brutal.",
+    "source": "D'après Wikipédia — Travelling"
+  },
+  {
+    "id": "q-cinema-294",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel film d'Alfred Hitchcock ouvre la toute première Berlinale, en juin 1951 ?",
+    "choix": [
+      "Rebecca",
+      "Casablanca",
+      "Autant en emporte le vent",
+      "Le Magicien d'Oz"
+    ],
+    "bonneReponse": 0,
+    "explication": "La première Berlinale s'ouvre le 6 juin 1951 au Titania-Palast avec Rebecca, d'Alfred Hitchcock. Le festival, voulu par les Alliés comme une vitrine du monde libre, se tenait alors en été avant de passer en février en 1978.",
+    "source": "D'après Wikipédia — Berlinale"
+  },
+  {
+    "id": "q-cinema-295",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "En 1978, la Berlinale a décerné son Ours d'or à un pays entier, l'Espagne, plutôt qu'à un film.",
+    "reponse": true,
+    "explication": "C'est vrai : cette année-là, le jury récompense l'Espagne pour sa contribution au festival, à travers trois films, dont un court métrage, plutôt qu'une œuvre unique. C'est aussi l'année où la Berlinale passe de juin à février.",
+    "source": "D'après Wikipédia — Berlinale"
+  },
+  {
+    "id": "q-cinema-296",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "D'où vient le nom du festival de Sundance ?",
+    "choix": [
+      "D'un rôle de Robert Redford dans Butch Cassidy et le Kid",
+      "D'une montagne de l'Utah",
+      "Du nom d'un chef amérindien",
+      "D'un studio de cinéma de Salt Lake City"
+    ],
+    "bonneReponse": 0,
+    "explication": "Robert Redford a rebaptisé Sundance son domaine des monts Wasatch, d'après son personnage dans Butch Cassidy et le Kid, le Sundance Kid. Le festival, fondé en 1978 sous un autre nom, a pris ce nom officiel en 1991.",
+    "source": "D'après Wikipédia — Festival de cinéma de Sundance"
+  },
+  {
+    "id": "q-cinema-297",
+    "domain": "cinema",
+    "format": "difference",
+    "question": "Quelle particularité distingue les Golden Globes des Oscars ?",
+    "choix": [
+      "Ils récompensent aussi la télévision et séparent drame et comédie",
+      "Ils sont décernés par des acteurs américains",
+      "Ils ne récompensent que des films étrangers",
+      "Ils sont remis tous les quatre ans"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les Golden Globes couvrent cinéma et télévision, et distinguent le meilleur film, acteur et actrice dans la catégorie « drame » et dans la catégorie « comédie ou film musical ». Ils sont remis depuis 1944.",
+    "source": "D'après Wikipédia — Golden Globes"
+  },
+  {
+    "id": "q-cinema-298",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Que désigne le mot « raspberry » dans le nom des Razzie Awards ?",
+    "choix": [
+      "Un bruit de dérision, comme « faire une framboise »",
+      "Le nom du fondateur",
+      "Une marque de caméra",
+      "Un fruit cultivé à Hollywood"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot vient de l'expression « blowing a raspberry », faire un bruit moqueur avec la bouche. La statuette est une petite framboise fixée sur une pellicule Super 8, pour une valeur d'environ 5 dollars.",
+    "source": "D'après Wikipédia — Razzie Awards"
+  },
+  {
+    "id": "q-cinema-299",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Pour voter aux Razzie Awards, il faut obligatoirement avoir vu tous les films nommés.",
+    "reponse": false,
+    "explication": "C'est faux : les votants, membres d'une fondation qui paient une cotisation, n'ont pas l'obligation de voir les films avant de voter. La cérémonie, parodique, se tient traditionnellement la veille de celle des Oscars.",
+    "source": "D'après Wikipédia — Razzie Awards"
+  },
+  {
+    "id": "q-cinema-300",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel sculpteur a conçu le trophée des César ?",
+    "choix": [
+      "César",
+      "Arman",
+      "Jean Tinguely",
+      "Niki de Saint Phalle"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le trophée est une compression de métal imaginée par le sculpteur César, qui lui a donné son nom. Le premier modèle, une bobine autour d'une silhouette, a été remplacé en 1977 par une compression de 29 cm et 3,6 kg.",
+    "source": "D'après Wikipédia — César du cinéma"
+  },
+  {
+    "id": "q-cinema-301",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Qui est renvoyé de la direction de la Cinémathèque française en février 1968, avant d'être réintégré en avril ?",
+    "choix": [
+      "Henri Langlois",
+      "François Truffaut",
+      "André Malraux",
+      "Jean Renoir"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le ministre André Malraux renvoie Henri Langlois, cofondateur de la Cinémathèque. Des cinéastes comme Truffaut, Godard, Chaplin ou Kubrick le soutiennent, et il est réintégré le 22 avril, après des manifestations.",
+    "source": "D'après Wikipédia — Cinémathèque française"
+  },
+  {
+    "id": "q-cinema-302",
+    "domain": "cinema",
+    "format": "vrai-faux",
+    "affirmation": "Pendant l'Occupation, les autorités allemandes ont ordonné la destruction de tous les films tournés avant 1937.",
+    "reponse": true,
+    "explication": "C'est vrai : Henri Langlois et ses amis ont fait sortir clandestinement de nombreux films et documents pour les protéger. Une partie des collections a été cachée en zone libre, notamment dans des châteaux du Lot.",
+    "source": "D'après Wikipédia — Cinémathèque française"
+  },
+  {
+    "id": "q-cinema-303",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Dans quelle ville se trouve l'Institut Lumière, installé dans l'ancienne villa de la famille Lumière ?",
+    "choix": [
+      "Lyon",
+      "Paris",
+      "Marseille",
+      "La Ciotat"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'Institut Lumière se trouve à Lyon, dans le quartier de Monplaisir, rue du Premier-Film. C'est près de là que les frères Lumière ont conçu le Cinématographe et tourné leur tout premier film, devant leur usine.",
+    "source": "D'après Wikipédia — Institut Lumière"
+  },
+  {
+    "id": "q-cinema-304",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Que disait à l'origine le célèbre panneau de la colline d'Hollywood, érigé en 1923 ?",
+    "choix": [
+      "HOLLYWOODLAND",
+      "HOLLYWOOD STUDIOS",
+      "CINEMA CITY",
+      "LOS ANGELES FILMS"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le panneau était une publicité pour un lotissement et disait « HOLLYWOODLAND ». Lors de sa restauration en 1949, on a retiré les lettres LAND pour qu'il désigne le quartier plutôt que le projet immobilier.",
+    "source": "D'après Wikipédia — Hollywood"
+  },
+  {
+    "id": "q-cinema-305",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Pourquoi le réalisateur américain Mervyn LeRoy choisit-il Cinecittà pour tourner Quo Vadis ?",
+    "choix": [
+      "Les coûts y sont bien moindres qu'à Hollywood",
+      "Il est né à Rome",
+      "Les studios d'Hollywood sont fermés",
+      "Mussolini l'y invite"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les coûts de tournage et de production y sont nettement moindres, car figurants et techniciens y sont peu payés. Cela lance l'âge d'or de Cinecittà, avec environ 150 péplums, dont Ben-Hur.",
+    "source": "D'après Wikipédia — Cinecittà"
+  },
+  {
+    "id": "q-cinema-306",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quel animal est la première grande vedette des frères Warner à Hollywood ?",
+    "choix": [
+      "Rintintin, un chien",
+      "Un lion",
+      "Un cheval",
+      "Un perroquet"
+    ],
+    "bonneReponse": 0,
+    "explication": "Rintintin, un chien ramené de France par un soldat américain, sauve la jeune société. Jack Warner lui offre un contrat de 1 000 dollars par semaine et le surnomme « Mortgage Lifter », celui qui paie l'hypothèque.",
+    "source": "D'après Wikipédia — Warner Bros."
+  },
+  {
+    "id": "q-cinema-307",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Dans quel type de lieu est tourné Le Mari de l'Indienne, premier long métrage hollywoodien de Lasky et DeMille ?",
+    "choix": [
+      "Une grange aménagée en studio",
+      "Un grand hôtel",
+      "Une gare de train",
+      "Un ancien théâtre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cecil B. DeMille loue une grange à Hollywood, qui devient le studio de la société de Jesse Lasky. Le film, tourné fin 1913 et sorti en 1914, rapporte dix fois son coût. Cette société fusionnera avec Famous Players, puis Paramount.",
+    "source": "D'après Wikipédia — Paramount Pictures"
+  },
+  {
+    "id": "q-cinema-308",
+    "domain": "cinema",
+    "format": "qcm",
+    "question": "Quelle décision originale Carl Laemmle prend-il pour son studio Universal City dès 1915 ?",
+    "choix": [
+      "Il l'ouvre aux touristes",
+      "Il y interdit les stars",
+      "Il y fait tourner uniquement des films muets",
+      "Il le réserve aux enfants"
+    ],
+    "bonneReponse": 0,
+    "explication": "Contrairement à d'autres patrons de studios, Carl Laemmle laisse entrer des visiteurs dans les studios dès 1915. Cette idée annonce les parcs d'attractions : en 1964, Universal Studios Hollywood ouvre au public.",
+    "source": "D'après Wikipédia — Universal Pictures"
+  },
+  {
+    "id": "q-cinema-309",
+    "domain": "cinema",
+    "format": "associer",
+    "question": "Associe chaque société de cinéma à son emblème.",
+    "paires": [
+      {
+        "gauche": "Metro-Goldwyn-Mayer",
+        "droite": "Un lion",
+        "explication": "Le lion Leo rugit au début des films ; Jackie fut le premier à le faire."
+      },
+      {
+        "gauche": "Pathé",
+        "droite": "Un coq",
+        "explication": "Le coq chante au début des bobines, notamment les actualités."
+      },
+      {
+        "gauche": "Gaumont",
+        "droite": "Une marguerite",
+        "explication": "Choisie en hommage à la mère de Léon Gaumont, Marguerite."
+      },
+      {
+        "gauche": "Columbia Pictures",
+        "droite": "Une femme avec une torche",
+        "explication": "Columbia, personnification des États-Unis, tient une torche."
+      }
+    ],
+    "explication": "Ces emblèmes sont reconnaissables en une seconde : le lion de la MGM, le coq de Pathé, la marguerite de Gaumont et la femme à la torche de Columbia, qui rappelle la statue de la Liberté.",
+    "source": "D'après Wikipédia — Metro-Goldwyn-Mayer"
+  },
+  {
+    "id": "q-cinema-310",
+    "domain": "cinema",
+    "format": "qui-suis-je",
+    "indices": [
+      "J'ai été inauguré en 1937, en présence de Mussolini.",
+      "Mon nom signifie « la ville du cinéma ».",
+      "Environ 3 000 films ont été tournés chez moi.",
+      "J'ai été surnommé « Hollywood sur le Tibre ».",
+      "Federico Fellini y a tourné La Dolce Vita."
+    ],
+    "reponse": "Cinecittà",
+    "explication": "Cinecittà est un immense complexe de studios à Rome, inauguré en 1937. Son âge d'or commence avec les péplums américains des années 1950, et Federico Fellini y a tourné pendant plus de vingt ans.",
+    "source": "D'après Wikipédia — Cinecittà"
+  },
+  {
+    "id": "q-cinema-311",
+    "domain": "cinema",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de Gaumont dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Création de la société par Léon Gaumont",
+        "annee": "1895"
+      },
+      {
+        "label": "Fantasmagorie, premier film d'animation",
+        "annee": "1908"
+      },
+      {
+        "label": "Ouverture du Gaumont Palace",
+        "annee": "1911"
+      },
+      {
+        "label": "Lancement du Chronochrome",
+        "annee": "1913"
+      },
+      {
+        "label": "Sortie des Vampires",
+        "annee": "1915"
+      }
+    ],
+    "explication": "Gaumont naît en 1895. Elle sort Fantasmagorie en 1908, ouvre le Gaumont Palace en 1911 et lance le Chronochrome en 1913, un procédé de cinéma en couleur. Les Vampires, de Louis Feuillade, date de 1915.",
+    "source": "D'après Wikipédia — Gaumont"
   }
 ]

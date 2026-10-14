@@ -1565,5 +1565,1424 @@
     "bonneReponse": 0,
     "explication": "Margaret Hamilton, qui dirigeait l'équipe du logiciel de bord d'Apollo, s'attribue l'expression « génie logiciel » (software engineering) : elle voulait distinguer ce travail du matériel et des autres formes d'ingénierie, et le faire reconnaître comme une vraie discipline.",
     "source": "D'après Wikipédia — Margaret Hamilton (scientifique)"
+  },
+  {
+    "id": "q-tech-098",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Comment Alan Turing appelait-il son test dans son article de 1950 ?",
+    "choix": [
+      "Le jeu d'imitation",
+      "La chambre chinoise",
+      "Le défi de Bletchley",
+      "La machine pensante"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1950, Turing parle de « jeu d'imitation », inspiré d'un jeu de société où l'on devine à l'écrit qui est l'homme et qui est la femme. L'expression « test de Turing » n'apparaît que dans les années 1970, longtemps après sa mort en 1954.",
+    "source": "D'après Wikipédia — Test de Turing"
+  },
+  {
+    "id": "q-tech-099",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Une machine de Turing est avant tout une idée mathématique, pas un appareil réel.",
+    "reponse": true,
+    "explication": "Imaginée en 1936, elle est un objet de pensée : un ruban infini, une tête qui lit et écrit, et une table de règles. Un vrai ruban infini est impossible, mais un ordinateur peut la simuler tant que sa mémoire suffit.",
+    "source": "D'après Wikipédia — Machine de Turing"
+  },
+  {
+    "id": "q-tech-100",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Pourquoi les premiers écrans d'ordinateur en mode texte affichaient-ils 80 colonnes ?",
+    "choix": [
+      "Pour rester compatibles avec les cartes perforées à 80 colonnes",
+      "Parce que la taille d'une feuille A4 l'exigeait",
+      "Parce que la mémoire de l'époque ne permettait pas plus",
+      "Parce que les claviers comptaient 80 touches"
+    ],
+    "bonneReponse": 0,
+    "explication": "La carte IBM brevetée en 1928 comptait 80 colonnes. Dès les années 1960, les premiers écrans texte ont adopté la même largeur pour que les programmes restent utilisables, et on retrouve encore des lignes de 80 caractères dans certains logiciels.",
+    "source": "D'après Wikipédia — Carte perforée"
+  },
+  {
+    "id": "q-tech-101",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Comment programmait-on l'ENIAC à ses débuts ?",
+    "choix": [
+      "En rebranchant des câbles et en réglant des commutateurs",
+      "Au clavier, devant un écran",
+      "En insérant une cartouche de mémoire",
+      "Par commande vocale"
+    ],
+    "bonneReponse": 0,
+    "explication": "À l'origine, l'ENIAC n'enregistrait pas son programme en mémoire : on le programmait en câblant ses modules entre eux, ce que Mauchly comparait à « câbler ensemble vingt calculatrices ». Le programme enregistré n'arrive qu'à partir de 1947.",
+    "source": "D'après Wikipédia — ENIAC"
+  },
+  {
+    "id": "q-tech-102",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Colossus a été conçu par Alan Turing pour casser le code Enigma.",
+    "reponse": false,
+    "explication": "Faux : Colossus a été conçu par l'ingénieur Tommy Flowers, sur des plans du mathématicien Max Newman, pour attaquer le chiffrement allemand Lorenz. Turing a conçu la Bombe, une machine électromécanique qui visait Enigma.",
+    "source": "D'après Wikipédia — Colossus (ordinateur)"
+  },
+  {
+    "id": "q-tech-103",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "D'où vient le mot anglais « mainframe », qui désigne un ordinateur central ?",
+    "choix": [
+      "Du grand châssis (main frame) qui contenait l'unité centrale et la mémoire",
+      "D'une société pionnière appelée Main Frame Inc.",
+      "De la « trame principale » d'un réseau de câbles téléphoniques",
+      "Du premier ordinateur militaire, le MAINFRAME-1"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot vient de la grande armoire, la « main frame », qui abritait l'unité centrale et la mémoire des premières machines. Il a ensuite désigné les ordinateurs haut de gamme des grandes organisations, par opposition aux machines plus modestes.",
+    "source": "D'après Wikipédia — Ordinateur central"
+  },
+  {
+    "id": "q-tech-104",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Que signifie le sigle GPT dans le nom ChatGPT ?",
+    "choix": [
+      "Generative Pre-trained Transformer",
+      "General Purpose Technology",
+      "Graphical Processing Tool",
+      "Global Programming Translator"
+    ],
+    "bonneReponse": 0,
+    "explication": "GPT veut dire « Generative Pre-trained Transformer », soit transformeur génératif préentraîné. Le modèle apprend d'abord à prédire le morceau de texte suivant sur d'immenses corpus, puis génère ses réponses un morceau à la fois.",
+    "source": "D'après Wikipédia — ChatGPT"
+  },
+  {
+    "id": "q-tech-105",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel nom Linus Torvalds avait-il d'abord donné en public à son projet ?",
+    "choix": [
+      "Freax",
+      "Minix 2",
+      "Penguin",
+      "Helsinki OS"
+    ],
+    "bonneReponse": 0,
+    "explication": "Torvalds trouvait « Linux » trop égocentrique et parlait de « Freax » en public. L'administrateur du serveur de téléchargement, Ari Lemmke, n'aimait pas ce nom et a créé un répertoire nommé Linux : le nom est resté.",
+    "source": "D'après Wikipédia — Linux"
+  },
+  {
+    "id": "q-tech-106",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel jeu de mots est à l'origine du nom Unix ?",
+    "choix": [
+      "Un clin d'œil à Multics, le système trop ambitieux dont il s'inspire",
+      "Un mélange des mots « uni » et « index »",
+      "Les initiales de ses deux créateurs, Ken et Dennis",
+      "Un acronyme de « Universal Network Interface »"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1970, Thompson, Ritchie et leurs collègues baptisent leur système « Unics », jeu de mots avec Multics : l'un fait plusieurs choses de plusieurs façons, l'autre chaque chose d'une seule. Brian Kernighan revendique l'idée.",
+    "source": "D'après Wikipédia — Unix"
+  },
+  {
+    "id": "q-tech-107",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel « téléphone iTunes » conçu avec Motorola, limité à 100 chansons, a précédé l'iPhone ?",
+    "choix": [
+      "Le Motorola ROKR E1",
+      "Le Motorola RAZR V3",
+      "Le Nokia N95",
+      "Le Palm Treo"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le ROKR E1 (2005) était un téléphone iTunes réalisé avec Motorola. Son logiciel limitait le stockage à 100 chansons pour ne pas concurrencer l'iPod nano. Déçu, Steve Jobs a choisi qu'Apple concevrait seul son téléphone.",
+    "source": "D'après Wikipédia — IPhone"
+  },
+  {
+    "id": "q-tech-108",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "À sa création en 2003, Android Inc. voulait concevoir un système d'exploitation pour appareils photo numériques.",
+    "reponse": true,
+    "explication": "Vrai : les fondateurs, dont Andy Rubin, pensaient d'abord à un système pour appareils photo. Faute d'investisseurs, ils se sont tournés en 2004 vers les téléphones, et Google a racheté l'entreprise en 2005.",
+    "source": "D'après Wikipédia — Android"
+  },
+  {
+    "id": "q-tech-109",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "D'où vient le nom du Commodore 64 ?",
+    "choix": [
+      "De ses 64 Ko de mémoire vive",
+      "De ses 64 couleurs à l'écran",
+      "De l'année de sa conception, 1964",
+      "De ses 64 touches au clavier"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nom vient de ses 64 kibioctets de mémoire vive. Jack Tramiel avait exigé cette capacité alors que les puces mémoire coûtaient cher, en pariant que leur prix baisserait avant le début de la production en série.",
+    "source": "D'après Wikipédia — Commodore 64"
+  },
+  {
+    "id": "q-tech-110",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Pourquoi le logo d'Apple a-t-il porté des bandes arc-en-ciel jusqu'en 1998 ?",
+    "choix": [
+      "Pour rappeler que l'Apple II affichait de la couleur",
+      "Pour rendre hommage au drapeau de la Californie",
+      "Pour imiter le logo de Xerox",
+      "Pour symboliser les sept langues des manuels"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'Apple II se distinguait par ses graphismes en couleurs, et le logo apposé sur son boîtier a reçu des bandes arc-en-ciel. Elles sont restées dans le logo de l'entreprise jusqu'au début de 1998.",
+    "source": "D'après Wikipédia — Apple II"
+  },
+  {
+    "id": "q-tech-111",
+    "domain": "tech",
+    "format": "qui-suis-je",
+    "indices": [
+      "Un projet secret, mené par une équipe indépendante à Boca Raton, en Floride.",
+      "Un analyste comparait son lancement à l'idée d'apprendre à danser à un éléphant.",
+      "Il emploie un processeur Intel 8088 et 16 Ko de mémoire de base.",
+      "Son architecture ouverte a donné naissance à des « compatibles ».",
+      "Présenté à New York le 12 août 1981, c'est l'ordinateur personnel d'IBM, modèle 5150."
+    ],
+    "reponse": "L'IBM PC",
+    "explication": "Il s'agit de l'IBM PC (modèle 5150), présenté le 12 août 1981. Bâti avec des pièces standard et une architecture ouverte, il a lancé la vague des « compatibles PC », devenus le standard mondial des micro-ordinateurs.",
+    "source": "D'après Wikipédia — IBM PC"
+  },
+  {
+    "id": "q-tech-112",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel réseau français de transmission de données le Minitel utilisait-il ?",
+    "choix": [
+      "Transpac",
+      "Cyclades",
+      "Numeris",
+      "Antiope"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Minitel accédait au service Télétel par Transpac, le réseau de données mis en place par les PTT, relié à la ligne téléphonique. Ce réseau, fondé sur la norme X.25, préfigurait lui-même l'infrastructure d'Internet.",
+    "source": "D'après Wikipédia — Minitel"
+  },
+  {
+    "id": "q-tech-113",
+    "domain": "tech",
+    "format": "associer",
+    "question": "Associe chaque service ou logiciel à l'élément qui le caractérise.",
+    "paires": [
+      {
+        "gauche": "Napster",
+        "droite": "Partage de musique en pair-à-pair",
+        "explication": "Un annuaire central mettait en relation les internautes qui s'échangeaient des fichiers MP3."
+      },
+      {
+        "gauche": "Netscape Navigator",
+        "droite": "JavaScript",
+        "explication": "La version 2.0 de ce navigateur a introduit JavaScript, avec les cookies et les cadres."
+      },
+      {
+        "gauche": "Google",
+        "droite": "PageRank",
+        "explication": "Cet algorithme de classement traite chaque lien vers une page comme un vote en sa faveur."
+      },
+      {
+        "gauche": "YouTube",
+        "droite": "« Me at the zoo »",
+        "explication": "Cette courte vidéo de Jawed Karim au zoo de San Diego est la toute première du site."
+      }
+    ],
+    "explication": "Ces quatre services ont marqué l'histoire du Web : l'échange direct de MP3, un navigateur de masse, un moteur fondé sur les liens et une plateforme de vidéos ouverte à tous. Chacun a durablement changé nos usages.",
+    "source": "D'après Wikipédia — Napster"
+  },
+  {
+    "id": "q-tech-114",
+    "domain": "tech",
+    "format": "difference",
+    "question": "Quelle est la différence entre Colossus et l'ENIAC ?",
+    "choix": [
+      "Colossus servait à décrypter un chiffrement, l'ENIAC était un calculateur programmable à usage général",
+      "Colossus était mécanique, l'ENIAC électronique",
+      "Colossus date des années 1960, l'ENIAC de 1945",
+      "Colossus a été conçu par Turing, l'ENIAC par von Neumann"
+    ],
+    "bonneReponse": 0,
+    "explication": "Colossus (1943-1944) a été construit à Bletchley Park pour attaquer le chiffrement Lorenz : électronique, mais pas universel. L'ENIAC (1945), américain, est programmable pour des problèmes numériques variés.",
+    "source": "D'après Wikipédia — Colossus (ordinateur)"
+  },
+  {
+    "id": "q-tech-115",
+    "domain": "tech",
+    "format": "frise",
+    "question": "Remets ces machines et services dans l'ordre de leur apparition.",
+    "evenements": [
+      {
+        "label": "L'ENIAC entre en service",
+        "annee": "1945"
+      },
+      {
+        "label": "L'Apple II est mis en vente",
+        "annee": "1977"
+      },
+      {
+        "label": "L'IBM PC est présenté",
+        "annee": "1981"
+      },
+      {
+        "label": "Netscape Navigator est lancé",
+        "annee": "1994"
+      },
+      {
+        "label": "YouTube est créé",
+        "annee": "2005"
+      }
+    ],
+    "explication": "L'ENIAC entre en service en décembre 1945, l'Apple II est vendu dès juin 1977, l'IBM PC est présenté en août 1981, Netscape Navigator sort fin 1994 et YouTube naît en 2005. Plus de trente ans séparent l'ENIAC de l'Apple II.",
+    "source": "D'après Wikipédia — Histoire de l'informatique"
+  },
+  {
+    "id": "q-tech-116",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel nom Linus Torvalds avait-il d'abord imaginé pour son noyau, avant que celui-ci ne devienne Linux ?",
+    "choix": [
+      "Freax",
+      "Minix",
+      "Unix-86",
+      "Torvix"
+    ],
+    "bonneReponse": 0,
+    "explication": "Torvalds pensait à « Freax » : free, freak et le x d'Unix. Mais Ari Lemmke, qui gérait le serveur où le code était déposé, a nommé le dossier « linux ». Ce nom s'est imposé et n'a plus changé.",
+    "source": "D'après Wikipédia — Linus Torvalds"
+  },
+  {
+    "id": "q-tech-117",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "En quelle année Douglas Engelbart présente-t-il en public sa souris, l'hypertexte et la visioconférence lors de « la mère de toutes les démos » ?",
+    "choix": [
+      "1968",
+      "1963",
+      "1975",
+      "1981"
+    ],
+    "bonneReponse": 0,
+    "explication": "La démonstration a lieu le 9 décembre 1968, à San Francisco. Engelbart y montre la souris, le travail à plusieurs sur un même document et la visioconférence, des années avant l'ordinateur personnel.",
+    "source": "D'après Wikipédia — Douglas Engelbart"
+  },
+  {
+    "id": "q-tech-118",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Douglas Engelbart a touché des redevances sur chaque souris d'ordinateur vendue.",
+    "reponse": false,
+    "explication": "C'est faux : le brevet appartenait au SRI, qui aurait cédé la licence à Apple pour environ 40 000 dollars. Engelbart a raconté ne jamais avoir reçu de redevances pour son invention.",
+    "source": "D'après Wikipédia — Douglas Engelbart"
+  },
+  {
+    "id": "q-tech-119",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Dans quel matériau Jack Kilby a-t-il réalisé le tout premier circuit intégré, en 1958 ?",
+    "choix": [
+      "Le germanium",
+      "Le silicium",
+      "Le cuivre",
+      "L'aluminium"
+    ],
+    "bonneReponse": 0,
+    "explication": "Kilby a présenté un circuit sur une plaquette de germanium, reliée à un oscilloscope. Robert Noyce a réalisé peu après un circuit intégré en silicium, plus facile à produire en série.",
+    "source": "D'après Wikipédia — Jack Kilby"
+  },
+  {
+    "id": "q-tech-120",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Jack Kilby a reçu la moitié du prix Nobel de physique 2000 sans avoir jamais obtenu de doctorat.",
+    "reponse": true,
+    "explication": "C'est vrai, ce qui est rare dans sa discipline. Le jury a salué son rôle dans l'invention du circuit intégré ; l'autre moitié du prix est allée à Alferov et Kroemer.",
+    "source": "D'après Wikipédia — Jack Kilby"
+  },
+  {
+    "id": "q-tech-121",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Pourquoi le jeune Robert Noyce a-t-il été suspendu un semestre du Grinnell College ?",
+    "choix": [
+      "Il avait volé un cochon pour le faire rôtir lors d'une fête",
+      "Il avait truqué ses notes de physique",
+      "Il avait fait exploser un four du laboratoire de chimie",
+      "Il avait vendu les sujets d'un examen"
+    ],
+    "bonneReponse": 0,
+    "explication": "Noyce avait pris un cochon de 25 livres à la ferme du maire de la ville pour le rôtir. Il risquait l'expulsion, mais le président de l'université, son professeur de physique, a préféré le suspendre un semestre.",
+    "source": "D'après Wikipédia — Robert Noyce"
+  },
+  {
+    "id": "q-tech-122",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Que commandent les cartes perforées du métier à tisser de Joseph-Marie Jacquard ?",
+    "choix": [
+      "Quels fils de la chaîne sont levés à chaque passage",
+      "La couleur de la teinture utilisée",
+      "La vitesse de rotation de la roue",
+      "Le nombre d'ouvriers présents"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chaque carte correspond à une rangée du dessin : les trous décident quels fils sont levés. Le motif est ainsi « programmé », ce qui explique que Babbage s'en soit inspiré et que le métier soit vu comme un ancêtre de l'ordinateur.",
+    "source": "D'après Wikipédia — Joseph-Marie Jacquard"
+  },
+  {
+    "id": "q-tech-123",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel est le premier produit de Cray Research, société fondée par Seymour Cray, lancé en 1976 ?",
+    "choix": [
+      "Le Cray-1",
+      "Le CDC 6600",
+      "Le Cray-2",
+      "Le Cray-3"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Cray-1 devançait presque toutes les machines de son époque. Le CDC 6600 datait de la période Control Data, le Cray-2 est sorti en 1985, et le Cray-3, de la société suivante, n'a jamais été produit.",
+    "source": "D'après Wikipédia — Seymour Cray"
+  },
+  {
+    "id": "q-tech-124",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "D'après Charles Kao, quelle est la cause principale de la perte de lumière dans les fibres de verre des années 1960 ?",
+    "choix": [
+      "Les impuretés présentes dans le verre",
+      "Un phénomène de diffusion impossible à éviter",
+      "La courbure trop forte des fibres",
+      "La couleur du verre employé"
+    ],
+    "bonneReponse": 0,
+    "explication": "Kao a démontré avec George Hockham que les pertes venaient des impuretés, qu'on pouvait retirer, et non d'une limite physique fondamentale comme beaucoup le croyaient. Cette idée a lancé la course au verre ultrapur.",
+    "source": "D'après Wikipédia — Charles Kao"
+  },
+  {
+    "id": "q-tech-125",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Colossus, conçu par Tommy Flowers, a servi à déchiffrer les messages de la machine Enigma.",
+    "reponse": false,
+    "explication": "C'est faux : Colossus s'attaquait au chiffre Lorenz, que les Britanniques appelaient « Tunny », bien plus complexe qu'Enigma. Les Bombes de Turing, elles, visaient les messages d'Enigma.",
+    "source": "D'après Wikipédia — Tommy Flowers"
+  },
+  {
+    "id": "q-tech-126",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Sur quelle difficulté mathématique repose la sécurité du chiffrement RSA ?",
+    "choix": [
+      "Retrouver les deux grands nombres premiers dont on connaît seulement le produit",
+      "Additionner de très grands nombres entiers",
+      "Deviner la date d'un échange de messages",
+      "Compter les nombres premiers inférieurs à un nombre donné"
+    ],
+    "bonneReponse": 0,
+    "explication": "Multiplier deux grands nombres premiers est rapide, mais retrouver ces deux facteurs à partir du produit, qui est public, est extrêmement long. Aucune méthode publiée ne vient à bout d'une clé assez grande.",
+    "source": "D'après Wikipédia — Chiffrement RSA"
+  },
+  {
+    "id": "q-tech-127",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Dans une blockchain, qu'est-ce qui relie chaque bloc au bloc précédent ?",
+    "choix": [
+      "L'empreinte cryptographique du bloc précédent",
+      "Un câble réservé entre deux ordinateurs",
+      "Le nom de l'utilisateur qui l'a créé",
+      "Une clé de chiffrement fixe et publique"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chaque bloc contient l'empreinte (hash) du précédent, une date et des transactions. Modifier un ancien bloc obligerait donc à refaire tous les suivants et à faire accepter le changement par le réseau.",
+    "source": "D'après Wikipédia — Blockchain"
+  },
+  {
+    "id": "q-tech-128",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "En 1962, quel langage a bénéficié du premier compilateur capable de se compiler lui-même, écrit au MIT ?",
+    "choix": [
+      "Lisp",
+      "FORTRAN",
+      "COBOL",
+      "Pascal"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tim Hart et Mike Levin ont écrit au MIT un compilateur de Lisp écrit en Lisp. Depuis, il est courant d'écrire un compilateur dans le langage qu'il traduit : le compilateur C est écrit en C.",
+    "source": "D'après Wikipédia — Compilateur"
+  },
+  {
+    "id": "q-tech-129",
+    "domain": "tech",
+    "format": "difference",
+    "question": "Quelle est la différence entre une base de données et son système de gestion (SGBD) ?",
+    "choix": [
+      "La base contient les données organisées ; le SGBD est le logiciel qui les manipule et dirige l'accès",
+      "La base est le logiciel ; le SGBD est le disque qui l'héberge",
+      "La base est réservée aux entreprises ; le SGBD est pour les particuliers",
+      "Il n'y a aucune différence, ce sont deux mots pour la même chose"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le SGBD est le logiciel moteur : il reçoit les demandes, accomplit les opérations sur les fichiers et permet à plusieurs utilisateurs de travailler en même temps sur le contenu de la base.",
+    "source": "D'après Wikipédia — Base de données"
+  },
+  {
+    "id": "q-tech-130",
+    "domain": "tech",
+    "format": "difference",
+    "question": "Quelle est la différence entre Linux et Git, deux créations de Linus Torvalds ?",
+    "choix": [
+      "Linux est un noyau de système d'exploitation (1991) ; Git est un logiciel de gestion de versions (2005)",
+      "Linux est un langage de programmation ; Git est un navigateur",
+      "Linux est un logiciel de gestion de versions ; Git est un noyau de système",
+      "Linux date de 2005 et Git de 1991, mais ils servent à la même chose"
+    ],
+    "bonneReponse": 0,
+    "explication": "Linux, lancé en 1991, est le noyau qui fait le lien entre logiciels et machine. Git, créé en 2005, suit les modifications d'un code écrit par de nombreux développeurs, d'abord pour le développement de Linux.",
+    "source": "D'après Wikipédia — Linus Torvalds"
+  },
+  {
+    "id": "q-tech-131",
+    "domain": "tech",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à New York en 1927 et j'ai fait carrière au MIT.",
+      "En 1951, j'ai construit SNARC, souvent vu comme le premier réseau de neurones artificiels.",
+      "Avec Seymour Papert, j'ai écrit Perceptrons en 1969, un livre qui a pesé sur la recherche en réseaux de neurones.",
+      "J'ai cofondé le laboratoire d'IA du MIT avec John McCarthy.",
+      "J'ai conseillé Stanley Kubrick pour 2001 : l'Odyssée de l'espace."
+    ],
+    "reponse": "Marvin Minsky",
+    "explication": "Marvin Minsky (1927-2016), l'un des pères de l'IA, a inventé aussi la « machine ultime » qui s'éteint toute seule et théorisé l'esprit comme une société d'agents simples dans La Société de l'esprit.",
+    "source": "D'après Wikipédia — Marvin Minsky"
+  },
+  {
+    "id": "q-tech-132",
+    "domain": "tech",
+    "format": "associer",
+    "question": "Associe chaque pionnier à sa création.",
+    "paires": [
+      {
+        "gauche": "Dennis Ritchie",
+        "droite": "Le langage C",
+        "explication": "Ritchie crée C au début des années 1970 et aide Ken Thompson à bâtir Unix."
+      },
+      {
+        "gauche": "Vint Cerf",
+        "droite": "TCP/IP, avec Bob Kahn",
+        "explication": "Cerf et Kahn conçoivent les règles de communication qui relient les réseaux, base d'Internet."
+      },
+      {
+        "gauche": "Alan Kay",
+        "droite": "Le Dynabook",
+        "explication": "Kay imagine à Xerox PARC un appareil d'apprentissage, ancêtre des portables et tablettes."
+      },
+      {
+        "gauche": "Yann Le Cun",
+        "droite": "LeNet, qui lit les chiffres manuscrits",
+        "explication": "Ce réseau convolutif de la fin des années 1980 a servi à lire des chèques bancaires."
+      },
+      {
+        "gauche": "John McCarthy",
+        "droite": "Le langage Lisp",
+        "explication": "McCarthy invente Lisp à la fin des années 1950, longtemps le langage favori de l'IA."
+      }
+    ],
+    "explication": "Ces cinq pionniers ont chacun posé une brique de l'informatique moderne : un langage, un protocole de réseau, une vision de l'ordinateur personnel, un réseau de neurones et un langage pour l'IA.",
+    "source": "D'après Wikipédia — Dennis Ritchie"
+  },
+  {
+    "id": "q-tech-133",
+    "domain": "tech",
+    "format": "frise",
+    "question": "Remets ces inventions dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Le métier à tisser de Jacquard est présenté à Paris",
+        "annee": "1801"
+      },
+      {
+        "label": "Hollerith obtient le brevet de sa machine à cartes perforées",
+        "annee": "1889"
+      },
+      {
+        "label": "Le premier Colossus fonctionne à Dollis Hill",
+        "annee": "1943"
+      },
+      {
+        "label": "Kilby présente son circuit intégré en germanium",
+        "annee": "1958"
+      },
+      {
+        "label": "Torvalds annonce son noyau Linux",
+        "annee": "1991"
+      }
+    ],
+    "explication": "Des cartes perforées du tissage à Linux, les idées s'enchaînent : cartes de Jacquard, cartes de recensement de Hollerith, ordinateur électronique Colossus, puce de Kilby, puis noyau libre de Torvalds.",
+    "source": "D'après Wikipédia — Herman Hollerith"
+  },
+  {
+    "id": "q-tech-134",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Qui a forgé le mot « hélicoptère » en 1861, à partir de deux mots grecs signifiant « spirale » et « aile » ?",
+    "choix": [
+      "Gustave de Ponton d'Amécourt",
+      "Igor Sikorsky",
+      "Louis Breguet",
+      "Paul Cornu"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Français Gustave de Ponton d'Amécourt invente le mot en 1861 (hélix, spirale, et pteron, aile), bien avant les premiers vols. Les anglophones l'ont ensuite mal découpé en « héli- » et « -copter ».",
+    "source": "D'après Wikipédia — Hélicoptère"
+  },
+  {
+    "id": "q-tech-135",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel sous-marin est devenu, en 1864, le premier à couler un navire ennemi, pendant la guerre de Sécession ?",
+    "choix": [
+      "Le H. L. Hunley",
+      "La Turtle",
+      "Le Nautilus de Fulton",
+      "Le Narval"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Hunley, sous-marin confédéré à hélice manuelle, coule l'USS Housatonic le 17 février 1864 au large de Charleston. Il disparaît lui aussi dans l'explosion de sa charge, avec son équipage.",
+    "source": "D'après Wikipédia — Sous-marin"
+  },
+  {
+    "id": "q-tech-136",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel animal a inspiré la forme des ailes de l'Éole, l'appareil de Clément Ader qui a décollé en 1890 ?",
+    "choix": [
+      "La chauve-souris",
+      "L'albatros",
+      "La libellule",
+      "L'hirondelle"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'Éole de Clément Ader imite l'aile d'une chauve-souris, avec une géométrie réglable par six manivelles. Il décolle le 9 octobre 1890 sur une cinquantaine de mètres, sans réel contrôle. Le mot « avion » vient de ces appareils.",
+    "source": "D'après Wikipédia — Clément Ader"
+  },
+  {
+    "id": "q-tech-137",
+    "domain": "tech",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né en 1873 au Brésil, dans une famille de planteurs de café.",
+      "J'ai construit le plus petit ballon de mon époque, le Brazil, en 1898.",
+      "En 1901, mon dirigeable a fait le tour de la tour Eiffel et gagné le prix Deutsch de la Meurthe.",
+      "Le 12 novembre 1906, mon 14-bis a volé 220 mètres devant des témoins officiels."
+    ],
+    "reponse": "Alberto Santos-Dumont",
+    "explication": "Alberto Santos-Dumont a vécu à Paris, où il a gagné le prix Deutsch en 1901 puis réalisé le premier vol public d'un avion à moteur homologué en 1906. Il a aussi conçu la petite Demoiselle, dont il offrait les plans.",
+    "source": "D'après Wikipédia — Alberto Santos-Dumont"
+  },
+  {
+    "id": "q-tech-138",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Pourquoi l'avion de Santos-Dumont s'appelle-t-il « 14-bis » ?",
+    "choix": [
+      "Il a d'abord été suspendu sous son dirigeable no 14, pour les premiers essais",
+      "Il est le quatorzième modèle de sa série",
+      "Il a volé le 14 octobre 1906",
+      "Il pesait quatorze quintaux"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour tester la sustentation, Santos-Dumont a accroché sa machine sous son dirigeable immatriculé « 14 ». D'où le nom de 14-bis (« 14 une seconde fois »). Il vole seul pour la première fois le 23 octobre 1906 à Bagatelle.",
+    "source": "D'après Wikipédia — Alberto Santos-Dumont"
+  },
+  {
+    "id": "q-tech-139",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quelle idée de James Watt, venue en 1765 à Glasgow, a rendu la machine à vapeur bien plus efficace ?",
+    "choix": [
+      "Faire condenser la vapeur dans une chambre séparée du cylindre",
+      "Utiliser de la vapeur à très haute pression",
+      "Remplacer le piston par une turbine",
+      "Chauffer l'eau avec du gaz d'éclairage"
+    ],
+    "bonneReponse": 0,
+    "explication": "La machine de Newcomen gaspillait près des trois quarts de la chaleur en chauffant puis refroidissant son cylindre. Watt sépare le condenseur : le cylindre reste chaud. Il fait breveter le principe en 1769.",
+    "source": "D'après Wikipédia — James Watt"
+  },
+  {
+    "id": "q-tech-140",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Selon une légende, James Watt aurait eu l'idée de la machine à vapeur en regardant le couvercle d'une bouilloire se soulever, mais les historiens la jugent probablement fausse.",
+    "reponse": true,
+    "explication": "L'histoire existe en plusieurs versions (jeune garçon, bouilloire de sa mère ou de sa tante), ce qui la rend suspecte. Watt n'a pas inventé la machine à vapeur : il a amélioré celle de Newcomen. Il utilisait toutefois une bouilloire dans ses expériences.",
+    "source": "D'après Wikipédia — James Watt"
+  },
+  {
+    "id": "q-tech-141",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel combustible alimentait le moteur à deux temps breveté par Étienne Lenoir en 1860 ?",
+    "choix": [
+      "Du gaz d'éclairage",
+      "De l'essence",
+      "Du charbon, brûlé sous une chaudière",
+      "De l'alcool"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans le moteur de Lenoir, du gaz d'éclairage mêlé à de l'air est allumé par une étincelle électrique. Il est gourmand et bruyant, mais il équipe vite des ateliers, un bateau et une petite voiture.",
+    "source": "D'après Wikipédia — Étienne Lenoir"
+  },
+  {
+    "id": "q-tech-142",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Comment Anders Celsius avait-il gradué son échelle de température à l'origine ?",
+    "choix": [
+      "100 pour la glace qui fond et 0 pour l'eau qui bout",
+      "0 pour la glace qui fond et 100 pour l'eau qui bout",
+      "0 pour l'eau qui gèle et 80 pour l'alcool qui bout",
+      "32 pour la glace qui fond et 212 pour l'eau qui bout"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'échelle de Celsius était d'abord à l'envers : 100 pour la glace, 0 pour l'ébullition. Elle a été inversée après sa mort, en 1744, peut-être à l'initiative de Linné. Les autres échelles sont celles de Réaumur et de Fahrenheit.",
+    "source": "D'après Wikipédia — Thermomètre"
+  },
+  {
+    "id": "q-tech-143",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Que montre l'expérience du Puy de Dôme, réalisée en septembre 1648 à la demande de Blaise Pascal ?",
+    "choix": [
+      "Le mercure du baromètre descend quand on monte en altitude",
+      "Le mercure monte plus haut en altitude",
+      "La hauteur du mercure ne dépend pas de l'endroit",
+      "Le vide n'existe pas dans la nature"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le beau-frère de Pascal, Florin Périer, constate que la colonne de mercure est plus basse au sommet qu'au pied de la montagne. L'air a donc un poids, qui diminue avec l'altitude. L'unité de pression s'appelle aujourd'hui le pascal.",
+    "source": "D'après Wikipédia — Baromètre"
+  },
+  {
+    "id": "q-tech-144",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Le sismoscope de Zhang Heng, en 132, indiquait à la fois la direction, la distance et l'intensité d'un séisme.",
+    "reponse": false,
+    "explication": "L'appareil de Zhang Heng ne donnait que la direction : une boule tombait de la bouche d'un des huit dragons dans celle d'un crapaud. On ne pouvait connaître ni la distance ni l'intensité de la secousse.",
+    "source": "D'après Wikipédia — Sismographe"
+  },
+  {
+    "id": "q-tech-145",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Depuis la révision du 20 mai 2019, le kilogramme est défini par un objet en métal conservé près de Paris.",
+    "reponse": false,
+    "explication": "Depuis 2019, toutes les unités du SI sont définies à partir de constantes fixées. Le kilogramme repose sur la constante de Planck, et non plus sur un étalon matériel, qui pouvait se perdre ou s'abîmer.",
+    "source": "D'après Wikipédia — Système international d'unités"
+  },
+  {
+    "id": "q-tech-146",
+    "domain": "tech",
+    "format": "associer",
+    "question": "Associe chaque instrument à ce qu'il permet d'observer ou de mesurer.",
+    "paires": [
+      {
+        "gauche": "Baromètre",
+        "droite": "La pression de l'air",
+        "explication": "Il mesure le poids de l'atmosphère, d'où les prévisions météo."
+      },
+      {
+        "gauche": "Sismographe",
+        "droite": "Les secousses du sol",
+        "explication": "Une masse reste immobile pendant que le bâti suit le séisme."
+      },
+      {
+        "gauche": "Spectromètre",
+        "droite": "Les composantes d'une lumière",
+        "explication": "Il sépare les longueurs d'onde et révèle la composition d'un objet."
+      },
+      {
+        "gauche": "Oscilloscope",
+        "droite": "La forme d'un signal électrique",
+        "explication": "Il trace une tension en fonction du temps sur un écran."
+      }
+    ],
+    "explication": "Chaque instrument lit une grandeur différente : la pression pour le baromètre, le mouvement du sol pour le sismographe, le spectre de la lumière pour le spectromètre, la courbe de tension pour l'oscilloscope.",
+    "source": "D'après Wikipédia — Baromètre"
+  },
+  {
+    "id": "q-tech-147",
+    "domain": "tech",
+    "format": "frise",
+    "question": "Remets dans l'ordre chronologique les étapes de la définition du mètre.",
+    "evenements": [
+      {
+        "label": "Le mètre est tiré de la taille de la Terre (méridien)",
+        "annee": "1795"
+      },
+      {
+        "label": "Convention du Mètre et création du Bureau international des poids et mesures",
+        "annee": "1875"
+      },
+      {
+        "label": "Prototype en platine et iridium",
+        "annee": "1889"
+      },
+      {
+        "label": "Définition par la lumière d'un atome de krypton",
+        "annee": "1960"
+      },
+      {
+        "label": "Définition par la vitesse de la lumière",
+        "annee": "1983"
+      }
+    ],
+    "explication": "Le mètre est passé de la Terre à une barre de métal, puis à la lumière. Depuis 1983, c'est la vitesse de la lumière qui le fixe, ce qui évite d'avoir besoin d'un objet de référence.",
+    "source": "D'après Wikipédia — Mètre"
+  },
+  {
+    "id": "q-tech-148",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel horloger anglais a résolu le problème de la longitude en mer avec sa montre H4 ?",
+    "choix": [
+      "John Harrison",
+      "Christiaan Huygens",
+      "Jeremy Thacker",
+      "Aaron Dennison"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour connaître sa longitude, il faut l'heure du port de départ : une seconde d'erreur déplace la position de 463 mètres. Harrison remporte le prix de l'Amirauté britannique avec une montre à balancier compensé en température.",
+    "source": "D'après Wikipédia — Chronomètre"
+  },
+  {
+    "id": "q-tech-149",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Sur quelle vibration d'atome la seconde est-elle définie depuis la fin des années 1960 ?",
+    "choix": [
+      "Celle de l'atome de césium 133",
+      "Celle de l'atome d'hydrogène",
+      "Celle de l'atome de strontium",
+      "Celle de l'atome d'ammoniac"
+    ],
+    "bonneReponse": 0,
+    "explication": "La seconde est la durée de 9 192 631 770 oscillations d'une transition de l'atome de césium 133. Les horloges optiques, à strontium par exemple, sont encore plus précises : la seconde pourrait être redéfinie vers 2030.",
+    "source": "D'après Wikipédia — Horloge atomique"
+  },
+  {
+    "id": "q-tech-150",
+    "domain": "tech",
+    "format": "difference",
+    "question": "Quelle est la différence entre une compression de données sans perte et avec perte ?",
+    "choix": [
+      "Sans perte, on retrouve exactement l'original ; avec perte, on obtient une version proche mais modifiée",
+      "Sans perte, le fichier devient plus gros ; avec perte, il devient plus petit",
+      "Sans perte sert aux images, avec perte sert au texte",
+      "Il n'y a pas de différence, seul le nom du format change"
+    ],
+    "bonneReponse": 0,
+    "explication": "La compression sans perte (ZIP, PNG) restitue exactement les mêmes bits. Celle avec perte (JPEG, MP3) supprime des détails que l'œil ou l'oreille remarquent peu, et ne peut pas être défaite.",
+    "source": "D'après Wikipédia — Compression de données"
+  },
+  {
+    "id": "q-tech-151",
+    "domain": "tech",
+    "format": "difference",
+    "question": "Quelle est la différence entre un chronomètre et un chronographe en horlogerie ?",
+    "choix": [
+      "Le chronomètre est une montre dont la précision est certifiée ; le chronographe mesure une durée courte avec des boutons",
+      "Le chronomètre sert pour la mer ; le chronographe pour le sport uniquement",
+      "Le chronomètre est numérique ; le chronographe est mécanique",
+      "C'est le même appareil avec deux noms"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Chronomètre » désigne un mouvement testé par un organisme officiel pendant plusieurs jours. Le petit appareil à boutons des courses est un chronographe, ou compteur. Une montre peut être les deux à la fois.",
+    "source": "D'après Wikipédia — Chronomètre"
+  },
+  {
+    "id": "q-tech-152",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel ingénieur allemand a fait voler en 1939 le premier avion propulsé par un turboréacteur, le Heinkel He 178 ?",
+    "choix": [
+      "Hans von Ohain",
+      "Frank Whittle",
+      "Anselm Franz",
+      "Ernst Heinkel"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hans von Ohain, docteur en physique recruté par l'avionneur Heinkel, conçoit un moteur à réaction qui équipe le He 178, premier avion à réaction à voler, le 27 août 1939. Frank Whittle, lui, y travaillait en Grande-Bretagne.",
+    "source": "D'après Wikipédia — Turboréacteur"
+  },
+  {
+    "id": "q-tech-153",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Lors du match de 1997, un défaut du programme de Deep Blue lui a fait jouer un coup choisi au hasard, que Kasparov a pris pour un signe d'intelligence supérieure.",
+    "reponse": true,
+    "explication": "Au 44e coup de la première partie, un bogue a fait entrer la machine dans une boucle, dont elle est sortie en jouant un coup aléatoire. Kasparov, déstabilisé, a cru y voir une « intelligence supérieure ».",
+    "source": "D'après Wikipédia — Deep Blue"
+  },
+  {
+    "id": "q-tech-154",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "De quel mot latin le nom « silicium » est-il tiré ?",
+    "choix": [
+      "silex, le caillou",
+      "sol, le soleil",
+      "sabulum, le sable fin",
+      "silva, la forêt"
+    ],
+    "bonneReponse": 0,
+    "explication": "Humphry Davy propose en 1808 le nom « silicium », du latin silex, silicis, le silex. Il ajoute la terminaison « -ium » car il croit à un métal. Le silicium est en réalité un métalloïde, présent partout dans le sable et le quartz.",
+    "source": "D'après Wikipédia — Silicium"
+  },
+  {
+    "id": "q-tech-155",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel pays a mis en service la première ligne ferroviaire à grande vitesse du monde, en 1964, entre Tokyo et Osaka ?",
+    "choix": [
+      "Le Japon",
+      "La France",
+      "L'Allemagne",
+      "L'Italie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Japon inaugure en 1964 le Shinkansen, mot qui signifie « nouvelle grande ligne ». La France suit en 1981 avec le TGV avec la LGV Sud-Est, puis d'autres pays d'Europe et d'Asie, dont la Chine.",
+    "source": "D'après Wikipédia — Train à grande vitesse"
+  },
+  {
+    "id": "q-tech-156",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel physicien a imaginé en 1959 de manipuler les atomes un par un, en évoquant l'idée d'écrire une encyclopédie sur une tête d'épingle ?",
+    "choix": [
+      "Richard Feynman",
+      "Albert Einstein",
+      "Niels Bohr",
+      "Enrico Fermi"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 29 décembre 1959, Richard Feynman prononce devant la Société américaine de physique un discours sur l'infiniment petit. Sa vision de matériaux construits atome par atome est souvent citée comme l'origine des nanotechnologies.",
+    "source": "D'après Wikipédia — Nanotechnologie"
+  },
+  {
+    "id": "q-tech-157",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Comment appelle-t-on la perte des effets quantiques d'un qubit au contact de son environnement, principal frein des ordinateurs quantiques ?",
+    "choix": [
+      "La décohérence",
+      "La diffraction",
+      "La dissipation",
+      "La dispersion"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un qubit mal isolé perd son état quantique en échangeant avec son milieu : c'est la décohérence, qui introduit des erreurs dans le calcul. D'où des machines très isolées et des codes correcteurs d'erreurs complexes.",
+    "source": "D'après Wikipédia — Ordinateur quantique"
+  },
+  {
+    "id": "q-tech-158",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Dans la pièce R.U.R. de Karel Čapek, où apparaît le mot « robot », les robots sont des machines de métal.",
+    "reponse": false,
+    "explication": "Les « robots » de R.U.R. (1920) sont des êtres humains artificiels et organiques. Le mot, du tchèque robota (« corvée, travail forcé »), n'a désigné des machines de métal que plus tard. Karel en attribuait l'invention à son frère Josef.",
+    "source": "D'après Wikipédia — Robot"
+  },
+  {
+    "id": "q-tech-159",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quelle invention de 1912 a contribué à faire disparaître les voitures électriques du marché au début du XXe siècle ?",
+    "choix": [
+      "Le démarreur électrique des voitures à essence",
+      "Le moteur Diesel",
+      "Le pneu à carcasse radiale",
+      "Le frein à disque"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le démarreur électrique supprime la dangereuse manivelle des voitures à essence. Avec les modèles de Ford produits en série, il fait disparaître peu à peu les voitures électriques, qui étaient jusque-là réputées plus confortables.",
+    "source": "D'après Wikipédia — Voiture électrique"
+  },
+  {
+    "id": "q-tech-160",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quelle centrale est la première au monde à avoir alimenté un réseau électrique en courant d'origine nucléaire, le 27 juin 1954 ?",
+    "choix": [
+      "Obninsk, en Union soviétique",
+      "Marcoule, en France",
+      "Calder Hall, au Royaume-Uni",
+      "Shippingport, aux États-Unis"
+    ],
+    "bonneReponse": 0,
+    "explication": "Obninsk est connectée au réseau le 27 juin 1954, avec cinq mégawatts. Marcoule et Calder Hall suivent en 1956, et Shippingport en 1957. Le tout premier courant nucléaire, en 1951, venait d'un réacteur expérimental de l'Idaho.",
+    "source": "D'après Wikipédia — Centrale nucléaire"
+  },
+  {
+    "id": "q-tech-161",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Selon la loi de Betz, énoncée en 1920, quelle part maximale de la puissance du vent une éolienne peut-elle récupérer ?",
+    "choix": [
+      "Environ 59 %, soit 16/27",
+      "100 %, si l'éolienne est bien conçue",
+      "Environ 25 %",
+      "Environ 80 %"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le vent doit garder une partie de son énergie pour continuer à s'écouler après la turbine : on ne peut donc pas « arrêter » le vent. Albert Betz a démontré que le maximum théorique est de 16/27 de la puissance incidente, soit environ 59 %.",
+    "source": "D'après Wikipédia — Éolienne"
+  },
+  {
+    "id": "q-tech-162",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "De quoi dépend la poussée de l'eau sur un barrage ?",
+    "choix": [
+      "Du carré de la hauteur de l'eau, et non du volume stocké",
+      "Du volume total d'eau stocké dans le lac",
+      "De la longueur du lac en amont",
+      "De la température de l'eau"
+    ],
+    "bonneReponse": 0,
+    "explication": "La force de l'eau sur le mur augmente avec le carré de la profondeur de la retenue, sans dépendre pour autant de la quantité d'eau retenue. Un lac étroit et profond pousse donc plus fort qu'un lac vaste mais peu profond.",
+    "source": "D'après Wikipédia — Barrage"
+  },
+  {
+    "id": "q-tech-163",
+    "domain": "tech",
+    "format": "associer",
+    "question": "Associe chaque élément d'une pile à combustible à hydrogène à son rôle.",
+    "paires": [
+      {
+        "gauche": "Anode",
+        "droite": "Sépare l'hydrogène en protons et en électrons",
+        "explication": "Un catalyseur, souvent du platine, y casse la molécule d'hydrogène en protons et en électrons."
+      },
+      {
+        "gauche": "Membrane",
+        "droite": "Laisse passer les protons mais bloque les électrons",
+        "explication": "Elle sépare les deux côtés de la cellule et ne laisse traverser que les ions positifs d'hydrogène."
+      },
+      {
+        "gauche": "Circuit extérieur",
+        "droite": "Transporte les électrons, ce qui crée le courant",
+        "explication": "Forcés de faire le tour, les électrons alimentent l'appareil branché : c'est le courant électrique."
+      },
+      {
+        "gauche": "Cathode",
+        "droite": "Forme de l'eau avec l'oxygène, les protons et les électrons",
+        "explication": "C'est là que la pile fabrique son seul rejet, de l'eau, en dégageant aussi un peu de chaleur."
+      }
+    ],
+    "explication": "Dans une pile à combustible, l'hydrogène est coupé en protons et électrons à l'anode. Les protons traversent la membrane, les électrons passent par le circuit extérieur, et tous se retrouvent à la cathode pour former de l'eau.",
+    "source": "D'après Wikipédia — Pile à combustible"
+  },
+  {
+    "id": "q-tech-164",
+    "domain": "tech",
+    "format": "qui-suis-je",
+    "indices": [
+      "J'ai été construit à vingt exemplaires seulement.",
+      "Mon premier vol a eu lieu à Toulouse, le 2 mars 1969.",
+      "Mon nom s'écrit avec un « e » qui, selon un ministre britannique, signifie aussi Excellence, England, Europe et Entente.",
+      "Je croisais à Mach 2,04, soit environ 2 172 km/h, avec une aile delta.",
+      "Air France et British Airways m'ont exploité de 1976 à 2003."
+    ],
+    "reponse": "Le Concorde",
+    "explication": "Le Concorde, avion supersonique franco-britannique, a transporté des passagers de 1976 à 2003. Faute de commandes, seuls vingt exemplaires ont été construits, dont six pour les essais.",
+    "source": "D'après Wikipédia — Concorde (avion)"
+  },
+  {
+    "id": "q-tech-165",
+    "domain": "tech",
+    "format": "frise",
+    "question": "Remets ces ouvertures de métros dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Ouverture du métro de Londres",
+        "annee": "1863"
+      },
+      {
+        "label": "Ouverture du métro de Budapest",
+        "annee": "1896"
+      },
+      {
+        "label": "Première ligne du métro de Paris",
+        "annee": "1900"
+      },
+      {
+        "label": "Ouverture du métro de Tokyo",
+        "annee": "1927"
+      },
+      {
+        "label": "Première ligne du métro de Moscou",
+        "annee": "1935"
+      }
+    ],
+    "explication": "Londres ouvre le premier métro en 1863. Budapest est la première ville d'Europe continentale en 1896, Paris suit pour l'Exposition universelle de 1900, puis Tokyo, premier métro d'Asie, en 1927, et Moscou en 1935.",
+    "source": "D'après Wikipédia — Métro"
+  },
+  {
+    "id": "q-tech-166",
+    "domain": "tech",
+    "format": "difference",
+    "question": "Quelle est la différence entre une pile à combustible et une pile ordinaire ?",
+    "choix": [
+      "La pile à combustible produit du courant tant qu'on lui fournit du combustible et de l'oxygène ; une pile ordinaire contient déjà ses réactifs",
+      "La pile à combustible stocke l'électricité, alors que la pile ordinaire la produit",
+      "La pile à combustible fonctionne sans aucune réaction chimique",
+      "La pile à combustible ne peut utiliser que du pétrole"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans une pile ordinaire, l'énergie chimique est déjà présente dans la pile. Dans une pile à combustible, hydrogène et oxygène arrivent en continu : elle produit donc de l'électricité tant qu'elle est alimentée, en rejetant de l'eau.",
+    "source": "D'après Wikipédia — Pile à combustible"
+  },
+  {
+    "id": "q-tech-167",
+    "domain": "tech",
+    "format": "difference",
+    "question": "Pourquoi dit-on de l'hydrogène que c'est un vecteur d'énergie plutôt qu'une source d'énergie primaire ?",
+    "choix": [
+      "Parce qu'il faut d'abord le fabriquer, en dépensant de l'énergie, avant de pouvoir la restituer",
+      "Parce qu'on le puise directement en grande quantité dans l'atmosphère",
+      "Parce qu'il ne peut jamais brûler",
+      "Parce qu'il est toujours produit sans aucune énergie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sur Terre, l'hydrogène est surtout lié à d'autres éléments, par exemple dans l'eau. On le produit, le plus souvent à partir de combustibles fossiles, plus rarement par électrolyse, puis on le stocke. Il transporte de l'énergie sans en créer.",
+    "source": "D'après Wikipédia — Hydrogène"
+  },
+  {
+    "id": "q-tech-168",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Comment Elisha Otis a-t-il démontré la sécurité de son frein-parachute devant le public, en 1854 ?",
+    "choix": [
+      "En faisant couper à la hache la corde de la plate-forme sur laquelle il se tenait",
+      "En laissant tomber une cabine vide depuis le toit d'un immeuble",
+      "En le testant avec des animaux de ferme",
+      "En faisant monter un cortège de soldats"
+    ],
+    "bonneReponse": 0,
+    "explication": "Au Crystal Palace de New York, Otis se fait hisser sur une plate-forme puis ordonne de couper la corde. Le frein-parachute bloque aussitôt la plate-forme, ce qui contribue à sa renommée et à la confiance envers les ascenseurs.",
+    "source": "D'après Wikipédia — Ascenseur"
+  },
+  {
+    "id": "q-tech-169",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Le poste de pilotage du Boeing 747 a été placé sur une bosse pour pouvoir ouvrir une porte cargo dans le nez de l'avion.",
+    "reponse": true,
+    "explication": "Boeing pensait que les avions supersoniques remplaceraient bientôt le 747 pour les passagers. Le cockpit surélevé libère le nez pour une porte cargo, de façon à transformer l'avion en cargo : d'où sa fameuse bosse.",
+    "source": "D'après Wikipédia — Boeing 747"
+  },
+  {
+    "id": "q-tech-170",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Le format JPEG réduit le poids d'une image en supprimant surtout des détails que l'œil humain remarque à peine.",
+    "reponse": true,
+    "explication": "Le JPEG sépare la luminosité, à laquelle l'œil est sensible, de la teinte, qu'il perçoit moins bien, et atténue les détails fins. Voilà pourquoi une photo en .jpg est bien plus légère, sans différence flagrante à l'écran.",
+    "source": "D'après Wikipédia — JPEG"
+  },
+  {
+    "id": "q-tech-171",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel était le nom du projet lancé en 1991 par John Warnock, cofondateur d'Adobe, qui a donné naissance au PDF ?",
+    "choix": [
+      "Camelot",
+      "Excalibur",
+      "Avalon",
+      "Merlin"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1991, John Warnock rédige un texte sur le projet Camelot, qui propose une version simplifiée de PostScript. Le logiciel s'appelait Carousel. Le PDF 1.0 est présenté en 1992 et devient une norme ISO en 2008.",
+    "source": "D'après Wikipédia — Portable Document Format"
+  },
+  {
+    "id": "q-tech-172",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quelle chanson les ingénieurs ont-ils beaucoup utilisée pour mettre au point la compression MP3, car sa voix très pure révélait les défauts ?",
+    "choix": [
+      "Tom's Diner, de Suzanne Vega",
+      "Fast Car, de Tracy Chapman",
+      "Hallelujah, de Leonard Cohen",
+      "Imagine, de John Lennon"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Tom's Diner » de Suzanne Vega a servi de séquence de test pour l'algorithme du MP3. Choisie pour sa finesse et sa simplicité, elle rend les imperfections du codec faciles à détecter, avec une voix presque nue.",
+    "source": "D'après Wikipédia — MP3"
+  },
+  {
+    "id": "q-tech-173",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Le tout premier système informatique à demander un mot de passe à la connexion date des années 1990.",
+    "reponse": false,
+    "explication": "Le premier système à exiger un mot de passe est le CTSS, au MIT, en 1961. Il avait même une commande de connexion qui coupait l'impression des caractères pour que l'utilisateur tape son mot de passe en toute discrétion.",
+    "source": "D'après Wikipédia — Mot de passe"
+  },
+  {
+    "id": "q-tech-174",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Que s'est-il passé le 24 juin 1993 au Xerox PARC, une première pour le streaming ?",
+    "choix": [
+      "Un groupe de rock, Severe Tire Damage, a joué en direct sur Internet",
+      "Un match de baseball a été diffusé en direct",
+      "Le premier film a été visionné en ligne",
+      "La première visioconférence d'entreprise a eu lieu"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le groupe Severe Tire Damage a joué au Xerox PARC pendant que des chercheurs testaient la diffusion multipoint. Le concert a été vu en Australie. Le match de baseball, lui, n'a été diffusé qu'en 1995.",
+    "source": "D'après Wikipédia — Streaming"
+  },
+  {
+    "id": "q-tech-175",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Où le mot « hacker » est-il apparu dans son sens informatique, en 1959 ?",
+    "choix": [
+      "Dans le club de modélisme ferroviaire du MIT",
+      "Dans les laboratoires Bell",
+      "Au centre de recherche Xerox PARC",
+      "À l'université Stanford"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ce sont des étudiants du MIT passionnés de trains miniatures qui lancent le mot. Ils détournaient des circuits téléphoniques pour leur réseau, et leur dictionnaire de 1959 définit le hack.",
+    "source": "D'après Wikipédia — Hacker (sous-culture)"
+  },
+  {
+    "id": "q-tech-176",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel réflexe de protection est généralement conseillé face aux rançongiciels ?",
+    "choix": [
+      "Faire des sauvegardes régulières, conservées hors ligne",
+      "Payer la rançon le plus vite possible",
+      "Désactiver les mises à jour pour éviter les pannes",
+      "Ouvrir toutes les pièces jointes pour les analyser"
+    ],
+    "bonneReponse": 0,
+    "explication": "Des sauvegardes régulières stockées hors ligne permettent de restaurer ses fichiers sans payer. On conseille aussi de déconnecter l'appareil infecté du réseau. La plateforme No More Ransom aide, elle, à récupérer ses données.",
+    "source": "D'après Wikipédia — Rançongiciel"
+  },
+  {
+    "id": "q-tech-177",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Parmi ces exemples, lequel est une véritable authentification à deux facteurs ?",
+    "choix": [
+      "Un mot de passe, puis un code à usage unique reçu sur le téléphone",
+      "Deux mots de passe différents saisis l'un après l'autre",
+      "Un mot de passe de plus de vingt caractères",
+      "Un identifiant et un mot de passe"
+    ],
+    "bonneReponse": 0,
+    "explication": "Il faut deux preuves de natures différentes : ce que l'on sait (le mot de passe) et ce que l'on possède (le téléphone). Deux mots de passe restent deux choses que l'on sait, donc un seul facteur.",
+    "source": "D'après Wikipédia — Double authentification"
+  },
+  {
+    "id": "q-tech-178",
+    "domain": "tech",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je ne désigne pas une taille de machine, mais un rôle.",
+      "Mon nom vient de la théorie des files d'attente.",
+      "Je réponds automatiquement aux requêtes d'autres appareils.",
+      "On me trouve souvent empilé dans une baie, dans un centre de données.",
+      "Quand vous ouvrez un site, c'est moi qui renvoie la page à votre navigateur."
+    ],
+    "reponse": "Un serveur informatique",
+    "explication": "Un serveur peut être un petit boîtier ou une grappe de machines : c'est son rôle, répondre à des clients, qui compte. Il fonctionne sans arrêt et vise une disponibilité de 99,999 %.",
+    "source": "D'après Wikipédia — Serveur informatique"
+  },
+  {
+    "id": "q-tech-179",
+    "domain": "tech",
+    "format": "associer",
+    "question": "Associe chaque terme à sa définition.",
+    "paires": [
+      {
+        "gauche": "Serveur informatique",
+        "droite": "Répond aux demandes des clients",
+        "explication": "Il traite automatiquement les requêtes et renvoie un résultat, comme une page web."
+      },
+      {
+        "gauche": "Adresse IP",
+        "droite": "Numéro qui identifie un appareil sur un réseau",
+        "explication": "Elle permet d'acheminer les paquets de données de proche en proche, jusqu'à leur destination."
+      },
+      {
+        "gauche": "Nom de domaine",
+        "droite": "Adresse lisible traduite par le DNS",
+        "explication": "Plus facile à retenir qu'une suite de chiffres, il est converti en adresse IP."
+      },
+      {
+        "gauche": "Centre de données",
+        "droite": "Bâtiment qui rassemble des serveurs",
+        "explication": "Il est climatisé, sécurisé et alimenté en électricité de secours pour ne jamais s'arrêter."
+      },
+      {
+        "gauche": "Réseau privé virtuel",
+        "droite": "Tunnel entre des appareils distants",
+        "explication": "Il isole les échanges du reste d'Internet, souvent avec chiffrement, par exemple en télétravail."
+      }
+    ],
+    "explication": "Ces cinq notions forment la base de l'Internet quotidien : des machines qui répondent, qui se repèrent par des numéros, qui portent des noms lisibles et qui vivent dans des bâtiments dédiés.",
+    "source": "D'après Wikipédia — Adresse IP"
+  },
+  {
+    "id": "q-tech-180",
+    "domain": "tech",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire des satellites dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Arthur C. Clarke imagine des satellites géostationnaires de télécommunications",
+        "annee": "1945"
+      },
+      {
+        "label": "Lancement de Spoutnik 1 par l'URSS",
+        "annee": "1957"
+      },
+      {
+        "label": "Lancement d'Explorer 1, premier satellite américain",
+        "annee": "1958"
+      },
+      {
+        "label": "TIROS-1 envoie les premières images météo depuis l'espace",
+        "annee": "1960"
+      },
+      {
+        "label": "La France lance Astérix avec sa propre fusée",
+        "annee": "1965"
+      }
+    ],
+    "explication": "Clarke publie son idée en 1945, bien avant le premier lancement. Spoutnik 1 ouvre la course à l'espace en 1957 ; Explorer 1 découvre les ceintures de Van Allen en 1958 ; Astérix fait de la France le troisième pays lanceur en 1965.",
+    "source": "D'après Wikipédia — Satellite artificiel"
+  },
+  {
+    "id": "q-tech-181",
+    "domain": "tech",
+    "format": "difference",
+    "question": "Quelle est la différence entre un nom de domaine et une adresse IP ?",
+    "choix": [
+      "Le nom de domaine est une adresse lisible que le DNS traduit en adresse IP, numérique",
+      "L'adresse IP est lisible alors que le nom de domaine est un numéro",
+      "Le nom de domaine identifie seulement les appareils d'un réseau local",
+      "Il n'y a aucune différence, ce sont deux noms du même numéro"
+    ],
+    "bonneReponse": 0,
+    "explication": "Wikipedia.org est plus simple à retenir qu'une suite de chiffres. Quand vous tapez le nom, le système de noms de domaine le convertit en adresse IP, et ce n'est qu'ensuite que la connexion s'établit.",
+    "source": "D'après Wikipédia — Nom de domaine"
+  },
+  {
+    "id": "q-tech-182",
+    "domain": "tech",
+    "format": "vrai-faux",
+    "affirmation": "Un réseau privé virtuel (VPN) rend son utilisateur totalement anonyme sur Internet.",
+    "reponse": false,
+    "explication": "Un VPN chiffré empêche le fournisseur d'accès de lire les échanges, mais le fournisseur du VPN, lui, peut voir l'activité de ses utilisateurs. L'anonymat complet n'est donc pas garanti.",
+    "source": "D'après Wikipédia — Réseau privé virtuel"
+  },
+  {
+    "id": "q-tech-183",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Pourquoi n'y a-t-il pas d'IPv5 entre IPv4 et IPv6 ?",
+    "choix": [
+      "Le numéro 5 avait été donné à un protocole expérimental de transmission en continu",
+      "Le numéro 5 a été jugé porte-malheur",
+      "Une version 5 a été abandonnée avant d'être testée",
+      "Les ingénieurs ont voulu sauter un numéro pour marquer la différence"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le numéro 5 avait été attribué en 1979 à l'Internet Stream Protocol, un protocole expérimental. Il n'a jamais été appelé IPv5, mais le numéro était pris : la version suivante est donc devenue l'IPv6.",
+    "source": "D'après Wikipédia — Adresse IP"
+  },
+  {
+    "id": "q-tech-184",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel est le tout premier nom de domaine enregistré au monde, le 15 mars 1985 ?",
+    "choix": [
+      "symbolics.com",
+      "xerox.com",
+      "ibm.com",
+      "apple.com"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 15 mars 1985, le constructeur d'ordinateurs Symbolics enregistre symbolics.com. Un nom de domaine ne s'achète pas : on le loue à un bureau d'enregistrement pour une durée allant de 6 mois à 10 ans.",
+    "source": "D'après Wikipédia — Nom de domaine"
+  },
+  {
+    "id": "q-tech-185",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Selon l'Agence internationale de l'énergie, quelle part environ de l'électricité mondiale les centres de données ont-ils consommée en 2024 ?",
+    "choix": [
+      "Environ 1,5 %",
+      "Environ 0,1 %",
+      "Environ 10 %",
+      "Environ 25 %"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'Agence estime cette consommation à environ 415 térawattheures en 2024, soit près de 1,5 % de l'électricité mondiale, avec une hausse d'environ 12 % par an sur cinq ans. La climatisation en représente une grosse part.",
+    "source": "D'après Wikipédia — Centre de données"
+  },
+  {
+    "id": "q-tech-186",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Quel pays a lancé le premier réseau 5G commercial national, le 3 avril 2019 ?",
+    "choix": [
+      "La Corée du Sud",
+      "Le Japon",
+      "Les États-Unis",
+      "La Chine"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Corée du Sud a ouvert son réseau 5G national le 3 avril 2019, quelques heures avant le lancement limité de Verizon dans des villes américaines. Les débits mesurés étaient alors de 200 à 400 Mbit/s en moyenne.",
+    "source": "D'après Wikipédia — 5G"
+  },
+  {
+    "id": "q-tech-187",
+    "domain": "tech",
+    "format": "qcm",
+    "question": "Qui a créé en 1999 le jeu de 176 pictogrammes de 12 × 12 pixels pour le service i-mode de NTT DoCoMo ?",
+    "choix": [
+      "Shigetaka Kurita",
+      "Harvey Ball",
+      "Scott Fahlman",
+      "Nicolas Loufrani"
+    ],
+    "bonneReponse": 0,
+    "explication": "Shigetaka Kurita a dessiné ces pictogrammes pour distinguer l'i-mode de ses concurrents. Harvey Ball a créé le smiley en 1963, Scott Fahlman proposait en 1982 les émoticônes :-) et :-(.",
+    "source": "D'après Wikipédia — Émoji"
   }
 ]

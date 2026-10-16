@@ -33,10 +33,6 @@
     <button class="pc-nav__link" type="button" data-go="quiz-jour" data-nav="quiz-jour">Quiz du jour</button>
     <button class="pc-nav__link" type="button" data-go="dragon" data-nav="dragon">Dragon Tour</button>
     <span class="pc-nav__sp"></span>
-    <button class="pc-nav__search" type="button" data-go="search" data-nav="search">
-      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
-      <span>Rechercher une fiche…</span>
-    </button>
   </div>
 </nav>
 
@@ -51,10 +47,6 @@
       <p class="home-hero__subtitle" id="home-greeting">Un peu de culture, à ton rythme.</p>
     </div>
 
-    <button class="search-pill" type="button" data-go="search">
-      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
-      <span>Rechercher une fiche…</span>
-    </button>
 
     <button class="daily-card" type="button" data-go="daily">
       <span class="daily-card__icon">🍔</span>
@@ -170,7 +162,7 @@
   </section>
 
   <!-- ===== RECHERCHE ===== -->
-  <section class="screen" data-screen="search" data-title="Rechercher" data-back="home" hidden>
+  <section class="screen" data-screen="search" data-title="Rechercher" data-back="fiches-theme" hidden>
     <div class="search-bar" id="search-bar">
       <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
       <input id="search-input" type="search" placeholder="Napoléon, volcan, jazz…" autocomplete="off" autocorrect="off" spellcheck="false" enterkeyhint="search" aria-label="Rechercher une fiche">
@@ -196,6 +188,10 @@
   </section>
 
   <section class="screen" data-screen="fiches-theme" data-title="Fiches · Par thème" data-back="fiches-menu" hidden>
+        <button class="search-pill" type="button" data-go="search">
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+      <span>Rechercher une fiche…</span>
+    </button>
     <div id="fiches-theme-content"></div>
   </section>
 

@@ -19,7 +19,7 @@ const PC = (() => {
     home: 'home', daily: 'home',
     'fiches-menu': 'fiches', 'fiches-aleatoire': 'fiches', 'fiches-theme': 'fiches', favoris: 'fiches',
     'quiz-menu': 'quiz', 'quiz-theme': 'quiz', 'quiz-aleatoire': 'quiz',
-    'quiz-jour': 'quiz-jour', dragon: 'dragon', search: 'search',
+    'quiz-jour': 'quiz-jour', dragon: 'dragon', search: 'fiches',
   };
   // Surligneur du menu : il glisse jusqu'à l'onglet actif (le CSS fait l'animation)
   const navIn = document.querySelector('.pc-nav__in');

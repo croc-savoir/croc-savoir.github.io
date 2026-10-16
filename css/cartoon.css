@@ -9,29 +9,29 @@ html.style-cartoon {
    * (le « mode sombre des sites » de certains téléphones assombrissait les couleurs et noircissait le fond). */
   color-scheme: only light;
   scrollbar-color: #566072 #2a2f37;
-  --bg: #2a2f37; --bg-soft: #30353e; --bg-elevated: #3b424d; --card: #343a44; --card-hover: #3b424d; --ink: #12161c;
-  --border: #12161c; --border-soft: #12161c;
+  --bg: #2a2f37; --bg-soft: #30353e; --bg-elevated: #3b424d; --card: #343a44; --card-hover: #3b424d; --ink: #171c2b;
+  --border: #171c2b; --border-soft: #171c2b;
   --text: #f7f3ec; --text-muted: #d3d9e2; --text-faint: #a9b3c1;
   --accent: #3f82e8; --accent-2: #9cc2ff; --accent-pale: #e2edff; --accent-rgb: 63, 130, 232;
   --success: #47d08a; --success-bg: rgba(71, 208, 138, 0.24); --danger: #ff6b6b; --danger-bg: rgba(255, 107, 107, 0.24);
   --radius-xl: 24px; --radius-lg: 20px; --radius-md: 16px;
-  --shadow-soft: 0 5px 0 #12161c; --shadow-lift: 0 6px 0 #12161c;
+  --shadow-soft: 0 4px 0 #171c2b; --shadow-lift: 0 5px 0 #171c2b;
   --g-vivant: #36c98a; --g-arts: #ff7aa8; --g-monde: #ffb83d;
 }
 /* Avec « color-scheme: only light », les boutons et champs sans couleur explicite deviendraient noirs :
  * on leur donne la couleur du texte (:where() = priorité nulle, toute règle de classe garde le dessus). */
 :where(html.style-cartoon) :where(button, input, textarea, select) { color: var(--text); }
 html.style-cartoon body {
-  background: radial-gradient(rgba(255, 255, 255, 0.055) 1.6px, transparent 1.7px) 0 0 / 20px 20px, var(--bg);
+  background: radial-gradient(rgba(255, 255, 255, 0.035) 1.6px, transparent 1.7px) 0 0 / 20px 20px, var(--bg);
 }
 html.style-cartoon body::before { display: none; }
 html.style-cartoon .screen-bar { background: var(--bg-soft); backdrop-filter: none; -webkit-backdrop-filter: none; border-bottom: 3px solid var(--ink); }
 
 /* ---------- Panneaux : contour épais + ombre nette ---------- */
 html.style-cartoon :is(.home-card, .daily-card, .mode-card, .fiche-card, .quiz-card, .serie-end, .serie-end__scorecard, .search-pill) {
-  border: 3px solid var(--ink); box-shadow: 0 5px 0 var(--ink);
+  border: 2.5px solid var(--ink); box-shadow: 0 4px 0 var(--ink), inset 0 2px 0 rgba(255,255,255,0.10);
 }
-html.style-cartoon :is(.subtheme-row, .fiche-list-item, .serie-rec, .dt-group, .dt-card) { border: 3px solid var(--ink); box-shadow: 0 4px 0 var(--ink); }
+html.style-cartoon :is(.subtheme-row, .fiche-list-item, .serie-rec, .dt-group, .dt-card) { border: 2.5px solid var(--ink); box-shadow: 0 3px 0 var(--ink); }
 html.style-cartoon .dt-group { color: var(--text); }
 html.style-cartoon .dt-group__emoji { filter: drop-shadow(0 3px 0 rgba(18, 22, 28, 0.85)); }
 html.style-cartoon :is(.fiche-card, .quiz-card, .serie-end, .mode-card, .subtheme-row, .fiche-list-item, .search-pill) { background: var(--card); }
@@ -39,15 +39,15 @@ html.style-cartoon .serie-end__scorecard { background: var(--bg-elevated); box-s
 html.style-cartoon .fiche-card::before { display: none; }
 
 /* ---------- Accueil : une couleur franche par carte, logos posés directement et centrés ---------- */
-html.style-cartoon .daily-card:not(.daily-card--quiz) { background: #ffb02e; color: var(--ink); }
+html.style-cartoon .daily-card:not(.daily-card--quiz) { background: linear-gradient(160deg, #ffc247, #f5a01c); color: var(--ink); }
 html.style-cartoon .daily-card:not(.daily-card--quiz) .daily-card__desc { color: #4a3510; }
-html.style-cartoon .daily-card--quiz { background: #ff7a9c; color: var(--ink); }
+html.style-cartoon .daily-card--quiz { background: linear-gradient(160deg, #ff8fae, #f2688f); color: var(--ink); }
 html.style-cartoon .daily-card--quiz .daily-card__desc { color: #5a1c30; }
 html.style-cartoon .daily-card.is-done { background: var(--card); color: var(--text); }
 html.style-cartoon .daily-card.is-done .daily-card__desc { color: var(--text-muted); }
-html.style-cartoon .home-card--fiches { background: #3f82e8; color: #fff; }
-html.style-cartoon .home-card--quiz { background: #8f63f0; color: #fff; }
-html.style-cartoon .home-card--dragon { background: #2eb27a; color: #fff; }
+html.style-cartoon .home-card--fiches { background: linear-gradient(160deg, #5a95f0, #3a74d6); color: #fff; }
+html.style-cartoon .home-card--quiz { background: linear-gradient(160deg, #a07af5, #7b52dc); color: #fff; }
+html.style-cartoon .home-card--dragon { background: linear-gradient(160deg, #3cc58c, #249a68); color: #fff; }
 html.style-cartoon .home-card__desc { color: rgba(255, 255, 255, 0.9); }
 html.style-cartoon .daily-card__streak { background: var(--ink); color: #ffb02e; }
 html.style-cartoon :is(.home-card__icon, .daily-card__icon, .mode-card__icon) {
@@ -59,12 +59,12 @@ html.style-cartoon :is(.home-card__icon, .daily-card__icon, .mode-card__icon) {
 
 /* ---------- Boutons : « touches » qui s'enfoncent ; principal = bleu ---------- */
 html.style-cartoon .btn {
-  border: 3px solid var(--ink); border-radius: 16px; box-shadow: 0 5px 0 var(--ink); font-weight: 800;
+  border: 2.5px solid var(--ink); border-radius: 16px; box-shadow: 0 4px 0 var(--ink); font-weight: 800;
   display: inline-flex; align-items: center; justify-content: center; text-align: center; line-height: 1.2;
   transition: transform .08s ease, box-shadow .08s ease;
 }
-html.style-cartoon .btn:active { transform: translateY(4px); box-shadow: 0 1px 0 var(--ink); }
-html.style-cartoon .btn-primary { background: #3f82e8; color: #fff; text-shadow: 0 2px 0 rgba(0, 0, 0, 0.28); }
+html.style-cartoon .btn:active { transform: translateY(3px); box-shadow: 0 1px 0 var(--ink); }
+html.style-cartoon .btn-primary { background: #3f82e8; color: #fff; }
 html.style-cartoon .btn-ghost { background: #4a5260; color: #fff; }
 html.style-cartoon .btn-ghost:hover { background: #566072; border-color: var(--ink); }
 html.style-cartoon .btn-next { width: 100%; }
@@ -79,7 +79,7 @@ html.style-cartoon .toast { background: #fff; color: var(--ink); border: 3px sol
 html.style-cartoon .domain-tile {
   --g: var(--g-monde); padding-left: 24px;
   background: linear-gradient(90deg, var(--g) 0 7px, var(--card) 7px);
-  border: 3px solid var(--ink); box-shadow: 0 4px 0 var(--ink); margin-bottom: 0;
+  border: 2.5px solid var(--ink); box-shadow: 0 3px 0 var(--ink); margin-bottom: 0;
 }
 html.style-cartoon .domain-tile[data-g="vivant"] { --g: var(--g-vivant); }
 html.style-cartoon .domain-tile[data-g="arts"] { --g: var(--g-arts); }
@@ -95,9 +95,9 @@ html.style-cartoon .domain-tile__emoji { filter: none; }   /* le liseré blanc e
 html.style-cartoon .domain-tile__label { color: #fff; font-weight: 800; }
 
 /* ---------- Fiche, quiz : étiquette en ruban, réponses « touches » ---------- */
-html.style-cartoon .fiche-card__type { background: #ffc93c; color: var(--ink); border: 2.5px solid var(--ink); border-radius: 10px; transform: rotate(-2deg); font-weight: 800; }
-html.style-cartoon .fiche-card__title { text-shadow: 0 2px 0 var(--ink); }
-html.style-cartoon :is(.opt-btn, .pair-item, .frise-item) { background: var(--bg-elevated); border: 3px solid var(--ink); box-shadow: 0 4px 0 var(--ink); font-weight: 700; color: var(--text); }
+html.style-cartoon .fiche-card__type { background: #ffc93c; color: var(--ink); border: 2.5px solid var(--ink); border-radius: 10px; font-weight: 800; }
+html.style-cartoon .fiche-card__title { text-shadow: none; }
+html.style-cartoon :is(.opt-btn, .pair-item, .frise-item) { background: var(--bg-elevated); border: 2.5px solid var(--ink); box-shadow: 0 3px 0 var(--ink); font-weight: 700; color: var(--text); }
 html.style-cartoon .opt-btn.is-selected { background: #3f82e8; border-color: var(--ink); color: #fff; }
 html.style-cartoon .opt-btn.is-selected .opt-letter { color: #fff; border-color: #fff; }
 html.style-cartoon :is(.opt-btn.is-correct, .pair-item.is-good, .frise-item.is-correct-pos) { background: #47d08a; border-color: var(--ink); color: var(--ink); }
@@ -108,9 +108,9 @@ html.style-cartoon .result-banner.is-wrong { background: #ff6b6b; color: var(--i
 
 /* ---------- Écran de fin : score façon autocollant (la couleur suit toujours le score) ---------- */
 html.style-cartoon .serie-end__value {
-  color: hsl(var(--score-h) 92% 62%); -webkit-text-stroke: 3px var(--ink); paint-order: stroke fill; text-shadow: 0 4px 0 var(--ink); font-size: 66px;
+  color: hsl(var(--score-h) 92% 62%); -webkit-text-stroke: 2px var(--ink); paint-order: stroke fill; text-shadow: 0 3px 0 var(--ink); font-size: 66px;
 }
-html.style-cartoon .serie-end__msg { text-shadow: 0 3px 0 var(--ink); }
+html.style-cartoon .serie-end__msg { text-shadow: none; }
 html.style-cartoon .serie-rec.is-ok { background: rgba(71, 208, 138, 0.3); border-color: var(--ink); }
 html.style-cartoon .serie-rec.is-ko { background: rgba(255, 107, 107, 0.3); border-color: var(--ink); }
 html.style-cartoon .serie-rec__tag { color: #ffc93c; }

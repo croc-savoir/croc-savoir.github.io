@@ -226,3 +226,21 @@ html.anim-on .serie-bar__fill { transition: transform .45s var(--a-ease); }
   html.anim-on *, html.anim-on *::before, html.anim-on *::after { animation: none !important; transition: none !important; }
   html.anim-on::view-transition-group(*), html.anim-on::view-transition-old(*), html.anim-on::view-transition-new(*) { animation: none !important; }
 }
+
+/* ---------- 16. Accueil : « Bouchée du jour » et « Quiz du jour » mises en avant tant qu'elles ne sont pas faites ---------- */
+html.anim-on .daily-card:not(.is-done) { --pulse: 255, 176, 46; animation: a-daily-ring 2.6s ease-out infinite; }
+html.anim-on .daily-card--quiz:not(.is-done) { --pulse: 255, 122, 156; animation-delay: 1.3s; }
+@keyframes a-daily-ring {
+  0%   { outline: 3px solid rgba(var(--pulse), .65); outline-offset: 0; }
+  70%, 100% { outline: 3px solid rgba(var(--pulse), 0); outline-offset: 11px; }
+}
+html.anim-on .daily-card:not(.is-done) .daily-card__icon { animation: a-daily-bob 2.2s ease-in-out infinite; }
+@keyframes a-daily-bob { 0%, 100% { transform: translateY(0) rotate(0); } 40% { transform: translateY(-4px) rotate(-6deg); } 70% { transform: translateY(0) rotate(4deg); } }
+/* Petite étiquette « À faire » dans le coin de la carte */
+.daily-card:not(.is-done)::before {
+  content: 'À FAIRE'; position: absolute; top: 8px; right: 12px; z-index: 1;
+  font-size: 10px; font-weight: 900; letter-spacing: .8px; line-height: 1;
+  padding: 4px 7px; border-radius: 6px; background: #ffd24d; color: #171c2b; border: 2px solid #171c2b; transform: rotate(3deg);
+}
+html.anim-on .daily-card:not(.is-done)::before { animation: a-daily-tag 2.6s ease-in-out infinite; }
+@keyframes a-daily-tag { 0%, 100% { transform: rotate(3deg) scale(1); } 50% { transform: rotate(3deg) scale(1.1); } }

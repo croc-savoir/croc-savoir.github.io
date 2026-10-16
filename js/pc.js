@@ -21,9 +21,27 @@ const PC = (() => {
     'quiz-menu': 'quiz', 'quiz-theme': 'quiz', 'quiz-aleatoire': 'quiz',
     'quiz-jour': 'quiz-jour', dragon: 'dragon', search: 'search',
   };
+  // Surligneur du menu : il glisse jusqu'à l'onglet actif (le CSS fait l'animation)
+  const navIn = document.querySelector('.pc-nav__in');
+  const marker = document.createElement('span');
+  marker.className = 'pc-nav__marker';
+  marker.setAttribute('aria-hidden', 'true');
+  if (navIn) navIn.prepend(marker);
+  function placeMarker() {
+    if (!navIn) return;
+    const link = navIn.querySelector('.pc-nav__link.is-active');
+    if (!link || !link.offsetWidth) { marker.classList.remove('is-on'); return; }
+    marker.style.setProperty('--mx', link.offsetLeft + 'px');
+    marker.style.setProperty('--mw', link.offsetWidth + 'px');
+    marker.classList.add('is-on');
+    if (!marker.classList.contains('is-ready')) requestAnimationFrame(() => requestAnimationFrame(() => marker.classList.add('is-ready')));
+  }
+  window.addEventListener('resize', placeMarker);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(placeMarker);
   document.addEventListener('screenchange', (e) => {
     const nav = NAV_OF[e.detail];
     document.querySelectorAll('.pc-nav [data-nav]').forEach(b => b.classList.toggle('is-active', b.dataset.nav === nav));
+    placeMarker();
     if (e.detail === 'home') renderThemes();
   });
 

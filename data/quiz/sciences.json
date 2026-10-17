@@ -1574,5 +1574,1989 @@
     "bonneReponse": 0,
     "explication": "La conjecture de Poincaré, formulée en 1904, est devenue un théorème grâce à Grigori Perelman, en 2003. Les trois autres conjectures proposées restent aujourd'hui sans démonstration.",
     "source": "D'après Wikipédia — Henri Poincaré"
+  },
+  {
+    "id": "q-sciences-102",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Que montre l'expérience de Léon Foucault de 1850, réalisée avec un miroir tournant, sur la vitesse de la lumière ?",
+    "choix": [
+      "Elle est plus lente dans l'eau que dans l'air",
+      "Elle est plus rapide dans l'eau que dans l'air",
+      "Elle est identique dans l'eau et dans l'air",
+      "Elle est infinie dans le vide"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1850, Foucault montre que la lumière se propage moins vite dans l'eau que dans l'air. Ce résultat contredit la théorie corpusculaire de Newton et donne raison à la théorie ondulatoire de la lumière.",
+    "source": "D'après Wikipédia — Léon Foucault"
+  },
+  {
+    "id": "q-sciences-103",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "À l'équateur, le plan d'oscillation d'un pendule de Foucault ne tourne pas par rapport au sol.",
+    "reponse": true,
+    "explication": "Au pôle, le plan fait un tour en un jour sidéral ; ailleurs, la durée se divise par le sinus de la latitude. À l'équateur, ce sinus est nul : le plan d'oscillation reste fixe par rapport à la Terre.",
+    "source": "D'après Wikipédia — Pendule de Foucault"
+  },
+  {
+    "id": "q-sciences-104",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "D'où vient le mot « entropie », forgé par Rudolf Clausius en 1865 ?",
+    "choix": [
+      "Du grec, pour dire « transformation »",
+      "Du latin, pour dire « désordre »",
+      "Du grec, pour dire « chaleur »",
+      "De l'allemand, pour dire « énergie perdue »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Clausius a créé « entropie » à partir d'un mot grec pour « transformation », en le rapprochant volontairement d'« énergie ». Il préférait les langues anciennes pour qu'un terme ait le même sens partout.",
+    "source": "D'après Wikipédia — Entropie (thermodynamique)"
+  },
+  {
+    "id": "q-sciences-105",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Que confirme l'éclipse totale de Soleil du 29 mai 1919, observée lors d'une expédition dirigée par Eddington ?",
+    "choix": [
+      "La déviation de la lumière des étoiles par le Soleil",
+      "L'existence des trous noirs",
+      "L'expansion de l'Univers",
+      "L'existence des ondes gravitationnelles"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pendant l'éclipse du 29 mai 1919, l'expédition d'Eddington constate que le Soleil dévie la lumière des étoiles comme le prévoit la relativité générale. L'observation rend aussitôt Einstein célèbre.",
+    "source": "D'après Wikipédia — Relativité générale"
+  },
+  {
+    "id": "q-sciences-106",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qui montre en 1820 qu'un fil parcouru par un courant électrique fait dévier l'aiguille d'une boussole ?",
+    "choix": [
+      "Hans Christian Ørsted",
+      "André-Marie Ampère",
+      "Michael Faraday",
+      "William Gilbert"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ørsted constate en 1820 qu'un courant dévie une boussole : c'est le premier lien établi entre électricité et magnétisme. Ampère et Arago refont l'expérience la même année, et ouvrent l'ère de l'électromagnétisme.",
+    "source": "D'après Wikipédia — Magnétisme"
+  },
+  {
+    "id": "q-sciences-107",
+    "domain": "sciences",
+    "format": "associer",
+    "question": "Associe chaque penseur ou savant à son idée sur la lumière et la vision.",
+    "paires": [
+      {
+        "gauche": "Platon",
+        "droite": "L'œil émet des rayons pour voir",
+        "explication": "Platon est à l'origine de la théorie de l'émission : la vue viendrait de rayons émis par les yeux."
+      },
+      {
+        "gauche": "Euclide",
+        "droite": "Il relie la vision à la géométrie",
+        "explication": "Euclide écrit un traité d'optique qui lie la vision à la géométrie et décrit la perspective."
+      },
+      {
+        "gauche": "Kepler",
+        "droite": "La rétine enregistre l'image",
+        "explication": "Kepler déduit que la rétine est l'organe qui enregistre les images et explique les lentilles."
+      },
+      {
+        "gauche": "Maxwell",
+        "droite": "La lumière est une onde électromagnétique",
+        "explication": "Maxwell montre que les ondes lumineuses sont des ondes électromagnétiques visibles pour l'être humain."
+      }
+    ],
+    "explication": "L'optique a progressé par étapes : des rayons imaginés sortant de l'œil (Platon) à la géométrie d'Euclide, à la rétine de Kepler, puis à la lumière comme onde électromagnétique avec Maxwell.",
+    "source": "D'après Wikipédia — Optique"
+  },
+  {
+    "id": "q-sciences-108",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Dans l'effet photoélectrique, qu'est-ce qui décide si des électrons sont arrachés à un métal ?",
+    "choix": [
+      "La fréquence de la lumière",
+      "L'intensité de la lumière",
+      "La durée d'éclairage",
+      "La température de l'air ambiant"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sous une certaine fréquence, aucun électron ne sort, même avec une lumière très intense. Einstein l'explique en 1905 : la lumière arrive en photons, dont l'énergie dépend de la fréquence, pas du nombre.",
+    "source": "D'après Wikipédia — Effet photoélectrique"
+  },
+  {
+    "id": "q-sciences-109",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Sur quel métal Kamerlingh Onnes observe-t-il le 8 avril 1911 la disparition de la résistance électrique ?",
+    "choix": [
+      "Le mercure",
+      "Le plomb",
+      "Le cuivre",
+      "L'or"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 8 avril 1911, l'équipe de Kamerlingh Onnes constate que la résistance du mercure disparaît brutalement vers 4,2 kelvins. C'est la première observation de la supraconductivité, découverte grâce à l'hélium liquide.",
+    "source": "D'après Wikipédia — Supraconductivité"
+  },
+  {
+    "id": "q-sciences-110",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qui aide Robert Boyle à perfectionner la pompe à air qui sert à ses recherches sur le vide et les gaz ?",
+    "choix": [
+      "Robert Hooke",
+      "Isaac Newton",
+      "Edmond Halley",
+      "Antoine Lavoisier"
+    ],
+    "bonneReponse": 0,
+    "explication": "À Oxford, Boyle améliore la pompe à vide d'Otto von Guericke avec l'aide de Robert Hooke. Ses expériences avec cette « machine » le conduisent à sa fameuse loi sur les gaz.",
+    "source": "D'après Wikipédia — Robert Boyle"
+  },
+  {
+    "id": "q-sciences-111",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "La plupart des accélérateurs de particules du monde sont des machines de recherche sur les particules élémentaires.",
+    "reponse": false,
+    "explication": "Sur environ 30 000 accélérateurs, seuls 1 % environ sont des machines de recherche de plus d'un milliard d'électronvolts. Environ 44 % servent à la radiothérapie et 41 % à implanter des ions dans les puces.",
+    "source": "D'après Wikipédia — Accélérateur de particules"
+  },
+  {
+    "id": "q-sciences-112",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qui a conçu le World Wide Web au CERN en 1989 ?",
+    "choix": [
+      "Tim Berners-Lee",
+      "Georges Charpak",
+      "Carlo Rubbia",
+      "Peter Higgs"
+    ],
+    "bonneReponse": 0,
+    "explication": "Au CERN, Tim Berners-Lee conçoit en 1989 un système hypertexte pour faciliter l'échange d'informations entre chercheurs. Robert Cailliau le rejoint en 1990, et le Web est déclaré libre d'accès en 1993.",
+    "source": "D'après Wikipédia — Organisation européenne pour la recherche nucléaire"
+  },
+  {
+    "id": "q-sciences-113",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel physicien a ouvert la voie à l'antimatière avec une équation publiée en 1928 ?",
+    "choix": [
+      "Paul Dirac",
+      "Werner Heisenberg",
+      "Erwin Schrödinger",
+      "Carl Anderson"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1928, l'équation de Paul Dirac sur l'électron s'applique aussi à des particules de charge opposée : chaque particule aurait une antiparticule. Carl Anderson observe ensuite le positon dans les rayons cosmiques.",
+    "source": "D'après Wikipédia — Antimatière"
+  },
+  {
+    "id": "q-sciences-114",
+    "domain": "sciences",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon hypothèse a été confirmée trois ans plus tard avec des électrons envoyés sur un cristal.",
+      "J'ai reçu le prix Nobel de physique en 1929.",
+      "Dans ma thèse de 1924, je généralise les idées d'Einstein sur les photons.",
+      "J'affirme que toute la matière, et pas seulement la lumière, possède une nature ondulatoire."
+    ],
+    "reponse": "Louis de Broglie",
+    "explication": "Dans sa thèse de 1924, Louis de Broglie propose que toute matière ait une nature ondulatoire. Davisson et Germer le confirment en 1927 avec des électrons, et de Broglie reçoit le prix Nobel de physique en 1929.",
+    "source": "D'après Wikipédia — Dualité onde-corpuscule"
+  },
+  {
+    "id": "q-sciences-115",
+    "domain": "sciences",
+    "format": "frise",
+    "question": "Remets ces travaux de Léon Foucault dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Il montre que la lumière va moins vite dans l'eau que dans l'air",
+        "annee": "1850"
+      },
+      {
+        "label": "Le pendule du Panthéon rend visible la rotation de la Terre",
+        "annee": "1851"
+      },
+      {
+        "label": "Il découvre les courants induits dans un disque de cuivre",
+        "annee": "1855"
+      },
+      {
+        "label": "Il invente le polariseur qui porte son nom",
+        "annee": "1857"
+      },
+      {
+        "label": "Sa mesure de la vitesse de la lumière approche la valeur actuelle",
+        "annee": "1862"
+      }
+    ],
+    "explication": "Foucault enchaîne les exploits : la lumière dans l'eau (1850), le pendule (1851), les courants de Foucault (1855), le polariseur (1857) et une mesure de la vitesse de la lumière très proche de la valeur actuelle (1862).",
+    "source": "D'après Wikipédia — Léon Foucault"
+  },
+  {
+    "id": "q-sciences-116",
+    "domain": "sciences",
+    "format": "difference",
+    "question": "Quelle est la différence entre la thermodynamique classique et la thermodynamique statistique ?",
+    "choix": [
+      "La classique décrit des corps entiers (pression, température) ; la statistique l'explique par le comportement d'un grand nombre de molécules",
+      "La classique étudie le chaud, la statistique étudie le froid",
+      "La classique ne concerne que les gaz, la statistique ne concerne que les solides",
+      "La classique date du XXe siècle, la statistique du XVIIe siècle"
+    ],
+    "bonneReponse": 0,
+    "explication": "La thermodynamique classique s'appuie sur des grandeurs mesurables à notre échelle. La version statistique, née au milieu du XIXe siècle avec Maxwell, Boltzmann et Gibbs, relie ces lois aux molécules et aux probabilités.",
+    "source": "D'après Wikipédia — Thermodynamique"
+  },
+  {
+    "id": "q-sciences-117",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Pourquoi Schrödinger imagine-t-il son chat en 1935 ?",
+    "choix": [
+      "Pour montrer l'absurdité d'une interprétation de la physique quantique",
+      "Pour mesurer la demi-vie d'un atome radioactif",
+      "Pour décrire une expérience qu'il réalise dans son laboratoire",
+      "Pour prouver que la mesure ne perturbe jamais un système"
+    ],
+    "bonneReponse": 0,
+    "explication": "Schrödinger imagine ce chat à la fois mort et vivant pour souligner l'étrangeté de l'interprétation de Copenhague, pas pour la promouvoir. L'expérience reste une pensée : elle n'a jamais été réalisée sur un chat.",
+    "source": "D'après Wikipédia — Chat de Schrödinger"
+  },
+  {
+    "id": "q-sciences-118",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Le principe d'incertitude de Heisenberg vient du manque de précision des instruments de mesure.",
+    "reponse": false,
+    "explication": "Ce n'est pas une limite technique : c'est une limite fondamentale. Avant la mesure, une particule n'a pas de position et de vitesse parfaitement précises. D'où le nom de principe d'indétermination.",
+    "source": "D'après Wikipédia — Principe d'incertitude"
+  },
+  {
+    "id": "q-sciences-119",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qu'a contribué à prouver l'explication du mouvement brownien donnée par Einstein en 1905, confirmée par Jean Perrin ?",
+    "choix": [
+      "L'existence des atomes et des molécules",
+      "La nature ondulatoire de la lumière",
+      "La rotation de la Terre",
+      "La relativité du temps"
+    ],
+    "bonneReponse": 0,
+    "explication": "Einstein montre que l'agitation d'une particule vient des chocs incessants des molécules. Les mesures de Jean Perrin le confirment, prix Nobel 1926, et font cesser le débat sur la réalité des atomes.",
+    "source": "D'après Wikipédia — Mouvement brownien"
+  },
+  {
+    "id": "q-sciences-120",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle découverte Huygens fait-il en 1655, avec un télescope taillé avec son frère ?",
+    "choix": [
+      "Titan, la plus grande lune de Saturne",
+      "Io, une lune de Jupiter",
+      "Phobos, une lune de Mars",
+      "Un anneau autour d'Uranus"
+    ],
+    "bonneReponse": 0,
+    "explication": "En mars 1655, Huygens remarque un point brillant près de Saturne qui retrouve sa place au bout de seize jours : c'est Titan, la plus grande lune de la planète. Il explique aussi que Saturne est entourée d'un anneau fin.",
+    "source": "D'après Wikipédia — Christian Huygens"
+  },
+  {
+    "id": "q-sciences-121",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Pourquoi Robert Hooke a-t-il publié certaines de ses découvertes sous forme d'anagrammes ?",
+    "choix": [
+      "Pour en garder l'antériorité sans en dévoiler le détail à ses rivaux",
+      "Parce que la Royal Society interdisait le latin",
+      "Pour amuser ses collègues lors des réunions",
+      "Parce qu'il n'avait pas fini de les rédiger"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hooke se méfiait de ses rivaux, dont Newton. Il a chiffré ses résultats en anagrammes, méthode courante pour dater une découverte sans la dévoiler. Son exécuteur testamentaire n'en a donné la traduction qu'en 1705, après sa mort.",
+    "source": "D'après Wikipédia — Robert Hooke"
+  },
+  {
+    "id": "q-sciences-122",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle expérience lance les recherches d'Ampère sur l'électromagnétisme en 1820 ?",
+    "choix": [
+      "Celle d'Ørsted, où un courant dévie l'aiguille d'une boussole",
+      "Celle de Galvani, avec des cuisses de grenouille",
+      "Celle de Faraday, avec un aimant et une bobine",
+      "Celle de Volta, avec un empilement de disques"
+    ],
+    "bonneReponse": 0,
+    "explication": "En septembre 1820, François Arago présente à l'Académie des sciences l'expérience d'Ørsted : un courant dévie une aiguille aimantée. Ampère se met aussitôt à étudier ce lien entre électricité et magnétisme et fonde l'électrodynamique.",
+    "source": "D'après Wikipédia — André-Marie Ampère"
+  },
+  {
+    "id": "q-sciences-123",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Le livre de 1827 où apparaît la loi d'Ohm a d'abord été reçu froidement, avant que la Royal Society ne couronne Ohm en 1841.",
+    "reponse": true,
+    "explication": "C'est vrai. Die galvanische Kette a influencé la théorie de l'électricité, mais l'accueil initial a été tiède. La Royal Society a fini par lui décerner la médaille Copley en 1841, puis l'a accueilli comme membre étranger en 1842.",
+    "source": "D'après Wikipédia — Georg Ohm"
+  },
+  {
+    "id": "q-sciences-124",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qu'est-ce qui révèle à Becquerel, en 1896, que l'uranium émet un rayonnement de lui-même ?",
+    "choix": [
+      "Des plaques photo rangées dans un tiroir par temps gris, pourtant impressionnées",
+      "Une explosion dans son laboratoire de l'École polytechnique",
+      "Une brûlure causée par un morceau de radium dans sa poche",
+      "Une lettre de Marie Curie sur les rayons X"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les 26 et 27 février 1896, le ciel est couvert : Becquerel range ses plaques et ses sels d'uranium dans un tiroir. Le 1er mars, les silhouettes sont pourtant nettes. L'uranium émet donc seul un rayonnement, sans lumière du soleil.",
+    "source": "D'après Wikipédia — Henri Becquerel"
+  },
+  {
+    "id": "q-sciences-125",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle propriété de certains cristaux Pierre Curie et son frère Jacques découvrent-ils en 1880 ?",
+    "choix": [
+      "Ils produisent de l'électricité quand on les comprime",
+      "Ils émettent de la lumière quand on les chauffe",
+      "Ils s'aimantent au contact de l'eau",
+      "Ils se dilatent quand on les refroidit"
+    ],
+    "bonneReponse": 0,
+    "explication": "C'est la piézoélectricité : le quartz, la tourmaline ou le sel de Rochelle créent une tension électrique sous pression. En 1881, les frères montrent l'effet inverse : un champ électrique déforme le cristal. Cet effet cadence aujourd'hui de nombreux circuits.",
+    "source": "D'après Wikipédia — Pierre Curie"
+  },
+  {
+    "id": "q-sciences-126",
+    "domain": "sciences",
+    "format": "qui-suis-je",
+    "indices": [
+      "Dans ma jeunesse, je suis renvoyé d'une école technique, accusé à tort d'avoir dessiné la caricature d'un professeur.",
+      "Pendant des semaines, je mange et je dors dans mon laboratoire de Wurtzbourg.",
+      "Je n'ai jamais déposé de brevet, pour que tout le monde profite de ma découverte.",
+      "En 1901, on me décerne le Nobel de physique inaugural.",
+      "Le « X » de mes rayons signifie « inconnu »."
+    ],
+    "reponse": "Wilhelm Röntgen",
+    "explication": "Röntgen découvre les rayons X le 8 novembre 1895 et les nomme ainsi parce que leur nature est alors inconnue. Lauréat inaugural du Nobel de physique en 1901, il renonce aux brevets. L'élément 111, le roentgenium, porte son nom.",
+    "source": "D'après Wikipédia — Wilhelm Röntgen"
+  },
+  {
+    "id": "q-sciences-127",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Où Heisenberg se réfugie-t-il en 1925 pour soigner un rhume des foins et réfléchir à sa théorie quantique ?",
+    "choix": [
+      "Sur l'île de Helgoland",
+      "Dans un chalet des Alpes bavaroises",
+      "Dans un sanatorium d'Arosa",
+      "À Copenhague, chez Niels Bohr"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour fuir le pollen, Heisenberg part en juin 1925 sur l'île de Helgoland, en mer du Nord. Il y met au point l'idée de sa mécanique quantique, développée ensuite avec Max Born et Pascual Jordan sous le nom de mécanique des matrices.",
+    "source": "D'après Wikipédia — Werner Heisenberg"
+  },
+  {
+    "id": "q-sciences-128",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel livre de Schrödinger, écrit en 1944, a inspiré James Watson dans sa recherche du gène ?",
+    "choix": [
+      "Qu'est-ce que la vie ?",
+      "La Partie et le Tout",
+      "Matière et Lumière",
+      "Sur les sentiers de la science"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans Qu'est-ce que la vie ?, Schrödinger imagine une molécule complexe portant le code des êtres vivants. D'après les mémoires de James Watson, ce livre l'a poussé à chercher le gène, ce qui a mené à la double hélice de l'ADN en 1953.",
+    "source": "D'après Wikipédia — Erwin Schrödinger"
+  },
+  {
+    "id": "q-sciences-129",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle particule Paul Dirac prédit-il en 1931 à partir de son équation ?",
+    "choix": [
+      "Le positon, antiparticule de l'électron",
+      "Le neutrino",
+      "Le muon",
+      "Le photon"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'équation de Dirac (1928) décrit l'électron en tenant compte de la relativité. Elle admet aussi une solution de charge opposée : le positon. Carl Anderson et Patrick Blackett l'observent en 1932, première trace d'antimatière.",
+    "source": "D'après Wikipédia — Paul Dirac"
+  },
+  {
+    "id": "q-sciences-130",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Que réussit l'équipe de Fermi à Chicago le 2 décembre 1942 ?",
+    "choix": [
+      "La première réaction en chaîne nucléaire contrôlée",
+      "La première explosion nucléaire d'essai",
+      "La détection du neutrino",
+      "La première centrale électrique nucléaire"
+    ],
+    "bonneReponse": 0,
+    "explication": "Fermi dirige l'équipe de l'université de Chicago qui construit Chicago Pile-1. Le 2 décembre 1942, ce premier réacteur nucléaire de l'histoire produit une réaction en chaîne de fission qui s'entretient d'elle-même et reste sous contrôle.",
+    "source": "D'après Wikipédia — Enrico Fermi"
+  },
+  {
+    "id": "q-sciences-131",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Que propose Louis de Broglie dans sa thèse de 1924 ?",
+    "choix": [
+      "Toute particule de matière, comme l'électron, est associée à une onde",
+      "La lumière n'est pas faite de photons",
+      "L'atome est un tourbillon dans l'éther",
+      "L'électron est plus lourd que le proton"
+    ],
+    "bonneReponse": 0,
+    "explication": "De Broglie étend à toute la matière le double visage onde et grain qu'Einstein avait reconnu à la lumière. Davisson et Germer confirment l'idée en observant des interférences d'électrons sur un cristal. Elle lui vaut le Nobel de physique en 1929.",
+    "source": "D'après Wikipédia — Louis de Broglie"
+  },
+  {
+    "id": "q-sciences-132",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Pourquoi William Thomson est-il devenu « Lord Kelvin » ?",
+    "choix": [
+      "Il a pris le nom de la rivière qui coule près de son laboratoire de Glasgow",
+      "Il a emprunté le nom de sa ville natale, Belfast",
+      "Il a repris le nom du château de ses ancêtres",
+      "Il a repris le prénom de son père"
+    ],
+    "bonneReponse": 0,
+    "explication": "Anobli en 1892, premier scientifique à entrer à la Chambre des lords, Thomson choisit le titre de baron Kelvin, d'après la rivière qui coule près de son laboratoire de l'université de Glasgow. Son nom désigne aujourd'hui l'unité de température absolue.",
+    "source": "D'après Wikipédia — William Thomson (Lord Kelvin)"
+  },
+  {
+    "id": "q-sciences-133",
+    "domain": "sciences",
+    "format": "difference",
+    "question": "Quelle est la différence entre la théorie du calorique et la vision défendue par Joule ?",
+    "choix": [
+      "Pour le calorique, la chaleur est un fluide impossible à créer ; pour Joule, le travail mécanique peut se convertir en chaleur",
+      "Pour le calorique, la chaleur est du travail ; pour Joule, c'est un fluide",
+      "Le calorique ne concerne que les gaz, Joule ne s'intéresse qu'aux solides",
+      "Le calorique relie la chaleur à la température, Joule nie tout lien entre les deux"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans la théorie du calorique, la chaleur est un fluide qui ne peut être ni créé ni détruit. Joule prouve le contraire : en 1845, une roue à aubes entraînée par un poids qui tombe réchauffe l'eau. Il ouvre la voie à la conservation de l'énergie.",
+    "source": "D'après Wikipédia — James Prescott Joule"
+  },
+  {
+    "id": "q-sciences-134",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Sadi Carnot a publié plusieurs livres de thermodynamique de son vivant.",
+    "reponse": false,
+    "explication": "C'est faux. Carnot ne publie qu'un seul livre, en 1824 : Réflexions sur la puissance motrice du feu. Il meurt du choléra à 36 ans. Son travail ne sera mis en lumière qu'à partir de 1834, grâce à un commentaire d'Émile Clapeyron.",
+    "source": "D'après Wikipédia — Sadi Carnot (physicien)"
+  },
+  {
+    "id": "q-sciences-135",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Quand on lui annonce la détection du neutrino en 1956, Pauli répond par un télégramme : « Tout vient à qui sait attendre. »",
+    "reponse": true,
+    "explication": "C'est vrai. Pauli avait postulé le neutrino en 1930, dans une lettre adressée à ses « chers dames et messieurs radioactifs ». Reines et Cowan le détectent en 1956, deux ans et demi avant la mort de Pauli, qui leur répond par ce télégramme.",
+    "source": "D'après Wikipédia — Wolfgang Pauli"
+  },
+  {
+    "id": "q-sciences-136",
+    "domain": "sciences",
+    "format": "associer",
+    "question": "Associe chaque physicien à sa découverte ou à sa prédiction.",
+    "paires": [
+      {
+        "gauche": "Wilhelm Röntgen",
+        "droite": "Les rayons X",
+        "explication": "Il les découvre à Wurtzbourg et les nomme « X » car leur nature est alors inconnue."
+      },
+      {
+        "gauche": "Pierre Curie",
+        "droite": "La piézoélectricité",
+        "explication": "Avec son frère Jacques, il montre que certains cristaux produisent de l'électricité sous pression."
+      },
+      {
+        "gauche": "Wolfgang Pauli",
+        "droite": "Le neutrino",
+        "explication": "Il le postule en 1930 pour sauver la conservation de l'énergie dans la radioactivité bêta."
+      },
+      {
+        "gauche": "Paul Dirac",
+        "droite": "Le positon",
+        "explication": "Son équation pour l'électron lui fait prédire une antiparticule, observée peu après."
+      }
+    ],
+    "explication": "Ces quatre physiciens ont chacun révélé une pièce du puzzle de la matière : un rayonnement inconnu, un lien entre pression et électricité, une particule invisible et une antiparticule. Deux de ces particules ont été prédites avant d'être vues.",
+    "source": "D'après Wikipédia — Wolfgang Pauli"
+  },
+  {
+    "id": "q-sciences-137",
+    "domain": "sciences",
+    "format": "frise",
+    "question": "Remets ces moments de la vie de Pierre Curie dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Avec son frère Jacques, il découvre la piézoélectricité",
+        "annee": "1880"
+      },
+      {
+        "label": "Il soutient sa thèse sur le magnétisme et énonce la loi de Curie",
+        "annee": "1895"
+      },
+      {
+        "label": "Avec Marie Curie, il annonce le polonium et le radium",
+        "annee": "1898"
+      },
+      {
+        "label": "Il reçoit le prix Nobel de physique avec Marie Curie et Henri Becquerel",
+        "annee": "1903"
+      }
+    ],
+    "explication": "Pierre Curie passe des cristaux (1880) au magnétisme (thèse de 1895), puis à la radioactivité avec Marie : polonium et radium en 1898, puis le prix Nobel de physique en 1903, partagé avec Henri Becquerel.",
+    "source": "D'après Wikipédia — Pierre Curie"
+  },
+  {
+    "id": "q-sciences-138",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qu'invente Joseph Priestley en 1767 en faisant dissoudre du dioxyde de carbone dans de l'eau ?",
+    "choix": [
+      "L'eau gazeuse",
+      "L'eau oxygénée",
+      "L'eau régale",
+      "L'eau lourde"
+    ],
+    "bonneReponse": 0,
+    "explication": "Priestley est crédité de l'invention de l'eau gazeuse en 1767, après avoir mis au point une méthode pour infuser l'eau de dioxyde de carbone. C'est l'ancêtre de nos sodas, né de ses études sur les différents « airs ».",
+    "source": "D'après Wikipédia — Joseph Priestley"
+  },
+  {
+    "id": "q-sciences-139",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Que révèle en 1995 l'analyse de l'ADN d'un fragment conservé de l'œil de John Dalton ?",
+    "choix": [
+      "Qu'il avait un daltonisme rouge-vert, une deutéranopie",
+      "Qu'il était atteint d'une cataracte",
+      "Que le liquide de son œil était teinté de bleu",
+      "Qu'il ne voyait ni le bleu ni le jaune"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dalton pensait que le liquide de son œil était bleuté et avait demandé qu'on l'examine après sa mort. En 1995, l'ADN a montré qu'il lui manquait le gène du pigment vert : une deutéranopie, forme de daltonisme rouge-vert.",
+    "source": "D'après Wikipédia — John Dalton"
+  },
+  {
+    "id": "q-sciences-140",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "On trouve le sodium sous forme de métal pur dans la nature, par exemple en pépites.",
+    "reponse": false,
+    "explication": "Le sodium est trop réactif : il se ternit vite à l'air et s'emballe au contact de l'eau. Il n'existe dans la nature que combiné, comme dans le sel de table. Humphry Davy n'a isolé le métal qu'en 1807, par électrolyse.",
+    "source": "D'après Wikipédia — Sodium"
+  },
+  {
+    "id": "q-sciences-141",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel gaz Humphry Davy respire-t-il en 1799, au point d'en être complètement enivré ?",
+    "choix": [
+      "Le protoxyde d'azote, ou gaz hilarant",
+      "Le dioxyde de carbone",
+      "Le chlore",
+      "L'hydrogène"
+    ],
+    "bonneReponse": 0,
+    "explication": "Davy découvre que le protoxyde d'azote pur est respirable et l'enivre. Il le surnomme « gaz hilarant » et envisage de s'en servir pour soulager la douleur pendant les opérations chirurgicales. Il l'étudiait à la Pneumatic Institution de Bristol.",
+    "source": "D'après Wikipédia — Humphry Davy"
+  },
+  {
+    "id": "q-sciences-142",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "D'où viennent les lettres des symboles chimiques comme Fe pour le fer ou Pb pour le plomb, adoptés grâce à Berzelius ?",
+    "choix": [
+      "Des noms latins des éléments",
+      "Des noms grecs des éléments",
+      "Des noms arabes des alchimistes",
+      "Des initiales anglaises"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1813, Berzelius propose des symboles tirés du latin : Fe pour ferrum, Pb pour plumbum, Hg pour hydrargyrum, H pour hydrogenium. Ce système, calqué sur l'écriture de l'algèbre, est toujours utilisé dans le monde entier.",
+    "source": "D'après Wikipédia — Jöns Jacob Berzelius"
+  },
+  {
+    "id": "q-sciences-143",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle substance fabriquée par l'organisme Friedrich Wöhler obtient-il en 1828 à partir d'un composé minéral ?",
+    "choix": [
+      "L'urée",
+      "La caféine",
+      "La vitamine C",
+      "L'hémoglobine"
+    ],
+    "bonneReponse": 0,
+    "explication": "En chauffant du cyanate d'ammonium, Wöhler obtient de l'urée sans rein ni animal. Il l'annonce à Berzelius. L'épisode devient le symbole de la chimie organique, même si son rôle dans la fin du vitalisme a été exagéré ensuite.",
+    "source": "D'après Wikipédia — Friedrich Wöhler"
+  },
+  {
+    "id": "q-sciences-144",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Dans sa thèse de 1884, comment Svante Arrhenius explique-t-il qu'une eau salée conduise le courant, alors que le sel pur et l'eau pure ne le conduisent pas ?",
+    "choix": [
+      "Le sel se sépare en ions, même sans courant électrique",
+      "Le sel transforme l'eau en métal",
+      "Le courant fabrique le sel",
+      "L'eau salée contient plus d'oxygène"
+    ],
+    "bonneReponse": 0,
+    "explication": "Arrhenius propose qu'en se dissolvant, le sel se sépare en particules chargées, les ions, même sans courant. Faraday croyait que l'électrolyse les créait. Jugée fausse par beaucoup de chimistes, l'idée lui a valu le Nobel de chimie 1903.",
+    "source": "D'après Wikipédia — Svante August Arrhenius"
+  },
+  {
+    "id": "q-sciences-145",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel métal sert de catalyseur dans l'hydrogénation découverte par Paul Sabatier et Jean-Baptiste Senderens ?",
+    "choix": [
+      "Le nickel",
+      "Le plomb",
+      "L'or",
+      "L'aluminium"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1897, Sabatier découvre qu'une trace de nickel facilite l'ajout d'hydrogène à la plupart des composés du carbone. Ce travail lui vaut le prix Nobel de chimie 1912, avec Victor Grignard. Le « nickel de Sabatier » est resté célèbre.",
+    "source": "D'après Wikipédia — Paul Sabatier (chimiste)"
+  },
+  {
+    "id": "q-sciences-146",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Dans quel cadre l'hélium est-il repéré pour la première fois, le 18 août 1868 ?",
+    "choix": [
+      "Dans le spectre du Soleil, pendant une éclipse totale",
+      "Dans un minerai d'uranium",
+      "Dans les gaz d'un volcan",
+      "Dans l'air d'un laboratoire"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jules Janssen note une raie jaune dans la lumière du Soleil lors d'une éclipse en Inde. Lockyer y voit un élément inconnu qu'il nomme hélium, d'après le grec « soleil ». Ce n'est qu'en 1895 que Ramsay l'isole sur Terre.",
+    "source": "D'après Wikipédia — Hélium"
+  },
+  {
+    "id": "q-sciences-147",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel objet, fait de « fer du ciel », a-t-on retrouvé dans la tombe de Toutânkhamon ?",
+    "choix": [
+      "Un poignard",
+      "Un masque",
+      "Une couronne",
+      "Un sarcophage"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ce poignard, vieux de plus de 3 000 ans, est fait de fer météoritique, tombé du ciel. Il illustre que les premiers objets en fer venaient de météorites, bien avant que l'on sache extraire le métal du minerai dans des fours très chauds.",
+    "source": "D'après Wikipédia — Fer"
+  },
+  {
+    "id": "q-sciences-148",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qui a transformé quelques milliers d'atomes de bismuth en or en 1980, réalisant le rêve des alchimistes ?",
+    "choix": [
+      "Glenn Seaborg",
+      "Ernest Rutherford",
+      "Antoine Lavoisier",
+      "Humphry Davy"
+    ],
+    "bonneReponse": 0,
+    "explication": "Seaborg a réalisé cette transmutation au laboratoire de Berkeley. Hantaro Nagaoka avait déjà obtenu de l'or à partir de mercure en 1924. Fabriquer de l'or ainsi coûte pourtant bien plus cher que la valeur du métal obtenu.",
+    "source": "D'après Wikipédia — Or"
+  },
+  {
+    "id": "q-sciences-149",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Un seul gramme d'or peut être battu en une feuille d'environ un mètre carré.",
+    "reponse": true,
+    "explication": "L'or est le plus malléable des métaux : un gramme s'étire en une feuille d'un mètre carré. Si fine, elle devient semi-transparente et laisse passer une lumière verdâtre. Les feuilles d'or servent à dorer des objets.",
+    "source": "D'après Wikipédia — Or"
+  },
+  {
+    "id": "q-sciences-150",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Joseph Priestley a donné à l'oxygène son nom actuel.",
+    "reponse": false,
+    "explication": "Priestley a isolé le gaz en 1774 mais, fidèle au phlogistique, l'a appelé « air déphlogistiqué » sans mesurer sa portée. C'est Lavoisier qui l'a identifié par son poids spécifique et lui a donné son nom d'oxygène.",
+    "source": "D'après Wikipédia — Joseph Priestley"
+  },
+  {
+    "id": "q-sciences-151",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Le chimiste Marcellin Berthelot a aussi été ministre des Affaires étrangères de la France.",
+    "reponse": true,
+    "explication": "Berthelot a été sénateur, puis ministre de l'Instruction publique en 1886-1887 et ministre des Affaires étrangères en 1895-1896. Il est resté fidèle à la science : il a même fait étudier les plantes dans une tour à Meudon.",
+    "source": "D'après Wikipédia — Marcellin Berthelot"
+  },
+  {
+    "id": "q-sciences-152",
+    "domain": "sciences",
+    "format": "associer",
+    "question": "Associe chaque élément à l'origine de son nom.",
+    "paires": [
+      {
+        "gauche": "Hélium",
+        "droite": "Helios, le Soleil",
+        "explication": "Repéré d'abord dans la lumière du Soleil, il tire son nom du grec."
+      },
+      {
+        "gauche": "Chlore",
+        "droite": "Chloros, vert pâle",
+        "explication": "Le nom vient de la couleur jaune-vert du gaz pur."
+      },
+      {
+        "gauche": "Uranium",
+        "droite": "La planète Uranus",
+        "explication": "Klaproth l'a nommé d'après la planète découverte par Herschel."
+      },
+      {
+        "gauche": "Plutonium",
+        "droite": "Pluton, qui suit Uranus et Neptune",
+        "explication": "Il suit l'uranium et le neptunium dans le tableau périodique."
+      },
+      {
+        "gauche": "Azote",
+        "droite": "« Privé de vie »",
+        "explication": "Lavoisier l'a nommé ainsi car les animaux ne vivent pas dans cet air."
+      }
+    ],
+    "explication": "Beaucoup d'éléments tirent leur nom d'une couleur, d'un astre ou d'une propriété. L'hélium vient du Soleil, l'uranium et le plutonium de planètes, le chlore d'une couleur, et l'azote du fait qu'on ne peut y vivre.",
+    "source": "D'après Wikipédia — Hélium"
+  },
+  {
+    "id": "q-sciences-153",
+    "domain": "sciences",
+    "format": "qui-suis-je",
+    "indices": [
+      "Né en Suède en 1779, j'ai commencé comme médecin.",
+      "J'ai découvert le cérium avec Hisinger et isolé le silicium.",
+      "J'ai forgé des mots comme catalyse, isomérie et protéine.",
+      "Friedrich Wöhler fut mon élève à Stockholm.",
+      "J'ai inventé les symboles chimiques comme Fe pour le fer et Pb pour le plomb."
+    ],
+    "reponse": "Jöns Jacob Berzelius",
+    "explication": "Berzelius est l'un des fondateurs de la chimie moderne avec Lavoisier, Dalton et Boyle. Son système de lettres tirées du latin, proposé en 1813, est toujours utilisé. Il a dirigé l'Académie des sciences de Stockholm comme secrétaire pendant trente ans.",
+    "source": "D'après Wikipédia — Jöns Jacob Berzelius"
+  },
+  {
+    "id": "q-sciences-154",
+    "domain": "sciences",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire du chlore dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Scheele décrit le gaz jaune-vert",
+        "annee": "1774"
+      },
+      {
+        "label": "Berthollet utilise le chlore pour blanchir des tissus",
+        "annee": "1785"
+      },
+      {
+        "label": "Berthollet prépare l'eau de Javel",
+        "annee": "1789"
+      },
+      {
+        "label": "Davy annonce que le chlore est un élément",
+        "annee": "1810"
+      },
+      {
+        "label": "Faraday liquéfie le chlore",
+        "annee": "1823"
+      }
+    ],
+    "explication": "Scheele isole le gaz en 1774 sans comprendre sa nature. Berthollet l'emploie pour blanchir en 1785 puis prépare l'eau de Javel en 1789. Davy prouve en 1810 qu'il s'agit d'un élément, et Faraday le liquéfie en 1823.",
+    "source": "D'après Wikipédia — Chlore"
+  },
+  {
+    "id": "q-sciences-155",
+    "domain": "sciences",
+    "format": "difference",
+    "question": "Quelle est la différence entre le fer et l'acier ?",
+    "choix": [
+      "L'acier est du fer allié à du carbone, plus dur et résistant",
+      "L'acier est du fer entièrement pur",
+      "L'acier est un métal sans fer, plus léger",
+      "L'acier est du fer rouillé"
+    ],
+    "bonneReponse": 0,
+    "explication": "Allié au carbone et à d'autres éléments, le fer donne les aciers, plus durs et plus résistants. On peut ensuite varier leurs propriétés par des traitements thermiques. Le fer pur, lui, est plus tenace et malléable, et il rouille.",
+    "source": "D'après Wikipédia — Fer"
+  },
+  {
+    "id": "q-sciences-156",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Pourquoi le savon permet-il d'enlever la graisse avec de l'eau ?",
+    "choix": [
+      "Une extrémité de ses molécules aime l'eau et l'autre aime la graisse",
+      "Il dissout la graisse comme le ferait un acide",
+      "Il chauffe l'eau et fait fondre la graisse",
+      "Il transforme la graisse en eau"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chaque molécule de savon a une tête qui aime l'eau et une queue qui aime le gras. Les queues s'accrochent à la saleté grasse et forment avec elle de minuscules sphères, les micelles, que l'eau de rinçage emporte.",
+    "source": "D'après Wikipédia — Savon"
+  },
+  {
+    "id": "q-sciences-157",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "L'hélium a été repéré dans la lumière du Soleil avant d'être isolé sur Terre.",
+    "reponse": true,
+    "explication": "En 1868, Janssen et Lockyer détectent un nouvel élément dans l'atmosphère du Soleil, qu'ils nomment hélium d'après hélios, « soleil » en grec. Ramsay l'obtient ensuite sur Terre en chauffant un minéral, la cléveite.",
+    "source": "D'après Wikipédia — Gaz noble"
+  },
+  {
+    "id": "q-sciences-158",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel ingrédient volcanique explique en grande partie la durabilité du béton romain ?",
+    "choix": [
+      "La pouzzolane",
+      "Le basalte noir",
+      "Le granite rose",
+      "L'obsidienne"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le béton romain associait de la chaux à de la pouzzolane, roche volcanique napolitaine. Elle rend la chaux « hydraulique » et améliore la tenue du béton face à l'eau de mer. Le Panthéon en est l'exemple le plus célèbre.",
+    "source": "D'après Wikipédia — Béton de ciment"
+  },
+  {
+    "id": "q-sciences-159",
+    "domain": "sciences",
+    "format": "associer",
+    "question": "Associe chaque gaz noble au sens de son nom en grec.",
+    "paires": [
+      {
+        "gauche": "Argon",
+        "droite": "Paresseux",
+        "explication": "Isolé en 1895 par Rayleigh et Ramsay, ce gaz ne réagit presque avec rien, d'où son nom."
+      },
+      {
+        "gauche": "Krypton",
+        "droite": "Caché",
+        "explication": "Ramsay le découvre en 1898 en distillant de l'air liquide, où il restait invisible et caché."
+      },
+      {
+        "gauche": "Néon",
+        "droite": "Nouveau",
+        "explication": "Découvert en 1898 par Ramsay, c'est le « nouveau » gaz qui vient rejoindre la famille."
+      },
+      {
+        "gauche": "Xénon",
+        "droite": "Étranger",
+        "explication": "Autre trouvaille de Ramsay en 1898 : un gaz « étranger » parmi ceux déjà connus de l'époque."
+      }
+    ],
+    "explication": "En 1898, Ramsay sépare l'air liquide par distillation fractionnée et découvre krypton, néon et xénon. Trois ans plus tôt, avec Rayleigh, il avait isolé l'argon. Tous reçoivent ainsi un nom qui reflète leur découverte ou leur discrétion.",
+    "source": "D'après Wikipédia — Gaz noble"
+  },
+  {
+    "id": "q-sciences-160",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel être vivant détient le record connu du nombre de chromosomes ?",
+    "choix": [
+      "Une fougère, avec 1 440 chromosomes",
+      "Un papillon, l'azuré de l'Atlas, avec environ 440 chromosomes",
+      "Le mûrier noir, avec 308 chromosomes",
+      "Le rat-viscache roux, avec 102 chromosomes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le record absolu revient à la fougère Ophioglossum reticulatum et ses 1 440 chromosomes. Chez les animaux, le papillon azuré de l'Atlas arrive en tête avec environ 440, et le mûrier noir détient le record chez les plantes à graines avec 308.",
+    "source": "D'après Wikipédia — Chromosome"
+  },
+  {
+    "id": "q-sciences-161",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel animal disparu Georges Cuvier identifie-t-il en 1796 à partir d'un grand squelette sud-américain ?",
+    "choix": [
+      "Un paresseux géant, le Megatherium",
+      "Un éléphant géant",
+      "Un grand lézard marin",
+      "Un tigre à dents de sabre"
+    ],
+    "bonneReponse": 0,
+    "explication": "En comparant le crâne du squelette à celui des paresseux actuels, Cuvier conclut qu'il s'agit d'un paresseux géant vivant au sol, qu'il nomme Megatherium. Avec son étude des éléphants fossiles, ce travail contribue à prouver la réalité de l'extinction.",
+    "source": "D'après Wikipédia — Georges Cuvier"
+  },
+  {
+    "id": "q-sciences-162",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "À température ambiante, le verre coule très lentement au fil du temps.",
+    "reponse": false,
+    "explication": "C'est une idée reçue. Le verre est un solide amorphe : ses atomes sont désordonnés comme dans un liquide, mais sa viscosité est si grande qu'il ne change pas de forme de façon appréciable, même sur de très longues durées.",
+    "source": "D'après Wikipédia — Verre"
+  },
+  {
+    "id": "q-sciences-163",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel mot Jacques Monod invente-t-il pour décrire les deux phases de croissance de bactéries nourries avec deux sucres ?",
+    "choix": [
+      "La diauxie",
+      "L'allostérie",
+      "L'opéron",
+      "La symbiose"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour sa thèse, Monod observe que des bactéries nourries avec deux sucres poussent en deux phases distinctes, l'un après l'autre. Il invente le mot diauxie. Ce travail le conduit, avec François Jacob, vers l'opéron lactose.",
+    "source": "D'après Wikipédia — Jacques Monod"
+  },
+  {
+    "id": "q-sciences-164",
+    "domain": "sciences",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom vient de l'arabe al-kīmiyā.",
+      "Dans ma forme occidentale, je nais en Égypte, sous domination grecque puis romaine.",
+      "Jusqu'à la fin du XVIIe siècle, on me confond avec la chimie.",
+      "Mes adeptes rêvaient d'un remède universel et d'un élixir de longue vie.",
+      "Mon grand œuvre est la pierre philosophale, censée changer le plomb en or."
+    ],
+    "reponse": "L'alchimie",
+    "explication": "L'alchimie est une ancienne tradition à la frontière de la technique et de la philosophie. Pendant des siècles, « alchimie » et « chimie » ont été synonymes, puis la chimie moderne, avec Lavoisier, s'est imposée au XVIIIe siècle.",
+    "source": "D'après Wikipédia — Alchimie"
+  },
+  {
+    "id": "q-sciences-165",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qu'est-ce qui distingue un acier du fer pur et de la fonte ?",
+    "choix": [
+      "Sa teneur en carbone, d'environ 0,02 % à 2 %",
+      "Sa teneur en carbone, d'environ 10 % à 20 %",
+      "Sa teneur en chrome, d'environ 10 % à 20 %",
+      "Sa teneur en soufre, d'environ 0,02 % à 2 %"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un acier contient entre 0,02 % et 2 % de carbone. En dessous, c'est du fer, malléable ; au-delà, de la fonte, qui se coule bien mais reste cassante. Le carbone détermine donc en grande partie la dureté de l'acier.",
+    "source": "D'après Wikipédia — Acier"
+  },
+  {
+    "id": "q-sciences-166",
+    "domain": "sciences",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de la génétique dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Mendel publie son article sur les hybrides de pois",
+        "annee": "1866"
+      },
+      {
+        "label": "Redécouverte indépendante des lois de Mendel",
+        "annee": "1900"
+      },
+      {
+        "label": "Morgan et Sturtevant dressent la première carte des gènes de la drosophile",
+        "annee": "1913"
+      },
+      {
+        "label": "Avery, MacLeod et McCarty montrent que l'ADN porte l'information héréditaire",
+        "annee": "1944"
+      },
+      {
+        "label": "Watson et Crick présentent la double hélice",
+        "annee": "1953"
+      }
+    ],
+    "explication": "Mendel publie en 1866 mais reste ignoré jusqu'en 1900. Morgan et Sturtevant cartographient les gènes d'une mouche en 1913, Avery et ses collègues désignent l'ADN en 1944, et Watson et Crick proposent sa structure en 1953.",
+    "source": "D'après Wikipédia — Génétique"
+  },
+  {
+    "id": "q-sciences-167",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qui invente le mot « électrolyse » en 1834 ?",
+    "choix": [
+      "Michael Faraday",
+      "Alessandro Volta",
+      "Humphry Davy",
+      "William Nicholson"
+    ],
+    "bonneReponse": 0,
+    "explication": "Michael Faraday forge le mot en 1834, à partir du grec pour « ambre » et « dissolution ». Il crée aussi les termes électrode, anode, cathode, anion et cation, et énonce deux lois qui relient la quantité de produit au courant.",
+    "source": "D'après Wikipédia — Électrolyse"
+  },
+  {
+    "id": "q-sciences-168",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qu'est-ce que l'article de Wallace publié en 1858 a provoqué chez Darwin ?",
+    "choix": [
+      "Il l'a poussé à écrire vite un résumé de son grand ouvrage, publié en 1859",
+      "Il l'a convaincu d'abandonner sa théorie",
+      "Il l'a décidé à explorer à son tour l'Amazonie",
+      "Il l'a poussé à publier un récit de voyage"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'article de Wallace sur la sélection naturelle, publié en 1858 avec des extraits des écrits de Darwin, a décidé celui-ci à mettre de côté son gros ouvrage. Il a écrit un résumé, paru en 1859 : L'Origine des espèces.",
+    "source": "D'après Wikipédia — Alfred Russel Wallace"
+  },
+  {
+    "id": "q-sciences-169",
+    "domain": "sciences",
+    "format": "difference",
+    "question": "Quelle est la différence entre l'ARN et l'ADN ?",
+    "choix": [
+      "L'ARN est le plus souvent à simple brin et contient de l'uracile à la place de la thymine",
+      "L'ARN est une double hélice, alors que l'ADN est un simple brin",
+      "L'ARN contient de la thymine, alors que l'ADN contient de l'uracile",
+      "L'ARN est beaucoup plus long que l'ADN et reste toujours dans le noyau"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'ARN est une chaîne le plus souvent à simple brin, avec du ribose et de l'uracile. L'ADN est une double hélice avec du désoxyribose et de la thymine, bien plus longue. L'ARN, moins stable, sert de copie temporaire des gènes.",
+    "source": "D'après Wikipédia — Acide ribonucléique"
+  },
+  {
+    "id": "q-sciences-170",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Toutes les mutations génétiques sont transmises aux enfants.",
+    "reponse": false,
+    "explication": "Seules les mutations touchant les cellules sexuelles sont héréditaires. Les mutations somatiques, qui touchent les autres cellules, ne se transmettent pas. De plus, la plupart des mutations sont neutres et sans effet notable.",
+    "source": "D'après Wikipédia — Mutation génétique"
+  },
+  {
+    "id": "q-sciences-171",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle expression Francis Crick a-t-il rendue célèbre pour dire que l'information passe des acides nucléiques aux protéines, jamais en sens inverse ?",
+    "choix": [
+      "Le dogme central",
+      "L'horloge moléculaire",
+      "La soupe primitive",
+      "Le gène égoïste"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans le « dogme central », l'information va de l'ADN ou de l'ARN vers les protéines, et ne peut pas faire le trajet inverse. Crick, qui a aussi co-découvert la double hélice avec James Watson en 1953, a popularisé l'expression.",
+    "source": "D'après Wikipédia — Francis Crick"
+  },
+  {
+    "id": "q-sciences-172",
+    "domain": "sciences",
+    "format": "associer",
+    "question": "Associe chaque chercheur à son apport en génétique.",
+    "paires": [
+      {
+        "gauche": "Gregor Mendel",
+        "droite": "Lois de l'hérédité tirées de croisements de pois",
+        "explication": "Le moine cultive des pois à sept caractères dans son monastère et publie ses résultats en 1866."
+      },
+      {
+        "gauche": "Thomas Hunt Morgan",
+        "droite": "Gènes portés par les chromosomes, chez la drosophile",
+        "explication": "Ses mouches aux yeux blancs démontrent que les gènes se trouvent sur les chromosomes."
+      },
+      {
+        "gauche": "Frederick Griffith",
+        "droite": "Transformation de bactéries par un principe héréditaire",
+        "explication": "En 1928, il montre que de l'information génétique passe d'une bactérie à une autre."
+      },
+      {
+        "gauche": "Alfred Hershey et Martha Chase",
+        "droite": "Seul l'ADN du virus pénètre dans la bactérie",
+        "explication": "En 1952, leur expérience sur un virus renforce beaucoup l'idée que les gènes sont faits d'ADN."
+      }
+    ],
+    "explication": "Chaque expérience a ajouté une pièce au puzzle : les règles de transmission avec Mendel, le support chromosomique avec Morgan, puis l'ADN comme molécule héréditaire avec Griffith, Avery et enfin Hershey et Chase.",
+    "source": "D'après Wikipédia — Génétique"
+  },
+  {
+    "id": "q-sciences-173",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Sur quelle propriété des liquides repose la distillation ?",
+    "choix": [
+      "Ils ne s'évaporent pas tous à la même température",
+      "Ils n'ont pas tous la même couleur",
+      "Ils ne se mélangent jamais entre eux",
+      "Ils n'ont pas tous la même odeur"
+    ],
+    "bonneReponse": 0,
+    "explication": "La distillation exploite les différences de volatilité : en chauffant un mélange, le liquide qui s'évapore le plus facilement part en premier. Sa vapeur est ensuite refroidie et redevient liquide. C'est ainsi qu'on obtient les eaux-de-vie ou les fractions du pétrole.",
+    "source": "D'après Wikipédia — Distillation"
+  },
+  {
+    "id": "q-sciences-174",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Par opposition à quel autre tri Darwin a-t-il choisi le nom « sélection naturelle » ?",
+    "choix": [
+      "La sélection artificielle, pratiquée depuis des millénaires par les éleveurs et les agriculteurs",
+      "La sélection sexuelle, fondée sur le choix des partenaires",
+      "La sélection génétique, réalisée en laboratoire",
+      "La sélection cellulaire, qui élimine les cellules défectueuses"
+    ],
+    "bonneReponse": 0,
+    "explication": "Darwin a nommé son mécanisme par contraste avec la sélection artificielle : éleveurs et agriculteurs choisissent depuis des millénaires, à chaque génération, les individus aux meilleures qualités pour les faire se reproduire. Dans la nature, c'est le milieu qui trie.",
+    "source": "D'après Wikipédia — Sélection naturelle"
+  },
+  {
+    "id": "q-sciences-175",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Sous la plume de quel botaniste britannique le mot « écosystème » naît-il en 1935 ?",
+    "choix": [
+      "Arthur George Tansley",
+      "Charles Elton",
+      "Raymond Lindeman",
+      "Eugene Odum"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot « écosystème » apparaît en 1935 chez Arthur George Tansley, qui voulait attirer l'attention sur les échanges de matière entre êtres vivants et milieu. Hutchinson, Lindeman et les frères Odum ont ensuite précisé le rôle des flux d'énergie.",
+    "source": "D'après Wikipédia — Écosystème"
+  },
+  {
+    "id": "q-sciences-176",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "D'après une étude de 2013, l'humain occupe le sommet de la chaîne alimentaire.",
+    "reponse": false,
+    "explication": "D'après cette étude, le régime de l'humain le situe au niveau des anchois ou des cochons, pas tout en haut. Il n'a certes pas de prédateur, mais il s'est aussi extrait de la chaîne en remodelant la nature par l'agriculture et l'élevage.",
+    "source": "D'après Wikipédia — Réseau trophique"
+  },
+  {
+    "id": "q-sciences-177",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Que montre une étude de 2016 sur le nombre de bactéries du corps humain, comparé au nombre de ses propres cellules ?",
+    "choix": [
+      "Les deux nombres sont proches, environ 1 bactérie pour 1 cellule",
+      "Il y a environ 10 bactéries pour 1 cellule",
+      "Il y a environ 100 bactéries pour 1 cellule",
+      "Il y a environ 10 cellules pour 1 bactérie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Longtemps, on a cru les micro-organismes dix à cent fois plus nombreux que nos cellules. L'étude de 2016 estime environ 39 000 milliards de bactéries pour 30 000 milliards de cellules, soit un rapport proche de 1 pour 1.",
+    "source": "D'après Wikipédia — Microbiote"
+  },
+  {
+    "id": "q-sciences-178",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Des vrais jumeaux sont des clones naturels.",
+    "reponse": true,
+    "explication": "Les vrais jumeaux, issus d'un même œuf fécondé qui se divise, partagent le même génome : ce sont des clones naturels. Ils montrent aussi qu'un clone n'est pas une copie conforme, car l'alimentation et l'environnement les différencient.",
+    "source": "D'après Wikipédia — Clonage"
+  },
+  {
+    "id": "q-sciences-179",
+    "domain": "sciences",
+    "format": "difference",
+    "question": "Quelle est la différence entre un OGM et un organisme transgénique ?",
+    "choix": [
+      "Un organisme transgénique, qui porte un gène étranger, est toujours un OGM ; l'inverse n'est pas toujours vrai",
+      "Un OGM est toujours une plante, un organisme transgénique est toujours un animal",
+      "Il n'y en a aucune : les deux mots désignent exactement la même chose",
+      "Un OGM apparaît naturellement, un organisme transgénique est fabriqué en laboratoire"
+    ],
+    "bonneReponse": 0,
+    "explication": "La transgénèse insère dans un organisme un ou plusieurs gènes étrangers. Un organisme transgénique est donc forcément un OGM, mais un OGM n'est pas toujours transgénique : le terme OGM est plus large.",
+    "source": "D'après Wikipédia — Organisme génétiquement modifié"
+  },
+  {
+    "id": "q-sciences-180",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Pourquoi Walter Cannon a-t-il bâti le mot « homéostasie » sur le grec hómoios, « semblable », et non sur « identique » ?",
+    "choix": [
+      "Pour dire que les conditions internes peuvent varier tout en restant relativement constantes",
+      "Pour dire que le corps reste toujours exactement identique à lui-même",
+      "Pour dire que tous les organismes se ressemblent",
+      "Pour dire que la régulation ne concerne que la température"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cannon a choisi « semblable » pour exprimer une stabilité qui laisse de la marge : l'état interne peut varier, mais reste relativement constant. L'homéostasie n'est donc pas une stagnation, c'est un ajustement permanent.",
+    "source": "D'après Wikipédia — Homéostasie"
+  },
+  {
+    "id": "q-sciences-181",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "D'où vient le mot « vaccination » ?",
+    "choix": [
+      "Du latin vacca, « vache », à cause de la variole des vaches",
+      "Du nom d'un médecin anglais, Edward Vaccin",
+      "Du latin vacuus, « vide », car on vide l'organisme de la maladie",
+      "Du grec vakkhos, « force », car le vaccin renforce le corps"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot vient de la vaccine, nom de la variole des vaches, elle-même dérivée du latin vacca. En 1796, Edward Jenner inocule à un enfant du pus de variole des vaches, qui le protège ensuite de la variole humaine.",
+    "source": "D'après Wikipédia — Vaccination"
+  },
+  {
+    "id": "q-sciences-182",
+    "domain": "sciences",
+    "format": "associer",
+    "question": "Associe chaque personne à son rôle dans l'histoire de la vaccination.",
+    "paires": [
+      {
+        "gauche": "Benjamin Jesty",
+        "droite": "Fermier anglais qui teste la variole des vaches en 1774",
+        "explication": "Il fut l'un des pionniers qui ont eu l'idée avant Jenner, indépendamment des autres."
+      },
+      {
+        "gauche": "Edward Jenner",
+        "droite": "Médecin qui inocule la variole des vaches à James Phipps en 1796",
+        "explication": "Trois mois plus tard, l'enfant est exposé à la variole humaine et se révèle immunisé."
+      },
+      {
+        "gauche": "Lady Mary Wortley Montagu",
+        "droite": "Importe l'inoculation de Constantinople en Occident",
+        "explication": "Elle rapporte cette pratique au début du XVIIIe siècle, que Voltaire évoque en 1734."
+      },
+      {
+        "gauche": "Louis Pasteur",
+        "droite": "Vaccine un enfant mordu par un chien enragé en 1885",
+        "explication": "Joseph Meister est vacciné après la morsure, car le virus de la rage avance lentement dans les nerfs."
+      }
+    ],
+    "explication": "Avant Jenner, des pratiques de variolisation circulaient déjà en Asie et en Afrique, et au moins six personnes ont testé la variole des vaches. Pasteur a ensuite expliqué le principe de la vaccination et l'a étendu à d'autres maladies.",
+    "source": "D'après Wikipédia — Vaccination"
+  },
+  {
+    "id": "q-sciences-183",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Avec quel savant Pierre de Fermat a-t-il échangé en 1654 des lettres qui ont posé les bases de la théorie des probabilités ?",
+    "choix": [
+      "Blaise Pascal",
+      "René Descartes",
+      "Christiaan Huygens",
+      "Marin Mersenne"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1654, Fermat et Blaise Pascal discutent par lettres du problème des points, ce qui fait d'eux les cofondateurs de la théorie des probabilités. Fermat a aussi expliqué pourquoi un joueur gagne en pariant sur au moins un six en quatre lancers de dé.",
+    "source": "D'après Wikipédia — Pierre de Fermat"
+  },
+  {
+    "id": "q-sciences-184",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Sur quoi porte l'hypothèse de Riemann, formulée dans son article de 1859 ?",
+    "choix": [
+      "Les zéros d'une fonction, la fonction zêta, liée à la répartition des nombres premiers",
+      "La courbure de l'espace dans la théorie de la relativité",
+      "Le nombre de dimensions de l'espace physique",
+      "La possibilité de calculer toutes les décimales de pi"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans son article de 1859, Riemann définit la fonction zêta pour étudier la répartition des nombres premiers. Son hypothèse concerne les zéros non triviaux de cette fonction. Toujours non démontrée, elle figure parmi les problèmes de Hilbert et du millénaire.",
+    "source": "D'après Wikipédia — Bernhard Riemann"
+  },
+  {
+    "id": "q-sciences-185",
+    "domain": "sciences",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Saint-Pétersbourg en 1845, mais j'ai fait toute ma carrière à Halle.",
+      "J'ai échangé de nombreuses lettres avec Richard Dedekind de 1872 à 1889.",
+      "Un professeur de Berlin, Leopold Kronecker, a combattu mes idées.",
+      "J'ai démontré qu'il y a plus de nombres réels que d'entiers naturels.",
+      "J'ai créé la théorie des ensembles et montré qu'il existe plusieurs tailles d'infini."
+    ],
+    "reponse": "Georg Cantor",
+    "explication": "Georg Cantor a fondé la théorie des ensembles et prouvé qu'il existe une infinité d'infinis. Combattu par Kronecker, il a reçu en 1904 la médaille Sylvester de la Royal Society, et David Hilbert a défendu ses idées.",
+    "source": "D'après Wikipédia — Georg Cantor"
+  },
+  {
+    "id": "q-sciences-186",
+    "domain": "sciences",
+    "format": "frise",
+    "question": "Remets ces moments de la vie de David Hilbert dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Il démontre le théorème de la base finie",
+        "annee": "1888"
+      },
+      {
+        "label": "Il publie les Fondements de la géométrie",
+        "annee": "1899"
+      },
+      {
+        "label": "Il présente ses 23 problèmes à Paris",
+        "annee": "1900"
+      },
+      {
+        "label": "Il conclut une conférence par « Nous devons savoir, nous saurons »",
+        "annee": "1930"
+      },
+      {
+        "label": "Il meurt à Göttingen",
+        "annee": "1943"
+      }
+    ],
+    "explication": "Hilbert prouve son théorème de la base en 1888, axiomatise la géométrie en 1899, puis lance ses 23 problèmes en 1900. Sa devise de 1930 est gravée sur sa tombe à Göttingen, où il meurt en 1943.",
+    "source": "D'après Wikipédia — David Hilbert"
+  },
+  {
+    "id": "q-sciences-187",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Que montre le premier théorème d'incomplétude de Gödel, publié en 1931 ?",
+    "choix": [
+      "Dans tout système d'axiomes assez puissant pour décrire l'arithmétique, certaines affirmations ne peuvent être ni prouvées ni réfutées",
+      "Toute affirmation vraie de l'arithmétique finit par être démontrée par un système assez puissant",
+      "Les mathématiques sont contradictoires et doivent être abandonnées",
+      "Il est impossible de calculer avec des nombres infinis"
+    ],
+    "bonneReponse": 0,
+    "explication": "Gödel démontre à 25 ans qu'un système logique assez puissant pour décrire l'arithmétique des entiers contient des propositions indécidables : on ne peut les confirmer ni les infirmer à partir des axiomes. Il ébranle ainsi le programme de Hilbert.",
+    "source": "D'après Wikipédia — Kurt Gödel"
+  },
+  {
+    "id": "q-sciences-188",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel phénomène Joseph Fourier est-il l'un des premiers à entrevoir, en 1824 ?",
+    "choix": [
+      "L'effet de serre",
+      "Le trou dans la couche d'ozone",
+      "Les glaciations",
+      "Le phénomène El Niño"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1824, Fourier propose que les gaz de l'atmosphère font monter la température à la surface de la Terre, première esquisse de l'effet de serre. Il y arrive en étudiant les équilibres d'énergie des planètes, dans le prolongement de ses travaux sur la chaleur.",
+    "source": "D'après Wikipédia — Joseph Fourier"
+  },
+  {
+    "id": "q-sciences-189",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel souverain invite Joseph-Louis Lagrange à Berlin en 1766 pour succéder à Euler ?",
+    "choix": [
+      "Frédéric II de Prusse",
+      "Catherine II de Russie",
+      "Louis XV",
+      "Charles-Emmanuel III de Sardaigne"
+    ],
+    "bonneReponse": 0,
+    "explication": "Frédéric II de Prusse lui offre le poste de directeur des mathématiques à Berlin, laissé vacant par Euler, parti à Saint-Pétersbourg pour Catherine II. Lagrange y reste une vingtaine d'années, avant de s'installer à Paris en 1787.",
+    "source": "D'après Wikipédia — Joseph-Louis Lagrange"
+  },
+  {
+    "id": "q-sciences-190",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "En 1785, Laplace a fait passer un examen au futur empereur Napoléon Bonaparte.",
+    "reponse": true,
+    "explication": "Laplace, examinateur de l'artillerie, a interrogé en 1785 un jeune candidat nommé Napoléon Bonaparte. Devenu empereur, celui-ci fera de lui un sénateur puis un comte d'Empire. Laplace fut aussi ministre de l'Intérieur en 1799.",
+    "source": "D'après Wikipédia — Pierre-Simon de Laplace"
+  },
+  {
+    "id": "q-sciences-191",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel mathématicien découvre le nombre e en 1683, en étudiant les intérêts composés ?",
+    "choix": [
+      "Jacques Bernoulli",
+      "Leonhard Euler",
+      "John Napier",
+      "Gottfried Leibniz"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jacques Bernoulli rencontre e en 1683 en se demandant ce que devient un capital quand les intérêts sont versés de plus en plus souvent : il tend vers une limite précise, le nombre e. Euler lui donnera plus tard la notation e.",
+    "source": "D'après Wikipédia — E (nombre)"
+  },
+  {
+    "id": "q-sciences-192",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qui a lancé le mot « imaginaire » pour désigner les racines de nombres négatifs, avec une intention méprisante ?",
+    "choix": [
+      "René Descartes",
+      "Gerolamo Cardano",
+      "Carl Friedrich Gauss",
+      "Leonhard Euler"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans La Géométrie, René Descartes a forgé le terme « imaginaire » de façon péjorative, pour des nombres qu'il jugeait fictifs ou inutiles. Il a fallu attendre les travaux d'Euler, puis de Gauss, pour qu'on les accepte vraiment.",
+    "source": "D'après Wikipédia — Nombre imaginaire pur"
+  },
+  {
+    "id": "q-sciences-193",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Pythagore est le premier à avoir découvert la relation entre les côtés d'un triangle rectangle.",
+    "reponse": false,
+    "explication": "Faux. Des tablettes d'argile de Mésopotamie montrent que cette règle servait déjà plus de mille ans avant lui. On la retrouve aussi en Inde et en Chine, et la plus ancienne démonstration conservée est celle d'Euclide.",
+    "source": "D'après Wikipédia — Théorème de Pythagore"
+  },
+  {
+    "id": "q-sciences-194",
+    "domain": "sciences",
+    "format": "difference",
+    "question": "Quelle est la différence entre le « théorème de Thalès » enseigné en France et celui qui porte ce nom en Allemagne ?",
+    "choix": [
+      "En France, il traite des parallèles dans un triangle ; en Allemagne, il dit qu'un triangle inscrit dans un demi-cercle est rectangle",
+      "En France, il dit qu'un triangle inscrit dans un demi-cercle est rectangle ; en Allemagne, il traite des parallèles dans un triangle",
+      "En France, il porte sur les angles d'un triangle ; en Allemagne, sur son aire",
+      "Il n'y a aucune différence : c'est le même théorème dans les deux pays"
+    ],
+    "bonneReponse": 0,
+    "explication": "En France, le nom désigne la proportionnalité créée par des parallèles dans un triangle. En Allemagne, il désigne la propriété du triangle inscrit dans un demi-cercle. Cela reflète deux traditions d'enseignement de la géométrie.",
+    "source": "D'après Wikipédia — Théorème de Thalès"
+  },
+  {
+    "id": "q-sciences-195",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qui a gardé pour lui ses idées sur une géométrie non euclidienne, « par crainte des cris des Béotiens » ?",
+    "choix": [
+      "Carl Friedrich Gauss",
+      "Nikolaï Lobatchevski",
+      "János Bolyai",
+      "Bernhard Riemann"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dès 1813, Gauss songe à des géométries différentes de celle d'Euclide, mais il n'ose pas publier. Lobatchevski, en 1829, et Bolyai, en 1832, publient ensuite chacun de leur côté la géométrie hyperbolique.",
+    "source": "D'après Wikipédia — Géométrie non euclidienne"
+  },
+  {
+    "id": "q-sciences-196",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Que signifie le mot latin calculus, à l'origine du mot « calcul » ?",
+    "choix": [
+      "Caillou",
+      "Bâton",
+      "Ficelle",
+      "Coquillage"
+    ],
+    "bonneReponse": 0,
+    "explication": "Calculus signifie « caillou » : les Romains utilisaient des cailloux comme jetons sur leur abaque, et « placer des cailloux » voulait dire compter. Ce sens existe encore en médecine, et le mot a donné « calculer ».",
+    "source": "D'après Wikipédia — Calcul infinitésimal"
+  },
+  {
+    "id": "q-sciences-197",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle invention de Herman Hollerith a servi lors du recensement américain de 1890, première application industrielle de la statistique ?",
+    "choix": [
+      "La carte perforée",
+      "Le télégraphe",
+      "La machine à écrire",
+      "Le boulier"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour traiter les données du recensement américain de 1890, on a utilisé la carte perforée inventée par Herman Hollerith. C'est la première application industrielle des statistiques, et il avait déposé un brevet pour son invention.",
+    "source": "D'après Wikipédia — Statistique"
+  },
+  {
+    "id": "q-sciences-198",
+    "domain": "sciences",
+    "format": "associer",
+    "question": "Associe chaque personnage à son apport à l'algèbre.",
+    "paires": [
+      {
+        "gauche": "Al-Khwarizmi",
+        "droite": "Un livre dont le titre a donné le mot « algèbre »",
+        "explication": "Son livre, écrit vers 825 à Bagdad, a pour titre un « calcul par al-jabr », restauration d'une équation."
+      },
+      {
+        "gauche": "François Viète",
+        "droite": "L'emploi de lettres pour noter les inconnues",
+        "explication": "Il innove vers la fin du XVIe siècle et est vu comme le fondateur de notre langage algébrique."
+      },
+      {
+        "gauche": "René Descartes",
+        "droite": "Les exposants numériques, comme dans x au carré",
+        "explication": "Il note les puissances sous forme d'exposants, et cette écriture s'impose, à peu de chose près, jusqu'à aujourd'hui."
+      },
+      {
+        "gauche": "Robert Recorde",
+        "droite": "Le signe égal, fait de deux traits parallèles",
+        "explication": "Il apparaît en 1557 chez Recorde, qui y voyait l'image même de l'égalité : deux traits parallèles."
+      }
+    ],
+    "explication": "L'algèbre doit son nom à Al-Khwarizmi, et son écriture moderne à Viète, Descartes et Recorde, qui ont peu à peu remplacé les phrases par des lettres, des exposants et des signes courts.",
+    "source": "D'après Wikipédia — Algèbre"
+  },
+  {
+    "id": "q-sciences-199",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Pour un topologue, un beignet (un tore) est équivalent à quel objet du quotidien ?",
+    "choix": [
+      "Une tasse à anse",
+      "Un ballon",
+      "Une paire de lunettes",
+      "Une bouteille"
+    ],
+    "bonneReponse": 0,
+    "explication": "En topologie, on déforme les objets sans les couper ni les recoller. Un tore peut devenir une tasse : on creuse un creux, qu'on agrandit, tandis que le trou central devient l'anse. Le topologue ne voit pas la différence.",
+    "source": "D'après Wikipédia — Topologie"
+  },
+  {
+    "id": "q-sciences-200",
+    "domain": "sciences",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire des fractales dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Weierstrass présente une fonction que l'on jugerait fractale aujourd'hui",
+        "annee": "1872"
+      },
+      {
+        "label": "Helge von Koch décrit son flocon",
+        "annee": "1904"
+      },
+      {
+        "label": "Sierpiński décrit son tapis",
+        "annee": "1916"
+      },
+      {
+        "label": "Mandelbrot crée le mot « fractal »",
+        "annee": "1975"
+      }
+    ],
+    "explication": "Weierstrass présente en 1872 une fonction aujourd'hui jugée fractale, puis viennent le flocon de Koch (1904) et le tapis de Sierpiński (1916). Mandelbrot crée le mot en 1975, d'après le latin fractus, « brisé ».",
+    "source": "D'après Wikipédia — Fractale"
+  },
+  {
+    "id": "q-sciences-201",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Combien de couleurs suffisent pour colorier n'importe quelle carte, sans que deux pays voisins aient la même ?",
+    "choix": [
+      "Quatre",
+      "Trois",
+      "Cinq",
+      "Six"
+    ],
+    "bonneReponse": 0,
+    "explication": "Quatre suffisent : c'est le théorème des quatre couleurs, posé en 1852 par Francis Guthrie. Il n'a été démontré qu'en 1976, par Appel et Haken avec un ordinateur, preuve qui a d'abord été jugée trop complexe pour être acceptée.",
+    "source": "D'après Wikipédia — Théorie des graphes"
+  },
+  {
+    "id": "q-sciences-202",
+    "domain": "sciences",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis apparue en 1859, dans un article consacré à la quantité de nombres premiers inférieurs à une valeur donnée.",
+      "Je concerne les zéros d'une fonction appelée zêta.",
+      "Hilbert m'a placée dans sa liste de 23 problèmes non résolus, en 1900.",
+      "Je fais partie des sept problèmes du prix du millénaire.",
+      "Je porte le nom d'un mathématicien allemand et je ne suis toujours pas démontrée."
+    ],
+    "reponse": "L'hypothèse de Riemann",
+    "explication": "Formulée en 1859 par Bernhard Riemann, elle porte sur les zéros de la fonction zêta et sur la répartition des nombres premiers. C'est le seul problème de Hilbert à figurer aussi parmi les problèmes du prix du millénaire.",
+    "source": "D'après Wikipédia — Hypothèse de Riemann"
+  },
+  {
+    "id": "q-sciences-203",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Pourquoi parle-t-on de « suite de Syracuse » ?",
+    "choix": [
+      "Elle a été diffusée aux États-Unis à l'université de Syracuse",
+      "Collatz est né à Syracuse, en Sicile",
+      "Archimède, de Syracuse, l'aurait imaginée",
+      "Ses valeurs montent et descendent comme les vagues de la mer"
+    ],
+    "bonneReponse": 0,
+    "explication": "Selon Collatz, il a expliqué son problème en 1952 à Helmut Hasse. Celui-ci l'a répandu en visitant l'université de Syracuse, aux États-Unis, d'où le nom. On parle aussi de conjecture de Collatz.",
+    "source": "D'après Wikipédia — Conjecture de Syracuse"
+  },
+  {
+    "id": "q-sciences-204",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel philosophe Zénon d'Élée cherchait-il à défendre avec ses paradoxes ?",
+    "choix": [
+      "Parménide",
+      "Héraclite",
+      "Socrate",
+      "Aristote"
+    ],
+    "bonneReponse": 0,
+    "explication": "Zénon voulait soutenir son maître Parménide, pour qui les évidences des sens sont trompeuses et le mouvement impossible. Ses arguments, comme Achille et la tortue, nous sont connus surtout par Aristote.",
+    "source": "D'après Wikipédia — Paradoxes de Zénon"
+  },
+  {
+    "id": "q-sciences-205",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Au sein d'un groupe de 23 personnes, la probabilité que deux fêtent leur anniversaire le même jour dépasse 50 %.",
+    "reponse": true,
+    "explication": "Vrai. Pour 23 personnes, la probabilité est d'environ 50,73 %. L'intuition se trompe, car on compare tous les couples possibles et pas seulement sa propre date. Avec 57 personnes, la probabilité dépasse 99 %.",
+    "source": "D'après Wikipédia — Paradoxe des anniversaires"
+  },
+  {
+    "id": "q-sciences-206",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Dans le problème de Monty Hall, rester sur sa porte ou en changer revient au même : on a une chance sur deux de gagner.",
+    "reponse": false,
+    "explication": "Faux. Garder sa porte donne une chance sur trois de gagner, en changer deux chances sur trois. Le présentateur sait où est la voiture, donc la porte qu'il ouvre n'est pas choisie au hasard, ce qui modifie les probabilités.",
+    "source": "D'après Wikipédia — Problème de Monty Hall"
+  },
+  {
+    "id": "q-sciences-207",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Que signifie « ghubar », nom donné aux chiffres arabes occidentaux ?",
+    "choix": [
+      "Poussière",
+      "Lumière",
+      "Feuille",
+      "Plume"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ghubar signifie « poussière ». Au Maghreb et en Espagne musulmane, on calculait en dessinant les chiffres sur le sable ou une planchette poussiéreuse, d'où le nom de chiffres « ghubar » donné à la graphie dont viennent les nôtres.",
+    "source": "D'après Wikipédia — Chiffres arabes"
+  },
+  {
+    "id": "q-sciences-208",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qu'obtient-on si l'on coupe un ruban de Möbius en deux, le long de son milieu ?",
+    "choix": [
+      "Un seul ruban à deux faces, vrillé et deux fois plus long",
+      "Deux rubans de Möbius séparés",
+      "Deux anneaux entrelacés",
+      "Un ruban de Möbius deux fois plus étroit"
+    ],
+    "bonneReponse": 0,
+    "explication": "Surprise : on n'obtient pas deux rubans, mais un seul, plus long, vrillé et à deux faces. Si on le recoupe dans sa longueur, on obtient alors deux anneaux entrelacés, ce qui montre bien que le ruban de départ n'avait qu'une face.",
+    "source": "D'après Wikipédia — Ruban de Möbius"
+  },
+  {
+    "id": "q-sciences-209",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Que contient la tablette d'argile Plimpton 322, écrite vers 1800 av. J.-C. ?",
+    "choix": [
+      "Une liste de nombres associés à des triplets pythagoriciens",
+      "La première démonstration écrite d'un théorème",
+      "Un plan de pyramide",
+      "Un calendrier lunaire"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cette tablette mésopotamienne associe des nombres à des triplets pythagoriciens, c'est-à-dire des entiers qui vérifient la relation du théorème de Pythagore. Elle montre que la règle servait déjà plus de mille ans avant Pythagore.",
+    "source": "D'après Wikipédia — Théorème de Pythagore"
+  },
+  {
+    "id": "q-sciences-210",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Dans le Timée, avec quel solide de Platon le philosophe associe-t-il le feu ?",
+    "choix": [
+      "Le tétraèdre",
+      "Le cube",
+      "L'octaèdre",
+      "L'icosaèdre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Platon associe le feu au tétraèdre, dont les pointes évoquent la chaleur piquante d'un poignard. Le cube représente la terre, l'octaèdre l'air et l'icosaèdre l'eau. Le dodécaèdre, lui, symbolise l'Univers entier.",
+    "source": "D'après Wikipédia — Solide de Platon"
+  },
+  {
+    "id": "q-sciences-211",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel astronome a imaginé, en 1596, un Système solaire fondé sur l'emboîtement des cinq solides de Platon ?",
+    "choix": [
+      "Johannes Kepler",
+      "Nicolas Copernic",
+      "Tycho Brahe",
+      "Galilée"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans le Mysterium Cosmographicum, Kepler place un solide de Platon entre chacune des six sphères planétaires. L'idée était fausse, mais en la creusant, il a compris que les orbites sont des ellipses et trouvé ses lois du mouvement.",
+    "source": "D'après Wikipédia — Solide de Platon"
+  },
+  {
+    "id": "q-sciences-212",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qui a imaginé les tours de Hanoï en signant son jeu du pseudonyme « N. Claus de Siam » ?",
+    "choix": [
+      "Édouard Lucas",
+      "Henri Poincaré",
+      "Blaise Pascal",
+      "Évariste Galois"
+    ],
+    "bonneReponse": 0,
+    "explication": "« N. Claus de Siam » est un anagramme de « Lucas d'Amiens », la ville de naissance du mathématicien Édouard Lucas. Il a aussi inventé la légende des prêtres de Bénarès qui déplacent 64 disques d'or.",
+    "source": "D'après Wikipédia — Tours de Hanoï"
+  },
+  {
+    "id": "q-sciences-213",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle substance, produite en Norvège, Frédéric Joliot-Curie achète-t-il en totalité pour ses recherches sur la réaction en chaîne ?",
+    "choix": [
+      "L'eau lourde",
+      "L'uranium",
+      "Le radium",
+      "Le graphite"
+    ],
+    "bonneReponse": 0,
+    "explication": "Joliot-Curie obtient l'ensemble du stock mondial d'eau lourde : 185,5 kg répartis en 26 bidons. En juin 1940, face à l'invasion, il envoie ses collaborateurs Halban et Kowarski la mettre à l'abri en Angleterre, à bord du Broompark.",
+    "source": "D'après Wikipédia — Frédéric Joliot-Curie"
+  },
+  {
+    "id": "q-sciences-214",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Que cherche à détecter l'ASDIC, ancêtre du sonar mis au point par Paul Langevin pendant la Première Guerre mondiale ?",
+    "choix": [
+      "Des sous-marins",
+      "Des avions",
+      "Des icebergs",
+      "Des mines flottantes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Langevin et l'ingénieur Chilowski utilisent les ultrasons : le temps de retour de l'écho mesure la distance du sous-marin. Un quartz piézoélectrique émet et reçoit les ondes. L'appareil ne fut pas opérationnel avant la fin de la guerre.",
+    "source": "D'après Wikipédia — Paul Langevin"
+  },
+  {
+    "id": "q-sciences-215",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quel livre Jean Perrin publie-t-il en 1913 pour faire connaître au grand public sa conception atomique de la matière ?",
+    "choix": [
+      "Les Atomes",
+      "Les Molécules",
+      "Matière et lumière",
+      "La Réalité des corps"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans Les Atomes, Perrin dresse un état des connaissances de la physique, avec ses propres découvertes. Traduit en plusieurs langues, ce livre lui assure une renommée internationale. Il reçoit le prix Nobel de physique en 1926.",
+    "source": "D'après Wikipédia — Jean Perrin"
+  },
+  {
+    "id": "q-sciences-216",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle plante est à l'origine de l'artémisinine, le médicament contre le paludisme découvert par l'équipe de Tu Youyou ?",
+    "choix": [
+      "L'armoise annuelle",
+      "Le quinquina",
+      "Le ginseng",
+      "Le thé vert"
+    ],
+    "bonneReponse": 0,
+    "explication": "Citée dans de vieux traités chinois sous le nom de qinghao, cette armoise freine le parasite. Tu Youyou comprend que la chaleur détruit sa substance active, et mise sur une extraction à basse température. Le quinquina, lui, donne la quinine.",
+    "source": "D'après Wikipédia — Tu Youyou"
+  },
+  {
+    "id": "q-sciences-217",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Que prédit Maria Goeppert dans sa thèse de 1929, une prédiction vérifiée seulement avec l'invention des lasers ?",
+    "choix": [
+      "Qu'un atome peut absorber deux photons à la fois",
+      "Que le noyau est fait de couches",
+      "Que la lumière est faite d'ondes",
+      "Que les atomes peuvent se diviser"
+    ],
+    "bonneReponse": 0,
+    "explication": "Goeppert démontre théoriquement l'absorption à deux photons, qui ne se produit qu'avec une lumière très intense. Il faut attendre environ trente ans et les lasers pour l'observer. L'unité de mesure de ce phénomène porte son nom : le GM.",
+    "source": "D'après Wikipédia — Maria Goeppert-Mayer"
+  },
+  {
+    "id": "q-sciences-218",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Qui a fondé l'Académie des sciences française en 1666 ?",
+    "choix": [
+      "Jean-Baptiste Colbert",
+      "Cardinal de Richelieu",
+      "Louis Pasteur",
+      "Napoléon Bonaparte"
+    ],
+    "bonneReponse": 0,
+    "explication": "Colbert rassemble des savants dont la première séance a lieu en décembre 1666, dans la bibliothèque du Roi. Appelée d'abord Académie royale des sciences, elle reçoit ses premières règles de Louis XIV en 1699.",
+    "source": "D'après Wikipédia — Académie des sciences (France)"
+  },
+  {
+    "id": "q-sciences-219",
+    "domain": "sciences",
+    "format": "qcm",
+    "question": "Quelle invention des années 1440 a permis aux savants de pays différents de lire les mêmes textes et les mêmes schémas ?",
+    "choix": [
+      "L'imprimerie à caractères mobiles de Gutenberg",
+      "Le télescope",
+      "Le microscope",
+      "Le thermomètre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Avant l'imprimerie, il n'existait pas de marché pour les traités scientifiques. Grâce à elle, les chercheurs de différents pays consultent les mêmes textes et comparent leurs observations, ce qui a accéléré la révolution scientifique.",
+    "source": "D'après Wikipédia — Révolution scientifique"
+  },
+  {
+    "id": "q-sciences-220",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "En 1936, Irène Joliot-Curie est devenue membre du gouvernement français alors que les Françaises ne pouvaient pas encore voter.",
+    "reponse": true,
+    "explication": "Chargée de la recherche scientifique, elle est l'une des trois premières femmes d'un gouvernement français. Les Françaises n'obtiendront le droit de vote qu'en 1944. Elle démissionne au bout de trois mois, comme prévu.",
+    "source": "D'après Wikipédia — Irène Joliot-Curie"
+  },
+  {
+    "id": "q-sciences-221",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "La Royal Society a admis des femmes parmi ses membres dès sa fondation, au XVIIe siècle.",
+    "reponse": false,
+    "explication": "Il faut attendre 1944 pour que les femmes soient admises. Les deux premières, Marjory Stephenson et Kathleen Lonsdale, entrent en 1945. La Société, fondée en 1660, est restée près de trois siècles fermée aux femmes.",
+    "source": "D'après Wikipédia — Royal Society"
+  },
+  {
+    "id": "q-sciences-222",
+    "domain": "sciences",
+    "format": "vrai-faux",
+    "affirmation": "Le point lumineux que Poisson jugeait absurde au centre de l'ombre d'un petit disque a bien été observé par Arago.",
+    "reponse": true,
+    "explication": "Poisson voulait réfuter la théorie ondulatoire de Fresnel. Arago a réalisé l'expérience avec un disque de 2 mm collé à de la cire sur une vitre : le point est apparu, ce qui a convaincu la plupart des savants que la lumière est une onde.",
+    "source": "D'après Wikipédia — Académie des sciences (France)"
+  },
+  {
+    "id": "q-sciences-223",
+    "domain": "sciences",
+    "format": "associer",
+    "question": "Associe chaque scientifique à son apport.",
+    "paires": [
+      {
+        "gauche": "Jean Perrin",
+        "droite": "A prouvé que les atomes existent, grâce au mouvement brownien",
+        "explication": "Ses expériences de 1907-1909 valident l'hypothèse atomiste : Nobel de physique 1926."
+      },
+      {
+        "gauche": "Paul Langevin",
+        "droite": "A mis au point un détecteur ultrasonore de sous-marins",
+        "explication": "L'ASDIC, ancêtre du sonar, utilise l'écho d'ondes ultrasonores produites avec du quartz."
+      },
+      {
+        "gauche": "Maria Goeppert-Mayer",
+        "droite": "A proposé le modèle en couches du noyau atomique",
+        "explication": "Ce modèle explique les « nombres magiques » et lui vaut le prix Nobel de physique."
+      },
+      {
+        "gauche": "Tu Youyou",
+        "droite": "A identifié l'artémisinine contre le paludisme",
+        "explication": "Elle s'est inspirée de textes anciens de médecine chinoise ; prix Nobel de médecine."
+      },
+      {
+        "gauche": "Irène et Frédéric Joliot-Curie",
+        "droite": "Ont créé des éléments radioactifs artificiels",
+        "explication": "Ils obtiennent le phosphore 30 et reçoivent le prix Nobel de chimie en 1935."
+      }
+    ],
+    "explication": "Chacun de ces savants a marqué la physique ou la médecine du XXe siècle : preuve de l'existence des atomes, sonar, structure du noyau, médicament contre le paludisme et radioactivité artificielle.",
+    "source": "D'après Wikipédia — Jean Perrin"
+  },
+  {
+    "id": "q-sciences-224",
+    "domain": "sciences",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née à Paris en 1706.",
+      "Toute jeune, je lis couramment plusieurs langues anciennes et modernes.",
+      "Habillée en homme, j'ai pu entrer au Café Gradot pour discuter avec des savants.",
+      "J'ai installé à Cirey un laboratoire et une grande bibliothèque avec Voltaire.",
+      "Ma traduction des Principia de Newton fait encore autorité."
+    ],
+    "reponse": "Émilie du Châtelet",
+    "explication": "Émilie du Châtelet, morte en 1749, est l'une des premières femmes scientifiques influentes. Sa traduction commentée des Principia, publiée après sa mort en 1756, reste la référence en français.",
+    "source": "D'après Wikipédia — Émilie du Châtelet"
+  },
+  {
+    "id": "q-sciences-225",
+    "domain": "sciences",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née à Londres en 1660.",
+      "Mon premier président fut William Brouncker.",
+      "Mes Philosophical Transactions paraissent depuis 1665.",
+      "Isaac Newton m'a présidée de 1703 à 1727.",
+      "Ma devise latine invite à ne croire personne sur parole."
+    ],
+    "reponse": "La Royal Society",
+    "explication": "La Royal Society, académie des sciences britannique, est née d'un « collège invisible » de savants autour de Boyle. Sa devise rappelle que seule l'expérience, et non l'autorité d'un maître, établit la vérité scientifique.",
+    "source": "D'après Wikipédia — Royal Society"
+  },
+  {
+    "id": "q-sciences-226",
+    "domain": "sciences",
+    "format": "frise",
+    "question": "Remets ces étapes de la révolution scientifique dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Copernic publie De revolutionibus",
+        "annee": "1543"
+      },
+      {
+        "label": "Tycho Brahe observe une supernova",
+        "annee": "1572"
+      },
+      {
+        "label": "Galilée publie le Sidereus Nuncius",
+        "annee": "1610"
+      },
+      {
+        "label": "Newton publie les Principia",
+        "annee": "1687"
+      },
+      {
+        "label": "Clairaut applique le mot « révolution » à Newton",
+        "annee": "1747"
+      }
+    ],
+    "explication": "On fait souvent débuter la révolution scientifique en 1543, avec Copernic et Vésale, et s'achever en 1687 avec Newton. Le mot « révolution » n'est appliqué à la science qu'au XVIIIe siècle, par Clairaut en 1747.",
+    "source": "D'après Wikipédia — Révolution scientifique"
+  },
+  {
+    "id": "q-sciences-227",
+    "domain": "sciences",
+    "format": "difference",
+    "question": "Selon Popper, quelle est la différence entre confirmer et réfuter l'affirmation « tous les cygnes sont blancs » ?",
+    "choix": [
+      "On ne peut jamais la confirmer définitivement, car il faudrait voir tous les cygnes, mais un seul cygne noir la réfute",
+      "Il suffit d'un seul cygne blanc pour la confirmer, mais il faut des milliers de cygnes noirs pour la réfuter",
+      "Confirmer et réfuter demandent exactement le même nombre d'observations",
+      "On peut la confirmer sans observation, mais seulement la réfuter par le raisonnement"
+    ],
+    "bonneReponse": 0,
+    "explication": "C'est l'asymétrie qui fonde la falsifiabilité : aucune accumulation d'observations ne prouve une loi universelle, alors qu'une seule observation contraire suffit à la contredire. Une bonne théorie doit donc pouvoir être réfutée.",
+    "source": "D'après Wikipédia — Réfutabilité"
   }
 ]

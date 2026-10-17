@@ -4,7 +4,7 @@
  *   et à mesure (stale-while-revalidate), pour supporter l'ajout de
  *   nouveaux domaines/lots sans jamais devoir republier le service worker.
  * ================================================================= */
-const SHELL_VERSION = 'v67';
+const SHELL_VERSION = 'v68';
 const SHELL_CACHE = `culture-g-shell-${SHELL_VERSION}`;
 const DATA_CACHE = 'culture-g-data';
 
@@ -12,7 +12,7 @@ const DATA_CACHE = 'culture-g-data';
 const ICONES_OPENMOJI = ['histoire', 'geo', 'politique', 'economie', 'religions', 'philosophie', 'mythologie', 'sciences', 'astronomie', 'corps-humain', 'animaux', 'nature', 'tech', 'cuisine',
   'cinema', 'jeux-video', 'art', 'musique', 'litterature', 'manga', 'sport', 'des', 'dossiers', 'etoile', 'eclair', 'trophee', 'medaille-or', 'medaille-argent', 'medaille-bronze', 'muscle'].map(n => `icons/openmoji/${n}.svg`);
 const ICONES_DESSINS = ['burger', 'calendrier', 'livre', 'cible'].map(n => `icons/dessins/${n}.svg`);
-const OPTIONAL_FILES = ['css/animations.css', 'js/animations.js', 'css/cartoon.css', 'js/style-toggle.js', 'js/emoji-centre.js', ...ICONES_OPENMOJI, ...ICONES_DESSINS];
+const OPTIONAL_FILES = ['css/animations.css', 'js/animations.js', 'css/cartoon.css', 'js/emoji-centre.js', ...ICONES_OPENMOJI, ...ICONES_DESSINS];
 
 const SHELL_FILES = [
   './',

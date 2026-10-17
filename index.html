@@ -15,11 +15,11 @@
 <link rel="stylesheet" href="css/style.css">
 <!-- ANIMATIONS (retirer : supprimer ces 2 lignes, css/animations.css et js/animations.js) -->
 <link rel="stylesheet" href="css/animations.css">
-<!-- STYLE CARTOON (retirer : supprimer ces 3 lignes, css/cartoon.css et js/style-toggle.js) -->
+<!-- STYLE CARTOON (seul style de l'appli : la classe style-cartoon est posée sur <html>) -->
 <link rel="stylesheet" href="css/cartoon.css">
 <!-- VERSION ORDINATEUR (≥ 1024 px de large ; le téléphone n'est pas concerné) -->
 <link rel="stylesheet" href="css/pc.css">
-<script>try { if (localStorage.getItem('croc-style') === 'cartoon') document.documentElement.classList.add('style-cartoon'); } catch (e) {}</script>
+<script>document.documentElement.classList.add('style-cartoon');</script>
 </head>
 <body>
 
@@ -108,7 +108,6 @@
     </div>
 
     <div class="home-footer">
-      <button class="home-link" type="button" id="btn-style">🎨 Style</button>
       <p class="credits">Icônes des thèmes : <a href="https://openmoji.org" target="_blank" rel="noopener">OpenMoji</a> (CC BY-SA 4.0) · autres dessins : maison</p>
     </div>
   </section>
@@ -255,7 +254,6 @@
 <!-- ANIMATIONS -->
 <script src="js/animations.js"></script>
 <!-- STYLE CARTOON -->
-<script src="js/style-toggle.js"></script>
 <!-- LOGOS CENTRÉS (retirer : supprimer cette ligne et js/emoji-centre.js) -->
 <script src="js/emoji-centre.js"></script>
 </body>

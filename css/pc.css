@@ -187,9 +187,9 @@
   .serie-end {
     display: grid; grid-template-columns: 440px minmax(0, 1fr); grid-template-rows: auto 1fr; column-gap: 32px; align-items: start; text-align: center; padding: 30px;
   }
-  .serie-end__side { grid-column: 1; grid-row: 1; position: sticky; top: calc(var(--pc-nav-h) + 20px); }
+  .serie-end__side { grid-column: 1; grid-row: 1; }
   .serie-end__main { grid-column: 2; grid-row: 1 / 3; }
-  .serie-end__actions { grid-column: 1; grid-row: 2; grid-template-columns: 1fr; margin-top: 0; }
+  .serie-end__actions { grid-column: 1; grid-row: 2; grid-template-columns: 1fr; margin-top: 16px; align-self: start; }
   .serie-end__top { display: flex; flex-direction: column; align-items: center; }
   .serie-end__medal-emoji { font-size: 96px; }
   .serie-end__msg { font-size: 32px; }

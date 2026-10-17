@@ -72,7 +72,7 @@
 
   /* ---------- Accueil ---------- */
   .screen--home:not([hidden]) {
-    display: grid; grid-template-columns: 1.5fr 1fr 1fr; column-gap: 16px; align-content: start;
+    display: grid; grid-template-columns: 1fr 1fr; column-gap: 16px; row-gap: 14px; align-content: start;
     padding: 34px 0 32px; min-height: 0;
   }
   .screen--home > * { grid-column: 1 / -1; }
@@ -84,9 +84,6 @@
   .screen--home > .daily-card { grid-column: auto; margin-bottom: 16px; min-height: 190px; padding: 26px 28px; }
   .screen--home > .daily-card .daily-card__title { font-size: 27px; }
   .screen--home > .daily-card .daily-card__desc { font-size: 16px; }
-  .screen--home > .fact-card { grid-column: 1; margin-bottom: 16px; min-height: 190px; padding: 22px 26px 20px; justify-content: space-between; }
-  .screen--home > .fact-card .fact-card__text { font-size: 20px; -webkit-line-clamp: 5; }
-  .screen--home > .fact-card .fact-card__kicker, .screen--home > .fact-card .fact-card__src { font-size: 13px; }
   .home-choices { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
   .home-card { min-height: 112px; }
   /* Cartes de l'accueil : emoji devant le titre, description dessous (comme sur la maquette) */
@@ -98,7 +95,6 @@
   .screen--home .home-card__title { font-size: 22px; }
   .screen--home :is(.daily-card__desc, .home-card__desc) { grid-column: 1 / -1; font-size: 15px; }
   .screen--home .daily-card__streak { grid-column: 3; grid-row: 1; }
-  .screen--home > .fact-card .fact-card__foot { justify-content: flex-start; }
   /* Gros dessin en filigrane dans le coin des cartes de l'accueil */
   .screen--home :is(.daily-card, .home-card) { position: relative; overflow: hidden; }
   .screen--home .card-wm { display: block; position: absolute; right: -6px; bottom: -16px; font-size: 104px; line-height: 1; opacity: .26; transform: rotate(-10deg); pointer-events: none; }
@@ -244,4 +240,32 @@
   html.style-cartoon .domain-tile .domain-tile__label { color: inherit; }
   html.style-cartoon .domain-tile .domain-tile__count { color: inherit; opacity: .75; }
   html.style-cartoon .domain-tile[data-e]::before { content: attr(data-e); position: absolute; right: -6px; bottom: -14px; font-size: 64px; line-height: 1; opacity: .3; transform: rotate(-10deg); pointer-events: none; }
+}
+
+/* Accueil PC : « Le saviez-vous ? » sur un panneau de liège pleine largeur, post-it punaisé + petite photo du thème */
+@media (min-width: 1024px) {
+  .screen--home > .fact-card {
+    grid-column: 1 / -1; margin: 0; padding: 26px 34px; min-height: 210px; display: flex; align-items: center; justify-content: center; gap: 90px; overflow: hidden;
+    background: radial-gradient(rgba(60, 35, 15, .35) 1.2px, transparent 1.6px) 0 0 / 9px 9px, radial-gradient(rgba(255, 220, 170, .18) 1px, transparent 1.5px) 4px 4px / 11px 11px, linear-gradient(160deg, #c89b64, #a97c47);
+    border: 3px solid #171c2b; border-radius: 16px; box-shadow: inset 0 3px 0 rgba(255, 255, 255, .25), 0 4px 0 #171c2b;
+  }
+  .screen--home > .fact-card .fact-card__note { width: 52%; max-width: 760px; margin: 0; padding: 22px 26px 20px; gap: 9px; transform: rotate(-1.6deg); box-shadow: 4px 6px 0 #171c2b; }
+  .screen--home > .fact-card .fact-card__note::before {
+    top: -13px; width: 24px; height: 24px; margin-left: -12px; border-radius: 50%; border: 2px solid #171c2b; transform: none;
+    background: radial-gradient(circle at 35% 30%, #ff9a8a, #e8302a 55%, #a31616); box-shadow: 0 4px 0 rgba(0, 0, 0, .35);
+  }
+  .screen--home > .fact-card .fact-card__kicker, .screen--home > .fact-card .fact-card__src { font-size: 13px; }
+  .screen--home > .fact-card .fact-card__text { font-size: 24px; line-height: 1.35; -webkit-line-clamp: 5; margin: 4px 0 6px; }
+  .screen--home > .fact-card .fact-card__go { font-size: 14px; padding: 6px 14px; }
+  .screen--home > .fact-card .fact-card__photo {
+    display: flex; flex-direction: column; align-items: center; position: relative; width: 190px; margin: 0; padding: 12px 12px 10px;
+    background: #fff; border: 2.5px solid #171c2b; box-shadow: 4px 6px 0 #171c2b; transform: rotate(3deg);
+  }
+  .screen--home > .fact-card .fact-card__photo::before {
+    content: ''; position: absolute; top: -13px; left: 50%; width: 24px; height: 24px; margin-left: -12px; border-radius: 50%; border: 2px solid #171c2b;
+    background: radial-gradient(circle at 35% 30%, #a8d8ff, #3a74d6 55%, #1d3f8a); box-shadow: 0 4px 0 rgba(0, 0, 0, .35);
+  }
+  .screen--home > .fact-card .fact-card__photo-e { width: 100%; text-align: center; font-size: 66px; line-height: 1; padding: 14px 0; border: 2px solid #171c2b; background: linear-gradient(160deg, #ffc247, #f5a01c); }
+  .screen--home > .fact-card .fact-card__photo-t { margin-top: 8px; font-size: 14px; font-weight: 800; color: #171c2b; text-align: center; }
+  .screen--home > .daily-card { min-height: 160px; }
 }

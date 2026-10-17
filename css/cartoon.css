@@ -123,6 +123,7 @@ html.style-cartoon .serie-bar__fill { background: #3f82e8; }
 html.style-cartoon.anim-on :is(.opt-btn.is-correct, .pair-item.is-good, .frise-item.is-correct-pos)::before { display: none; }
 html.style-cartoon.anim-on :is(.home-card, .daily-card, .mode-card, .domain-tile, .subtheme-row, .fiche-list-item)::after { display: none; }
 
-/* « Le saviez-vous ? » */
-html.style-cartoon .fact-card { background: linear-gradient(160deg, #a07af5, #7b52dc); color: #fff; border: 2.5px solid var(--ink); box-shadow: 0 4px 0 var(--ink), inset 0 2px 0 rgba(255, 255, 255, 0.1); border-radius: 18px; }
-html.style-cartoon .fact-card__go { border: 2.5px solid var(--ink); box-shadow: 0 3px 0 var(--ink); }
+
+/* Écran de fin : barre de réussite (la couleur suit le score : bleu = mauvais, jaune = moyen, vert = bon) */
+html.style-cartoon .serie-end__bar { height: 16px; border: 2.5px solid var(--ink); background: #171c2b; border-radius: 9px; box-shadow: 0 3px 0 var(--ink); }
+html.style-cartoon .serie-end__bar i { border-radius: 0; background: linear-gradient(180deg, hsl(var(--score-h) 95% 72%), hsl(var(--score-h) 85% 55%)); }

@@ -34,8 +34,8 @@ const Series = (() => {
     if (pct >= 0.5) return 'Pas mal du tout !';
     return 'Continue, tu progresses !';
   }
-  // Teinte du score : bleu glacé (0 %) → cyan → vert → jaune → orange → rouge-orangé « en feu » (100 %)
-  function hueFor(pct) { return Math.round(210 - 202 * pct); }
+  // Teinte du score : bleu (mauvaise note) → jaune (moyen) → vert (bonne note) ; le vert est réservé aux bons scores
+  function hueFor(pct) { return pct < 0.5 ? 215 : pct < 0.7 ? 42 : 145; }
 
   // ---------- Texte de la bonne réponse (pour la liste des erreurs) ----------
   function questionText(it) {
@@ -151,7 +151,7 @@ const Series = (() => {
       <div class="serie-end__scorecard">
         <span class="serie-end__label">TON SCORE</span>
         <div class="serie-end__scorebig"><span class="serie-end__value">${score}/${total}</span>${flames}</div>
-        <span class="serie-end__pct">${Math.round(pct * 100)} % de réussite</span>
+        <div class="serie-end__bar" role="img" aria-label="${Math.round(pct * 100)} % de réussite"><i style="--p:${pct}"></i></div>
       </div>
       ${opts.note ? `<p class="serie-end__note">${escapeHTML(opts.note)}</p>` : ''}
       <h3 class="serie-recap__title">Récapitulatif</h3>

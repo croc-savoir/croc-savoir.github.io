@@ -1086,7 +1086,8 @@ body::before {
 .serie-end__label { font-size: 12px; letter-spacing: .09em; font-weight: 700; color: var(--text-faint); }
 .serie-end__scorebig { position: relative; padding: 2px 36px 26px; }
 .serie-end__value { font-family: var(--font-display); font-weight: 800; font-size: 60px; line-height: 1; color: hsl(var(--score-h) 92% 68%); }
-.serie-end__pct { font-size: 13px; color: var(--text-muted); }
+.serie-end__bar { width: 78%; max-width: 280px; height: 12px; border-radius: 99px; background: var(--bg-elevated); overflow: hidden; }
+.serie-end__bar i { display: block; height: 100%; border-radius: 99px; background: hsl(var(--score-h) 92% 62%); transform-origin: left center; transform: scaleX(var(--p, 0)); }
 .serie-end__note { color: var(--text-faint); font-size: 13.5px; margin: 12px 0 0; }
 .serie-end__flame { position: absolute; transform: translate(-50%, -50%); font-size: 22px; pointer-events: none; }
 .serie-recap__title { text-align: left; font-size: 17px; margin: 22px 0 12px; padding-bottom: 8px; border-bottom: 1px solid var(--border-soft); }
@@ -1144,43 +1145,30 @@ html.style-cartoon :is(.topbar__logo, .home-hero__logo, .pc-nav__logo img) { fil
   html.style-cartoon .screen--home :is(.daily-card__icon, .home-card__icon) { width: auto; height: auto; font-size: 18px; filter: none; }
 }
 
-/* ===================== « Le saviez-vous ? » (accueil) ===================== */
-.fact-card {
-  display: flex; flex-direction: column; gap: 6px; width: 100%; margin-bottom: 12px; padding: 13px 15px 12px; text-align: left; cursor: pointer; color: var(--text);
-  border: 1px solid rgba(169, 139, 255, 0.5); border-radius: var(--radius-xl);
-  background: linear-gradient(135deg, rgba(123, 92, 255, 0.34), rgba(var(--accent-rgb), 0.16) 80%);
-  box-shadow: 0 10px 28px rgba(123, 92, 255, 0.18);
-}
-.fact-card[hidden] { display: none; }
-.fact-card__kicker { font-size: 11px; font-weight: 900; letter-spacing: 1px; text-transform: uppercase; opacity: .9; }
-.fact-card__text { font-size: 14.5px; font-weight: 700; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden; }
-.fact-card__head { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; }
-.fact-card__foot { display: flex; justify-content: flex-end; margin-top: 2px; font-size: 12px; }
-.fact-card__src { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 13px; font-weight: 800; }
-.fact-card__go { flex: none; font-weight: 800; padding: 4px 10px; border-radius: 10px; background: #ffd24d; color: #171c2b; }
-@media (min-width: 1024px) { .fact-card__text { font-size: 17px; -webkit-line-clamp: 4; } .fact-card { padding: 16px 20px 14px; } }
-
-.card-wm { display: none; }
-
-/* ===================== « Le saviez-vous ? » en post-it (téléphone et PC) ===================== */
-.screen--home .fact-card, html.style-cartoon .screen--home .fact-card {
-  position: relative; background: #ffe27a; color: #171c2b; border: 2.5px solid #171c2b; border-radius: 4px;
-  box-shadow: 3px 4px 0 #171c2b; transform: rotate(-1.6deg); margin: 6px 14px 18px 2px; padding: 14px 14px 12px; gap: 5px;
-}
-.screen--home .fact-card::before {
-  content: ''; position: absolute; top: -11px; left: 50%; width: 66px; height: 20px; margin-left: -33px;
-  background: rgba(255, 160, 190, .85); border: 2px solid rgba(23, 28, 43, .45); transform: rotate(-3deg); box-shadow: 0 2px 0 rgba(0, 0, 0, .22);
-}
-.screen--home .fact-card::after {
-  content: ''; position: absolute; right: 0; bottom: 0; width: 22px; height: 22px; background: linear-gradient(135deg, transparent 50%, rgba(23, 28, 43, .25) 50%);
-}
-.screen--home .fact-card__go, html.style-cartoon .screen--home .fact-card__go { background: #fff; color: #171c2b; border: 2.5px solid #171c2b; box-shadow: 0 3px 0 #171c2b; }
-.screen--home .fact-card__text { font-size: 14.5px; }
-
-/* ===================== Accueil téléphone : « Le saviez-vous ? » en post-it, dessins en filigrane dans les cartes ===================== */
+/* ===================== Accueil téléphone : dessins en filigrane dans les cartes ===================== */
 @media (max-width: 1023px) {
   .screen--home :is(.daily-card, .home-card) { position: relative; overflow: hidden; }
   .screen--home .card-wm { display: block; position: absolute; right: -4px; bottom: -12px; font-size: 62px; line-height: 1; opacity: .28; transform: rotate(-10deg); pointer-events: none; }
   .screen--home .daily-card .card-wm { font-size: 62px; right: -2px; bottom: -14px; opacity: .24; }
   .screen--home .home-card--fiches .card-wm, .screen--home .home-card--quiz .card-wm { font-size: 54px; }
 }
+
+/* ===================== « Le saviez-vous ? » : post-it (téléphone) / panneau de liège (PC) ===================== */
+.fact-card { display: block; position: relative; width: 100%; margin: 6px 0 18px; padding: 0; border: 0; background: none; box-shadow: none; text-align: left; cursor: pointer; color: #171c2b; }
+.fact-card[hidden] { display: none; }
+.fact-card__note {
+  display: flex; flex-direction: column; gap: 5px; position: relative; margin: 0 14px 0 2px; padding: 14px 14px 12px;
+  background: #ffe27a; color: #171c2b; border: 2.5px solid #171c2b; border-radius: 4px; box-shadow: 3px 4px 0 #171c2b; transform: rotate(-1.6deg);
+}
+.fact-card__note::before {
+  content: ''; position: absolute; top: -11px; left: 50%; width: 66px; height: 20px; margin-left: -33px;
+  background: rgba(255, 160, 190, .85); border: 2px solid rgba(23, 28, 43, .45); transform: rotate(-3deg); box-shadow: 0 2px 0 rgba(0, 0, 0, .22);
+}
+.fact-card__note::after { content: ''; position: absolute; right: 0; bottom: 0; width: 22px; height: 22px; background: linear-gradient(135deg, transparent 50%, rgba(23, 28, 43, .25) 50%); }
+.fact-card__head { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; }
+.fact-card__kicker { font-size: 11px; font-weight: 900; letter-spacing: 1px; text-transform: uppercase; }
+.fact-card__src { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 13px; font-weight: 800; }
+.fact-card__text { font-size: 14.5px; font-weight: 700; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden; }
+.fact-card__foot { display: flex; justify-content: flex-start; margin-top: 2px; }
+.fact-card__go { font-size: 12px; font-weight: 800; padding: 5px 10px; border-radius: 10px; background: #fff; color: #171c2b; border: 2.5px solid #171c2b; box-shadow: 0 3px 0 #171c2b; }
+.fact-card__photo { display: none; }

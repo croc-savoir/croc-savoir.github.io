@@ -53,6 +53,8 @@ const Saviez = (() => {
     const dom = DataStore.getDomain(f.domain);
     el.querySelector('.fact-card__text').textContent = c.text;
     el.querySelector('.fact-card__src').textContent = `${dom ? dom.emoji + ' ' : ''}${f.title}`;
+    el.querySelector('.fact-card__photo-e').textContent = dom ? dom.emoji : '💡';
+    el.querySelector('.fact-card__photo-t').textContent = dom ? dom.label : f.title;
     el.dataset.fid = f.id;
     el.hidden = false;
   }

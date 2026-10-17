@@ -130,10 +130,14 @@ const Series = (() => {
 
     let flames = '';
     if (pct === 1) {
-      for (let k = 0; k < 9; k++) {   // flammes en demi-cercle sous le score
-        const a = (195 + k * 18.75) * Math.PI / 180;
-        flames += `<span class="serie-end__flame" style="left:calc(50% + ${(Math.cos(a) * 112).toFixed(0)}px);top:calc(50% - ${(Math.sin(a) * 46).toFixed(0)}px);--fd:${(k * 130) % 700}ms">🔥</span>`;
+      // rangée de flammes qui lèchent le score (plus grosses au centre) + deux grandes flammes sur les côtés
+      const n = 9;
+      for (let k = 0; k < n; k++) {
+        const t = k / (n - 1) - 0.5;                       // -0.5 … 0.5
+        const size = Math.round(40 - Math.abs(t) * 30);     // 40 px au centre, 25 px aux bords
+        flames += `<span class="serie-end__flame" style="left:calc(50% + ${(t * 270).toFixed(0)}px);bottom:${(-6 + Math.abs(t) * 18).toFixed(0)}px;font-size:${size}px;--fd:${(k * 130) % 700}ms">🔥</span>`;
       }
+      flames += '<span class="serie-end__flame serie-end__flame--side" style="left:-6px;--fd:200ms">🔥</span><span class="serie-end__flame serie-end__flame--side" style="right:-6px;left:auto;--fd:450ms">🔥</span>';
     }
 
     // Récapitulatif : chaque question avec ta réponse et la bonne réponse (sans les explications)

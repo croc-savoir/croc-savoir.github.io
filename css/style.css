@@ -1177,3 +1177,17 @@ html.style-cartoon :is(.topbar__logo, .home-hero__logo, .pc-nav__logo img) { fil
 .serie-recap__chips b { padding: 3px 10px; border-radius: 999px; }
 .serie-recap__chips .is-ok { background: var(--success-bg); color: var(--success); }
 .serie-recap__chips .is-ko { background: var(--danger-bg); color: var(--danger); }
+
+/* ===================== 10/10 : le score est en feu ===================== */
+.serie-end.is-perfect .serie-end__scorecard {
+  background: radial-gradient(ellipse 85% 70% at 50% 115%, rgba(255, 120, 20, .6), rgba(255, 60, 20, .22) 55%, transparent 78%), linear-gradient(160deg, rgba(232, 48, 42, .28), rgba(255, 255, 255, .03));
+  box-shadow: 0 0 30px rgba(255, 120, 20, .5), 0 4px 0 #171c2b;
+}
+.serie-end.is-perfect .serie-end__value {
+  background: linear-gradient(180deg, #fff6b0 0%, #ffd23f 30%, #ff8a1f 65%, #e8302a 100%); -webkit-background-clip: text; background-clip: text; color: transparent;
+  -webkit-text-stroke: 3px #171c2b; text-shadow: none; filter: drop-shadow(0 0 14px rgba(255, 140, 30, .85));
+}
+.serie-end.is-perfect .serie-end__bar i { background: linear-gradient(90deg, #e8302a, #ff7a1a 55%, #ffd23f); }
+.serie-end.is-perfect .serie-end__scorebig { padding-bottom: 34px; }
+.serie-end__flame { position: absolute; transform: translateX(-50%); line-height: 1; pointer-events: none; filter: drop-shadow(0 0 8px rgba(255, 120, 20, .8)); }
+.serie-end__flame--side { transform: none; bottom: 8px; font-size: 54px; }

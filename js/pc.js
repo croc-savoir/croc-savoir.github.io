@@ -59,6 +59,7 @@ const PC = (() => {
       tile.className = 'domain-tile';
       tile.style.setProperty('--th', d.hue ?? 220);
       tile.dataset.g = d.groupe || 'monde';
+      tile.dataset.e = d.emoji;
       tile.innerHTML = `<span class="domain-tile__emoji">${d.emoji}</span><span class="domain-tile__label">${escapeHTML(d.label)}</span>${n ? `<span class="domain-tile__count">${n}</span>` : ''}`;
       tile.addEventListener('click', () => { App.go('fiches-theme'); Fiches.openDomain(d.id); });
       grid.appendChild(tile);

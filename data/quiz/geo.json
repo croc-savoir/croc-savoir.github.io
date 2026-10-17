@@ -1622,5 +1622,1716 @@
     "bonneReponse": 0,
     "explication": "En 1924, Alexandra David-Néel entre à Lhassa, capitale du Tibet alors interdite aux étrangers. L'exploit est connu dans la presse un an plus tard et lui apporte la célébrité. Elle l'a raconté dans Voyage d'une Parisienne à Lhassa.",
     "source": "D'après Wikipédia — Alexandra David-Néel"
+  },
+  {
+    "id": "q-geo-103",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "D'où vient le nom de la Provence ?",
+    "choix": [
+      "Du latin « Provincia Nostra », « notre province »",
+      "D'un roi franc nommé Provence",
+      "Du mot grec pour « soleil »",
+      "Des vins que produisait la région"
+    ],
+    "bonneReponse": 0,
+    "explication": "Vers 125 avant notre ère, les Romains conquièrent le sud de la Gaule et l'appellent Provincia Nostra, « notre province ». Le nom a évolué en Provence, première région conquise avant le reste de la Gaule par Jules César.",
+    "source": "D'après Wikipédia — France"
+  },
+  {
+    "id": "q-geo-104",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quelle figure dessinait la silhouette des Pays-Bas bourguignons sur les cartes de la Renaissance, le « Leo Belgicus » ?",
+    "choix": [
+      "Un lion dressé",
+      "Un cheval ailé",
+      "Un aigle à deux têtes",
+      "Un ours debout"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le « Leo Belgicus », le lion belgique, est un lion dressé dont la silhouette recouvre à peu près la forme des possessions du duc de Bourgogne Philippe le Bon. Le lion est resté un symbole du Brabant et de la Belgique.",
+    "source": "D'après Wikipédia — Belgique"
+  },
+  {
+    "id": "q-geo-105",
+    "domain": "geo",
+    "format": "difference",
+    "question": "Quelle est la différence entre les Pays-Bas et la Hollande ?",
+    "choix": [
+      "La Hollande n'est qu'une région de l'ouest du pays, faite de deux provinces",
+      "La Hollande est le nom du pays avant 1815, les Pays-Bas celui d'aujourd'hui",
+      "La Hollande est un autre pays voisin, au sud des Pays-Bas",
+      "Il n'y a aucune différence, les deux mots sont des synonymes officiels"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Hollande désigne une région historique, divisée en Hollande-Septentrionale et Hollande-Méridionale, avec Amsterdam, La Haye et Rotterdam. Les Néerlandais disent parfois Hollande pour tout le pays, mais ce n'est pas exact.",
+    "source": "D'après Wikipédia — Pays-Bas"
+  },
+  {
+    "id": "q-geo-106",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quelle alliance, renforcée en 1386 par le traité de Windsor, est considérée comme la plus ancienne encore en vigueur au monde ?",
+    "choix": [
+      "Celle du Portugal et de l'Angleterre",
+      "Celle de l'Espagne et du Portugal",
+      "Celle de la France et de l'Écosse",
+      "Celle de l'Angleterre et des Pays-Bas"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1386, le roi Jean Ier du Portugal et l'Angleterre signent le traité de Windsor, qui renforce leur alliance. Elle est présentée comme la plus ancienne alliance encore en vigueur dans le monde.",
+    "source": "D'après Wikipédia — Portugal"
+  },
+  {
+    "id": "q-geo-107",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "D'où vient le nom que les Finlandais donnent à la Suède, « Ruotsi » ?",
+    "choix": [
+      "Des Rus de la côte de Roslagen, qui ont aussi donné leur nom à la Russie",
+      "D'un ancien roi suédois nommé Ruotsi",
+      "D'un mot finnois qui signifie « forêt du sud »",
+      "Du nom d'un fleuve qui sépare les deux pays"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ruotsi (finnois) et Rootsi (estonien) désignent la Suède à partir des Rus, un peuple de la côte de Roslagen. Ce même nom a aussi donné celui de la Russie, preuve de l'influence des Vikings suédois vers l'est.",
+    "source": "D'après Wikipédia — Suède"
+  },
+  {
+    "id": "q-geo-108",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Des villes finlandaises, dont Pori et Vaasa, ont dû être rebâties à quelques kilomètres plus à l'ouest, leurs ports s'étant asséchés.",
+    "reponse": true,
+    "explication": "Après la dernière glaciation, le sol finlandais continue de remonter, d'environ 8 mm par an sur la côte de l'Ostrobotnie. Les ports de Pori et de Vaasa se sont ainsi retrouvés à sec, et les villes ont été rebâties plus près de la mer.",
+    "source": "D'après Wikipédia — Finlande"
+  },
+  {
+    "id": "q-geo-109",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel est le plus long fleuve des îles Britanniques, qui coule entièrement en Irlande ?",
+    "choix": [
+      "Le Shannon",
+      "La Tamise",
+      "La Severn",
+      "La Liffey"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ce fleuve irlandais s'étire sur 386 km en direction du sud-ouest, puis se jette dans l'Atlantique. Aucun autre cours d'eau des îles Britanniques n'est aussi long sur tout son trajet, ce qui en fait le géant de l'île.",
+    "source": "D'après Wikipédia — Irlande (pays)"
+  },
+  {
+    "id": "q-geo-110",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Pourquoi l'oiseau « turkey » (la dinde) porte-t-il en anglais le nom de la Turquie ?",
+    "choix": [
+      "À cause du commerce de pintades importées de Turquie en Angleterre",
+      "Parce qu'il est originaire des montagnes d'Anatolie",
+      "Parce que les sultans ottomans en offraient aux rois d'Europe",
+      "Parce que son cri ressemble à un mot turc"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'Angleterre importait des pintades depuis la Turquie, et le nom de leur provenance s'est collé à l'oiseau. Le mot « turkey » désigne aussi la Turquie, d'où le nom de la dinde dans la langue anglaise.",
+    "source": "D'après Wikipédia — Turquie"
+  },
+  {
+    "id": "q-geo-111",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Qui Anne de Kiev, fille de Iaroslav le Sage, épouse-t-elle en 1051 ?",
+    "choix": [
+      "Henri Ier, roi de France",
+      "Édouard le Confesseur, roi d'Angleterre",
+      "Conrad II, empereur germanique",
+      "Alphonse VI, roi de León"
+    ],
+    "bonneReponse": 0,
+    "explication": "Iaroslav le Sage, grand prince de Kiev, marie sa fille Anne au roi de France Henri Ier. Cette union montre le prestige de la Rus' de Kiev, qui nouait aussi des alliances avec la Hongrie et la Norvège.",
+    "source": "D'après Wikipédia — Ukraine"
+  },
+  {
+    "id": "q-geo-112",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Pourquoi l'empereur de Chine refuse-t-il le nom « Nam Việt » demandé par Gia Long, et propose-t-il « Việt Nam » ?",
+    "choix": [
+      "Parce que « Nam Việt » rappelait un ancien royaume qui englobait des régions du sud de la Chine",
+      "Parce que « Nam Việt » était déjà le nom d'une province chinoise voisine",
+      "Parce que le mot « Nam » était interdit à la cour chinoise",
+      "Parce que Gia Long voulait en réalité garder le nom d'Annam"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le royaume de Nanyue (Nam Việt) de Zhao Tuo incluait les régions actuelles du Guangxi et du Guangdong. Le refus chinois a donc donné le nom « Việt Nam », que Gia Long emploie officiellement dès 1804.",
+    "source": "D'après Wikipédia — Vietnam"
+  },
+  {
+    "id": "q-geo-113",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "La Thaïlande a été une colonie française jusqu'à son indépendance.",
+    "reponse": false,
+    "explication": "Contrairement à ses voisins, le Siam n'a jamais subi la colonisation d'une puissance occidentale. Il a pourtant cédé des territoires et des privilèges par des traités inégaux, puis a pris le nom de Thaïlande le 24 juin 1939.",
+    "source": "D'après Wikipédia — Thaïlande"
+  },
+  {
+    "id": "q-geo-114",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel savant a mis au point à Ispahan le calendrier persan, qui introduit l'année bissextile ?",
+    "choix": [
+      "Omar Khayyam",
+      "Ferdowsi",
+      "Avicenne",
+      "Cyrus le Grand"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sous les Seldjoukides, Omar Khayyam conçoit à l'observatoire d'Ispahan un calendrier qui prévoit les années bissextiles. Ce calendrier persan est resté, aujourd'hui encore, le calendrier officiel de l'Iran.",
+    "source": "D'après Wikipédia — Iran"
+  },
+  {
+    "id": "q-geo-115",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Que signifie le nom de la capitale mongole, Oulan-Bator ?",
+    "choix": [
+      "« Héros rouge »",
+      "« Ville du ciel bleu »",
+      "« Cité des steppes »",
+      "« Camp du grand khan »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Oulan-Bator signifie « héros rouge ». La capitale a été baptisée ainsi en 1924, en l'honneur de Damdin Sükhbaatar, chef de la révolte populaire de 1921 contre la domination étrangère.",
+    "source": "D'après Wikipédia — Mongolie"
+  },
+  {
+    "id": "q-geo-116",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel autre mot a la même origine que « kazakh » ?",
+    "choix": [
+      "Cosaque",
+      "Caucase",
+      "Kurde",
+      "Cosmopolite"
+    ],
+    "bonneReponse": 0,
+    "explication": "Kazakh vient du turc « qaz », qui évoque le fait de vagabonder, reflet de la culture nomade de ce peuple. Le mot « cosaque » a la même origine : tous deux désignent des hommes libres des steppes.",
+    "source": "D'après Wikipédia — Kazakhstan"
+  },
+  {
+    "id": "q-geo-117",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Alors que Singapour signifie « ville du lion », quel animal vivait réellement sur l'île ?",
+    "choix": [
+      "Des tigres",
+      "Des éléphants",
+      "Des rhinocéros",
+      "Des ours"
+    ],
+    "bonneReponse": 0,
+    "explication": "Il n'a jamais existé de lion sur l'île. Selon la tradition, les premiers explorateurs auraient croisé un fauve de la jungle, sans doute un tigre, et l'auraient pris pour un lion avant de nommer la cité Singapura.",
+    "source": "D'après Wikipédia — Singapour"
+  },
+  {
+    "id": "q-geo-118",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "L'Arabie saoudite ne possède aucune rivière permanente ni aucun lac de surface.",
+    "reponse": true,
+    "explication": "Malgré ses 2 640 km de côtes, le pays est presque entièrement désertique ou semi-aride, et il n'a ni lac de surface ni cours d'eau permanent. Moins de 2 % de ses terres sont cultivables.",
+    "source": "D'après Wikipédia — Arabie saoudite"
+  },
+  {
+    "id": "q-geo-119",
+    "domain": "geo",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de la Colombie dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Alonso de Ojeda aborde la péninsule de la Guajira",
+        "annee": "1499"
+      },
+      {
+        "label": "Fondation de Bogota",
+        "annee": "1538"
+      },
+      {
+        "label": "Bataille de Boyacá et indépendance",
+        "annee": "1819"
+      },
+      {
+        "label": "Le pays adopte le nom de république de Colombie",
+        "annee": "1886"
+      },
+      {
+        "label": "Sécession du Panama",
+        "annee": "1903"
+      }
+    ],
+    "explication": "Les Espagnols touchent la côte en 1499 et fondent Bogota en 1538. Après la victoire de Boyacá en 1819 et l'éclatement de la Grande Colombie, le pays adopte son nom actuel en 1886, puis le Panama s'en sépare en 1903.",
+    "source": "D'après Wikipédia — Colombie"
+  },
+  {
+    "id": "q-geo-120",
+    "domain": "geo",
+    "format": "associer",
+    "question": "Associe chaque pays à la signification de son nom.",
+    "paires": [
+      {
+        "gauche": "Singapour",
+        "droite": "« Ville du lion »",
+        "explication": "Singapura vient du sanskrit : « ville du lion », alors qu'aucun lion n'a vécu sur l'île."
+      },
+      {
+        "gauche": "Iran",
+        "droite": "« Royaume des Aryens »",
+        "explication": "Employé dès l'époque sassanide, le nom d'Iran évoque le royaume des Aryens."
+      },
+      {
+        "gauche": "Vietnam",
+        "droite": "« Pays des Viets du Sud »",
+        "explication": "Việt désigne le peuple des Viets, et Nam signifie le sud : le Viêt Nam est le pays des Viets du Sud."
+      },
+      {
+        "gauche": "Kazakhstan",
+        "droite": "« Pays des nomades »",
+        "explication": "Kazakh vient d'une racine turque liée au vagabondage, d'où le sens de pays des nomades."
+      }
+    ],
+    "explication": "Beaucoup de noms de pays racontent une histoire : un animal, un peuple, une direction ou un mode de vie. Ici, quatre noms d'Asie viennent du sanskrit, du persan, du vietnamien et du turc.",
+    "source": "D'après Wikipédia — Vietnam"
+  },
+  {
+    "id": "q-geo-121",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Le nom du Chili vient du mot espagnol « chile », qui désigne le piment.",
+    "reponse": false,
+    "explication": "Aucun lien avec le piment : le nom viendrait plutôt d'un fleuve du Pérou, d'un mot aymara ou mapuche évoquant les confins de la terre, ou du nom d'un chef local. L'orthographe officielle date de 1824.",
+    "source": "D'après Wikipédia — Chili"
+  },
+  {
+    "id": "q-geo-122",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "En l'honneur de qui Christophe Colomb a-t-il appelé Cuba « Juana » en 1492 ?",
+    "choix": [
+      "Le prince Juan, fils des Rois Catholiques",
+      "Jeanne, la fille des Rois Catholiques",
+      "Saint Jean-Baptiste",
+      "Juan Ponce de León"
+    ],
+    "bonneReponse": 0,
+    "explication": "Selon Bartolomé de las Casas, Colomb a baptisé l'île en l'honneur du prince don Juan, fils d'Isabelle et Ferdinand, et non de leur fille Jeanne comme on le lit parfois. Le nom « Cuba » a fini par s'imposer.",
+    "source": "D'après Wikipédia — Cuba"
+  },
+  {
+    "id": "q-geo-123",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "D'où vient le nom de la Bolivie ?",
+    "choix": [
+      "De Simón Bolívar, libérateur de l'Amérique du Sud",
+      "D'un mot aymara signifiant « haut plateau »",
+      "De Bolivio, un conquistador espagnol",
+      "D'une rivière qui traverse Sucre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le pays s'est d'abord appelé « République de Bolívar » en 1825, avant que « Bolivia » ne soit adopté en octobre de la même année. Un député avait lancé : « Si de Romulus, Rome, alors de Bolívar, Bolivie ».",
+    "source": "D'après Wikipédia — Bolivie"
+  },
+  {
+    "id": "q-geo-124",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Que signifie « Kiinyaa », nom kamba du mont Kenya qui a donné son nom au pays ?",
+    "choix": [
+      "La montagne de l'autruche",
+      "Le toit du monde",
+      "La montagne blanche",
+      "Le trône du lion"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nom Kiinyaa a été noté en 1849 par l'explorateur Krapf. Les pics noirs de roche et blancs de neige rappellent le plumage du mâle autruche. Krapf l'a déformé, d'où l'orthographe « Kenya » aujourd'hui.",
+    "source": "D'après Wikipédia — Kenya"
+  },
+  {
+    "id": "q-geo-125",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel fossile célèbre, vieux d'environ 3,2 millions d'années, a été découvert en Éthiopie en 1974 ?",
+    "choix": [
+      "Lucy, une australopithèque",
+      "Le garçon du Turkana",
+      "L'homme de Neandertal",
+      "Toumaï"
+    ],
+    "bonneReponse": 0,
+    "explication": "Donald Johanson a trouvé Lucy dans la vallée de l'Awash en 1974. Cette australopithèque est l'un des fossiles adultes les plus complets de son âge. En éthiopien, on l'appelle Dinkinesh. Le garçon du Turkana vient du Kenya.",
+    "source": "D'après Wikipédia — Éthiopie"
+  },
+  {
+    "id": "q-geo-126",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Pourquoi surnomme-t-on Madagascar l'île Rouge ?",
+    "choix": [
+      "À cause de la latérite qui colore ses plateaux",
+      "À cause de ses forêts d'arbres rouges",
+      "À cause des volcans en éruption",
+      "À cause des couchers de soleil sur le canal du Mozambique"
+    ],
+    "bonneReponse": 0,
+    "explication": "La latérite, un sol riche en fer, donne une teinte rouge aux plateaux de la Grande Île. Elle teinte aussi de rouge les crues des fleuves de l'ouest en saison des pluies, quand l'érosion emporte les terres.",
+    "source": "D'après Wikipédia — Madagascar"
+  },
+  {
+    "id": "q-geo-127",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Que signifie « al-Djaza'ir », le nom arabe d'Alger dont dérive celui de l'Algérie ?",
+    "choix": [
+      "Les îles",
+      "La forteresse blanche",
+      "Les portes du désert",
+      "Le port des vents"
+    ],
+    "bonneReponse": 0,
+    "explication": "Al-Djaza'ir signifie « les îles » : il s'agissait des îlots situés devant la ville, qui ont servi à former le port. Le pays a ensuite pris le nom de sa capitale, comme le Maroc avec Marrakech et la Tunisie avec Tunis.",
+    "source": "D'après Wikipédia — Algérie"
+  },
+  {
+    "id": "q-geo-128",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "La presqu'île du Cap-Vert, où se trouve Dakar, est le point le plus occidental de l'Afrique continentale.",
+    "reponse": true,
+    "explication": "La presqu'île du Cap-Vert forme la partie la plus à l'ouest du Sénégal, et de toute l'Afrique continentale. Dakar s'y trouve. Le fleuve Sénégal, lui, rejoint l'Atlantique plus au nord, à Saint-Louis.",
+    "source": "D'après Wikipédia — Sénégal"
+  },
+  {
+    "id": "q-geo-129",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Que signifie nzadi o nzere en kikongo, expression à l'origine du nom « Zaïre » ?",
+    "choix": [
+      "Le fleuve qui avale tous les fleuves",
+      "La grande forêt",
+      "Le pays du cuivre",
+      "La montagne qui crache le feu"
+    ],
+    "bonneReponse": 0,
+    "explication": "Nzadi, « fleuve », est une abréviation de nzadi o nzere, « le fleuve qui avale tous les fleuves ». Les Portugais en ont fait Zaire. Mobutu a repris ce nom pour le pays en 1971, jusqu'en 1997.",
+    "source": "D'après Wikipédia — République démocratique du Congo"
+  },
+  {
+    "id": "q-geo-130",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Que signifie « Namib », mot khoï qui a donné son nom à la Namibie ?",
+    "choix": [
+      "Vaste endroit",
+      "Terre rouge",
+      "Fleuve de sable",
+      "Pays des vents"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le désert du Namib, que l'on dit être le plus ancien du monde, s'appelle ainsi d'un mot khoï signifiant « vaste endroit ». Mburumba Kerina a choisi d'en tirer le nom du pays, qui devait d'abord être « République de Namib ».",
+    "source": "D'après Wikipédia — Namibie"
+  },
+  {
+    "id": "q-geo-131",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Mesuré depuis sa base au fond de l'océan, le Mauna Kea, à Hawaï, est plus haut que l'Everest.",
+    "reponse": true,
+    "explication": "Le Mauna Kea ne s'élève qu'à 4 205 m au-dessus du niveau de la mer, mais sa base repose sur le plancher du Pacifique. Du pied au sommet, il atteint environ 10 200 m, soit plus que l'Everest.",
+    "source": "D'après Wikipédia — Hawaï"
+  },
+  {
+    "id": "q-geo-132",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Qui nous a laissé le seul récit de témoin de l'éruption du Vésuve en 79 ?",
+    "choix": [
+      "Pline le Jeune, dans deux lettres à Tacite",
+      "Tacite, dans ses Annales",
+      "Virgile, dans l'Énéide",
+      "Sénèque, dans une lettre à Lucilius"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pline le Jeune a assisté de loin à l'éruption, au cours de laquelle son oncle est mort. Il en a fait le récit à l'historien Tacite, dans deux lettres. On parle depuis d'éruptions « pliniennes ».",
+    "source": "D'après Wikipédia — Vésuve"
+  },
+  {
+    "id": "q-geo-133",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Dans la mythologie, qui forgeait les armes des dieux dans les entrailles de l'Etna ?",
+    "choix": [
+      "Héphaïstos, aidé des Cyclopes",
+      "Arès, aidé des Titans",
+      "Poséidon, aidé des Tritons",
+      "Hermès, aidé des Muses"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les Grecs plaçaient la forge d'Héphaïstos, le Vulcain des Romains, sous l'Etna. Il y fabriquait, avec les Cyclopes, le trident de Poséidon ou la foudre de Zeus. Les grondements du volcan étaient le bruit des marteaux.",
+    "source": "D'après Wikipédia — Etna"
+  },
+  {
+    "id": "q-geo-134",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel est le plus haut sommet des Pyrénées ?",
+    "choix": [
+      "L'Aneto, en Espagne",
+      "Le Vignemale, en France",
+      "Le Canigou, en France",
+      "Le pic du Midi de Bigorre, en France"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'Aneto, dans le massif de la Maladeta, culmine à 3 404 mètres, côté espagnol. Le plus haut sommet français est le Vignemale, à 3 298 mètres. Le Canigou et le pic du Midi de Bigorre sont plus bas, mais très visibles de la plaine.",
+    "source": "D'après Wikipédia — Pyrénées"
+  },
+  {
+    "id": "q-geo-135",
+    "domain": "geo",
+    "format": "associer",
+    "question": "Associe chaque cours d'eau à l'océan qu'il atteint, depuis les Rocheuses.",
+    "paires": [
+      {
+        "gauche": "Missouri",
+        "droite": "Océan Atlantique (golfe du Mexique)",
+        "explication": "Le Missouri rejoint le golfe du Mexique, rattaché à l'Atlantique."
+      },
+      {
+        "gauche": "Columbia",
+        "droite": "Océan Pacifique",
+        "explication": "Le Columbia fait partie des cours d'eau du bassin de l'océan Pacifique."
+      },
+      {
+        "gauche": "Athabasca",
+        "droite": "Océan Arctique",
+        "explication": "L'Athabasca, au Canada, alimente un bassin qui se jette dans l'océan Arctique."
+      }
+    ],
+    "explication": "Les Rocheuses sont une ligne de partage des eaux : leurs rivières se jettent dans l'Atlantique, le Pacifique ou l'Arctique, selon le versant. Les trois océans reçoivent ainsi l'eau des mêmes montagnes.",
+    "source": "D'après Wikipédia — Montagnes Rocheuses"
+  },
+  {
+    "id": "q-geo-136",
+    "domain": "geo",
+    "format": "frise",
+    "question": "Remets ces moments de l'histoire du Cervin dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Saussure mesure le sommet avec un sextant",
+        "annee": "1792"
+      },
+      {
+        "label": "Première ascension par Whymper",
+        "annee": "1865"
+      },
+      {
+        "label": "Pose d'une croix entre les deux sommets",
+        "annee": "1901"
+      },
+      {
+        "label": "Première ascension de la face nord",
+        "annee": "1931"
+      },
+      {
+        "label": "Face ouest gravie en entier",
+        "annee": "1962"
+      }
+    ],
+    "explication": "Saussure mesure le Cervin en 1792, Whymper en réussit la première ascension en 1865, une croix est posée entre les deux sommets en 1901, puis les grandes faces cèdent : la nord en 1931, l'ouest en 1962.",
+    "source": "D'après Wikipédia — Cervin"
+  },
+  {
+    "id": "q-geo-137",
+    "domain": "geo",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom vient d'un mot hidatsa, traduit en 1797 par « pierre jaune ».",
+      "Ma caldeira de 70 km de diamètre est celle d'un supervolcan.",
+      "Je contiens plus de la moitié des geysers de la planète.",
+      "Le président Ulysses S. Grant a signé ma création en 1872, un 1er mars.",
+      "Mon geyser Old Faithful est célèbre dans le monde entier."
+    ],
+    "reponse": "Le parc national de Yellowstone",
+    "explication": "Fondé en 1872, Yellowstone est le premier parc national de l'histoire. Il repose sur un supervolcan et rassemble plus de la moitié des geysers connus, dont Old Faithful, qui jaillit à près de 40 mètres.",
+    "source": "D'après Wikipédia — Parc national de Yellowstone"
+  },
+  {
+    "id": "q-geo-138",
+    "domain": "geo",
+    "format": "difference",
+    "question": "Quelle est la différence entre l'Etna et le Vésuve ?",
+    "choix": [
+      "L'Etna, en Sicile, est environ deux fois et demie plus haut que le Vésuve, près de Naples",
+      "L'Etna est éteint alors que le Vésuve est le seul volcan actif d'Italie",
+      "Le Vésuve est sur une île, l'Etna sur le continent",
+      "Le Vésuve culmine à plus de 3 000 mètres, l'Etna à environ 1 000 mètres"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'Etna culmine à 3 403 mètres, soit environ deux fois et demie la hauteur du Vésuve. Tous deux sont actifs et classés « volcans de la Décennie ». L'Etna est sur l'île de Sicile, le Vésuve sur le continent, en Campanie.",
+    "source": "D'après Wikipédia — Etna"
+  },
+  {
+    "id": "q-geo-139",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Qui a donné son nom actuel à la Grande Barrière de corail, après l'avoir cartographiée en 1802 ?",
+    "choix": [
+      "Matthew Flinders",
+      "James Cook",
+      "Louis-Antoine de Bougainville",
+      "Abel Tasman"
+    ],
+    "bonneReponse": 0,
+    "explication": "C'est Matthew Flinders qui a employé les termes « great reef » et « barrier reefs » après avoir cartographié la zone en 1802. James Cook, lui, l'avait découverte en 1770 en s'y échouant avec l'Endeavour.",
+    "source": "D'après Wikipédia — Grande Barrière de corail"
+  },
+  {
+    "id": "q-geo-140",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "D'où vient probablement le nom « Patagonie » ?",
+    "choix": [
+      "D'un personnage de roman de chevalerie, Patagón",
+      "D'un mot mapuche signifiant « terre du sud »",
+      "Du nom d'un cacique tehuelche",
+      "D'un navigateur portugais, Patago"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'hypothèse la plus retenue est que Magellan a pensé à Patagón, une créature sauvage du roman de chevalerie Primaleón, publié en 1512. De là est né le mythe des « géants patagons », tenace pendant 250 ans.",
+    "source": "D'après Wikipédia — Patagonie"
+  },
+  {
+    "id": "q-geo-141",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Les dernières populations de mammouths laineux ont survécu dans l'Arctique russe jusque vers 2000 av. J.-C.",
+    "reponse": true,
+    "explication": "L'île Wrangel et la péninsule de Taïmyr auraient abrité les derniers mammouths laineux, isolés, jusque vers 2000 av. J.-C. Le permafrost sibérien a conservé des corps entiers, comme celui du mammouth Yuka.",
+    "source": "D'après Wikipédia — Sibérie"
+  },
+  {
+    "id": "q-geo-142",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quelle découverte historique a été faite en 1923 dans le désert de Gobi ?",
+    "choix": [
+      "Les premiers œufs de dinosaure connus",
+      "Le squelette d'un mammouth laineux",
+      "Une ville ensevelie de la route de la soie",
+      "Le premier fossile d'un Homo erectus"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1923, des chercheurs ont découvert dans le Gobi vingt-six œufs de dinosaure, longs de 23 centimètres en moyenne : une première mondiale. Le bassin de Nemegt est depuis surnommé la « vallée des dragons ».",
+    "source": "D'après Wikipédia — Désert de Gobi"
+  },
+  {
+    "id": "q-geo-143",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel courant marin froid explique l'aridité et les brouillards du désert du Namib ?",
+    "choix": [
+      "Le courant de Benguela",
+      "Le courant de Humboldt",
+      "Le courant des Canaries",
+      "Le courant du Labrador"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le courant de Benguela, venu de l'Antarctique, refroidit l'air au large de la Namibie : celui-ci ne donne pas de pluie en arrivant sur la terre chaude, mais crée des brouillards, seule source d'eau pour les êtres vivants.",
+    "source": "D'après Wikipédia — Désert du Namib"
+  },
+  {
+    "id": "q-geo-144",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "En l'honneur de qui l'explorateur William Gosse a-t-il baptisé Uluru « Ayers Rock » en 1873 ?",
+    "choix": [
+      "Henry Ayers, chef du gouvernement d'Australie-Méridionale",
+      "Ernest Giles, un explorateur rival",
+      "La reine Victoria",
+      "Un capitaine de marine nommé Ayers"
+    ],
+    "bonneReponse": 0,
+    "explication": "William Gosse a nommé le rocher le 19 juillet 1873 en hommage à Sir Henry Ayers, personnalité politique d'Australie-Méridionale. Le nom aborigène Uluru, lui, a été reconnu officiellement en 1993 avec un double nom.",
+    "source": "D'après Wikipédia — Uluru/Ayers Rock"
+  },
+  {
+    "id": "q-geo-145",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "D'où vient le nom des îles Galápagos ?",
+    "choix": [
+      "Du mot espagnol pour désigner les tortues",
+      "Du nom d'un pirate anglais",
+      "D'un mot quechua signifiant « îles enchantées »",
+      "Du nom du navire de Darwin"
+    ],
+    "bonneReponse": 0,
+    "explication": "Galápagos vient d'un mot espagnol qui désigne la tortue, en référence aux tortues géantes de l'archipel. Une carte de 1570 les nomme déjà « îles des Tortues ». Les marins les surnommaient aussi les « Enchantées ».",
+    "source": "D'après Wikipédia — Îles Galápagos"
+  },
+  {
+    "id": "q-geo-146",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel volcan du rift est-africain est le seul au monde à produire de la natrocarbonatite, une lave presque sans silice et très fluide ?",
+    "choix": [
+      "Ol Doinyo Lengaï",
+      "Erta Ale",
+      "Nyiragongo",
+      "Kilimandjaro"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ol Doinyo Lengaï, en Tanzanie, est le seul volcan actif de natrocarbonatite. Son magma ne contient presque pas de silice : il est donc très fluide, un peu comme de l'huile d'olive, et ne ressemble pas à la lave habituelle.",
+    "source": "D'après Wikipédia — Rift est-africain"
+  },
+  {
+    "id": "q-geo-147",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Les volcans d'Hawaï font partie de la ceinture de feu du Pacifique.",
+    "reponse": false,
+    "explication": "Hawaï se trouve au centre du Pacifique, très loin des zones de subduction : ses volcans n'appartiennent pas à la ceinture de feu, qui borde l'océan sur son pourtour, de la Nouvelle-Zélande à l'Amérique.",
+    "source": "D'après Wikipédia — Ceinture de feu du Pacifique"
+  },
+  {
+    "id": "q-geo-148",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Que représentent les trois jambes de la Trinacria, emblème du drapeau de la Sicile ?",
+    "choix": [
+      "Les trois pointes de l'île",
+      "Les trois peuples fondateurs",
+      "Les trois grands volcans",
+      "Les trois mers qui la baignent"
+    ],
+    "bonneReponse": 0,
+    "explication": "La gorgone à trois jambes figure les trois pointes de la Sicile : l'ouest vers Trapani, le nord-est près de Messine et le sud-est au cap Passero. Trinacria signifie d'ailleurs en grec « qui a trois pointes ».",
+    "source": "D'après Wikipédia — Sicile"
+  },
+  {
+    "id": "q-geo-149",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "En hébreu biblique, la mer Rouge est appelée Yam Suf, la « mer des Roseaux ».",
+    "reponse": true,
+    "explication": "Yam Suf, « mer des Roseaux », est le nom que le livre de l'Exode donne à l'étendue d'eau traversée par les Israélites. On l'a traditionnellement identifiée à la mer Rouge. Le français, lui, traduit le grec Erythra Thalassa.",
+    "source": "D'après Wikipédia — Mer Rouge"
+  },
+  {
+    "id": "q-geo-150",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Pourquoi les épaves de la mer Noire sont-elles aussi bien conservées ?",
+    "choix": [
+      "Ses eaux profondes sont privées d'oxygène",
+      "Elle est très froide toute l'année",
+      "Elle est presque totalement gelée",
+      "Son eau est plus salée que celle de l'océan"
+    ],
+    "bonneReponse": 0,
+    "explication": "Au-delà de 200 mètres, l'eau ne contient plus d'oxygène et le sulfure d'hydrogène s'y accumule : les bactéries n'attaquent donc pas le bois, le cuir et les tissus. C'est une aubaine pour les chercheurs d'épaves.",
+    "source": "D'après Wikipédia — Mer Noire"
+  },
+  {
+    "id": "q-geo-151",
+    "domain": "geo",
+    "format": "frise",
+    "question": "Remets ces étapes de l'exploration de l'océan Arctique dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Traversée en bateau avec le Fram",
+        "annee": "1893"
+      },
+      {
+        "label": "Passage du sous-marin USS Nautilus sous le pôle Nord",
+        "annee": "1958"
+      },
+      {
+        "label": "Première traversée à pied de l'océan, en traîneau à chiens",
+        "annee": "1969"
+      },
+      {
+        "label": "Passage en surface du brise-glace NS Arktika au pôle",
+        "annee": "1977"
+      }
+    ],
+    "explication": "Nansen traverse l'océan en bateau de 1893 à 1896, le Nautilus passe sous la glace en 1958, Wally Herbert rejoint le Svalbard à pied en 1969, et le brise-glace Arktika traverse en surface jusqu'au pôle en 1977.",
+    "source": "D'après Wikipédia — Océan Arctique"
+  },
+  {
+    "id": "q-geo-152",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel événement géologique a donné naissance à l'océan Austral il y a environ 30 millions d'années ?",
+    "choix": [
+      "L'ouverture du passage de Drake entre l'Antarctique et l'Amérique du Sud",
+      "L'éruption d'un volcan sous-marin au pôle Sud",
+      "La fonte complète de la calotte antarctique",
+      "La collision de l'Australie et de l'Antarctique"
+    ],
+    "bonneReponse": 0,
+    "explication": "Quand le passage de Drake s'est ouvert entre l'Antarctique et l'Amérique du Sud, le courant circumpolaire antarctique s'est mis à encercler le continent. L'océan Austral est donc le plus jeune des grands océans.",
+    "source": "D'après Wikipédia — Océan Austral"
+  },
+  {
+    "id": "q-geo-153",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Que signifie « Chang Jiang », le nom chinois du Yangzi Jiang ?",
+    "choix": [
+      "Le long fleuve",
+      "Le fleuve doré",
+      "Le fleuve du dragon",
+      "La grande rivière du sud"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chang Jiang signifie « long fleuve ». Le nom Yangzi, lui, vient d'un petit bourg près de Yangzhou, et les Européens l'ont étendu à tout le cours. Le tronçon supérieur s'appelle Jinsha, les « sables dorés ».",
+    "source": "D'après Wikipédia — Yangtsé"
+  },
+  {
+    "id": "q-geo-154",
+    "domain": "geo",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon cours est appelé « fleuve turbulent » dans la partie chinoise.",
+      "Je prends ma source dans les monts Tanggula, sur le plateau tibétain.",
+      "Je traverse ou borde six pays d'Asie.",
+      "Au Laos, je forme la région des « quatre mille îles ».",
+      "Au Vietnam, on m'appelle le « fleuve des neuf dragons »."
+    ],
+    "reponse": "Le Mékong",
+    "explication": "Le Mékong naît sur le plateau tibétain, traverse la Chine (où il s'appelle Lancang), puis longe le Laos, la Birmanie et la Thaïlande avant le Cambodge et le Vietnam, où son delta se déverse par neuf bouches.",
+    "source": "D'après Wikipédia — Mékong"
+  },
+  {
+    "id": "q-geo-155",
+    "domain": "geo",
+    "format": "associer",
+    "question": "Associe chaque nom du Mékong à sa signification.",
+    "paires": [
+      {
+        "gauche": "Lancang",
+        "droite": "Fleuve turbulent",
+        "explication": "Nom donné au fleuve en Chine, à cause de ses gorges et de ses précipices."
+      },
+      {
+        "gauche": "Sông Cửu Long",
+        "droite": "Fleuve des neuf dragons",
+        "explication": "Nom vietnamien, qui évoque les neuf bouches par lesquelles le fleuve se jette dans la mer."
+      },
+      {
+        "gauche": "Tiền Giang",
+        "droite": "Fleuve à l'avant",
+        "explication": "L'une des deux branches principales du Mékong au Vietnam, avec le Hậu Giang."
+      },
+      {
+        "gauche": "Hậu Giang",
+        "droite": "Fleuve à l'arrière",
+        "explication": "L'autre grande branche du delta, celle qui passe notamment par Can Tho."
+      }
+    ],
+    "explication": "Les noms du Mékong décrivent souvent sa nature ou ses branches : torrent turbulent dans les gorges chinoises, puis neuf bouches dans le delta, divisé entre un fleuve « avant » et un fleuve « arrière ».",
+    "source": "D'après Wikipédia — Mékong"
+  },
+  {
+    "id": "q-geo-156",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Le Rhin mesure 1 320 km, comme on l'a longtemps cru.",
+    "reponse": false,
+    "explication": "On a longtemps donné 1 320 km au Rhin, mais sa longueur réelle est 1 232,7 km : en 2010, on a soupçonné une inversion de chiffres, et une commission internationale a tranché en 2015.",
+    "source": "D'après Wikipédia — Rhin"
+  },
+  {
+    "id": "q-geo-157",
+    "domain": "geo",
+    "format": "associer",
+    "question": "Associe chaque cours d'eau à la mer ou à l'océan où il aboutit.",
+    "paires": [
+      {
+        "gauche": "Rhône",
+        "droite": "Mer Méditerranée",
+        "explication": "Le Rhône forme le delta de la Camargue avant de se jeter dans la Méditerranée, une mer sans marée."
+      },
+      {
+        "gauche": "Seine",
+        "droite": "La Manche",
+        "explication": "La Seine rejoint la Manche à son embouchure, entre Le Havre et Honfleur, après avoir traversé Paris et Rouen."
+      },
+      {
+        "gauche": "Volga",
+        "droite": "Mer Caspienne",
+        "explication": "La Volga se vide dans la Caspienne, un bassin fermé : elle n'est reliée naturellement à aucun océan."
+      },
+      {
+        "gauche": "Grands Lacs",
+        "droite": "Océan Atlantique",
+        "explication": "Les Grands Lacs s'écoulent dans le fleuve Saint-Laurent, qui rejoint l'océan Atlantique."
+      }
+    ],
+    "explication": "Le Rhône rejoint la Méditerranée, la Seine la Manche, la Volga la mer Caspienne, un bassin fermé, et les Grands Lacs l'Atlantique en passant par le Saint-Laurent. Chaque fleuve a ainsi sa propre mer.",
+    "source": "D'après Wikipédia — Rhône"
+  },
+  {
+    "id": "q-geo-158",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Qui possède les sources de la Seine, en Côte-d'Or, depuis 1864 ?",
+    "choix": [
+      "La Ville de Paris",
+      "La commune de Troyes",
+      "Le département de la Côte-d'Or",
+      "L'État français"
+    ],
+    "bonneReponse": 0,
+    "explication": "Depuis 1864, les sources de la Seine, à Source-Seine, appartiennent à la Ville de Paris. Elle y a fait construire une grotte avec une statue de nymphe l'année suivante, près des vestiges d'un temple gallo-romain.",
+    "source": "D'après Wikipédia — Seine"
+  },
+  {
+    "id": "q-geo-159",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel peintre russe a représenté les « bourlaques » qui halent des barges dans « Les Bateliers de la Volga » ?",
+    "choix": [
+      "Ilia Répine",
+      "Ivan Aïvazovski",
+      "Vassily Kandinsky",
+      "Marc Chagall"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ilia Répine a peint ce tableau entre 1870 et 1873. Il montre des ouvriers journaliers, les bourlaques, qui tirent des barges le long du fleuve. L'œuvre est conservée au palais Mikhaïlovski, à Saint-Pétersbourg.",
+    "source": "D'après Wikipédia — Volga"
+  },
+  {
+    "id": "q-geo-160",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Sur les cinq Grands Lacs, un seul se trouve tout entier côté américain.",
+    "reponse": true,
+    "explication": "Le lac Michigan est le seul des cinq à ne pas toucher le Canada, ce qui le rend entièrement américain. Les quatre autres, Supérieur, Huron, Érié et Ontario, chevauchent la frontière entre le Canada et les États-Unis.",
+    "source": "D'après Wikipédia — Grands Lacs (Amérique du Nord)"
+  },
+  {
+    "id": "q-geo-161",
+    "domain": "geo",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je coule sur un fleuve qui sépare deux pays d'Afrique australe.",
+      "Le nom que me donnent les habitants signifie « la fumée qui gronde ».",
+      "Mon rideau d'eau fait environ 1 700 mètres de large.",
+      "Un explorateur écossais m'a décrite en 1855 et m'a donné le nom d'une reine."
+    ],
+    "reponse": "Les chutes Victoria",
+    "explication": "Les chutes Victoria sont sur le Zambèze, entre la Zambie et le Zimbabwe. Leur nom local est Mosi-oa-Tunya. David Livingstone les a vues en 1855 et les a baptisées en l'honneur de la reine Victoria.",
+    "source": "D'après Wikipédia — Chutes Victoria"
+  },
+  {
+    "id": "q-geo-162",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Que signifie « Iguazú », nom donné aux célèbres chutes d'Amérique du Sud, dans la langue guarani ?",
+    "choix": [
+      "Les grandes eaux",
+      "La gorge du Diable",
+      "La rivière des brumes",
+      "L'eau qui tonne"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot guarani « y » désigne l'eau et « guasu » ce qui est grand, d'où les « grandes eaux ». Le site compte 275 cascades en pleine forêt tropicale, dont la plus haute, la Gorge du Diable, atteint 82 mètres.",
+    "source": "D'après Wikipédia — Chutes d'Iguazú"
+  },
+  {
+    "id": "q-geo-163",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "La majeure partie des chutes d'Iguazú se trouve du côté brésilien.",
+    "reponse": false,
+    "explication": "Environ 80 % des chutes sont du côté argentin, et seulement 20 % environ du côté brésilien. Chaque pays y a créé un parc national, inscrit à l'UNESCO en 1984 pour l'Argentine et en 1986 pour le Brésil.",
+    "source": "D'après Wikipédia — Chutes d'Iguazú"
+  },
+  {
+    "id": "q-geo-164",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Selon l'étymologie populaire, quel animal a donné son nom au Bosphore, le « passage de … » ?",
+    "choix": [
+      "La vache",
+      "Le cheval",
+      "Le dauphin",
+      "Le lion"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les Grecs y voyaient le « passage de la vache », en souvenir d'Io, la jeune femme que Zeus avait changée en vache. Les spécialistes pensent plutôt que le mot signifie « passage resserré », ce que le détroit est bel et bien.",
+    "source": "D'après Wikipédia — Bosphore"
+  },
+  {
+    "id": "q-geo-165",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "En l'honneur de quelle ville néerlandaise le cap Horn a-t-il été baptisé en 1616 ?",
+    "choix": [
+      "Hoorn",
+      "Rotterdam",
+      "Amsterdam",
+      "Delft"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jacob Le Maire et Willem Schouten ont doublé la pointe de l'Amérique le 31 janvier 1616. Le Maire a nommé le cap « Kaap Hoorn » pour remercier les marchands de Hoorn, qui avaient financé l'expédition.",
+    "source": "D'après Wikipédia — Cap Horn"
+  },
+  {
+    "id": "q-geo-166",
+    "domain": "geo",
+    "format": "difference",
+    "question": "Quelle est la différence entre le cap de Bonne-Espérance et le cap des Aiguilles ?",
+    "choix": [
+      "Le cap des Aiguilles est la vraie pointe sud de l'Afrique, pas celui de Bonne-Espérance",
+      "Le cap de Bonne-Espérance est plus au sud que le cap des Aiguilles",
+      "Ce sont deux noms du même cap, l'un portugais, l'autre anglais",
+      "Le cap de Bonne-Espérance se trouve sur l'océan Indien, le cap des Aiguilles sur l'Atlantique"
+    ],
+    "bonneReponse": 0,
+    "explication": "Beaucoup le croient, mais la pointe méridionale de l'Afrique n'est pas le cap de Bonne-Espérance : cette place revient au cap des Aiguilles, situé à environ 150 km à l'est-sud-est, où se rencontrent les courants des deux océans.",
+    "source": "D'après Wikipédia — Cap de Bonne-Espérance"
+  },
+  {
+    "id": "q-geo-167",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Pourquoi les cyclones tropicaux ne se forment-ils presque jamais à l'équateur ?",
+    "choix": [
+      "La force de Coriolis y est nulle",
+      "La mer y est trop froide",
+      "Il y pleut trop peu",
+      "Les alizés y soufflent trop fort"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un cyclone a besoin de la force de Coriolis pour tourner autour d'un centre de basse pression, or elle est nulle à l'équateur. Le typhon Vamei, formé à 1,4° de latitude nord en 2001, est le plus proche enregistré.",
+    "source": "D'après Wikipédia — Climat équatorial"
+  },
+  {
+    "id": "q-geo-168",
+    "domain": "geo",
+    "format": "associer",
+    "question": "Associe chaque vent à sa région.",
+    "paires": [
+      {
+        "gauche": "Mistral",
+        "droite": "Vallée du Rhône et Provence",
+        "explication": "Vent du nord canalisé par la vallée du Rhône, qui balaie ensuite la Provence et le Languedoc."
+      },
+      {
+        "gauche": "Alizés",
+        "droite": "Régions tropicales, d'est en ouest",
+        "explication": "Ils soufflent entre les tropiques : du nord-est dans l'hémisphère nord, du sud-est dans le sud."
+      },
+      {
+        "gauche": "Sirocco",
+        "droite": "Du Sahara vers la Méditerranée",
+        "explication": "Air brûlant du Sahara, aspiré vers le nord par une dépression qui se creuse sur la Méditerranée."
+      },
+      {
+        "gauche": "Harmattan",
+        "droite": "Ouest de l'Afrique",
+        "explication": "Alizé continental très sec, il dessèche l'ouest du continent africain en toute saison."
+      }
+    ],
+    "explication": "Le mistral descend la vallée du Rhône, les alizés soufflent d'est en ouest entre les tropiques, le sirocco vient du Sahara et l'harmattan, un alizé continental, souffle sur l'ouest de l'Afrique.",
+    "source": "D'après Wikipédia — Alizé"
+  },
+  {
+    "id": "q-geo-169",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Que signifie à l'origine le mot « mistral », issu du latin « magister » ?",
+    "choix": [
+      "Le vent maître",
+      "Le vent du nord",
+      "Le vent glacé",
+      "Le vent des rochers"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Mistral » vient du provençal « maestral », lui-même issu du latin « magistralis », dérivé de « magister », le maître. C'est le vent qui commande : il peut dépasser 100 km/h dans la vallée du Rhône.",
+    "source": "D'après Wikipédia — Mistral (vent)"
+  },
+  {
+    "id": "q-geo-170",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Combiné à une marée montante, quel phénomène le sirocco peut-il provoquer dans la lagune de Venise ?",
+    "choix": [
+      "L'acqua alta",
+      "Un gel de la lagune",
+      "Un brouillard épais",
+      "Une pluie de cendres"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les vents forts du sud poussent l'eau vers les côtes européennes et font monter le niveau de la mer. Avec une marée haute, ils contribuent à l'acqua alta, l'inondation de la lagune de Venise.",
+    "source": "D'après Wikipédia — Sirocco"
+  },
+  {
+    "id": "q-geo-171",
+    "domain": "geo",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de Pékin dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Les Jürchen en font leur capitale principale, Zhongdu",
+        "annee": "1153"
+      },
+      {
+        "label": "Les troupes de Gengis Khan saccagent la ville",
+        "annee": "1215"
+      },
+      {
+        "label": "L'empereur Yongle la rebaptise Pékin",
+        "annee": "1403"
+      },
+      {
+        "label": "Les Ming y transfèrent leur administration",
+        "annee": "1421"
+      },
+      {
+        "label": "Pékin accueille les Jeux olympiques d'été",
+        "annee": "2008"
+      }
+    ],
+    "explication": "Pékin est capitale d'un empire en 1153, pillée en 1215, renommée en 1403 et siège de l'administration Ming en 1421. En 2008, elle accueille les Jeux d'été, puis ceux d'hiver en 2022, une première.",
+    "source": "D'après Wikipédia — Pékin"
+  },
+  {
+    "id": "q-geo-172",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Que signifie le nom arabe du Caire, « al-Qāhira » ?",
+    "choix": [
+      "La Victorieuse",
+      "La Ville blanche",
+      "La Porte du Nil",
+      "La Cité des minarets"
+    ],
+    "bonneReponse": 0,
+    "explication": "Al-Qāhira signifie « la Victorieuse » ou « la Conquérante ». Selon une tradition, il évoque la planète Mars, dite « l'étoile victorieuse », qui brillait très haut dans le ciel quand les Fatimides ont fondé la ville, en 969.",
+    "source": "D'après Wikipédia — Le Caire"
+  },
+  {
+    "id": "q-geo-173",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Berlin est à la fois une ville et un Land de la fédération allemande.",
+    "reponse": true,
+    "explication": "Berlin est une ville-État : mêmes institutions et même territoire pour la commune et pour le Land. Hambourg et Brême ont une organisation semblable. Berlin envoie quatre représentants au Bundesrat.",
+    "source": "D'après Wikipédia — Berlin"
+  },
+  {
+    "id": "q-geo-174",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel roi de France fut emprisonné pendant un an à Madrid, dans la tour des Lujanes, après la bataille de Pavie ?",
+    "choix": [
+      "François Ier",
+      "Henri II",
+      "Louis XII",
+      "Charles VIII"
+    ],
+    "bonneReponse": 0,
+    "explication": "Capturé à Pavie en 1525 par l'armée de Charles Quint, François Ier est retenu à Madrid. Pour être libéré, il signe un traité et laisse ses deux fils en otages jusqu'à son application.",
+    "source": "D'après Wikipédia — Madrid"
+  },
+  {
+    "id": "q-geo-175",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Que signifie « Montjuïc », la colline de Barcelone qui accueillit des épreuves des Jeux olympiques de 1992 ?",
+    "choix": [
+      "Mont des Juifs",
+      "Mont du Soleil",
+      "Mont du Roi",
+      "Mont des Moines"
+    ],
+    "bonneReponse": 0,
+    "explication": "Montjuïc vient du latin médiéval et du catalan pour « Mont des Juifs ». Cette colline, berceau de la ville selon les historiens, abritait un cimetière juif médiéval. Elle culmine à 173 mètres, près du port.",
+    "source": "D'après Wikipédia — Barcelone"
+  },
+  {
+    "id": "q-geo-176",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel mathématicien du XIXe siècle a compté les tours de Prague, d'où son surnom de « ville aux cent tours » ?",
+    "choix": [
+      "Bernard Bolzano",
+      "Carl Friedrich Gauss",
+      "Leonhard Euler",
+      "Blaise Pascal"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le surnom de Prague repose sur le décompte de Bernard Bolzano. Les clochers y sont bien plus nombreux : le service d'information de la ville en estime aujourd'hui environ 500. Prague est aussi surnommée la ville d'or.",
+    "source": "D'après Wikipédia — Prague"
+  },
+  {
+    "id": "q-geo-177",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Saint-Pétersbourg porte le nom de son fondateur, le tsar Pierre le Grand.",
+    "reponse": false,
+    "explication": "Faux : la ville tire son nom de l'apôtre saint Pierre, saint patron du tsar, et non du tsar lui-même. Fondée en 1703, elle a ensuite été rebaptisée Pétrograd en 1914, puis Léningrad en 1924, avant de retrouver son nom en 1991.",
+    "source": "D'après Wikipédia — Saint-Pétersbourg"
+  },
+  {
+    "id": "q-geo-178",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel grand ouvrage, achevé en 1913 sous la direction de William Mulholland, a permis à Los Angeles de continuer à croître malgré le manque d'eau ?",
+    "choix": [
+      "L'aqueduc de Los Angeles",
+      "Le port de Long Beach",
+      "Un barrage sur le fleuve Colorado",
+      "Le métro de la ville"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'aqueduc de Los Angeles amène depuis l'est de la Californie l'eau nécessaire à la ville. Sa construction, supervisée par William Mulholland, a permis à la population de dépasser vite les 100 000 habitants de 1900.",
+    "source": "D'après Wikipédia — Los Angeles"
+  },
+  {
+    "id": "q-geo-179",
+    "domain": "geo",
+    "format": "associer",
+    "question": "Associe chaque ville à son surnom ou à son titre.",
+    "paires": [
+      {
+        "gauche": "Prague",
+        "droite": "La ville aux cent tours",
+        "explication": "Surnom né d'un décompte de Bernard Bolzano au XIXe siècle."
+      },
+      {
+        "gauche": "Marrakech",
+        "droite": "La ville rouge",
+        "explication": "Ses remparts et ses bâtiments en grès rouge lui valent ce surnom."
+      },
+      {
+        "gauche": "Tombouctou",
+        "droite": "La Perle du désert",
+        "explication": "Cité de caravanes et de savoir, au bord du Sahara, dans le nord du Mali."
+      },
+      {
+        "gauche": "La Havane",
+        "droite": "La clé du Nouveau Monde",
+        "explication": "Titre donné par la Couronne espagnole à ce port fortifié des Caraïbes."
+      },
+      {
+        "gauche": "Saint-Pétersbourg",
+        "droite": "La fenêtre sur l'Europe",
+        "explication": "Pierre le Grand l'a fondée pour ouvrir la Russie sur l'Occident."
+      }
+    ],
+    "explication": "Chaque surnom raconte une histoire : une couleur, un décompte, une fonction de carrefour. Ces villes ont toutes marqué leur région par leur rôle de commerce, de pouvoir ou de savoir.",
+    "source": "D'après Wikipédia — Marrakech"
+  },
+  {
+    "id": "q-geo-180",
+    "domain": "geo",
+    "format": "associer",
+    "question": "Associe chaque ville à son nom ancien.",
+    "paires": [
+      {
+        "gauche": "San Francisco",
+        "droite": "Yerba Buena",
+        "explication": "« La bonne herbe », nom du premier village civil sur la baie."
+      },
+      {
+        "gauche": "Kyoto",
+        "droite": "Heian-kyō",
+        "explication": "Premier nom de la capitale impériale du Japon."
+      },
+      {
+        "gauche": "Samarcande",
+        "droite": "Maracanda",
+        "explication": "Nom grec de la ville à l'époque d'Alexandre le Grand."
+      },
+      {
+        "gauche": "Buenos Aires",
+        "droite": "Santa María del Buen Ayre",
+        "explication": "Nom donné au premier établissement fondé par Pedro de Mendoza."
+      }
+    ],
+    "explication": "Les villes changent souvent de nom au fil des siècles. Ces noms anciens rappellent une herbe, une capitale impériale, une conquête grecque et la dévotion de marins à la Vierge des bons vents.",
+    "source": "D'après Wikipédia — San Francisco"
+  },
+  {
+    "id": "q-geo-181",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Les restes de Christophe Colomb ont séjourné à La Havane avant de rejoindre Séville.",
+    "reponse": true,
+    "explication": "Vrai : le 15 janvier 1796, les restes de Colomb sont transportés de Saint-Domingue à Cuba. Ils y restent jusqu'en 1898, puis partent pour la cathédrale de Séville après la perte de Cuba par l'Espagne.",
+    "source": "D'après Wikipédia — La Havane"
+  },
+  {
+    "id": "q-geo-182",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Notre-Dame de Bonaria, dont la dévotion a inspiré le nom de Buenos Aires, est la protectrice de quelle île ?",
+    "choix": [
+      "La Sardaigne",
+      "La Sicile",
+      "Majorque",
+      "La Corse"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Vierge de Bonaria, vénérée à Cagliari, est la patronne de la Sardaigne. Les marins espagnols l'invoquaient pour obtenir de bons vents, d'où « Buenos Aires ». C'est le marchand Eduardo Madero qui l'établit en 1882.",
+    "source": "D'après Wikipédia — Buenos Aires"
+  },
+  {
+    "id": "q-geo-183",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel mot français désignant le travail du cuir vient de la réputation des artisans de Marrakech ?",
+    "choix": [
+      "La maroquinerie",
+      "La sellerie",
+      "La bourrellerie",
+      "La ganterie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dès l'époque almohade, Marrakech était réputée pour ses cuirs, tannés à Bab Debbagh. Les articles étaient si célèbres qu'on parla de « marroquinería » en Castille, mot devenu « maroquinerie » en français.",
+    "source": "D'après Wikipédia — Marrakech"
+  },
+  {
+    "id": "q-geo-184",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel explorateur entre à Tombouctou en avril 1828, déguisé en lettré musulman, et en repart vivant ?",
+    "choix": [
+      "René Caillié",
+      "Alexander Gordon Laing",
+      "Heinrich Barth",
+      "Mungo Park"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Français René Caillié entre dans la cité le 20 avril 1828 sous un déguisement et en revient. Son récit fit grand bruit en Europe. Le Britannique Laing, arrivé avant lui en 1826, y avait été tué.",
+    "source": "D'après Wikipédia — Tombouctou"
+  },
+  {
+    "id": "q-geo-185",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Comment l'armée khoïkhoï a-t-elle vaincu le Portugais Francisco de Almeida près du Cap en 1510 ?",
+    "choix": [
+      "Avec des bovins dressés à réagir aux sifflements et aux cris",
+      "En lançant des flèches depuis la montagne de la Table",
+      "Grâce à un incendie de ses navires",
+      "En le prenant par surprise pendant une tempête"
+    ],
+    "bonneReponse": 0,
+    "explication": "À la bataille de Salt River, les Khoïkhoï ont utilisé des bovins spécialement dressés à répondre aux sifflements et aux cris. Almeida et soixante-quatre de ses hommes ont été tués, une défaite célèbre des Portugais.",
+    "source": "D'après Wikipédia — Le Cap"
+  },
+  {
+    "id": "q-geo-186",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Pétra a été fondée et bâtie par les Romains.",
+    "reponse": false,
+    "explication": "Faux : les Nabatéens ont fait prospérer la cité grâce au commerce de l'encens et des épices. Rome ne l'annexe qu'en 106 sous le nom d'Arabia Petraea. Elle est célèbre pour ses façades creusées dans le grès.",
+    "source": "D'après Wikipédia — Pétra"
+  },
+  {
+    "id": "q-geo-187",
+    "domain": "geo",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom signifierait « pierre » et « fort » en sogdien.",
+      "Alexandre le Grand m'a conquise en 329 av. J.-C. sous le nom de Maracanda.",
+      "Les Mongols m'ont pillée en 1220.",
+      "Tamerlan a fait de moi sa capitale en 1369.",
+      "Ma place du Registan est célèbre, et je suis la deuxième ville d'Ouzbékistan."
+    ],
+    "reponse": "Samarcande",
+    "explication": "Samarcande, cité de la route de la soie, fut la capitale de Tamerlan. Le Registan, le mausolée Gur-e Amir et la nécropole Shah-i-Zinda y font la gloire de l'époque timouride. L'UNESCO l'a inscrite en 2001.",
+    "source": "D'après Wikipédia — Samarcande"
+  },
+  {
+    "id": "q-geo-188",
+    "domain": "geo",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire du Cap dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Bartolomeu Dias atteint la région du Cap",
+        "annee": "1488"
+      },
+      {
+        "label": "Jan van Riebeeck fonde un poste de ravitaillement",
+        "annee": "1652"
+      },
+      {
+        "label": "Les Britanniques capturent la ville pour la première fois",
+        "annee": "1795"
+      },
+      {
+        "label": "L'esclavage est aboli dans la colonie",
+        "annee": "1833"
+      },
+      {
+        "label": "Le Cap devient capitale législative de l'Union sud-africaine",
+        "annee": "1910"
+      }
+    ],
+    "explication": "Dias arrive en 1488, la Compagnie néerlandaise des Indes orientales s'installe en 1652, les Britanniques prennent la ville en 1795. L'esclavage est aboli en 1833, et l'Union d'Afrique du Sud naît en 1910.",
+    "source": "D'après Wikipédia — Le Cap"
+  },
+  {
+    "id": "q-geo-189",
+    "domain": "geo",
+    "format": "difference",
+    "question": "Quelle est la différence entre le sens du nom de Kyoto et celui de Tokyo ?",
+    "choix": [
+      "Kyoto signifie « ville capitale » et Tokyo « capitale de l'Est »",
+      "Kyoto signifie « montagne sacrée » et Tokyo « grand port »",
+      "Kyoto signifie « capitale de l'Est » et Tokyo « ville capitale »",
+      "Kyoto signifie « ville des temples » et Tokyo « ville impériale »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Kyoto signifie « ville capitale ». Quand Edo devient Tokyo, « capitale de l'Est », en 1868, Kyoto est connue un temps sous le nom de Saikyō, « capitale de l'Ouest ». L'empereur quitte alors Kyoto pour Tokyo.",
+    "source": "D'après Wikipédia — Kyoto"
+  },
+  {
+    "id": "q-geo-190",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Pourquoi Samuel de Champlain n'a-t-il pas rapporté de carnet de bord de son voyage de 1599-1601 dans les Indes occidentales ?",
+    "choix": [
+      "Un tel carnet aurait pu le faire arrêter pour espionnage par les Espagnols",
+      "Son carnet a été perdu dans un naufrage",
+      "Le roi Henri IV le lui avait interdit",
+      "Il ne savait pas encore écrire"
+    ],
+    "bonneReponse": 0,
+    "explication": "Champlain a voyagé sur un navire espagnol. Un journal et des croquis auraient pu être découverts par ses compagnons et l'exposer à une arrestation pour espionnage. Il a rédigé son Brief Discours de mémoire à son retour.",
+    "source": "D'après Wikipédia — Samuel de Champlain"
+  },
+  {
+    "id": "q-geo-191",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Comment Bougainville baptise-t-il l'archipel des Tuamotu, à cause de ses récifs coralliens difficiles à voir ?",
+    "choix": [
+      "L'archipel dangereux",
+      "L'archipel des Navigateurs",
+      "Les îles de la Harpe",
+      "Les Louisiades"
+    ],
+    "bonneReponse": 0,
+    "explication": "Bougainville nomme les Tuamotu « archipel dangereux », car leurs atolls coralliens, peu visibles, sont autant de récifs pour les navires. Il baptise aussi les Samoa « archipel des Navigateurs » et les Louisiades en l'honneur de Louis XV.",
+    "source": "D'après Wikipédia — Louis-Antoine de Bougainville"
+  },
+  {
+    "id": "q-geo-192",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel nom Bartolomeu Dias donne-t-il d'abord au cap de Bonne-Espérance, à cause des tempêtes qu'il y a essuyées ?",
+    "choix": [
+      "Le cap des Tempêtes",
+      "Le cap des Aiguilles",
+      "Le cap Vert",
+      "Le cap des Brumes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dias l'appelle « cap des Tempêtes ». Le roi Jean II de Portugal le rebaptise « cap de Bonne-Espérance », car il espère y voir l'ouverture de la route maritime vers les Indes. Le cap des Aiguilles, autre cap, est le point le plus au sud de l'Afrique.",
+    "source": "D'après Wikipédia — Bartolomeu Dias"
+  },
+  {
+    "id": "q-geo-193",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel futur empereur, âgé de seize ans, a postulé pour l'expédition de La Pérouse sans être retenu ?",
+    "choix": [
+      "Napoléon Bonaparte",
+      "Horatio Nelson",
+      "Louis-Antoine de Bougainville",
+      "Jean-Baptiste Charcot"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le jeune Napoléon Bonaparte, alors sous-lieutenant à l'École militaire de Paris, figurait sur la liste préliminaire des candidats. Il n'a finalement pas été choisi : les deux navires de La Pérouse ne sont jamais rentrés.",
+    "source": "D'après Wikipédia — Jean-François de La Pérouse"
+  },
+  {
+    "id": "q-geo-194",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quelle découverte a-t-on faite parmi les affaires de Scott et de ses compagnons morts en 1912 ?",
+    "choix": [
+      "Les premiers fossiles trouvés en Antarctique, du bois d'un arbre",
+      "Des os de mammouth",
+      "Des empreintes de dinosaures",
+      "Des coquillages géants"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les explorateurs avaient gardé des fossiles de Glossopteris, un arbre disparu. Ils prouvaient que l'Antarctique avait été couvert de forêts et relié à d'autres continents.",
+    "source": "D'après Wikipédia — Robert Falcon Scott"
+  },
+  {
+    "id": "q-geo-195",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Comment s'appelle le document que Fridtjof Nansen a créé pour les réfugiés apatrides ?",
+    "choix": [
+      "Le passeport Nansen",
+      "Le laissez-passer du Fram",
+      "La carte de Genève",
+      "Le visa de Christiania"
+    ],
+    "bonneReponse": 0,
+    "explication": "Haut-commissaire pour les réfugiés de la Société des Nations dès 1921, Nansen imagine un certificat d'identité pour les personnes sans nationalité. Plus de cinquante pays le reconnaissent, et le prix Nobel de la paix lui est remis en 1922.",
+    "source": "D'après Wikipédia — Fridtjof Nansen"
+  },
+  {
+    "id": "q-geo-196",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Qu'a montré l'analyse des reliques de « yéti » rapportées par Hillary de temples himalayens ?",
+    "choix": [
+      "Deux venaient d'ours, la troisième d'un caprin",
+      "Elles appartenaient à un singe géant inconnu",
+      "Elles étaient des os de mammouth",
+      "Elles venaient toutes d'humains"
+    ],
+    "bonneReponse": 0,
+    "explication": "Lors de son expédition de 1960, Hillary rapporte trois reliques censées venir du yéti. L'analyse montre que deux proviennent d'ours et une d'un caprin. Il en conclut que le yéti n'existe pas comme on l'imaginait.",
+    "source": "D'après Wikipédia — Edmund Hillary"
+  },
+  {
+    "id": "q-geo-197",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "La phrase « Dr Livingstone, I presume ? » est notée dans le journal de Stanley à l'époque de la rencontre.",
+    "reponse": false,
+    "explication": "Elle ne figure pas dans le journal de Stanley, dont deux pages ont été arrachées juste après l'arrivée à Ujiji. Ni Stanley ni Livingstone ne la citent dans leurs lettres : elle a sans doute été reconstituée plus tard.",
+    "source": "D'après Wikipédia — Henry Morton Stanley"
+  },
+  {
+    "id": "q-geo-198",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Pourquoi René Caillié est-il célébré, alors que d'autres Européens étaient entrés avant lui à Tombouctou ?",
+    "choix": [
+      "Il en est le premier revenu vivant",
+      "Il est le premier à y être entré en bateau",
+      "Il a découvert la source du Niger",
+      "Il a fondé la ville"
+    ],
+    "bonneReponse": 0,
+    "explication": "Paul Imbert, au XVIIe siècle, puis le Britannique Laing en 1826 étaient arrivés avant lui. Laing a été tué en quittant la ville. Caillié est le premier à revenir vivant et à raconter son voyage.",
+    "source": "D'après Wikipédia — René Caillié"
+  },
+  {
+    "id": "q-geo-199",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel surnom la presse française donne-t-elle à Brazza après son traité avec le Makoko ?",
+    "choix": [
+      "Le conquérant pacifique",
+      "Le briseur de roches",
+      "Le roi du Congo",
+      "L'ami des fleuves"
+    ],
+    "bonneReponse": 0,
+    "explication": "Brazza obtient le protectorat sur la rive droite du Congo sans faire la guerre, ce qui lui vaut ce surnom. Stanley, lui, était appelé « briseur de roches » à cause de ses méthodes beaucoup plus brutales.",
+    "source": "D'après Wikipédia — Pierre Savorgnan de Brazza"
+  },
+  {
+    "id": "q-geo-200",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Sur quel atoll le radeau Kon-Tiki s'est-il échoué en 1947 ?",
+    "choix": [
+      "Raroia",
+      "Fatu Hiva",
+      "Bora-Bora",
+      "Rapa Nui"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après un peu plus de trois mois de dérive depuis le Pérou, le Kon-Tiki s'écrase sur le récif de Raroia, dans l'archipel des Tuamotu.",
+    "source": "D'après Wikipédia — Thor Heyerdahl"
+  },
+  {
+    "id": "q-geo-201",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel sommet des Alpes bernoises porte le nom de Gertrude Bell ?",
+    "choix": [
+      "Le Gertrudspitze",
+      "Le Schreckhorn",
+      "La Meije",
+      "Le Finsteraarhorn"
+    ],
+    "bonneReponse": 0,
+    "explication": "Elle y a réalisé une première avec deux guides en 1901 : le Gertrudspitze (2 632 mètres) a été nommé en son honneur. Les trois autres sont des sommets qu'elle a gravis.",
+    "source": "D'après Wikipédia — Gertrude Bell"
+  },
+  {
+    "id": "q-geo-202",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "Nellie Bly a fait le tour du monde en moins de temps que le héros de Jules Verne, Phileas Fogg.",
+    "reponse": true,
+    "explication": "Phileas Fogg met quatre-vingts jours dans le roman de Jules Verne. Nellie Bly, elle, boucle son voyage de 40 070 kilomètres en 72 jours, 6 heures, 11 minutes et 14 secondes, entre novembre 1889 et janvier 1890.",
+    "source": "D'après Wikipédia — Nellie Bly"
+  },
+  {
+    "id": "q-geo-203",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Quel phénomène naturel Pythéas est-il le premier à relier à la Lune dans ses écrits ?",
+    "choix": [
+      "Les marées",
+      "Les éclipses",
+      "Les saisons",
+      "Les vents"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le texte de Pythéas est le plus ancien connu à associer les marées à la Lune : les marées montantes suivent la pleine Lune. Il avait pu observer ce phénomène à Gadès, car la Méditerranée n'a presque pas de marées.",
+    "source": "D'après Wikipédia — Pythéas"
+  },
+  {
+    "id": "q-geo-204",
+    "domain": "geo",
+    "format": "qcm",
+    "question": "Pourquoi les canyons sont-ils plus nombreux dans les régions arides que dans les régions humides ?",
+    "choix": [
+      "Le climat sec préserve les parois verticales",
+      "Il y a plus de volcans",
+      "Les fleuves y sont plus larges",
+      "La roche y est toujours plus tendre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans les zones sèches, l'altération de la roche reste localisée près du cours d'eau, ce qui laisse aux parois leur verticalité et leurs formes anguleuses. Dans les régions plus humides, l'érosion est moins concentrée.",
+    "source": "D'après Wikipédia — Gorge (géographie)"
+  },
+  {
+    "id": "q-geo-205",
+    "domain": "geo",
+    "format": "vrai-faux",
+    "affirmation": "À l'équateur, l'eau d'un évier se vide dans un sens, puis dans l'autre de chaque côté de la ligne, à cause de la force de Coriolis.",
+    "reponse": false,
+    "explication": "Les démonstrations proposées aux touristes sur la ligne sont un trucage. La force de Coriolis liée à la rotation de la Terre est bien trop faible pour influencer le sens de rotation de l'eau dans un lavabo.",
+    "source": "D'après Wikipédia — Équateur terrestre"
+  },
+  {
+    "id": "q-geo-206",
+    "domain": "geo",
+    "format": "associer",
+    "question": "Associe chaque monument de l'équateur au pays où il se trouve.",
+    "paires": [
+      {
+        "gauche": "Mitad del Mundo",
+        "droite": "Équateur",
+        "explication": "Le monument se dresse non loin de Quito, du côté nord."
+      },
+      {
+        "gauche": "Marco Zero",
+        "droite": "Brésil",
+        "explication": "Il se trouve à Macapá, capitale de l'État d'Amapá, dans le nord du pays."
+      },
+      {
+        "gauche": "Mosaïque de l'îlot de Rolas",
+        "droite": "Sao Tomé-et-Principe",
+        "explication": "Une borne et une mosaïque en forme de carte du monde marquent le passage de la ligne."
+      },
+      {
+        "gauche": "Monument de Pontianak",
+        "droite": "Indonésie",
+        "explication": "La ville de Pontianak, sur l'île de Bornéo, est traversée par la ligne."
+      }
+    ],
+    "explication": "L'équateur traverse onze pays, dont l'Équateur, le Brésil, Sao Tomé-et-Principe et l'Indonésie. Plusieurs d'entre eux ont bâti un monument pour marquer le passage de la ligne.",
+    "source": "D'après Wikipédia — Équateur terrestre"
+  },
+  {
+    "id": "q-geo-207",
+    "domain": "geo",
+    "format": "difference",
+    "question": "Quelle est la différence entre un iceberg et la banquise ?",
+    "choix": [
+      "L'iceberg est de l'eau douce détachée d'un glacier, la banquise est de l'eau de mer gelée",
+      "L'iceberg est de l'eau de mer gelée, la banquise vient d'un glacier",
+      "L'iceberg flotte, la banquise coule",
+      "Il n'y a aucune différence"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'iceberg est un bloc d'eau douce détaché d'un glacier ou d'une plateforme de glace. La banquise, elle, se forme directement par le gel de l'eau de mer, qui se rassemble en une couche continue.",
+    "source": "D'après Wikipédia — Iceberg"
+  },
+  {
+    "id": "q-geo-208",
+    "domain": "geo",
+    "format": "qui-suis-je",
+    "indices": [
+      "Un géographe flamand m'a publiée en 1569, sur une grande carte en dix-huit feuilles.",
+      "Mes méridiens sont des droites parallèles, et mes parallèles leur sont perpendiculaires.",
+      "Je conserve les angles, mais pas les surfaces.",
+      "Sur moi, une ligne droite est une route à cap constant, très utile aux marins.",
+      "Je fais paraître le Groenland presque aussi grand que l'Afrique."
+    ],
+    "reponse": "La projection de Mercator",
+    "explication": "Publiée en 1569 par Gerardus Mercator, cette projection conserve les angles et sert aux cartes marines. Elle étire en revanche les régions proches des pôles, d'où l'illusion d'un Groenland aussi vaste que l'Afrique.",
+    "source": "D'après Wikipédia — Projection de Mercator"
+  },
+  {
+    "id": "q-geo-209",
+    "domain": "geo",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de la projection de Mercator dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Mercator trace des loxodromies sur un globe terrestre",
+        "annee": "1541"
+      },
+      {
+        "label": "Mercator publie sa carte du monde « à l'usage des navigateurs »",
+        "annee": "1569"
+      },
+      {
+        "label": "Edward Wright publie les premières tables précises",
+        "annee": "1599"
+      },
+      {
+        "label": "James Gregory démontre la formule exacte",
+        "annee": "1668"
+      },
+      {
+        "label": "Edmund Halley démontre à son tour la formule",
+        "annee": "1696"
+      }
+    ],
+    "explication": "Mercator place des loxodromies sur un globe en 1541, puis publie sa grande carte en 1569. Wright en publie les tables en 1599, et la formule mathématique est enfin démontrée par Gregory en 1668 puis par Halley en 1696.",
+    "source": "D'après Wikipédia — Projection de Mercator"
+  },
+  {
+    "id": "q-geo-210",
+    "domain": "geo",
+    "format": "difference",
+    "question": "Quelle est la différence entre un bassin versant ordinaire et un bassin endoréique ?",
+    "choix": [
+      "Dans un bassin endoréique, l'eau n'atteint jamais l'océan",
+      "Un bassin endoréique est toujours plus grand",
+      "Un bassin endoréique n'a pas de ligne de partage des eaux",
+      "Un bassin endoréique se trouve uniquement en montagne"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans un bassin endoréique, l'eau converge vers l'intérieur des terres : lac, désert ou point d'infiltration, comme pour la mer Caspienne. Ces bassins fermés couvrent environ 18 % des terres émergées.",
+    "source": "D'après Wikipédia — Bassin versant"
   }
 ]

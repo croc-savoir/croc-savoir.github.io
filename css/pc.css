@@ -81,13 +81,28 @@
   .home-hero__hello { display: block; font-size: 34px; margin: 0 0 6px; }
   .home-hero__subtitle { font-size: 16px; }
   .screen--home > .search-pill { display: none; }
-  .screen--home > .daily-card { grid-column: auto; margin-bottom: 16px; min-height: 150px; padding: 22px 24px; }
-  .screen--home > .daily-card .daily-card__title { font-size: 23px; }
-  .screen--home > .daily-card .daily-card__desc { font-size: 15px; }
-  .screen--home > .daily-card .daily-card__icon { font-size: 40px; width: 72px; height: 72px; }
-  .screen--home > .fact-card { grid-column: 1; margin-bottom: 16px; min-height: 150px; justify-content: space-between; }
+  .screen--home > .daily-card { grid-column: auto; margin-bottom: 16px; min-height: 190px; padding: 26px 28px; }
+  .screen--home > .daily-card .daily-card__title { font-size: 27px; }
+  .screen--home > .daily-card .daily-card__desc { font-size: 16px; }
+  .screen--home > .fact-card { grid-column: 1; margin-bottom: 16px; min-height: 190px; padding: 22px 26px 20px; justify-content: space-between; }
+  .screen--home > .fact-card .fact-card__text { font-size: 20px; -webkit-line-clamp: 5; }
+  .screen--home > .fact-card .fact-card__kicker, .screen--home > .fact-card .fact-card__src { font-size: 13px; }
   .home-choices { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
-  .home-card { min-height: 120px; }
+  .home-card { min-height: 112px; }
+  /* Cartes de l'accueil : emoji devant le titre, description dessous (comme sur la maquette) */
+  .screen--home :is(.daily-card, .home-card) { display: grid; grid-template-columns: auto 1fr auto; align-items: center; align-content: center; gap: 6px 10px; }
+  .screen--home :is(.daily-card__text, .home-card__text) { display: contents; }
+  .screen--home :is(.daily-card__icon, .home-card__icon) { width: auto; height: auto; font-size: 24px; line-height: 1; background: none; border: none; border-radius: 0; box-shadow: none; filter: none; }
+  html.style-cartoon .screen--home :is(.daily-card__icon, .home-card__icon) { width: auto; height: auto; font-size: 24px; filter: none; }
+  .screen--home .daily-card__title { font-size: 27px; }
+  .screen--home .home-card__title { font-size: 22px; }
+  .screen--home :is(.daily-card__desc, .home-card__desc) { grid-column: 1 / -1; font-size: 15px; }
+  .screen--home .daily-card__streak { grid-column: 3; grid-row: 1; }
+  .screen--home > .fact-card .fact-card__foot { justify-content: flex-start; }
+  /* Gros dessin en filigrane dans le coin des cartes de l'accueil */
+  .screen--home :is(.daily-card, .home-card) { position: relative; overflow: hidden; }
+  .screen--home .card-wm { display: block; position: absolute; right: -6px; bottom: -16px; font-size: 104px; line-height: 1; opacity: .26; transform: rotate(-10deg); pointer-events: none; }
+  .screen--home .home-card .card-wm { font-size: 84px; }
   .pc-themes { display: block; margin-top: 36px; }
   .pc-themes__title { font-family: var(--font-display); font-size: 24px; margin: 0 0 14px; }
   .home-footer { flex-direction: row; align-items: center; justify-content: space-between; margin-top: 32px; }

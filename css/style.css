@@ -1159,3 +1159,5 @@ html.style-cartoon :is(.topbar__logo, .home-hero__logo, .pc-nav__logo img) { fil
 .fact-card__src { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 13px; font-weight: 800; }
 .fact-card__go { flex: none; font-weight: 800; padding: 4px 10px; border-radius: 10px; background: #ffd24d; color: #171c2b; }
 @media (min-width: 1024px) { .fact-card__text { font-size: 17px; -webkit-line-clamp: 4; } .fact-card { padding: 16px 20px 14px; } }
+
+.card-wm { display: none; }

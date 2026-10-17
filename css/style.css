@@ -1125,14 +1125,21 @@ html.style-cartoon .logo-word__k { color: #e8302a; text-shadow: 0 .07em 0 #171c2
 html.style-cartoon .logo-word__s { color: #ffc61a; text-shadow: 0 .07em 0 #171c2b; }
 html.style-cartoon :is(.topbar__logo, .home-hero__logo, .pc-nav__logo img) { filter: drop-shadow(0 3px 5px rgba(0, 0, 0, .35)); }
 
-/* ===================== Accueil téléphone : Fiches et Quiz côte à côte, plus compacts ===================== */
+/* ===================== Accueil téléphone : cartes compactes (emoji devant le titre, description dessous) ===================== */
 @media (max-width: 1023px) {
-  .home-choices { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .home-choices { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; align-content: start; flex: 0 0 auto; }
   .home-card--dragon { grid-column: 1 / -1; }
-  .home-card--fiches, .home-card--quiz { display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 6px 10px; min-height: 0; padding: 14px 16px; }
-  .home-card--fiches .home-card__text, .home-card--quiz .home-card__text { display: contents; }
-  .home-card--fiches .home-card__icon, .home-card--quiz .home-card__icon { width: 30px; height: 30px; font-size: 22px; border-radius: 10px; }
-  .home-card--fiches .home-card__title, .home-card--quiz .home-card__title { font-size: 19px; }
-  .home-card--fiches .home-card__desc, .home-card--quiz .home-card__desc { grid-column: 1 / -1; font-size: 13px; }
-  html.style-cartoon :is(.home-card--fiches, .home-card--quiz) .home-card__icon { width: 30px; height: 30px; font-size: 22px; }
+  .daily-card { margin-bottom: 10px; }
+  .screen--home .daily-card, .screen--home .home-card {
+    display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 4px 8px;
+    align-content: start; min-height: 0; padding: 12px 14px; border-radius: 18px;
+  }
+  .screen--home .daily-card__text, .screen--home .home-card__text { display: contents; }
+  .screen--home :is(.daily-card__icon, .home-card__icon) {
+    width: auto; height: auto; font-size: 18px; line-height: 1; background: none; border: none; border-radius: 0; box-shadow: none; filter: none;
+  }
+  .screen--home :is(.daily-card__title, .home-card__title) { font-size: 17px; line-height: 1.2; }
+  .screen--home :is(.daily-card__desc, .home-card__desc) { grid-column: 1 / -1; font-size: 12.5px; line-height: 1.35; }
+  .screen--home .daily-card__streak { grid-column: 3; grid-row: 1; padding: 3px 8px; font-size: 13px; }
+  html.style-cartoon .screen--home :is(.daily-card__icon, .home-card__icon) { width: auto; height: auto; font-size: 18px; filter: none; }
 }

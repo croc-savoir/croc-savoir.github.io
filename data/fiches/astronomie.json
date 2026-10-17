@@ -3683,5 +3683,1214 @@
     },
     "source": "D'après Wikipédia — Décalage vers le rouge",
     "notoriete": 2
+  },
+  {
+    "id": "astronomie-102",
+    "domain": "astronomie",
+    "subtheme": "Système solaire",
+    "type": "classique",
+    "title": "Io",
+    "subtitle": "Lune de Jupiter, découverte en 1610 par Galilée",
+    "summary": "Io est la lune de Jupiter la plus proche de sa planète, et l'objet le plus actif sur le plan géologique du Système solaire : on y compte plus de 400 volcans actifs.\nSa surface, peinte de jaune, de rouge et de blanc par le soufre, est si jeune qu'on n'y voit presque aucun cratère. Le moteur de ce chaos : les marées que Jupiter lui impose, qui la pétrissent sans cesse.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un volcanisme record",
+          "texte": "Les volcans d'Io projettent des jets de soufre et de gaz sulfureux jusqu'à environ 500 km au-dessus de la surface, et des coulées de lave y dépassent 500 km de long. Quand Voyager 1 passe près d'elle en 1979, elle repère au moins neuf volcans en éruption, alors que les scientifiques s'attendaient plutôt à un monde criblé de cratères, comme la Lune ou Mercure."
+        },
+        {
+          "titre": "Pétrie par les marées",
+          "texte": "Io ne se réchauffe pas par radioactivité, mais par friction. Elle est en résonance avec Europe (deux tours d'Io pour un d'Europe) et Ganymède (quatre pour un), ce qui empêche son orbite de devenir parfaitement circulaire. Jupiter la déforme donc sans cesse, la bosse de marée pouvant varier jusqu'à 100 m, et cette friction fait fondre une partie de l'intérieur. Elles dépassent d'environ 20 000 fois celles que la Lune exerce sur la Terre."
+        },
+        {
+          "titre": "Un monde jeune, sec et dense",
+          "texte": "Io est faite de roche de silicate autour d'un cœur de fer liquide ou de pyrite. C'est la lune la plus dense du Système solaire et l'objet connu qui contient le moins d'eau. Les matériaux volcaniques enfouissent les cratères au fur et à mesure : sa surface a en moyenne moins d'un million d'années. Plus de 100 montagnes la hérissent, dont certaines dépassent l'Everest."
+        }
+      ],
+      "anecdotes": [
+        "Sur les images de Voyager 1, Io affichait tout un nuancier de jaune, de rouge, de blanc, de noir et de vert : on l'a parfois rapprochée d'une orange avariée, voire d'une pizza."
+      ],
+      "wikipedia": "Io (lune)"
+    },
+    "source": "D'après Wikipédia — Io (lune)"
+  },
+  {
+    "id": "astronomie-103",
+    "domain": "astronomie",
+    "subtheme": "Système solaire",
+    "type": "classique",
+    "title": "Europe",
+    "subtitle": "Lune de Jupiter, la plus petite des quatre lunes galiléennes",
+    "summary": "Europe est la plus petite des quatre grandes lunes de Jupiter, un peu plus petite que notre Lune. Sa surface de glace est la plus lisse de tous les objets connus du Système solaire.\nSous cette croûte se cacherait un océan d'eau salée d'environ 100 km de profondeur, maintenu liquide par les marées de Jupiter. C'est l'un des lieux les plus étudiés pour savoir si des conditions favorables à la vie ont pu exister ailleurs que sur Terre.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un océan sous la glace",
+          "texte": "Les variations du champ magnétique d'Europe, mesurées par Voyager et Galileo, suggèrent une couche conductrice sous la glace, probablement de l'eau salée. Selon le modèle favorisé par la plupart des géologues, la glace ferait de 10 à 30 km d'épaisseur au-dessus d'un océan d'environ 100 km. Elle renfermerait deux à trois fois plus d'eau que tous les océans de la Terre. Un modèle concurrent, moins populaire, se passe d'océan liquide."
+        },
+        {
+          "titre": "Une surface lisse et jeune",
+          "texte": "Europe a peu de cratères d'impact : sa surface n'aurait qu'environ 100 millions d'années, et elle est striée de fissures appelées lineae. Il y fait très froid, environ −183 °C en moyenne, si bien que la glace y est aussi dure que le granite. Le réchauffement par les marées, entretenu par la résonance avec Io et Ganymède, ferait bouger la glace, un peu comme une tectonique des plaques."
+        },
+        {
+          "titre": "Geysers et missions",
+          "texte": "En septembre 2016, la NASA a annoncé que le télescope Hubble avait observé des panaches de vapeur d'eau semblables à des geysers. Ils permettraient d'échantillonner l'océan sans forer la glace. Aucune sonde ne s'est jamais posée sur Europe : la mission Galileo (lancée en 1989, achevée en 2003) a fourni l'essentiel des données, avant JUICE en avril 2023 et Europa Clipper en octobre 2024."
+        }
+      ],
+      "anecdotes": [
+        "Le 7 janvier 1610, la lunette de Galilée ne parvenait pas à séparer Io et Europe : il les a notées comme un seul point lumineux. Ce n'est que la nuit suivante qu'il les a vues comme deux corps distincts."
+      ],
+      "wikipedia": "Europe (lune)"
+    },
+    "source": "D'après Wikipédia — Europe (lune)"
+  },
+  {
+    "id": "astronomie-104",
+    "domain": "astronomie",
+    "subtheme": "Système solaire",
+    "type": "classique",
+    "title": "Ganymède",
+    "subtitle": "Lune de Jupiter, la plus grande du Système solaire",
+    "summary": "Ganymède est la plus grande lune du Système solaire : avec 5 268 km de diamètre, elle dépasse même la planète Mercure. C'est aussi la seule lune connue à posséder son propre champ magnétique.\nUn océan caché sous sa glace renfermerait peut-être davantage d'eau que l'ensemble des océans terrestres.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Plus grande que Mercure",
+          "texte": "Ganymède est 8 % plus large que Mercure et 2 % plus large que Titan, la grande lune de Saturne. En 1979, les sondes Voyager ont montré qu'elle était plus grande que Titan, que l'on croyait jusque-là plus grosse. Faite de roche et de glace en proportions voisines, elle ne pèse pourtant que 45 % de la masse de Mercure."
+        },
+        {
+          "titre": "Un cœur de fer et un océan",
+          "texte": "Ganymède est un corps entièrement différencié, avec un noyau liquide riche en fer et un océan sous la glace de surface. Galileo y détecte un champ magnétique en 1996, lors du survol G1 ; l'annonce d'un océan interne ne vient qu'en 2001. Ce champ, probablement créé par convection dans le noyau, est englobé dans celui, bien plus puissant, de Jupiter."
+        },
+        {
+          "titre": "Deux visages",
+          "texte": "Un tiers de la surface est sombre, criblé de cratères et vieux d'environ quatre milliards d'années. Les deux tiers restants sont plus clairs, découpés par de larges rainures à peine plus jeunes. Leur origine reste mal connue : sans doute une activité tectonique liée aux marées, à une époque où l'orbite était plus excentrique. Aujourd'hui, ce réchauffement est négligeable. La mission JUICE doit s'en approcher à partir de décembre 2034."
+        }
+      ],
+      "anecdotes": [
+        "Selon les archives de l'astronomie chinoise, l'astronome Gan De aurait repéré une petite étoile rougeâtre près de Jupiter dès le IVe siècle av. J.-C., peut-être Ganymède, à l'œil nu, près de deux millénaires avant Galilée. La couleur rapportée intrigue pourtant : Ganymède est trop faible pour que l'œil en perçoive la teinte."
+      ],
+      "wikipedia": "Ganymède (lune)"
+    },
+    "source": "D'après Wikipédia — Ganymède (lune)"
+  },
+  {
+    "id": "astronomie-105",
+    "domain": "astronomie",
+    "subtheme": "Système solaire",
+    "type": "classique",
+    "title": "Triton",
+    "subtitle": "Plus grande lune de Neptune, découverte en 1846",
+    "summary": "Triton est la plus grande lune de Neptune, découverte en 1846 par l'astronome britannique William Lassell, seulement 17 jours après Neptune elle-même. C'est la seule grande lune du Système solaire à tourner dans le sens inverse de sa planète.\nCette particularité révèle son origine : Triton viendrait de la ceinture de Kuiper, capturée par Neptune. Sa surface d'azote gelé est jeune et traversée de geysers.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une orbite à contre-sens",
+          "texte": "Triton met 5 jours et 21 heures à faire le tour de Neptune, sur une orbite presque circulaire, mais à l'envers de la rotation de la planète. Les lunes nées autour d'une planète tournent dans le même sens qu'elle : Triton a donc été capturée ailleurs. Sa composition, proche de celle de Pluton, désigne la ceinture de Kuiper. Cette capture aurait bousculé les petites lunes d'origine de Neptune, ce qui expliquerait leur rareté."
+        },
+        {
+          "titre": "Un monde froid et actif",
+          "texte": "Avec environ 2 707 km de diamètre, Triton est plus grosse que Pluton et Éris. Sa croûte d'azote gelé est à environ −235 °C. Pourtant, des traces de geysers ont été repérées près du pôle sud. Les terrains vus par Voyager 2 en 1989, soit environ 40 % de la lune, comptent très peu de cratères : ils auraient moins d'une centaine de millions d'années, un clin d'œil à l'échelle géologique."
+        },
+        {
+          "titre": "Un destin d'anneau",
+          "texte": "Parce qu'elle tourne à contre-sens, Triton est freinée par les marées de Neptune et son orbite se resserre peu à peu. Selon les calculs classiques, elle atteindrait la limite de Roche, où les forces de marée la disloqueraient, d'ici 3,6 milliards d'années au plus, pour former un anneau comme ceux de Saturne. Une étude de 2025 repousse l'échéance à 28 milliards d'années."
+        }
+      ],
+      "anecdotes": [
+        "Lassell, brasseur de métier, fabriquait lui-même les miroirs de ses télescopes. Quand John Herschel lui a suggéré de chercher des lunes autour de Neptune, il a trouvé Triton après huit jours de recherches. Il avait cru voir aussi des anneaux : Neptune en a bien, mais ils sont si ténus que ce devait être un artefact de son télescope."
+      ],
+      "wikipedia": "Triton (lune)"
+    },
+    "source": "D'après Wikipédia — Triton (lune)"
+  },
+  {
+    "id": "astronomie-106",
+    "domain": "astronomie",
+    "subtheme": "Système solaire",
+    "type": "classique",
+    "title": "Phobos et Déimos",
+    "subtitle": "Les deux lunes de Mars, découvertes en 1877 par Asaph Hall",
+    "summary": "Phobos est la plus grande et la plus proche des deux lunes de Mars, l'autre étant Déimos. Elle ne survole Mars qu'à 6 000 km du sol, plus près de sa planète qu'aucune autre lune du Système solaire.\nPetit bloc sombre et irrégulier d'environ 27 km de long, elle se lève à l'ouest et se couche à l'est, deux fois par jour martien. Elle finira un jour par se disloquer.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une lune pressée",
+          "texte": "Phobos fait le tour de Mars en 7 h 39 min, bien plus vite que Mars ne tourne sur elle-même. Vue de Mars, elle se lève donc à l'ouest, traverse le ciel en 4 h 15 min au plus et se couche à l'est, deux fois par jour. Trop petite pour cacher entièrement le Soleil, elle ne provoque pas d'éclipse totale. Depuis les régions polaires, on ne la voit jamais : elle reste sous l'horizon."
+        },
+        {
+          "titre": "Un bloc sombre et poreux",
+          "texte": "Phobos mesure 27 × 21,6 × 18,8 km, trop peu pour s'arrondir sous sa propre gravité. Sombre, proche des astéroïdes de type C, elle est poreuse, à environ 30 %, et couverte d'une couche de poussière d'au moins 100 m. Son plus grand cratère, Stickney, rappelle le nom de jeune fille de l'épouse d'Asaph Hall, qui a découvert la lune en 1877. L'impact qui l'a creusé aurait presque pu la briser."
+        },
+        {
+          "titre": "Un avenir en anneau",
+          "texte": "Les marées abaissent l'orbite de Phobos d'environ 1,8 m par siècle. Dans 20 à 40 millions d'années, elle devrait se disloquer et former un anneau autour de Mars. L'origine des deux lunes reste discutée : astéroïdes capturés, ou restes de la collision de Mars avec un corps plus petit, l'hypothèse aujourd'hui privilégiée. Phobos et Déimos sont, dans la mythologie grecque, les jumeaux d'Arès : « peur » et « terreur »."
+        }
+      ],
+      "anecdotes": [
+        "En 1727, dans son roman Voyage à Laputa, Jonathan Swift affirme que Mars possède deux lunes et en donne même les périodes, inexactes, environ cent cinquante ans avant leur découverte. Aujourd'hui, plusieurs formations de Phobos portent des noms tirés de cette œuvre, comme Laputa Regio."
+      ],
+      "wikipedia": "Phobos (lune)"
+    },
+    "source": "D'après Wikipédia — Phobos (lune)"
+  },
+  {
+    "id": "astronomie-107",
+    "domain": "astronomie",
+    "subtheme": "Système solaire",
+    "type": "classique",
+    "title": "Olympus Mons",
+    "subtitle": "Volcan bouclier de Mars, l'un des plus hauts reliefs du Système solaire",
+    "summary": "Olympus Mons est un volcan bouclier de Mars, parmi les reliefs les plus élevés connus du Système solaire : il culmine à 21 229 m d'altitude par rapport au niveau de référence de Mars, soit environ 2,5 fois la hauteur de l'Everest.\nSes pentes sont pourtant si douces qu'on ne sentirait pas gravir une montagne. Il couvre une surface comparable à celle de l'Italie.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un géant tout plat",
+          "texte": "Large d'environ 600 km, Olympus Mons s'est construit par l'empilement de laves très fluides, comme le Mauna Loa à Hawaï, mais en bien plus grand. Ses pentes ne dépassent pas 5 degrés en moyenne. Au sommet, une caldeira de 80 × 60 km résulte de la réunion d'au moins six cratères. Une falaise de 2 à 6 km de haut ceinture tout l'édifice, et son origine reste débattue."
+        },
+        {
+          "titre": "Pourquoi si haut ?",
+          "texte": "Sur Mars, il n'y a pas de tectonique des plaques : la croûte reste immobile au-dessus du point chaud, qui peut alimenter le même volcan pendant des milliards d'années. Sur Terre, les plaques se déplacent et donnent plutôt un chapelet de volcans, comme Hawaï, dont chacun n'est actif que quelques millions d'années. La faible gravité et une érosion moins forte aident aussi à monter haut."
+        },
+        {
+          "titre": "Éteint ou endormi ?",
+          "texte": "En 2004, la sonde Mars Express a repéré sur ses flancs des coulées de lave vieilles d'à peine 2 millions d'années, ce qui laisse penser que le volcan pourrait encore être actif, très discrètement. Le volcan lui-même se serait formé voilà plus de 3,8 milliards d'années. Sa nature volcanique ne s'est révélée qu'au début des années 1970, grâce aux images de la sonde Mariner 9."
+        }
+      ],
+      "anecdotes": [
+        "Avant les sondes, les astronomes y voyaient une tache claire que Giovanni Schiaparelli a baptisée Nix Olympica, « la neige de l'Olympe ». Il ne s'agissait pas de neige, mais de nuages de glace carbonique collés au sommet."
+      ],
+      "wikipedia": "Olympus Mons"
+    },
+    "source": "D'après Wikipédia — Olympus Mons"
+  },
+  {
+    "id": "astronomie-108",
+    "domain": "astronomie",
+    "subtheme": "Système solaire",
+    "type": "classique",
+    "title": "Grande tache rouge",
+    "subtitle": "Gigantesque tempête de l'atmosphère de Jupiter",
+    "summary": "La Grande Tache rouge est un immense anticyclone dans l'atmosphère de Jupiter, à environ 22° de latitude sud. Plus grosse que la Terre, c'est une tempête dont les vents soufflent à plusieurs centaines de kilomètres à l'heure.\nElle rétrécit depuis un siècle, et personne ne sait si elle finira par disparaître.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une tempête qui rétrécit",
+          "texte": "Au XIXe siècle finissant, la tache s'étendait sur environ 40 000 km, au-delà de trois fois la largeur de la Terre. En 1979, Voyager 1 et 2 l'ont trouvée à environ 25 000 km. En 2017, elle mesurait environ 16 350 km de large, soit 1,3 fois la Terre. Les scientifiques ignorent s'il s'agit d'une tendance menant à sa disparition ou d'une fluctuation normale."
+        },
+        {
+          "titre": "Pourquoi dure-t-elle si longtemps ?",
+          "texte": "Sur Terre, un anticyclone ne dure que quelques dizaines de jours. Sur Jupiter, aucune surface solide ne freine la tempête par frottement, et elle absorbe les petits tourbillons voisins, source d'énergie. Elle tourne dans le sens anti-horaire, coincée entre deux courants-jets opposés. Le sommet de ses nuages dépasse de plus de 8 km les nuages environnants."
+        },
+        {
+          "titre": "Une identité mystérieuse",
+          "texte": "Le nom de « Grande Tache rouge » date d'environ 1878, quand la couleur était nettement rouge ; elle est passée au brun, puis à l'orange depuis 2014, sans explication certaine. Une réaction chimique sous les ultraviolets ou des décharges électriques sont envisagées. En 2021, les données de la sonde Juno ont montré qu'elle a moins de 500 km d'épaisseur. Depuis 2000, elle a une petite sœur, Oval BA, surnommée Red Spot Junior."
+        }
+      ],
+      "anecdotes": [
+        "Un tableau de 1711 de Donato Creti, conservé au Vatican, montre Jupiter avec une grande tache rouge : c'est la première représentation connue d'une telle tache en rouge. Aucun texte ne décrivait pourtant de tache rouge sur Jupiter avant la fin du XIXe siècle."
+      ],
+      "wikipedia": "Grande Tache rouge"
+    },
+    "source": "D'après Wikipédia — Grande Tache rouge"
+  },
+  {
+    "id": "astronomie-109",
+    "domain": "astronomie",
+    "subtheme": "Système solaire",
+    "type": "classique",
+    "title": "Halley",
+    "subtitle": "La plus célèbre des comètes, de retour tous les 76 ans environ",
+    "summary": "La comète de Halley est la plus célèbre des comètes. Elle revient près du Soleil tous les 76 ans environ. Son dernier passage date de 1986 et le prochain est attendu en 2061.\nEdmond Halley a compris vers 1700 que les comètes apparues en 1531, 1607 et 1682 n'étaient qu'un seul astre, et il a annoncé son retour.",
+    "details": {
+      "sections": [
+        {
+          "titre": "La prédiction qui a convaincu",
+          "texte": "En 1705, Halley publie que les comètes de 1531, 1607 et 1682 sont une seule, sur une orbite elliptique de 76 ans, et prédit son retour en 1758. En 1757, Lalande et Nicole-Reine Lepaute calculent que Jupiter et Saturne la retarderont. Elle est repérée en décembre 1758 et passe au plus près du Soleil le 13 mars 1759. Ce succès consacre la théorie de Newton."
+        },
+        {
+          "titre": "Plus de deux millénaires d'histoire",
+          "texte": "Les Chinois la mentionnent dès 611 av. J.-C. et des tablettes babyloniennes de 164 av. J.-C. en gardent la trace. En 1066, elle figure sur la tapisserie de Bayeux, comme présage avant la victoire de Guillaume le Conquérant. Lors du passage de 1910, beaucoup crurent que la Terre allait traverser sa queue et que ce serait la fin du monde : cela ne s'est pas produit."
+        },
+        {
+          "titre": "Vue de près en 1986",
+          "texte": "Quatre sondes l'ont survolée : Vega 1 et 2 soviétiques, Giotto européenne et Suisei japonaise. Giotto est passée à 600 km du noyau, un bloc en forme de cacahuète d'environ 16 × 8 × 7 km, et y a vu deux gros geysers de gaz. Elle doit son nom au peintre Giotto, qui a peint vers 1304-1305 une fresque où l'étoile des mages porte une queue de comète."
+        }
+      ],
+      "anecdotes": [
+        "L'écrivain Mark Twain est né en 1835, deux semaines après un passage de la comète. En 1909, il disait être venu au monde avec elle et s'attendre à repartir avec elle à son retour, l'année suivante. Il est mort un jour après ce passage."
+      ],
+      "wikipedia": "Comète de Halley"
+    },
+    "source": "D'après Wikipédia — Comète de Halley"
+  },
+  {
+    "id": "astronomie-110",
+    "domain": "astronomie",
+    "subtheme": "Système solaire",
+    "type": "classique",
+    "title": "Comète Shoemaker-Levy 9",
+    "subtitle": "Comète brisée qui s'est écrasée sur Jupiter en juillet 1994",
+    "summary": "Shoemaker-Levy 9 est une comète qui s'est disloquée près de Jupiter, puis s'est écrasée sur elle entre le 16 et le 22 juillet 1994. Ce fut la première collision directe observée entre deux objets du Système solaire.\nLes cicatrices laissées dans l'atmosphère de Jupiter étaient plus visibles que la Grande Tache rouge et ont duré plusieurs mois.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une comète captive",
+          "texte": "Elle est découverte le 24 mars 1993 par Carolyn et Eugene Shoemaker et David Levy, sur une photographie du télescope du Mont Palomar. Elle est étrange : plusieurs noyaux alignés. Elle ne tourne pas autour du Soleil mais de Jupiter, la première comète vue en orbite autour d'une planète, capturée vingt à trente ans plus tôt. Son nom indique la neuvième comète périodique découverte par le trio."
+        },
+        {
+          "titre": "Brisée par les marées",
+          "texte": "Le 7 juillet 1992, elle passe à un peu plus de 40 000 km des nuages de Jupiter, dans sa limite de Roche, où les forces de marée peuvent rompre un corps que seule sa gravité maintient. Elle se fragmente en morceaux allant jusqu'à environ 2 km de diamètre, désignés par des lettres, de A à W. Les calculs montrent vite que ces fragments vont percuter la planète en juillet 1994."
+        },
+        {
+          "titre": "Le choc de juillet 1994",
+          "texte": "Le fragment A frappe l'hémisphère sud le 16 juillet, à environ 60 km/s, et la sonde Galileo détecte une boule de feu. En six jours, 21 impacts sont enregistrés ; le fragment G, le 18 juillet, laisse une tache sombre de plus de 12 000 km de large. Les impacts ont lieu sur la face cachée de Jupiter, mais sa rotation rapide les montre à la Terre quelques minutes plus tard."
+        }
+      ],
+      "anecdotes": [
+        "D'autres astronomes avaient photographié la comète avant l'équipe Shoemaker-Levy, mais n'avaient pas réalisé ce qu'ils avaient sur leurs images. Sa découverte était d'ailleurs un hasard : le trio cherchait en réalité des objets proches de la Terre."
+      ],
+      "wikipedia": "Shoemaker-Levy 9"
+    },
+    "source": "D'après Wikipédia — Shoemaker-Levy 9"
+  },
+  {
+    "id": "astronomie-111",
+    "domain": "astronomie",
+    "subtheme": "Système solaire",
+    "type": "classique",
+    "title": "Éruption solaire",
+    "subtitle": "Libération soudaine d'énergie magnétique dans l'atmosphère du Soleil",
+    "summary": "Une éruption solaire est une libération brutale d'énergie magnétique dans l'atmosphère du Soleil, qui émet des rayonnements sur tout le spectre, des ondes radio aux rayons gamma. On parle souvent, à tort, de « tempête solaire ».\nLeur nombre suit un cycle d'environ 11 ans : plusieurs par jour près du maximum, moins d'une par semaine quand l'activité est au plus bas.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Énergie magnétique et classes",
+          "texte": "Les éruptions naissent dans des zones où le champ magnétique est intense. L'énergie s'y accumule puis se libère en quelques minutes, probablement par reconnexion magnétique, et accélère des particules. On les classe A, B, C, M et X d'après leurs rayons X mesurés près de la Terre : chaque lettre vaut dix fois la précédente, et X2 est le double de X1. La plus forte jamais enregistrée, le 4 novembre 2003, était estimée à X28."
+        },
+        {
+          "titre": "Des effets sur Terre",
+          "texte": "Les rayons X et ultraviolets perturbent les transmissions radio. Les éjections de masse coronale, elles, provoquent des orages magnétiques qui peuvent endommager des satellites et induire des courants dans les lignes électriques. Le 13 mars 1989, tout le Québec s'est retrouvé sans électricité pendant plus de neuf heures. En 2003, d'autres orages ont fait dévier des avions et coupé le courant environ une heure en Suède."
+        },
+        {
+          "titre": "Carrington et Miyake",
+          "texte": "L'éruption de 1859, observée notamment par l'astronome britannique Richard Carrington, est probablement la plus puissante des 200 dernières années : aurores visibles jusque dans certaines régions tropicales, décharges dans les lignes de télégraphe. Plus ancienne encore, une tempête vers 775, 10 à 100 fois plus puissante, a été révélée en 2012 par trop de carbone 14 piégé dans les cernes d'arbres."
+        }
+      ],
+      "anecdotes": [
+        "Le 23 juillet 2012, la Terre a échappé à une gigantesque tempête solaire, a annoncé la NASA en 2014. Une telle perturbation, jamais vue depuis 1859, aurait pu, selon la NASA, ramener notre civilisation au XVIIIe siècle, pour un coût supérieur à 2 000 milliards de dollars."
+      ],
+      "wikipedia": "Éruption solaire"
+    },
+    "source": "D'après Wikipédia — Éruption solaire"
+  },
+  {
+    "id": "astronomie-112",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Proxima du Centaure",
+    "subtitle": "Naine rouge, l'étoile la plus proche du Soleil",
+    "summary": "Proxima du Centaure est l'étoile la plus proche du Soleil, à environ 4,2 années-lumière. C'est une petite naine rouge, très peu lumineuse et invisible à l'œil nu, découverte en 1915.\nElle possède au moins deux planètes, dont Proxima b, qui orbite dans sa zone habitable, mais l'étoile est turbulente et lance de violentes éruptions.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une naine rouge discrète",
+          "texte": "Proxima a une masse d'environ un huitième de celle du Soleil et un diamètre d'environ un septième, soit 1,5 fois celui de Jupiter. Elle ne rayonne que 0,17 % de la puissance du Soleil, surtout en infrarouge, d'où sa faible magnitude (11,05), hors de portée de l'œil nu. Découverte en 1915 par Robert Innes, à Johannesbourg, elle a reçu son nom de lui en 1917 : « la plus proche du Centaure »."
+        },
+        {
+          "titre": "Un trio d'étoiles",
+          "texte": "Proxima appartient au système Alpha Centauri, avec le couple central A et B, d'où son surnom d'Alpha Centauri C. Elle est à environ 13 000 unités astronomiques de ce couple et met plus d'un demi-million d'années à en faire le tour. Elle est l'étoile la plus proche du Soleil depuis 32 000 ans et le restera encore 33 000 ans, avant que Ross 248 ne prenne sa place."
+        },
+        {
+          "titre": "Des planètes sous les éruptions",
+          "texte": "Proxima b, révélée le 24 août 2016 par l'ESO (Observatoire européen austral), a une masse minimale proche de celle de la Terre et orbite dans la zone habitable, où l'eau liquide serait possible. Mais l'étoile est éruptive, avec un champ magnétique permanent : l'habitabilité de la planète reste très incertaine. Une planète d, très légère, tourne en 5 jours et a été confirmée en 2025 ; une planète c reste candidate."
+        }
+      ],
+      "anecdotes": [
+        "Dans un avenir très lointain, Proxima devrait rester au moins 1 000 milliards d'années sur la séquence principale. Elle deviendra peu à peu plus petite et plus chaude, sa couleur passant du rouge au bleu, avant de finir en naine blanche sans jamais passer par la phase de géante rouge."
+      ],
+      "wikipedia": "Proxima Centauri"
+    },
+    "source": "D'après Wikipédia — Proxima Centauri"
+  },
+  {
+    "id": "astronomie-113",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Véga",
+    "subtitle": "Étoile de la Lyre, à environ 25 années-lumière",
+    "summary": "Véga domine la constellation de la Lyre par son éclat et se classe cinquième du ciel nocturne. Située à environ 25 années-lumière, c'est une étoile blanc-bleuté, plus chaude et plus massive que le Soleil.\nElle a joué un rôle majeur dans l'histoire de l'astronomie : première étoile photographiée, et longtemps point de référence de l'échelle de luminosité.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une étoile de premières fois",
+          "texte": "Le 17 juillet 1850, Véga est la première étoile, Soleil excepté, à être photographiée, par daguerréotype, à l'observatoire de Harvard. En août 1872, elle fournit la première photographie du spectre d'une étoile montrant des raies d'absorption, ce qui contredit Auguste Comte, pour qui la composition des étoiles resterait à jamais inaccessible. Von Struve s'en sert aussi pour une des premières mesures de parallaxe, proche de la valeur actuelle."
+        },
+        {
+          "titre": "Le zéro de l'échelle",
+          "texte": "Plus une étoile est brillante, plus sa magnitude est petite. Les astronomes ont choisi Véga comme référence : sa magnitude, très proche de zéro (0,026), a été fixée à zéro quelle que soit la longueur d'onde. Elle a servi à étalonner les mesures de luminosité et, dans les années 1950, à définir le système photométrique UBV. Aujourd'hui, on utilise plutôt un flux numérique, car Véga n'est pas toujours observable."
+        },
+        {
+          "titre": "Une étoile aplatie",
+          "texte": "Véga tourne très vite, en 12 à 16 heures environ, contre 27 jours pour le Soleil. Elle est donc renflée à l'équateur, dont le rayon dépasse de 23 % le rayon polaire, et plus chaude aux pôles (près de 10 000 K) qu'à l'équateur (7 600 K). Nous la voyons presque par un pôle, ce qui la fait paraître plus brillante. En 1983, le satellite IRAS y a découvert un disque de poussières, une première autour d'une étoile."
+        }
+      ],
+      "anecdotes": [
+        "À cause de la précession des équinoxes, Véga était l'étoile polaire vers le 12e millénaire av. J.-C. et le redeviendra dans environ 11 700 ans, même si aucun document préhistorique ne prouve qu'elle ait servi à s'orienter.",
+        "Son nom vient de l'arabe an-nasr al-wāqi', « l'aigle qui tombe »."
+      ],
+      "wikipedia": "Véga"
+    },
+    "source": "D'après Wikipédia — Véga"
+  },
+  {
+    "id": "astronomie-114",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Naine blanche",
+    "subtitle": "Cœur résiduel d'une étoile de masse modérée",
+    "summary": "Une naine blanche est le résidu d'une étoile de masse modérée, comme le Soleil, qui a cessé ses réactions de fusion. Elle concentre à peu près la masse du Soleil dans un volume comparable à celui de notre planète.\nSa matière est si dense qu'elle pèse environ une tonne par centimètre cube. Elle attend 96 % des étoiles de la Voie lactée.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Un cœur mis à nu",
+          "texte": "Quand une étoile de masse modérée a épuisé son carburant, ses couches externes sont expulsées et forment une nébuleuse planétaire. Le cœur qui reste est une naine blanche. Elle ne fusionne plus rien et brille de sa chaleur résiduelle, qui peut dépasser 100 000 kelvins au départ. Sa surface minuscule la fait refroidir très lentement. À très long terme, elle deviendra une naine noire, dont aucune n'existerait encore."
+        },
+        {
+          "titre": "La limite de Chandrasekhar",
+          "texte": "Une naine blanche tient debout grâce à un effet quantique, la pression de dégénérescence des électrons. Elle ne peut pas dépasser environ 1,4 masse solaire : c'est la limite calculée en 1931 par Subrahmanyan Chandrasekhar, Nobel de physique en 1983. Si une naine blanche voisine d'une autre étoile atteint cette masse, par accrétion ou par collision, elle explose en supernova de type Ia."
+        },
+        {
+          "titre": "Une découverte en plusieurs temps",
+          "texte": "La première connue est 40 Eridani B, repérée en 1783 par William Herschel. En 1910, Russell, Pickering et Fleming constatent qu'elle est blanche, donc chaude, alors qu'elle est très faible : une incohérence. Sirius B, dont Bessel avait prédit l'existence en 1844, est vue le 31 janvier 1862 par Alvan Graham Clark. Le nom « naine blanche » date de 1922. Grâce au satellite Gaïa, plus de 200 000 sont connues à distance précise."
+        }
+      ],
+      "anecdotes": [
+        "En 1927, Arthur Eddington racontait que le message de la compagne de Sirius, une fois décodé, disait : « Je suis faite d'une matière 3 000 fois plus dense que tout ce que vous connaissez ; une tonne de ma matière tiendrait dans une boîte d'allumettes. » La réponse de la plupart des astronomes en 1914 : « Taisez-vous. Ne dites pas de bêtises. »"
+      ],
+      "wikipedia": "Naine blanche"
+    },
+    "source": "D'après Wikipédia — Naine blanche"
+  },
+  {
+    "id": "astronomie-115",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Étoile à neutrons",
+    "subtitle": "Cœur effondré d'une étoile massive après une supernova",
+    "summary": "Une étoile à neutrons est le cœur effondré d'une étoile massive, après son explosion en supernova. Elle concentre environ 1,4 fois la masse du Soleil dans une boule de quelques dizaines de kilomètres de diamètre seulement.\nSurpassée en densité par les seuls trous noirs, elle est faite presque uniquement de neutrons.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Naissance dans une supernova",
+          "texte": "Quand le cœur d'une étoile massive, de 8 à 40 masses solaires, ne contient plus que du fer, qui ne peut plus fusionner, la pression ne compense plus la gravité. Le cœur s'effondre, ses constituants se transforment en neutrons et les couches externes sont éjectées en supernova. L'effondrement s'arrête quand la répulsion de l'interaction forte entre les nucléons équilibre la gravité."
+        },
+        {
+          "titre": "Un monstre de densité",
+          "texte": "Une étoile à neutrons a une masse volumique d'environ mille milliards de tonnes dans chaque litre : une boîte d'allumettes de sa matière pèserait environ 3 milliards de tonnes. Sa gravité est si forte que les montagnes ne dépassent pas quelques centimètres de hauteur. Elle naît en tournant très vite, avec un champ magnétique intense. Son cœur reste mal connu et pourrait contenir des formes de matière exotiques."
+        },
+        {
+          "titre": "Phares et ondes gravitationnelles",
+          "texte": "Si elle tourne vite avec un fort champ magnétique, elle émet un faisceau tournant comme un phare : c'est un pulsar. Plus de 2 700 pulsars étaient connus en 2019, sur près de 3 000 étoiles à neutrons répertoriées. En 2017, la fusion de deux étoiles à neutrons, GW170817, a été détectée grâce aux ondes gravitationnelles."
+        }
+      ],
+      "anecdotes": [
+        "Dès 1934, Walter Baade et Fritz Zwicky ont l'intuition que la naissance d'une étoile à neutrons libérerait une énergie colossale, qui donnerait l'illusion d'un astre nouveau. Ils proposent le terme « super-nova », par opposition à la nova, bien moins énergétique : le mot deviendra « supernova »."
+      ],
+      "wikipedia": "Étoile à neutrons"
+    },
+    "source": "D'après Wikipédia — Étoile à neutrons"
+  },
+  {
+    "id": "astronomie-116",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Géante rouge",
+    "subtitle": "Étoile gonflée, en fin de vie",
+    "summary": "Une géante rouge est une étoile de masse faible ou intermédiaire, de 0,3 à 8 masses solaires, arrivée à un stade tardif de sa vie : elle a épuisé l'hydrogène de son cœur et gonfle jusqu'à des dizaines, voire des centaines de fois le rayon du Soleil.\nSa surface se refroidit et rougit. Le Soleil passera lui aussi par cette phase.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Comment une étoile gonfle",
+          "texte": "Quand l'hydrogène du cœur est épuisé, celui-ci se contracte et s'échauffe, et la fusion de l'hydrogène reprend dans une coquille autour de lui. Les couches externes absorbent l'énergie et se dilatent énormément. En grossissant, la surface se refroidit, à 3 000-4 000 K, et devient orange-rouge. Une telle étoile peut atteindre environ 200 fois le rayon du Soleil et près de 3 000 fois sa luminosité."
+        },
+        {
+          "titre": "Flash de l'hélium et fin",
+          "texte": "Dans une étoile comme le Soleil, le cœur devient si dense que la fusion de l'hélium en carbone s'y déclenche presque partout en même temps : c'est le flash de l'hélium. Plus tard, l'étoile éjecte ses couches externes en nébuleuse planétaire, et son noyau devient une naine blanche. Pour une étoile de masse solaire, la phase de géante rouge ne dure qu'environ un milliard d'années, contre 10 milliards sur la séquence principale."
+        },
+        {
+          "titre": "Un géant sans bord net",
+          "texte": "L'enveloppe d'une géante rouge est si peu dense que l'étoile n'a pas de surface bien délimitée, contrairement à beaucoup d'illustrations. Sa photosphère ne compte que quelques grandes cellules de convection, contre des multitudes de granules sur le Soleil, ce qui explique ses variations d'éclat. Arcturus, à 36 années-lumière, est une géante rouge. Elles ont été reconnues au début du XXe siècle grâce au diagramme de Hertzsprung-Russell."
+        }
+      ],
+      "anecdotes": [
+        "Les astrophysiciens parlent de « principe du miroir » : quand le cœur de l'étoile se contracte, les couches situées au-dessus de la coquille de fusion se dilatent. L'étoile se resserre en son centre pendant qu'elle gonfle à l'extérieur."
+      ],
+      "wikipedia": "Géante rouge"
+    },
+    "source": "D'après Wikipédia — Géante rouge"
+  },
+  {
+    "id": "astronomie-117",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Céphéide",
+    "subtitle": "Étoile variable pulsante, étalon des distances cosmiques",
+    "summary": "Une céphéide est une étoile géante ou supergéante jaune dont l'éclat varie de façon très régulière, sur quelques jours à quelques semaines. Son nom vient de δ Cephei, dans la constellation de Céphée.\nSon secret : plus elle brille, plus sa période est longue. Cette règle en fait un étalon pour mesurer les distances dans l'Univers.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une étoile qui pulse",
+          "texte": "Une céphéide se contracte et se dilate en alternance : sa couche externe pulse, et sa température change, ce qui fait varier l'éclat. Le moteur de ces pulsations est l'hélium de l'atmosphère : plus opaque quand il est doublement ionisé, il retient la chaleur et fait gonfler l'étoile, puis, redevenu transparent, il la laisse refroidir et retomber. Les céphéides pèsent de 4 à 15 fois le Soleil et brillent de 100 à 30 000 fois plus."
+        },
+        {
+          "titre": "La règle de Leavitt",
+          "texte": "Vers 1908-1912, Henrietta Leavitt étudie des milliers d'étoiles variables des nuages de Magellan et constate que les plus brillantes ont les périodes les plus longues. Les étoiles d'un même nuage étant à peu près à la même distance, leurs éclats se comparent directement. Une fois la distance de quelques céphéides connue, mesurer la période d'une autre donne sa vraie luminosité, et comparée à son éclat apparent, sa distance."
+        },
+        {
+          "titre": "Des jalons cosmiques",
+          "texte": "En 1924, Edwin Hubble établit la distance de céphéides dans la « nébuleuse » d'Andromède : elles sont hors de la Voie lactée, donc d'autres galaxies existent. En 1929, Hubble et Milton Humason associent distances de céphéides et vitesses de fuite de galaxies, et découvrent l'expansion de l'Univers. Le télescope Hubble les détecte jusqu'à environ 80 millions d'années-lumière, ce qui sert à fixer la constante de Hubble."
+        }
+      ],
+      "anecdotes": [
+        "L'étoile Polaire est une céphéide, jusqu'en 1994 au moins : depuis, son éclat reste stable, sans que l'on sache pourquoi."
+      ],
+      "wikipedia": "Céphéide"
+    },
+    "source": "D'après Wikipédia — Céphéide"
+  },
+  {
+    "id": "astronomie-118",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Nébuleuse d'Orion",
+    "subtitle": "Nébuleuse diffuse, la pouponnière d'étoiles la plus proche de nous",
+    "summary": "La nébuleuse d'Orion, ou M42, est un immense nuage de gaz où naissent des étoiles. Elle se trouve à environ 1 350 années-lumière, c'est la zone de naissance d'étoiles la plus proche de chez nous.\nOn la devine à l'œil nu sous la ceinture d'Orion, dans l'« épée » du chasseur : une petite tache floue qui devient spectaculaire aux jumelles.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une pouponnière d'étoiles",
+          "texte": "Cette nébuleuse s'étend sur environ 24 années-lumière. Elle brille grâce aux étoiles très jeunes et très chaudes qui viennent d'y naître, notamment celles de l'amas du Trapèze : leur rayonnement fait scintiller l'hydrogène environnant. Elle n'est que la partie la plus visible d'un nuage bien plus vaste, qui couvre près de la moitié de la constellation d'Orion et contient aussi la nébuleuse de la Tête de Cheval."
+        },
+        {
+          "titre": "Une longue histoire d'observation",
+          "texte": "En 1610, Nicolas-Claude Fabri de Peiresc est le premier à remarquer son aspect diffus. En 1659, Christiaan Huygens en publie le premier dessin détaillé. Charles Messier l'observe en 1769 et la range en 42e position dans son catalogue, d'où le nom M42. En 1880, Henry Draper en tire la première photographie d'une nébuleuse de l'histoire, avec une pose de 51 minutes."
+        },
+        {
+          "titre": "Un laboratoire pour les astronomes",
+          "texte": "Depuis 1993, le télescope spatial Hubble la photographie régulièrement. Ses images ont permis de bâtir un modèle en trois dimensions de la nébuleuse et de voir des disques de matière autour de la plupart des jeunes étoiles. En 2023, le télescope James Webb y a détecté une molécule, le méthylium, l'une des briques de la vie. En 2025, ALMA et Webb ont même photographié une planète en formation autour de la protoétoile HOPS 315."
+        }
+      ],
+      "anecdotes": [
+        "Au début du XXe siècle, la lueur verdâtre de la nébuleuse intriguait les astronomes : aucune raie lumineuse connue ne l'expliquait. Certains ont imaginé un nouvel élément, baptisé « nébulium ». En réalité, il s'agissait d'une transition « interdite » de l'oxygène deux fois ionisé, impossible à reproduire en laboratoire à l'époque, car elle exige le vide presque parfait de l'espace."
+      ],
+      "wikipedia": "Nébuleuse d'Orion"
+    },
+    "source": "D'après Wikipédia — Nébuleuse d'Orion"
+  },
+  {
+    "id": "astronomie-119",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Nébuleuse du Crabe",
+    "subtitle": "Rémanent de la supernova de 1054, dans la constellation du Taureau",
+    "summary": "La nébuleuse du Crabe (M1) est le reste d'une étoile massive qui a explosé en supernova. Des astronomes chinois ont observé cette « étoile invitée » en 1054 : elle est restée visible en plein jour pendant 23 jours.\nAu centre bat un pulsar, une étoile à neutrons qui tourne environ trente fois par seconde. La nébuleuse mesure environ 10 années-lumière et se trouve à environ 6 300 années-lumière de nous.",
+    "details": {
+      "sections": [
+        {
+          "titre": "L'étoile invitée de 1054",
+          "texte": "Les chroniques chinoises, et sans doute japonaises et arabes, notent en 1054 l'apparition d'une étoile nouvelle. Au maximum, en juillet, elle éclipse tout le ciel nocturne sauf la Lune. Au XXe siècle, des photos prises à quelques années d'intervalle montrent que la nébuleuse grossit : en remontant le temps, on tombe sur environ 900 ans plus tôt. C'est le premier astre relié à une supernova historique."
+        },
+        {
+          "titre": "Un pulsar au cœur",
+          "texte": "Au centre se trouve le pulsar du Crabe, une étoile à neutrons d'environ 30 km de diamètre qui émet une impulsion toutes les 33 millisecondes. Son rayonnement total équivaut à quelque 200 000 Soleils. Sa découverte, en 1968, fut décisive : elle a montré que les pulsars sont des étoiles à neutrons issues de supernovas, et non des signaux envoyés par des extraterrestres, comme certains l'avaient envisagé."
+        },
+        {
+          "titre": "D'où vient son nom",
+          "texte": "Le nom date des années 1840. William Parsons, comte de Rosse, observe la nébuleuse depuis le château de Birr avec un télescope de 91 cm et en fait un dessin dont les bras évoquent un crabe. En 1848, avec un télescope plus grand, de 1,8 m, il ne retrouve plus la ressemblance, mais le nom est resté. En 2003, ses rayons X ont même servi à mesurer l'épaisseur de l'atmosphère de Titan, quand la lune de Saturne est passée devant."
+        }
+      ],
+      "anecdotes": [
+        "En 1758, Charles Messier cherche dans le Taureau la comète de Halley, dont le retour est attendu. Il repère une tache floue et croit d'abord l'avoir trouvée, mais l'objet ne bouge pas dans le ciel. Pour ne plus confondre comètes et nébuleuses, il décide de dresser un catalogue d'objets fixes : la nébuleuse du Crabe en devient la toute première entrée, M1."
+      ],
+      "wikipedia": "Nébuleuse du Crabe"
+    },
+    "source": "D'après Wikipédia — Nébuleuse du Crabe"
+  },
+  {
+    "id": "astronomie-120",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Galaxie spirale",
+    "subtitle": "Un disque d'étoiles en forme de tourbillon, comme la Voie lactée",
+    "summary": "Une galaxie spirale est un immense disque aplati qui rassemble parfois des centaines de milliards d'étoiles, ainsi que du gaz et des poussières. Au centre se trouve un renflement lumineux, le bulbe, et des bras s'enroulent autour comme un tourbillon.\nNotre Voie lactée en est une, avec une barre d'étoiles en son centre. Avec les irrégulières, ces galaxies forment environ 60 % de celles de l'Univers actuel.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Anatomie d'un tourbillon",
+          "texte": "Les bras du disque contiennent les étoiles jeunes, chaudes et bleues, et c'est là que naissent sans cesse de nouvelles étoiles. Le bulbe central rassemble surtout des étoiles plus âgées, et un halo discret, parsemé d'amas globulaires, enveloppe l'ensemble. Le diamètre va souvent de 50 000 à 200 000 années-lumière. Beaucoup de spirales cachent un trou noir supermassif en leur centre, comme Sagittarius A* dans la Voie lactée."
+        },
+        {
+          "titre": "Les classer",
+          "texte": "Edwin Hubble les range en 1936, dans son livre Le royaume des nébuleuses, aux côtés des galaxies elliptiques. Les spirales de type Sa ont un gros bulbe et des bras serrés ; les Sb, puis les Sc, ont des bras de plus en plus lâches. Une bonne partie des spirales sont dites barrées : une ligne d'étoiles traverse leur centre, d'où le B de SBa, SBb ou SBc. La Voie lactée est de celles-là, mais sa barre n'a été découverte que dans les années 1990."
+        },
+        {
+          "titre": "Pourquoi cette forme ?",
+          "texte": "Dès 1925, Bertil Lindblad comprend qu'un bras ne peut pas être une chaîne d'étoiles figée : le disque tourne à des vitesses différentes selon la distance au centre, et un bras se serait enroulé de plus en plus serré en quelques tours. Deux grands modèles existent depuis les années 1970 : des ondes de densité dans le disque, ou une formation d'étoiles qui se propage de proche en proche. Les deux peuvent coexister."
+        }
+      ],
+      "anecdotes": [
+        "Quand deux galaxies se croisent, il y a assez peu de collisions entre étoiles : la densité moyenne d'une galaxie reste inférieure à celle d'un nuage de fumée de cigarette. La Voie lactée et la galaxie d'Andromède doivent ainsi se croiser dans environ quatre milliards d'années, sans qu'on sache prédire ce que donnera la rencontre."
+      ],
+      "wikipedia": "Galaxie spirale"
+    },
+    "source": "D'après Wikipédia — Galaxie spirale"
+  },
+  {
+    "id": "astronomie-121",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Magnétar",
+    "subtitle": "Étoile à neutrons au champ magnétique extrême",
+    "summary": "Un magnétar est une étoile à neutrons dotée du champ magnétique le plus puissant connu dans l'Univers : environ mille milliards de fois celui de la Terre. Il libère par moments de violentes bouffées de rayons X et gamma.\nL'idée est née en 1992 chez Robert Duncan et Christopher Thompson. On estime qu'une supernova sur dix en laisse un derrière elle.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Une étoile à neutrons hors norme",
+          "texte": "Comme les autres étoiles à neutrons, un magnétar mesure environ 20 km de diamètre pour 1,4 fois la masse du Soleil : une cuillère à soupe de sa matière pèserait plus de 100 millions de tonnes. Mais il tourne bien plus lentement qu'un pulsar, un tour toutes les deux à dix secondes. Il naît de l'effondrement d'une étoile de 10 à 25 masses solaires, qui amplifie fortement son champ magnétique."
+        },
+        {
+          "titre": "Des séismes d'étoile",
+          "texte": "La croûte d'un magnétar est un plasma d'éléments lourds, surtout du fer. Des tensions y provoquent des tremblements d'étoile, qui libèrent des bouffées de rayons X et gamma : on parle alors de sursauteur gamma mou. Le 5 mars 1979, une explosion venue du Grand Nuage de Magellan a saturé les détecteurs de plusieurs sondes, dont les soviétiques Venera 11 et 12, avec une intensité plus de 100 fois supérieure à celle de tout sursaut connu alors."
+        },
+        {
+          "titre": "Des effets à longue distance",
+          "texte": "En 2004, l'explosion du magnétar SGR 1806-20 a perturbé la haute atmosphère de la Terre, alors qu'il se trouvait à 50 000 années-lumière. Depuis 2020, on soupçonne aussi les magnétars d'être à l'origine de certains sursauts radio rapides, d'après l'étude d'un magnétar probable de la Voie lactée. On n'en a confirmé que quelques dizaines, sur environ 3 000 étoiles à neutrons connues."
+        }
+      ],
+      "anecdotes": [
+        "Placé à mi-chemin entre la Terre et la Lune, un magnétar effacerait la bande magnétique de toutes les cartes de paiement de la planète. À 1 000 km, son champ serait fatal, car il déformerait les atomes eux-mêmes et rendrait impossible la chimie du vivant. Dans un tel champ, un atome d'hydrogène devient environ 200 fois plus étroit que la normale."
+      ],
+      "wikipedia": "Magnétar"
+    },
+    "source": "D'après Wikipédia — Magnétar"
+  },
+  {
+    "id": "astronomie-122",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Trou noir supermassif",
+    "subtitle": "Le géant caché au cœur des grandes galaxies",
+    "summary": "Un trou noir supermassif pèse au moins un million de fois la masse du Soleil, parfois des milliards. Presque toutes les grandes galaxies en cachent un en leur centre, dont la Voie lactée avec Sagittarius A*, d'environ 4 millions de masses solaires.\nLe plus étonnant : ces géants peuvent avoir une densité moyenne plus faible que celle de l'eau.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Comment les repérer",
+          "texte": "On ne voit pas le trou noir, mais ses effets sur ce qui l'entoure. Au centre de la Voie lactée, des astronomes suivent la trajectoire d'étoiles comme S2, dont l'orbite la rapproche à 17 heures-lumière du centre : cela a permis de peser Sagittarius A*. Le gaz qui tombe sur ces monstres alimente les quasars. Le 10 avril 2019, le réseau Event Horizon Telescope dévoile la première image d'un trou noir, M87*, puis celle de Sagittarius A* en mai 2022."
+        },
+        {
+          "titre": "Gros mais peu dense",
+          "texte": "Le rayon d'un trou noir grandit avec sa masse, si bien que sa densité moyenne diminue quand il grossit. Un trou noir de l'ordre de cent millions de masses solaires a la densité de l'eau : on peut l'imaginer comme une boule d'eau qui irait du Soleil à la ceinture d'astéroïdes. M87*, d'environ 6,5 milliards de masses solaires, atteint 38 milliards de kilomètres de diamètre, soit 35 heures-lumière."
+        },
+        {
+          "titre": "Une origine encore débattue",
+          "texte": "On ne sait pas encore comment ils se forment. L'hypothèse la plus simple part d'un trou noir stellaire qui grossirait en engloutissant de la matière sur des milliards d'années. Mais on en a repéré de très anciens, apparus tôt dans l'histoire de l'Univers, qui n'auraient pas eu le temps de grossir ainsi : ils se seraient formés très vite. Ils pourraient aussi freiner la naissance d'étoiles dans leur galaxie."
+        }
+      ],
+      "anecdotes": [
+        "Plus un trou noir est massif, plus les forces de marée sont faibles à son horizon, la frontière du non-retour. Près d'un trou noir supermassif, un explorateur ne ressentirait donc rien de particulier en franchissant l'horizon : la singularité centrale en est très éloignée. Pour un trou noir de 10 millions de masses solaires, l'étirement entre la tête et les pieds serait comparable à la gravité terrestre."
+      ],
+      "wikipedia": "Trou noir supermassif"
+    },
+    "source": "D'après Wikipédia — Trou noir supermassif"
+  },
+  {
+    "id": "astronomie-123",
+    "domain": "astronomie",
+    "subtheme": "Étoiles et galaxies",
+    "type": "classique",
+    "title": "Croix du Sud",
+    "subtitle": "La plus petite des constellations, emblème du ciel austral",
+    "summary": "La Croix du Sud est la plus petite des 88 constellations, mais l'une des plus faciles à reconnaître : quatre étoiles brillantes dessinent une croix, ou un cerf-volant, dans le ciel de l'hémisphère sud.\nElle sert à repérer le pôle sud céleste et orne les drapeaux de pays comme l'Australie, le Brésil ou la Nouvelle-Zélande.",
+    "details": {
+      "sections": [
+        {
+          "titre": "Trouver le sud",
+          "texte": "Dans l'hémisphère sud, aucune étoile assez brillante ne joue le rôle de l'étoile Polaire. On prolonge donc la ligne qui va de Gacrux à Acrux, sur 4,5 fois la distance qui les sépare, et l'on tombe près du pôle sud céleste. Acrux, la reine de la croix par son éclat, est aussi la plus australe des étoiles de première magnitude. Les deux autres sont Mimosa et Imai. Attention à la Fausse Croix, plus large, entre les Voiles et la Carène."
+        },
+        {
+          "titre": "De l'oubli à la redécouverte",
+          "texte": "À cause de la précession des équinoxes, ses étoiles étaient visibles depuis la Méditerranée dans l'Antiquité, mais les Grecs y voyaient une partie du Centaure. Vers l'an 400, elles ne se levaient plus sur la majeure partie de l'Europe. Les navigateurs la redécouvrent : João Faras la décrit dans une lettre écrite sur une plage du Brésil le 1er mai 1500. Frederick de Houtman la catalogue à part en 1603, et Augustin Royer l'adopte en 1679."
+        },
+        {
+          "titre": "Un ciel riche",
+          "texte": "Sous la croix, une tache sombre, le Sac de charbon, est la principale nébuleuse obscure du ciel. Sur le bord de la constellation brille la Boîte à bijoux, un amas d'une centaine d'étoiles repéré par Nicolas-Louis de Lacaille dès 1752, à près de 7 500 années-lumière. Beaucoup d'étoiles de la croix sont jeunes, chaudes et bleu-blanc, nées il y a 10 à 20 millions d'années."
+        }
+      ],
+      "anecdotes": [
+        "Chaque peuple a vu autre chose dans ces quatre étoiles : un possum assis dans un arbre pour les Boorong, au nord-ouest de l'État de Victoria, un aigle pour les Kaurna, près d'Adélaïde, un canard en vol en Tonga. En Indonésie et en Malaisie, elle s'appelle Bintang Pari et Buruj Pari, c'est-à-dire « l'étoile raie ». Chez les Maoris, c'est l'ancre de la pirogue de Tama-rereti, que figure la Voie lactée."
+      ],
+      "wikipedia": "Croix du Sud"
+    },
+    "source": "D'après Wikipédia — Croix du Sud"
+  },
+  {
+    "id": "astronomie-124",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "Giovanni Domenico Cassini",
+    "subtitle": "Astronome et ingénieur italo-français, 1625-1712",
+    "summary": "Giovanni Domenico Cassini, né en Italie en 1625, appelé en France par Colbert, prend la direction du tout nouvel Observatoire de Paris. Il découvre quatre lunes de Saturne et la grande division de ses anneaux, qui porte aujourd'hui son nom.\nSes observations de Mars, menées en même temps depuis Paris et Cayenne, ont permis la première estimation sérieuse des dimensions du système solaire.",
+    "details": {
+      "epoque": "XVIIe siècle, sous le règne de Louis XIV.",
+      "pourquoiCelebre": "À la tête du tout premier Observatoire de Paris, découvreur de quatre lunes de Saturne et de la division de Cassini dans ses anneaux.",
+      "ideesClefs": [
+        "Il découvre Japet et Rhéa (1671-1672), puis Téthys et Dioné (1684), quatre lunes de Saturne.",
+        "En 1675, il repère la fente sombre entre les anneaux A et B de Saturne.",
+        "Avec Jean Richer à Cayenne, il mesure la parallaxe de Mars et permet d'estimer les distances dans le système solaire."
+      ],
+      "liens": [
+        {
+          "nom": "Jacques Cassini",
+          "relation": "Son fils, aussi astronome, qui lui succède sous le nom de Cassini II."
+        },
+        {
+          "nom": "Jean Richer",
+          "relation": "Collègue envoyé à Cayenne en 1672 pour observer Mars en même temps que lui."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "De Bologne à l'Observatoire de Paris",
+          "texte": "Né à Perinaldo, dans le comté de Nice, il enseigne l'astronomie à l'université de Bologne dès 1650. Il y reconstruit aussi la grande méridienne de la basilique San Petronio, longue d'environ 67 mètres. En 1669, Colbert l'attire en France : il est reçu à l'Académie des sciences, naturalisé français en 1673, et dirige l'Observatoire de Paris, ouvert en 1671, jusqu'à sa mort en 1712."
+        },
+        {
+          "titre": "Saturne, Jupiter et Mars",
+          "texte": "Dès 1665, il mesure la rotation de Jupiter et observe sa Grande Tache rouge, une découverte qu'il partage avec Robert Hooke. Il observe ensuite Saturne : quatre satellites, et en 1675 la division de ses anneaux. En 1672, il envoie Jean Richer à Cayenne observer Mars en même temps que lui à Paris. Le décalage entre les deux vues donne la distance de la planète, et de là, les dimensions du système solaire."
+        }
+      ],
+      "anecdotes": [
+        "Les mesures de Cassini, fondées sur les éclipses des lunes de Jupiter, ont servi à mesurer la taille réelle de la France, qui s'est révélée nettement plus petite que prévu. Le roi Louis XIV aurait plaisanté que Cassini lui avait pris plus de territoire que toutes ses guerres ne lui en avaient fait gagner."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Méridienne de San Petronio",
+          "annee": "1655"
+        },
+        {
+          "titre": "Éphémérides des satellites de Jupiter",
+          "annee": "1668"
+        },
+        {
+          "titre": "Découverte de Japet et de Rhéa",
+          "annee": "1671"
+        },
+        {
+          "titre": "Mesure de la distance de Mars par la parallaxe",
+          "annee": "1673"
+        },
+        {
+          "titre": "Division de Cassini",
+          "annee": "1675"
+        }
+      ],
+      "wikipedia": "Jean-Dominique Cassini"
+    },
+    "source": "D'après Wikipédia — Jean-Dominique Cassini"
+  },
+  {
+    "id": "astronomie-125",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "Caroline Herschel",
+    "subtitle": "Astronome britannique d'origine allemande, 1750-1848",
+    "summary": "Caroline Herschel, née à Hanovre en 1750, rejoint son frère William en Angleterre d'abord comme chanteuse, puis devient son assistante. Elle découvre huit comètes et plusieurs objets du ciel profond, comme la galaxie M110.\nEn 1787, le roi lui accorde une pension : elle est la première femme payée pour un travail scientifique. Elle est aussi la première femme à recevoir, en 1828, la médaille d'or que décerne la Royal Astronomical Society.",
+    "details": {
+      "epoque": "Seconde moitié du XVIIIe siècle et début du XIXe siècle.",
+      "pourquoiCelebre": "Première astronome professionnelle, elle a découvert huit comètes et plusieurs nébuleuses, et dressé un catalogue d'étoiles pour la Royal Society.",
+      "ideesClefs": [
+        "Elle découvre huit comètes entre 1786 et 1797, parmi lesquelles la 35P/Herschel-Rigollet, qui garde son nom.",
+        "En 1787, elle devient la première femme rémunérée pour son travail scientifique.",
+        "Son catalogue d'étoiles de 1798 corrige les erreurs de Flamsteed et ajoute plus de 560 étoiles."
+      ],
+      "liens": [
+        {
+          "nom": "William Herschel",
+          "relation": "Son frère, découvreur d'Uranus, avec qui elle travaille pendant des décennies."
+        },
+        {
+          "nom": "John Herschel",
+          "relation": "Son neveu, astronome, pour qui elle complète le catalogue des nébuleuses en 1828."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "De la chanteuse à l'astronome",
+          "texte": "Elle quitte Hanovre en 1772 pour Bath, où elle devient la soliste des concerts de son frère William, organiste. Quand il se passionne pour le ciel, elle polit des miroirs, monte des télescopes et recopie des tables. Après la découverte d'Uranus en 1781, William devient astronome du roi George III et elle, à 32 ans, son apprentie. Dès 1782, il l'encourage à observer seule avec son propre télescope."
+        },
+        {
+          "titre": "Comètes, nébuleuses et catalogue",
+          "texte": "Entre 1786 et 1797, elle repère huit comètes, la première dès août 1786. En 1783, elle repère la galaxie M110, compagne d'Andromède, puis l'amas NGC 7789. En 1798, la Royal Society publie son catalogue : un index de toutes les observations de Flamsteed, une liste d'erreurs et plus de 560 étoiles absentes du catalogue britannique. En 1828, elle termine le catalogue des nébuleuses de William."
+        }
+      ],
+      "anecdotes": [
+        "Caroline Herschel est morte à Hanovre en 1848, à 97 ans. Pour son 96e anniversaire, le roi de Prusse lui avait offert une médaille d'or de la Science. Sur sa pierre tombale, on lit que ses yeux, ici-bas glorifiée, se sont tournés vers les cieux étoilés."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Découverte de la galaxie M110",
+          "annee": "1783"
+        },
+        {
+          "titre": "Découverte de la comète C/1786 P1",
+          "annee": "1786"
+        },
+        {
+          "titre": "Catalogue d'étoiles de Flamsteed",
+          "annee": "1798"
+        },
+        {
+          "titre": "Catalogue des nébuleuses et amas de William Herschel",
+          "annee": "1828"
+        }
+      ],
+      "wikipedia": "Caroline Herschel"
+    },
+    "source": "D'après Wikipédia — Caroline Herschel"
+  },
+  {
+    "id": "astronomie-126",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "Annie Jump Cannon",
+    "subtitle": "Astronome américaine, 1863-1941",
+    "summary": "Annie Jump Cannon est l'astronome américaine qui a rangé les étoiles par type, de la plus chaude à la plus froide. Sa classification, où le Soleil est de type G2, sert encore aujourd'hui.\nPresque sourde, elle travaille à l'observatoire de Harvard et classe, au fil de sa carrière, environ 350 000 étoiles, plus que n'importe qui avant elle.",
+    "details": {
+      "epoque": "De 1896 à 1941, à l'observatoire de Harvard.",
+      "pourquoiCelebre": "Elle a mis au point la classification de Harvard des étoiles (O, B, A, F, G, K, M), adoptée comme standard international.",
+      "ideesClefs": [
+        "Sa classification, décrite dès 1900 et publiée en 1901, range les étoiles selon leur température.",
+        "L'Union astronomique internationale l'adopte officiellement en 1922.",
+        "Elle dirige la publication du catalogue Henry Draper, plus de 250 000 étoiles."
+      ],
+      "liens": [
+        {
+          "nom": "Henrietta Swan Leavitt",
+          "relation": "Collègue de l'observatoire de Harvard, dont les travaux sur les étoiles variables ont servi à mesurer les distances."
+        },
+        {
+          "nom": "Cecilia Payne-Gaposchkin",
+          "relation": "Elle s'est appuyée sur les données de Cannon pour montrer que les étoiles sont surtout faites d'hydrogène et d'hélium."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Ranger le ciel",
+          "texte": "À Harvard, Williamina Fleming, Antonia Maury et Annie Cannon proposent chacune une méthode pour classer les spectres des étoiles. Cannon s'appuie sur leurs travaux et garde sept lettres, de O à M en passant par B, A, F, G et K (des plus chaudes aux plus froides), chacune divisée en dix sous-parties, de 0 à 9. Elle publie en 1901 la description de 1 122 étoiles brillantes. Très vite, on s'aperçoit que ce classement suit la température des étoiles."
+        },
+        {
+          "titre": "Une cadence stupéfiante",
+          "texte": "Elle examine les plaques photographiques et reconnaît le type d'une étoile à la seule vue de son spectre, au rythme de trois étoiles par minute. Elle découvre aussi plus de 300 étoiles variables. Le catalogue Henry Draper paraît entre 1918 et 1924 sous sa direction. Elle devient en 1925 la première femme docteur honoris causa d'Oxford, mais n'obtient un poste permanent à Harvard qu'en 1938."
+        }
+      ],
+      "anecdotes": [
+        "Annie Jump Cannon militait pour le droit de vote des femmes, au sein du National Woman's Party, et utilisait son métier comme argument : l'idée que si des femmes savent mettre de l'ordre dans le ciel, elles sauront organiser un scrutin."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Classification de Harvard des étoiles",
+          "annee": "1901"
+        },
+        {
+          "titre": "Second catalogue des étoiles variables",
+          "annee": "1907"
+        },
+        {
+          "titre": "Catalogue Henry Draper",
+          "annee": "1918"
+        },
+        {
+          "titre": "Extension du catalogue Draper",
+          "annee": "1925"
+        }
+      ],
+      "wikipedia": "Annie Jump Cannon"
+    },
+    "source": "D'après Wikipédia — Annie Jump Cannon"
+  },
+  {
+    "id": "astronomie-127",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "Vera Rubin",
+    "subtitle": "Astronome américaine, 1928-2016",
+    "summary": "Vera Rubin est l'astronome américaine qui a mesuré la vitesse à laquelle tournent les étoiles dans les galaxies spirales. Elle montre que les étoiles lointaines vont aussi vite que celles du centre, ce que la matière visible ne peut pas expliquer.\nSes mesures ont renforcé l'idée que les galaxies contiennent beaucoup de matière noire. Un observatoire du Chili porte son nom.",
+    "details": {
+      "epoque": "De 1948 aux années 2010, aux États-Unis.",
+      "pourquoiCelebre": "Elle a découvert que les courbes de rotation des galaxies spirales sont plates, un indice majeur de l'existence de la matière noire.",
+      "ideesClefs": [
+        "Elle observe que les étoiles en périphérie d'une galaxie spirale tournent aussi vite que celles proches du centre.",
+        "Sans masse invisible, ces galaxies devraient se disloquer : c'est un des indices clés de la matière noire.",
+        "Elle a reçu notamment la médaille Bruce, la National Medal of Science, ainsi que la plus haute médaille de la Royal Astronomical Society."
+      ],
+      "liens": [
+        {
+          "nom": "George Gamow",
+          "relation": "Physicien qui a dirigé sa thèse à l'université de Georgetown, soutenue en 1954."
+        },
+        {
+          "nom": "Margaret et Geoffrey Burbidge",
+          "relation": "Astronomes avec qui elle collabore en 1963-1964 et fait ses premières observations de rotation de galaxies."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Une vocation contre les conseils",
+          "texte": "À dix ans, elle regarde les étoiles depuis sa fenêtre, et son père l'aide à construire un télescope. Un professeur de physique lui conseille de rester à l'écart de la science ; elle entre pourtant au Vassar College, où elle obtient sa licence d'astronomie en 1948, seule diplômée de la discipline cette année-là. Princeton refusait alors les femmes en astronomie. Elle passe son doctorat à Georgetown en 1954."
+        },
+        {
+          "titre": "La courbe plate",
+          "texte": "Entrée en 1965 à l'Institut Carnegie de Washington, elle étudie avec un collègue physicien la galaxie d'Andromède, puis d'autres spirales. Elle mesure la vitesse des étoiles selon leur distance au centre : la courbe de rotation est plate, les astres périphériques allant aussi vite que les autres. Si seules les étoiles visibles comptaient, la galaxie devrait se disloquer. Une grande masse invisible doit donc la retenir."
+        }
+      ],
+      "anecdotes": [
+        "En décembre 1950, trois semaines après la naissance de son premier enfant, Vera Rubin présente ses premiers travaux sur le mouvement des galaxies à une réunion d'astronomes. L'accueil est très négatif, mais le Washington Post titre le lendemain sur une jeune mère qui prétend trouver le centre de la Création grâce au mouvement des étoiles."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Étude des mouvements de galaxies (communication à l'American Astronomical Society)",
+          "annee": "1950"
+        },
+        {
+          "titre": "Thèse sur le regroupement des galaxies",
+          "annee": "1954"
+        },
+        {
+          "titre": "Courbe de rotation des étoiles lointaines de la Galaxie",
+          "annee": "1962"
+        },
+        {
+          "titre": "Courbes de rotation des galaxies spirales"
+        },
+        {
+          "titre": "Effet Rubin-Ford",
+          "annee": "1976"
+        }
+      ],
+      "wikipedia": "Vera Rubin"
+    },
+    "source": "D'après Wikipédia — Vera Rubin"
+  },
+  {
+    "id": "astronomie-128",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "Subrahmanyan Chandrasekhar",
+    "subtitle": "Astrophysicien indo-américain, 1910-1995",
+    "summary": "Subrahmanyan Chandrasekhar, dit « Chandra », calcule à 19 ans, pendant la traversée en bateau qui le mène en Angleterre, jusqu'où une naine blanche peut grossir. Ce plafond, d'environ 1,44 masse solaire, porte son nom.\nIl partage le prix Nobel de physique en 1983, et le télescope spatial à rayons X de la NASA, Chandra, a été baptisé en son honneur.",
+    "details": {
+      "epoque": "XXe siècle, de Cambridge à Chicago.",
+      "pourquoiCelebre": "Il a calculé la masse maximale d'une naine blanche, la limite de Chandrasekhar, et reçu le prix Nobel de physique en 1983.",
+      "ideesClefs": [
+        "Au-delà d'environ 1,44 masse solaire, une naine blanche ne peut plus résister à la gravité.",
+        "Prix Nobel de physique 1983, partagé avec William Fowler.",
+        "Dernier grand sujet : la théorie mathématique des trous noirs, résumée dans un livre de 1983."
+      ],
+      "liens": [
+        {
+          "nom": "Arthur Eddington",
+          "relation": "Astrophysicien britannique qui a rejeté sa conclusion en 1935, avant de recevoir son hommage dans un livre."
+        },
+        {
+          "nom": "Fritz Zwicky",
+          "relation": "Avec Walter Baade, il avait proposé quelques mois plus tôt l'existence des étoiles à neutrons."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "La limite de Chandrasekhar",
+          "texte": "En 1930, à bord du bateau pour l'Angleterre, il applique la relativité restreinte à l'intérieur des étoiles. Il conclut qu'une naine blanche ne peut pas dépasser une certaine masse : au-delà, la pression des électrons ne retient plus la gravité et l'étoile s'effondre, en étoile à neutrons ou en trou noir. Il soutient sa thèse à Cambridge en 1933, à 22 ans, sous la direction de Ralph Fowler."
+        },
+        {
+          "titre": "Une carrière à étapes",
+          "texte": "Installé à l'université de Chicago de 1937 à sa mort, il change de sujet tous les quelques années : après quelques années d'articles, il conclut par un livre de référence. Ainsi viennent la structure des étoiles (1939), la dynamique stellaire, le transfert de rayonnement, les ellipsoïdes, puis les trous noirs. Il encadre 51 thèses. En 1999, le nom Chandra est choisi parmi plus de 6 000 propositions."
+        }
+      ],
+      "anecdotes": [
+        "Le 11 janvier 1935, Chandrasekhar présente ses résultats à la Royal Astronomical Society. Eddington, qui ne conteste pas ses calculs mais trouve absurde l'idée qu'une étoile puisse s'effondrer ainsi, répond qu'une loi de la nature devrait l'en empêcher. Plus tard, Chandrasekhar lui consacrera pourtant un livre, qui l'appelle « le plus éminent astrophysicien de son temps »."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Calcul de la masse limite des naines blanches",
+          "annee": "1930"
+        },
+        {
+          "titre": "Introduction to the Study of Stellar Structure",
+          "annee": "1939"
+        },
+        {
+          "titre": "Principles of Stellar Dynamics",
+          "annee": "1943"
+        },
+        {
+          "titre": "Radiative Transfer",
+          "annee": "1950"
+        },
+        {
+          "titre": "Ellipsoidal Figures of Equilibrium",
+          "annee": "1968"
+        },
+        {
+          "titre": "The Mathematical Theory of Black Holes",
+          "annee": "1983"
+        }
+      ],
+      "wikipedia": "Subrahmanyan Chandrasekhar"
+    },
+    "source": "D'après Wikipédia — Subrahmanyan Chandrasekhar"
+  },
+  {
+    "id": "astronomie-129",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "Arthur Eddington",
+    "subtitle": "Astrophysicien britannique, 1882-1944",
+    "summary": "Arthur Eddington est l'un des plus grands astrophysiciens britanniques du début du XXe siècle. Vers 1920, il est le premier à deviner que les étoiles brillent en transformant l'hydrogène en hélium.\nIl fait aussi connaître la relativité générale d'Einstein au monde anglophone, et son expédition à l'éclipse totale de Soleil du 29 mai 1919 apporte l'une des premières confirmations de la théorie.",
+    "details": {
+      "epoque": "Début du XXe siècle, de Greenwich à Cambridge.",
+      "pourquoiCelebre": "Il a proposé la fusion de l'hydrogène en hélium comme source d'énergie des étoiles et contribué à la confirmation de la relativité générale en 1919.",
+      "ideesClefs": [
+        "Vers 1920, il propose la fusion de l'hydrogène en hélium comme source de l'énergie des étoiles.",
+        "En 1919, il photographie l'éclipse totale de Soleil pour tester la déviation de la lumière prévue par Einstein.",
+        "La limite d'Eddington est la luminosité maximale d'une étoile d'une masse donnée."
+      ],
+      "liens": [
+        {
+          "nom": "Subrahmanyan Chandrasekhar",
+          "relation": "Jeune astrophysicien dont il a rejeté la limite de masse des naines blanches en 1935."
+        },
+        {
+          "nom": "James Jeans",
+          "relation": "Rival de longue date dans des débats animés sur l'énergie des étoiles."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "D'où vient l'énergie des étoiles ?",
+          "texte": "Vers 1920, personne ne sait pourquoi le Soleil brille. Eddington s'appuie sur les mesures de Francis Aston : un atome d'hélium est un peu plus léger que les quatre atomes d'hydrogène qui le forment. La différence se transforme en énergie, selon l'équation E = mc². Il en déduit que l'intérieur des étoiles atteint des millions de degrés, et découvre en 1924 le lien entre masse et luminosité."
+        },
+        {
+          "titre": "L'éclipse de 1919",
+          "texte": "Quaker et pacifiste, Eddington refuse de combattre pendant la guerre, et reçoit en 1915 les articles d'Einstein. Selon la relativité générale, la gravité du Soleil dévie la lumière d'une étoile voisine, effet visible seulement pendant une éclipse totale. Malgré un temps médiocre, il annonce en 1919 des résultats conformes. Le fait qu'un Anglais confirme une théorie allemande un an après la guerre devient un symbole de paix."
+        }
+      ],
+      "anecdotes": [
+        "On disait que seuls trois physiciens au monde comprenaient la relativité d'Einstein. Eddington aurait répondu, avec humour, qu'il se demandait qui était le troisième."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Report on the relativity theory of gravitation",
+          "annee": "1918"
+        },
+        {
+          "titre": "Space, Time and Gravitation",
+          "annee": "1920"
+        },
+        {
+          "titre": "The Internal Constitution of the Stars",
+          "annee": "1926"
+        },
+        {
+          "titre": "The Nature of the Physical World",
+          "annee": "1928"
+        },
+        {
+          "titre": "The Expanding Universe",
+          "annee": "1933"
+        }
+      ],
+      "wikipedia": "Arthur Eddington"
+    },
+    "source": "D'après Wikipédia — Arthur Eddington"
+  },
+  {
+    "id": "astronomie-130",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "Fritz Zwicky",
+    "subtitle": "Astrophysicien suisse, 1898-1974",
+    "summary": "Fritz Zwicky, astrophysicien suisse du Caltech, est le plus prolifique chasseur de supernovas de son temps. Avec Walter Baade, il propose en 1934 le mot « supernova » et l'idée que ces explosions laissent des étoiles à neutrons.\nEn 1933, en étudiant l'amas de Coma, il est le premier à suggérer qu'une matière invisible, plus abondante que la matière lumineuse, se cache dans l'Univers.",
+    "details": {
+      "epoque": "XXe siècle, au California Institute of Technology de Pasadena.",
+      "pourquoiCelebre": "Il a introduit le terme de supernova, prédit les étoiles à neutrons et fut le premier à suggérer l'existence de la matière noire.",
+      "ideesClefs": [
+        "En 1934, avec Walter Baade, il lie supernovas, étoiles à neutrons et rayons cosmiques.",
+        "En 1933, il constate dans l'amas de Coma qu'il manque de la masse visible.",
+        "En 1937, il imagine que les galaxies peuvent agir comme des lentilles gravitationnelles."
+      ],
+      "liens": [
+        {
+          "nom": "Walter Baade",
+          "relation": "Astronome allemand avec qui il introduit le terme de supernova en 1934."
+        },
+        {
+          "nom": "Vera Rubin",
+          "relation": "Elle a proposé à nouveau la matière noire en 1970, à partir d'observations plus solides."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Chasseur de supernovas",
+          "texte": "Pour soutenir son hypothèse, Zwicky traque les explosions d'étoiles en comparant des plaques photographiques à l'œil nu. Il en découvre 120 à lui seul, de SN 1921B à SN 1973K, plus une avec Paul Wild, soit 52 ans de chasse. Ce record a tenu 36 ans, jusqu'à ce qu'un astronome amateur le dépasse en 2009. Il prédit aussi que ces explosions laissent des étoiles à neutrons et projettent des rayons cosmiques."
+        },
+        {
+          "titre": "Matière invisible et idées audacieuses",
+          "texte": "En 1933, les galaxies de l'amas de Coma bougent trop vite pour la masse qu'on voit. Zwicky suggère qu'une matière invisible domine, mais personne ne le suit, et l'idée est oubliée pendant près de quarante ans. Il se trompe en revanche avec sa « lumière fatiguée » pour expliquer le décalage vers le rouge. Sa vision de 1937, des galaxies agissant comme lentilles, est confirmée en 1979 avec le « quasar jumeau »."
+        }
+      ],
+      "anecdotes": [
+        "Zwicky ne manquait pas d'audace. Un soir d'observation au mont Wilson, des remous de l'air troublaient ses images ; il pria alors son assistant de faire feu au pistolet dans cette zone, croyant que la balle calmerait l'atmosphère. L'expérience a échoué. Dans les années 1960, il imaginait aussi de bombarder le Soleil de particules pour déplacer le Système solaire vers Alpha du Centaure."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Étude de l'amas de Coma et de la matière invisible",
+          "annee": "1933"
+        },
+        {
+          "titre": "Introduction du terme supernova (avec Walter Baade)",
+          "annee": "1934"
+        },
+        {
+          "titre": "Hypothèse des lentilles gravitationnelles",
+          "annee": "1937"
+        },
+        {
+          "titre": "Catalogue of Galaxies and of Clusters of Galaxies",
+          "annee": "1961"
+        }
+      ],
+      "wikipedia": "Fritz Zwicky"
+    },
+    "source": "D'après Wikipédia — Fritz Zwicky"
+  },
+  {
+    "id": "astronomie-131",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "Aristarque de Samos",
+    "subtitle": "Astronome et mathématicien grec, vers 310-vers 230 av. J.-C.",
+    "summary": "Aristarque de Samos, astronome grec du IIIe siècle av. J.-C., est le premier savant connu à avoir placé le Soleil au centre de l'Univers, avec une Terre qui tourne sur elle-même et autour de lui.\nIl a aussi tenté de mesurer la taille et la distance de la Lune et du Soleil par la géométrie : ses chiffres étaient faux, mais sa méthode était ingénieuse.",
+    "details": {
+      "epoque": "IIIe siècle av. J.-C., à Samos et à Alexandrie.",
+      "pourquoiCelebre": "Il a proposé le premier modèle héliocentrique connu, bien avant Copernic.",
+      "ideesClefs": [
+        "Le Soleil et les étoiles fixes sont immobiles, la Terre tourne autour du Soleil.",
+        "Il mesure par la géométrie les tailles et distances de la Lune et du Soleil.",
+        "Il explique l'absence de parallaxe visible des étoiles par leur éloignement, ce qui est exact."
+      ],
+      "liens": [
+        {
+          "nom": "Archimède",
+          "relation": "Il décrit l'hypothèse d'Aristarque dans L'Arénaire, notre source principale."
+        },
+        {
+          "nom": "Séleucos de Séleucie",
+          "relation": "Seul partisan connu d'Aristarque dans l'Antiquité."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "Mesurer avec la géométrie",
+          "texte": "Son seul texte conservé, consacré aux tailles et aux distances de la Lune et du Soleil, repose sur la géométrie. Les éclipses de Lune lui donnent une Terre environ trois fois plus large que la Lune. Pour le Soleil, il observe la Lune à son quartier : Terre, Lune et Soleil forment un triangle rectangle. Il trouve le Soleil environ 19 fois plus loin que la Lune, alors qu'il l'est environ 400 fois. Mesure trop imprécise, méthode juste."
+        },
+        {
+          "titre": "Le Soleil au centre",
+          "texte": "Aristarque estime le Soleil bien plus gros que la Terre, et trouve logique que le petit astre tourne autour du grand. Son livre est perdu : on le connaît par Archimède. Une objection pesait : si la Terre bouge, les étoiles devraient changer d'angle au fil de l'année. Aristarque répond qu'elles sont trop lointaines pour qu'on le voie, ce qui est exact. Les astronomes de l'époque, fidèles à Aristote, préfèrent une Terre immobile."
+        }
+      ],
+      "anecdotes": [
+        "On répète qu'Aristarque a été accusé d'impiété pour avoir déplacé la Terre. C'est sans doute un contresens : chez Plutarque, c'est lui qui plaisante qu'on devrait accuser Cléanthe, un stoïcien opposé à l'héliocentrisme. Une édition publiée peu après les procès de Galilée et de Giordano Bruno a inversé deux mots, d'où l'image d'un savant persécuté, encore répandue aujourd'hui."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Sur les dimensions et les distances du Soleil et de la Lune"
+        },
+        {
+          "titre": "Hypothèse héliocentrique (écrit connu par L'Arénaire d'Archimède)"
+        }
+      ],
+      "wikipedia": "Aristarque de Samos"
+    },
+    "source": "D'après Wikipédia — Aristarque de Samos"
+  },
+  {
+    "id": "astronomie-132",
+    "domain": "astronomie",
+    "subtheme": "Astronomes et astronautes",
+    "type": "personnage",
+    "title": "Ératosthène",
+    "subtitle": "Savant grec, bibliothécaire d'Alexandrie, vers 276-vers 194 av. J.-C.",
+    "summary": "Ératosthène de Cyrène dirige la bibliothèque d'Alexandrie. Il est célèbre pour avoir estimé la circonférence de la Terre, à partir de l'ombre d'un bâton à midi le jour du solstice d'été.\nSavant touche-à-tout, il invente aussi le mot « géographie » et une méthode pour dénicher les nombres premiers, le crible d'Ératosthène.",
+    "details": {
+      "epoque": "IIIe siècle av. J.-C., à Alexandrie sous les Ptolémées.",
+      "pourquoiCelebre": "Il a calculé la circonférence de la Terre par la géométrie, avec un résultat très proche de la réalité.",
+      "ideesClefs": [
+        "Il compare l'ombre d'un bâton à Alexandrie à l'absence d'ombre à Syène le jour du solstice.",
+        "Il invente le mot géographie et dresse une carte du monde habité.",
+        "Il établit un catalogue de 736 étoiles et le crible des nombres premiers."
+      ],
+      "liens": [
+        {
+          "nom": "Archimède",
+          "relation": "Savant qui le loue et lui adresse un de ses traités sous forme de lettre."
+        }
+      ],
+      "sections": [
+        {
+          "titre": "L'ombre et le puits",
+          "texte": "Le jour du solstice d'été, à midi, le Soleil est à la verticale à Syène (Assouan) : aucune ombre, et la lumière éclaire le fond d'un puits. Au même moment à Alexandrie, un bâton projette une ombre, qui correspond à un cinquantième de cercle, soit 7,2 degrés. Syène étant à environ 5 000 stades d'Alexandrie, la Terre entière mesure 50 fois plus : 250 000 stades. Un résultat très proche de la réalité."
+        },
+        {
+          "titre": "Un savant à tout faire",
+          "texte": "Appelé vers 245 av. J.-C. par Ptolémée III, il dirige la grande bibliothèque d'Alexandrie et devient aussi précepteur du prince. Il travaille en mathématiques, en astronomie (tables d'éclipses, inclinaison de l'écliptique, catalogue de 736 étoiles), en géographie et en histoire. Ses admirateurs le surnommaient « Pentathlos », l'athlète complet. Presque rien n'a survécu de ses textes, sauf deux résumés, dont les Catastérismes."
+        }
+      ],
+      "anecdotes": [
+        "On raconte souvent qu'Ératosthène a obtenu la distance entre Syène et Alexandrie en comptant les pas de chameaux de caravanes. Aucun texte ne le dit, et selon un mathématicien, ces caravanes n'étaient pas répandues avant l'ère chrétienne. Un texte tardif évoque plutôt des arpenteurs royaux de Ptolémée III."
+      ],
+      "oeuvres": [
+        {
+          "titre": "Crible d'Ératosthène"
+        },
+        {
+          "titre": "La Mesure de la Terre",
+          "annee": "v. 230 av. J.-C."
+        },
+        {
+          "titre": "Les Catastérismes"
+        }
+      ],
+      "wikipedia": "Ératosthène"
+    },
+    "source": "D'après Wikipédia — Ératosthène"
   }
 ]

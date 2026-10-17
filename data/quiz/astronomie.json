@@ -1557,5 +1557,569 @@
     ],
     "explication": "Musicien de métier, Herschel a été hautboïste puis organiste avant de se tourner vers le ciel. La découverte d'Uranus en 1781 le rend célèbre du jour au lendemain ; il trouve ensuite des lunes d'Uranus et de Saturne, puis l'infrarouge en 1800.",
     "source": "D'après Wikipédia — William Herschel"
+  },
+  {
+    "id": "q-astronomie-101",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Qu'est-ce qui rend Io si volcanique ?",
+    "choix": [
+      "Les marées de Jupiter, entretenues par sa résonance avec Europe et Ganymède",
+      "La désintégration des éléments radioactifs de son noyau",
+      "La chaleur du Soleil, très proche",
+      "Les impacts incessants de comètes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Io est pétrie par les marées de Jupiter. Sa résonance avec Europe et Ganymède maintient une orbite légèrement ovale, donc une déformation permanente et une friction qui fait fondre l'intérieur, avec une énergie jusqu'à 200 fois supérieure à celle de la radioactivité.",
+    "source": "D'après Wikipédia — Io (lune)"
+  },
+  {
+    "id": "q-astronomie-102",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quel écrivain a affirmé dès 1727 que Mars possède deux lunes ?",
+    "choix": [
+      "Jonathan Swift",
+      "Daniel Defoe",
+      "Alexander Pope",
+      "Henry Fielding"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans Voyage à Laputa (1727), Jonathan Swift attribue deux lunes à Mars et en donne les périodes, inexactes, à peu près un siècle et demi avant qu'Asaph Hall ne les découvre en 1877. Des formations de Phobos portent des noms tirés de ses romans.",
+    "source": "D'après Wikipédia — Phobos (lune)"
+  },
+  {
+    "id": "q-astronomie-103",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Pourquoi Olympus Mons a-t-il pu devenir aussi haut ?",
+    "choix": [
+      "Mars n'a pas de tectonique des plaques : la croûte reste immobile au-dessus du point chaud",
+      "Mars est plus massive que la Terre",
+      "Ses éruptions n'ont duré que quelques milliers d'années",
+      "Sa lave était très visqueuse et s'est empilée en cône"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sur Terre, les plaques glissent au-dessus des points chauds et donnent des chapelets de volcans, comme Hawaï, actifs quelques millions d'années chacun. Sur Mars, la croûte reste fixe : le même volcan peut grossir pendant des milliards d'années.",
+    "source": "D'après Wikipédia — Olympus Mons"
+  },
+  {
+    "id": "q-astronomie-104",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quel était le métier de William Lassell, qui a découvert Triton en 1846 ?",
+    "choix": [
+      "Brasseur",
+      "Horloger",
+      "Avocat",
+      "Médecin"
+    ],
+    "bonneReponse": 0,
+    "explication": "Brasseur de métier, Lassell fabriquait lui-même les miroirs de ses télescopes. Il découvre Triton le 10 octobre 1846, 17 jours après Neptune, sur la suggestion de John Herschel, qui l'avait invité à chercher des lunes autour de la nouvelle planète.",
+    "source": "D'après Wikipédia — Triton (lune)"
+  },
+  {
+    "id": "q-astronomie-105",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Pourquoi les astronomes ont-ils choisi Véga comme référence de l'échelle des magnitudes ?",
+    "choix": [
+      "Sa magnitude est proche de zéro : on l'a décrétée nulle",
+      "C'est l'étoile la plus brillante du ciel",
+      "C'est l'étoile la plus proche du Soleil",
+      "Son éclat ne varie jamais"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sirius est bien plus brillante, mais Véga a une magnitude voisine de zéro (0,026). Les astronomes l'ont choisie pour représenter la magnitude zéro à toutes les longueurs d'onde. Aujourd'hui, un flux numérique a pris le relais.",
+    "source": "D'après Wikipédia — Véga"
+  },
+  {
+    "id": "q-astronomie-106",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Que se passe-t-il quand une naine blanche, nourrie par une étoile voisine, atteint environ 1,4 masse solaire ?",
+    "choix": [
+      "Elle explose en supernova de type Ia",
+      "Elle devient une naine noire",
+      "Elle gonfle en géante rouge",
+      "Elle se met à fusionner de l'hélium"
+    ],
+    "bonneReponse": 0,
+    "explication": "Au-delà de 1,4 masse solaire, la pression quantique des électrons ne peut plus soutenir la naine blanche. En atteignant cette limite par accrétion ou collision, elle achève sa vie dans une gigantesque explosion thermonucléaire : une supernova de type Ia.",
+    "source": "D'après Wikipédia — Naine blanche"
+  },
+  {
+    "id": "q-astronomie-107",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Combien pèserait une boîte d'allumettes remplie de matière d'étoile à neutrons ?",
+    "choix": [
+      "Environ 3 milliards de tonnes",
+      "Environ 3 000 tonnes",
+      "Environ 3 millions de tonnes",
+      "Environ 300 kg"
+    ],
+    "bonneReponse": 0,
+    "explication": "La matière d'une étoile à neutrons est si dense qu'une boîte d'allumettes pèserait environ 3 milliards de tonnes, soit un bloc de roche terrestre d'environ 800 m d'arête. Cette densité naît de l'effondrement du cœur d'une étoile massive en supernova.",
+    "source": "D'après Wikipédia — Étoile à neutrons"
+  },
+  {
+    "id": "q-astronomie-108",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Que devient une géante rouge de masse moyenne à la fin de sa vie ?",
+    "choix": [
+      "Elle éjecte ses couches externes et son noyau devient une naine blanche",
+      "Elle explose en supernova et laisse un trou noir",
+      "Elle se contracte en naine rouge",
+      "Elle s'éteint sans rien laisser"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les couches externes sont éjectées et forment une nébuleuse planétaire ; le noyau mis à nu devient une naine blanche. Seules les étoiles de plus de 8 masses solaires finissent en supernova, en laissant une étoile à neutrons ou un trou noir.",
+    "source": "D'après Wikipédia — Géante rouge"
+  },
+  {
+    "id": "q-astronomie-109",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Dans la classification des éruptions solaires, quelle lettre désigne les plus puissantes ?",
+    "choix": [
+      "X",
+      "A",
+      "C",
+      "M"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les classes A, B, C, M et X sont définies d'après les rayons X mesurés par les satellites GOES, chacune dix fois plus puissante que la précédente. La plus forte éruption enregistrée, en novembre 2003, était estimée à X28.",
+    "source": "D'après Wikipédia — Éruption solaire"
+  },
+  {
+    "id": "q-astronomie-110",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "À quoi sert la relation entre la période et la luminosité des céphéides ?",
+    "choix": [
+      "À mesurer des distances dans l'Univers",
+      "À dater les étoiles",
+      "À mesurer leur température de surface",
+      "À prévoir les éruptions solaires"
+    ],
+    "bonneReponse": 0,
+    "explication": "Plus elle brille fort, plus sa période est longue. En mesurant la période, on connaît sa vraie luminosité ; puis, en la confrontant à son éclat vu de la Terre, on obtient sa distance. Hubble les repère jusqu'à environ 80 millions d'années-lumière.",
+    "source": "D'après Wikipédia — Céphéide"
+  },
+  {
+    "id": "q-astronomie-111",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Ganymède, la lune de Jupiter, est plus grande que la planète Mercure.",
+    "reponse": true,
+    "explication": "Avec 5 268 km de diamètre, Ganymède dépasse Mercure de 8 % : c'est la plus grande lune du Système solaire. Mais, faite pour moitié de glace d'eau, sa masse n'atteint que 45 % de celle de Mercure.",
+    "source": "D'après Wikipédia — Ganymède (lune)"
+  },
+  {
+    "id": "q-astronomie-112",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "La Grande Tache rouge de Jupiter est aujourd'hui plus étendue qu'à la fin du XIXe siècle.",
+    "reponse": false,
+    "explication": "Elle a rétréci : vers la fin du XIXe siècle, elle s'étendait sur environ 40 000 km ; en 2017, elle ne mesurait plus qu'environ 16 350 km de large. On ignore si elle finira par disparaître ou si ce n'est qu'une variation passagère.",
+    "source": "D'après Wikipédia — Grande Tache rouge"
+  },
+  {
+    "id": "q-astronomie-113",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Proxima du Centaure, l'étoile la plus proche du Soleil, est visible à l'œil nu.",
+    "reponse": false,
+    "explication": "Naine rouge très peu lumineuse, Proxima a une magnitude de 11,05, bien trop faible pour l'œil nu. Elle rayonne surtout dans l'infrarouge (85 % de sa lumière). Elle n'a été découverte qu'en 1915, par Robert Innes.",
+    "source": "D'après Wikipédia — Proxima Centauri"
+  },
+  {
+    "id": "q-astronomie-114",
+    "domain": "astronomie",
+    "format": "difference",
+    "question": "Quelle est la différence entre une naine blanche et une étoile à neutrons ?",
+    "choix": [
+      "La naine blanche est le reste d'une étoile de masse modérée et a la taille de la Terre ; l'étoile à neutrons, issue d'une supernova, mesure quelques dizaines de km",
+      "La naine blanche est le reste d'une étoile massive, l'étoile à neutrons celui d'une étoile modérée",
+      "La naine blanche fusionne encore de l'hydrogène, l'étoile à neutrons non",
+      "Ce sont deux noms du même objet"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une naine blanche, cœur d'une étoile de masse modérée, a un volume proche de celui de la Terre. Une étoile à neutrons, cœur effondré d'une étoile de 8 à 40 masses solaires, ne fait que quelques dizaines de kilomètres et est bien plus dense.",
+    "source": "D'après Wikipédia — Étoile à neutrons"
+  },
+  {
+    "id": "q-astronomie-115",
+    "domain": "astronomie",
+    "format": "difference",
+    "question": "Quelle est la différence entre la surface d'Io et celle d'Europe ?",
+    "choix": [
+      "Io est couverte de volcans et de soufre, très jeune ; Europe a une glace très lisse qui cacherait un océan",
+      "Io est faite de glace avec un océan et Europe de roche volcanique",
+      "Les deux ont une surface criblée de cratères, mais Io est plus grande",
+      "Io tourne à contre-sens de Jupiter, Europe dans le même sens"
+    ],
+    "bonneReponse": 0,
+    "explication": "Io, avec plus de 400 volcans actifs, a une surface sulfurée de moins d'un million d'années. Europe a la surface la plus lisse du Système solaire, de glace d'environ 100 millions d'années, au-dessus d'un océan probable.",
+    "source": "D'après Wikipédia — Io (lune)"
+  },
+  {
+    "id": "q-astronomie-116",
+    "domain": "astronomie",
+    "format": "associer",
+    "question": "Associe chaque lune à sa particularité.",
+    "paires": [
+      {
+        "gauche": "Io",
+        "droite": "Plus de 400 volcans actifs",
+        "explication": "Io est l'objet le plus actif géologiquement du Système solaire."
+      },
+      {
+        "gauche": "Europe",
+        "droite": "Un océan probable sous la glace",
+        "explication": "Sa surface lisse et son champ magnétique induit évoquent un océan souterrain."
+      },
+      {
+        "gauche": "Ganymède",
+        "droite": "Son propre champ magnétique",
+        "explication": "C'est la seule lune connue à en posséder un, sans doute créé dans son noyau."
+      },
+      {
+        "gauche": "Triton",
+        "droite": "Une orbite rétrograde",
+        "explication": "C'est la seule grande lune à tourner à contre-sens de sa planète, Neptune."
+      }
+    ],
+    "explication": "Io, Europe et Ganymède sont des lunes galiléennes de Jupiter, liées par une résonance orbitale. Triton, lune de Neptune, vient sans doute de la ceinture de Kuiper et tourne à l'envers de sa planète.",
+    "source": "D'après Wikipédia — Ganymède (lune)"
+  },
+  {
+    "id": "q-astronomie-117",
+    "domain": "astronomie",
+    "format": "qui-suis-je",
+    "indices": [
+      "On m'a trouvée le 24 mars 1993 au soir, sur un cliché pris au Mont Palomar.",
+      "Je suis la toute première comète vue tournant autour d'une planète.",
+      "Un passage à un peu plus de 40 000 km de ses nuages, en 1992, m'a brisée en fragments désignés de A à W.",
+      "Du 16 au 22 juillet 1994, mes fragments se sont écrasés sur Jupiter.",
+      "Mon nom associe ceux de mes découvreurs."
+    ],
+    "reponse": "Shoemaker-Levy 9",
+    "explication": "Découverte presque par hasard, Shoemaker-Levy 9 a été disloquée par les marées de Jupiter, puis ses fragments ont percuté la planète. Ce fut la première collision directe observée entre deux objets du Système solaire.",
+    "source": "D'après Wikipédia — Shoemaker-Levy 9"
+  },
+  {
+    "id": "q-astronomie-118",
+    "domain": "astronomie",
+    "format": "frise",
+    "question": "Remets ces moments de l'histoire de la comète de Halley dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Une comète figure sur la tapisserie de Bayeux",
+        "annee": "1066"
+      },
+      {
+        "label": "Halley publie que les comètes de 1531, 1607 et 1682 n'en font qu'une",
+        "annee": "1705"
+      },
+      {
+        "label": "Le retour prédit se confirme, avec un passage au périhélie",
+        "annee": "1759"
+      },
+      {
+        "label": "Un passage spectaculaire fait craindre la fin du monde",
+        "annee": "1910"
+      },
+      {
+        "label": "La sonde Giotto s'approche du noyau",
+        "annee": "1986"
+      }
+    ],
+    "explication": "La comète est observée depuis l'Antiquité. Halley comprend en 1705 qu'elle revient ; son retour en 1759 confirme la théorie de Newton. En 1986, la sonde Giotto passe à 600 km du noyau.",
+    "source": "D'après Wikipédia — Comète de Halley"
+  },
+  {
+    "id": "q-astronomie-119",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Comment s'appelle l'amas de jeunes étoiles très chaudes qui éclaire le cœur de la nébuleuse d'Orion ?",
+    "choix": [
+      "Le Trapèze",
+      "La Boîte à bijoux",
+      "Les Pléiades",
+      "Le Sac de charbon"
+    ],
+    "bonneReponse": 0,
+    "explication": "C'est l'amas du Trapèze, nommé d'après la forme dessinée par ses quatre étoiles principales, réparties sur environ 1,5 année-lumière. Ces étoiles toutes jeunes ionisent le gaz de la nébuleuse. Galilée en a repéré trois en 1617.",
+    "source": "D'après Wikipédia — Nébuleuse d'Orion"
+  },
+  {
+    "id": "q-astronomie-120",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Pourquoi Charles Messier a-t-il dressé son célèbre catalogue, dont la nébuleuse du Crabe est la première entrée ?",
+    "choix": [
+      "Pour ne plus confondre les nébuleuses fixes avec des comètes",
+      "Pour recenser toutes les étoiles visibles à l'œil nu",
+      "Pour nommer les constellations du ciel austral",
+      "Pour mesurer la distance des galaxies voisines"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1758, Messier cherche la comète de Halley dans le Taureau et tombe sur une tache floue qui ne bouge pas : ce n'est pas une comète. Pour ne plus se tromper, il établit une liste d'objets fixes, dont M1, la nébuleuse du Crabe.",
+    "source": "D'après Wikipédia — Nébuleuse du Crabe"
+  },
+  {
+    "id": "q-astronomie-121",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "La découverte d'un pulsar au centre de la nébuleuse du Crabe, en 1968, a prouvé que les pulsars sont des signaux envoyés par une civilisation extraterrestre.",
+    "reponse": false,
+    "explication": "C'est l'inverse : ce pulsar émet une impulsion toutes les 33 millisecondes au cœur d'un reste de supernova. Il a montré que les pulsars sont des étoiles à neutrons nées d'explosions d'étoiles, et non des signaux d'une civilisation avancée.",
+    "source": "D'après Wikipédia — Nébuleuse du Crabe"
+  },
+  {
+    "id": "q-astronomie-122",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Pourquoi les collisions entre étoiles sont-elles rares quand deux galaxies se croisent ?",
+    "choix": [
+      "Les étoiles sont si espacées que la densité moyenne d'une galaxie est plus faible que celle de la fumée de cigarette",
+      "La matière noire repousse les étoiles qui s'approchent",
+      "Toutes les étoiles tournent dans le même sens et ne se rencontrent jamais",
+      "Le gaz galactique freine les étoiles avant le choc"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les étoiles sont séparées par d'immenses distances : une galaxie est en moyenne moins dense qu'un nuage de fumée de cigarette. La Voie lactée et Andromède doivent se croiser dans environ quatre milliards d'années, avec peu de chocs entre étoiles.",
+    "source": "D'après Wikipédia — Galaxie spirale"
+  },
+  {
+    "id": "q-astronomie-123",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Que ferait un magnétar placé à mi-chemin entre la Terre et la Lune ?",
+    "choix": [
+      "Il effacerait la bande magnétique de toutes les cartes de paiement de la planète",
+      "Il ferait dévier la Lune de son orbite",
+      "Il provoquerait des aurores sur toute la Terre",
+      "Il arrêterait la rotation de la Terre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le champ d'un magnétar dépasse 10 milliards de teslas. À mi-chemin entre la Terre et la Lune, il suffirait à démagnétiser toutes les cartes à bande magnétique du monde. À 1 000 km, il serait même fatal au vivant.",
+    "source": "D'après Wikipédia — Magnétar"
+  },
+  {
+    "id": "q-astronomie-124",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Un magnétar tourne sur lui-même bien plus vite qu'un pulsar ordinaire.",
+    "reponse": false,
+    "explication": "Au contraire : la plupart des magnétars font un tour toutes les deux à dix secondes, alors qu'un pulsar radio typique en fait un à dix par seconde. Ce sont leurs champs magnétiques géants qui les distinguent des autres étoiles à neutrons.",
+    "source": "D'après Wikipédia — Magnétar"
+  },
+  {
+    "id": "q-astronomie-125",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quelle propriété étonnante possèdent les plus gros trous noirs supermassifs ?",
+    "choix": [
+      "Leur densité moyenne peut être plus faible que celle de l'eau",
+      "Leur densité est toujours infinie",
+      "Ils sont toujours plus denses qu'un trou noir stellaire",
+      "Leur densité est toujours égale à celle du Soleil"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le rayon d'un trou noir croît avec sa masse, donc sa densité moyenne diminue. Un trou noir de l'ordre de cent millions de masses solaires a la densité de l'eau, et les plus massifs sont encore moins denses.",
+    "source": "D'après Wikipédia — Trou noir supermassif"
+  },
+  {
+    "id": "q-astronomie-126",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Comment repère-t-on le pôle sud céleste grâce à la Croix du Sud ?",
+    "choix": [
+      "En prolongeant la ligne Gacrux-Acrux sur environ 4,5 fois leur écart",
+      "En visant le centre de la Boîte à bijoux",
+      "En suivant la ligne Mimosa-Imai vers l'ouest",
+      "En suivant le Sac de charbon vers le nord"
+    ],
+    "bonneReponse": 0,
+    "explication": "En prolongeant la ligne Gacrux-Acrux sur 4,5 fois la distance qui les sépare, on tombe près du pôle sud céleste, à environ 25° d'Acrux. Dans l'hémisphère sud, aucune étoile assez brillante ne joue le rôle de l'étoile Polaire.",
+    "source": "D'après Wikipédia — Croix du Sud"
+  },
+  {
+    "id": "q-astronomie-127",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Dans la classification de Harvard d'Annie Jump Cannon, quel est le type spectral du Soleil ?",
+    "choix": [
+      "G2",
+      "A0",
+      "K5",
+      "M3"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Soleil est de type G2 : la lettre indique la classe, rangée par température, et le chiffre la sous-division, de 0 à 9. Annie Jump Cannon a retenu des classes de O à M, des plus chaudes aux plus froides.",
+    "source": "D'après Wikipédia — Annie Jump Cannon"
+  },
+  {
+    "id": "q-astronomie-128",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Que devient, selon Chandrasekhar, une naine blanche dont la masse dépasse environ 1,44 masse solaire ?",
+    "choix": [
+      "Elle s'effondre sur elle-même",
+      "Elle devient une géante rouge",
+      "Elle refroidit lentement et s'éteint",
+      "Elle se met à pulser comme une céphéide"
+    ],
+    "bonneReponse": 0,
+    "explication": "Au-delà de cette limite, la pression des électrons ne peut plus équilibrer la gravité : la naine blanche s'effondre, en étoile à neutrons ou en trou noir. Chandrasekhar a calculé cette limite en 1930, pendant son voyage vers l'Angleterre.",
+    "source": "D'après Wikipédia — Subrahmanyan Chandrasekhar"
+  },
+  {
+    "id": "q-astronomie-129",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Que cherchait à vérifier Arthur Eddington en photographiant l'éclipse totale du 29 mai 1919 ?",
+    "choix": [
+      "Que la gravité du Soleil dévie la lumière des étoiles voisines",
+      "Que le Soleil tourne plus vite à l'équateur qu'aux pôles",
+      "L'existence d'une planète plus proche du Soleil que Mercure",
+      "Que la couronne solaire est plus chaude que la surface"
+    ],
+    "bonneReponse": 0,
+    "explication": "Selon la relativité générale, une étoile proche du Soleil doit paraître légèrement décalée, car sa lumière est déviée. Seule une éclipse totale permet de la voir. Eddington a annoncé des résultats conformes à Einstein, depuis l'île de Principe.",
+    "source": "D'après Wikipédia — Arthur Eddington"
+  },
+  {
+    "id": "q-astronomie-130",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Que constate Ératosthène à Syène, le jour du solstice d'été à midi ?",
+    "choix": [
+      "Un bâton n'y projette aucune ombre",
+      "Le Soleil y paraît deux fois plus gros",
+      "L'ombre y est plus longue qu'à Alexandrie",
+      "Les étoiles y restent visibles en plein jour"
+    ],
+    "bonneReponse": 0,
+    "explication": "À Syène, le Soleil est alors à la verticale : un puits est éclairé jusqu'au fond. À Alexandrie, un bâton projette une ombre d'un cinquantième de cercle, soit 7,2 degrés. Ératosthène en déduit la circonférence de la Terre.",
+    "source": "D'après Wikipédia — Ératosthène"
+  },
+  {
+    "id": "q-astronomie-131",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Vera Rubin a observé que les étoiles situées en périphérie d'une galaxie spirale tournent beaucoup plus lentement que celles du centre.",
+    "reponse": false,
+    "explication": "Au contraire, la courbe de rotation est plate : les étoiles périphériques vont aussi vite que celles proches du centre. Avec la seule matière visible, la galaxie devrait se disloquer, d'où l'idée d'une grande masse invisible.",
+    "source": "D'après Wikipédia — Vera Rubin"
+  },
+  {
+    "id": "q-astronomie-132",
+    "domain": "astronomie",
+    "format": "associer",
+    "question": "Associe chaque savant à ce qu'on lui doit.",
+    "paires": [
+      {
+        "gauche": "Aristarque de Samos",
+        "droite": "Un modèle avec le Soleil au centre",
+        "explication": "Il place le Soleil au centre et fait tourner la Terre autour, d'après Archimède."
+      },
+      {
+        "gauche": "Ératosthène",
+        "droite": "La circonférence de la Terre",
+        "explication": "Il la déduit de l'ombre d'un bâton à Alexandrie le jour du solstice."
+      },
+      {
+        "gauche": "Jean-Dominique Cassini",
+        "droite": "La division des anneaux de Saturne",
+        "explication": "Il repère la fente sombre entre les anneaux A et B."
+      },
+      {
+        "gauche": "Annie Jump Cannon",
+        "droite": "Le classement des étoiles de O à M",
+        "explication": "Sa classification range les spectres des étoiles par température."
+      }
+    ],
+    "explication": "Quatre savants, quatre idées marquantes : un Soleil au centre, une Terre mesurée à l'ombre d'un bâton, une division dans les anneaux de Saturne et un classement des étoiles selon leur température.",
+    "source": "D'après Wikipédia — Ératosthène"
+  },
+  {
+    "id": "q-astronomie-133",
+    "domain": "astronomie",
+    "format": "qui-suis-je",
+    "indices": [
+      "J'ai quitté Hanovre en 1772 pour rejoindre mon frère à Bath.",
+      "Je chantais dans ses concerts avant de l'aider à polir des miroirs de télescope.",
+      "J'ai repéré la galaxie M110, compagne d'Andromède, en 1783.",
+      "J'ai découvert huit comètes entre 1786 et 1797.",
+      "En 1787, le roi m'a accordé une pension : j'ai été la première femme payée pour un travail scientifique."
+    ],
+    "reponse": "Caroline Herschel",
+    "explication": "Caroline Herschel est passée de la musique à l'astronomie aux côtés de son frère William. Elle a découvert huit comètes et dressé le catalogue d'étoiles publié en 1798, et obtenu en 1828 une médaille d'or de la société royale d'astronomie britannique.",
+    "source": "D'après Wikipédia — Caroline Herschel"
+  },
+  {
+    "id": "q-astronomie-134",
+    "domain": "astronomie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né en Bulgarie d'un père suisse et j'ai travaillé presque toute ma vie au Caltech.",
+      "J'ai découvert 120 supernovas en 52 ans en comparant des plaques photographiques.",
+      "En 1934, j'ai proposé avec Walter Baade le mot « supernova ».",
+      "En 1933, j'ai été le premier à suggérer une matière invisible dans l'amas de Coma.",
+      "Un soir, j'ai demandé à mon assistant de tirer au pistolet pour calmer les turbulences de l'air."
+    ],
+    "reponse": "Fritz Zwicky",
+    "explication": "Fritz Zwicky a introduit le mot supernova, annoncé les étoiles à neutrons et, dès 1933, la matière invisible dans l'amas de Coma. Son esprit audacieux lui a aussi inspiré des idées fausses, comme la « lumière fatiguée ».",
+    "source": "D'après Wikipédia — Fritz Zwicky"
+  },
+  {
+    "id": "q-astronomie-135",
+    "domain": "astronomie",
+    "format": "difference",
+    "question": "Quelle est la différence entre la réaction de Chandrasekhar et celle d'Eddington devant une naine blanche trop massive ?",
+    "choix": [
+      "Chandrasekhar concluait qu'elle s'effondre, Eddington jugeait cette idée absurde et pensait qu'une loi de la nature l'en empêche",
+      "Eddington concluait qu'elle s'effondre, Chandrasekhar jugeait cette idée absurde",
+      "Tous deux pensaient qu'elle explose en supernova",
+      "Tous deux étaient certains qu'elle devient une étoile à neutrons"
+    ],
+    "bonneReponse": 0,
+    "explication": "En janvier 1935, Chandrasekhar présente ses calculs : une naine blanche trop massive s'effondre. Eddington, sans contester les calculs, juge l'idée absurde et pense qu'une loi de la nature doit l'empêcher. Ni l'un ni l'autre ne cite alors les étoiles à neutrons.",
+    "source": "D'après Wikipédia — Subrahmanyan Chandrasekhar"
+  },
+  {
+    "id": "q-astronomie-136",
+    "domain": "astronomie",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de la matière noire et des idées de Zwicky dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Zwicky suggère une matière invisible dans l'amas de Coma",
+        "annee": "1933"
+      },
+      {
+        "label": "Zwicky et Baade proposent le mot « supernova »",
+        "annee": "1934"
+      },
+      {
+        "label": "Zwicky imagine des galaxies agissant comme lentilles gravitationnelles",
+        "annee": "1937"
+      },
+      {
+        "label": "Vera Rubin relance l'idée de matière noire",
+        "annee": "1970"
+      },
+      {
+        "label": "Le « quasar jumeau » confirme l'effet de lentille",
+        "annee": "1979"
+      }
+    ],
+    "explication": "Zwicky avance la matière invisible en 1933, forge le mot supernova en 1934 et imagine les lentilles en 1937. L'idée de matière noire revient en 1970 avec Vera Rubin ; l'effet de lentille est observé en 1979.",
+    "source": "D'après Wikipédia — Fritz Zwicky"
   }
 ]

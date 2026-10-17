@@ -14,6 +14,14 @@ const PC = (() => {
   const norm = s => (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
     .replace(/[^a-z0-9]+/g, ' ').trim();
 
+  // ---------- Accueil : échelle selon la largeur de l'écran (les proportions de la maquette 1360 px) ----------
+  function setHomeZoom() {
+    const z = Math.max(0.9, Math.min(2, window.innerWidth / 1360));
+    document.documentElement.style.setProperty('--hz', z.toFixed(3));
+  }
+  setHomeZoom();
+  window.addEventListener('resize', setHomeZoom);
+
   // ---------- Menu du haut ----------
   const NAV_OF = {
     home: 'home', daily: 'home',

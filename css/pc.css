@@ -46,7 +46,7 @@
   /* ---------- Cadre général ---------- */
   #view-root { max-width: var(--pc-w); padding: 0 32px 64px; }
   /* Accueil : pleine largeur de l'écran (plus de grandes marges sur les côtés) */
-  body.is-home #view-root { max-width: none; padding-left: 40px; padding-right: 40px; }
+  body.is-home #view-root { max-width: none; padding-left: 32px; padding-right: 32px; }
   .screen:not([hidden]) { display: block; min-height: 0; justify-content: initial; padding-bottom: 32px; }
   .screen:not(.screen--home) { padding-top: 66px; }
   .screen:not(.screen--home) > * { max-width: 820px; margin-left: auto; margin-right: auto; }
@@ -72,39 +72,47 @@
 
   /* ---------- Accueil ---------- */
   .screen--home:not([hidden]) {
-    display: grid; grid-template-columns: 1.5fr 1fr 1fr; column-gap: 16px; align-content: start;
-    padding: 34px 0 32px; min-height: 0;
+    display: grid; grid-template-columns: 1.5fr 1fr 1fr; gap: 16px; align-content: start;
+    padding: 22px 0 32px; min-height: 0;
+    zoom: var(--hz, 1);   /* l'accueil garde les proportions de la maquette 1360 px, à toutes les largeurs (js/pc.js) */
   }
   .screen--home > * { grid-column: 1 / -1; }
-  .home-hero { text-align: left; margin: 0 0 26px; }
+  .home-hero { text-align: left; margin: 0; }
   .home-hero__logo, .home-hero__title { display: none; }
-  .home-hero__hello { display: block; font-size: 34px; margin: 0 0 6px; }
-  .home-hero__subtitle { font-size: 16px; }
+  .home-hero__hello { display: block; font-size: 26px; margin: 0 0 2px; }
+  .home-hero__subtitle { font-size: 13px; margin: 0; }
   .screen--home > .search-pill { display: none; }
-  .screen--home > .daily-card { grid-column: auto; margin-bottom: 16px; min-height: 190px; padding: 26px 28px; }
-  .screen--home > .daily-card .daily-card__title { font-size: 27px; }
-  .screen--home > .daily-card .daily-card__desc { font-size: 16px; }
-  .screen--home > .fact-card { grid-column: 1; margin-bottom: 16px; min-height: 190px; padding: 22px 26px 20px; justify-content: space-between; }
-  .screen--home > .fact-card .fact-card__text { font-size: 20px; -webkit-line-clamp: 5; }
-  .screen--home > .fact-card .fact-card__kicker, .screen--home > .fact-card .fact-card__src { font-size: 13px; }
-  .home-choices { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
-  .home-card { min-height: 112px; }
-  /* Cartes de l'accueil : emoji devant le titre, description dessous (comme sur la maquette) */
-  .screen--home :is(.daily-card, .home-card) { display: grid; grid-template-columns: auto 1fr auto; align-items: center; align-content: center; gap: 6px 10px; }
+  /* Rangée du haut : anecdote + bouchée + quiz du jour */
+  .screen--home > .fact-card { grid-column: 1; margin: 0; padding: 14px 16px; gap: 6px; justify-content: flex-start; }
+  .screen--home > .fact-card .fact-card__kicker, .screen--home > .fact-card .fact-card__src { font-size: 11px; font-weight: 900; letter-spacing: 1px; text-transform: uppercase; }
+  .screen--home > .fact-card .fact-card__text { font-size: 19px; line-height: 1.35; margin: 2px 0 4px; -webkit-line-clamp: 5; }
+  .screen--home > .fact-card .fact-card__foot { justify-content: flex-start; margin: 0; }
+  .screen--home > .fact-card .fact-card__go { font-size: 13px; padding: 6px 12px; }
+  .screen--home > .daily-card { grid-column: auto; margin: 0; }
+  .home-choices { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 4px; }
+  /* Cartes : emoji devant le titre, description dessous, gros dessin en filigrane dans le coin */
+  .screen--home :is(.daily-card, .home-card) {
+    position: relative; overflow: hidden; display: grid; grid-template-columns: auto 1fr auto; align-items: center; align-content: center;
+    gap: 3px 8px; min-height: 0; padding: 14px 16px; border-radius: 18px;
+  }
   .screen--home :is(.daily-card__text, .home-card__text) { display: contents; }
-  .screen--home :is(.daily-card__icon, .home-card__icon) { width: auto; height: auto; font-size: 24px; line-height: 1; background: none; border: none; border-radius: 0; box-shadow: none; filter: none; }
-  html.style-cartoon .screen--home :is(.daily-card__icon, .home-card__icon) { width: auto; height: auto; font-size: 24px; filter: none; }
-  .screen--home .daily-card__title { font-size: 27px; }
-  .screen--home .home-card__title { font-size: 22px; }
-  .screen--home :is(.daily-card__desc, .home-card__desc) { grid-column: 1 / -1; font-size: 15px; }
+  .screen--home :is(.daily-card__icon, .home-card__icon) { width: auto; height: auto; font-size: 19px; line-height: 1; background: none; border: none; border-radius: 0; box-shadow: none; filter: none; }
+  html.style-cartoon .screen--home :is(.daily-card__icon, .home-card__icon) { width: auto; height: auto; font-size: 19px; filter: none; }
+  .screen--home .daily-card__title { font-size: 22px; }
+  .screen--home .home-card__title { font-size: 19px; }
+  .screen--home :is(.daily-card__desc, .home-card__desc) { grid-column: 1 / -1; font-size: 13px; margin: 0; }
   .screen--home .daily-card__streak { grid-column: 3; grid-row: 1; }
-  .screen--home > .fact-card .fact-card__foot { justify-content: flex-start; }
-  /* Gros dessin en filigrane dans le coin des cartes de l'accueil */
-  .screen--home :is(.daily-card, .home-card) { position: relative; overflow: hidden; }
-  .screen--home .card-wm { display: block; position: absolute; right: -6px; bottom: -16px; font-size: 104px; line-height: 1; opacity: .26; transform: rotate(-10deg); pointer-events: none; }
-  .screen--home .home-card .card-wm { font-size: 84px; }
-  .pc-themes { display: block; margin-top: 36px; }
-  .pc-themes__title { font-family: var(--font-display); font-size: 24px; margin: 0 0 14px; }
+  .screen--home .card-wm { display: block; position: absolute; right: -6px; bottom: -14px; font-size: 84px; line-height: 1; opacity: .28; transform: rotate(-10deg); pointer-events: none; }
+  .screen--home .daily-card .card-wm { font-size: 110px; }
+  /* Thèmes */
+  .pc-themes { display: block; margin-top: 4px; }
+  .pc-themes__title { font-family: var(--font-display); font-size: 17px; margin: 0 0 10px; }
+  .screen--home .domain-grid { grid-template-columns: repeat(7, 1fr); gap: 12px; }
+  .screen--home .domain-tile { min-height: 92px; padding: 12px; display: grid; grid-template-columns: auto 1fr; align-items: center; align-content: center; gap: 2px 6px; font-size: 14px; }
+  html.style-cartoon .screen--home .domain-tile__emoji { display: inline-flex; align-self: center; width: auto; height: auto; font-size: 16px; filter: none; }
+  .screen--home .domain-tile__emoji img { width: 18px; height: 18px; }
+  .screen--home .domain-tile__label { font-size: 14px; }
+  .screen--home .domain-tile__count { grid-column: 1 / -1; font-size: 11px; }
   .home-footer { flex-direction: row; align-items: center; justify-content: space-between; margin-top: 32px; }
   .home-footer .home-link { width: auto; min-height: 42px; padding: 0 18px; }
 

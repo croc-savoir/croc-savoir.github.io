@@ -220,6 +220,7 @@
   .dt-group--monde { grid-column: span 2; }
   .dt-card, .dt-actions, .dt-run-head, .dt-q, .dt-answer, .dt-missed, .daily-end, .dt-type,
   #dragon-content > .btn-next { max-width: 640px; margin-left: auto; margin-right: auto; }
+  #dragon-content > .btn-next { display: flex; align-items: center; justify-content: center; }
   #dragon-content > .mode-list { max-width: 980px; margin: 0 auto; }
   .dt-q .opt-list { grid-template-columns: 1fr 1fr; }
 

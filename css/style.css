@@ -1161,3 +1161,24 @@ html.style-cartoon :is(.topbar__logo, .home-hero__logo, .pc-nav__logo img) { fil
 @media (min-width: 1024px) { .fact-card__text { font-size: 17px; -webkit-line-clamp: 4; } .fact-card { padding: 16px 20px 14px; } }
 
 .card-wm { display: none; }
+
+/* ===================== Accueil téléphone : « Le saviez-vous ? » en post-it, dessins en filigrane dans les cartes ===================== */
+@media (max-width: 1023px) {
+  .screen--home .fact-card, html.style-cartoon .screen--home .fact-card {
+    position: relative; background: #ffe27a; color: #171c2b; border: 2.5px solid #171c2b; border-radius: 4px;
+    box-shadow: 3px 4px 0 #171c2b; transform: rotate(-1.6deg); margin: 6px 14px 18px 2px; padding: 14px 14px 12px; gap: 5px;
+  }
+  .screen--home .fact-card::before {
+    content: ''; position: absolute; top: -11px; left: 50%; width: 66px; height: 20px; margin-left: -33px;
+    background: rgba(255, 160, 190, .85); border: 2px solid rgba(23, 28, 43, .45); transform: rotate(-3deg); box-shadow: 0 2px 0 rgba(0, 0, 0, .22);
+  }
+  .screen--home .fact-card::after {
+    content: ''; position: absolute; right: 0; bottom: 0; width: 22px; height: 22px; background: linear-gradient(135deg, transparent 50%, rgba(23, 28, 43, .25) 50%);
+  }
+  .screen--home .fact-card__go, html.style-cartoon .screen--home .fact-card__go { background: #fff; color: #171c2b; border: 2.5px solid #171c2b; box-shadow: 0 3px 0 #171c2b; }
+  .screen--home .fact-card__text { font-size: 14.5px; }
+  .screen--home :is(.daily-card, .home-card) { position: relative; overflow: hidden; }
+  .screen--home .card-wm { display: block; position: absolute; right: -4px; bottom: -12px; font-size: 62px; line-height: 1; opacity: .28; transform: rotate(-10deg); pointer-events: none; }
+  .screen--home .daily-card .card-wm { font-size: 62px; right: -2px; bottom: -14px; opacity: .24; }
+  .screen--home .home-card--fiches .card-wm, .screen--home .home-card--quiz .card-wm { font-size: 54px; }
+}

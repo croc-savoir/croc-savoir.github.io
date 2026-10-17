@@ -22,7 +22,7 @@ html.style-cartoon {
  * on leur donne la couleur du texte (:where() = priorité nulle, toute règle de classe garde le dessus). */
 :where(html.style-cartoon) :where(button, input, textarea, select) { color: var(--text); }
 html.style-cartoon body {
-  background: radial-gradient(rgba(255, 255, 255, 0.035) 1.6px, transparent 1.7px) 0 0 / 20px 20px, var(--bg);
+  background: linear-gradient(180deg, #323845, #242830) fixed, var(--bg);
 }
 html.style-cartoon body::before { display: none; }
 html.style-cartoon .screen-bar { background: var(--bg-soft); backdrop-filter: none; -webkit-backdrop-filter: none; border-bottom: 3px solid var(--ink); }

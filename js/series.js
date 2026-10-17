@@ -34,8 +34,15 @@ const Series = (() => {
     if (pct >= 0.5) return 'Pas mal du tout !';
     return 'Continue, tu progresses !';
   }
-  // Teinte du score : bleu (mauvaise note) → jaune (moyen) → vert (bonne note) ; le vert est réservé aux bons scores
-  function hueFor(pct) { return pct < 0.5 ? 215 : pct < 0.7 ? 42 : 145; }
+  // Teinte du score : couleurs froides pour les mauvaises notes (bleu), de plus en plus chaudes ensuite ; le rouge est réservé à la meilleure note
+  const HUE_STOPS = [[0, 215], [0.3, 200], [0.5, 160], [0.7, 58], [0.9, 28], [1, 2]];
+  function hueFor(pct) {
+    for (let i = 1; i < HUE_STOPS.length; i++) {
+      const [p1, h1] = HUE_STOPS[i];
+      if (pct <= p1) { const [p0, h0] = HUE_STOPS[i - 1]; return Math.round(h0 + (h1 - h0) * (pct - p0) / (p1 - p0)); }
+    }
+    return HUE_STOPS[HUE_STOPS.length - 1][1];
+  }
 
   // ---------- Texte de la bonne réponse (pour la liste des erreurs) ----------
   function questionText(it) {
@@ -143,6 +150,7 @@ const Series = (() => {
     }).join('');
 
     wrap.innerHTML = `
+      <div class="serie-end__side">
       <div class="serie-end__top">
         <div class="serie-end__medal"><span class="serie-end__medal-emoji">${medal ? medal.emoji : '💪'}</span></div>
         <h2 class="serie-end__msg">${messageFor(pct)}</h2>
@@ -154,8 +162,11 @@ const Series = (() => {
         <div class="serie-end__bar" role="img" aria-label="${Math.round(pct * 100)} % de réussite"><i style="--p:${pct}"></i></div>
       </div>
       ${opts.note ? `<p class="serie-end__note">${escapeHTML(opts.note)}</p>` : ''}
-      <h3 class="serie-recap__title">Récapitulatif</h3>
-      <div class="serie-recap">${recap}</div>`;
+      </div>
+      <div class="serie-end__main">
+      <h3 class="serie-recap__title">Récapitulatif <span class="serie-recap__chips"><b class="is-ok">✓ ${score}</b><b class="is-ko">✕ ${total - score}</b></span></h3>
+      <div class="serie-recap">${recap}</div>
+      </div>`;
 
     const actions = document.createElement('div');
     actions.className = 'serie-end__actions';

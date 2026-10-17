@@ -127,3 +127,4 @@ html.style-cartoon.anim-on :is(.home-card, .daily-card, .mode-card, .domain-tile
 /* Écran de fin : barre de réussite (la couleur suit le score : bleu = mauvais, jaune = moyen, vert = bon) */
 html.style-cartoon .serie-end__bar { height: 16px; border: 2.5px solid var(--ink); background: #171c2b; border-radius: 9px; box-shadow: 0 3px 0 var(--ink); }
 html.style-cartoon .serie-end__bar i { border-radius: 0; background: linear-gradient(180deg, hsl(var(--score-h) 95% 72%), hsl(var(--score-h) 85% 55%)); }
+html.style-cartoon .serie-recap__chips b { border: 2.5px solid var(--ink); box-shadow: 0 2px 0 var(--ink); }

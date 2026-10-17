@@ -1172,3 +1172,8 @@ html.style-cartoon :is(.topbar__logo, .home-hero__logo, .pc-nav__logo img) { fil
 .fact-card__foot { display: flex; justify-content: flex-start; margin-top: 2px; }
 .fact-card__go { font-size: 12px; font-weight: 800; padding: 5px 10px; border-radius: 10px; background: #fff; color: #171c2b; border: 2.5px solid #171c2b; box-shadow: 0 3px 0 #171c2b; }
 .fact-card__photo { display: none; }
+
+.serie-recap__chips { display: inline-flex; gap: 8px; font-size: 14px; }
+.serie-recap__chips b { padding: 3px 10px; border-radius: 999px; }
+.serie-recap__chips .is-ok { background: var(--success-bg); color: var(--success); }
+.serie-recap__chips .is-ko { background: var(--danger-bg); color: var(--danger); }

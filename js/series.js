@@ -128,17 +128,7 @@ const Series = (() => {
     wrap.dataset.pct = String(pct);
     wrap.style.setProperty('--score-h', String(hueFor(pct)));
 
-    let flames = '';
-    if (pct === 1) {
-      // rangée de flammes qui lèchent le score (plus grosses au centre) + deux grandes flammes sur les côtés
-      const n = 9;
-      for (let k = 0; k < n; k++) {
-        const t = k / (n - 1) - 0.5;                       // -0.5 … 0.5
-        const size = Math.round(40 - Math.abs(t) * 30);     // 40 px au centre, 25 px aux bords
-        flames += `<span class="serie-end__flame" style="left:calc(50% + ${(t * 270).toFixed(0)}px);bottom:${(-6 + Math.abs(t) * 18).toFixed(0)}px;font-size:${size}px;--fd:${(k * 130) % 700}ms">🔥</span>`;
-      }
-      flames += '<span class="serie-end__flame serie-end__flame--side" style="left:-6px;--fd:200ms">🔥</span><span class="serie-end__flame serie-end__flame--side" style="right:-6px;left:auto;--fd:450ms">🔥</span>';
-    }
+    const flames = '';   // 10/10 : pas d'emojis de flammes (le feu est dans le dégradé, le halo et la barre)
 
     // Récapitulatif : chaque question avec ta réponse et la bonne réponse (sans les explications)
     const recap = items.map((it, i) => {

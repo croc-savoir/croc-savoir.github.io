@@ -111,6 +111,7 @@ const App = (() => {
         ? `${nD} thèmes · ${DataStore.compte(nF, 'fiche')} · ${DataStore.compte(nQ, 'question')}`
         : `${nD} thèmes · ${approx(nF, 'fiches')} · ${approx(nQ, 'quiz')}`;
     renderDailyCard();
+    Saviez.render();
     Series.updateHomeCard();
     document.getElementById('dragon-badge').hidden = !Dragon.hasDue();
     const errBtn = document.getElementById('btn-errors');   // retiré de l'accueil (remplacé par le choix de style)

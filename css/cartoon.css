@@ -122,3 +122,7 @@ html.style-cartoon .serie-bar__fill { background: #3f82e8; }
 /* ---------- Pas de lueur en mode cartoon (animations) ---------- */
 html.style-cartoon.anim-on :is(.opt-btn.is-correct, .pair-item.is-good, .frise-item.is-correct-pos)::before { display: none; }
 html.style-cartoon.anim-on :is(.home-card, .daily-card, .mode-card, .domain-tile, .subtheme-row, .fiche-list-item)::after { display: none; }
+
+/* « Le saviez-vous ? » */
+html.style-cartoon .fact-card { background: linear-gradient(160deg, #a07af5, #7b52dc); color: #fff; border: 2.5px solid var(--ink); box-shadow: 0 4px 0 var(--ink), inset 0 2px 0 rgba(255, 255, 255, 0.1); border-radius: 18px; }
+html.style-cartoon .fact-card__go { border: 2.5px solid var(--ink); box-shadow: 0 3px 0 var(--ink); }

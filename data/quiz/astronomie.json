@@ -2121,5 +2121,277 @@
     ],
     "explication": "Zwicky avance la matière invisible en 1933, forge le mot supernova en 1934 et imagine les lentilles en 1937. L'idée de matière noire revient en 1970 avec Vera Rubin ; l'effet de lentille est observé en 1979.",
     "source": "D'après Wikipédia — Fritz Zwicky"
+  },
+  {
+    "id": "q-astronomie-137",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quel phénomène Hipparque découvre-t-il en comparant son catalogue d'étoiles à celui de Timocharis, plus ancien d'un siècle ?",
+    "choix": [
+      "La précession des équinoxes",
+      "L'expansion de l'Univers",
+      "La rotation de Vénus",
+      "L'existence de la planète Neptune"
+    ],
+    "bonneReponse": 0,
+    "explication": "En confrontant ses relevés à ceux de ses prédécesseurs, Hipparque voit les positions des étoiles glisser lentement : c'est la précession des équinoxes. Il l'estime à au moins 1° par siècle, une valeur remarquable pour l'époque.",
+    "source": "D'après Wikipédia — Hipparque (astronome)"
+  },
+  {
+    "id": "q-astronomie-138",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Giordano Bruno soutenait que les étoiles sont des soleils lointains, entourés de leurs propres planètes.",
+    "reponse": true,
+    "explication": "Bruno prolonge Copernic en imaginant un Univers infini, sans centre, peuplé d'innombrables soleils et de mondes comparables au nôtre. Condamné par l'Inquisition, il est brûlé à Rome en 1600 après huit ans de procès.",
+    "source": "D'après Wikipédia — Giordano Bruno"
+  },
+  {
+    "id": "q-astronomie-139",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quelle institution Camille Flammarion fonde-t-il en 1887, avec lui comme premier président ?",
+    "choix": [
+      "La Société astronomique de France",
+      "L'Académie des sciences",
+      "Le Bureau des longitudes",
+      "Le Muséum d'histoire naturelle"
+    ],
+    "bonneReponse": 0,
+    "explication": "Flammarion crée la Société astronomique de France en 1887 et dirige son bulletin mensuel jusqu'à sa mort. Il avait déjà installé en 1883 son observatoire de Juvisy-sur-Orge, où il fait de l'astrophotographie.",
+    "source": "D'après Wikipédia — Camille Flammarion"
+  },
+  {
+    "id": "q-astronomie-140",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quelle difficulté Alexeï Leonov rencontre-t-il à la fin de la première sortie dans l'espace, en 1965 ?",
+    "choix": [
+      "Sa combinaison s'est gonflée et l'empêche de rentrer dans le sas",
+      "Son câble de liaison s'est rompu",
+      "Le sas gonflable a éclaté",
+      "Son oxygène est presque épuisé"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans le vide, la combinaison de Leonov s'est tellement gonflée qu'il ne pouvait plus passer dans le sas. Il a ouvert une soupape pour la dégonfler un peu et a regagné la capsule Voskhod 2 de justesse, après environ 12 minutes dehors.",
+    "source": "D'après Wikipédia — Alexeï Leonov"
+  },
+  {
+    "id": "q-astronomie-141",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Le missile V2, mis au point sous la direction de Wernher von Braun, est le premier objet fabriqué par l'être humain à avoir atteint l'espace.",
+    "reponse": true,
+    "explication": "Le 20 juin 1944, un V2 franchit la limite de l'espace, la ligne de Kármán. Von Braun passera ensuite aux États-Unis, où il dirigera le développement de la Saturn V, qui a envoyé les astronautes d'Apollo vers la Lune.",
+    "source": "D'après Wikipédia — Wernher von Braun"
+  },
+  {
+    "id": "q-astronomie-142",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quel journal s'est moqué de Robert Goddard en 1920 avant de présenter ses regrets en 1969 ?",
+    "choix": [
+      "Le New York Times",
+      "Le Washington Post",
+      "Le Times de Londres",
+      "Le Scientific American"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un éditorial du New York Times de 1920 jugeait Goddard ignorant, car une fusée ne pourrait pas avancer dans le vide. Le journal a reconnu son erreur le 17 juillet 1969 : « Le Times regrette son erreur ».",
+    "source": "D'après Wikipédia — Robert Goddard (physicien)"
+  },
+  {
+    "id": "q-astronomie-143",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quel monument a inspiré à Tsiolkovski, en 1895, l'idée d'une tour géante pour hisser des charges en orbite, ancêtre de l'ascenseur spatial ?",
+    "choix": [
+      "La tour Eiffel",
+      "La tour de Pise",
+      "Le Colisée de Rome",
+      "La Statue de la Liberté"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tsiolkovski s'est appuyé sur le modèle de la tour Eiffel pour imaginer une tour de 36 000 km de haut. Un ascenseur y aurait monté des charges jusqu'à l'orbite : c'est la première version de l'ascenseur spatial.",
+    "source": "D'après Wikipédia — Constantin Tsiolkovski"
+  },
+  {
+    "id": "q-astronomie-144",
+    "domain": "astronomie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Né dans l'Illinois, j'ai grandi dans des fermes du Kansas.",
+      "J'ai fabriqué mes premiers télescopes avec des pièces de voitures et de machines agricoles.",
+      "En 1929, l'observatoire Lowell m'engage pour chercher une planète au-delà de Neptune.",
+      "Je compare des photos du ciel avec un comparateur à clignotement.",
+      "Le 18 février 1930, je découvre Pluton."
+    ],
+    "reponse": "Clyde Tombaugh",
+    "explication": "Clyde Tombaugh a découvert Pluton en 1930, à partir de photos prises en janvier. Une partie de ses cendres voyage aujourd'hui à bord de la sonde New Horizons, qui a survolé Pluton en 2015.",
+    "source": "D'après Wikipédia — Clyde William Tombaugh"
+  },
+  {
+    "id": "q-astronomie-145",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Qui a proposé le nom de Pluton pour la planète découverte par Clyde Tombaugh en 1930 ?",
+    "choix": [
+      "Une fillette anglaise de 11 ans, Venetia Burney",
+      "Percival Lowell, le fondateur de l'observatoire",
+      "Clyde Tombaugh lui-même",
+      "Le directeur de l'observatoire de Greenwich"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nom est proposé par Venetia Burney, 11 ans. Pluton, dieu romain qui peut se rendre invisible, convenait bien, et ses deux premières lettres sont les initiales de Percival Lowell. Le nom est adopté le 1er mai 1930.",
+    "source": "D'après Wikipédia — Clyde William Tombaugh"
+  },
+  {
+    "id": "q-astronomie-146",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Youri Gagarine a atterri à l'intérieur de sa capsule Vostok 1 en 1961.",
+    "reponse": false,
+    "explication": "Gagarine s'est éjecté à 7 km d'altitude et a atterri en parachute, séparément de la capsule. Les Soviétiques ont d'abord caché ce détail, car le règlement de la fédération aéronautique exigeait un atterrissage dans l'engin.",
+    "source": "D'après Wikipédia — Vostok 1"
+  },
+  {
+    "id": "q-astronomie-147",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Que lisent les astronautes d'Apollo 8 lors de leur émission de télévision de la veille de Noël 1968, depuis l'orbite lunaire ?",
+    "choix": [
+      "Les dix premiers versets de la Genèse",
+      "La Déclaration d'indépendance américaine",
+      "Un passage de De la Terre à la Lune de Jules Verne",
+      "Le discours de Kennedy sur la Lune"
+    ],
+    "bonneReponse": 0,
+    "explication": "Depuis l'orbite lunaire, Borman, Lovell et Anders lisent les dix premiers versets de la Genèse. À l'époque, c'est l'émission de télévision la plus regardée de tous les temps. Le retour a lieu le 27 décembre 1968.",
+    "source": "D'après Wikipédia — Apollo 8"
+  },
+  {
+    "id": "q-astronomie-148",
+    "domain": "astronomie",
+    "format": "frise",
+    "question": "Remets dans l'ordre ces étapes de l'histoire de Skylab.",
+    "evenements": [
+      {
+        "label": "Von Braun décrit une station géante dans le magazine Collier's",
+        "annee": "1952"
+      },
+      {
+        "label": "Lancement du Programme des applications Apollo",
+        "annee": "1965"
+      },
+      {
+        "label": "Mise en orbite de Skylab",
+        "annee": "1973"
+      },
+      {
+        "label": "Retombée de Skylab dans l'atmosphère",
+        "annee": "1979"
+      }
+    ],
+    "explication": "Von Braun rêvait dès 1952 d'une station géante. En 1965, la NASA lance le Programme des applications Apollo pour réutiliser son matériel. Skylab est mise en orbite en 1973 et se désintègre dans l'atmosphère en 1979.",
+    "source": "D'après Wikipédia — Skylab"
+  },
+  {
+    "id": "q-astronomie-149",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Pourquoi lancer les fusées depuis la Guyane, près de l'équateur, est-il avantageux ?",
+    "choix": [
+      "La rotation de la Terre y donne le plus de vitesse gratuite vers l'est",
+      "La gravité y est beaucoup plus faible",
+      "L'atmosphère y est absente",
+      "Il n'y a jamais de nuages"
+    ],
+    "bonneReponse": 0,
+    "explication": "À l'équateur, la surface de la Terre tourne plus vite : une fusée lancée vers l'est en profite pour économiser du carburant. Avec la mer à l'est et au nord, les trajectoires survolent aussi des zones sans habitants.",
+    "source": "D'après Wikipédia — Centre spatial guyanais"
+  },
+  {
+    "id": "q-astronomie-150",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Que signifie « Tiangong », le nom de la station spatiale chinoise ?",
+    "choix": [
+      "Palais céleste",
+      "Harmonie des cieux",
+      "Vaisseau divin",
+      "Dragon du ciel"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tiangong veut dire « palais céleste ». Comme les modules Tianhe, Wentian ou Mengtian, ce nom mythologique est venu remplacer les noms révolutionnaires des débuts du programme spatial chinois.",
+    "source": "D'après Wikipédia — Station spatiale chinoise"
+  },
+  {
+    "id": "q-astronomie-151",
+    "domain": "astronomie",
+    "format": "associer",
+    "question": "Associe chaque élément de la station spatiale chinoise à la traduction de son nom.",
+    "paires": [
+      {
+        "gauche": "Tianhe",
+        "droite": "Harmonie des cieux",
+        "explication": "C'est le module central, lancé le 29 avril 2021."
+      },
+      {
+        "gauche": "Wentian",
+        "droite": "Quête des cieux",
+        "explication": "Premier laboratoire de la station, lancé en juillet 2022."
+      },
+      {
+        "gauche": "Mengtian",
+        "droite": "Rêver des cieux",
+        "explication": "Second laboratoire, lancé le 31 octobre 2022."
+      },
+      {
+        "gauche": "Tianzhou",
+        "droite": "Vaisseau céleste",
+        "explication": "Le cargo qui ravitaille la station."
+      }
+    ],
+    "explication": "Ces noms ont été choisis pour leur côté poétique. Dans l'ordre : le module principal, deux laboratoires placés de part et d'autre, et le cargo de ravitaillement. Chaque module de la station porte ainsi un nom poétique.",
+    "source": "D'après Wikipédia — Station spatiale chinoise"
+  },
+  {
+    "id": "q-astronomie-152",
+    "domain": "astronomie",
+    "format": "difference",
+    "question": "Quelle est la différence entre l'orbiteur et l'atterrisseur d'une sonde Viking ?",
+    "choix": [
+      "L'orbiteur photographie Mars depuis l'espace et relaie les messages, l'atterrisseur se pose et analyse le sol",
+      "L'orbiteur se pose sur Mars, l'atterrisseur reste en orbite autour de la Terre",
+      "L'orbiteur est un engin habité, l'atterrisseur est automatique",
+      "Il n'y en a aucune, les deux se posent ensemble"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chaque sonde Viking comprenait un orbiteur, qui cartographiait la planète depuis l'orbite et servait de relais, et un atterrisseur, qui s'est posé en 1976 pour analyser le sol et l'air de Mars.",
+    "source": "D'après Wikipédia — Programme Viking"
+  },
+  {
+    "id": "q-astronomie-153",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Avant l'Agence spatiale européenne, le lanceur européen Europa a réussi ses sept lancements.",
+    "reponse": false,
+    "explication": "Europa a connu sept échecs sur sept lancements, le dernier en 1972. Cet échec complet a imposé de tout repenser et conduit à l'accord de 1973, puis à la création de l'ESA en 1975, avec Ariane comme grand projet.",
+    "source": "D'après Wikipédia — Agence spatiale européenne"
+  },
+  {
+    "id": "q-astronomie-154",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quel astronome a aidé à choisir les sites d'atterrissage des deux sondes Viking sur Mars ?",
+    "choix": [
+      "Carl Sagan",
+      "Clyde Tombaugh",
+      "Percival Lowell",
+      "Camille Flammarion"
+    ],
+    "bonneReponse": 0,
+    "explication": "Carl Sagan a participé au choix des sites d'atterrissage de Viking 1 et Viking 2, qui se sont posées en 1976. Le programme n'a pas permis de dire si des formes de vie existaient dans le sol martien.",
+    "source": "D'après Wikipédia — Programme Viking"
   }
 ]

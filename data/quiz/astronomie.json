@@ -2393,5 +2393,561 @@
     "bonneReponse": 0,
     "explication": "Carl Sagan a participé au choix des sites d'atterrissage de Viking 1 et Viking 2, qui se sont posées en 1976. Le programme n'a pas permis de dire si des formes de vie existaient dans le sol martien.",
     "source": "D'après Wikipédia — Programme Viking"
+  },
+  {
+    "id": "q-astronomie-155",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Qui a choisi le nom « Curiosity » pour le rover martien de la NASA ?",
+    "choix": [
+      "Une élève de douze ans, gagnante d'un concours national",
+      "Un vote interne des ingénieurs du laboratoire JPL",
+      "Un astronaute de la NASA, par tirage au sort",
+      "Le directeur de l'agence spatiale, sans concours"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nom est celui de Clara Ma, élève de douze ans dans le Kansas, choisie parmi plus de 9 000 propositions. Elle a eu le privilège de signer de sa main directement sur le rover pendant son assemblage.",
+    "source": "D'après Wikipédia — Curiosity (astromobile)"
+  },
+  {
+    "id": "q-astronomie-156",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Pourquoi la sonde Galileo a-t-elle été précipitée dans l'atmosphère de Jupiter à la fin de sa mission, en 2003 ?",
+    "choix": [
+      "Pour ne pas risquer de contaminer les lunes de Jupiter avec des bactéries",
+      "Parce qu'elle n'avait plus aucun instrument en état de marche",
+      "Pour mesurer la température au cœur de la planète",
+      "Pour libérer son orbite avant l'arrivée d'une autre sonde"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après huit ans autour de Jupiter, Galileo avait subi trois fois plus de radiations que prévu. La NASA l'a détruite en la plongeant dans la planète, afin d'éviter qu'elle ne finisse un jour sur une lune comme Europe avec des bactéries terrestres.",
+    "source": "D'après Wikipédia — Galileo (sonde spatiale)"
+  },
+  {
+    "id": "q-astronomie-157",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Qu'a de particulier la sonde Juno, par rapport aux sondes précédentes envoyées vers le système solaire externe ?",
+    "choix": [
+      "Elle est alimentée par des panneaux solaires",
+      "Elle a été pilotée par des astronautes à distance",
+      "Elle a atterri sur Jupiter",
+      "Elle est équipée d'un générateur nucléaire plus puissant"
+    ],
+    "bonneReponse": 0,
+    "explication": "Juno est la première sonde dirigée vers une planète externe à fonctionner avec des panneaux solaires, au lieu de générateurs nucléaires. Ses trois grandes ailes étaient les plus larges jamais déployées sur une sonde planétaire.",
+    "source": "D'après Wikipédia — Juno (sonde spatiale)"
+  },
+  {
+    "id": "q-astronomie-158",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quelle énigme la sonde Parker Solar Probe cherche-t-elle à résoudre ?",
+    "choix": [
+      "Pourquoi la couronne solaire est beaucoup plus chaude que la surface du Soleil",
+      "Pourquoi le Soleil tourne plus vite à l'équateur qu'aux pôles",
+      "Combien de planètes tournent autour du Soleil",
+      "De quoi est faite la matière noire"
+    ],
+    "bonneReponse": 0,
+    "explication": "La surface du Soleil atteint environ 6 000 °C au plus, mais la couronne qui l'entoure grimpe vers un million de degrés. Parker plonge dans cette couche pour comprendre ce qui la chauffe et accélère le vent solaire.",
+    "source": "D'après Wikipédia — Parker (sonde spatiale)"
+  },
+  {
+    "id": "q-astronomie-159",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Que signifiait à l'origine le sigle Gaia, nom du satellite européen cartographe de la Voie lactée ?",
+    "choix": [
+      "Global Astrometric Interferometer for Astrophysics",
+      "Galactic Atlas of Intense Astronomy",
+      "Geometric Array for Interstellar Analysis",
+      "General Astronomical Imager of Atlases"
+    ],
+    "bonneReponse": 0,
+    "explication": "Gaia était un acronyme, pour Global Astrometric Interferometer for Astrophysics. La technique d'interférométrie a été abandonnée en cours de projet, mais le nom est resté pour assurer la continuité avec les premières études.",
+    "source": "D'après Wikipédia — Gaia (satellite)"
+  },
+  {
+    "id": "q-astronomie-160",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "De quelle langue viennent les noms Antu, Kueyen, Melipal et Yepun, donnés aux quatre grands télescopes du VLT ?",
+    "choix": [
+      "Le mapuche, langue d'un peuple du Chili",
+      "Le quechua, langue des Andes péruviennes",
+      "Le nahuatl, langue des Aztèques",
+      "Le guarani, langue du Paraguay"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ces quatre noms désignent le Soleil, la Lune, la Croix du Sud et Vénus en mapuche, la langue d'un peuple vivant surtout au sud de Santiago. Ils ont été choisis en 1999, à l'inauguration du site du Paranal, au Chili.",
+    "source": "D'après Wikipédia — Très Grand Télescope"
+  },
+  {
+    "id": "q-astronomie-161",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quelle défaillance a provoqué la perte de la navette Challenger, en 1986 ?",
+    "choix": [
+      "Des joints d'étanchéité durcis par le froid sur un propulseur d'appoint",
+      "Un morceau de mousse isolante tombé du réservoir",
+      "Une panne des trois moteurs principaux",
+      "Un impact avec un débris spatial en orbite"
+    ],
+    "bonneReponse": 0,
+    "explication": "Par une matinée inhabituellement froide, les joints en caoutchouc du propulseur droit ont durci et laissé s'échapper des gaz brûlants. Des ingénieurs avaient averti du risque la veille, mais le lancement avait été maintenu.",
+    "source": "D'après Wikipédia — Accident de la navette spatiale Challenger"
+  },
+  {
+    "id": "q-astronomie-162",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Qu'est-ce qui a endommagé la navette Columbia lors de son décollage, en janvier 2003 ?",
+    "choix": [
+      "Un morceau de mousse isolante détaché du réservoir externe",
+      "La foudre pendant l'ascension",
+      "Un oiseau aspiré par un moteur",
+      "L'explosion d'un propulseur d'appoint"
+    ],
+    "bonneReponse": 0,
+    "explication": "Environ 82 secondes après le décollage, un bloc de mousse a heurté le bord de l'aile gauche. Lors de la rentrée, le 1er février, des gaz très chauds sont entrés par la brèche, et la navette s'est désintégrée.",
+    "source": "D'après Wikipédia — Accident de la navette spatiale Columbia"
+  },
+  {
+    "id": "q-astronomie-163",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Qui a observé le premier transit de Vénus de l'histoire, en 1639 ?",
+    "choix": [
+      "Jeremiah Horrocks, depuis son domicile en Angleterre",
+      "Johannes Kepler, depuis Prague",
+      "Edmond Halley, depuis l'île de Sainte-Hélène",
+      "James Cook, depuis Tahiti"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jeremiah Horrocks avait corrigé les calculs de Kepler et prédit le passage. Le 4 décembre 1639, il l'a vu en projetant l'image du Soleil sur un écran, quand les nuages se sont dégagés vers 15 h 15.",
+    "source": "D'après Wikipédia — Transit de Vénus"
+  },
+  {
+    "id": "q-astronomie-164",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Que les détecteurs du Japon, des États-Unis et de Russie ont-ils capté environ trois heures avant la lumière de SN 1987A ?",
+    "choix": [
+      "Une brève rafale de neutrinos",
+      "Un flash de rayons gamma",
+      "Des ondes gravitationnelles",
+      "Un signal radio très intense"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une vingtaine de neutrinos sont arrivés en moins de 13 secondes. Ils sont émis dès l'effondrement de l'étoile, avant que l'explosion n'atteigne la surface, ce qui est la première détection directe de neutrinos de supernova.",
+    "source": "D'après Wikipédia — SN 1987A"
+  },
+  {
+    "id": "q-astronomie-165",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Comment les sursauts gamma ont-ils été découverts, en 1967 ?",
+    "choix": [
+      "Par des satellites américains qui surveillaient d'éventuels essais nucléaires",
+      "Par un télescope spatial dédié aux rayons gamma",
+      "Par des astronomes amateurs équipés de radiotélescopes",
+      "Par une sonde envoyée vers Jupiter"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les satellites Vela, conçus pour détecter les explosions atomiques interdites par un traité, ont enregistré un flash gamma inexplicable. Après analyse de 16 cas, l'équipe de Los Alamos a publié la découverte en 1973.",
+    "source": "D'après Wikipédia — Sursaut gamma"
+  },
+  {
+    "id": "q-astronomie-166",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Le rover Opportunity a fonctionné pendant plus de dix ans, alors que sa mission ne prévoyait qu'environ 90 jours martiens.",
+    "reponse": true,
+    "explication": "Posé en janvier 2004, Opportunity a travaillé jusqu'à une grande tempête de sable en 2018. Sa mission a été déclarée terminée en février 2019. Son jumeau Spirit s'est arrêté en 2010 après s'être ensablé.",
+    "source": "D'après Wikipédia — Mars Exploration Rover"
+  },
+  {
+    "id": "q-astronomie-167",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "La mission DART a percuté un astéroïde qui menaçait de tomber sur la Terre.",
+    "reponse": false,
+    "explication": "Ni Dimorphos ni son astéroïde compagnon Didymos ne menaçaient la Terre, avant comme après le test. DART était un essai de défense planétaire : on a choisi une cible inoffensive pour apprendre à dévier un astéroïde.",
+    "source": "D'après Wikipédia — Double Asteroid Redirection Test"
+  },
+  {
+    "id": "q-astronomie-168",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "À l'observatoire de Parkes, la plupart des sursauts d'allure « radio rapide » détectés sur place venaient en fait d'un four à micro-ondes.",
+    "reponse": true,
+    "explication": "Ces faux signaux, appelés perytons, venaient d'un four à micro-ondes de l'observatoire. Ils n'expliquent pourtant pas le premier vrai sursaut, découvert par Duncan Lorimer et son étudiant David Narkevic en 2007.",
+    "source": "D'après Wikipédia — Sursaut radio rapide"
+  },
+  {
+    "id": "q-astronomie-169",
+    "domain": "astronomie",
+    "format": "associer",
+    "question": "Associe chaque mission à son objectif.",
+    "paires": [
+      {
+        "gauche": "Kepler",
+        "droite": "Chercher des exoplanètes par la méthode des transits",
+        "explication": "Il surveillait la lumière de milliers d'étoiles à l'affût d'un transit."
+      },
+      {
+        "gauche": "Gaia",
+        "droite": "Cartographier la position et le mouvement de plus d'un milliard d'astres",
+        "explication": "Satellite européen d'astrométrie, il dessine une carte 3D de la Voie lactée."
+      },
+      {
+        "gauche": "DART",
+        "droite": "Dévier un astéroïde en le percutant",
+        "explication": "Premier essai réel de défense planétaire de l'histoire."
+      },
+      {
+        "gauche": "Parker Solar Probe",
+        "droite": "Plonger dans la couronne du Soleil",
+        "explication": "Elle s'approche du Soleil grâce aux survols répétés de Vénus."
+      }
+    ],
+    "explication": "Ces quatre missions ont chacune ouvert un domaine : les exoplanètes pour Kepler, la carte de notre galaxie pour Gaia, la défense planétaire pour DART et la physique du Soleil pour Parker.",
+    "source": "D'après Wikipédia — Kepler (télescope spatial)"
+  },
+  {
+    "id": "q-astronomie-170",
+    "domain": "astronomie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je pèse environ 10 kg.",
+      "Je suis arrivé sur Mars à bord d'un atterrisseur qui a rebondi dans des airbags.",
+      "Mon atterrisseur a été rebaptisé Carl Sagan Memorial Station.",
+      "Je me suis posé sur Mars le 4 juillet 1997.",
+      "Je suis le premier rover à avoir roulé hors du système Terre-Lune."
+    ],
+    "reponse": "Sojourner",
+    "explication": "Sojourner est le petit rover de la mission Mars Pathfinder. Premier engin roulant à opérer hors du système Terre-Lune, il a analysé des roches de la plaine d'Ares Vallis pendant que le monde suivait l'aventure sur Internet.",
+    "source": "D'après Wikipédia — Mars Pathfinder"
+  },
+  {
+    "id": "q-astronomie-171",
+    "domain": "astronomie",
+    "format": "frise",
+    "question": "Remets ces moments de l'histoire des transits de Vénus dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Jeremiah Horrocks observe le premier transit",
+        "annee": "1639"
+      },
+      {
+        "label": "Expéditions dans le monde entier, dont Mason et Dixon au Cap de Bonne-Espérance",
+        "annee": "1761"
+      },
+      {
+        "label": "Dernier transit de la paire de la fin du XIXe siècle",
+        "annee": "1882"
+      },
+      {
+        "label": "Dernier transit en date, avant celui de 2117",
+        "annee": "2012"
+      }
+    ],
+    "explication": "Après Horrocks en 1639, les transits de 1761 et 1769 ont servi à mesurer la distance Terre-Soleil. Celui de 1882 a complété une paire, et celui de 2012 est le plus récent : le prochain n'aura lieu qu'en 2117.",
+    "source": "D'après Wikipédia — Transit de Vénus"
+  },
+  {
+    "id": "q-astronomie-172",
+    "domain": "astronomie",
+    "format": "difference",
+    "question": "Quelle est la différence entre un sursaut gamma long et un sursaut gamma court ?",
+    "choix": [
+      "Le long vient de l'effondrement d'une étoile géante, le court de la fusion de deux étoiles à neutrons",
+      "Le long vient d'une étoile à neutrons, le court d'un trou noir",
+      "Le long vient de notre galaxie, le court d'une autre galaxie",
+      "Le long est visible à l'œil nu, le court seulement aux rayons X"
+    ],
+    "bonneReponse": 0,
+    "explication": "La théorie dominante associe les sursauts longs (plus de deux secondes) à l'effondrement d'une étoile géante en hypernova, et les courts à la fusion de deux étoiles à neutrons, une kilonova. Tous viennent d'autres galaxies.",
+    "source": "D'après Wikipédia — Sursaut gamma"
+  },
+  {
+    "id": "q-astronomie-173",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Que cherchaient à mesurer Eddington et les autres astronomes en photographiant des étoiles pendant l'éclipse du 29 mai 1919 ?",
+    "choix": [
+      "La déviation de la lumière des étoiles par la gravité du Soleil",
+      "La température de la couronne solaire",
+      "La distance exacte entre la Terre et la Lune",
+      "La vitesse de rotation du Soleil"
+    ],
+    "bonneReponse": 0,
+    "explication": "Einstein prévoyait que la gravité du Soleil courbe la lumière des étoiles voisines. Seule une éclipse totale permet de les photographier de jour. Les clichés de 1919 ont été jugés conformes à sa prédiction.",
+    "source": "D'après Wikipédia — Éclipse solaire du 29 mai 1919"
+  },
+  {
+    "id": "q-astronomie-174",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quel élément, mesuré dans de vieilles étoiles, ne correspond pas aux prévisions de la nucléosynthèse primordiale ?",
+    "choix": [
+      "Le lithium",
+      "L'hélium",
+      "Le carbone",
+      "Le fer"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le modèle du Big Bang prédit bien les proportions d'hydrogène, d'hélium et de deutérium. Mais le lithium observé dans les étoiles du halo galactique s'écarte des prévisions : on parle du « problème du lithium cosmologique », non résolu.",
+    "source": "D'après Wikipédia — Nucléosynthèse primordiale"
+  },
+  {
+    "id": "q-astronomie-175",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Presque tout l'hélium présent sur Terre date du Big Bang.",
+    "reponse": false,
+    "explication": "L'hélium terrestre vient presque entièrement de la radioactivité du thorium et de l'uranium dans le sous-sol. Il n'est ni primordial ni stellaire. L'hélium du Big Bang, lui, représente environ un quart de la matière ordinaire de l'Univers.",
+    "source": "D'après Wikipédia — Nucléosynthèse primordiale"
+  },
+  {
+    "id": "q-astronomie-176",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "En 2014, l'expérience BICEP2 a annoncé avoir détecté la trace de l'inflation cosmique. Que s'est-il passé ensuite ?",
+    "choix": [
+      "Le satellite Planck a montré que le signal venait des poussières de notre galaxie",
+      "L'annonce a été confirmée par le télescope Hubble",
+      "Les chercheurs ont reçu un prix Nobel l'année suivante",
+      "Le signal a disparu quand l'instrument a été réparé"
+    ],
+    "bonneReponse": 0,
+    "explication": "Annoncée un peu trop vite en mars 2014, la détection d'ondes gravitationnelles primordiales a été contestée. Le satellite Planck a révélé que la polarisation observée s'expliquait par les poussières galactiques, pas par l'inflation.",
+    "source": "D'après Wikipédia — Inflation cosmique"
+  },
+  {
+    "id": "q-astronomie-177",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "En 1952, qu'est-ce qui a conduit à diviser par deux le nombre que l'on attribuait à la constante de Hubble ?",
+    "choix": [
+      "Walter Baade a montré que les distances des galaxies avaient été sous-estimées d'un facteur 2",
+      "Le télescope du Mont Wilson a été remplacé par un plus puissant",
+      "Albert Einstein a corrigé ses équations",
+      "On a découvert que l'Univers ralentissait"
+    ],
+    "bonneReponse": 0,
+    "explication": "Walter Baade a découvert une erreur dans la mesure des distances par les céphéides : toutes les distances étaient trop petites d'un facteur 2. Les vitesses restant les mêmes, la constante est passée de 560 à 280 km/s/Mpc.",
+    "source": "D'après Wikipédia — Constante de Hubble"
+  },
+  {
+    "id": "q-astronomie-178",
+    "domain": "astronomie",
+    "format": "difference",
+    "question": "Quelle est la différence entre la constante de Hubble et le paramètre de Hubble ?",
+    "choix": [
+      "La constante est la valeur actuelle du paramètre, qui varie avec le temps",
+      "La constante concerne les étoiles, le paramètre les galaxies",
+      "La constante est mesurée par Hubble, le paramètre par Lemaître",
+      "Il n'y en a aucune, ce sont deux noms du même nombre fixe"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le paramètre de Hubble décrit le taux d'expansion à chaque époque et évolue au fil du temps. La constante de Hubble, notée H0, n'est que sa valeur aujourd'hui, d'environ 70 km/s/Mpc : elle n'est « constante » que dans l'instant présent.",
+    "source": "D'après Wikipédia — Constante de Hubble"
+  },
+  {
+    "id": "q-astronomie-179",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Dans quel but Frank Drake a-t-il écrit son équation en 1961 ?",
+    "choix": [
+      "Structurer la discussion lors d'une réunion sur la recherche d'intelligences extraterrestres",
+      "Prouver que nous sommes seuls dans la Galaxie",
+      "Calculer la date du premier contact avec des extraterrestres",
+      "Obtenir un budget pour construire un radiotélescope"
+    ],
+    "bonneReponse": 0,
+    "explication": "Drake préparait la réunion de Green Bank. Il a listé ce qu'il fallait savoir pour détecter des civilisations par radio, et s'est aperçu qu'en multipliant ces facteurs, on obtenait un nombre. Il ne s'agissait pas d'un calcul précis.",
+    "source": "D'après Wikipédia — Équation de Drake"
+  },
+  {
+    "id": "q-astronomie-180",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quelle question Enrico Fermi aurait-il lancée à ses collègues de Los Alamos en 1950 ?",
+    "choix": [
+      "« Où est tout le monde ? »",
+      "« Combien d'étoiles compte la Galaxie ? »",
+      "« Les extraterrestres parlent-ils par radio ? »",
+      "« Pourquoi le ciel est-il noir la nuit ? »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après une discussion sur les soucoupes volantes, Fermi aurait demandé où étaient les extraterrestres, avec des formulations qui varient selon les témoins. Ses collègues ont aussitôt compris le sujet et ont éclaté de rire.",
+    "source": "D'après Wikipédia — Paradoxe de Fermi"
+  },
+  {
+    "id": "q-astronomie-181",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "La Voie lactée fait partie d'un amas de plus de mille galaxies.",
+    "reponse": false,
+    "explication": "Notre galaxie appartient au Groupe local, qui ne compte qu'une trentaine de galaxies. Ce groupe fait lui-même partie du superamas de la Vierge, un ensemble beaucoup plus vaste, qui rassemble de nombreux groupes et amas.",
+    "source": "D'après Wikipédia — Amas de galaxies"
+  },
+  {
+    "id": "q-astronomie-182",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Quel est à peu près le rayon de Schwarzschild du Soleil ?",
+    "choix": [
+      "Environ 3 kilomètres",
+      "Environ 300 mètres",
+      "Environ 30 kilomètres",
+      "Environ 3 000 kilomètres"
+    ],
+    "bonneReponse": 0,
+    "explication": "Si le Soleil était comprimé dans une sphère de 3 kilomètres de rayon, il deviendrait un trou noir. Pour la Terre, ce rayon serait d'environ 9 millimètres. Le Soleil n'a pourtant pas la masse pour s'effondrer ainsi.",
+    "source": "D'après Wikipédia — Rayon de Schwarzschild"
+  },
+  {
+    "id": "q-astronomie-183",
+    "domain": "astronomie",
+    "format": "vrai-faux",
+    "affirmation": "Plus un trou noir est massif, plus sa densité moyenne est élevée.",
+    "reponse": false,
+    "explication": "C'est l'inverse : le rayon de l'horizon croît avec la masse, mais le volume croît bien plus vite. Un trou noir d'environ 135 millions de masses solaires a la densité de l'eau, et les plus gros sont encore moins denses.",
+    "source": "D'après Wikipédia — Rayon de Schwarzschild"
+  },
+  {
+    "id": "q-astronomie-184",
+    "domain": "astronomie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis une notion née de la relativité générale.",
+      "Je n'ai aucune consistance matérielle.",
+      "On peut me traverser dans un seul sens.",
+      "Vu de loin, tout ce qui m'approche semble ralentir et rougir.",
+      "Je suis la frontière sans retour d'un trou noir."
+    ],
+    "reponse": "L'horizon des événements",
+    "explication": "L'horizon des événements est une surface théorique autour d'un trou noir. Rien n'en revient, pas même la lumière. Un observateur lointain voit la lumière s'y étirer et s'éteindre, sans jamais voir un objet le franchir.",
+    "source": "D'après Wikipédia — Horizon des événements"
+  },
+  {
+    "id": "q-astronomie-185",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Qu'arrive-t-il à un satellite tenu uniquement par sa gravité s'il passe sous la limite de Roche de sa planète ?",
+    "choix": [
+      "Il est disloqué par les forces de marée",
+      "Il est éjecté de son orbite",
+      "Il se met à tourner plus vite sur lui-même",
+      "Il devient une étoile"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sous la limite de Roche, la différence d'attraction entre le côté proche et le côté éloigné du satellite dépasse sa cohésion interne : il se disloque. Une partie des anneaux planétaires aurait cette origine.",
+    "source": "D'après Wikipédia — Limite de Roche"
+  },
+  {
+    "id": "q-astronomie-186",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "Qu'est-ce qui définit la zone habitable autour d'une étoile ?",
+    "choix": [
+      "La possibilité d'avoir de l'eau liquide à la surface d'une planète",
+      "La présence d'oxygène dans l'atmosphère",
+      "La proximité d'une autre planète géante",
+      "L'absence totale de rayonnement ultraviolet"
+    ],
+    "bonneReponse": 0,
+    "explication": "La zone habitable est la région où une planète peut garder de l'eau liquide en surface : ni trop près, car l'eau bouillirait, ni trop loin, car elle gèlerait. Y être ne garantit pourtant pas que la planète soit habitable.",
+    "source": "D'après Wikipédia — Zone habitable"
+  },
+  {
+    "id": "q-astronomie-187",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "À quelle distance de référence plaçait-on mentalement les étoiles pour définir leur magnitude absolue ?",
+    "choix": [
+      "10 parsecs, soit environ 32,6 années-lumière",
+      "1 année-lumière",
+      "1 unité astronomique",
+      "100 parsecs"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour comparer les vraies luminosités des astres, on les imagine tous à la même distance, 10 parsecs. La magnitude qu'aurait alors chaque étoile est sa magnitude absolue. Le Soleil vaut environ +4,8.",
+    "source": "D'après Wikipédia — Magnitude absolue"
+  },
+  {
+    "id": "q-astronomie-188",
+    "domain": "astronomie",
+    "format": "qcm",
+    "question": "À combien de degrés correspond une heure d'ascension droite ?",
+    "choix": [
+      "15 degrés",
+      "24 degrés",
+      "30 degrés",
+      "60 degrés"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'ascension droite fait le tour du ciel en 24 heures. Comme un tour complet vaut 360 degrés, une heure correspond à 15 degrés. C'est l'équivalent de la longitude, comptée vers l'est à partir du point vernal.",
+    "source": "D'après Wikipédia — Système de coordonnées équatoriales"
+  },
+  {
+    "id": "q-astronomie-189",
+    "domain": "astronomie",
+    "format": "associer",
+    "question": "Associe chaque scientifique à sa découverte dans le spectre électromagnétique.",
+    "paires": [
+      {
+        "gauche": "William Herschel",
+        "droite": "Infrarouge",
+        "explication": "En 1800, il constate que la température la plus haute se situe au-delà du rouge."
+      },
+      {
+        "gauche": "Johann Ritter",
+        "droite": "Ultraviolet",
+        "explication": "En 1801, il repère des « rayons chimiques » invisibles, au-delà du violet visible."
+      },
+      {
+        "gauche": "Heinrich Hertz",
+        "droite": "Ondes radio",
+        "explication": "En 1886, il produit et détecte les ondes que James Clerk Maxwell avait prédites."
+      },
+      {
+        "gauche": "Wilhelm Röntgen",
+        "droite": "Rayons X",
+        "explication": "En 1895, il les repère autour d'un tube sous haute tension ; ils traversent le corps."
+      }
+    ],
+    "explication": "Chaque découverte a élargi le spectre au-delà de la lumière visible, que Newton avait décomposée avec un prisme. Les rayons gamma, identifiés vers 1900 par Paul Villard, ont complété la série.",
+    "source": "D'après Wikipédia — Spectre électromagnétique"
+  },
+  {
+    "id": "q-astronomie-190",
+    "domain": "astronomie",
+    "format": "frise",
+    "question": "Remets dans l'ordre ces étapes de l'histoire de la loi de Hubble-Lemaître.",
+    "evenements": [
+      {
+        "label": "Lemaître prédit la loi dans un article en français",
+        "annee": "1927"
+      },
+      {
+        "label": "Hubble annonce la relation entre distance et décalage vers le rouge",
+        "annee": "1929"
+      },
+      {
+        "label": "Parution de la traduction anglaise de l'article de Lemaître",
+        "annee": "1931"
+      },
+      {
+        "label": "L'UAI recommande le nom de loi de Hubble-Lemaître",
+        "annee": "2018"
+      }
+    ],
+    "explication": "Lemaître prédit la loi en 1927, deux ans avant Hubble. Sa traduction anglaise paraît en 1931 sans la phrase clé. L'Union astronomique internationale a finalement associé leurs deux noms en 2018.",
+    "source": "D'après Wikipédia — Loi de Hubble-Lemaître"
   }
 ]

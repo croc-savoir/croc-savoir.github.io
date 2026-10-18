@@ -1566,5 +1566,1112 @@
     "reponse": false,
     "explication": "Les renards blancs messagers d'Inari incarnent la pureté et annoncent un heureux présage. Leur couleur évoque celle du riz. À l'inverse, certains renards sont des esprits trompeurs qui égarent les voyageurs.",
     "source": "D'après Wikipédia — Renard dans la culture japonaise"
+  },
+  {
+    "id": "q-mythologie-099",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Que faisaient les colons grecs qui partaient fonder une nouvelle ville, en lien avec Hestia ?",
+    "choix": [
+      "Ils emportaient le feu d'Hestia pour allumer le foyer de leur nouvelle patrie",
+      "Ils enterraient une statue d'Hestia sous la première maison",
+      "Ils sacrifiaient un bœuf blanc devant son temple d'origine",
+      "Ils laissaient son feu s'éteindre pour en allumer un nouveau"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le feu de l'autel d'Hestia, tenu dans la cité d'origine, était emporté par les colons. Il servait à allumer le foyer de la ville nouvelle : le lien sacré avec la métropole passait ainsi par la flamme du foyer.",
+    "source": "D'après Wikipédia — Hestia"
+  },
+  {
+    "id": "q-mythologie-100",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "De quelle expression grecque vient le mot « panique » ?",
+    "choix": [
+      "La « peur de Pan » (panikos phobos)",
+      "Le « cri de Pan »",
+      "La « flûte de Pan »",
+      "La « colère de Pan »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les Grecs appelaient « peur de Pan » une terreur soudaine et sans cause visible, surtout chez les troupeaux et les soldats. Elle se manifestait par un bruit, un écho ou un cri dans les lieux sauvages que le dieu fréquentait.",
+    "source": "D'après Wikipédia — Pan"
+  },
+  {
+    "id": "q-mythologie-101",
+    "domain": "mythologie",
+    "format": "vrai-faux",
+    "affirmation": "Selon Plutarque, une voix venue du rivage de Paxos a chargé un pilote de proclamer la mort du « grand Pan ».",
+    "reponse": true,
+    "explication": "Plutarque raconte qu'un pilote égyptien, nommé Thamous, entend cet appel depuis le rivage de Paxos. La phrase, sortie de son contexte, est devenue célèbre à la fin de l'Antiquité, au moment du déclin des cultes païens.",
+    "source": "D'après Wikipédia — Pan"
+  },
+  {
+    "id": "q-mythologie-102",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Selon Pausanias, quel sculpteur a représenté Hécate en triple pour la première fois ?",
+    "choix": [
+      "Alcamenes",
+      "Phidias",
+      "Praxitèle",
+      "Lysippe"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pausanias attribue à Alcamenes, à la fin du Ve siècle av. J.-C., les trois statues d'Hécate dos à dos. Ce modèle, l'hécatéion, a été copié des centaines de fois et placé aux carrefours et à l'entrée des maisons.",
+    "source": "D'après Wikipédia — Hécate"
+  },
+  {
+    "id": "q-mythologie-103",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Dans le conte d'Apulée, comment Éros tombe-t-il amoureux de Psyché ?",
+    "choix": [
+      "Il se blesse lui-même avec ses flèches",
+      "Aphrodite lui fait boire un philtre",
+      "Il la voit en rêve avant de la rencontrer",
+      "Zeus lui ordonne de l'épouser"
+    ],
+    "bonneReponse": 0,
+    "explication": "Aphrodite, jalouse de la beauté de Psyché, envoie son fils la rendre amoureuse d'un homme méprisable. Mais Éros s'égratigne avec l'une de ses propres flèches et s'éprend d'elle, ce qui lance toute l'histoire.",
+    "source": "D'après Wikipédia — Éros"
+  },
+  {
+    "id": "q-mythologie-104",
+    "domain": "mythologie",
+    "format": "associer",
+    "question": "Associe chaque enfant de Nyx à ce qu'il incarne.",
+    "paires": [
+      {
+        "gauche": "Hypnos",
+        "droite": "Le Sommeil",
+        "explication": "Frère jumeau de Thanatos, Hypnos est le Sommeil profond, fils de la Nuit."
+      },
+      {
+        "gauche": "Thanatos",
+        "droite": "La Mort",
+        "explication": "Thanatos personnifie la Mort et naît de Nyx, sans père, chez Hésiode."
+      },
+      {
+        "gauche": "Éris",
+        "droite": "La Discorde",
+        "explication": "Éris, la Discorde, figure elle aussi parmi la descendance de la Nuit."
+      },
+      {
+        "gauche": "Némésis",
+        "droite": "La Vengeance et la justice divine",
+        "explication": "Némésis incarne le châtiment divin, autre fille de Nyx chez Hésiode."
+      }
+    ],
+    "explication": "Dans la Théogonie d'Hésiode, Nyx engendre seule une longue famille de puissances : le Sommeil, la Mort, les Songes, le Destin, la Discorde, ou encore la Vengeance divine incarnée par Némésis.",
+    "source": "D'après Wikipédia — Nyx"
+  },
+  {
+    "id": "q-mythologie-105",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Comment Zeus punit-il les compagnons d'Ulysse qui ont mangé les bœufs sacrés d'Hélios ?",
+    "choix": [
+      "Il frappe leur navire de la foudre",
+      "Il les change en bétail",
+      "Il les envoie au Tartare",
+      "Il les laisse mourir de faim sur l'île"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hélios, furieux, demande réparation à Zeus. Celui-ci foudroie le navire d'Ulysse : tous les marins périssent, sauf Ulysse, le seul à ne pas avoir touché aux bœufs sacrés gardés sur l'île de Thrinacie.",
+    "source": "D'après Wikipédia — Hélios"
+  },
+  {
+    "id": "q-mythologie-106",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Où Zeus place-t-il la pierre que Cronos avait avalée à sa place, après l'avoir fait recracher ?",
+    "choix": [
+      "À Delphes",
+      "Sur l'Olympe",
+      "En Crète",
+      "Au fond du Tartare"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans la Théogonie, Cronos recrache d'abord la pierre emmaillotée que Rhéa lui avait tendue à la place du bébé Zeus. Zeus la dépose ensuite à Delphes, au pied du Parnasse, où elle reste comme un signe de sa victoire.",
+    "source": "D'après Wikipédia — Cronos"
+  },
+  {
+    "id": "q-mythologie-107",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Comment les anciens imaginaient-ils le ciel, dont Ouranos est la personnification ?",
+    "choix": [
+      "Un dôme de bronze maintenu par Atlas",
+      "Un immense océan retourné",
+      "Une tente tissée par Athéna",
+      "Un bouclier tenu par Zeus"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour les Grecs anciens, le ciel est une voûte ou un toit de bronze, que le Titan Atlas maintient en place. Ouranos lui-même est à peine humanisé : il est le ciel, qui couvrait la Terre avant de s'en séparer.",
+    "source": "D'après Wikipédia — Ouranos"
+  },
+  {
+    "id": "q-mythologie-108",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Qu'est-ce que les trois Grées, sœurs des Gorgones, se partagent dans le mythe de Persée ?",
+    "choix": [
+      "Un seul œil et une seule dent",
+      "Une seule main et un seul pied",
+      "Une seule voix et une seule oreille",
+      "Un seul souffle et un seul cheveu"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les Grées se passent à tour de rôle leur unique œil et leur unique dent. Persée s'empare de l'œil et ne le rend qu'en échange du chemin vers les nymphes qui détiennent les objets magiques nécessaires contre Méduse.",
+    "source": "D'après Wikipédia — Persée"
+  },
+  {
+    "id": "q-mythologie-109",
+    "domain": "mythologie",
+    "format": "vrai-faux",
+    "affirmation": "Selon Pindare, c'est Athéna qui offre en rêve à Bellérophon la bride d'or permettant de dompter Pégase.",
+    "reponse": true,
+    "explication": "Dans les Olympiques, Athéna apparaît à Bellérophon endormi et lui remet un frein d'or. Il l'offre ensuite à Poséidon, avec un sacrifice, puis capture Pégase, qui aimait boire à la fontaine de Pirène.",
+    "source": "D'après Wikipédia — Bellérophon"
+  },
+  {
+    "id": "q-mythologie-110",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Pourquoi la flotte grecque est-elle bloquée à Aulis avant de partir pour Troie ?",
+    "choix": [
+      "Les vents tombent parce qu'Artémis est offensée",
+      "Poséidon déchaîne une tempête",
+      "Une peste frappe les équipages",
+      "L'oracle de Delphes interdit le départ"
+    ],
+    "bonneReponse": 0,
+    "explication": "Selon les versions, Agamemnon a offensé Artémis en tuant un animal sacré ou en se vantant de mieux chasser qu'elle. Les vents s'arrêtent et la flotte reste immobile, jusqu'au sacrifice exigé par le devin Calchas.",
+    "source": "D'après Wikipédia — Agamemnon"
+  },
+  {
+    "id": "q-mythologie-111",
+    "domain": "mythologie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis la fille d'un roi et d'une reine de Troie.",
+      "Un dieu m'a offert un don en échange d'un amour que j'ai refusé.",
+      "Je vois l'avenir avec exactitude, mais personne ne me croit.",
+      "J'ai prévenu mes proches contre le cheval laissé par les Grecs.",
+      "Mon nom désigne aujourd'hui quelqu'un qui annonce un malheur sans être entendu."
+    ],
+    "reponse": "Cassandre",
+    "explication": "Cassandre reçoit d'Apollon le don de prophétie, puis la malédiction de n'être jamais crue. Elle annonce la chute de Troie, devient captive d'Agamemnon et meurt à Mycènes. Son nom est devenu un symbole de lucidité ignorée.",
+    "source": "D'après Wikipédia — Cassandre"
+  },
+  {
+    "id": "q-mythologie-112",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Que fait Pénélope chaque nuit pour retarder le choix d'un nouvel époux ?",
+    "choix": [
+      "Elle défait le voile qu'elle a tissé le jour",
+      "Elle cache l'arc d'Ulysse",
+      "Elle fait croire qu'elle est malade",
+      "Elle envoie ses servantes chasser les prétendants"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pénélope prétend ne pas pouvoir se remarier avant d'avoir fini un voile funéraire pour son beau-père Laërte. Mais elle défait de nuit son travail du jour : la ruse dure plus de trois ans, jusqu'à ce qu'une servante la révèle.",
+    "source": "D'après Wikipédia — Pénélope"
+  },
+  {
+    "id": "q-mythologie-113",
+    "domain": "mythologie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom signifie « le Brillant ».",
+      "Je suis le fils d'un dieu et d'une Océanide.",
+      "J'ai demandé à mon père de conduire son char un jour.",
+      "Incapable de maîtriser les chevaux, j'ai embrasé la terre.",
+      "Zeus m'a foudroyé et mes sœurs, changées en peupliers, ont pleuré de l'ambre."
+    ],
+    "reponse": "Phaéton",
+    "explication": "Phaéton, fils d'Hélios, perd le contrôle du char solaire et incendie le monde avant d'être foudroyé par Zeus. Il tombe dans l'Éridan, et les larmes de ses sœurs, les Héliades, deviennent de l'ambre.",
+    "source": "D'après Wikipédia — Phaéton"
+  },
+  {
+    "id": "q-mythologie-114",
+    "domain": "mythologie",
+    "format": "associer",
+    "question": "Associe chaque héros ou héroïne à son épisode célèbre.",
+    "paires": [
+      {
+        "gauche": "Persée",
+        "droite": "Décapiter Méduse avec l'aide d'Hermès et d'Athéna",
+        "explication": "Il reçoit sandales ailées, casque d'Hadès, besace et bouclier poli."
+      },
+      {
+        "gauche": "Bellérophon",
+        "droite": "Tuer la Chimère à dos de Pégase",
+        "explication": "Il dompte le cheval ailé grâce à la bride d'or d'Athéna."
+      },
+      {
+        "gauche": "Circé",
+        "droite": "Changer les compagnons d'Ulysse en porcs",
+        "explication": "Elle utilise une potion mêlée à un mets, dans l'Odyssée."
+      },
+      {
+        "gauche": "Agamemnon",
+        "droite": "Diriger l'expédition grecque contre Troie",
+        "explication": "Frère de Ménélas, il est le roi le plus puissant de Grèce."
+      }
+    ],
+    "explication": "Ces héros et figures de la Grèce sont chacun connus pour un épisode précis, raconté par Hésiode, Homère, Pindare ou Ovide selon les cas, parfois avec plusieurs versions.",
+    "source": "D'après Wikipédia — Persée"
+  },
+  {
+    "id": "q-mythologie-115",
+    "domain": "mythologie",
+    "format": "difference",
+    "question": "Quelle est la différence entre Cronos et Chronos ?",
+    "choix": [
+      "Cronos est le Titan père de Zeus ; Chronos est le Temps personnifié, que les orphiques ont parfois confondu avec lui",
+      "Cronos est le dieu du temps ; Chronos est le roi des Titans",
+      "Cronos est un Titan romain ; Chronos est un dieu grec",
+      "Il n'y en a aucune : ce sont deux orthographes du même dieu"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cronos, fils d'Ouranos et de Gaïa, est le père de Zeus. Chronos est le Temps, divinité primordiale des orphiques. L'Antiquité tardive les a souvent rapprochés, mais ce rapprochement populaire n'a aucun fondement linguistique.",
+    "source": "D'après Wikipédia — Cronos"
+  },
+  {
+    "id": "q-mythologie-116",
+    "domain": "mythologie",
+    "format": "vrai-faux",
+    "affirmation": "Selon la tradition, Hector a tué plus de héros grecs qu'Achille n'a tué de Troyens.",
+    "reponse": false,
+    "explication": "Hector tue 24 héros grecs, un record pour un guerrier, mais Achille tue 28 Troyens. Après Achille, Hector reste le plus vaillant de la guerre, et c'est son duel avec lui qui domine la fin de l'Iliade.",
+    "source": "D'après Wikipédia — Hector"
+  },
+  {
+    "id": "q-mythologie-117",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Dans l'Odyssée, quel devin Ulysse fait-il venir du royaume des morts pour apprendre comment rentrer chez lui ?",
+    "choix": [
+      "Tirésias",
+      "Calchas",
+      "Phinée",
+      "Mélampous"
+    ],
+    "bonneReponse": 0,
+    "explication": "Au chant XI, Ulysse invoque l'ombre de Tirésias, qui a gardé sa lucidité aux Enfers grâce à Perséphone. Il lui prédit ses épreuves et lui conseille de respecter les troupeaux du Soleil.",
+    "source": "D'après Wikipédia — Tirésias"
+  },
+  {
+    "id": "q-mythologie-118",
+    "domain": "mythologie",
+    "format": "vrai-faux",
+    "affirmation": "Dans la version de Phérécyde, Tirésias devient aveugle après avoir surpris Athéna au bain.",
+    "reponse": true,
+    "explication": "Athéna lui met les mains sur les yeux. Sa mère, la nymphe Chariclo, la supplie, mais la déesse ne peut revenir sur sa décision : elle lui accorde en compensation le don de comprendre les oiseaux.",
+    "source": "D'après Wikipédia — Tirésias"
+  },
+  {
+    "id": "q-mythologie-119",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quel autre nom Homère donne-t-il souvent à Pâris, fils du roi Priam ?",
+    "choix": [
+      "Alexandre",
+      "Hector",
+      "Énée",
+      "Déiphobe"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans l'Iliade, il porte 45 fois le nom d'Alexandre contre 13 fois celui de Pâris. Selon la tradition, ce nom (« le protecteur ») rappelle qu'il a survécu, enfant, à son abandon sur le mont Ida.",
+    "source": "D'après Wikipédia — Pâris"
+  },
+  {
+    "id": "q-mythologie-120",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quel prêtre troyen, chez Virgile, lance : « Je crains les Grecs, même quand ils apportent des présents » ?",
+    "choix": [
+      "Laocoon",
+      "Sinon",
+      "Anchise",
+      "Priam"
+    ],
+    "bonneReponse": 0,
+    "explication": "Laocoon devine la ruse du cheval de bois, mais des serpents de mer envoyés par Poséidon l'étouffent avec ses fils avant que les Troyens l'écoutent. Sinon est le Grec qui les trompe.",
+    "source": "D'après Wikipédia — Cheval de Troie"
+  },
+  {
+    "id": "q-mythologie-121",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Qui est l'auteur des Argonautiques, l'épopée qui sert souvent de référence pour la liste de l'équipage de l'Argo ?",
+    "choix": [
+      "Apollonios de Rhodes",
+      "Hésiode",
+      "Virgile",
+      "Pindare"
+    ],
+    "bonneReponse": 0,
+    "explication": "Apollonios de Rhodes raconte la construction de l'Argo à Pagasae et le voyage vers la Colchide. Pindare cite seulement une dizaine de héros, et l'on ne dispose d'aucune liste définitive de l'équipage.",
+    "source": "D'après Wikipédia — Argonautes"
+  },
+  {
+    "id": "q-mythologie-122",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Que doivent jeter derrière eux Deucalion et Pyrrha, après le déluge, pour repeupler la terre ?",
+    "choix": [
+      "Des pierres, « os » de leur grand-mère la Terre",
+      "Des graines de blé",
+      "Des branches d'olivier",
+      "Des cendres du sacrifice"
+    ],
+    "bonneReponse": 0,
+    "explication": "Selon Ovide, l'oracle de Thémis ordonne de jeter les os de leur grand-mère. Ils comprennent qu'il s'agit de pierres, car leur aïeule est Gaïa. Celles de Deucalion deviennent des hommes, celles de Pyrrha des femmes.",
+    "source": "D'après Wikipédia — Déluge de Deucalion"
+  },
+  {
+    "id": "q-mythologie-123",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quel Titan Héraclès trompe-t-il, grâce à un faux coussin, pour garder les pommes d'or des Hespérides ?",
+    "choix": [
+      "Atlas",
+      "Prométhée",
+      "Cronos",
+      "Océan"
+    ],
+    "bonneReponse": 0,
+    "explication": "Atlas cueille trois pommes pendant qu'Héraclès porte le ciel. À son retour, il veut les livrer lui-même. Héraclès feint d'accepter, lui rend le ciel un instant pour arranger un coussin, puis s'en va avec les fruits.",
+    "source": "D'après Wikipédia — Hespérides"
+  },
+  {
+    "id": "q-mythologie-124",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quel poète grec raconte, dans Les Travaux et les Jours, la succession des races d'or, d'argent, de bronze, des héros et de fer ?",
+    "choix": [
+      "Hésiode",
+      "Homère",
+      "Ovide",
+      "Platon"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hésiode écrit au VIIIe siècle avant notre ère et se place lui-même dans la race de fer. Ovide, plus tard, ne compte que quatre âges, sans la race des héros, tandis que Platon réutilise les métaux pour classer les citoyens.",
+    "source": "D'après Wikipédia — Mythe des races"
+  },
+  {
+    "id": "q-mythologie-125",
+    "domain": "mythologie",
+    "format": "associer",
+    "question": "Associe chaque race d'Hésiode à son destin.",
+    "paires": [
+      {
+        "gauche": "Race d'or",
+        "droite": "Vit sans travailler sous Cronos",
+        "explication": "Elle devient ensuite des génies protecteurs des mortels."
+      },
+      {
+        "gauche": "Race d'argent",
+        "droite": "Ensevelie par Zeus",
+        "explication": "Elle ne rendait aucun hommage aux dieux."
+      },
+      {
+        "gauche": "Race de bronze",
+        "droite": "Guerrière, elle s'anéantit elle-même",
+        "explication": "Elle est qualifiée de « fille des frênes »."
+      },
+      {
+        "gauche": "Race des héros",
+        "droite": "Combat à Thèbes et à Troie",
+        "explication": "Zeus place les meilleurs aux Îles des Bienheureux."
+      }
+    ],
+    "explication": "Chaque race est créée par les dieux, puis disparaît, et la vie se dégrade d'une race à l'autre : Hésiode se place dans la dernière, celle du fer. Seule la race des héros ne correspond à aucun métal.",
+    "source": "D'après Wikipédia — Mythe des races"
+  },
+  {
+    "id": "q-mythologie-126",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Que donne Rhéa à avaler à Cronos à la place du petit Zeus ?",
+    "choix": [
+      "Une pierre emmaillotée",
+      "Un agneau",
+      "Une grenade",
+      "Une corne remplie de fruits"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cronos engloutit ses enfants, mais Rhéa le trompe avec une pierre emmaillotée et cache Zeus en Crète. Plus tard, un vomitif lui fait rendre la pierre puis ses autres enfants, qui se révoltent.",
+    "source": "D'après Wikipédia — Titanomachie"
+  },
+  {
+    "id": "q-mythologie-127",
+    "domain": "mythologie",
+    "format": "associer",
+    "question": "Associe chaque dieu à l'arme que lui forgent les Cyclopes.",
+    "paires": [
+      {
+        "gauche": "Zeus",
+        "droite": "Le foudre",
+        "explication": "Il lui permet de vaincre Cronos et les Titans."
+      },
+      {
+        "gauche": "Poséidon",
+        "droite": "Le trident",
+        "explication": "C'est l'arme du dieu de la mer."
+      },
+      {
+        "gauche": "Hadès",
+        "droite": "La kunée, un casque d'invisibilité",
+        "explication": "Elle rend son porteur invisible."
+      }
+    ],
+    "explication": "Libérés du Tartare par Zeus, les Cyclopes lui forgent le foudre, puis le trident de Poséidon et la kunée d'Hadès, en remerciement. Ces armes aident les Olympiens à gagner la guerre contre les Titans.",
+    "source": "D'après Wikipédia — Cyclope"
+  },
+  {
+    "id": "q-mythologie-128",
+    "domain": "mythologie",
+    "format": "vrai-faux",
+    "affirmation": "Les mystères d'Éleusis étaient réservés aux citoyens athéniens libres.",
+    "reponse": false,
+    "explication": "Ils se sont ouverts à tout Grec, homme ou femme, libre ou esclave, pourvu qu'il parle grec et n'ait pas commis d'homicide. Seuls les barbares en étaient exclus, avant les conquêtes d'Alexandre le Grand.",
+    "source": "D'après Wikipédia — Mystères d'Éleusis"
+  },
+  {
+    "id": "q-mythologie-129",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Sous quelle forme Apollon amène-t-il ses premiers prêtres crétois à Delphes, selon l'Hymne homérique ?",
+    "choix": [
+      "Un dauphin",
+      "Un aigle",
+      "Un serpent",
+      "Un taureau"
+    ],
+    "bonneReponse": 0,
+    "explication": "Selon l'Hymne homérique à Apollon, le dieu saute dans le navire de marins crétois de Cnossos sous la forme d'un dauphin et les guide vers son sanctuaire. Le surnom Delphinios d'Apollon se rattache à ce récit.",
+    "source": "D'après Wikipédia — Oracle de Delphes"
+  },
+  {
+    "id": "q-mythologie-130",
+    "domain": "mythologie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis un fils de Poséidon.",
+      "Je vis en Sicile, où je garde des moutons.",
+      "Mon nom signifie « abondant en paroles ».",
+      "Un héros et ses compagnons se retrouvent enfermés dans ma caverne.",
+      "Ulysse me crève mon unique œil."
+    ],
+    "reponse": "Polyphème",
+    "explication": "Polyphème est le plus célèbre des cyclopes de l'Odyssée, un berger sauvage de Sicile. Euripide en fait aussi un personnage de drame satyrique, où Ulysse rencontre des satyres devenus ses esclaves.",
+    "source": "D'après Wikipédia — Cyclope"
+  },
+  {
+    "id": "q-mythologie-131",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quelle prédiction la harpie Céléno fait-elle aux Troyens dans l'Énéide ?",
+    "choix": [
+      "Ils mangeront leurs tables avant d'arriver",
+      "Rome sera détruite par un déluge",
+      "Énée tuera un roi sacré",
+      "Leur flotte sera dispersée par Poséidon"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sur les îles Strophades, Céléno annonce que la faim obligera les Troyens à manger leurs tables. La prophétie se réalise au bord du Tibre, quand ils dévorent les galettes servant d'assiettes.",
+    "source": "D'après Wikipédia — Harpies"
+  },
+  {
+    "id": "q-mythologie-132",
+    "domain": "mythologie",
+    "format": "difference",
+    "question": "Quelle est la différence entre Méduse et ses sœurs Euryale et Sthéno ?",
+    "choix": [
+      "Méduse est mortelle, ses sœurs sont immortelles",
+      "Méduse a des ailes, pas ses sœurs",
+      "Seule Méduse change les gens en pierre",
+      "Méduse est la fille de Zeus, pas ses sœurs"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les trois Gorgones, filles de Phorcys et Céto selon Hésiode, pétrifient d'un regard. Mais seule Méduse est mortelle, ce qui permet à Persée de lui trancher la tête avec l'aide de son bouclier-miroir.",
+    "source": "D'après Wikipédia — Gorgones"
+  },
+  {
+    "id": "q-mythologie-133",
+    "domain": "mythologie",
+    "format": "vrai-faux",
+    "affirmation": "À l'origine, les satyres sont représentés avec des oreilles et une queue de cheval.",
+    "reponse": true,
+    "explication": "Les premières images leur donnent des oreilles de cheval et une queue. Ce n'est que plus tard, sous l'influence de Pan, qu'ils prennent des traits de bouc. À Rome, ils deviennent les faunes.",
+    "source": "D'après Wikipédia — Satyre"
+  },
+  {
+    "id": "q-mythologie-134",
+    "domain": "mythologie",
+    "format": "difference",
+    "question": "Quelle est la différence entre un griffon et un hippogriffe ?",
+    "choix": [
+      "L'hippogriffe a un corps de cheval, né d'un griffon et d'une jument",
+      "L'hippogriffe n'a pas d'ailes",
+      "Le griffon a la tête d'un lion",
+      "L'hippogriffe est un lion à tête de cheval"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le griffon associe l'avant d'un aigle à l'arrière d'un lion. L'hippogriffe, selon la tradition, est le fruit d'un griffon et d'une jument : un cheval remplace alors la partie lion.",
+    "source": "D'après Wikipédia — Griffon (mythologie)"
+  },
+  {
+    "id": "q-mythologie-135",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Que signifie probablement le mot grec phoînix, qui a donné « phénix » ?",
+    "choix": [
+      "Rouge sang",
+      "Oiseau de feu",
+      "Né du soleil",
+      "Renaissance éternelle"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le grec phoînix désigne l'oiseau, mais aussi la couleur rouge, les Phéniciens et le palmier-dattier. Son sens probable est « rouge sang ». Les Phéniciens étaient célèbres pour leur teinture pourpre tirée du murex.",
+    "source": "D'après Wikipédia — Phénix"
+  },
+  {
+    "id": "q-mythologie-136",
+    "domain": "mythologie",
+    "format": "vrai-faux",
+    "affirmation": "Les « cornes de licorne » vendues en Europe étaient en réalité des dents de narval.",
+    "reponse": true,
+    "explication": "Le narval est un mammifère marin de l'Arctique dont la longue dent spiralée a longtemps été vendue comme corne de licorne, de la fin du Moyen Âge à la Renaissance. Elle passait pour purifier les poisons et guérir les maladies.",
+    "source": "D'après Wikipédia — Licorne"
+  },
+  {
+    "id": "q-mythologie-137",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quel médecin danois démontre en 1638 que les prétendus alicornes sont des dents de narval ?",
+    "choix": [
+      "Ole Worm",
+      "Thomas Browne",
+      "Ambroise Paré",
+      "Carl von Linné"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ole Worm établit en 1638 que les « cornes de licorne » étaient des dents de narval. La croyance a pourtant survécu : de la fausse poudre de licorne se vendait encore en Europe en 1741.",
+    "source": "D'après Wikipédia — Licorne"
+  },
+  {
+    "id": "q-mythologie-138",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Dans la légende du golem de Prague, quelle lettre efface-t-on sur son front pour le désactiver ?",
+    "choix": [
+      "L'aleph, première lettre de emet",
+      "Le mem, lettre du milieu de emet",
+      "Le tav, dernière lettre de emet",
+      "Le beth, deuxième lettre de l'alphabet"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sur le front du golem est inscrit emet, « vérité ». En effaçant l'aleph, première lettre, on obtient met, « mort » : la créature retourne à l'argile. Le rabbin Loew y parvient en faisant baisser la tête du golem.",
+    "source": "D'après Wikipédia — Golem"
+  },
+  {
+    "id": "q-mythologie-139",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Que signifiait probablement le mot norvégien krake, qui a donné son nom au kraken ?",
+    "choix": [
+      "Un arbre tordu ou un crochet",
+      "Un tourbillon marin",
+      "Une île flottante",
+      "Un gros poulpe"
+    ],
+    "bonneReponse": 0,
+    "explication": "Krake désigne un arbre tordu, un crochet, et par extension des ancres rudimentaires en branchages. Selon le philologue Finnur Jónsson (1920), le monstre aurait reçu ce nom par image, car ces branches évoquent des tentacules.",
+    "source": "D'après Wikipédia — Kraken"
+  },
+  {
+    "id": "q-mythologie-140",
+    "domain": "mythologie",
+    "format": "associer",
+    "question": "Associe chaque monstre du chaos au dieu qui l'affronte dans la mythologie.",
+    "paires": [
+      {
+        "gauche": "Lotan",
+        "droite": "Hadad-Baal",
+        "explication": "Dans le cycle ougaritique, le dieu de l'orage vainc ce monstre marin, ancêtre du Léviathan."
+      },
+      {
+        "gauche": "Tiamat",
+        "droite": "Marduk",
+        "explication": "En Mésopotamie, Marduk tue la déesse-serpent et utilise son corps pour former le ciel et la terre."
+      },
+      {
+        "gauche": "Typhon",
+        "droite": "Zeus",
+        "explication": "Dans la mythologie grecque, le roi des dieux foudroie le monstre aux cent têtes."
+      },
+      {
+        "gauche": "Jörmungand",
+        "droite": "Thor",
+        "explication": "Chez les Nordiques, le dieu du tonnerre combat le serpent-monde, notamment au Ragnarök."
+      }
+    ],
+    "explication": "Ces combats illustrent un thème commun du Proche-Orient et d'ailleurs : un dieu créateur impose l'ordre en terrassant un monstre qui incarne le chaos. Le Léviathan biblique prolonge cette tradition.",
+    "source": "D'après Wikipédia — Léviathan"
+  },
+  {
+    "id": "q-mythologie-141",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quel philosophe publie en 1651 un ouvrage intitulé Léviathan, où le monstre représente l'État ?",
+    "choix": [
+      "Thomas Hobbes",
+      "John Locke",
+      "Jean-Jacques Rousseau",
+      "Montesquieu"
+    ],
+    "bonneReponse": 0,
+    "explication": "Thomas Hobbes publie Léviathan en 1651. Il y fait du monstre biblique une métaphore de l'État tout-puissant. Le nom a aussi inspiré Melville, qui l'associe au cachalot, puis les paléontologues avec Livyatan melvillei.",
+    "source": "D'après Wikipédia — Léviathan"
+  },
+  {
+    "id": "q-mythologie-142",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "De quel mot latin, lié au destin et aux Parques, vient le mot « fée » ?",
+    "choix": [
+      "Fata",
+      "Fanum",
+      "Flora",
+      "Fauna"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Fée » vient du latin fata, issu des trois Parques romaines, équivalents des Moires grecques, gardiennes du destin. D'où l'idée que la fée peut influencer l'avenir de l'enfant dont elle se penche sur le berceau.",
+    "source": "D'après Wikipédia — Fée"
+  },
+  {
+    "id": "q-mythologie-143",
+    "domain": "mythologie",
+    "format": "vrai-faux",
+    "affirmation": "Dans le folklore ancien, les fées portent presque toujours des ailes de papillon.",
+    "reponse": false,
+    "explication": "Les ailes sont rares dans le folklore : les fées volaient par magie, parfois sur une tige de séneçon ou sur le dos d'un oiseau. Les ailes de papillon ou de libellule se sont surtout imposées dans l'art de l'époque victorienne.",
+    "source": "D'après Wikipédia — Fée"
+  },
+  {
+    "id": "q-mythologie-144",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Que désigne le « minerval », offert chaque 19 mars à Rome ?",
+    "choix": [
+      "Un cadeau des élèves à leurs professeurs",
+      "Une couronne d'olivier pour les artisans",
+      "Un sacrifice offert au Capitole",
+      "Une taxe payée par les médecins"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les Quinquatries, le 19 mars, honorent Minerve, patronne des artisans, des médecins et des enseignants. Ce jour-là, les élèves remercient leurs maîtres par un cadeau, le minerval, dont le nom vient de la déesse.",
+    "source": "D'après Wikipédia — Minerve (mythologie)"
+  },
+  {
+    "id": "q-mythologie-145",
+    "domain": "mythologie",
+    "format": "vrai-faux",
+    "affirmation": "Même quand il ne s'était pas éteint, le feu sacré de Vesta était renouvelé chaque année, le 1er mars.",
+    "reponse": true,
+    "explication": "Les vestales veillaient à ce que la flamme ne s'éteigne jamais. Si elle mourait, elle était rallumée en frottant deux morceaux de bois. Même intacte, elle était renouvelée tous les ans, au premier jour de mars.",
+    "source": "D'après Wikipédia — Vesta"
+  },
+  {
+    "id": "q-mythologie-146",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quel scandale éclate à Rome en 186 av. J.-C. et pousse le Sénat à encadrer un culte venu de Grèce ?",
+    "choix": [
+      "Les Bacchanales",
+      "Les Lupercales",
+      "Les Saturnales",
+      "Les Quinquatries"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tite-Live raconte l'affaire des Bacchanales au livre XXXIX. Le Sénat n'interdit pas le culte de Bacchus, mais le limite : plus de prêtres hommes, pas de secret, et des cérémonies réunissant au plus cinq personnes sans permission.",
+    "source": "D'après Wikipédia — Bacchus"
+  },
+  {
+    "id": "q-mythologie-147",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Selon Plutarque, comment Thot obtient-il les cinq jours qui portent l'année à 365 jours ?",
+    "choix": [
+      "Il joue avec la Lune et gagne une part de sa lumière",
+      "Il les dérobe à la course du soleil de Rê",
+      "Il les achète à la déesse Nout",
+      "Il les reçoit en offrande d'Osiris"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans ce récit, l'année ne compte d'abord que 360 jours. Thot joue avec la Lune, gagne un soixante-douzième de sa lumière, soit cinq jours, et crée le calendrier de 365 jours. Pendant ces jours naissent Osiris, Seth, Isis et Nephthys.",
+    "source": "D'après Wikipédia — Thot"
+  },
+  {
+    "id": "q-mythologie-148",
+    "domain": "mythologie",
+    "format": "associer",
+    "question": "Associe chaque divinité égyptienne à son domaine.",
+    "paires": [
+      {
+        "gauche": "Hathor",
+        "droite": "Joie, musique et maternité",
+        "explication": "Déesse très populaire, représentée en vache ou coiffée du disque solaire entre deux cornes."
+      },
+      {
+        "gauche": "Thot",
+        "droite": "Écriture et Lune",
+        "explication": "Ibis ou babouin, il est le scribe des dieux et le dieu lunaire de Khemenou."
+      },
+      {
+        "gauche": "Ptah",
+        "droite": "Création et artisans",
+        "explication": "Dieu de Memphis, il crée le monde par la pensée de son cœur et par la parole."
+      },
+      {
+        "gauche": "Sekhmet",
+        "droite": "Guerre et guérison",
+        "explication": "Lionne, fille de Rê, elle peut envoyer les maladies mais aussi guérir."
+      }
+    ],
+    "explication": "Ces quatre divinités illustrent la variété du panthéon égyptien : une déesse de la joie, un dieu scribe, un dieu créateur et une lionne à la fois redoutable et protectrice.",
+    "source": "D'après Wikipédia — Sekhmet"
+  },
+  {
+    "id": "q-mythologie-149",
+    "domain": "mythologie",
+    "format": "vrai-faux",
+    "affirmation": "Lors de la pesée du cœur, le cœur du défunt doit être plus lourd que la plume de Maât.",
+    "reponse": false,
+    "explication": "Le cœur du défunt est pesé contre la plume de Maât, symbole de vérité et de justice. Il doit être aussi léger qu'elle. S'il est plus lourd, la dévoreuse Ammout l'engloutit ; sinon, le défunt accède à l'éternité.",
+    "source": "D'après Wikipédia — Maât"
+  },
+  {
+    "id": "q-mythologie-150",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quel dieu égyptien est à l'origine du nom grec de l'Égypte, Aïguptos ?",
+    "choix": [
+      "Ptah",
+      "Rê",
+      "Osiris",
+      "Amon"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le grand temple de Ptah à Memphis s'appelait Hout-ka-Ptah. Les Grecs ont transformé ce nom en Aïguptos, puis les Romains en Aegyptus, d'où le mot « Égypte ». Ptah est le dieu créateur et le patron des artisans.",
+    "source": "D'après Wikipédia — Ptah"
+  },
+  {
+    "id": "q-mythologie-151",
+    "domain": "mythologie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Selon un récit tardif, je suis né de la salive de la déesse Neith.",
+      "Mon nom signifie « géant » ou « serpent géant ».",
+      "On brûlait mon effigie lors d'un rite annuel.",
+      "Chaque nuit, un chat tue mon corps avec un couteau dans le Livre des morts.",
+      "J'attaque chaque nuit la barque du dieu Soleil Rê."
+    ],
+    "reponse": "Apophis",
+    "explication": "Apophis, ou Apep, est le serpent du chaos, ennemi de Rê. Chaque nuit, il attaque la barque solaire et chaque matin il est vaincu. Un astéroïde, (99942) Apophis, porte son nom.",
+    "source": "D'après Wikipédia — Apophis"
+  },
+  {
+    "id": "q-mythologie-152",
+    "domain": "mythologie",
+    "format": "difference",
+    "question": "Quelle est la différence entre Hathor et Sekhmet dans le mythe de la vache céleste ?",
+    "choix": [
+      "Sekhmet est la forme sanguinaire que prend Hathor pour punir les humains",
+      "Hathor est une déesse égyptienne, Sekhmet une déesse mésopotamienne",
+      "Hathor est la mère de Sekhmet et sa grande rivale",
+      "Sekhmet est la déesse de la joie, Hathor celle de la guerre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans le Livre de la vache céleste, Rê envoie Hathor punir les humains qui complotent. Elle devient la lionne Sekhmet et massacre. Rê l'arrête avec de la bière rouge, et elle redevient la douce Hathor.",
+    "source": "D'après Wikipédia — Sekhmet"
+  },
+  {
+    "id": "q-mythologie-153",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Pourquoi Freyr succombera-t-il face au géant Surt lors du Ragnarök ?",
+    "choix": [
+      "Il a donné son épée magique à son écuyer Skírnir",
+      "Son sanglier Gullinbursti l'a abandonné",
+      "Son navire Skidbladnir a été détruit",
+      "Il a perdu l'anneau Draupnir"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour conquérir la géante Gerd, Freyr a offert son épée, qui combat seule, à son écuyer Skírnir. Désarmé, il tuera Beli avec un bois de cerf, mais, selon Snorri, cette absence causera sa mort face à Surt à la fin du monde.",
+    "source": "D'après Wikipédia — Freyr"
+  },
+  {
+    "id": "q-mythologie-154",
+    "domain": "mythologie",
+    "format": "associer",
+    "question": "Associe chaque fils de Ríg (Heimdall) à la classe sociale qu'il représente.",
+    "paires": [
+      {
+        "gauche": "Thrall",
+        "droite": "Le premier esclave",
+        "explication": "Premier-né des couples visités par Ríg, ancêtre des esclaves."
+      },
+      {
+        "gauche": "Karl",
+        "droite": "Le premier homme libre",
+        "explication": "Ancêtre des hommes libres de la société scandinave."
+      },
+      {
+        "gauche": "Jarl",
+        "droite": "Le premier noble",
+        "explication": "Ancêtre de l'aristocratie, à qui Ríg apprend les runes."
+      }
+    ],
+    "explication": "Sous le nom de Ríg, Heimdall visite trois couples dans le Midgard. De ces visites naissent les trois classes de la société scandinave : esclaves, hommes libres et nobles, un mythe qui donne à l'ordre social une origine divine.",
+    "source": "D'après Wikipédia — Heimdall"
+  },
+  {
+    "id": "q-mythologie-155",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "En anglais, quel jour de la semaine doit son nom au dieu Týr ?",
+    "choix": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tuesday vient du vieil anglais Tīwesdæg, « jour de Tīw », forme anglaise de Týr. C'est un calque du latin « jour de Mars » : les Germains assimilaient leur dieu à Mars, le dieu romain de la guerre. En français, c'est mardi.",
+    "source": "D'après Wikipédia — Týr"
+  },
+  {
+    "id": "q-mythologie-156",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quelle condition Hel pose-t-elle pour rendre Baldr aux dieux ?",
+    "choix": [
+      "Que tous les êtres, vivants ou morts, le pleurent",
+      "Qu'Odin lui offre son œil",
+      "Que Thor affronte son frère Fenrir",
+      "Que Freyja lui cède son collier"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hel promet de libérer Baldr si tout ce qui existe, vivant ou mort, pleure sa mort. La géante Þökk refuse de verser une larme, et Baldr reste chez les morts. Le test semblait simple, mais un seul refus suffisait.",
+    "source": "D'après Wikipédia — Hel (déesse)"
+  },
+  {
+    "id": "q-mythologie-157",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Qui a donné naissance à Sleipnir, le cheval à huit jambes d'Odin ?",
+    "choix": [
+      "Loki",
+      "Freyja",
+      "Frigg",
+      "Sif"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans l'Edda en prose, Loki met au monde Sleipnir après avoir détourné l'étalon Svaðilfari, qui aidait un bâtisseur à construire la forteresse des dieux. Le poulain gris deviendra la monture d'Odin et un cheval sans égal.",
+    "source": "D'après Wikipédia — Sleipnir"
+  },
+  {
+    "id": "q-mythologie-158",
+    "domain": "mythologie",
+    "format": "vrai-faux",
+    "affirmation": "Dans le récit de Snorri, le serpent Jörmungand est tué par Thor lors de la pêche avec le géant Hymir.",
+    "reponse": false,
+    "explication": "Chez Snorri, Hymir terrifié coupe la ligne et le serpent replonge dans la mer. Il doit en effet reparaître au Ragnarök : Thor le tuera alors, mais mourra à son tour empoisonné après neuf pas.",
+    "source": "D'après Wikipédia — Jörmungand"
+  },
+  {
+    "id": "q-mythologie-159",
+    "domain": "mythologie",
+    "format": "associer",
+    "question": "Associe chaque Norne au sens de son nom.",
+    "paires": [
+      {
+        "gauche": "Urd",
+        "droite": "Ce qui est advenu",
+        "explication": "Son nom vient de la forme passée du verbe verða, « devenir »."
+      },
+      {
+        "gauche": "Verdandi",
+        "droite": "Ce qui se passe à présent",
+        "explication": "Son nom vient du présent du verbe verða, « devenir »."
+      },
+      {
+        "gauche": "Skuld",
+        "droite": "Ce qui devrait arriver",
+        "explication": "Son nom exprime l'obligation : ce qui doit se produire."
+      }
+    ],
+    "explication": "Les trois grandes Nornes vivent près du puits d'Urd, au pied d'Yggdrasil. On y lit le passé, le présent et l'avenir, même si certains spécialistes jugent ce découpage trop simpliste.",
+    "source": "D'après Wikipédia — Nornes"
+  },
+  {
+    "id": "q-mythologie-160",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Pourquoi Izanami ne peut-elle pas quitter Yomi avec Izanagi ?",
+    "choix": [
+      "Elle a déjà mangé la nourriture des morts",
+      "Elle a juré fidélité à Susanoo",
+      "Elle a perdu son peigne sacré",
+      "Elle est gardée par Amaterasu"
+    ],
+    "bonneReponse": 0,
+    "explication": "En mangeant la nourriture de Yomi, Izanami appartient désormais au pays des morts. Izanagi la découvre à la lueur de son peigne enflammé, prend peur et s'enfuit. Le motif rappelle celui de Perséphone chez les Grecs.",
+    "source": "D'après Wikipédia — Izanami"
+  },
+  {
+    "id": "q-mythologie-161",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Selon le Nihon shoki, pourquoi le jour et la nuit ne se rencontrent-ils jamais ?",
+    "choix": [
+      "Amaterasu refuse de revoir Tsukuyomi après son crime",
+      "Susanoo a brisé le miroir du ciel",
+      "Izanagi les a séparés avec un rocher",
+      "Tsukuyomi a perdu sa route dans le Yomi"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après le meurtre d'Ukemochi, déesse de la nourriture, Amaterasu refuse de revoir son frère et s'installe ailleurs dans le ciel. Le mythe explique ainsi pourquoi le Soleil et la Lune ne se croisent jamais.",
+    "source": "D'après Wikipédia — Tsukuyomi"
+  },
+  {
+    "id": "q-mythologie-162",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Que signifie littéralement le mot japonais « tengu » ?",
+    "choix": [
+      "Chien céleste",
+      "Corbeau de montagne",
+      "Esprit du vent",
+      "Moine masqué"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tengu s'écrit avec les caractères « ciel » et « chien ». Le nom vient du monstre chinois tiāngǒu, une étoile filante qui annonce la guerre, alors que les tengu japonais ont d'abord l'allure de rapaces, puis d'hommes au long nez.",
+    "source": "D'après Wikipédia — Tengu (folklore)"
+  },
+  {
+    "id": "q-mythologie-163",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Que symbolisent les colibris dans la religion aztèque, liée à Huitzilopochtli ?",
+    "choix": [
+      "Les âmes des guerriers morts au combat",
+      "Les enfants morts en bas âge",
+      "Les messagers de la pluie",
+      "Les prêtres de Tlaloc"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les Aztèques voyaient dans le colibri l'âme des guerriers tombés au combat, qui accompagnait le Soleil dans sa course. Le nom du dieu, « colibri de gauche », renvoie à cette idée de guerrier ressuscité.",
+    "source": "D'après Wikipédia — Huitzilopochtli"
+  },
+  {
+    "id": "q-mythologie-164",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Dans le Popol Vuh, avec quelle matière les dieux réussissent-ils enfin à façonner les humains ?",
+    "choix": [
+      "Le maïs",
+      "L'argile",
+      "Le bois",
+      "La pierre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après un échec avec l'argile, puis avec le bois, les dieux façonnent les humains dans le maïs. Cette version réussit, mais les dieux, craignant d'être égalés, réduisent la vue et l'intelligence de leurs créatures.",
+    "source": "D'après Wikipédia — Popol Vuh"
+  },
+  {
+    "id": "q-mythologie-165",
+    "domain": "mythologie",
+    "format": "vrai-faux",
+    "affirmation": "Le Popol Vuh que nous connaissons a été écrit avant l'arrivée des Espagnols.",
+    "reponse": false,
+    "explication": "Le récit vient d'une tradition ancienne, mais le texte connu a été noté en lettres latines entre 1554 et 1558, après la conquête. Seule la copie de Francisco Ximénez, vers 1701-1703, nous est parvenue.",
+    "source": "D'après Wikipédia — Popol Vuh"
+  },
+  {
+    "id": "q-mythologie-166",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Que signifie le mot inuktitut « anirniq », au cœur de la mythologie inuite ?",
+    "choix": [
+      "Souffle",
+      "Banquise",
+      "Chasseur",
+      "Tambour"
+    ],
+    "bonneReponse": 0,
+    "explication": "Anirniq (pluriel anirniit) désigne le « souffle », c'est-à-dire l'esprit ou l'âme que possèdent les humains, les animaux et même les choses. Tuer un animal libère son anirniq, qu'il faut ensuite apaiser par des rituels et des tabous.",
+    "source": "D'après Wikipédia — Mythologie inuite"
+  },
+  {
+    "id": "q-mythologie-167",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "Quel dieu les empereurs incas disaient-ils avoir pour ancêtre ?",
+    "choix": [
+      "Inti, le dieu Soleil",
+      "Illapa, le dieu de la foudre",
+      "Supay, le dieu de la mort",
+      "Urquchillay, protecteur des animaux"
+    ],
+    "bonneReponse": 0,
+    "explication": "Inti, le dieu Soleil, chaleur et lumière du peuple inca, était la divinité majeure, et les empereurs se réclamaient de sa descendance. Pachakuti l'avait placé au-dessus du dieu universel Wiraqucha.",
+    "source": "D'après Wikipédia — Mythologie inca"
+  },
+  {
+    "id": "q-mythologie-168",
+    "domain": "mythologie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom signifie « beauté, splendeur, prospérité ».",
+      "Les dieux m'ont exilée, et je suis réapparue lors du barattage de la mer de lait.",
+      "Mon véhicule est la chouette.",
+      "On me représente sur un lotus, avec quatre mains et deux éléphants.",
+      "Je suis l'épouse de Vishnou, et on me fête pendant Divali."
+    ],
+    "reponse": "Lakshmi",
+    "explication": "Lakshmi, déesse de la fortune et de la prospérité, est l'épouse de Vishnou. Ses quatre mains représentent les quatre buts de la vie, et ses éléphants la fécondité et l'autorité royale. Elle est particulièrement honorée à Divali.",
+    "source": "D'après Wikipédia — Lakshmi"
+  },
+  {
+    "id": "q-mythologie-169",
+    "domain": "mythologie",
+    "format": "qcm",
+    "question": "De quel dieu Hanuman est-il le fils, selon la tradition du Rāmāyaṇa ?",
+    "choix": [
+      "Vayu, le dieu du vent",
+      "Indra, le roi des dieux",
+      "Agni, le dieu du feu",
+      "Varuna, le dieu de l'eau"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hanuman est le fils de Vayu, dieu du vent, et d'Anjanā. Cette ascendance explique sa vitesse. Enfant, Indra l'a frappé de sa foudre, ce qui a poussé Vayu à retirer l'air de la Terre jusqu'à ce que Shiva ranime son fils.",
+    "source": "D'après Wikipédia — Hanumān"
+  },
+  {
+    "id": "q-mythologie-170",
+    "domain": "mythologie",
+    "format": "vrai-faux",
+    "affirmation": "Enfant, Hanuman a pris le soleil pour un fruit mûr et a bondi pour le manger.",
+    "reponse": true,
+    "explication": "Dans le Rāmāyaṇa de Valmiki, le petit Hanuman affamé prend le soleil pour un fruit. Indra le frappe de sa foudre et lui brise la mâchoire, ce qui expliquerait son nom : hanu signifie « mâchoire ».",
+    "source": "D'après Wikipédia — Hanumān"
   }
 ]

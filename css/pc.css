@@ -5,7 +5,7 @@
  * ============================================================= */
 
 /* Éléments propres à l'ordinateur, cachés sur téléphone */
-.pc-nav, .pc-themes, .home-hero__hello, .daily-card__btn, .fact-card__resume { display: none; }
+.pc-nav, .pc-themes, .home-hero__hello, .daily-card__btn, .fact-card__resume, .fact-card__cal, .fact-card__string { display: none; }
 
 @media (min-width: 1024px) {
   :root { --pc-nav-h: 66px; --pc-w: clamp(1320px, 54vw, 1400px); }
@@ -279,6 +279,9 @@
   }
   .screen--home > .fact-card[hidden] { display: none; }
   .screen--home > .fact-card:focus-visible { outline: 3px solid #fff; outline-offset: 2px; }
+  .screen--home > .fact-card .fact-card__string { display: block; position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; z-index: 0; overflow: visible; }
+  .fact-card__string-line { fill: none; stroke: #c4281f; stroke-width: 3; stroke-linecap: round; filter: drop-shadow(0 3px 0 rgba(0, 0, 0, .28)); }
+  .screen--home > .fact-card > :not(.fact-card__string) { position: relative; z-index: 1; }
   .screen--home > .fact-card .fact-card__note { grid-column: 1; grid-row: 1 / span 2; width: auto; margin: 0; padding: 22px 24px 20px; gap: 9px; transform: rotate(-1.6deg); box-shadow: 4px 6px 0 #171c2b; }
   .screen--home > .fact-card .fact-card__note::before {
     top: -13px; width: 24px; height: 24px; margin-left: -12px; border-radius: 50%; border: 2px solid #171c2b; transform: none;
@@ -288,7 +291,7 @@
   .screen--home > .fact-card .fact-card__text { font-size: calc(17px + var(--gr) * 0.0016); line-height: 1.38; -webkit-line-clamp: 6; margin: 4px 0 6px; }
   .screen--home > .fact-card .fact-card__go { font-size: calc(13.5px + var(--gr) * 0.0013); padding: 6px 14px; }
   .screen--home > .fact-card .fact-card__photo {
-    grid-column: 2; grid-row: 1; justify-self: center; align-self: end;
+    grid-column: 2; grid-row: 1; justify-self: start; margin-left: 4%; align-self: end;
     display: flex; flex-direction: column; align-items: center; position: relative; width: clamp(140px, 66%, 190px); margin: 0; padding: 10px 10px 8px;
     background: #fff; border: 2.5px solid #171c2b; box-shadow: 4px 6px 0 #171c2b; transform: rotate(3deg);
   }
@@ -309,6 +312,18 @@
     content: ''; position: absolute; top: -11px; left: 50%; width: 20px; height: 20px; margin-left: -10px; border-radius: 50%; border: 2px solid #171c2b;
     background: radial-gradient(circle at 35% 30%, #fff1a8, #f2b01e 55%, #b57a08); box-shadow: 0 3px 0 rgba(0, 0, 0, .35);
   }
+  /* Page de calendrier : papier blanc, bandeau rouge, gros chiffre du jour */
+  .screen--home > .fact-card .fact-card__cal {
+    display: flex; flex-direction: column; align-items: center; position: absolute; top: 28px; right: 30px; z-index: 1; width: clamp(66px, 5.4vw, 84px); padding: 0 0 7px; overflow: visible;
+    background: #fff; color: #171c2b; border: 2.5px solid #171c2b; border-radius: 4px; box-shadow: 3px 4px 0 #171c2b; transform: rotate(4deg);
+  }
+  .fact-card__cal::before {
+    content: ''; position: absolute; top: -11px; left: 50%; width: 20px; height: 20px; margin-left: -10px; border-radius: 50%; border: 2px solid #171c2b;
+    background: radial-gradient(circle at 35% 30%, #b8f0cf, #2fb36e 55%, #176b40); box-shadow: 0 3px 0 rgba(0, 0, 0, .35);
+  }
+  .fact-card__cal-m { align-self: stretch; text-align: center; padding: 8px 0 3px; background: #e8453c; color: #fff; border-bottom: 2.5px solid #171c2b; font-size: calc(11.5px + var(--gr) * 0.0013); font-weight: 900; letter-spacing: .08em; text-transform: uppercase; }
+  .fact-card__cal-d { font-family: var(--font-display); font-size: calc(32px + var(--gr) * 0.0026); font-weight: 800; line-height: 1.1; margin-top: 3px; }
+  .fact-card__cal-w { font-size: calc(10.5px + var(--gr) * 0.0013); font-weight: 800; text-transform: capitalize; }
   .fact-card__resume-k { font-size: calc(11.5px + var(--gr) * 0.0013); font-weight: 900; letter-spacing: .5px; text-transform: uppercase; }
   .fact-card__resume-t { font-size: calc(16px + var(--gr) * 0.0016); font-weight: 800; }
   .fact-card__resume-go {

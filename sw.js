@@ -4,7 +4,7 @@
  *   et à mesure (stale-while-revalidate), pour supporter l'ajout de
  *   nouveaux domaines/lots sans jamais devoir republier le service worker.
  * ================================================================= */
-const SHELL_VERSION = 'v82';
+const SHELL_VERSION = 'v83';
 const SHELL_CACHE = `culture-g-shell-${SHELL_VERSION}`;
 const DATA_CACHE = 'culture-g-data';
 
@@ -146,7 +146,7 @@ self.addEventListener('fetch', (event) => {
   );
 });
 
-// ---------- Rappel quotidien (notifications push, cf. js/notifs.js et netlify/functions) ----------
+// ---------- Rappel quotidien (notifications push, cf. js/notifs.js) ----------
 self.addEventListener('push', (event) => {
   let data = {};
   try { data = event.data ? event.data.json() : {}; } catch (e) { /* message vide */ }

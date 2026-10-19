@@ -1,9 +1,11 @@
 /* ===================== Rappel quotidien (notifications) =====================
  * Bouton en bas de l'accueil : active ou coupe la notification de midi « Ta bouchée du jour t'attend ».
- * Le serveur (fonctions Netlify, dossier netlify/functions) ne garde que l'adresse technique du téléphone, rien de personnel.
+ * Le serveur (Cloudflare Worker) ne garde que l'adresse technique du téléphone, rien de personnel.
  * Sur iPhone, ça ne marche que si l'appli est ajoutée à l'écran d'accueil.
- * Pour retirer : supprimer ce fichier, #notif-row dans index.html, les gestionnaires push de sw.js et netlify/functions. */
+ * Pour retirer : supprimer ce fichier, #notif-row dans index.html, les gestionnaires push de sw.js et le Worker. */
 const Notifs = (() => {
+  // Adresse du petit serveur qui envoie les notifications (Cloudflare Worker, à renseigner une fois créé). Vide = bouton caché.
+  const API = '';
   const supported = () => 'serviceWorker' in navigator && 'PushManager' in window && 'Notification' in window;
   const isIOS = () => /iphone|ipad|ipod/i.test(navigator.userAgent);
   const standalone = () => window.navigator.standalone === true || window.matchMedia('(display-mode: standalone)').matches;
@@ -24,24 +26,25 @@ const Notifs = (() => {
   async function enable() {
     const perm = await Notification.requestPermission();
     if (perm !== 'granted') throw new Error('refusé');
-    const { publicKey } = await (await fetch('/api/vapid-key', { cache: 'no-store' })).json();
+    const { publicKey } = await (await fetch(API + '/api/vapid-key', { cache: 'no-store' })).json();
     const reg = await navigator.serviceWorker.ready;
     const sub = (await reg.pushManager.getSubscription())
       || await reg.pushManager.subscribe({ userVisibleOnly: true, applicationServerKey: b64ToBytes(publicKey) });
-    const res = await fetch('/api/subscribe', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ subscription: sub.toJSON() }) });
+    const res = await fetch(API + '/api/subscribe', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ subscription: sub.toJSON() }) });
     if (!res.ok) throw new Error('serveur');
   }
 
   async function disable() {
     const sub = await current();
     if (!sub) return;
-    try { await fetch('/api/subscribe', { method: 'DELETE', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ endpoint: sub.endpoint }) }); } catch (e) { /* hors ligne */ }
+    try { await fetch(API + '/api/subscribe', { method: 'DELETE', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ endpoint: sub.endpoint }) }); } catch (e) { /* hors ligne */ }
     await sub.unsubscribe();
   }
 
   async function refresh() {
     const row = document.getElementById('notif-row');
     if (!row) return;
+    if (!API) { row.hidden = true; return; }
     const btn = row.querySelector('.notif-btn'), hint = row.querySelector('.notif-hint');
     if (!supported()) {
       // iPhone hors appli installée : on explique quoi faire ; ailleurs, on ne montre rien

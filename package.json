@@ -1,9 +1,0 @@
-{
-  "name": "croc-savoir",
-  "private": true,
-  "description": "Croc'Savoir : site statique + petites fonctions Netlify pour le rappel quotidien (notifications push).",
-  "dependencies": {
-    "@netlify/blobs": "^8.1.0",
-    "web-push": "^3.6.7"
-  }
-}

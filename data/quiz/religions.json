@@ -1617,5 +1617,1690 @@
     "bonneReponse": 0,
     "explication": "Antoine le Grand se retire vers 270 dans le désert d'Égypte et attire, malgré lui, de nombreux disciples. Il est l'une des origines du monachisme chrétien, que Pacôme organise ensuite en communautés.",
     "source": "D'après Wikipédia — Monachisme"
+  },
+  {
+    "id": "q-religions-102",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Comment les fidèles du vaudou haïtien appellent-ils les esprits qu'ils honorent ?",
+    "choix": [
+      "Les loas",
+      "Les orixás",
+      "Les kamis",
+      "Les djinns"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour les vaudouisants, le Dieu créateur Bondye reste lointain. On prie donc les loas, esprits intermédiaires qui veillent chacun sur un domaine de la vie, comme Papa Legba pour les carrefours ou Erzulie pour l'amour.",
+    "source": "D'après Wikipédia — Vaudou haïtien"
+  },
+  {
+    "id": "q-religions-103",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "De quel nom vient le mot « rastafari » ?",
+    "choix": [
+      "Ras Tafari Makonnen, titre de l'empereur d'Éthiopie avant son couronnement",
+      "Marcus Garvey, le prophète du retour en Afrique",
+      "Bob Marley, le chanteur de reggae",
+      "Leonard Howell, un prédicateur jamaïcain"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mouvement tire son nom de Ras Tafari Makonnen, le titre que portait Haïlé Sélassié avant d'être couronné empereur d'Éthiopie, en 1930. Des prédicateurs jamaïcains ont vu dans ce couronnement l'accomplissement d'une prophétie biblique.",
+    "source": "D'après Wikipédia — Mouvement rastafari"
+  },
+  {
+    "id": "q-religions-104",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Haïlé Sélassié a toujours encouragé les rastas à voir en lui un être divin.",
+    "reponse": false,
+    "explication": "Interrogé en 1967 sur ceux qui voyaient en lui le Christ revenu, l'empereur a répondu qu'il était un homme mortel. Beaucoup de rastas ont pourtant continué à le vénérer, y compris après sa mort en 1975.",
+    "source": "D'après Wikipédia — Mouvement rastafari"
+  },
+  {
+    "id": "q-religions-105",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "D'où vient probablement le nom des « druzes » ?",
+    "choix": [
+      "Du nom d'un prédicateur du XIe siècle, ad-Darazi",
+      "Du nom du calife fatimide al-Hakim",
+      "Du nom du fondateur persan Hamza",
+      "D'une tribu arabe du Hauran"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nom viendrait de Muhammad ad-Darazi, un prédicateur actif au Caire vers 1017. Les textes druzes le jugent pourtant hérétique : eux-mêmes se nomment « unitaires » (muwahhidun), pour leur foi en l'unité absolue de Dieu.",
+    "source": "D'après Wikipédia — Druzes"
+  },
+  {
+    "id": "q-religions-106",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Les druzes se nomment eux-mêmes « unitaires », muwahhidun en arabe.",
+    "reponse": true,
+    "explication": "Dans leurs textes religieux, seul le mot muwahhidun, « unitaires », apparaît. Il exprime leur foi en l'unité absolue de Dieu. Le nom « druzes », lui, est un nom d'usage venu de l'extérieur.",
+    "source": "D'après Wikipédia — Druzes"
+  },
+  {
+    "id": "q-religions-107",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel animal donne son nom à Tawûsî Melek, le chef des sept anges dans le yézidisme ?",
+    "choix": [
+      "Le paon",
+      "L'aigle",
+      "Le coq",
+      "La colombe"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tawûsî Melek signifie « l'Ange paon ». Chef des sept anges à qui Dieu confie le monde, il a été confondu à tort avec Satan, ce qui a valu aux Yézidis d'être faussement appelés « adorateurs du diable ».",
+    "source": "D'après Wikipédia — Yézidisme"
+  },
+  {
+    "id": "q-religions-108",
+    "domain": "religions",
+    "format": "associer",
+    "question": "Associe chaque orixá du candomblé à ce qu'il gouverne.",
+    "paires": [
+      {
+        "gauche": "Iemanjá",
+        "droite": "La mer",
+        "explication": "Divinité des eaux marines, elle veille sur les familles, les enfants et la pêche."
+      },
+      {
+        "gauche": "Xangô",
+        "droite": "La foudre et la justice",
+        "explication": "Orixá du feu, du tonnerre et de la justice, il est associé au rouge et au blanc."
+      },
+      {
+        "gauche": "Oxum",
+        "droite": "Les rivières",
+        "explication": "Déesse des eaux douces et de la beauté, elle porte un miroir et le jaune."
+      },
+      {
+        "gauche": "Ogum",
+        "droite": "La forge et la guerre",
+        "explication": "Il a offert le feu et la forge aux humains ; on l'associe à saint Georges."
+      }
+    ],
+    "explication": "Chaque orixá est lié à un élément naturel, avec ses couleurs, ses offrandes et son saint catholique associé. Cette correspondance a permis aux esclaves de garder leurs cultes sous couvert de catholicisme.",
+    "source": "D'après Wikipédia — Candomblé"
+  },
+  {
+    "id": "q-religions-109",
+    "domain": "religions",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire du mormonisme dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Joseph Smith raconte sa Première Vision",
+        "annee": "1820"
+      },
+      {
+        "label": "Publication du Livre de Mormon et fondation de l'Église",
+        "annee": "1830"
+      },
+      {
+        "label": "Joseph Smith est tué par une foule à Carthage",
+        "annee": "1844"
+      },
+      {
+        "label": "Fin officielle du mariage plural",
+        "annee": "1890"
+      }
+    ],
+    "explication": "Smith situe sa vision en 1820 ; le Livre de Mormon paraît en 1830, année de la fondation de l'Église. Après sa mort en 1844, Brigham Young conduit les fidèles en Utah, où le mariage plural est abandonné en 1890.",
+    "source": "D'après Wikipédia — Mormonisme"
+  },
+  {
+    "id": "q-religions-110",
+    "domain": "religions",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom hébreu signifie « Mon Dieu est YHWH ».",
+      "Je viens de Tishbé, en Galaad, et j'annonce une sécheresse au roi Achab.",
+      "Sur le mont Carmel, je défie 450 prophètes de Baal.",
+      "À l'Horeb, Dieu m'apparaît dans « la voix d'un fin silence ».",
+      "Je ne meurs pas : un tourbillon de feu m'emporte, et on attend mon retour."
+    ],
+    "reponse": "Élie",
+    "explication": "Prophète du royaume d'Israël au IXe siècle avant notre ère, Élie affronte Achab et Jézabel. Son enlèvement au ciel fonde l'attente de son retour : pour les Évangiles, Jean le Baptiste est cet Élie annoncé.",
+    "source": "D'après Wikipédia — Élie"
+  },
+  {
+    "id": "q-religions-111",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel pape, élu en 1978, est le premier non italien depuis 1522 ?",
+    "choix": [
+      "Jean-Paul II",
+      "Jean-Paul Ier",
+      "Paul VI",
+      "Jean XXIII"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Polonais Karol Wojtyła est élu le 16 octobre 1978. Avant lui, le dernier pape non italien était le Néerlandais Adrien VI, en 1522. Il reste l'un des pontificats les plus longs de l'histoire, avec plus de 26 ans.",
+    "source": "D'après Wikipédia — Jean-Paul II"
+  },
+  {
+    "id": "q-religions-112",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel surnom, qui signifie « la Resplendissante », est donné à Fatima, fille de Mahomet ?",
+    "choix": [
+      "Az-Zahrâ'",
+      "As-Siddîqa",
+      "Umm abîhâ",
+      "Umm al-a'imma"
+    ],
+    "bonneReponse": 0,
+    "explication": "Az-Zahrâ' est le nom d'honneur le plus connu de Fatima. Elle porte aussi le surnom Umm abîhâ, « la mère de son père », et, pour les chiites, Umm al-a'imma, « la mère des imams ». Ces titres disent sa place dans la mémoire musulmane.",
+    "source": "D'après Wikipédia — Fatima Zahra"
+  },
+  {
+    "id": "q-religions-113",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel ordre soufi, fondé après la mort de Rûmî, est célèbre pour ses « derviches tourneurs » ?",
+    "choix": [
+      "Les mevlevis",
+      "Les bektachis",
+      "Les qadiris",
+      "Les naqshbandis"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les mevlevis tirent leur nom de Mawlânâ, « notre maître », surnom de Rûmî. Leur cérémonie, le samā', associe musique et danse tournante. L'ordre fut interdit en Turquie en 1926 par Atatürk.",
+    "source": "D'après Wikipédia — Rûmî"
+  },
+  {
+    "id": "q-religions-114",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Mahavira est le fondateur du jaïnisme.",
+    "reponse": false,
+    "explication": "Pour les jaïns, Mahavira est le vingt-quatrième et dernier tîrthankara. Il a renforcé et réformé une tradition plus ancienne, celle de Parshvanatha, et lui a donné sa forme actuelle sans en créer une nouvelle.",
+    "source": "D'après Wikipédia — Mahāvīra"
+  },
+  {
+    "id": "q-religions-115",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "De quoi se nourrit Jean le Baptiste dans le désert, d'après l'Évangile de Matthieu ?",
+    "choix": [
+      "De sauterelles et de miel sauvage",
+      "De pain et de poisson",
+      "De figues et de dattes",
+      "D'olives et de lait de chèvre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Matthieu le décrit vêtu de poil de chameau et nourri de sauterelles et de miel sauvage. Ce mode de vie d'ascète frappait ses contemporains et le rapprochait, aux yeux des Évangiles, du prophète Élie.",
+    "source": "D'après Wikipédia — Jean le Baptiste"
+  },
+  {
+    "id": "q-religions-116",
+    "domain": "religions",
+    "format": "difference",
+    "question": "Quelle est la différence entre Marie-Madeleine dans les Évangiles et sa réputation de « pécheresse repentie » ?",
+    "choix": [
+      "Les Évangiles ne disent nulle part qu'elle fut prostituée : cette image vient d'une confusion avec d'autres femmes",
+      "Les Évangiles la décrivent comme une prostituée, mais l'Église orthodoxe a effacé ce passage",
+      "Les Évangiles disent qu'elle est la mère de Jésus",
+      "Les Évangiles la comptent parmi les douze apôtres"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les Évangiles la montrent comme une disciple, présente à la Crucifixion et au tombeau. L'image de prostituée repentie vient d'une confusion entretenue par le pape Grégoire Ier en 591, corrigée par l'Église catholique en 1969.",
+    "source": "D'après Wikipédia — Marie Madeleine"
+  },
+  {
+    "id": "q-religions-117",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quelle stèle gravée en araméen contient l'expression « Maison de David » ?",
+    "choix": [
+      "La stèle de Tel Dan",
+      "La pierre de Rosette",
+      "La stèle d'Hammourabi",
+      "Le cylindre de Cyrus"
+    ],
+    "bonneReponse": 0,
+    "explication": "La stèle de Tel Dan, érigée par un roi de Damas vers la fin du IXe siècle av. J.-C. ou plus tard, contient l'expression « Maison de David ». C'est probablement la mention d'une dynastie de Juda descendant de David.",
+    "source": "D'après Wikipédia — David (roi d'Israël)"
+  },
+  {
+    "id": "q-religions-118",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Comment s'appelle le recueil d'hymnes anciens attribué à Zarathoustra ?",
+    "choix": [
+      "Les Gathas",
+      "Les Yashts",
+      "Le Vendidad",
+      "Le Bundahishn"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les Gathas forment le noyau le plus ancien de l'Avesta, rédigé en avestique. Ces poèmes sont presque la seule source directe sur Zarathoustra, dont la vie nous est connue surtout par des récits légendaires tardifs.",
+    "source": "D'après Wikipédia — Zoroastre"
+  },
+  {
+    "id": "q-religions-119",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel maître impose à Milarépa de dures épreuves, comme bâtir puis démolir des tours ?",
+    "choix": [
+      "Marpa le Traducteur",
+      "Naropa",
+      "Gampopa",
+      "Rongtön"
+    ],
+    "bonneReponse": 0,
+    "explication": "Marpa le Traducteur, élève du maître indien Naropa, fait subir à Milarépa des épreuves pour purifier son mauvais karma. Il lui transmet ensuite des enseignements tantriques et l'envoie méditer seul en montagne.",
+    "source": "D'après Wikipédia — Milarépa"
+  },
+  {
+    "id": "q-religions-120",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que signifie « Shemot », nom hébreu du deuxième livre de la Bible ?",
+    "choix": [
+      "Noms",
+      "Sortie",
+      "Commandements",
+      "Désert"
+    ],
+    "bonneReponse": 0,
+    "explication": "Shemot veut dire « Noms » : en hébreu, un livre de la Torah prend le nom de ses premiers mots, et celui-ci s'ouvre sur la liste des fils d'Israël venus en Égypte. Le titre « Exode » vient, lui, du grec éxodos, « sortie », choisi par les traducteurs de la Septante.",
+    "source": "D'après Wikipédia — Livre de l'Exode"
+  },
+  {
+    "id": "q-religions-121",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Dans quel Évangile figure le Sermon sur la montagne ?",
+    "choix": [
+      "Matthieu",
+      "Marc",
+      "Luc",
+      "Jean"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Sermon sur la montagne occupe les chapitres 5 à 7 de l'Évangile selon Matthieu. Selon ce récit, Jésus le prononce peu après son baptême et ses premières prédications en Galilée. C'est le plus long discours de Jésus rapporté dans le Nouveau Testament.",
+    "source": "D'après Wikipédia — Sermon sur la montagne"
+  },
+  {
+    "id": "q-religions-122",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que désignent les trois lettres T, N et K du mot Tanakh ?",
+    "choix": [
+      "Torah, Nevi'im, Ketouvim",
+      "Talmud, Nevi'im, Kabbale",
+      "Torah, Mishna, Ketouvim",
+      "Targum, Midrash, Kabbale"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tanakh est un acronyme : T pour la Torah (la Loi), N pour les Nevi'im (les Prophètes) et K pour les Ketouvim (les Écrits). Le nom plus ancien est Miqra, « lecture », car ces textes étaient lus à voix haute devant l'assemblée.",
+    "source": "D'après Wikipédia — Tanakh"
+  },
+  {
+    "id": "q-religions-123",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel moine japonais du XIIIe siècle fait de la récitation du titre du Sūtra du Lotus la pratique centrale de son enseignement ?",
+    "choix": [
+      "Nichiren",
+      "Dōgen",
+      "Saichō",
+      "Shōtoku"
+    ],
+    "bonneReponse": 0,
+    "explication": "Nichiren, dont le nom signifie « Soleil-Lotus », fonde en 1253 un courant qui recommande de réciter le titre du sūtra, Nam-myōhō-renge-kyō. Il y voit le résumé de tout l'enseignement du texte. Dōgen, lui, est le fondateur de l'école zen sôtô.",
+    "source": "D'après Wikipédia — Sūtra du Lotus"
+  },
+  {
+    "id": "q-religions-124",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel métier Khadija exerce-t-elle avant d'épouser Mahomet ?",
+    "choix": [
+      "Marchande à la tête de caravanes",
+      "Prêtresse d'un sanctuaire",
+      "Poétesse de cour",
+      "Sage-femme"
+    ],
+    "bonneReponse": 0,
+    "explication": "Khadija est une riche commerçante de la tribu des Quraysh. Elle ne voyage pas elle-même, mais emploie des agents payés à la commission. C'est ainsi qu'elle engage le jeune Mahomet pour une expédition en Syrie, avant de lui proposer le mariage.",
+    "source": "D'après Wikipédia — Khadija bint Khuwaylid"
+  },
+  {
+    "id": "q-religions-125",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Combien de sentences le Dhammapada contient-il ?",
+    "choix": [
+      "423",
+      "108",
+      "1 430",
+      "84 000"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Dhammapada réunit 423 versets répartis en vingt-six chapitres. Ces sentences brèves, faciles à mémoriser, comptent parmi les textes bouddhiques les plus lus. Elles appartiennent au Khuddaka Nikāya, une division du canon pāli.",
+    "source": "D'après Wikipédia — Dhammapada"
+  },
+  {
+    "id": "q-religions-126",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel gourou sikh compile en 1604 la première version du livre saint, l'Adi Granth ?",
+    "choix": [
+      "Guru Arjan",
+      "Guru Nanak",
+      "Guru Gobind Singh",
+      "Guru Tegh Bahadur"
+    ],
+    "bonneReponse": 0,
+    "explication": "Guru Arjan, cinquième gourou, fait collecter les hymnes de ses prédécesseurs et achève l'Adi Granth en 1604 ; le livre est installé au Temple d'or d'Amritsar. Plus tard, Guru Gobind Singh y ajoute les hymnes de son père Tegh Bahadur.",
+    "source": "D'après Wikipédia — Guru Granth Sahib"
+  },
+  {
+    "id": "q-religions-127",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Pourquoi les baha'is ont-ils pour symbole une étoile à neuf branches ?",
+    "choix": [
+      "Le mot « Bahá' » vaut 9 dans un système de numérologie arabe",
+      "Baháʼu'lláh a passé neuf ans en exil à Bagdad",
+      "Baháʼu'lláh a eu neuf épouses",
+      "Il a écrit neuf livres majeurs"
+    ],
+    "bonneReponse": 0,
+    "explication": "Selon un système de numérologie, les lettres de « Bahá' », qui signifie « gloire », valent 2, 5, 1 et 1, soit 9. D'où l'étoile à neuf branches et les temples à neuf côtés. Le nom de Baháʼu'lláh veut dire « gloire de Dieu ».",
+    "source": "D'après Wikipédia — Baháʼu'lláh"
+  },
+  {
+    "id": "q-religions-128",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Dans quelle abbaye Benoît de Nursie s'installe-t-il après avoir quitté Subiaco ?",
+    "choix": [
+      "Le Mont-Cassin",
+      "Cluny",
+      "Cîteaux",
+      "Clairvaux"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après avoir fondé douze petits monastères autour de Subiaco, Benoît s'installe au Mont-Cassin, sur un site qui aurait abrité des temples païens. Il y meurt en 547. Cluny, Cîteaux et Clairvaux sont des abbayes bien plus tardives.",
+    "source": "D'après Wikipédia — Benoît de Nursie"
+  },
+  {
+    "id": "q-religions-129",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel roi perse accueille Mani à sa cour vers 242 et lui laisse prêcher dans l'empire ?",
+    "choix": [
+      "Shapur Ier",
+      "Bahrâm Ier",
+      "Chosroês Ier",
+      "Darius Ier"
+    ],
+    "bonneReponse": 0,
+    "explication": "Mani se présente à Shapur Ier en 242 et lui dédie le Shabuhragan, son seul livre en persan. Resté zoroastrien, le roi le laisse prêcher. Sous Bahrâm Ier, plus favorable au clergé zoroastrien, Mani est emprisonné et meurt en 274 ou 277.",
+    "source": "D'après Wikipédia — Mani (prophète)"
+  },
+  {
+    "id": "q-religions-130",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Dans le Sermon sur la montagne, Jésus appelle ses disciples « le sel de la terre » et « la lumière du monde ».",
+    "reponse": true,
+    "explication": "Après les Béatitudes, Jésus compare ses disciples au sel de la terre et à la lumière du monde, selon l'Évangile de Matthieu. Ces expressions sont passées dans la langue courante, comme l'image de la paille et de la poutre, tirée du même sermon.",
+    "source": "D'après Wikipédia — Sermon sur la montagne"
+  },
+  {
+    "id": "q-religions-131",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Selon la tradition juive, le Tanakh compte trente-neuf livres.",
+    "reponse": false,
+    "explication": "La tradition juive compte vingt-quatre livres : cinq pour la Torah, huit pour les Nevi'im, onze pour les Ketouvim. Les protestants en dénombrent trente-neuf pour le même contenu, car ils subdivisent certains livres, comme ceux de Samuel ou des Rois.",
+    "source": "D'après Wikipédia — Tanakh"
+  },
+  {
+    "id": "q-religions-132",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Hildegarde de Bingen a reçu en 2012 le titre de docteur de l'Église.",
+    "reponse": true,
+    "explication": "En 2012, Benoît XVI étend d'abord son culte à toute l'Église catholique, puis la proclame docteur de l'Église le 7 octobre, pour la sainteté de sa vie et l'originalité de sa pensée. Abbesse, mystique et compositrice, elle est une figure majeure du XIIe siècle.",
+    "source": "D'après Wikipédia — Hildegarde de Bingen"
+  },
+  {
+    "id": "q-religions-133",
+    "domain": "religions",
+    "format": "associer",
+    "question": "Associe chaque figure religieuse à son œuvre ou à sa fondation.",
+    "paires": [
+      {
+        "gauche": "Benoît de Nursie",
+        "droite": "Une Règle pour les moines",
+        "explication": "Sa Règle, en soixante-treize chapitres, devient la référence des moines d'Occident."
+      },
+      {
+        "gauche": "Hildegarde de Bingen",
+        "droite": "Le Scivias",
+        "explication": "Ce livre, dont le titre signifie « Connais les voies », consigne les visions de l'abbesse."
+      },
+      {
+        "gauche": "Ignace de Loyola",
+        "droite": "Les Exercices spirituels",
+        "explication": "Ce parcours de méditation et de discernement est la source de la spiritualité ignatienne."
+      },
+      {
+        "gauche": "Bernard de Clairvaux",
+        "droite": "L'abbaye de la « claire vallée »",
+        "explication": "Il en fait un foyer majeur de l'ordre cistercien et reste son abbé jusqu'à sa mort."
+      }
+    ],
+    "explication": "Quatre grandes figures du christianisme médiéval et moderne : Benoît donne sa règle aux moines, Hildegarde met ses visions par écrit, Ignace élabore une méthode de méditation et Bernard fait de Clairvaux un foyer cistercien.",
+    "source": "D'après Wikipédia — Benoît de Nursie"
+  },
+  {
+    "id": "q-religions-134",
+    "domain": "religions",
+    "format": "qui-suis-je",
+    "indices": [
+      "Selon la légende, Shiva est apparu à mes parents avant ma naissance au Kerala.",
+      "Un crocodile aurait manqué de m'arracher la jambe, et je suis devenu renonçant à huit ans.",
+      "La tradition me prête la fondation de quatre monastères aux quatre coins de l'Inde.",
+      "J'ai commenté les Upanishad, le Brahma Sūtra et la Bhagavad-Gîtâ.",
+      "Je suis le grand philosophe de l'Advaita Vedānta, la doctrine de la non-dualité."
+    ],
+    "reponse": "Adi Shankara",
+    "explication": "Adi Shankara est le grand maître de l'Advaita Vedānta : pour lui, le Soi profond, l'Ātman, ne fait qu'un avec Brahman. Les récits de sa vie sont surtout légendaires et tardifs, et les historiens situent sa vie au VIIIe siècle.",
+    "source": "D'après Wikipédia — Adi Shankara"
+  },
+  {
+    "id": "q-religions-135",
+    "domain": "religions",
+    "format": "frise",
+    "question": "Remets ces moments de la vie de Guru Gobind Singh dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Il naît à Patna",
+        "annee": "1666"
+      },
+      {
+        "label": "Son père Tegh Bahadur est exécuté à Delhi",
+        "annee": "1675"
+      },
+      {
+        "label": "Il fonde le Khalsa à Anandpur",
+        "annee": "1699"
+      },
+      {
+        "label": "Il meurt à Nanded",
+        "annee": "1708"
+      }
+    ],
+    "explication": "Né en 1666, Gobind Singh devient chef des sikhs à neuf ans, quand son père est exécuté en 1675. En 1699, il fonde le Khalsa. Il meurt à Nanded en 1708, après avoir désigné le Livre saint comme son successeur.",
+    "source": "D'après Wikipédia — Guru Gobind Singh"
+  },
+  {
+    "id": "q-religions-136",
+    "domain": "religions",
+    "format": "difference",
+    "question": "Dans le Dao de jing, quelle est la différence entre le Dao et le De ?",
+    "choix": [
+      "Le Dao est la « voie », origine de toutes choses ; le De est la « vertu », son effet",
+      "Le Dao est le gouvernement ; le De est la religion",
+      "Le Dao est le texte écrit ; le De est la tradition orale",
+      "Le Dao désigne l'homme sage ; le De désigne l'univers"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le livre se divise en deux parties : le Dao, la « voie », origine insaisissable de toute chose, et le De, la « vertu », qui en est l'effet. Dans les versions retrouvées à Mawangdui, la partie De précède d'ailleurs la partie Dao.",
+    "source": "D'après Wikipédia — Dao de jing"
+  },
+  {
+    "id": "q-religions-137",
+    "domain": "religions",
+    "format": "difference",
+    "question": "Quelle différence entre les béatitudes de Matthieu et celles de Luc ?",
+    "choix": [
+      "Matthieu en compte huit (ou neuf) ; Luc en compte quatre, suivies de quatre malheurs",
+      "Matthieu en compte quatre ; Luc en compte huit, sans aucun malheur",
+      "Matthieu les situe dans une synagogue ; Luc dans le Temple",
+      "Il n'y en a que chez Matthieu : Luc n'en rapporte aucune"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chez Matthieu, le Sermon sur la montagne s'ouvre sur huit (ou neuf) béatitudes. Chez Luc, le Sermon dans la plaine en compte quatre, suivies de quatre « malheurs ». Certains y voient un même discours, d'autres deux discours distincts.",
+    "source": "D'après Wikipédia — Sermon sur la montagne"
+  },
+  {
+    "id": "q-religions-138",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "De quelle matière doit être fait le toit (skhakh) d'une soukka, la cabane de Souccot ?",
+    "choix": [
+      "Branchages ou palmes coupés, détachés du sol",
+      "Tissu tendu sur des piquets",
+      "Tuiles ou ardoises",
+      "Planches de bois clouées"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le toit doit être en matière végétale, coupée et détachée du sol, et rester assez aéré pour laisser voir le ciel. Une cabane sous un arbre ou dans une maison ne convient pas : l'abri doit rester fragile, comme celui du désert.",
+    "source": "D'après Wikipédia — Souccot"
+  },
+  {
+    "id": "q-religions-139",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "La Toussaint est fêtée le 1er novembre par toutes les Églises chrétiennes qui la célèbrent.",
+    "reponse": false,
+    "explication": "Les Églises orthodoxes et catholiques orientales de rite byzantin fêtent un dimanche de tous les saints, juste après la Pentecôte. Le 1er novembre est la date de l'Église catholique de rite occidental, fixée au Moyen Âge.",
+    "source": "D'après Wikipédia — Toussaint"
+  },
+  {
+    "id": "q-religions-140",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que signifie « djebel Moussa », le nom arabe du mont Sinaï ?",
+    "choix": [
+      "La montagne de Moïse",
+      "La montagne de la loi",
+      "Le mont du buisson",
+      "La montagne de la turquoise"
+    ],
+    "bonneReponse": 0,
+    "explication": "En arabe, Moussa est Moïse : djebel Moussa veut dire « montagne de Moïse ». Les Égyptiens de l'Antiquité, eux, parlaient du « mont de la turquoise ». Ce sommet de 2 285 mètres domine le monastère Sainte-Catherine.",
+    "source": "D'après Wikipédia — Mont Sinaï"
+  },
+  {
+    "id": "q-religions-141",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel événement ravage la rotonde du Saint-Sépulcre en 1808 ?",
+    "choix": [
+      "Un incendie",
+      "Un tremblement de terre",
+      "Un siège",
+      "Une inondation"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un incendie détruit la rotonde en 1808 et l'effondrement du dôme brise les décors de l'édicule. Le séisme, lui, date de 1927. La reconstruction de 1809-1810 est financée par les orthodoxes, avec l'accord des autorités turques.",
+    "source": "D'après Wikipédia — Saint-Sépulcre"
+  },
+  {
+    "id": "q-religions-142",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Des pièces de monnaie trouvées en 2011 au pied du mur des Lamentations prouvent qu'il a été bâti après la mort d'Hérode le Grand.",
+    "reponse": true,
+    "explication": "Les pièces, frappées en 17 ou 18 après J.-C. par le préfet Valerius Gratus, montrent que le chantier a commencé plus de quinze ans après le décès d'Hérode, en 4 avant J.-C. On croyait auparavant que lui seul l'avait lancé.",
+    "source": "D'après Wikipédia — Mur des Lamentations"
+  },
+  {
+    "id": "q-religions-143",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel calife fait construire le dôme du Rocher, à la fin du VIIe siècle ?",
+    "choix": [
+      "Abd al-Malik",
+      "Omar ibn al-Khattab",
+      "Al-Hakim",
+      "Al-Mamun"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le dôme du Rocher date de 691-692, sous le calife omeyyade Abd al-Malik. Omar a conquis Jérusalem plus tôt, en 638. Al-Mamun, deux siècles plus tard, a fait remplacer le nom d'Abd al-Malik par le sien dans l'inscription.",
+    "source": "D'après Wikipédia — Dôme du Rocher"
+  },
+  {
+    "id": "q-religions-144",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que signifie le nom grec « Hagía Sophía », donné à Sainte-Sophie de Constantinople ?",
+    "choix": [
+      "La sagesse divine",
+      "La sainte paix",
+      "La Grande Église",
+      "Sainte Sophie la martyre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Hagía Sophía veut dire « sagesse divine » : l'église est dédiée à la Sagesse de Dieu, identifiée au Christ, et non à une sainte nommée Sophie. Elle était aussi surnommée la Grande Église, et se trouvait près de Sainte-Irène, « la sainte paix ».",
+    "source": "D'après Wikipédia — Sainte-Sophie (Constantinople)"
+  },
+  {
+    "id": "q-religions-145",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quelle montagne mythique le plan d'Angkor Vat est-il conçu pour représenter ?",
+    "choix": [
+      "Le mont Meru",
+      "Le mont Fuji",
+      "Le mont Sinaï",
+      "L'Olympe"
+    ],
+    "bonneReponse": 0,
+    "explication": "Angkor Vat symbolise le mont Meru, la montagne centrale du monde et la demeure des dieux dans l'hindouisme, aussi connue du bouddhisme. Ses trois galeries étagées et ses tours en quinconce au centre évoquent ses sommets.",
+    "source": "D'après Wikipédia — Angkor Vat"
+  },
+  {
+    "id": "q-religions-146",
+    "domain": "religions",
+    "format": "associer",
+    "question": "Associe chaque lieu de pèlerinage bouddhiste à l'événement qu'il rappelle.",
+    "paires": [
+      {
+        "gauche": "Lumbini",
+        "droite": "La naissance de Siddhartha",
+        "explication": "Selon la tradition, Siddhartha naît à Lumbini, dans l'actuel Népal."
+      },
+      {
+        "gauche": "Bodh Gaya",
+        "droite": "L'éveil sous l'arbre de la Bodhi",
+        "explication": "C'est là que Siddhartha atteint l'éveil et devient le Bouddha."
+      },
+      {
+        "gauche": "Sarnath",
+        "droite": "Les premiers disciples",
+        "explication": "À Sarnath, les cinq ascètes deviennent ses premiers disciples."
+      }
+    ],
+    "explication": "Lumbini, Bodh Gaya et Sarnath font partie des quatre grands lieux de pèlerinage liés à la vie du Bouddha ; le quatrième est Kushinagar. Bodh Gaya, lieu de l'éveil, est considéré comme le plus saint.",
+    "source": "D'après Wikipédia — Bodhgaya"
+  },
+  {
+    "id": "q-religions-147",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que représentent les huit rayons de la roue du dharma ?",
+    "choix": [
+      "Le Noble Chemin octuple",
+      "Les douze maillons de la coproduction conditionnée",
+      "Les huit premiers disciples du Bouddha",
+      "Les huit grands lieux de pèlerinage"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une roue à huit rayons évoque le Noble Chemin octuple, la voie enseignée par le Bouddha. Avec douze rayons, elle représenterait plutôt les douze maillons de la coproduction conditionnée. Le dharmachakra figure sur le drapeau de l'Inde depuis 1947.",
+    "source": "D'après Wikipédia — Dharmachakra"
+  },
+  {
+    "id": "q-religions-148",
+    "domain": "religions",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis un mot grec, et aussi un acronyme.",
+      "Mes lettres sont les initiales de cinq mots qui désignent Jésus.",
+      "Clément d'Alexandrie conseille de me graver sur son sceau.",
+      "On me dessine aujourd'hui avec deux arcs de cercle qui se croisent.",
+      "Mon nom signifie « poisson »."
+    ],
+    "reponse": "L'ichthus",
+    "explication": "Ichthús, « poisson », est l'acrostiche de « Jésus-Christ, Fils de Dieu, Sauveur ». Attesté dès le IIe siècle, il orne épitaphes, bagues et sceaux, et rappelle les poissons des Évangiles, comme ceux de la pêche miraculeuse.",
+    "source": "D'après Wikipédia — Ichthus"
+  },
+  {
+    "id": "q-religions-149",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "À l'origine, que désignent les mots chinois « yin » et « yang » ?",
+    "choix": [
+      "Le versant ombragé et le versant ensoleillé d'une montagne",
+      "La lune et le soleil seulement",
+      "Le féminin et le masculin",
+      "Le ciel et la terre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans les textes anciens, yin évoque l'ubac, le côté sombre et humide d'une montagne, et yang l'adret, le côté ensoleillé. Les sens plus abstraits, comme le féminin ou le ciel et la terre, sont venus ensuite, vers le IIIe siècle avant notre ère.",
+    "source": "D'après Wikipédia — Yin et yang"
+  },
+  {
+    "id": "q-religions-150",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel était le nom de Médine avant l'islam ?",
+    "choix": [
+      "Yathrib",
+      "Tayma",
+      "Hira",
+      "Khaybar"
+    ],
+    "bonneReponse": 0,
+    "explication": "Avant l'islam, Médine s'appelait Yathrib, un nom déjà cité vers 550 avant notre ère dans des documents du roi babylonien Nabonide. Elle a ensuite pris les noms de « ville du Prophète » et de « ville illuminée », avant d'être appelée simplement « la ville ».",
+    "source": "D'après Wikipédia — Médine"
+  },
+  {
+    "id": "q-religions-151",
+    "domain": "religions",
+    "format": "difference",
+    "question": "Quelle est la différence entre la basilique Saint-Pierre et Saint-Jean-de-Latran, à Rome ?",
+    "choix": [
+      "Saint-Pierre abrite la tombe traditionnelle de l'apôtre, mais la cathédrale de Rome est Saint-Jean-de-Latran",
+      "Saint-Pierre est la cathédrale de Rome, Saint-Jean-de-Latran n'est qu'une chapelle",
+      "Saint-Pierre est une église orthodoxe, Saint-Jean-de-Latran une église catholique",
+      "Il n'y en a aucune : ce sont deux noms de la même église"
+    ],
+    "bonneReponse": 0,
+    "explication": "Saint-Pierre est l'église du pape et la plus vaste, mais le siège de l'évêque de Rome est Saint-Jean-de-Latran, classée avant elle parmi les quatre basiliques majeures. Saint-Pierre doit son prestige à la tombe de l'apôtre Pierre.",
+    "source": "D'après Wikipédia — Basilique Saint-Pierre"
+  },
+  {
+    "id": "q-religions-152",
+    "domain": "religions",
+    "format": "frise",
+    "question": "Remets ces événements dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Constantin remporte la bataille du Pont Milvius",
+        "annee": "312"
+      },
+      {
+        "label": "Constantin et Licinius concluent l'accord de Milan",
+        "annee": "313"
+      },
+      {
+        "label": "Licinius est vaincu à Chrysopolis",
+        "annee": "324"
+      },
+      {
+        "label": "Ouverture du concile de Nicée",
+        "annee": "325"
+      }
+    ],
+    "explication": "Après sa victoire de 312 sur Maxence, Constantin s'allie avec Licinius à Milan en 313, puis l'écarte en 324. Devenu seul empereur, il réunit en 325 le concile de Nicée pour rétablir l'unité de l'Église.",
+    "source": "D'après Wikipédia — Premier concile de Nicée"
+  },
+  {
+    "id": "q-religions-153",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Qui commande les légions romaines lors du siège de Jérusalem en 70 ?",
+    "choix": [
+      "Titus",
+      "Néron",
+      "Hadrien",
+      "Constantin"
+    ],
+    "bonneReponse": 0,
+    "explication": "Titus dirige le siège au nom de son père Vespasien, devenu empereur fin 69. Hadrien, lui, n'intervient que bien plus tard : il refonde Jérusalem en 130 sous le nom d'Aelia Capitolina, après la révolte de Bar Kokhba.",
+    "source": "D'après Wikipédia — Siège de Jérusalem (70)"
+  },
+  {
+    "id": "q-religions-154",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Après sa destruction en 70, le Temple de Jérusalem a été reconstruit à l'identique.",
+    "reponse": false,
+    "explication": "Le Second Temple, incendié le 29 août 70, n'a jamais été reconstruit. Il n'en reste que le mur de soutènement occidental, appelé mur des Lamentations. Chaque année, le jeûne du 9 Av commémore cette destruction.",
+    "source": "D'après Wikipédia — Siège de Jérusalem (70)"
+  },
+  {
+    "id": "q-religions-155",
+    "domain": "religions",
+    "format": "associer",
+    "question": "Associe chaque personnage à son rôle dans la guerre de Judée.",
+    "paires": [
+      {
+        "gauche": "Vespasien",
+        "droite": "Général devenu empereur en 69",
+        "explication": "Acclamé empereur en 69, il part pour Rome et confie la suite de la guerre à son fils."
+      },
+      {
+        "gauche": "Titus",
+        "droite": "Commandant du siège de Jérusalem",
+        "explication": "Il mène les quatre légions qui assiègent la ville au printemps 70."
+      },
+      {
+        "gauche": "Flavius Josèphe",
+        "droite": "Historien qui raconte le siège",
+        "explication": "Ancien chef de la révolte passé du côté romain, il a laissé le récit détaillé."
+      },
+      {
+        "gauche": "Jean de Gischala",
+        "droite": "Chef zélote qui tient le mont du Temple",
+        "explication": "Il est l'un des trois chefs rivaux qui se disputent Jérusalem pendant le siège."
+      }
+    ],
+    "explication": "La guerre de Judée mêle des Romains, un ancien insurgé devenu historien, et plusieurs chefs juifs rivaux. Josèphe, prisonnier dès 67, est la principale source sur ces événements.",
+    "source": "D'après Wikipédia — Siège de Jérusalem (70)"
+  },
+  {
+    "id": "q-religions-156",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "En combien de livres (maṇḍalas) le Rig-Veda est-il réparti ?",
+    "choix": [
+      "Dix",
+      "Quatre",
+      "Sept",
+      "Douze"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les 1 028 hymnes du Rig-Veda sont groupés en dix livres, les maṇḍalas. Ne pas confondre avec les quatre Veda (Rig, Sâma, Yajur et Atharva), dont le Rig-Veda est le plus ancien recueil.",
+    "source": "D'après Wikipédia — Rig-Véda"
+  },
+  {
+    "id": "q-religions-157",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Comment s'appelle la Genèse en hébreu, et pourquoi ?",
+    "choix": [
+      "Bereshit, du premier mot du livre, « Au commencement »",
+      "Shemot, du premier mot du livre, « Noms »",
+      "Torah, car c'est le premier livre de la Loi",
+      "Genesis, mot hébreu signifiant « origine »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les livres de la Torah sont désignés par leur premier mot. La Genèse s'ouvre sur « Bereshit », « Au commencement ». Le mot Genèse vient du grec Genesis, « origine », choisi par la Septante.",
+    "source": "D'après Wikipédia — Livre de la Genèse"
+  },
+  {
+    "id": "q-religions-158",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "La naissance de Moïse dans l'Exode est rapprochée de la légende de quel roi de Mésopotamie ?",
+    "choix": [
+      "Sargon d'Akkad",
+      "Hammourabi",
+      "Nabuchodonosor",
+      "Gilgamesh"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour les spécialistes, le récit de la naissance de Moïse reprend des éléments de la légende de Sargon d'Akkad, ce qui aide à dater les couches anciennes de l'Exode.",
+    "source": "D'après Wikipédia — Livre de l'Exode"
+  },
+  {
+    "id": "q-religions-159",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que signifie le mot « Tripitaka » ?",
+    "choix": [
+      "Trois corbeilles",
+      "Trois joyaux",
+      "Trois discours",
+      "Trois chemins"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Tri » veut dire trois et « piṭaka » corbeille, sans doute à cause des paniers où l'on rangeait les manuscrits sur feuilles de palme. Les trois corbeilles sont le Vinaya, le Sutta et l'Abhidhamma.",
+    "source": "D'après Wikipédia — Tripitaka"
+  },
+  {
+    "id": "q-religions-160",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel Français part en Inde en 1754 pour retrouver les écrits de Zoroastre et publie sa traduction de l'Avesta en 1771 ?",
+    "choix": [
+      "Anquetil-Duperron",
+      "James Darmesteter",
+      "Jean-François Champollion",
+      "Charles de Harlez"
+    ],
+    "bonneReponse": 0,
+    "explication": "Anquetil-Duperron s'engage dans la Compagnie des Indes, obtient des Parsis de Surate leurs manuscrits et les rapporte en France en 1762. Sa traduction, parue en 1771, fait découvrir l'Avesta à l'Europe.",
+    "source": "D'après Wikipédia — Avesta"
+  },
+  {
+    "id": "q-religions-161",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que signifie « aïd al-Adha » ?",
+    "choix": [
+      "Fête du sacrifice",
+      "Fête de la rupture du jeûne",
+      "Fête du pèlerinage",
+      "Fête de la lumière"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Aïd » veut dire fête et « adha » sacrifice. Elle rappelle la foi d'Ibrahim. Ne la confonds pas avec l'autre grande fête, celle qui clôt le ramadan et que le Maghreb nomme la petite fête.",
+    "source": "D'après Wikipédia — Aïd al-Adha"
+  },
+  {
+    "id": "q-religions-162",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Comment appelle-t-on l'aïd el-Fitr en Turquie (Şeker Bayramı) ?",
+    "choix": [
+      "La Fête du Sucre",
+      "La Fête du Miel",
+      "La Fête des Lumières",
+      "La Fête du Pain"
+    ],
+    "bonneReponse": 0,
+    "explication": "Şeker Bayramı signifie « fête du sucre » : après un mois de jeûne, on offre des sucreries. Les enfants passent de porte en porte pour souhaiter une bonne fête et reçoivent bonbons, baklavas ou un peu d'argent.",
+    "source": "D'après Wikipédia — Aïd el-Fitr"
+  },
+  {
+    "id": "q-religions-163",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que signifie l'expression « Roch Hachana » ?",
+    "choix": [
+      "La tête de l'année",
+      "Le jour du pardon",
+      "La fête des récoltes",
+      "Le début du printemps"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Roch » veut dire tête et « chana » année : la fête est le début du calendrier civil juif, le 1er tishri. La Bible, elle, parle plutôt du « jour de la sonnerie », car on y souffle dans le chofar.",
+    "source": "D'après Wikipédia — Roch Hachana"
+  },
+  {
+    "id": "q-religions-164",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "D'où vient le nom de la fête de Pourim ?",
+    "choix": [
+      "D'un tirage au sort, « pour », choisi par Haman pour fixer une date",
+      "D'un mot perse signifiant « délivrance »",
+      "Du nom de la reine Esther en hébreu",
+      "Du nom de la ville de Suse"
+    ],
+    "bonneReponse": 0,
+    "explication": "Haman tire au sort (en hébreu « pour ») le jour de l'extermination des Juifs. Le pluriel « pourim » a donné son nom à la fête, souvent appelée « fête des Sorts ». Le sort s'est finalement retourné contre lui.",
+    "source": "D'après Wikipédia — Pourim"
+  },
+  {
+    "id": "q-religions-165",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quels événements de la vie du Bouddha la fête de Vesak commémore-t-elle dans la tradition theravada ?",
+    "choix": [
+      "Sa naissance, son illumination et sa mort",
+      "Son premier sermon, son illumination et sa mort",
+      "Sa naissance, son mariage et son départ du palais",
+      "Son illumination, son premier sermon et la fondation de la communauté"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour les theravada, ces trois événements tombent le même jour de pleine lune du mois de Vaisakha, d'où le nom Vesak. En Asie de l'Est, la naissance est fêtée séparément de l'éveil et de la mort.",
+    "source": "D'après Wikipédia — Vesak"
+  },
+  {
+    "id": "q-religions-166",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Le récit de la Pentecôte se trouve dans les évangiles de Matthieu, Marc et Luc.",
+    "reponse": false,
+    "explication": "Faux : les évangiles synoptiques n'en parlent pas. La venue de l'Esprit saint sur les disciples, avec le vent et les langues de feu, est racontée dans les Actes des Apôtres, au chapitre 2.",
+    "source": "D'après Wikipédia — Pentecôte"
+  },
+  {
+    "id": "q-religions-167",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Combien de fois le pèlerin parcourt-il la distance entre les collines de Safa et Marwa, en souvenir de Hajar ?",
+    "choix": [
+      "Sept fois",
+      "Trois fois",
+      "Cinq fois",
+      "Neuf fois"
+    ],
+    "bonneReponse": 0,
+    "explication": "Selon la tradition, Hajar a couru sept fois entre ces deux collines en cherchant de l'eau pour son fils Ismaël. Les pèlerins répètent ce parcours, puis boivent l'eau du puits de Zamzam.",
+    "source": "D'après Wikipédia — Hajj"
+  },
+  {
+    "id": "q-religions-168",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Le mot « baptême » vient d'un verbe grec qui signifie « plonger ».",
+    "reponse": true,
+    "explication": "Vrai : « baptême » vient du grec baptisma, dérivé de baptizein, « plonger dans un liquide ». Le judaïsme connaissait déjà l'immersion rituelle dans le mikvé, souvent vu comme l'ancêtre du baptême chrétien.",
+    "source": "D'après Wikipédia — Baptême"
+  },
+  {
+    "id": "q-religions-169",
+    "domain": "religions",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de Compostelle dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Découverte du tombeau attribué à saint Jacques",
+        "annee": "813"
+      },
+      {
+        "label": "Al-Mansour rase la ville mais épargne le tombeau",
+        "annee": "997"
+      },
+      {
+        "label": "Rédaction du Codex Calixtinus (vers cette date)",
+        "annee": "1150"
+      },
+      {
+        "label": "Chemins déclarés itinéraire culturel européen",
+        "annee": "1987"
+      },
+      {
+        "label": "Inscription des routes françaises à l'UNESCO",
+        "annee": "1998"
+      }
+    ],
+    "explication": "Le tombeau est découvert vers 813, la ville est rasée en 997, le Codex Calixtinus date d'environ 1150. Puis viennent le titre d'itinéraire culturel du Conseil de l'Europe, en 1987, et l'inscription des routes françaises à l'UNESCO, en 1998.",
+    "source": "D'après Wikipédia — Pèlerinage de Saint-Jacques-de-Compostelle"
+  },
+  {
+    "id": "q-religions-170",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "L'Église catholique a reconnu les apparitions de Lourdes dès 1858, l'année même où Bernadette dit avoir vu la Vierge.",
+    "reponse": false,
+    "explication": "Faux : Bernadette Soubirous a ses visions entre février et juillet 1858, mais l'Église ne les reconnaît officiellement qu'en 1862, après une enquête. La première procession a lieu à la grotte en 1864.",
+    "source": "D'après Wikipédia — Sanctuaire de Notre-Dame de Lourdes"
+  },
+  {
+    "id": "q-religions-171",
+    "domain": "religions",
+    "format": "difference",
+    "question": "Quelle est la différence entre la façon dont sunnites et chiites vivent Achoura ?",
+    "choix": [
+      "Les sunnites jeûnent en souvenir de Moïse, les chiites portent le deuil de l'imam Hussein",
+      "Les sunnites portent le deuil de Hussein, les chiites jeûnent en souvenir de Moïse",
+      "Les sunnites fêtent la fin du ramadan, les chiites la naissance de Mahomet",
+      "Les sunnites commémorent l'Hégire, les chiites le pèlerinage de La Mecque"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chez les sunnites, Achoura est surtout un jour de jeûne lié à la traversée de la mer Rouge par Moïse. Chez les chiites, c'est le deuil de Hussein, petit-fils de Mahomet, tué à Kerbala en 680.",
+    "source": "D'après Wikipédia — Achoura"
+  },
+  {
+    "id": "q-religions-172",
+    "domain": "religions",
+    "format": "qui-suis-je",
+    "indices": [
+      "On me souffle sur plusieurs rythmes, dont un son long qui s'arrête brusquement, la teki'a.",
+      "Selon Maïmonide, mon son tire le croyant de son engourdissement spirituel.",
+      "Dans la Bible, le jour où l'on me fait résonner s'appelle le « jour de la sonnerie ».",
+      "Je suis taillé dans la corne d'un bélier.",
+      "Je retentis à Roch Hachana, le nouvel an juif."
+    ],
+    "reponse": "Le chofar",
+    "explication": "Le chofar est un clairon taillé dans une corne de bélier. Sa sonnerie est le rite central de Roch Hachana : elle appelle au repentir pendant les dix jours qui mènent à Yom Kippour.",
+    "source": "D'après Wikipédia — Roch Hachana"
+  },
+  {
+    "id": "q-religions-173",
+    "domain": "religions",
+    "format": "associer",
+    "question": "Associe chaque nom local à la fête qu'il désigne.",
+    "paires": [
+      {
+        "gauche": "Tabaski",
+        "droite": "La fête du sacrifice",
+        "explication": "En Afrique de l'Ouest, la Tabaski est le nom donné à l'aïd el-Kébir, la fête où l'on commémore le sacrifice d'Ibrahim."
+      },
+      {
+        "gauche": "Korité",
+        "droite": "La fête de la rupture du jeûne",
+        "explication": "Au Sénégal, la Korité est le nom de l'aïd el-Fitr, la fête qui marque la fin du jeûne du ramadan."
+      },
+      {
+        "gauche": "Hanamatsuri",
+        "droite": "L'anniversaire du Bouddha",
+        "explication": "Au Japon, la « fête des fleurs » correspond à Vesak, anniversaire du Bouddha, fêtée traditionnellement le 8 avril."
+      },
+      {
+        "gauche": "Pourim",
+        "droite": "La fête des Sorts",
+        "explication": "Le nom Pourim vient du tirage au sort (« pour ») par lequel Haman fixa la date de son décret, dans le Livre d'Esther."
+      }
+    ],
+    "explication": "Une même fête porte souvent des noms différents selon les pays : Tabaski, Korité et Hanamatsuri sont des noms locaux, tandis que Pourim tire son nom du tirage au sort de Haman.",
+    "source": "D'après Wikipédia — Vesak"
+  },
+  {
+    "id": "q-religions-174",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Comment s'appelle la commémoration chiite de la mort de Hussein à Kerbala ?",
+    "choix": [
+      "L'Achoura",
+      "Le Mawlid",
+      "La nuit du Destin",
+      "L'Aïd al-Fitr"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'Achoura a lieu le dixième jour du mois de mouharram, en souvenir du 10 octobre 680, quand Hussein, petit-fils de Mahomet, est tué à Kerbala avec la plupart de ses proches. Pour les chiites, c'est un moment fondateur.",
+    "source": "D'après Wikipédia — Bataille de Kerbala"
+  },
+  {
+    "id": "q-religions-175",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "D'où vient le mot « cathare », qui désigne les adeptes de cette Église du Languedoc ?",
+    "choix": [
+      "Du grec katharos, « pur »",
+      "De la ville d'Albi",
+      "Du nom de leur fondateur, Cathar",
+      "Du latin catena, « chaîne »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot vient du grec katharos, « pur ». Les cathares étaient aussi appelés albigeois, car beaucoup vivaient autour d'Albi. Leurs ministres, les « parfaits », menaient une vie de pauvreté et de renoncement.",
+    "source": "D'après Wikipédia — Croisade des albigeois"
+  },
+  {
+    "id": "q-religions-176",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel concile met fin au Grand Schisme d'Occident en faisant élire Martin V en 1417 ?",
+    "choix": [
+      "Le concile de Constance",
+      "Le concile de Pise",
+      "Le concile de Trente",
+      "Le concile de Nicée"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le concile de Constance obtient le retrait des papes de Rome et de Pise, dépose celui d'Avignon et élit Martin V en 1417. Celui de Pise, en 1409, avait au contraire ajouté un troisième pape aux deux déjà en place.",
+    "source": "D'après Wikipédia — Grand schisme d'Occident"
+  },
+  {
+    "id": "q-religions-177",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Le décret d'expulsion des Juifs d'Espagne a été signé avant la prise de Grenade.",
+    "reponse": false,
+    "explication": "Faux. Isabelle et Ferdinand entrent dans Grenade le 2 janvier 1492, ce qui met fin à la Reconquista. Ils signent le décret de l'Alhambra le 31 mars 1492, trois mois plus tard, en s'appuyant sur ce succès.",
+    "source": "D'après Wikipédia — Décret de l'Alhambra"
+  },
+  {
+    "id": "q-religions-178",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quelle institution destinée à former les prêtres le concile de Trente crée-t-il ?",
+    "choix": [
+      "Les séminaires diocésains",
+      "Les collèges jésuites",
+      "Les chapitres de cathédrale",
+      "Les universités pontificales"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour mieux former le clergé, le concile de Trente impose à chaque diocèse un séminaire. Cette réforme disciplinaire, adoptée à côté des textes de doctrine, reste l'un de ses héritages les plus durables.",
+    "source": "D'après Wikipédia — Concile de Trente"
+  },
+  {
+    "id": "q-religions-179",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel mariage célébré à Paris le 18 août 1572 précède de quelques jours la Saint-Barthélemy ?",
+    "choix": [
+      "Celui d'Henri de Navarre et de Marguerite de Valois",
+      "Celui d'Henri de Guise et de Marguerite de Valois",
+      "Celui de Charles IX et d'une princesse protestante",
+      "Celui de Coligny et de Catherine de Médicis"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour sceller la paix, Catherine de Médicis unit sa fille Marguerite à Henri de Navarre, un prince protestant qui sera plus tard Henri IV. Les festivités attirent à Paris de nombreux nobles protestants, ce qui accroît les tensions.",
+    "source": "D'après Wikipédia — Massacre de la Saint-Barthélemy"
+  },
+  {
+    "id": "q-religions-180",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Selon la tradition chiite, qui Mahomet aurait-il désigné comme successeur avant de mourir ?",
+    "choix": [
+      "Ali",
+      "Abou Bakr",
+      "Omar",
+      "Hussein"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les chiites affirment que Mahomet a désigné son cousin et gendre Ali. Pour les sunnites, la communauté reconnaît Abou Bakr. Cette divergence sur la succession est à l'origine de la séparation entre sunnisme et chiisme.",
+    "source": "D'après Wikipédia — Mort de Mahomet"
+  },
+  {
+    "id": "q-religions-181",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Toutes les religions possèdent des dogmes au sens chrétien du terme.",
+    "reponse": false,
+    "explication": "Faux. Le dogme, vérité de foi imposée par une autorité d'Église, est surtout une particularité chrétienne. Certaines religions mettent plutôt l'accent sur les pratiques ou sur l'expérience personnelle de la foi.",
+    "source": "D'après Wikipédia — Dogme"
+  },
+  {
+    "id": "q-religions-182",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Combien de miracles sont en principe exigés pour qu'un bienheureux soit canonisé dans l'Église catholique ?",
+    "choix": [
+      "Deux",
+      "Un",
+      "Trois",
+      "Cinq"
+    ],
+    "bonneReponse": 0,
+    "explication": "En principe, il faut au moins deux miracles reconnus, dont le second est examiné par un comité scientifique. Le procès est long : Jeanne d'Arc, morte en 1431, n'a été canonisée qu'en 1920.",
+    "source": "D'après Wikipédia — Canonisation"
+  },
+  {
+    "id": "q-religions-183",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Qui invente l'expression « péché originel » à la fin du IVe siècle ?",
+    "choix": [
+      "Augustin d'Hippone",
+      "Paul de Tarse",
+      "Irénée de Lyon",
+      "Pélage"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'expression n'apparaît pas dans la Bible : elle est inventée par Augustin d'Hippone, qui l'élabore en s'opposant à Pélage. Sa doctrine est confirmée au concile de Carthage en 418 et marque durablement l'Occident.",
+    "source": "D'après Wikipédia — Péché originel"
+  },
+  {
+    "id": "q-religions-184",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel concile définit pour la première fois la doctrine catholique du purgatoire, en 1274 ?",
+    "choix": [
+      "Le deuxième concile de Lyon",
+      "Le quatrième concile du Latran",
+      "Le concile de Trente",
+      "Le deuxième concile de Nicée"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1274, le deuxième concile de Lyon reconnaît officiellement le purgatoire, une étape de purification après la mort. Le nom purgatorium lui-même est récent : on ne le trouve pour la première fois qu'en 1133, sous la plume de l'archevêque Hildebert de Lavardin.",
+    "source": "D'après Wikipédia — Purgatoire"
+  },
+  {
+    "id": "q-religions-185",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que signifie à l'origine l'expression latine « cum clave », d'où vient le mot « conclave » ?",
+    "choix": [
+      "Avec une clef",
+      "Avec le pape",
+      "Sous un même toit",
+      "Dans le silence"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cum clave veut dire « avec une clef » : les cardinaux électeurs sont enfermés à clef jusqu'à l'élection du pape. Cette règle, imposée en 1274 par Grégoire X, visait à empêcher les élections interminables.",
+    "source": "D'après Wikipédia — Conclave"
+  },
+  {
+    "id": "q-religions-186",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "L'enfermement des cardinaux au conclave a été décidé après une élection pontificale qui avait duré près de trois ans.",
+    "reponse": true,
+    "explication": "Vrai. À Viterbe, de 1268 à 1271, l'élection traîne tant que les autorités emmurent les cardinaux et ôtent le toit de leur salle. Devenu pape, Grégoire X impose l'enfermement en 1274.",
+    "source": "D'après Wikipédia — Conclave"
+  },
+  {
+    "id": "q-religions-187",
+    "domain": "religions",
+    "format": "difference",
+    "question": "Quelle est la différence entre un iconoclaste et un iconodule ?",
+    "choix": [
+      "Le premier rejette ou détruit les images religieuses, le second les vénère",
+      "Le premier peint des icônes, le second les vend",
+      "Le premier est catholique, le second est orthodoxe",
+      "Le premier vénère le Christ, le second les saints"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'iconoclaste, « briseur d'images », refuse la vénération des icônes ; l'iconodule les vénère. Dans l'Empire byzantin, les deux camps s'affrontent aux VIIIe et IXe siècles, jusqu'au rétablissement des icônes en 843.",
+    "source": "D'après Wikipédia — Iconoclasme"
+  },
+  {
+    "id": "q-religions-188",
+    "domain": "religions",
+    "format": "difference",
+    "question": "Quelle est la différence entre une excommunication « latæ sententiæ » et une excommunication « ferendæ sententiæ » ?",
+    "choix": [
+      "La première est encourue automatiquement par l'acte, la seconde suppose une décision",
+      "La première est temporaire, la seconde définitive",
+      "La première vise les clercs, la seconde les laïcs",
+      "La première est prononcée par le pape, la seconde par un évêque"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'excommunication latæ sententiæ frappe du seul fait de l'acte commis, par exemple le schisme. La ferendæ sententiæ ne s'applique qu'après une décision judiciaire ou administrative de l'autorité compétente.",
+    "source": "D'après Wikipédia — Excommunication"
+  },
+  {
+    "id": "q-religions-189",
+    "domain": "religions",
+    "format": "associer",
+    "question": "Associe chaque notion hindoue à sa description.",
+    "paires": [
+      {
+        "gauche": "Karma mārga",
+        "droite": "Voie de l'action",
+        "explication": "Elle consiste à remplir les devoirs de sa condition."
+      },
+      {
+        "gauche": "Jñāna mārga",
+        "droite": "Voie de la connaissance",
+        "explication": "Elle passe par la méditation et l'ascèse pour rejeter l'illusion."
+      },
+      {
+        "gauche": "Bhakti mārga",
+        "droite": "Voie de la dévotion",
+        "explication": "Elle s'attache à une divinité comme Rāma ou Krishna."
+      },
+      {
+        "gauche": "Jivan-mukti",
+        "droite": "Libération de son vivant",
+        "explication": "C'est l'état d'une âme déjà libérée avant la mort."
+      }
+    ],
+    "explication": "Le moksha, libération du cycle des renaissances, peut être poursuivi par trois grandes voies : l'action, la connaissance ou la dévotion. Certaines traditions admettent qu'on l'atteigne même de son vivant.",
+    "source": "D'après Wikipédia — Moksha"
+  },
+  {
+    "id": "q-religions-190",
+    "domain": "religions",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je m'ouvre en 1545 dans une ville des Alpes, alors terre d'Empire.",
+      "Je me tiens en trois périodes, sous cinq papes différents.",
+      "L'Église catholique me compte comme son dix-neuvième concile œcuménique.",
+      "Je crée les séminaires diocésains pour former les prêtres.",
+      "Je réponds à la Réforme protestante de Luther et de Calvin."
+    ],
+    "reponse": "Le concile de Trente",
+    "explication": "Le concile de Trente, de 1545 à 1563, précise la doctrine catholique face à la Réforme et réforme la formation du clergé. Il donne son nom à l'Église « tridentine », nom tiré du latin Tridentium.",
+    "source": "D'après Wikipédia — Concile de Trente"
+  },
+  {
+    "id": "q-religions-191",
+    "domain": "religions",
+    "format": "frise",
+    "question": "Remets ces étapes du Grand Schisme d'Occident dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Clément V s'installe à Avignon",
+        "annee": "1309"
+      },
+      {
+        "label": "Élection d'Urbain VI, puis de Clément VII : deux papes",
+        "annee": "1378"
+      },
+      {
+        "label": "Le concile de Pise élit un troisième pape",
+        "annee": "1409"
+      },
+      {
+        "label": "Le concile de Constance élit Martin V",
+        "annee": "1417"
+      }
+    ],
+    "explication": "La papauté s'installe à Avignon en 1309, la double élection de 1378 crée deux papes, Pise en ajoute un troisième en 1409, et Constance rétablit l'unité en 1417 avec l'élection de Martin V.",
+    "source": "D'après Wikipédia — Grand schisme d'Occident"
+  },
+  {
+    "id": "q-religions-192",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que signifie littéralement le mot sanskrit « mantra » ?",
+    "choix": [
+      "Un instrument de pensée",
+      "Un chant de louange",
+      "Un souffle sacré",
+      "Une prière de pardon"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot sanskrit mantra associe la racine man, « penser », et le suffixe tra, qui désigne un outil. Un mantra est donc un « instrument de pensée ». Des textes tantriques y voient aussi une formule qui « protège l'esprit ».",
+    "source": "D'après Wikipédia — Mantra"
+  },
+  {
+    "id": "q-religions-193",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel livre liturgique en anglais l'archevêque Thomas Cranmer met-il en place dès 1549 ?",
+    "choix": [
+      "Le Livre de la prière commune",
+      "Les Trente-neuf articles",
+      "L'Institution de la religion chrétienne",
+      "La Confession d'Augsbourg"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cranmer introduit le Livre de la prière commune en 1549. Une version révisée de 1662 fait toujours autorité et reste l'un des principaux liens entre les Églises de la Communion anglicane dans le monde.",
+    "source": "D'après Wikipédia — Anglicanisme"
+  },
+  {
+    "id": "q-religions-194",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "L'archevêque de Cantorbéry dirige l'ensemble de la Communion anglicane avec une autorité comparable à celle du pape chez les catholiques.",
+    "reponse": false,
+    "explication": "Il est le chef spirituel de la Communion, mais il n'a qu'une primauté d'honneur, « premier parmi ses pairs ». Il n'exerce aucun pouvoir sur les autres Églises, qui sont autonomes et gouvernées par des synodes.",
+    "source": "D'après Wikipédia — Anglicanisme"
+  },
+  {
+    "id": "q-religions-195",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel théologien catholique emploie le mot « luthériens » comme une insulte lors de la dispute de Leipzig, en 1519 ?",
+    "choix": [
+      "Johann Eck",
+      "Érasme",
+      "Johann Tetzel",
+      "Charles Quint"
+    ],
+    "bonneReponse": 0,
+    "explication": "Johann Eck suit l'usage de nommer une hérésie d'après son chef : tous les partisans de Luther deviennent des « luthériens ». Luther n'aimait pas ce mot et préférait se dire « évangélique ».",
+    "source": "D'après Wikipédia — Luthéranisme"
+  },
+  {
+    "id": "q-religions-196",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "À quel âge Jean Calvin rédige-t-il la première version de l'Institution de la religion chrétienne ?",
+    "choix": [
+      "Vingt-cinq ans",
+      "Dix-huit ans",
+      "Quarante ans",
+      "Cinquante-cinq ans"
+    ],
+    "bonneReponse": 0,
+    "explication": "Calvin a vingt-cinq ans quand il rédige, en 1534, la première version de ce traité de théologie, publié en 1536. Traduit ensuite en français, le livre fera de lui le réformateur dominant des Églises réformées.",
+    "source": "D'après Wikipédia — Calvinisme"
+  },
+  {
+    "id": "q-religions-197",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Où commence en 1906 le réveil dirigé par William J. Seymour, point de départ du pentecôtisme mondial ?",
+    "choix": [
+      "Azusa Street, à Los Angeles",
+      "Topeka, au Kansas",
+      "Hot Springs, en Arkansas",
+      "Zurich, en Suisse"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le réveil d'Azusa Street éclate à Los Angeles en avril 1906 et dure trois ans. Le culte n'y suit aucun ordre prévu et réunit Noirs et Blancs ; des milliers de visiteurs repartent en répandre le message dans le monde.",
+    "source": "D'après Wikipédia — Pentecôtisme"
+  },
+  {
+    "id": "q-religions-198",
+    "domain": "religions",
+    "format": "qui-suis-je",
+    "indices": [
+      "Un de mes membres, William Penn, fonde la Pennsylvanie en 1682.",
+      "Mon culte est souvent silencieux : on attend que quelqu'un se sente inspiré pour parler.",
+      "Mes membres refusaient de prêter serment, même devant un tribunal.",
+      "Plusieurs marques de chocolat, comme Cadbury, ont été fondées par des gens de chez moi.",
+      "Mon surnom, « trembleur », vient d'un juge qui se moque de George Fox en 1650."
+    ],
+    "reponse": "Les quakers",
+    "explication": "Les quakers, ou Société religieuse des Amis, naissent autour de George Fox. Leur surnom vient d'une moquerie de 1650. Sans clergé ni credo, pacifistes, leurs organisations britannique et américaine reçoivent le prix Nobel de la paix en 1947.",
+    "source": "D'après Wikipédia — Quaker"
+  },
+  {
+    "id": "q-religions-199",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Quel pasteur anabaptiste, à l'origine d'un schisme en 1693, donne son nom aux amish ?",
+    "choix": [
+      "Jakob Amman",
+      "Conrad Grebel",
+      "Hans Reist",
+      "William Penn"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jakob Amman, pasteur à Sainte-Marie-aux-Mines, en Alsace, réclame plus de rigueur en 1693. Ses partisans sont appelés « amish », d'abord comme une insulte lancée par ses adversaires, avant que le nom soit adopté.",
+    "source": "D'après Wikipédia — Amish"
+  },
+  {
+    "id": "q-religions-200",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Le Baal Shem Tov, fondateur du hassidisme, a lui-même rédigé les livres qui exposent son enseignement.",
+    "reponse": false,
+    "explication": "Le Baal Shem Tov n'a rien écrit : ses paroles ont été recueillies par ses disciples, notamment Yaakov Yossef de Polnoa, dans le recueil Toledot Yaakov Yosef, qui a servi de modèle à de nombreux livres hassidiques.",
+    "source": "D'après Wikipédia — Hassidisme"
+  },
+  {
+    "id": "q-religions-201",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Comment appelle-t-on les opposants rabbiniques du hassidisme, regroupés autour du Gaon de Vilna ?",
+    "choix": [
+      "Les mitnagdim",
+      "Les karaïtes",
+      "Les sadducéens",
+      "Les samaritains"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les mitnagdim, « opposants », craignent qu'une prière extatique se passe des érudits du Talmud. Leur chef, le Gaon de Vilna, mort en 1797, mène une querelle d'une rare intensité, qui ne s'apaise qu'à sa mort.",
+    "source": "D'après Wikipédia — Hassidisme"
+  },
+  {
+    "id": "q-religions-202",
+    "domain": "religions",
+    "format": "associer",
+    "question": "Associe chaque courant à son berceau historique.",
+    "paires": [
+      {
+        "gauche": "Les amish",
+        "droite": "Alsace",
+        "explication": "Jakob Amman lance le mouvement à Sainte-Marie-aux-Mines, dans les montagnes vosgiennes, avant l'exil vers l'Amérique."
+      },
+      {
+        "gauche": "Les quakers",
+        "droite": "Angleterre",
+        "explication": "Le mouvement naît au XVIIe siècle autour de George Fox, en dissidence de l'Église anglicane."
+      },
+      {
+        "gauche": "Le pentecôtisme",
+        "droite": "États-Unis",
+        "explication": "Né dans le Kansas puis à Los Angeles, sous l'impulsion des pasteurs Charles Parham et William Seymour."
+      },
+      {
+        "gauche": "Le hassidisme",
+        "droite": "Podolie (aujourd'hui en Ukraine)",
+        "explication": "Le Baal Shem Tov, rabbin né en Podolie, lance le mouvement au XVIIIe siècle et attire de nombreux disciples."
+      },
+      {
+        "gauche": "Les dominicains",
+        "droite": "Toulouse",
+        "explication": "Dominique de Guzmán réunit ses premiers frères dans la maison Seilhan, à Toulouse, et fonde l'ordre des Prêcheurs."
+      }
+    ],
+    "explication": "Ces courants sont nés dans des lieux très différents, du Moyen Âge au XXe siècle. Leur point commun : chacun est parti d'un petit groupe, souvent autour d'un chef, avant de se répandre bien au-delà de son berceau.",
+    "source": "D'après Wikipédia — Quaker"
+  },
+  {
+    "id": "q-religions-203",
+    "domain": "religions",
+    "format": "difference",
+    "question": "Quelle est la différence entre le theravāda et le mahāyāna ?",
+    "choix": [
+      "Le theravāda s'en tient au canon pāli ; le mahāyāna reconnaît d'autres sūtras et met le bodhisattva au centre",
+      "Le theravāda vénère un dieu créateur ; le mahāyāna n'en reconnaît aucun",
+      "Le mahāyāna est la plus ancienne école, le theravāda est né en Chine",
+      "Le theravāda est réservé aux laïcs ; le mahāyāna aux seuls moines"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le theravāda reste fidèle au canon pāli et refuse l'authenticité des sūtras mahāyāna. Le mahāyāna reconnaît d'autres textes et place au centre le bodhisattva, qui diffère sa propre libération pour aider tous les êtres.",
+    "source": "D'après Wikipédia — Bouddhisme mahāyāna"
+  },
+  {
+    "id": "q-religions-204",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que signifie le titre « dalaï-lama », donné en 1578 à Sonam Gyatso par les Mongols ?",
+    "choix": [
+      "Océan de sagesse",
+      "Lumière du monde",
+      "Roi de la montagne",
+      "Gardien de la loi"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les Mongols donnent à Sonam Gyatso le titre de dalaï-lama, « vaste comme l'océan », c'est-à-dire « océan de sagesse ». Le titre est ensuite attribué à titre posthume à ses deux prédécesseurs.",
+    "source": "D'après Wikipédia — Bouddhisme tibétain"
+  },
+  {
+    "id": "q-religions-205",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "La liturgie de l'Église copte conserve une langue issue de l'ancien égyptien.",
+    "reponse": true,
+    "explication": "La langue copte descend de l'égyptien ancien et s'écrit avec un alphabet dérivé du grec, enrichi de signes venus du démotique. Beaucoup d'hymnes sont en copte, mais l'arabe sert aussi dans les offices.",
+    "source": "D'après Wikipédia — Église copte orthodoxe"
+  },
+  {
+    "id": "q-religions-206",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que signifie le mot grec katharos, d'où vient le nom « cathare » ?",
+    "choix": [
+      "Pur",
+      "Sage",
+      "Pauvre",
+      "Hérétique"
+    ],
+    "bonneReponse": 0,
+    "explication": "Katharos veut dire « pur ». Le terme vient des adversaires de ces chrétiens, comme le moine Eckbert de Schönau en 1163 ; les intéressés se nommaient plutôt « bons hommes » ou « bons chrétiens ».",
+    "source": "D'après Wikipédia — Catharisme"
+  },
+  {
+    "id": "q-religions-207",
+    "domain": "religions",
+    "format": "vrai-faux",
+    "affirmation": "Les dominicains ne font qu'un vœu : celui d'obéissance.",
+    "reponse": true,
+    "explication": "Les dominicains ne sont pas des moines : leur seul engagement formel est l'obéissance, qui inclut implicitement la pauvreté et la chasteté. Sans vœu de stabilité, ils vivent dans des couvents de grandes villes pour y prêcher.",
+    "source": "D'après Wikipédia — Ordre des Prêcheurs"
+  },
+  {
+    "id": "q-religions-208",
+    "domain": "religions",
+    "format": "qcm",
+    "question": "Que signifie le mot sanskrit « śiva », à l'origine du nom du dieu Shiva ?",
+    "choix": [
+      "Bienveillant, de bon augure",
+      "Maître des troupeaux",
+      "Celui qui rugit",
+      "Destructeur du monde"
+    ],
+    "bonneReponse": 0,
+    "explication": "Śiva est d'abord un adjectif : « bienveillant », « favorable », « de bon augure ». Dans le Rig-Véda, il qualifie plusieurs dieux, dont Rudra, « celui qui rugit », la plus ancienne racine connue du shivaïsme.",
+    "source": "D'après Wikipédia — Shivaïsme"
+  },
+  {
+    "id": "q-religions-209",
+    "domain": "religions",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire des franciscains dans l'ordre.",
+    "evenements": [
+      {
+        "label": "François d'Assise réunit ses premiers frères",
+        "annee": "1209"
+      },
+      {
+        "label": "Claire rejoint François : naissance des Clarisses",
+        "annee": "1212"
+      },
+      {
+        "label": "La règle définitive est approuvée par Honorius III",
+        "annee": "1223"
+      },
+      {
+        "label": "Mort de François d'Assise",
+        "annee": "1226"
+      },
+      {
+        "label": "Léon X sépare officiellement observants et conventuels",
+        "annee": "1517"
+      }
+    ],
+    "explication": "L'ordre naît vers 1209 ; Claire fonde les Clarisses en 1212 ; la règle de 1223 adoucit la première. François meurt en 1226. En 1517, Léon X sépare les observants, partisans d'une pauvreté stricte, des conventuels.",
+    "source": "D'après Wikipédia — Ordre des Frères mineurs"
   }
 ]

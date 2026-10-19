@@ -42,7 +42,7 @@ const PC = (() => {
     const nav = NAV_OF[e.detail];
     document.querySelectorAll('.pc-nav [data-nav]').forEach(b => b.classList.toggle('is-active', b.dataset.nav === nav));
     placeMarker();
-    if (e.detail === 'home') { renderThemes(); renderCal(); drawString(); }
+    if (e.detail === 'home') { renderThemes(); }
   });
 
   // ---------- Accueil : tous les thèmes, en 3 sections par famille de couleur ----------
@@ -82,54 +82,6 @@ const PC = (() => {
       root.appendChild(sec);
     });
   }
-
-  // ---------- Accueil : page de calendrier du jour + ficelle rouge entre les punaises ----------
-  function renderCal() {
-    const cal = document.getElementById('fact-cal');
-    if (!cal) return;
-    const d = new Date();
-    cal.querySelector('.fact-card__cal-m').textContent = d.toLocaleDateString('fr-FR', { month: 'short' }).replace('.', '');
-    cal.querySelector('.fact-card__cal-d').textContent = d.getDate();
-    cal.querySelector('.fact-card__cal-w').textContent = d.toLocaleDateString('fr-FR', { weekday: 'long' });
-  }
-
-  // La ficelle passe derrière les papiers et rejoint les punaises (haut de chaque élément, au centre).
-  const SVGNS = 'http://www.w3.org/2000/svg';
-  function drawString() {
-    const card = document.getElementById('fact-card');
-    if (!card) return;
-    let svg = card.querySelector('.fact-card__string');
-    if (!isPC() || card.hidden || !card.offsetWidth) { if (svg) svg.innerHTML = ''; return; }
-    if (!svg) {
-      svg = document.createElementNS(SVGNS, 'svg');
-      svg.setAttribute('class', 'fact-card__string');
-      svg.setAttribute('aria-hidden', 'true');
-      card.prepend(svg);
-    }
-    const box = card.getBoundingClientRect();
-    const pin = (sel) => {
-      const el = card.querySelector(sel);
-      if (!el || el.hidden || !el.offsetWidth) return null;
-      const r = el.getBoundingClientRect();
-      return [r.left + r.width / 2 - box.left, r.top - box.top];
-    };
-    const pts = ['.fact-card__note', '.fact-card__photo'].map(pin);
-    const cal = pin('.fact-card__cal');
-    // sag : affaissement de la ficelle (en px) ; elle passe derrière les papiers
-    const link = (a, b, sag) => {
-      if (!a || !b) return '';
-      const mx = (a[0] + b[0]) / 2, my = (a[1] + b[1]) / 2 + sag;
-      return `M${a[0]} ${a[1]} Q${mx} ${my} ${b[0]} ${b[1]}`;
-    };
-    const paths = [link(pts[0], cal, 22), link(cal, pts[1], 30)].filter(Boolean);
-    svg.setAttribute('viewBox', `0 0 ${box.width} ${box.height}`);
-    svg.innerHTML = paths.map(d => `<path d="${d}" class="fact-card__string-line"/>`).join('');
-  }
-  window.addEventListener('resize', drawString);
-  const cardEl = document.getElementById('fact-card');
-  if (cardEl && window.ResizeObserver) new ResizeObserver(drawString).observe(cardEl);
-  if (cardEl && window.MutationObserver) new MutationObserver(drawString).observe(cardEl, { attributes: true, attributeFilter: ['hidden'] });
-  if (document.fonts && document.fonts.ready) document.fonts.ready.then(drawString);
 
   // ---------- Clavier dans les quiz ----------
   const visible = el => el && el.offsetParent !== null && !el.disabled && !el.hidden;

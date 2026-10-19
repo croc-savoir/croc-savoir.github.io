@@ -80,8 +80,8 @@
   .screen--home > * { grid-column: 1 / -1; }
   .home-hero { text-align: left; margin: 0 0 6px; }
   .home-hero__logo, .home-hero__title { display: none; }
-  .home-hero__hello { display: block; font-size: calc(34px + var(--gr) * 0.0078); margin: 0 0 6px; }
-  .home-hero__subtitle { font-size: calc(16px + var(--gr) * 0.0033); }
+  .home-hero__hello { display: block; font-size: calc(30px + var(--gr) * 0.0039); margin: 0 0 6px; }
+  .home-hero__subtitle { font-size: calc(16px + var(--gr) * 0.0016); }
   .screen--home > .search-pill { display: none; }
 
   /* Haut de l'accueil : le tableau en liège (2/3) + les deux cartes du jour empilées (1/3) */
@@ -93,15 +93,15 @@
   /* Cartes de l'accueil : emoji devant le titre, description dessous, bouton / illustration de fond */
   .screen--home :is(.daily-card, .home-card) { display: grid; grid-template-columns: auto 1fr auto; align-items: center; align-content: center; gap: 6px 12px; position: relative; overflow: hidden; }
   .screen--home :is(.daily-card__text, .home-card__text) { display: contents; }
-  .screen--home :is(.daily-card__icon, .home-card__icon) { width: auto; height: auto; font-size: calc(26px + var(--gr) * 0.0039); line-height: 1; background: none; border: none; border-radius: 0; box-shadow: none; filter: none; }
-  html.style-cartoon .screen--home :is(.daily-card__icon, .home-card__icon) { width: auto; height: auto; font-size: calc(26px + var(--gr) * 0.0039); filter: none; }
-  .screen--home .daily-card__title { font-size: calc(25px + var(--gr) * 0.0059); }
-  .screen--home .home-card__title { font-size: calc(24px + var(--gr) * 0.0059); }
-  .screen--home :is(.daily-card__desc, .home-card__desc) { grid-column: 1 / -1; font-size: calc(15px + var(--gr) * 0.0039); }
+  .screen--home :is(.daily-card__icon, .home-card__icon) { width: auto; height: auto; font-size: calc(26px + var(--gr) * 0.0019); line-height: 1; background: none; border: none; border-radius: 0; box-shadow: none; filter: none; }
+  html.style-cartoon .screen--home :is(.daily-card__icon, .home-card__icon) { width: auto; height: auto; font-size: calc(26px + var(--gr) * 0.0019); filter: none; }
+  .screen--home .daily-card__title { font-size: calc(22px + var(--gr) * 0.0029); }
+  .screen--home .home-card__title { font-size: calc(24px + var(--gr) * 0.0029); }
+  .screen--home :is(.daily-card__desc, .home-card__desc) { grid-column: 1 / -1; font-size: calc(15px + var(--gr) * 0.0019); }
   .screen--home .daily-card__streak { grid-column: 3; grid-row: 1; }
   .screen--home .daily-card__btn {
     display: inline-flex; align-items: center; gap: 8px; grid-column: 1 / -1; justify-self: start; margin-top: 8px; padding: 10px 20px; border-radius: 12px;
-    font-size: calc(15px + var(--gr) * 0.0026); font-weight: 800; background: #171c2b; color: #fff; border: none; box-shadow: 0 3px 0 rgba(0, 0, 0, .25);
+    font-size: calc(15px + var(--gr) * 0.0013); font-weight: 800; background: #171c2b; color: #fff; border: none; box-shadow: 0 3px 0 rgba(0, 0, 0, .25);
   }
   .screen--home .daily-card__btn::after { content: '⟶'; font-weight: 700; }
   .screen--home .card-wm { display: block; position: absolute; right: -6px; bottom: -16px; font-size: 104px; line-height: 1; opacity: .26; transform: rotate(-10deg); pointer-events: none; }
@@ -111,9 +111,9 @@
   .home-card { min-height: 150px; padding: 24px 26px; }
   .screen--home .home-card .card-wm { font-size: 112px; }
   .pc-themes { display: block; margin-top: 14px; }
-  .pc-themes__title { font-family: var(--font-display); font-size: calc(26px + var(--gr) * 0.0046); margin: 0 0 4px; }
+  .pc-themes__title { font-family: var(--font-display); font-size: calc(22px + var(--gr) * 0.0023); margin: 0 0 4px; }
   .pc-group { margin-top: 20px; }
-  .pc-group__title { display: flex; align-items: center; gap: 12px; font-family: var(--font-display); font-size: calc(21px + var(--gr) * 0.0039); margin: 0 0 12px; }
+  .pc-group__title { display: flex; align-items: center; gap: 12px; font-family: var(--font-display); font-size: calc(19px + var(--gr) * 0.0019); margin: 0 0 12px; }
   .pc-group__dot { width: 20px; height: 20px; border-radius: 50%; border: 2.5px solid #171c2b; box-shadow: 0 2px 0 #171c2b; background: var(--g-monde, #ffb83d); flex: none; }
   .pc-group[data-g="vivant"] .pc-group__dot { background: var(--g-vivant, #36c98a); }
   .pc-group[data-g="arts"] .pc-group__dot { background: var(--g-arts, #ff7aa8); }
@@ -123,8 +123,8 @@
   /* Grilles de thèmes : 7 par ligne (accueil, fiches par thème, quiz) */
   .domain-grid { grid-template-columns: repeat(7, 1fr); gap: 14px; }
   .domain-tile { min-height: 108px; }
-  .pc-group .domain-tile__label { font-size: calc(14.5px + var(--gr) * 0.0026); }
-  .pc-group .domain-tile__count { font-size: calc(12px + var(--gr) * 0.0026); }
+  .pc-group .domain-tile__label { font-size: calc(14.5px + var(--gr) * 0.0013); }
+  .pc-group .domain-tile__count { font-size: calc(12px + var(--gr) * 0.0013); }
   @media (max-width: 1279px) { .pc-group .domain-grid { grid-template-columns: repeat(4, 1fr); } }
   .screen[data-screen="fiches-theme"] > *, .screen[data-screen="quiz-theme"] > * { max-width: none; }
 
@@ -284,9 +284,9 @@
     top: -13px; width: 24px; height: 24px; margin-left: -12px; border-radius: 50%; border: 2px solid #171c2b; transform: none;
     background: radial-gradient(circle at 35% 30%, #ff9a8a, #e8302a 55%, #a31616); box-shadow: 0 4px 0 rgba(0, 0, 0, .35);
   }
-  .screen--home > .fact-card .fact-card__kicker, .screen--home > .fact-card .fact-card__src { font-size: calc(12.5px + var(--gr) * 0.0026); }
-  .screen--home > .fact-card .fact-card__text { font-size: calc(19px + var(--gr) * 0.0033); line-height: 1.38; -webkit-line-clamp: 6; margin: 4px 0 6px; }
-  .screen--home > .fact-card .fact-card__go { font-size: calc(13.5px + var(--gr) * 0.0026); padding: 6px 14px; }
+  .screen--home > .fact-card .fact-card__kicker, .screen--home > .fact-card .fact-card__src { font-size: calc(12.5px + var(--gr) * 0.0013); }
+  .screen--home > .fact-card .fact-card__text { font-size: calc(17px + var(--gr) * 0.0016); line-height: 1.38; -webkit-line-clamp: 6; margin: 4px 0 6px; }
+  .screen--home > .fact-card .fact-card__go { font-size: calc(13.5px + var(--gr) * 0.0013); padding: 6px 14px; }
   .screen--home > .fact-card .fact-card__photo {
     grid-column: 2; grid-row: 1; justify-self: center; align-self: end;
     display: flex; flex-direction: column; align-items: center; position: relative; width: clamp(140px, 66%, 190px); margin: 0; padding: 10px 10px 8px;
@@ -297,7 +297,7 @@
     background: radial-gradient(circle at 35% 30%, #a8d8ff, #3a74d6 55%, #1d3f8a); box-shadow: 0 4px 0 rgba(0, 0, 0, .35);
   }
   .screen--home > .fact-card .fact-card__photo-e { width: 100%; text-align: center; font-size: 54px; line-height: 1; padding: 10px 0; border: 2px solid #171c2b; background: linear-gradient(160deg, #ffc247, #f5a01c); }
-  .screen--home > .fact-card .fact-card__photo-t { margin-top: 7px; font-size: calc(13px + var(--gr) * 0.0026); font-weight: 800; color: #171c2b; text-align: center; }
+  .screen--home > .fact-card .fact-card__photo-t { margin-top: 7px; font-size: calc(13px + var(--gr) * 0.0013); font-weight: 800; color: #171c2b; text-align: center; }
   /* Note « Reprendre la lecture » : petit papier rose punaisé sous la polaroïd */
   .screen--home > .fact-card .fact-card__resume {
     grid-column: 2; grid-row: 2; justify-self: center; align-self: start; position: relative;
@@ -309,10 +309,10 @@
     content: ''; position: absolute; top: -11px; left: 50%; width: 20px; height: 20px; margin-left: -10px; border-radius: 50%; border: 2px solid #171c2b;
     background: radial-gradient(circle at 35% 30%, #fff1a8, #f2b01e 55%, #b57a08); box-shadow: 0 3px 0 rgba(0, 0, 0, .35);
   }
-  .fact-card__resume-k { font-size: calc(11.5px + var(--gr) * 0.0026); font-weight: 900; letter-spacing: .5px; text-transform: uppercase; }
-  .fact-card__resume-t { font-size: calc(16px + var(--gr) * 0.0033); font-weight: 800; }
+  .fact-card__resume-k { font-size: calc(11.5px + var(--gr) * 0.0013); font-weight: 900; letter-spacing: .5px; text-transform: uppercase; }
+  .fact-card__resume-t { font-size: calc(16px + var(--gr) * 0.0016); font-weight: 800; }
   .fact-card__resume-go {
-    align-self: flex-start; margin-top: 2px; font: inherit; font-size: calc(13px + var(--gr) * 0.0026); font-weight: 800; cursor: pointer;
+    align-self: flex-start; margin-top: 2px; font: inherit; font-size: calc(13px + var(--gr) * 0.0013); font-weight: 800; cursor: pointer;
     padding: 5px 12px; border-radius: 10px; background: #fff; color: #171c2b; border: 2.5px solid #171c2b; box-shadow: 0 3px 0 #171c2b;
   }
   .fact-card__resume-go:hover { transform: translateY(-1px); }

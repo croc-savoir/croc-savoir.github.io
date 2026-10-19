@@ -48,14 +48,20 @@
     </div>
 
 
-    <button class="fact-card" type="button" id="fact-card" hidden>
+    <div class="fact-card" id="fact-card" role="link" tabindex="0" hidden>
       <span class="fact-card__note">
         <span class="fact-card__head"><span class="fact-card__kicker">💡 Le saviez-vous ?</span><span class="fact-card__src"></span></span>
         <span class="fact-card__text"></span>
         <span class="fact-card__foot"><span class="fact-card__go">Lire la fiche →</span></span>
       </span>
       <span class="fact-card__photo" aria-hidden="true"><span class="fact-card__photo-e"></span><span class="fact-card__photo-t"></span></span>
-    </button>
+      <!-- Note « Reprendre la lecture » (ordinateur uniquement) -->
+      <span class="fact-card__resume" id="fact-resume" hidden>
+        <span class="fact-card__resume-k">📌 Reprendre la lecture</span>
+        <span class="fact-card__resume-t" id="fact-resume-theme"></span>
+        <button class="fact-card__resume-go" type="button" id="fact-resume-go">Continuer →</button>
+      </span>
+    </div>
 
     <button class="daily-card" type="button" data-go="daily">
       <span class="card-wm" aria-hidden="true">🍔</span>
@@ -65,6 +71,7 @@
         <span class="daily-card__desc" id="daily-card-desc">5 fiches + 5 questions · environ 5 min</span>
       </span>
       <span class="daily-card__streak" id="daily-card-streak" hidden></span>
+      <span class="daily-card__btn" aria-hidden="true">Commencer</span>
     </button>
 
     <button class="daily-card daily-card--quiz" type="button" id="quizjour-card" data-go="quiz-jour">
@@ -74,6 +81,7 @@
         <span class="daily-card__title">Quiz du jour</span>
         <span class="daily-card__desc" id="quizjour-desc">20 questions · les mêmes pour tout le monde</span>
       </span>
+      <span class="daily-card__btn" aria-hidden="true">Lancer</span>
     </button>
 
     <div class="home-choices">
@@ -107,7 +115,7 @@
     <!-- Tous les thèmes (ordinateur uniquement) -->
     <div class="pc-themes">
       <h2 class="pc-themes__title">Tous les thèmes</h2>
-      <div class="domain-grid" id="home-themes"></div>
+      <div id="home-themes"></div>
     </div>
 
     <div class="home-footer">

@@ -132,6 +132,12 @@ const Fiches = (() => {
     return !!(fiche.details && Object.keys(fiche.details).length);
   }
 
+  // Dernier thème consulté (note « Reprendre la lecture » de l'accueil sur ordinateur)
+  function rememberTheme(domainId) {
+    if (!domainId) return;
+    try { localStorage.setItem('croc-last-theme', domainId); } catch (e) { /* stockage indisponible */ }
+  }
+
   function renderCard(fiche, opts = {}) {
     const wrap = document.createElement('div');
     wrap.className = 'fiche-card';
@@ -192,6 +198,7 @@ const Fiches = (() => {
       });
     }
     if (!seen) Store.recordFicheView(fiche.id);
+    rememberTheme(fiche.domain);
     return wrap;
   }
 
@@ -396,6 +403,7 @@ const Fiches = (() => {
 
   // Ouvre directement un thème (tuiles « Tous les thèmes » de l'accueil sur ordinateur).
   function openDomain(domainId) {
+    rememberTheme(domainId);
     goDeeper({ level: 'subthemes', domainId, subtheme: null, ficheId: null });
   }
 

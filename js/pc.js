@@ -42,28 +42,67 @@ const PC = (() => {
     const nav = NAV_OF[e.detail];
     document.querySelectorAll('.pc-nav [data-nav]').forEach(b => b.classList.toggle('is-active', b.dataset.nav === nav));
     placeMarker();
-    if (e.detail === 'home') renderThemes();
+    if (e.detail === 'home') { renderThemes(); renderResume(); }
   });
 
-  // ---------- Accueil : tous les thèmes ----------
+  // ---------- Accueil : tous les thèmes, en 3 sections par famille de couleur ----------
+  const GROUPES = [
+    { id: 'monde', titre: 'Société & idées' },
+    { id: 'vivant', titre: 'Sciences & nature' },
+    { id: 'arts', titre: 'Culture & loisirs' },
+  ];
   let themesDone = false;
   function renderThemes() {
-    const grid = document.getElementById('home-themes');
-    if (!grid || themesDone || !DataStore.getDomains().length) return;
+    const root = document.getElementById('home-themes');
+    if (!root || themesDone || !DataStore.getDomains().length) return;
     themesDone = true;
     const counts = DataStore.domainCounts();
-    DataStore.getDomains().forEach(d => {
-      const n = DataStore.compte(counts[d.id]?.fiches || 0, 'fiche');
-      const tile = document.createElement('button');
-      tile.type = 'button';
-      tile.className = 'domain-tile';
-      tile.style.setProperty('--th', d.hue ?? 220);
-      tile.dataset.g = d.groupe || 'monde';
-      tile.dataset.e = d.emoji;
-      tile.innerHTML = `<span class="domain-tile__emoji">${d.emoji}</span><span class="domain-tile__label">${escapeHTML(d.label)}</span>${n ? `<span class="domain-tile__count">${n}</span>` : ''}`;
-      tile.addEventListener('click', () => { App.go('fiches-theme'); Fiches.openDomain(d.id); });
-      grid.appendChild(tile);
+    GROUPES.forEach(g => {
+      const list = DataStore.getDomains().filter(d => (d.groupe || 'monde') === g.id);
+      if (!list.length) return;
+      const sec = document.createElement('section');
+      sec.className = 'pc-group';
+      sec.dataset.g = g.id;
+      sec.innerHTML = `<h3 class="pc-group__title"><span class="pc-group__dot" aria-hidden="true"></span>${escapeHTML(g.titre)}</h3>`;
+      const grid = document.createElement('div');
+      grid.className = 'domain-grid';
+      list.forEach(d => {
+        const n = DataStore.compte(counts[d.id]?.fiches || 0, 'fiche');
+        const tile = document.createElement('button');
+        tile.type = 'button';
+        tile.className = 'domain-tile';
+        tile.style.setProperty('--th', d.hue ?? 220);
+        tile.dataset.g = d.groupe || 'monde';
+        tile.dataset.e = d.emoji;
+        tile.innerHTML = `<span class="domain-tile__emoji">${d.emoji}</span><span class="domain-tile__label">${escapeHTML(d.label)}</span>${n ? `<span class="domain-tile__count">${n}</span>` : ''}`;
+        tile.addEventListener('click', () => { App.go('fiches-theme'); Fiches.openDomain(d.id); });
+        grid.appendChild(tile);
+      });
+      sec.appendChild(grid);
+      root.appendChild(sec);
     });
+  }
+
+  // ---------- Accueil : note « Reprendre la lecture » (dernier thème consulté) ----------
+  function renderResume() {
+    const note = document.getElementById('fact-resume');
+    if (!note) return;
+    let id = null;
+    try { id = localStorage.getItem('croc-last-theme'); } catch (e) { /* stockage indisponible */ }
+    const d = id && DataStore.getDomain(id);
+    note.hidden = !d;
+    if (!d) return;
+    document.getElementById('fact-resume-theme').textContent = `${d.emoji} ${d.label}`;
+    const go = document.getElementById('fact-resume-go');
+    if (!go.dataset.wired) {
+      go.dataset.wired = '1';
+      go.addEventListener('click', (e) => {
+        e.stopPropagation();
+        let cur = null;
+        try { cur = localStorage.getItem('croc-last-theme'); } catch (err) { /* stockage indisponible */ }
+        if (cur && DataStore.getDomain(cur)) { App.go('fiches-theme'); Fiches.openDomain(cur); }
+      });
+    }
   }
 
   // ---------- Clavier dans les quiz ----------

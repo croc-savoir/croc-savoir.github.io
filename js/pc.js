@@ -42,7 +42,7 @@ const PC = (() => {
     const nav = NAV_OF[e.detail];
     document.querySelectorAll('.pc-nav [data-nav]').forEach(b => b.classList.toggle('is-active', b.dataset.nav === nav));
     placeMarker();
-    if (e.detail === 'home') { renderThemes(); renderResume(); renderCal(); drawString(); }
+    if (e.detail === 'home') { renderThemes(); renderCal(); drawString(); }
   });
 
   // ---------- Accueil : tous les thèmes, en 3 sections par famille de couleur ----------
@@ -83,28 +83,6 @@ const PC = (() => {
     });
   }
 
-  // ---------- Accueil : note « Reprendre la lecture » (dernier thème consulté) ----------
-  function renderResume() {
-    const note = document.getElementById('fact-resume');
-    if (!note) return;
-    let id = null;
-    try { id = localStorage.getItem('croc-last-theme'); } catch (e) { /* stockage indisponible */ }
-    const d = id && DataStore.getDomain(id);
-    note.hidden = !d;
-    if (!d) return;
-    document.getElementById('fact-resume-theme').textContent = `${d.emoji} ${d.label}`;
-    const go = document.getElementById('fact-resume-go');
-    if (!go.dataset.wired) {
-      go.dataset.wired = '1';
-      go.addEventListener('click', (e) => {
-        e.stopPropagation();
-        let cur = null;
-        try { cur = localStorage.getItem('croc-last-theme'); } catch (err) { /* stockage indisponible */ }
-        if (cur && DataStore.getDomain(cur)) { App.go('fiches-theme'); Fiches.openDomain(cur); }
-      });
-    }
-  }
-
   // ---------- Accueil : page de calendrier du jour + ficelle rouge entre les punaises ----------
   function renderCal() {
     const cal = document.getElementById('fact-cal');
@@ -135,7 +113,7 @@ const PC = (() => {
       const r = el.getBoundingClientRect();
       return [r.left + r.width / 2 - box.left, r.top - box.top];
     };
-    const pts = ['.fact-card__note', '.fact-card__photo', '.fact-card__resume'].map(pin);
+    const pts = ['.fact-card__note', '.fact-card__photo'].map(pin);
     const cal = pin('.fact-card__cal');
     // sag : affaissement de la ficelle (en px) ; elle passe derrière les papiers
     const link = (a, b, sag) => {
@@ -143,7 +121,7 @@ const PC = (() => {
       const mx = (a[0] + b[0]) / 2, my = (a[1] + b[1]) / 2 + sag;
       return `M${a[0]} ${a[1]} Q${mx} ${my} ${b[0]} ${b[1]}`;
     };
-    const paths = [link(pts[0], cal, 22), link(cal, pts[1], 30), link(pts[1], pts[2], 26)].filter(Boolean);
+    const paths = [link(pts[0], cal, 22), link(cal, pts[1], 30)].filter(Boolean);
     svg.setAttribute('viewBox', `0 0 ${box.width} ${box.height}`);
     svg.innerHTML = paths.map(d => `<path d="${d}" class="fact-card__string-line"/>`).join('');
   }

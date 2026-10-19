@@ -65,7 +65,7 @@ const Saviez = (() => {
     if (!el.dataset.wired) {
       el.dataset.wired = '1';
       const open = () => { if (el.dataset.fid) Fiches.openLinked(el.dataset.fid); };
-      el.addEventListener('click', (e) => { if (!e.target.closest('.fact-card__resume')) open(); });
+      el.addEventListener('click', (e) => { open(); });
       el.addEventListener('keydown', (e) => { if (e.target === el && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); open(); } });
     }
     const cached = readCache();

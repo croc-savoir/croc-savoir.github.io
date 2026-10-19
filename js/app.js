@@ -23,12 +23,12 @@ const App = (() => {
     root.style.setProperty('--accent-rgb', p.rgb);
   }
 
-  function toast(msg) {
+  function toast(msg, ms = 2200) {
     const el = document.getElementById('toast');
     el.textContent = msg;
     el.hidden = false;
     clearTimeout(toast._t);
-    toast._t = setTimeout(() => { el.hidden = true; }, 2200);
+    toast._t = setTimeout(() => { el.hidden = true; }, ms);
   }
 
   function screenEl(name) {

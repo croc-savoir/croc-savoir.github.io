@@ -23,15 +23,26 @@ const Notifs = (() => {
     } catch (e) { return null; }
   }
 
+  // Chaque étape signale son nom en cas d'échec, pour savoir où ça bloque
+  async function etape(nom, f) {
+    try { return await f(); } catch (e) { const err = new Error(nom + ' : ' + (e && e.message ? e.message : e)); err.etape = nom; throw err; }
+  }
+
   async function enable() {
-    const perm = await Notification.requestPermission();
-    if (perm !== 'granted') throw new Error('refusé');
-    const { publicKey } = await (await fetch(API + '/api/vapid-key', { cache: 'no-store' })).json();
-    const reg = await navigator.serviceWorker.ready;
-    const sub = (await reg.pushManager.getSubscription())
-      || await reg.pushManager.subscribe({ userVisibleOnly: true, applicationServerKey: b64ToBytes(publicKey) });
-    const res = await fetch(API + '/api/subscribe', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ subscription: sub.toJSON() }) });
-    if (!res.ok) throw new Error('serveur');
+    const perm = await etape('autorisation', () => Notification.requestPermission());
+    if (perm !== 'granted') throw Object.assign(new Error('autorisation refusée'), { etape: 'autorisation' });
+    const { publicKey } = await etape('serveur (clé)', async () => {
+      const r = await fetch(API + '/api/vapid-key', { cache: 'no-store' });
+      if (!r.ok) throw new Error('code ' + r.status);
+      return r.json();
+    });
+    const reg = await etape('service worker', () => navigator.serviceWorker.ready);
+    const sub = await etape('abonnement du téléphone', async () => (await reg.pushManager.getSubscription())
+      || await reg.pushManager.subscribe({ userVisibleOnly: true, applicationServerKey: b64ToBytes(publicKey) }));
+    await etape('serveur (enregistrement)', async () => {
+      const res = await fetch(API + '/api/subscribe', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ subscription: sub.toJSON() }) });
+      if (!res.ok) throw new Error('code ' + res.status);
+    });
   }
 
   async function disable() {
@@ -70,7 +81,8 @@ const Notifs = (() => {
         if (btn.dataset.on === '1') { await disable(); App.toast('Rappel coupé'); }
         else { await enable(); App.toast('Rappel activé : rendez-vous à midi 🍔'); }
       } catch (err) {
-        App.toast(Notification.permission === 'denied' ? 'Notifications bloquées dans les réglages' : "Impossible d'activer le rappel pour l'instant");
+        console.warn('Rappel :', err);
+        App.toast(Notification.permission === 'denied' ? 'Notifications bloquées dans les réglages du téléphone' : "Impossible d'activer le rappel (" + (err && err.message ? err.message : 'erreur') + ')', 7000);
       }
       btn.disabled = false;
       refresh();

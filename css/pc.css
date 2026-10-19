@@ -119,6 +119,7 @@
   .pc-group[data-g="arts"] .pc-group__dot { background: var(--g-arts, #ff7aa8); }
   .home-footer { flex-direction: row; align-items: center; justify-content: space-between; margin-top: 32px; }
   .home-footer .home-link { width: auto; min-height: 42px; padding: 0 18px; }
+  .home-footer .notif-row { align-items: flex-start; margin: 0; }
 
   /* Grilles de thèmes : 7 par ligne (accueil, fiches par thème, quiz) */
   .domain-grid { grid-template-columns: repeat(7, 1fr); gap: 14px; }

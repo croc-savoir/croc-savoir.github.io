@@ -203,6 +203,15 @@ const App = (() => {
     history.replaceState({ screen: 'home' }, '', '#home');
     renderHome();
     render('home');
+
+    // Ouverture depuis la notification du rappel quotidien
+    if (new URLSearchParams(location.search).get('go') === 'daily') {
+      history.replaceState({ screen: 'home' }, '', location.pathname + '#home');
+      go('daily');
+    }
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.addEventListener('message', (e) => { if (e.data && e.data.go === 'daily') go('daily'); });
+    }
   }
 
   document.addEventListener('DOMContentLoaded', init);

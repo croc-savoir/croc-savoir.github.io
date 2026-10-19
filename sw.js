@@ -4,7 +4,7 @@
  *   et à mesure (stale-while-revalidate), pour supporter l'ajout de
  *   nouveaux domaines/lots sans jamais devoir republier le service worker.
  * ================================================================= */
-const SHELL_VERSION = 'v81';
+const SHELL_VERSION = 'v82';
 const SHELL_CACHE = `culture-g-shell-${SHELL_VERSION}`;
 const DATA_CACHE = 'culture-g-data';
 
@@ -31,6 +31,7 @@ const SHELL_FILES = [
   'js/library.js',
   'js/dragon.js',
   'js/saviez-vous.js',
+  'js/notifs.js',
   'js/app.js',
   'js/pc.js',
   'css/pc.css',
@@ -72,6 +73,7 @@ self.addEventListener('fetch', (event) => {
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
   if (url.origin !== self.location.origin) return;
+  if (url.pathname.startsWith('/api/') || url.pathname.startsWith('/.netlify/')) return;   // fonctions du serveur : jamais en cache
 
   // Data JSON : stale-while-revalidate (fonctionne hors-ligne dès le 1er chargement,
   // se met à jour tout seul en tâche de fond dès qu'il y a du réseau).
@@ -142,4 +144,27 @@ self.addEventListener('fetch', (event) => {
       return res;
     }).catch(() => caches.match(cacheKey))
   );
+});
+
+// ---------- Rappel quotidien (notifications push, cf. js/notifs.js et netlify/functions) ----------
+self.addEventListener('push', (event) => {
+  let data = {};
+  try { data = event.data ? event.data.json() : {}; } catch (e) { /* message vide */ }
+  event.waitUntil(self.registration.showNotification(data.title || "Croc'Savoir", {
+    body: data.body || "Ta bouchée du jour t'attend",
+    icon: 'icons/icon-192.png',
+    badge: 'icons/favicon-32.png',
+    tag: 'rappel-quotidien',
+    data: { url: data.url || '/' },
+  }));
+});
+
+self.addEventListener('notificationclick', (event) => {
+  event.notification.close();
+  const url = (event.notification.data && event.notification.data.url) || '/';
+  event.waitUntil(self.clients.matchAll({ type: 'window', includeUncontrolled: true }).then((list) => {
+    const open = list[0];
+    if (open) { open.postMessage({ go: url.includes('go=daily') ? 'daily' : 'home' }); return open.focus(); }
+    return self.clients.openWindow(url);
+  }));
 });

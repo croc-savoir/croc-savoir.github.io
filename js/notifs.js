@@ -5,7 +5,7 @@
  * Pour retirer : supprimer ce fichier, #notif-row dans index.html, les gestionnaires push de sw.js et le Worker. */
 const Notifs = (() => {
   // Adresse du petit serveur qui envoie les notifications (Cloudflare Worker, à renseigner une fois créé). Vide = bouton caché.
-  const API = '';
+  const API = 'https://croc-savoir-rappel.darshanpatel.workers.dev';
   const supported = () => 'serviceWorker' in navigator && 'PushManager' in window && 'Notification' in window;
   const isIOS = () => /iphone|ipad|ipod/i.test(navigator.userAgent);
   const standalone = () => window.navigator.standalone === true || window.matchMedia('(display-mode: standalone)').matches;

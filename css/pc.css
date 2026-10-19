@@ -8,7 +8,7 @@
 .pc-nav, .pc-themes, .home-hero__hello, .daily-card__btn, .fact-card__resume { display: none; }
 
 @media (min-width: 1024px) {
-  :root { --pc-nav-h: 66px; --pc-w: 1180px; }
+  :root { --pc-nav-h: 66px; --pc-w: clamp(1320px, 54vw, 1400px); }
 
   /* ---------- Menu du haut ---------- */
   .pc-nav {
@@ -16,7 +16,7 @@
     background: rgba(10, 14, 26, 0.92); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
     border-bottom: 1px solid var(--border-soft);
   }
-  .pc-nav__in { position: relative; display: flex; align-items: center; gap: 8px; height: var(--pc-nav-h); max-width: none; margin: 0 auto; padding: 0 32px; }
+  .pc-nav__in { position: relative; display: flex; align-items: center; gap: 8px; height: var(--pc-nav-h); max-width: var(--pc-w); margin: 0 auto; padding: 0 32px; }
   .pc-nav button { font: inherit; background: none; border: none; color: inherit; cursor: pointer; }
   .pc-nav__logo { display: flex; align-items: center; gap: 10px; font-family: var(--font-display); font-weight: 800; font-size: 31px; color: var(--text); margin-right: 8px; }
   .pc-nav .pc-nav__logo { font-size: 30px; }
@@ -46,7 +46,7 @@
   /* ---------- Cadre général ---------- */
   #view-root { max-width: var(--pc-w); padding: 0 32px 64px; }
   /* Accueil : contenu dans un conteneur centré (1320 à 1400 px) */
-  body.is-home #view-root { max-width: clamp(1320px, 54vw, 1400px); margin-left: auto; margin-right: auto; padding-left: 32px; padding-right: 32px; }
+  body.is-home #view-root { max-width: var(--pc-w); margin-left: auto; margin-right: auto; padding-left: 32px; padding-right: 32px; }
   .screen:not([hidden]) { display: block; min-height: 0; justify-content: initial; padding-bottom: 32px; }
   .screen:not(.screen--home) { padding-top: 66px; }
   .screen:not(.screen--home) > * { max-width: 820px; margin-left: auto; margin-right: auto; }
@@ -100,9 +100,10 @@
   .screen--home :is(.daily-card__desc, .home-card__desc) { grid-column: 1 / -1; font-size: calc(15px + var(--gr) * 0.0039); }
   .screen--home .daily-card__streak { grid-column: 3; grid-row: 1; }
   .screen--home .daily-card__btn {
-    display: inline-block; grid-column: 1 / -1; justify-self: start; margin-top: 8px; padding: 8px 20px; border-radius: 12px;
-    font-size: calc(15px + var(--gr) * 0.0026); font-weight: 800; background: #fff; color: #171c2b; border: 2.5px solid #171c2b; box-shadow: 0 3px 0 #171c2b;
+    display: inline-flex; align-items: center; gap: 8px; grid-column: 1 / -1; justify-self: start; margin-top: 8px; padding: 10px 20px; border-radius: 12px;
+    font-size: calc(15px + var(--gr) * 0.0026); font-weight: 800; background: #171c2b; color: #fff; border: none; box-shadow: 0 3px 0 rgba(0, 0, 0, .25);
   }
+  .screen--home .daily-card__btn::after { content: '⟶'; font-weight: 700; }
   .screen--home .card-wm { display: block; position: absolute; right: -6px; bottom: -16px; font-size: 104px; line-height: 1; opacity: .26; transform: rotate(-10deg); pointer-events: none; }
 
   /* Fiches / Quiz / Dragon Tour : trois cartes de même taille */

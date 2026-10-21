@@ -2645,5 +2645,302 @@
     ],
     "explication": "Condamné par l'Inquisition en 1633, Galilée pousse Descartes à renoncer à publier son Traité du monde, qui ne paraîtra qu'en 1664. Il livre entre-temps le Discours de la méthode, les Méditations et les Principes.",
     "source": "D'après Wikipédia — Cogito ergo sum"
+  },
+  {
+    "id": "q-philosophie-167",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Qui a reproché à la morale kantienne d'avoir « les mains pures » mais de ne pas avoir de mains ?",
+    "choix": [
+      "Charles Péguy",
+      "Benjamin Constant",
+      "Arthur Schopenhauer",
+      "Georg Wilhelm Friedrich Hegel"
+    ],
+    "bonneReponse": 0,
+    "explication": "En octobre 1910, Charles Péguy raille une morale pure mais incapable d'agir concrètement. D'autres critiques visaient déjà l'impératif catégorique : Hegel son abstraction, Constant son inconditionnalité, Schopenhauer son manque de sympathie.",
+    "source": "D'après Wikipédia — Impératif catégorique"
+  },
+  {
+    "id": "q-philosophie-168",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quelle maxime médicale, attribuée à Theodore Woodward, illustre l'esprit du rasoir d'Ockham ?",
+    "choix": [
+      "Quand vous entendez des sabots, pensez à des chevaux, pas à des zèbres",
+      "Mieux vaut prévenir que guérir",
+      "Il n'y a pas de fumée sans feu",
+      "Un mal pour un bien"
+    ],
+    "bonneReponse": 0,
+    "explication": "Devant un symptôme, on écarte d'abord le diagnostic exotique, le zèbre, au profit de l'explication banale, le cheval. C'est une version médicale du rasoir : ne pas supposer plus d'hypothèses qu'il n'en faut.",
+    "source": "D'après Wikipédia — Rasoir d'Ockham"
+  },
+  {
+    "id": "q-philosophie-169",
+    "domain": "philosophie",
+    "format": "vrai-faux",
+    "affirmation": "L'expression « rasoir d'Ockham » était déjà employée du vivant de Guillaume d'Ockham.",
+    "reponse": false,
+    "explication": "Faux : l'expression novacula occami n'apparaît que bien après la mort d'Ockham en 1347. Libert Froidmont affirme l'avoir forgée en 1649. Ockham a beaucoup usé du principe de parcimonie, mais sans lui donner ce nom.",
+    "source": "D'après Wikipédia — Rasoir d'Ockham"
+  },
+  {
+    "id": "q-philosophie-170",
+    "domain": "philosophie",
+    "format": "associer",
+    "question": "Associe chaque école antique à sa voie vers l'ataraxie.",
+    "paires": [
+      {
+        "gauche": "Les sceptiques",
+        "droite": "La suspension du jugement",
+        "explication": "L'épochè libère des désirs et des craintes qu'engendrent les opinions dogmatiques."
+      },
+      {
+        "gauche": "Les épicuriens",
+        "droite": "Le quadruple remède et l'amitié",
+        "explication": "Il libère de la crainte des dieux et du trépas ; l'amitié est un bien essentiel."
+      },
+      {
+        "gauche": "Les stoïciens",
+        "droite": "Voir chaque événement comme nécessaire à l'univers",
+        "explication": "La quiétude découle de la connaissance du cosmos et d'un travail sur soi."
+      }
+    ],
+    "explication": "Les trois écoles recherchent la tranquillité de l'âme, mais par des chemins différents. Chez les stoïciens, elle n'est toutefois pas le but ultime : elle découle de la vertu et de l'absence de passions malsaines.",
+    "source": "D'après Wikipédia — Ataraxie"
+  },
+  {
+    "id": "q-philosophie-171",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quelle réponse Diogène de Sinope aurait-il donnée quand on lui demandait d'où il venait ?",
+    "choix": [
+      "« Je suis un citoyen du monde »",
+      "« Je ne sais qu'une chose, c'est que je ne sais rien »",
+      "« Connais-toi toi-même »",
+      "« L'homme est la mesure de toutes choses »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Diogène se disait kosmopolitês, « citoyen du monde ». À son époque, les Grecs s'identifiaient d'abord à leur cité ou à leur culture. Les stoïciens ont ensuite repris et développé cette idée de communauté universelle.",
+    "source": "D'après Wikipédia — Cosmopolitisme"
+  },
+  {
+    "id": "q-philosophie-172",
+    "domain": "philosophie",
+    "format": "difference",
+    "question": "Quelle est la différence entre cosmopolitisme et métissage ?",
+    "choix": [
+      "Le métissage mélange des cultures, le cosmopolitisme est une citoyenneté mondiale placée au-delà des nations",
+      "Le métissage est un projet politique mondial, le cosmopolitisme un simple mélange de cultures",
+      "Le cosmopolitisme est propre aux stoïciens, le métissage à Kant",
+      "Il n'y en a aucune : ce sont deux synonymes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le métissage désigne un brassage de cultures. Le cosmopolitisme est une conscience d'appartenir à toute l'humanité, parfois un projet politique, sans être rivé à une nation. On le distingue aussi du multiculturalisme.",
+    "source": "D'après Wikipédia — Cosmopolitisme"
+  },
+  {
+    "id": "q-philosophie-173",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "De quels mots latins vient le terme « solipsisme » ?",
+    "choix": [
+      "Solus (« seul ») et ipse (« soi-même »)",
+      "Sol (« soleil ») et ipsum (« cela même »)",
+      "Solum (« sol ») et psyche (« âme »)",
+      "Solvere (« dissoudre ») et ipse (« soi-même »)"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le solipsisme tient pour seul certain le sujet pensant. Le mot apparaît dans le Petit Larousse en 1878, puis en anglais trois ans après. Un mot proche, solipse, existait déjà au XVIIIe siècle.",
+    "source": "D'après Wikipédia — Solipsisme"
+  },
+  {
+    "id": "q-philosophie-174",
+    "domain": "philosophie",
+    "format": "vrai-faux",
+    "affirmation": "Avec son « je pense donc je suis », Descartes défend le solipsisme.",
+    "reponse": false,
+    "explication": "Faux : le cogito fonde la certitude du sujet au moment où il pense, mais Descartes recourt à Dieu pour garantir la réalité du reste. Sa théorie n'est pas solipsiste, même si l'on estime qu'il a ouvert la voie à ceux qui le sont.",
+    "source": "D'après Wikipédia — Solipsisme"
+  },
+  {
+    "id": "q-philosophie-175",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Dans l'allégorie de la caverne, comment les prisonniers accueillent-ils celui qui revient leur raconter ce qu'il a vu ?",
+    "choix": [
+      "Ils refusent de le croire et pourraient le tuer",
+      "Ils le suivent aussitôt vers la sortie",
+      "Ils le choisissent pour chef de la caverne",
+      "Ils l'écoutent avec curiosité mais restent assis"
+    ],
+    "bonneReponse": 0,
+    "explication": "Incapables d'imaginer ce qu'il a vécu, ils le reçoivent très mal. Platon conclut par la question « Ne le tueront-ils pas ? », où l'on lit souvent un écho de la condamnation de Socrate, mort en 399 av. J.-C.",
+    "source": "D'après Wikipédia — Allégorie de la caverne"
+  },
+  {
+    "id": "q-philosophie-176",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quelle objection Diderot adresse-t-il au pari de Pascal ?",
+    "choix": [
+      "Croire à une religion fausse, c'est tenir pour fausses les autres, dont l'une pourrait être vraie",
+      "Le gain promis est trop faible pour justifier une mise",
+      "Pascal n'a jamais rédigé ce texte",
+      "Dieu étant infini, il est impossible de parier"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pascal suppose un seul Dieu, celui des chrétiens. Or les religions sont multiples et beaucoup exigent de ne pas croire aux autres dieux : pour Diderot, le pari reste alors toujours perdant, et Pascal avait tort.",
+    "source": "D'après Wikipédia — Pari de Pascal"
+  },
+  {
+    "id": "q-philosophie-177",
+    "domain": "philosophie",
+    "format": "associer",
+    "question": "Associe chaque expérience de pensée à son auteur ou à celui qui la raconte.",
+    "paires": [
+      {
+        "gauche": "L'anneau de Gygès",
+        "droite": "Glaucon",
+        "explication": "Il la raconte à Socrate au livre II de La République de Platon."
+      },
+      {
+        "gauche": "La chambre chinoise",
+        "droite": "John Searle",
+        "explication": "Il l'imagine vers 1980 contre l'idée d'une IA dite forte."
+      },
+      {
+        "gauche": "Le cerveau dans une cuve",
+        "droite": "Hilary Putnam",
+        "explication": "Il la présente en 1981 dans Raison, vérité et histoire."
+      },
+      {
+        "gauche": "Le voile d'ignorance",
+        "droite": "John Rawls",
+        "explication": "Il la développe dans Théorie de la justice, parue en 1971."
+      },
+      {
+        "gauche": "Le pari sur Dieu",
+        "droite": "Blaise Pascal",
+        "explication": "Il figure dans un fragment des Pensées, publiées après sa mort."
+      }
+    ],
+    "explication": "Ces cinq scénarios imaginaires servent à tester nos idées sur la justice, l'esprit, la connaissance ou la foi. Aucun ne peut se réaliser en laboratoire : c'est justement ce qui en fait des expériences de pensée.",
+    "source": "D'après Wikipédia — Expérience de pensée"
+  },
+  {
+    "id": "q-philosophie-178",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quel philosophe imagine, dans le paradoxe du bateau de Thésée, un second bateau reconstruit avec les planches retirées du premier ?",
+    "choix": [
+      "Thomas Hobbes",
+      "John Locke",
+      "Gottfried Wilhelm Leibniz",
+      "René Descartes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans De corpore (1655), Hobbes suppose qu'un gardien récupère les planches jetées pour bâtir un second navire, puis demande lequel est l'original. L'un garde la forme du bateau, l'autre sa matière.",
+    "source": "D'après Wikipédia — Bateau de Thésée"
+  },
+  {
+    "id": "q-philosophie-179",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Quel test la chambre chinoise de Searle cherche-t-elle à montrer insuffisant pour prouver qu'une machine pense ?",
+    "choix": [
+      "Le test de Turing",
+      "Le test de Rorschach",
+      "Le test de Stroop",
+      "Le test du miroir"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une machine, ou une personne suivant un manuel de règles, peut donner des réponses indiscernables de celles d'un locuteur chinois sans rien comprendre. Réussir le test de Turing ne prouverait donc pas la compréhension.",
+    "source": "D'après Wikipédia — Chambre chinoise"
+  },
+  {
+    "id": "q-philosophie-180",
+    "domain": "philosophie",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon auteur m'a imaginée après avoir lu un manuel où un ordinateur répondait à une histoire de hamburger carbonisé.",
+      "Dans mon scénario, une personne enfermée manipule des symboles sans en comprendre le sens.",
+      "On m'objecte souvent que c'est le système tout entier qui comprend, et non la personne.",
+      "Je vise l'idée d'une intelligence artificielle dite forte et le test de Turing.",
+      "Mon nom évoque une pièce close et une langue d'Asie."
+    ],
+    "reponse": "La chambre chinoise",
+    "explication": "John Searle a imaginé la chambre chinoise vers 1980. Elle suggère qu'un programme peut simuler la compréhension d'une langue sans la posséder, parce que manipuler des symboles ne suffit pas à leur donner un sens.",
+    "source": "D'après Wikipédia — Chambre chinoise"
+  },
+  {
+    "id": "q-philosophie-181",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Que conclut Hilary Putnam de la phrase « Je suis un cerveau dans une cuve » ?",
+    "choix": [
+      "Elle est fausse ou dénuée de sens",
+      "Elle est vraie pour tout le monde",
+      "Elle est impossible à discuter",
+      "Elle prouve que le monde n'existe pas"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour Putnam, un mot ne désigne que ce avec quoi il a un lien causal. Un cerveau en cuve dirait « cuve » en parlant d'une image, pas de la vraie cuve : sa phrase serait donc fausse ou vide de sens, et l'hypothèse se contredirait.",
+    "source": "D'après Wikipédia — Cerveau dans une cuve"
+  },
+  {
+    "id": "q-philosophie-182",
+    "domain": "philosophie",
+    "format": "vrai-faux",
+    "affirmation": "Le paradoxe de l'âne de Buridan figure dans les œuvres connues de Jean Buridan.",
+    "reponse": false,
+    "explication": "Faux : on ne le trouve dans aucune œuvre connue de Buridan. Des auteurs ultérieurs l'ont imaginé pour se moquer de sa théorie du choix, d'après laquelle on choisit toujours le plus grand bien. Une idée voisine figure déjà chez Aristote.",
+    "source": "D'après Wikipédia — Paradoxe de l'âne de Buridan"
+  },
+  {
+    "id": "q-philosophie-183",
+    "domain": "philosophie",
+    "format": "frise",
+    "question": "Remets ces repères de l'histoire des expériences de pensée dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Hobbes imagine un second bateau avec les planches de Thésée",
+        "annee": "1655"
+      },
+      {
+        "label": "Leibniz imagine un cerveau grand comme un moulin",
+        "annee": "1713"
+      },
+      {
+        "label": "Kant défend un droit cosmopolitique dans son essai sur la paix perpétuelle",
+        "annee": "1795"
+      },
+      {
+        "label": "Rawls publie Théorie de la justice et son voile d'ignorance",
+        "annee": "1971"
+      },
+      {
+        "label": "Putnam présente le cerveau dans une cuve",
+        "annee": "1981"
+      }
+    ],
+    "explication": "Hobbes (1655) puis Leibniz (1713) précèdent Kant (1795). Au XXe siècle, Rawls publie en 1971 son voile d'ignorance et Putnam, en 1981, le cerveau dans une cuve. Ces scénarios prolongent des traditions bien plus anciennes.",
+    "source": "D'après Wikipédia — Expérience de pensée"
+  },
+  {
+    "id": "q-philosophie-184",
+    "domain": "philosophie",
+    "format": "qcm",
+    "question": "Qui avait formalisé mathématiquement l'idée du voile d'ignorance pour défendre l'utilitarisme plutôt qu'un contrat social ?",
+    "choix": [
+      "John Harsanyi",
+      "Robert Nozick",
+      "John Stuart Mill",
+      "Adam Smith"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour Harsanyi, un décideur rationnel qui ignore sa place maximise le bien-être moyen plutôt que de protéger le pire sort. Rawls, qui a forgé le terme « voile d'ignorance », en tire au contraire un principe centré sur les plus défavorisés.",
+    "source": "D'après Wikipédia — Voile d'ignorance"
   }
 ]

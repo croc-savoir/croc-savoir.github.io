@@ -1538,5 +1538,1684 @@
     "reponse": "Golda Meir",
     "explication": "Golda Meir fut ministre du Travail puis des Affaires étrangères avant de devenir Première ministre d'Israël en 1969. Elle démissionna en 1974 après la guerre du Kippour, sans que la commission d'enquête ne la juge fautive.",
     "source": "D'après Wikipédia — Golda Meir"
+  },
+  {
+    "id": "q-politique-098",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Le mot « absolutisme » était déjà employé par les contemporains de Louis XIV pour décrire leur régime.",
+    "reponse": false,
+    "explication": "Faux. Sous Louis XIV, on parlait de « pouvoir absolu » ou de « roi absolu ». Le mot « absolutisme » est inventé sous la Restauration, bien après la fin de l'Ancien Régime, et l'Académie française ne l'accueille qu'en 1878.",
+    "source": "D'après Wikipédia — Absolutisme"
+  },
+  {
+    "id": "q-politique-099",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quand la noblesse est abolie, dans la nuit du 4 août 1789, quel mot prend la place de « noble » dans le vocabulaire révolutionnaire ?",
+    "choix": [
+      "Aristocrate",
+      "Patriote",
+      "Privilégié",
+      "Gentilhomme"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Aristocrate » remplace « noble ». Ce mot, qui signifie à l'origine « les meilleurs » en grec, devient une étiquette pour tous les partisans des privilèges, nobles ou non. L'Ancien Régime parlait de noblesse et de gentilhomme.",
+    "source": "D'après Wikipédia — Aristocratie"
+  },
+  {
+    "id": "q-politique-100",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quelle pièce d'Aristophane, écrite en 388 av. J.-C., est à l'origine du mot « ploutocratie » ?",
+    "choix": [
+      "Ploutos",
+      "Les Nuées",
+      "Les Guêpes",
+      "Lysistrata"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans Ploutos, le dieu grec de la richesse est rendu aveugle par Zeus. Les personnages veulent lui rendre la vue pour qu'il répartisse mieux les richesses. C'est de ce dieu que vient le mot, avec kratos, « pouvoir ».",
+    "source": "D'après Wikipédia — Ploutocratie"
+  },
+  {
+    "id": "q-politique-101",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Qui a forgé le mot « technocratie » en 1919 ?",
+    "choix": [
+      "William Henry Smyth, ingénieur californien",
+      "Thorstein Veblen, économiste",
+      "Howard Scott, fondateur de la Technical Alliance",
+      "Auguste Comte, philosophe"
+    ],
+    "bonneReponse": 0,
+    "explication": "William Henry Smyth emploie le mot en 1919 dans un article sur la « démocratie industrielle ». Il ne désignait pas encore un pouvoir d'experts. Ce sens apparaît à partir de 1932, avec le mouvement technocratique américain.",
+    "source": "D'après Wikipédia — Technocratie"
+  },
+  {
+    "id": "q-politique-102",
+    "domain": "politique",
+    "format": "associer",
+    "question": "Associe chaque penseur à son projet de gouvernement par des savants.",
+    "paires": [
+      {
+        "gauche": "Platon",
+        "droite": "Confier la cité à des philosophes, comme un capitaine à bord d'un navire",
+        "explication": "Platon compare le chef politique à un capitaine de navire ou à un médecin."
+      },
+      {
+        "gauche": "Francis Bacon",
+        "droite": "La « maison de Salomon » de La Nouvelle Atlantide",
+        "explication": "En 1624, il imagine un collège de savants qui conseille l'État."
+      },
+      {
+        "gauche": "Saint-Simon",
+        "droite": "Un parlement de trois chambres : invention, examen, exécution",
+        "explication": "Il le décrit en 1820 dans L'Organisation."
+      },
+      {
+        "gauche": "Howard Scott",
+        "droite": "L'Energy Survey of North America, lancé en 1932",
+        "explication": "Cette étude lance le mouvement technocratique américain."
+      }
+    ],
+    "explication": "De Platon à Howard Scott, l'idée revient : donner le pouvoir à ceux qui savent. Les formes changent, du philosophe-roi à l'ingénieur, mais l'argument est le même : la compétence plus que le vote.",
+    "source": "D'après Wikipédia — Technocratie"
+  },
+  {
+    "id": "q-politique-103",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel théoricien communiste présente le parti comme l'« avant-garde du prolétariat » ?",
+    "choix": [
+      "Lénine",
+      "Karl Marx",
+      "Léon Trotski",
+      "Joseph Staline"
+    ],
+    "bonneReponse": 0,
+    "explication": "Lénine théorise le rôle dirigeant du parti, qu'il voit comme l'avant-garde du prolétariat. Une résolution de 1921, adoptée au Xe congrès bolchevik, en fait un principe de la doctrine : les régimes communistes en feront un modèle.",
+    "source": "D'après Wikipédia — Parti unique"
+  },
+  {
+    "id": "q-politique-104",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Haïti, sous Duvalier père et fils, était un régime de parti unique.",
+    "reponse": false,
+    "explication": "Faux. Haïti passait pour une dictature, mais n'a jamais connu de parti unique : une période sans aucun parti, puis un multipartisme toléré par le pouvoir. Une dictature peut donc exister sans parti unique.",
+    "source": "D'après Wikipédia — Parti unique"
+  },
+  {
+    "id": "q-politique-105",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Où l'armistice du 22 juin 1940 a-t-il été signé ?",
+    "choix": [
+      "Dans la clairière de Rethondes",
+      "À Vichy",
+      "À Montoire",
+      "À Bordeaux"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'armistice est signé à Rethondes, dans le wagon de celui de 1918. Hitler a voulu effacer l'humiliation de 1918 : il a fait exploser le monument voisin devant les caméras, et le wagon a été envoyé en Allemagne.",
+    "source": "D'après Wikipédia — Régime de Vichy"
+  },
+  {
+    "id": "q-politique-106",
+    "domain": "politique",
+    "format": "frise",
+    "question": "Remets ces événements de l'histoire d'Athènes dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Mort du tyran Pisistrate",
+        "annee": "-527"
+      },
+      {
+        "label": "Hipparque, fils de Pisistrate, est assassiné",
+        "annee": "-514"
+      },
+      {
+        "label": "Le tyran Hippias est chassé d'Athènes",
+        "annee": "-510"
+      },
+      {
+        "label": "Clisthène réforme les institutions",
+        "annee": "-508"
+      },
+      {
+        "label": "Premier ostracisme connu",
+        "annee": "-487"
+      }
+    ],
+    "explication": "Après la mort de Pisistrate en 527 av. J.-C., ses fils gouvernent. Hipparque est assassiné en 514 et Hippias chassé en 510. Clisthène donne alors à Athènes ses institutions démocratiques en 508, et l'ostracisme est employé en 487.",
+    "source": "D'après Wikipédia — Clisthène (Athènes)"
+  },
+  {
+    "id": "q-politique-107",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel juriste français a fait du régime semi-présidentiel une catégorie de régime politique ?",
+    "choix": [
+      "Maurice Duverger",
+      "Hubert Beuve-Méry",
+      "Raymond Aron",
+      "Michel Debré"
+    ],
+    "bonneReponse": 0,
+    "explication": "Maurice Duverger a théorisé la notion à partir de 1969, en pensant d'abord à la Ve République. Sa définition a beaucoup varié au fil de ses livres, ce qui a longtemps rendu le concept flou.",
+    "source": "D'après Wikipédia — Régime semi-présidentiel"
+  },
+  {
+    "id": "q-politique-108",
+    "domain": "politique",
+    "format": "difference",
+    "question": "Quelle est la différence entre une fédération et une confédération ?",
+    "choix": [
+      "Dans une confédération, les États membres gardent leur souveraineté propre",
+      "Dans une confédération, un gouvernement central dirige tous les États",
+      "Dans une fédération, les États sont tous des États indépendants",
+      "Une fédération n'a jamais de Constitution écrite"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une confédération est une union d'États indépendants qui délèguent certaines compétences par traité. Une fédération forme un nouvel État, avec des entités fédérées dotées de leurs lois mais sans souveraineté propre.",
+    "source": "D'après Wikipédia — État fédéral"
+  },
+  {
+    "id": "q-politique-109",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Aux États-Unis, les sénateurs ont d'abord été choisis par les parlements des États, et non par le peuple.",
+    "reponse": true,
+    "explication": "Vrai. À l'origine, les parlements des États élisent les sénateurs, comme une assemblée modératrice. Il faut attendre le 17e amendement, en 1913, pour que les sénateurs soient élus directement par les citoyens.",
+    "source": "D'après Wikipédia — Bicamérisme"
+  },
+  {
+    "id": "q-politique-110",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Qui disait du Sénat sous la IIIe République que c'était le « prix à payer » pour obtenir la République ?",
+    "choix": [
+      "Le duc de Broglie",
+      "Boissy d'Anglas",
+      "Montesquieu",
+      "Napoléon III"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour le duc de Broglie, les républicains n'aimaient pas le Sénat mais l'acceptaient pour avoir la République, et les royalistes l'exigeaient comme garantie. Les lois de 1875 ont donc créé un Sénat aussi puissant que la Chambre.",
+    "source": "D'après Wikipédia — Bicamérisme"
+  },
+  {
+    "id": "q-politique-111",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel acteur de la Révolution déclare le 7 septembre 1789 que la France doit être un régime représentatif plutôt qu'une démocratie ?",
+    "choix": [
+      "Emmanuel-Joseph Sieyès",
+      "Jean-Jacques Rousseau",
+      "Mirabeau",
+      "Robespierre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sieyès, co-rédacteur de la première Constitution, juge que la plupart des citoyens n'ont ni le temps ni l'instruction pour faire la loi eux-mêmes. Il s'oppose à Rousseau, partisan de la démocratie directe.",
+    "source": "D'après Wikipédia — Démocratie représentative"
+  },
+  {
+    "id": "q-politique-112",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel homme politique américain a contribué à imposer le mot « démocratie » à la place de « république » dans les années 1820 ?",
+    "choix": [
+      "Andrew Jackson",
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "George Washington"
+    ],
+    "bonneReponse": 0,
+    "explication": "Andrew Jackson s'est déclaré démocrate pour se démarquer de ses adversaires, et il a été élu. Les autres candidats ont ensuite adopté le terme. Avant, les régimes issus des Lumières s'appelaient plutôt républiques.",
+    "source": "D'après Wikipédia — Démocratie libérale"
+  },
+  {
+    "id": "q-politique-113",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel conseil de Thrasybule de Milet à Périandre résume la méthode des tyrans grecs ?",
+    "choix": [
+      "« Il faut couper les épis qui dépassent »",
+      "« Il faut semer avant de récolter »",
+      "« Il faut nourrir le peuple pour le tenir »",
+      "« Il faut bâtir plus haut que ses rivaux »"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'image des épis qui dépassent résume la politique des tyrans : abaisser l'aristocratie et relever les humbles. On procédait par exils, confiscations et espionnage. Périandre fut pourtant classé parmi les Sept Sages.",
+    "source": "D'après Wikipédia — Tyran"
+  },
+  {
+    "id": "q-politique-114",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Que signifie la seisachtheia, la grande réforme de Solon ?",
+    "choix": [
+      "Le fait de se décharger de ses fardeaux",
+      "La guerre pour reprendre Salamine",
+      "Le tirage au sort des juges",
+      "Le partage des terres entre les pauvres"
+    ],
+    "bonneReponse": 0,
+    "explication": "La seisachtheia, littéralement « secouer les fardeaux », est l'allègement des dettes décidé par Solon. Il abolit l'esclavage pour dettes, mais ne redistribue pas les terres, contrairement à ce que beaucoup de pauvres attendaient.",
+    "source": "D'après Wikipédia — Solon"
+  },
+  {
+    "id": "q-politique-115",
+    "domain": "politique",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Gênes en 1805 et j'ai passé presque toute ma vie en exil.",
+      "J'ai été condamné à mort par un tribunal militaire après l'échec d'une insurrection en 1833.",
+      "En 1831, j'ai fondé une association de jeunes patriotes, qui a pour devise « Dieu et peuple ».",
+      "Le Premier ministre autrichien Metternich me traitait de « brigand italien »."
+    ],
+    "reponse": "Giuseppe Mazzini",
+    "explication": "Giuseppe Mazzini, fondateur de la Jeune-Italie en 1831, voulait une Italie unie et républicaine. Ses soulèvements ont presque tous échoué, mais son action a compté dans la naissance de l'Italie, dont il est l'un des « pères de la patrie ».",
+    "source": "D'après Wikipédia — Giuseppe Mazzini"
+  },
+  {
+    "id": "q-politique-116",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Le 12 juillet 1789, les cocardes que Camille Desmoulins fait adopter à la foule du Palais-Royal sont tricolores.",
+    "reponse": false,
+    "explication": "Elles sont d'abord vertes, « couleur de l'espérance ». Comme le vert était aussi la couleur du comte d'Artois, frère du roi, on les remplace vite par les couleurs de Paris, le rouge et le bleu, puis par le tricolore.",
+    "source": "D'après Wikipédia — Camille Desmoulins"
+  },
+  {
+    "id": "q-politique-117",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel titre l'Assemblée nationale donne-t-elle à Adolphe Thiers en mars 1873, après le départ anticipé des troupes allemandes ?",
+    "choix": [
+      "Le libérateur du territoire",
+      "Le père de la patrie",
+      "Le sauveur de la République",
+      "Le grand Français"
+    ],
+    "bonneReponse": 0,
+    "explication": "Grâce à un emprunt national, la France paie l'indemnité de guerre plus vite que prévu et les troupes d'occupation partent avant la date fixée. L'Assemblée salue Thiers comme « le libérateur du territoire », deux mois avant sa démission.",
+    "source": "D'après Wikipédia — Adolphe Thiers"
+  },
+  {
+    "id": "q-politique-118",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Comment Léon Gambetta quitte-t-il Paris assiégé le 7 octobre 1870 pour organiser la défense en province ?",
+    "choix": [
+      "En ballon",
+      "En train blindé",
+      "Par un tunnel sous la Seine",
+      "Déguisé en marchand ambulant"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ministre de l'Intérieur, il s'envole à bord du ballon Armand-Barbès avec Eugène Spuller, en direction de Tours, où il prend aussi en main la guerre. Il y lève des armées, mais elles ne pourront pas délivrer la capitale.",
+    "source": "D'après Wikipédia — Léon Gambetta"
+  },
+  {
+    "id": "q-politique-119",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Avec quel homme politique Aristide Briand partage-t-il le prix Nobel de la paix en 1926 ?",
+    "choix": [
+      "Gustav Stresemann",
+      "Frank Kellogg",
+      "Paul Painlevé",
+      "Jean Jaurès"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le prix récompense les accords de Locarno de 1925 et la réconciliation franco-allemande : Briand l'obtient avec le ministre allemand des Affaires étrangères Gustav Stresemann. Kellogg est son partenaire du pacte de 1928.",
+    "source": "D'après Wikipédia — Aristide Briand"
+  },
+  {
+    "id": "q-politique-120",
+    "domain": "politique",
+    "format": "difference",
+    "question": "Quelle est la différence entre les accords de Locarno (1925) et le pacte Briand-Kellogg (1928) ?",
+    "choix": [
+      "Locarno reconnaît les frontières occidentales de l'Allemagne ; le pacte veut mettre la guerre hors la loi",
+      "Locarno met la guerre hors la loi ; le pacte fixe les frontières occidentales de l'Allemagne",
+      "Locarno crée la Société des Nations ; le pacte y fait entrer l'Allemagne",
+      "Locarno concerne le désarmement naval ; le pacte concerne les dettes de guerre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Locarno règle les frontières à l'ouest de l'Allemagne, mais pas celles de l'est. Le pacte de 1928, signé avec l'Américain Kellogg, proclame de façon plus générale que la guerre est mise hors la loi.",
+    "source": "D'après Wikipédia — Aristide Briand"
+  },
+  {
+    "id": "q-politique-121",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quelle mesure économique Paul Reynaud défend-il dès 1934, alors que l'opinion y est hostile ?",
+    "choix": [
+      "La dévaluation du franc",
+      "L'abandon de l'impôt sur le revenu",
+      "La nationalisation des banques",
+      "Le retour à l'étalon-or"
+    ],
+    "bonneReponse": 0,
+    "explication": "En juin 1934, il plaide à la Chambre pour dévaluer le franc, dont le lien avec l'or pèse sur l'économie. L'opinion reste attachée au « franc Poincaré ». Le franc sera dévalué en octobre 1936 par le gouvernement de Léon Blum.",
+    "source": "D'après Wikipédia — Paul Reynaud"
+  },
+  {
+    "id": "q-politique-122",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Sun Yat-sen a dirigé sur place le soulèvement de Wuchang d'octobre 1911, qui a fait tomber la dynastie Qing.",
+    "reponse": false,
+    "explication": "Il n'avait aucun lien avec cette révolte et se trouvait hors de Chine : il apprend la victoire par la presse et il ne rentre que plus tard à Shanghai, en décembre. Il est ensuite choisi comme président provisoire, comme figure de compromis.",
+    "source": "D'après Wikipédia — Sun Yat-sen"
+  },
+  {
+    "id": "q-politique-123",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "De quelle commune de la banlieue parisienne Pierre Laval est-il le maire de 1923 jusqu'à la Libération ?",
+    "choix": [
+      "Aubervilliers",
+      "Saint-Denis",
+      "Montreuil",
+      "Ivry-sur-Seine"
+    ],
+    "bonneReponse": 0,
+    "explication": "Élu maire d'Aubervilliers en 1923, ancien socialiste devenu homme sans parti, il garde la mairie jusqu'à la Libération, tout en étant sénateur puis ministre. Châteldon, en Auvergne, est son village natal.",
+    "source": "D'après Wikipédia — Pierre Laval"
+  },
+  {
+    "id": "q-politique-124",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Qui a réellement prononcé la célèbre phrase « Ils ne passeront pas ! » à Verdun, souvent attribuée à Philippe Pétain ?",
+    "choix": [
+      "Robert Nivelle",
+      "Joseph Joffre",
+      "Ferdinand Foch",
+      "Philippe Pétain lui-même"
+    ],
+    "bonneReponse": 0,
+    "explication": "La formule vient de Robert Nivelle, qui succède à Pétain à la tête de la 2e armée en mai 1916. Pétain avait lancé « On les aura ! », écho à Jeanne d'Arc, et avait fait de « le feu tue » sa doctrine.",
+    "source": "D'après Wikipédia — Philippe Pétain"
+  },
+  {
+    "id": "q-politique-125",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quels accords Georges Pompidou, alors Premier ministre, négocie-t-il avec syndicats et patronat pendant Mai 68 ?",
+    "choix": [
+      "Les accords de Grenelle",
+      "Les accords de Matignon",
+      "Les accords d'Évian",
+      "Les accords de Genève"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pompidou cherche à briser l'alliance entre étudiants et ouvriers en négociant à Grenelle avec les syndicats et les employeurs. Les accords de Matignon datent du Front populaire, ceux d'Évian ont mis fin à la guerre d'Algérie.",
+    "source": "D'après Wikipédia — Georges Pompidou"
+  },
+  {
+    "id": "q-politique-126",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "François Mitterrand est le seul président de la République française à avoir accompli deux septennats complets.",
+    "reponse": true,
+    "explication": "Élu en 1981 et réélu en 1988, il reste à l'Élysée jusqu'en 1995 : quatorze ans, le record de longévité à la présidence. Son successeur Jacques Chirac sera le dernier président à effectuer un septennat.",
+    "source": "D'après Wikipédia — François Mitterrand"
+  },
+  {
+    "id": "q-politique-127",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quelle expression Valéry Giscard d'Estaing a-t-il forgée comme ministre des Finances pour décrire le rôle du dollar ?",
+    "choix": [
+      "Le « privilège exorbitant »",
+      "La « monnaie reine »",
+      "L'« hégémonie douce »",
+      "Le « tribut américain »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans le système de Bretton Woods, le dollar est la monnaie des échanges mondiaux, ce qui avantage les États-Unis : Giscard parle de « privilège exorbitant ». La formule est restée célèbre dans les débats monétaires.",
+    "source": "D'après Wikipédia — Valéry Giscard d'Estaing"
+  },
+  {
+    "id": "q-politique-128",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel surnom Georges Pompidou donne-t-il à Jacques Chirac, son jeune collaborateur, pour son efficacité ?",
+    "choix": [
+      "Mon bulldozer",
+      "Mon tracteur",
+      "Ma locomotive",
+      "Mon cheval de bataille"
+    ],
+    "bonneReponse": 0,
+    "explication": "Entré en 1962 à son cabinet, Chirac est appelé « mon bulldozer » par Pompidou, qui apprécie sa capacité à faire avancer les dossiers. Le surnom lui reste, aussi à cause de son caractère abrupt.",
+    "source": "D'après Wikipédia — Jacques Chirac"
+  },
+  {
+    "id": "q-politique-129",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Avec quelle avance Konrad Adenauer est-il élu chancelier fédéral par le Bundestag le 15 septembre 1949 ?",
+    "choix": [
+      "Une seule voix",
+      "Dix voix",
+      "Une centaine de voix",
+      "Il est élu à l'unanimité"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le futur « Der Alte » est élu de justesse, avec une voix d'avance. Il reste pourtant chancelier jusqu'en 1963 et remporte ensuite trois élections législatives successives.",
+    "source": "D'après Wikipédia — Konrad Adenauer"
+  },
+  {
+    "id": "q-politique-130",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel geste Helmut Kohl et François Mitterrand accomplissent-ils à Verdun le 22 septembre 1984 ?",
+    "choix": [
+      "Ils se tiennent la main durant la cérémonie",
+      "Ils signent le traité de Maastricht",
+      "Ils plantent un arbre de la paix",
+      "Ils survolent le champ de bataille ensemble"
+    ],
+    "bonneReponse": 0,
+    "explication": "Devant le mémorial de Verdun, les deux dirigeants se tiennent la main pour honorer les soldats français et allemands tombés pendant la Première Guerre mondiale. L'image fait le tour du monde et devient un symbole de la réconciliation entre les deux pays.",
+    "source": "D'après Wikipédia — Helmut Kohl"
+  },
+  {
+    "id": "q-politique-131",
+    "domain": "politique",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né en 1856 en Virginie et je suis le seul président de l'histoire de mon pays titulaire d'un doctorat.",
+      "J'ai présidé l'université de Princeton avant de devenir gouverneur du New Jersey.",
+      "En 1914, j'ai proclamé la neutralité de mon pays face à la guerre, avant de l'y engager en 1917.",
+      "Avec moi, le Congrès a créé la fête des Mères.",
+      "J'ai lancé l'idée de la Société des Nations."
+    ],
+    "reponse": "Woodrow Wilson",
+    "explication": "Professeur devenu 28e président des États-Unis, Wilson crée la Réserve fédérale et l'impôt fédéral sur le revenu, puis porte l'idée de la Société des Nations. Il reçoit le prix Nobel de la paix, mais le Sénat refuse d'y faire entrer son pays.",
+    "source": "D'après Wikipédia — Woodrow Wilson"
+  },
+  {
+    "id": "q-politique-132",
+    "domain": "politique",
+    "format": "associer",
+    "question": "Associe chaque dirigeant à ce qui reste attaché à son nom.",
+    "paires": [
+      {
+        "gauche": "Helmut Kohl",
+        "droite": "La réunification allemande",
+        "explication": "Il l'obtient très vite après l'ouverture du mur de Berlin, malgré les craintes de plusieurs alliés."
+      },
+      {
+        "gauche": "Woodrow Wilson",
+        "droite": "La Société des Nations",
+        "explication": "Il en est le principal promoteur, mais le Sénat américain refuse que son pays la rejoigne."
+      },
+      {
+        "gauche": "Sun Yat-sen",
+        "droite": "Les Trois principes du peuple",
+        "explication": "Nationalisme, droits du peuple et subsistance du peuple : sa philosophie politique."
+      },
+      {
+        "gauche": "Konrad Adenauer",
+        "droite": "Le traité de l'Élysée",
+        "explication": "Signé avec de Gaulle, il ouvre une coopération franco-allemande dans tous les domaines."
+      }
+    ],
+    "explication": "Ces quatre dirigeants ont chacun marqué l'histoire de leur pays par une grande réalisation, de la réconciliation franco-allemande à la fondation de la république de Chine.",
+    "source": "D'après Wikipédia — Konrad Adenauer"
+  },
+  {
+    "id": "q-politique-133",
+    "domain": "politique",
+    "format": "frise",
+    "question": "Remets ces événements dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Élection de Konrad Adenauer comme chancelier",
+        "annee": "1949"
+      },
+      {
+        "label": "Création de la CECA",
+        "annee": "1951"
+      },
+      {
+        "label": "Adhésion de la RFA à l'OTAN",
+        "annee": "1955"
+      },
+      {
+        "label": "Traité de Rome",
+        "annee": "1957"
+      },
+      {
+        "label": "Traité de l'Élysée",
+        "annee": "1963"
+      }
+    ],
+    "explication": "Adenauer devient chancelier en 1949. Son pays rejoint la CECA en 1951, entre dans l'OTAN en 1955 et signe le traité de Rome en 1957. Enfin, il scelle en 1963 la réconciliation avec de Gaulle par le traité de l'Élysée.",
+    "source": "D'après Wikipédia — Konrad Adenauer"
+  },
+  {
+    "id": "q-politique-134",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "En 1969, quelle mesure Indira Gandhi prend-elle par ordonnance pour inscrire son action à gauche ?",
+    "choix": [
+      "La nationalisation des quatorze plus grandes banques du pays",
+      "La dévaluation de la roupie",
+      "L'interdiction des partis d'opposition",
+      "La création de la Lok Sabha"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1969, en désaccord avec l'aile droite de son parti, Indira Gandhi nationalise par ordonnance les quatorze plus grandes banques indiennes et écarte Morarji Desai du gouvernement. La dévaluation de la roupie date, elle, de 1966.",
+    "source": "D'après Wikipédia — Indira Gandhi"
+  },
+  {
+    "id": "q-politique-135",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel jour de fête, le plus saint de l'année juive, Sadate choisit-il pour lancer l'attaque égyptienne de 1973 ?",
+    "choix": [
+      "Yom Kippour",
+      "Pessah",
+      "Hanoucca",
+      "Roch Hachana"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'offensive débute le 6 octobre 1973, jour de Yom Kippour, le Grand Pardon. Les effectifs israéliens sont réduits par la fête, et l'armée est surprise. D'où le nom de « guerre du Kippour », aussi appelée guerre d'octobre ou du Ramadan.",
+    "source": "D'après Wikipédia — Anouar el-Sadate"
+  },
+  {
+    "id": "q-politique-136",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Qui nomme le Défenseur des droits, alors que le comité Balladur proposait que ce soit l'Assemblée nationale ?",
+    "choix": [
+      "Le président de la République",
+      "L'Assemblée nationale",
+      "Le Conseil constitutionnel",
+      "Le Premier ministre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le comité Balladur voulait un Défenseur désigné par les députés, sur le modèle espagnol. La révision de 2008 a finalement retenu une nomination par le président de la République, après avis de commissions parlementaires. Son mandat dure six ans et ne peut pas être renouvelé.",
+    "source": "D'après Wikipédia — Défenseur des droits"
+  },
+  {
+    "id": "q-politique-137",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quelle célèbre association d'étudiants Benazir Bhutto préside-t-elle en 1976, première Asiatique à ce poste ?",
+    "choix": [
+      "L'Oxford Union",
+      "Les Cambridge Footlights",
+      "La London Student Union",
+      "La Harvard Crimson"
+    ],
+    "bonneReponse": 0,
+    "explication": "En décembre 1976, Benazir Bhutto devient présidente de l'Oxford Union, le célèbre club de débat de l'université d'Oxford. Elle y a suivi un cursus mêlant philosophie, politique et économie, après un passage par Harvard. Elle rentre au Pakistan en 1977.",
+    "source": "D'après Wikipédia — Benazir Bhutto"
+  },
+  {
+    "id": "q-politique-138",
+    "domain": "politique",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Santiago en 1908 et j'ai d'abord été médecin.",
+      "En 1933, je compte parmi les fondateurs du Parti socialiste de mon pays.",
+      "J'ai échoué à trois élections présidentielles, en 1952, 1958 et 1964.",
+      "Élu en 1970 à la tête de l'Unité populaire, je veux un socialisme par les urnes.",
+      "Je meurs dans le palais de la Moneda, le 11 septembre 1973."
+    ],
+    "reponse": "Salvador Allende",
+    "explication": "Salvador Allende, médecin et socialiste, est élu président du Chili en 1970 après trois échecs. Son gouvernement tente une « voie chilienne vers le socialisme » dans la légalité. Il est renversé le 11 septembre 1973 par le coup d'État du général Pinochet.",
+    "source": "D'après Wikipédia — Salvador Allende"
+  },
+  {
+    "id": "q-politique-139",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel rendez-vous politique annuel suédois est né d'une prise de parole d'Olof Palme à Visby, en 1968 ?",
+    "choix": [
+      "L'Almedalen",
+      "Le Riksdagsdagen",
+      "Le Forum de Stockholm",
+      "La Semaine nordique"
+    ],
+    "bonneReponse": 0,
+    "explication": "En vacances à Gotland en 1968, Palme s'adresse aux électeurs au milieu d'un parc de Visby. Ce moment donne naissance à l'Almedalen, une sorte d'université d'été politique où partis, syndicats et entreprises prennent la parole chaque année, en été.",
+    "source": "D'après Wikipédia — Olof Palme"
+  },
+  {
+    "id": "q-politique-140",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quelle particularité marque le prix Nobel de la paix reçu par Dag Hammarskjöld en 1961 ?",
+    "choix": [
+      "Il lui est décerné à titre posthume",
+      "Il le partage avec Trygve Lie",
+      "Il le refuse officiellement",
+      "Il est le plus jeune lauréat de l'histoire"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dag Hammarskjöld meurt le 18 septembre 1961 dans un accident d'avion en Rhodésie du Nord. La même année, le Nobel de la paix lui est attribué, après sa mort. Il reste le seul lauréat de ce prix à l'avoir reçu à titre posthume.",
+    "source": "D'après Wikipédia — Dag Hammarskjöld"
+  },
+  {
+    "id": "q-politique-141",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "À partir de combien de signatures une pétition peut-elle saisir le Conseil économique, social et environnemental ?",
+    "choix": [
+      "150 000",
+      "10 000",
+      "500 000",
+      "1 million"
+    ],
+    "bonneReponse": 0,
+    "explication": "Depuis la révision de 2008, une pétition signée par au moins 150 000 personnes de seize ans ou plus, françaises ou résidant en France, peut saisir le CESE. Le Conseil se prononce alors par un avis dans un délai de six mois.",
+    "source": "D'après Wikipédia — Conseil économique, social et environnemental"
+  },
+  {
+    "id": "q-politique-142",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "L'article 16 de la Constitution de 1958 contient, depuis l'origine, une faute d'accord grammatical.",
+    "reponse": true,
+    "explication": "Vrai. L'article 16 dit que les institutions sont « menacés » quand un danger les guette, alors que le mot se rapporte à des noms féminins et devrait s'écrire « menacées ». Selon les publications, la faute est corrigée ou laissée telle quelle.",
+    "source": "D'après Wikipédia — Constitution française du 4 octobre 1958"
+  },
+  {
+    "id": "q-politique-143",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Combien de fois Michel Rocard a-t-il engagé la responsabilité de son gouvernement par le 49.3, entre 1988 et 1991 ?",
+    "choix": [
+      "Vingt-huit fois",
+      "Huit fois",
+      "Quinze fois",
+      "Quarante-neuf fois"
+    ],
+    "bonneReponse": 0,
+    "explication": "Michel Rocard, qui n'avait qu'une majorité relative à l'Assemblée, a utilisé le 49.3 vingt-huit fois entre 1988 et 1991. Depuis 1958, on compte une centaine d'engagements de responsabilité. La révision de 2008 a ensuite limité cet usage.",
+    "source": "D'après Wikipédia — Article 49 alinéa 3 de la Constitution de la Cinquième République française"
+  },
+  {
+    "id": "q-politique-144",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Depuis la révision de 2008, le gouvernement peut utiliser le 49.3 sans aucune limite sur n'importe quel texte.",
+    "reponse": false,
+    "explication": "Faux. Depuis 2008, un seul texte ordinaire par session parlementaire peut être adopté ainsi. L'usage reste illimité uniquement pour les lois de finances et de financement de la Sécurité sociale, afin d'éviter un blocage du budget.",
+    "source": "D'après Wikipédia — Article 49 alinéa 3 de la Constitution de la Cinquième République française"
+  },
+  {
+    "id": "q-politique-145",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Combien de régions la France métropolitaine compte-t-elle depuis la réforme entrée en vigueur le 1er janvier 2016 ?",
+    "choix": [
+      "Treize",
+      "Vingt-deux",
+      "Dix-huit",
+      "Neuf"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une loi de 2014 a ramené de vingt-deux à treize le nombre de régions métropolitaines, Corse comprise. Avec les cinq régions d'outre-mer, la France compte dix-huit régions. Les premières élections régionales au suffrage direct dataient de 1986.",
+    "source": "D'après Wikipédia — Région française"
+  },
+  {
+    "id": "q-politique-146",
+    "domain": "politique",
+    "format": "frise",
+    "question": "Remets ces moments de l'histoire de la dissolution en France dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "La charte de 1814 permet au roi de dissoudre la Chambre des députés",
+        "annee": "1814"
+      },
+      {
+        "label": "Charles X signe les ordonnances de Saint-Cloud, dont une dissolution",
+        "annee": "1830"
+      },
+      {
+        "label": "La crise du 16 mai rend la dissolution odieuse aux républicains",
+        "annee": "1877"
+      },
+      {
+        "label": "Seule dissolution de la IVe République",
+        "annee": "1955"
+      },
+      {
+        "label": "Seule dissolution de la Ve République pour régler un conflit avec le Parlement",
+        "annee": "1962"
+      }
+    ],
+    "explication": "La dissolution parlementaire naît avec la charte de 1814. Charles X en fait un outil autoritaire en 1830. Après la crise du 16 mai 1877, on n'en use plus sous la IIIe République. La IVe n'en connaît qu'une, en 1955 ; la Ve s'en sert en 1962 face au Parlement.",
+    "source": "D'après Wikipédia — Dissolution de l'Assemblée nationale (France)"
+  },
+  {
+    "id": "q-politique-147",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "En 1986, quel président de la République refuse de signer trois ordonnances du gouvernement de Jacques Chirac ?",
+    "choix": [
+      "François Mitterrand",
+      "Valéry Giscard d'Estaing",
+      "Georges Pompidou",
+      "Charles de Gaulle"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pendant la cohabitation, François Mitterrand refuse de signer trois ordonnances sur les privatisations, le découpage électoral et le temps de travail. Le gouvernement doit alors passer par la procédure législative normale devant le Parlement.",
+    "source": "D'après Wikipédia — Ordonnance en droit constitutionnel français"
+  },
+  {
+    "id": "q-politique-148",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Depuis 2008, une ordonnance ne peut être ratifiée par le Parlement que de manière expresse.",
+    "reponse": true,
+    "explication": "Vrai. La révision constitutionnelle du 23 juillet 2008 a mis fin aux ratifications implicites que les juges acceptaient auparavant. Une ordonnance ne prend valeur de loi que si le Parlement la ratifie explicitement, par un vote.",
+    "source": "D'après Wikipédia — Ordonnance en droit constitutionnel français"
+  },
+  {
+    "id": "q-politique-149",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quelles juridictions filtrent les questions prioritaires de constitutionnalité avant qu'elles n'atteignent le Conseil constitutionnel ?",
+    "choix": [
+      "Le Conseil d'État et la Cour de cassation",
+      "La Cour des comptes et le Conseil d'État",
+      "Le Parlement et le Sénat",
+      "Les tribunaux de première instance"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le juge du procès ne saisit pas lui-même le Conseil constitutionnel : il transmet la question au Conseil d'État ou à la Cour de cassation, selon son ordre de juridiction. Ces deux juridictions décident de la renvoyer ou non.",
+    "source": "D'après Wikipédia — Question prioritaire de constitutionnalité"
+  },
+  {
+    "id": "q-politique-150",
+    "domain": "politique",
+    "format": "associer",
+    "question": "Associe chaque institution à son ancêtre ou à son prédécesseur.",
+    "paires": [
+      {
+        "gauche": "Le CESE",
+        "droite": "Le Conseil national économique",
+        "explication": "Créé par décret en 1925, supprimé sous Vichy, remplacé après la guerre."
+      },
+      {
+        "gauche": "Le Défenseur des droits",
+        "droite": "Le Médiateur de la République",
+        "explication": "Le Médiateur disparaît quand naît le Défenseur des droits."
+      },
+      {
+        "gauche": "La Cour de cassation",
+        "droite": "Le Conseil des parties du Conseil du Roi",
+        "explication": "Cette section du Conseil du Roi contrôlait les décisions des Parlements."
+      },
+      {
+        "gauche": "La région",
+        "droite": "Les circonscriptions d'action régionale",
+        "explication": "Ce découpage technique sert de base aux régions actuelles."
+      }
+    ],
+    "explication": "Ces institutions ont toutes des racines plus anciennes que leur forme actuelle : décret de 1925, Médiateur de la République, Conseil du Roi de l'Ancien Régime, découpage de l'aménagement du territoire. Les institutions se transforment souvent plus qu'elles ne naissent.",
+    "source": "D'après Wikipédia — Conseil économique, social et environnemental"
+  },
+  {
+    "id": "q-politique-151",
+    "domain": "politique",
+    "format": "difference",
+    "question": "Quelle est la différence entre une cour d'appel et la Cour de cassation ?",
+    "choix": [
+      "La cour d'appel rejuge les faits, la Cour de cassation vérifie seulement l'application du droit",
+      "La cour d'appel juge les affaires pénales, la Cour de cassation les affaires civiles",
+      "La cour d'appel est une juridiction administrative, la Cour de cassation une juridiction judiciaire",
+      "La cour d'appel juge en premier, la Cour de cassation juge en dernier mais sur les mêmes bases"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Cour de cassation est le « juge du droit » : elle ne rediscute pas les faits, et vérifie que la loi a été correctement appliquée. Elle casse la décision ou rejette le pourvoi. Les faits peuvent être rejugés en appel, pas en cassation.",
+    "source": "D'après Wikipédia — Cour de cassation (France)"
+  },
+  {
+    "id": "q-politique-152",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Combien de départements l'Assemblée constituante crée-t-elle en 1790 ?",
+    "choix": [
+      "83",
+      "58",
+      "101",
+      "130"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 26 février 1790, on décide de 83 départements, effectifs dès le 4 mars. Les conquêtes napoléoniennes en porteront le nombre à 130, puis la France en comptera 101 après l'arrivée de Mayotte en 2011.",
+    "source": "D'après Wikipédia — Département français"
+  },
+  {
+    "id": "q-politique-153",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Pourquoi la plupart des départements portent-ils le nom d'un fleuve ou d'une montagne ?",
+    "choix": [
+      "Pour éviter les noms des anciennes provinces et leurs loyautés",
+      "Pour honorer les grands généraux de la Révolution",
+      "Pour faciliter le travail des cartographes de l'Empire",
+      "Pour reprendre le nom des diocèses de l'Église"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les révolutionnaires voulaient effacer l'ancien vocabulaire et les identités provinciales. Ils ont donc choisi des repères géographiques : rivières, massifs, côtes. Paris elle-même se trouvait dans le département de la Seine.",
+    "source": "D'après Wikipédia — Département français"
+  },
+  {
+    "id": "q-politique-154",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quelle loi de 1992 a créé les communautés de communes ?",
+    "choix": [
+      "La loi du 6 février 1992",
+      "La loi Notre de 2015",
+      "La loi du 22 mars 1890",
+      "La loi du 5 janvier 1959"
+    ],
+    "bonneReponse": 0,
+    "explication": "La loi du 6 février 1992 introduit une intercommunalité fondée sur la libre association des communes. Elle lance aussi les communautés de villes, formule qui a peu séduit : cinq seulement verront le jour.",
+    "source": "D'après Wikipédia — Intercommunalité en France"
+  },
+  {
+    "id": "q-politique-155",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Le mot municipalité vient d'un terme latin qui désignait des communautés fournissant des soldats à Rome.",
+    "reponse": true,
+    "explication": "Le municipium désignait des communautés latines qui envoyaient des soldats à Rome. En échange, leurs habitants devenaient citoyens romains tout en gardant un gouvernement local, avec une autonomie limitée.",
+    "source": "D'après Wikipédia — Conseil municipal"
+  },
+  {
+    "id": "q-politique-156",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "En quelle année a eu lieu la première élection présidentielle française au suffrage universel direct de la Ve République ?",
+    "choix": [
+      "1965",
+      "1958",
+      "1969",
+      "1974"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après la réforme adoptée par référendum en 1962, l'élection de 1965 est la première où les citoyens choisissent directement le président, avec une majorité absolue requise. Auparavant, un collège d'environ 80 000 élus le désignait.",
+    "source": "D'après Wikipédia — Élection présidentielle en France"
+  },
+  {
+    "id": "q-politique-157",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Combien de parrainages d'élus un candidat à l'élection présidentielle doit-il réunir ?",
+    "choix": [
+      "500",
+      "100",
+      "1 000",
+      "50"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le seuil est de 500 parrainages, réparties sur au moins trente territoires, avec un dixième au plus pour un seul. Il avait été relevé à ce niveau en 1976, contre 100 auparavant. Chaque élu ne peut en donner qu'un.",
+    "source": "D'après Wikipédia — Élection présidentielle en France"
+  },
+  {
+    "id": "q-politique-158",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Avant la Ve République, le seul président élu directement par les citoyens a été Louis-Napoléon Bonaparte, en 1848.",
+    "reponse": true,
+    "explication": "Sous la IIe République, Louis-Napoléon Bonaparte obtient plus de 74 % des voix. Un coup d'État, fin 1851, empêche l'élection suivante, prévue en 1852. Aux IIIe et IVe Républiques, le président est choisi par les parlementaires.",
+    "source": "D'après Wikipédia — Élection présidentielle en France"
+  },
+  {
+    "id": "q-politique-159",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "En quelle année les Français ont-ils voté par référendum pour ramener le mandat présidentiel de sept à cinq ans ?",
+    "choix": [
+      "2000",
+      "1995",
+      "2002",
+      "2008"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le référendum du 24 septembre 2000 institue le quinquennat. Il s'applique dès l'élection de 2002. La révision de 2008, elle, limite le nombre de mandats consécutifs à deux. Avant, rien ne bornait leur nombre.",
+    "source": "D'après Wikipédia — Élection présidentielle en France"
+  },
+  {
+    "id": "q-politique-160",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Contre quel palais Louis XVIII a-t-il échangé l'hôtel de Matignon en 1816 ?",
+    "choix": [
+      "Le palais de l'Élysée",
+      "Le palais du Luxembourg",
+      "Le palais Bourbon",
+      "Le palais des Tuileries"
+    ],
+    "bonneReponse": 0,
+    "explication": "Napoléon avait acquis Matignon en 1811. À la Restauration, Louis XVIII l'échange avec la duchesse de Bourbon contre l'Élysée. Les deux lieux de pouvoir actuels ont donc, un temps, changé de mains.",
+    "source": "D'après Wikipédia — Hôtel de Matignon"
+  },
+  {
+    "id": "q-politique-161",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Pourquoi de Gaulle a-t-il fait acheter l'hôtel de Marigny, en face de l'Élysée ?",
+    "choix": [
+      "Pour loger les chefs d'État étrangers en visite",
+      "Pour y installer les bureaux du Conseil des ministres",
+      "Pour y loger sa famille",
+      "Pour agrandir les jardins du palais"
+    ],
+    "bonneReponse": 0,
+    "explication": "De Gaulle trouvait l'Élysée trop dépourvu d'intimité. Il voulait un lieu où recevoir les souverains étrangers, expliquant qu'il n'aimait pas les croiser en pyjama dans ses couloirs. L'hôtel de Marigny sert encore à cela.",
+    "source": "D'après Wikipédia — Palais de l'Élysée"
+  },
+  {
+    "id": "q-politique-162",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Pour qui le palais Bourbon a-t-il été construit à partir de 1722 ?",
+    "choix": [
+      "Pour une fille légitimée de Louis XIV",
+      "Pour le roi Louis XV",
+      "Pour Napoléon Bonaparte",
+      "Pour un banquier du Régent"
+    ],
+    "bonneReponse": 0,
+    "explication": "Louise-Françoise de Bourbon, enfant de Louis XIV et de sa favorite Madame de Montespan, fait bâtir ce palais, achevé en 1728. Il est devenu bien national à la Révolution, puis le siège de l'Assemblée.",
+    "source": "D'après Wikipédia — Palais Bourbon"
+  },
+  {
+    "id": "q-politique-163",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Lors de la crue de la Seine de 1910, les députés ont dû suspendre leurs séances car l'hémicycle était inondé.",
+    "reponse": false,
+    "explication": "L'hémicycle est surélevé par rapport au reste du palais. En 1910, il est donc resté au sec et les députés ont pu continuer à siéger, tandis que la Seine envahissait les alentours du palais.",
+    "source": "D'après Wikipédia — Palais Bourbon"
+  },
+  {
+    "id": "q-politique-164",
+    "domain": "politique",
+    "format": "associer",
+    "question": "Associe chaque lieu de pouvoir parisien à l'institution qu'il abrite.",
+    "paires": [
+      {
+        "gauche": "Le palais de l'Élysée",
+        "droite": "La présidence de la République",
+        "explication": "Le chef de l'État y travaille et y préside le Conseil des ministres chaque semaine."
+      },
+      {
+        "gauche": "L'hôtel de Matignon",
+        "droite": "Le Premier ministre",
+        "explication": "Résidence et lieu de travail du chef du gouvernement depuis les années 1930."
+      },
+      {
+        "gauche": "Le palais Bourbon",
+        "droite": "L'Assemblée nationale",
+        "explication": "Les députés y débattent dans un hémicycle surélevé, en forme de demi-cercle."
+      },
+      {
+        "gauche": "Le palais du Luxembourg",
+        "droite": "Le Sénat",
+        "explication": "Bâti pour Marie de Médicis, il accueille la chambre haute depuis 1799."
+      }
+    ],
+    "explication": "Les quatre grands lieux de pouvoir parisiens ont d'abord été des demeures aristocratiques, devenues bien nationaux ou propriétés de l'État. Ils servent chacun une institution différente depuis le XIXe ou le XXe siècle.",
+    "source": "D'après Wikipédia — Palais du Luxembourg"
+  },
+  {
+    "id": "q-politique-165",
+    "domain": "politique",
+    "format": "qui-suis-je",
+    "indices": [
+      "En 2012, je compte 120 États, soit près des deux tiers des membres de l'ONU.",
+      "Mon siège se trouve à Lusaka, en Zambie.",
+      "Tito, Nasser et Nehru comptent parmi mes pères fondateurs.",
+      "Je suis né pendant la guerre froide, avec un premier sommet à Belgrade en 1961.",
+      "Mon nom exprime le refus de choisir entre le bloc de l'Est et celui de l'Ouest."
+    ],
+    "reponse": "Le mouvement des non-alignés",
+    "explication": "Le mouvement naît de la conférence de Bandung (1955) et de la déclaration de Brioni (1956), puis tient son premier sommet à Belgrade en septembre 1961. Il refuse de s'aligner sur Washington comme sur Moscou.",
+    "source": "D'après Wikipédia — Mouvement des non-alignés"
+  },
+  {
+    "id": "q-politique-166",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Le drapeau européen aux douze étoiles a été créé en 1955 pour le Conseil de l'Europe, avant d'être adopté par l'Union européenne.",
+    "reponse": true,
+    "explication": "Le Conseil de l'Europe a dessiné cet emblème en 1955. L'Union européenne l'a repris, avec l'hymne. Cette confusion entre les deux organisations est fréquente, alors qu'elles sont bien distinctes.",
+    "source": "D'après Wikipédia — Conseil de l'Europe"
+  },
+  {
+    "id": "q-politique-167",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Depuis 2010, pour combien de temps un juge de la Cour de Strasbourg est-il élu ?",
+    "choix": [
+      "Neuf ans, sans renouvellement",
+      "Six ans, renouvelables",
+      "Douze ans, renouvelables",
+      "À vie, jusqu'à 70 ans"
+    ],
+    "bonneReponse": 0,
+    "explication": "Depuis le protocole 14, entré en vigueur le 1er juin 2010, le mandat est de neuf ans non renouvelable. Auparavant, il durait six ans et pouvait être renouvelé. La limite d'âge reste fixée à 70 ans.",
+    "source": "D'après Wikipédia — Cour européenne des droits de l'homme"
+  },
+  {
+    "id": "q-politique-168",
+    "domain": "politique",
+    "format": "frise",
+    "question": "Remets ces arrivées dans l'ASEAN dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Brunei rejoint l'association",
+        "annee": "1984"
+      },
+      {
+        "label": "Le Vietnam entre dans l'ASEAN",
+        "annee": "1995"
+      },
+      {
+        "label": "Le Laos et la Birmanie adhèrent",
+        "annee": "1997"
+      },
+      {
+        "label": "Le Cambodge devient membre",
+        "annee": "1999"
+      },
+      {
+        "label": "Le Timor oriental devient le onzième membre",
+        "annee": "2025"
+      }
+    ],
+    "explication": "L'ASEAN, fondée par cinq pays en 1967, s'élargit à Brunei en 1984 puis aux anciens voisins communistes dans les années 1990. Le Timor oriental, onzième membre, la rejoint en octobre 2025.",
+    "source": "D'après Wikipédia — Association des nations de l'Asie du Sud-Est"
+  },
+  {
+    "id": "q-politique-169",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Pourquoi la force de l'ONU envoyée à Suez en 1956 n'a-t-elle pas été formée surtout de soldats canadiens ?",
+    "choix": [
+      "L'Égypte doutait de la neutralité de troupes d'un pays du Commonwealth",
+      "Le Canada n'avait pas assez de soldats disponibles",
+      "Le Conseil de sécurité l'avait interdit par un veto",
+      "Les Canadiens préféraient envoyer des civils"
+    ],
+    "bonneReponse": 0,
+    "explication": "Lester Pearson avait proposé une force canadienne, mais l'Égypte la jugeait trop liée au Commonwealth. Dag Hammarskjöld a donc bâti une force multinationale, qui a servi de modèle aux Casques bleus suivants.",
+    "source": "D'après Wikipédia — Force de maintien de la paix des Nations unies"
+  },
+  {
+    "id": "q-politique-170",
+    "domain": "politique",
+    "format": "difference",
+    "question": "Quelle est la différence entre la politique étrangère et la diplomatie ?",
+    "choix": [
+      "La politique étrangère fixe les grands choix d'un État, la diplomatie les met en œuvre par ses diplomates",
+      "La politique étrangère concerne la guerre, la diplomatie le commerce",
+      "La politique étrangère est menée par les ambassadeurs, la diplomatie par le chef de l'État",
+      "Il n'y en a aucune : ce sont deux mots pour la même chose"
+    ],
+    "bonneReponse": 0,
+    "explication": "La politique étrangère regroupe les choix stratégiques des plus hautes autorités, comme le chef de l'État ou le ministre des Affaires étrangères. La diplomatie applique ces choix sur le terrain, par les diplomates et les négociations.",
+    "source": "D'après Wikipédia — Diplomatie"
+  },
+  {
+    "id": "q-politique-171",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Qui installe en 1455 la première mission diplomatique permanente de l'histoire, auprès de la république de Gênes ?",
+    "choix": [
+      "Francesco Sforza, duc de Milan",
+      "Laurent de Médicis, seigneur de Florence",
+      "Le doge de Venise",
+      "Le pape Nicolas V"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dès 1455, Francesco Sforza, qui gouverne Milan, envoie auprès de Gênes une mission qui y reste en place. La plupart des souverains d'Italie, puis d'Europe, l'imitent ensuite : l'ambassade permanente est née.",
+    "source": "D'après Wikipédia — Diplomatie"
+  },
+  {
+    "id": "q-politique-172",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Dans quel livre de 1990, écrit en réponse aux thèses sur le déclin américain, Joseph Nye propose-t-il l'idée de soft power ?",
+    "choix": [
+      "Bound to Lead",
+      "Naissance et déclin des grandes puissances",
+      "Le Choc des civilisations",
+      "La Fin de l'histoire"
+    ],
+    "bonneReponse": 0,
+    "explication": "Joseph Nye lance l'expression dans Bound to Lead, en 1990. Il répond notamment à Paul Kennedy, auteur de Naissance et déclin des grandes puissances, en soutenant que les États-Unis disposent aussi d'une force d'attraction.",
+    "source": "D'après Wikipédia — Soft power"
+  },
+  {
+    "id": "q-politique-173",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Selon Joseph Nye, seuls les États peuvent exercer un soft power.",
+    "reponse": false,
+    "explication": "Pour Nye, ONG, entreprises multinationales et institutions internationales peuvent aussi influencer par l'attraction plutôt que par la contrainte. Le soft power repose sur la culture, les valeurs politiques et la politique étrangère.",
+    "source": "D'après Wikipédia — Soft power"
+  },
+  {
+    "id": "q-politique-174",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel surnom Louis XVI reçoit-il lorsque la Constituante lui accorde un droit de veto suspensif ?",
+    "choix": [
+      "Monsieur Veto",
+      "Le Roi-Citoyen",
+      "Louis le Suspensif",
+      "Le Gardien de la Loi"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le veto suspensif, adopté en septembre 1789 et confirmé par la Constitution de 1791, lui vaut le surnom de « Monsieur Veto ». Louis XVI s'en sert cinq fois, notamment contre des décrets sur les émigrés et les prêtres.",
+    "source": "D'après Wikipédia — Veto"
+  },
+  {
+    "id": "q-politique-175",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Dans la Pologne des XVIIe et XVIIIe siècles, que pouvait faire un seul député pour bloquer la Diète ?",
+    "choix": [
+      "Crier « liberum veto », ce qui annulait la séance et ses décisions",
+      "Quitter la salle, ce qui privait l'assemblée de quorum",
+      "Demander l'avis du roi, qui tranchait seul",
+      "Voter contre trois fois de suite"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les lois exigeaient l'unanimité : un seul « liberum veto » faisait tomber la séance et les décisions déjà prises. Ce blocage, de plus en plus fréquent, a paralysé l'État polonais avant son démembrement.",
+    "source": "D'après Wikipédia — Veto"
+  },
+  {
+    "id": "q-politique-176",
+    "domain": "politique",
+    "format": "qui-suis-je",
+    "indices": [
+      "On me traduit souvent à tort par « sois maître de ton corps ».",
+      "En réalité, je m'adresse au geôlier, qui doit présenter le détenu devant une cour.",
+      "Ma première loi précise date de 1679, sous Charles II.",
+      "Aux États-Unis, la Constitution ne permet de me suspendre qu'en cas de rébellion ou d'invasion."
+    ],
+    "reponse": "L'habeas corpus",
+    "explication": "L'habeas corpus oblige à présenter une personne détenue devant un juge, qui vérifie la légalité de sa détention. Né en Angleterre, il est codifié par la loi de 1679 et garanti par la Constitution américaine.",
+    "source": "D'après Wikipédia — Habeas corpus"
+  },
+  {
+    "id": "q-politique-177",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel thème de l'Acte final d'Helsinki de 1975 est repris par les dissidents de l'Est pour réclamer des libertés ?",
+    "choix": [
+      "Les droits de l'homme",
+      "Le désarmement nucléaire",
+      "La liberté du commerce",
+      "La neutralité de l'Allemagne"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les pays de l'Est cherchaient surtout à faire reconnaître leurs frontières. Mais l'insistance du texte sur les droits de l'homme a été exploitée par les mouvements dissidents, ce qui a pesé dans la chute des régimes communistes.",
+    "source": "D'après Wikipédia — Conférence sur la sécurité et la coopération en Europe"
+  },
+  {
+    "id": "q-politique-178",
+    "domain": "politique",
+    "format": "frise",
+    "question": "Remets ces étapes de la CSCE dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Les Occidentaux rejettent la proposition soviétique d'une conférence",
+        "annee": "1954"
+      },
+      {
+        "label": "Signature de l'accord quadripartite sur Berlin",
+        "annee": "1971"
+      },
+      {
+        "label": "Signature de l'Acte final d'Helsinki",
+        "annee": "1975"
+      },
+      {
+        "label": "Charte de Paris pour une nouvelle Europe",
+        "annee": "1990"
+      },
+      {
+        "label": "La CSCE devient l'OSCE au sommet de Budapest",
+        "annee": "1994"
+      }
+    ],
+    "explication": "Proposée par Moscou dès 1954, la conférence n'est acceptée qu'après l'accord sur Berlin de 1971. Elle aboutit à Helsinki en 1975 et devient, après la Charte de Paris de 1990, l'OSCE en 1994.",
+    "source": "D'après Wikipédia — Conférence sur la sécurité et la coopération en Europe"
+  },
+  {
+    "id": "q-politique-179",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel compromis de la convention de 1787 explique que chaque État américain ait deux sénateurs, quelle que soit sa population ?",
+    "choix": [
+      "Le compromis du Connecticut",
+      "Le plan du New Jersey",
+      "Le compromis des trois-cinquièmes",
+      "Le plan de la Virginie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le « grand compromis », ou compromis du Connecticut, donne une Chambre élue selon la population et un Sénat où chaque État est égal. Il débloque la convention de Philadelphie, bloquée trois semaines entre grands et petits États.",
+    "source": "D'après Wikipédia — Congrès des États-Unis"
+  },
+  {
+    "id": "q-politique-180",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel arrêt de 1803 a donné à la Cour suprême des États-Unis le pouvoir de contrôler la constitutionnalité des lois ?",
+    "choix": [
+      "Marbury v. Madison",
+      "Brown v. Board of Education",
+      "McCulloch v. Maryland",
+      "Dred Scott v. Sandford"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ce pouvoir ne figure pas dans la Constitution : la Cour se l'attribue elle-même en 1803 dans Marbury v. Madison. Thomas Jefferson y voyait une manière de faire de la Constitution un objet de cire entre les mains des juges.",
+    "source": "D'après Wikipédia — Cour suprême des États-Unis"
+  },
+  {
+    "id": "q-politique-181",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Sous quel pseudonyme Hamilton, Madison et Jay ont-ils publié Le Fédéraliste pour défendre la Constitution ?",
+    "choix": [
+      "Publius",
+      "Cato",
+      "Brutus",
+      "Junius"
+    ],
+    "bonneReponse": 0,
+    "explication": "Alexander Hamilton, James Madison et John Jay signent leurs articles « Publius » dans la presse, pendant la ratification de 1787-1788. Leur interprétation de la Constitution fait depuis autorité.",
+    "source": "D'après Wikipédia — Constitution des États-Unis"
+  },
+  {
+    "id": "q-politique-182",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "De combien de voix un candidat a-t-il besoin au collège électoral américain pour être élu président ?",
+    "choix": [
+      "270",
+      "269",
+      "300",
+      "435"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le collège électoral compte 538 grands électeurs, depuis 1964. La majorité absolue est de 270 voix, soit la moitié plus un. Faute de majorité, c'est la Chambre des représentants qui élit le président.",
+    "source": "D'après Wikipédia — Collège électoral des États-Unis"
+  },
+  {
+    "id": "q-politique-183",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quelle menace pousse la Chambre des lords à voter le Parliament Act de 1911, qui limite ses pouvoirs ?",
+    "choix": [
+      "La nomination de plusieurs centaines de pairs libéraux, promise en secret par le roi",
+      "La suppression pure et simple de la chambre par référendum",
+      "Une grève générale des députés",
+      "L'arrivée de l'armée à Westminster"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Premier ministre Asquith révèle que le roi a promis de nommer des centaines de pairs libéraux pour balayer la majorité conservatrice des Lords. Face à cette menace, ils cèdent et ne peuvent plus bloquer un budget.",
+    "source": "D'après Wikipédia — Parlement du Royaume-Uni"
+  },
+  {
+    "id": "q-politique-184",
+    "domain": "politique",
+    "format": "associer",
+    "question": "Associe chaque assemblée au détail qui la caractérise.",
+    "paires": [
+      {
+        "gauche": "La Douma",
+        "droite": "Son nom vient d'un verbe qui signifie « penser »",
+        "explication": "Douma est de la même famille que le verbe russe dumat', « penser »."
+      },
+      {
+        "gauche": "Le Bundestag",
+        "droite": "Il siège dans le palais du Reichstag, à Berlin, depuis 1999",
+        "explication": "Auparavant, les députés fédéraux se réunissaient à Bonn."
+      },
+      {
+        "gauche": "La Chambre des communes",
+        "droite": "Elle est dirigée par un président appelé Speaker",
+        "explication": "Le Speaker, élu par les députés, reste au-dessus des partis."
+      },
+      {
+        "gauche": "Le Congrès américain",
+        "droite": "Il compte deux sénateurs par État",
+        "explication": "Le Sénat donne à chaque État le même poids, quelle que soit sa population."
+      }
+    ],
+    "explication": "Quatre assemblées, quatre particularités : l'étymologie russe de la Douma, le retour du Bundestag dans le Reichstag, le Speaker des Communes et l'égalité des États au Sénat américain.",
+    "source": "D'après Wikipédia — Bundestag"
+  },
+  {
+    "id": "q-politique-185",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel architecte irlandais remporte en 1792 le concours pour la résidence du président des États-Unis ?",
+    "choix": [
+      "James Hoban",
+      "Pierre Charles L'Enfant",
+      "Benjamin Henry Latrobe",
+      "Andrea Palladio"
+    ],
+    "bonneReponse": 0,
+    "explication": "Neuf projets sont soumis, dont un de Jefferson sous couvert d'anonymat. Le 16 juillet 1792, George Washington retient celui de James Hoban, un Irlandais de Charleston, inspiré notamment de Leinster House, à Dublin.",
+    "source": "D'après Wikipédia — Maison-Blanche"
+  },
+  {
+    "id": "q-politique-186",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Le mot « kremlin » désigne uniquement la forteresse de Moscou.",
+    "reponse": false,
+    "explication": "Un kremlin est la citadelle d'une ancienne ville russe : Novgorod, Kazan ou Souzdal ont chacune le leur. Celui de Moscou est le plus célèbre, et le mot sert aussi à désigner, par extension, le pouvoir qui y siège.",
+    "source": "D'après Wikipédia — Kremlin"
+  },
+  {
+    "id": "q-politique-187",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Le Bundestag allemand peut se dissoudre lui-même quand il le souhaite.",
+    "reponse": false,
+    "explication": "Le Bundestag ne peut pas se dissoudre seul : seul le président fédéral peut le faire, dans des cas précis, par exemple après un vote de confiance refusé au chancelier, comme en 1972 et en 1982.",
+    "source": "D'après Wikipédia — Bundestag"
+  },
+  {
+    "id": "q-politique-188",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Qui le Parlement anglais appelle-t-il sur le trône, avec Marie II, après la fuite de Jacques II en 1688 ?",
+    "choix": [
+      "Guillaume III d'Orange",
+      "Charles II",
+      "Louis XIV",
+      "Jacques Édouard Stuart"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le prince néerlandais Guillaume d'Orange, gendre de Jacques II, débarque en novembre 1688. Une convention leur offre conjointement le trône, et en février 1689 ils contresignent la Déclaration des droits.",
+    "source": "D'après Wikipédia — Glorieuse Révolution"
+  },
+  {
+    "id": "q-politique-189",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quand l'expression « Printemps des peuples » apparaît-elle en français ?",
+    "choix": [
+      "En 1948, dans un ouvrage dirigé par François Fejtő",
+      "En 1848, pendant les révolutions elles-mêmes",
+      "En 1871, après la Commune de Paris",
+      "En 1919, après la Première Guerre mondiale"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'expression n'est pas contemporaine des événements : elle apparaît en 1948, un siècle plus tard, comme titre d'un livre placé sous la direction de l'historien François Fejtő sur les révolutions de 1848, qui ont touché plus de cinquante pays.",
+    "source": "D'après Wikipédia — Printemps des peuples"
+  },
+  {
+    "id": "q-politique-190",
+    "domain": "politique",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire du droit de vote des femmes dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "La Nouvelle-Zélande adopte le suffrage incluant les femmes",
+        "annee": "1893"
+      },
+      {
+        "label": "La Finlande adopte un suffrage sans restriction de sexe",
+        "annee": "1906"
+      },
+      {
+        "label": "Les États-Unis ratifient le XIXe amendement",
+        "annee": "1920"
+      },
+      {
+        "label": "Les Françaises obtiennent le droit de vote",
+        "annee": "1944"
+      },
+      {
+        "label": "Les Suissesses votent au niveau fédéral",
+        "annee": "1971"
+      }
+    ],
+    "explication": "La Nouvelle-Zélande ouvre la voie en 1893, la Finlande suit en 1906, les États-Unis ratifient le XIXe amendement en 1920, la France attend 1944 et la Suisse accorde le vote fédéral aux femmes en 1971.",
+    "source": "D'après Wikipédia — Droit de vote des femmes"
+  },
+  {
+    "id": "q-politique-191",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Qui affronte Charles de Gaulle au second tour de la présidentielle de 1965 ?",
+    "choix": [
+      "François Mitterrand",
+      "Jean Lecanuet",
+      "Gaston Defferre",
+      "Pierre Mendès France"
+    ],
+    "bonneReponse": 0,
+    "explication": "Mis en ballottage avec 44,6 % au premier tour, de Gaulle affronte François Mitterrand, candidat de la gauche unie (31,7 % au premier tour). Il est réélu le 19 décembre 1965 avec 55,2 % des suffrages exprimés.",
+    "source": "D'après Wikipédia — Élection présidentielle française de 1965"
+  },
+  {
+    "id": "q-politique-192",
+    "domain": "politique",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je vis au XVIe siècle, pendant les guerres de religion en France.",
+      "Je plaide pour une autorité centrale forte.",
+      "Mon œuvre majeure paraît en 1576.",
+      "Elle s'intitule Les Six Livres de la République.",
+      "Je suis le premier à définir formellement la souveraineté."
+    ],
+    "reponse": "Jean Bodin",
+    "explication": "Jean Bodin définit la souveraineté dans Les Six Livres de la République (1576), en partie en réaction au chaos des guerres de religion. Hobbes, Rousseau, Hegel et Marx reprendront ensuite le concept.",
+    "source": "D'après Wikipédia — Souveraineté"
+  },
+  {
+    "id": "q-politique-193",
+    "domain": "politique",
+    "format": "difference",
+    "question": "Quelle est la différence entre souveraineté populaire et souveraineté nationale ?",
+    "choix": [
+      "Dans la première, chaque citoyen détient une part de souveraineté et ses élus sont révocables ; dans la seconde, elle appartient à la nation abstraite, représentée tout entière par les élus",
+      "Dans la première, la souveraineté appartient à l'État ; dans la seconde, elle appartient au roi",
+      "La première concerne les monarchies et la seconde les républiques",
+      "La première vient de Sieyès et la seconde de Rousseau, mais elles ont le même sens"
+    ],
+    "bonneReponse": 0,
+    "explication": "Rousseau défend la souveraineté populaire, où chaque citoyen détient une part de pouvoir. Sieyès défend la souveraineté nationale : la nation, entité abstraite incluant citoyens passés et futurs, est représentée par ses élus.",
+    "source": "D'après Wikipédia — Souveraineté"
+  },
+  {
+    "id": "q-politique-194",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Sur quoi repose la légitimité « charismatique » selon Max Weber ?",
+    "choix": [
+      "Sur le prestige ou l'héroïsme reconnu à une personne",
+      "Sur les coutumes et les traditions anciennes",
+      "Sur le respect du droit et des procédures",
+      "Sur la richesse de celui qui gouverne"
+    ],
+    "bonneReponse": 0,
+    "explication": "Weber distingue trois formes : traditionnelle (coutumes), charismatique (prestige ou héroïsme d'un individu) et rationnelle-légale (respect du Droit). Un pouvoir charismatique disparaît souvent avec son chef.",
+    "source": "D'après Wikipédia — Légitimité (sciences sociales)"
+  },
+  {
+    "id": "q-politique-195",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Jusqu'en 1975, les Français naturalisés ne pouvaient pas voter pendant plusieurs années après l'obtention de la nationalité.",
+    "reponse": true,
+    "explication": "Jusqu'en 1975, ils ne pouvaient exercer ni le droit de vote ni l'éligibilité pendant 5 ou 10 ans, selon les époques. Cela montre que nationalité et citoyenneté sont deux notions distinctes, même si elles vont presque toujours ensemble.",
+    "source": "D'après Wikipédia — Citoyenneté"
+  },
+  {
+    "id": "q-politique-196",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel Athénien est souvent considéré comme le premier démagogue ?",
+    "choix": [
+      "Cléon",
+      "Périclès",
+      "Solon",
+      "Clisthène"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cléon d'Athènes est souvent vu comme le premier démagogue, par son appel au « petit peuple » contre les usages modérés de l'aristocratie. Le mot grec, formé de demos (peuple) et agô (conduire), n'était pas péjoratif à l'origine.",
+    "source": "D'après Wikipédia — Démagogie"
+  },
+  {
+    "id": "q-politique-197",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Selon un lexicographe de l'Oxford English Dictionary, d'où vient le mot « lobbying » ?",
+    "choix": [
+      "Des couloirs (lobbies) du Parlement britannique, où se mêlent élus et public",
+      "Du hall d'un hôtel de Washington où le président Grant était sollicité",
+      "D'un terme de marine désignant l'entrée d'un navire au port",
+      "D'un mot latin désignant le vote à main levée"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot vient des lobbies, les couloirs où députés et lords se mêlent au public avant et après les débats. La légende de l'hôtel Willard et du président Grant est contredite par des emplois du mot dès 1808.",
+    "source": "D'après Wikipédia — Lobbying"
+  },
+  {
+    "id": "q-politique-198",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel pays sanctionne financièrement l'abstention depuis 1893 ?",
+    "choix": [
+      "La Belgique",
+      "La Suisse",
+      "L'Allemagne",
+      "Le Canada"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Belgique pratique le vote obligatoire avec sanction financière depuis 1893 : son abstention était d'environ 9 % aux européennes de 2004, contre 44 % en moyenne dans l'Union, même si les amendes y sont peu appliquées.",
+    "source": "D'après Wikipédia — Abstention"
+  },
+  {
+    "id": "q-politique-199",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Le vote blanc est compté comme une abstention.",
+    "reponse": false,
+    "explication": "Un électeur qui vote blanc a voté, alors que l'abstentionniste ne s'est pas déplacé. En France, les bulletins blancs sont décomptés à part et n'entrent pas dans les suffrages exprimés ; ils ne sont reconnus que depuis 2014.",
+    "source": "D'après Wikipédia — Abstention"
+  },
+  {
+    "id": "q-politique-200",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Au début du XVIe siècle, que signifiait l'expression « donner un pot-de-vin » ?",
+    "choix": [
+      "Donner un pourboire",
+      "Offrir un banquet à un puissant",
+      "Payer une amende",
+      "Verser un impôt sur le vin"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'expression avait un sens très innocent : le « pot » était le récipient où l'on servait vin ou bière, offert en remerciement d'un petit service. Au fil des siècles, la valeur du pot a grossi et le sens est devenu celui de la corruption.",
+    "source": "D'après Wikipédia — Corruption"
+  },
+  {
+    "id": "q-politique-201",
+    "domain": "politique",
+    "format": "associer",
+    "question": "Associe chaque couleur de propagande à sa définition.",
+    "paires": [
+      {
+        "gauche": "Propagande blanche",
+        "droite": "Source d'information ouvertement identifiée",
+        "explication": "La source est connue et assumée : l'émetteur du message ne cache pas qui il est."
+      },
+      {
+        "gauche": "Propagande noire",
+        "droite": "Source qui opère sous une fausse identité",
+        "explication": "Le message paraît venir d'un autre émetteur que son véritable auteur, qui se cache derrière une fausse identité."
+      },
+      {
+        "gauche": "Propagande grise",
+        "droite": "Source intentionnellement occultée, identité devinable",
+        "explication": "L'origine du message est volontairement cachée, mais on peut en déduire qui se trouve derrière."
+      }
+    ],
+    "explication": "Pour les militaires, la propagande se classe selon sa source : blanche si elle est ouvertement identifiée, noire si elle opère sous une fausse identité, grise si elle est intentionnellement occultée mais devinable.",
+    "source": "D'après Wikipédia — Propagande"
+  },
+  {
+    "id": "q-politique-202",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Qui a forgé le mot anglais « secularism » en 1851 ?",
+    "choix": [
+      "L'écrivain agnostique britannique George Holyoake",
+      "Le philosophe John Locke",
+      "Le ministre français Ferdinand Buisson",
+      "Le pamphlétaire Thomas Paine"
+    ],
+    "bonneReponse": 0,
+    "explication": "George Holyoake trouvait « athéisme » trop agressif. Il cherchait un mot pour une vie fondée sur des considérations naturelles, sans forcément rejeter la religion, afin de pouvoir coopérer avec les croyants.",
+    "source": "D'après Wikipédia — Laïcité"
+  },
+  {
+    "id": "q-politique-203",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Quel texte est considéré comme la première déclaration des droits humains, adoptée le 12 juin 1776 ?",
+    "choix": [
+      "La Déclaration des droits de Virginie",
+      "La Déclaration d'indépendance des États-Unis",
+      "La Déclaration des droits de l'homme et du citoyen",
+      "Le Bill of Rights anglais"
+    ],
+    "bonneReponse": 0,
+    "explication": "Rédigée par George Mason, la Déclaration de Virginie est largement copiée par Jefferson pour la Déclaration d'indépendance du 4 juillet 1776, puis inspire la Déclaration française de 1789 et la Déclaration universelle de 1948.",
+    "source": "D'après Wikipédia — Droits de l'homme"
+  },
+  {
+    "id": "q-politique-204",
+    "domain": "politique",
+    "format": "vrai-faux",
+    "affirmation": "Le texte européen sur les droits fondamentaux adopté en 2000 (la Charte de l'UE) est contraignant depuis le traité de Lisbonne.",
+    "reponse": true,
+    "explication": "Adoptée le 7 décembre 2000, la Charte n'avait d'abord pas de valeur contraignante, faute d'avoir été ratifiée par les États membres. Cela évolue avec le traité de Lisbonne, entré en vigueur le 1er décembre 2009.",
+    "source": "D'après Wikipédia — Droits fondamentaux"
+  },
+  {
+    "id": "q-politique-205",
+    "domain": "politique",
+    "format": "qcm",
+    "question": "Dans quel pays les premières femmes parlementaires du monde sont-elles élues, en 1907 ?",
+    "choix": [
+      "La Finlande",
+      "La Nouvelle-Zélande",
+      "La Norvège",
+      "Le Royaume-Uni"
+    ],
+    "bonneReponse": 0,
+    "explication": "Alors grand-duché autonome de l'Empire russe, la Finlande adopte en 1906 un suffrage sans restriction de sexe pour son Parlement. Dix-neuf femmes sont élues aux législatives de 1907, une première mondiale.",
+    "source": "D'après Wikipédia — Droit de vote des femmes"
   }
 ]

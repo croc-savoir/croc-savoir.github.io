@@ -2762,5 +2762,563 @@
     ],
     "explication": "Chaque céréale a son usage vedette : semoule et pâtes pour le blé dur, bière pour l'orge, risotto pour le riz à grain rond, polenta pour le maïs. Elles nourrissent des cuisines très différentes dans le monde entier.",
     "source": "D'après Wikipédia — Blé"
+  },
+  {
+    "id": "q-nature-175",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Les chutes de noix de coco tuent environ 150 personnes par an dans le monde.",
+    "reponse": false,
+    "explication": "Ce chiffre est un mythe : il aurait été tiré par un assureur de quelques lignes d'une étude médicale, puis repris par des défenseurs des requins. Les chutes de noix de coco peuvent pourtant causer de graves blessures à la tête.",
+    "source": "D'après Wikipédia — Noix de coco"
+  },
+  {
+    "id": "q-nature-176",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel produit de Polynésie française associe de l'huile de coprah raffinée à la fleur de tiaré ?",
+    "choix": [
+      "Le monoï",
+      "Le tapa",
+      "Le poi",
+      "Le noni"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour fabriquer le monoï, on mélange la fleur de tiaré à de l'huile de coprah, tirée de l'amande de noix de coco séchée. Le coprah contient 62 à 65 % d'huile et environ 6 % d'eau seulement.",
+    "source": "D'après Wikipédia — Noix de coco"
+  },
+  {
+    "id": "q-nature-177",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Qu'est-ce qui distingue un « marron » d'une châtaigne ordinaire ?",
+    "choix": [
+      "Son amande n'est presque jamais cloisonnée par le tan",
+      "Il pousse sur le marronnier d'Inde",
+      "Il est récolté avant d'être mûr",
+      "Il n'est jamais protégé par une bogue"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un cultivar est appelé marron quand moins de 12 % de ses fruits sont cloisonnés par le tan, la pellicule rougeâtre, et qu'il compte moins de 60 fruits au kilo. Le marron d'Inde, lui, vient d'un autre arbre et est toxique.",
+    "source": "D'après Wikipédia — Châtaigne"
+  },
+  {
+    "id": "q-nature-178",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Comment les trufficulteurs appellent-ils les zones de sol presque nu autour d'un arbre truffier ?",
+    "choix": [
+      "Les brûlés",
+      "Les cavés",
+      "Les glèbes",
+      "Les rhytidomes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Autour de l'arbre, le mycélium libère des composés volatils qui freinent la germination des autres plantes : d'où ces taches de sol pelé, les « brûlés ». Ce phénomène par lequel une plante en gêne une autre se nomme l'allélopathie.",
+    "source": "D'après Wikipédia — Truffe (champignon)"
+  },
+  {
+    "id": "q-nature-179",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Selon une étude de 2021, les limaces, mal vues des trufficulteurs, jouent sans doute un grand rôle dans la dispersion des spores de truffe.",
+    "reponse": true,
+    "explication": "Ces gastéropodes dégradent mieux que les mammifères la paroi très résistante des spores, par abrasion puis digestion, ce qui favorise leur germination. Elles se déplacent peu, ce qui expliquerait la proximité génétique des truffes voisines.",
+    "source": "D'après Wikipédia — Truffe (champignon)"
+  },
+  {
+    "id": "q-nature-180",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Qui a inventé l'expression « organic farming » en 1940, dans son manifeste Look to the Land ?",
+    "choix": [
+      "Lord Northbourne",
+      "Albert Howard",
+      "Rudolf Steiner",
+      "J. I. Rodale"
+    ],
+    "bonneReponse": 0,
+    "explication": "Lord Northbourne a forgé l'expression en 1940. Albert Howard l'a reprise la même année dans An Agricultural Testament, ce qui lui a valu le surnom de « père de l'agriculture biologique ». En français, le terme s'impose vers 1950.",
+    "source": "D'après Wikipédia — Agriculture biologique"
+  },
+  {
+    "id": "q-nature-181",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel agronome américain, prix Nobel de la paix en 1970, est surnommé le « père de la révolution verte » ?",
+    "choix": [
+      "Norman Borlaug",
+      "Albert Howard",
+      "Henry Wallace",
+      "Rudolf Steiner"
+    ],
+    "bonneReponse": 0,
+    "explication": "Norman Borlaug a travaillé au Mexique sur des blés à haut rendement, dans un programme financé par la fondation Rockefeller. On lui attribue d'avoir évité la famine à plus d'un milliard de personnes.",
+    "source": "D'après Wikipédia — Révolution verte"
+  },
+  {
+    "id": "q-nature-182",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle plante pourrait être la plus ancienne culture connue, d'après des restes trouvés à Jéricho en 2006 ?",
+    "choix": [
+      "Le figuier",
+      "Le blé amidonnier",
+      "La lentille",
+      "Le lin"
+    ],
+    "bonneReponse": 0,
+    "explication": "Des figues vieilles d'environ 9400 av. J.-C. appartiennent à une variété mutante qui ne se reproduit que par boutures : elle était donc cultivée. Elles précèdent de plusieurs siècles la culture des céréales.",
+    "source": "D'après Wikipédia — Néolithique"
+  },
+  {
+    "id": "q-nature-183",
+    "domain": "nature",
+    "format": "frise",
+    "question": "Remets dans l'ordre ces étapes de la compréhension du bois et de la sève.",
+    "evenements": [
+      {
+        "label": "Nehemiah Grew nomme le cambium",
+        "annee": "1672"
+      },
+      {
+        "label": "Duhamel du Monceau pique des fils d'argent dans des arbres",
+        "annee": "1758"
+      },
+      {
+        "label": "Kurt Sprengel y voit une « sève formatrice »",
+        "annee": "1812"
+      },
+      {
+        "label": "Nägeli crée les mots xylème et phloème",
+        "annee": "1858"
+      }
+    ],
+    "explication": "En 1672, Grew baptise le cambium ; en 1758, Duhamel montre qu'il fabrique le bois ; en 1812, Sprengel y voit une « sève formatrice » ; en 1858, Nägeli forge les mots xylème et phloème.",
+    "source": "D'après Wikipédia — Cambium"
+  },
+  {
+    "id": "q-nature-184",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "La pomme de terre est une racine renflée.",
+    "reponse": false,
+    "explication": "C'est un tubercule, c'est-à-dire une tige souterraine gorgée de réserves : elle porte des bourgeons, appelés « yeux », ce qu'une racine ne fait jamais. Les racines n'ont ni feuilles ni bourgeons.",
+    "source": "D'après Wikipédia — Tige"
+  },
+  {
+    "id": "q-nature-185",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle caractéristique distingue fondamentalement une racine d'une tige ?",
+    "choix": [
+      "Elle ne porte ni feuilles ni bourgeons",
+      "Elle est toujours enterrée",
+      "Elle ne contient aucun vaisseau",
+      "Elle ne grossit jamais"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une racine n'a ni feuilles ni bourgeons, alors que la tige les porte à ses nœuds. Elle n'est pas toujours souterraine : il existe des racines aériennes, chez les palétuviers ou les plantes épiphytes, et des tiges souterraines.",
+    "source": "D'après Wikipédia — Racine (botanique)"
+  },
+  {
+    "id": "q-nature-186",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Combien de feuilles porte à peu près un chêne à maturité ?",
+    "choix": [
+      "Environ 700 000",
+      "Environ 7 000",
+      "Environ 70 000",
+      "Environ 5 millions"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un chêne adulte porte environ 700 000 feuilles, qui couvriraient 700 m² mises côte à côte. Un bouleau en compte en moyenne 200 000, et certains ormes d'Amérique jusqu'à cinq millions.",
+    "source": "D'après Wikipédia — Feuille"
+  },
+  {
+    "id": "q-nature-187",
+    "domain": "nature",
+    "format": "associer",
+    "question": "Associe chaque tissu de l'arbre à son rôle.",
+    "paires": [
+      {
+        "gauche": "Xylème",
+        "droite": "Conduit l'eau et les sels minéraux vers les feuilles",
+        "explication": "Ses vaisseaux, faits de cellules mortes, acheminent la sève brute des racines vers le haut."
+      },
+      {
+        "gauche": "Phloème",
+        "droite": "Distribue les sucres fabriqués par les feuilles",
+        "explication": "Il achemine la sève élaborée vers les fruits, les racines et les tissus de réserve."
+      },
+      {
+        "gauche": "Cambium",
+        "droite": "Fabrique du bois et du liber",
+        "explication": "Il produit le bois vers l'intérieur et le liber vers l'extérieur, et fait grossir le tronc."
+      },
+      {
+        "gauche": "Écorce",
+        "droite": "Couche externe morte qui protège le tronc",
+        "explication": "Ce rhytidome défend l'arbre contre le froid, le feu, le vent et les agents pathogènes."
+      }
+    ],
+    "explication": "Le xylème et le phloème sont les deux réseaux de vaisseaux ; le cambium, entre les deux, fabrique du bois et du liber ; l'écorce, tout à l'extérieur, protège l'ensemble du tronc.",
+    "source": "D'après Wikipédia — Xylème"
+  },
+  {
+    "id": "q-nature-188",
+    "domain": "nature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis une pousse en miniature, faite de très jeunes feuilles ou fleurs serrées sur un axe minuscule.",
+      "Ma place sur la tige peut être terminale, axillaire ou adventive.",
+      "Chez le marronnier, des écailles me protègent pendant l'hiver.",
+      "Mon ouverture au printemps s'appelle le débourrement.",
+      "Une pomme de chou est un énorme exemplaire de moi."
+    ],
+    "reponse": "Le bourgeon",
+    "explication": "Le bourgeon est une pousse en attente : il donne branches, feuilles, fleurs et fruits. Une pomme de chou est un énorme bourgeon terminal, un chou de Bruxelles un gros bourgeon latéral.",
+    "source": "D'après Wikipédia — Bourgeon (botanique)"
+  },
+  {
+    "id": "q-nature-189",
+    "domain": "nature",
+    "format": "difference",
+    "question": "Quelle est la différence entre la sève brute et la sève élaborée ?",
+    "choix": [
+      "La brute, eau chargée de sels minéraux, monte par le xylème ; l'élaborée, riche en sucres, circule dans le phloème",
+      "La brute circule dans le phloème, l'élaborée dans le xylème",
+      "La brute est produite par les feuilles, l'élaborée par les racines",
+      "La brute existe chez les arbres, l'élaborée chez les herbes"
+    ],
+    "bonneReponse": 0,
+    "explication": "La sève brute est captée par les racines et monte vers les feuilles dans le xylème. La sève élaborée, riche en sucres et en acides aminés, naît dans les feuilles par photosynthèse et circule dans le phloème, en sens inverse.",
+    "source": "D'après Wikipédia — Sève"
+  },
+  {
+    "id": "q-nature-190",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Le sirop d'érable est fabriqué à partir de quelle sève ?",
+    "choix": [
+      "De la sève brute, chargée de sucres au début du printemps",
+      "De la sève élaborée, descendue des feuilles",
+      "Du latex de l'écorce",
+      "De la résine du tronc"
+    ],
+    "bonneReponse": 0,
+    "explication": "Contrairement à ce qu'on pourrait croire, l'eau d'érable ou de bouleau n'est pas de la sève élaborée : c'est de la sève brute qui se charge, quelques semaines au début du printemps, de sucres venus des réserves, avant l'apparition des feuilles.",
+    "source": "D'après Wikipédia — Sève"
+  },
+  {
+    "id": "q-nature-191",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Comment une graine de riz peut-elle germer dans un sol gorgé d'eau ?",
+    "choix": [
+      "Son coléoptile creux joue le rôle d'un tuba",
+      "Elle attend que l'eau s'évapore",
+      "Elle respire par ses cotylédons",
+      "Elle flotte jusqu'à la surface"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chez le riz, la graine produit un coléoptile creux qui agit comme un tuba et lui apporte l'oxygène. C'est rare : la plupart des graines enterrées dans un sol détrempé manquent d'oxygène et ne germent pas.",
+    "source": "D'après Wikipédia — Germination"
+  },
+  {
+    "id": "q-nature-192",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Chez les bactéries, la spore sert à résister aux conditions difficiles, et non à se multiplier.",
+    "reponse": true,
+    "explication": "Chaque bactérie ne produit qu'une spore : ce n'est donc pas une reproduction, mais une forme de résistance, déshydratée (10 à 20 % d'eau). On a même retrouvé des spores capables de se réveiller dans la momie de Ramsès II.",
+    "source": "D'après Wikipédia — Spore"
+  },
+  {
+    "id": "q-nature-193",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Que signifie le nom savant de la tomate, Solanum lycopersicum, mot à mot ?",
+    "choix": [
+      "Pêche de loup",
+      "Pomme d'or",
+      "Baie du soleil",
+      "Fruit du diable"
+    ],
+    "bonneReponse": 0,
+    "explication": "Lycopersicum vient du grec lúkos, « loup », et du latin persicum, « pêche ». On croyait la tomate vénéneuse, au point de croire qu'elle changeait les humains en loups. En italien, pomodoro signifie « pomme d'or », car les premières tomates étaient jaunes.",
+    "source": "D'après Wikipédia — Tomate"
+  },
+  {
+    "id": "q-nature-194",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle maladie de la pomme de terre a provoqué la Grande Famine d'Irlande, à partir de 1845 ?",
+    "choix": [
+      "Le mildiou",
+      "Le phylloxéra",
+      "La rouille",
+      "L'oïdium"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1845, le mildiou, causé par un organisme proche des champignons, Phytophthora infestans, détruit les cultures de l'ouest de l'Irlande. Les rares variétés importées au départ étaient peu diversifiées, donc très vulnérables.",
+    "source": "D'après Wikipédia — Pomme de terre"
+  },
+  {
+    "id": "q-nature-195",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pourquoi un avocat reste-t-il dur et ne mûrit-il pas tant qu'il est sur l'arbre ?",
+    "choix": [
+      "L'arbre lui transmet, par ses feuilles, des substances qui bloquent la maturation",
+      "Il manque de chaleur sur les branches hautes",
+      "Sa peau épaisse l'empêche de produire de l'éthylène",
+      "Il doit d'abord être pollinisé une seconde fois"
+    ],
+    "bonneReponse": 0,
+    "explication": "C'est le « facteur arbre » (tree-factor) : des substances inhibitrices venues des feuilles retardent la maturation. L'avocat peut rester des mois sur l'arbre, puis mûrit une fois cueilli, grâce à l'éthylène qu'il libère.",
+    "source": "D'après Wikipédia — Avocat (fruit)"
+  },
+  {
+    "id": "q-nature-196",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel pays est le premier producteur mondial de manioc ?",
+    "choix": [
+      "Le Nigeria",
+      "Le Brésil",
+      "La Thaïlande",
+      "L'Indonésie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Nigeria est le plus grand producteur. La Thaïlande est, elle, le premier exportateur d'amidon de manioc (le tapioca). Plus de 500 millions de personnes dépendent de cette racine, troisième source de glucides des tropiques.",
+    "source": "D'après Wikipédia — Manioc"
+  },
+  {
+    "id": "q-nature-197",
+    "domain": "nature",
+    "format": "difference",
+    "question": "Quelle est la différence entre la patate douce et la pomme de terre ?",
+    "choix": [
+      "La patate douce est la racine renflée d'une liane de la famille des liserons, la pomme de terre une tige souterraine d'une solanacée",
+      "La patate douce est une tige souterraine de solanacée, la pomme de terre la racine d'un liseron",
+      "Ce sont deux variétés de la même espèce, l'une sucrée et l'autre non",
+      "La patate douce est une graine de la famille de l'igname, la pomme de terre un tubercule"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les deux plantes ne sont que de lointaines cousines, toutes deux de l'ordre des Solanales. La patate douce appartient à la famille des liserons ; la pomme de terre est une solanacée, comme la tomate. Elles n'ont de commun que leur nom.",
+    "source": "D'après Wikipédia — Patate douce"
+  },
+  {
+    "id": "q-nature-198",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle décision de Napoléon, le 21 novembre 1806, a donné un grand coup de pouce au sucre de betterave ?",
+    "choix": [
+      "Le blocus continental",
+      "La création de la Banque de France",
+      "La vente de la Louisiane",
+      "La campagne d'Égypte"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le blocus continental interdisait les marchandises britanniques, y compris le sucre de canne des Antilles. Pour compenser la pénurie, l'empereur soutient la betterave sucrière, et de nombreuses usines voient le jour en quelques années.",
+    "source": "D'après Wikipédia — Betterave"
+  },
+  {
+    "id": "q-nature-199",
+    "domain": "nature",
+    "format": "frise",
+    "question": "Remets dans l'ordre ces étapes de l'histoire du sucre de betterave.",
+    "evenements": [
+      {
+        "label": "Olivier de Serres décrit la betterave et son jus sucré dans Le Théâtre d'agriculture",
+        "annee": "1600"
+      },
+      {
+        "label": "Marggraf réussit à extraire le sucre de la betterave",
+        "annee": "1747"
+      },
+      {
+        "label": "Ouverture de la première fabrique de sucre de betterave, en Silésie",
+        "annee": "1802"
+      },
+      {
+        "label": "Napoléon décrète le blocus continental",
+        "annee": "1806"
+      },
+      {
+        "label": "Benjamin Delessert réalise la première extraction industrielle",
+        "annee": "1812"
+      }
+    ],
+    "explication": "Le sucre de betterave s'est imposé en deux siècles : de l'intuition d'Olivier de Serres à l'extraction industrielle de Delessert, le blocus de 1806 a joué le rôle d'accélérateur en privant l'Europe du sucre de canne.",
+    "source": "D'après Wikipédia — Betterave"
+  },
+  {
+    "id": "q-nature-200",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel agrume est le premier à avoir été connu en Europe, vers 300 av. J.-C. ?",
+    "choix": [
+      "Le cédrat",
+      "L'orange",
+      "La mandarine",
+      "Le pamplemousse"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le cédratier serait arrivé de Mésopotamie dans les bagages des soldats d'Alexandre le Grand. Le citron n'est connu des Romains qu'au Ier siècle, l'oranger arrive entre le Xe et le XIIe siècle, et le mandarinier au XIXe siècle.",
+    "source": "D'après Wikipédia — Agrume"
+  },
+  {
+    "id": "q-nature-201",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Les plus anciennes cultures de vigne attestées se trouvent en Géorgie et remontent au VIe millénaire av. J.-C.",
+    "reponse": true,
+    "explication": "Les premières cultures de vigne du genre Vitis sont attestées en Géorgie dès le VIe millénaire av. J.-C. La plante est bien plus ancienne : on a trouvé des feuilles fossiles de vigne vieilles de 65 millions d'années.",
+    "source": "D'après Wikipédia — Vigne"
+  },
+  {
+    "id": "q-nature-202",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "De quelle région est originaire l'arabica, l'espèce de caféier la plus appréciée ?",
+    "choix": [
+      "Les hauts plateaux d'Éthiopie",
+      "Le Yémen",
+      "Le Brésil",
+      "L'île de Java"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'arabica vient d'Éthiopie, de la province du Kaffa, et du Soudan. C'est à la fin du XVe siècle que sa culture s'installe à Moka, en Arabie. Les Hollandais l'emportent à Java vers 1690 et il atteint le Brésil vers 1727.",
+    "source": "D'après Wikipédia — Caféier"
+  },
+  {
+    "id": "q-nature-203",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Le nom de genre du cacaoyer, Theobroma, signifie « nourriture des dieux ».",
+    "reponse": true,
+    "explication": "En 1753, Linné crée Theobroma avec deux mots grecs : theós (dieu) et brôma (nourriture). Il refusait l'usage du « nom barbare » Cacao pour le genre, mais y voyait la valeur sacrée donnée au cacao par les civilisations mésoaméricaines.",
+    "source": "D'après Wikipédia — Cacaoyer"
+  },
+  {
+    "id": "q-nature-204",
+    "domain": "nature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Un naturaliste suédois m'a d'abord classé dans un autre genre que celui où je suis aujourd'hui.",
+      "Une de mes variétés a été redécouverte en Assam en 1823 par le major Robert Bruce.",
+      "Mon nom savant signifie mot à mot « camélia chinois ».",
+      "Mes feuilles, plus ou moins oxydées, donnent le thé noir, l'oolong, le thé vert ou le thé blanc."
+    ],
+    "reponse": "Le théier",
+    "explication": "Le théier, Camellia sinensis, est le même arbuste pour tous les thés : c'est le degré d'oxydation des feuilles qui change la couleur et le goût. Linné l'avait d'abord rangé dans le genre Thea, fusionné avec Camellia en 1818.",
+    "source": "D'après Wikipédia — Théier"
+  },
+  {
+    "id": "q-nature-205",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pourquoi les Anglais appellent-ils l'ananas « pine apple » ?",
+    "choix": [
+      "Parce qu'il ressemble à une pomme de pin",
+      "Parce qu'il pousse sous les pins",
+      "Parce que son goût rappelle la résine de pin",
+      "Parce qu'un explorateur nommé Pine l'a rapporté"
+    ],
+    "bonneReponse": 0,
+    "explication": "À l'époque, « apple » désignait tout fruit inconnu, ferme et rond, et « pine apple » désignait d'abord la pomme de pin. Les Hollandais ont fait découvrir l'ananas à Charles II d'Angleterre en 1672.",
+    "source": "D'après Wikipédia — Ananas"
+  },
+  {
+    "id": "q-nature-206",
+    "domain": "nature",
+    "format": "associer",
+    "question": "Associe chaque plante à son berceau d'origine.",
+    "paires": [
+      {
+        "gauche": "La canne à sucre",
+        "droite": "La Nouvelle-Guinée",
+        "explication": "Domestiquée par les Papous, elle a ensuite voyagé avec les marins austronésiens."
+      },
+      {
+        "gauche": "L'ananas",
+        "droite": "Le Paraguay et le sud du Brésil",
+        "explication": "La plante sauvage est née dans les bassins du Paraná et du Paraguay."
+      },
+      {
+        "gauche": "L'arabica",
+        "droite": "Les hauts plateaux d'Éthiopie",
+        "explication": "On le trouve d'abord dans la province du Kaffa, puis au Soudan."
+      },
+      {
+        "gauche": "Les agrumes",
+        "droite": "Le Sud-Est asiatique",
+        "explication": "Chine, nord-est de l'Inde et Malaisie sont leur zone d'origine."
+      },
+      {
+        "gauche": "Le manguier",
+        "droite": "L'Inde orientale et la Birmanie",
+        "explication": "Il pousse encore à l'état sauvage dans ces forêts, ainsi qu'au Bangladesh."
+      }
+    ],
+    "explication": "Aucune de ces cultures n'est née là où on la consomme le plus. Les marins, marchands et conquérants les ont déplacées sur tous les continents, parfois en quelques décennies comme l'ananas ou la canne.",
+    "source": "D'après Wikipédia — Canne à sucre"
+  },
+  {
+    "id": "q-nature-207",
+    "domain": "nature",
+    "format": "difference",
+    "question": "Quelle est la différence entre le café arabica et le café robusta ?",
+    "choix": [
+      "L'arabica est plus sucré et vient d'Éthiopie ; le robusta, d'Afrique centrale et de l'Ouest, contient plus de caféine et résiste mieux à la rouille",
+      "Le robusta est plus sucré et vient d'Éthiopie ; l'arabica est plus riche en caféine",
+      "L'arabica est un café sans caféine, le robusta un café avec",
+      "L'arabica pousse uniquement en Asie, le robusta uniquement en Amérique"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'arabica représente environ 55 % de la production mondiale et le robusta environ 45 %. Moins cher et plus facile à cultiver, le robusta sert surtout aux cafés instantanés, alors que l'arabica est préféré pour sa douceur.",
+    "source": "D'après Wikipédia — Caféier"
+  },
+  {
+    "id": "q-nature-208",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quels ingrédients la loi bavaroise de pureté de 1516 autorisait-elle pour brasser la bière ?",
+    "choix": [
+      "L'orge, le houblon et l'eau",
+      "Le blé, le houblon et l'eau",
+      "L'orge, le houblon et le miel",
+      "L'orge, la levure et l'eau"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le duc Guillaume IV de Bavière limite les ingrédients à l'orge, au houblon et à l'eau. Cette loi écartait les autres substances ajoutées jusque-là pour aromatiser la bière. La levure n'était pas encore connue à l'époque.",
+    "source": "D'après Wikipédia — Houblon"
+  },
+  {
+    "id": "q-nature-209",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel Américain invente en 1793 la machine qui sépare les graines de coton de leur fibre ?",
+    "choix": [
+      "Eli Whitney",
+      "James Hargreaves",
+      "Richard Arkwright",
+      "Samuel Crompton"
+    ],
+    "bonneReponse": 0,
+    "explication": "Eli Whitney met au point en Géorgie l'égreneuse mécanique, le cotton gin. Les trois autres sont des inventeurs britanniques de machines à filer : la Spinning Jenny de Hargreaves (1764) ou le mule-jenny de Crompton (1779).",
+    "source": "D'après Wikipédia — Coton"
+  },
+  {
+    "id": "q-nature-210",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Le bananier est un arbre dont le tronc est en bois.",
+    "reponse": false,
+    "explication": "Le bananier peut atteindre 9 m mais n'est pas un arbre : son « tronc » est un faux-tronc, formé des pétioles de ses feuilles qui s'emboîtent. Sa vraie tige est courte et souterraine. C'est la plus grande plante herbacée.",
+    "source": "D'après Wikipédia — Banane"
   }
 ]

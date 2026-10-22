@@ -1628,5 +1628,564 @@
     ],
     "explication": "Du XVIIIe au XXe siècle, ces naturalistes ont voulu faire connaître la nature au plus grand nombre : par un grand traité, un livre d'alerte, des planches peintes ou un radeau posé sur la cime des arbres tropicaux.",
     "source": "D'après Wikipédia — Francis Hallé"
+  },
+  {
+    "id": "q-nature-103",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Que signifiait à l'origine le mot portugais « coco », qui a donné son nom à la noix de coco ?",
+    "choix": [
+      "Un visage grimaçant, un épouvantail",
+      "Une pirogue à balancier",
+      "Un fruit sucré",
+      "Un marin de Vasco de Gama"
+    ],
+    "bonneReponse": 0,
+    "explication": "Au XVIe siècle, les Portugais ont comparé les trois trous de la coque à un visage grimaçant, voire à un fantôme du folklore appelé coco. Le mot a ensuite été repris par l'espagnol, l'italien et le français.",
+    "source": "D'après Wikipédia — Cocotier"
+  },
+  {
+    "id": "q-nature-104",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Le cocotier est un véritable arbre, au sens botanique du terme.",
+    "reponse": false,
+    "explication": "Le cocotier est un palmier, une plante monocotylédone : son « tronc » est un faux-tronc, le stipe. Il fabrique toutes ses feuilles et fleurs avec un bourgeon unique, ce qui le rend fragile si un insecte l'attaque.",
+    "source": "D'après Wikipédia — Cocotier"
+  },
+  {
+    "id": "q-nature-105",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "D'où le figuier des banians tient-il son nom ?",
+    "choix": [
+      "De la caste des marchands, les banians",
+      "D'un dieu hindou de la forêt",
+      "D'un fleuve du Bengale",
+      "D'un mot sanskrit signifiant « ombre »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le banian doit son nom aux banians, une caste de marchands. Cet arbre sacré en Inde étale sa couronne sur de très grandes surfaces : le plus vaste, Thimmamma Marrimanu, couvre 19 107 m².",
+    "source": "D'après Wikipédia — Figuier des banians"
+  },
+  {
+    "id": "q-nature-106",
+    "domain": "nature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis un seul organisme, mais je ressemble à toute une forêt.",
+      "Mes quelque 47 000 troncs sont des clones génétiquement identiques.",
+      "Mon nom vient du latin et signifie « je m'étends ».",
+      "Je vis dans l'Utah et je pèse environ 6 000 tonnes."
+    ],
+    "reponse": "Pando",
+    "explication": "Pando est une colonie clonale de peupliers faux-trembles : tous ses troncs naissent de drageons sur un même système de racines. Elle couvre 43 hectares et passe pour l'organisme vivant le plus lourd du monde.",
+    "source": "D'après Wikipédia — Pando (arbre)"
+  },
+  {
+    "id": "q-nature-107",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "À qui le nom du genre Sequoia est-il probablement dédié ?",
+    "choix": [
+      "À Sequoyah, un orfèvre cherokee",
+      "À un explorateur espagnol de la Californie",
+      "Au botaniste David Don",
+      "À une déesse celte de la forêt"
+    ],
+    "bonneReponse": 0,
+    "explication": "Stephan Endlicher a créé le genre Sequoia en 1847 sans expliquer son choix. Une hypothèse y voit un hommage à Sequoyah, l'orfèvre cherokee qui avait inventé un syllabaire pour sa langue. L'origine reste controversée.",
+    "source": "D'après Wikipédia — Sequoia sempervirens"
+  },
+  {
+    "id": "q-nature-108",
+    "domain": "nature",
+    "format": "associer",
+    "question": "Associe chaque arbre à ce qu'il est connu pour fournir.",
+    "paires": [
+      {
+        "gauche": "L'hévéa",
+        "droite": "Le latex du caoutchouc",
+        "explication": "Son latex, récolté par saignée dans l'écorce du tronc, se transforme ensuite en caoutchouc naturel."
+      },
+      {
+        "gauche": "Le pin parasol",
+        "droite": "Les pignons",
+        "explication": "Ses grosses graines à amande comestible garnissent pâtisseries, salades et plats méditerranéens."
+      },
+      {
+        "gauche": "Le teck",
+        "droite": "Les ponts de bateaux",
+        "explication": "Son oléorésine naturelle le rend très résistant à l'eau, aux moisissures et aux insectes."
+      },
+      {
+        "gauche": "L'acajou",
+        "droite": "Les meubles précieux",
+        "explication": "Son bois rouge, au grain fin, est prisé en ébénisterie, en marqueterie et pour les guitares."
+      }
+    ],
+    "explication": "Chacun de ces arbres est lié à un produit célèbre : le caoutchouc, le pignon, le bois de pont de bateau et le bois d'ébénisterie. Souvent exploités depuis des siècles, ils ont marqué l'histoire du commerce.",
+    "source": "D'après Wikipédia — Hévéa"
+  },
+  {
+    "id": "q-nature-109",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle découverte de 1839 a fait exploser la demande de latex d'hévéa ?",
+    "choix": [
+      "La vulcanisation",
+      "La chambre à air gonflable",
+      "Le caoutchouc synthétique",
+      "Le moulage des gants de latex"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après la découverte de la vulcanisation en 1839, la demande de caoutchouc s'envole. Le boom amazonien qui suit, de 1840 à 1913, enrichit des villes comme Belém, Santarém, Manaus et Iquitos.",
+    "source": "D'après Wikipédia — Hévéa"
+  },
+  {
+    "id": "q-nature-110",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pourquoi le chêne-liège résiste-t-il si bien aux incendies ?",
+    "choix": [
+      "Son liège isole : le feu n'atteint pas l'aubier vivant",
+      "Ses feuilles sont gorgées d'eau",
+      "Ses racines atteignent la nappe phréatique",
+      "Il perd son écorce juste avant l'été"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le liège est un excellent isolant : la flamme ne parvient pas jusqu'au tissu vivant situé sous l'écorce. Des branches repartent donc vite après le passage du feu, alors que d'autres essences périssent.",
+    "source": "D'après Wikipédia — Chêne-liège"
+  },
+  {
+    "id": "q-nature-111",
+    "domain": "nature",
+    "format": "difference",
+    "question": "Quelle est la différence entre le liège « mâle » et le liège « femelle » du chêne-liège ?",
+    "choix": [
+      "Le mâle est le premier liège, crevassé ; le femelle est celui qui repousse après",
+      "Le mâle vient d'arbres mâles, le femelle d'arbres femelles",
+      "Le mâle sert aux bouchons, le femelle à l'isolation",
+      "Le mâle est récolté en hiver, le femelle en été"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le premier liège, dit « mâle », est irrégulier et de moindre qualité : on l'ôte lors du démasclage. Le liège « femelle », ou de reproduction, repousse ensuite et se lève tous les 9 à 15 ans, surtout pour les bouchons.",
+    "source": "D'après Wikipédia — Chêne-liège"
+  },
+  {
+    "id": "q-nature-112",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quels artistes ont obtenu en 1853 la mise à l'abri de sanctuaires dans la forêt de Fontainebleau ?",
+    "choix": [
+      "Les peintres de l'école de Barbizon",
+      "Les peintres de l'école de Nancy",
+      "Les paysagistes de Versailles",
+      "Les illustrateurs de la Belle Époque"
+    ],
+    "bonneReponse": 0,
+    "explication": "Menés par Théodore Rousseau, les peintres de Barbizon protestent contre les plantations de résineux. En 1853, des sanctuaires échappent aux forestiers : la « réserve artistique », première réserve naturelle au monde.",
+    "source": "D'après Wikipédia — Forêt de Fontainebleau"
+  },
+  {
+    "id": "q-nature-113",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "La forêt des Landes de Gascogne est une forêt entièrement naturelle.",
+    "reponse": false,
+    "explication": "Cette forêt n'a pas poussé seule : elle a été semée au XIXe siècle, surtout en pins maritimes, après la loi du 19 juin 1857. Elle a remplacé une lande humide où vivaient des éleveurs de moutons, perchés sur échasses.",
+    "source": "D'après Wikipédia — Forêt des landes de Gascogne"
+  },
+  {
+    "id": "q-nature-114",
+    "domain": "nature",
+    "format": "frise",
+    "question": "Remets ces événements de la forêt des Landes dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "La loi impériale lance la plantation de pins maritimes",
+        "annee": "1857"
+      },
+      {
+        "label": "Un grand incendie dévaste la forêt entre Bordeaux et Arcachon",
+        "annee": "1949"
+      },
+      {
+        "label": "Le gemmage, récolte de la résine, s'arrête pour de bon",
+        "annee": "1990"
+      },
+      {
+        "label": "La tempête Klaus abat de vastes zones de pins",
+        "annee": "2009"
+      }
+    ],
+    "explication": "La loi de 1857 crée la forêt, l'incendie de 1949 fait 82 victimes, le gemmage s'éteint en 1990 face au pétrole, et la tempête Klaus de 2009 impose de nouveau un reboisement coûteux.",
+    "source": "D'après Wikipédia — Forêt des landes de Gascogne"
+  },
+  {
+    "id": "q-nature-115",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle ligne de partage des eaux traverse la Forêt-Noire ?",
+    "choix": [
+      "Celle entre la mer du Nord (Rhin) et la mer Noire (Danube)",
+      "Celle entre l'Atlantique et la Méditerranée",
+      "Celle entre la Baltique et la mer du Nord",
+      "Celle entre l'Adriatique et la mer Noire"
+    ],
+    "bonneReponse": 0,
+    "explication": "Au centre du massif, le Rhin file vers la mer du Nord, tandis que le Danube, né de la Breg et de la Brigach, part vers la mer Noire. La Forêt-Noire est donc à la source de deux grands bassins versants.",
+    "source": "D'après Wikipédia — Forêt-Noire"
+  },
+  {
+    "id": "q-nature-116",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "D'où vient l'essentiel de l'oxygène de l'atmosphère, contrairement au mythe du « poumon de la Terre » amazonien ?",
+    "choix": [
+      "Du phytoplancton océanique",
+      "Des forêts de conifères du Nord",
+      "Des prairies tempérées",
+      "Des forêts tropicales d'Afrique"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le phytoplancton des océans produit, par photosynthèse, 60 à 80 % de l'oxygène atmosphérique. Près de son climax, la forêt amazonienne consomme à peu près autant d'oxygène qu'elle en produit : l'image du poumon est inexacte.",
+    "source": "D'après Wikipédia — Forêt amazonienne"
+  },
+  {
+    "id": "q-nature-117",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Que signifie littéralement le mot « bonsaï » ?",
+    "choix": [
+      "Une jeune plante cultivée dans un pot",
+      "Un arbre qui regarde la lune",
+      "Un paysage miniature",
+      "Un jardin de pierres"
+    ],
+    "bonneReponse": 0,
+    "explication": "Bonsaï vient du chinois pénzāi, « plante en pot » (bon : pot, sai : plante). Le paysage miniature en pot s'appelle, lui, penjing en chinois. Le bonsaï japonais descend de ce penjing, introduit au Japon vers l'an 700.",
+    "source": "D'après Wikipédia — Bonsaï"
+  },
+  {
+    "id": "q-nature-118",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "La vraie rose de Jéricho (Anastatica hierochuntica) est une plante de résurrection dont les tissus morts reverdissent.",
+    "reponse": false,
+    "explication": "Elle se referme en boule en séchant et se rouvre à l'humidité, mais ses tissus morts ne reverdissent pas. La vraie plante de résurrection est une autre plante parfois appelée « fausse rose de Jéricho », Selaginella lepidophylla.",
+    "source": "D'après Wikipédia — Anastatica hierochuntica"
+  },
+  {
+    "id": "q-nature-119",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Que signifie le mot « edelweiss », en allemand ?",
+    "choix": [
+      "Noble blanc",
+      "Étoile des neiges",
+      "Fleur de laine",
+      "Pied-de-lion"
+    ],
+    "bonneReponse": 0,
+    "explication": "Edelweiss vient de edel, « noble », et weiß, « blanc ». Les noms d'étoile des neiges, de fleur de laine ou de pied-de-lion existent aussi, mais ce sont d'autres appellations de la même plante des Alpes.",
+    "source": "D'après Wikipédia — Edelweiss"
+  },
+  {
+    "id": "q-nature-120",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle est l'origine du nom « coquelicot » ?",
+    "choix": [
+      "Le cri du coq, évoquant la crête rouge",
+      "Une fleur dédiée à un saint",
+      "Un mot arabe pour « rouge »",
+      "Le nom d'un champ de blé"
+    ],
+    "bonneReponse": 0,
+    "explication": "Coquelicot vient de l'ancien français coquerico, cri du coq par onomatopée. La couleur de la fleur rappelle la crête de l'oiseau. Le nom est attesté dès 1545 sous la forme coquelicoq.",
+    "source": "D'après Wikipédia — Coquelicot"
+  },
+  {
+    "id": "q-nature-121",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Que signifie à l'origine le mot allemand Buchstabe, « lettre », en rapport avec le hêtre ?",
+    "choix": [
+      "Bâton de hêtre",
+      "Feuille de hêtre",
+      "Écorce de hêtre",
+      "Branche de chêne"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chez les Germains, on traçait les runes sur de petits bâtonnets de hêtre. Buchstabe veut donc dire « bâton de hêtre », et Buch, « livre », en vient aussi. Cette parenté se retrouve entre l'anglais beech et book.",
+    "source": "D'après Wikipédia — Hêtre commun"
+  },
+  {
+    "id": "q-nature-122",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Que fabriquaient les Néandertaliens avec l'écorce du bouleau il y a environ 200 000 ans ?",
+    "choix": [
+      "Un brai servant de colle",
+      "Des cordes tressées",
+      "Des vêtements",
+      "Un colorant rouge"
+    ],
+    "bonneReponse": 0,
+    "explication": "En chauffant l'écorce sans air, ils obtenaient un brai, ou goudron de bouleau. C'est la plus ancienne colle connue : on en a retrouvé des traces à Königsaue, en Allemagne, et Ötzi s'en servait encore pour ses flèches.",
+    "source": "D'après Wikipédia — Bouleau"
+  },
+  {
+    "id": "q-nature-123",
+    "domain": "nature",
+    "format": "difference",
+    "question": "Quelle est la différence entre le sapin (Abies) et l'épicéa commun (Picea abies) ?",
+    "choix": [
+      "Ils appartiennent à deux genres différents, bien que l'épicéa ait longtemps été appelé « sapin rouge »",
+      "Le sapin perd ses aiguilles chaque hiver, l'épicéa non",
+      "Le sapin est un feuillu, l'épicéa un conifère",
+      "Il n'y en a aucune : ce sont deux noms de la même espèce"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sapin (genre Abies) et épicéa (genre Picea) sont deux conifères distincts. Au XIXe siècle, les botanistes ont inventé le mot « picéa » pour les séparer, mais le « sapin de Noël » traditionnel est bien un épicéa.",
+    "source": "D'après Wikipédia — Sapin"
+  },
+  {
+    "id": "q-nature-124",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Dans quel pays a été trouvé l'épicéa Old Tjikko, parfois présenté comme le plus vieil arbre connu ?",
+    "choix": [
+      "La Suède",
+      "Le Canada",
+      "La Suisse",
+      "La Russie"
+    ],
+    "bonneReponse": 0,
+    "explication": "C'est en Suède, en 2004, que ce petit épicéa de haute montagne a été repéré. Selon la datation au carbone 14, il aurait de 7 890 à 9 550 ans, d'après les auteurs. Il survit en remplaçant ses tiges mortes par de nouvelles.",
+    "source": "D'après Wikipédia — Épicéa commun"
+  },
+  {
+    "id": "q-nature-125",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pendant combien d'années les anciens du Queyras laissaient-ils sécher le bois de mélèze avant de s'en servir pour une toiture ?",
+    "choix": [
+      "Au moins 30 ans",
+      "Au moins 3 ans",
+      "Environ 10 ans",
+      "Au moins 100 ans"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans le Queyras, on laissait sécher le mélèze au moins 30 ans avant de couvrir un toit, pour mieux le faire durer. On abattait ainsi des arbres pour les générations suivantes, une vraie vision à long terme.",
+    "source": "D'après Wikipédia — Mélèze"
+  },
+  {
+    "id": "q-nature-126",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "D'où vient le nom du cyprès (Cupressus) selon la mythologie grecque ?",
+    "choix": [
+      "D'un jeune homme, Cyparisse, changé en arbre par Apollon",
+      "D'une nymphe poursuivie par Pan",
+      "D'une déesse de la mort",
+      "D'un roi transformé par Zeus"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cyparisse, aimé d'Apollon, avait tué par erreur un cerf qui lui était cher. Pour apaiser son chagrin, le dieu le changea en arbre : le cyprès, devenu symbole de deuil et de vie éternelle.",
+    "source": "D'après Wikipédia — Cyprès"
+  },
+  {
+    "id": "q-nature-127",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle bataille de 1346 vit le triomphe de l'arc long en bois d'if des Anglais ?",
+    "choix": [
+      "Crécy",
+      "Azincourt",
+      "Poitiers",
+      "Hastings"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le bois d'if, dur, élastique et durable, a donné aux Gallois puis aux Anglais le longbow. Son emploi fut décisif à Crécy en 1346, au prix de la quasi-disparition des vastes forêts d'ifs d'Europe.",
+    "source": "D'après Wikipédia — If commun"
+  },
+  {
+    "id": "q-nature-128",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel bois est le seul autorisé comme support des icônes dans l'art sacré orthodoxe ?",
+    "choix": [
+      "Le tilleul",
+      "Le chêne",
+      "Le cèdre",
+      "Le noyer"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tendre, homogène et sans nœuds, le bois de tilleul se sculpte et se peint très bien. Il fut aussi le bois des retables de Veit Stoss et de Tilman Riemenschneider, et celui de Grinling Gibbons en Angleterre.",
+    "source": "D'après Wikipédia — Tilia"
+  },
+  {
+    "id": "q-nature-129",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Qu'est-ce qui menace actuellement les frênes d'Europe, depuis les années 1990 ?",
+    "choix": [
+      "Un champignon d'origine asiatique, à l'origine de la chalarose",
+      "Un coléoptère venu d'Amérique du Sud",
+      "Le gel tardif de printemps",
+      "Un virus transmis par les pucerons"
+    ],
+    "bonneReponse": 0,
+    "explication": "La chalarose est due à un champignon probablement originaire d'Asie, repéré vers 1990 en Pologne puis détecté en France en 2008. Au Danemark, il aurait touché environ 90 % des frênes ; moins de 5 % des arbres semblent résister.",
+    "source": "D'après Wikipédia — Frêne"
+  },
+  {
+    "id": "q-nature-130",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Un peuplier fut le premier arbre dont on a lu tout le génome.",
+    "reponse": true,
+    "explication": "Le peuplier baumier de l'Ouest (Populus trichocarpa) a été choisi pour son petit génome, de 485 millions de paires de bases sur 38 chromosomes, et pour sa croissance de 5 m par an. Son génome a été publié en 2006.",
+    "source": "D'après Wikipédia — Peuplier"
+  },
+  {
+    "id": "q-nature-131",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Comment le chancre coloré du platane serait-il arrivé en Europe ?",
+    "choix": [
+      "Dans des caisses en bois d'armement américain à la fin de la Seconde Guerre mondiale",
+      "Par des plants de platane importés d'Asie au XIXe siècle",
+      "Par les oiseaux migrateurs venus d'Afrique",
+      "Avec du matériel de jardinage vendu en Italie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le champignon Ceratocystis platani, signalé aux États-Unis dès 1929, serait arrivé sur la façade méditerranéenne avec des caisses de bois d'armement américain. Il est resté latent environ 15 ans avant de se propager.",
+    "source": "D'après Wikipédia — Platane"
+  },
+  {
+    "id": "q-nature-132",
+    "domain": "nature",
+    "format": "qui-suis-je",
+    "indices": [
+      "On m'a longtemps cherché dans l'Himalaya, sans succès.",
+      "Mon nom latin évoque le cheval et la châtaigne.",
+      "Mes graines brillantes servent au jeu des conkers.",
+      "Un de mes cousins se dressait devant la fenêtre de l'Annexe secrète, à Amsterdam.",
+      "Mes fleurs en pyramide blanche ombragent parcs et avenues d'Europe."
+    ],
+    "reponse": "Le marronnier d'Inde",
+    "explication": "Malgré son nom, le marronnier vient des Balkans et non d'Inde : John Hawkins en a retrouvé l'origine dans les années 1790. Hippocastanum associe deux mots grecs : « cheval » et « châtaigne ».",
+    "source": "D'après Wikipédia — Aesculus hippocastanum"
+  },
+  {
+    "id": "q-nature-133",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Que signifie, d'après Pline l'Ancien, le nom latin du noyer, Juglans ?",
+    "choix": [
+      "Gland de Jupiter",
+      "Arbre du dieu Mars",
+      "Noix de Gaule",
+      "Fruit du soleil"
+    ],
+    "bonneReponse": 0,
+    "explication": "Juglans viendrait de Jovis glans, « gland de Jupiter ». Les Romains parlaient aussi de nux Gallica, la « noix gauloise », d'où l'anglais walnut, la « noix étrangère ».",
+    "source": "D'après Wikipédia — Noyer"
+  },
+  {
+    "id": "q-nature-134",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Où se trouvent les forêts originelles du pommier sauvage Malus sieversii, ancêtre de nos pommes ?",
+    "choix": [
+      "Au Kazakhstan et au Kirghizistan",
+      "En Normandie",
+      "En Chine du Sud",
+      "En Amérique du Nord"
+    ],
+    "bonneReponse": 0,
+    "explication": "Malus sieversii pousse dans la région d'Almaty, au Kazakhstan et au Kirghizistan. Ces forêts sauvages, où certains arbres atteignent 30 m, sont un réservoir génétique unique pour créer des variétés plus résistantes.",
+    "source": "D'après Wikipédia — Pommier"
+  },
+  {
+    "id": "q-nature-135",
+    "domain": "nature",
+    "format": "frise",
+    "question": "Remets dans l'ordre ces étapes de l'arrivée du marronnier en France.",
+    "evenements": [
+      {
+        "label": "Un jeune marronnier est introduit à Constantinople",
+        "annee": "1557"
+      },
+      {
+        "label": "Charles de L'Écluse reçoit un marron prêt à germer",
+        "annee": "1576"
+      },
+      {
+        "label": "Le marronnier est introduit à Paris",
+        "annee": "1615"
+      },
+      {
+        "label": "Un marronnier est planté au Jardin des Plantes",
+        "annee": "1650"
+      },
+      {
+        "label": "Les marronniers forment 80 % des arbres d'alignement des pépinières de Paris",
+        "annee": "1870"
+      }
+    ],
+    "explication": "Venu des Balkans, le marronnier est passé par Constantinople en 1557 et Vienne en 1576, puis arrive à Paris en 1615. En 1870, il domine les plantations d'alignement de la capitale.",
+    "source": "D'après Wikipédia — Aesculus hippocastanum"
+  },
+  {
+    "id": "q-nature-136",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Dans les oasis, la pollinisation du dattier se fait en grande partie à la main, avec très peu de palmiers mâles.",
+    "reponse": true,
+    "explication": "Dans la nature, le vent pollinise le dattier. En culture, on garde peu de mâles : parfois un pour 100 femelles en Algérie ou en Tunisie. Les agriculteurs de l'oasis apportent le pollen à la main sur les fleurs femelles.",
+    "source": "D'après Wikipédia — Phoenix dactylifera"
+  },
+  {
+    "id": "q-nature-137",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "La figue est un fruit unique, comme une pomme ou une poire, au sens botanique.",
+    "reponse": false,
+    "explication": "La figue est une infrutescence (un sycone) : un réceptacle charnu refermé sur des centaines de minuscules fleurs. Chez certains figuiers, une micro-guêpe pénètre par une petite ouverture pour les polliniser.",
+    "source": "D'après Wikipédia — Ficus carica"
+  },
+  {
+    "id": "q-nature-138",
+    "domain": "nature",
+    "format": "associer",
+    "question": "Associe chaque arbre à ce qu'il a fourni à l'humanité.",
+    "paires": [
+      {
+        "gauche": "Le hêtre",
+        "droite": "Les bâtonnets des runes germaniques",
+        "explication": "Buchstabe, « lettre », veut dire « bâton de hêtre » en allemand."
+      },
+      {
+        "gauche": "L'if",
+        "droite": "Le bois des arcs longs médiévaux",
+        "explication": "Dur et souple, il a armé le longbow des Gallois et des Anglais."
+      },
+      {
+        "gauche": "Le cèdre du Liban",
+        "droite": "Le bois du premier Temple de Jérusalem",
+        "explication": "Odorant et durable, il a servi à bâtir le premier Temple de Jérusalem."
+      },
+      {
+        "gauche": "Le tilleul",
+        "droite": "Le support des icônes orthodoxes",
+        "explication": "Tendre et homogène, c'est le seul bois autorisé pour les icônes."
+      }
+    ],
+    "explication": "Chaque arbre a laissé sa marque dans l'histoire : écriture, guerre, architecture sacrée ou art religieux.",
+    "source": "D'après Wikipédia — Hêtre commun"
   }
 ]

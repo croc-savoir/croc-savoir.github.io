@@ -3320,5 +3320,562 @@
     "reponse": false,
     "explication": "Le bananier peut atteindre 9 m mais n'est pas un arbre : son « tronc » est un faux-tronc, formé des pétioles de ses feuilles qui s'emboîtent. Sa vraie tige est courte et souterraine. C'est la plus grande plante herbacée.",
     "source": "D'après Wikipédia — Banane"
+  },
+  {
+    "id": "q-nature-211",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Le campagnol terrestre porte le nom scientifique Arvicola amphibius, alors qu'il n'est pas amphibie. Que devient un tel nom ?",
+    "choix": [
+      "Il reste inchangé, même s'il est trompeur",
+      "Il est corrigé dès que l'erreur est découverte",
+      "Il devient un simple nom courant",
+      "Il est remplacé par le nom d'un autre genre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une fois adopté officiellement, le nom d'une espèce ne change plus, même si la particularité qu'il évoque est fausse. Seul un changement de genre le modifie. Carex diandra, par exemple, a trois étamines et non deux.",
+    "source": "D'après Wikipédia — Nom binominal"
+  },
+  {
+    "id": "q-nature-212",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Au Japon, quel arbre très planté est le principal responsable du rhume des foins, appelé kafunshō ?",
+    "choix": [
+      "Le cryptomère",
+      "Le bouleau",
+      "L'érable",
+      "Le ginkgo"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le cryptomère (Cryptomeria japonica) couvre 22 000 des 31 000 hectares de forêt de la métropole de Tokyo. La maladie y touchait 25 millions de personnes en 2015. Son nom courant de « cèdre » prête à confusion : les vrais cèdres ne sont pas allergisants.",
+    "source": "D'après Wikipédia — Pollinose"
+  },
+  {
+    "id": "q-nature-213",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "En juin 2013, près de Nantes, les appels pour crises d'asthme ont fortement augmenté. Quel phénomène a joué un rôle ?",
+    "choix": [
+      "Un orage éclatant en pleine floraison du ray-grass",
+      "Une vague de froid soudaine",
+      "Un incendie de forêt dans la région",
+      "Un lâcher de pollen par des fleurs de jardin"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un orage a éclaté pendant que le ray-grass libérait son pollen : les grains éclatent en fines particules qui pénètrent plus profondément dans les voies respiratoires. On a compté 152 appels en quatre jours, contre 27 les quatre jours précédents.",
+    "source": "D'après Wikipédia — Pollinose"
+  },
+  {
+    "id": "q-nature-214",
+    "domain": "nature",
+    "format": "difference",
+    "question": "Quelle est la différence entre une plante holoparasite et une plante hémiparasite ?",
+    "choix": [
+      "L'holoparasite n'a plus de chlorophylle ; l'hémiparasite fait encore sa photosynthèse",
+      "L'holoparasite vit sur les racines ; l'hémiparasite sur les tiges",
+      "L'holoparasite ne parasite que des champignons ; l'hémiparasite des arbres",
+      "L'holoparasite ne vit que dans l'eau ; l'hémiparasite sur terre"
+    ],
+    "bonneReponse": 0,
+    "explication": "La cuscute ou la rafflésie, holoparasites, n'ont pas de chlorophylle et dépendent totalement de leur hôte. Le gui ou le santal, hémiparasites, gardent des feuilles vertes et ne prélèvent que l'eau et les sels minéraux.",
+    "source": "D'après Wikipédia — Plante parasite"
+  },
+  {
+    "id": "q-nature-215",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Que prend un épiphyte, comme une orchidée tropicale, à l'arbre sur lequel il pousse ?",
+    "choix": [
+      "Seulement un support",
+      "De la sève",
+      "Des sels minéraux par ses racines",
+      "Une partie de ses feuilles"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les épiphytes se servent d'une autre plante uniquement comme support : ils font leur photosynthèse et captent l'eau de pluie, de rosée et de brume. C'est ce qui les distingue des parasites, qui prélèvent de la nourriture à leur hôte.",
+    "source": "D'après Wikipédia — Épiphyte"
+  },
+  {
+    "id": "q-nature-216",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Les « plantes grasses » doivent leur nom à la graisse qu'elles stockent dans leurs feuilles.",
+    "reponse": false,
+    "explication": "Faux : elles ne contiennent pas de graisse. Le mot succulente vient du latin suculentus, « plein de suc ». Ces plantes stockent de l'eau dans leurs feuilles, leurs tiges ou leurs racines, jusqu'à 90 à 95 % du poids de certains organes.",
+    "source": "D'après Wikipédia — Plante succulente"
+  },
+  {
+    "id": "q-nature-217",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pour quelle vitamine la girolle compte-t-elle parmi les sources naturelles les plus riches ?",
+    "choix": [
+      "La vitamine D",
+      "La vitamine K",
+      "La vitamine B12",
+      "La vitamine E"
+    ],
+    "bonneReponse": 0,
+    "explication": "La girolle compte parmi les sources les plus riches en vitamine D connues, avec aussi beaucoup de potassium et un taux élevé de vitamine C. Plus de mille tonnes de ce champignon sont ramassées chaque année en France ou au Québec.",
+    "source": "D'après Wikipédia — Cantharellus cibarius"
+  },
+  {
+    "id": "q-nature-218",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Comment le brome des Ardennes, une graminée disparue de la nature, a-t-il pu être remis en culture ?",
+    "choix": [
+      "Grâce à des graines conservées dans des herbiers",
+      "Par clonage de cellules en laboratoire",
+      "En important des plants d'un pays voisin",
+      "En le greffant sur du blé"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans de bonnes conditions, une graine d'herbier réhydratée peut encore germer. C'est ainsi qu'une graminée disparue de la nature, le brome des Ardennes, a retrouvé une seconde vie.",
+    "source": "D'après Wikipédia — Herbier"
+  },
+  {
+    "id": "q-nature-219",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle part de l'énergie alimentaire des humains le riz fournit-il environ ?",
+    "choix": [
+      "20 %",
+      "5 %",
+      "10 %",
+      "40 %"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le riz fournit environ 20 % de l'énergie alimentaire des humains, le blé 19 % et le maïs 5 %. Ces graminées font de la famille des poacées la plus importante de toutes pour l'économie et l'alimentation.",
+    "source": "D'après Wikipédia — Poaceae"
+  },
+  {
+    "id": "q-nature-220",
+    "domain": "nature",
+    "format": "associer",
+    "question": "Associe chaque ancien nom de famille de plantes à son nom moderne en -aceae.",
+    "paires": [
+      {
+        "gauche": "Compositae",
+        "droite": "Asteraceae",
+        "explication": "Compositae est un nom historique, conservé à côté de la forme standard Asteraceae, en -aceae."
+      },
+      {
+        "gauche": "Gramineae",
+        "droite": "Poaceae",
+        "explication": "Gramineae, la famille des herbes et des céréales, s'écrit aussi Poaceae dans la forme standard."
+      },
+      {
+        "gauche": "Leguminosae",
+        "droite": "Fabaceae",
+        "explication": "Leguminosae est un nom ancien dont l'usage est resté si courant qu'il est encore admis, comme Fabaceae."
+      },
+      {
+        "gauche": "Cruciferae",
+        "droite": "Brassicaceae",
+        "explication": "Cruciferae est un nom traditionnel admis à côté de Brassicaceae, la forme en -aceae."
+      }
+    ],
+    "explication": "Quelques noms de familles anciens, trop répandus pour disparaître, restent admis à côté de la forme standard en -aceae. Ainsi Gramineae désigne encore la famille des Poaceae, celle de l'herbe et des céréales.",
+    "source": "D'après Wikipédia — Famille (biologie)"
+  },
+  {
+    "id": "q-nature-221",
+    "domain": "nature",
+    "format": "frise",
+    "question": "Remets dans l'ordre ces étapes de l'histoire de la « famille » en classification.",
+    "evenements": [
+      {
+        "label": "Pierre Magnol emploie le mot « famille » pour soixante-seize groupes de plantes",
+        "annee": "1689"
+      },
+      {
+        "label": "Michel Adanson publie Familles naturelles des plantes",
+        "annee": "1763"
+      },
+      {
+        "label": "Jussieu répartit les plantes en 100 « ordres naturels »",
+        "annee": "1789"
+      },
+      {
+        "label": "Latreille introduit la famille en zoologie",
+        "annee": "1796"
+      },
+      {
+        "label": "William Kirby introduit le suffixe -idae pour les animaux",
+        "annee": "1813"
+      }
+    ],
+    "explication": "Magnol emploie le mot « famille » en 1689, Adanson publie ses Familles naturelles en 1763, Jussieu classe les plantes en 100 ordres naturels en 1789, Latreille introduit la famille en zoologie en 1796 et Kirby fixe le suffixe -idae en 1813.",
+    "source": "D'après Wikipédia — Famille (biologie)"
+  },
+  {
+    "id": "q-nature-222",
+    "domain": "nature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je viens d'Extrême-Orient.",
+      "On me cite parmi les plantes envahissantes visées en France comme au Canada.",
+      "Je colonise les berges de certains fleuves d'Europe occidentale et d'Amérique du Nord.",
+      "Mon nom courant évoque un pays d'Asie."
+    ],
+    "reponse": "La renouée du Japon",
+    "explication": "Importée d'Extrême-Orient, la renouée du Japon envahit les rives de plusieurs fleuves d'Europe de l'Ouest et d'Amérique du Nord. Elle illustre une plante exotique qui, dans un nouveau milieu, modifie profondément l'écosystème.",
+    "source": "D'après Wikipédia — Plante envahissante"
+  },
+  {
+    "id": "q-nature-223",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "D'après la règle des « trois fois dix », la plupart des plantes introduites dans un nouveau milieu y deviennent envahissantes.",
+    "reponse": false,
+    "explication": "Faux : sur 1 000 espèces importées, environ 100 s'installent, 10 se reproduisent et une seule devient envahissante. Chaque étape est un obstacle : survivre hors de son aire d'origine, s'adapter, se reproduire, puis se disperser.",
+    "source": "D'après Wikipédia — Plante envahissante"
+  },
+  {
+    "id": "q-nature-224",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pour un bon compost, quelle proportion de matières brunes faut-il environ pour une part de matières vertes ?",
+    "choix": [
+      "Deux parts de brun pour une de vert",
+      "Une part de brun pour deux de vert",
+      "Dix parts de brun pour une de vert",
+      "Autant de vert que de brun"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un bon compost contient environ deux parts de matières brunes, sèches et riches en carbone (feuilles mortes, carton, paille), pour une part de matières vertes, humides et riches en azote. Ce mélange évite mauvaises odeurs et excès d'humidité.",
+    "source": "D'après Wikipédia — Compostage (biologie)"
+  },
+  {
+    "id": "q-nature-225",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Qu'est-ce que la terra preta d'Amazonie ?",
+    "choix": [
+      "Un équivalent d'humus produit par l'homme à partir de charbon de bois",
+      "Une argile rouge naturelle des forêts tropicales",
+      "Un sol volcanique très fertile",
+      "Une tourbe formée dans des marais"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans la plupart des forêts tropicales, l'humus disparaît vite, car la chaleur le minéralise. En Amazonie, des humains ont pourtant fabriqué avec du charbon de bois une sorte d'humus : la terra preta, ou « terre noire ».",
+    "source": "D'après Wikipédia — Humus"
+  },
+  {
+    "id": "q-nature-226",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Combien de mètres de filaments de champignons une cuillère à café de sol contient-elle en moyenne ?",
+    "choix": [
+      "Environ 200 mètres",
+      "Environ 2 mètres",
+      "Environ 20 mètres",
+      "Environ 2 kilomètres"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans une cuillère à café de sol (environ un gramme), on compte en moyenne 200 mètres de filaments de champignons, avec près d'un milliard de bactéries. Le sol abrite à lui seul environ la moitié de la biodiversité des espèces de la Terre.",
+    "source": "D'après Wikipédia — Sol (pédologie)"
+  },
+  {
+    "id": "q-nature-227",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "D'où vient le mot « cèpe » ?",
+    "choix": [
+      "Du gascon cep, « tronc », à cause de son pied épais",
+      "Du grec bôlos, « motte de terre »",
+      "D'un botaniste bordelais du XVIIIe siècle",
+      "Du latin edulis, « comestible »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cèpe vient du gascon cep, « tronc », à cause du pied épais du champignon. Le nom latin edulis signifie « comestible » et « bolet » vient du grec bôlos, « motte de terre ». En Italie, on dit porcino, littéralement « porcin ».",
+    "source": "D'après Wikipédia — Boletus edulis"
+  },
+  {
+    "id": "q-nature-228",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "La morille a été le tout premier champignon officiel d'un État américain.",
+    "reponse": true,
+    "explication": "Vrai : Morchella esculenta a été nommée champignon officiel du Minnesota, et ce fut le tout premier champignon d'État de l'histoire des États-Unis. Elle porte son nom actuel depuis que Persoon l'a ainsi baptisée en 1801.",
+    "source": "D'après Wikipédia — Morchella esculenta"
+  },
+  {
+    "id": "q-nature-229",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Comment est apparu le champignon blanc qu'on trouve aujourd'hui dans les rayons ?",
+    "choix": [
+      "Par une mutation naturelle, repérée en 1925 dans une ferme de Pennsylvanie",
+      "Par un croisement réalisé à l'Institut Pasteur en 1893",
+      "Par une sélection faite dans les carrières du sud de Paris",
+      "Par une importation d'Égypte au XVIIe siècle"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1925, un exemplaire blanc est apparu par hasard parmi des champignons bruns à la ferme Keystone, en Pennsylvanie. Plus attrayant, il a été multiplié : la plupart des champignons crème actuels en descendent.",
+    "source": "D'après Wikipédia — Agaricus bisporus"
+  },
+  {
+    "id": "q-nature-230",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel champignon comestible est le premier dont le génome a été entièrement séquencé, en 2010 ?",
+    "choix": [
+      "La truffe noire du Périgord",
+      "Le champignon de Paris",
+      "Le cèpe de Bordeaux",
+      "La morille"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un consortium franco-italien, avec le Genoscope, a lu l'ADN de la truffe noire en 2010 : 125 mégabases mais seulement 7 500 gènes. Ce génome sert aussi à repérer des fraudes sur l'origine des truffes.",
+    "source": "D'après Wikipédia — Truffe noire"
+  },
+  {
+    "id": "q-nature-231",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "La « levure chimique » utilisée en cuisine est une levure vivante, comme celle du pain.",
+    "reponse": false,
+    "explication": "La levure chimique est un simple mélange chimique qui fait gonfler la pâte. La vraie levure, comme Saccharomyces cerevisiae, est un champignon microscopique qui transforme le sucre en alcool et en gaz carbonique.",
+    "source": "D'après Wikipédia — Levure"
+  },
+  {
+    "id": "q-nature-232",
+    "domain": "nature",
+    "format": "associer",
+    "question": "Associe chaque moisissure à l'aliment qu'elle sert à fabriquer.",
+    "paires": [
+      {
+        "gauche": "Penicillium roqueforti",
+        "droite": "Le roquefort",
+        "explication": "Cette moisissure est visible dans les veines bleues du fromage."
+      },
+      {
+        "gauche": "Penicillium camemberti",
+        "droite": "Le camembert",
+        "explication": "Elle forme la croûte blanche et duveteuse du fromage."
+      },
+      {
+        "gauche": "Aspergillus oryzae (koji)",
+        "droite": "La sauce de soja et le saké",
+        "explication": "Cultivé depuis des siècles en Asie de l'Est, le koji fait fermenter soja et riz."
+      },
+      {
+        "gauche": "Rhizopus oligosporus",
+        "droite": "Le tempeh",
+        "explication": "Cette moisissure fait fermenter le soja en galette compacte."
+      }
+    ],
+    "explication": "Les moisissures ne servent pas qu'à gâter les aliments. Des Penicillium affinent des fromages, les Aspergillus du koji fermentent le soja et le riz, et un Rhizopus fabrique le tempeh.",
+    "source": "D'après Wikipédia — Moisissure"
+  },
+  {
+    "id": "q-nature-233",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Qui est considéré comme le premier mycologue scientifique, auteur de 86 aquarelles de champignons peintes d'après nature ?",
+    "choix": [
+      "Charles de L'Écluse, dit Clusius",
+      "Carl von Linné",
+      "Pierre Bulliard",
+      "Joseph Pitton de Tournefort"
+    ],
+    "bonneReponse": 0,
+    "explication": "Charles de L'Écluse a fait peindre 86 aquarelles d'après nature, conservées à Leyde, pour illustrer son traité sur les champignons de Pannonie. Il est considéré comme le premier mycologue scientifique, bien avant Linné.",
+    "source": "D'après Wikipédia — Mycologie"
+  },
+  {
+    "id": "q-nature-234",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Comment appelait-on au Moyen Âge l'ergotisme, la maladie causée par l'ergot du seigle ?",
+    "choix": [
+      "Le feu de saint Antoine, ou mal des ardents",
+      "Le mal des marais",
+      "La peste noire",
+      "La fièvre des tranchées"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'ergotisme venait de pain fait avec du seigle contaminé. Les malades souffraient de brûlures dans les membres et d'hallucinations. Saint Antoine était leur patron, et son ordre hospitalier les soignait.",
+    "source": "D'après Wikipédia — Ergot du seigle"
+  },
+  {
+    "id": "q-nature-235",
+    "domain": "nature",
+    "format": "frise",
+    "question": "Remets dans l'ordre ces moments de l'histoire de l'ergot du seigle.",
+    "evenements": [
+      {
+        "label": "Un texte scientifique relie l'ergot aux épidémies",
+        "annee": "1676"
+      },
+      {
+        "label": "Le cycle de vie du champignon est décrit",
+        "annee": "1853"
+      },
+      {
+        "label": "Arthur Stoll isole l'ergotamine",
+        "annee": "1918"
+      },
+      {
+        "label": "Albert Hofmann synthétise le LSD",
+        "annee": "1938"
+      },
+      {
+        "label": "Les intoxications de Pont-Saint-Esprit",
+        "annee": "1951"
+      }
+    ],
+    "explication": "Le lien entre l'ergot et les épidémies apparaît en 1676, le cycle du champignon est décrit en 1853. Stoll isole l'ergotamine en 1918, Hofmann synthétise le LSD en 1938, et le pain de Pont-Saint-Esprit rend malade en 1951.",
+    "source": "D'après Wikipédia — Ergot du seigle"
+  },
+  {
+    "id": "q-nature-236",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Que devient le chapeau du coprin chevelu quand le champignon vieillit ?",
+    "choix": [
+      "Il se liquéfie en un liquide noir plein de spores",
+      "Il durcit et devient ligneux",
+      "Il se transforme en poussière brune",
+      "Il se couvre d'un duvet blanc"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le coprin chevelu est déliquescent : ses lames passent du blanc au rose puis au noir d'encre, et le chapeau fond en un liquide noir chargé de spores, parfois en quelques heures. Il ne reste alors parfois que le pied.",
+    "source": "D'après Wikipédia — Coprin chevelu"
+  },
+  {
+    "id": "q-nature-237",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "D'où vient le nom Cladonia, genre des lichens des rennes ?",
+    "choix": [
+      "Du grec klados, « rameau »",
+      "Du grec kladeia, « renne »",
+      "Du latin cladus, « coupe »",
+      "Du norrois klad, « mousse »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nom vient du grec klados, « rameau », à cause des tiges ramifiées de ces lichens. Les Cladonia dominent la toundra et les forêts boréales, où ils nourrissent les rennes et les caribous, surtout en hiver.",
+    "source": "D'après Wikipédia — Cladonia"
+  },
+  {
+    "id": "q-nature-238",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pourquoi les champignons d'un rond de sorcières forment-ils un cercle ?",
+    "choix": [
+      "Un mycélium issu d'une spore s'étend dans toutes les directions à vitesse égale",
+      "Les sorcières y piétinent le sol lors de leurs rondes",
+      "La foudre y a brûlé l'herbe",
+      "Le vent y rabat les spores en cercle"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une seule spore germe et le mycélium s'étend à vitesse à peu près égale dans toutes les directions : le front de croissance est circulaire. Le cercle grandit de 5 à 40 cm par an, ce qui permet d'estimer l'âge du rond.",
+    "source": "D'après Wikipédia — Rond de sorcières"
+  },
+  {
+    "id": "q-nature-239",
+    "domain": "nature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je n'ai ni pied ni chapeau séparés.",
+      "Mon nom savant, Lycoperdon, vient du grec.",
+      "Chez les Britanniques, on m'appelle puffball.",
+      "En vieillissant, je deviens un sac de poussière brune, des millions de spores.",
+      "Le calendrier républicain a consacré un jour du mois de fructidor à mon nom."
+    ],
+    "reponse": "La vesse-de-loup",
+    "explication": "La vesse-de-loup se transforme en sac plein de spores qui jaillissent quand on appuie dessus. Lycoperdon signifie « pet de loup », et le 3e jour de fructidor du calendrier républicain lui était consacré.",
+    "source": "D'après Wikipédia — Vesse-de-loup"
+  },
+  {
+    "id": "q-nature-240",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Phytophthora infestans, responsable du mildiou de la pomme de terre, est un vrai champignon.",
+    "reponse": false,
+    "explication": "C'est un oomycète : ses parois sont faites de cellulose et non de chitine, et ses spores nagent. Il est plus proche des algues et des diatomées que des champignons, même si on l'a longtemps classé parmi eux.",
+    "source": "D'après Wikipédia — Mildiou de la pomme de terre"
+  },
+  {
+    "id": "q-nature-241",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Comment s'appelle la zone très trouble d'un estuaire où l'eau douce, chargée de particules, rencontre l'eau salée ?",
+    "choix": [
+      "Le bouchon vaseux",
+      "La slikke",
+      "Le schorre",
+      "Le cobier"
+    ],
+    "bonneReponse": 0,
+    "explication": "Quand l'eau douce chargée de particules rencontre l'eau salée, les plus fines s'agglomèrent en flocons. Cela forme le bouchon vaseux, zone de turbidité maximale qui se déplace au rythme des marées.",
+    "source": "D'après Wikipédia — Estuaire"
+  },
+  {
+    "id": "q-nature-242",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pourquoi a-t-on créé la plupart des étangs, à partir du Moyen Âge ?",
+    "choix": [
+      "Pour élever du poisson",
+      "Pour stocker de la glace",
+      "Pour abreuver le bétail l'hiver",
+      "Pour défendre les villes"
+    ],
+    "bonneReponse": 0,
+    "explication": "La majorité des étangs sont artificiels. À partir du Moyen Âge, on a barré des ruisseaux pour y élever du poisson, notamment grâce aux digues des abbayes. Dans la Dombes, cette pisciculture se pratique encore.",
+    "source": "D'après Wikipédia — Étang"
+  },
+  {
+    "id": "q-nature-243",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Un lac contient toujours de l'eau douce, alors que l'eau de mer est salée.",
+    "reponse": false,
+    "explication": "Certains lacs sont plus salés que la mer : dans le Grand Lac Salé, on mesure environ 250 g de sel par litre, alors que la mer Baltique en compte moins de 4 g. La salinité ne distingue donc pas un lac d'une mer.",
+    "source": "D'après Wikipédia — Lac"
+  },
+  {
+    "id": "q-nature-244",
+    "domain": "nature",
+    "format": "difference",
+    "question": "Quelle est la différence entre un marais et un marécage ?",
+    "choix": [
+      "Le marécage est couvert à plus de 25 % d'arbustes ou d'arbres, le marais n'a pas d'arbres",
+      "Le marais est salé, le marécage est d'eau douce",
+      "Le marais est plus profond que le marécage",
+      "Le marais est toujours artificiel, le marécage naturel"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un marais est dominé par des herbes comme les roseaux ou les joncs, sans arbres. Dans un marécage, plus de 25 % de la surface est couverte d'arbustes ou d'arbres, et des marais peuvent s'y étendre.",
+    "source": "D'après Wikipédia — Marais"
+  },
+  {
+    "id": "q-nature-245",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Comment s'appelle l'outil des paludiers qui sert à cueillir la fleur de sel ?",
+    "choix": [
+      "La lousse",
+      "Le las",
+      "La faux",
+      "Le râteau à moule"
+    ],
+    "bonneReponse": 0,
+    "explication": "La lousse sert à cueillir la fleur de sel, fine pellicule de cristaux qui flotte à la surface des œillets. Le las, lui, ramasse le gros sel déposé au fond. À Guérande, la récolte se fait à la main, de juin à septembre.",
+    "source": "D'après Wikipédia — Marais salant"
+  },
+  {
+    "id": "q-nature-246",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Sur une montagne, les étages de végétation commencent plus bas sur le versant ombragé (ubac) que sur le versant ensoleillé (adret).",
+    "reponse": true,
+    "explication": "Sur les pentes tournées vers le nord, à l'ombre, chaque étage démarre plus bas que sur les pentes sud. Il en va de même quand on remonte vers les hautes latitudes : sous nos climats, le froid est le facteur décisif.",
+    "source": "D'après Wikipédia — Étagement altitudinal"
   }
 ]

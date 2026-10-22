@@ -3877,5 +3877,540 @@
     "reponse": true,
     "explication": "Sur les pentes tournées vers le nord, à l'ombre, chaque étage démarre plus bas que sur les pentes sud. Il en va de même quand on remonte vers les hautes latitudes : sous nos climats, le froid est le facteur décisif.",
     "source": "D'après Wikipédia — Étagement altitudinal"
+  },
+  {
+    "id": "q-nature-247",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Un alpage et l'étage alpin désignent exactement la même chose.",
+    "reponse": false,
+    "explication": "Un alpage est un pâturage de montagne utilisé pour l'estive, alors que l'étage alpin est une tranche d'altitude. Les deux sont souvent confondus, et le mot alpage désigne parfois aussi la période d'estive.",
+    "source": "D'après Wikipédia — Alpage"
+  },
+  {
+    "id": "q-nature-248",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Comment se forme un tube de lave, un type de grotte volcanique ?",
+    "choix": [
+      "La surface d'une coulée se fige en croûte isolante pendant que la lave liquide continue de couler dessous",
+      "L'eau de pluie dissout le basalte pendant des millions d'années",
+      "Les vagues creusent une coulée refroidie au bord de la mer",
+      "Un glacier fond et laisse un tunnel dans la lave"
+    ],
+    "bonneReponse": 0,
+    "explication": "La croûte refroidie isole la lave encore chaude, qui continue de couler en dessous. Quand la plupart de la lave s'est écoulée, il reste un tunnel vide. La Kazumura Cave, à Hawaï, mesure ainsi 65,6 km.",
+    "source": "D'après Wikipédia — Grotte"
+  },
+  {
+    "id": "q-nature-249",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Hawaï, La Réunion et Tristan da Cunha sont des îles volcaniques formées par quel mécanisme ?",
+    "choix": [
+      "Un point chaud, au-dessus duquel la plaque se déplace",
+      "La subduction d'une plaque sous une autre",
+      "L'ouverture d'un rift à la surface de l'océan",
+      "L'impact d'une météorite dans l'océan"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un point chaud est quasi fixe alors que la plaque glisse au-dessus : cela dessine une ligne d'îles. Les arcs de subduction (Mariannes, Aléoutiennes) et les rifts (Islande, Surtsey) donnent d'autres types d'îles volcaniques.",
+    "source": "D'après Wikipédia — Île volcanique"
+  },
+  {
+    "id": "q-nature-250",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "À quoi servaient les pointes d'ajonc pilées dans les landes bretonnes, les années de disette de fourrage ?",
+    "choix": [
+      "À nourrir le bétail, surtout les chevaux",
+      "À couvrir les toits des chaumières",
+      "À fabriquer des cordes pour les bateaux",
+      "À fumer le poisson"
+    ],
+    "bonneReponse": 0,
+    "explication": "En Bretagne, on tirait mille usages de la lande : le genêt couvrait les chaumières, les racines de bruyère servaient de bois de chauffage et, quand le fourrage manquait, l'ajonc pilé nourrissait surtout les chevaux.",
+    "source": "D'après Wikipédia — Lande"
+  },
+  {
+    "id": "q-nature-251",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Des hominines très anciens, comme Ardipithecus ramidus, ont vécu dans des forêts galeries.",
+    "reponse": true,
+    "explication": "Ces forêts qui bordent les rivières, au milieu de paysages ouverts, ont abrité des hominines précoces : Ardipithecus ramidus, Australopithecus anamensis et Homo rudolfensis y ont vécu.",
+    "source": "D'après Wikipédia — Forêt galerie"
+  },
+  {
+    "id": "q-nature-252",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle ressource, longtemps négligée, fournit près de la moitié de l'énergie quotidienne du bécasseau d'Alaska sur les vasières ?",
+    "choix": [
+      "Le biofilm d'algues et de bactéries qui recouvre la vase",
+      "Les graines de salicorne",
+      "Les petits poissons piégés dans les mares",
+      "Les œufs des autres oiseaux"
+    ],
+    "bonneReponse": 0,
+    "explication": "On pensait ce biofilm réservé aux petits invertébrés. Il représente en réalité de 45 à 59 % de la ration de l'oiseau, soit environ la moitié de son budget énergétique quotidien. C'est un maillon clé de l'estran.",
+    "source": "D'après Wikipédia — Estran"
+  },
+  {
+    "id": "q-nature-253",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Qui a utilisé le terme « niche » dans un programme de recherche en 1917, en étudiant un oiseau de Californie ?",
+    "choix": [
+      "Joseph Grinnell",
+      "Charles Elton",
+      "G. E. Hutchinson",
+      "Eugene Odum"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans un article de 1917 consacré au moqueur de Californie, Joseph Grinnell lance le concept de niche en recherche. Le terme avait déjà été forgé par Roswell Hill Johnson. Elton (1927) et Hutchinson (1957) proposeront ensuite d'autres définitions.",
+    "source": "D'après Wikipédia — Niche écologique"
+  },
+  {
+    "id": "q-nature-254",
+    "domain": "nature",
+    "format": "difference",
+    "question": "Quelle est la différence entre la niche fondamentale et la niche réalisée d'une espèce ?",
+    "choix": [
+      "La fondamentale réunit toutes les conditions où l'espèce pourrait vivre ; la réalisée est plus étroite à cause de la compétition",
+      "La fondamentale concerne les animaux, la réalisée les plantes",
+      "La fondamentale est celle du jeune, la réalisée celle de l'adulte",
+      "La fondamentale est celle d'avant l'extinction, la réalisée celle d'aujourd'hui"
+    ],
+    "bonneReponse": 0,
+    "explication": "Selon Hutchinson (1957), la niche fondamentale est l'espace des conditions où une espèce peut exister. La niche réalisée est la part qu'elle occupe vraiment, réduite par les concurrents présents.",
+    "source": "D'après Wikipédia — Niche écologique"
+  },
+  {
+    "id": "q-nature-255",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quels organismes s'installent en premier sur une coulée de lave refroidie, au début d'une succession écologique ?",
+    "choix": [
+      "Des espèces pionnières : bactéries, champignons, lichens",
+      "Des chênes et des hêtres",
+      "Des fougères géantes",
+      "Des herbes vivaces et des arbustes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sur un substrat vierge (lave, éboulis, mur de pierre), les pionniers arrivent d'abord : bactéries, champignons, lichens. Ils préparent le sol pour les herbes, puis les buissons, les arbustes et enfin les arbres.",
+    "source": "D'après Wikipédia — Succession écologique"
+  },
+  {
+    "id": "q-nature-256",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel écologue a inventé le mot « biome » dans un texte de 1916 ?",
+    "choix": [
+      "Frederic Edward Clements",
+      "Arthur Tansley",
+      "Victor Ernest Shelford",
+      "Leslie Holdridge"
+    ],
+    "bonneReponse": 0,
+    "explication": "C'est Frederic Clements qui emploie le terme dans un texte de 1916. Shelford le définit en 1931, Tansley invente l'écosystème en 1935 et Holdridge propose sa classification des zones de vie en 1947. Biome vient du grec bios, « vie ».",
+    "source": "D'après Wikipédia — Biome"
+  },
+  {
+    "id": "q-nature-257",
+    "domain": "nature",
+    "format": "frise",
+    "question": "Remets ces événements volcaniques dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Éruption du Vésuve, décrite par Pline le Jeune",
+        "annee": "79"
+      },
+      {
+        "label": "Éruption de la montagne Pelée en Martinique (28 000 morts)",
+        "annee": "1902"
+      },
+      {
+        "label": "Naissance de l'île de Surtsey",
+        "annee": "1963"
+      },
+      {
+        "label": "Éruption du Nevado del Ruiz et destruction d'Armero par des lahars",
+        "annee": "1985"
+      },
+      {
+        "label": "Éruption du Grímsvötn sous le Vatnajökull, suivie d'un jökulhlaup",
+        "annee": "1996"
+      }
+    ],
+    "explication": "Le Vésuve (79) précède la montagne Pelée (1902), Surtsey (1963), le Nevado del Ruiz (1985) et le Grímsvötn (1996). Trois de ces éruptions mettent en jeu de l'eau ou de la glace.",
+    "source": "D'après Wikipédia — Éruption volcanique"
+  },
+  {
+    "id": "q-nature-258",
+    "domain": "nature",
+    "format": "associer",
+    "question": "Associe chaque ceinture sismique à la part de l'énergie sismique annuelle qu'elle libère.",
+    "paires": [
+      {
+        "gauche": "Ceinture de feu du Pacifique",
+        "droite": "80 %",
+        "explication": "La grande majorité de l'énergie sismique y est libérée."
+      },
+      {
+        "gauche": "Ceinture alpine",
+        "droite": "15 %",
+        "explication": "Elle traverse le sud de l'Europe et l'Asie."
+      },
+      {
+        "gauche": "Dorsales océaniques",
+        "droite": "5 %",
+        "explication": "Des séismes superficiels, aux foyers de 0 à 10 km."
+      }
+    ],
+    "explication": "Les séismes se concentrent aux limites des plaques tectoniques : la ceinture de feu du Pacifique libère 80 % de l'énergie sismique annuelle, la ceinture alpine 15 % et les dorsales océaniques 5 %.",
+    "source": "D'après Wikipédia — Séisme"
+  },
+  {
+    "id": "q-nature-259",
+    "domain": "nature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom japonais est formé de deux mots, « port » et « vague ».",
+      "En eau profonde, je ne dépasse pas quelques décimètres de hauteur.",
+      "Je peux filer à plus de 800 km/h.",
+      "Un terme trompeur, « raz-de-marée », a été abandonné au profit de mon nom en 1963.",
+      "On m'illustre souvent à tort avec La Grande Vague de Kanagawa."
+    ],
+    "reponse": "Le tsunami",
+    "explication": "Le tsunami est une série d'ondes très longues créées par un déplacement d'eau. Près des côtes, il ralentit et grandit, jusqu'à dépasser parfois 30 m. La Grande Vague de Kanagawa montre, elle, une vague scélérate.",
+    "source": "D'après Wikipédia — Tsunami"
+  },
+  {
+    "id": "q-nature-260",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Un cri ou un bruit très fort peut déclencher une avalanche.",
+    "reponse": false,
+    "explication": "C'est une idée reçue : la pression d'une onde sonore est des milliers de fois trop faible. Une avalanche part d'une surcharge de neige, d'un redoux, de la pluie, d'un séisme, ou d'un skieur qui rompt la couche fragile.",
+    "source": "D'après Wikipédia — Avalanche"
+  },
+  {
+    "id": "q-nature-261",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Que charrient les crues annuelles du Bangladesh, indispensables à la fertilité de ses terres ?",
+    "choix": [
+      "Du limon descendu de l'Himalaya",
+      "Du sable venu du désert",
+      "Des cendres volcaniques",
+      "Du sel marin"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les crues apportent environ 2 millions de tonnes de limon venu de l'Himalaya. Mais quand moussons et fonte des neiges se cumulent, comme en 1998, 66 % du pays peut se retrouver sous l'eau.",
+    "source": "D'après Wikipédia — Inondation"
+  },
+  {
+    "id": "q-nature-262",
+    "domain": "nature",
+    "format": "difference",
+    "question": "Quelle est la différence entre sécheresse et aridité ?",
+    "choix": [
+      "L'aridité est le trait permanent d'un climat sec ; la sécheresse est un épisode temporaire de manque d'eau",
+      "La sécheresse ne concerne que le désert, l'aridité que l'agriculture",
+      "L'aridité dure quelques jours, la sécheresse plusieurs siècles",
+      "Il n'y a aucune différence entre les deux termes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une région aride a de faibles précipitations en moyenne, en permanence. La sécheresse est un déficit d'eau qui survient pendant une période donnée, et qui peut toucher aussi un pays au climat humide.",
+    "source": "D'après Wikipédia — Sécheresse"
+  },
+  {
+    "id": "q-nature-263",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "À partir de quelle visibilité horizontale les météorologues parlent-ils de brouillard plutôt que de brume ?",
+    "choix": [
+      "Moins d'un kilomètre",
+      "Moins de 100 mètres",
+      "Moins de 5 kilomètres",
+      "Moins de 10 kilomètres"
+    ],
+    "bonneReponse": 0,
+    "explication": "Par convention, on parle de brouillard quand la visibilité est inférieure à un kilomètre, et de brume au-delà. Les marins, eux, emploient souvent « brume » quelle que soit la visibilité.",
+    "source": "D'après Wikipédia — Brouillard"
+  },
+  {
+    "id": "q-nature-264",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle plante carnivore couvre ses feuilles de gouttes qui ressemblent à de la rosée mais sont des pièges collants ?",
+    "choix": [
+      "Le drosera",
+      "La dionée attrape-mouche",
+      "L'utriculaire",
+      "La sarracénie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les gouttes brillantes du drosera sont des sucs collants et digestifs qui piègent les insectes. Ses anciens noms populaires, comme « rosée-du-soleil », rappellent cette ressemblance trompeuse avec la vraie rosée.",
+    "source": "D'après Wikipédia — Rosée"
+  },
+  {
+    "id": "q-nature-265",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pourquoi les gouttelettes qui forment le givre peuvent-elles rester liquides sous 0 °C ?",
+    "choix": [
+      "Elles sont en surfusion : sans noyau de congélation, elles ne gèlent pas avant de toucher une surface",
+      "Elles sont chargées de sel, ce qui abaisse leur point de congélation",
+      "Elles sont chauffées par le vent qui les transporte",
+      "Elles sont si grosses que le froid ne les pénètre pas"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'eau pure peut rester liquide jusqu'à -39 °C si elle ne rencontre aucun noyau de congélation. C'est la surfusion : au contact d'une surface froide, la goutte gèle d'un coup et construit peu à peu le dépôt de givre.",
+    "source": "D'après Wikipédia — Givre"
+  },
+  {
+    "id": "q-nature-266",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle forme géométrique est commune à tous les cristaux de neige ?",
+    "choix": [
+      "Une structure hexagonale",
+      "Une structure carrée",
+      "Une structure triangulaire",
+      "Une structure pentagonale"
+    ],
+    "bonneReponse": 0,
+    "explication": "Quelle que soit leur forme, plaques, aiguilles, colonnes ou étoiles, tous les cristaux de neige sont bâtis sur un réseau hexagonal. C'est déjà ce que Kepler avait remarqué en 1611 dans son traité sur la neige à six angles.",
+    "source": "D'après Wikipédia — Neige"
+  },
+  {
+    "id": "q-nature-267",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Un mirage est une hallucination : on ne peut donc pas le photographier.",
+    "reponse": false,
+    "explication": "Un mirage est un phénomène optique bien réel : la lumière est réellement déviée par des couches d'air de températures différentes. On peut donc le photographier. Seule son interprétation, comme une flaque d'eau, vient de notre esprit.",
+    "source": "D'après Wikipédia — Mirage"
+  },
+  {
+    "id": "q-nature-268",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "D'où vient le nom du mirage appelé « Fata Morgana » ?",
+    "choix": [
+      "De Morgane, la fée demi-sœur du roi Arthur, en italien",
+      "D'un navigateur portugais qui l'aurait décrit en premier",
+      "D'une oasis du Sahara où on l'observait souvent",
+      "D'un mot arabe signifiant « eau lointaine »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Fata Morgana est l'italien de « la fée Morgane », demi-sœur du roi Arthur, qui pouvait changer de forme. Le nom convient bien à ce mirage complexe, fait d'images empilées qui se transforment en quelques secondes.",
+    "source": "D'après Wikipédia — Mirage"
+  },
+  {
+    "id": "q-nature-269",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Qui a publié en 1769 la première carte du Gulf Stream, avec les vitesses du courant ?",
+    "choix": [
+      "Benjamin Franklin",
+      "Juan Ponce de León",
+      "Matthew Fontaine Maury",
+      "Athanasius Kircher"
+    ],
+    "bonneReponse": 0,
+    "explication": "Benjamin Franklin publie en 1769 la première carte du Gulf Stream, puis une version améliorée en 1776 à Paris. Il prenait la température de l'eau pendant ses traversées, mais les navires ne suivirent pas d'abord ses indications.",
+    "source": "D'après Wikipédia — Courant marin"
+  },
+  {
+    "id": "q-nature-270",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Un vent d'ouest souffle vers l'ouest.",
+    "reponse": false,
+    "explication": "En météorologie, on nomme un vent d'après la direction d'où il vient. Un vent d'ouest souffle donc de l'ouest vers l'est, un vent du nord vers le sud. C'est parfois contre-intuitif, mais c'est la règle partout.",
+    "source": "D'après Wikipédia — Vent"
+  },
+  {
+    "id": "q-nature-271",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Comment s'appelle l'éclatement des roches provoqué par l'alternance gel-dégel de l'eau infiltrée ?",
+    "choix": [
+      "La cryoclastie",
+      "L'hydrolyse",
+      "La karstification",
+      "La sédimentation"
+    ],
+    "bonneReponse": 0,
+    "explication": "En gelant, l'eau prise dans les fissures gonfle et pousse assez fort pour faire éclater la roche : c'est la cryoclastie, ou gélifraction. En montagne, elle fait tomber des blocs et forme des éboulis.",
+    "source": "D'après Wikipédia — Érosion"
+  },
+  {
+    "id": "q-nature-272",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "De combien de mètres le sol des villes s'est-il surélevé en moyenne en deux mille ans, par accumulation de remblais ?",
+    "choix": [
+      "Entre huit et douze mètres",
+      "De un à deux mètres",
+      "De trente à quarante mètres",
+      "De moins de cinquante centimètres"
+    ],
+    "bonneReponse": 0,
+    "explication": "Gravats, limons et déchets organiques étaient nivelés sur place et réutilisés en remblais. Résultat : entre huit et douze mètres gagnés en deux mille ans, soit quatre à six millimètres par an. Une vraie mine d informations pour les archéologues.",
+    "source": "D'après Wikipédia — Sédimentation"
+  },
+  {
+    "id": "q-nature-273",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Que signifie le mot « solstice », d'après son origine latine ?",
+    "choix": [
+      "Le Soleil qui se tient immobile",
+      "Le Soleil le plus haut dans le ciel",
+      "Le jour égal à la nuit",
+      "Le retour du Soleil"
+    ],
+    "bonneReponse": 0,
+    "explication": "Solstice vient du latin solstitium, de sol (soleil) et stare (se tenir debout, rester immobile). À ces dates, la hauteur du Soleil dans le ciel semble s'arrêter quelques jours avant de repartir dans l'autre sens.",
+    "source": "D'après Wikipédia — Solstice"
+  },
+  {
+    "id": "q-nature-274",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle enzyme permet à certaines bactéries de capter l'azote de l'air ?",
+    "choix": [
+      "La nitrogénase",
+      "La catalase",
+      "L'amylase",
+      "La lipase"
+    ],
+    "bonneReponse": 0,
+    "explication": "La nitrogénase casse la triple liaison très solide de la molécule d'azote pour la transformer en ammoniac. Seules quelques bactéries en sont capables, d'où leur rôle d'entrée dans le cycle de l'azote.",
+    "source": "D'après Wikipédia — Cycle de l'azote"
+  },
+  {
+    "id": "q-nature-275",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle serait environ la température moyenne de la Terre sans aucun effet de serre naturel ?",
+    "choix": [
+      "Environ -18 °C",
+      "Environ +5 °C",
+      "Environ -40 °C",
+      "Environ +30 °C"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sans effet de serre, la Terre aurait une température moyenne d'environ -18 °C, contre environ 15 °C réellement. L'effet de serre naturel apporte donc quelque 33 °C, ce qui rend la planète habitable.",
+    "source": "D'après Wikipédia — Effet de serre"
+  },
+  {
+    "id": "q-nature-276",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel accord signé en 1987 vise à bannir les substances qui détruisent la couche d'ozone ?",
+    "choix": [
+      "Le protocole de Montréal",
+      "Le protocole de Kyoto",
+      "La convention de Ramsar",
+      "L'accord de Paris"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le protocole de Montréal, signé en 1987 après la découverte du trou antarctique, vise à supprimer les CFC et autres gaz chlorés ou bromés qui détruisent l'ozone stratosphérique. Il est souvent cité comme une réussite.",
+    "source": "D'après Wikipédia — Couche d'ozone"
+  },
+  {
+    "id": "q-nature-277",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Qu'est-ce qui distingue le cycle du phosphore des autres grands cycles biogéochimiques ?",
+    "choix": [
+      "Il n'a pratiquement pas de phase gazeuse",
+      "Il ne passe jamais par les êtres vivants",
+      "Il se déroule uniquement dans l'océan",
+      "Il est entièrement contrôlé par des bactéries"
+    ],
+    "bonneReponse": 0,
+    "explication": "Contrairement au carbone ou à l'azote, le phosphore n'a pratiquement pas de composante gazeuse : il n'affecte presque pas l'atmosphère. Sa disponibilité dépend de l'altération des roches, ce qui explique sa lenteur.",
+    "source": "D'après Wikipédia — Cycle du phosphore"
+  },
+  {
+    "id": "q-nature-278",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel mot Ernst Haeckel a-t-il créé en 1866, à partir du grec oikos, « demeure » ?",
+    "choix": [
+      "Écologie",
+      "Génétique",
+      "Éthologie",
+      "Biodiversité"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1866, Haeckel invente le mot « écologie », l'étude des relations entre les êtres vivants et leur milieu. Il vient du grec oikos, qui signifie demeure, ou milieu. On le considère pour cela comme le père de l'écologie.",
+    "source": "D'après Wikipédia — Ernst Haeckel"
+  },
+  {
+    "id": "q-nature-279",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Dans quelles circonstances Pline l'Ancien est-il mort, en 79 ?",
+    "choix": [
+      "Pendant l'éruption du Vésuve, en voulant observer le phénomène et secourir des amis",
+      "Au combat, en Germanie, à la tête d'un corps de cavalerie",
+      "Dans un naufrage, en quittant la Gaule narbonnaise",
+      "À Rome, pendant le grand incendie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Préfet de la flotte de Misène, Pline traverse la baie de Naples pour observer l'éruption du Vésuve et porter secours à des amis. Il meurt à Stabies, sans doute asphyxié. Son neveu Pline le Jeune a raconté la scène.",
+    "source": "D'après Wikipédia — Pline l'Ancien"
+  },
+  {
+    "id": "q-nature-280",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel mot, selon de nombreux historiens, Ulisse Aldrovandi aurait-il été le premier à employer ?",
+    "choix": [
+      "Géologie",
+      "Écologie",
+      "Paléontologie",
+      "Minéralogie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Retenu à Rome après une accusation d'hérésie en 1549, Aldrovandi se passionne pour la botanique, la zoologie et la géologie. De nombreux historiens lui attribuent la première utilisation de ce dernier mot.",
+    "source": "D'après Wikipédia — Ulisse Aldrovandi"
+  },
+  {
+    "id": "q-nature-281",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Qu'a réalisé Conrad Gessner en 1545 avec sa Bibliotheca universalis ?",
+    "choix": [
+      "Le premier grand catalogue bibliographique des livres imprimés",
+      "Le premier atlas des montagnes des Alpes",
+      "Le premier herbier illustré de la flore suisse",
+      "Le premier dictionnaire de la langue allemande"
+    ],
+    "bonneReponse": 0,
+    "explication": "À l'époque, les catalogues de livres n'existaient pas. Gessner recense les auteurs et leurs œuvres en latin, grec et hébreu, avec des détails de publication, ce qui en fait un pionnier de la recherche bibliographique européenne.",
+    "source": "D'après Wikipédia — Conrad Gessner"
+  },
+  {
+    "id": "q-nature-282",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Que raconte la légende au sujet des cèdres du Liban rapportés de Londres par Bernard de Jussieu en 1734 ?",
+    "choix": [
+      "Il les aurait transportés dans son chapeau, après avoir brisé le pot",
+      "Il les aurait fait voyager dans un tonneau d'eau douce",
+      "Il les aurait cachés dans sa manche pour passer la douane",
+      "Il les aurait confiés à un navire de la marine royale"
+    ],
+    "bonneReponse": 0,
+    "explication": "Selon la légende, le pot se serait brisé pendant le trajet et Jussieu aurait gardé les jeunes cèdres dans son chapeau. L'un d'eux pousse toujours sur la butte du labyrinthe du Jardin des plantes de Paris.",
+    "source": "D'après Wikipédia — Bernard de Jussieu"
   }
 ]

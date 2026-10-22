@@ -1599,5 +1599,580 @@
     "reponse": false,
     "explication": "Faux, c'est une légende urbaine. L'oiseau a pu servir à faire des pâtés, mais son nom vient du latin turturella (tourterelle), alors que « tourtière » vient de torta, qui désigne la pâte : le même mot a donné « tourte » et « tarte ».",
     "source": "D'après Wikipédia — Tourte voyageuse"
+  },
+  {
+    "id": "q-animaux-103",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que signifie à l'origine le mot « sanglier » ?",
+    "choix": [
+      "Le porc solitaire",
+      "Le porc des forêts",
+      "Le grand porc",
+      "Le porc aux défenses"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Sanglier » vient du latin singularis porcus, « porc solitaire », qui désignait d'abord le mâle vivant seul. On le trouve dès le XIIe siècle en ancien français.",
+    "source": "D'après Wikipédia — Sanglier"
+  },
+  {
+    "id": "q-animaux-104",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Qui a appelé « buffles » les bisons d'Amérique du Nord dès 1616 ?",
+    "choix": [
+      "Samuel de Champlain",
+      "Jacques Cartier",
+      "René-Robert Cavelier de La Salle",
+      "Jacques Marquette"
+    ],
+    "bonneReponse": 0,
+    "explication": "Samuel de Champlain a employé le mot « buffles » après avoir vu des peaux et un dessin que lui montraient des Nipissings. C'est de là que vient l'usage américain de « buffalo » pour le bison.",
+    "source": "D'après Wikipédia — Bison d'Amérique"
+  },
+  {
+    "id": "q-animaux-105",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel chimpanzé a été envoyé en orbite en 1961, quelques mois avant Youri Gagarine ?",
+    "choix": [
+      "Ham",
+      "Washoe",
+      "Cheeta",
+      "Loulis"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ham a effectué en 1961 un vol orbital dans un engin américain, avant le premier vol humain de Gagarine. Washoe, elle, est connue pour avoir appris environ 250 signes du langage des signes.",
+    "source": "D'après Wikipédia — Pan troglodytes"
+  },
+  {
+    "id": "q-animaux-106",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "D'où vient le nom du bonobo ?",
+    "choix": [
+      "De Bolobo, une ville sur le fleuve Congo",
+      "D'un mot lingala signifiant « petit singe »",
+      "De son découvreur Harold Bonobo",
+      "D'un cri qu'il pousse la nuit"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nom viendrait d'une erreur d'écriture sur une caisse d'expédition en provenance de Bolobo, ville du fleuve Congo d'où venaient les premiers bonobos capturés, dans les années 1920.",
+    "source": "D'après Wikipédia — Bonobo"
+  },
+  {
+    "id": "q-animaux-107",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel navigateur de l'Antiquité est à l'origine du mot « gorille » ?",
+    "choix": [
+      "Hannon de Carthage",
+      "Pythéas de Marseille",
+      "Ulysse",
+      "Magellan"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le récit du périple d'Hannon, navigateur carthaginois, évoque des « femmes velues » appelées Gorillae. Ce nom a été repris au XIXe siècle pour désigner les grands singes d'Afrique.",
+    "source": "D'après Wikipédia — Gorille"
+  },
+  {
+    "id": "q-animaux-108",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Comment une femelle grand dauphin semble-t-elle appeler son petit ?",
+    "choix": [
+      "Par une vocalise qui la désigne elle-même",
+      "Par un prénom propre à chaque petit",
+      "Par des claquements de nageoires",
+      "Par un chant identique pour toute la troupe"
+    ],
+    "bonneReponse": 0,
+    "explication": "La femelle ne semble pas utiliser l'équivalent d'un prénom pour son petit : elle émet plutôt une vocalise qui la désigne, elle. C'est ainsi qu'elle attire son attention.",
+    "source": "D'après Wikipédia — Dauphin"
+  },
+  {
+    "id": "q-animaux-109",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que signifie le nom scientifique du morse, Odobenus ?",
+    "choix": [
+      "Qui marche sur ses dents",
+      "Qui nage dans la glace",
+      "Cheval de mer",
+      "Géant du froid"
+    ],
+    "bonneReponse": 0,
+    "explication": "Odobenus vient du grec odous, « dent », et baino, « marcher », car le morse plante ses défenses dans la glace pour se hisser hors de l'eau.",
+    "source": "D'après Wikipédia — Morse (animal)"
+  },
+  {
+    "id": "q-animaux-110",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quelle erreur Buffon a-t-il commise sur le suricate ?",
+    "choix": [
+      "Il l'a cru originaire du Suriname",
+      "Il l'a classé parmi les rongeurs",
+      "Il l'a pris pour un petit singe",
+      "Il l'a cru éteint"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sur la foi d'un marchand, Buffon pensa que le premier suricate européen venait du Suriname. Il corrigea en 1777 : l'animal vient d'Afrique australe, et non d'Amérique du Sud.",
+    "source": "D'après Wikipédia — Suricate"
+  },
+  {
+    "id": "q-animaux-111",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Dans le « bouquinage » du lièvre, qui se bat le plus souvent ?",
+    "choix": [
+      "Une femelle et un mâle",
+      "Deux mâles",
+      "Deux femelles",
+      "Une mère et son levraut"
+    ],
+    "bonneReponse": 0,
+    "explication": "Contrairement à l'idée reçue, ces combats opposent plutôt une femelle et un mâle : la hase, non disponible, repousse le mâle à coups de pattes avant, et il finit par abandonner.",
+    "source": "D'après Wikipédia — Lièvre d'Europe"
+  },
+  {
+    "id": "q-animaux-112",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Qui domine un clan de hyènes tachetées ?",
+    "choix": [
+      "Les femelles, plus grandes que les mâles",
+      "Un grand mâle unique",
+      "Le plus vieil individu",
+      "Un couple de mâles alliés"
+    ],
+    "bonneReponse": 0,
+    "explication": "La société de la hyène tachetée est matriarcale : les femelles dépassent les mâles en taille et leur commandent. C'est le carnivore dont les clans ressemblent le plus à ceux de certains primates.",
+    "source": "D'après Wikipédia — Hyène tachetée"
+  },
+  {
+    "id": "q-animaux-113",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "On peut monter un lama comme un cheval.",
+    "reponse": false,
+    "explication": "Le lama ne porte qu'une vingtaine de kilos, environ le quart de son poids : il sert de bête de somme chez les Incas et dans les Andes, mais ne peut pas être monté.",
+    "source": "D'après Wikipédia — Lama (animal)"
+  },
+  {
+    "id": "q-animaux-114",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Les lémuriens sont les ancêtres des singes et des humains.",
+    "reponse": false,
+    "explication": "Les lémuriens ont évolué à part, isolés à Madagascar. Ils partagent des traits primitifs avec les premiers primates, mais ne sont pas les ancêtres des singes, des grands singes ni de l'humain.",
+    "source": "D'après Wikipédia — Lemuriformes"
+  },
+  {
+    "id": "q-animaux-115",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le fourmilier géant n'a aucune dent.",
+    "reponse": true,
+    "explication": "Sa bouche toute petite est sans dents. Il capture fourmis et termites avec une langue fine couverte de salive collante, et peut en avaler environ 30 000 par jour.",
+    "source": "D'après Wikipédia — Fourmilier"
+  },
+  {
+    "id": "q-animaux-116",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque animal à sa particularité.",
+    "paires": [
+      {
+        "gauche": "Le lamantin",
+        "droite": "Six vertèbres cervicales seulement",
+        "explication": "Presque tous les mammifères en ont sept, sauf le lamantin et les paresseux."
+      },
+      {
+        "gauche": "Le suricate",
+        "droite": "Sentinelle qui guette debout",
+        "explication": "Les membres du groupe se relaient pour surveiller les prédateurs."
+      },
+      {
+        "gauche": "L'okapi",
+        "droite": "Langue bleue qui nettoie ses yeux",
+        "explication": "Cette langue lui sert aussi à se nettoyer les oreilles."
+      },
+      {
+        "gauche": "Le fourmilier géant",
+        "droite": "Environ 30 000 fourmis par jour",
+        "explication": "Sans dents, il capture ses proies avec sa langue collante."
+      }
+    ],
+    "explication": "Chacun de ces mammifères a un trait marquant : vertèbres du cou comptées, rôle de sentinelle, langue géante ou régime exclusivement fait d'insectes.",
+    "source": "D'après Wikipédia — Fourmilier"
+  },
+  {
+    "id": "q-animaux-117",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque animal à l'origine de son nom.",
+    "paires": [
+      {
+        "gauche": "Les lémuriens",
+        "droite": "Les lemures, spectres romains",
+        "explication": "Linné y a pensé à cause de leurs cris et de leurs yeux brillants."
+      },
+      {
+        "gauche": "Le diable de Tasmanie",
+        "droite": "Son cri strident",
+        "explication": "Il a effrayé les premiers Européens qui l'entendirent la nuit."
+      },
+      {
+        "gauche": "Le tatou",
+        "droite": "« Petit blindé » en espagnol",
+        "explication": "Armadillo vient d'armadura, « armure », avec un suffixe diminutif."
+      },
+      {
+        "gauche": "Le lama",
+        "droite": "Un mot quechua",
+        "explication": "Le nom a été adopté par les colons à partir du quechua péruvien."
+      }
+    ],
+    "explication": "Les noms d'animaux racontent souvent leur histoire : mythologie romaine, cri nocturne, armure ou langue andine.",
+    "source": "D'après Wikipédia — Lemuriformes"
+  },
+  {
+    "id": "q-animaux-118",
+    "domain": "animaux",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je ne vis plus que sur une île au sud de l'Australie.",
+      "Je pèse environ 6 à 8 kg, avec un pelage noir.",
+      "Mes mâchoires sont les plus puissantes des mammifères, rapportées à ma taille.",
+      "Un cancer contagieux a fait chuter ma population depuis 1996.",
+      "Mon nom vient d'un cri strident entendu la nuit."
+    ],
+    "reponse": "Le diable de Tasmanie",
+    "explication": "Le diable de Tasmanie est devenu le plus grand marsupial carnivore existant après l'extinction du thylacine en 1936. Protégé depuis 1941, il est touché depuis 1996 par une tumeur faciale contagieuse.",
+    "source": "D'après Wikipédia — Diable de Tasmanie"
+  },
+  {
+    "id": "q-animaux-119",
+    "domain": "animaux",
+    "format": "frise",
+    "question": "Remets dans l'ordre les grandes dates de l'histoire de l'okapi.",
+    "evenements": [
+      {
+        "label": "Stanley rapporte l'existence d'un « âne-zèbre » appelé atti",
+        "annee": "1890"
+      },
+      {
+        "label": "Johnston part à sa recherche",
+        "annee": "1899"
+      },
+      {
+        "label": "Johnston obtient une peau entière et deux crânes",
+        "annee": "1901"
+      },
+      {
+        "label": "L'espèce est protégée",
+        "annee": "1933"
+      },
+      {
+        "label": "Première naissance viable en captivité, à Vincennes",
+        "annee": "1957"
+      }
+    ],
+    "explication": "Le zèbre supposé s'est révélé être un cousin de la girafe, décrit en 1901. L'okapi est protégé depuis 1933 ; la première naissance viable en zoo a eu lieu à Vincennes en 1957.",
+    "source": "D'après Wikipédia — Okapi"
+  },
+  {
+    "id": "q-animaux-120",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Quelle est la différence entre le lama et l'alpaga ?",
+    "choix": [
+      "Le lama descend du guanaco, l'alpaga de la vigogne",
+      "Le lama est sauvage, l'alpaga est domestique",
+      "Le lama a une bosse, l'alpaga n'en a pas",
+      "Le lama vit en Amérique du Nord, l'alpaga en Amérique du Sud"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les deux sont domestiques. L'ADN montre que le guanaco sauvage est l'ancêtre du lama, et que la vigogne est l'ancêtre de l'alpaga. Le lama est aussi plus grand, avec une tête plus longue.",
+    "source": "D'après Wikipédia — Lama (animal)"
+  },
+  {
+    "id": "q-animaux-121",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Comment reconnaît-on la trompe d'un éléphant d'Asie de celle d'un éléphant d'Afrique ?",
+    "choix": [
+      "Elle se termine par un seul appendice en forme de doigt",
+      "Elle se termine par deux appendices en forme de doigts",
+      "Elle est beaucoup plus courte et sans muscles",
+      "Elle est soutenue par un os, comme un bras"
+    ],
+    "bonneReponse": 0,
+    "explication": "La trompe de l'éléphant d'Asie n'a qu'un seul « doigt » au bout, alors que l'éléphant africain en possède deux. Elle compte entre 100 000 et 150 000 muscles et ne contient aucun os.",
+    "source": "D'après Wikipédia — Éléphant d'Asie"
+  },
+  {
+    "id": "q-animaux-122",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le rhinocéros blanc est blanc, alors que le rhinocéros noir est noir.",
+    "reponse": false,
+    "explication": "Les deux rhinocéros sont gris. Le nom « blanc » viendrait peut-être du néerlandais wijde, « large », qui décrit la bouche du rhinocéros blanc, mais cette explication reste discutée par les spécialistes.",
+    "source": "D'après Wikipédia — Rhinocéros blanc"
+  },
+  {
+    "id": "q-animaux-123",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quelle fonction des rayures du zèbre est la mieux étayée par les scientifiques ?",
+    "choix": [
+      "Décourager les mouches piqueuses",
+      "Se refroidir sous le soleil d'Afrique",
+      "Impressionner les lions",
+      "Se cacher dans les hautes herbes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Plusieurs hypothèses ont été avancées depuis le XIXe siècle, mais la plus solide est que les rayures découragent les mouches piqueuses. Chaque zèbre a un motif unique, que les chercheurs lisent comme un code-barres.",
+    "source": "D'après Wikipédia — Zèbre"
+  },
+  {
+    "id": "q-animaux-124",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Lequel de ces animaux ne fait PAS partie des « big five » d'Afrique ?",
+    "choix": [
+      "La girafe",
+      "Le léopard",
+      "Le rhinocéros noir",
+      "Le buffle d'Afrique"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les « big five » regroupent le lion, le léopard, l'éléphant, le rhinocéros noir et le buffle d'Afrique, cinq grands mammifères autrefois très redoutés. La girafe n'en fait pas partie.",
+    "source": "D'après Wikipédia — Buffle d'Afrique"
+  },
+  {
+    "id": "q-animaux-125",
+    "domain": "animaux",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom grec est formé de « lion » et de « tacheté », et il désignait d'abord le guépard.",
+      "Mes rosettes n'ont pas de point au centre, contrairement à celles de mon cousin d'Amérique.",
+      "L'un de mes semblables a été retrouvé à 5 700 mètres, en haut du Kilimandjaro.",
+      "Je grimpe dans les arbres avec des proies parfois plus lourdes que moi.",
+      "Quand je suis tout noir, on m'appelle panthère."
+    ],
+    "reponse": "Le léopard",
+    "explication": "Le léopard hisse ses proies dans un arbre, jusqu'à 6 m de haut, pour les mettre à l'abri. La « panthère noire » n'est pas une autre espèce : c'est un léopard dont la robe est très sombre à cause du mélanisme.",
+    "source": "D'après Wikipédia — Léopard"
+  },
+  {
+    "id": "q-animaux-126",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi le pelage orange du tigre le camoufle-t-il bien dans la végétation ?",
+    "choix": [
+      "La plupart des mammifères, ses proies comprises, voient mal le rouge, donc le tigre leur paraît vert",
+      "Le tigre change de couleur selon la saison",
+      "Ses rayures noires brillent dans le noir",
+      "Son pelage s'imprègne de la couleur des feuilles"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les proies du tigre, comme la plupart des mammifères, n'ont que deux types de cônes dans la rétine et ne distinguent pas le rouge. L'orange du tigre leur apparaît donc verdâtre, ce qui le fond dans la végétation.",
+    "source": "D'après Wikipédia — Tigre"
+  },
+  {
+    "id": "q-animaux-127",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Comment distingue-t-on le jaguar du léopard grâce à leurs taches ?",
+    "choix": [
+      "Les rosettes du jaguar sont plus grandes, moins nombreuses et ont de petits points au centre",
+      "Le jaguar n'a que des taches pleines, le léopard que des rosettes",
+      "Les rosettes du léopard sont plus grosses et contiennent un point au centre",
+      "Le jaguar n'a des taches que sur la tête"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les rosettes du jaguar sont plus grandes, moins nombreuses, plus sombres, avec des lignes épaisses et de petites taches au milieu, ce que le léopard n'a pas. Le jaguar est aussi plus massif, avec une tête plus ronde.",
+    "source": "D'après Wikipédia — Jaguar"
+  },
+  {
+    "id": "q-animaux-128",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Comment appelle-t-on un jeune cerf mâle d'un à deux ans, aux premiers bois simples ?",
+    "choix": [
+      "Un daguet",
+      "Un hère",
+      "Une bichette",
+      "Un faon"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le faon devient un hère vers six mois, puis un daguet entre un et deux ans, avec ses deux premiers bois secs. Une bichette est une jeune femelle, et les biches n'ont jamais de bois. Le cerf adulte, lui, les perd et les refait chaque année.",
+    "source": "D'après Wikipédia — Cerf élaphe"
+  },
+  {
+    "id": "q-animaux-129",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "La panthère des neiges rugit comme le lion et le tigre.",
+    "reponse": false,
+    "explication": "Malgré un os hyoïde en partie ossifié, la panthère des neiges ne sait pas rugir, car ses cordes vocales sont trop courtes. Sa longue queue lui sert de balancier et de couverture quand elle dort.",
+    "source": "D'après Wikipédia — Panthère des neiges"
+  },
+  {
+    "id": "q-animaux-130",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que faut-il compter pour estimer l'âge d'un bouquetin mâle adulte ?",
+    "choix": [
+      "Les stries de croissance de ses cornes",
+      "Les nodosités de ses cornes",
+      "Le nombre de ses dents",
+      "La taille de sa barbe"
+    ],
+    "bonneReponse": 0,
+    "explication": "On croit souvent que les nodosités des cornes donnent l'âge, mais ce sont les stries de croissance, qui forment des étuis emboîtés, qu'il faut compter. Les cornes d'un mâle adulte atteignent 70 à 100 cm.",
+    "source": "D'après Wikipédia — Bouquetin des Alpes"
+  },
+  {
+    "id": "q-animaux-131",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que signifie le nom scientifique du puma, Puma concolor ?",
+    "choix": [
+      "« D'une seule couleur »",
+      "« Lion des montagnes »",
+      "« Chat sauvage d'Amérique »",
+      "« À la queue noire »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Concolor signifie « d'une seule couleur » : le pelage du puma est uni, dans les tons fauves. Ce félin ne rugit pas, et il n'est pas un vrai lion, malgré son surnom de « lion des montagnes » en Amérique du Nord.",
+    "source": "D'après Wikipédia — Puma"
+  },
+  {
+    "id": "q-animaux-132",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le puma détient un record Guinness : celui de l'animal portant le plus grand nombre de noms.",
+    "reponse": true,
+    "explication": "Le puma a plus de quarante noms rien qu'en anglais : cougar, mountain lion, catamount, panther… Le mot « cougar » vient du tupi, par le portugais et le français, et « puma » du quechua, par l'espagnol.",
+    "source": "D'après Wikipédia — Puma"
+  },
+  {
+    "id": "q-animaux-133",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "D'où vient l'expression « à la queue leu-leu » ?",
+    "choix": [
+      "De leu, l'ancien nom du loup, qui désignait la file d'une meute en chasse",
+      "Du mot « lieu », car on avance de lieu en lieu",
+      "Du nom d'un saint, Saint Leu, qui marchait en tête des processions",
+      "D'un jeu d'enfants du Moyen Âge"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jusqu'au XIVe siècle, on disait leu pour loup. L'expression désignait à l'origine la manière dont une meute de loups se déplace, les uns derrière les autres. Le nom de Saint-Leu garde aussi la trace de ce mot.",
+    "source": "D'après Wikipédia — Canis lupus"
+  },
+  {
+    "id": "q-animaux-134",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Qu'appelle-t-on un renard « croisé » ?",
+    "choix": [
+      "Un renard roux dont le dos porte un motif sombre en forme de croix",
+      "Un renard né d'un croisement avec un chien",
+      "Un renard à la fourrure noire parsemée de longs poils blancs",
+      "Un renard qui vit à la fois en ville et à la campagne"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le renard roux a plusieurs robes : charbonnier (sombre), argenté (noir avec de longs poils blancs) et croisé, avec une croix sombre qui marque le dos et les épaules. Ce sont des variations de couleur, pas des espèces.",
+    "source": "D'après Wikipédia — Renard roux"
+  },
+  {
+    "id": "q-animaux-135",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quelle part du régime alimentaire de l'ours brun est constituée de végétaux ?",
+    "choix": [
+      "Environ 90 %",
+      "Environ 10 %",
+      "Environ 40 %",
+      "Environ 65 %"
+    ],
+    "bonneReponse": 0,
+    "explication": "Contrairement à l'image du grand prédateur, l'ours brun tire environ 90 % de sa nourriture de végétaux. Omnivore opportuniste, il mange aussi des insectes, des rongeurs, du poisson et parfois des élans.",
+    "source": "D'après Wikipédia — Ours brun"
+  },
+  {
+    "id": "q-animaux-136",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque animal à sa particularité.",
+    "paires": [
+      {
+        "gauche": "Raton laveur",
+        "droite": "Pattes fines qui semblent laver sa nourriture",
+        "explication": "Ses doigts fins, sans pouce opposable, donnent l'impression qu'il lave ses aliments."
+      },
+      {
+        "gauche": "Marmotte",
+        "droite": "Sifflements d'alerte audibles à plusieurs kilomètres",
+        "explication": "Ses aboiements proches du sifflement avertissent toute la colonie d'un danger."
+      },
+      {
+        "gauche": "Bouquetin des Alpes",
+        "droite": "Cornes de 70 à 100 cm chez le mâle",
+        "explication": "Les cornes du mâle, en forme de cimeterre, peuvent peser jusqu'à 6 kg la paire."
+      },
+      {
+        "gauche": "Renne",
+        "droite": "Yeux qui virent au bleu en hiver",
+        "explication": "Dorés en été, ses yeux deviennent d'un bleu intense en hiver."
+      }
+    ],
+    "explication": "Ces quatre animaux ont chacun un trait bien à eux : les doigts habiles du raton laveur, le sifflement d'alerte de la marmotte, les grandes cornes du mâle bouquetin et les yeux changeants du renne.",
+    "source": "D'après Wikipédia — Rangifer tarandus"
+  },
+  {
+    "id": "q-animaux-137",
+    "domain": "animaux",
+    "format": "frise",
+    "question": "Remets dans l'ordre ces étapes de l'histoire du nom scientifique du raton laveur.",
+    "evenements": [
+      {
+        "label": "Linné le classe comme « ours à longue queue »",
+        "annee": "1740"
+      },
+      {
+        "label": "Linné le renomme Ursus lotor, « ours laveur »",
+        "annee": "1758"
+      },
+      {
+        "label": "Storr crée pour lui le genre Procyon",
+        "annee": "1780"
+      },
+      {
+        "label": "L'Union européenne le range parmi les espèces exotiques envahissantes préoccupantes",
+        "annee": "2016"
+      }
+    ],
+    "explication": "Linné a d'abord rangé le raton laveur parmi les ours, puis Storr lui a donné son propre genre, Procyon, en 1780. En 2016, l'Union européenne l'a rangé parmi les espèces exotiques envahissantes dont elle interdit le commerce et l'élevage.",
+    "source": "D'après Wikipédia — Raton laveur"
+  },
+  {
+    "id": "q-animaux-138",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Quelle est la différence entre un renne et un caribou ?",
+    "choix": [
+      "Aucune : c'est la même espèce, nommée « renne » en Europe et « caribou » en Amérique du Nord",
+      "Le renne est domestique, le caribou est un cervidé d'une autre famille",
+      "Le caribou est beaucoup plus petit que le renne, et ils ne se croisent pas",
+      "Seul le caribou porte des bois, le renne en est dépourvu"
+    ],
+    "bonneReponse": 0,
+    "explication": "Renne et caribou désignent la même espèce, Rangifer tarandus : « renne » est le nom européen et « caribou » le nom canadien, qui vient du micmac. Chez eux, mâles comme femelles peuvent porter des bois.",
+    "source": "D'après Wikipédia — Rangifer tarandus"
   }
 ]

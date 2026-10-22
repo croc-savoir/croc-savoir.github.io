@@ -2185,7 +2185,7 @@
         "explication": "Tendre et homogène, c'est le seul bois autorisé pour les icônes."
       }
     ],
-    "explication": "Chaque arbre a laissé sa marque dans l'histoire : écriture, guerre, architecture sacrée ou art religieux.",
+    "explication": "Chaque arbre a laissé sa marque dans l'histoire : le hêtre dans l'écriture, l'if à la guerre, le cèdre dans l'architecture sacrée et le tilleul dans l'art religieux.",
     "source": "D'après Wikipédia — Hêtre commun"
   },
   {
@@ -4412,5 +4412,565 @@
     "bonneReponse": 0,
     "explication": "Selon la légende, le pot se serait brisé pendant le trajet et Jussieu aurait gardé les jeunes cèdres dans son chapeau. L'un d'eux pousse toujours sur la butte du labyrinthe du Jardin des plantes de Paris.",
     "source": "D'après Wikipédia — Bernard de Jussieu"
+  },
+  {
+    "id": "q-nature-283",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle formule résume la méthode de classement des plantes d'Antoine-Laurent de Jussieu ?",
+    "choix": [
+      "Les caractères des plantes doivent être « pesés et non comptés »",
+      "Les plantes se classent selon le nombre de leurs étamines",
+      "Toute plante se range d'après la couleur de sa fleur",
+      "Seuls comptent les caractères de la racine"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jussieu juge les caractères d'une plante d'importance inégale : il les pèse au lieu de les compter, comme le faisait le système de Linné avec les étamines. Son Genera plantarum de 1789 décrit ainsi 100 familles de plantes.",
+    "source": "D'après Wikipédia — Antoine-Laurent de Jussieu"
+  },
+  {
+    "id": "q-nature-284",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle idée répandue Maria Sibylla Merian a-t-elle contribué à réfuter en élevant des chenilles ?",
+    "choix": [
+      "Les insectes naissent spontanément de la boue",
+      "Les chenilles ne se nourrissent jamais de plantes",
+      "Les papillons pondent leurs œufs dans l'eau",
+      "Les chrysalides sont des graines de fleurs"
+    ],
+    "bonneReponse": 0,
+    "explication": "On croyait que les insectes naissaient de la boue ou de déchets. En élevant des chenilles et en dessinant chaque stade avec sa plante hôte, Merian a montré qu'un insecte suit un cycle régulier : œuf, chenille, chrysalide, adulte.",
+    "source": "D'après Wikipédia — Anna Maria Sibylla Merian"
+  },
+  {
+    "id": "q-nature-285",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Aimé Bonpland et Alexander von Humboldt ont atteint le sommet du Chimborazo en 1802.",
+    "reponse": false,
+    "explication": "Les deux savants ont gravi le Chimborazo (6 310 m) en juin 1802 sans atteindre le sommet. Ils sont pourtant devenus les hommes les plus hauts du monde, un record battu en 1804 par Gay-Lussac, en montgolfière.",
+    "source": "D'après Wikipédia — Aimé Bonpland"
+  },
+  {
+    "id": "q-nature-286",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle part du littoral français le Conservatoire du littoral vise-t-il à protéger définitivement ?",
+    "choix": [
+      "Un tiers",
+      "Un dixième",
+      "Un quart",
+      "La moitié"
+    ],
+    "bonneReponse": 0,
+    "explication": "Créé en 1975 sur le modèle du National Trust britannique, le Conservatoire veut acquérir un tiers du littoral pour qu'il ne soit ni bétonné ni artificialisé. En 2025, il protège déjà 18 % du linéaire côtier français.",
+    "source": "D'après Wikipédia — Conservatoire du littoral"
+  },
+  {
+    "id": "q-nature-287",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel traité d'Olivier de Serres, publié en 1600, a été réédité 19 fois jusqu'en 1675 ?",
+    "choix": [
+      "Le Théâtre d'agriculture et mesnage des champs",
+      "Le Parfait Boulanger",
+      "La Physique des arbres",
+      "Le Traité de la garance"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ce traité de plus de mille pages a fait de Serres le père de l'agronomie française. Il a connu huit éditions de son vivant et 19 rééditions jusqu'en 1675, puis il est tombé dans l'oubli avant d'être réédité en 1802.",
+    "source": "D'après Wikipédia — Olivier de Serres"
+  },
+  {
+    "id": "q-nature-288",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle plante Duhamel du Monceau a-t-il utilisée pour colorer les os d'animaux et étudier leur croissance ?",
+    "choix": [
+      "La garance",
+      "Le safran",
+      "Le pastel",
+      "Le curcuma"
+    ],
+    "bonneReponse": 0,
+    "explication": "Informé que la garance colore les os, Duhamel en nourrit des animaux : leurs os montrent des couches rouges et blanches, comme les cernes d'un arbre. Il en déduit un parallèle entre la croissance des os et celle du bois.",
+    "source": "D'après Wikipédia — Henri Louis Duhamel du Monceau"
+  },
+  {
+    "id": "q-nature-289",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pourquoi le nom scientifique du sapin de Douglas, Pseudotsuga menziesii, ne rend-il pas hommage à David Douglas ?",
+    "choix": [
+      "Il honore Archibald Menzies, un botaniste rival",
+      "Douglas a refusé que l'arbre porte son nom",
+      "Menzies est le deuxième prénom de Douglas",
+      "L'arbre a été découvert par Joseph Hooker"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nom courant de l'arbre vient de Douglas, qui l'introduit en culture en 1827, mais son nom scientifique célèbre un autre botaniste, Archibald Menzies. Douglas a pourtant rapporté en Grande-Bretagne environ 240 espèces.",
+    "source": "D'après Wikipédia — David Douglas"
+  },
+  {
+    "id": "q-nature-290",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelles plantes George Washington Carver conseillait-il aux fermiers du Sud pour réparer les sols épuisés par le coton ?",
+    "choix": [
+      "Des légumineuses, comme l'arachide",
+      "Des céréales, comme le blé",
+      "Des arbres fruitiers",
+      "Des herbes aromatiques"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les légumineuses, comme les arachides, enrichissent le sol en azote. Alterner avec elles améliore la récolte de coton et donne aux fermiers un revenu en plus. Carver a aussi fait connaître la patate douce.",
+    "source": "D'après Wikipédia — George Washington Carver"
+  },
+  {
+    "id": "q-nature-291",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quels organismes microscopiques Ruth Patrick utilisait-elle pour juger la santé d'un cours d'eau ?",
+    "choix": [
+      "Les diatomées, des algues",
+      "Les lichens",
+      "Les mousses aquatiques",
+      "Les levures"
+    ],
+    "bonneReponse": 0,
+    "explication": "Patrick est une spécialiste des diatomées. Elle utilise la diversité de ces algues pour mesurer la santé d'un milieu d'eau douce. Ses études de diatomées fossiles ont aussi montré que le Grand Lac Salé fut jadis un lac d'eau douce.",
+    "source": "D'après Wikipédia — Ruth Patrick"
+  },
+  {
+    "id": "q-nature-292",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel peintre américain proposa dès 1832 la création d'un « parc » protégé par le gouvernement, ancêtre des parcs nationaux ?",
+    "choix": [
+      "George Catlin",
+      "John James Audubon",
+      "Thomas Cole",
+      "Frederic Church"
+    ],
+    "bonneReponse": 0,
+    "explication": "Au retour d'un voyage dans l'Ouest, Catlin rêve d'un parc où hommes et bêtes garderaient leur beauté sauvage. Quarante ans plus tard, en 1872, Yellowstone devient le premier parc national du monde.",
+    "source": "D'après Wikipédia — Parc national"
+  },
+  {
+    "id": "q-nature-293",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Le parc national de la Vanoise a été créé en 1963 surtout pour sauver le bouquetin, presque disparu de la région.",
+    "reponse": true,
+    "explication": "Le bouquetin avait été exterminé dès l'arrivée des armes à feu, sauf dans quelques secteurs. Ce premier parc national français, créé par décret le 6 juillet 1963, l'a pris pour emblème.",
+    "source": "D'après Wikipédia — Parc national de la Vanoise"
+  },
+  {
+    "id": "q-nature-294",
+    "domain": "nature",
+    "format": "frise",
+    "question": "Remets dans l'ordre la naissance de ces parcs nationaux.",
+    "evenements": [
+      {
+        "label": "Yellowstone, aux États-Unis",
+        "annee": "1872"
+      },
+      {
+        "label": "Parc national royal, en Australie",
+        "annee": "1879"
+      },
+      {
+        "label": "Banff, au Canada",
+        "annee": "1885"
+      },
+      {
+        "label": "Premiers parcs nationaux d'Europe, en Suède",
+        "annee": "1909"
+      },
+      {
+        "label": "Parc de la Bérarde, en France",
+        "annee": "1913"
+      }
+    ],
+    "explication": "Yellowstone ouvre la voie en 1872, suivi de l'Australie, du Canada puis de la Nouvelle-Zélande. En Europe, la Suède est première en 1909, la France suit en 1913 avec la Bérarde, ancêtre du parc des Écrins.",
+    "source": "D'après Wikipédia — Parc national"
+  },
+  {
+    "id": "q-nature-295",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Qui a créé en 1821 la première réserve naturelle au sens moderne, en entourant d'un mur son domaine de Walton Hall ?",
+    "choix": [
+      "Charles Waterton",
+      "Théodore Rousseau",
+      "John Muir",
+      "L'empereur Ashoka"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le naturaliste britannique Charles Waterton fait de son domaine du Yorkshire un refuge protégé des braconniers par un mur. Il y invente aussi des nichoirs pour étourneaux, choucas et hirondelles de rivage.",
+    "source": "D'après Wikipédia — Réserve naturelle"
+  },
+  {
+    "id": "q-nature-296",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "De quoi la convention de Ramsar tient-elle son nom ?",
+    "choix": [
+      "D'une ville d'Iran au bord de la mer Caspienne",
+      "D'un grand marais de Camargue",
+      "Du botaniste qui en a eu l'idée",
+      "D'une île du Pacifique"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le traité sur les zones humides a été adopté le 2 février 1971 à Ramsar, en Iran. Le texte doit aussi beaucoup à des protecteurs d'oiseaux. Chaque 2 février, jour de son adoption, est devenu la Journée mondiale des zones humides.",
+    "source": "D'après Wikipédia — Convention de Ramsar"
+  },
+  {
+    "id": "q-nature-297",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "L'histoire du champ de pommes de terre gardé le jour seulement, pour inciter les Parisiens à voler les tubercules, est confirmée par les lettres de Parmentier.",
+    "reponse": false,
+    "explication": "C'est une légende. Les soldats surveillaient de jour tout le terrain militaire des Sablons, comme à l'ordinaire, et les lettres de Parmentier montrent qu'il craignait ces vols nocturnes, qui nuisaient à sa promotion de la pomme de terre.",
+    "source": "D'après Wikipédia — Antoine Parmentier"
+  },
+  {
+    "id": "q-nature-298",
+    "domain": "nature",
+    "format": "difference",
+    "question": "Dans le parc national de la Vanoise, quelle est la différence entre le cœur et l'aire d'adhésion ?",
+    "choix": [
+      "Le cœur est la zone protégée par une réglementation ; l'aire d'adhésion rassemble des communes sans protection spécifique",
+      "Le cœur est la zone ouverte au tourisme ; l'aire d'adhésion est une réserve intégrale",
+      "Le cœur se trouve en Italie ; l'aire d'adhésion se trouve en France",
+      "Le cœur est consacré aux bouquetins ; l'aire d'adhésion, aux chamois"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le cœur du parc, de 535 km², est protégé par un règlement. L'aire d'adhésion, elle, regroupe les communes qui ont choisi d'adhérer à la charte, sans protection spécifique : seules deux communes ont voté pour en 2015.",
+    "source": "D'après Wikipédia — Parc national de la Vanoise"
+  },
+  {
+    "id": "q-nature-299",
+    "domain": "nature",
+    "format": "associer",
+    "question": "Associe chaque naturaliste à sa réalisation.",
+    "paires": [
+      {
+        "gauche": "Maria Sibylla Merian",
+        "droite": "Un grand livre sur les insectes du Suriname",
+        "explication": "Elle publie Metamorphosis insectorum Surinamensium à Amsterdam."
+      },
+      {
+        "gauche": "David Douglas",
+        "droite": "Des conifères d'Amérique introduits en Grande-Bretagne",
+        "explication": "Il rapporte le sapin de Douglas, l'épicéa de Sitka et plusieurs pins."
+      },
+      {
+        "gauche": "Nikolaï Vavilov",
+        "droite": "Une immense collection de semences à Léningrad",
+        "explication": "Elle compte plus de 148 000 échantillons dès 1933."
+      },
+      {
+        "gauche": "Antoine Parmentier",
+        "droite": "La promotion de la pomme de terre comme aliment",
+        "explication": "Il séduit Louis XVI et la cour avec un bouquet de fleurs de pommes de terre."
+      }
+    ],
+    "explication": "Chacun a marqué l'histoire des plantes à sa façon : un livre d'observation, l'introduction de conifères outre-Manche, une immense banque de graines et un plaidoyer pour un tubercule.",
+    "source": "D'après Wikipédia — Nikolaï Vavilov"
+  },
+  {
+    "id": "q-nature-300",
+    "domain": "nature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis le deuxième fils d'un célèbre botaniste, et j'étudie la médecine à Glasgow.",
+      "Je pars vers les mers australes comme assistant-chirurgien à bord de l'Erebus.",
+      "Je passe des années dans l'Himalaya, où je fais connaître les rhododendrons du Sikkim.",
+      "Je dirige les jardins de Kew, comme mon père avant moi.",
+      "Je suis le meilleur ami de Charles Darwin."
+    ],
+    "reponse": "Joseph Dalton Hooker",
+    "explication": "Hooker explore l'Antarctique de 1839 à 1843, puis l'Himalaya, et dirige les jardins de Kew pendant vingt ans. Ami de la première heure de Charles Darwin, il l'encourage à publier ses théories.",
+    "source": "D'après Wikipédia — Joseph Dalton Hooker"
+  },
+  {
+    "id": "q-nature-301",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Que rappelle le « 2000 » dans le nom Natura 2000 ?",
+    "choix": [
+      "L'année visée au départ pour achever le réseau",
+      "Le nombre de sites protégés à l'origine",
+      "La superficie du réseau en milliers de kilomètres carrés",
+      "Le nombre d'espèces d'oiseaux protégées"
+    ],
+    "bonneReponse": 0,
+    "explication": "Quand le réseau a été lancé, on espérait l'avoir terminé pour l'an 2000. La plupart des pays ont tardé à désigner leurs sites : la France, par exemple, n'a vu son réseau validé qu'en 2007.",
+    "source": "D'après Wikipédia — Réseau Natura 2000"
+  },
+  {
+    "id": "q-nature-302",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Un site Natura 2000 est toujours une réserve où toute activité humaine est interdite.",
+    "reponse": false,
+    "explication": "Faux. Beaucoup de sites Natura 2000 sont cultivés ou boisés, et certains se trouvent même en ville. L'objectif est de maintenir les espèces et les milieux en bon état, pas de mettre la nature sous cloche.",
+    "source": "D'après Wikipédia — Réseau Natura 2000"
+  },
+  {
+    "id": "q-nature-303",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle plante a été ramenée à la vie en 2012 à partir d'une graine de 32 000 ans trouvée sous le pergélisol sibérien ?",
+    "choix": [
+      "Silene stenophylla, une petite fleur",
+      "Le palmier dattier",
+      "Le blé",
+      "Le pavot"
+    ],
+    "bonneReponse": 0,
+    "explication": "Des scientifiques russes ont fait germer Silene stenophylla à partir d'une graine retrouvée dans un terrier, sous le sol gelé. Le palmier dattier de Judée, lui, ne datait que d'environ 2 000 ans.",
+    "source": "D'après Wikipédia — Banque de graines"
+  },
+  {
+    "id": "q-nature-304",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Pourquoi a-t-on creusé la réserve mondiale de semences dans le Spitzberg ?",
+    "choix": [
+      "Pas d'activité tectonique et un sol gelé qui aide à garder le froid",
+      "Un volcan voisin fournit la chaleur",
+      "C'est la région où poussent le plus de plantes cultivées",
+      "Les graines y germent plus lentement qu'ailleurs"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Spitzberg n'a pas d'activité tectonique et son pergélisol aide à la conservation. De plus, le site se trouve à 130 mètres au-dessus de la mer : il resterait au sec même si les glaces fondaient.",
+    "source": "D'après Wikipédia — Réserve mondiale de semences du Svalbard"
+  },
+  {
+    "id": "q-nature-305",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quelle est de loin la cause directe de la plus grande part de la déforestation ?",
+    "choix": [
+      "L'agriculture",
+      "L'exploitation minière",
+      "L'urbanisation",
+      "Les barrages hydroélectriques"
+    ],
+    "bonneReponse": 0,
+    "explication": "Champs, pâturages et plantations (soja, palmier à huile, café, hévéa) prennent la place des forêts. Les mines, les routes, les barrages et les villes s'y ajoutent, mais pèsent bien moins lourd.",
+    "source": "D'après Wikipédia — Déforestation"
+  },
+  {
+    "id": "q-nature-306",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Les grandes prairies de l'ouest canadien sont entièrement naturelles : l'homme n'y a joué aucun rôle.",
+    "reponse": false,
+    "explication": "Faux. Les Premières Nations y mettaient régulièrement le feu afin d'entretenir ces vastes pâturages et d'écarter les arbres. Cela montre que l'influence humaine sur les paysages est très ancienne.",
+    "source": "D'après Wikipédia — Déforestation"
+  },
+  {
+    "id": "q-nature-307",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Au Burkina Faso, que sont les « zaïs », utilisés contre la désertification ?",
+    "choix": [
+      "Des trous d'environ vingt centimètres remplis de compost",
+      "Des rangées d'arbres plantées en ceinture",
+      "Des barrages sur les rivières",
+      "Des filets qui retiennent le sable"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le paysan creuse un trou, le garnit de terre et de compost (paille, cendres, déjections animales). Il absorbe l'eau de ruissellement et favorise la repousse des arbres. Avec les cordons pierreux, la technique a réhabilité plus de 300 000 hectares.",
+    "source": "D'après Wikipédia — Désertification"
+  },
+  {
+    "id": "q-nature-308",
+    "domain": "nature",
+    "format": "difference",
+    "question": "Quelle est la différence entre la déforestation brute et la déforestation nette ?",
+    "choix": [
+      "La brute compte les forêts anciennes détruites, la nette retranche les reboisements",
+      "La brute concerne les forêts tropicales, la nette les forêts tempérées",
+      "La brute vient des incendies, la nette de l'agriculture",
+      "La brute est mesurée au sol, la nette par satellite"
+    ],
+    "bonneReponse": 0,
+    "explication": "La déforestation nette tient compte des arbres replantés, y compris de plantations comme le palmier à huile ou l'eucalyptus. Or une jeune forêt abrite moins de vie et stocke moins de carbone qu'une forêt ancienne : d'où l'intérêt de distinguer les deux chiffres.",
+    "source": "D'après Wikipédia — Déforestation"
+  },
+  {
+    "id": "q-nature-309",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Qui a employé le premier l'expression « pluie acide », en 1872 ?",
+    "choix": [
+      "Robert Angus Smith",
+      "John Evelyn",
+      "Svante Odén",
+      "Gene Likens"
+    ],
+    "bonneReponse": 0,
+    "explication": "Robert Angus Smith avait montré dès 1852 le lien entre la pluie acide et la pollution de l'air à Manchester. Il a donné son nom au phénomène en 1872, bien avant que les scientifiques ne l'étudient à grande échelle.",
+    "source": "D'après Wikipédia — Pluie acide"
+  },
+  {
+    "id": "q-nature-310",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel est le pH d'une eau de pluie normale, non polluée ?",
+    "choix": [
+      "Environ 5,6, donc légèrement acide",
+      "Exactement 7, donc neutre",
+      "Environ 3, donc très acide",
+      "Environ 8, donc légèrement basique"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le gaz carbonique de l'air se dissout dans les gouttes et forme de l'acide carbonique : la pluie est naturellement un peu acide. On ne parle de pluie acide que lorsque le pH tombe sous 5, parfois sous 4,5.",
+    "source": "D'après Wikipédia — Pluie acide"
+  },
+  {
+    "id": "q-nature-311",
+    "domain": "nature",
+    "format": "frise",
+    "question": "Remets dans l'ordre ces étapes du protocole de Kyoto.",
+    "evenements": [
+      {
+        "label": "Création du GIEC",
+        "annee": "1988"
+      },
+      {
+        "label": "Signature du protocole à Kyoto",
+        "annee": "1997"
+      },
+      {
+        "label": "Entrée en vigueur du protocole",
+        "annee": "2005"
+      },
+      {
+        "label": "Fin de la première période d'engagement",
+        "annee": "2012"
+      }
+    ],
+    "explication": "Le GIEC naît en 1988, le protocole est signé en 1997 et ne s'applique qu'en 2005, après la ratification russe. La première période d'engagement, qui courait de 2008 à 2012, se termine le 31 décembre 2012.",
+    "source": "D'après Wikipédia — Protocole de Kyoto"
+  },
+  {
+    "id": "q-nature-312",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Qu'est-ce qui a failli faire échouer les négociations de l'accord de Paris, à la dernière minute ?",
+    "choix": [
+      "Un seul mot : « shall » au lieu de « should »",
+      "Une panne de la salle de conférence",
+      "Le retrait soudain de l'Union européenne",
+      "Un désaccord sur le nom de l'accord"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Shall » (« doit ») aurait contraint légalement les pays développés à réduire leurs émissions, alors que « should » (« devrait ») ne fait que le recommander. La France a présenté la chose comme une erreur typographique.",
+    "source": "D'après Wikipédia — Accord de Paris sur le climat"
+  },
+  {
+    "id": "q-nature-313",
+    "domain": "nature",
+    "format": "associer",
+    "question": "Associe chaque texte issu du Sommet de la Terre de Rio à son contenu.",
+    "paires": [
+      {
+        "gauche": "Déclaration de Rio",
+        "droite": "27 principes qui précisent le développement durable",
+        "explication": "Elle affirme par exemple que les êtres humains sont au centre du développement durable."
+      },
+      {
+        "gauche": "Action 21",
+        "droite": "Programme d'environ 2 500 recommandations",
+        "explication": "Aussi appelé Agenda 21, il reste une référence pour les territoires."
+      },
+      {
+        "gauche": "Convention sur le climat",
+        "droite": "Point de départ du protocole de Kyoto",
+        "explication": "Elle reconnaît la nécessité de limiter les gaz à effet de serre."
+      },
+      {
+        "gauche": "Convention sur la diversité biologique",
+        "droite": "Conditions d'usage du patrimoine génétique mondial",
+        "explication": "Elle encadre l'utilisation des ressources génétiques du vivant."
+      }
+    ],
+    "explication": "Le sommet de 1992 a produit une série de textes : une déclaration de principes, un programme d'action, des conventions sur le climat et la biodiversité, et une déclaration sur les forêts.",
+    "source": "D'après Wikipédia — Conférence des Nations unies sur l'environnement et le développement"
+  },
+  {
+    "id": "q-nature-314",
+    "domain": "nature",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom vient de deux mots grecs signifiant « maison » et « étude ».",
+      "Un biologiste allemand m'a nommée en 1866.",
+      "Darwin décrivait déjà une « économie de la nature » en 1859.",
+      "J'étudie les liens des êtres vivants entre eux et avec le milieu où ils vivent.",
+      "On me confond souvent avec un mouvement politique, alors que je suis une science."
+    ],
+    "reponse": "L'écologie",
+    "explication": "Ernst Haeckel a créé le mot en 1866. L'écologie étudie les écosystèmes, c'est-à-dire les êtres vivants et leur milieu. Elle se distingue de l'écologisme et de l'écologie politique, qui sont des courants militants.",
+    "source": "D'après Wikipédia — Écologie"
+  },
+  {
+    "id": "q-nature-315",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel texte français de 1346 recommandait déjà de « soutenir en bon état » les forêts ?",
+    "choix": [
+      "L'ordonnance de Brunoy, prise par Philippe VI",
+      "Le code forestier de Colbert",
+      "L'édit de Nantes",
+      "La charte de Louis XIV sur les eaux"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'ordonnance de Brunoy, signée par Philippe VI, voulait garder les forêts en bon état. Cette idée d'une ressource qui se renouvelle sans s'épuiser est l'une des racines du développement durable.",
+    "source": "D'après Wikipédia — Développement durable"
+  },
+  {
+    "id": "q-nature-316",
+    "domain": "nature",
+    "format": "qcm",
+    "question": "Quel agriculteur japonais, rencontré en 1973, a influencé Bill Mollison, cofondateur de la permaculture ?",
+    "choix": [
+      "Masanobu Fukuoka",
+      "Percival Yeomans",
+      "Franklin Hiram King",
+      "Joseph Russell Smith"
+    ],
+    "bonneReponse": 0,
+    "explication": "Masanobu Fukuoka cultivait riz et orge sans travail du sol, sous un couvert permanent de trèfle blanc, avec de bons rendements. Son ouvrage sur un « seul brin de paille » a aidé Mollison à intégrer les céréales dans la permaculture.",
+    "source": "D'après Wikipédia — Permaculture"
+  },
+  {
+    "id": "q-nature-317",
+    "domain": "nature",
+    "format": "difference",
+    "question": "Quelle est la différence entre l'agroforesterie moderne et une forêt ?",
+    "choix": [
+      "Les arbres n'y couvrent d'ordinaire qu'une petite partie de la surface cultivée",
+      "L'agroforesterie n'utilise que des arbres fruitiers",
+      "La forêt est toujours plantée par l'homme",
+      "L'agroforesterie se pratique uniquement sous les tropiques"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nom peut prêter à confusion : en agroforesterie, les arbres sont espacés, souvent alignés, et cohabitent avec des cultures ou des animaux. Ils occupent en général bien moins de la moitié de la surface cultivée.",
+    "source": "D'après Wikipédia — Agroforesterie"
+  },
+  {
+    "id": "q-nature-318",
+    "domain": "nature",
+    "format": "vrai-faux",
+    "affirmation": "Planter des arbres dans un champ de blé réduit toujours la production de la parcelle.",
+    "reponse": false,
+    "explication": "Faux. Dans l'exemple de cinquante noyers par hectare associés au blé, la production de biomasse augmente de 20 à 40 %. Le blé profite de la lumière au printemps, avant que le noyer ait ses feuilles, et l'arbre prend le relais après la moisson.",
+    "source": "D'après Wikipédia — Agroforesterie"
   }
 ]

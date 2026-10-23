@@ -470,5 +470,2828 @@
     ],
     "explication": "1498 : Vasco de Gama ouvre la route maritime des épices vers l'Inde. 1875 : le Suisse Daniel Peter crée le chocolat au lait avec le lait concentré d'Henri Nestlé. 1903 : Escoffier publie Le Guide culinaire. 1908 : Kikunae Ikeda découvre l'umami. 1958 : Momofuku Ando invente les nouilles instantanées.",
     "source": "D'après Wikipédia — Histoire de l'alimentation"
+  },
+  {
+    "id": "q-cuisine-031",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Que signifie le mot breton « kouign-amann » ?",
+    "choix": [
+      "Gâteau au beurre",
+      "Pain de sucre",
+      "Galette de blé noir",
+      "Tarte au sel"
+    ],
+    "bonneReponse": 0,
+    "explication": "Kouign veut dire « gâteau » et amann « beurre » : le kouign-amann est littéralement le gâteau au beurre. Inventé vers 1860 à Douarnenez, il associe pâte à pain, beurre demi-sel et sucre caramélisé.",
+    "source": "D'après Wikipédia — Kouign-amann"
+  },
+  {
+    "id": "q-cuisine-032",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quelle course cycliste a inspiré la forme du Paris-Brest ?",
+    "choix": [
+      "Paris-Brest-Paris",
+      "Paris-Roubaix",
+      "Paris-Nice",
+      "Bordeaux-Paris"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cette couronne de pâte à choux évoque une roue de vélo et rend hommage à la course Paris-Brest-Paris. On l'attribue à Louis Durand, pâtissier de Maisons-Laffitte, vers 1909, mais l'origine reste discutée.",
+    "source": "D'après Wikipédia — Paris-brest"
+  },
+  {
+    "id": "q-cuisine-033",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Qui publie en 1691 la première recette connue de crème brûlée ?",
+    "choix": [
+      "François Massialot",
+      "Marie-Antoine Carême",
+      "Auguste Escoffier",
+      "Paul Bocuse"
+    ],
+    "bonneReponse": 0,
+    "explication": "François Massialot, cuisinier du duc d'Orléans, décrit dans son Nouveau cuisinier royal et bourgeois une crème qu'on brûle avec une pelle à feu rougie pour lui donner une belle couleur d'or.",
+    "source": "D'après Wikipédia — Crème brûlée"
+  },
+  {
+    "id": "q-cuisine-034",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel nom porte le mille-feuille dans de nombreux pays, de la Russie à l'Amérique du Nord ?",
+    "choix": [
+      "Napoléon",
+      "Louis XIV",
+      "Charlemagne",
+      "Richelieu"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans de nombreux pays, le mille-feuille s'appelle « Napoléon ». Ce nom semble être apparu en Russie, puis le dessert français se serait répandu en Europe centrale et orientale pendant les guerres napoléoniennes.",
+    "source": "D'après Wikipédia — Mille-feuille"
+  },
+  {
+    "id": "q-cuisine-035",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Le nom de l'éclair viendrait de la rapidité avec laquelle on le mange.",
+    "reponse": true,
+    "explication": "Le dictionnaire en ligne CNRTL explique ce nom par la vitesse à laquelle la pâtisserie disparaît des assiettes : on la mange en un éclair. D'autres y voient plutôt le reflet brillant du glaçage, qui rappelle la foudre.",
+    "source": "D'après Wikipédia — Éclair (pâtisserie)"
+  },
+  {
+    "id": "q-cuisine-036",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Dans les brouillons de Proust, que devait tremper le narrateur dans son thé avant qu'il ne choisisse la madeleine ?",
+    "choix": [
+      "Une tranche de pain grillé",
+      "Un sablé",
+      "Un morceau de sucre",
+      "Une brioche"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les brouillons, notamment Jean Santeuil, montrent que l'écrivain pensait d'abord à une tranche de pain grillé. La madeleine, trempée dans le thé, est devenue le symbole de la mémoire involontaire.",
+    "source": "D'après Wikipédia — Madeleine (pâtisserie)"
+  },
+  {
+    "id": "q-cuisine-037",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Les puristes niçois acceptent les pommes de terre bouillies dans la salade niçoise.",
+    "reponse": false,
+    "explication": "Les défenseurs de la recette traditionnelle excluent les légumes cuits. Auguste Escoffier, né près de Nice, a ajouté pommes de terre et haricots verts, une idée qui reste controversée un siècle plus tard.",
+    "source": "D'après Wikipédia — Salade niçoise"
+  },
+  {
+    "id": "q-cuisine-038",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Pourquoi le Guide Michelin est-il devenu payant en 1920 ?",
+    "choix": [
+      "André Michelin a vu des exemplaires servir à caler un établi",
+      "Les éditeurs manquaient de papier après la guerre",
+      "Les restaurants refusaient de payer des annonces",
+      "Les inspecteurs devaient être rémunérés"
+    ],
+    "bonneReponse": 0,
+    "explication": "En visitant un marchand de pneus, André Michelin a constaté, indigné, que des guides gratuits servaient à caler un établi. Il en a conclu qu'on ne respecte vraiment que ce que l'on paie.",
+    "source": "D'après Wikipédia — Guide Michelin"
+  },
+  {
+    "id": "q-cuisine-039",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel pâtissier du roi Stanislas est lié à la légende du baba au rhum ?",
+    "choix": [
+      "Nicolas Stohrer",
+      "Marie-Antoine Carême",
+      "Jules Gouffé",
+      "Pierre Lacam"
+    ],
+    "bonneReponse": 0,
+    "explication": "Selon la légende, Stanislas Leszczynski, duc de Lorraine, trouvait un gâteau trop sec et son pâtissier Nicolas Stohrer l'aurait imbibé d'un sirop. Stohrer fonde sa pâtisserie à Paris, rue Montorgueil, en 1730.",
+    "source": "D'après Wikipédia — Baba au rhum"
+  },
+  {
+    "id": "q-cuisine-040",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "D'après une explication courante, d'où viennent les nombreux jaunes d'œufs du cannelé bordelais ?",
+    "choix": [
+      "Du collage du vin, qui utilisait les blancs d'œufs",
+      "Des poulaillers des couvents de la ville",
+      "Des marchés de la Garonne",
+      "D'un décret de la corporation des boulangers"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les châteaux viticoles bordelais clarifiaient leur vin avec des blancs d'œufs. Le surplus de jaunes servait à fabriquer des cannelés, ce qui relie ce gâteau aux pratiques du vignoble.",
+    "source": "D'après Wikipédia — Cannelé"
+  },
+  {
+    "id": "q-cuisine-041",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quels critiques ont lancé en 1973 l'expression « nouvelle cuisine française » ?",
+    "choix": [
+      "Henri Gault et Christian Millau",
+      "André et Édouard Michelin",
+      "Auguste Escoffier et Fernand Point",
+      "Paul Bocuse et les frères Troisgros"
+    ],
+    "bonneReponse": 0,
+    "explication": "Henri Gault et Christian Millau proclament l'avènement de la nouvelle cuisine dans le numéro 54 de leur mensuel, en octobre 1973, avec dix commandements dont « Tu ne cuiras pas trop ».",
+    "source": "D'après Wikipédia — Nouvelle cuisine"
+  },
+  {
+    "id": "q-cuisine-042",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Que veut dire à l'origine « pissalat », qui a donné son nom à la pissaladière ?",
+    "choix": [
+      "Poisson salé",
+      "Oignon doux",
+      "Pain de seigle",
+      "Olive noire"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le pissalat est une conserve de petits poissons broyés et salés, du niçois peis salat. La pissaladière doit son nom à cette garniture d'anchois, et non à un lien avec le mot pizza.",
+    "source": "D'après Wikipédia — Pissaladière"
+  },
+  {
+    "id": "q-cuisine-043",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Le véritable gratin dauphinois contient du fromage et des œufs.",
+    "reponse": false,
+    "explication": "Le gratin dauphinois traditionnel ne contient ni fromage ni œufs : il cuit dans du lait ou de la crème à l'ail. C'est ce qui le distingue du gratin savoyard, même si Escoffier proposait une version au gruyère.",
+    "source": "D'après Wikipédia — Gratin dauphinois"
+  },
+  {
+    "id": "q-cuisine-044",
+    "domain": "cuisine",
+    "format": "associer",
+    "question": "Associe chaque pâtisserie à son ingrédient ou sa technique phare.",
+    "paires": [
+      {
+        "gauche": "Baba au rhum",
+        "droite": "Imbibé de sirop au rhum",
+        "explication": "Gâteau de pâte levée gorgé de sirop parfumé au rhum."
+      },
+      {
+        "gauche": "Paris-Brest",
+        "droite": "Crème mousseline pralinée",
+        "explication": "Couronne de pâte à choux fourrée d'une crème au praliné."
+      },
+      {
+        "gauche": "Mille-feuille",
+        "droite": "Pâte feuilletée",
+        "explication": "Trois couches de pâte feuilletée et deux de crème."
+      },
+      {
+        "gauche": "Éclair",
+        "droite": "Pâte à choux",
+        "explication": "Coque allongée de pâte à choux, fourrée de crème et glacée."
+      },
+      {
+        "gauche": "Crème brûlée",
+        "droite": "Croûte de caramel",
+        "explication": "Sucre caramélisé sur une crème aux jaunes d'œufs."
+      }
+    ],
+    "explication": "Ces cinq classiques de la pâtisserie française se reconnaissent à leur pâte ou à leur finition : sirop au rhum pour le baba, praliné pour le Paris-Brest, feuilletage, choux et caramel craquant.",
+    "source": "D'après Wikipédia — Éclair (pâtisserie)"
+  },
+  {
+    "id": "q-cuisine-045",
+    "domain": "cuisine",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né en 1924, sur une idée d'un journaliste et critique d'art.",
+      "Je concerne des dizaines de métiers, de la cuisine à la reliure.",
+      "Mon concours a lieu tous les trois ou quatre ans.",
+      "Mes médailles sont remises à la Sorbonne puis à l'Élysée.",
+      "Le président de la République porte aussi mon titre, d'office."
+    ],
+    "reponse": "Meilleur ouvrier de France",
+    "explication": "Le titre de Meilleur ouvrier de France, créé en 1924 par Lucien Klotz, récompense des chefs-d'œuvre dans de nombreux métiers. Il est particulièrement reconnu dans les métiers de bouche.",
+    "source": "D'après Wikipédia — Meilleur ouvrier de France"
+  },
+  {
+    "id": "q-cuisine-046",
+    "domain": "cuisine",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire du Guide Michelin dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Première étoile de bonne table dans le guide",
+        "annee": "1926"
+      },
+      {
+        "label": "Premier Guide Michelin",
+        "annee": "1900"
+      },
+      {
+        "label": "Michelin instaure les 1, 2 et 3 étoiles",
+        "annee": "1931"
+      },
+      {
+        "label": "Premier guide Michelin pour l'Italie",
+        "annee": "1956"
+      },
+      {
+        "label": "Premier guide Michelin pour New York",
+        "annee": "2006"
+      }
+    ],
+    "explication": "Le Guide naît en 1900, ses premières étoiles de bonne table paraissent en 1926 et la hiérarchie de une à trois étoiles en 1931. Il gagne ensuite l'Italie en 1956, puis New York en 2006.",
+    "source": "D'après Wikipédia — Guide Michelin"
+  },
+  {
+    "id": "q-cuisine-047",
+    "domain": "cuisine",
+    "format": "difference",
+    "question": "Quelle est la différence entre le service à la française et le service à la russe ?",
+    "choix": [
+      "À la française, tous les plats d'un service sont posés ensemble ; à la russe, ils arrivent chauds, l'un après l'autre",
+      "À la française, on sert plat par plat ; à la russe, tout est posé en même temps",
+      "À la française, on mange sans couverts ; à la russe, avec un couvert par plat",
+      "À la française, la nourriture est servie froide ; à la russe, elle est servie chaude et froide"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le service à la française dresse sur la table tous les plats d'un service, que l'on découpe sur place. Le service à la russe, apparu au XIXe siècle, apporte des mets chauds et déjà découpés, l'un après l'autre.",
+    "source": "D'après Wikipédia — Service à la française"
+  },
+  {
+    "id": "q-cuisine-048",
+    "domain": "cuisine",
+    "format": "difference",
+    "question": "Quelle est la différence entre le macaron parisien et les macarons plus anciens ?",
+    "choix": [
+      "Le parisien a deux coques collées par une crème ou une confiture ; l'ancien est un gâteau d'amandes seul",
+      "Le parisien est fait de noix de coco ; l'ancien est fait d'amandes",
+      "Le parisien se cuit à la poêle ; l'ancien se cuit au four",
+      "Le parisien contient de la farine de blé ; l'ancien n'en contient pas"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les premiers macarons étaient de simples petits gâteaux d'amandes. C'est au XIXe siècle qu'apparaissent à Paris des coques accolées par un cœur de crème au beurre, de ganache ou de confiture.",
+    "source": "D'après Wikipédia — Macaron"
+  },
+  {
+    "id": "q-cuisine-049",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Selon le gastronome Prosper Montagné, quel cassoulet est « Dieu le Père » dans la trinité des cassoulets ?",
+    "choix": [
+      "Celui de Castelnaudary",
+      "Celui de Carcassonne",
+      "Celui de Toulouse",
+      "Celui de Pamiers"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour arbitrer la querelle entre trois villes, Prosper Montagné parle d'un Dieu en trois personnes : le Père est le cassoulet de Castelnaudary, le Fils celui de Carcassonne, le Saint-Esprit celui de Toulouse.",
+    "source": "D'après Wikipédia — Cassoulet"
+  },
+  {
+    "id": "q-cuisine-050",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "À l'origine, le cassoulet ne se préparait pas avec des haricots mais plutôt avec des fèves.",
+    "reponse": true,
+    "explication": "Le haricot vient d'Amérique du Sud et n'est arrivé en Europe qu'au XVIe siècle. Les ragoûts médiévaux de ce type se faisaient donc avec des fèves, que la légende de Castelnaudary, située pendant la guerre de Cent Ans, oublie.",
+    "source": "D'après Wikipédia — Cassoulet"
+  },
+  {
+    "id": "q-cuisine-051",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel poisson de roche doit obligatoirement figurer dans une bouillabaisse marseillaise authentique selon la charte de 1980 ?",
+    "choix": [
+      "La rascasse",
+      "La sole",
+      "La sardine",
+      "Le maquereau"
+    ],
+    "bonneReponse": 0,
+    "explication": "La Charte de la bouillabaisse, rédigée en 1980 par onze restaurateurs marseillais, exige la rascasse, un poisson de roche plein d'arêtes qui vit près des côtes. Elle s'accompagne souvent de congre et de grondin.",
+    "source": "D'après Wikipédia — Bouillabaisse"
+  },
+  {
+    "id": "q-cuisine-052",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Que signifie littéralement « Sauerkraut », le mot allemand à l'origine de « choucroute » ?",
+    "choix": [
+      "Chou aigre",
+      "Chou salé",
+      "Chou d'hiver",
+      "Chou cuit"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sauer signifie « aigre » et Kraut « herbe », donc « chou » ici. En français, le mot a été déformé en « choucroute », sans aucun lien avec le chou ni avec la croûte, ce qui explique l'absence d'accent circonflexe.",
+    "source": "D'après Wikipédia — Choucroute"
+  },
+  {
+    "id": "q-cuisine-053",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Jusqu'au XIXe siècle, la choucroute alsacienne se servait volontiers avec des poissons d'eau douce plutôt qu'avec de la charcuterie.",
+    "reponse": true,
+    "explication": "Sous l'influence des bateliers du Rhin, le chou fermenté d'Alsace était accompagné de poissons pêchés dans le fleuve. La garniture de viandes et de saucisses s'est imposée ensuite, surtout après 1871 avec les brasseries parisiennes.",
+    "source": "D'après Wikipédia — Choucroute"
+  },
+  {
+    "id": "q-cuisine-054",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Dans quelle ville de Sologne les sœurs Tatin tenaient-elles l'hôtel où est née la célèbre tarte aux pommes ?",
+    "choix": [
+      "Lamotte-Beuvron",
+      "Orléans",
+      "Chartres",
+      "Tours"
+    ],
+    "bonneReponse": 0,
+    "explication": "Stéphanie et Caroline Tatin tenaient leur hôtel face à la gare de Lamotte-Beuvron, de 1894 à 1906, et recevaient beaucoup de chasseurs. Leur tarte renversée y est devenue célèbre dans toute la région.",
+    "source": "D'après Wikipédia — Tarte Tatin"
+  },
+  {
+    "id": "q-cuisine-055",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Louis Vaudable, patron de Maxim's, a bel et bien percé le secret de la tarte Tatin en se faisant embaucher comme jardinier chez les sœurs Tatin.",
+    "reponse": false,
+    "explication": "Son récit est très peu plausible : Louis Vaudable est né en 1902 et les demoiselles Tatin sont mortes en 1911 et 1917. Il n'avait donc pas quinze ans à leur décès, et les sœurs avaient quitté l'hôtel dès 1906.",
+    "source": "D'après Wikipédia — Tarte Tatin"
+  },
+  {
+    "id": "q-cuisine-056",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Selon la tradition de la Chandeleur, que faut-il tenir dans la main en faisant sauter sa crêpe pour s'assurer la prospérité ?",
+    "choix": [
+      "Une pièce de monnaie",
+      "Une cuillère en bois",
+      "Un œuf",
+      "Une clé"
+    ],
+    "bonneReponse": 0,
+    "explication": "On dit que, pour avoir de la chance et de l'argent toute l'année, il faut faire sauter sa crêpe en tenant une pièce, d'or de préférence, dans la main. La crêpe, ronde et dorée, évoque aussi le soleil du printemps.",
+    "source": "D'après Wikipédia — Crêpe"
+  },
+  {
+    "id": "q-cuisine-057",
+    "domain": "cuisine",
+    "format": "associer",
+    "question": "Associe chaque crêpe de sarrasin à son pays ou à sa région.",
+    "paires": [
+      {
+        "gauche": "Bourriol",
+        "droite": "Auvergne",
+        "explication": "Très ancienne crêpe de blé noir, aussi appelée pompe dans le nord du Cantal."
+      },
+      {
+        "gauche": "Bouquette",
+        "droite": "Région de Liège",
+        "explication": "Version sucrée au sarrasin, parfumée aux raisins secs ou aux pommes."
+      },
+      {
+        "gauche": "Ploye",
+        "droite": "Nouveau-Brunswick",
+        "explication": "Galette de sarrasin très répandue dans les régions francophones du Canada."
+      },
+      {
+        "gauche": "Memil-buchimgae",
+        "droite": "Corée",
+        "explication": "Crêpe de sarrasin souvent fourrée, plat traditionnel du Gangwon."
+      }
+    ],
+    "explication": "Le sarrasin, ou blé noir, sert à faire des crêpes bien au-delà de la Bretagne : en Auvergne, en Belgique, au Canada français et jusqu'en Corée, sous des noms très différents.",
+    "source": "D'après Wikipédia — Galette de sarrasin"
+  },
+  {
+    "id": "q-cuisine-058",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Comment appelle-t-on la fine croûte de fromage grillé qui se forme au fond du caquelon d'une fondue ?",
+    "choix": [
+      "La religieuse",
+      "La dentelle",
+      "La couenne",
+      "La carmélite"
+    ],
+    "bonneReponse": 0,
+    "explication": "Si la fondue est maintenue à bonne température, le fromage grille légèrement au fond du caquelon. Cette croûte croustillante comme un biscuit s'appelle « la religieuse » et on la retire pour la manger.",
+    "source": "D'après Wikipédia — Fondue savoyarde"
+  },
+  {
+    "id": "q-cuisine-059",
+    "domain": "cuisine",
+    "format": "difference",
+    "question": "Quelle est la différence entre la raclette et la fondue savoyarde ?",
+    "choix": [
+      "La raclette consiste à faire fondre du fromage en surface et à le racler sur l'assiette ; la fondue, c'est du fromage fondu au vin blanc où l'on trempe du pain",
+      "La raclette se fait avec du fromage de chèvre, la fondue avec du fromage de vache",
+      "La raclette est un plat froid, la fondue un plat chaud",
+      "La raclette se sert avec du pain, la fondue avec des pommes de terre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pour la raclette, originaire du Valais, on chauffe le fromage et on racle la partie fondue, accompagnée de pommes de terre cuites en robe des champs. Pour la fondue, on fait fondre des fromages dans du vin blanc et on y trempe du pain.",
+    "source": "D'après Wikipédia — Raclette"
+  },
+  {
+    "id": "q-cuisine-060",
+    "domain": "cuisine",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis un plat de gratin dont l'invention est récente, dans les années 1980.",
+      "Je descends d'une recette cuite dans une poêle à très long manche, la péla.",
+      "Mon nom vient du mot « tartifla », qui signifie pomme de terre en savoyard.",
+      "J'associe pommes de terre, oignons, lardons et un fromage qui grille sur le dessus.",
+      "Ce fromage est le reblochon."
+    ],
+    "reponse": "La tartiflette",
+    "explication": "La tartiflette s'inspire de la péla haut-savoyarde, mais elle n'est devenue célèbre qu'avec les stations de ski des années 1980. Le reblochon, coupé en deux, fond et grille sur les pommes de terre, oignons et lardons.",
+    "source": "D'après Wikipédia — Tartiflette"
+  },
+  {
+    "id": "q-cuisine-061",
+    "domain": "cuisine",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de la fondue dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "La Varenne publie un « ramequin de fromage »",
+        "annee": "1651"
+      },
+      {
+        "label": "Première recette de fondue moderne, au fromage et au vin sans œufs",
+        "annee": "1875"
+      },
+      {
+        "label": "La maïzena arrive en Suisse",
+        "annee": "1905"
+      },
+      {
+        "label": "L'Union suisse du fromage présente la fondue à New York",
+        "annee": "1939"
+      }
+    ],
+    "explication": "Le « ramequin » de 1651 ressemble déjà à une fondue. La recette moderne au vin date de 1875, la maïzena de 1905 stabilise le mélange, et l'Union suisse du fromage fait connaître la fondue à l'étranger en 1939.",
+    "source": "D'après Wikipédia — Fondue savoyarde"
+  },
+  {
+    "id": "q-cuisine-062",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel roi aurait déclaré, en 1600, qu'aucun paysan de son royaume ne devrait manquer d'une poule dans son pot ?",
+    "choix": [
+      "Henri IV",
+      "Louis XIV",
+      "François Ier",
+      "Louis XVI"
+    ],
+    "bonneReponse": 0,
+    "explication": "Henri IV aurait dit que nul paysan de son royaume ne devrait manquer d'une poule dans son pot. Le plat de la poule au pot, ou pot-au-feu à la béarnaise, ressemble beaucoup au pot-au-feu au bœuf.",
+    "source": "D'après Wikipédia — Pot-au-feu"
+  },
+  {
+    "id": "q-cuisine-063",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Pourquoi appelle-t-on « bourguignon » un plat comme le bœuf bourguignon ?",
+    "choix": [
+      "Parce qu'il est préparé au vin",
+      "Parce qu'il est cuit dans un pot en terre de Bourgogne",
+      "Parce qu'il a été inventé par les ducs de Bourgogne",
+      "Parce qu'il contient de la moutarde de Dijon"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pierre Larousse cite le bœuf bourguignon en 1867 comme exemple de plat « à la bourguignonne », terme donné à des mets préparés au vin. Le plat n'est sans doute pas né en Bourgogne et est longtemps resté surtout parisien.",
+    "source": "D'après Wikipédia — Bœuf bourguignon"
+  },
+  {
+    "id": "q-cuisine-064",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel roi exilé, beau-père de Louis XV, a insisté pour apprendre la recette de la soupe à l'oignon dans une auberge ?",
+    "choix": [
+      "Stanislas Leszczynski",
+      "Louis XIV",
+      "Charles X",
+      "Henri III"
+    ],
+    "bonneReponse": 0,
+    "explication": "Stanislas, ancien roi de Pologne et duc de Lorraine, descendit en robe de chambre à la cuisine pour suivre la préparation de la soupe, au point d'en pleurer à cause des oignons. Nicolas Appert lui dédia ensuite la recette.",
+    "source": "D'après Wikipédia — Soupe à l'oignon"
+  },
+  {
+    "id": "q-cuisine-065",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "L'aligot et la truffade sont deux noms différents du même plat.",
+    "reponse": false,
+    "explication": "L'aligot est une purée de pommes de terre mêlée de tome fraîche, de crème et d'ail, travaillée jusqu'à être élastique. La truffade, plat cantalien, utilise des pommes de terre en lamelles sautées dans du lard avec de la tome fraîche.",
+    "source": "D'après Wikipédia — Aligot"
+  },
+  {
+    "id": "q-cuisine-066",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "De quel mot germanique le nom de la quiche dériverait-il ?",
+    "choix": [
+      "Kuchen, qui désigne un gâteau",
+      "Käse, qui désigne le fromage",
+      "Kräuter, qui désigne les herbes",
+      "Kartoffel, qui désigne la pomme de terre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nom viendrait du francique lorrain Kuchen, mot qui désigne toute préparation à base de pâte, salée ou sucrée. La quiche d'origine était d'ailleurs une fine galette de pâte à pain garnie d'œufs et de crème.",
+    "source": "D'après Wikipédia — Quiche lorraine"
+  },
+  {
+    "id": "q-cuisine-067",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "D'où le hamburger tire-t-il son nom ?",
+    "choix": [
+      "De la ville allemande de Hambourg",
+      "Du mot anglais ham, le jambon",
+      "D'un restaurateur du Texas nommé Hamburger",
+      "D'un steak servi à bord des navires danois"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nom renvoie à Hambourg, en Allemagne, et n'a aucun lien avec le jambon (ham en anglais). Les Allemands baptisent souvent leurs spécialités d'après leur ville, comme le Berliner ou la Frankfurter.",
+    "source": "D'après Wikipédia — Hamburger"
+  },
+  {
+    "id": "q-cuisine-068",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Qui a généralisé la broche verticale du döner kebab en 1867, à Bursa ?",
+    "choix": [
+      "Iskender",
+      "Beyti Güler",
+      "Kadir Nurman",
+      "Hamdi Usta"
+    ],
+    "bonneReponse": 0,
+    "explication": "Iskender, soutenu par son père, adopte définitivement la broche verticale à Bursa en 1867. Hamdi Usta l'avait tentée dès les années 1830, sans succès. Le plat porte encore le nom d'iskender kebap.",
+    "source": "D'après Wikipédia — Kebab"
+  },
+  {
+    "id": "q-cuisine-069",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Avec quelle légumineuse prépare-t-on traditionnellement le falafel en Égypte, où on l'appelle ta'amiyya ?",
+    "choix": [
+      "Des fèves",
+      "Des pois chiches",
+      "Des lentilles corail",
+      "Des haricots rouges"
+    ],
+    "bonneReponse": 0,
+    "explication": "En Égypte et dans la péninsule arabique, le falafel se fait surtout avec des fèves. Dans le Levant, on préfère les pois chiches, ou un mélange des deux, trempés mais jamais cuits avant d'être broyés.",
+    "source": "D'après Wikipédia — Falafel"
+  },
+  {
+    "id": "q-cuisine-070",
+    "domain": "cuisine",
+    "format": "qui-suis-je",
+    "indices": [
+      "Plusieurs pays revendiquent mon origine, sans preuve décisive.",
+      "La plus ancienne recette proche de moi connue vient d'un livre de cuisine d'Alep, au XIIIe siècle, et ne contient pas d'ail.",
+      "Je suis une purée froide ou tiède, mêlée à de la pâte de sésame et du citron.",
+      "Mon nom signifie « pois chiche » en arabe.",
+      "On me sert avec de l'huile d'olive et du pain pita."
+    ],
+    "reponse": "Le houmous",
+    "explication": "Le houmous est une purée de pois chiches au tahini, à l'ail et au citron. Son nom signifie simplement « pois chiche » en arabe. Une recette du XIIIe siècle, sans ail, en est la plus ancienne trace connue.",
+    "source": "D'après Wikipédia — Houmous"
+  },
+  {
+    "id": "q-cuisine-071",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Dans le taboulé libanais traditionnel, le persil domine et il y a très peu de boulgour.",
+    "reponse": true,
+    "explication": "Le taboulé du Liban et de Syrie est avant tout une salade de persil, avec un peu de boulgour fin. La version française à la semoule inverse les proportions, comme le kısır turc, riche en boulgour.",
+    "source": "D'après Wikipédia — Taboulé"
+  },
+  {
+    "id": "q-cuisine-072",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Pourquoi un tajine peut-il cuire avec très peu d'eau ?",
+    "choix": [
+      "Le couvercle conique renvoie la vapeur condensée dans le plat",
+      "La terre cuite produit elle-même de l'eau en chauffant",
+      "La cuisson se fait sous pression dans un couvercle verrouillé",
+      "La viande est d'abord plongée dans un bain-marie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le couvercle conique ou en dôme capte la vapeur et la renvoie en gouttelettes sur les aliments, qui mijotent donc avec très peu d'eau. C'est précieux là où l'eau est rare. La poterie finit la cuisson comme un four.",
+    "source": "D'après Wikipédia — Tajine"
+  },
+  {
+    "id": "q-cuisine-073",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "La moussaka grecque aux aubergines et à la béchamel remonte au Moyen Âge.",
+    "reponse": false,
+    "explication": "La version grecque moderne a été mise au point au début du XXe siècle par le cuisinier Nikólaos Tselementés, formé en France. Le mot, lui, vient de l'arabe, et des plats d'aubergines et de viande existaient déjà au XIIIe siècle.",
+    "source": "D'après Wikipédia — Moussaka"
+  },
+  {
+    "id": "q-cuisine-074",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Comment appelle-t-on l'étape finale du risotto où l'on bat beurre et parmesan hors du feu ?",
+    "choix": [
+      "La mantecatura",
+      "La tostatura",
+      "Le soffritto",
+      "Le all'onda"
+    ],
+    "bonneReponse": 0,
+    "explication": "La mantecatura donne au risotto sa texture lisse et crémeuse. La tostatura est le nacrage du riz au début, le soffritto la base d'oignon, et all'onda le service plus liquide à la vénitienne.",
+    "source": "D'après Wikipédia — Risotto"
+  },
+  {
+    "id": "q-cuisine-075",
+    "domain": "cuisine",
+    "format": "associer",
+    "question": "Associe chaque ville ou région italienne à sa lasagne.",
+    "paires": [
+      {
+        "gauche": "Bologne",
+        "droite": "Ragù, béchamel et parmesan",
+        "explication": "La lasagne al forno de Bologne superpose ragù, béchamel et parmesan."
+      },
+      {
+        "gauche": "Ferrare",
+        "droite": "Pâtes vertes aux épinards",
+        "explication": "À Ferrare, la pâte est colorée aux épinards ; on y ajoute parfois pancetta et foies."
+      },
+      {
+        "gauche": "Marches",
+        "droite": "Vincisgrassi aux champignons et abats",
+        "explication": "Les vincisgrassi des Marches mêlent champignons et abats de volaille."
+      },
+      {
+        "gauche": "Gênes",
+        "droite": "Pesto et béchamel légère",
+        "explication": "La lasagne de Gênes se nappe de pesto avec une béchamel légère."
+      }
+    ],
+    "explication": "Chaque région a sa lasagne : Bologne avec ragù et béchamel, Ferrare avec des pâtes aux épinards, les Marches avec des vincisgrassi et Gênes avec du pesto. Naples fait ses lasagnes de carnaval à la saucisse.",
+    "source": "D'après Wikipédia — Lasagnes"
+  },
+  {
+    "id": "q-cuisine-076",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Que signifie « tirami su » en italien ?",
+    "choix": [
+      "Remonte-moi",
+      "Ramène-moi",
+      "Tire-moi un café",
+      "Sers-moi encore"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tirami su veut dire « remonte-moi », au sens de « redonne-moi du courage ». Le nom est italien, même si beaucoup d'anglophones le croient japonais à cause de ses syllabes ouvertes et de sa fin en -su.",
+    "source": "D'après Wikipédia — Tiramisu"
+  },
+  {
+    "id": "q-cuisine-077",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "En quelle année le nom « spaghetti alla carbonara » apparaît-il pour la première fois par écrit ?",
+    "choix": [
+      "1939",
+      "1839",
+      "1952",
+      "1969"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un journal des Indes orientales néerlandaises, De Koerier, le cite en 1939. Le plat voisin cacio e uova était déjà documenté en 1839, et la première recette imprimée connue de carbonara date de 1952, à Chicago.",
+    "source": "D'après Wikipédia — Pâtes à la carbonara"
+  },
+  {
+    "id": "q-cuisine-078",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Le mot « tapa » signifie « couvercle » en espagnol.",
+    "reponse": true,
+    "explication": "Tapa vient de tapar, « couvrir ». L'amuse-gueule serait né d'une tranche de pain ou de jambon posée sur le verre, ou d'un échantillon de plat présenté sur un couvercle de marmite dans les auberges.",
+    "source": "D'après Wikipédia — Tapas (gastronomie)"
+  },
+  {
+    "id": "q-cuisine-079",
+    "domain": "cuisine",
+    "format": "difference",
+    "question": "Quelle est la différence entre le gaspacho et le salmorejo ?",
+    "choix": [
+      "Le gaspacho est une soupe, le salmorejo une émulsion plus épaisse",
+      "Le gaspacho se mange chaud, le salmorejo froid",
+      "Le gaspacho contient de la viande, le salmorejo non",
+      "Le gaspacho est portugais, le salmorejo est mexicain"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tous deux sont des soupes froides à la tomate, au pain, à l'huile et à l'ail. Le gaspacho est liquide et peut contenir concombre, poivron et vinaigre ; le salmorejo de Cordoue est une émulsion épaisse, souvent garnie de jambon.",
+    "source": "D'après Wikipédia — Gaspacho"
+  },
+  {
+    "id": "q-cuisine-080",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Le jambon ibérique et le jamón serrano sont deux noms pour la même filière.",
+    "reponse": false,
+    "explication": "Le jambon ibérique vient de porcs de race ibérique, au moins pour moitié, parfois nourris de glands. Le serrano provient de porcs blancs élevés plus industriellement. Le gras, la texture et le goût diffèrent nettement.",
+    "source": "D'après Wikipédia — Jambon ibérique"
+  },
+  {
+    "id": "q-cuisine-081",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Pourquoi les religieux portugais avaient-ils beaucoup de jaunes d'œufs à utiliser pour leurs pâtisseries ?",
+    "choix": [
+      "Ils utilisaient les blancs pour empeser le linge et les habits",
+      "Ils élevaient surtout des oies",
+      "Ils ne mangeaient que des jaunes pendant le carême",
+      "Ils les échangeaient contre du sucre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les couvents utilisaient d'énormes quantités de blancs d'œufs pour empeser les habits des moines et nonnes. Les jaunes restants ont donné naissance à de nombreuses pâtisseries portugaises, dont le pastel de nata.",
+    "source": "D'après Wikipédia — Pastel de nata"
+  },
+  {
+    "id": "q-cuisine-082",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel écrivain évoque des « fried fish warehouses » dès 1838 dans l'un de ses romans ?",
+    "choix": [
+      "Charles Dickens",
+      "George Orwell",
+      "Alexis Soyer",
+      "Gervase Markham"
+    ],
+    "bonneReponse": 0,
+    "explication": "Charles Dickens mentionne ces entrepôts de poisson frit dans Oliver Twist, en 1838. Dans Le Quai de Wigan, George Orwell citera en 1937 le fish and chips parmi les réconforts des familles ouvrières.",
+    "source": "D'après Wikipédia — Fish and chips"
+  },
+  {
+    "id": "q-cuisine-083",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel poète écossais a consacré en 1786 un poème au haggis, « Address to a Haggis » ?",
+    "choix": [
+      "Robert Burns",
+      "William Dunbar",
+      "Gervase Markham",
+      "Homère"
+    ],
+    "bonneReponse": 0,
+    "explication": "Robert Burns a salué le haggis comme le « chef du peuple des boudins ». Chaque 25 janvier, la Burns Night célèbre sa naissance avec un grand dîner, où le haggis entre au son de la cornemuse.",
+    "source": "D'après Wikipédia — Haggis"
+  },
+  {
+    "id": "q-cuisine-084",
+    "domain": "cuisine",
+    "format": "frise",
+    "question": "Remets ces repères de l'histoire du fish and chips dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Dickens évoque des entrepôts de poisson frit dans Oliver Twist",
+        "annee": "1838"
+      },
+      {
+        "label": "Dickens cite des « chips » de pomme de terre frites dans un roman",
+        "annee": "1859"
+      },
+      {
+        "label": "Samuel Isaacs ouvre son restaurant de fish and chips à Lambeth",
+        "annee": "1896"
+      },
+      {
+        "label": "Harry Ramsden ouvre sa boutique à Guiseley",
+        "annee": "1928"
+      },
+      {
+        "label": "Un record de 10 000 portions servies en une seule journée",
+        "annee": "1952"
+      }
+    ],
+    "explication": "Dickens parle de poisson frit en 1838 et de chips en 1859, Samuel Isaacs ouvre son restaurant en 1896, Harry Ramsden sa boutique en 1928, et en 1952 cette maison sert 10 000 portions en un jour.",
+    "source": "D'après Wikipédia — Fish and chips"
+  },
+  {
+    "id": "q-cuisine-085",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Que signifie à l'origine le mot hongrois gulyás, à l'origine du goulasch ?",
+    "choix": [
+      "Le bouvier, gardien de troupeaux de bovins",
+      "Le paprika rouge",
+      "Le chaudron de métal",
+      "Le marché aux bestiaux"
+    ],
+    "bonneReponse": 0,
+    "explication": "Gulyás désigne le bouvier de la grande plaine hongroise, et le plat est devenu sa « soupe ». Ces gardiens de troupeaux cuisaient leur viande dans un chaudron en plein air. Le paprika n'est arrivé que bien plus tard dans la recette.",
+    "source": "D'après Wikipédia — Goulasch"
+  },
+  {
+    "id": "q-cuisine-086",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "De quelle plante le bortsch tire-t-il son nom ?",
+    "choix": [
+      "La berce commune",
+      "La betterave rouge",
+      "Le chou",
+      "L'oseille"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot slave bortsch désigne la berce, une plante des prairies humides dont tiges et feuilles, conservées dans l'acidité, servaient à l'ancienne soupe. La betterave n'est venue qu'ensuite, donnant au bortsch rouge sa couleur célèbre.",
+    "source": "D'après Wikipédia — Bortsch"
+  },
+  {
+    "id": "q-cuisine-087",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Qui a apporté au Japon la technique de friture à la pâte à l'origine du tempura ?",
+    "choix": [
+      "Des missionnaires portugais",
+      "Des moines zen chinois",
+      "Des marchands néerlandais",
+      "Des cuisiniers coréens"
+    ],
+    "bonneReponse": 0,
+    "explication": "À la fin du XVIe siècle, à Nagasaki, des missionnaires portugais font découvrir l'enrobage de farine et d'œuf avant friture. Leurs peixinhos da horta, des haricots verts en beignet, se mangeaient pendant le Carême. Le mot tempura viendrait du latin tempora.",
+    "source": "D'après Wikipédia — Tempura"
+  },
+  {
+    "id": "q-cuisine-088",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Que signifie littéralement dim sum en cantonais ?",
+    "choix": [
+      "« Toucher le cœur »",
+      "« Une tasse, deux morceaux »",
+      "« Petite vapeur »",
+      "« Boire le thé »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dim sum se traduit par « toucher le cœur » et désigne les petites bouchées servies avec le thé. Les deux autres expressions existent aussi : « une tasse, deux morceaux » décrit la coutume des maisons de thé, et yum cha veut dire « boire le thé ».",
+    "source": "D'après Wikipédia — Dimsum"
+  },
+  {
+    "id": "q-cuisine-089",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel ingrédient du kimchi, venu d'Amérique, était inconnu en Corée avant le début du XVIIe siècle ?",
+    "choix": [
+      "Le piment",
+      "L'ail",
+      "Le gingembre",
+      "Le radis"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le piment arrive en Asie de l'Est grâce aux marchands portugais ; une encyclopédie de 1614 le mentionne pour la première fois en Corée. Le kimchi ancien n'était donc pas épicé, et le piment ne s'y généralise qu'au XIXe siècle.",
+    "source": "D'après Wikipédia — Kimchi"
+  },
+  {
+    "id": "q-cuisine-090",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Comment appelle-t-on la croûte de riz dorée qui se forme au fond du bol de pierre du dolsot bibimbap ?",
+    "choix": [
+      "Le nurungji",
+      "Le gochujang",
+      "Le banchan",
+      "Le namul"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le bol de pierre est enduit d'huile de sésame avant le riz : la couche qui touche la paroi brûlante devient croustillante et dorée, le nurungji. L'œuf cru cuit lui aussi contre la paroi, et l'on mélange le tout juste avant de manger.",
+    "source": "D'après Wikipédia — Bibimbap"
+  },
+  {
+    "id": "q-cuisine-091",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Où est né le phở, selon les historiens ?",
+    "choix": [
+      "Dans le nord du Viêt Nam, province de Nam Định",
+      "Dans le delta du Mékong",
+      "À Saïgon, dans le sud",
+      "Dans le centre du pays, à Hué"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le phở moderne apparaît au début du XXe siècle dans le nord du Viêt Nam, dans la province de Nam Định, au sud-est d'Hanoï. Il ne se popularise dans le Sud qu'après la partition de 1954, quand plus d'un million de personnes quittent le Nord.",
+    "source": "D'après Wikipédia — Phở"
+  },
+  {
+    "id": "q-cuisine-092",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel empereur moghol demande à son fils de lui envoyer son cuisinier spécialiste du biryani ?",
+    "choix": [
+      "Aurangzeb",
+      "Akbar",
+      "Shah Jahan",
+      "Bahadur Shah Zafar"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans une lettre à son fils, Aurangzeb se souvient du goût de son biryani en hiver et réclame son cuisinier, Saliman. Le prince refuse de s'en séparer. L'empereur lui demande alors d'envoyer au moins un élève de ce cuisinier.",
+    "source": "D'après Wikipédia — Biryani"
+  },
+  {
+    "id": "q-cuisine-093",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Dans quelle ville italienne a-t-on retrouvé, dans un parchemin de 1187, le plus ancien « rafiolo » connu ?",
+    "choix": [
+      "Bergame",
+      "Gênes",
+      "Venise",
+      "Naples"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un parchemin de 1187 retrouvé à Bergame décrit un banquet annuel de chanoines et cite des « rafioli » faits de vin, de pain, d'œufs et de farine. On ignore si c'étaient déjà des pâtes farcies : l'origine du mot ravioli reste incertaine.",
+    "source": "D'après Wikipédia — Ravioli"
+  },
+  {
+    "id": "q-cuisine-094",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel haricot utilise-t-on le plus souvent dans la feijoada brésilienne ?",
+    "choix": [
+      "Le haricot noir",
+      "Le haricot blanc",
+      "Le haricot rouge",
+      "Le pois chiche"
+    ],
+    "bonneReponse": 0,
+    "explication": "Au Brésil, la feijoada se prépare avec des haricots noirs, domestiqués par les peuples autochtones des Amériques. Au Portugal, on utilise plutôt des haricots blancs dans le nord-ouest et des haricots rouges dans le nord-est.",
+    "source": "D'après Wikipédia — Feijoada"
+  },
+  {
+    "id": "q-cuisine-095",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Le pad thaï est un plat millénaire, qui existait déjà il y a plusieurs siècles en Thaïlande.",
+    "reponse": false,
+    "explication": "Les nouilles de riz sautées viennent de Chine depuis des siècles, mais le pad thaï lui-même a été inventé au milieu du XXe siècle. Une chercheuse y voit même un outil de construction nationale, créé dans les années 1930.",
+    "source": "D'après Wikipédia — Phat thai"
+  },
+  {
+    "id": "q-cuisine-096",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Le naan au fromage (cheese naan) est une invention parisienne des années 1970.",
+    "reponse": true,
+    "explication": "Le cheese naan serait né à Paris : l'origine la plus probable est attribuée à André Risser, qui aurait garni les naan de fromage à tartiner en 1967, craignant que les Français n'apprécient pas la cuisine indienne. Une autre version cite une famille de Bombay.",
+    "source": "D'après Wikipédia — Naan"
+  },
+  {
+    "id": "q-cuisine-097",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Dans le ceviche, le poisson est cuit par la chaleur du citron vert.",
+    "reponse": false,
+    "explication": "Le ceviche n'est pas cuit par la chaleur : c'est l'acidité du jus d'agrumes qui modifie les protéines. La chair devient opaque et ferme, comme cuite, mais elle reste crue, à la différence du sashimi, servi sans aucune transformation.",
+    "source": "D'après Wikipédia — Ceviche"
+  },
+  {
+    "id": "q-cuisine-098",
+    "domain": "cuisine",
+    "format": "associer",
+    "question": "Associe chaque plat à son pays d'origine.",
+    "paires": [
+      {
+        "gauche": "Le kimchi",
+        "droite": "Corée",
+        "explication": "Légumes salés et fermentés, servis avec presque tous les repas coréens."
+      },
+      {
+        "gauche": "Le phở",
+        "droite": "Viêt Nam",
+        "explication": "Soupe de nouilles de riz et de bœuf née dans le nord du pays."
+      },
+      {
+        "gauche": "Le pad thaï",
+        "droite": "Thaïlande",
+        "explication": "Nouilles de riz sautées au tamarin, devenues un emblème national."
+      },
+      {
+        "gauche": "Le tempura",
+        "droite": "Japon",
+        "explication": "Beignets légers, venus des missionnaires portugais du XVIe siècle."
+      },
+      {
+        "gauche": "Le dosa",
+        "droite": "Inde",
+        "explication": "Crêpe fermentée de riz et de lentilles noires, du sud du pays."
+      }
+    ],
+    "explication": "Ces cinq plats d'Asie ont chacun une histoire : le kimchi et le dosa reposent sur la fermentation, le tempura vient du Portugal, le phở naît au XXe siècle et le pad thaï a été popularisé par un gouvernement.",
+    "source": "D'après Wikipédia — Kimchi"
+  },
+  {
+    "id": "q-cuisine-099",
+    "domain": "cuisine",
+    "format": "qui-suis-je",
+    "indices": [
+      "Une légende chinoise me prête pour inventeur un prince de la dynastie Han, Liu An.",
+      "Des moines zen m'ont introduit au Japon, où l'on m'a offert en 1183 à un sanctuaire de Nara.",
+      "On me fabrique avec un coagulant comme le nigari ou le gypse.",
+      "Je suis un caillé de lait de soja, pressé en blocs blancs."
+    ],
+    "reponse": "Le tofu",
+    "explication": "Le tofu s'obtient en faisant cailler du lait de soja, puis en pressant les grumeaux. Né en Chine, il a gagné le Japon avec des moines zen. Le nigari, le gypse ou un acide comme le citron servent de coagulant.",
+    "source": "D'après Wikipédia — Tofu"
+  },
+  {
+    "id": "q-cuisine-100",
+    "domain": "cuisine",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire du canard laqué dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Hu Sihui cite le plat dans un manuel de cuisine impériale",
+        "annee": "1330"
+      },
+      {
+        "label": "Ouverture de Bianyifang, premier restaurant spécialisé",
+        "annee": "1416"
+      },
+      {
+        "label": "Fondation du restaurant Quanjude",
+        "annee": "1864"
+      },
+      {
+        "label": "Kissinger goûte le plat lors de sa visite secrète",
+        "annee": "1971"
+      }
+    ],
+    "explication": "Le plat apparaît dans un manuel impérial de 1330, puis le restaurant Bianyifang ouvre en 1416 et Quanjude en 1864. Le canard laqué devient un symbole de la Chine, jusqu'au déjeuner de Kissinger à Pékin en 1971.",
+    "source": "D'après Wikipédia — Canard laqué de Pékin"
+  },
+  {
+    "id": "q-cuisine-101",
+    "domain": "cuisine",
+    "format": "difference",
+    "question": "Quelle est la différence entre un biryani « pakki » et un biryani « kacchi » ?",
+    "choix": [
+      "Le pakki est cuit en partie à part puis superposé, le kacchi est disposé cru dans un pot scellé",
+      "Le pakki contient de la viande, le kacchi uniquement des légumes",
+      "Le pakki est cuit au four, le kacchi à la poêle",
+      "Le pakki est servi chaud, le kacchi froid"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans le pakki (« cuit »), les ingrédients sont cuits séparément puis disposés en couches. Dans le kacchi (« cru »), les couches sont posées crues dans un pot scellé, cuit lentement à l'étuvée dans son propre jus : c'est la cuisson dum.",
+    "source": "D'après Wikipédia — Biryani"
+  },
+  {
+    "id": "q-cuisine-102",
+    "domain": "cuisine",
+    "format": "difference",
+    "question": "Quelle est la différence entre le naan et le chapati ?",
+    "choix": [
+      "Le naan cuit dans un four tandoor, le chapati sur une plaque, la tawa",
+      "Le naan est sans levain, le chapati toujours levé",
+      "Le naan est toujours sucré, le chapati toujours salé",
+      "Le naan est cuit dans l'huile, le chapati à la vapeur"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le chapati est généralement rond et cuit sur une plaque en fonte, la tawa. Le naan, pain levé, cuit en théorie dans un four d'argile, le tandoor, la pâte plaquée contre sa paroi brûlante, ce qui le dore par endroits.",
+    "source": "D'après Wikipédia — Naan"
+  },
+  {
+    "id": "q-cuisine-103",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "De quelle langue vient le mot « barbecue », via l'espagnol barbacoa ?",
+    "choix": [
+      "Des langues arawaks, parlées aux Caraïbes",
+      "Du nahuatl, la langue des Aztèques",
+      "Du tupi, parlé au Brésil",
+      "De l'arabe"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les linguistes font venir le mot des langues arawaks, par l'espagnol barbacoa. À l'origine, il désignait une claie de bois pour rôtir ou fumer la viande, pas encore l'action de griller. Il est attesté en anglais dès 1697.",
+    "source": "D'après Wikipédia — Barbecue"
+  },
+  {
+    "id": "q-cuisine-104",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Dans quelle région du Québec la poutine est-elle apparue vers la fin des années 1950 ?",
+    "choix": [
+      "Le Centre-du-Québec",
+      "La Gaspésie",
+      "Le Saguenay–Lac-Saint-Jean",
+      "L'Abitibi"
+    ],
+    "bonneReponse": 0,
+    "explication": "Plusieurs restaurants du Centre-du-Québec en revendiquent l'invention : à Warwick, Drummondville et Princeville. Aucun consensus n'existe, et certains pensent que l'idée vient surtout d'un client qui mélangeait fromage et frites.",
+    "source": "D'après Wikipédia — Poutine (plat)"
+  },
+  {
+    "id": "q-cuisine-105",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Combien de litres d'eau d'érable faut-il environ pour obtenir un litre de sirop d'érable ?",
+    "choix": [
+      "Entre 35 et 40 litres",
+      "Environ 4 litres",
+      "Environ 10 litres",
+      "Plus de 100 litres"
+    ],
+    "bonneReponse": 0,
+    "explication": "La sève ne contient que 2 à 3 % de sucre. Il faut donc la faire bouillir longtemps : 35 à 40 litres donnent un litre de sirop, qui doit atteindre 3,5 °C au-dessus de la température d'ébullition de l'eau.",
+    "source": "D'après Wikipédia — Sirop d'érable"
+  },
+  {
+    "id": "q-cuisine-106",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Que signifie à l'origine le mot « fromage », issu du latin formaticus ?",
+    "choix": [
+      "Un produit moulé dans une forme",
+      "Un lait qui a aigri",
+      "Un aliment de la ferme",
+      "Un lait salé"
+    ],
+    "bonneReponse": 0,
+    "explication": "Fromage vient du bas latin formaticus, « moulé dans une forme », dérivé de forma. L'autre mot latin, caseus, a donné la caséine, protéine du lait qui coagule lors de la fabrication du fromage.",
+    "source": "D'après Wikipédia — Fromage"
+  },
+  {
+    "id": "q-cuisine-107",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Comment était la croûte du camembert avant le XXe siècle ?",
+    "choix": [
+      "Bleu-gris, tachée de brun-rouge",
+      "Blanche et immaculée",
+      "Orange vif",
+      "Noire et dure"
+    ],
+    "bonneReponse": 0,
+    "explication": "La croûte uniformément blanche est récente : elle vient de la moisissure Penicillium candidum, qui a remplacé Penicillium album, grise-bleutée. Cette blancheur ne s'impose qu'entre les deux guerres, et jusque vers 1960 on s'en méfiait.",
+    "source": "D'après Wikipédia — Camembert de Normandie"
+  },
+  {
+    "id": "q-cuisine-108",
+    "domain": "cuisine",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon lait vient exclusivement de brebis de race Lacaune.",
+      "En 1411, le roi Charles VI a accordé le monopole de mon affinage aux habitants d'un village.",
+      "Je mûris dans des caves où des failles, les fleurines, créent un courant d'air.",
+      "Ma moisissure s'appelle Penicillium roqueforti.",
+      "Mon nom est celui d'un village de l'Aveyron : Roquefort-sur-Soulzon."
+    ],
+    "reponse": "Le roquefort",
+    "explication": "Le roquefort est un fromage persillé de brebis, affiné dans les caves de Roquefort-sur-Soulzon. Son nom a été protégé dès 1925, ce qui en fait la première appellation d'origine fromagère de France, avant l'AOC de 1979 et l'AOP de 1996.",
+    "source": "D'après Wikipédia — Roquefort (fromage)"
+  },
+  {
+    "id": "q-cuisine-109",
+    "domain": "cuisine",
+    "format": "difference",
+    "question": "Quelle est la principale différence entre un brie et un camembert ?",
+    "choix": [
+      "Le brie vient d'Île-de-France en grandes roues vendues en parts, le camembert de Normandie en petits fromages couverts de croûte",
+      "Le brie est un fromage de chèvre et le camembert un fromage de vache",
+      "Le brie est un fromage bleu et le camembert un fromage blanc",
+      "Le brie est un fromage à pâte cuite et le camembert à pâte molle"
+    ],
+    "bonneReponse": 0,
+    "explication": "Tous deux sont des fromages de vache à croûte fleurie. Le brie, d'Île-de-France, se fait en grandes roues de 23 à 37 cm et se vend en parts ; le camembert, de Normandie, est un petit cylindre d'environ 10 cm entièrement couvert de croûte.",
+    "source": "D'après Wikipédia — Brie (fromage)"
+  },
+  {
+    "id": "q-cuisine-110",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Pendant l'incendie de Londres de 1666, Samuel Pepys a enterré son fromage parmesan pour le protéger.",
+    "reponse": true,
+    "explication": "Dans son journal, Samuel Pepys raconte avoir mis son parmesan, son vin et d'autres biens à l'abri sous terre. Le parmesan était déjà un produit de luxe recherché en Europe au XVIIe siècle.",
+    "source": "D'après Wikipédia — Parmigiano Reggiano"
+  },
+  {
+    "id": "q-cuisine-111",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Que fait le « battitore » d'une meule de parmesan avec son petit marteau ?",
+    "choix": [
+      "Il la tapote pour repérer fissures et vides cachés",
+      "Il goûte la croûte pour juger son sel",
+      "Il casse la meule pour la vendre en morceaux",
+      "Il façonne sa forme ronde"
+    ],
+    "bonneReponse": 0,
+    "explication": "À douze mois, chaque meule est inspectée par un maître calibreur. En quelques secondes, il tapote la croûte et écoute le son : cela révèle les défauts internes. Les meules réussies reçoivent au fer chaud la marque du consortium.",
+    "source": "D'après Wikipédia — Parmigiano Reggiano"
+  },
+  {
+    "id": "q-cuisine-112",
+    "domain": "cuisine",
+    "format": "associer",
+    "question": "Associe chaque fromage au lait dont il est fait.",
+    "paires": [
+      {
+        "gauche": "Roquefort",
+        "droite": "Brebis de race Lacaune",
+        "explication": "Le roquefort est fait exclusivement de lait cru de brebis Lacaune."
+      },
+      {
+        "gauche": "Mozzarella di bufala campana",
+        "droite": "Bufflonne",
+        "explication": "Cette AOP de Campanie utilise du lait de bufflonne."
+      },
+      {
+        "gauche": "Comté",
+        "droite": "Vache montbéliarde ou simmental",
+        "explication": "Le comté est fait avec du lait cru de ces deux races de montagne."
+      },
+      {
+        "gauche": "Feta",
+        "droite": "Brebis, avec au plus 30 % de chèvre",
+        "explication": "L'AOP feta autorise un mélange avec du lait de chèvre, limité à 30 %."
+      }
+    ],
+    "explication": "Le lait détermine une part du caractère d'un fromage, avec l'alimentation de l'animal, les bactéries et l'affinage. Chacune de ces appellations fixe précisément l'origine du lait autorisé.",
+    "source": "D'après Wikipédia — Fromage"
+  },
+  {
+    "id": "q-cuisine-113",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Une mozzarella traditionnelle de bufflonne se déguste idéalement plusieurs semaines après sa fabrication.",
+    "reponse": false,
+    "explication": "C'est un fromage frais : fermier ou artisanal, il se mange idéalement le jour même. En vieillissant, il devient acide et s'affaisse. Son nom vient de mozzare, « couper », geste qui détache les morceaux de pâte filée.",
+    "source": "D'après Wikipédia — Mozzarella"
+  },
+  {
+    "id": "q-cuisine-114",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "D'où vient le mot « feta », donné au fromage grec en saumure ?",
+    "choix": [
+      "De l'italien fetta, « tranche »",
+      "Du grec pheta, « brebis »",
+      "Du turc beyaz, « blanc »",
+      "Du latin salamura, « saumure »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nom est emprunté à l'italien fetta, qui veut dire « tranche », sans doute parce que l'on découpait le fromage pour le ranger dans des tonneaux. Il ne s'est imposé comme nom du fromage qu'au XIXe siècle.",
+    "source": "D'après Wikipédia — Feta"
+  },
+  {
+    "id": "q-cuisine-115",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Pourquoi l'alvéole en carton pour les œufs a-t-elle été inventée en 1911 ?",
+    "choix": [
+      "Pour régler une dispute sur des œufs cassés entre un fermier et un hôtelier",
+      "Pour conserver les œufs plus longtemps",
+      "Pour les exporter par bateau",
+      "Pour que les poules pondent plus facilement"
+    ],
+    "bonneReponse": 0,
+    "explication": "Joseph Coyle, à Smithers (Colombie-Britannique), l'a imaginée pour mettre fin à un différend sur les œufs abîmés pendant les livraisons entre un fermier et le propriétaire d'un hôtel. Les premières étaient en papier.",
+    "source": "D'après Wikipédia — Œuf (aliment)"
+  },
+  {
+    "id": "q-cuisine-116",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "L'impôt sur le sel, la gabelle, a disparu avec la Révolution française et n'a jamais été rétabli.",
+    "reponse": false,
+    "explication": "La gabelle, très impopulaire, a contribué à la Révolution. Après sa suppression, Napoléon l'a réimposée pour financer ses guerres, et elle n'a été définitivement abolie qu'en 1946.",
+    "source": "D'après Wikipédia — Sel alimentaire"
+  },
+  {
+    "id": "q-cuisine-117",
+    "domain": "cuisine",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire du sucre de betterave dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Marggraf prouve que le sucre de betterave est identique à celui de canne",
+        "annee": "1747"
+      },
+      {
+        "label": "Achard produit le premier pain de sucre de betterave",
+        "annee": "1798"
+      },
+      {
+        "label": "Quéruel invente la fabrication industrielle du sucre cristallisé",
+        "annee": "1811"
+      },
+      {
+        "label": "Invention des premiers morceaux de sucre blanc",
+        "annee": "1855"
+      },
+      {
+        "label": "Louis Chambon met au point les « dominos » moulés par compression",
+        "annee": "1949"
+      }
+    ],
+    "explication": "La betterave a longtemps été une curiosité. Le blocus continental de 1810 pousse Napoléon à l'encourager, et la fin du XIXe siècle puis le XXe siècle perfectionnent la forme du sucre.",
+    "source": "D'après Wikipédia — Sucre"
+  },
+  {
+    "id": "q-cuisine-118",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Que répond Vasco de Gama aux marchands de Kozhikode qui lui demandent ce qu'il est venu chercher en 1498 ?",
+    "choix": [
+      "Des chrétiens et des épices",
+      "De l'or et des perles",
+      "De la soie et du thé",
+      "Une route vers la Chine"
+    ],
+    "bonneReponse": 0,
+    "explication": "Vasco de Gama est le premier Européen à atteindre l'Inde en contournant l'Afrique. Sa réponse résume les deux buts de l'expédition. Le poivre faisait alors l'objet d'un commerce très lucratif, longtemps contrôlé par l'Italie.",
+    "source": "D'après Wikipédia — Poivre"
+  },
+  {
+    "id": "q-cuisine-119",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Selon la mythologie grecque, qu'a offert Athéna à la cité qui porte son nom, pour l'emporter sur Poséidon ?",
+    "choix": [
+      "Un olivier",
+      "Un bouclier d'or",
+      "Un cheval",
+      "Un champ de blé"
+    ],
+    "bonneReponse": 0,
+    "explication": "Poséidon offrait une source salée, Athéna un olivier : son don fut jugé plus précieux. L'olivier est devenu un emblème méditerranéen de paix et de vie, et son huile un pilier de la cuisine de la région.",
+    "source": "D'après Wikipédia — Huile d'olive"
+  },
+  {
+    "id": "q-cuisine-120",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel scientifique identifie en 1864 l'une des bactéries qui transforment le vin en vinaigre, Acetobacter aceti ?",
+    "choix": [
+      "Louis Pasteur",
+      "Antoine Lavoisier",
+      "Karl Schüzenbach",
+      "Georg Ernst Stahl"
+    ],
+    "bonneReponse": 0,
+    "explication": "Louis Pasteur, qui travaille pour les vinaigriers de France, étudie la fermentation alcoolique et la fermentation acétique. Il identifie en 1864 Acetobacter aceti, l'une des espèces de bactéries acétiques qui fabriquent le vinaigre.",
+    "source": "D'après Wikipédia — Vinaigre"
+  },
+  {
+    "id": "q-cuisine-121",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Au Moyen Âge, tous les plats ne sont que l'« accompagnement » du pain. Quel mot latin médiéval désigne cet accompagnement, aux origines de « compagnon » et de « copain » ?",
+    "choix": [
+      "Companicum",
+      "Panicium",
+      "Comestio",
+      "Pastillum"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le companicum désigne tout ce que l'on mange avec le pain, qui constitue la base du repas médiéval : la moitié des champs est alors semée de froment. Le mot aurait donné « compagnon » et « copain », celui avec qui l'on partage le pain.",
+    "source": "D'après Wikipédia — Pain"
+  },
+  {
+    "id": "q-cuisine-122",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "La moutarde de Dijon doit obligatoirement être fabriquée à Dijon.",
+    "reponse": false,
+    "explication": "Faux. En 1937, un procès entre moutardiers parisiens et dijonnais a établi que « moutarde de Dijon » désigne une recette (graines brunes ou noires, verjus ou vinaigre), pas un terroir. Les Bourguignons ont ensuite créé la moutarde de Bourgogne IGP.",
+    "source": "D'après Wikipédia — Moutarde (condiment)"
+  },
+  {
+    "id": "q-cuisine-123",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "De quelle ville de Minorque la mayonnaise tirerait-elle son nom, selon l'hypothèse la plus répandue ?",
+    "choix": [
+      "Mahón",
+      "Ciutadella",
+      "Palma",
+      "Port-Vendres"
+    ],
+    "bonneReponse": 0,
+    "explication": "Selon la légende, la sauce aurait été baptisée « mahonnaise » après la prise de Port-Mahon par le maréchal de Richelieu en 1756. Le nom n'est toutefois attesté qu'en 1806 : d'autres pistes (Bayonne, Magnon, le vieux mot « moyeu ») restent débattues.",
+    "source": "D'après Wikipédia — Mayonnaise"
+  },
+  {
+    "id": "q-cuisine-124",
+    "domain": "cuisine",
+    "format": "difference",
+    "question": "Quelle est la différence entre une farine de type 55 et une farine de type 150 ?",
+    "choix": [
+      "La T150 contient beaucoup plus de son et elle est moins blanche",
+      "La T150 est plus fine et plus blanche",
+      "La T150 est faite de seigle, la T55 de blé",
+      "Le chiffre indique le prix au kilo"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le type correspond au taux de cendres, c'est-à-dire aux minéraux, qui viennent surtout du son. Plus le numéro est élevé, plus la farine contient de son et moins elle est blanche : la T55 est blanche, la T150 est très complète.",
+    "source": "D'après Wikipédia — Farine"
+  },
+  {
+    "id": "q-cuisine-125",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "À l'origine, que désignait le mot latin sicera, d'où vient le mot « cidre » ?",
+    "choix": [
+      "Toute boisson fermentée",
+      "Le jus de pomme frais",
+      "Une variété de pomme sauvage",
+      "Un pressoir en bois"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sicera, mot du latin chrétien emprunté au grec puis à l'hébreu shekar, désignait toute boisson fermentée. Il devient sizre puis cidre en ancien français ; le sens « boisson de pommes » apparaît chez le Normand Wace vers 1130.",
+    "source": "D'après Wikipédia — Cidre"
+  },
+  {
+    "id": "q-cuisine-126",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Que disait l'Encyclopédie de Diderot et d'Alembert, au XVIIIe siècle, à propos de la sauce soja ?",
+    "choix": [
+      "Que c'était un suc tiré de viandes, surtout de perdrix et de jambon",
+      "Que c'était un jus d'algues fermentées",
+      "Que c'était un extrait de champignons",
+      "Que c'était une sauce de riz distillé"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'Encyclopédie décrit le « soui » comme un suc de viandes. Cette erreur, née dès le dictionnaire de Furetière en 1694, a été reprise jusqu'à Littré. La sauce soja est faite de soja fermenté, ce que Lamarck rappelle en 1816.",
+    "source": "D'après Wikipédia — Sauce de soja"
+  },
+  {
+    "id": "q-cuisine-127",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Pourquoi Christophe Colomb a-t-il appelé « poivre » (pimiento) les piments qu'il découvrait ?",
+    "choix": [
+      "Parce qu'il croyait avoir atteint les Indes et que ces baies piquantes ressemblaient à du poivre",
+      "Parce qu'ils poussaient sur des lianes de poivrier",
+      "Parce que les habitants les appelaient ainsi",
+      "Parce qu'ils étaient noirs et ronds comme des grains de poivre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Colomb, persuadé d'avoir atteint les Indes, prit ces petites baies piquantes pour des grains de poivre rouge : d'où pimiento, puis « piment », « poivron » et « poivre de Cayenne ». En nahuatl, le fruit se disait chilli.",
+    "source": "D'après Wikipédia — Piment"
+  },
+  {
+    "id": "q-cuisine-128",
+    "domain": "cuisine",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je pousse au bord des ruisseaux de montagne, du Japon à l'île de Sakhaline.",
+      "La plus ancienne mention de moi comme aliment date du VIIIe siècle.",
+      "On râpe mon rhizome, autrefois sur de la peau de requin.",
+      "Mon feu monte au nez et s'éteint en quelques secondes.",
+      "On me glisse entre le riz et le poisson d'un sushi, mais la pâte verte des tubes est souvent du raifort."
+    ],
+    "reponse": "Le wasabi",
+    "explication": "Le wasabi (Eutrema japonicum) est un rhizome de la famille de la moutarde et du raifort. Son piquant naît du râpage et disparaît en un quart d'heure ; hors du Japon, la pâte verte est le plus souvent du raifort coloré.",
+    "source": "D'après Wikipédia — Wasabi"
+  },
+  {
+    "id": "q-cuisine-129",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Comment appelle-t-on la cannelle de Chine, plus épaisse, qui remplace souvent la « vraie » cannelle de Ceylan ?",
+    "choix": [
+      "La casse",
+      "La cardamome",
+      "Le macis",
+      "La badiane"
+    ],
+    "bonneReponse": 0,
+    "explication": "La casse (Cinnamomum cassia) forme un tube unique, épais et dur, alors que la cannelle de Ceylan s'enroule en fines couches friables. La casse est moins chère : l'essentiel de la cannelle vendue dans le monde en est.",
+    "source": "D'après Wikipédia — Cannelle"
+  },
+  {
+    "id": "q-cuisine-130",
+    "domain": "cuisine",
+    "format": "associer",
+    "question": "Associe chaque produit à ce qui le fait gonfler ou fermenter.",
+    "paires": [
+      {
+        "gauche": "Le levain",
+        "droite": "Des bactéries lactiques et des levures sauvages",
+        "explication": "Un duo vivant installé dans la farine et l'eau, qui donne au pain son acidité."
+      },
+      {
+        "gauche": "La sauce soja",
+        "droite": "La moisissure Aspergillus oryzae (koji)",
+        "explication": "Cette moisissure libère des enzymes qui découpent les protéines et l'amidon du soja et du blé."
+      },
+      {
+        "gauche": "Le cidre",
+        "droite": "Les levures naturelles des pommes",
+        "explication": "En fabrication traditionnelle, on n'ajoute aucune levure : celles des fruits fermentent le moût."
+      },
+      {
+        "gauche": "La bière",
+        "droite": "Une levure ajoutée au moût refroidi",
+        "explication": "Le brasseur ensemence le moût avec de la levure, sauf pour le lambic, fermenté spontanément."
+      },
+      {
+        "gauche": "La pâte feuilletée",
+        "droite": "La vapeur d'eau retenue entre les couches",
+        "explication": "Au four, l'eau s'évapore et soulève les feuillets, retenus par le beurre."
+      }
+    ],
+    "explication": "Le levain est un petit écosystème de bactéries et de levures ; le koji travaille le soja et le blé ; le cidre fermente avec les levures de ses pommes ; la bière avec celles du brasseur ; la pâte feuilletée classique gonfle à la vapeur.",
+    "source": "D'après Wikipédia — Levain panaire"
+  },
+  {
+    "id": "q-cuisine-131",
+    "domain": "cuisine",
+    "format": "frise",
+    "question": "Remets ces événements de l'histoire du champagne et des vins mousseux dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Les moines de Limoux élaborent la blanquette, plus ancien mousseux connu",
+        "annee": "1531"
+      },
+      {
+        "label": "Christopher Merret décrit la seconde fermentation en bouteille",
+        "annee": "1662"
+      },
+      {
+        "label": "Adolphe Jaquesson invente le muselet",
+        "annee": "1844"
+      },
+      {
+        "label": "Pommery crée la mention « brut » pour les Britanniques",
+        "annee": "1876"
+      },
+      {
+        "label": "Émeutes en Champagne autour de la délimitation de la région",
+        "annee": "1911"
+      },
+      {
+        "label": "Reconnaissance de l'AOC champagne",
+        "annee": "1936"
+      }
+    ],
+    "explication": "La blanquette de Limoux (1531) précède la description de Merret (1662). Viennent ensuite le muselet (1844), le « brut » de Pommery (1876), les émeutes de 1911 autour de l'aire de production et enfin l'AOC (1936).",
+    "source": "D'après Wikipédia — Champagne (AOC)"
+  },
+  {
+    "id": "q-cuisine-132",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "De quel mot latin signifiant « salé » vient le mot saucisson ?",
+    "choix": [
+      "Salsus",
+      "Saucius",
+      "Sanguis",
+      "Saponarius"
+    ],
+    "bonneReponse": 0,
+    "explication": "Saucisson vient du latin salsus, « salé ». Le mot apparaît en français en 1546 dans le Tiers Livre de Rabelais. Les Gaulois, déjà réputés pour leurs salaisons, exportaient leur charcuterie jusqu'à Rome.",
+    "source": "D'après Wikipédia — Saucisson"
+  },
+  {
+    "id": "q-cuisine-133",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Dom Pérignon a inventé le vin mousseux.",
+    "reponse": false,
+    "explication": "Faux. La blanquette de Limoux, élaborée dès 1531, est le plus ancien mousseux connu, et Christopher Merret décrivait la seconde fermentation en bouteille en 1662. Dom Pérignon a surtout perfectionné l'assemblage et la prise de mousse.",
+    "source": "D'après Wikipédia — Champagne (AOC)"
+  },
+  {
+    "id": "q-cuisine-134",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel mélange, inventé à Bordeaux, a permis de lutter contre le mildiou ?",
+    "choix": [
+      "La bouillie bordelaise : eau, sulfate de cuivre et chaux",
+      "Un mélange d'eau, de soufre et de sel",
+      "Un mélange d'eau, de vinaigre et de cendre",
+      "Un mélange d'eau, d'huile et d'argile"
+    ],
+    "bonneReponse": 0,
+    "explication": "Inventée à Bordeaux par Alexis Millardet et Ulysse Gayon, la bouillie bordelaise associe eau, sulfate de cuivre et chaux. Elle arrête le mildiou, arrivé en 1878, qui s'ajoutait à l'oïdium et au phylloxéra.",
+    "source": "D'après Wikipédia — Vignoble de Bordeaux"
+  },
+  {
+    "id": "q-cuisine-135",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel est le sens du mot persan à l'origine du mot « caviar » ?",
+    "choix": [
+      "« Porteur d'œufs »",
+      "« Or noir »",
+      "« Perle de la mer »",
+      "« Poisson des tsars »"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le persan khâvyâr signifie « porteur d'œufs ». Le mot est passé par le turc et le vénitien avant d'entrer en français au XVe siècle. En France, il est réservé aux œufs d'esturgeon, avec une exception : le caviar d'aubergine.",
+    "source": "D'après Wikipédia — Caviar"
+  },
+  {
+    "id": "q-cuisine-136",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel cépage Philippe le Hardi interdit-il en 1395 en Bourgogne, le jugeant « vil et déloyal » ?",
+    "choix": [
+      "Le gamay",
+      "Le pinot noir",
+      "Le chardonnay",
+      "L'aligoté"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 6 août 1395, le duc ordonne de privilégier le pinot noir et bannit le gamay, plus productif mais moins fin. Ce texte qui protège la qualité est vu comme un précurseur des appellations d'origine contrôlée.",
+    "source": "D'après Wikipédia — Vignoble de Bourgogne"
+  },
+  {
+    "id": "q-cuisine-137",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Comment les Sumériens appelaient-ils la bière, mot qui signifie littéralement « pain liquide » ?",
+    "choix": [
+      "Sikaru",
+      "Heneqet",
+      "Ninkasi",
+      "Gruit"
+    ],
+    "bonneReponse": 0,
+    "explication": "À Sumer, le sikaru, littéralement « pain liquide », nourrissait le quotidien. Heneqet est le nom égyptien de la bière, Ninkasi la déesse sumérienne du brassage, et le gruit un mélange d'herbes médiéval.",
+    "source": "D'après Wikipédia — Bière"
+  },
+  {
+    "id": "q-cuisine-138",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Les noms des bières « double » et « triple » rappellent une tradition de moines qui tiraient plusieurs jus successifs des mêmes céréales.",
+    "reponse": true,
+    "explication": "Vrai. Dans la tradition monastique, on tirait trois jus des mêmes céréales : le premier, le plus riche, donnait la « triple ». Une triple n'a donc pas subi trois fermentations ; elle contient plutôt plus de sucre et dépasse souvent 7 % d'alcool.",
+    "source": "D'après Wikipédia — Bière"
+  },
+  {
+    "id": "q-cuisine-139",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "D'où vient le mot « whisky » ?",
+    "choix": [
+      "Du gaélique « uisge beatha », « eau de vie »",
+      "De l'écossais « whisk », qui désigne un fouet",
+      "Du nom d'un distillateur irlandais du XVe siècle",
+      "De l'anglais « whistle », le sifflement de l'alambic"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Uisge beatha » en gaélique écossais, « uisce beatha » en irlandais, signifie « eau de vie ». Les soldats anglo-normands arrivés en Irlande en 1169 ne savaient pas le prononcer et l'ont peu à peu déformé jusqu'à « whisky ».",
+    "source": "D'après Wikipédia — Whisky"
+  },
+  {
+    "id": "q-cuisine-140",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Pourquoi a-t-on commencé à distiller le vin de la région de Cognac ?",
+    "choix": [
+      "Pour qu'il voyage mieux jusqu'aux marchands du nord de l'Europe",
+      "Pour imiter le whisky écossais, alors très en vogue",
+      "Parce que la loi interdisait de vendre le vin tel quel",
+      "Pour fabriquer des parfums destinés à la cour"
+    ],
+    "bonneReponse": 0,
+    "explication": "Au XVe siècle, le vin charentais, peu alcoolisé, arrivait souvent « piqué ». On l'a donc distillé pour l'expédier en barriques vers le nord. Les Néerlandais l'appelaient « brandewijn », le « vin brûlé », d'où le mot brandy.",
+    "source": "D'après Wikipédia — Cognac (eau-de-vie)"
+  },
+  {
+    "id": "q-cuisine-141",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "En quelle année la ration quotidienne de rhum de la Royal Navy a-t-elle été abolie, lors du « Black Tot Day » ?",
+    "choix": [
+      "1970",
+      "1870",
+      "1920",
+      "1945"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 31 juillet 1970, après plus de trois siècles, la Royal Navy a mis fin à sa ration de rhum, instaurée après la conquête de la Jamaïque en 1655. Les marins ont porté un brassard noir pour ce « Black Tot Day ».",
+    "source": "D'après Wikipédia — Rhum"
+  },
+  {
+    "id": "q-cuisine-142",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel micro-organisme transforme l'amidon du riz en sucre pour fabriquer le saké ?",
+    "choix": [
+      "Le kōji, une moisissure",
+      "Le penicillium, comme dans certains fromages",
+      "Le levain de boulanger",
+      "La levure de bière"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le riz cuit à la vapeur est ensemencé avec le kōji, une moisissure qui saccharifie l'amidon et dispense du maltage utilisé pour d'autres alcools. Le saké se rapproche ainsi d'une bière de riz plus que d'un vin.",
+    "source": "D'après Wikipédia — Saké"
+  },
+  {
+    "id": "q-cuisine-143",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Lorsque le « New Coke » est lancé en 1985, la recette d'origine du Coca-Cola disparaît définitivement.",
+    "reponse": false,
+    "explication": "Le 10 juillet 1985, l'ancienne formule revient sous le nom de Coca-Cola Classic, après l'échec commercial du New Coke. Surprise : les ventes totales des deux boissons dépassent alors celles d'avant.",
+    "source": "D'après Wikipédia — Coca-Cola"
+  },
+  {
+    "id": "q-cuisine-144",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Qui apporte des fèves de cacao à la cour de France en 1615, à l'occasion de son mariage avec Louis XIII ?",
+    "choix": [
+      "Anne d'Autriche",
+      "Catherine de Médicis",
+      "Marie de Médicis",
+      "Marie-Thérèse d'Autriche"
+    ],
+    "bonneReponse": 0,
+    "explication": "La princesse espagnole Anne d'Autriche arrive avec des fèves de cacao et des domestiques capables de préparer un chocolat chaud mousseux. À l'époque, le cacao circulait souvent par les mariages princiers, où il était même donné en dot.",
+    "source": "D'après Wikipédia — Chocolat chaud"
+  },
+  {
+    "id": "q-cuisine-145",
+    "domain": "cuisine",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom vient du provençal « saumalier », un conducteur de bête de somme.",
+      "Au XIVe siècle, j'étais un officier de cour chargé des bagages et des vivres.",
+      "En 1378, un certain Jacques Mercade porte mon titre auprès du roi de France.",
+      "Aujourd'hui, une grappe de raisin orne souvent ma veste.",
+      "Au restaurant, je conseille les accords entre les mets et les vins."
+    ],
+    "reponse": "Le sommelier",
+    "explication": "À l'origine, le sommelier s'occupait des transports de la cour, d'où son nom lié aux bêtes de somme. Ce n'est que vers 1812 que le mot désigne celui qui s'occupe du vin et de la cave d'un établissement.",
+    "source": "D'après Wikipédia — Sommelier"
+  },
+  {
+    "id": "q-cuisine-146",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Le pinot noir a donné naissance, par mutation, au pinot gris et au pinot blanc.",
+    "reponse": true,
+    "explication": "La vigne mute facilement, et un même plant peut porter des raisins différents. Le pinot gris et le pinot blanc ont ainsi surgi à partir du pinot noir. Le grenache offre un cas voisin, avec ses versions noir, gris et blanc.",
+    "source": "D'après Wikipédia — Cépage"
+  },
+  {
+    "id": "q-cuisine-147",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Qu'est-ce qui donne au vin de Chablis une partie de sa typicité ?",
+    "choix": [
+      "Des marnes et des calcaires pleins de fossiles d'une petite huître",
+      "Des cendres d'anciens volcans",
+      "Du sable apporté par la mer il y a quelques siècles",
+      "Des galets roulés par les glaciers"
+    ],
+    "bonneReponse": 0,
+    "explication": "À Chablis, les marnes grises et le calcaire contiennent beaucoup de fossiles d'Exogyra virgula, une minuscule huître de mer vivant il y a quelque 150 millions d'années. C'est un bel exemple de terroir façonné par la géologie.",
+    "source": "D'après Wikipédia — Terroir"
+  },
+  {
+    "id": "q-cuisine-148",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Selon l'explication la plus répandue, à qui le bain-marie doit-il son nom ?",
+    "choix": [
+      "À Marie la Juive, une alchimiste de l'Antiquité",
+      "À la Vierge Marie, protectrice des cuisiniers",
+      "À Marie-Antoinette, grande amatrice de sauces",
+      "À un cuisinier lyonnais du XVIIIe siècle nommé Marie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le « bain de Marie » (balneum Mariae en latin) rend hommage à Marie la Juive, alchimiste citée par Zosimos de Panopolis. Son bain chauffait même au-delà de 100 °C, contrairement au bain-marie de nos cuisines.",
+    "source": "D'après Wikipédia — Bain-marie"
+  },
+  {
+    "id": "q-cuisine-149",
+    "domain": "cuisine",
+    "format": "difference",
+    "question": "Quelle est la différence entre une julienne et une brunoise ?",
+    "choix": [
+      "La julienne est en fins bâtonnets ; la brunoise s'obtient en les coupant en petits dés",
+      "La julienne se fait sur des légumes cuits, la brunoise sur des légumes crus",
+      "La julienne concerne les légumes, la brunoise uniquement les viandes",
+      "La julienne est en rondelles épaisses, la brunoise en lanières"
+    ],
+    "bonneReponse": 0,
+    "explication": "La julienne est une découpe en fines lanières, comme des allumettes. En tournant ces bâtonnets d'un quart de tour et en les coupant finement en travers, on obtient une brunoise : de petits dés réguliers.",
+    "source": "D'après Wikipédia — Julienne (cuisine)"
+  },
+  {
+    "id": "q-cuisine-150",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Pourquoi les plats traditionnels de shabbat, comme le cholent, mijotent-ils toute la nuit ?",
+    "choix": [
+      "Parce que la loi juive interdit de cuisiner pendant le shabbat",
+      "Parce que la viande est trop dure pour cuire plus vite",
+      "Pour imiter la cuisson au feu de bois des ancêtres",
+      "Pour que le plat refroidisse lentement avant le repas"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cuire est interdit du vendredi soir au samedi soir. On porte donc le plat à ébullition avant le shabbat, puis on le garde au chaud sans intervention : c'est l'origine du cholent ashkénaze, du hamin séfarade et du t'bit irakien.",
+    "source": "D'après Wikipédia — Mijotage"
+  },
+  {
+    "id": "q-cuisine-151",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel dessert flambé serait né par accident en 1895, à Monte-Carlo, selon la légende ?",
+    "choix": [
+      "La crêpe Suzette",
+      "La banane flambée",
+      "L'omelette norvégienne",
+      "Le baba au rhum"
+    ],
+    "bonneReponse": 0,
+    "explication": "Selon la légende, Auguste Escoffier, au Café de Paris, aurait renversé de la liqueur qui s'enflamma sur des crêpes destinées au futur Édouard VII. Il les aurait baptisées crêpes Suzette d'après la compagne du prince.",
+    "source": "D'après Wikipédia — Flambage (cuisine)"
+  },
+  {
+    "id": "q-cuisine-152",
+    "domain": "cuisine",
+    "format": "frise",
+    "question": "Remets ces repères de l'histoire du rhum dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Les Espagnols plantent la canne à sucre aux Amériques",
+        "annee": "1493"
+      },
+      {
+        "label": "Les Britanniques prennent la Jamaïque : naissance de la ration de rhum de la Royal Navy",
+        "annee": "1655"
+      },
+      {
+        "label": "La France interdit sur son sol la vente de rhum",
+        "annee": "1713"
+      },
+      {
+        "label": "Le Sugar Act interdit l'importation de rhum dans les colonies américaines",
+        "annee": "1764"
+      },
+      {
+        "label": "La Royal Navy supprime sa ration de rhum",
+        "annee": "1970"
+      }
+    ],
+    "explication": "En 1493, la canne arrive aux Amériques. La ration de la Royal Navy naît avec la prise de la Jamaïque en 1655. L'édit de 1713 protège le cognac, le Sugar Act date de 1764, et la ration disparaît le 31 juillet 1970.",
+    "source": "D'après Wikipédia — Rhum"
+  },
+  {
+    "id": "q-cuisine-153",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel livre, daté d'environ 1300, contient déjà vingt-neuf recettes de rôtis ?",
+    "choix": [
+      "Le Viandier",
+      "La Physiologie du goût",
+      "Le Guide culinaire",
+      "Le Cuisinier français"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Viandier range vingt-neuf recettes sous le titre « Rostz de chair ». Le rôti restait alors un plat de prestige : il demandait de la viande fraîche, beaucoup de combustible et quelqu'un pour surveiller la broche.",
+    "source": "D'après Wikipédia — Rôtissage"
+  },
+  {
+    "id": "q-cuisine-154",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Le verbe « frire » se conjugue à tous les temps et à toutes les personnes.",
+    "reponse": false,
+    "explication": "Frire est un verbe défectif : on dit « je fris », « il frit » ou « nous frirons », mais il manque beaucoup de formes. On les remplace par « faire frire », comme dans « nous faisons frire ».",
+    "source": "D'après Wikipédia — Friture"
+  },
+  {
+    "id": "q-cuisine-155",
+    "domain": "cuisine",
+    "format": "difference",
+    "question": "Quelle est la différence entre braiser et cuire à l'étouffée ?",
+    "choix": [
+      "En braisant, on commence par colorer les aliments dans de la graisse bien chaude",
+      "Le braisage se fait toujours sans couvercle",
+      "L'étouffée utilise du vin, le braisage seulement de l'eau",
+      "Le braisage dure moins longtemps que l'étouffée"
+    ],
+    "bonneReponse": 0,
+    "explication": "Contrairement à l'étouffée, le braisage débute par une coloration des aliments sur chaque face dans de la graisse bien chaude. On les mouille ensuite d'un peu de liquide, puis on cuit longtemps à feu doux, à couvert.",
+    "source": "D'après Wikipédia — Braiser"
+  },
+  {
+    "id": "q-cuisine-156",
+    "domain": "cuisine",
+    "format": "associer",
+    "question": "Associe chaque boisson à sa matière première.",
+    "paires": [
+      {
+        "gauche": "Le whisky",
+        "droite": "Des céréales, maltées ou non",
+        "explication": "Le whisky est distillé à partir de céréales comme l'orge, le maïs, le seigle ou le blé."
+      },
+      {
+        "gauche": "Le cognac",
+        "droite": "Du vin blanc des Charentes",
+        "explication": "Le vin acide, issu surtout de l'ugni blanc, est distillé deux fois avant de vieillir en fût."
+      },
+      {
+        "gauche": "Le rhum",
+        "droite": "De la canne à sucre",
+        "explication": "Il est fait de mélasse ou de jus de canne fermenté puis distillé."
+      },
+      {
+        "gauche": "Le saké",
+        "droite": "Du riz fermenté",
+        "explication": "Le riz poli, cuit à la vapeur, est saccharifié par le kōji puis fermenté."
+      }
+    ],
+    "explication": "Chaque boisson vient d'une matière première différente : céréales pour le whisky, vin blanc pour le cognac, canne à sucre pour le rhum, riz pour le saké. Seule la distillation unit les trois premiers.",
+    "source": "D'après Wikipédia — Whisky"
+  },
+  {
+    "id": "q-cuisine-157",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel chef a classé les sauces en quatre grandes familles de base : allemande, béchamel, espagnole et velouté ?",
+    "choix": [
+      "Marie-Antoine Carême",
+      "François Vatel",
+      "Nicolas Appert",
+      "Jean Anthelme Brillat-Savarin"
+    ],
+    "bonneReponse": 0,
+    "explication": "Carême, le « roi des chefs », publie une classification des sauces en quatre groupes de base. Plus tard, Escoffier remaniera cette liste en remplaçant l'allemande par des émulsions à l'œuf comme la mayonnaise.",
+    "source": "D'après Wikipédia — Marie-Antoine Carême"
+  },
+  {
+    "id": "q-cuisine-158",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Dans quelle région de France est né, en 1977, le bonbon au caramel au beurre salé ?",
+    "choix": [
+      "La Bretagne",
+      "La Normandie",
+      "L'Alsace",
+      "L'Auvergne"
+    ],
+    "bonneReponse": 0,
+    "explication": "À Quiberon, en Bretagne, un pâtissier crée en 1977 un caramel plus stable, fait de beurre demi-sel breton et de noix concassées. Le mariage du sucre cuit et du sel existait déjà dans le kouign-amann.",
+    "source": "D'après Wikipédia — Caramel"
+  },
+  {
+    "id": "q-cuisine-159",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Selon la tradition, à quoi renvoie le nom de la sauce hollandaise ?",
+    "choix": [
+      "À la guerre de Hollande, sous Louis XIV",
+      "À un cuisinier néerlandais de Vaux-le-Vicomte",
+      "Au beurre importé des Pays-Bas",
+      "À la ville d'Isigny-sur-Mer"
+    ],
+    "bonneReponse": 0,
+    "explication": "On attribue son nom à la guerre de Hollande (1672-1678), menée par la France de Louis XIV. Une première recette proche, avec asperges, figure déjà en 1651 chez La Varenne ; la sauce Isigny en est un autre nom, plus tardif.",
+    "source": "D'après Wikipédia — Sauce hollandaise"
+  },
+  {
+    "id": "q-cuisine-160",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "La béchamel a été apportée en France par les cuisiniers de Catherine de Médicis.",
+    "reponse": false,
+    "explication": "Faux. Cette légende italienne ne repose sur aucune source, et les archives ne montrent aucun cuisinier italien parmi les serviteurs de la reine. La sauce porterait le nom de Louis de Béchameil, financier de Louis XIV.",
+    "source": "D'après Wikipédia — Sauce béchamel"
+  },
+  {
+    "id": "q-cuisine-161",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quels légumes forment la mirepoix classique ?",
+    "choix": [
+      "Oignon, carotte et céleri",
+      "Oignon, poireau et navet",
+      "Tomate, poivron et ail",
+      "Échalote, champignon et persil"
+    ],
+    "bonneReponse": 0,
+    "explication": "La mirepoix associe des dés d'oignon, de carotte et de céleri, cuits doucement. Son nom vient du duc de Lévis-Mirepoix. L'Italie a le soffritto, l'Allemagne le Suppengrün, la Louisiane sa « sainte trinité ».",
+    "source": "D'après Wikipédia — Mirepoix (cuisine)"
+  },
+  {
+    "id": "q-cuisine-162",
+    "domain": "cuisine",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né à Châlons-en-Champagne en 1749, neuvième enfant d'aubergistes.",
+      "J'ai cuisiné pour un duc, puis ouvert une boutique de confiseur à Paris.",
+      "Mes premiers récipients étaient des bouteilles proches de celles du champagne, au goulot élargi.",
+      "En 1810, j'ai reçu 12 000 francs à condition de publier mon procédé.",
+      "J'ai inventé la mise en conserve."
+    ],
+    "reponse": "Nicolas Appert",
+    "explication": "Nicolas Appert chauffe au bain-marie des aliments enfermés dans des récipients hermétiques, soixante ans avant Pasteur. Sa fabrique de Massy est la première au monde, mais il mourra pauvre, en 1841.",
+    "source": "D'après Wikipédia — Nicolas Appert"
+  },
+  {
+    "id": "q-cuisine-163",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Qui a lancé à partir de 1803 l'Almanach des gourmands, ancêtre des guides gastronomiques ?",
+    "choix": [
+      "Grimod de La Reynière",
+      "Brillat-Savarin",
+      "Marie-Antoine Carême",
+      "Nicolas Appert"
+    ],
+    "bonneReponse": 0,
+    "explication": "Grimod de La Reynière publie huit volumes de l'Almanach entre 1803 et 1812. Il y juge des tables et des produits, et invente la critique gastronomique, au point que Sainte-Beuve l'appellera « père de la table ».",
+    "source": "D'après Wikipédia — Alexandre Balthazar Laurent Grimod de La Reynière"
+  },
+  {
+    "id": "q-cuisine-164",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "François Vatel a inventé la crème Chantilly.",
+    "reponse": false,
+    "explication": "Faux. On le dit à tort, parce qu'il a servi cette crème fouettée au château de Chantilly, où il était maître d'hôtel du Grand Condé. Sa célébrité vient surtout de sa fin tragique pendant les fêtes d'avril 1671.",
+    "source": "D'après Wikipédia — François Vatel"
+  },
+  {
+    "id": "q-cuisine-165",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Qu'arrive-t-il à Nicolas Fouquet après la somptueuse fête organisée par Vatel à Vaux-le-Vicomte en 1661 ?",
+    "choix": [
+      "Louis XIV le fait arrêter quelques semaines plus tard",
+      "Le roi le nomme Premier ministre",
+      "Louis XIV lui achète son château",
+      "Il part en exil en Angleterre avec Vatel"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le roi, vexé que ce luxe éclipse celui de sa cour, ordonne l'arrestation de Fouquet le 5 septembre 1661 à Nantes, confiée à d'Artagnan. Colbert le remplace, et Vatel s'enfuit en Angleterre.",
+    "source": "D'après Wikipédia — François Vatel"
+  },
+  {
+    "id": "q-cuisine-166",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel est le titre du livre de Brillat-Savarin paru sans nom d'auteur à la fin de 1825 ?",
+    "choix": [
+      "Physiologie du goût",
+      "Almanach des gourmands",
+      "Le Cuisinier parisien",
+      "Manuel des amphitryons"
+    ],
+    "bonneReponse": 0,
+    "explication": "Physiologie du goût paraît anonymement fin 1825, deux mois avant la mort de son auteur. Il a fait du magistrat l'un des fondateurs de l'essai gastronomique. Les trois autres titres sont de Grimod et de Carême.",
+    "source": "D'après Wikipédia — Jean Anthelme Brillat-Savarin"
+  },
+  {
+    "id": "q-cuisine-167",
+    "domain": "cuisine",
+    "format": "associer",
+    "question": "Associe chaque personnage à sa contribution.",
+    "paires": [
+      {
+        "gauche": "Nicolas Appert",
+        "droite": "Conserves chauffées en vase clos",
+        "explication": "Il chauffe des aliments en bouteilles ou boîtes fermées."
+      },
+      {
+        "gauche": "Louis Pasteur",
+        "droite": "Chauffage doux du vin contre l'aigreur",
+        "explication": "Son procédé protège le vin et la bière sans les cuire."
+      },
+      {
+        "gauche": "Grimod de La Reynière",
+        "droite": "Premier guide gourmand",
+        "explication": "Son Almanach des gourmands juge tables et produits."
+      },
+      {
+        "gauche": "Marie-Antoine Carême",
+        "droite": "Pièces montées architecturales en sucre",
+        "explication": "Il bâtit en sucre temples, pyramides et ruines antiques."
+      }
+    ],
+    "explication": "Appert, Pasteur, Grimod et Carême ont chacun changé la manière de conserver, de juger ou de dresser les aliments, entre la fin du XVIIIe siècle et les années 1860, de la fabrique de Massy aux caves du vin.",
+    "source": "D'après Wikipédia — Nicolas Appert"
+  },
+  {
+    "id": "q-cuisine-168",
+    "domain": "cuisine",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de la conservation par la chaleur dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Spallanzani montre qu'un bouillon bouilli et scellé ne se gâte pas",
+        "annee": "1768"
+      },
+      {
+        "label": "Appert reçoit 12 000 francs et publie son procédé",
+        "annee": "1810"
+      },
+      {
+        "label": "Vergnette de Lamotte montre que chauffer le vin le conserve",
+        "annee": "1846"
+      },
+      {
+        "label": "Pasteur dépose un brevet pour chauffer le vin",
+        "annee": "1865"
+      },
+      {
+        "label": "Soxhlet recommande de pasteuriser le lait",
+        "annee": "1886"
+      }
+    ],
+    "explication": "De Spallanzani à Soxhlet, un siècle de découvertes : Appert précède Pasteur d'environ soixante ans, et la pasteurisation du lait, aujourd'hui la plus connue, ne vient qu'en dernier, avec Soxhlet.",
+    "source": "D'après Wikipédia — Pasteurisation"
+  },
+  {
+    "id": "q-cuisine-169",
+    "domain": "cuisine",
+    "format": "difference",
+    "question": "Quelle est la différence entre la pasteurisation et la stérilisation ?",
+    "choix": [
+      "La pasteurisation chauffe doucement et réduit les microbes, la stérilisation vise à tout détruire, spores comprises",
+      "La pasteurisation se fait au froid, la stérilisation à la chaleur",
+      "La pasteurisation ne concerne que le lait, la stérilisation que le vin",
+      "Il n'y a aucune différence, seul le nom change"
+    ],
+    "bonneReponse": 0,
+    "explication": "La pasteurisation, sous 100 °C, réduit fortement les microbes sans toucher beaucoup au goût, mais des spores survivent. La stérilisation, à température plus haute, vise à tout éliminer et modifie davantage le goût.",
+    "source": "D'après Wikipédia — Pasteurisation"
+  },
+  {
+    "id": "q-cuisine-170",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel physicien d'Oxford a inventé en 1988, avec un chimiste français, l'expression « gastronomie moléculaire et physique » ?",
+    "choix": [
+      "Nicholas Kurti",
+      "Antoine Lavoisier",
+      "Louis Camille Maillard",
+      "Édouard de Pomiane"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le physicien Nicholas Kurti est à l'origine de la formule. Il regrettait qu'on sache mesurer la température de l'atmosphère de Vénus sans savoir ce qui se passe dans un soufflé. Lavoisier et Maillard sont des précurseurs.",
+    "source": "D'après Wikipédia — Gastronomie moléculaire"
+  },
+  {
+    "id": "q-cuisine-171",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Pendant plus de soixante ans, le Dictionnaire de l'Académie française a défini le « fumage » comme l'opération de dorer faussement de l'argent filé.",
+    "reponse": true,
+    "explication": "Vrai. De 1762 à 1835, « fumage » désignait seulement l'art de faire passer de l'argent filé pour de l'or en l'exposant à des fumées. Le sens alimentaire, celui des jambons et des harengs, n'entre dans le dictionnaire qu'en 1932.",
+    "source": "D'après Wikipédia — Fumage"
+  },
+  {
+    "id": "q-cuisine-172",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quelle boisson mongole, le lait de jument fermenté, est au cœur des fêtes du Nouvel An lunaire, le « mois blanc » ?",
+    "choix": [
+      "L'aïrag, aussi appelé koumis",
+      "Le kéfir de fruits",
+      "Le kvas",
+      "Le kombucha"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'aïrag, ou koumis, est du lait de jument fermenté par des bactéries lactiques. Au temps de l'Empire mongol, il honorait les guerriers et les notables. Le kvas se fait avec du pain de seigle, le kombucha avec du thé.",
+    "source": "D'après Wikipédia — Fermentation lactique"
+  },
+  {
+    "id": "q-cuisine-173",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Que se passe-t-il quand on cuit un roux de plus en plus longtemps, jusqu'au brun foncé ?",
+    "choix": [
+      "Il gagne en saveur mais épaissit moins",
+      "Il épaissit davantage mais perd son goût",
+      "Il garde exactement les mêmes propriétés",
+      "Il devient plus clair"
+    ],
+    "bonneReponse": 0,
+    "explication": "Plus un roux est foncé, plus son goût de noisette puis de grillé s'affirme, mais plus son pouvoir épaississant baisse : un roux chocolat épaissit environ quatre fois moins qu'un roux blanc.",
+    "source": "D'après Wikipédia — Roux (cuisine)"
+  },
+  {
+    "id": "q-cuisine-174",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "En Russie, que désigne le mot « vinegret », dérivé de la vinaigrette française ?",
+    "choix": [
+      "Une salade de légumes",
+      "Une soupe froide",
+      "Un vinaigre aromatisé",
+      "Une boisson fermentée"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le vinegret est une salade de la cuisine russe dont le nom vient de la vinaigrette, la sauce qui l'assaisonne. Le mot français a donc voyagé jusqu'à désigner un plat entier, sans rapport avec le vinaigre.",
+    "source": "D'après Wikipédia — Vinaigrette (sauce)"
+  },
+  {
+    "id": "q-cuisine-175",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel célèbre livre de cuisine du Moyen Âge est attribué à Taillevent ?",
+    "choix": [
+      "Le Viandier",
+      "Le Ménagier de Paris",
+      "Le Cuisinier françois",
+      "Opera dell'arte del cucinare"
+    ],
+    "bonneReponse": 0,
+    "explication": "Taillevent, de son vrai nom Guillaume Tirel, est considéré comme l'auteur du Viandier. Un manuscrit plus ancien montre pourtant que le texte existait avant lui : il l'a surtout repris et enrichi.",
+    "source": "D'après Wikipédia — Guillaume Tirel"
+  },
+  {
+    "id": "q-cuisine-176",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Pourquoi Fernand Point a-t-il baptisé son restaurant de Vienne « La Pyramide » ?",
+    "choix": [
+      "En référence à un monument gallo-romain voisin",
+      "Parce que le toit avait la forme d'une pyramide",
+      "En souvenir d'un voyage en Égypte",
+      "D'après le nom du premier propriétaire"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1925, Fernand Point rebaptise l'établissement familial en référence à la Pyramide de Vienne, un monument gallo-romain en forme d'obélisque qui ornait autrefois le cirque de l'antique Vienna.",
+    "source": "D'après Wikipédia — Fernand Point"
+  },
+  {
+    "id": "q-cuisine-177",
+    "domain": "cuisine",
+    "format": "associer",
+    "question": "Associe chaque chef au restaurant ou à la maison qui l'a rendu célèbre.",
+    "paires": [
+      {
+        "gauche": "Fernand Point",
+        "droite": "La Pyramide, à Vienne",
+        "explication": "Ce restaurant de la route du Midi est resté trois étoiles de 1933 jusqu'à la mort de son patron."
+      },
+      {
+        "gauche": "Les frères Troisgros",
+        "droite": "L'hôtel face à la gare de Roanne",
+        "explication": "Jean et Pierre y font de la maison familiale une table de renommée mondiale, avec un saumon à l'oseille."
+      },
+      {
+        "gauche": "Alain Senderens",
+        "droite": "L'Archestrate, rue de Varenne",
+        "explication": "Nommé d'après un cuisinier grec antique, il lui vaut trois étoiles en une dizaine d'années."
+      },
+      {
+        "gauche": "Michel Guérard",
+        "droite": "Les Prés d'Eugénie, dans les Landes",
+        "explication": "Dans cette station thermale, il invente une cuisine allégée mais savoureuse, la cuisine minceur."
+      },
+      {
+        "gauche": "Joël Robuchon",
+        "droite": "Jamin, à Paris",
+        "explication": "Ce restaurant parisien gagne une étoile par an et atteint les trois étoiles en quelques années seulement."
+      }
+    ],
+    "explication": "Ces chefs sont tous liés à une maison mythique : chacun a fait de sa table un lieu de pèlerinage gastronomique, classé trois étoiles au Guide Michelin.",
+    "source": "D'après Wikipédia — Fernand Point"
+  },
+  {
+    "id": "q-cuisine-178",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel plat simple a fait connaître Joël Robuchon dans le monde entier à partir de 1981 ?",
+    "choix": [
+      "Sa purée de pommes de terre",
+      "Son pot-au-feu",
+      "Son soufflé au fromage",
+      "Sa soupe à l'oignon"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1981, Joël Robuchon remet à la carte de Jamin une purée de pommes de terre, un plat presque disparu des restaurants. Avec de la ratte du Touquet et beaucoup de beurre, il lui donne une texture nouvelle.",
+    "source": "D'après Wikipédia — Joël Robuchon"
+  },
+  {
+    "id": "q-cuisine-179",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Joël Robuchon a pris sa retraite de chef à 50 ans, avant de rouvrir de nombreux restaurants dans le monde.",
+    "reponse": true,
+    "explication": "En 1995, voyant plusieurs de ses pairs mourir de stress et de crises cardiaques, il arrête la cuisine professionnelle à 50 ans. Il revient pourtant avec les Ateliers, ouverts à partir de 2003.",
+    "source": "D'après Wikipédia — Joël Robuchon"
+  },
+  {
+    "id": "q-cuisine-180",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Qui a fondé en 1971 une célèbre école de pâtisserie à Plaisir, dans les Yvelines ?",
+    "choix": [
+      "Gaston Lenôtre",
+      "Auguste Escoffier",
+      "Paul Bocuse",
+      "Fernand Point"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le pâtissier normand Gaston Lenôtre ouvre l'École Lenôtre à Plaisir en 1971. Elle forme des générations de pâtissiers et de cuisiniers ; elle sera transférée à Rungis en 2021, bien après sa mort.",
+    "source": "D'après Wikipédia — Gaston Lenôtre"
+  },
+  {
+    "id": "q-cuisine-181",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel geste inédit Alain Senderens accomplit-il en 2005 de si inhabituel pour un chef trois étoiles ?",
+    "choix": [
+      "Il a rendu ses trois étoiles pour ouvrir un restaurant moins cher",
+      "Il a fermé son restaurant définitivement",
+      "Il a vendu sa maison à un groupe hôtelier",
+      "Il a quitté la France pour le Japon"
+    ],
+    "bonneReponse": 0,
+    "explication": "Au printemps 2005, Alain Senderens métamorphose Lucas Carton en une maison moins chère qui porte son nom et renonce à ses trois étoiles. Il est le premier chef à rendre ainsi ses trois macarons Michelin, ce qui fit sensation.",
+    "source": "D'après Wikipédia — Alain Senderens"
+  },
+  {
+    "id": "q-cuisine-182",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "La cuisine minceur de Michel Guérard est née dans une station thermale des Landes.",
+    "reponse": true,
+    "explication": "En 1974, Michel Guérard s'installe aux Prés d'Eugénie, à Eugénie-les-Bains, dans les Landes. Il y met au point une cuisine allégée mais savoureuse, pour les curistes de la station, et le magazine américain Time lui consacre une couverture.",
+    "source": "D'après Wikipédia — Michel Guérard"
+  },
+  {
+    "id": "q-cuisine-183",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel plat créé en 1962 par les frères Troisgros a même inspiré la couleur de la gare de Roanne ?",
+    "choix": [
+      "L'escalope de saumon à l'oseille",
+      "Le gratin de queues d'écrevisses",
+      "Le loup en feuilleté",
+      "Le canard Apicius"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1962, Jean et Pierre Troisgros inventent l'escalope de saumon à l'oseille. Dans les années 1980, il est décidé de repeindre la gare de Roanne aux couleurs « saumon à l'oseille ».",
+    "source": "D'après Wikipédia — Troisgros"
+  },
+  {
+    "id": "q-cuisine-184",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel livre, paru en 2000, a fait d'Anthony Bourdain une vedette ?",
+    "choix": [
+      "Kitchen Confidential",
+      "Medium Raw",
+      "A Cook's Tour",
+      "Bone in the Throat"
+    ],
+    "bonneReponse": 0,
+    "explication": "Kitchen Confidential prolonge un article du New Yorker de 1999 et dévoile l'envers du décor des cuisines. Les romans policiers qu'il avait écrits auparavant, comme Bone in the Throat, n'avaient pas marché.",
+    "source": "D'après Wikipédia — Anthony Bourdain"
+  },
+  {
+    "id": "q-cuisine-185",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Qu'a de nouveau le livre publié en 1891 par Pellegrino Artusi ?",
+    "choix": [
+      "C'est le premier à réunir des recettes de toutes les régions d'Italie",
+      "C'est le premier livre de cuisine illustré de photos",
+      "C'est le premier livre de cuisine écrit par une femme",
+      "C'est le premier livre de cuisine imprimé en Italie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Écrit à peine deux décennies après l'unification italienne, La scienza in cucina rassemble pour la première fois des recettes de toutes les régions du pays. Artusi est pour cela appelé le père de la cuisine nationale.",
+    "source": "D'après Wikipédia — Pellegrino Artusi"
+  },
+  {
+    "id": "q-cuisine-186",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Qu'est-ce que la duxelles, dont le nom rend hommage au marquis d'Uxelles, patron de La Varenne ?",
+    "choix": [
+      "Des champignons hachés fin avec des herbes et des échalotes",
+      "Une sauce au vin rouge et au beurre",
+      "Un fond de veau très réduit",
+      "Une pâte feuilletée pour tourtes"
+    ],
+    "bonneReponse": 0,
+    "explication": "La duxelles est un mélange de champignons hachés fin, d'herbes et d'échalotes, encore utilisé pour parfumer poissons et légumes. Elle porte le nom du marquis d'Uxelles, que servait François Pierre de La Varenne, cuisinier du XVIIe siècle.",
+    "source": "D'après Wikipédia — François Pierre de La Varenne"
+  },
+  {
+    "id": "q-cuisine-187",
+    "domain": "cuisine",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né vers 1500, probablement en Lombardie.",
+      "Je suis passé du service de plusieurs cardinaux à celui des cuisines du Vatican.",
+      "J'ai cuisiné pour les papes Pie IV et Pie V.",
+      "En 1570, j'ai publié un énorme traité de cuisine en six livres.",
+      "Mon Opera dell'arte del cucinare contient le premier dessin connu d'une fourchette."
+    ],
+    "reponse": "Bartolomeo Scappi",
+    "explication": "Bartolomeo Scappi est le cuisinier des papes qui publie en 1570 l'Opera dell'arte del cucinare, réimprimé jusqu'en 1643 et copié dans toute l'Europe. Il y montre aussi la première fourchette dessinée connue.",
+    "source": "D'après Wikipédia — Bartolomeo Scappi"
+  },
+  {
+    "id": "q-cuisine-188",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Marcus Gavius Apicius est l'auteur du livre de cuisine romain De re coquinaria.",
+    "reponse": false,
+    "explication": "Le recueil De re coquinaria porte son nom, mais le texte actuel a été compilé vers l'an 400, plus de trois siècles après Apicius, gourmet de l'époque de Tibère. Son nom en est venu à désigner un livre de recettes.",
+    "source": "D'après Wikipédia — Marcus Gavius Apicius"
+  },
+  {
+    "id": "q-cuisine-189",
+    "domain": "cuisine",
+    "format": "difference",
+    "question": "Quelle est la différence entre le service à la française et le service à la russe ?",
+    "choix": [
+      "À la française, les plats sont posés sur la table et on se sert ; à la russe, l'assiette est dressée et servie à chaque convive",
+      "À la française, chaque convive reçoit son assiette dressée ; à la russe, tous les plats sont posés sur la table",
+      "À la française, on sert d'abord le sucré ; à la russe, on sert d'abord le salé",
+      "À la française, on mange avec les doigts ; à la russe, avec des baguettes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le service à la française pose les plats sur la table, les convives se servant eux-mêmes. Le service à la russe, introduit en France dans les années 1810 par le prince Kourakine, sert à chacun une assiette dressée.",
+    "source": "D'après Wikipédia — Restaurant"
+  },
+  {
+    "id": "q-cuisine-190",
+    "domain": "cuisine",
+    "format": "frise",
+    "question": "Remets ces moments de l'histoire de la table dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Bartolomeo Scappi publie son Opera",
+        "annee": "1570"
+      },
+      {
+        "label": "Parution du Cuisinier françois de La Varenne",
+        "annee": "1651"
+      },
+      {
+        "label": "Antoine Beauvilliers ouvre La Grande Taverne de Londres",
+        "annee": "1782"
+      },
+      {
+        "label": "Alexis Soyer devient chef du Reform Club",
+        "annee": "1837"
+      },
+      {
+        "label": "Pellegrino Artusi publie La scienza in cucina",
+        "annee": "1891"
+      }
+    ],
+    "explication": "De la Renaissance romaine à l'Italie unifiée : l'Opera (1570), Le Cuisinier françois (1651), le premier grand restaurant parisien (1782), les cuisines modernes du Reform Club (1837), puis le livre d'Artusi (1891).",
+    "source": "D'après Wikipédia — Livre de cuisine"
+  },
+  {
+    "id": "q-cuisine-191",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "À la cour de France en 1574, pour manger quoi la fourchette était-elle d'abord utilisée ?",
+    "choix": [
+      "Des poires cuites",
+      "Des pâtes",
+      "Des huîtres",
+      "De la soupe"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les inventaires royaux de 1574 mentionnent une fourchette à deux dents, qui ne servait au départ qu'à manger des poires cuites. Il faudra attendre le XVIIIe siècle pour que son usage devienne courant.",
+    "source": "D'après Wikipédia — Fourchette"
+  },
+  {
+    "id": "q-cuisine-192",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "D'où vient le mot « restaurant » ?",
+    "choix": [
+      "D'un bouillon censé restaurer les forces, vendu par les premiers restaurateurs",
+      "Du nom d'un cuisinier parisien du XVIIe siècle",
+      "Du latin « restare », rester",
+      "D'une auberge de Rouen"
+    ],
+    "bonneReponse": 0,
+    "explication": "Au XVIe siècle, un « restaurant » est un aliment fortifiant, puis un bouillon concentré. Au milieu du XVIIIe siècle, le mot désigne le lieu qui le vend, à l'origine des restaurants modernes.",
+    "source": "D'après Wikipédia — Restaurant"
+  },
+  {
+    "id": "q-cuisine-193",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Que désigne l'« échange colombien » ?",
+    "choix": [
+      "Le transfert de plantes, d'animaux et de maladies entre l'Amérique et l'Ancien Monde après 1492",
+      "Le premier repas partagé par Christophe Colomb avec les peuples amérindiens",
+      "Le commerce des épices entre l'Europe et l'Inde au XVe siècle",
+      "L'échange de recettes entre cuisiniers espagnols et italiens"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le grand échange désigne le transfert d'espèces entre les Amériques et l'Afro-Eurasie à partir de 1492. Pomme de terre, maïs et tomate sont partis vers l'Ancien Monde, tandis que blé, canne à sucre et bétail traversaient l'Atlantique.",
+    "source": "D'après Wikipédia — Échange colombien"
+  },
+  {
+    "id": "q-cuisine-194",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel historien américain a inventé l'expression « échange colombien » en 1972 ?",
+    "choix": [
+      "Alfred W. Crosby",
+      "Fernand Braudel",
+      "Marc Bloch",
+      "Eric Hobsbawm"
+    ],
+    "bonneReponse": 0,
+    "explication": "C'est Alfred W. Crosby, historien de l'université du Texas à Austin, qui lance l'expression en 1972 avec son livre The Columbian Exchange. Il y étudie la circulation des plantes, des animaux et des maladies entre les deux hémisphères.",
+    "source": "D'après Wikipédia — Échange colombien"
+  },
+  {
+    "id": "q-cuisine-195",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Avant l'arrivée de Colomb, on ne cultivait la pomme de terre qu'en Amérique du Sud.",
+    "reponse": true,
+    "explication": "Vrai. Avant l'échange colombien, la pomme de terre restait cantonnée à l'Amérique du Sud. Elle est ensuite devenue un aliment de base en Europe, où sa dépendance a même conduit à la grande famine irlandaise des années 1840.",
+    "source": "D'après Wikipédia — Échange colombien"
+  },
+  {
+    "id": "q-cuisine-196",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Dans quel livre de cuisine italien trouve-t-on la première recette connue de sauce tomate, à la fin du XVIIe siècle ?",
+    "choix": [
+      "Lo Scalco alla Moderna, d'Antonio Latini",
+      "L'Apicio Moderno, de Francesco Leonardi",
+      "De re coquinaria, attribué à Apicius",
+      "Le Viandier, de Taillevent"
+    ],
+    "bonneReponse": 0,
+    "explication": "La première recette italienne de sauce tomate figure dans Lo Scalco alla Moderna d'Antonio Latini, publié en 1692 et 1694. L'usage de cette sauce avec des pâtes n'apparaît qu'en 1790, chez Francesco Leonardi.",
+    "source": "D'après Wikipédia — Échange colombien"
+  },
+  {
+    "id": "q-cuisine-197",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Que désigne le « garum », omniprésent dans les recettes de la Rome antique ?",
+    "choix": [
+      "Une sauce de poisson, proche du nuoc-mam",
+      "Un fromage frais de brebis",
+      "Une bouillie d'épeautre",
+      "Un vin miellé servi en fin de repas"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le garum est une sauce de poisson comparable au nuoc-mam actuel. Les meilleures venaient d'Hispanie romaine et il figure dans presque toutes les recettes du livre d'Apicius, aux côtés du poivre et du miel.",
+    "source": "D'après Wikipédia — Cuisine de la Rome antique"
+  },
+  {
+    "id": "q-cuisine-198",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Les Romains de l'Antiquité mangeaient déjà des tomates et des pommes de terre.",
+    "reponse": false,
+    "explication": "Faux. Tomate, pomme de terre, poivron et maïs ne sont arrivés en Europe qu'après la découverte du Nouveau Monde. La cuisine romaine ignorait donc plusieurs ingrédients que l'on croit pourtant typiques de l'Italie.",
+    "source": "D'après Wikipédia — Cuisine de la Rome antique"
+  },
+  {
+    "id": "q-cuisine-199",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quelle bouillie de céréales formait la base du repas des Romains modestes ?",
+    "choix": [
+      "Le puls, une bouillie d'épeautre ou d'orge",
+      "La polenta de maïs",
+      "Le risotto",
+      "Les gnocchis de pomme de terre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le puls était une bouillie d'épeautre ou d'orge, assaisonnée de sel et de graisse. Les riches la relevaient d'œufs, de fromage ou de miel. La polenta de maïs, elle, n'a pu exister qu'après l'arrivée du maïs d'Amérique.",
+    "source": "D'après Wikipédia — Cuisine de la Rome antique"
+  },
+  {
+    "id": "q-cuisine-200",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Au Moyen Âge, quel animal était parfois rangé parmi les « poissons » pour pouvoir le manger les jours maigres ?",
+    "choix": [
+      "Le castor",
+      "Le lapin",
+      "Le sanglier",
+      "Le poulet"
+    ],
+    "bonneReponse": 0,
+    "explication": "On étendait le mot « poisson » aux animaux marins ou semi-aquatiques : baleines, bernaches, macareux et même castors. Cette ruse permettait de respecter l'interdit de la viande sans renoncer à de beaux banquets.",
+    "source": "D'après Wikipédia — Cuisine médiévale"
+  },
+  {
+    "id": "q-cuisine-201",
+    "domain": "cuisine",
+    "format": "vrai-faux",
+    "affirmation": "Au Moyen Âge, l'Église interdisait certains aliments parce qu'elle les jugeait impurs.",
+    "reponse": false,
+    "explication": "Faux. Le jeûne médiéval visait à enseigner la maîtrise de soi et à rappeler le sacrifice du Christ, pas à déclarer des aliments impurs. La viande, les œufs et le fromage étaient écartés, mais le poisson restait en général permis.",
+    "source": "D'après Wikipédia — Cuisine médiévale"
+  },
+  {
+    "id": "q-cuisine-202",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Quel ingrédient servait d'épaississant dans les soupes, ragoûts et sauces des tables médiévales ?",
+    "choix": [
+      "Le lait d'amande",
+      "La maïzena",
+      "La tomate",
+      "La pomme de terre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le lait d'amande épaississait soupes, ragoûts et sauces. Il remplaçait aussi le lait animal pendant le carême. Maïzena (maïs) et pomme de terre sont d'origine américaine : elles étaient inconnues en Europe.",
+    "source": "D'après Wikipédia — Cuisine médiévale"
+  },
+  {
+    "id": "q-cuisine-203",
+    "domain": "cuisine",
+    "format": "associer",
+    "question": "Associe chaque terme de vocabulaire culinaire à sa définition.",
+    "paires": [
+      {
+        "gauche": "Brunoise",
+        "droite": "Minuscules dés de légumes",
+        "explication": "Taille en dés de 1 à 2 mm, souvent pour garnir un consommé."
+      },
+      {
+        "gauche": "Chiffonnade",
+        "droite": "Feuilles taillées en rubans",
+        "explication": "Feuilles roulées puis tranchées en longues lanières fines."
+      },
+      {
+        "gauche": "Zeste",
+        "droite": "Peau colorée d'un agrume",
+        "explication": "Partie externe, parfumée, de l'écorce des agrumes, sans la couche blanche."
+      },
+      {
+        "gauche": "Réduire",
+        "droite": "Épaissir en évaporant l'eau",
+        "explication": "Faire mijoter sans couvercle pour concentrer les saveurs d'un liquide."
+      }
+    ],
+    "explication": "Ces quatre termes décrivent des gestes de base : tailler en petits dés, en rubans, prélever l'écorce parfumée d'un agrume ou concentrer un liquide en l'évaporant.",
+    "source": "D'après Wikipédia — Chiffonnade"
+  },
+  {
+    "id": "q-cuisine-204",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Que signifie à l'origine le mot français « chiffonnade » ?",
+    "choix": [
+      "Petits chiffons",
+      "Petites herbes",
+      "Fines feuilles",
+      "Longs fils"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Chiffonnade » signifie « petits chiffons » en français : les longs rubans de feuilles tranchées ressemblent à des bandes de tissu. On empile les feuilles, on les roule, puis on les tranche en travers.",
+    "source": "D'après Wikipédia — Chiffonnade"
+  },
+  {
+    "id": "q-cuisine-205",
+    "domain": "cuisine",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis la partie extérieure d'un fruit, pas sa pulpe.",
+      "Je me prélève avec un zesteur, une râpe ou un économe.",
+      "Sous moi, il y a une couche blanche, parfois amère.",
+      "On me confit pour faire des orangettes ou on me glisse dans le thé Earl Grey.",
+      "Je viens du citron, de l'orange ou de la bergamote."
+    ],
+    "reponse": "Le zeste",
+    "explication": "Le zeste est la couche colorée et parfumée de l'écorce des agrumes, aussi appelée flavedo. Sous lui se trouve l'albédo, blanc et souvent amer, que l'on évite généralement de prélever.",
+    "source": "D'après Wikipédia — Zeste"
+  },
+  {
+    "id": "q-cuisine-206",
+    "domain": "cuisine",
+    "format": "difference",
+    "question": "Quelle est la différence entre sauter et saisir ?",
+    "choix": [
+      "Sauter cuit de petits morceaux en les remuant dans peu de gras ; saisir ne fait que dorer la surface",
+      "Sauter se fait au four, saisir à la poêle",
+      "Sauter utilise beaucoup d'huile, saisir n'en utilise pas",
+      "Il n'y en a aucune, ce sont deux mots pour le même geste"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sauter cuit des aliments coupés en petits morceaux dans un peu de gras, en les faisant bouger. Saisir se contente de colorer la surface d'une pièce. Le nom « sauter » vient du geste de faire sauter les aliments.",
+    "source": "D'après Wikipédia — Sauter (cuisine)"
+  },
+  {
+    "id": "q-cuisine-207",
+    "domain": "cuisine",
+    "format": "difference",
+    "question": "Quelle est la différence entre mariner et faire des pickles ?",
+    "choix": [
+      "Une marinade dure quelques heures à un jour pour parfumer ; les pickles se font en des mois pour conserver",
+      "Les pickles utilisent de l'huile, la marinade du vinaigre",
+      "La marinade se fait avec de la viande, les pickles avec du poisson",
+      "La marinade se fait après la cuisson, les pickles avant"
+    ],
+    "bonneReponse": 0,
+    "explication": "Mariner dure en général de quelques heures à une journée et sert à parfumer ou attendrir. Le pickle se pratique pendant des mois, voire des années, avec pour but principal la conservation de l'aliment.",
+    "source": "D'après Wikipédia — Marinade"
+  },
+  {
+    "id": "q-cuisine-208",
+    "domain": "cuisine",
+    "format": "frise",
+    "question": "Remets ces moments de l'histoire de la restauration rapide dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Première boutique de fish and chips au Royaume-Uni",
+        "annee": "1860"
+      },
+      {
+        "label": "Premier restaurant White Castle construit à Wichita",
+        "annee": "1916"
+      },
+      {
+        "label": "Ouverture du premier restaurant Harry Ramsden's",
+        "annee": "1928"
+      },
+      {
+        "label": "Lancement de Wimpy en France",
+        "annee": "1961"
+      },
+      {
+        "label": "Ouverture du premier McDonald's français à Créteil",
+        "annee": "1972"
+      }
+    ],
+    "explication": "Le fish and chips naît en 1860, White Castle ouvre en 1916 et Harry Ramsden's en 1928. En France, Wimpy arrive en 1961, puis le premier McDonald's à Créteil le 30 juin 1972.",
+    "source": "D'après Wikipédia — Restauration rapide"
+  },
+  {
+    "id": "q-cuisine-209",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Que met-on dans le bouillon pour le clarifier et obtenir un consommé ?",
+    "choix": [
+      "Un mélange de viande hachée, de blancs d'œufs et de légumes",
+      "De la farine et du beurre",
+      "Du jaune d'œuf et de la crème",
+      "De l'amidon de maïs"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le « pain de viande » (viande hachée, blancs d'œufs, légumes et aromates) mijote dans le fond et capte les impuretés. Si le bouillon bout trop fort, il se trouble à nouveau et il faut recommencer.",
+    "source": "D'après Wikipédia — Consommé"
+  },
+  {
+    "id": "q-cuisine-210",
+    "domain": "cuisine",
+    "format": "qcm",
+    "question": "Que développe le pétrissage dans une pâte à pain ?",
+    "choix": [
+      "Un réseau de gluten, qui rend la pâte élastique",
+      "Les sucres de la farine",
+      "Le sel",
+      "La couleur de la croûte"
+    ],
+    "bonneReponse": 0,
+    "explication": "En pétrissant, on étire les protéines de la farine, qui forment des fils de gluten. Ce réseau retient le gaz produit par la levure ; sans lui, la pâte s'affaisserait et donnerait un pain lourd.",
+    "source": "D'après Wikipédia — Pétrissage"
   }
 ]

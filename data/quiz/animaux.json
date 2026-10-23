@@ -3837,5 +3837,569 @@
     ],
     "explication": "Hooke observe un pou au microscope en 1667, Malpighi étudie le ver à soie en 1669, Dubois décrit la luciférase en 1887, Brady publie en 2003 son étude sur les fourmis légionnaires et le génome du bombyx paraît en 2008.",
     "source": "D'après Wikipédia — Entomologie"
+  },
+  {
+    "id": "q-animaux-247",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Combien de compartiments comporte l'estomac d'une vache ?",
+    "choix": [
+      "Quatre",
+      "Deux",
+      "Trois",
+      "Un seul, très grand"
+    ],
+    "bonneReponse": 0,
+    "explication": "La vache possède un seul grand estomac divisé en quatre compartiments : panse, bonnet, feuillet et caillette. La panse, la plus vaste, abrite les micro-organismes qui digèrent la cellulose de l'herbe, ramenée ensuite à la bouche pour être mâchée.",
+    "source": "D'après Wikipédia — Vache"
+  },
+  {
+    "id": "q-animaux-248",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le mot « mouton » vient d'un terme gaulois qui désignait les mâles castrés.",
+    "reponse": true,
+    "explication": "« Mouton » vient du gaulois *multo, qui désignait les mâles castrés de l'espèce. Le mot s'est imposé à la place des termes latins, alors que « brebis » et « bélier » ont gardé des sens précis. En anglais, « mutton » ne désigne que la viande.",
+    "source": "D'après Wikipédia — Mouton"
+  },
+  {
+    "id": "q-animaux-249",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quelle particularité la chèvre a-t-elle parmi les ruminants ?",
+    "choix": [
+      "C'est le seul ruminant qui grimpe régulièrement aux arbres",
+      "C'est le seul ruminant qui n'a pas de cornes",
+      "C'est le seul ruminant qui n'a pas de barbe",
+      "C'est le seul ruminant à avoir cinq estomacs"
+    ],
+    "bonneReponse": 0,
+    "explication": "Agile et curieuse, la chèvre sait escalader rochers, murs et arbres, pour atteindre un feuillage convoité. Elle est le seul ruminant à grimper régulièrement aux arbres, ce qui la rend célèbre pour ses évasions hors des enclos.",
+    "source": "D'après Wikipédia — Chèvre"
+  },
+  {
+    "id": "q-animaux-250",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Qu'est-ce qui causa la mort de Philippe, fils aîné du roi Louis VI, le 13 octobre 1131 ?",
+    "choix": [
+      "Une chute provoquée par un cochon errant dans une rue de Paris",
+      "Un cheval emballé",
+      "Une charrette de foin",
+      "Un sanglier en forêt"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le 13 octobre 1131, un cochon qui divaguait dans Paris fit chuter le prince Philippe, qui en mourut. Un édit royal interdit alors de laisser vaguer les porcs, sauf ceux des moines Antonins, qui portaient une clochette.",
+    "source": "D'après Wikipédia — Porc"
+  },
+  {
+    "id": "q-animaux-251",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "De quel oiseau sauvage la poule domestique descend-elle principalement ?",
+    "choix": [
+      "La poule de jungle rouge",
+      "Le faisan de Colchide",
+      "La perdrix grise",
+      "Le coq de bruyère"
+    ],
+    "bonneReponse": 0,
+    "explication": "La poule descend surtout de la poule de jungle rouge d'Asie du Sud-Est, domestiquée il y a environ 8 000 ans. Elle s'est parfois croisée avec d'autres poules de jungle, dont la grise, qui lui a donné le gène de la peau jaune.",
+    "source": "D'après Wikipédia — Poule"
+  },
+  {
+    "id": "q-animaux-252",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quels animaux furent les premiers passagers d'une montgolfière, le 19 septembre 1783 ?",
+    "choix": [
+      "Un canard, un mouton et un coq",
+      "Un chien, un chat et un coq",
+      "Un lapin, une poule et un mouton",
+      "Un cochon, une oie et un âne"
+    ],
+    "bonneReponse": 0,
+    "explication": "Après deux vols sans passager, les frères Montgolfier voulaient vérifier que des êtres vivants survivaient en l'air. Ils embarquèrent donc un canard domestique, un mouton et un coq lors de ce vol d'essai du 19 septembre 1783.",
+    "source": "D'après Wikipédia — Canard domestique"
+  },
+  {
+    "id": "q-animaux-253",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le lapin est un rongeur, comme le rat et le cobaye.",
+    "reponse": false,
+    "explication": "Le lapin n'est pas un rongeur mais un lagomorphe, comme le lièvre et le pika. Les lagomorphes ont deux paires d'incisives supérieures, l'une derrière l'autre, alors que les rongeurs n'en ont qu'une. Ils furent classés parmi les rongeurs jusqu'en 1912.",
+    "source": "D'après Wikipédia — Lapin"
+  },
+  {
+    "id": "q-animaux-254",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Combien de lapins sauvages européens importés en 1874 ont donné naissance aux millions de lapins d'Australie ?",
+    "choix": [
+      "Vingt-quatre",
+      "Deux cent quarante",
+      "Deux mille quatre cents",
+      "Douze"
+    ],
+    "bonneReponse": 0,
+    "explication": "Il en a suffi de vingt-quatre, arrivés en 1874 : sans prédateurs ni virus pour limiter leur multiplication, ils ont fini par être jusqu'à trente millions. Un couple peut avoir cinq portées par an, jusqu'à douze petits chacune.",
+    "source": "D'après Wikipédia — Lapin"
+  },
+  {
+    "id": "q-animaux-255",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi le cobaye est-il appelé « cochon d'Inde » ?",
+    "choix": [
+      "Son cri ressemble à celui du porc et il vient d'Amérique, alors appelée les Indes",
+      "Il vient réellement du sous-continent indien",
+      "Il a été élevé d'abord comme cochon",
+      "Il fut rapporté par la Compagnie des Indes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le cochon d'Inde n'est ni un porc ni originaire d'Inde. Son nom vient de son cri, semblable au grognement d'un porc, et de son origine sud-américaine, région que l'on appelait autrefois les Indes. Il est domestiqué dans les Andes.",
+    "source": "D'après Wikipédia — Cavia porcellus"
+  },
+  {
+    "id": "q-animaux-256",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Qui fonde en 1899 le club de race du berger allemand et en est le « père » ?",
+    "choix": [
+      "Max von Stephanitz",
+      "Georges Barais",
+      "Heinrich Schumacher",
+      "Albert Heim"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le capitaine de cavalerie Max von Stephanitz achète le chien Horand von Grafrath le 3 avril 1899, puis fonde le club de race le 22 avril. Il le préside trente-cinq ans, et le premier standard est publié le 28 septembre 1899.",
+    "source": "D'après Wikipédia — Berger allemand"
+  },
+  {
+    "id": "q-animaux-257",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "De quel chien descend le labrador ?",
+    "choix": [
+      "Le chien de Saint-John, de Terre-Neuve",
+      "Le berger de Thuringe",
+      "Le chien d'eau espagnol",
+      "Le setter irlandais"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le labrador est issu du chien de Saint-John, auxiliaire des pêcheurs de Terre-Neuve, importé en Angleterre. Le comte de Malmesbury lui donne le nom de labrador. Il est cousin du terre-neuve, avec lequel on l'a longtemps confondu.",
+    "source": "D'après Wikipédia — Labrador retriever"
+  },
+  {
+    "id": "q-animaux-258",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque race de chiens à son berceau.",
+    "paires": [
+      {
+        "gauche": "Berger allemand",
+        "droite": "Allemagne",
+        "explication": "Race apparue à la fin du XIXe siècle grâce à von Stephanitz."
+      },
+      {
+        "gauche": "Husky de Sibérie",
+        "droite": "Sibérie orientale",
+        "explication": "Élevé par les Tchouktches comme chien d'attelage."
+      },
+      {
+        "gauche": "Saint-bernard",
+        "droite": "Alpes, hospice du Grand-Saint-Bernard",
+        "explication": "Sélectionné par les chanoines pour secourir les voyageurs."
+      },
+      {
+        "gauche": "Labrador",
+        "droite": "Terre-Neuve (Canada)",
+        "explication": "Il descend du chien de Saint-John, auxiliaire des pêcheurs."
+      }
+    ],
+    "explication": "Chaque race porte la marque de son milieu : berger de troupeaux en Allemagne, chien d'attelage de Sibérie, sauveteur de montagne dans les Alpes, chien de pêcheurs à Terre-Neuve. Quatre milieux, quatre métiers.",
+    "source": "D'après Wikipédia — Saint-bernard"
+  },
+  {
+    "id": "q-animaux-259",
+    "domain": "animaux",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis né en 1800.",
+      "Je vivais dans un hospice du col du Grand-Saint-Bernard.",
+      "On m'attribue plus de 40 sauvetages en douze ans.",
+      "Mon corps naturalisé est exposé à Berne.",
+      "Un chien de mon hospice porte toujours mon nom."
+    ],
+    "reponse": "Barry",
+    "explication": "Barry Ier, né en 1800 à l'hospice, fut le plus célèbre des saint-bernards. Envoyé à Berne en 1812, il y meurt en 1814. Son corps naturalisé est exposé au Musée d'histoire naturelle de Berne, et un chien de l'hospice porte toujours son nom.",
+    "source": "D'après Wikipédia — Saint-bernard"
+  },
+  {
+    "id": "q-animaux-260",
+    "domain": "animaux",
+    "format": "frise",
+    "question": "Remets ces événements de l'histoire du pur-sang dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Première apparition du terme « thro-bred »",
+        "annee": "1713"
+      },
+      {
+        "label": "Fondation du Jockey Club",
+        "annee": "1750"
+      },
+      {
+        "label": "Premier Derby d'Epsom",
+        "annee": "1780"
+      },
+      {
+        "label": "Création du General Stud Book",
+        "annee": "1791"
+      },
+      {
+        "label": "Vote de la loi de Jersey",
+        "annee": "1913"
+      }
+    ],
+    "explication": "Le terme « thro-bred » apparaît en 1713, le Jockey Club naît en 1750, le Derby d'Epsom en 1780, et le General Stud Book en 1791, qui marque la naissance officielle de la race. La loi de Jersey de 1913 durcit l'accès à ce registre.",
+    "source": "D'après Wikipédia — Pur-sang"
+  },
+  {
+    "id": "q-animaux-261",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le maine coon descend d'un croisement réel entre chat et raton laveur, ce qui explique son nom.",
+    "reponse": false,
+    "explication": "Selon la légende, le maine coon viendrait d'un croisement avec un raton laveur (« coon »), à cause de sa queue touffue et de sa robe tigrée. Un tel hybride est génétiquement impossible, mais la race en a gardé son nom.",
+    "source": "D'après Wikipédia — Maine coon"
+  },
+  {
+    "id": "q-animaux-262",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "De quelle couleur est la robe d'un cheval de Camargue adulte ?",
+    "choix": [
+      "Toujours grise",
+      "Toujours noire",
+      "Baie ou alezane",
+      "Pie, blanche et brune"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Camargue est toujours gris, avec la peau noire. Comme chez tous les chevaux gris, les poulains naissent foncés et s'éclaircissent peu à peu pendant les premières années. Il est surnommé « cheval blanc de la mer ».",
+    "source": "D'après Wikipédia — Camargue (cheval)"
+  },
+  {
+    "id": "q-animaux-263",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Quelle est la différence entre un élevage extensif et un élevage conservatoire ?",
+    "choix": [
+      "L'extensif occupe de grandes surfaces à ressources limitées ; le conservatoire protège des races menacées",
+      "L'extensif se pratique en bâtiment fermé ; le conservatoire en plein air",
+      "L'extensif vise le maximum de rentabilité ; le conservatoire élève des insectes",
+      "L'extensif ne concerne que les bovins ; le conservatoire que les volailles"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'élevage extensif utilise de vastes surfaces où le fourrage est limité, parfois avec transhumance. L'élevage conservatoire cherche à protéger des races menacées de disparition. Ce sont deux modes très différents, parmi beaucoup d'autres.",
+    "source": "D'après Wikipédia — Élevage"
+  },
+  {
+    "id": "q-animaux-264",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Où trouve-t-on la plus ancienne représentation connue d'abeilles domestiquées ?",
+    "choix": [
+      "Dans un temple solaire d'Égypte, il y a près de 4 500 ans",
+      "Dans une grotte d'Espagne, il y a 10 000 ans",
+      "Sur une tablette de Mésopotamie",
+      "Dans un traité d'Aristote"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un bas-relief du temple solaire d'Abou Ghorab, en Égypte, vieux de près de 4 500 ans, montre des ruches et des apiculteurs, avec enfumage, extraction et conservation du miel. C'est le plus ancien témoignage graphique d'abeilles élevées.",
+    "source": "D'après Wikipédia — Apiculture"
+  },
+  {
+    "id": "q-animaux-265",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel objet de fête est né en 1891 de chutes de papier utilisées pour élever des vers à soie ?",
+    "choix": [
+      "Les confettis",
+      "Les serpentins",
+      "Les lampions",
+      "Les guirlandes"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1891, M. Lué, administrateur du Casino de Paris, récupère les chutes de feuilles de papier percées de petits trous, employées dans les élevages de vers à soie. Elles sont lancées lors d'un bal masqué du Carnaval de Paris : la mode du confetti est lancée.",
+    "source": "D'après Wikipédia — Sériciculture"
+  },
+  {
+    "id": "q-animaux-266",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que montre l'université de Plymouth sur la mémoire du poisson rouge ?",
+    "choix": [
+      "On peut l'entraîner à retenir un événement jusqu'à trois mois",
+      "Il oublie tout au bout de neuf secondes",
+      "Il ne garde aucun souvenir d'un jour à l'autre",
+      "Il ne retient que les odeurs, jamais les lumières"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une étude de Plymouth établit que le poisson rouge peut être entraîné à retenir un événement jusqu'à trois mois. Il mémorise aussi l'heure des repas et réagit à des signaux lumineux : la rumeur des neuf secondes d'attention est fausse.",
+    "source": "D'après Wikipédia — Carassius auratus"
+  },
+  {
+    "id": "q-animaux-267",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le verbe allemand « hamstern », qui signifie « faire des réserves », dérive du nom de l'animal hamster.",
+    "reponse": true,
+    "explication": "C'est bien le verbe qui vient du nom, et non l'inverse. Le mot hamster, emprunté à l'allemand, vient lui-même du slave. Le verbe renvoie à l'habitude du hamster de stocker des graines dans ses abajoues, puis dans son terrier.",
+    "source": "D'après Wikipédia — Hamster"
+  },
+  {
+    "id": "q-animaux-268",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quelle quantité de provisions a-t-on trouvée dans certains terriers de hamsters ?",
+    "choix": [
+      "Près de 90 kg",
+      "Environ 9 kg",
+      "Environ 900 g",
+      "Plus de 400 kg"
+    ],
+    "bonneReponse": 0,
+    "explication": "Des terriers de hamsters ont livré presque 90 kg de réserves de nourriture. Le hamster remplit ses abajoues, ces poches extensibles qui descendent jusqu'aux épaules, puis vide sa récolte dans ses greniers souterrains, qui peuvent s'enfoncer à plus de 2 m en hiver.",
+    "source": "D'après Wikipédia — Hamster"
+  },
+  {
+    "id": "q-animaux-269",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Dans quel pays se trouvait la forêt où est mort le dernier aurochs connu, en 1627 ?",
+    "choix": [
+      "En Pologne",
+      "En Lituanie",
+      "En Roumanie",
+      "En Allemagne"
+    ],
+    "bonneReponse": 0,
+    "explication": "La dernière femelle aurochs a vécu jusqu'en 1627, dans la forêt polonaise de Jaktorów. L'espèce, ancêtre des bovins domestiques, avait été réduite à quelques individus gardés par des gardes exemptés d'impôts, puis décimée par les maladies du bétail.",
+    "source": "D'après Wikipédia — Aurochs"
+  },
+  {
+    "id": "q-animaux-270",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le plus proche parent actuel du rhinocéros laineux est le rhinocéros blanc d'Afrique.",
+    "reponse": false,
+    "explication": "Son plus proche parent actuel est le rhinocéros de Sumatra, petit, poilu et gravement menacé. Le rhinocéros blanc africain n'a de commun avec lui que sa grande taille : le rhinocéros laineux était un peu plus grand encore.",
+    "source": "D'après Wikipédia — Rhinocéros laineux"
+  },
+  {
+    "id": "q-animaux-271",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quels oiseaux sont les plus proches parents des moas, d'après les études génétiques ?",
+    "choix": [
+      "Les tinamous d'Amérique du Sud, qui savent voler",
+      "Les kiwis de Nouvelle-Zélande",
+      "Les émeus d'Australie",
+      "Les autruches d'Afrique"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les analyses génétiques ont surpris : le moa est plus proche de petits oiseaux sud-américains, les tinamous, capables de voler, que des kiwis, des émeus ou des casoars, auxquels on l'associait autrefois. Le moa est le seul oiseau connu à n'avoir aucune trace d'aile.",
+    "source": "D'après Wikipédia — Dinornithiformes"
+  },
+  {
+    "id": "q-animaux-272",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que font parfois les Malgaches des œufs d'aepyornis retrouvés intacts ?",
+    "choix": [
+      "Ils s'en servent comme urnes",
+      "Ils les transforment en lampes",
+      "Ils les utilisent comme instruments de musique",
+      "Ils les offrent comme jouets aux enfants"
+    ],
+    "bonneReponse": 0,
+    "explication": "Aujourd'hui encore, des Malgaches trouvent des œufs d'aepyornis intacts et les utilisent comme urnes. Ces œufs, les plus gros connus chez les animaux, dépassent parfois un mètre de circonférence et contiennent plusieurs litres : plus de sept fois un œuf d'autruche.",
+    "source": "D'après Wikipédia — Æpyornis"
+  },
+  {
+    "id": "q-animaux-273",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel dinosaure a inspiré les reptiles de 2 m et 90 kg des films « Jurassic Park » ?",
+    "choix": [
+      "Deinonychus",
+      "Protoceratops",
+      "Oviraptor",
+      "Archaeopteryx"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le vrai Velociraptor n'avait que la taille d'une dinde. Les « raptors » des films, longs d'environ 2 m et lourds de 90 kg, s'inspirent en fait d'un cousin plus grand, Deinonychus. Velociraptor, lui, vivait en Asie, dans l'actuelle Mongolie.",
+    "source": "D'après Wikipédia — Velociraptor"
+  },
+  {
+    "id": "q-animaux-274",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel doigt allongé soutenait l'aile membraneuse des ptérosaures ?",
+    "choix": [
+      "Le quatrième doigt",
+      "Le pouce",
+      "L'index",
+      "Le petit doigt, ou cinquième doigt"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les ailes des ptérosaures étaient faites d'une membrane de peau et de muscle tendue entre un quatrième doigt démesuré et les membres arrière. Jean Hermann fut le premier à le comprendre, en 1800, et Cuvier à le publier, le nom Ptéro-Dactyle signifiant « doigt ailé ».",
+    "source": "D'après Wikipédia — Ptérodactyle"
+  },
+  {
+    "id": "q-animaux-275",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "De quoi les trilobites furent-ils les premiers animaux à se doter ?",
+    "choix": [
+      "De vrais yeux composés",
+      "De mâchoires articulées",
+      "D'un squelette interne",
+      "De poumons"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chez les trilobites sont apparus, avant tout autre animal, de vrais yeux composés bâtis avec des prismes de calcite. Certains avaient jusqu'à 15 000 minuscules lentilles ; chez d'autres, chaque lentille avait sa cornée et le champ de vision dépassait 180 degrés.",
+    "source": "D'après Wikipédia — Trilobita"
+  },
+  {
+    "id": "q-animaux-276",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel métal, anormalement abondant dans une fine couche d'argile, signale la limite Crétacé-Paléogène ?",
+    "choix": [
+      "L'iridium",
+      "Le plomb",
+      "Le mercure",
+      "Le cuivre"
+    ],
+    "bonneReponse": 0,
+    "explication": "La limite K-Pg est marquée partout dans le monde par une mince couche d'argile très riche en iridium, un métal plus courant dans les astéroïdes que dans la croûte terrestre. C'est l'un des indices qui ont fait penser à la chute d'un astéroïde, il y a 66 millions d'années.",
+    "source": "D'après Wikipédia — Extinction Crétacé-Paléogène"
+  },
+  {
+    "id": "q-animaux-277",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Dunkleosteus, poisson cuirassé du Dévonien, n'avait pas de véritables dents : ses mâchoires portaient des plaques tranchantes.",
+    "reponse": true,
+    "explication": "À la place des dents, Dunkleosteus avait deux paires de plaques osseuses aussi coupantes que des lames de rasoir : un bec fait pour trancher la chair et casser les os. Il se rendait ainsi redoutable sans avoir de dents au sens strict.",
+    "source": "D'après Wikipédia — Dunkleosteus"
+  },
+  {
+    "id": "q-animaux-278",
+    "domain": "animaux",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis apparue au Dévonien, il y a environ 409 millions d'années.",
+      "Seule la dernière loge de ma coquille était occupée par mon corps.",
+      "Mes plus proches cousins vivants sont les poulpes et les calmars.",
+      "Mon nom vient des cornes de bélier du dieu Ammon, évoquées par Pline l'Ancien.",
+      "J'ai disparu avec les dinosaures non aviens, il y a 66 millions d'années."
+    ],
+    "reponse": "L'ammonite",
+    "explication": "L'ammonite est un céphalopode fossile à coquille spiralée dont seule la dernière loge était habitée ; les autres servaient de flotteur. Son nom évoque les cornes de bélier du dieu Ammon. Elle a disparu à la fin du Crétacé, avec les dinosaures non aviens.",
+    "source": "D'après Wikipédia — Ammonoidea"
+  },
+  {
+    "id": "q-animaux-279",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Quelle est la différence entre l'aepyornis et le moa géant ?",
+    "choix": [
+      "L'aepyornis, de Madagascar, était plus lourd ; le moa, de Nouvelle-Zélande, pouvait être plus haut",
+      "L'aepyornis vivait en Nouvelle-Zélande et le moa à Madagascar",
+      "L'aepyornis volait, alors que le moa ne volait pas",
+      "L'aepyornis avait de petites ailes, le moa de grandes ailes"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'aepyornis (Madagascar) mesurait 3 à 3,5 m mais pesait bien plus que le moa géant (Nouvelle-Zélande), qui pouvait atteindre environ 4 m. Aucun des deux ne volait, et le moa n'avait même pas de moignons d'ailes.",
+    "source": "D'après Wikipédia — Æpyornis"
+  },
+  {
+    "id": "q-animaux-280",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Qu'est-ce qui distingue le Triceratops de la plupart des autres dinosaures à cornes (cératopsidés) ?",
+    "choix": [
+      "Sa collerette osseuse pleine, sans grandes ouvertures",
+      "Son absence de corne sur le museau",
+      "Sa marche sur deux pattes",
+      "Ses trois cornes de taille égale"
+    ],
+    "bonneReponse": 0,
+    "explication": "La plupart des cératopsidés portaient une collerette percée de grandes ouvertures, alors que celle du Triceratops était très solide et pleine. Il avait en plus une corne sur le museau et deux cornes d'environ un mètre au-dessus des yeux.",
+    "source": "D'après Wikipédia — Triceratops"
+  },
+  {
+    "id": "q-animaux-281",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque animal disparu au lieu lié à sa découverte ou à sa disparition.",
+    "paires": [
+      {
+        "gauche": "Archéoptéryx",
+        "droite": "Calcaires de Solnhofen, Allemagne",
+        "explication": "Tous les fossiles d'archéoptéryx viennent de ces calcaires du sud de l'Allemagne."
+      },
+      {
+        "gauche": "Velociraptor",
+        "droite": "Désert de Gobi, Mongolie",
+        "explication": "Un premier crâne y a été trouvé aux Flaming Cliffs lors d'une expédition américaine."
+      },
+      {
+        "gauche": "Dunkleosteus",
+        "droite": "Lac Érié, Ohio",
+        "explication": "Les premiers restes ont été trouvés par Jay Terrell, paléontologue amateur, à Sheffield Lake."
+      },
+      {
+        "gauche": "Aurochs",
+        "droite": "Forêt de Jaktorów, Pologne",
+        "explication": "C'est dans cette forêt polonaise que s'est éteint le dernier aurochs connu, une femelle."
+      }
+    ],
+    "explication": "Ces quatre animaux sont liés à des lieux précis : les calcaires de Solnhofen pour l'archéoptéryx, le Gobi pour le vélociraptor, le lac Érié pour le dunkleosteus et la forêt de Jaktorów pour les derniers aurochs.",
+    "source": "D'après Wikipédia — Archaeopteryx"
+  },
+  {
+    "id": "q-animaux-282",
+    "domain": "animaux",
+    "format": "frise",
+    "question": "Remets ces moments de l'histoire de la paléontologie dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Collini décrit le premier ptérodactyle",
+        "annee": "1784"
+      },
+      {
+        "label": "Cuvier nomme le « Ptéro-Dactyle »",
+        "annee": "1809"
+      },
+      {
+        "label": "Premier squelette d'archéoptéryx à Langenaltheim",
+        "annee": "1861"
+      },
+      {
+        "label": "Peter Kaisen trouve le premier Velociraptor",
+        "annee": "1923"
+      },
+      {
+        "label": "Un cœlacanthe vivant est découvert en Afrique du Sud",
+        "annee": "1938"
+      }
+    ],
+    "explication": "Le ptérodactyle est décrit en 1784 et nommé par Cuvier en 1809. L'archéoptéryx apparaît en 1861, deux ans après Darwin. Le Velociraptor est découvert en 1923 dans le Gobi, et le cœlacanthe, que l'on croyait éteint, est retrouvé vivant en 1938.",
+    "source": "D'après Wikipédia — Paléontologie"
   }
 ]

@@ -2728,5 +2728,569 @@
     ],
     "explication": "Ces cinq oiseaux se reconnaissent à un détail marquant : un surnom, un bruit de bec, un nom quechua, un record de rassemblement ou une poche jugulaire.",
     "source": "D'après Wikipédia — Macareux moine"
+  },
+  {
+    "id": "q-animaux-175",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quelle longueur a révélé le squelette de « Colossus », le python réticulé de Pittsburgh crédité de 8,7 m en 1956 ?",
+    "choix": [
+      "6,35 m",
+      "7,90 m",
+      "8,20 m",
+      "5,10 m"
+    ],
+    "bonneReponse": 0,
+    "explication": "Colossus était crédité de 8,7 m en 1956. Après sa mort en 1964, son squelette n'a mesuré que 6,35 m : les anciennes mesures additionnaient des estimations pour compenser les plis du corps. Un record de serpent est très difficile à vérifier.",
+    "source": "D'après Wikipédia — Python réticulé"
+  },
+  {
+    "id": "q-animaux-176",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Combien d'espèces de grenouilles venimeuses ont été documentées comme servant à empoisonner des flèches de sarbacane ?",
+    "choix": [
+      "Quatre",
+      "Une vingtaine",
+      "Plus de cent",
+      "Toutes les espèces connues"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sur plus de 170 espèces de dendrobates, quatre seulement, toutes du genre Phyllobates, sont connues pour cet usage. Les peuples d'Amérique du Sud utilisaient plus souvent le curare, tiré de plantes, pour garnir leurs flèches.",
+    "source": "D'après Wikipédia — Dendrobatidae"
+  },
+  {
+    "id": "q-animaux-177",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "En Europe de l'Ouest, une pupille verticale permet de reconnaître une vipère, alors que les couleuvres inoffensives ont la pupille ronde.",
+    "reponse": true,
+    "explication": "C'est le critère le plus fiable. Les vipères, dont l'aspic, ont aussi un corps plus trapu, une queue plus courte et de nombreuses petites écailles sur le dessus de la tête, alors que les couleuvres en ont neuf grandes.",
+    "source": "D'après Wikipédia — Vipère aspic"
+  },
+  {
+    "id": "q-animaux-178",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi le mamba noir porte-t-il ce nom ?",
+    "choix": [
+      "L'intérieur de sa bouche est presque noir",
+      "Sa peau est d'un noir profond",
+      "Il chasse surtout la nuit",
+      "Ses crochets sont noirs"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mamba noir n'est pas noir : son dos est olive, kaki ou gris. C'est l'intérieur de sa gueule, bleu-gris très sombre, qui lui a donné son nom. Il l'ouvre en grand quand il se sent menacé. Mamba vient du zoulou imamba.",
+    "source": "D'après Wikipédia — Dendroaspis polylepis"
+  },
+  {
+    "id": "q-animaux-179",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi le nombre d'anneaux de la sonnette d'un crotale ne donne-t-il pas son âge ?",
+    "choix": [
+      "Un jeune peut muer plusieurs fois par an, et les vieux anneaux finissent par se casser",
+      "Un seul anneau pousse par an, mais ils se déforment",
+      "La sonnette se renouvelle chaque hiver",
+      "Seuls les mâles en possèdent"
+    ],
+    "bonneReponse": 0,
+    "explication": "Chaque mue ajoute un segment à la sonnette, mais un jeune crotale peut muer plusieurs fois dans l'année selon son appétit. Les anciens segments s'usent et tombent, souvent après six ou sept anneaux : leur nombre ne reflète pas l'âge.",
+    "source": "D'après Wikipédia — Crotalus"
+  },
+  {
+    "id": "q-animaux-180",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Les alligators vivent naturellement en Amérique du Sud, en Afrique et en Australie.",
+    "reponse": false,
+    "explication": "Les alligators ne sont indigènes que dans quelques pays : les États-Unis, le Mexique pour l'espèce américaine, et la Chine pour l'espèce chinoise, très menacée. Les caïmans, leurs cousins, vivent en Amérique du Sud.",
+    "source": "D'après Wikipédia — Alligator"
+  },
+  {
+    "id": "q-animaux-181",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que montre une expérience faite avec des varans nourris d'escargots en nombres variables ?",
+    "choix": [
+      "Ils savent distinguer des quantités jusqu'à six",
+      "Ils reconnaissent leur propre reflet",
+      "Ils s'orientent grâce aux étoiles",
+      "Ils comptent jusqu'à cent"
+    ],
+    "bonneReponse": 0,
+    "explication": "Des varans des rochers nourris avec un nombre variable d'escargots ont montré qu'ils pouvaient distinguer des quantités jusqu'à six. D'autres varans coopèrent pour piller des nids de crocodile, ou jouent à déchiqueter des feuilles.",
+    "source": "D'après Wikipédia — Varanus"
+  },
+  {
+    "id": "q-animaux-182",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Sur quelle distance un basilic peut-il courir sur l'eau avant de s'enfoncer ?",
+    "choix": [
+      "Environ 4,5 m",
+      "Environ 50 m",
+      "Environ 1 m",
+      "Environ 20 m"
+    ],
+    "bonneReponse": 0,
+    "explication": "À environ 1,5 m par seconde, le basilic tient à peu près 4,5 m sur l'eau, soutenu par des lobes de peau entre ses orteils qui piègent de l'air. Ensuite il s'enfonce et nage. D'où son surnom de « lézard Jésus-Christ ».",
+    "source": "D'après Wikipédia — Basiliscus (genre)"
+  },
+  {
+    "id": "q-animaux-183",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Comment la tortue verte femelle retrouve-t-elle la plage où elle est née pour y pondre ?",
+    "choix": [
+      "Grâce au champ magnétique terrestre",
+      "Grâce aux étoiles",
+      "Grâce aux courants chauds",
+      "Grâce à l'odeur du sable"
+    ],
+    "bonneReponse": 0,
+    "explication": "La tortue verte s'oriente grâce au champ magnétique terrestre et garderait en mémoire la signature magnétique de sa plage natale. Après des décennies en mer, elle y revient pondre : c'est la « navigation magnétique ».",
+    "source": "D'après Wikipédia — Tortue verte"
+  },
+  {
+    "id": "q-animaux-184",
+    "domain": "animaux",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je vis en Nouvelle-Zélande, sur des îles au large et dans quelques sanctuaires.",
+      "Je suis le dernier survivant d'un ordre apparu il y a plus de 240 millions d'années.",
+      "Les jeunes ont un œil pariétal sur le sommet du crâne, qui disparaît sous les écailles.",
+      "Je ressemble à un lézard, mais je n'en suis pas un.",
+      "Mon nom maori signifie « à crête sur le dos »."
+    ],
+    "reponse": "Le tuatara",
+    "explication": "Le tuatara (Sphenodon) a été pris pour un lézard jusqu'en 1867. C'est l'unique survivant des rhynchocéphales. Les Maoris le considèrent comme un taonga, un trésor sacré, et il est protégé par la loi depuis 1895.",
+    "source": "D'après Wikipédia — Sphenodon"
+  },
+  {
+    "id": "q-animaux-185",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Pendant des siècles, en Russie et parfois en Finlande, on glissait des grenouilles rousses dans le lait pour le conserver plus longtemps.",
+    "reponse": true,
+    "explication": "La peau de la grenouille rousse sécrète des peptides antimicrobiens qui combattent des bactéries comme le staphylocoque et la salmonelle. L'usage a duré jusqu'à l'arrivée de la réfrigération moderne.",
+    "source": "D'après Wikipédia — Grenouille rousse"
+  },
+  {
+    "id": "q-animaux-186",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "À quoi servait autrefois la rainette verte, grâce à son coassement ?",
+    "choix": [
+      "À prévoir la pluie, comme un baromètre",
+      "À repérer les sources d'eau",
+      "À annoncer l'hiver",
+      "À éloigner les serpents"
+    ],
+    "bonneReponse": 0,
+    "explication": "La rainette verte coasse à l'approche de la pluie : on l'a longtemps utilisée comme baromètre vivant. Les mâles forment aussi au printemps des chœurs nocturnes qui répètent une sorte de « waka-waka ».",
+    "source": "D'après Wikipédia — Rainette verte"
+  },
+  {
+    "id": "q-animaux-187",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Quelle est la différence entre une grenouille rousse et un crapaud commun ?",
+    "choix": [
+      "La grenouille a la peau lisse, de longues pattes et saute ; le crapaud a la peau verruqueuse et marche",
+      "La grenouille a la peau sèche et le crapaud la peau lisse",
+      "La grenouille marche et le crapaud saute",
+      "La grenouille pond en cordons et le crapaud en amas"
+    ],
+    "bonneReponse": 0,
+    "explication": "La grenouille rousse a la peau lisse et humide, de longues pattes et avance par bonds. Le crapaud commun a la peau sèche et verruqueuse, des pattes courtes, et marche. Les œufs aussi diffèrent : en amas chez l'une, en cordons chez l'autre.",
+    "source": "D'après Wikipédia — Crapaud commun"
+  },
+  {
+    "id": "q-animaux-188",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Combien de temps une salamandre tachetée a-t-elle vécu en captivité à Göttingen, de 1863 à 1913 ?",
+    "choix": [
+      "Cinquante ans",
+      "Douze ans",
+      "Vingt-cinq ans",
+      "Quatre-vingts ans"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cette salamandre tachetée a passé cinquante ans dans un terrarium, une longévité exceptionnelle pour un amphibien. En nature, on a attesté plus de 30 ans de vie. Ses couleurs jaune et noir avertissent les prédateurs de sa toxicité.",
+    "source": "D'après Wikipédia — Salamandra salamandra"
+  },
+  {
+    "id": "q-animaux-189",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Comment distingue-t-on un alligator d'un crocodile, gueule fermée ?",
+    "choix": [
+      "Chez l'alligator, seules les dents du haut se voient, sur un museau large en U",
+      "Chez l'alligator, les dents du bas dépassent, sur un museau en V",
+      "L'alligator est toujours vert, le crocodile toujours brun",
+      "L'alligator n'a pas de dents visibles du tout"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'alligator a un museau plus large et arrondi en U, et seules ses dents supérieures sont visibles gueule fermée. Le crocodile a un museau plus étroit en V, et ses dents du bas dépassent. L'alligator préfère l'eau douce.",
+    "source": "D'après Wikipédia — Alligator"
+  },
+  {
+    "id": "q-animaux-190",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque reptile à sa particularité.",
+    "paires": [
+      {
+        "gauche": "Le python réticulé",
+        "droite": "Le serpent le plus long du monde",
+        "explication": "Il dépasse régulièrement 6 m, plus long que l'anaconda."
+      },
+      {
+        "gauche": "L'anaconda vert",
+        "droite": "Le serpent le plus lourd du monde",
+        "explication": "Il peut dépasser 200 kg, mais reste moins long que le python réticulé."
+      },
+      {
+        "gauche": "Le mamba noir",
+        "droite": "Le plus long serpent venimeux d'Afrique",
+        "explication": "Seul le cobra royal, en Asie, le dépasse en longueur."
+      },
+      {
+        "gauche": "Le gavial",
+        "droite": "Un museau fin, avec une bosse en forme de pot chez le mâle",
+        "explication": "Son nom vient de ghara, « pot de terre » en hindi."
+      }
+    ],
+    "explication": "Le python réticulé est le plus long serpent, l'anaconda le plus lourd, le mamba noir le plus long serpent venimeux d'Afrique, et le gavial se reconnaît à son museau fin de pêcheur.",
+    "source": "D'après Wikipédia — Eunectes"
+  },
+  {
+    "id": "q-animaux-191",
+    "domain": "animaux",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire du tuatara dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Un crâne arrive au British Museum : le tuatara est pris pour un lézard",
+        "annee": "1831"
+      },
+      {
+        "label": "Albert Günther reconnaît un groupe de reptiles à part",
+        "annee": "1867"
+      },
+      {
+        "label": "Le tuatara est protégé par la loi",
+        "annee": "1895"
+      },
+      {
+        "label": "Premier lâcher sur l'île du Nord, à Zealandia",
+        "annee": "2005"
+      },
+      {
+        "label": "Un nid est découvert à Zealandia",
+        "annee": "2008"
+      }
+    ],
+    "explication": "Pris d'abord pour un lézard, le tuatara a été reconnu comme un groupe à part en 1867, protégé en 1895, puis relâché en 2005 sur l'île du Nord, où un nid a été trouvé en 2008, une première depuis plus de 200 ans.",
+    "source": "D'après Wikipédia — Sphenodon"
+  },
+  {
+    "id": "q-animaux-192",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Qu'est-ce qui surprend les chercheurs dans l'alimentation du requin-marteau tiburo ?",
+    "choix": [
+      "Il mange de l'herbe marine, jusqu'à la moitié de son estomac",
+      "Il ne se nourrit que de plancton",
+      "Il mange uniquement des méduses",
+      "Il ne mange jamais de poissons"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le requin-marteau tiburo avale des herbes marines, qui peuvent former jusqu'à la moitié du contenu de son estomac, et il parvient à les digérer en partie. Il est donc potentiellement omnivore, une rareté chez les requins.",
+    "source": "D'après Wikipédia — Sphyrnidae"
+  },
+  {
+    "id": "q-animaux-193",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi le requin-tigre est-il surnommé la « poubelle des mers » ?",
+    "choix": [
+      "Il avale presque tout, y compris des objets rejetés par l'homme",
+      "Il se nourrit uniquement de cadavres échoués au fond",
+      "Il vit au pied des décharges côtières",
+      "Il filtre les déchets flottants à la surface"
+    ],
+    "bonneReponse": 0,
+    "explication": "Peu sélectif, le requin-tigre a le menu le plus varié de tous les requins. On a retrouvé dans son estomac des bidons, des cannettes, des pneus et même des plaques d'immatriculation. Il peut garder ces déchets des années ou les régurgiter.",
+    "source": "D'après Wikipédia — Requin-tigre"
+  },
+  {
+    "id": "q-animaux-194",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le requin pèlerin, qui peut approcher 12 mètres de long, chasse activement de grosses proies comme les phoques.",
+    "reponse": false,
+    "explication": "Le requin pèlerin est un filtreur inoffensif : il avance bouche grande ouverte, à 3 ou 4 nœuds, et retient le plancton sur les fines lames de ses branchies. Parmi les poissons vivants, seul le requin-baleine est plus grand que lui.",
+    "source": "D'après Wikipédia — Requin pèlerin"
+  },
+  {
+    "id": "q-animaux-195",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel record détient la raie géante capturée en 2022 sur le Mékong, au Cambodge ?",
+    "choix": [
+      "Le plus gros poisson d'eau douce connu",
+      "Le plus vieux poisson jamais capturé",
+      "La première raie observée en eau douce",
+      "La raie la plus rapide jamais mesurée"
+    ],
+    "bonneReponse": 0,
+    "explication": "Cette femelle pesait près de 300 kg pour 3,98 m de long. Relâchée avec une balise de suivi, elle a été surnommée Boramy, « Pleine Lune », par les riverains, à cause de sa forme ronde et de la lune pleine ce jour-là.",
+    "source": "D'après Wikipédia — Raie"
+  },
+  {
+    "id": "q-animaux-196",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Qu'est-ce qui permet au thon rouge de chasser dans les eaux froides de l'Atlantique Nord ?",
+    "choix": [
+      "Un système qui conserve la chaleur de ses muscles",
+      "Une épaisse couche de graisse sous la peau",
+      "Une migration vers le sud dès les premiers froids",
+      "Un sang chargé d'une substance antigel"
+    ],
+    "bonneReponse": 0,
+    "explication": "Contrairement à la plupart des poissons, le thon rouge garde sa chaleur grâce à un échange de chaleur entre ses vaisseaux sanguins. Ce sang chaud lui permet de chasser dans des eaux riches en proies, mais froides.",
+    "source": "D'après Wikipédia — Thunnus thynnus"
+  },
+  {
+    "id": "q-animaux-197",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "On a longtemps attribué à l'espadon une vitesse de 100 km/h, mais ce chiffre repose sur des bases peu fiables.",
+    "reponse": true,
+    "explication": "Les études sur des poissons voisins, comme le marlin, suggèrent plutôt des pointes d'environ 40 km/h. L'espadon dépasserait rarement 30 km/h : il reste très rapide, mais loin du record qu'on lui prête souvent.",
+    "source": "D'après Wikipédia — Espadon"
+  },
+  {
+    "id": "q-animaux-198",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Quelle est la différence entre un marlin et un espadon ?",
+    "choix": [
+      "Le marlin a un rostre plus court et conique, avec des dents ; l'espadon a un rostre aplati et pas de dents adulte",
+      "Le marlin vit en eau douce, l'espadon en mer",
+      "Le marlin est un requin, l'espadon un poisson osseux",
+      "Le marlin a un rostre aplati, l'espadon un rostre conique et denté"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'espadon a un rostre aplati, une peau lisse et plus de dents à l'âge adulte. Le marlin a un rostre rond, des dents et une peau à petites pointes en V. Cette confusion est ancienne : elle a touché la première traduction française du Vieil Homme et la Mer.",
+    "source": "D'après Wikipédia — Istiophoridae"
+  },
+  {
+    "id": "q-animaux-199",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Comment appelle-t-on, au Québec, le saumon atlantique qui vit toute sa vie en eau douce ?",
+    "choix": [
+      "Ouananiche",
+      "Tacon",
+      "Madeleineau",
+      "Smolt"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Ouananiche » vient de langues autochtones et signifie à peu près « petit égaré » : on y voyait un saumon de mer perdu en eau douce. Cette variété vit surtout dans de grands lacs, comme le lac Saint-Jean, et fraye dans les rivières.",
+    "source": "D'après Wikipédia — Salmo salar"
+  },
+  {
+    "id": "q-animaux-200",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi le barracuda ressemble-t-il autant au brochet d'eau douce ?",
+    "choix": [
+      "Par évolution convergente : les deux poissons ne sont pas apparentés",
+      "Parce que l'un imite l'autre pour tromper ses proies",
+      "Parce qu'ils appartiennent à la même famille",
+      "Parce que le barracuda descend d'un brochet parti en mer"
+    ],
+    "bonneReponse": 0,
+    "explication": "Malgré leur corps allongé, leur mâchoire garnie de dents acérées et leur allure de torpille, barracuda et brochet n'ont aucun lien de parenté. Deux lignées différentes ont abouti à une forme semblable : c'est une évolution convergente.",
+    "source": "D'après Wikipédia — Sphyraena"
+  },
+  {
+    "id": "q-animaux-201",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "La murène garde la gueule ouverte en permanence parce qu'elle est agressive.",
+    "reponse": false,
+    "explication": "Ses petites branchies sont loin de la bouche : elle doit ouvrir et fermer la gueule pour faire circuler l'eau. Cette posture paraît menaçante, mais la murène est timide et préfère toujours fuir se cacher dans une crevasse.",
+    "source": "D'après Wikipédia — Muraenidae"
+  },
+  {
+    "id": "q-animaux-202",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "D'où vient la toxine du poisson-globe ?",
+    "choix": [
+      "De son alimentation : il accumule la toxine en se nourrissant",
+      "D'une glande à venin placée près de ses nageoires",
+      "Des piqûres de méduses qu'il avale",
+      "Du sable des fonds marins qu'il aspire"
+    ],
+    "bonneReponse": 0,
+    "explication": "La tétrodotoxine s'accumule dans le poisson à partir de ce qu'il mange. C'est pourquoi le Japon élève le fugu tigre avec une alimentation contrôlée qui le rend non toxique, même au niveau du foie et des organes.",
+    "source": "D'après Wikipédia — Poisson-globe"
+  },
+  {
+    "id": "q-animaux-203",
+    "domain": "animaux",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire du cœlacanthe dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Un cœlacanthe vivant est remonté dans un chalut en Afrique du Sud",
+        "annee": "1938"
+      },
+      {
+        "label": "Un deuxième spécimen est découvert aux Comores",
+        "annee": "1952"
+      },
+      {
+        "label": "Des chercheurs observent un cœlacanthe vivant depuis un sous-marin",
+        "annee": "1987"
+      },
+      {
+        "label": "Une seconde espèce est repérée sur un marché d'Indonésie",
+        "annee": "1997"
+      },
+      {
+        "label": "Une étude révèle un poumon caché rempli de graisse",
+        "annee": "2015"
+      }
+    ],
+    "explication": "Cru disparu depuis la fin du Crétacé, le cœlacanthe est réapparu en 1938. Il a fallu quatorze ans pour un second spécimen, puis des décennies pour l'observer vivant et découvrir sa cousine indonésienne et son poumon devenu ballast de graisse.",
+    "source": "D'après Wikipédia — Coelacanthiformes"
+  },
+  {
+    "id": "q-animaux-204",
+    "domain": "animaux",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom vient du tupi, et un dictionnaire de 1585 le traduit par « ciseaux ».",
+      "Je vis dans l'Amazone, l'Orénoque et d'autres fleuves d'Amérique du Sud.",
+      "Je mesure en général entre 12 et 35 cm.",
+      "Mes dents triangulaires s'emboîtent en une rangée tranchante.",
+      "On me prête à tort une férocité de dévoreur en banc."
+    ],
+    "reponse": "Le piranha",
+    "explication": "Les piranhas se regroupent surtout pour se protéger de leurs propres prédateurs, comme les caïmans ou les dauphins. Ils mangent des poissons, mais aussi des fruits et des graines, et attaquent rarement l'être humain.",
+    "source": "D'après Wikipédia — Piranha"
+  },
+  {
+    "id": "q-animaux-205",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi les dauphins de rivière d'Asie et d'Amérique du Sud se ressemblent-ils sans appartenir à la même famille ?",
+    "choix": [
+      "À cause d'une évolution convergente dans des milieux semblables",
+      "Parce qu'ils descendent tous d'un ancêtre d'eau douce récent",
+      "Parce qu'ils se croisent entre eux lors de leurs migrations",
+      "Parce qu'ils ont été isolés dans une même mer intérieure"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'ADN montre que ces dauphins descendent, à plusieurs reprises, de cétacés marins archaïques. Des lignées isolées ont développé des traits semblables parce que leurs fleuves se ressemblent : c'est la convergence évolutive.",
+    "source": "D'après Wikipédia — Dauphin d'eau douce"
+  },
+  {
+    "id": "q-animaux-206",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que signifie le nom scientifique « Megaptera » de la baleine à bosse ?",
+    "choix": [
+      "Grandes ailes",
+      "Dos arrondi",
+      "Chanteuse des mers",
+      "Grande queue"
+    ],
+    "bonneReponse": 0,
+    "explication": "Megaptera vient du grec et signifie « grandes ailes » : il désigne ses nageoires pectorales, qui peuvent atteindre le tiers de la longueur du corps. La « bosse », elle, est le dos qu'elle arrondit avant de plonger.",
+    "source": "D'après Wikipédia — Baleine à bosse"
+  },
+  {
+    "id": "q-animaux-207",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel animal marin est le fossile officiel du Vermont, un État éloigné de l'océan ?",
+    "choix": [
+      "Un béluga",
+      "Un narval",
+      "Une baleine à bosse",
+      "Un requin pèlerin"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1849, des ouvriers d'un chantier de chemin de fer ont déterré à Charlotte des os de béluga, à environ 240 km de l'Atlantique. Ils datent de la mer de Champlain, un bras de mer d'il y a environ 12 000 ans.",
+    "source": "D'après Wikipédia — Delphinapterus leucas"
+  },
+  {
+    "id": "q-animaux-208",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "D'un mot grec signifiant quoi vient le nom « otarie » ?",
+    "choix": [
+      "Petite oreille",
+      "Nageoire agile",
+      "Lion des mers",
+      "Cou puissant"
+    ],
+    "bonneReponse": 0,
+    "explication": "Otarie vient du grec ōtárion, « petite oreille » : contrairement aux phoques, ces animaux ont des oreilles externes visibles. Le zoologiste François Péron a employé ce nom lors du voyage de Baudin, entre 1800 et 1804.",
+    "source": "D'après Wikipédia — Otariidae"
+  },
+  {
+    "id": "q-animaux-209",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Combien de temps par jour un éléphant de mer dort-il en moyenne pendant ses mois en mer ?",
+    "choix": [
+      "Environ deux heures",
+      "Environ huit heures",
+      "Environ douze heures",
+      "Environ seize heures"
+    ],
+    "bonneReponse": 0,
+    "explication": "Il dort par tranches d'un peu moins de 20 minutes, en coulant lentement, parfois jusqu'à 377 mètres. En tout, seulement deux heures par jour pendant sept mois : l'un des plus faibles temps de sommeil chez les mammifères.",
+    "source": "D'après Wikipédia — Éléphant de mer"
+  },
+  {
+    "id": "q-animaux-210",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque animal marin à sa particularité.",
+    "paires": [
+      {
+        "gauche": "Baleine à bosse",
+        "droite": "Pêche avec un filet de bulles",
+        "explication": "Elle souffle de l'air autour d'un banc de poissons pour l'enfermer dans un rideau de bulles."
+      },
+      {
+        "gauche": "Éléphant de mer",
+        "droite": "Plonge à plus de deux kilomètres",
+        "explication": "Le record mesuré dépasse deux kilomètres de profondeur, et il appartient à un éléphant de mer austral."
+      },
+      {
+        "gauche": "Béluga",
+        "droite": "Surnommé « canari des mers »",
+        "explication": "Ses sifflements, claquements et autres sons très variés, aigus, lui ont valu ce surnom."
+      },
+      {
+        "gauche": "Requin pèlerin",
+        "droite": "Filtre le plancton, gueule ouverte",
+        "explication": "Il avance lentement, bouche béante, et les lames de ses branchies retiennent le plancton."
+      }
+    ],
+    "explication": "Chez les grands animaux marins, la nourriture façonne les records : une pêche en équipe à coups de bulles, des plongées profondes, des chants variés et une gueule faite pour filtrer l'eau, chacun avec sa spécialité.",
+    "source": "D'après Wikipédia — Baleine à bosse"
   }
 ]

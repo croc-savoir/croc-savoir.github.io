@@ -3292,5 +3292,550 @@
     ],
     "explication": "Chez les grands animaux marins, la nourriture façonne les records : une pêche en équipe à coups de bulles, des plongées profondes, des chants variés et une gueule faite pour filtrer l'eau, chacun avec sa spécialité.",
     "source": "D'après Wikipédia — Baleine à bosse"
+  },
+  {
+    "id": "q-animaux-211",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que sait-on des deux grosses pinces du homard ?",
+    "choix": [
+      "L'une sert à couper, l'autre à broyer",
+      "Elles sont identiques et toutes deux tranchantes",
+      "L'une sert à nager, l'autre à creuser",
+      "Elles ne servent qu'à se défendre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le homard est un décapode : il a dix pattes, pinces comprises. Ses deux pinces ont des rôles différents, l'une pour couper, l'autre pour broyer. C'est ce qui le distingue de la langouste, dont la carapace est plus épineuse.",
+    "source": "D'après Wikipédia — Homard"
+  },
+  {
+    "id": "q-animaux-212",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Aux XVIIe et XVIIIe siècles, sur la côte atlantique des États-Unis, le homard était considéré comme un plat de luxe réservé aux riches.",
+    "reponse": false,
+    "explication": "C'est l'inverse : le homard était si abondant qu'on le jugeait bon pour les pauvres, voire pour fertiliser les champs. Dans le Massachusetts, une loi a même limité à deux fois par semaine les repas où on en servait.",
+    "source": "D'après Wikipédia — Homard"
+  },
+  {
+    "id": "q-animaux-213",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pour grossir d'un kilo, de combien de krill une baleine doit-elle environ se nourrir ?",
+    "choix": [
+      "100 kg",
+      "10 kg",
+      "1 000 kg",
+      "5 kg"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le rendement est très faible : il faut une centaine de kilos de krill pour qu'une baleine à fanons prenne un kilo. Elle en mange plusieurs tonnes par jour, d'où l'importance de ces minuscules crustacés dans la chaîne alimentaire.",
+    "source": "D'après Wikipédia — Euphausiacea"
+  },
+  {
+    "id": "q-animaux-214",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Les étoiles de mer ont un cerveau central qui commande leurs cinq bras.",
+    "reponse": false,
+    "explication": "Les étoiles de mer n'ont pas de cerveau. Leur système nerveux est réparti dans tout le corps, ce qui leur suffit pour bouger et réagir. Elles avancent grâce à de petits pieds tubulaires, sans jamais nager.",
+    "source": "D'après Wikipédia — Étoile de mer"
+  },
+  {
+    "id": "q-animaux-215",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Qui affirme en 1726 que les « fleurs » du corail sont en réalité des animaux ?",
+    "choix": [
+      "Jean-André Peyssonnel",
+      "René-Antoine Ferchault de Réaumur",
+      "Georges-Louis Leclerc de Buffon",
+      "Carl von Linné"
+    ],
+    "bonneReponse": 0,
+    "explication": "Peyssonnel soutient cette idée en 1726. D'abord attaqué par Réaumur et Bernard de Jussieu, il finit par convaincre après 30 années d'observations. Buffon tranche ensuite : les coraux appartiennent au règne animal.",
+    "source": "D'après Wikipédia — Corail"
+  },
+  {
+    "id": "q-animaux-216",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel petit crabe tient en permanence une anémone dans chacune de ses pinces pour se défendre ?",
+    "choix": [
+      "Le crabe boxeur",
+      "Le crabe violoniste",
+      "Le crabe vert",
+      "Le tourteau"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le crabe boxeur Lybia tessellata agite devant lui deux petites anémones aux tentacules urticants, comme des pompons armés. Ces anémones lui servent de défense contre ses adversaires.",
+    "source": "D'après Wikipédia — Anémone de mer"
+  },
+  {
+    "id": "q-animaux-217",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Quelle est la principale différence entre une anémone de mer et un corail dur ?",
+    "choix": [
+      "L'anémone n'a aucun squelette calcaire, le corail dur en fabrique un",
+      "L'anémone vit en eau douce, le corail en mer",
+      "L'anémone est un végétal, le corail un animal",
+      "L'anémone nage librement, le corail est fixé"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les deux sont des cnidaires proches, mais l'anémone est un polype solitaire et mou, sans squelette calcaire, alors que les coraux durs vivent en colonies et bâtissent un squelette qui finit par former les récifs.",
+    "source": "D'après Wikipédia — Anémone de mer"
+  },
+  {
+    "id": "q-animaux-218",
+    "domain": "animaux",
+    "format": "frise",
+    "question": "Remets ces moments de l'histoire des méduses dans l'ordre.",
+    "evenements": [
+      {
+        "label": "Réaumur appelle une méduse « gelée de mer »",
+        "annee": "1710"
+      },
+      {
+        "label": "Linné leur donne le nom de méduse",
+        "annee": "1746"
+      },
+      {
+        "label": "Péron et Lesueur décrivent 122 espèces",
+        "annee": "1810"
+      },
+      {
+        "label": "Haeckel publie Das System der Medusen",
+        "annee": "1880"
+      }
+    ],
+    "explication": "Réaumur invente « gelée de mer » en 1710, d'où l'anglais jellyfish. Linné choisit le nom de méduse en 1746, à cause des tentacules qui rappellent les serpents de la Gorgone. Haeckel s'appuiera sur les travaux de Péron.",
+    "source": "D'après Wikipédia — Méduse (animal)"
+  },
+  {
+    "id": "q-animaux-219",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "À quoi sert surtout le sépion, l'« os » de la seiche ?",
+    "choix": [
+      "À régler sa flottabilité",
+      "À broyer les crustacés dont elle se nourrit",
+      "À stocker son encre",
+      "À se défendre contre les prédateurs"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le sépion n'est pas un vrai os : c'est un squelette calcaire interne, vestige d'une coquille externe. Il règle la flottabilité de la seiche. On le retrouve souvent sur les plages, car les seiches meurent peu après la reproduction.",
+    "source": "D'après Wikipédia — Seiche commune"
+  },
+  {
+    "id": "q-animaux-220",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel inventeur a baptisé Nautilus un sous-marin expérimental proposé à Bonaparte en 1800 ?",
+    "choix": [
+      "Robert Fulton",
+      "David Bushnell",
+      "Jules Verne",
+      "Gustave Zédé"
+    ],
+    "bonneReponse": 0,
+    "explication": "Robert Fulton s'est inspiré du coquillage, qui plonge et remonte en ajustant le contenu de ses loges. Jules Verne reprendra le nom pour le sous-marin du capitaine Nemo dans Vingt mille lieues sous les mers.",
+    "source": "D'après Wikipédia — Nautilus (mollusque)"
+  },
+  {
+    "id": "q-animaux-221",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Les huîtres perlières sont de proches cousines des huîtres comestibles.",
+    "reponse": false,
+    "explication": "Les huîtres perlières appartiennent à une autre famille que les vraies huîtres comestibles. La plus grande, Pinctada maxima, a la taille d'une assiette. Les vraies huîtres, elles, forment des récifs et filtrent l'eau.",
+    "source": "D'après Wikipédia — Huître"
+  },
+  {
+    "id": "q-animaux-222",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "En France, quand la cueillette du gros escargot de Bourgogne est-elle interdite ?",
+    "choix": [
+      "Du 1er avril au 30 juin",
+      "Du 1er janvier au 31 mars",
+      "Du 1er juillet au 30 septembre",
+      "Du 1er octobre au 31 décembre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un arrêté de 1979 protège l'espèce en interdisant sa cueillette pendant la saison de reproduction, d'avril à juin. Cet escargot vit 7 à 8 ans en moyenne, mais son élevage est difficile et peu rentable.",
+    "source": "D'après Wikipédia — Helix pomatia"
+  },
+  {
+    "id": "q-animaux-223",
+    "domain": "animaux",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je vis dans les trois grands océans, entre 1 et 3 km de profondeur.",
+      "Mon mâle mesure moins de 3 cm, ma femelle environ 18 cm.",
+      "Mon nom scientifique associe le grec « noir » et le latin « grand animal marin ».",
+      "Ma lumière vient de bactéries qui vivent en symbiose avec moi.",
+      "Je pêche mes proies avec une canne à pêche lumineuse au-dessus de ma bouche."
+    ],
+    "reponse": "La baudroie abyssale",
+    "explication": "Seule la femelle porte la canne à pêche, une nageoire dorsale transformée dont le leurre brille grâce à des bactéries. Elle attend sa proie sans dépenser d'énergie. Elle n'a été filmée vivante que deux fois.",
+    "source": "D'après Wikipédia — Melanocetus"
+  },
+  {
+    "id": "q-animaux-224",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi appelle-t-on le bourdon terrestre le « cul-blanc » ?",
+    "choix": [
+      "Parce que l'extrémité de son abdomen est blanche",
+      "Parce qu'il pollinise surtout les fleurs blanches",
+      "Parce que son nid est creusé dans la craie",
+      "Parce que ses ailes sont blanches"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le bourdon terrestre se reconnaît à son abdomen terminé de blanc, avec un collier et un second segment orange ou jaune d'or. Il travaille dès l'aube, même par temps frais, et est élevé pour polliniser les cultures sous serre.",
+    "source": "D'après Wikipédia — Bourdon terrestre"
+  },
+  {
+    "id": "q-animaux-225",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Comment le frelon asiatique serait-il arrivé en France vers 2004 ?",
+    "choix": [
+      "Dans des conteneurs de poteries venues de Chine",
+      "Lâché volontairement par des apiculteurs",
+      "Porté par les vents depuis l'Espagne",
+      "Caché dans du bois importé d'Amérique"
+    ],
+    "bonneReponse": 0,
+    "explication": "Il est probablement arrivé dans le Lot-et-Garonne, dans des conteneurs de poteries chinoises débarqués au port du Havre. Depuis, son front d'invasion avance en moyenne d'environ 78 km par an.",
+    "source": "D'après Wikipédia — Vespa velutina"
+  },
+  {
+    "id": "q-animaux-226",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que signifie l'étymologie du mot « lépidoptère » ?",
+    "choix": [
+      "Ailes à écailles",
+      "Ailes de poussière",
+      "Corps velu",
+      "Vol de nuit"
+    ],
+    "bonneReponse": 0,
+    "explication": "Lépidoptère vient du grec lepis, « écaille », et pteron, « aile ». Les écailles sont des soies aplaties et colorées qui couvrent les ailes de ces insectes, dont les plus anciens fossiles remontent à 201 millions d'années.",
+    "source": "D'après Wikipédia — Lepidoptera"
+  },
+  {
+    "id": "q-animaux-227",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Comment le paon-du-jour repousse-t-il un mulot pendant l'hiver ?",
+    "choix": [
+      "En dévoilant ses ocelles et en produisant un sifflement",
+      "En projetant un liquide piquant",
+      "En faisant le mort sur le sol",
+      "En s'envolant à grande vitesse"
+    ],
+    "bonneReponse": 0,
+    "explication": "Il écarte ses ailes et les frotte l'une contre l'autre, ce qui crée un sifflement. Dans une étude suédoise, 23 papillons sur 24 ont survécu à leur première rencontre avec le rongeur quand ils ont battu des ailes.",
+    "source": "D'après Wikipédia — Paon-du-jour"
+  },
+  {
+    "id": "q-animaux-228",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque animal marin à sa particularité.",
+    "paires": [
+      {
+        "gauche": "Le krill",
+        "droite": "Des organes lumineux, les photophores",
+        "explication": "La plupart des espèces de krill sont bioluminescentes."
+      },
+      {
+        "gauche": "Le nautile",
+        "droite": "Des loges remplies de gaz pour flotter",
+        "explication": "Il règle sa flottabilité comme les ballasts d'un sous-marin."
+      },
+      {
+        "gauche": "L'étoile de mer",
+        "droite": "De petits pieds tubulaires adhésifs",
+        "explication": "Ils lui permettent de ramper et même de grimper sur une paroi verticale."
+      },
+      {
+        "gauche": "La méduse",
+        "droite": "Un corps presque entièrement fait d'eau",
+        "explication": "Son corps gélatineux est composé en grande partie d'eau."
+      }
+    ],
+    "explication": "Ces quatre animaux marins ont chacun une adaptation étonnante : lumière, ballast, pieds collants et corps presque entièrement composé d'eau.",
+    "source": "D'après Wikipédia — Euphausiacea"
+  },
+  {
+    "id": "q-animaux-229",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi les ailes du morpho bleu paraissent-elles bleues ?",
+    "choix": [
+      "La structure microscopique de leurs écailles réfléchit la lumière",
+      "Elles contiennent un pigment bleu issu des fleurs butinées",
+      "Elles sont recouvertes d'une fine poussière bleue",
+      "Le papillon sécrète un liquide bleu en volant"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le bleu du morpho n'est pas un pigment : ce sont les écailles, empilées en fines lamelles, qui réfléchissent la lumière et la font interférer. C'est une coloration structurelle, qui change selon l'angle d'observation.",
+    "source": "D'après Wikipédia — Morpho"
+  },
+  {
+    "id": "q-animaux-230",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le bombyx du mûrier, le papillon du ver à soie, vit encore à l'état sauvage dans les forêts de Chine.",
+    "reponse": false,
+    "explication": "Le bombyx du mûrier est inconnu à l'état sauvage : il est le produit de plus de 5 000 ans de sélection. Il a perdu la capacité de voler et dépend des éleveurs. Son cousin sauvage est Bombyx mandarina.",
+    "source": "D'après Wikipédia — Bombyx du mûrier"
+  },
+  {
+    "id": "q-animaux-231",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Comment appelle-t-on le changement de forme et de comportement du criquet pèlerin quand ses effectifs augmentent ?",
+    "choix": [
+      "Le polymorphisme de phase",
+      "La métamorphose complète",
+      "La diapause",
+      "Le mimétisme"
+    ],
+    "bonneReponse": 0,
+    "explication": "Quand la population devient dense, l'insecte quitte sa vie solitaire et discrète pour une vie en groupe : couleur, comportement et goût du voyage changent. Cette transformation donne naissance aux essaims.",
+    "source": "D'après Wikipédia — Criquet pèlerin"
+  },
+  {
+    "id": "q-animaux-232",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Quelle est la différence entre le pou de tête et le pou de corps ?",
+    "choix": [
+      "Le pou de tête vit sur le cuir chevelu, le pou de corps dans les plis de vêtements peu lavés",
+      "Le pou de tête a des ailes, pas le pou de corps",
+      "Le pou de tête mange des plantes, le pou de corps du sang",
+      "Le pou de tête vit dans l'eau, le pou de corps sur terre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les deux sont des sous-espèces de Pediculus humanus. Le pou de tête reste sur le cuir chevelu et pond sur les cheveux ; le pou de corps vit dans les vêtements peu lavés et se nourrit sur la peau. Le second descend du premier.",
+    "source": "D'après Wikipédia — Pou"
+  },
+  {
+    "id": "q-animaux-233",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que signifie littéralement le nom « drosophile », tiré du grec ?",
+    "choix": [
+      "Qui aime la rosée",
+      "Qui mange les fruits",
+      "Petite mouche rouge",
+      "Qui aime le vinaigre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Drosophile vient du grec drosos, « rosée », et philos, « qui aime ». Son surnom de mouche du vinaigre, lui, rappelle son attirance pour les odeurs de fermentation, et contredit l'adage sur les mouches et le vinaigre.",
+    "source": "D'après Wikipédia — Drosophile"
+  },
+  {
+    "id": "q-animaux-234",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "La fourmi rousse des bois se défend avec un dard venimeux, comme les guêpes.",
+    "reponse": false,
+    "explication": "Les fourmis rousses des bois n'ont pas de dard. Elles recourbent l'abdomen et projettent un jet d'acide formique, souvent à plus de 50 cm. Elles peuvent aussi mordre avec leurs mandibules puis injecter de l'acide dans la blessure.",
+    "source": "D'après Wikipédia — Formica"
+  },
+  {
+    "id": "q-animaux-235",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Combien d'œufs la reine d'une fourmi légionnaire peut-elle pondre par mois ?",
+    "choix": [
+      "De 3 à 4 millions",
+      "Environ 300",
+      "Environ 30 000",
+      "Une cinquantaine"
+    ],
+    "bonneReponse": 0,
+    "explication": "La reine, sans ailes et à l'abdomen énorme, pond de 3 à 4 millions d'œufs par mois. Toutes les ouvrières d'une colonie, qui compte des millions d'individus, sont donc les filles d'une seule reine.",
+    "source": "D'après Wikipédia — Fourmi légionnaire"
+  },
+  {
+    "id": "q-animaux-236",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Avec quoi les guêpes sociales fabriquent-elles le « carton » de leur nid ?",
+    "choix": [
+      "Du bois mâché mélangé à leur salive",
+      "De la cire sécrétée par leur corps",
+      "De la boue séchée au soleil",
+      "Du pollen aggloméré"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les guêpes sociales grattent du bois, le mâchent et le mêlent à leur salive pour obtenir une pâte proche du papier. Elle sert à bâtir les alvéoles du nid, le guêpier, que la colonie abandonne à la fin de l'année.",
+    "source": "D'après Wikipédia — Guêpe"
+  },
+  {
+    "id": "q-animaux-237",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "À quoi le scarabée sacré était-il associé dans l'Égypte antique ?",
+    "choix": [
+      "Au soleil et au dieu Rê",
+      "À la lune et à Isis",
+      "Au Nil et à ses crues",
+      "Aux morts et à Anubis"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le scarabée sacré, Scarabaeus sacer, était vénéré comme un symbole du soleil et de Rê. Des amulettes en forme de scarabée étaient échangées dans tout le monde méditerranéen.",
+    "source": "D'après Wikipédia — Scarabaeidae"
+  },
+  {
+    "id": "q-animaux-238",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel grillon d'Europe est le seul à se creuser un terrier ?",
+    "choix": [
+      "Le grillon champêtre",
+      "Le grillon des cheminées",
+      "Le grillon d'eau",
+      "Le grillon des bois"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le grillon champêtre creuse un conduit de 20 à 30 cm de long avec ses mandibules, terminé par une chambre où il s'abrite et passe l'hiver. Il ne vole ni ne grimpe, ce qui rend sa recolonisation lente.",
+    "source": "D'après Wikipédia — Gryllus campestris"
+  },
+  {
+    "id": "q-animaux-239",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Quelle est la différence entre un mulet et un bardot ?",
+    "choix": [
+      "Le mulet naît d'un âne et d'une jument, le bardot d'un étalon et d'une ânesse",
+      "Le mulet naît d'un étalon et d'une ânesse, le bardot d'un âne et d'une jument",
+      "Le mulet est sauvage, le bardot domestique",
+      "Le mulet a des cornes, le bardot n'en a pas"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mulet est l'hybride d'un âne mâle (le baudet) et d'une jument ; le bardot est celui d'un cheval étalon et d'une ânesse. Tous deux sont des hybrides d'âne et de cheval, mais pas dans le même sens.",
+    "source": "D'après Wikipédia — Âne"
+  },
+  {
+    "id": "q-animaux-240",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le chien est la première espèce animale domestiquée par l'être humain, avant l'agriculture.",
+    "reponse": true,
+    "explication": "Le chien descend du loup gris et a été domestiqué par des chasseurs-cueilleurs, bien avant les premiers champs. Le chien de Bonn-Oberkassel, vieux d'environ 14 000 ans, est le plus ancien reconnu avec certitude.",
+    "source": "D'après Wikipédia — Chien"
+  },
+  {
+    "id": "q-animaux-241",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi le chat peut-il ronronner mais pas rugir ?",
+    "choix": [
+      "Son os hyoïde est entièrement ossifié",
+      "Ses cordes vocales sont trop courtes",
+      "Sa langue est trop rugueuse",
+      "Son larynx est trop proche de son nez"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'os hyoïde du chat domestique, qui soutient la langue et le larynx, est entièrement ossifié. Cette particularité lui permet de ronronner, mais pas de rugir comme les grands félins.",
+    "source": "D'après Wikipédia — Chat"
+  },
+  {
+    "id": "q-animaux-242",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Combien de temps dure la gestation d'une jument ?",
+    "choix": [
+      "Onze mois",
+      "Six mois",
+      "Neuf mois",
+      "Quatorze mois"
+    ],
+    "bonneReponse": 0,
+    "explication": "La jument porte son petit pendant onze mois. Le poulain, très vite capable de se lever et de courir, est conçu pour suivre le troupeau et fuir : c'est la clé de survie d'un herbivore qui n'a que la vitesse pour se défendre.",
+    "source": "D'après Wikipédia — Cheval"
+  },
+  {
+    "id": "q-animaux-243",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Comment la cigale mâle produit-elle son chant ?",
+    "choix": [
+      "Grâce à des membranes de l'abdomen, les cymbales",
+      "En frottant ses pattes arrière contre ses ailes",
+      "En faisant vibrer ses antennes",
+      "En claquant ses mandibules"
+    ],
+    "bonneReponse": 0,
+    "explication": "La cigale ne stridule pas comme le criquet : un muscle déforme des membranes de l'abdomen, les cymbales, dont le son est amplifié par une caisse de résonance. Ce chant attire les femelles de sa propre espèce.",
+    "source": "D'après Wikipédia — Cicadidae"
+  },
+  {
+    "id": "q-animaux-244",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi le mâle du lucane est-il appelé « cerf-volant » ?",
+    "choix": [
+      "Ses mandibules ressemblent à des bois de cerf et il vole",
+      "Il saute aussi haut qu'un cerf",
+      "Il vit seulement dans les forêts où paissent des cerfs",
+      "Il se nourrit de bois de cerf tombés"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les grosses mandibules du mâle évoquent des bois de cerf, et ce coléoptère est capable de voler, surtout au crépuscule. La femelle, plus petite, est la grande biche. Le mâle utilise ses mandibules pour combattre.",
+    "source": "D'après Wikipédia — Lucanus cervus"
+  },
+  {
+    "id": "q-animaux-245",
+    "domain": "animaux",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mes larves produisent déjà de la lumière.",
+      "Je suis un coléoptère, pas une mouche.",
+      "Ma lumière est froide : elle ne contient ni infrarouge ni ultraviolet.",
+      "Chez moi, la femelle ne vole souvent pas et ressemble à sa larve.",
+      "Au Japon, je suis déclarée trésor national."
+    ],
+    "reponse": "La luciole",
+    "explication": "Les lucioles et vers luisants (Lampyridae) émettent une lumière froide par bioluminescence. Au Japon, elles sont déclarées trésor national. Leur déclin est lié aux insecticides, à la pollution lumineuse et au climat.",
+    "source": "D'après Wikipédia — Lampyridae"
+  },
+  {
+    "id": "q-animaux-246",
+    "domain": "animaux",
+    "format": "frise",
+    "question": "Remets ces moments de l'histoire des insectes dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Un pou figure dans la Micrographia de Robert Hooke",
+        "annee": "1667"
+      },
+      {
+        "label": "Malpighi consacre une étude au ver à soie",
+        "annee": "1669"
+      },
+      {
+        "label": "Raphaël Dubois explique la lumière des lucioles par une enzyme",
+        "annee": "1887"
+      },
+      {
+        "label": "Sean Brady relie les fourmis légionnaires à un ancêtre commun",
+        "annee": "2003"
+      },
+      {
+        "label": "Le génome du ver à soie est publié",
+        "annee": "2008"
+      }
+    ],
+    "explication": "Hooke observe un pou au microscope en 1667, Malpighi étudie le ver à soie en 1669, Dubois décrit la luciférase en 1887, Brady publie en 2003 son étude sur les fourmis légionnaires et le génome du bombyx paraît en 2008.",
+    "source": "D'après Wikipédia — Entomologie"
   }
 ]

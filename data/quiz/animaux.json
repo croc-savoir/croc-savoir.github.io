@@ -1834,7 +1834,7 @@
         "explication": "Le nom a été adopté par les colons à partir du quechua péruvien."
       }
     ],
-    "explication": "Les noms d'animaux racontent souvent leur histoire : mythologie romaine, cri nocturne, armure ou langue andine.",
+    "explication": "Les noms d'animaux racontent souvent leur histoire : le lémurien vient de la mythologie romaine, le diable de Tasmanie d'un cri nocturne, le tatou d'une armure et le lama d'une langue andine.",
     "source": "D'après Wikipédia — Lemuriformes"
   },
   {
@@ -4401,5 +4401,580 @@
     ],
     "explication": "Le ptérodactyle est décrit en 1784 et nommé par Cuvier en 1809. L'archéoptéryx apparaît en 1861, deux ans après Darwin. Le Velociraptor est découvert en 1923 dans le Gobi, et le cœlacanthe, que l'on croyait éteint, est retrouvé vivant en 1938.",
     "source": "D'après Wikipédia — Paléontologie"
+  },
+  {
+    "id": "q-animaux-283",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que signifie le nom « Smilodon », donné en 1842 au félin à « dents de sabre » ?",
+    "choix": [
+      "Dents de scalpel",
+      "Dents de sabre",
+      "Griffes de tigre",
+      "Mâchoire de géant"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Danois Peter Wilhelm Lund a composé ce nom avec deux mots grecs : smilê, un « scalpel » à deux tranchants, et odous, la « dent ». Quant au nom d'espèce populator, il veut dire « le destructeur » en latin.",
+    "source": "D'après Wikipédia — Smilodon"
+  },
+  {
+    "id": "q-animaux-284",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le smilodon, surnommé « tigre à dents de sabre », est un proche parent du tigre actuel.",
+    "reponse": false,
+    "explication": "Le smilodon appartient aux Machairodontinae, une sous-famille éteinte dont la lignée s'est séparée de celle des félins actuels il y a environ 20 millions d'années. Le surnom de « tigre » est donc trompeur.",
+    "source": "D'après Wikipédia — Smilodon"
+  },
+  {
+    "id": "q-animaux-285",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Dans la danse en huit des abeilles, que révèle l'angle de la ligne droite avec la verticale ?",
+    "choix": [
+      "L'angle entre la direction du soleil et celle de la nourriture",
+      "La hauteur à laquelle poussent les fleurs",
+      "La quantité de nectar disponible",
+      "Le nombre de compagnes à recruter"
+    ],
+    "bonneReponse": 0,
+    "explication": "Sur le rayon vertical, le haut représente la direction du soleil. Si la nourriture est à 30° à droite du soleil, la ligne droite penche de 30° à droite de la verticale. La distance, elle, est indiquée par la durée du frétillement.",
+    "source": "D'après Wikipédia — Danse des abeilles"
+  },
+  {
+    "id": "q-animaux-286",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que signifie le nom « diplodocus », inventé par Othniel Charles Marsh en 1878 ?",
+    "choix": [
+      "Double poutre",
+      "Long cou",
+      "Queue de fouet",
+      "Lézard géant"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le nom vient du grec diploos, « double », et dokos, « poutre » : sous la queue, des os forment une double poutre. On les croyait propres au diplodocus, mais on en a trouvé chez d'autres dinosaures, comme Mamenchisaurus.",
+    "source": "D'après Wikipédia — Diplodocus"
+  },
+  {
+    "id": "q-animaux-287",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel oiseau est cité comme exemple de prédateur spécialiste des lemmings ?",
+    "choix": [
+      "Le harfang des neiges",
+      "Le faucon pèlerin",
+      "Le lynx boréal",
+      "Le goéland"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un prédateur spécialiste se nourrit d'une ou de quelques espèces seulement, comme le harfang des neiges avec les lemmings. Les généralistes, eux, mangent un large éventail de proies et exercent un contrôle plus constant sur leurs populations.",
+    "source": "D'après Wikipédia — Prédation"
+  },
+  {
+    "id": "q-animaux-288",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Les mastodontes sont de vrais mammouths.",
+    "reponse": false,
+    "explication": "Au sens strict, les mastodontes sont des Mammutidés, alors que les vrais mammouths, du genre Mammuthus, appartiennent à la famille des éléphants. Leurs dents diffèrent : des bosses arrondies chez les mastodontes, des lamelles chez les mammouths.",
+    "source": "D'après Wikipédia — Mastodonte"
+  },
+  {
+    "id": "q-animaux-289",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "À quel animal actuel le glyptodon est-il apparenté ?",
+    "choix": [
+      "Le tatou",
+      "Le paresseux",
+      "Le rhinocéros",
+      "La tortue"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le glyptodon était un tatou géant : sa cuirasse en coupole était faite de plaques osseuses soudées dans la peau, comme la carapace des tatous. Pourtant, des savants l'ont longtemps attribuée à un paresseux géant, le Megatherium.",
+    "source": "D'après Wikipédia — Glyptodon"
+  },
+  {
+    "id": "q-animaux-290",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que signifie littéralement le mot « transhumance » ?",
+    "choix": [
+      "Traverser la terre",
+      "Monter vers le soleil",
+      "Suivre le troupeau",
+      "Quitter la plaine"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot français vient du latin trans, « à travers », et humus, « terre ». Il désigne le déplacement saisonnier des troupeaux entre pâturages d'hiver et d'été, une pratique inscrite par l'UNESCO en 2023.",
+    "source": "D'après Wikipédia — Transhumance"
+  },
+  {
+    "id": "q-animaux-291",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Qu'est-ce qui guide les papillons bogongs australiens vers des montagnes qu'ils n'ont jamais vues ?",
+    "choix": [
+      "Le champ magnétique et les étoiles",
+      "L'odeur des fleurs d'altitude",
+      "Le vent dominant",
+      "Le cours des rivières"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les bogongs parcourent plusieurs centaines de kilomètres pour passer l'été dans les Alpes australiennes. Ils s'orientent grâce au champ magnétique et aux étoiles : ce sont les premiers invertébrés connus pour une navigation astronomique.",
+    "source": "D'après Wikipédia — Migration animale"
+  },
+  {
+    "id": "q-animaux-292",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque animal à sa façon de communiquer.",
+    "paires": [
+      {
+        "gauche": "La seiche",
+        "droite": "Elle change de couleur",
+        "explication": "Ses cellules pigmentaires, les chromatophores, modifient la couleur de sa peau."
+      },
+      {
+        "gauche": "Un poisson d'eau trouble",
+        "droite": "Il émet des signaux électriques",
+        "explication": "Certains poissons utilisent des signaux électriques, surtout en milieu trouble."
+      },
+      {
+        "gauche": "Le singe vervet",
+        "droite": "Il pousse un cri selon le prédateur",
+        "explication": "Il a des cris différents pour un aigle, un léopard ou un serpent."
+      },
+      {
+        "gauche": "La luciole",
+        "droite": "Elle module ses éclairs",
+        "explication": "Elle modifie la fréquence et la forme de ses signaux lumineux."
+      }
+    ],
+    "explication": "Les animaux disposent de nombreux canaux : couleur, électricité, sons ou lumière. Chaque espèce a son propre code, parfois même chaque communauté, et les jeunes doivent souvent apprendre à l'utiliser.",
+    "source": "D'après Wikipédia — Communication animale"
+  },
+  {
+    "id": "q-animaux-293",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Quelle est la différence entre un chant et un cri chez les oiseaux ?",
+    "choix": [
+      "Le chant est plus long et plus complexe, et sert surtout à séduire ou à défendre un territoire ; le cri sert à alerter ou à rester en contact",
+      "Le chant est réservé aux mâles et le cri aux femelles",
+      "Le chant est produit par la syrinx, le cri par le larynx",
+      "Le chant est toujours inné, le cri toujours appris"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les ornithologues les distinguent selon leur durée, leur complexité et leur usage. Les chants servent à défendre un territoire ou à courtiser ; les cris, plus simples, servent à donner l'alerte, réclamer à manger ou garder le contact.",
+    "source": "D'après Wikipédia — Vocalisation des oiseaux"
+  },
+  {
+    "id": "q-animaux-294",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quelle fable d'Ésope met en scène un oiseau qui jette des cailloux dans un récipient pour faire monter l'eau ?",
+    "choix": [
+      "Le corbeau et la cruche",
+      "Le corbeau et le renard",
+      "Le renard et la cigogne",
+      "Le lièvre et la tortue"
+    ],
+    "bonneReponse": 0,
+    "explication": "Dans cette fable, un corbeau laisse tomber des cailloux dans une cruche pour pouvoir boire. Pline l'Ancien est le premier à affirmer que le récit reflète le comportement réel des corvidés, capables de comprendre le déplacement de l'eau.",
+    "source": "D'après Wikipédia — Intelligence animale"
+  },
+  {
+    "id": "q-animaux-295",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Toutes les espèces de fourmis sont eusociales.",
+    "reponse": true,
+    "explication": "Chez les fourmis, toutes les espèces vivent en colonies où des reines, des ouvrières et parfois des soldats se partagent le travail. Chez les abeilles et les guêpes, seule une partie des espèces est eusociale.",
+    "source": "D'après Wikipédia — Eusocialité"
+  },
+  {
+    "id": "q-animaux-296",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Chez quel oiseau le comportement territorial a-t-il été décrit pour la première fois, en 1678 ?",
+    "choix": [
+      "Le rossignol",
+      "Le merle noir",
+      "Le pinson des arbres",
+      "Le rouge-gorge"
+    ],
+    "bonneReponse": 0,
+    "explication": "John Ray a observé en 1678 le comportement territorial chez le rossignol européen. Deux siècles plus tard, Bernard Altum en décrit l'essentiel, et la première formulation de la notion est attribuée à H. Eliot Howard.",
+    "source": "D'après Wikipédia — Territorialité"
+  },
+  {
+    "id": "q-animaux-297",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Dans une expérience de Konrad Lorenz, que suivaient en cercle des oies imprégnées ?",
+    "choix": [
+      "Une boîte posée sur un train miniature",
+      "Un ballon gonflé",
+      "Un chiffon rouge",
+      "Un cerf-volant"
+    ],
+    "bonneReponse": 0,
+    "explication": "Lorenz a montré que les oisons s'attachent au premier objet en mouvement qui convient, pendant une période critique de quelques heures après la naissance. Certains ont même suivi une boîte posée sur un train miniature.",
+    "source": "D'après Wikipédia — Empreinte (psychologie)"
+  },
+  {
+    "id": "q-animaux-298",
+    "domain": "animaux",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis un petit crustacé repéré au Pérou dans les années 1920.",
+      "Des pêcheurs m'ont trouvé dans la bouche de poissons pris au filet.",
+      "Je suis un parasite peu nocif pour mon hôte.",
+      "Je suis le seul parasite connu qui remplace un organe de son hôte.",
+      "Chez certains poissons, je tiens lieu de langue."
+    ],
+    "reponse": "Cymothoa exigua",
+    "explication": "Ce petit crustacé, repéré au Pérou dès les années 1920, vit dans la bouche de certains poissons. Il y tient lieu de langue, ce qui en fait un cas unique parmi les parasites : aucun autre n'est connu pour jouer le rôle d'un organe de son hôte.",
+    "source": "D'après Wikipédia — Parasitisme"
+  },
+  {
+    "id": "q-animaux-299",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi beaucoup d'oiseaux et de poissons ont-ils le ventre plus clair que le dos ?",
+    "choix": [
+      "Pour être moins visibles, vus d'en haut comme d'en bas",
+      "Pour mieux se réchauffer au soleil",
+      "Pour attirer les partenaires",
+      "Pour effrayer les prédateurs"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un prédateur qui arrive du dessus distingue mal un dos sombre sur un fond sombre ; celui qui arrive du dessous voit mal un ventre clair sur un fond baigné de soleil. Ce procédé de camouflage concerne aussi les requins.",
+    "source": "D'après Wikipédia — Camouflage"
+  },
+  {
+    "id": "q-animaux-300",
+    "domain": "animaux",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire du smilodon dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Lund nomme le genre Smilodon",
+        "annee": "1842"
+      },
+      {
+        "label": "Les grandes canines sont enfin connues de Lund",
+        "annee": "1846"
+      },
+      {
+        "label": "Leidy décrit un fragment trouvé au Texas, futur S. fatalis",
+        "annee": "1869"
+      },
+      {
+        "label": "Début des fouilles de La Brea à Los Angeles",
+        "annee": "1875"
+      },
+      {
+        "label": "Cope propose le nom S. fatalis et nomme S. gracilis",
+        "annee": "1880"
+      }
+    ],
+    "explication": "Lund nomme le genre en 1842 sans connaître ses canines, découvertes en 1846. Les fossiles nord-américains suivent : Leidy en 1869, La Brea à partir de 1875, puis Cope en 1880 avec S. fatalis et S. gracilis.",
+    "source": "D'après Wikipédia — Smilodon"
+  },
+  {
+    "id": "q-animaux-301",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Qui a employé le mot « éthologie » dans son sens actuel en 1854 ?",
+    "choix": [
+      "Isidore Geoffroy Saint-Hilaire",
+      "Buffon",
+      "Jean-Henri Fabre",
+      "Konrad Lorenz"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le naturaliste français Isidore Geoffroy Saint-Hilaire emploie le mot en 1854 ; il signifie « étude des mœurs », au sens de comportement. Aristote observait déjà les animaux, mais la discipline moderne naît au XXe siècle.",
+    "source": "D'après Wikipédia — Éthologie"
+  },
+  {
+    "id": "q-animaux-302",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le prix Nobel de 1973 attribué à Lorenz, Tinbergen et von Frisch est le seul jamais remis à des spécialistes du comportement.",
+    "reponse": true,
+    "explication": "Les trois fondateurs de l'éthologie moderne ont été récompensés en médecine, en 1973, pour leurs travaux sur l'organisation du comportement individuel et social. C'est le seul Nobel décerné dans ce domaine.",
+    "source": "D'après Wikipédia — Instinct"
+  },
+  {
+    "id": "q-animaux-303",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel oiseau construit son nid en cousant deux grandes feuilles ensemble ?",
+    "choix": [
+      "La fauvette couturière",
+      "La sylvette couronnée",
+      "Le tisserin social",
+      "Le martin-pêcheur"
+    ],
+    "bonneReponse": 0,
+    "explication": "La fauvette couturière perce des trous le long de deux grandes feuilles avec son bec, puis les coud avec des fibres végétales pour former un cône. La sylvette couronnée, elle, bâtit un nid d'argile.",
+    "source": "D'après Wikipédia — Nid"
+  },
+  {
+    "id": "q-animaux-304",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque oiseau à son type de nid.",
+    "paires": [
+      {
+        "gauche": "Fauvette couturière",
+        "droite": "Cône de feuilles cousues",
+        "explication": "Elle perce des trous dans deux feuilles et les coud avec des fibres."
+      },
+      {
+        "gauche": "Sylvette couronnée",
+        "droite": "Nid rond en argile",
+        "explication": "Son nid en argile pèse parfois cent fois plus que lui."
+      },
+      {
+        "gauche": "Tisserin social",
+        "droite": "Nid collectif géant",
+        "explication": "Un seul nid commun peut abriter jusqu'à 300 couples."
+      },
+      {
+        "gauche": "Martin-pêcheur",
+        "droite": "Galerie dans une berge",
+        "explication": "Il creuse un tunnel terminé par une chambre où il pond."
+      }
+    ],
+    "explication": "Chaque oiseau a un style de nid caractéristique : cousu, modelé en argile, collectif ou creusé. Ces savoir-faire sont largement innés, ce qui illustre le rôle de l'instinct dans la construction.",
+    "source": "D'après Wikipédia — Nid"
+  },
+  {
+    "id": "q-animaux-305",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Dans la danse frétillante des abeilles, qu'est-ce qui indique la direction de la source de nourriture ?",
+    "choix": [
+      "L'angle de l'axe de la danse par rapport à la verticale",
+      "La vitesse du frétillement",
+      "L'odeur portée par la danseuse",
+      "La durée de la danse"
+    ],
+    "bonneReponse": 0,
+    "explication": "Karl von Frisch a montré que l'axe de la danse, comparé à la verticale du rayon, donne la direction par rapport au soleil. La vitesse du frétillement indique la distance, et l'odeur la nature des fleurs.",
+    "source": "D'après Wikipédia — Karl von Frisch"
+  },
+  {
+    "id": "q-animaux-306",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Quelle est la différence entre un venin et un poison ?",
+    "choix": [
+      "Le venin est injecté activement par un animal, le poison agit passivement quand on l'ingère ou le touche",
+      "Le venin vient des plantes, le poison des animaux",
+      "Le venin est toujours mortel, le poison jamais",
+      "Le venin s'avale, le poison s'injecte"
+    ],
+    "bonneReponse": 0,
+    "explication": "Un animal venimeux injecte sa toxine par morsure ou piqûre. Un animal ou une plante vénéneux ne l'injecte pas : le danger vient du contact ou de l'ingestion, comme avec le fugu, dont l'ingestion peut être mortelle.",
+    "source": "D'après Wikipédia — Venin"
+  },
+  {
+    "id": "q-animaux-307",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Parmi ces poissons, lequel peut produire jusqu'à 600 volts ?",
+    "choix": [
+      "L'anguille électrique",
+      "La torpille",
+      "Le silure électrique",
+      "Le poisson-éléphant"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'anguille électrique peut atteindre 600 volts, le silure électrique 350 et la torpille 200, mais avec un courant plus intense. Le poisson-éléphant, lui, n'émet qu'un courant très faible pour s'orienter.",
+    "source": "D'après Wikipédia — Poisson électrique"
+  },
+  {
+    "id": "q-animaux-308",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Les poissons-éléphants utilisent de fortes décharges électriques pour assommer leurs proies.",
+    "reponse": false,
+    "explication": "Ce sont des poissons faiblement électriques : leur courant, trop faible pour assommer une proie, leur sert à s'orienter, à chercher de la nourriture et à communiquer, même dans une eau trouble.",
+    "source": "D'après Wikipédia — Poisson électrique"
+  },
+  {
+    "id": "q-animaux-309",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel point commun original lie Nikolaas Tinbergen à son frère Jan ?",
+    "choix": [
+      "Ce sont les seuls frères à avoir chacun reçu un prix Nobel",
+      "Ils ont reçu le Nobel la même année",
+      "Tous deux étaient ornithologues",
+      "Tous deux ont enseigné à Oxford"
+    ],
+    "bonneReponse": 0,
+    "explication": "Nikolaas a reçu le Nobel de médecine en 1973, et Jan le premier prix de la banque de Suède en économie en 1969. Un troisième frère, Luuk, était aussi un biologiste réputé. Ce sont les seuls frères à avoir chacun reçu un Nobel.",
+    "source": "D'après Wikipédia — Nikolaas Tinbergen"
+  },
+  {
+    "id": "q-animaux-310",
+    "domain": "animaux",
+    "format": "frise",
+    "question": "Remets dans l'ordre ces étapes de la vie de Nikolaas Tinbergen.",
+    "evenements": [
+      {
+        "label": "Il publie sa thèse de doctorat",
+        "annee": "1932"
+      },
+      {
+        "label": "Il publie L'Étude de l'instinct",
+        "annee": "1951"
+      },
+      {
+        "label": "Il pose ses quatre questions sur le comportement",
+        "annee": "1963"
+      },
+      {
+        "label": "Il reçoit le prix Nobel de médecine",
+        "annee": "1973"
+      }
+    ],
+    "explication": "Thèse en 1932, livre sur l'instinct en 1951, article sur les buts et méthodes de l'éthologie en 1963, puis Nobel en 1973 avec Lorenz et von Frisch : une carrière qui a façonné la discipline.",
+    "source": "D'après Wikipédia — Nikolaas Tinbergen"
+  },
+  {
+    "id": "q-animaux-311",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Où Dian Fossey a-t-elle fondé le centre de recherche de Karisoke, en 1967 ?",
+    "choix": [
+      "Dans les montagnes des Virunga, au Rwanda",
+      "Au parc de Gombe, en Tanzanie",
+      "Dans les forêts de Bornéo",
+      "Sur le plateau du Serengeti"
+    ],
+    "bonneReponse": 0,
+    "explication": "Karisoke se trouve dans la province de Ruhengeri, au cœur des volcans Virunga côté rwandais. Fossey y a étudié les gorilles des montagnes jusqu'à sa mort, en 1985, et y est enterrée.",
+    "source": "D'après Wikipédia — Dian Fossey"
+  },
+  {
+    "id": "q-animaux-312",
+    "domain": "animaux",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je suis née à San Francisco en 1932 et j'ai d'abord été ergothérapeute.",
+      "Louis Leakey m'a envoyée étudier des grands singes dans la nature.",
+      "J'ai créé le centre de recherche de Karisoke en 1967.",
+      "Mon livre de mémoires a été adapté au cinéma en 1988.",
+      "J'ai observé les gorilles des montagnes au Rwanda."
+    ],
+    "reponse": "Dian Fossey",
+    "explication": "Dian Fossey a étudié les gorilles des Virunga pendant une vingtaine d'années. Son livre Gorilles dans la brume, adapté au cinéma en 1988, a fait connaître au grand public le sort de ces animaux.",
+    "source": "D'après Wikipédia — Dian Fossey"
+  },
+  {
+    "id": "q-animaux-313",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quelle récompense le film Le Monde du silence, de Cousteau et Louis Malle, a-t-il obtenue à Cannes en 1956 ?",
+    "choix": [
+      "La Palme d'or",
+      "Le Grand Prix du jury",
+      "Le prix de la mise en scène",
+      "La Caméra d'or"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le Monde du silence obtient la Palme d'or en 1956, un exploit pour un documentaire : il fut le seul à la recevoir jusqu'en 2004. Il est l'un des premiers films à montrer les profondeurs marines en couleurs.",
+    "source": "D'après Wikipédia — Jacques-Yves Cousteau"
+  },
+  {
+    "id": "q-animaux-314",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi E. O. Wilson, à 18 ans, passe-t-il de la collection de mouches à celle des fourmis ?",
+    "choix": [
+      "Les épingles à insectes manquaient pendant la guerre",
+      "Un professeur le lui a ordonné",
+      "Il avait peur des mouches",
+      "Il avait découvert une espèce de fourmi inconnue"
+    ],
+    "bonneReponse": 0,
+    "explication": "Pendant la Seconde Guerre mondiale, les épingles à insectes se faisaient rares. Les fourmis, elles, se rangent dans de petits tubes : Wilson s'y consacre et devient le plus grand spécialiste mondial de ces insectes.",
+    "source": "D'après Wikipédia — Edward Osborne Wilson"
+  },
+  {
+    "id": "q-animaux-315",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Dans une expérience de Frans de Waal, un capucin qui reçoit un concombre pendant que son voisin reçoit du raisin pour la même tâche réagit avec colère.",
+    "reponse": true,
+    "explication": "Le singe moins bien récompensé secoue les barreaux et jette son concombre. Cette scène, devenue virale, illustre l'aversion pour l'inégalité chez les animaux, sentiment qu'on croyait propre à l'humain.",
+    "source": "D'après Wikipédia — Frans de Waal"
+  },
+  {
+    "id": "q-animaux-316",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque zoologiste à l'animal ou au groupe qu'il a étudié.",
+    "paires": [
+      {
+        "gauche": "Karl von Frisch",
+        "droite": "Les abeilles",
+        "explication": "Il a décrypté leur danse et leur façon de s'orienter."
+      },
+      {
+        "gauche": "Dian Fossey",
+        "droite": "Les gorilles des montagnes",
+        "explication": "Elle les a étudiés au Rwanda, à partir de la station de Karisoke."
+      },
+      {
+        "gauche": "Edward O. Wilson",
+        "droite": "Les fourmis",
+        "explication": "Il a découvert leurs phéromones et publié The Ants."
+      },
+      {
+        "gauche": "Frans de Waal",
+        "droite": "Les chimpanzés et les bonobos",
+        "explication": "Il a étudié leur réconciliation, leur empathie et leur coopération."
+      }
+    ],
+    "explication": "Chacun a marqué l'étude du comportement animal : les abeilles pour von Frisch, les gorilles pour Fossey, les fourmis pour Wilson, les grands singes pour de Waal. Tous ont observé leurs animaux de très près, parfois pendant des années.",
+    "source": "D'après Wikipédia — Éthologie"
+  },
+  {
+    "id": "q-animaux-317",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Comment Réaumur a-t-il montré, en 1752, que la digestion est une action chimique ?",
+    "choix": [
+      "En faisant avaler à une buse apprivoisée des tubes percés remplis de viande",
+      "En disséquant des poules après leur repas",
+      "En mesurant la température de l'estomac d'un chien",
+      "En faisant bouillir des aliments dans du vinaigre"
+    ],
+    "bonneReponse": 0,
+    "explication": "Les petits tubes percés protégeaient la viande des mouvements de l'estomac, mais laissaient passer le suc gastrique. Régurgitée à moitié digérée, elle prouvait une action chimique, et non un simple broyage mécanique.",
+    "source": "D'après Wikipédia — René-Antoine Ferchault de Réaumur"
+  },
+  {
+    "id": "q-animaux-318",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel livre de Gerald Durrell, paru en 1956, est devenu un best-seller ?",
+    "choix": [
+      "Ma famille et autres animaux",
+      "L'Arche surchargée",
+      "Un zoo dans mes bagages",
+      "Les Limiers de Bafut"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ma famille et autres animaux raconte avec humour l'enfance de Durrell à Corfou entre 1935 et 1939. Il a été publié trois ans après son premier récit d'expédition, L'Arche surchargée, déjà bien accueilli.",
+    "source": "D'après Wikipédia — Gerald Durrell"
   }
 ]

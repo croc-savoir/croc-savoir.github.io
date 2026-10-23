@@ -2174,5 +2174,559 @@
     "bonneReponse": 0,
     "explication": "Renne et caribou désignent la même espèce, Rangifer tarandus : « renne » est le nom européen et « caribou » le nom canadien, qui vient du micmac. Chez eux, mâles comme femelles peuvent porter des bois.",
     "source": "D'après Wikipédia — Rangifer tarandus"
+  },
+  {
+    "id": "q-animaux-139",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi appelle-t-on aussi le cygne tuberculé « cygne muet » ?",
+    "choix": [
+      "Parce qu'il émet de rares cris, plutôt faibles",
+      "Parce qu'il n'a aucune voix",
+      "Parce qu'il ne chante qu'en volant",
+      "Parce qu'il reste silencieux en hiver"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le cygne tuberculé n'est pas vraiment muet : il possède huit à dix cris différents, mais ils sont rares et peu puissants. Le bruit le plus connu est celui de ses ailes en vol, audible à près de deux kilomètres.",
+    "source": "D'après Wikipédia — Cygne tuberculé"
+  },
+  {
+    "id": "q-animaux-140",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Qu'a découvert la dessinatrice animalière Jemima Blackburn en 1871 à propos du coucou gris ?",
+    "choix": [
+      "Que le jeune coucou éjecte lui-même les autres petits du nid",
+      "Que les parents adoptifs laissent mourir leurs propres petits",
+      "Que la femelle coucou détruit les nids qu'elle visite",
+      "Que le coucou pond ses œufs dans des nids de rapaces"
+    ],
+    "bonneReponse": 0,
+    "explication": "Jusqu'au XIXe siècle, on pensait que les parents adoptifs sacrifiaient leurs petits. En 1871, Jemima Blackburn comprend que c'est le poussin coucou qui jette hors du nid les œufs et poussins de l'espèce hôte, quelques heures après sa naissance.",
+    "source": "D'après Wikipédia — Coucou gris"
+  },
+  {
+    "id": "q-animaux-141",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "D'où vient le bleu étincelant du plumage du martin-pêcheur d'Europe ?",
+    "choix": [
+      "Des reflets de la lumière sur de minuscules structures des plumes",
+      "D'un pigment bleu que l'oiseau trouve dans les poissons",
+      "D'une huile bleue sécrétée près de la queue",
+      "D'un dépôt d'algues sur ses plumes"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ce bleu n'est pas un pigment : il naît des reflets prismatiques de la lumière sur de minuscules structures des plumes. Le dos est bleu clair, le croupion bleu cobalt, et le ventre roux et blanc.",
+    "source": "D'après Wikipédia — Martin-pêcheur d'Europe"
+  },
+  {
+    "id": "q-animaux-142",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le plastron du rouge-gorge est en réalité plus orangé que rouge.",
+    "reponse": true,
+    "explication": "Le plastron est d'un orange foncé tirant vers le rouge. On l'a appelé « rouge-gorge » au Moyen Âge, car le mot « orange » n'est apparu en Europe pour désigner une couleur qu'au XVIe siècle, avec le fruit rapporté par les Portugais.",
+    "source": "D'après Wikipédia — Rouge-gorge familier"
+  },
+  {
+    "id": "q-animaux-143",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Où se trouvent les narines du kiwi, ce qui est unique chez les oiseaux ?",
+    "choix": [
+      "À l'extrémité du long bec",
+      "À la base du bec",
+      "Sur le sommet de la tête",
+      "Sous la gorge"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le kiwi est le seul oiseau dont les narines s'ouvrent au bout du bec. Sa vue est faible : il repère vers et insectes enfouis grâce à son odorat et à de longues vibrisses, en fouillant la terre la nuit.",
+    "source": "D'après Wikipédia — Apterygiformes"
+  },
+  {
+    "id": "q-animaux-144",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Chez le rossignol philomèle, qui chante surtout la nuit ?",
+    "choix": [
+      "Les mâles non appariés, probablement pour attirer une femelle",
+      "Les femelles, pour défendre leur nid",
+      "Les deux sexes, pour se guider pendant la migration",
+      "Les jeunes, pour réclamer à manger"
+    ],
+    "bonneReponse": 0,
+    "explication": "Seul le mâle chante, et ce sont les mâles sans partenaire qui chantent la nuit. Une fois appariés, ils se taisent la nuit : le chant nocturne sert donc sans doute à attirer une femelle. On a longtemps cru à tort que la femelle chantait aussi.",
+    "source": "D'après Wikipédia — Rossignol philomèle"
+  },
+  {
+    "id": "q-animaux-145",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le moineau domestique est un animal domestique, élevé par les humains depuis des siècles.",
+    "reponse": false,
+    "explication": "Malgré son nom, c'est une espèce sauvage, simplement commensale de l'être humain : elle vit près de nous, en ville comme à la campagne, mais nous ne l'avons jamais domestiquée. Elle évite en revanche les grandes forêts.",
+    "source": "D'après Wikipédia — Moineau domestique"
+  },
+  {
+    "id": "q-animaux-146",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi les élèves de Saint-Cyr appellent-ils « casoar » le plumet de leur shako ?",
+    "choix": [
+      "Parce qu'un casoar arrivait au Muséum de Paris au moment de la visite de la reine Victoria",
+      "Parce que le plumet imite la crête d'un casoar",
+      "Parce que le premier saint-cyrien en portait un offert par un explorateur",
+      "Parce que le casoar était la mascotte de Napoléon III"
+    ],
+    "bonneReponse": 0,
+    "explication": "En 1855, la reine Victoria visite la France et Napoléon III habille les saint-cyriens aux couleurs britanniques, avec un plumet blanc et rouge. Les Parisiens le baptisent « casoar », car l'oiseau arrive alors au Muséum.",
+    "source": "D'après Wikipédia — Casoar à casque"
+  },
+  {
+    "id": "q-animaux-147",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque oiseau à sa particularité.",
+    "paires": [
+      {
+        "gauche": "Rouge-gorge familier",
+        "droite": "Possède un compas magnétique lié à sa vision",
+        "explication": "Il migre de nuit et sent le champ magnétique terrestre."
+      },
+      {
+        "gauche": "Manchot royal",
+        "droite": "Couve son œuf unique sur ses pieds",
+        "explication": "Pas de nid : un repli de peau du ventre recouvre l'œuf posé sur les pieds."
+      },
+      {
+        "gauche": "Kiwi",
+        "droite": "Pond un œuf énorme par rapport à sa taille",
+        "explication": "L'œuf peut représenter 15 à 20 % de la masse de la femelle."
+      },
+      {
+        "gauche": "Hirondelle rustique",
+        "droite": "Bâtit un nid de petites boules de boue",
+        "explication": "Le nid en demi-coupe est collé à une poutre, souvent dans une grange."
+      }
+    ],
+    "explication": "Chacun de ces oiseaux a une adaptation marquante : un sens de l'orientation magnétique, une couvaison sur les pieds, un œuf géant ou un nid de boue bâti sous un toit, dans une grange.",
+    "source": "D'après Wikipédia — Manchot royal"
+  },
+  {
+    "id": "q-animaux-148",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Qui produit le célèbre « tu-whit, tu-who » attribué à la chouette hulotte ?",
+    "choix": [
+      "Un duo : la femelle fait « kew-wick » et le mâle répond « hooo »",
+      "Le mâle seul, en deux notes",
+      "La femelle seule, pour appeler ses petits",
+      "Un jeune qui apprend à chanter"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ce cri stéréotypé, cité par Shakespeare dans Peines d'amour perdues, est en réalité un duo : la femelle lance un « kew-wick » aigu, auquel le mâle répond par un « hooo » tremblé. Chacun a donc son propre cri.",
+    "source": "D'après Wikipédia — Chouette hulotte"
+  },
+  {
+    "id": "q-animaux-149",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que signifierait le mot tupi à l'origine du nom « toucan » ?",
+    "choix": [
+      "Bec osseux",
+      "Oiseau du fruit",
+      "Grand croasseur",
+      "Roi de la forêt"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le mot français est repris au tupi « tucana » dès 1557, et on pense qu'il voulait dire « bec osseux ». Pourtant, ce bec est très léger : des barres d'os remplies d'une kératine mousseuse, sans compter son rôle de radiateur.",
+    "source": "D'après Wikipédia — Toucan"
+  },
+  {
+    "id": "q-animaux-150",
+    "domain": "animaux",
+    "format": "qui-suis-je",
+    "indices": [
+      "Je vis dans les forêts humides du sud-est de l'Australie.",
+      "Ma femelle pond un seul œuf, qu'elle couve seule pendant plus de 50 jours.",
+      "Un garde de parc a un jour enregistré, chez l'un des miens, des airs de flûte.",
+      "Je peux imiter une tronçonneuse, un appareil photo ou d'autres oiseaux.",
+      "Ma queue ressemble à un instrument de musique à cordes."
+    ],
+    "reponse": "L'oiseau-lyre",
+    "explication": "Le ménure, ou oiseau-lyre, tient son nom de ses deux plumes de queue recourbées en S. Son syrinx lui permet d'imiter des sons de la forêt, voire des sons humains, mais cette dernière capacité est plus rare qu'on ne le dit.",
+    "source": "D'après Wikipédia — Menura"
+  },
+  {
+    "id": "q-animaux-151",
+    "domain": "animaux",
+    "format": "frise",
+    "question": "Remets ces étapes de l'histoire de l'oiseau-lyre dans l'ordre chronologique.",
+    "evenements": [
+      {
+        "label": "Thomas Davies présente le ménure superbe à la Linnean Society",
+        "annee": "1800"
+      },
+      {
+        "label": "John Latham le nomme Menura novaehollandiae",
+        "annee": "1801"
+      },
+      {
+        "label": "Un article classe les oiseaux-lyres parmi les passereaux",
+        "annee": "1840"
+      },
+      {
+        "label": "Un garde enregistre un oiseau-lyre qui reproduit des airs de flûte",
+        "annee": "1969"
+      },
+      {
+        "label": "Un enregistrement de ménure imitant des bruits de chantier entre dans un registre sonore australien",
+        "annee": "2013"
+      }
+    ],
+    "explication": "En 1800, Thomas Davies décrit l'oiseau devant la Linnean Society, mais Latham le nomme en premier (1801), et son nom prévaut. Les passereaux ne l'accueillent qu'en 1840. Fenton enregistre l'oiseau flûtiste en 1969.",
+    "source": "D'après Wikipédia — Menura"
+  },
+  {
+    "id": "q-animaux-152",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Quelle est la différence entre le manchot royal et le manchot empereur ?",
+    "choix": [
+      "Le royal est plus petit, avec des taches d'oreille orange vif en forme de cuillère",
+      "Le royal est plus grand et entièrement blanc",
+      "Le royal vit en Arctique, l'empereur en Antarctique",
+      "Le royal pond plusieurs œufs, l'empereur un seul"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le manchot royal est le deuxième plus grand manchot après l'empereur. Il mesure de 85 à 95 cm, a des taches d'oreille orange vif et la base du bec inférieur orange. Comme l'empereur, il ne pond qu'un seul œuf, porté sur les pieds.",
+    "source": "D'après Wikipédia — Manchot royal"
+  },
+  {
+    "id": "q-animaux-153",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi la femelle du canard colvert couve-t-elle seule ?",
+    "choix": [
+      "Son plumage terne la camoufle, alors que le mâle ferait repérer le nid",
+      "Le mâle ne sait pas reconnaître le nid",
+      "Le mâle part toujours migrer avant la ponte",
+      "Le mâle est trop lourd pour couver"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le plumage beige tacheté de la femelle passe inaperçu dans la végétation. Si le mâle aidait à couver, avec ses couleurs vives, le nid serait vite repéré par les prédateurs, comme le renard ou la martre, et détruit.",
+    "source": "D'après Wikipédia — Canard colvert"
+  },
+  {
+    "id": "q-animaux-154",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "En anglais, le merle noir s'appelle « blackbird » car, autrefois, le mot « bird » ne désignait que les petits oiseaux.",
+    "reponse": true,
+    "explication": "Le mot est attesté dès 1486. En vieil anglais et jusqu'au XVIIIe siècle environ, « bird » ne s'appliquait qu'aux oiseaux petits ou jeunes ; les grands, comme les corbeaux, étaient des « fowl ». Le merle était donc le seul oiseau noir répandu.",
+    "source": "D'après Wikipédia — Merle noir"
+  },
+  {
+    "id": "q-animaux-155",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que faisaient des mésanges dans le sud de l'Angleterre dans les années 1920, selon des observations ?",
+    "choix": [
+      "Elles ouvraient les capsules des bouteilles de lait",
+      "Elles cassaient des noix avec des cailloux",
+      "Elles volaient des fruits dans les vergers",
+      "Elles pillaient les mangeoires des moineaux"
+    ],
+    "bonneReponse": 0,
+    "explication": "Des mésanges bleues et charbonnières ont appris à percer les capuchons en carton ou en aluminium des bouteilles de lait. L'astuce a gagné toute l'Angleterre, un bel exemple d'apprentissage culturel chez les oiseaux.",
+    "source": "D'après Wikipédia — Mésange charbonnière"
+  },
+  {
+    "id": "q-animaux-156",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi des centaines d'aras viennent-ils manger de l'argile sur les berges de l'ouest de l'Amazonie ?",
+    "choix": [
+      "Sans doute pour y trouver du sodium, rare loin de la mer",
+      "Pour aiguiser leur bec",
+      "Pour se protéger du soleil en se couvrant de boue",
+      "Pour fabriquer leur nid"
+    ],
+    "bonneReponse": 0,
+    "explication": "On a cru que l'argile neutralisait des toxines, mais les travaux de Donald Brightsmith montrent que les perroquets choisissent plutôt des argiles riches en sodium, un élément très rare à plus de 100 km de l'océan.",
+    "source": "D'après Wikipédia — Ara (oiseau)"
+  },
+  {
+    "id": "q-animaux-157",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que signifie « Ailurus », le nom de genre du panda roux ?",
+    "choix": [
+      "Chat",
+      "Ours",
+      "Renard",
+      "Bambou"
+    ],
+    "bonneReponse": 0,
+    "explication": "Frédéric Cuvier a créé le genre Ailurus en 1825, d'après le grec ailouros, « chat », à cause de la ressemblance de la tête et des proportions de l'animal avec celles d'un chat domestique.",
+    "source": "D'après Wikipédia — Ailurus"
+  },
+  {
+    "id": "q-animaux-158",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le panda roux est un proche cousin du panda géant.",
+    "reponse": false,
+    "explication": "Les études génétiques l'éloignent des ours : il forme sa propre famille parmi les mustéloïdes, avec ratons, belettes et moufettes. Le bambou et le faux pouce qu'il partage avec le panda géant sont des adaptations convergentes.",
+    "source": "D'après Wikipédia — Ailurus"
+  },
+  {
+    "id": "q-animaux-159",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Comment appelle-t-on le terrier du blaireau, mot dont dérive « tanière » ?",
+    "choix": [
+      "La taissonnière",
+      "La blaireautière",
+      "La terrière",
+      "La bauge"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le terrier du blaireau est la taissonnière, du vieux nom « taisson » de l'animal, et le mot « tanière » en dérive. La femelle se nomme la blairelle et ses petits sont des blaireautins.",
+    "source": "D'après Wikipédia — Blaireau européen"
+  },
+  {
+    "id": "q-animaux-160",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi l'écureuil roux contribue-t-il à faire pousser des arbres ?",
+    "choix": [
+      "Il oublie une partie des graines qu'il a cachées",
+      "Il casse les branches mortes pour laisser passer la lumière",
+      "Il creuse des trous qui retiennent l'eau de pluie",
+      "Il mange les insectes qui attaquent les jeunes pousses"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'écureuil cache ses graines un peu partout, sans véritable logique, et en oublie. Les glands et noisettes enterrés peuvent alors germer, et les champignons souterrains qu'il avale voient leurs spores dispersées.",
+    "source": "D'après Wikipédia — Écureuil roux"
+  },
+  {
+    "id": "q-animaux-161",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que deviennent les cornes du chamois au cours de sa vie ?",
+    "choix": [
+      "Elles restent toute sa vie et gardent la trace de ses hivers",
+      "Elles tombent chaque hiver et repoussent au printemps",
+      "Elles tombent tous les deux ans",
+      "Seules celles des femelles tombent après la reproduction"
+    ],
+    "bonneReponse": 0,
+    "explication": "Au contraire des bois des cervidés, les cornes du chamois, mâle comme femelle, poussent dès la naissance et ne tombent jamais. Les anneaux d'âge, formés par la pause de croissance de chaque hiver, permettent de compter ses années.",
+    "source": "D'après Wikipédia — Chamois"
+  },
+  {
+    "id": "q-animaux-162",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "D'où vient le mot « orignal », nom de l'élan en Amérique du Nord ?",
+    "choix": [
+      "Du basque oreinak",
+      "Du breton orgenn",
+      "Du latin originalis",
+      "Du norrois orrin"
+    ],
+    "bonneReponse": 0,
+    "explication": "Samuel de Champlain écrivait « orignac », un mot appris des Basques qui pêchaient la morue et la baleine près du Labrador. Oreinak voulait dire « les cervidés », peut-être « les rennes ». La finale -ac est devenue -al, comme dans cheval.",
+    "source": "D'après Wikipédia — Alces"
+  },
+  {
+    "id": "q-animaux-163",
+    "domain": "animaux",
+    "format": "difference",
+    "question": "Quelle est une différence visible entre un phoque et une otarie ?",
+    "choix": [
+      "Le phoque n'a pas d'oreille externe, l'otarie en a une",
+      "Le phoque marche sur ses quatre nageoires, l'otarie rampe",
+      "Le phoque ne vit qu'en eau douce, l'otarie en mer",
+      "Le phoque est toujours plus petit que l'otarie"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le phoque n'a qu'un conduit auditif, sans pavillon. Il ne peut pas redresser le corps sur ses nageoires avant et rampe sur la terre ferme, alors que l'otarie dispose d'une oreille externe et se redresse sur ses nageoires.",
+    "source": "D'après Wikipédia — Phocidae"
+  },
+  {
+    "id": "q-animaux-164",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "De quels animaux le tapir est-il un proche parent ?",
+    "choix": [
+      "Des chevaux et des rhinocéros",
+      "Des sangliers et des pécaris",
+      "Des éléphants et des damans",
+      "Des ours et des ratons laveurs"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le tapir appartient aux ongulés à nombre impair de doigts, avec les chevaux et les rhinocéros. Sa courte trompe, qui lui sert à attraper plantules, fruits et graines, ne le rend pas cousin des éléphants.",
+    "source": "D'après Wikipédia — Tapir"
+  },
+  {
+    "id": "q-animaux-165",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi la poche du wombat s'ouvre-t-elle vers l'arrière ?",
+    "choix": [
+      "Pour que la terre n'y entre pas quand il creuse",
+      "Pour que le petit puisse voir devant lui",
+      "Pour garder la chaleur du terrier",
+      "Pour porter le petit sur son dos"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le wombat creuse sans cesse de longues galeries. Une poche tournée vers l'arrière évite que la terre s'y accumule et retombe sur le petit qu'il abrite.",
+    "source": "D'après Wikipédia — Wombat"
+  },
+  {
+    "id": "q-animaux-166",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que signifie le mot « cabiai », nom du capybara issu de la langue kali'na ?",
+    "choix": [
+      "Mangeur d'herbe",
+      "Cochon d'eau",
+      "Nageur des marais",
+      "Géant des fleuves"
+    ],
+    "bonneReponse": 0,
+    "explication": "« Cabiai » vient du kali'na cabiaïca, formé de cabi, « herbe », et aïca, « manger ». Le nom « capybara », venu du tupi, a un sens proche : « celui qui mange des feuilles minces ».",
+    "source": "D'après Wikipédia — Hydrochoerus hydrochaeris"
+  },
+  {
+    "id": "q-animaux-167",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quelle partie du corps de l'aigle royal lui vaut le surnom d'« aigle doré » ?",
+    "choix": [
+      "Sa nuque brun-roux, le camail",
+      "Ses serres jaunes",
+      "Ses yeux dorés",
+      "Le dessous de ses ailes"
+    ],
+    "bonneReponse": 0,
+    "explication": "La nuque et le haut de la tête, qu'on appelle le camail, ont une teinte brun-roux clair ou jaunâtre, d'où vient le nom d'« aigle doré ». Le nom scientifique chrysaetos signifie d'ailleurs « aigle d'or ».",
+    "source": "D'après Wikipédia — Aigle royal"
+  },
+  {
+    "id": "q-animaux-168",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "Le pygargue à tête blanche est un aigle du genre Aquila, comme l'aigle royal.",
+    "reponse": false,
+    "explication": "C'est un pygargue, genre Haliaeetus, ou « aigle de mer ». Il se distingue des vrais aigles par son régime à base de poisson, son bec massif et ses pattes sans plumes jusqu'aux serres.",
+    "source": "D'après Wikipédia — Pygargue à tête blanche"
+  },
+  {
+    "id": "q-animaux-169",
+    "domain": "animaux",
+    "format": "qui-suis-je",
+    "indices": [
+      "Mon nom vient du quechua kuntur.",
+      "Ma tête presque nue change de couleur selon mes émotions.",
+      "Chez moi, c'est le mâle le plus imposant, à l'inverse de la plupart des rapaces.",
+      "Je porte une collerette blanche à la base du cou.",
+      "Avec environ trois mètres d'envergure, je suis le plus grand rapace du monde."
+    ],
+    "reponse": "Le condor des Andes",
+    "explication": "Le condor des Andes est un vautour noir à collerette blanche, charognard des montagnes d'Amérique du Sud. Les Incas le voyaient comme un messager entre la terre et le ciel, qui emportait les âmes.",
+    "source": "D'après Wikipédia — Condor des Andes"
+  },
+  {
+    "id": "q-animaux-170",
+    "domain": "animaux",
+    "format": "vrai-faux",
+    "affirmation": "La tête et le cou du vautour fauve sont complètement dépourvus de plumes et de duvet.",
+    "reponse": false,
+    "explication": "On le croit souvent, mais sa tête et son cou portent un fin duvet. Il s'effrite avec le sang séché et facilite le nettoyage, alors que des plumes se saliraient trop lors des repas.",
+    "source": "D'après Wikipédia — Vautour fauve"
+  },
+  {
+    "id": "q-animaux-171",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Pourquoi la cigogne blanche évite-t-elle de traverser la Méditerranée en migrant ?",
+    "choix": [
+      "Les courants d'air chaud dont elle a besoin n'existent pas au large",
+      "L'eau salée abîme ses plumes",
+      "Elle ne peut pas voler de jour au-dessus de la mer",
+      "Elle suit toujours les mêmes fleuves"
+    ],
+    "bonneReponse": 0,
+    "explication": "La cigogne plane en s'appuyant sur des courants ascendants d'air chaud, qui ne se forment pas au-dessus de la mer. Elle contourne donc la Méditerranée par le Levant à l'est ou par le détroit de Gibraltar à l'ouest.",
+    "source": "D'après Wikipédia — Cigogne blanche"
+  },
+  {
+    "id": "q-animaux-172",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Quel site français détient le record de grues cendrées présentes en même temps ?",
+    "choix": [
+      "Le lac du Der",
+      "La Camargue",
+      "Le marais poitevin",
+      "Le val de Loire"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le lac du Der détient le record absolu : 268 120 grues y ont été estimées en même temps par des compteurs bénévoles de la LPO. La France est une halte majeure pour les migratrices.",
+    "source": "D'après Wikipédia — Grue cendrée"
+  },
+  {
+    "id": "q-animaux-173",
+    "domain": "animaux",
+    "format": "qcm",
+    "question": "Que font les enfants de la « Puffling patrol » en Islande, vers la mi-août ?",
+    "choix": [
+      "Ils ramènent à la mer les jeunes macareux attirés par les lumières",
+      "Ils comptent les nids sur les falaises",
+      "Ils baguent les macareux adultes",
+      "Ils nourrissent les poussins restés dans les terriers"
+    ],
+    "bonneReponse": 0,
+    "explication": "À leur premier envol, les jeunes macareux s'orientent vers les lumières les plus proches au lieu de gagner la mer. À Heimaey, des enfants les ramassent la nuit puis les relâchent sur le rivage le lendemain.",
+    "source": "D'après Wikipédia — Macareux moine"
+  },
+  {
+    "id": "q-animaux-174",
+    "domain": "animaux",
+    "format": "associer",
+    "question": "Associe chaque oiseau à sa particularité.",
+    "paires": [
+      {
+        "gauche": "Le macareux moine",
+        "droite": "Surnommé « perroquet de mer »",
+        "explication": "Son bec triangulaire et coloré lui vaut aussi ce surnom, surtout à la saison des amours."
+      },
+      {
+        "gauche": "La cigogne blanche",
+        "droite": "Communique en claquant du bec",
+        "explication": "Les adultes sont presque muets, mais le sac gulaire amplifie le claquement de leur bec."
+      },
+      {
+        "gauche": "Le condor des Andes",
+        "droite": "Un nom venu du quechua kuntur",
+        "explication": "Ce grand vautour porte un nom quechua et les Incas y voyaient un messager vers l'au-delà."
+      },
+      {
+        "gauche": "La grue cendrée",
+        "droite": "Record de rassemblement au lac du Der",
+        "explication": "Ce site français a accueilli un nombre record de grues migratrices, estimé par des bénévoles."
+      },
+      {
+        "gauche": "Le pélican blanc",
+        "droite": "Poche jaune sous le bec",
+        "explication": "Il attrape les poissons de surface dans la grande poche qui pend sous son bec imposant."
+      }
+    ],
+    "explication": "Ces cinq oiseaux se reconnaissent à un détail marquant : un surnom, un bruit de bec, un nom quechua, un record de rassemblement ou une poche jugulaire.",
+    "source": "D'après Wikipédia — Macareux moine"
   }
 ]

@@ -1856,7 +1856,7 @@
       "Les Perses d'Eschyle"
     ],
     "bonneReponse": 0,
-    "explication": "Homère emploie ásthma dans l'Iliade pour décrire la suffocation du héros Hector. Eschyle, Platon puis Hippocrate reprennent ensuite le mot, ce dernier dans un sens médical. Il signifie « respiration difficile ».",
+    "explication": "Homère emploie ásthma dans l'Iliade pour décrire la suffocation du héros Hector. Eschyle et Platon reprennent le mot au sens d'essoufflement, et Hippocrate lui donne un sens médical dans ses Aphorismes. Il signifie « respiration difficile ».",
     "source": "D'après Wikipédia — Asthme"
   },
   {
@@ -1864,11 +1864,11 @@
     "domain": "corps-humain",
     "format": "qui-suis-je",
     "indices": [
-      "Mon nom vient du latin amygdala, qui signifie « amande ».",
       "Je suis en réalité un ensemble d'au moins 13 noyaux de neurones.",
       "Je suis située dans le lobe temporal, en avant de l'hippocampe.",
       "Je fais partie du système limbique.",
-      "Je joue le rôle de système d'alerte face à la peur."
+      "Je joue le rôle de système d'alerte face à la peur.",
+      "Mon nom vient du latin amygdala, qui signifie « amande »."
     ],
     "reponse": "L'amygdale",
     "explication": "L'amygdale évalue la dimension émotionnelle de ce que nous percevons et déclenche les réactions du corps, notamment face au danger. Elle doit son nom à sa forme d'amande, repérée par Karl Burdach en 1822.",
@@ -1886,7 +1886,7 @@
       "Rudolf Virchow"
     ],
     "bonneReponse": 0,
-    "explication": "Le physiologiste britannique Charles Sherrington propose ce terme en 1897. Il vient du grec synapsis, « conjonction », suggéré par un ami de son éditeur. Cajal et Golgi, eux, se partagent le Nobel en 1906.",
+    "explication": "Le physiologiste britannique Charles Sherrington propose ce terme en 1897. Il vient du grec synapsis, « conjonction », suggéré par l'helléniste Arthur Verrall, ami du physiologiste Michael Foster. Cajal et Golgi, eux, se partagent le Nobel en 1906.",
     "source": "D'après Wikipédia — Synapse"
   },
   {
@@ -2201,10 +2201,10 @@
     "format": "qcm",
     "question": "Quelle théorie Santiago Ramón y Cajal a-t-il établie, face au réseau continu défendu par Golgi ?",
     "choix": [
-      "La théorie neuronale : les neurones sont des cellules séparées",
+      "La théorie neuronale",
+      "La théorie réticulaire",
       "La théorie des humeurs",
-      "La théorie des germes",
-      "La théorie réticulaire"
+      "La théorie des germes"
     ],
     "bonneReponse": 0,
     "explication": "Grâce à la coloration à l'argent de Golgi qu'il a perfectionnée, Cajal prouve que les neurones sont des cellules distinctes, que de minces intervalles séparent : Sherrington les appellera synapses. Les deux hommes partagent le Nobel 1906.",
@@ -2283,7 +2283,7 @@
       {
         "gauche": "Paul Ehrlich",
         "droite": "La « balle magique » et le Salvarsan",
-        "explication": "Il imagine un médicament ciblant le microbe et met au point un médicament ciblé."
+        "explication": "Il rêve d'un remède qui vise le seul microbe ; son Salvarsan soigne la syphilis dès 1909."
       },
       {
         "gauche": "Alexandre Yersin",
@@ -2323,7 +2323,7 @@
       "Charles Best, son jeune assistant",
       "James Collip, le chimiste",
       "Clarence Starr, son ancien chef",
-      "Edwin Seacole, un médecin"
+      "Leonard Thompson, son premier patient"
     ],
     "bonneReponse": 0,
     "explication": "Banting a partagé son prix avec Charles Best, étudiant qui l'avait aidé à Toronto en 1921. De son côté, John Macleod, colauréat, a cédé une partie de la sienne au chimiste James Collip, qui avait purifié l'insuline.",
@@ -2408,7 +2408,7 @@
     "id": "q-corps-humain-155",
     "domain": "corps-humain",
     "format": "qcm",
-    "question": "Qui ont reçu le prix Nobel de médecine de 1979 pour la mise au point du scanner ?",
+    "question": "Quels chercheurs ont reçu le prix Nobel de médecine de 1979 pour la mise au point du scanner ?",
     "choix": [
       "Godfrey Hounsfield et Allan Cormack",
       "Paul Lauterbur et Peter Mansfield",
@@ -2503,7 +2503,7 @@
         "explication": "Il l'isole en 1939 à partir d'un bacille du sol."
       }
     ],
-    "explication": "Ces quatre découvertes s'étalent de 1928 à 1944. Elles ont ouvert l'ère des antibiotiques : d'abord un champignon, puis des molécules de synthèse, puis un médicament efficace contre la tuberculose.",
+    "explication": "Ces quatre découvertes s'étalent de 1928 à 1944. Elles ont ouvert l'ère des antibiotiques : d'abord une moisissure, puis une molécule de synthèse, des substances tirées de bactéries du sol, et enfin un médicament efficace contre la tuberculose.",
     "source": "D'après Wikipédia — Antibiotique"
   },
   {
@@ -2514,8 +2514,8 @@
       "Je suis né en 1843 dans un village qui porte aujourd'hui mon nom.",
       "Je me suis installé un laboratoire dans une ancienne cuisine d'hôpital.",
       "Ma coloration à l'argent fait ressortir en noir quelques cellules entières.",
-      "Une structure de la cellule et un organe du tendon portent mon nom.",
-      "J'ai partagé le prix Nobel de 1906 avec Santiago Ramón y Cajal."
+      "J'ai partagé le prix Nobel de 1906 avec Santiago Ramón y Cajal.",
+      "Une structure de la cellule et un organe du tendon portent mon nom."
     ],
     "reponse": "Camillo Golgi",
     "explication": "Golgi a mis au point en 1873 la « réaction noire », qui montre le neurone en entier. Rival scientifique de Cajal, il a partagé avec lui le Nobel de 1906, et son nom désigne l'appareil de Golgi dans les cellules.",
@@ -2548,7 +2548,7 @@
         "annee": "2000"
       }
     ],
-    "explication": "De la pénicilline de 1928 au linézolide de 2000, la recherche a avancé par vagues. Après les années 1970, elle a ralenti, puis a repris à cause de la résistance. Le linézolide fut la première nouvelle classe en 20 ans.",
+    "explication": "De la pénicilline de 1928 au linézolide de 2000, la recherche a avancé par vagues. Au début des années 1970, elle a fortement ralenti, puis a repris face aux résistances. Le linézolide fut la première nouvelle classe d'antibiotiques en 20 ans.",
     "source": "D'après Wikipédia — Antibiotique"
   },
   {
@@ -2617,7 +2617,7 @@
       "Le mal bleu"
     ],
     "bonneReponse": 0,
-    "explication": "L'expression « peste blanche » date du XVIIe siècle et rappelle la peste noire qui frappait alors l'Europe. Un siècle et demi plus tard, la maladie était responsable d'un décès sur trois environ dans les pays occidentaux.",
+    "explication": "L'expression « peste blanche » date du XVIIe siècle et fait écho à la peste noire, qui ravageait encore l'Europe. Au XIXe siècle, à son apogée, la tuberculose causait environ un tiers des décès enregistrés en Europe et aux États-Unis.",
     "source": "D'après Wikipédia — Tuberculose"
   },
   {
@@ -2635,8 +2635,8 @@
         "annee": "1882"
       },
       {
-        "label": "Calmette et Guérin mettent au point le BCG",
-        "annee": "1906"
+        "label": "Première utilisation du vaccin BCG chez l'humain",
+        "annee": "1921"
       },
       {
         "label": "Selman Waksman découvre la streptomycine",
@@ -2647,7 +2647,7 @@
         "annee": "1948"
       }
     ],
-    "explication": "Le sanatorium de 1859 soigne par l'air pur, Koch trouve le bacille en 1882 et le BCG apparaît en 1906. La streptomycine de 1943 permet ensuite un traitement efficace, testé dans le premier essai randomisé en 1948.",
+    "explication": "Le sanatorium de 1859 soigne par l'air pur, Koch trouve le bacille en 1882 et le BCG de Calmette et Guérin est utilisé chez l'humain dès 1921. La streptomycine de 1943 permet ensuite de guérir, et elle est testée dans le premier essai randomisé en 1948.",
     "source": "D'après Wikipédia — Tuberculose"
   },
   {
@@ -2679,7 +2679,7 @@
       {
         "gauche": "Ronald Ross",
         "droite": "Prouve que les anophèles transmettent la maladie",
-        "explication": "Il démontre le rôle des moustiques, longtemps ignoré."
+        "explication": "En 1897, il démontre le rôle des moustiques, alors qu'on accusait le « mauvais air » des marais."
       },
       {
         "gauche": "Pelletier et Caventou",
@@ -2754,9 +2754,9 @@
     "domain": "corps-humain",
     "format": "qui-suis-je",
     "indices": [
-      "Mon nom latin signifie « petite clef ».",
+      "Je suis le premier os à commencer à s'ossifier chez l'embryon.",
       "Je mesure environ 15 centimètres et j'ai la forme d'un S allongé.",
-      "Je suis le premier os à commencer à se former chez l'embryon.",
+      "Mon nom latin signifie « petite clef ».",
       "Je relie le sternum à l'omoplate.",
       "Je suis le seul os long du corps humain en position horizontale."
     ],
@@ -2836,7 +2836,7 @@
       "Elle se contracte uniquement de façon involontaire"
     ],
     "bonneReponse": 0,
-    "explication": "Une fibre squelettique naît de la fusion de nombreux myoblastes, chacun apportant son noyau. Les cellules cardiaques et lisses, elles, ont un ou deux noyaux. Un biceps de jeune adulte compte environ 253 000 fibres.",
+    "explication": "Une fibre squelettique naît de la fusion de nombreux myoblastes, chacun apportant son noyau. La cellule lisse n'a qu'un noyau, la cellule cardiaque un, parfois deux, sans fusion. Un biceps de jeune adulte compte environ 253 000 fibres.",
     "source": "D'après Wikipédia — Myocyte"
   },
   {

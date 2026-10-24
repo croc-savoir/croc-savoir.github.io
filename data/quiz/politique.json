@@ -1590,7 +1590,7 @@
       "Auguste Comte, philosophe"
     ],
     "bonneReponse": 0,
-    "explication": "William Henry Smyth emploie le mot en 1919 dans un article sur la « démocratie industrielle ». Il ne désignait pas encore un pouvoir d'experts. Ce sens apparaît à partir de 1932, avec le mouvement technocratique américain.",
+    "explication": "William Henry Smyth emploie le mot en 1919 dans un article sur la « démocratie industrielle », qui associe les travailleurs aux décisions. Le terme ne désigne un gouvernement par les experts qu'à partir de 1932, avec le mouvement technocratique américain.",
     "source": "D'après Wikipédia — Technocratie"
   },
   {
@@ -1689,7 +1689,7 @@
         "annee": "-487"
       }
     ],
-    "explication": "Après la mort de Pisistrate en 527 av. J.-C., ses fils gouvernent. Hipparque est assassiné en 514 et Hippias chassé en 510. Clisthène donne alors à Athènes ses institutions démocratiques en 508, et l'ostracisme est employé en 487.",
+    "explication": "Après la mort de Pisistrate en 527 av. J.-C., ses fils gouvernent. Hipparque est assassiné en 514 et Hippias chassé en 510. Clisthène donne alors à Athènes ses institutions démocratiques en 508, et l'ostracisme qu'on lui attribue est employé pour la première fois en 487.",
     "source": "D'après Wikipédia — Clisthène (Athènes)"
   },
   {
@@ -1753,7 +1753,7 @@
     "question": "Quel acteur de la Révolution déclare le 7 septembre 1789 que la France doit être un régime représentatif plutôt qu'une démocratie ?",
     "choix": [
       "Emmanuel-Joseph Sieyès",
-      "Jean-Jacques Rousseau",
+      "Condorcet",
       "Mirabeau",
       "Robespierre"
     ],
@@ -1813,8 +1813,8 @@
     "indices": [
       "Je suis né à Gênes en 1805 et j'ai passé presque toute ma vie en exil.",
       "J'ai été condamné à mort par un tribunal militaire après l'échec d'une insurrection en 1833.",
-      "En 1831, j'ai fondé une association de jeunes patriotes, qui a pour devise « Dieu et peuple ».",
-      "Le Premier ministre autrichien Metternich me traitait de « brigand italien »."
+      "Le Premier ministre autrichien Metternich me traitait de « brigand italien ».",
+      "En 1831, j'ai fondé la Jeune-Italie, une association de jeunes patriotes qui a pour devise « Dieu et peuple »."
     ],
     "reponse": "Giuseppe Mazzini",
     "explication": "Giuseppe Mazzini, fondateur de la Jeune-Italie en 1831, voulait une Italie unie et républicaine. Ses soulèvements ont presque tous échoué, mais son action a compté dans la naissance de l'Italie, dont il est l'un des « pères de la patrie ».",
@@ -1833,7 +1833,7 @@
     "id": "q-politique-117",
     "domain": "politique",
     "format": "qcm",
-    "question": "Quel titre l'Assemblée nationale donne-t-elle à Adolphe Thiers en mars 1873, après le départ anticipé des troupes allemandes ?",
+    "question": "Quel titre l'Assemblée nationale décerne-t-elle à Adolphe Thiers en mars 1873, quand l'évacuation anticipée des troupes allemandes est obtenue ?",
     "choix": [
       "Le libérateur du territoire",
       "Le père de la patrie",
@@ -1856,7 +1856,7 @@
       "Déguisé en marchand ambulant"
     ],
     "bonneReponse": 0,
-    "explication": "Ministre de l'Intérieur, il s'envole à bord du ballon Armand-Barbès avec Eugène Spuller, en direction de Tours, où il prend aussi en main la guerre. Il y lève des armées, mais elles ne pourront pas délivrer la capitale.",
+    "explication": "Ministre de l'Intérieur, il s'envole à bord du ballon Armand-Barbès avec Eugène Spuller vers Tours, où il cumule l'Intérieur et la Guerre. Il y lève des armées, qui ne parviendront pas à délivrer la capitale.",
     "source": "D'après Wikipédia — Léon Gambetta"
   },
   {
@@ -1910,7 +1910,7 @@
     "format": "vrai-faux",
     "affirmation": "Sun Yat-sen a dirigé sur place le soulèvement de Wuchang d'octobre 1911, qui a fait tomber la dynastie Qing.",
     "reponse": false,
-    "explication": "Il n'avait aucun lien avec cette révolte et se trouvait hors de Chine : il apprend la victoire par la presse et il ne rentre que plus tard à Shanghai, en décembre. Il est ensuite choisi comme président provisoire, comme figure de compromis.",
+    "explication": "Il n'avait aucun lien avec cette révolte et se trouvait aux États-Unis : il apprend la victoire par la presse et ne débarque à Shanghai que le 25 décembre. Il est ensuite élu président provisoire, en figure de compromis.",
     "source": "D'après Wikipédia — Sun Yat-sen"
   },
   {
@@ -2032,10 +2032,10 @@
     "domain": "politique",
     "format": "qui-suis-je",
     "indices": [
+      "En 1914, avec le Congrès, j'ai institué la fête des Mères.",
       "Je suis né en 1856 en Virginie et je suis le seul président de l'histoire de mon pays titulaire d'un doctorat.",
       "J'ai présidé l'université de Princeton avant de devenir gouverneur du New Jersey.",
       "En 1914, j'ai proclamé la neutralité de mon pays face à la guerre, avant de l'y engager en 1917.",
-      "Avec moi, le Congrès a créé la fête des Mères.",
       "J'ai lancé l'idée de la Société des Nations."
     ],
     "reponse": "Woodrow Wilson",
@@ -2332,7 +2332,7 @@
     "choix": [
       "Le Conseil d'État et la Cour de cassation",
       "La Cour des comptes et le Conseil d'État",
-      "Le Parlement et le Sénat",
+      "L'Assemblée nationale et le Sénat",
       "Les tribunaux de première instance"
     ],
     "bonneReponse": 0,
@@ -2418,12 +2418,12 @@
     "id": "q-politique-154",
     "domain": "politique",
     "format": "qcm",
-    "question": "Quelle loi de 1992 a créé les communautés de communes ?",
+    "question": "Quelle loi a créé les communautés de communes ?",
     "choix": [
       "La loi du 6 février 1992",
-      "La loi Notre de 2015",
+      "La loi du 31 décembre 1966",
       "La loi du 22 mars 1890",
-      "La loi du 5 janvier 1959"
+      "La loi NOTRe de 2015"
     ],
     "bonneReponse": 0,
     "explication": "La loi du 6 février 1992 introduit une intercommunalité fondée sur la libre association des communes. Elle lance aussi les communautés de villes, formule qui a peu séduit : cinq seulement verront le jour.",
@@ -2465,7 +2465,7 @@
       "50"
     ],
     "bonneReponse": 0,
-    "explication": "Le seuil est de 500 parrainages, réparties sur au moins trente territoires, avec un dixième au plus pour un seul. Il avait été relevé à ce niveau en 1976, contre 100 auparavant. Chaque élu ne peut en donner qu'un.",
+    "explication": "Le seuil est de 500 parrainages, répartis sur au moins trente départements ou collectivités d'outre-mer, avec un dixième au plus pour un seul. Il avait été relevé à ce niveau en 1976, contre 100 auparavant. Chaque élu ne peut en donner qu'un.",
     "source": "D'après Wikipédia — Élection présidentielle en France"
   },
   {
@@ -2504,7 +2504,7 @@
       "Le palais des Tuileries"
     ],
     "bonneReponse": 0,
-    "explication": "Napoléon avait acquis Matignon en 1811. À la Restauration, Louis XVIII l'échange avec la duchesse de Bourbon contre l'Élysée. Les deux lieux de pouvoir actuels ont donc, un temps, changé de mains.",
+    "explication": "Napoléon avait acquis Matignon en 1811. En 1816, Louis XVIII l'échange avec la duchesse de Bourbon contre l'Élysée. Les futurs sièges du président de la République et du chef du gouvernement ont donc été troqués l'un contre l'autre.",
     "source": "D'après Wikipédia — Hôtel de Matignon"
   },
   {
@@ -2519,7 +2519,7 @@
       "Pour agrandir les jardins du palais"
     ],
     "bonneReponse": 0,
-    "explication": "De Gaulle trouvait l'Élysée trop dépourvu d'intimité. Il voulait un lieu où recevoir les souverains étrangers, expliquant qu'il n'aimait pas les croiser en pyjama dans ses couloirs. L'hôtel de Marigny sert encore à cela.",
+    "explication": "De Gaulle trouvait l'Élysée trop dépourvu d'intimité. Il voulait un lieu où loger les souverains étrangers, expliquant qu'il n'aimait pas l'idée de croiser des rois en pyjama dans ses couloirs. Marigny est devenu la résidence des hôtes officiels de la France.",
     "source": "D'après Wikipédia — Palais de l'Élysée"
   },
   {
@@ -2573,7 +2573,7 @@
         "explication": "Bâti pour Marie de Médicis, il accueille la chambre haute depuis 1799."
       }
     ],
-    "explication": "Les quatre grands lieux de pouvoir parisiens ont d'abord été des demeures aristocratiques, devenues bien nationaux ou propriétés de l'État. Ils servent chacun une institution différente depuis le XIXe ou le XXe siècle.",
+    "explication": "Ces quatre lieux de pouvoir ont d'abord été des demeures princières ou aristocratiques, devenues propriétés de l'État. Le Luxembourg accueille la chambre haute depuis 1799, le palais Bourbon la chambre basse depuis 1798, l'Élysée le président depuis 1848 et Matignon le chef du gouvernement depuis 1935.",
     "source": "D'après Wikipédia — Palais du Luxembourg"
   },
   {
@@ -2581,10 +2581,10 @@
     "domain": "politique",
     "format": "qui-suis-je",
     "indices": [
+      "En 1979, mon sommet de La Havane est présidé par Fidel Castro.",
       "En 2012, je compte 120 États, soit près des deux tiers des membres de l'ONU.",
-      "Mon siège se trouve à Lusaka, en Zambie.",
-      "Tito, Nasser et Nehru comptent parmi mes pères fondateurs.",
-      "Je suis né pendant la guerre froide, avec un premier sommet à Belgrade en 1961.",
+      "La déclaration de Brioni, en 1956, marque mon origine.",
+      "Tito, Nasser et Nehru comptent parmi mes pères fondateurs ; mon premier sommet se tient à Belgrade en 1961.",
       "Mon nom exprime le refus de choisir entre le bloc de l'Est et celui de l'Ouest."
     ],
     "reponse": "Le mouvement des non-alignés",
@@ -2642,7 +2642,7 @@
         "annee": "2025"
       }
     ],
-    "explication": "L'ASEAN, fondée par cinq pays en 1967, s'élargit à Brunei en 1984 puis aux anciens voisins communistes dans les années 1990. Le Timor oriental, onzième membre, la rejoint en octobre 2025.",
+    "explication": "L'ASEAN, fondée par cinq pays en 1967, accueille Brunei en 1984, puis s'élargit après la guerre froide au Vietnam, au Laos, à la Birmanie et au Cambodge. Le Timor oriental, onzième membre, la rejoint le 26 octobre 2025.",
     "source": "D'après Wikipédia — Association des nations de l'Asie du Sud-Est"
   },
   {
@@ -2749,10 +2749,10 @@
     "domain": "politique",
     "format": "qui-suis-je",
     "indices": [
-      "On me traduit souvent à tort par « sois maître de ton corps ».",
-      "En réalité, je m'adresse au geôlier, qui doit présenter le détenu devant une cour.",
       "Ma première loi précise date de 1679, sous Charles II.",
-      "Aux États-Unis, la Constitution ne permet de me suspendre qu'en cas de rébellion ou d'invasion."
+      "Aux États-Unis, la Constitution ne permet de me suspendre qu'en cas de rébellion ou d'invasion.",
+      "Je m'adresse au geôlier, qui doit présenter le détenu devant une cour.",
+      "On me traduit souvent à tort par « sois maître de ton corps »."
     ],
     "reponse": "L'habeas corpus",
     "explication": "L'habeas corpus oblige à présenter une personne détenue devant un juge, qui vérifie la légalité de sa détention. Né en Angleterre, il est codifié par la loi de 1679 et garanti par la Constitution américaine.",
@@ -2938,7 +2938,7 @@
     "format": "vrai-faux",
     "affirmation": "Le Bundestag allemand peut se dissoudre lui-même quand il le souhaite.",
     "reponse": false,
-    "explication": "Le Bundestag ne peut pas se dissoudre seul : seul le président fédéral peut le faire, dans des cas précis, par exemple après un vote de confiance refusé au chancelier, comme en 1972 et en 1982.",
+    "explication": "Le Bundestag ne peut pas se dissoudre seul : seul le président fédéral peut le faire, dans des cas précis, par exemple après un vote de confiance refusé au chancelier, comme en 1972, en 1982 et en 2005.",
     "source": "D'après Wikipédia — Bundestag"
   },
   {
@@ -3172,7 +3172,7 @@
     "choix": [
       "L'écrivain agnostique britannique George Holyoake",
       "Le philosophe John Locke",
-      "Le ministre français Ferdinand Buisson",
+      "Le pédagogue français Ferdinand Buisson",
       "Le pamphlétaire Thomas Paine"
     ],
     "bonneReponse": 0,

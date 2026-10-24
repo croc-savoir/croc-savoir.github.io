@@ -1,15 +1,18 @@
 // Prépare les lots de relecture (agents Opus) : fiches + questions lisibles, avec chemin du dossier source.
-//   node tools/relecture.js <domaine> [taille=17] [fichesDeBase=31] [questionsDeBase=30]
-// → tools/propositions/relecture/<domaine>-R<n>.md ; les fiches/questions de base (déjà relues) sont ignorées.
+//   node tools/relecture.js <domaine> [taille=17] [fichesDeBase] [questionsDeBase]
+// Par défaut, la base (fiches/questions déjà relues) vient de tools/relecture-base.json (sinon 31/30).
+// → tools/propositions/relecture-niches/<domaine>-R<n>.md ; les fiches/questions de base (déjà relues) sont ignorées.
 const fs = require('fs');
 const path = require('path');
 const { chargerTout } = require('./lib');
 
-const [dom, taille = 17, baseF = 31, baseQ = 30] = process.argv.slice(2);
+const [dom, taille = 17, bF, bQ] = process.argv.slice(2);
+const bases = JSON.parse(fs.readFileSync(path.join(__dirname, 'relecture-base.json'), 'utf8'))[dom] || [31, 30];
+const baseF = bF === undefined ? bases[0] : bF, baseQ = bQ === undefined ? bases[1] : bQ;
 if (!dom) { console.log('Usage : node tools/relecture.js <domaine> [taille] [fichesDeBase] [questionsDeBase]'); process.exit(1); }
 const { fiches, quiz } = chargerTout()[dom];
 const nF = fiches.slice(+baseF), nQ = quiz.slice(+baseQ);
-const nb = Math.ceil(nF.length / +taille), out = path.join(__dirname, 'propositions', 'relecture');
+const nb = Math.ceil(nF.length / +taille), out = path.join(__dirname, 'propositions', 'relecture-niches');
 fs.mkdirSync(out, { recursive: true });
 const dossier = t => {
   const p = path.join('tools', 'dossiers', t + '.md');
@@ -33,4 +36,4 @@ for (let i = 0; i < nb; i++) {
   for (const q of qs) { const { id, domain, ...r } = q; L.push(`### ${id}  (dossier : ${dossier(wiki(q))})`, JSON.stringify(r), ''); }
   fs.writeFileSync(path.join(out, `${dom}-R${i + 1}.md`), L.join('\n'));
 }
-console.log(`${dom} : ${nF.length} fiches + ${nQ.length} questions → ${nb} lots dans tools/propositions/relecture/`);
+console.log(`${dom} : ${nF.length} fiches + ${nQ.length} questions → ${nb} lots dans tools/propositions/relecture-niches/`);

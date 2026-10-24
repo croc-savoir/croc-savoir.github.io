@@ -1,0 +1,9 @@
+{
+  "_": "Fiches/questions déjà relues par Opus (= effectif avant les niches), par domaine : [fiches, questions]. relecture.js saute ces premières entrées. manga, jeux-video, cuisine : jamais relus en entier, base = 31/30 (anciennes relues à la main).",
+  "histoire": [100, 100], "geo": [101, 102], "politique": [93, 97], "economie": [91, 95],
+  "religions": [96, 101], "philosophie": [93, 94], "mythologie": [96, 98], "sciences": [98, 101],
+  "astronomie": [101, 100], "corps-humain": [90, 93], "animaux": [99, 102], "nature": [97, 102],
+  "tech": [91, 97], "cinema": [121, 131], "art": [94, 99], "musique": [100, 108],
+  "litterature": [108, 117], "sport": [91, 97],
+  "manga": [31, 30], "jeux-video": [31, 30], "cuisine": [31, 30]
+}

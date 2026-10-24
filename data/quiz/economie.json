@@ -1545,7 +1545,7 @@
     "format": "vrai-faux",
     "affirmation": "Dans une trappe à liquidité, une nouvelle baisse des taux d'intérêt relance facilement l'investissement.",
     "reponse": false,
-    "explication": "C'est l'inverse : les taux sont si bas que presque tout le monde préfère garder du cash plutôt que des obligations, et la banque centrale perd sa prise sur l'économie. Keynes avait décrit ce cas limite dans sa Théorie générale de 1936.",
+    "explication": "C'est l'inverse : les taux sont si bas que presque tout le monde préfère garder de la monnaie plutôt que des obligations, et la banque centrale perd sa prise sur l'économie. Keynes avait décrit ce cas limite dans sa Théorie générale de 1936.",
     "source": "D'après Wikipédia — Trappe à liquidité"
   },
   {
@@ -1620,7 +1620,7 @@
       "Un bien public pur est gratuit à produire"
     ],
     "bonneReponse": 0,
-    "explication": "Un bien public pur est non rival et non excluable, comme une émission de radio. Si l'on installe un contrôle d'accès (péage, télévision cryptée), on obtient un bien de club : l'exclusion devient possible, le passager clandestin aussi.",
+    "explication": "Un bien public pur est non rival et non excluable, comme une émission de radio. Si l'on installe un contrôle d'accès (péage, télévision cryptée), on obtient un bien de club : l'exclusion devient possible, et le passager clandestin peut être écarté.",
     "source": "D'après Wikipédia — Bien public"
   },
   {
@@ -1628,11 +1628,11 @@
     "domain": "economie",
     "format": "qui-suis-je",
     "indices": [
-      "Je suis versé à chaque membre d'une communauté, de la naissance à la mort.",
-      "Je ne tiens pas compte des ressources de la personne qui me reçoit.",
-      "On ne me demande aucune contrepartie en échange.",
       "Thomas More en rêve dans Utopia, en 1516.",
-      "Un fonds alimenté par le pétrole et les mines en verse une forme en Alaska."
+      "Un fonds alimenté par le pétrole et les mines en verse une forme en Alaska.",
+      "On ne me demande aucune contrepartie en échange.",
+      "Je ne tiens pas compte des ressources de la personne qui me reçoit.",
+      "Je suis versé à chaque membre d'une communauté, de la naissance à la mort."
     ],
     "reponse": "Le revenu de base",
     "explication": "Le revenu de base est une somme versée à tous, individuellement, sans condition de ressources ni contrepartie. L'idée est ancienne : Utopia (1516), Thomas Paine, Voltaire. Des essais ont eu lieu au Canada, en Inde et en Namibie.",
@@ -1660,7 +1660,7 @@
     "question": "Qui engage ses fonds propres pour endiguer la panique bancaire de 1907 à New York ?",
     "choix": [
       "J. P. Morgan",
-      "John D. Rockefeller",
+      "Henry Ford",
       "Andrew Carnegie",
       "Charles W. Morse"
     ],
@@ -1704,14 +1704,14 @@
     "format": "vrai-faux",
     "affirmation": "Selon les règles de l'OMC, un pays importateur peut appliquer des droits de douane antidumping pour protéger ses producteurs.",
     "reponse": true,
-    "explication": "Face à un produit vendu à un prix trop bas, l'OMC autorise un droit antidumping correspondant à l'écart entre coût de production et prix de vente. Dans l'Union européenne, une enquête précède l'instauration de ces droits.",
+    "explication": "Face à un produit vendu à un prix anormalement bas, l'OMC autorise un droit antidumping égal à l'écart entre le coût de production, souvent estimé d'après le prix pratiqué dans le pays d'origine, et le prix de vente à l'export. Dans l'Union européenne, une enquête précède l'instauration de ces droits.",
     "source": "D'après Wikipédia — Dumping"
   },
   {
     "id": "q-economie-111",
     "domain": "economie",
     "format": "associer",
-    "question": "Associe chaque crise à son point de départ.",
+    "question": "Associe chaque épisode à son déclencheur.",
     "paires": [
       {
         "gauche": "Panique bancaire de 1907",
@@ -1857,7 +1857,7 @@
       "Pour obliger les étudiants à calculer de tête"
     ],
     "bonneReponse": 0,
-    "explication": "Ses étudiants jugeaient sa notation sévère, avec 72 sur 100 de moyenne. Sur 137, la moyenne passe à 96, un score qui semble excellent, alors que le niveau est identique. Thaler illustre ainsi que la présentation d'un chiffre influence nos réactions.",
+    "explication": "Ses étudiants jugeaient sa notation sévère, avec 72 sur 100 de moyenne. Sur 137, la moyenne passe à 96 : un score qui semble excellent, alors qu'il équivaut à 70 sur 100, un peu moins qu'avant. Plus personne ne se plaint. Thaler illustre ainsi que la présentation d'un chiffre influence nos réactions.",
     "source": "D'après Wikipédia — Richard Thaler"
   },
   {
@@ -1902,7 +1902,7 @@
       "Une crise financière qui revient régulièrement"
     ],
     "bonneReponse": 0,
-    "explication": "Dans Le Cygne noir (2007), Taleb désigne ainsi les événements rares et imprévisibles qui ont des conséquences énormes. Nous les trouvons logiques après coup, alors que les modèles fondés sur le passé les sous-estiment. Le livre s'est vendu à près de trois millions d'exemplaires.",
+    "explication": "Dans Le Cygne noir (2007), Taleb désigne ainsi les événements rares et imprévisibles qui ont des conséquences énormes. Nous les trouvons logiques après coup, alors que les modèles fondés sur le passé les sous-estiment. Le livre s'était déjà vendu à près de trois millions d'exemplaires en 2011.",
     "source": "D'après Wikipédia — Nassim Nicholas Taleb"
   },
   {
@@ -1963,7 +1963,7 @@
     "id": "q-economie-127",
     "domain": "economie",
     "format": "qcm",
-    "question": "À propos de quel dieu Adam Smith parle-t-il pour la première fois d'une « main invisible », dans un essai sur l'histoire de l'astronomie ?",
+    "question": "Dans son essai sur l'histoire de l'astronomie, à quel dieu Adam Smith attribue-t-il une « main invisible » ?",
     "choix": [
       "Jupiter",
       "Mars",
@@ -1990,7 +1990,7 @@
     "question": "Un actionnaire apporte 10 à une entreprise qui emprunte 50 pour acheter 60 d'actifs. Quel est l'effet de levier ?",
     "choix": [
       "6",
-      "5",
+      "4",
       "1,2",
       "60"
     ],
@@ -2002,7 +2002,7 @@
     "id": "q-economie-130",
     "domain": "economie",
     "format": "associer",
-    "question": "Associe chaque économiste à une idée ou une notion qu'il a développée.",
+    "question": "Associe chaque penseur à une idée ou une notion qu'il a développée.",
     "paires": [
       {
         "gauche": "John Kenneth Galbraith",
@@ -2030,7 +2030,7 @@
         "explication": "Certains systèmes ne résistent pas seulement au désordre : ils en tirent profit."
       }
     ],
-    "explication": "Ces cinq économistes contemporains ont chacun popularisé un concept devenu célèbre : technostructure, nouvelle théorie du commerce, nudge, instabilité financière et antifragilité. Chacun décrit un comportement que le modèle classique ignore ou sous-estime.",
+    "explication": "Galbraith décrit en 1967 le pouvoir des gestionnaires, Krugman explique le commerce entre pays semblables, Thaler popularise le « coup de pouce » et Minsky montre que la stabilité nourrit l'instabilité. Taleb, essayiste et ancien trader, a forgé l'idée d'antifragilité.",
     "source": "D'après Wikipédia — John Kenneth Galbraith"
   },
   {
@@ -2056,7 +2056,7 @@
         "annee": "1933"
       },
       {
-        "label": "Son projet de réserves intégrales pour les banques",
+        "label": "100% Money, plaidoyer pour des réserves intégrales",
         "annee": "1935"
       }
     ],
@@ -2075,7 +2075,7 @@
       "Vincent de Gournay"
     ],
     "bonneReponse": 0,
-    "explication": "François Quesnay publie le Tableau économique en 1758 et devient le chef de file incontesté des physiocrates. Il y décrit la circulation des richesses entre paysans, marchands et propriétaires, un peu comme le sang circule dans le corps.",
+    "explication": "François Quesnay fonde le mouvement avec le marquis de Mirabeau, rencontré à Versailles en 1757. Son Tableau économique de 1758 décrit la circulation des richesses entre paysans, propriétaires et marchands, et fait de lui le chef de file incontesté de l'école.",
     "source": "D'après Wikipédia — Physiocratie"
   },
   {
@@ -2237,12 +2237,12 @@
     "format": "qui-suis-je",
     "indices": [
       "Je suis investisseur et sociologue d'origine australienne.",
+      "J'achète des actions que je juge prometteuses et je vends à découvert les autres pour limiter l'effet des marchés.",
       "En 1949, je crée ce qu'on considère comme le premier fonds spéculatif moderne.",
-      "Je l'appelle d'abord un « hedged fund », un fonds couvert.",
-      "J'achète des actions que je juge prometteuses et je vends à découvert les autres pour limiter l'effet des marchés."
+      "Je l'appelle d'abord un « hedged fund », un fonds couvert."
     ],
     "reponse": "Alfred Winslow Jones",
-    "explication": "Alfred Winslow Jones lance son fonds en 1949 et invente l'expression « hedge fund ». Sa méthode combine achats d'actions et ventes à découvert, afin de neutraliser en partie les mouvements du marché. Il est aussi lié au schéma 2 % et 20 %.",
+    "explication": "Alfred Winslow Jones lance son fonds en 1949 et forge l'expression, d'abord écrite « hedged fund ». Sa méthode combine achats d'actions et ventes à découvert pour neutraliser en partie les mouvements du marché. On lui attribue aussi la célèbre commission « 2 et 20 ».",
     "source": "D'après Wikipédia — Gestion alternative"
   },
   {
@@ -2321,7 +2321,7 @@
     "question": "Remets ces étapes de l'histoire de la monnaie unique européenne dans l'ordre.",
     "evenements": [
       {
-        "label": "Naissance de l'Union latine, premier projet d'union monétaire",
+        "label": "Naissance de l'Union latine, union monétaire autour de la France, de la Belgique, de la Suisse et de l'Italie",
         "annee": "1865"
       },
       {
@@ -2341,7 +2341,7 @@
         "annee": "2023"
       }
     ],
-    "explication": "L'Union latine de 1865 fut un premier essai d'union monétaire. Après Maastricht en 1992, l'euro naît en 1999 pour les paiements, puis les pièces et billets circulent dès 2002. La Croatie rejoint la zone en 2023.",
+    "explication": "L'Union latine de 1865 fut un lointain ancêtre de l'euro. Après le traité de Maastricht en 1992, l'euro naît en 1999 pour les marchés et les paiements scripturaux, puis les pièces et billets circulent dès 2002. La Croatie rejoint la zone en 2023.",
     "source": "D'après Wikipédia — Zone euro"
   },
   {
@@ -2440,7 +2440,7 @@
       "New York et la Pennsylvanie"
     ],
     "bonneReponse": 0,
-    "explication": "Dans les années 1880, le New Jersey, en difficulté budgétaire, puis le Delaware en 1898 ont assoupli leur droit des sociétés. Impôts américains obligent, ils n'étaient pas vraiment des paradis fiscaux, mais de futurs paradis s'en sont inspirés.",
+    "explication": "Dans les années 1880, le New Jersey, en difficulté budgétaire, puis le Delaware en 1898 ont assoupli leur droit des sociétés. Les impôts fédéraux et locaux s'y appliquaient : ce n'étaient donc pas de vrais paradis fiscaux, mais bien des futurs paradis ont copié leur modèle.",
     "source": "D'après Wikipédia — Paradis fiscal"
   },
   {
@@ -2470,7 +2470,7 @@
       "Parce que les dettes égalent toujours les stocks"
     ],
     "bonneReponse": 0,
-    "explication": "La comptabilité en partie double enregistre chaque flux deux fois : d'où vient l'argent, et ce qu'on en a fait. L'actif égale donc toujours le passif, avec ou sans gain : le résultat vient simplement s'ajouter du côté du passif.",
+    "explication": "La comptabilité en partie double enregistre chaque flux deux fois : d'où vient l'argent, et ce qu'on en a fait. L'actif égale donc toujours le passif, avec ou sans gain : le résultat de l'exercice s'inscrit au passif, en positif s'il y a bénéfice, en négatif s'il y a perte.",
     "source": "D'après Wikipédia — État de la situation financière"
   },
   {
@@ -2503,13 +2503,13 @@
     "format": "difference",
     "question": "Quelle est la différence entre la solvabilité et la liquidité ?",
     "choix": [
-      "La solvabilité juge la capacité à payer ses dettes à court, moyen et long terme, sans s'appuyer forcément sur les flux de trésorerie, contrairement à la liquidité",
-      "La solvabilité ne concerne que les États, la liquidité seulement les entreprises",
-      "La solvabilité mesure les bénéfices passés, la liquidité les bénéfices futurs",
-      "Les deux mots sont synonymes, seul le vocabulaire change"
+      "La solvabilité vise toutes les dettes, à court comme à long terme ; la liquidité, l'argent disponible pour payer tout de suite",
+      "La solvabilité ne concerne que les États ; la liquidité, seulement les entreprises et les ménages",
+      "La solvabilité mesure les bénéfices déjà réalisés ; la liquidité, les bénéfices attendus dans le futur",
+      "Les deux mots sont synonymes : seul le vocabulaire change entre banquiers et comptables"
     ],
     "bonneReponse": 0,
-    "explication": "La solvabilité évalue si l'on peut honorer ses dettes à court, moyen et long terme. Son analyse n'utilise pas obligatoirement les flux de trésorerie, qui sont au cœur de l'analyse de la liquidité. Un prêteur la vérifie avant d'accorder un crédit.",
+    "explication": "La solvabilité évalue si l'on peut honorer ses dettes à court, moyen et long terme. Son analyse n'utilise pas obligatoirement les flux de trésorerie, qui sont au cœur de l'analyse de la liquidité. Un prêteur la vérifie avant d'accorder un crédit, et son taux en dépend souvent.",
     "source": "D'après Wikipédia — Solvabilité"
   },
   {
@@ -2574,14 +2574,14 @@
       "Le PNB mesure la dette d'un pays, le PIB sa production"
     ],
     "bonneReponse": 0,
-    "explication": "Le PNB suit les résidents d'un pays (principe de nationalité), le PIB suit le lieu de production (principe de territorialité). PNB = PIB + revenus reçus de l'étranger - revenus versés à l'étranger.",
+    "explication": "Le PNB suit les résidents d'un pays (principe de nationalité), le PIB suit le lieu de production (principe de territorialité). PNB = PIB + revenus reçus de l'étranger - revenus versés à l'étranger. En France, on mesure depuis 1993 le revenu national brut, très proche.",
     "source": "D'après Wikipédia — Produit national brut"
   },
   {
     "id": "q-economie-164",
     "domain": "economie",
     "format": "qcm",
-    "question": "Comment s'appelle l'effet qui explique que les monnaies des pays pauvres soient systématiquement sous-évaluées par leur moindre productivité ?",
+    "question": "Comment s'appelle l'effet qui explique que les monnaies des pays pauvres soient sous-évaluées sur les marchés des changes, du fait de leur moindre productivité ?",
     "choix": [
       "L'effet Balassa-Samuelson",
       "L'effet Veblen",
@@ -2621,7 +2621,7 @@
     "domain": "economie",
     "format": "qui-suis-je",
     "indices": [
-      "Mon nom vient du latin trochus, lui-même emprunté au grec.",
+      "Entre étrangers parlant des langues différentes, on m'a pratiqué sans un mot : c'est le « commerce muet ».",
       "Aucune société connue n'a vécu uniquement grâce à moi, selon les anthropologues.",
       "Selon Adam Smith, je suis l'ancêtre de la monnaie.",
       "En Argentine, en 2001, on m'a utilisé pour échanger des voitures contre des céréales."

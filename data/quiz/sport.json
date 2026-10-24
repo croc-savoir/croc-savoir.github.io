@@ -1684,7 +1684,7 @@
     "choix": [
       "Parce que son club, Honvéd, était celui de l'armée et lui a donné le grade de major",
       "Parce qu'il a fait son service militaire comme cavalier",
-      "Parce qu'il courait très vite sur le terrain",
+      "Parce qu'il portait le brassard de capitaine de la Hongrie",
       "Parce que son père était un officier hongrois"
     ],
     "bonneReponse": 0,
@@ -1725,9 +1725,9 @@
     "id": "q-sport-110",
     "domain": "sport",
     "format": "vrai-faux",
-    "affirmation": "Au cours de sa carrière, Alfredo Di Stéfano a porté le maillot de trois sélections nationales.",
+    "affirmation": "Alfredo Di Stéfano n'a jamais disputé un seul match de phase finale de Coupe du monde.",
     "reponse": true,
-    "explication": "Il a porté les couleurs de l'Argentine, de la Colombie puis de l'Espagne, après sa naturalisation en 1956. Malgré cela, il n'a jamais disputé le moindre match d'une phase finale de Coupe du monde.",
+    "explication": "C'est vrai, malgré son immense carrière. Il a joué pour l'Argentine, avec qui il gagne la Copa América 1947, puis pour l'Espagne après sa naturalisation en 1956, sans jamais disputer une phase finale de Coupe du monde.",
     "source": "D'après Wikipédia — Alfredo Di Stéfano"
   },
   {
@@ -1739,16 +1739,16 @@
       {
         "gauche": "Yannick Noah",
         "droite": "Vainqueur de Roland-Garros en 1983",
-        "explication": "Il bat Mats Wilander en finale, un sacre français attendu depuis très longtemps."
+        "explication": "Il bat Mats Wilander en finale, premier sacre d'un Français à Paris depuis 37 ans."
       },
       {
         "gauche": "Björn Borg",
         "droite": "Cinq Wimbledon consécutifs",
-        "explication": "Il enchaîne les titres sur gazon et bat John McEnroe lors d'une finale légendaire."
+        "explication": "Il enchaîne les titres sur gazon de 1976 à 1980 et bat John McEnroe lors de la finale légendaire de 1980."
       },
       {
         "gauche": "Martina Navrátilová",
-        "droite": "Une série record de victoires consécutives",
+        "droite": "74 matchs gagnés d'affilée, un record",
         "explication": "Sa série s'arrête en 1984, face à Helena Suková à l'Open d'Australie."
       },
       {
@@ -1824,15 +1824,15 @@
     "id": "q-sport-115",
     "domain": "sport",
     "format": "difference",
-    "question": "Quelle est la différence entre le Grand Chelem de Steffi Graf en 1988 et celui de Martina Navrátilová en 1984 ?",
+    "question": "Quelle est la différence entre le Grand Chelem en simple de Steffi Graf en 1988 et celui de Martina Navrátilová, achevé en 1984 ?",
     "choix": [
       "Graf gagne les quatre tournois la même année civile, Navrátilová les gagne à cheval sur deux saisons",
-      "Graf gagne en simple et en double, Navrátilová seulement en simple",
+      "Graf réussit l'exploit à 30 ans, Navrátilová à 18 ans",
       "Graf gagne sur une seule surface, Navrátilová sur quatre",
       "Il n'y a aucune différence entre les deux exploits"
     ],
     "bonneReponse": 0,
-    "explication": "Graf remporte l'Open d'Australie, Roland-Garros, Wimbledon et l'US Open en 1988. Navrátilová détient les quatre titres en même temps, mais gagnés entre 1983 et 1984 : on parle de « Grand Chelem sur deux ans ».",
+    "explication": "Graf remporte l'Open d'Australie, Roland-Garros, Wimbledon et l'US Open dans la seule année 1988. Navrátilová détient les quatre titres en même temps après Roland-Garros 1984, mais les a gagnés entre 1983 et 1984 : on parle de « Grand Chelem sur deux ans ».",
     "source": "D'après Wikipédia — Martina Navrátilová"
   },
   {
@@ -1925,7 +1925,7 @@
       "Huit fois"
     ],
     "bonneReponse": 0,
-    "explication": "Fourcade gagne le gros globe de cristal sept saisons d'affilée, de 2012 à 2018. Il est aussi le biathlète qui a signé quatre « grands chelems » en ramenant tous les globes de cristal d'une même saison.",
+    "explication": "Fourcade gagne le gros globe de cristal sept saisons d'affilée, de 2012 à 2018, un record. Il est aussi le seul biathlète à avoir signé quatre « grands chelems », en remportant tous les globes de cristal mis en jeu lors d'une même saison.",
     "source": "D'après Wikipédia — Martin Fourcade"
   },
   {
@@ -1951,7 +1951,7 @@
       "Je suis né en 1922 dans une famille modeste de Moravie.",
       "J'ai commencé à courir pour une usine de chaussures.",
       "Ma femme Dana a gagné l'or au javelot aux mêmes Jeux que moi.",
-      "On m'appelait la « locomotive tchèque », pour mon visage crispé.",
+      "On m'appelait la « locomotive tchèque », pour mon souffle bruyant et mon style tourmenté.",
       "En 1952, à Helsinki, j'ai gagné le 5 000 m, le 10 000 m et mon premier marathon."
     ],
     "reponse": "Emil Zátopek",
@@ -2022,7 +2022,7 @@
     "id": "q-sport-128",
     "domain": "sport",
     "format": "qcm",
-    "question": "Quel entraîneur de Yale, considéré comme le « père du football américain », a réduit les équipes de quinze à onze joueurs en 1880 ?",
+    "question": "Quel homme de l'université Yale, considéré comme le « père du football américain », a fait passer les équipes de quinze à onze joueurs en 1880 ?",
     "choix": [
       "Walter Camp",
       "William Webb Ellis",
@@ -2039,7 +2039,7 @@
     "format": "vrai-faux",
     "affirmation": "Le water-polo féminin est apparu aux Jeux olympiques dès 1900, en même temps que le water-polo masculin.",
     "reponse": false,
-    "explication": "Le water-polo est olympique dès 1900 pour les hommes, mais les femmes ne rejoignent le programme qu'aux Jeux de Sydney, en 2000. Avant cette date, leurs équipes comptaient onze joueuses, contre treize ensuite.",
+    "explication": "Le water-polo est olympique dès 1900 pour les hommes, mais les femmes ne rejoignent le programme qu'aux Jeux de Sydney, en 2000. Leur premier championnat du monde, lui, date de 1986, soit plus de soixante-dix ans après celui des hommes (1913).",
     "source": "D'après Wikipédia — Water-polo"
   },
   {
@@ -2105,13 +2105,13 @@
       },
       {
         "gauche": "Axel Paulsen",
-        "droite": "Saut qui porte son nom",
+        "droite": "Le saut appelé axel",
         "explication": "Ce Norvégien invente l'axel à Vienne en 1882."
       },
       {
         "gauche": "Ulrich Salchow",
-        "droite": "Figure appelée le salchow",
-        "explication": "Ce Suédois laisse son nom à une figure en 1898."
+        "droite": "Le saut appelé salchow",
+        "explication": "Ce Suédois laisse son nom à ce saut en 1898."
       }
     ],
     "explication": "Au XIXe siècle, le patinage devient un art : lames d'acier en 1850, danse classique en 1860, puis figures qui portent le nom de leurs inventeurs, comme l'axel de Paulsen en 1882 et le salchow en 1898.",
@@ -2175,7 +2175,7 @@
     "id": "q-sport-138",
     "domain": "sport",
     "format": "qcm",
-    "question": "Quel mouvement a disparu des compétitions d'haltérophilie en 1972 ?",
+    "question": "Quel mouvement a été retiré des compétitions d'haltérophilie après les Jeux de 1972 ?",
     "choix": [
       "Le développé",
       "L'arraché",
@@ -2229,9 +2229,9 @@
     "id": "q-sport-142",
     "domain": "sport",
     "format": "vrai-faux",
-    "affirmation": "Jusqu'en 2001, la catégorie reine des Grands Prix de moto utilisait des moteurs de 500 cm3 deux-temps.",
+    "affirmation": "Jusqu'en 2001, la catégorie reine des Grands Prix de moto était la catégorie 500 cm3.",
     "reponse": true,
-    "explication": "Vrai. La catégorie reine est restée une catégorie 500 cm3 de 1949 à 2001. En 2002, elle devient le MotoGP, avec des moteurs quatre-temps de 990 cm3 qui dominent vite leurs rivaux, puis 800 cm3 en 2007.",
+    "explication": "Vrai. De 1949 à 2001, la catégorie reine est la « 500 cm3 », où les moteurs deux-temps s'imposent dès les années 1970. En 2002, elle devient le MotoGP : les quatre-temps de 990 cm3 y dominent vite les deux-temps, puis la cylindrée passe à 800 cm3 en 2007.",
     "source": "D'après Wikipédia — MotoGP"
   },
   {
@@ -2242,7 +2242,7 @@
     "choix": [
       "George Weah",
       "Ronaldo",
-      "Diego Maradona",
+      "Romário",
       "Pelé"
     ],
     "bonneReponse": 0,
@@ -2261,7 +2261,7 @@
       "On m'appelle « l'enfer du Nord »."
     ],
     "reponse": "Paris-Roubaix",
-    "explication": "Paris-Roubaix est née en 1896 pour inaugurer le vélodrome de Roubaix. Ses secteurs pavés lui valent le surnom d'« enfer du Nord », et son vainqueur reçoit un véritable pavé en guise de trophée.",
+    "explication": "Paris-Roubaix est née en 1896 pour mener une grande course sur route jusqu'au nouveau vélodrome de Roubaix. Son surnom d'« enfer du Nord » date de 1919 : il décrit un parcours ravagé par la guerre. Depuis 1977, le vainqueur reçoit un véritable pavé.",
     "source": "D'après Wikipédia — Paris-Roubaix"
   },
   {
@@ -2276,7 +2276,7 @@
       "Les joueurs ont boycotté l'épreuve"
     ],
     "bonneReponse": 0,
-    "explication": "Pour attirer les meilleurs joueurs, les organisateurs ont reculé le tournoi, joué en décembre jusqu'en 1985, à la mi-janvier. L'édition suivante a donc eu lieu en janvier 1987, sans édition en 1986.",
+    "explication": "Disputé à la mi-décembre de 1982 à 1985, le tournoi a été reculé d'un mois, à la mi-janvier. L'édition suivante n'a donc eu lieu qu'en janvier 1987 : aucune en 1986, ce qui compense les deux éditions jouées en 1977.",
     "source": "D'après Wikipédia — Open d'Australie"
   },
   {
@@ -2467,7 +2467,7 @@
       "L'Allemagne"
     ],
     "bonneReponse": 0,
-    "explication": "Pour la première fois, des joueurs de la NBA étaient autorisés aux Jeux. Michael Jordan, Magic Johnson et Larry Bird battent la Croatie 117 à 85 en finale, le 8 août 1992, après huit victoires par au moins 32 points d'écart.",
+    "explication": "Pour la première fois, des joueurs de la NBA étaient autorisés aux Jeux. La Dream Team de Michael Jordan, Magic Johnson et Larry Bird bat la Croatie 117 à 85 en finale, le 8 août 1992 : ses huit matchs ont tous été gagnés par au moins 32 points d'écart.",
     "source": "D'après Wikipédia — Jeux olympiques d'été de 1992"
   },
   {
@@ -2551,7 +2551,7 @@
       "Du mot polonais pour « premier »"
     ],
     "bonneReponse": 0,
-    "explication": "Le terme vient des courses hippiques : dans les courses hippiques, le partant numéro 1 se trouvait contre la corde, tout près du poteau intérieur, ce que dit « pole » en anglais. Le mot a ensuite été repris par le sport automobile pour désigner la première place de la grille.",
+    "explication": "Le terme vient des courses hippiques : le cheval numéro 1 partait à la corde, tout près du poteau intérieur de la piste, ce que dit « pole » en anglais. Le sport automobile a ensuite repris le mot pour désigner la première place de la grille de départ.",
     "source": "D'après Wikipédia — Pole position"
   },
   {
@@ -2590,7 +2590,7 @@
         "annee": "1995"
       }
     ],
-    "explication": "L'UEFA est fondée en 1954 et lance dès 1955 la Coupe des clubs champions. L'URSS gagne le premier Euro en 1960. La Coupe UEFA apparaît en 1971, et l'arrêt Bosman bouleverse le football européen en 1995.",
+    "explication": "L'UEFA est fondée en 1954 à Bâle, et dès 1955 naît la Coupe des clubs champions, imaginée par le journal L'Équipe. L'URSS gagne le premier Euro en 1960 à Paris. La Coupe UEFA apparaît en 1971, et l'arrêt Bosman bouleverse le football européen en 1995.",
     "source": "D'après Wikipédia — Union des associations européennes de football"
   },
   {
@@ -2620,7 +2620,7 @@
       "Porter des gants pour mieux saisir le ballon"
     ],
     "bonneReponse": 0,
-    "explication": "La règle de la passe en retrait a été instaurée pour limiter la perte de temps. Le gardien peut jouer le ballon du pied, mais pas le saisir à la main. Une tête, elle, peut être attrapée sans sanction.",
+    "explication": "La règle de la passe en retrait a été instaurée pour limiter la perte de temps. Le gardien peut jouer du pied une passe volontaire d'un coéquipier, mais pas la saisir à la main, sous peine de coup franc indirect. Une tête, elle, peut être attrapée sans sanction.",
     "source": "D'après Wikipédia — Gardien de but"
   },
   {
@@ -2628,10 +2628,10 @@
     "domain": "sport",
     "format": "qui-suis-je",
     "indices": [
-      "Une idée d'un arbitre anglais, Ken Aston, après un quart de finale tendu en 1966.",
-      "Je m'inspire des feux de circulation pour être compris dans toutes les langues.",
-      "On m'a vu pour la première fois à la Coupe du monde 1970.",
-      "On me retrouve aussi au handball, en badminton ou en marche athlétique.",
+      "Mon idée est née après qu'un capitaine argentin, expulsé à Wembley en 1966, a refusé de quitter le terrain.",
+      "L'arbitre anglais Ken Aston m'a imaginé d'après les feux de circulation : je suis la couleur du « stop ».",
+      "On m'a vu pour la première fois à la Coupe du monde 1970, au Mexique.",
+      "Au badminton, je donne un point à l'adversaire ; en marche athlétique, trois comme moi valent la disqualification.",
       "Quand l'arbitre me brandit, un joueur doit quitter le terrain."
     ],
     "reponse": "Le carton rouge",

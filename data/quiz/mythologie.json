@@ -1612,13 +1612,13 @@
     "format": "qcm",
     "question": "Selon Pausanias, quel sculpteur a représenté Hécate en triple pour la première fois ?",
     "choix": [
-      "Alcamenes",
+      "Alcamène",
       "Phidias",
       "Praxitèle",
       "Lysippe"
     ],
     "bonneReponse": 0,
-    "explication": "Pausanias attribue à Alcamenes, à la fin du Ve siècle av. J.-C., les trois statues d'Hécate dos à dos. Ce modèle, l'hécatéion, a été copié des centaines de fois et placé aux carrefours et à l'entrée des maisons.",
+    "explication": "Pausanias attribue à Alcamène, à la fin du Ve siècle av. J.-C., les trois statues d'Hécate dos à dos. Ce modèle, l'hécatéion, a été copié des centaines de fois et placé aux carrefours et à l'entrée des maisons.",
     "source": "D'après Wikipédia — Hécate"
   },
   {
@@ -1732,7 +1732,7 @@
     "format": "vrai-faux",
     "affirmation": "Selon Pindare, c'est Athéna qui offre en rêve à Bellérophon la bride d'or permettant de dompter Pégase.",
     "reponse": true,
-    "explication": "Dans les Olympiques, Athéna apparaît à Bellérophon endormi et lui remet un frein d'or. Il l'offre ensuite à Poséidon, avec un sacrifice, puis capture Pégase, qui aimait boire à la fontaine de Pirène.",
+    "explication": "Dans la XIIIe Olympique, Athéna apparaît à Bellérophon endormi sur son autel et lui apporte un frein d'or. Sur le conseil du devin, il sacrifie un taureau à Poséidon et élève un autel à Athéna Équestre, puis capture Pégase et le dompte sans peine.",
     "source": "D'après Wikipédia — Bellérophon"
   },
   {
@@ -1743,7 +1743,7 @@
     "choix": [
       "Les vents tombent parce qu'Artémis est offensée",
       "Poséidon déchaîne une tempête",
-      "Une peste frappe les équipages",
+      "Les Troyens bloquent l'entrée du port",
       "L'oracle de Delphes interdit le départ"
     ],
     "bonneReponse": 0,
@@ -1799,7 +1799,7 @@
     "id": "q-mythologie-114",
     "domain": "mythologie",
     "format": "associer",
-    "question": "Associe chaque héros ou héroïne à son épisode célèbre.",
+    "question": "Associe chaque personnage à son épisode célèbre.",
     "paires": [
       {
         "gauche": "Persée",
@@ -1822,7 +1822,7 @@
         "explication": "Frère de Ménélas, il est le roi le plus puissant de Grèce."
       }
     ],
-    "explication": "Ces héros et figures de la Grèce sont chacun connus pour un épisode précis, raconté par Hésiode, Homère, Pindare ou Ovide selon les cas, parfois avec plusieurs versions.",
+    "explication": "Persée et Bellérophon comptent, avec Cadmos, parmi les grands tueurs de monstres d'avant Héraclès. Circé et Agamemnon appartiennent au cycle troyen : l'une retient Ulysse un an sur son île d'Ééa, l'autre commande l'armée grecque devant Troie.",
     "source": "D'après Wikipédia — Persée"
   },
   {
@@ -1846,7 +1846,7 @@
     "format": "vrai-faux",
     "affirmation": "Selon la tradition, Hector a tué plus de héros grecs qu'Achille n'a tué de Troyens.",
     "reponse": false,
-    "explication": "Hector tue 24 héros grecs, un record pour un guerrier, mais Achille tue 28 Troyens. Après Achille, Hector reste le plus vaillant de la guerre, et c'est son duel avec lui qui domine la fin de l'Iliade.",
+    "explication": "Hector tue 24 héros grecs, l'un des plus hauts totaux de la guerre, mais Achille tue 28 Troyens. Après Achille, Hector reste le plus vaillant des combattants, et c'est son duel avec lui qui domine la fin de l'Iliade.",
     "source": "D'après Wikipédia — Hector"
   },
   {
@@ -1885,7 +1885,7 @@
       "Déiphobe"
     ],
     "bonneReponse": 0,
-    "explication": "Dans l'Iliade, il porte 45 fois le nom d'Alexandre contre 13 fois celui de Pâris. Selon la tradition, ce nom (« le protecteur ») rappelle qu'il a survécu, enfant, à son abandon sur le mont Ida.",
+    "explication": "Dans l'Iliade, il porte 45 fois le nom d'Alexandre contre 13 fois celui de Pâris. Selon la tradition, ce nom, qui signifie « le protecteur » ou « le protégé », rappelle qu'il a survécu, enfant, à son abandon sur le mont Ida.",
     "source": "D'après Wikipédia — Pâris"
   },
   {
@@ -1937,7 +1937,7 @@
     "id": "q-mythologie-123",
     "domain": "mythologie",
     "format": "qcm",
-    "question": "Quel Titan Héraclès trompe-t-il, grâce à un faux coussin, pour garder les pommes d'or des Hespérides ?",
+    "question": "Quel Titan Héraclès trompe-t-il, sous prétexte d'arranger un coussin sur ses épaules, pour garder les pommes d'or des Hespérides ?",
     "choix": [
       "Atlas",
       "Prométhée",
@@ -2069,7 +2069,7 @@
       "Ulysse me crève mon unique œil."
     ],
     "reponse": "Polyphème",
-    "explication": "Polyphème est le plus célèbre des cyclopes de l'Odyssée, un berger sauvage de Sicile. Euripide en fait aussi un personnage de drame satyrique, où Ulysse rencontre des satyres devenus ses esclaves.",
+    "explication": "Polyphème est le plus célèbre des cyclopes de l'Odyssée, un berger sauvage de Sicile. Euripide en fait aussi un personnage de drame satyrique, Le Cyclope, où Ulysse rencontre des satyres que le géant a réduits en esclavage.",
     "source": "D'après Wikipédia — Cyclope"
   },
   {
@@ -2145,16 +2145,16 @@
     "id": "q-mythologie-136",
     "domain": "mythologie",
     "format": "vrai-faux",
-    "affirmation": "Les « cornes de licorne » vendues en Europe étaient en réalité des dents de narval.",
-    "reponse": true,
-    "explication": "Le narval est un mammifère marin de l'Arctique dont la longue dent spiralée a longtemps été vendue comme corne de licorne, de la fin du Moyen Âge à la Renaissance. Elle passait pour purifier les poisons et guérir les maladies.",
+    "affirmation": "La licorne est une créature de la mythologie grecque, présente dans les grands mythes des dieux et des héros.",
+    "reponse": false,
+    "explication": "La licorne n'appartient pas à la mythologie grecque : elle vient des récits d'histoire naturelle. Ctésias, qui vivait en Perse, la décrit comme un âne sauvage d'Inde, et les savants grecs la croyaient bien réelle, simplement lointaine.",
     "source": "D'après Wikipédia — Licorne"
   },
   {
     "id": "q-mythologie-137",
     "domain": "mythologie",
     "format": "qcm",
-    "question": "Quel médecin danois démontre en 1638 que les prétendus alicornes sont des dents de narval ?",
+    "question": "Quel médecin danois démontre en 1638 que les prétendues « cornes de licorne » sont des dents de narval ?",
     "choix": [
       "Ole Worm",
       "Thomas Browne",
@@ -2222,7 +2222,7 @@
         "explication": "Chez les Nordiques, le dieu du tonnerre combat le serpent-monde, notamment au Ragnarök."
       }
     ],
-    "explication": "Ces combats illustrent un thème commun du Proche-Orient et d'ailleurs : un dieu créateur impose l'ordre en terrassant un monstre qui incarne le chaos. Le Léviathan biblique prolonge cette tradition.",
+    "explication": "Ces combats illustrent un thème très répandu au Proche-Orient et ailleurs : un dieu ou un héros impose l'ordre en terrassant un monstre qui incarne le chaos. Le Léviathan biblique prolonge cette tradition.",
     "source": "D'après Wikipédia — Léviathan"
   },
   {
@@ -2252,7 +2252,7 @@
       "Fauna"
     ],
     "bonneReponse": 0,
-    "explication": "« Fée » vient du latin fata, issu des trois Parques romaines, équivalents des Moires grecques, gardiennes du destin. D'où l'idée que la fée peut influencer l'avenir de l'enfant dont elle se penche sur le berceau.",
+    "explication": "« Fée » vient du latin fata, nom donné aux trois Parques romaines, équivalents des Moires grecques, gardiennes du destin. D'où l'idée que la fée qui se penche sur un berceau peut influencer l'avenir de l'enfant.",
     "source": "D'après Wikipédia — Fée"
   },
   {
@@ -2380,11 +2380,11 @@
       "Selon un récit tardif, je suis né de la salive de la déesse Neith.",
       "Mon nom signifie « géant » ou « serpent géant ».",
       "On brûlait mon effigie lors d'un rite annuel.",
-      "Chaque nuit, un chat tue mon corps avec un couteau dans le Livre des morts.",
+      "Dans le Livre des morts, le chat de Rê me tue avec un couteau.",
       "J'attaque chaque nuit la barque du dieu Soleil Rê."
     ],
     "reponse": "Apophis",
-    "explication": "Apophis, ou Apep, est le serpent du chaos, ennemi de Rê. Chaque nuit, il attaque la barque solaire et chaque matin il est vaincu. Un astéroïde, (99942) Apophis, porte son nom.",
+    "explication": "Apophis, ou Apep, est le serpent du chaos, ennemi de Rê. Chaque nuit, il attaque la barque solaire et chaque nuit il est repoussé : le lever du soleil marque sa défaite. Un astéroïde, (99942) Apophis, porte aujourd'hui son nom.",
     "source": "D'après Wikipédia — Apophis"
   },
   {
@@ -2548,7 +2548,7 @@
       "Tsukuyomi a perdu sa route dans le Yomi"
     ],
     "bonneReponse": 0,
-    "explication": "Après le meurtre d'Ukemochi, déesse de la nourriture, Amaterasu refuse de revoir son frère et s'installe ailleurs dans le ciel. Le mythe explique ainsi pourquoi le Soleil et la Lune ne se croisent jamais.",
+    "explication": "Tsukuyomi ayant tué Ukemochi, déesse de la nourriture, Amaterasu refuse de revoir son frère et s'installe dans une autre partie du ciel. Selon ce récit du Nihon shoki, c'est pourquoi le Soleil et la Lune, le jour et la nuit, ne se croisent jamais.",
     "source": "D'après Wikipédia — Tsukuyomi"
   },
   {
@@ -2602,7 +2602,7 @@
     "format": "vrai-faux",
     "affirmation": "Le Popol Vuh que nous connaissons a été écrit avant l'arrivée des Espagnols.",
     "reponse": false,
-    "explication": "Le récit vient d'une tradition ancienne, mais le texte connu a été noté en lettres latines entre 1554 et 1558, après la conquête. Seule la copie de Francisco Ximénez, vers 1701-1703, nous est parvenue.",
+    "explication": "Le récit vient d'une tradition ancienne, mais le texte connu a été noté en quiché, en lettres latines, vers 1554-1558 selon Dennis Tedlock, une trentaine d'années après la conquête. Seule la copie de Francisco Ximénez, faite vers 1701-1703, nous est parvenue.",
     "source": "D'après Wikipédia — Popol Vuh"
   },
   {
@@ -2632,7 +2632,7 @@
       "Urquchillay, protecteur des animaux"
     ],
     "bonneReponse": 0,
-    "explication": "Inti, le dieu Soleil, chaleur et lumière du peuple inca, était la divinité majeure, et les empereurs se réclamaient de sa descendance. Pachakuti l'avait placé au-dessus du dieu universel Wiraqucha.",
+    "explication": "Inti, dieu du Soleil, source de chaleur et de lumière et protecteur du peuple inca, était la divinité majeure : les empereurs se réclamaient de sa descendance. L'empereur Pachakuti l'avait placé au-dessus du dieu universel Wiraqucha.",
     "source": "D'après Wikipédia — Mythologie inca"
   },
   {
@@ -2716,7 +2716,7 @@
       "Les gardiens du chaudron"
     ],
     "bonneReponse": 0,
-    "explication": "Tuatha veut dire « tribus » ou « peuple », et Danann se rattache à la déesse Danu, appelée Anu dans certains textes. Les plus anciens écrits parlent simplement de « tribu des dieux », Tuath Dé.",
+    "explication": "Tuatha veut dire « tribus » ou « peuple », et Danann est généralement rattaché à une déesse Danu, dont Anu serait une autre forme. Les plus anciens écrits parlent simplement de « tribu des dieux », Tuath Dé.",
     "source": "D'après Wikipédia — Tuatha Dé Danann"
   },
   {
@@ -2794,13 +2794,13 @@
     "format": "qui-suis-je",
     "indices": [
       "Dans un recueil gallois médiéval, mon nom signifie « corbeau ».",
-      "Ma sœur Branwen épouse le roi d'Irlande.",
-      "Je suis si grand qu'aucune maison ni aucun bateau ne peut me porter.",
       "Je traverse la mer d'Irlande à gué.",
-      "Blessé par une lance empoisonnée, je demande qu'on me coupe la tête."
+      "Je suis si grand qu'aucune maison ne peut m'accueillir ni aucun bateau me porter.",
+      "Blessé au pied par une lance empoisonnée, je demande qu'on me coupe la tête.",
+      "Ma sœur Branwen épouse le roi d'Irlande."
     ],
     "reponse": "Bran le Béni",
-    "explication": "Bran le Béni, géant fils de Llyr, est l'un des héros de la deuxième branche du Mabinogi. Sa tête coupée, selon le récit, reste une agréable compagne pour ses compagnons avant d'être enterrée à Londres.",
+    "explication": "Bran le Béni, géant fils de Llyr, est l'un des héros de la deuxième branche du Mabinogi. Selon le récit, sa tête coupée reste d'aussi agréable compagnie que de son vivant pendant le long voyage de ses compagnons, avant d'être enterrée à Londres, face à la France.",
     "source": "D'après Wikipédia — Mabinogion"
   },
   {
@@ -2815,7 +2815,7 @@
       "En ivoire, avec une couronne de fer"
     ],
     "bonneReponse": 0,
-    "explication": "La chronique de 980 décrit cette idole de Péroun, dieu de la foudre, placée sur une colline avec celles de Khors, Stribog, Simargl et Mokoch. Vladimir détruira ces idoles après son baptême en 988.",
+    "explication": "La chronique rapporte, à l'année 980, que Vladimir fit dresser sur une colline de Kiev l'idole de Péroun, dieu de la foudre, avec celles de Khors, Stribog, Simargl et Mokoch. Après son baptême, en 988, le prince fera abattre ces idoles.",
     "source": "D'après Wikipédia — Mythologie slave"
   },
   {
@@ -3004,7 +3004,7 @@
       "Zahhak"
     ],
     "bonneReponse": 0,
-    "explication": "Dans le Devi Mahatmya, Durga et ses compagnes ne parviennent pas à vaincre Raktabija, dont chaque goutte de sang crée un double. Elles appellent Kali, qui recueille le sang avant qu'il ne touche le sol et met fin au combat.",
+    "explication": "Dans le Devi Mahatmya, Durga et ses compagnes ne parviennent pas à vaincre Raktabija, dont chaque goutte de sang crée un double. Durga fait alors appel à Kali, qui recueille le sang avant qu'il ne touche le sol et met fin au combat.",
     "source": "D'après Wikipédia — Kali"
   },
   {
@@ -3079,7 +3079,7 @@
       "Fille du feu"
     ],
     "bonneReponse": 0,
-    "explication": "Le nom viendrait de mots celtiques qui associent muir, « mer », et gen, « née de ». Morgane serait donc la « née de la mer », ce qui la rapproche des morgens, esprits des eaux du folklore breton.",
+    "explication": "Le nom viendrait de mots celtiques qui associent la « mer » (muir en irlandais, môr en gallois) et gen, « née de ». Morgane serait donc la « née de la mer », ce qui la rapproche des morgens, fées des eaux du folklore gallois et breton.",
     "source": "D'après Wikipédia — Fée Morgane"
   },
   {
@@ -3176,19 +3176,19 @@
     "question": "Associe chaque figure de la mythologie perse à ce qui la caractérise.",
     "paires": [
       {
+        "gauche": "Ahura Mazda",
+        "droite": "Dieu de la lumière, « Seigneur de la Sagesse »",
+        "explication": "Créateur du monde, il lutte sans fin contre Ahriman."
+      },
+      {
+        "gauche": "Rostam",
+        "droite": "Héros le plus célèbre des légendes iraniennes",
+        "explication": "Ses exploits sont chantés dans le Livre des Rois de Ferdowsi."
+      },
+      {
         "gauche": "Homa",
         "droite": "Oiseau royal de la victoire",
         "explication": "Ses plumes ornaient les couronnes persanes."
-      },
-      {
-        "gauche": "Simorgh",
-        "droite": "Grand oiseau beau et puissant",
-        "explication": "C'est l'oiseau le plus célèbre de la mythologie iranienne."
-      },
-      {
-        "gauche": "Samandar",
-        "droite": "Le phénix",
-        "explication": "Cet oiseau de feu renaît de ses cendres."
       },
       {
         "gauche": "Zahhak",
@@ -3196,7 +3196,7 @@
         "explication": "Il est renversé grâce à la révolte du forgeron Kaveh."
       }
     ],
-    "explication": "La mythologie perse oppose le bien et le mal : des oiseaux de bon augure d'un côté, un tyran protégé par des serpents de l'autre.",
+    "explication": "La mythologie perse oppose le bien et le mal : d'un côté Ahura Mazda, les héros et les oiseaux de bon augure ; de l'autre, des figures maléfiques comme Zahhak, dont les serpents symbolisent le mal.",
     "source": "D'après Wikipédia — Mythologie perse"
   },
   {
@@ -3204,9 +3204,9 @@
     "domain": "mythologie",
     "format": "qui-suis-je",
     "indices": [
-      "Les Mésopotamiens me tiennent pour le plus rusé des dieux.",
       "Mon vizir Isimud a deux visages.",
       "On me figure en homme barbu dont les épaules laissent jaillir des flots chargés de poissons.",
+      "Les Mésopotamiens me tiennent pour le plus rusé des dieux.",
       "Selon Atrahasis, j'ai aidé à façonner l'humanité à partir d'argile.",
       "Eridu est ma ville, et mon fils s'appelle Marduk."
     ],
@@ -3221,10 +3221,6 @@
     "question": "Remets dans l'ordre ces textes de la légende de Tristan et Iseut.",
     "evenements": [
       {
-        "label": "Béroul écrit son Roman de Tristan",
-        "annee": "1170"
-      },
-      {
         "label": "Thomas d'Angleterre compose son Tristan",
         "annee": "1175"
       },
@@ -3237,11 +3233,15 @@
         "annee": "1226"
       },
       {
+        "label": "Création de l'opéra Tristan und Isolde de Wagner",
+        "annee": "1865"
+      },
+      {
         "label": "Joseph Bédier reconstitue une version complète",
         "annee": "1900"
       }
     ],
-    "explication": "Béroul et Thomas donnent vers 1170-1175 les deux grandes versions médiévales. Gottfried, puis la Saga norvégienne, les prolongent. Au début du XXe siècle, Bédier recompose le récit complet que lit le grand public.",
+    "explication": "Thomas d'Angleterre donne vers 1175 la version dite « courtoise ». Gottfried de Strasbourg, vers 1210, puis la Saga norvégienne de Frère Robert, en 1226, s'en inspirent. Wagner en tire un opéra créé en 1865, et Bédier recompose à partir de 1900 le récit complet que lit le grand public.",
     "source": "D'après Wikipédia — Tristan et Iseut"
   },
   {

@@ -1577,7 +1577,7 @@
     "id": "q-astronomie-102",
     "domain": "astronomie",
     "format": "qcm",
-    "question": "Quel écrivain a affirmé dès 1727 que Mars possède deux lunes ?",
+    "question": "Quel écrivain a affirmé dès 1726 que Mars possède deux lunes ?",
     "choix": [
       "Jonathan Swift",
       "Daniel Defoe",
@@ -1585,7 +1585,7 @@
       "Henry Fielding"
     ],
     "bonneReponse": 0,
-    "explication": "Dans Voyage à Laputa (1727), Jonathan Swift attribue deux lunes à Mars et en donne les périodes, inexactes, à peu près un siècle et demi avant qu'Asaph Hall ne les découvre en 1877. Des formations de Phobos portent des noms tirés de ses romans.",
+    "explication": "Dans Les Voyages de Gulliver (1726), lors de l'escale à Laputa, Jonathan Swift attribue deux lunes à Mars et en donne les périodes, inexactes, un siècle et demi avant qu'Asaph Hall ne les découvre en 1877. Des formations de Phobos portent des noms tirés de ce livre.",
     "source": "D'après Wikipédia — Phobos (lune)"
   },
   {
@@ -1705,7 +1705,7 @@
       "À prévoir les éruptions solaires"
     ],
     "bonneReponse": 0,
-    "explication": "Plus elle brille fort, plus sa période est longue. En mesurant la période, on connaît sa vraie luminosité ; puis, en la confrontant à son éclat vu de la Terre, on obtient sa distance. Hubble les repère jusqu'à environ 80 millions d'années-lumière.",
+    "explication": "Plus une céphéide est lumineuse, plus sa période est longue. En mesurant cette période, on connaît sa vraie luminosité ; en la confrontant à son éclat vu de la Terre, on obtient sa distance. Le télescope Hubble les repère jusqu'à environ 80 millions d'années-lumière.",
     "source": "D'après Wikipédia — Céphéide"
   },
   {
@@ -1802,7 +1802,7 @@
     "indices": [
       "On m'a trouvée le 24 mars 1993 au soir, sur un cliché pris au Mont Palomar.",
       "Je suis la toute première comète vue tournant autour d'une planète.",
-      "Un passage à un peu plus de 40 000 km de ses nuages, en 1992, m'a brisée en fragments désignés de A à W.",
+      "En juillet 1992, un passage à un peu plus de 40 000 km des nuages de ma planète m'a brisée en fragments désignés de A à W.",
       "Du 16 au 22 juillet 1994, mes fragments se sont écrasés sur Jupiter.",
       "Mon nom associe ceux de mes découvreurs."
     ],
@@ -1891,7 +1891,7 @@
       "Le gaz galactique freine les étoiles avant le choc"
     ],
     "bonneReponse": 0,
-    "explication": "Les étoiles sont séparées par d'immenses distances : une galaxie est en moyenne moins dense qu'un nuage de fumée de cigarette. La Voie lactée et Andromède doivent se croiser dans environ quatre milliards d'années, avec peu de chocs entre étoiles.",
+    "explication": "Les étoiles sont séparées par d'immenses distances : une galaxie est en moyenne moins dense qu'un nuage de fumée de cigarette. Si la Voie lactée et Andromède se croisent d'ici quelques milliards d'années, les chocs entre étoiles resteront donc rares.",
     "source": "D'après Wikipédia — Galaxie spirale"
   },
   {
@@ -2005,7 +2005,7 @@
       "Les étoiles y restent visibles en plein jour"
     ],
     "bonneReponse": 0,
-    "explication": "À Syène, le Soleil est alors à la verticale : un puits est éclairé jusqu'au fond. À Alexandrie, un bâton projette une ombre d'un cinquantième de cercle, soit 7,2 degrés. Ératosthène en déduit la circonférence de la Terre.",
+    "explication": "À Syène, le Soleil est alors à la verticale : un puits est éclairé jusqu'au fond. Au même moment, à Alexandrie, l'ombre d'un gnomon révèle que les rayons s'écartent de la verticale d'un cinquantième de cercle, soit 7,2 degrés. Ératosthène en déduit la circonférence de la Terre.",
     "source": "D'après Wikipédia — Ératosthène"
   },
   {
@@ -2068,10 +2068,10 @@
     "format": "qui-suis-je",
     "indices": [
       "Je suis né en Bulgarie d'un père suisse et j'ai travaillé presque toute ma vie au Caltech.",
+      "Un soir, j'ai demandé à mon assistant de tirer au pistolet pour calmer les turbulences de l'air.",
       "J'ai découvert 120 supernovas en 52 ans en comparant des plaques photographiques.",
       "En 1934, j'ai proposé avec Walter Baade le mot « supernova ».",
-      "En 1933, j'ai été le premier à suggérer une matière invisible dans l'amas de Coma.",
-      "Un soir, j'ai demandé à mon assistant de tirer au pistolet pour calmer les turbulences de l'air."
+      "En 1933, j'ai été le premier à suggérer une matière invisible dans l'amas de Coma."
     ],
     "reponse": "Fritz Zwicky",
     "explication": "Fritz Zwicky a introduit le mot supernova, annoncé les étoiles à neutrons et, dès 1933, la matière invisible dans l'amas de Coma. Son esprit audacieux lui a aussi inspiré des idées fausses, comme la « lumière fatiguée ».",
@@ -2352,7 +2352,7 @@
         "explication": "Le cargo qui ravitaille la station."
       }
     ],
-    "explication": "Ces noms ont été choisis pour leur côté poétique. Dans l'ordre : le module principal, deux laboratoires placés de part et d'autre, et le cargo de ravitaillement. Chaque module de la station porte ainsi un nom poétique.",
+    "explication": "Annoncés en 2013 par l'agence chinoise des vols habités, ces noms poétiques contiennent tous « tian », le ciel. Dans l'ordre : le module central, les deux laboratoires amarrés de part et d'autre, et le cargo qui ravitaille la station.",
     "source": "D'après Wikipédia — Station spatiale chinoise"
   },
   {
@@ -2428,7 +2428,7 @@
     "id": "q-astronomie-157",
     "domain": "astronomie",
     "format": "qcm",
-    "question": "Qu'a de particulier la sonde Juno, par rapport aux sondes précédentes envoyées vers le système solaire externe ?",
+    "question": "Qu'a de particulier la sonde Juno, par rapport aux sondes envoyées avant elle vers les planètes externes ?",
     "choix": [
       "Elle est alimentée par des panneaux solaires",
       "Elle a été pilotée par des astronautes à distance",
@@ -2518,7 +2518,7 @@
     "id": "q-astronomie-163",
     "domain": "astronomie",
     "format": "qcm",
-    "question": "Qui a observé le premier transit de Vénus de l'histoire, en 1639 ?",
+    "question": "Qui a fait la première observation connue d'un transit de Vénus, en 1639 ?",
     "choix": [
       "Jeremiah Horrocks, depuis son domicile en Angleterre",
       "Johannes Kepler, depuis Prague",
@@ -2526,7 +2526,7 @@
       "James Cook, depuis Tahiti"
     ],
     "bonneReponse": 0,
-    "explication": "Jeremiah Horrocks avait corrigé les calculs de Kepler et prédit le passage. Le 4 décembre 1639, il l'a vu en projetant l'image du Soleil sur un écran, quand les nuages se sont dégagés vers 15 h 15.",
+    "explication": "Jeremiah Horrocks avait corrigé les calculs de Kepler et prédit le passage. Le 4 décembre 1639, il l'a vu en projetant l'image du Soleil sur un écran, quand les nuages se sont dégagés vers 15 h 15. Son ami William Crabtree l'a aussi observé.",
     "source": "D'après Wikipédia — Transit de Vénus"
   },
   {
@@ -2541,7 +2541,7 @@
       "Un signal radio très intense"
     ],
     "bonneReponse": 0,
-    "explication": "Une vingtaine de neutrinos sont arrivés en moins de 13 secondes. Ils sont émis dès l'effondrement de l'étoile, avant que l'explosion n'atteigne la surface, ce qui est la première détection directe de neutrinos de supernova.",
+    "explication": "Une vingtaine de neutrinos sont arrivés en moins de 13 secondes. Émis dès l'effondrement du cœur de l'étoile, ils précèdent la lumière, qui ne sort qu'une fois l'onde de choc arrivée à la surface. C'était la première détection directe de neutrinos venus d'une supernova.",
     "source": "D'après Wikipédia — SN 1987A"
   },
   {
@@ -2595,7 +2595,7 @@
       {
         "gauche": "Kepler",
         "droite": "Chercher des exoplanètes par la méthode des transits",
-        "explication": "Il surveillait la lumière de milliers d'étoiles à l'affût d'un transit."
+        "explication": "Il surveillait la lumière de quelque 150 000 étoiles à l'affût d'un transit."
       },
       {
         "gauche": "Gaia",
@@ -2730,7 +2730,7 @@
     "id": "q-astronomie-177",
     "domain": "astronomie",
     "format": "qcm",
-    "question": "En 1952, qu'est-ce qui a conduit à diviser par deux le nombre que l'on attribuait à la constante de Hubble ?",
+    "question": "En 1952, pourquoi la valeur admise de la constante de Hubble a-t-elle été divisée par deux ?",
     "choix": [
       "Walter Baade a montré que les distances des galaxies avaient été sous-estimées d'un facteur 2",
       "Le télescope du Mont Wilson a été remplacé par un plus puissant",
@@ -2753,7 +2753,7 @@
       "Il n'y en a aucune, ce sont deux noms du même nombre fixe"
     ],
     "bonneReponse": 0,
-    "explication": "Le paramètre de Hubble décrit le taux d'expansion à chaque époque et évolue au fil du temps. La constante de Hubble, notée H0, n'est que sa valeur aujourd'hui, d'environ 70 km/s/Mpc : elle n'est « constante » que dans l'instant présent.",
+    "explication": "Le paramètre de Hubble décrit le taux d'expansion à chaque époque et évolue au fil du temps. La constante de Hubble, notée H0, n'est que sa valeur aujourd'hui, d'environ 70 km/s/Mpc : elle est la même partout dans l'espace à un instant donné, mais pas d'une époque à l'autre.",
     "source": "D'après Wikipédia — Constante de Hubble"
   },
   {
@@ -2792,7 +2792,7 @@
     "format": "vrai-faux",
     "affirmation": "La Voie lactée fait partie d'un amas de plus de mille galaxies.",
     "reponse": false,
-    "explication": "Notre galaxie appartient au Groupe local, qui ne compte qu'une trentaine de galaxies. Ce groupe fait lui-même partie du superamas de la Vierge, un ensemble beaucoup plus vaste, qui rassemble de nombreux groupes et amas.",
+    "explication": "Notre galaxie appartient au Groupe local, qui ne compte que quelques dizaines de galaxies : c'est un groupe, pas un amas. Ce groupe fait lui-même partie du superamas de la Vierge, un ensemble beaucoup plus vaste qui rassemble de nombreux groupes et amas.",
     "source": "D'après Wikipédia — Amas de galaxies"
   },
   {
@@ -2868,7 +2868,7 @@
     "id": "q-astronomie-187",
     "domain": "astronomie",
     "format": "qcm",
-    "question": "À quelle distance de référence plaçait-on mentalement les étoiles pour définir leur magnitude absolue ?",
+    "question": "À quelle distance de référence place-t-on mentalement les étoiles pour définir leur magnitude absolue ?",
     "choix": [
       "10 parsecs, soit environ 32,6 années-lumière",
       "1 année-lumière",
@@ -2947,7 +2947,7 @@
         "annee": "2018"
       }
     ],
-    "explication": "Lemaître prédit la loi en 1927, deux ans avant Hubble. Sa traduction anglaise paraît en 1931 sans la phrase clé. L'Union astronomique internationale a finalement associé leurs deux noms en 2018.",
+    "explication": "Lemaître prédit la loi en 1927, deux ans avant Hubble. Sa traduction anglaise paraît en 1931 sans la phrase clé, retirée par Lemaître lui-même. L'Union astronomique internationale a finalement associé leurs deux noms en 2018.",
     "source": "D'après Wikipédia — Loi de Hubble-Lemaître"
   }
 ]

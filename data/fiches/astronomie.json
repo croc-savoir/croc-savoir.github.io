@@ -3700,7 +3700,7 @@
         },
         {
           "titre": "Pétrie par les marées",
-          "texte": "Io ne se réchauffe pas par radioactivité, mais par friction. Elle est en résonance avec Europe (deux tours d'Io pour un d'Europe) et Ganymède (quatre pour un), ce qui empêche son orbite de devenir parfaitement circulaire. Jupiter la déforme donc sans cesse, la bosse de marée pouvant varier jusqu'à 100 m, et cette friction fait fondre une partie de l'intérieur. Elles dépassent d'environ 20 000 fois celles que la Lune exerce sur la Terre."
+          "texte": "Io ne tire pas l'essentiel de sa chaleur de la radioactivité, mais de la friction. Elle est en résonance avec Europe (deux tours d'Io pour un d'Europe) et Ganymède (quatre pour un), ce qui empêche son orbite de devenir parfaitement circulaire. Les forces de marée qu'elle subit, environ 20 000 fois plus fortes que celles de la Lune sur la Terre, la déforment sans cesse : sa bosse de marée peut varier jusqu'à 100 m. Cette friction fait fondre une partie de son intérieur."
         },
         {
           "titre": "Un monde jeune, sec et dense",
@@ -3735,7 +3735,7 @@
         },
         {
           "titre": "Geysers et missions",
-          "texte": "En septembre 2016, la NASA a annoncé que le télescope Hubble avait observé des panaches de vapeur d'eau semblables à des geysers. Ils permettraient d'échantillonner l'océan sans forer la glace. Aucune sonde ne s'est jamais posée sur Europe : la mission Galileo (lancée en 1989, achevée en 2003) a fourni l'essentiel des données, avant JUICE en avril 2023 et Europa Clipper en octobre 2024."
+          "texte": "En septembre 2016, la NASA a annoncé que le télescope Hubble avait observé des panaches de vapeur d'eau semblables à des geysers. Ils permettraient d'échantillonner l'océan sans forer la glace. Aucune sonde ne s'est jamais posée sur Europe : l'essentiel des données vient de la mission Galileo (lancée en 1989, achevée en 2003). Deux sondes ont pris le relais : JUICE, lancée en avril 2023, et Europa Clipper, lancée en octobre 2024."
         }
       ],
       "anecdotes": [
@@ -3766,7 +3766,7 @@
         },
         {
           "titre": "Deux visages",
-          "texte": "Un tiers de la surface est sombre, criblé de cratères et vieux d'environ quatre milliards d'années. Les deux tiers restants sont plus clairs, découpés par de larges rainures à peine plus jeunes. Leur origine reste mal connue : sans doute une activité tectonique liée aux marées, à une époque où l'orbite était plus excentrique. Aujourd'hui, ce réchauffement est négligeable. La mission JUICE doit s'en approcher à partir de décembre 2034."
+          "texte": "Un tiers de la surface est sombre, criblé de cratères et vieux d'environ quatre milliards d'années. Les deux tiers restants, plus clairs et à peine plus jeunes, sont découpés par de larges rainures. Leur origine reste mal connue : sans doute une activité tectonique liée aux marées, à une époque où l'orbite était plus excentrique. Aujourd'hui, ce réchauffement est négligeable. La sonde JUICE, lancée en 2023, doit se placer en orbite autour de Ganymède à partir de décembre 2034."
         }
       ],
       "anecdotes": [
@@ -3784,7 +3784,7 @@
     "type": "classique",
     "title": "Triton",
     "subtitle": "Plus grande lune de Neptune, découverte en 1846",
-    "summary": "Triton est la plus grande lune de Neptune, découverte en 1846 par l'astronome britannique William Lassell, seulement 17 jours après Neptune elle-même. C'est la seule grande lune du Système solaire à tourner dans le sens inverse de sa planète.\nCette particularité révèle son origine : Triton viendrait de la ceinture de Kuiper, capturée par Neptune. Sa surface d'azote gelé est jeune et traversée de geysers.",
+    "summary": "Triton est la plus grande lune de Neptune, découverte en 1846 par l'astronome britannique William Lassell, seulement 17 jours après Neptune elle-même. C'est la seule grande lune du Système solaire à tourner dans le sens inverse de sa planète.\nCette particularité révèle son origine : Triton viendrait de la ceinture de Kuiper, capturée par Neptune. Sa surface d'azote gelé est jeune, et l'on y a repéré des traces de geysers.",
     "details": {
       "sections": [
         {
@@ -3828,11 +3828,11 @@
         },
         {
           "titre": "Un avenir en anneau",
-          "texte": "Les marées abaissent l'orbite de Phobos d'environ 1,8 m par siècle. Dans 20 à 40 millions d'années, elle devrait se disloquer et former un anneau autour de Mars. L'origine des deux lunes reste discutée : astéroïdes capturés, ou restes de la collision de Mars avec un corps plus petit, l'hypothèse aujourd'hui privilégiée. Phobos et Déimos sont, dans la mythologie grecque, les jumeaux d'Arès : « peur » et « terreur »."
+          "texte": "Les marées abaissent l'orbite de Phobos d'environ 1,8 m par siècle. Dans 20 à 40 millions d'années, elle devrait se disloquer et former un anneau autour de Mars. L'origine des deux lunes reste discutée : astéroïdes capturés, ou restes de la collision de Mars avec un corps plus petit, l'hypothèse aujourd'hui privilégiée. Dans la mythologie grecque, Phobos et Déimos sont les fils jumeaux d'Arès, et leurs noms évoquent la peur et la terreur."
         }
       ],
       "anecdotes": [
-        "En 1727, dans son roman Voyage à Laputa, Jonathan Swift affirme que Mars possède deux lunes et en donne même les périodes, inexactes, environ cent cinquante ans avant leur découverte. Aujourd'hui, plusieurs formations de Phobos portent des noms tirés de cette œuvre, comme Laputa Regio."
+        "Dans Les Voyages de Gulliver (1726), lors de l'escale sur l'île volante de Laputa, Jonathan Swift affirme que Mars possède deux lunes et en donne même les périodes, inexactes, environ cent cinquante ans avant leur découverte. Aujourd'hui, plusieurs formations de Phobos portent des noms tirés de cette œuvre, comme Laputa Regio."
       ],
       "wikipedia": "Phobos (lune)"
     },
@@ -3846,12 +3846,12 @@
     "type": "classique",
     "title": "Olympus Mons",
     "subtitle": "Volcan bouclier de Mars, l'un des plus hauts reliefs du Système solaire",
-    "summary": "Olympus Mons est un volcan bouclier de Mars, parmi les reliefs les plus élevés connus du Système solaire : il culmine à 21 229 m d'altitude par rapport au niveau de référence de Mars, soit environ 2,5 fois la hauteur de l'Everest.\nSes pentes sont pourtant si douces qu'on ne sentirait pas gravir une montagne. Il couvre une surface comparable à celle de l'Italie.",
+    "summary": "Olympus Mons est un volcan bouclier de Mars, parmi les reliefs les plus élevés connus du Système solaire : il culmine à 21 229 m d'altitude par rapport au niveau de référence de Mars, soit environ 2,5 fois la hauteur de l'Everest.\nSes pentes sont pourtant si douces qu'un marcheur au sommet ne se rendrait même pas compte qu'il est sur une montagne : ses flancs se perdent au-delà de l'horizon. Il couvre une surface comparable à celle de l'Italie.",
     "details": {
       "sections": [
         {
           "titre": "Un géant tout plat",
-          "texte": "Large d'environ 600 km, Olympus Mons s'est construit par l'empilement de laves très fluides, comme le Mauna Loa à Hawaï, mais en bien plus grand. Ses pentes ne dépassent pas 5 degrés en moyenne. Au sommet, une caldeira de 80 × 60 km résulte de la réunion d'au moins six cratères. Une falaise de 2 à 6 km de haut ceinture tout l'édifice, et son origine reste débattue."
+          "texte": "Large d'environ 600 km, Olympus Mons s'est construit par l'empilement de laves très fluides, comme le Mauna Loa à Hawaï, mais en bien plus grand. Ses pentes sont en moyenne d'environ 5 degrés seulement. Au sommet, une caldeira de 80 × 60 km résulte de la réunion d'au moins six cratères. Une falaise de 2 à 6 km de haut ceinture tout l'édifice, et son origine reste débattue."
         },
         {
           "titre": "Pourquoi si haut ?",
@@ -3913,15 +3913,15 @@
       "sections": [
         {
           "titre": "La prédiction qui a convaincu",
-          "texte": "En 1705, Halley publie que les comètes de 1531, 1607 et 1682 sont une seule, sur une orbite elliptique de 76 ans, et prédit son retour en 1758. En 1757, Lalande et Nicole-Reine Lepaute calculent que Jupiter et Saturne la retarderont. Elle est repérée en décembre 1758 et passe au plus près du Soleil le 13 mars 1759. Ce succès consacre la théorie de Newton."
+          "texte": "En 1705, Halley publie que les comètes de 1531, 1607 et 1682 sont une seule, sur une orbite elliptique de 76 ans, et prédit son retour en 1758. En 1757, Clairaut, Lalande et Nicole-Reine Lepaute calculent que Jupiter et Saturne la retarderont. Elle est repérée en décembre 1758 et passe au plus près du Soleil le 13 mars 1759. Ce succès consacre la théorie de Newton."
         },
         {
           "titre": "Plus de deux millénaires d'histoire",
-          "texte": "Les Chinois la mentionnent dès 611 av. J.-C. et des tablettes babyloniennes de 164 av. J.-C. en gardent la trace. En 1066, elle figure sur la tapisserie de Bayeux, comme présage avant la victoire de Guillaume le Conquérant. Lors du passage de 1910, beaucoup crurent que la Terre allait traverser sa queue et que ce serait la fin du monde : cela ne s'est pas produit."
+          "texte": "Des annales chinoises la mentionnent peut-être dès 611 av. J.-C., et sûrement en 240 av. J.-C. ; des tablettes babyloniennes de 164 av. J.-C. en gardent aussi la trace. En 1066, elle figure sur la tapisserie de Bayeux, comme présage avant la victoire de Guillaume le Conquérant. Lors du passage de 1910, beaucoup crurent que la Terre allait traverser sa queue et que ce serait la fin du monde : cela ne s'est pas produit."
         },
         {
           "titre": "Vue de près en 1986",
-          "texte": "Quatre sondes l'ont survolée : Vega 1 et 2 soviétiques, Giotto européenne et Suisei japonaise. Giotto est passée à 600 km du noyau, un bloc en forme de cacahuète d'environ 16 × 8 × 7 km, et y a vu deux gros geysers de gaz. Elle doit son nom au peintre Giotto, qui a peint vers 1304-1305 une fresque où l'étoile des mages porte une queue de comète."
+          "texte": "Quatre sondes l'ont survolée : Vega 1 et 2 soviétiques, Giotto européenne et Suisei japonaise. Giotto est passée à 600 km du noyau, un bloc en forme de cacahuète d'environ 16 × 8 × 7 km, et y a vu deux gros geysers de gaz. La sonde doit son nom au peintre Giotto, qui a peint vers 1304-1305 une fresque où l'étoile des mages porte une queue de comète."
         }
       ],
       "anecdotes": [
@@ -3939,7 +3939,7 @@
     "type": "classique",
     "title": "Comète Shoemaker-Levy 9",
     "subtitle": "Comète brisée qui s'est écrasée sur Jupiter en juillet 1994",
-    "summary": "Shoemaker-Levy 9 est une comète qui s'est disloquée près de Jupiter, puis s'est écrasée sur elle entre le 16 et le 22 juillet 1994. Ce fut la première collision directe observée entre deux objets du Système solaire.\nLes cicatrices laissées dans l'atmosphère de Jupiter étaient plus visibles que la Grande Tache rouge et ont duré plusieurs mois.",
+    "summary": "Shoemaker-Levy 9 est une comète qui s'est disloquée près de Jupiter, puis s'est écrasée sur elle entre le 16 et le 22 juillet 1994. Ce fut la première collision entre deux objets du Système solaire observée directement hors de la Terre.\nLes cicatrices laissées dans l'atmosphère de Jupiter étaient plus visibles que la Grande Tache rouge et ont duré plusieurs mois.",
     "details": {
       "sections": [
         {
@@ -3983,7 +3983,7 @@
         },
         {
           "titre": "Carrington et Miyake",
-          "texte": "L'éruption de 1859, observée notamment par l'astronome britannique Richard Carrington, est probablement la plus puissante des 200 dernières années : aurores visibles jusque dans certaines régions tropicales, décharges dans les lignes de télégraphe. Plus ancienne encore, une tempête vers 775, 10 à 100 fois plus puissante, a été révélée en 2012 par trop de carbone 14 piégé dans les cernes d'arbres."
+          "texte": "L'éruption de 1859, observée notamment par l'astronome britannique Richard Carrington, est probablement la plus puissante des 200 dernières années : aurores visibles jusque dans certaines régions tropicales, décharges dans les lignes de télégraphe. Plus ancienne encore, une tempête survenue vers 775, 10 à 100 fois plus puissante, a été révélée en 2012 par un excès de carbone 14 piégé dans les cernes d'arbres."
         }
       ],
       "anecdotes": [
@@ -4032,7 +4032,7 @@
     "type": "classique",
     "title": "Véga",
     "subtitle": "Étoile de la Lyre, à environ 25 années-lumière",
-    "summary": "Véga domine la constellation de la Lyre par son éclat et se classe cinquième du ciel nocturne. Située à environ 25 années-lumière, c'est une étoile blanc-bleuté, plus chaude et plus massive que le Soleil.\nElle a joué un rôle majeur dans l'histoire de l'astronomie : première étoile photographiée, et longtemps point de référence de l'échelle de luminosité.",
+    "summary": "Véga domine la constellation de la Lyre par son éclat et se classe cinquième du ciel nocturne. Située à environ 25 années-lumière, c'est une étoile blanc-bleuté, plus chaude et plus massive que le Soleil.\nElle a joué un rôle majeur dans l'histoire de l'astronomie : première étoile photographiée après le Soleil, et longtemps point de référence de l'échelle de luminosité.",
     "details": {
       "sections": [
         {
@@ -4100,7 +4100,7 @@
       "sections": [
         {
           "titre": "Naissance dans une supernova",
-          "texte": "Quand le cœur d'une étoile massive, de 8 à 40 masses solaires, ne contient plus que du fer, qui ne peut plus fusionner, la pression ne compense plus la gravité. Le cœur s'effondre, ses constituants se transforment en neutrons et les couches externes sont éjectées en supernova. L'effondrement s'arrête quand la répulsion de l'interaction forte entre les nucléons équilibre la gravité."
+          "texte": "Quand le cœur d'une étoile massive, de 8 à 40 masses solaires, n'est presque plus fait que de fer, qui ne peut plus fusionner, la pression ne compense plus la gravité. Le cœur s'effondre, ses constituants se transforment en neutrons et les couches externes sont éjectées en supernova. L'effondrement s'arrête quand la répulsion de l'interaction forte entre les nucléons équilibre la gravité."
         },
         {
           "titre": "Un monstre de densité",
@@ -4174,7 +4174,7 @@
         }
       ],
       "anecdotes": [
-        "L'étoile Polaire est une céphéide, jusqu'en 1994 au moins : depuis, son éclat reste stable, sans que l'on sache pourquoi."
+        "L'étoile Polaire est une céphéide, mais une céphéide capricieuse : ses variations d'éclat sont devenues si faibles dans les années 1990 qu'on l'a crue stabilisée. Elles ont depuis repris de l'ampleur, sans que l'on sache bien pourquoi."
       ],
       "wikipedia": "Céphéide"
     },
@@ -4187,13 +4187,13 @@
     "subtheme": "Étoiles et galaxies",
     "type": "classique",
     "title": "Nébuleuse d'Orion",
-    "subtitle": "Nébuleuse diffuse, la pouponnière d'étoiles la plus proche de nous",
-    "summary": "La nébuleuse d'Orion, ou M42, est un immense nuage de gaz où naissent des étoiles. Elle se trouve à environ 1 350 années-lumière, c'est la zone de naissance d'étoiles la plus proche de chez nous.\nOn la devine à l'œil nu sous la ceinture d'Orion, dans l'« épée » du chasseur : une petite tache floue qui devient spectaculaire aux jumelles.",
+    "subtitle": "Nébuleuse diffuse, la pouponnière d'étoiles massives la plus proche de nous",
+    "summary": "La nébuleuse d'Orion, ou M42, est un immense nuage de gaz où naissent des étoiles. Elle se trouve à environ 1 350 années-lumière : c'est la région de formation d'étoiles massives la plus proche de chez nous.\nOn la devine à l'œil nu sous la ceinture d'Orion, dans l'« épée » du chasseur : une petite tache floue qui devient spectaculaire aux jumelles.",
     "details": {
       "sections": [
         {
           "titre": "Une pouponnière d'étoiles",
-          "texte": "Cette nébuleuse s'étend sur environ 24 années-lumière. Elle brille grâce aux étoiles très jeunes et très chaudes qui viennent d'y naître, notamment celles de l'amas du Trapèze : leur rayonnement fait scintiller l'hydrogène environnant. Elle n'est que la partie la plus visible d'un nuage bien plus vaste, qui couvre près de la moitié de la constellation d'Orion et contient aussi la nébuleuse de la Tête de Cheval."
+          "texte": "Cette nébuleuse s'étend sur environ 24 années-lumière. Elle brille grâce aux étoiles très jeunes et très chaudes qui viennent d'y naître, notamment celles de l'amas du Trapèze : leur rayonnement ionise l'hydrogène environnant, qui se met à luire. Elle n'est que la partie la plus visible d'un nuage bien plus vaste, qui couvre près de la moitié de la constellation d'Orion et contient aussi la nébuleuse de la Tête de Cheval."
         },
         {
           "titre": "Une longue histoire d'observation",
@@ -4201,7 +4201,7 @@
         },
         {
           "titre": "Un laboratoire pour les astronomes",
-          "texte": "Depuis 1993, le télescope spatial Hubble la photographie régulièrement. Ses images ont permis de bâtir un modèle en trois dimensions de la nébuleuse et de voir des disques de matière autour de la plupart des jeunes étoiles. En 2023, le télescope James Webb y a détecté une molécule, le méthylium, l'une des briques de la vie. En 2025, ALMA et Webb ont même photographié une planète en formation autour de la protoétoile HOPS 315."
+          "texte": "Depuis 1993, le télescope spatial Hubble la photographie régulièrement. Ses images ont permis de bâtir un modèle en trois dimensions de la nébuleuse et de voir des disques de matière autour de la plupart des jeunes étoiles. En 2023, le télescope James Webb y a détecté une molécule, le méthylium, l'une des briques de la vie. En 2025, ALMA et Webb ont même saisi les tout premiers instants de la formation de planètes autour de la protoétoile HOPS 315."
         }
       ],
       "anecdotes": [
@@ -4231,8 +4231,8 @@
           "texte": "Au centre se trouve le pulsar du Crabe, une étoile à neutrons d'environ 30 km de diamètre qui émet une impulsion toutes les 33 millisecondes. Son rayonnement total équivaut à quelque 200 000 Soleils. Sa découverte, en 1968, fut décisive : elle a montré que les pulsars sont des étoiles à neutrons issues de supernovas, et non des signaux envoyés par des extraterrestres, comme certains l'avaient envisagé."
         },
         {
-          "titre": "D'où vient son nom",
-          "texte": "Le nom date des années 1840. William Parsons, comte de Rosse, observe la nébuleuse depuis le château de Birr avec un télescope de 91 cm et en fait un dessin dont les bras évoquent un crabe. En 1848, avec un télescope plus grand, de 1,8 m, il ne retrouve plus la ressemblance, mais le nom est resté. En 2003, ses rayons X ont même servi à mesurer l'épaisseur de l'atmosphère de Titan, quand la lune de Saturne est passée devant."
+          "titre": "Un nom resté, une lampe utile",
+          "texte": "Le nom date des années 1840. William Parsons, comte de Rosse, observe la nébuleuse depuis le château de Birr avec un télescope de 91 cm et en fait un dessin dont les bras évoquent un crabe. En 1848, avec un télescope plus grand, de 1,8 m, il ne retrouve plus la ressemblance, mais le nom est resté. Proche de l'écliptique, la nébuleuse sert aussi de lampe de fond : en 2003, ses rayons X ont permis de mesurer l'épaisseur de l'atmosphère de Titan, quand la lune de Saturne est passée devant."
         }
       ],
       "anecdotes": [
@@ -4267,7 +4267,7 @@
         }
       ],
       "anecdotes": [
-        "Quand deux galaxies se croisent, il y a assez peu de collisions entre étoiles : la densité moyenne d'une galaxie reste inférieure à celle d'un nuage de fumée de cigarette. La Voie lactée et la galaxie d'Andromède doivent ainsi se croiser dans environ quatre milliards d'années, sans qu'on sache prédire ce que donnera la rencontre."
+        "Quand deux galaxies se croisent, il y a assez peu de collisions entre étoiles : la densité moyenne d'une galaxie reste inférieure à celle d'un nuage de fumée de cigarette. La Voie lactée et la galaxie d'Andromède pourraient ainsi se croiser d'ici quelques milliards d'années, sans qu'on sache prédire ce que donnerait la rencontre."
       ],
       "wikipedia": "Galaxie spirale"
     },
@@ -4298,7 +4298,7 @@
         }
       ],
       "anecdotes": [
-        "Placé à mi-chemin entre la Terre et la Lune, un magnétar effacerait la bande magnétique de toutes les cartes de paiement de la planète. À 1 000 km, son champ serait fatal, car il déformerait les atomes eux-mêmes et rendrait impossible la chimie du vivant. Dans un tel champ, un atome d'hydrogène devient environ 200 fois plus étroit que la normale."
+        "Placé à mi-chemin entre la Terre et la Lune, un magnétar effacerait la bande magnétique de toutes les cartes de paiement de la planète. À 1 000 km, son champ serait fatal, car il déformerait les atomes eux-mêmes et rendrait impossible la chimie du vivant. Près de sa surface, où le champ atteint 10 milliards de teslas, un atome d'hydrogène devient environ 200 fois plus étroit que la normale."
       ],
       "wikipedia": "Magnétar"
     },
@@ -4329,7 +4329,7 @@
         }
       ],
       "anecdotes": [
-        "Plus un trou noir est massif, plus les forces de marée sont faibles à son horizon, la frontière du non-retour. Près d'un trou noir supermassif, un explorateur ne ressentirait donc rien de particulier en franchissant l'horizon : la singularité centrale en est très éloignée. Pour un trou noir de 10 millions de masses solaires, l'étirement entre la tête et les pieds serait comparable à la gravité terrestre."
+        "Plus un trou noir est massif, plus les forces de marée sont faibles à son horizon, la frontière du non-retour. Près d'un trou noir supermassif, un explorateur ne ressentirait donc rien de particulier en franchissant l'horizon : la singularité centrale en est très éloignée. Pour un trou noir de 10 millions de masses solaires, l'étirement entre sa tête et ses pieds serait imperceptible, alors qu'un trou noir stellaire l'aurait déjà déchiqueté."
       ],
       "wikipedia": "Trou noir supermassif"
     },
@@ -4417,7 +4417,7 @@
         },
         {
           "titre": "Découverte de Japet et de Rhéa",
-          "annee": "1671"
+          "annee": "1671-1672"
         },
         {
           "titre": "Mesure de la distance de Mars par la parallaxe",
@@ -4470,7 +4470,7 @@
         }
       ],
       "anecdotes": [
-        "Caroline Herschel est morte à Hanovre en 1848, à 97 ans. Pour son 96e anniversaire, le roi de Prusse lui avait offert une médaille d'or de la Science. Sur sa pierre tombale, on lit que ses yeux, ici-bas glorifiée, se sont tournés vers les cieux étoilés."
+        "Caroline Herschel est morte à Hanovre en 1848, à 97 ans. Pour son 96e anniversaire, le roi de Prusse lui avait offert une médaille d'or de la Science. Sa pierre tombale porte cette inscription : « Les yeux de celle qui est glorifiée ici-bas se sont tournés vers les cieux étoilés. »"
       ],
       "oeuvres": [
         {
@@ -4532,7 +4532,7 @@
         }
       ],
       "anecdotes": [
-        "Annie Jump Cannon militait pour le droit de vote des femmes, au sein du National Woman's Party, et utilisait son métier comme argument : l'idée que si des femmes savent mettre de l'ordre dans le ciel, elles sauront organiser un scrutin."
+        "Annie Jump Cannon militait pour le droit de vote des femmes, au sein du National Woman's Party, et faisait de son métier un argument : « Si les femmes peuvent organiser le ciel, nous pouvons organiser le vote. »"
       ],
       "oeuvres": [
         {
@@ -4590,7 +4590,7 @@
         },
         {
           "titre": "La courbe plate",
-          "texte": "Entrée en 1965 à l'Institut Carnegie de Washington, elle étudie avec un collègue physicien la galaxie d'Andromède, puis d'autres spirales. Elle mesure la vitesse des étoiles selon leur distance au centre : la courbe de rotation est plate, les astres périphériques allant aussi vite que les autres. Si seules les étoiles visibles comptaient, la galaxie devrait se disloquer. Une grande masse invisible doit donc la retenir."
+          "texte": "Entrée en 1965 à l'Institut Carnegie de Washington, elle étudie avec Kent Ford, concepteur d'un spectrographe très sensible, la galaxie d'Andromède, puis d'autres spirales. Elle mesure la vitesse des étoiles selon leur distance au centre : la courbe de rotation est plate, les astres périphériques allant aussi vite que les autres. Si seules les étoiles visibles comptaient, la galaxie devrait se disloquer. Une grande masse invisible doit donc la retenir."
         }
       ],
       "anecdotes": [
@@ -4725,7 +4725,7 @@
         },
         {
           "titre": "L'éclipse de 1919",
-          "texte": "Quaker et pacifiste, Eddington refuse de combattre pendant la guerre, et reçoit en 1915 les articles d'Einstein. Selon la relativité générale, la gravité du Soleil dévie la lumière d'une étoile voisine, effet visible seulement pendant une éclipse totale. Malgré un temps médiocre, il annonce en 1919 des résultats conformes. Le fait qu'un Anglais confirme une théorie allemande un an après la guerre devient un symbole de paix."
+          "texte": "Quaker et pacifiste, Eddington refuse de combattre pendant la guerre, et reçoit en 1915 les articles d'Einstein. Selon la relativité générale, la gravité du Soleil dévie la lumière des étoiles qui paraissent près de lui dans le ciel, effet visible seulement pendant une éclipse totale. Malgré un temps médiocre, il annonce en 1919 des résultats conformes. Le fait qu'un Anglais confirme une théorie allemande un an après la guerre devient un symbole de paix."
         }
       ],
       "anecdotes": [
@@ -4949,10 +4949,10 @@
       "sections": [
         {
           "titre": "Un observateur hors pair",
-          "texte": "On le sait actif entre 147 et 127 av. J.-C. Il s'appuie sur des siècles de relevés réalisés par les astronomes de Babylone. Il fixe la durée de l'année à environ 365 jours et quart, avec une petite erreur, et propose des modèles du mouvement du Soleil et de la Lune assez précis pour viser à prédire les éclipses."
+          "texte": "On le sait actif entre 147 et 127 av. J.-C. Il s'appuie sur des siècles de relevés réalisés par les astronomes de Babylone. Il fixe la durée de l'année à environ 365 jours et quart, avec une petite erreur, et propose des modèles du mouvement du Soleil et de la Lune assez précis pour fonder une méthode de prédiction des éclipses."
         },
         {
-          "titre": "Le ciel qui glisse, la Terre mesurée du regard",
+          "titre": "Le ciel qui glisse et la distance de la Lune",
           "texte": "En comparant son catalogue d'étoiles à celui, vieux de plus d'un siècle, de Timocharis, il remarque un décalage lent des positions : la précession des équinoxes. Il s'intéresse aussi à la distance de la Lune, qu'il situe entre 62 et 77 rayons terrestres, une estimation remarquable pour l'époque."
         }
       ],
@@ -5131,7 +5131,7 @@
         }
       ],
       "anecdotes": [
-        "Pendant la mission, Leonov a dessiné un lever de Soleil en orbite : c'est la première œuvre d'art réalisée dans l'espace. Plus tard, l'écrivain Arthur C. Clarke a dédié son roman 2010 à Leonov et a baptisé son vaisseau fictif « Cosmonaute Alexeï Leonov »."
+        "Pendant la mission Voskhod 2, Leonov a dessiné un lever de Soleil en orbite : c'est la première œuvre d'art réalisée dans l'espace. Plus tard, l'écrivain Arthur C. Clarke a dédié son roman 2010 à Leonov (et au physicien Andreï Sakharov) et a baptisé son vaisseau fictif « Cosmonaute Alexeï Leonov »."
       ],
       "oeuvres": [
         {
@@ -5159,7 +5159,7 @@
     "type": "personnage",
     "title": "Wernher von Braun",
     "subtitle": "Ingénieur allemand puis américain, 1912-1977",
-    "summary": "Passionné de fusées dès l'adolescence, Wernher von Braun dirige le centre de Peenemünde en Allemagne, où est conçu le V2, ancêtre de tous les missiles balistiques. Après la guerre, il part aux États-Unis avec son équipe.\nIl y développe les fusées de l'armée, puis, à la NASA, la Saturn V qui a envoyé les astronautes d'Apollo vers la Lune. Sa carrière reste très controversée à cause de son rôle sous le régime nazi.",
+    "summary": "Passionné de fusées dès l'adolescence, Wernher von Braun dirige techniquement le centre de Peenemünde en Allemagne, où est conçu le V2, premier missile balistique de l'histoire. Après la guerre, il part aux États-Unis avec son équipe.\nIl y développe les fusées de l'armée, puis, à la NASA, la Saturn V qui a envoyé les astronautes d'Apollo vers la Lune. Sa carrière reste très controversée à cause de son rôle sous le régime nazi.",
     "details": {
       "epoque": "Années 1930 à 1970, de l'Allemagne nazie à la course à la Lune.",
       "pourquoiCelebre": "Il est le principal architecte de la fusée Saturn V, mais aussi le concepteur du V2, ce qui fait de lui une figure très discutée.",
@@ -5237,11 +5237,11 @@
         },
         {
           "titre": "34 fusées et peu de soutien",
-          "texte": "Entre 1926 et 1941, lui et son équipe lancent 34 fusées, jusqu'à 2,6 km d'altitude et environ 885 km/h. Son texte de 1919, A Method of Reaching Extreme Altitudes, est devenu un classique. Peu soutenu, moqué par la presse, il est protecteur de son travail. La NASA nomme le Goddard Space Flight Center en son honneur en 1959."
+          "texte": "Entre 1926 et 1941, lui et son équipe lancent 34 fusées, jusqu'à 2,6 km d'altitude et environ 885 km/h. Son texte de 1919, A Method of Reaching Extreme Altitudes, est devenu un classique. Peu soutenu et moqué par la presse, il devient très discret sur ses travaux. La NASA nomme le Goddard Space Flight Center en son honneur en 1959."
         }
       ],
       "anecdotes": [
-        "En 1920, un éditorial du New York Times s'est moqué de lui en affirmant qu'une fusée ne pouvait pas avancer dans le vide, faute de point d'appui. Le journal a présenté ses regrets le 17 juillet 1969 : « Le Times regrette son erreur »."
+        "En 1920, un éditorial du New York Times s'est moqué de lui en affirmant qu'une fusée ne pouvait pas avancer dans le vide, faute de point d'appui. Le journal a présenté ses regrets le 17 juillet 1969, pendant que la mission Apollo 11 filait vers la Lune : « Le Times regrette son erreur »."
       ],
       "oeuvres": [
         {
@@ -5269,7 +5269,7 @@
     "type": "personnage",
     "title": "Konstantin Tsiolkovski",
     "subtitle": "Scientifique russe, père de l'astronautique, 1857-1935",
-    "summary": "Devenu en partie sourd à neuf ans, Constantin Tsiolkovski apprend presque tout seul, dans les bibliothèques puis comme professeur de province. Il passe l'essentiel de sa vie à Kalouga, au sud-ouest de Moscou.\nBien avant les premiers lancements, il décrit sur le papier les fusées à carburant liquide, les fusées à étages, les stations spatiales et même un ascenseur vers l'orbite. On le considère comme le père de l'astronautique moderne.",
+    "summary": "Devenu en partie sourd à neuf ans, Konstantin (ou Constantin) Tsiolkovski apprend presque tout seul, dans les bibliothèques puis comme professeur de province. Il passe l'essentiel de sa vie à Kalouga, au sud-ouest de Moscou.\nBien avant les premiers lancements, il décrit sur le papier les fusées à carburant liquide, les fusées à étages, les stations spatiales et même un ascenseur vers l'orbite. On le considère comme le père de l'astronautique moderne.",
     "details": {
       "epoque": "De la fin du XIXe siècle aux années 1930.",
       "pourquoiCelebre": "Il a posé sur le papier les bases théoriques du voyage spatial par fusée, des décennies avant les premiers vols.",
@@ -5287,7 +5287,7 @@
       "sections": [
         {
           "titre": "Un autodidacte tenace",
-          "texte": "Devenu sourd en partie après une scarlatine, il ne peut pas suivre l'école, et sa mère lui apprend à lire. Il passe trois ans dans les bibliothèques de Moscou, à se nourrir de pain noir pour acheter livres et matériel. Inspiré par Jules Verne, il devient professeur à Borovsk, puis à Kalouga à partir de 1892. Il y construit en 1897 la première soufflerie de Russie."
+          "texte": "Devenu sourd en partie après une scarlatine, il ne peut pas suivre l'école, et sa mère lui apprend à lire. Il passe trois ans dans les bibliothèques de Moscou, à se nourrir de pain noir pour acheter livres et matériel ; la lecture de Jules Verne nourrit alors son rêve d'espace. Devenu professeur à Borovsk, puis à Kalouga à partir de 1892, il y construit en 1897 la première soufflerie de Russie."
         },
         {
           "titre": "Les idées qui ont fait la conquête spatiale",
@@ -5341,15 +5341,15 @@
       "sections": [
         {
           "titre": "Un jeune bricoleur à l'observatoire",
-          "texte": "Tombaugh construit ses instruments avec des pièces de voitures et de machines agricoles, et creuse même un fossé pour tester ses miroirs dans une température stable. Engagé à Flagstaff en 1929, il photographie les mêmes zones du ciel à quelques jours d'intervalle. Avec le comparateur à clignotement, un objet qui bouge saute d'une image à l'autre, alors que les étoiles restent fixes."
+          "texte": "Tombaugh construit ses instruments avec des pièces de voitures et de machines agricoles, et creuse même une fosse pour tester ses miroirs dans une température stable. Engagé à Flagstaff en 1929, il photographie les mêmes zones du ciel à quelques jours d'intervalle. Avec le comparateur à clignotement, un objet qui bouge saute d'une image à l'autre, alors que les étoiles restent fixes."
         },
         {
           "titre": "La découverte de Pluton",
-          "texte": "Il repère un objet mobile sur des plaques de janvier 1930 ; l'observatoire annonce la découverte en mars. Le nom Pluton est proposé par une fillette anglaise de 11 ans, Venetia Burney. Pluton est trop petite pour être la planète X de Lowell. Tombaugh poursuit ensuite ses recherches pendant 13 ans sans rien trouver, puis enseigne à l'université jusqu'en 1973."
+          "texte": "Il repère un objet mobile sur des plaques de janvier 1930 ; l'observatoire annonce la découverte en mars. Le nom Pluton est proposé par une fillette anglaise de 11 ans, Venetia Burney. Pluton est trop petite pour être la planète X de Lowell. Tombaugh poursuit ensuite ses recherches pendant 13 ans sans trouver d'autre planète, mais découvre au passage une nova, des comètes, des astéroïdes et des amas d'étoiles. Il enseigne ensuite à l'université jusqu'en 1973."
         }
       ],
       "anecdotes": [
-        "Une partie de ses cendres voyage à bord de la sonde New Horizons, qui a survolé Pluton en juillet 2015 : il est ainsi le premier humain dont les restes quittent le système solaire."
+        "Une partie de ses cendres voyage à bord de la sonde New Horizons, qui a survolé Pluton en juillet 2015 : il sera ainsi le premier humain dont les restes quitteront le système solaire."
       ],
       "oeuvres": [
         {
@@ -5392,7 +5392,7 @@
         },
         {
           "titre": "Des détails tenus secrets",
-          "texte": "Le règlement de la fédération aéronautique exigeait un atterrissage dans la capsule. Les Soviétiques ont donc d'abord caché que Gagarine s'était éjecté, un fait révélé dix ans plus tard. Ils ont aussi annoncé Baïkonour comme site de lancement alors que le tir avait eu lieu près de Tiouratam, à environ 250 km, pour garder l'emplacement secret."
+          "texte": "Le règlement de la Fédération aéronautique internationale (FAI) exigeait alors que le pilote atterrisse dans sa capsule. Les Soviétiques ont donc d'abord caché que Gagarine s'était éjecté, un fait révélé dix ans plus tard. Ils ont aussi déclaré Baïkonour comme site de lancement alors que le tir avait eu lieu près de Tiouratam, à environ 250 km, pour garder l'emplacement secret."
         }
       ],
       "anecdotes": [
@@ -5416,7 +5416,7 @@
       "sections": [
         {
           "titre": "Un pari décidé en quelques mois",
-          "texte": "À l'origine, Apollo 8 devait tester le module lunaire en orbite terrestre. Mais en 1968 ce module présente plus d'une centaine de défauts. En août, George Low propose d'envoyer à la place le seul vaisseau principal jusqu'à la Lune. Les équipages sont échangés et celui de Borman part avec deux à trois mois d'entraînement en moins. Les Soviétiques venaient de faire le tour de la Lune avec des tortues, ce qui accentuait la pression."
+          "texte": "À l'origine, Apollo 8 devait tester le module lunaire en orbite terrestre. Mais en 1968 ce module présente plus d'une centaine de défauts. En août, George Low propose d'envoyer à la place le seul vaisseau principal jusqu'à la Lune. Les équipages sont échangés et celui de Borman part avec deux à trois mois d'entraînement en moins. En septembre, la sonde soviétique Zond 5 fait le tour de la Lune avec des tortues à bord, ce qui accentue la pression."
         },
         {
           "titre": "Dix tours de la Lune la veille de Noël",
@@ -5424,11 +5424,11 @@
         },
         {
           "titre": "Un équipage un peu particulier",
-          "texte": "Frank Borman commande la mission avec William Anders et James Lovell. Lovell remplace Michael Collins, opéré d'une hernie discale en juillet 1968. Il a déjà volé deux fois, avec les missions Gemini VII puis Gemini XII : cas rare où le commandant n'est pas le plus expérimenté de l'équipage. Le succès d'Apollo 8 rend possible Apollo 11, qui atteindra l'objectif de Kennedy."
+          "texte": "Frank Borman commande la mission avec William Anders et James Lovell. Lovell remplace Michael Collins, opéré d'une hernie discale en juillet 1968. Il a déjà volé deux fois, avec les missions Gemini VII puis Gemini XII : c'est une première à l'époque, le commandant n'étant pas le membre le plus expérimenté de l'équipage. Le succès d'Apollo 8 rend possible Apollo 11, qui atteindra l'objectif de Kennedy."
         }
       ],
       "anecdotes": [
-        "L'équipage aurait voulu baptiser son vaisseau Columbiad, du nom du canon géant du roman De la Terre à la Lune de Jules Verne, mais la NASA a refusé de laisser les astronautes nommer l'engin. Le module d'Apollo 11, lui, s'appellera Columbia.",
+        "L'équipage aurait voulu baptiser son vaisseau Columbiad, du nom du canon géant du roman De la Terre à la Lune de Jules Verne, mais la NASA a refusé de laisser les astronautes nommer l'engin. C'est en partie en souvenir de cette idée que le module d'Apollo 11 s'appellera Columbia.",
         "L'insigne de la mission, un grand « 8 » rouge qui entoure la Terre et la Lune, a été esquissé par Jim Lovell sur le siège arrière d'un avion T-38 entre la Californie et Houston."
       ],
       "wikipedia": "Apollo 8"
@@ -5448,15 +5448,15 @@
       "sections": [
         {
           "titre": "Une station faite de pièces de récupération",
-          "texte": "Quand le programme Apollo décline, la NASA cherche de quoi occuper ses ingénieurs sans grand budget. Elle réutilise donc le matériel existant : l'atelier principal est un étage de Saturn V, l'ensemble mesure 35 mètres pour environ 90 tonnes. Avec ses plus de 350 m3 habitables, la station sera plus spacieuse que n'importe quelle autre jusqu'à la station russe Mir, en 1996."
+          "texte": "Quand le programme Apollo décline, la NASA cherche de quoi occuper ses ingénieurs sans grand budget. Elle réutilise donc le matériel existant : l'atelier principal est un étage de Saturn V, l'ensemble mesure 35 mètres pour environ 90 tonnes. Avec ses plus de 350 m3 habitables, la station restera la plus spacieuse jusqu'à l'achèvement de la station Mir, en 1996."
         },
         {
           "titre": "Une réparation en orbite, un record et une chute",
-          "texte": "Au lancement, la protection thermique et un panneau solaire sont arrachés, un autre reste coincé. Le premier équipage installe un pare-soleil de fortune et libère le panneau : c'était la première réparation de cette ampleur dans l'espace. Le dernier équipage reste 84 jours, un record. Skylab est rattrapée par l'atmosphère le 11 juillet 1979, et des débris retombent en Australie-Occidentale. La navette, qui devait la relever, n'était pas prête."
+          "texte": "Au lancement, la protection thermique et un panneau solaire sont arrachés, un autre reste coincé. Le premier équipage installe un pare-soleil de fortune et libère le panneau : c'était la première réparation de cette ampleur dans l'espace. Le dernier équipage reste 84 jours, loin devant le record de 23 jours établi à bord de la station soviétique Saliout 1. Skylab est rattrapée par l'atmosphère le 11 juillet 1979, et des débris retombent en Australie-Occidentale : la navette spatiale, qui devait remonter son orbite, n'était pas prête."
         },
         {
           "titre": "Le Soleil et la Terre sous toutes les coutures",
-          "texte": "Skylab embarque l'Apollo Telescope Mount, un observatoire solaire qui a fait progresser l'étude du Soleil, ainsi que des capteurs qui observent la Terre en lumière visible, en infrarouge et en micro-ondes. Les astronautes réalisent des milliers de photos, dix sorties dans l'espace et des centaines d'expériences. Le record de séjour de 23 jours, établi à bord de Salyut 1, est porté à 84 jours."
+          "texte": "Skylab embarque l'Apollo Telescope Mount, un observatoire solaire qui a fait progresser l'étude du Soleil, ainsi que des capteurs qui observent la Terre en lumière visible, en infrarouge et en micro-ondes. Les astronautes réalisent des milliers de photos, dix sorties dans l'espace et des centaines d'expériences, notamment sur l'adaptation du corps humain à l'apesanteur."
         }
       ],
       "anecdotes": [
@@ -5479,7 +5479,7 @@
       "sections": [
         {
           "titre": "Une station construite en solo",
-          "texte": "La Chine rêve d'une station depuis ses débuts habités, dans les années 1990. Les États-Unis ayant refusé qu'elle rejoigne la Station spatiale internationale, elle a bâti la sienne. Tiangong 1, lancée en septembre 2011, a servi à s'entraîner à l'amarrage. Tiangong 2 a accueilli des séjours d'une vingtaine de jours en 2016. Les trois modules de la station définitive, d'environ 22 tonnes chacun, sont envoyés par la fusée Longue Marche 5B."
+          "texte": "La Chine rêve d'une station depuis ses débuts habités, dans les années 1990. Les États-Unis ayant refusé qu'elle rejoigne la Station spatiale internationale, elle a bâti la sienne. Tiangong 1, lancée en septembre 2011, a servi à s'entraîner à l'amarrage. Tiangong 2, plus grande, a testé en 2016 des séjours plus longs et le ravitaillement automatique par le cargo Tianzhou. Les trois modules de la station définitive, d'environ 22 tonnes chacun, sont envoyés par la fusée Longue Marche 5B."
         },
         {
           "titre": "Trois modules aux noms poétiques",
@@ -5506,7 +5506,7 @@
     "type": "classique",
     "title": "Agence spatiale européenne",
     "subtitle": "Agence spatiale intergouvernementale, fondée en 1975",
-    "summary": "L'Agence spatiale européenne, ou ESA, réunit 23 pays pour mener des projets spatiaux civils en commun. Son siège est à Paris et elle a été fondée en 1975.\nElle conçoit des lanceurs comme Ariane, envoie des sondes vers la Lune, Mars, Vénus ou les comètes, observe la Terre et participe à la Station spatiale internationale. Sa mission est exclusivement pacifique.",
+    "summary": "L'Agence spatiale européenne, ou ESA, réunit 23 pays pour mener des projets spatiaux civils en commun. Son siège est à Paris et elle a été fondée en 1975.\nElle conçoit des lanceurs comme Ariane, envoie des sondes vers la Lune, Mars, Vénus ou les comètes, observe la Terre et participe à la Station spatiale internationale. Sa convention fondatrice lui assigne des fins pacifiques.",
     "details": {
       "sections": [
         {
@@ -5515,11 +5515,11 @@
         },
         {
           "titre": "Des centres répartis en Europe",
-          "texte": "Chaque pays reçoit des contrats en proportion de sa contribution : c'est le « retour géographique ». Le centre technique ESTEC est aux Pays-Bas, le centre de contrôle ESOC en Allemagne, et les lancements ont lieu à Kourou. Ariane 4, en service de 1988 à 2003, a fait de l'Europe le leader des lancements commerciaux."
+          "texte": "Chaque pays reçoit des contrats en proportion de sa contribution : c'est le « retour géographique ». Le centre technique ESTEC est aux Pays-Bas, le centre de contrôle ESOC en Allemagne, et les lancements ont lieu à Kourou. Ariane 4, en service de 1988 à 2003, a fait de l'Europe le leader mondial des lancements commerciaux dans les années 1990."
         },
         {
           "titre": "Des missions dans tout le système solaire",
-          "texte": "En 1986, Giotto étudie la comète de Halley, première mission de l'agence dans l'espace lointain. Viennent ensuite Rosetta, Mars Express, Venus Express et le module Huygens, ainsi que l'observation de la Terre, le système de navigation Galileo et le laboratoire Columbus, ajouté à l'ISS en 2008. Ses activités sont exclusivement pacifiques : le militaire reste national."
+          "texte": "En 1986, Giotto étudie la comète de Halley, première mission de l'agence dans l'espace lointain. Viennent ensuite Rosetta, Mars Express, Venus Express et le module Huygens, ainsi que l'observation de la Terre, le système de navigation Galileo et le laboratoire Columbus, ajouté à l'ISS en 2008. Sa convention de 1975 la réservait à des fins exclusivement pacifiques, le militaire restant l'affaire des États ; en 2025, ses membres ont toutefois élargi son mandat à la sécurité et à la défense."
         }
       ],
       "anecdotes": [
@@ -5555,7 +5555,7 @@
         }
       ],
       "anecdotes": [
-        "Quand la fusée russe Soyouz a été lancée depuis Kourou pour la première fois, le 21 octobre 2011 avec deux satellites Galileo, elle a pu emporter 2,8 tonnes vers l'orbite de transfert géostationnaire, contre 1,7 tonne depuis Baïkonour : la seule position de la Guyane augmente donc fortement la charge utile.",
+        "Quand la fusée russe Soyouz a été lancée depuis Kourou pour la première fois, le 21 octobre 2011 avec deux satellites Galileo, elle a pu emporter 2,8 tonnes vers l'orbite de transfert géostationnaire, contre 1,7 tonne depuis Baïkonour : la seule position de la Guyane augmente donc fortement la charge utile. Les tirs de Soyouz depuis la Guyane ont cessé en 2022, après l'invasion de l'Ukraine.",
         "La ville de Kourou a été bâtie pour loger les employés du centre spatial et se trouve aujourd'hui enclavée dans le site réservé : environ 25 000 habitants en 2021, au pied des pas de tir."
       ],
       "wikipedia": "Centre spatial guyanais"
@@ -5607,7 +5607,7 @@
       "sections": [
         {
           "titre": "Faire mieux pour moins cher",
-          "texte": "Après plusieurs missions très coûteuses, la NASA veut prouver qu'on peut aller sur une autre planète vite et sans se ruiner. Pathfinder est développée en trois ans, pour moins de 150 millions de dollars, soit environ cinq fois moins que le programme Viking. Avec le lancement et les opérations, la mission revient à 280 millions de dollars."
+          "texte": "Après plusieurs missions très coûteuses, la NASA veut prouver qu'on peut aller sur une autre planète vite et sans se ruiner, selon la devise « plus rapide, mieux et moins cher ». Pathfinder est développée en trois ans, pour moins de 150 millions de dollars, une petite fraction du coût du programme Viking. Avec le lancement et les opérations, la mission revient à 280 millions de dollars."
         },
         {
           "titre": "Quatre minutes pour se poser",
@@ -5646,11 +5646,11 @@
         },
         {
           "titre": "Une mission prolongée sans limite",
-          "texte": "Après avoir jugé que la Mars ancienne avait pu être accueillante pour des microbes, l'équipe a élargi ses objectifs. En décembre 2012, la mission de deux ans est prolongée indéfiniment. En 2013, un souci de mémoire a obligé à passer sur l'ordinateur de secours (il y en a deux). Son modèle a inspiré Perseverance en 2021."
+          "texte": "Dès décembre 2012, sa mission de deux ans est prolongée indéfiniment. Début 2013, une panne de mémoire oblige l'équipe à basculer sur son ordinateur de secours. Environ un an après l'atterrissage, ayant établi que la Mars ancienne avait pu être accueillante pour des microbes, l'équipe élargit ses objectifs : comprendre comment les traces organiques se conservent dans les roches. Son modèle a servi de base au rover Perseverance, en 2021."
         }
       ],
       "anecdotes": [
-        "Le nom Curiosity a été choisi parmi plus de 9 000 propositions. La gagnante, Clara Ma, douze ans, élève au Kansas, avait écrit que la curiosité est « une flamme éternelle » allumée dans l'esprit de chacun. Son prix : signer de sa main directement sur le rover pendant son assemblage."
+        "Le nom Curiosity a été choisi parmi plus de 9 000 propositions d'élèves. La gagnante, Clara Ma, douze ans, élève au Kansas, avait écrit que la curiosité est « une flamme éternelle » allumée dans l'esprit de chacun. Son prix : une visite du laboratoire JPL, où elle a signé de sa main directement sur le rover pendant son assemblage."
       ],
       "wikipedia": "Curiosity (astromobile)"
     },
@@ -5681,7 +5681,7 @@
         }
       ],
       "anecdotes": [
-        "Peu après son atterrissage, Spirit a cessé de transmettre des données utiles : un problème de mémoire flash l'a rendu muet pendant dix jours. Les ingénieurs ont reformaté sa mémoire à distance, et deux astéroïdes portent aujourd'hui les noms des deux rovers."
+        "Moins de trois semaines après son atterrissage, Spirit s'est mis à redémarrer en boucle à cause d'un problème de mémoire flash et n'a fait aucune science pendant dix jours. Les ingénieurs ont reformaté sa mémoire à distance, depuis la Terre, et le rover est reparti pour six ans de travail."
       ],
       "wikipedia": "Mars Exploration Rover"
     },
@@ -5731,7 +5731,7 @@
       "sections": [
         {
           "titre": "Des panneaux solaires à Jupiter",
-          "texte": "Jusqu'alors, les sondes lancées vers le système solaire externe utilisaient des générateurs nucléaires. Juno est la première à compter sur des panneaux solaires, et ses trois ailes étaient les plus grandes jamais déployées sur une sonde planétaire. Elle a quitté la Terre le 5 août 2011, puis est repassée près de notre planète en octobre 2013 pour gagner de la vitesse."
+          "texte": "Jusqu'alors, les sondes lancées vers les planètes externes utilisaient des générateurs nucléaires. Juno est la première à compter sur des panneaux solaires, et ses trois ailes étaient, à son lancement, les plus grandes jamais déployées sur une sonde planétaire. Elle a quitté la Terre le 5 août 2011, puis est repassée près de notre planète en octobre 2013 pour gagner de la vitesse."
         },
         {
           "titre": "Pourquoi une orbite polaire",
@@ -5739,7 +5739,7 @@
         },
         {
           "titre": "Une mission prolongée",
-          "texte": "Juno devait descendre sur une orbite plus courte, mais un problème de moteur principal, constaté en 2016, l'en a empêchée. Elle est restée sur sa grande orbite de 53 jours, d'où une mission rallongée, finalement jusqu'à la fin de l'été 2025, pour réaliser tous les survols prévus. Elle a même passé près de Ganymède, d'Europe et de Io. Le projet a coûté environ 1,1 milliard de dollars."
+          "texte": "Juno devait descendre sur une orbite plus courte, de 14 jours, mais un problème de moteur principal, constaté en 2016, l'en a empêchée. Elle est restée sur sa grande orbite de 53 jours, et sa mission a donc été prolongée, d'abord jusqu'en 2021, puis jusqu'en septembre 2025, pour réaliser tous les survols prévus. Elle a même survolé de près Ganymède, Europe et Io. Le projet a coûté environ 1,1 milliard de dollars."
         }
       ],
       "anecdotes": [
@@ -5774,7 +5774,7 @@
         }
       ],
       "anecdotes": [
-        "La sonde a été rebaptisée en 2017 pour honorer le physicien Eugene Parker, qui avait imaginé le vent solaire en 1958 et assistait au lancement. À bord, une carte mémoire contient les noms de plus d'1,1 million de personnes, des photos de Parker et son article de 1958."
+        "La sonde a été rebaptisée en 2017 pour honorer le physicien Eugene Parker, qui avait imaginé le vent solaire en 1958 : c'était la première fois que la NASA donnait à une sonde le nom d'une personne vivante, et il a assisté au lancement. À bord, une carte mémoire contient les noms de plus d'1,1 million de personnes, des photos de Parker et son article de 1958."
       ],
       "wikipedia": "Parker (sonde spatiale)"
     },
@@ -5796,7 +5796,7 @@
           "texte": "Kepler utilise la méthode des transits : quand une planète passe devant son étoile, elle en masque un tout petit peu la lumière. Pour une planète comme Jupiter, la baisse est d'environ 1 %, pour une Terre devant un Soleil, de 0,01 % seulement. Son appareil de 95 millions de pixels surveillait en continu environ 150 000 étoiles, dans un champ de la taille d'un poing tendu. Son miroir de 1,4 mètre était, au lancement, le plus grand jamais envoyé hors de l'orbite terrestre."
         },
         {
-          "titre": "Un projet refusé trois fois",
+          "titre": "Un projet longtemps refusé",
           "texte": "L'idée remonte aux années 1980, mais la NASA a jugé le projet trop cher ou trop incertain à plusieurs reprises. Il est rebaptisé Kepler en 1996, en l'honneur de l'astronome allemand des lois sur le mouvement des planètes, puis retenu fin 2001. Pour valider la technique, la NASA a même financé un prototype capable de suivre plusieurs milliers d'étoiles à la fois."
         },
         {
@@ -5850,7 +5850,7 @@
     "type": "classique",
     "title": "Very Large Telescope",
     "subtitle": "Observatoire européen de l'ESO au Chili, en service depuis 1998",
-    "summary": "Le Very Large Telescope, ou Très Grand Télescope, est un ensemble de quatre grands télescopes de 8,2 mètres de diamètre, installés au nord du Chili, sur la montagne du Cerro Paranal, en plein désert d'Atacama. Il appartient à l'Observatoire européen austral.\nIl observe du visible à l'infrarouge. Chaque télescope peut aussi s'associer aux autres, ce qui donne des images d'une netteté extraordinaire.",
+    "summary": "Le Very Large Telescope, ou Très Grand Télescope, est un ensemble de quatre grands télescopes de 8,2 mètres de diamètre, installés au nord du Chili, sur le Cerro Paranal, en plein désert d'Atacama. Il appartient à l'Observatoire européen austral.\nIl observe du visible à l'infrarouge. Chaque télescope peut aussi s'associer aux autres, ce qui donne des images d'une netteté extraordinaire.",
     "details": {
       "sections": [
         {
@@ -5867,7 +5867,7 @@
         }
       ],
       "anecdotes": [
-        "Les quatre télescopes portent des noms mapuches : Antu (le Soleil), Kueyen (la Lune), Melipal (la Croix du Sud) et Yepun (Vénus, l'étoile du soir). Un dictionnaire des années 1940 avait traduit Yepun par Sirius, une erreur. Le concours de rédaction a été gagné par une jeune Chilienne de dix-sept ans, qui a reçu un télescope d'amateur."
+        "Les quatre télescopes portent depuis 1999 des noms mapuches : Antu (le Soleil), Kueyen (la Lune), Melipal (la Croix du Sud) et Yepun (Vénus, l'étoile du soir). Un dictionnaire des années 1940 avait traduit Yepun par Sirius, une erreur. Un concours de rédaction sur ces noms, ouvert aux écoliers de la région, a été gagné par une Chilienne de dix-sept ans, qui a reçu un télescope d'amateur."
       ],
       "wikipedia": "Très Grand Télescope"
     },
@@ -5886,7 +5886,7 @@
       "sections": [
         {
           "titre": "Pourquoi s'entraîner",
-          "texte": "Chaque jour, environ 100 tonnes de petits astéroïdes se désintègrent dans notre atmosphère, sans danger. Mais un objet de plus de 30 mètres peut raser une ville : en 1908, une explosion au-dessus de la Tounguska, en Sibérie, a couché 2 000 km² de forêt. La chute de la comète Shoemaker-Levy 9 sur Jupiter, en 1994, a convaincu les États-Unis de prendre la menace au sérieux."
+          "texte": "Chaque jour, environ 100 tonnes de petits astéroïdes se désintègrent dans notre atmosphère, sans danger. Mais un objet de plus de 30 mètres peut raser une ville : en 1908, l'explosion d'un astéroïde au-dessus de la Toungouska, en Sibérie, a couché 2 000 km² de forêt. La chute de la comète Shoemaker-Levy 9 sur Jupiter, en 1994, a convaincu les États-Unis de prendre la menace au sérieux."
         },
         {
           "titre": "Un impact calculé",
@@ -6022,7 +6022,7 @@
         }
       ],
       "anecdotes": [
-        "Oscar Duhalde avait vu l'étoile bien avant Shelton : lors d'une pause pour faire du café, il avait remarqué un astre inhabituel dans le ciel, mais ne l'avait pas signalé, distrait par les histoires drôles de ses collègues. C'est Shelton, qui a alerté l'Union astronomique internationale, qui est le plus souvent crédité."
+        "Oscar Duhalde avait vu l'étoile environ trois quarts d'heure avant que Shelton ne la repère sur sa photo : sorti contempler le ciel pendant que chauffait l'eau du café, il avait remarqué un astre inhabituel, mais ne l'avait pas signalé, distrait par les histoires drôles de ses collègues. C'est l'annonce de Shelton, transmise à l'Union astronomique internationale, qui lui vaut d'être le plus souvent crédité."
       ],
       "wikipedia": "SN 1987A"
     },
@@ -6045,7 +6045,7 @@
         },
         {
           "titre": "Proches ou lointains ?",
-          "texte": "En 1991, l'observatoire spatial CGRO répartit 2 704 sursauts sur la carte du ciel : ils viennent de partout, pas du plan de la Voie lactée. En 1997, le satellite BeppoSAX repère la lueur persistante d'un sursaut dans les rayons X puis en lumière visible. Le 8 mai 1997, la mesure d'une distance de plusieurs milliards d'années-lumière tranche le débat : ces explosions sont extragalactiques."
+          "texte": "En 1991, l'observatoire spatial CGRO répartit 2 704 sursauts sur la carte du ciel : ils viennent de partout, pas du plan de la Voie lactée. En février 1997, le satellite BeppoSAX repère la lueur persistante d'un sursaut en rayons X, puis un télescope au sol la retrouve en lumière visible. En mai 1997, la mesure de la distance d'un autre sursaut, environ 6 milliards d'années-lumière, tranche le débat : ces explosions sont extragalactiques."
         },
         {
           "titre": "Deux familles",
@@ -6111,11 +6111,11 @@
         },
         {
           "titre": "Un verdict célèbre, mais nuancé",
-          "texte": "Après étude des plaques photographiques, Dyson affirme qu'elles confirment la prédiction d'Einstein. L'expérience est considérée comme un test décisif de la relativité générale, même si les mesures restaient très incertaines : seul Eddington avait mesuré une déviation, légèrement différente du calcul. Des expériences ultérieures, bien plus précises, se sont montrées davantage conformes à la théorie."
+          "texte": "Après étude des plaques photographiques, Dyson affirme qu'elles confirment la prédiction d'Einstein. L'expérience est considérée comme un test décisif de la relativité générale, même si les mesures de l'époque restaient entachées d'une grande incertitude. Des expériences ultérieures, bien plus précises, se sont montrées davantage conformes à la théorie."
         }
       ],
       "anecdotes": [
-        "Le matin de l'éclipse, un orage éclate après des jours de ciel couvert. Les nuages ne commencent à se dissiper qu'une trentaine de minutes avant le phénomène, et les astronomes prennent finalement leurs photos à travers des trouées dans la couverture nuageuse."
+        "Sur l'île de Principe, un orage éclate le matin de l'éclipse, après des jours de ciel couvert. Les nuages ne commencent à se dissiper qu'une trentaine de minutes avant le phénomène, et les astronomes prennent finalement leurs photos à travers des trouées dans la couverture nuageuse."
       ],
       "wikipedia": "Éclipse solaire du 29 mai 1919"
     },
@@ -6138,11 +6138,11 @@
         },
         {
           "titre": "Une preuve en faveur du Big Bang",
-          "texte": "Les étoiles fabriquent de l'hélium, mais bien trop peu pour expliquer celui qu'on observe : environ un quart de la matière ordinaire, dans des proportions à peu près constantes d'une galaxie à l'autre. Le modèle prévoit aussi environ 0,002 % de deutérium, en excellent accord avec les mesures. En 1965, après la découverte du fond diffus cosmologique, Jim Peebles calcule un taux d'hélium primordial de 26 à 28 %."
+          "texte": "Les étoiles fabriquent de l'hélium, mais bien trop peu pour expliquer celui qu'on observe : environ un quart de la matière ordinaire, dans des proportions à peu près constantes d'une galaxie à l'autre. Le modèle prévoit aussi environ 0,002 % de deutérium, en excellent accord avec les mesures. Après la découverte du fond diffus cosmologique, en 1965, Jim Peebles calcule un taux d'hélium primordial de 26 à 28 %."
         },
         {
           "titre": "Une histoire et une énigme",
-          "texte": "George Gamow et son étudiant Ralph Alpher ouvrent la voie dans les années 1940. Mais aucun noyau de masse 5 ou 8 ne permet d'aller plus loin que les éléments légers. En 1957, Fred Hoyle, les Burbidge et William Fowler expliquent la naissance des éléments lourds dans les étoiles. Une énigme demeure : le lithium mesuré dans de vieilles étoiles ne correspond pas aux prévisions, c'est le « problème du lithium cosmologique »."
+          "texte": "George Gamow et son étudiant Ralph Alpher ouvrent la voie dans les années 1940. Mais il n'existe aucun noyau stable de masse 5 ou 8 : ce « trou » empêche le Big Bang de fabriquer autre chose que des éléments légers. En 1957, Fred Hoyle, les Burbidge et William Fowler expliquent la naissance des éléments lourds dans les étoiles. Une énigme demeure : le lithium mesuré dans de vieilles étoiles ne correspond pas aux prévisions, c'est le « problème du lithium cosmologique »."
         }
       ],
       "anecdotes": [
@@ -6177,7 +6177,7 @@
         }
       ],
       "anecdotes": [
-        "Selon la description donnée, toute la matière et l'énergie de l'Univers observable aujourd'hui auraient tenu dans une sphère d'environ 4 × 10^-29 mètre, avant de grossir jusqu'à environ 0,9 mètre à la fin de l'inflation."
+        "Toute la masse et l'énergie des galaxies aujourd'hui visibles auraient tenu dans une sphère d'environ 4 × 10⁻²⁹ mètre de rayon, bien plus petite qu'un proton, avant de grossir jusqu'à un rayon d'environ 0,9 mètre à la fin de l'inflation."
       ],
       "wikipedia": "Inflation cosmique"
     },
@@ -6231,7 +6231,7 @@
         },
         {
           "titre": "Une idée née d'un ordre du jour",
-          "texte": "En 1960, Drake lance le projet Ozma : avec une antenne de 26 mètres, il écoute deux étoiles proches, Epsilon Eridani et Tau Ceti, six heures par jour d'avril à juillet. Aucun signal. L'année suivante, il organise à Green Bank la première réunion consacrée à la recherche d'intelligences extraterrestres. Pour préparer son programme, il liste ce qu'il faut savoir et s'aperçoit qu'en multipliant ces points, on obtient un nombre."
+          "texte": "En 1960, Drake lance le projet Ozma : avec une antenne de 26 mètres, il écoute deux étoiles proches, Epsilon Eridani et Tau Ceti, six heures par jour d'avril à juillet. Aucun signal. L'année suivante, il accueille à Green Bank la première réunion consacrée à la recherche d'intelligences extraterrestres. En préparant l'ordre du jour, il liste ce qu'il faut savoir et s'aperçoit qu'en multipliant ces points, on obtient un nombre."
         },
         {
           "titre": "Une équation très discutée",
@@ -6258,7 +6258,7 @@
       "sections": [
         {
           "titre": "Une question lancée à la cafétéria",
-          "texte": "Un jour de l'été 1950, au laboratoire de Los Alamos, Fermi déjeune avec Edward Teller, Emil Konopinski et Herbert York. La conversation roule sur les soucoupes volantes quand il lance, selon les souvenirs : « Où est tout le monde ? ». Tous éclatent de rire, car chacun comprend qu'il parle des extraterrestres. Fermi n'a rien publié sur le sujet : tout repose sur les témoignages de ses collègues."
+          "texte": "Un jour de l'été 1950, au laboratoire de Los Alamos, Fermi déjeune avec Edward Teller, Emil Konopinski et Herbert York. On a parlé de soucoupes volantes, puis la conversation est passée à autre chose quand il lance, selon les souvenirs : « Où est tout le monde ? ». Tous éclatent de rire, car chacun comprend qu'il parle des extraterrestres. Fermi n'a rien publié sur le sujet : tout repose sur les témoignages de ses collègues."
         },
         {
           "titre": "Le raisonnement",
@@ -6266,7 +6266,7 @@
         },
         {
           "titre": "Des réponses, aucun consensus",
-          "texte": "En 1975, l'astrophysicien Michael Hart classe les solutions en quatre familles : des obstacles physiques, des choix sociologiques (ne pas venir), un manque de temps, ou l'absence de civilisations. D'autres idées : une vie intelligente rarissime, ou une vie cachée sous la glace d'océans. Fontenelle en 1686 et Tsiolkovski dans les années 1930 avaient déjà soulevé l'objection."
+          "texte": "En 1975, l'astrophysicien Michael Hart classe les solutions en quatre familles : des obstacles physiques, des choix sociologiques (ne pas venir), un manque de temps, ou une visite déjà faite sans que nous le sachions. Lui-même conclut que nous sommes la première civilisation de la Galaxie. D'autres idées : une vie intelligente rarissime, ou une vie cachée sous la glace d'océans. Fontenelle en 1686 et Tsiolkovski dans les années 1930 avaient déjà soulevé l'objection."
         }
       ],
       "anecdotes": [
@@ -6289,7 +6289,7 @@
       "sections": [
         {
           "titre": "Ce que contient un amas",
-          "texte": "Les galaxies ne sont qu'une petite partie d'un amas. Elles baignent dans un gaz très ténu mais extrêmement chaud, de plusieurs dizaines de millions de degrés, qui brille en rayons X. Il contient du fer, rejeté par des étoiles mortes en supernova. Mais l'essentiel de la masse, environ 85 %, serait de la matière sombre, invisible. Au total, un amas pèse de cent mille à un million de milliards de fois le Soleil."
+          "texte": "Les galaxies ne sont qu'une petite partie d'un amas. Elles baignent dans un gaz très ténu mais extrêmement chaud, de plusieurs dizaines de millions de degrés, qui brille en rayons X. Il contient du fer, rejeté par des étoiles mortes en supernova. Mais l'essentiel de la masse, environ 85 %, serait de la matière sombre, invisible. Au total, un amas pèse entre cent mille milliards et un million de milliards de fois le Soleil."
         },
         {
           "titre": "Quelques voisins célèbres",
@@ -6297,7 +6297,7 @@
         },
         {
           "titre": "Des loupes cosmiques",
-          "texte": "Un amas est si massif qu'il courbe la lumière qui le traverse : il agit comme une loupe géante. Les astronomes s'en servent pour apercevoir des galaxies lointaines, vues à leurs débuts, qu'aucun télescope ne détecterait autrement. Ces structures se sont formées il y a plus de 10 milliards d'années, et on y a même observé une galaxie naine en pleine formation d'étoiles, derrière l'amas Phoenix."
+          "texte": "Ces structures se sont formées il y a 10 milliards d'années ou plus. Un amas est si massif qu'il courbe la lumière qui passe près de lui : il agit comme une loupe géante. Les astronomes s'en servent pour apercevoir des galaxies lointaines, vues à leurs débuts, qu'aucun télescope ne détecterait autrement. L'amas Phoenix a ainsi permis d'observer une galaxie naine en pleine formation d'étoiles."
         }
       ],
       "anecdotes": [
@@ -6315,7 +6315,7 @@
     "type": "classique",
     "title": "Loi de Hubble-Lemaître",
     "subtitle": "Plus une galaxie est loin, plus elle s'éloigne vite (1927-1929)",
-    "summary": "Selon la loi de Hubble-Lemaître, la vitesse d'éloignement d'une galaxie est à peu près proportionnelle à sa distance : deux fois plus loin, deux fois plus vite. C'est la première preuve observationnelle de l'expansion de l'Univers.\nSon nom a changé en 2018 : l'Union astronomique internationale y a ajouté celui du Belge Georges Lemaître, qui l'avait prédite dès 1927, deux ans avant Edwin Hubble.",
+    "summary": "Selon la loi de Hubble-Lemaître, la vitesse d'éloignement d'une galaxie est à peu près proportionnelle à sa distance : deux fois plus loin, deux fois plus vite. C'est la première preuve observationnelle de l'expansion de l'Univers.\nSon nom a changé en 2018 : l'Union astronomique internationale a recommandé d'y ajouter celui du Belge Georges Lemaître, qui l'avait prédite dès 1927, deux ans avant Edwin Hubble.",
     "details": {
       "sections": [
         {
@@ -6332,7 +6332,7 @@
         }
       ],
       "anecdotes": [
-        "Après la découverte de Hubble, Albert Einstein a abandonné la constante cosmologique qu'il avait ajoutée à ses équations pour obtenir un Univers immobile, et il a qualifié cette idée de sa « plus grande erreur ». En 1931, il est même allé à l'observatoire du Mont Wilson remercier Hubble."
+        "Après la découverte de Hubble, Albert Einstein a abandonné la constante cosmologique qu'il avait ajoutée à ses équations pour obtenir un Univers immobile ; selon le physicien George Gamow, il aurait qualifié cette idée de sa « plus grande erreur ». En 1931, il est même allé à l'observatoire du Mont Wilson remercier Hubble."
       ],
       "wikipedia": "Loi de Hubble-Lemaître"
     },
@@ -6382,7 +6382,7 @@
       "sections": [
         {
           "titre": "Une frontière sans mur",
-          "texte": "Autour d'un trou noir, l'horizon est le niveau où la vitesse nécessaire pour s'arracher à la gravité dépasserait celle de la lumière. Contrairement à la surface d'une planète, il n'a aucune consistance : objets et particules peuvent le traverser, mais seulement vers le centre. Sa surface ne peut jamais diminuer. Elle reste identique ou grandit, quand de la matière ou du rayonnement tombe dans le trou noir."
+          "texte": "Autour d'un trou noir, l'horizon est le niveau où la vitesse nécessaire pour s'arracher à la gravité dépasserait celle de la lumière. Contrairement à la surface d'une planète, il n'a aucune consistance : objets et particules peuvent le traverser, mais seulement vers le centre. Sa surface ne peut jamais diminuer : elle reste identique, ou grandit quand de la matière ou du rayonnement tombe dans le trou noir."
         },
         {
           "titre": "Ce que voit un observateur lointain",
@@ -6390,7 +6390,7 @@
         },
         {
           "titre": "Un horizon à l'échelle de l'Univers",
-          "texte": "Par analogie, l'horizon cosmique des événements est la plus grande distance d'où la lumière émise aujourd'hui pourra un jour nous atteindre. Elle n'existe que parce que l'expansion de l'Univers s'accélère. Il se situe actuellement à environ 16 milliards d'années-lumière. Il ne faut pas le confondre avec l'horizon des particules, la limite de l'Univers observable, à environ 46,5 milliards d'années-lumière."
+          "texte": "Par analogie, l'horizon cosmique des événements marque la plus grande distance d'où la lumière émise aujourd'hui pourra un jour nous atteindre. Cet horizon n'existe que parce que l'expansion de l'Univers s'accélère. Il se situe actuellement à environ 16 milliards d'années-lumière. Il ne faut pas le confondre avec l'horizon des particules, la limite de l'Univers observable, à environ 46,5 milliards d'années-lumière."
         }
       ],
       "anecdotes": [
@@ -6421,11 +6421,11 @@
         },
         {
           "titre": "Les géants sont les moins denses",
-          "texte": "Comme le rayon croît avec la masse, mais le volume bien plus vite, les plus gros trous noirs sont les moins denses. Un trou noir d'un milliard de masses solaires aurait un rayon d'environ 20 unités astronomiques, à peu près l'orbite d'Uranus. À l'inverse, un trou noir de la densité du noyau d'un atome ne pèserait qu'environ 16 fois le Soleil. Le trou noir central de la Voie lactée, lui, mesure environ 12 millions de kilomètres."
+          "texte": "Comme le rayon croît avec la masse, mais le volume bien plus vite, les plus gros trous noirs sont les moins denses. Un trou noir d'un milliard de masses solaires aurait un rayon d'environ 20 unités astronomiques, à peu près l'orbite d'Uranus. À l'inverse, un trou noir de la masse du mont Everest aurait un rayon de moins d'un millième de nanomètre. Celui du trou noir central de la Voie lactée atteint environ 12 millions de kilomètres."
         }
       ],
       "anecdotes": [
-        "Un trou noir d'environ 135 millions de masses solaires a une densité moyenne égale à celle de l'eau. Au-delà, un trou noir supermassif est même moins dense que l'eau : on peut le voir comme un immense volume presque vide, simplement délimité par l'horizon."
+        "Un trou noir d'environ 135 millions de masses solaires a une densité moyenne égale à celle de l'eau. Au-delà, un trou noir supermassif est même, en moyenne, moins dense que l'eau."
       ],
       "wikipedia": "Rayon de Schwarzschild"
     },
@@ -6483,11 +6483,11 @@
         },
         {
           "titre": "Histoire et candidates",
-          "texte": "L'idée remonte à Edward Maunder en 1913 ; l'expression « zone habitable » est forgée en 1959 par Su-Shu Huang. Le télescope Kepler, lancé en 2009, a été conçu pour traquer ces planètes. En 2013, des astronomes estimaient qu'il pourrait y avoir jusqu'à 40 milliards de planètes de la taille de la Terre en zone habitable dans la Voie lactée. Proxima b, à environ 4,2 années-lumière, est la plus proche."
+          "texte": "L'idée apparaît chez Edward Maunder en 1913 ; l'astrophysicien américain Su-Shu Huang en développe la version moderne dans les années 1950 et 1960. Le télescope Kepler, lancé en 2009, a été conçu pour traquer ces planètes. En 2013, des astronomes estimaient qu'il pourrait y avoir jusqu'à 40 milliards de planètes de la taille de la Terre en zone habitable dans la Voie lactée. Proxima b, à environ 4,2 années-lumière, est l'exoplanète connue la plus proche, et elle orbite dans la zone habitable de son étoile."
         }
       ],
       "anecdotes": [
-        "La zone habitable est surnommée en anglais la « zone Goldilocks », en référence à l'héroïne d'un conte pour enfants, Goldilocks et les trois ours, qui choisit toujours ce qui n'est ni trop grand ni trop petit, ni trop chaud ni trop froid, mais « juste comme il faut »."
+        "En anglais, la zone habitable est surnommée « zone Goldilocks », du nom anglais de Boucle d'or : dans le conte Boucle d'or et les trois ours, la fillette rejette ce qui est trop grand ou trop petit, trop chaud ou trop froid, pour choisir ce qui est « juste comme il faut »."
       ],
       "wikipedia": "Zone habitable"
     },
@@ -6501,16 +6501,16 @@
     "type": "classique",
     "title": "Spectre électromagnétique",
     "subtitle": "Du radio aux rayons gamma : toutes les formes de lumière",
-    "summary": "Le spectre électromagnétique classe tous les rayonnements de même nature que la lumière, selon leur longueur d'onde. Des ondes radio, très longues, aux rayons gamma, plus petits qu'un noyau d'atome, on passe par les micro-ondes, l'infrarouge, le visible, l'ultraviolet et les rayons X.\nNos yeux n'en perçoivent qu'une très étroite portion, le visible. Tout le reste, les astronomes l'attrapent avec des instruments spéciaux.",
+    "summary": "Le spectre électromagnétique classe tous les rayonnements de même nature que la lumière, selon leur longueur d'onde. Des ondes radio, aux longueurs d'onde immenses, aux rayons gamma, dont la longueur d'onde est plus petite qu'un noyau d'atome, on passe par les micro-ondes, l'infrarouge, le visible, l'ultraviolet et les rayons X.\nNos yeux n'en perçoivent qu'une très étroite portion, le visible. Tout le reste, les astronomes l'attrapent avec des instruments spéciaux.",
     "details": {
       "sections": [
         {
           "titre": "Sept familles, une même nature",
-          "texte": "Du côté des basses énergies, les ondes radio ont des longueurs de milliers de kilomètres ou plus. À l'autre extrémité, les rayons gamma ont des photons très énergétiques, et des longueurs d'onde bien plus petites qu'un noyau atomique. Entre les deux : micro-ondes, infrarouge, lumière visible, ultraviolet, rayons X. La sensibilité de l'œil humain est maximale autour de 550 nanomètres."
+          "texte": "Du côté des basses énergies, les ondes radio peuvent atteindre des longueurs d'onde de milliers de kilomètres, voire davantage. À l'autre extrémité, les rayons gamma ont des photons très énergétiques, et des longueurs d'onde bien plus petites qu'un noyau atomique. Entre les deux : micro-ondes, infrarouge, lumière visible, ultraviolet, rayons X. La sensibilité de l'œil humain est maximale autour de 550 nanomètres."
         },
         {
           "titre": "La découverte de l'invisible",
-          "texte": "En 1800, William Herschel découvre l'infrarouge, puis Johann Ritter l'ultraviolet en 1801. Dans les années 1860, James Clerk Maxwell comprend que la lumière est une onde électromagnétique et prédit toutes les fréquences possibles. En 1886, Heinrich Hertz produit les ondes radio. Röntgen découvre les rayons X en 1895. Les rayons gamma, enfin, sont identifiés par Paul Villard autour de 1900."
+          "texte": "En 1800, William Herschel découvre l'infrarouge, puis Johann Ritter l'ultraviolet en 1801. Dans les années 1860, James Clerk Maxwell comprend que la lumière est une onde électromagnétique et prédit toutes les fréquences possibles. En 1886, Heinrich Hertz produit les ondes radio. Röntgen découvre les rayons X en 1895. Les rayons gamma, enfin, sont identifiés par Paul Villard en 1900."
         },
         {
           "titre": "Pourquoi les astronomes l'étudient",
@@ -6537,15 +6537,15 @@
       "sections": [
         {
           "titre": "Longitude et latitude du ciel",
-          "texte": "La référence est l'équateur céleste, prolongement de l'équateur terrestre dans le ciel. La déclinaison mesure l'angle au nord ou au sud de cet équateur, de 0° à ±90°, le pôle céleste nord valant +90°. L'ascension droite se mesure vers l'est à partir du point vernal, la direction du Soleil à l'équinoxe de printemps. Elle se compte en heures : 24 heures font le tour du ciel, donc 1 heure vaut 15°."
+          "texte": "La référence est l'équateur céleste, prolongement de l'équateur terrestre dans le ciel. La déclinaison mesure l'angle au nord ou au sud de cet équateur, de 0° à ±90°, le pôle céleste nord valant +90°. L'ascension droite se mesure vers l'est à partir du point vernal, la direction du Soleil à l'équinoxe de printemps de l'hémisphère Nord. Elle se compte en heures : 24 heures font le tour du ciel, donc 1 heure vaut 15°."
         },
         {
           "titre": "Lire une adresse céleste",
-          "texte": "L'étoile Polaire, presque dans l'axe de la Terre, a une déclinaison de 89° 15′ : elle est quasiment au pôle. Bételgeuse, l'épaule d'Orion, affiche 5 h 55 en ascension droite et un peu plus de 7° en déclinaison. Dans un repère lié à l'horizon, la position d'un astre change au contraire selon le lieu et bouge sans cesse. Des cercles gradués permettent de pointer un télescope à monture équatoriale."
+          "texte": "L'étoile Polaire, presque dans l'axe de la Terre, a une déclinaison de 89° 15′ : elle est quasiment au pôle. Bételgeuse, l'épaule d'Orion, affiche 5 h 55 min en ascension droite et un peu plus de 7° en déclinaison. Dans un repère lié à l'horizon, la position d'un astre change au contraire selon le lieu et bouge sans cesse. Des cercles gradués permettent de pointer un télescope à monture équatoriale."
         },
         {
           "titre": "Une adresse qui dérive",
-          "texte": "L'axe de la Terre oscille lentement : la précession des équinoxes et la nutation déplacent peu à peu les références, sur des cycles de millénaires. Pour que tout le monde se comprenne, les astronomes fixent une date de référence appelée époque, aujourd'hui J2000.0. Dans les alertes d'astronomes professionnels, l'ascension droite est parfois donnée en degrés : 77,5° équivaut à 5 h 10 m."
+          "texte": "L'axe de la Terre oscille lentement : la précession des équinoxes et la nutation déplacent peu à peu les références, sur des cycles de millénaires. Pour que tout le monde se comprenne, les astronomes fixent une date de référence appelée époque, aujourd'hui J2000.0. Dans les alertes d'astronomes professionnels, l'ascension droite est parfois donnée en degrés : 77,5° équivaut à 5 h 10 min."
         }
       ],
       "anecdotes": [

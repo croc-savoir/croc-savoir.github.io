@@ -1639,13 +1639,13 @@
     "format": "qcm",
     "question": "De quel nom vient le mot « rastafari » ?",
     "choix": [
-      "Ras Tafari Makonnen, titre de l'empereur d'Éthiopie avant son couronnement",
+      "Ras Tafari Makonnen, nom de l'empereur d'Éthiopie avant son couronnement",
       "Marcus Garvey, le prophète du retour en Afrique",
       "Bob Marley, le chanteur de reggae",
       "Leonard Howell, un prédicateur jamaïcain"
     ],
     "bonneReponse": 0,
-    "explication": "Le mouvement tire son nom de Ras Tafari Makonnen, le titre que portait Haïlé Sélassié avant d'être couronné empereur d'Éthiopie, en 1930. Des prédicateurs jamaïcains ont vu dans ce couronnement l'accomplissement d'une prophétie biblique.",
+    "explication": "Le mouvement tire son nom de Ras Tafari Makonnen : ras, titre de noblesse, suivi du nom de celui qui devient Haïlé Sélassié, empereur d'Éthiopie, en 1930. Des prédicateurs jamaïcains ont vu dans ce couronnement l'accomplissement d'une prophétie biblique.",
     "source": "D'après Wikipédia — Mouvement rastafari"
   },
   {
@@ -1715,12 +1715,12 @@
       {
         "gauche": "Oxum",
         "droite": "Les rivières",
-        "explication": "Déesse des eaux douces et de la beauté, elle porte un miroir et le jaune."
+        "explication": "Déesse des eaux douces et de la beauté, elle a pour attribut un miroir et pour couleur le jaune."
       },
       {
         "gauche": "Ogum",
         "droite": "La forge et la guerre",
-        "explication": "Il a offert le feu et la forge aux humains ; on l'associe à saint Georges."
+        "explication": "Selon la tradition, il a offert le feu et la forge aux humains ; on l'associe à saint Georges."
       }
     ],
     "explication": "Chaque orixá est lié à un élément naturel, avec ses couleurs, ses offrandes et son saint catholique associé. Cette correspondance a permis aux esclaves de garder leurs cultes sous couvert de catholicisme.",
@@ -1779,7 +1779,7 @@
       "Jean XXIII"
     ],
     "bonneReponse": 0,
-    "explication": "Le Polonais Karol Wojtyła est élu le 16 octobre 1978. Avant lui, le dernier pape non italien était le Néerlandais Adrien VI, en 1522. Il reste l'un des pontificats les plus longs de l'histoire, avec plus de 26 ans.",
+    "explication": "Le Polonais Karol Wojtyła est élu le 16 octobre 1978. Avant lui, le dernier pape non italien était le Néerlandais Adrien VI, élu en 1522. Son pontificat, de plus de 26 ans, reste le troisième plus long de l'histoire.",
     "source": "D'après Wikipédia — Jean-Paul II"
   },
   {
@@ -1809,16 +1809,16 @@
       "Les naqshbandis"
     ],
     "bonneReponse": 0,
-    "explication": "Les mevlevis tirent leur nom de Mawlânâ, « notre maître », surnom de Rûmî. Leur cérémonie, le samā', associe musique et danse tournante. L'ordre fut interdit en Turquie en 1926 par Atatürk.",
+    "explication": "Les mevlevis tirent leur nom de Mawlânâ, « notre maître », surnom de Rûmî. Leur cérémonie, le samā', associe musique et danse tournante. L'ordre fut interdit en Turquie sous Atatürk, avec les autres confréries soufies, au milieu des années 1920.",
     "source": "D'après Wikipédia — Rûmî"
   },
   {
     "id": "q-religions-114",
     "domain": "religions",
     "format": "vrai-faux",
-    "affirmation": "Mahavira est le fondateur du jaïnisme.",
+    "affirmation": "Mahavira a créé le jaïnisme de toutes pièces, sans s'appuyer sur une tradition plus ancienne.",
     "reponse": false,
-    "explication": "Pour les jaïns, Mahavira est le vingt-quatrième et dernier tîrthankara. Il a renforcé et réformé une tradition plus ancienne, celle de Parshvanatha, et lui a donné sa forme actuelle sans en créer une nouvelle.",
+    "explication": "Pour les jaïns, Mahavira est le vingt-quatrième et dernier tîrthankara. Les historiens y voient le réformateur d'une communauté plus ancienne, sans doute menée par Parshvanatha : il lui a donné sa forme actuelle sans fonder une religion nouvelle.",
     "source": "D'après Wikipédia — Mahāvīra"
   },
   {
@@ -1863,7 +1863,7 @@
       "Le cylindre de Cyrus"
     ],
     "bonneReponse": 0,
-    "explication": "La stèle de Tel Dan, érigée par un roi de Damas vers la fin du IXe siècle av. J.-C. ou plus tard, contient l'expression « Maison de David ». C'est probablement la mention d'une dynastie de Juda descendant de David.",
+    "explication": "La stèle de Tel Dan, érigée par un roi de Damas à la fin du IXe ou au début du VIIIe siècle av. J.-C., porte l'inscription bytdwd, que la plupart des spécialistes lisent « Maison de David ». Ce serait la mention d'une dynastie de Juda issue d'un fondateur nommé David, même si quelques chercheurs contestent cette lecture.",
     "source": "D'après Wikipédia — David (roi d'Israël)"
   },
   {
@@ -2100,7 +2100,7 @@
         "explication": "Il en fait un foyer majeur de l'ordre cistercien et reste son abbé jusqu'à sa mort."
       }
     ],
-    "explication": "Quatre grandes figures du christianisme médiéval et moderne : Benoît donne sa règle aux moines, Hildegarde met ses visions par écrit, Ignace élabore une méthode de méditation et Bernard fait de Clairvaux un foyer cistercien.",
+    "explication": "Quatre grandes figures du christianisme, de la fin de l'Antiquité à l'époque moderne : Benoît donne sa règle aux moines, Hildegarde met ses visions par écrit, Ignace élabore une méthode de méditation et Bernard fait de Clairvaux un foyer cistercien.",
     "source": "D'après Wikipédia — Benoît de Nursie"
   },
   {
@@ -2186,7 +2186,7 @@
       "Planches de bois clouées"
     ],
     "bonneReponse": 0,
-    "explication": "Le toit doit être en matière végétale, coupée et détachée du sol, et rester assez aéré pour laisser voir le ciel. Une cabane sous un arbre ou dans une maison ne convient pas : l'abri doit rester fragile, comme celui du désert.",
+    "explication": "Le toit doit être en matière végétale, issue du sol mais coupée et détachée de lui, et rester assez aéré pour laisser voir le ciel. Une cabane sous un arbre ou dans une maison ne convient pas : son toit existait avant la fête ou n'est pas à ciel ouvert.",
     "source": "D'après Wikipédia — Souccot"
   },
   {
@@ -2232,9 +2232,9 @@
     "id": "q-religions-142",
     "domain": "religions",
     "format": "vrai-faux",
-    "affirmation": "Des pièces de monnaie trouvées en 2011 au pied du mur des Lamentations prouvent qu'il a été bâti après la mort d'Hérode le Grand.",
+    "affirmation": "Des pièces de monnaie trouvées en 2011 sous les fondations du mur des Lamentations montrent qu'une partie du mur a été bâtie après la mort d'Hérode le Grand.",
     "reponse": true,
-    "explication": "Les pièces, frappées en 17 ou 18 après J.-C. par le préfet Valerius Gratus, montrent que le chantier a commencé plus de quinze ans après le décès d'Hérode, en 4 avant J.-C. On croyait auparavant que lui seul l'avait lancé.",
+    "explication": "Ces pièces, frappées en 17 ou 18 après J.-C. par le préfet Valerius Gratus, prouvent que cette section a été construite plus de quinze ans après la mort d'Hérode, en 4 avant J.-C. Les grands travaux du mont du Temple ont donc duré bien au-delà de son règne.",
     "source": "D'après Wikipédia — Mur des Lamentations"
   },
   {
@@ -2249,7 +2249,7 @@
       "Al-Mamun"
     ],
     "bonneReponse": 0,
-    "explication": "Le dôme du Rocher date de 691-692, sous le calife omeyyade Abd al-Malik. Omar a conquis Jérusalem plus tôt, en 638. Al-Mamun, deux siècles plus tard, a fait remplacer le nom d'Abd al-Malik par le sien dans l'inscription.",
+    "explication": "Le dôme du Rocher date de 691-692, sous le calife omeyyade Abd al-Malik, malgré son surnom de « mosquée d'Omar » : Omar avait conquis Jérusalem plus tôt, en 638. Al-Mamun, au IXe siècle, a fait remplacer le nom d'Abd al-Malik par le sien dans l'inscription.",
     "source": "D'après Wikipédia — Dôme du Rocher"
   },
   {
@@ -2327,9 +2327,9 @@
     "domain": "religions",
     "format": "qui-suis-je",
     "indices": [
+      "Clément d'Alexandrie conseille aux chrétiens de me graver sur leur sceau.",
       "Je suis un mot grec, et aussi un acronyme.",
       "Mes lettres sont les initiales de cinq mots qui désignent Jésus.",
-      "Clément d'Alexandrie conseille de me graver sur son sceau.",
       "On me dessine aujourd'hui avec deux arcs de cercle qui se croisent.",
       "Mon nom signifie « poisson »."
     ],
@@ -2379,7 +2379,7 @@
       "Il n'y en a aucune : ce sont deux noms de la même église"
     ],
     "bonneReponse": 0,
-    "explication": "Saint-Pierre est l'église du pape et la plus vaste, mais le siège de l'évêque de Rome est Saint-Jean-de-Latran, classée avant elle parmi les quatre basiliques majeures. Saint-Pierre doit son prestige à la tombe de l'apôtre Pierre.",
+    "explication": "Saint-Pierre est l'église du pape et la plus vaste, mais le siège de l'évêque de Rome est Saint-Jean-de-Latran, classée avant elle parmi les quatre basiliques majeures. Saint-Pierre doit son prestige à la tombe que la tradition attribue à l'apôtre Pierre.",
     "source": "D'après Wikipédia — Basilique Saint-Pierre"
   },
   {
@@ -2420,7 +2420,7 @@
       "Constantin"
     ],
     "bonneReponse": 0,
-    "explication": "Titus dirige le siège au nom de son père Vespasien, devenu empereur fin 69. Hadrien, lui, n'intervient que bien plus tard : il refonde Jérusalem en 130 sous le nom d'Aelia Capitolina, après la révolte de Bar Kokhba.",
+    "explication": "Titus dirige le siège au nom de son père Vespasien, devenu empereur fin 69. Hadrien, lui, n'intervient que bien plus tard : en 130, il refonde Jérusalem sous le nom d'Aelia Capitolina, ce qui contribue à déclencher la révolte de Bar Kokhba.",
     "source": "D'après Wikipédia — Siège de Jérusalem (70)"
   },
   {
@@ -2504,7 +2504,7 @@
       "Gilgamesh"
     ],
     "bonneReponse": 0,
-    "explication": "Pour les spécialistes, le récit de la naissance de Moïse reprend des éléments de la légende de Sargon d'Akkad, ce qui aide à dater les couches anciennes de l'Exode.",
+    "explication": "Comme Moïse confié au Nil dans une corbeille, Sargon d'Akkad, selon sa légende, aurait été abandonné bébé dans un panier sur l'Euphrate. Pour les spécialistes, ce parallèle fait partie des indices qui datent ce récit des couches anciennes de l'Exode, à l'époque des rois.",
     "source": "D'après Wikipédia — Livre de l'Exode"
   },
   {
@@ -2594,7 +2594,7 @@
       "Du nom de la ville de Suse"
     ],
     "bonneReponse": 0,
-    "explication": "Haman tire au sort (en hébreu « pour ») le jour de l'extermination des Juifs. Le pluriel « pourim » a donné son nom à la fête, souvent appelée « fête des Sorts ». Le sort s'est finalement retourné contre lui.",
+    "explication": "Dans le Livre d'Esther, Haman tire au sort (en hébreu « pour ») le jour où les Juifs doivent être exterminés. Le pluriel « pourim » a donné son nom à la fête, souvent appelée « fête des Sorts ». Le sort finit par se retourner contre lui.",
     "source": "D'après Wikipédia — Pourim"
   },
   {
@@ -2696,7 +2696,7 @@
       "Les sunnites commémorent l'Hégire, les chiites le pèlerinage de La Mecque"
     ],
     "bonneReponse": 0,
-    "explication": "Chez les sunnites, Achoura est surtout un jour de jeûne lié à la traversée de la mer Rouge par Moïse. Chez les chiites, c'est le deuil de Hussein, petit-fils de Mahomet, tué à Kerbala en 680.",
+    "explication": "Chez les sunnites, Achoura est surtout un jour de jeûne en souvenir de Moïse, sauvé de Pharaon selon la tradition lors de la traversée de la mer Rouge. Chez les chiites, c'est le deuil de Hussein, petit-fils de Mahomet, tué à Kerbala en 680.",
     "source": "D'après Wikipédia — Achoura"
   },
   {
@@ -2718,7 +2718,7 @@
     "id": "q-religions-173",
     "domain": "religions",
     "format": "associer",
-    "question": "Associe chaque nom local à la fête qu'il désigne.",
+    "question": "Associe chaque nom à la fête qu'il désigne.",
     "paires": [
       {
         "gauche": "Tabaski",
@@ -2733,15 +2733,15 @@
       {
         "gauche": "Hanamatsuri",
         "droite": "L'anniversaire du Bouddha",
-        "explication": "Au Japon, la « fête des fleurs » correspond à Vesak, anniversaire du Bouddha, fêtée traditionnellement le 8 avril."
+        "explication": "Au Japon, la « fête des fleurs » correspond à Vesak, l'anniversaire du Bouddha, fêté le 8 avril depuis que l'ère Meiji a adopté le calendrier solaire."
       },
       {
-        "gauche": "Pourim",
-        "droite": "La fête des Sorts",
-        "explication": "Le nom Pourim vient du tirage au sort (« pour ») par lequel Haman fixa la date de son décret, dans le Livre d'Esther."
+        "gauche": "Chavouot",
+        "droite": "La fête des Semaines",
+        "explication": "Chavouot signifie « semaines » en hébreu : la fête a lieu sept semaines après Pessa'h. Les chrétiens en ont repris la date pour la Pentecôte."
       }
     ],
-    "explication": "Une même fête porte souvent des noms différents selon les pays : Tabaski, Korité et Hanamatsuri sont des noms locaux, tandis que Pourim tire son nom du tirage au sort de Haman.",
+    "explication": "Une même fête porte souvent des noms différents selon les pays : Tabaski, Korité et Hanamatsuri sont des noms locaux de grandes fêtes musulmanes et bouddhiste, tandis que Chavouot, la fête juive des Semaines, tombe sept semaines après Pessa'h.",
     "source": "D'après Wikipédia — Vesak"
   },
   {
@@ -2786,7 +2786,7 @@
       "Le concile de Nicée"
     ],
     "bonneReponse": 0,
-    "explication": "Le concile de Constance obtient le retrait des papes de Rome et de Pise, dépose celui d'Avignon et élit Martin V en 1417. Celui de Pise, en 1409, avait au contraire ajouté un troisième pape aux deux déjà en place.",
+    "explication": "Le concile de Constance obtient l'abdication du pape de Rome, dépose ceux de Pise et d'Avignon, puis élit Martin V en 1417. Celui de Pise, en 1409, avait au contraire ajouté un troisième pape aux deux déjà en place.",
     "source": "D'après Wikipédia — Grand schisme d'Occident"
   },
   {
@@ -2856,7 +2856,7 @@
     "id": "q-religions-182",
     "domain": "religions",
     "format": "qcm",
-    "question": "Combien de miracles sont en principe exigés pour qu'un bienheureux soit canonisé dans l'Église catholique ?",
+    "question": "Combien de miracles reconnus sont en principe exigés au total, dans l'Église catholique, pour canoniser une personne qui n'est pas martyre ?",
     "choix": [
       "Deux",
       "Un",
@@ -2864,7 +2864,7 @@
       "Cinq"
     ],
     "bonneReponse": 0,
-    "explication": "En principe, il faut au moins deux miracles reconnus, dont le second est examiné par un comité scientifique. Le procès est long : Jeanne d'Arc, morte en 1431, n'a été canonisée qu'en 1920.",
+    "explication": "En principe, il faut au moins deux miracles attribués à l'intercession du candidat et reconnus par l'Église, dont le second est examiné par un comité scientifique. Le procès est long : Jeanne d'Arc, morte en 1431, n'a été canonisée qu'en 1920.",
     "source": "D'après Wikipédia — Canonisation"
   },
   {
@@ -2879,7 +2879,7 @@
       "Pélage"
     ],
     "bonneReponse": 0,
-    "explication": "L'expression n'apparaît pas dans la Bible : elle est inventée par Augustin d'Hippone, qui l'élabore en s'opposant à Pélage. Sa doctrine est confirmée au concile de Carthage en 418 et marque durablement l'Occident.",
+    "explication": "L'expression n'apparaît pas dans la Bible : Augustin d'Hippone la forge à la fin du IVe siècle, puis en fait une arme contre Pélage, pour qui l'homme imite la faute d'Adam sans en hériter. Le concile de Carthage de 418 confirme sa doctrine, qui marque durablement l'Occident.",
     "source": "D'après Wikipédia — Péché originel"
   },
   {
@@ -2986,9 +2986,9 @@
     "domain": "religions",
     "format": "qui-suis-je",
     "indices": [
-      "Je m'ouvre en 1545 dans une ville des Alpes, alors terre d'Empire.",
-      "Je me tiens en trois périodes, sous cinq papes différents.",
       "L'Église catholique me compte comme son dix-neuvième concile œcuménique.",
+      "Je me tiens en trois périodes, sous cinq papes différents.",
+      "Je m'ouvre en 1545 dans une ville des Alpes, alors terre d'Empire.",
       "Je crée les séminaires diocésains pour former les prêtres.",
       "Je réponds à la Réforme protestante de Luther et de Calvin."
     ],
@@ -3000,7 +3000,7 @@
     "id": "q-religions-191",
     "domain": "religions",
     "format": "frise",
-    "question": "Remets ces étapes du Grand Schisme d'Occident dans l'ordre.",
+    "question": "Remets dans l'ordre ces étapes, de l'installation des papes à Avignon à la fin du Grand Schisme d'Occident.",
     "evenements": [
       {
         "label": "Clément V s'installe à Avignon",
@@ -3070,7 +3070,7 @@
       "Johann Eck",
       "Érasme",
       "Johann Tetzel",
-      "Charles Quint"
+      "Thomas Cajetan"
     ],
     "bonneReponse": 0,
     "explication": "Johann Eck suit l'usage de nommer une hérésie d'après son chef : tous les partisans de Luther deviennent des « luthériens ». Luther n'aimait pas ce mot et préférait se dire « évangélique ».",
@@ -3111,10 +3111,10 @@
     "domain": "religions",
     "format": "qui-suis-je",
     "indices": [
-      "Un de mes membres, William Penn, fonde la Pennsylvanie en 1682.",
-      "Mon culte est souvent silencieux : on attend que quelqu'un se sente inspiré pour parler.",
-      "Mes membres refusaient de prêter serment, même devant un tribunal.",
+      "Mes premiers membres refusaient de prêter serment, même devant un tribunal.",
+      "Chez une partie de mes membres, le culte est silencieux : on attend que quelqu'un se sente inspiré pour parler.",
       "Plusieurs marques de chocolat, comme Cadbury, ont été fondées par des gens de chez moi.",
+      "Un de mes membres, William Penn, fonde la Pennsylvanie en 1682.",
       "Mon surnom, « trembleur », vient d'un juge qui se moque de George Fox en 1650."
     ],
     "reponse": "Les quakers",
@@ -3157,7 +3157,7 @@
       "Les samaritains"
     ],
     "bonneReponse": 0,
-    "explication": "Les mitnagdim, « opposants », craignent qu'une prière extatique se passe des érudits du Talmud. Leur chef, le Gaon de Vilna, mort en 1797, mène une querelle d'une rare intensité, qui ne s'apaise qu'à sa mort.",
+    "explication": "Les mitnagdim, « opposants », craignent qu'une prière extatique se passe des érudits du Talmud. Leur chef, le Gaon de Vilna, mène contre les hassidim une querelle d'une rare intensité : anathèmes, livres brûlés, dénonciations. Elle ne s'apaise qu'à sa mort, en 1797.",
     "source": "D'après Wikipédia — Hassidisme"
   },
   {

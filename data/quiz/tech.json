@@ -1693,7 +1693,7 @@
     "id": "q-tech-107",
     "domain": "tech",
     "format": "qcm",
-    "question": "Quel « téléphone iTunes » conçu avec Motorola, limité à 100 chansons, a précédé l'iPhone ?",
+    "question": "Quel « téléphone iTunes », limité à 100 chansons, Apple avait-il lancé avec un partenaire avant de créer l'iPhone ?",
     "choix": [
       "Le Motorola ROKR E1",
       "Le Motorola RAZR V3",
@@ -1770,7 +1770,7 @@
       "Antiope"
     ],
     "bonneReponse": 0,
-    "explication": "Le Minitel accédait au service Télétel par Transpac, le réseau de données mis en place par les PTT, relié à la ligne téléphonique. Ce réseau, fondé sur la norme X.25, préfigurait lui-même l'infrastructure d'Internet.",
+    "explication": "Le Minitel se branchait sur la ligne téléphonique, qui le reliait, par des points d'accès, à Transpac : le réseau de données des PTT, fondé sur la norme X.25. Ce réseau préfigurait lui-même l'infrastructure d'Internet. Antiope, lui, était un système de télétexte.",
     "source": "D'après Wikipédia — Minitel"
   },
   {
@@ -1923,7 +1923,7 @@
       "Il avait vendu les sujets d'un examen"
     ],
     "bonneReponse": 0,
-    "explication": "Noyce avait pris un cochon de 25 livres à la ferme du maire de la ville pour le rôtir. Il risquait l'expulsion, mais le président de l'université, son professeur de physique, a préféré le suspendre un semestre.",
+    "explication": "Noyce avait pris un cochon de 25 livres à la ferme du maire de la ville pour le rôtir lors d'une fête. Il risquait l'expulsion, mais son professeur de physique, Grant Gale, ne voulait pas perdre un tel talent : l'université a dédommagé le maire et Noyce a été suspendu un semestre.",
     "source": "D'après Wikipédia — Robert Noyce"
   },
   {
@@ -1953,7 +1953,7 @@
       "Le Cray-3"
     ],
     "bonneReponse": 0,
-    "explication": "Le Cray-1 devançait presque toutes les machines de son époque. Le CDC 6600 datait de la période Control Data, le Cray-2 est sorti en 1985, et le Cray-3, de la société suivante, n'a jamais été produit.",
+    "explication": "Sorti en 1976, le Cray-1 devançait presque toutes les machines de son époque. Le CDC 6600 datait de la période Control Data, le Cray-2 est sorti en 1985, et le Cray-3, mis au point dans la société suivante, Cray Computer, n'a pratiquement pas trouvé d'acheteurs.",
     "source": "D'après Wikipédia — Seymour Cray"
   },
   {
@@ -2022,7 +2022,7 @@
       "Pascal"
     ],
     "bonneReponse": 0,
-    "explication": "Tim Hart et Mike Levin ont écrit au MIT un compilateur de Lisp écrit en Lisp. Depuis, il est courant d'écrire un compilateur dans le langage qu'il traduit : le compilateur C est écrit en C.",
+    "explication": "Tim Hart et Mike Levin ont écrit au MIT un compilateur de Lisp écrit en Lisp, capable de se compiler lui-même. À partir des années 1970, il devient courant d'écrire un compilateur dans le langage qu'il traduit : beaucoup de compilateurs C sont écrits en C.",
     "source": "D'après Wikipédia — Compilateur"
   },
   {
@@ -2079,7 +2079,7 @@
       {
         "gauche": "Dennis Ritchie",
         "droite": "Le langage C",
-        "explication": "Ritchie crée C au début des années 1970 et aide Ken Thompson à bâtir Unix."
+        "explication": "Ritchie crée C au début des années 1970, en développant Unix avec Ken Thompson aux Laboratoires Bell."
       },
       {
         "gauche": "Vint Cerf",
@@ -2162,7 +2162,7 @@
       "Le Narval"
     ],
     "bonneReponse": 0,
-    "explication": "Le Hunley, sous-marin confédéré à hélice manuelle, coule l'USS Housatonic le 17 février 1864 au large de Charleston. Il disparaît lui aussi dans l'explosion de sa charge, avec son équipage.",
+    "explication": "Le Hunley, sous-marin confédéré à hélice manuelle, coule l'USS Housatonic le 17 février 1864 au large de Charleston, avec une charge explosive fixée au bout d'une perche. Il sombre lui aussi peu après, avec tout son équipage.",
     "source": "D'après Wikipédia — Sous-marin"
   },
   {
@@ -2186,7 +2186,7 @@
     "format": "qui-suis-je",
     "indices": [
       "Je suis né en 1873 au Brésil, dans une famille de planteurs de café.",
-      "J'ai construit le plus petit ballon de mon époque, le Brazil, en 1898.",
+      "En 1898, j'ai fait fabriquer le plus petit ballon de mon époque, le Brazil.",
       "En 1901, mon dirigeable a fait le tour de la tour Eiffel et gagné le prix Deutsch de la Meurthe.",
       "Le 12 novembre 1906, mon 14-bis a volé 220 mètres devant des témoins officiels."
     ],
@@ -2368,7 +2368,7 @@
       "Aaron Dennison"
     ],
     "bonneReponse": 0,
-    "explication": "Pour connaître sa longitude, il faut l'heure du port de départ : une seconde d'erreur déplace la position de 463 mètres. Harrison remporte le prix de l'Amirauté britannique avec une montre à balancier compensé en température.",
+    "explication": "Pour connaître sa longitude, il faut l'heure du port de départ : une seconde d'erreur peut décaler la position de 463 mètres à l'équateur. Harrison remporte le prix de l'Amirauté britannique avec sa H4, une montre à balancier compensé contre les variations de température.",
     "source": "D'après Wikipédia — Chronomètre"
   },
   {
@@ -2380,7 +2380,7 @@
       "Celle de l'atome de césium 133",
       "Celle de l'atome d'hydrogène",
       "Celle de l'atome de strontium",
-      "Celle de l'atome d'ammoniac"
+      "Celle de l'atome de rubidium"
     ],
     "bonneReponse": 0,
     "explication": "La seconde est la durée de 9 192 631 770 oscillations d'une transition de l'atome de césium 133. Les horloges optiques, à strontium par exemple, sont encore plus précises : la seconde pourrait être redéfinie vers 2030.",
@@ -2420,7 +2420,7 @@
     "id": "q-tech-152",
     "domain": "tech",
     "format": "qcm",
-    "question": "Quel ingénieur allemand a fait voler en 1939 le premier avion propulsé par un turboréacteur, le Heinkel He 178 ?",
+    "question": "Quel physicien allemand a conçu le turboréacteur du Heinkel He 178, premier avion à réaction à voler, en 1939 ?",
     "choix": [
       "Hans von Ohain",
       "Frank Whittle",
@@ -2428,7 +2428,7 @@
       "Ernst Heinkel"
     ],
     "bonneReponse": 0,
-    "explication": "Hans von Ohain, docteur en physique recruté par l'avionneur Heinkel, conçoit un moteur à réaction qui équipe le He 178, premier avion à réaction à voler, le 27 août 1939. Frank Whittle, lui, y travaillait en Grande-Bretagne.",
+    "explication": "Hans von Ohain, docteur en physique recruté par l'avionneur Ernst Heinkel, conçoit le moteur qui équipe le He 178, premier avion à réaction à voler, le 27 août 1939. Frank Whittle, lui, menait des travaux parallèles en Grande-Bretagne.",
     "source": "D'après Wikipédia — Turboréacteur"
   },
   {
@@ -2467,7 +2467,7 @@
       "L'Italie"
     ],
     "bonneReponse": 0,
-    "explication": "Le Japon inaugure en 1964 le Shinkansen, mot qui signifie « nouvelle grande ligne ». La France suit en 1981 avec le TGV avec la LGV Sud-Est, puis d'autres pays d'Europe et d'Asie, dont la Chine.",
+    "explication": "Le Japon inaugure en 1964 le Shinkansen, mot qui signifie « nouvelle grande ligne », entre Tokyo et Osaka. La France suit en 1981 avec le TGV sur la LGV Sud-Est, puis d'autres pays d'Europe et d'Asie, dont la Chine.",
     "source": "D'après Wikipédia — Train à grande vitesse"
   },
   {
@@ -2560,13 +2560,13 @@
     "format": "qcm",
     "question": "De quoi dépend la poussée de l'eau sur un barrage ?",
     "choix": [
-      "Du carré de la hauteur de l'eau, et non du volume stocké",
+      "Du carré de la hauteur d'eau",
       "Du volume total d'eau stocké dans le lac",
       "De la longueur du lac en amont",
       "De la température de l'eau"
     ],
     "bonneReponse": 0,
-    "explication": "La force de l'eau sur le mur augmente avec le carré de la profondeur de la retenue, sans dépendre pour autant de la quantité d'eau retenue. Un lac étroit et profond pousse donc plus fort qu'un lac vaste mais peu profond.",
+    "explication": "La force de l'eau sur le mur augmente avec le carré de la hauteur de la retenue, mais ne dépend pas du volume d'eau stocké. À hauteur égale, une petite retenue pousse donc sur chaque mètre de barrage autant qu'un immense lac.",
     "source": "D'après Wikipédia — Barrage"
   },
   {
@@ -2606,9 +2606,9 @@
     "indices": [
       "J'ai été construit à vingt exemplaires seulement.",
       "Mon premier vol a eu lieu à Toulouse, le 2 mars 1969.",
-      "Mon nom s'écrit avec un « e » qui, selon un ministre britannique, signifie aussi Excellence, England, Europe et Entente.",
       "Je croisais à Mach 2,04, soit environ 2 172 km/h, avec une aile delta.",
-      "Air France et British Airways m'ont exploité de 1976 à 2003."
+      "Air France et British Airways m'ont exploité de 1976 à 2003.",
+      "Mon nom s'écrit avec un « e » qui, selon un ministre britannique, signifie aussi Excellence, England, Europe et Entente."
     ],
     "reponse": "Le Concorde",
     "explication": "Le Concorde, avion supersonique franco-britannique, a transporté des passagers de 1976 à 2003. Faute de commandes, seuls vingt exemplaires ont été construits, dont six pour les essais.",
@@ -2741,9 +2741,9 @@
     "id": "q-tech-173",
     "domain": "tech",
     "format": "vrai-faux",
-    "affirmation": "Le tout premier système informatique à demander un mot de passe à la connexion date des années 1990.",
+    "affirmation": "Le tout premier système informatique à demander un mot de passe à la connexion est apparu dans les années 1970, avec Unix.",
     "reponse": false,
-    "explication": "Le premier système à exiger un mot de passe est le CTSS, au MIT, en 1961. Il avait même une commande de connexion qui coupait l'impression des caractères pour que l'utilisateur tape son mot de passe en toute discrétion.",
+    "explication": "Faux : dès 1961, le système CTSS du MIT demandait un mot de passe à la connexion, en coupant l'impression des caractères pendant la frappe. Unix a surtout apporté, en 1974, la conservation des mots de passe sous une forme brouillée.",
     "source": "D'après Wikipédia — Mot de passe"
   },
   {
@@ -2818,7 +2818,7 @@
       "Quand vous ouvrez un site, c'est moi qui renvoie la page à votre navigateur."
     ],
     "reponse": "Un serveur informatique",
-    "explication": "Un serveur peut être un petit boîtier ou une grappe de machines : c'est son rôle, répondre à des clients, qui compte. Il fonctionne sans arrêt et vise une disponibilité de 99,999 %.",
+    "explication": "Un serveur peut être un petit boîtier ou une grappe de machines : c'est son rôle, répondre aux requêtes des clients, qui compte. Son nom vient de la théorie des files d'attente, où le serveur sert les clients au guichet. Il tourne sans arrêt, et les constructeurs annoncent souvent 99,999 % de disponibilité.",
     "source": "D'après Wikipédia — Serveur informatique"
   },
   {
@@ -2853,7 +2853,7 @@
         "explication": "Il isole les échanges du reste d'Internet, souvent avec chiffrement, par exemple en télétravail."
       }
     ],
-    "explication": "Ces cinq notions forment la base de l'Internet quotidien : des machines qui répondent, qui se repèrent par des numéros, qui portent des noms lisibles et qui vivent dans des bâtiments dédiés.",
+    "explication": "Ces cinq notions forment la base de l'Internet quotidien : des machines qui répondent, qui se repèrent par des numéros, qui portent des noms lisibles, qui vivent dans des bâtiments dédiés et qui peuvent échanger à l'abri dans des tunnels.",
     "source": "D'après Wikipédia — Adresse IP"
   },
   {

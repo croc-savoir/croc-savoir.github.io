@@ -1635,7 +1635,7 @@
       "Des vins que produisait la région"
     ],
     "bonneReponse": 0,
-    "explication": "Vers 125 avant notre ère, les Romains conquièrent le sud de la Gaule et l'appellent Provincia Nostra, « notre province ». Le nom a évolué en Provence, première région conquise avant le reste de la Gaule par Jules César.",
+    "explication": "Vers 125 avant notre ère, les Romains conquièrent le sud de la Gaule et l'appellent Provincia Nostra, « notre province » : le nom est devenu Provence. Le reste de la Gaule ne sera soumis que bien plus tard, par Jules César, entre 58 et 51 avant notre ère.",
     "source": "D'après Wikipédia — France"
   },
   {
@@ -1660,7 +1660,7 @@
     "question": "Quelle est la différence entre les Pays-Bas et la Hollande ?",
     "choix": [
       "La Hollande n'est qu'une région de l'ouest du pays, faite de deux provinces",
-      "La Hollande est le nom du pays avant 1815, les Pays-Bas celui d'aujourd'hui",
+      "La Hollande est le nom officiel du pays en néerlandais, les Pays-Bas sa traduction française",
       "La Hollande est un autre pays voisin, au sud des Pays-Bas",
       "Il n'y a aucune différence, les deux mots sont des synonymes officiels"
     ],
@@ -1734,7 +1734,7 @@
       "Parce que son cri ressemble à un mot turc"
     ],
     "bonneReponse": 0,
-    "explication": "L'Angleterre importait des pintades depuis la Turquie, et le nom de leur provenance s'est collé à l'oiseau. Le mot « turkey » désigne aussi la Turquie, d'où le nom de la dinde dans la langue anglaise.",
+    "explication": "L'Angleterre importait des pintades depuis la Turquie, et on les appelait « turkey-cocks ». Quand la dinde, venue d'Amérique, est arrivée en Europe, on l'a confondue avec ces oiseaux, et le nom lui est resté : en anglais, elle porte depuis le nom de la Turquie.",
     "source": "D'après Wikipédia — Turquie"
   },
   {
@@ -1833,7 +1833,7 @@
       "Des ours"
     ],
     "bonneReponse": 0,
-    "explication": "Il n'a jamais existé de lion sur l'île. Selon la tradition, les premiers explorateurs auraient croisé un fauve de la jungle, sans doute un tigre, et l'auraient pris pour un lion avant de nommer la cité Singapura.",
+    "explication": "Il n'a jamais existé de lion sur l'île. Selon la tradition, le prince venu de Sumatra qui nomma la cité Singapura aurait aperçu une bête étrange qu'il prit pour un lion : c'était sans doute un tigre, l'animal que l'on croisait alors réellement dans la jungle de l'île.",
     "source": "D'après Wikipédia — Singapour"
   },
   {
@@ -1956,7 +1956,7 @@
       "Le trône du lion"
     ],
     "bonneReponse": 0,
-    "explication": "Le nom Kiinyaa a été noté en 1849 par l'explorateur Krapf. Les pics noirs de roche et blancs de neige rappellent le plumage du mâle autruche. Krapf l'a déformé, d'où l'orthographe « Kenya » aujourd'hui.",
+    "explication": "Le nom Kiinyaa a été noté en 1849 par l'explorateur Krapf. Les pics noirs de roche et blancs de neige rappellent le plumage de l'autruche mâle. Krapf l'a transcrit Kegnia ou Kenia, d'où l'orthographe « Kenya » d'aujourd'hui.",
     "source": "D'après Wikipédia — Kenya"
   },
   {
@@ -2179,7 +2179,7 @@
       "Le Vésuve culmine à plus de 3 000 mètres, l'Etna à environ 1 000 mètres"
     ],
     "bonneReponse": 0,
-    "explication": "L'Etna culmine à 3 403 mètres, soit environ deux fois et demie la hauteur du Vésuve. Tous deux sont actifs et classés « volcans de la Décennie ». L'Etna est sur l'île de Sicile, le Vésuve sur le continent, en Campanie.",
+    "explication": "L'Etna culmine à environ 3 400 mètres (3 403 m mesurés en 2024), soit à peu près deux fois et demie la hauteur du Vésuve. Tous deux sont actifs et classés « volcans de la Décennie ». L'Etna est sur l'île de Sicile, le Vésuve sur le continent, en Campanie.",
     "source": "D'après Wikipédia — Etna"
   },
   {
@@ -2227,13 +2227,13 @@
     "format": "qcm",
     "question": "Quelle découverte historique a été faite en 1923 dans le désert de Gobi ?",
     "choix": [
-      "Les premiers œufs de dinosaure connus",
+      "Les premiers œufs reconnus comme des œufs de dinosaure",
       "Le squelette d'un mammouth laineux",
       "Une ville ensevelie de la route de la soie",
       "Le premier fossile d'un Homo erectus"
     ],
     "bonneReponse": 0,
-    "explication": "En 1923, des chercheurs ont découvert dans le Gobi vingt-six œufs de dinosaure, longs de 23 centimètres en moyenne : une première mondiale. Le bassin de Nemegt est depuis surnommé la « vallée des dragons ».",
+    "explication": "En 1923, des chercheurs ont mis au jour dans le Gobi vingt-six œufs, longs de 23 centimètres en moyenne : les premiers reconnus comme des œufs de dinosaure. Le bassin de Nemegt, autre gisement célèbre du désert, est surnommé la « vallée des dragons ».",
     "source": "D'après Wikipédia — Désert de Gobi"
   },
   {
@@ -2293,7 +2293,7 @@
       "Kilimandjaro"
     ],
     "bonneReponse": 0,
-    "explication": "Ol Doinyo Lengaï, en Tanzanie, est le seul volcan actif de natrocarbonatite. Son magma ne contient presque pas de silice : il est donc très fluide, un peu comme de l'huile d'olive, et ne ressemble pas à la lave habituelle.",
+    "explication": "Ol Doinyo Lengaï, en Tanzanie, est le seul volcan actif de natrocarbonatite au monde. Son magma ne contient presque pas de silice : sa lave est donc extrêmement fluide, à peu près autant que de l'huile d'olive, alors que la plupart des laves sont bien plus visqueuses.",
     "source": "D'après Wikipédia — Rift est-africain"
   },
   {
@@ -2463,7 +2463,7 @@
       {
         "gauche": "Rhône",
         "droite": "Mer Méditerranée",
-        "explication": "Le Rhône forme le delta de la Camargue avant de se jeter dans la Méditerranée, une mer sans marée."
+        "explication": "Le Rhône forme le delta de la Camargue avant de se jeter dans la Méditerranée, une mer presque sans marée."
       },
       {
         "gauche": "Seine",
@@ -2476,12 +2476,12 @@
         "explication": "La Volga se vide dans la Caspienne, un bassin fermé : elle n'est reliée naturellement à aucun océan."
       },
       {
-        "gauche": "Grands Lacs",
-        "droite": "Océan Atlantique",
-        "explication": "Les Grands Lacs s'écoulent dans le fleuve Saint-Laurent, qui rejoint l'océan Atlantique."
+        "gauche": "Rhin",
+        "droite": "Mer du Nord",
+        "explication": "Le Rhin se jette dans la mer du Nord aux Pays-Bas, par un vaste delta qu'il partage avec la Meuse."
       }
     ],
-    "explication": "Le Rhône rejoint la Méditerranée, la Seine la Manche, la Volga la mer Caspienne, un bassin fermé, et les Grands Lacs l'Atlantique en passant par le Saint-Laurent. Chaque fleuve a ainsi sa propre mer.",
+    "explication": "Le Rhône rejoint la Méditerranée, la Seine la Manche, le Rhin la mer du Nord, et la Volga la mer Caspienne, un bassin fermé sans lien naturel avec l'océan. Chacun de ces grands fleuves finit ainsi dans une mer différente.",
     "source": "D'après Wikipédia — Rhône"
   },
   {
@@ -2529,8 +2529,8 @@
     "format": "qui-suis-je",
     "indices": [
       "Je coule sur un fleuve qui sépare deux pays d'Afrique australe.",
-      "Le nom que me donnent les habitants signifie « la fumée qui gronde ».",
       "Mon rideau d'eau fait environ 1 700 mètres de large.",
+      "Le nom que me donnent les habitants signifie « la fumée qui gronde ».",
       "Un explorateur écossais m'a décrite en 1855 et m'a donné le nom d'une reine."
     ],
     "reponse": "Les chutes Victoria",
@@ -2603,7 +2603,7 @@
       "Le cap de Bonne-Espérance se trouve sur l'océan Indien, le cap des Aiguilles sur l'Atlantique"
     ],
     "bonneReponse": 0,
-    "explication": "Beaucoup le croient, mais la pointe méridionale de l'Afrique n'est pas le cap de Bonne-Espérance : cette place revient au cap des Aiguilles, situé à environ 150 km à l'est-sud-est, où se rencontrent les courants des deux océans.",
+    "explication": "Beaucoup le croient, mais la pointe méridionale de l'Afrique n'est pas le cap de Bonne-Espérance : cette place revient au cap des Aiguilles, situé à environ 150 km à l'est-sud-est, qui marque aussi la limite conventionnelle entre l'Atlantique et l'océan Indien.",
     "source": "D'après Wikipédia — Cap de Bonne-Espérance"
   },
   {
@@ -2655,15 +2655,15 @@
     "id": "q-geo-169",
     "domain": "geo",
     "format": "qcm",
-    "question": "Que signifie à l'origine le mot « mistral », issu du latin « magister » ?",
+    "question": "D'où vient le nom du mistral, le vent froid qui dévale la vallée du Rhône ?",
     "choix": [
-      "Le vent maître",
-      "Le vent du nord",
-      "Le vent glacé",
-      "Le vent des rochers"
+      "D'un mot latin signifiant « maître »",
+      "Du nom du poète provençal Frédéric Mistral",
+      "D'un mot grec signifiant « froid »",
+      "D'un mot gaulois désignant le nord"
     ],
     "bonneReponse": 0,
-    "explication": "« Mistral » vient du provençal « maestral », lui-même issu du latin « magistralis », dérivé de « magister », le maître. C'est le vent qui commande : il peut dépasser 100 km/h dans la vallée du Rhône.",
+    "explication": "« Mistral » vient du provençal « maestral », issu du bas latin « magistralis », dérivé de « magister », le maître : c'est le vent qui commande. Le poète Frédéric Mistral, né en 1830, porte un nom homonyme : le vent était nommé bien avant lui.",
     "source": "D'après Wikipédia — Mistral (vent)"
   },
   {
@@ -2801,7 +2801,7 @@
       "Le métro de la ville"
     ],
     "bonneReponse": 0,
-    "explication": "L'aqueduc de Los Angeles amène depuis l'est de la Californie l'eau nécessaire à la ville. Sa construction, supervisée par William Mulholland, a permis à la population de dépasser vite les 100 000 habitants de 1900.",
+    "explication": "L'aqueduc de Los Angeles, achevé en 1913 sous la direction de William Mulholland, amène l'eau de l'est de la Californie. La ville, qui dépassait déjà 102 000 habitants en 1900, manquait d'eau : cet ouvrage lui a permis de poursuivre sa croissance.",
     "source": "D'après Wikipédia — Los Angeles"
   },
   {
@@ -2811,14 +2811,14 @@
     "question": "Associe chaque ville à son surnom ou à son titre.",
     "paires": [
       {
-        "gauche": "Prague",
-        "droite": "La ville aux cent tours",
-        "explication": "Surnom né d'un décompte de Bernard Bolzano au XIXe siècle."
+        "gauche": "Le Caire",
+        "droite": "La ville aux mille minarets",
+        "explication": "Ses innombrables mosquées, surtout dans le quartier islamique, lui valent ce surnom."
       },
       {
         "gauche": "Marrakech",
         "droite": "La ville rouge",
-        "explication": "Ses remparts et ses bâtiments en grès rouge lui valent ce surnom."
+        "explication": "La couleur ocre rouge de ses remparts et de ses maisons lui vaut ce surnom."
       },
       {
         "gauche": "Tombouctou",
@@ -2836,7 +2836,7 @@
         "explication": "Pierre le Grand l'a fondée pour ouvrir la Russie sur l'Occident."
       }
     ],
-    "explication": "Chaque surnom raconte une histoire : une couleur, un décompte, une fonction de carrefour. Ces villes ont toutes marqué leur région par leur rôle de commerce, de pouvoir ou de savoir.",
+    "explication": "Chaque surnom raconte une histoire : une couleur pour Marrakech, une forêt de minarets pour Le Caire, un rôle stratégique pour La Havane et Saint-Pétersbourg, une richesse marchande et savante pour Tombouctou, au bord du Sahara.",
     "source": "D'après Wikipédia — Marrakech"
   },
   {
@@ -2890,7 +2890,7 @@
       "La Corse"
     ],
     "bonneReponse": 0,
-    "explication": "La Vierge de Bonaria, vénérée à Cagliari, est la patronne de la Sardaigne. Les marins espagnols l'invoquaient pour obtenir de bons vents, d'où « Buenos Aires ». C'est le marchand Eduardo Madero qui l'établit en 1882.",
+    "explication": "La Vierge de Bonaria, vénérée à Cagliari, est la patronne de la Sardaigne. Les marins espagnols l'invoquaient pour obtenir de bons vents, d'où « Buenos Aires ». C'est le marchand argentin Eduardo Madero qui a établi ce lien en 1882, après des recherches dans les archives espagnoles.",
     "source": "D'après Wikipédia — Buenos Aires"
   },
   {
@@ -2920,7 +2920,7 @@
       "Mungo Park"
     ],
     "bonneReponse": 0,
-    "explication": "Le Français René Caillié entre dans la cité le 20 avril 1828 sous un déguisement et en revient. Son récit fit grand bruit en Europe. Le Britannique Laing, arrivé avant lui en 1826, y avait été tué.",
+    "explication": "Le Français René Caillié entre dans la cité le 20 avril 1828, déguisé en lettré musulman, et en revient vivant. Son récit fit grand bruit en Europe. Le Britannique Laing, arrivé avant lui en 1826, avait été assassiné peu après son passage.",
     "source": "D'après Wikipédia — Tombouctou"
   },
   {
@@ -2944,7 +2944,7 @@
     "format": "vrai-faux",
     "affirmation": "Pétra a été fondée et bâtie par les Romains.",
     "reponse": false,
-    "explication": "Faux : les Nabatéens ont fait prospérer la cité grâce au commerce de l'encens et des épices. Rome ne l'annexe qu'en 106 sous le nom d'Arabia Petraea. Elle est célèbre pour ses façades creusées dans le grès.",
+    "explication": "Faux : fondée par les Édomites vers la fin du VIIIe siècle av. J.-C., la cité doit sa prospérité aux Nabatéens, maîtres du commerce de l'encens et des épices, qui ont taillé ses façades dans le grès. Rome ne l'annexe qu'en 106, sous le nom d'Arabia Petraea.",
     "source": "D'après Wikipédia — Pétra"
   },
   {
@@ -3041,7 +3041,7 @@
     "id": "q-geo-192",
     "domain": "geo",
     "format": "qcm",
-    "question": "Quel nom Bartolomeu Dias donne-t-il d'abord au cap de Bonne-Espérance, à cause des tempêtes qu'il y a essuyées ?",
+    "question": "Selon la tradition, quel nom Bartolomeu Dias a-t-il d'abord donné au cap de Bonne-Espérance ?",
     "choix": [
       "Le cap des Tempêtes",
       "Le cap des Aiguilles",
@@ -3049,14 +3049,14 @@
       "Le cap des Brumes"
     ],
     "bonneReponse": 0,
-    "explication": "Dias l'appelle « cap des Tempêtes ». Le roi Jean II de Portugal le rebaptise « cap de Bonne-Espérance », car il espère y voir l'ouverture de la route maritime vers les Indes. Le cap des Aiguilles, autre cap, est le point le plus au sud de l'Afrique.",
+    "explication": "Dias l'aurait appelé « cap des Tempêtes », à cause de celles qu'il y avait essuyées. Le roi Jean II de Portugal le rebaptise « cap de Bonne-Espérance », espérant y voir l'ouverture de la route maritime des Indes. Le cap des Aiguilles, autre cap, est le point le plus au sud de l'Afrique.",
     "source": "D'après Wikipédia — Bartolomeu Dias"
   },
   {
     "id": "q-geo-193",
     "domain": "geo",
     "format": "qcm",
-    "question": "Quel futur empereur, âgé de seize ans, a postulé pour l'expédition de La Pérouse sans être retenu ?",
+    "question": "Quel célèbre personnage, alors âgé de seize ans, a postulé pour l'expédition de La Pérouse sans être retenu ?",
     "choix": [
       "Napoléon Bonaparte",
       "Horatio Nelson",
@@ -3073,13 +3073,13 @@
     "format": "qcm",
     "question": "Quelle découverte a-t-on faite parmi les affaires de Scott et de ses compagnons morts en 1912 ?",
     "choix": [
-      "Les premiers fossiles trouvés en Antarctique, du bois d'un arbre",
+      "Les premiers fossiles trouvés en Antarctique, ceux d'un arbre disparu",
       "Des os de mammouth",
       "Des empreintes de dinosaures",
       "Des coquillages géants"
     ],
     "bonneReponse": 0,
-    "explication": "Les explorateurs avaient gardé des fossiles de Glossopteris, un arbre disparu. Ils prouvaient que l'Antarctique avait été couvert de forêts et relié à d'autres continents.",
+    "explication": "Scott et ses compagnons avaient gardé avec eux des fossiles de Glossopteris, un arbre disparu : les premiers découverts en Antarctique. Ils prouvaient que le continent glacé avait été couvert de forêts et relié à d'autres continents.",
     "source": "D'après Wikipédia — Robert Falcon Scott"
   },
   {
@@ -3148,7 +3148,7 @@
       "L'ami des fleuves"
     ],
     "bonneReponse": 0,
-    "explication": "Brazza obtient le protectorat sur la rive droite du Congo sans faire la guerre, ce qui lui vaut ce surnom. Stanley, lui, était appelé « briseur de roches » à cause de ses méthodes beaucoup plus brutales.",
+    "explication": "Brazza obtient le protectorat sur la rive droite du Congo sans faire la guerre, d'où ce surnom de « conquérant pacifique ». Son rival Stanley, au service de Léopold II, était surnommé Bula Matari, « briseur de roches », et passait pour bien plus brutal.",
     "source": "D'après Wikipédia — Pierre Savorgnan de Brazza"
   },
   {
@@ -3163,7 +3163,7 @@
       "Rapa Nui"
     ],
     "bonneReponse": 0,
-    "explication": "Après un peu plus de trois mois de dérive depuis le Pérou, le Kon-Tiki s'écrase sur le récif de Raroia, dans l'archipel des Tuamotu.",
+    "explication": "Parti de Callao, au Pérou, le Kon-Tiki s'écrase le 7 août 1947 sur le récif de Raroia, dans l'archipel des Tuamotu, après 101 jours de dérive et environ 8 000 kilomètres. Fatu Hiva est l'île des Marquises où Heyerdahl avait vécu en 1937.",
     "source": "D'après Wikipédia — Thor Heyerdahl"
   },
   {
@@ -3178,7 +3178,7 @@
       "Le Finsteraarhorn"
     ],
     "bonneReponse": 0,
-    "explication": "Elle y a réalisé une première avec deux guides en 1901 : le Gertrudspitze (2 632 mètres) a été nommé en son honneur. Les trois autres sont des sommets qu'elle a gravis.",
+    "explication": "En 1901, avec ses guides Ulrich et Heinrich Fuhrer, elle réussit la première ascension de sept sommets des Engelhörner : l'un d'eux, le Gertrudspitze (2 632 mètres), porte son nom. Elle a aussi gravi le Schreckhorn, traversé la Meije, et échoué en 1902 sur la face nord-est du Finsteraarhorn.",
     "source": "D'après Wikipédia — Gertrude Bell"
   },
   {
@@ -3238,7 +3238,7 @@
       {
         "gauche": "Mitad del Mundo",
         "droite": "Équateur",
-        "explication": "Le monument se dresse non loin de Quito, du côté nord."
+        "explication": "Ce « Milieu du monde » se dresse à une vingtaine de kilomètres au nord de Quito."
       },
       {
         "gauche": "Marco Zero",

@@ -3599,7 +3599,7 @@
         },
         {
           "titre": "Prédictions et tentatives",
-          "texte": "Turing pensait qu'en l'an 2000, des machines dotées de 128 Mo de mémoire tromperaient environ 30 % des juges lors d'un échange de cinq minutes. Le prix Loebner récompense chaque année le programme jugé le plus proche de réussir. En 2014, l'université de Reading annonce qu'un programme a trompé 33 % des juges, mais l'annonce est contestée : il se faisait passer pour un garçon de 13 ans parlant mal l'anglais."
+          "texte": "Turing pensait qu'en l'an 2000, des machines dotées de 128 Mo de mémoire tromperaient environ 30 % des juges lors d'un échange de cinq minutes. Le prix Loebner a longtemps récompensé, chaque année, le programme jugé le plus proche de réussir. En 2014, l'université de Reading annonce qu'un programme a trompé 33 % des juges, mais l'annonce est contestée : il se faisait passer pour un garçon de 13 ans parlant mal l'anglais."
         },
         {
           "titre": "Objections et héritage",
@@ -3607,7 +3607,7 @@
         }
       ],
       "anecdotes": [
-        "Lors du premier concours Loebner, en 1992, le vainqueur a profité de sa capacité à imiter les fautes de frappe humaines. Turing avait lui-même suggéré d'ajouter des erreurs aux réponses des machines pour mieux jouer le jeu."
+        "Après le premier concours Loebner, le magazine The Economist relevait en 1992 que le vainqueur devait sa victoire, au moins en partie, à sa capacité à imiter les fautes de frappe humaines. Turing avait lui-même suggéré d'ajouter des erreurs aux réponses des machines pour mieux jouer le jeu."
       ],
       "wikipedia": "Test de Turing"
     },
@@ -3723,7 +3723,7 @@
         },
         {
           "titre": "Comment Colossus travaille",
-          "texte": "Colossus lit à grande vitesse une bande de papier portant le message chiffré et la compare à une clé qu'il simule en interne, en comptant les concordances. La bonne clé donne des statistiques qui sortent de l'ordinaire. Conçu par l'ingénieur des postes Tommy Flowers, sur des plans du mathématicien Max Newman, le Mark 1 compte 1 500 puis 2 400 tubes et réalise 5 000 opérations par seconde."
+          "texte": "Colossus lit à grande vitesse une bande de papier portant le message chiffré et la compare à une clé qu'il simule en interne, en comptant les concordances. La bonne clé donne des statistiques qui sortent de l'ordinaire. Conçu par l'ingénieur des postes Tommy Flowers, sur des plans du mathématicien Max Newman, le Mark 1 compte environ 1 500 tubes et réalise 5 000 opérations par seconde ; ses successeurs en compteront 2 400."
         },
         {
           "titre": "Un rôle décisif en 1944",
@@ -3750,7 +3750,7 @@
       "sections": [
         {
           "titre": "Un nom venu d'une armoire",
-          "texte": "Le mot vient de la grande armoire, le « main frame », qui abritait l'unité centrale et la mémoire des premières machines. Dans les années 1960, IBM domine, avec ses concurrents surnommés les « sept nains », puis le groupe BUNCH. La gamme IBM 360, lancée en 1965, a fait école et sa descendance, la famille IBM Z, existe toujours. En France, Bull a fabriqué des ordinateurs centraux."
+          "texte": "Le mot vient de la grande armoire, le « main frame », qui abritait l'unité centrale et la mémoire des premières machines. Dans les années 1960, IBM domine, avec ses concurrents surnommés les « sept nains », puis le groupe BUNCH. La gamme IBM 360, annoncée en 1964 et livrée dès 1965, a fait école et sa descendance, la famille IBM Z, existe toujours. En France, Bull a fabriqué des ordinateurs centraux."
         },
         {
           "titre": "Pourquoi ils durent",
@@ -3762,7 +3762,7 @@
         }
       ],
       "anecdotes": [
-        "En 1993, un analyste citait la prédiction que le dernier ordinateur central s'éteindrait le 31 décembre 1999, et le journaliste Stewart Alsop avait annoncé sa disparition pour 1996. Raté : le commerce en ligne les a relancés, et Linux est arrivé sur les machines IBM en 1999. En 2000, Alsop s'est fait photographier en train de symboliquement ravaler ses paroles."
+        "Au début des années 1990, le journaliste Stewart Alsop prédisait que le dernier ordinateur central serait débranché en 1996 ; en 1993, il citait même une analyste qui le voyait s'éteindre le 31 décembre 1999. Raté : le commerce en ligne les a relancés, et Linux est arrivé sur les machines IBM en 1999. En 2000, Alsop s'est fait photographier en train de symboliquement ravaler ses paroles."
       ],
       "wikipedia": "Ordinateur central"
     },
@@ -3785,7 +3785,7 @@
         },
         {
           "titre": "Du succès à l'ère NT",
-          "texte": "Windows 3.0 (1990) connaît un premier succès commercial : 2 millions d'exemplaires en six mois. Windows 95 apporte le multitâche préemptif, une nouvelle interface et une grande campagne de publicité. En parallèle, Microsoft développe depuis 1993 la branche NT, bâtie à partir de zéro pour les entreprises. Windows XP (2001) réunit les deux mondes, grand public et professionnel, sur ce noyau NT."
+          "texte": "Windows 3.0 (1990) connaît un premier succès commercial : 2 millions d'exemplaires en six mois. Windows 95 apporte le multitâche préemptif, une nouvelle interface et une grande campagne de publicité. En parallèle, Microsoft lance en 1993 la branche NT, bâtie à partir de zéro pour les entreprises. Windows XP (2001) réunit les deux mondes, grand public et professionnel, sur ce noyau NT."
         },
         {
           "titre": "Les versions suivantes",
@@ -3851,7 +3851,7 @@
         },
         {
           "titre": "De Bell Labs aux universités",
-          "texte": "Un jugement de 1956 interdisait à AT&T de faire de l'informatique. La firme distribue donc Unix, code source compris, aux universités pour une licence très bon marché. À Berkeley, des chercheurs dont Bill Joy l'améliorent : c'est la Berkeley Software Distribution (BSD). Des variantes commerciales fleurissent, puis Unix devient une marque, détenue depuis 1993 par l'Open Group."
+          "texte": "Un jugement de 1956 interdisait à AT&T de faire de l'informatique. La firme distribue donc Unix, code source compris, aux universités pour une licence très bon marché. À Berkeley, des chercheurs dont Bill Joy l'améliorent : c'est la Berkeley Software Distribution (BSD). Des variantes commerciales fleurissent, puis Unix devient une marque, aujourd'hui détenue par l'Open Group, qui la réserve aux systèmes certifiés."
         }
       ],
       "anecdotes": [
@@ -3971,11 +3971,11 @@
         },
         {
           "titre": "Un prix, un logo en couleurs",
-          "texte": "Le modèle de base, avec 4 Ko de mémoire et un lecteur de cassettes, coûtait 1 298 dollars, et 2 638 dollars avec 48 Ko. Comme l'Apple II savait afficher de la couleur, le logo à la pomme s'est paré de bandes arc-en-ciel, qu'il a conservées jusqu'en 1998. Les premiers boîtiers, sans aération, chauffaient au point de ramollir le plastique : des fentes ont été ajoutées en trois mois."
+          "texte": "Le modèle de base, avec 4 Ko de mémoire et une prise pour enregistrer les programmes sur cassette audio, coûtait 1 298 dollars, et 2 638 dollars avec 48 Ko. Comme l'Apple II savait afficher de la couleur, le logo à la pomme s'est paré de bandes arc-en-ciel, qu'il a conservées jusqu'en 1998. Les premiers boîtiers, sans aération, chauffaient au point de ramollir le plastique : des fentes ont été ajoutées en trois mois."
         },
         {
           "titre": "Une famille qui dure",
-          "texte": "L'Apple II+ ajoute un BASIC signé Microsoft, puis viennent l'Apple IIe (1983), l'Apple IIc (1984) et l'Apple IIGS 16 bits (1986). La production du dernier modèle s'arrête en 1993. Le Macintosh de 1984 l'éclipse peu à peu, mais en 1987 la famille Apple II représente encore plus de la moitié des bénéfices d'Apple, et Apple continue de soutenir le IIGS jusque vers 1993, surtout pour les écoles."
+          "texte": "L'Apple II+ ajoute un BASIC signé Microsoft, puis viennent l'Apple IIe (1983), l'Apple IIc (1984) et l'Apple IIGS 16 bits (1986). Le Macintosh de 1984 l'éclipse peu à peu, mais en 1987 la famille Apple II représente encore plus de la moitié des bénéfices d'Apple. Le IIGS reste longtemps présent dans les écoles, et la production s'arrête en novembre 1993 avec l'Apple IIe, dernier modèle encore fabriqué."
         }
       ],
       "anecdotes": [
@@ -4010,7 +4010,7 @@
         }
       ],
       "anecdotes": [
-        "IBM n'a pas conçu les composants du PC lui-même : le moniteur venait d'IBM Japon et l'imprimante d'Epson. L'entreprise n'a obtenu que quelques brevets sur l'appareil et ne les a jamais fait valoir."
+        "Comme presque aucun composant du PC n'avait été conçu par l'équipe, IBM n'a obtenu que quelques brevets sur l'appareil, et ne les a jamais fait valoir. L'imprimante était fabriquée par Epson et le moniteur reprenait un modèle existant d'IBM Japon."
       ],
       "wikipedia": "IBM PC"
     },
@@ -4037,7 +4037,7 @@
         },
         {
           "titre": "Entre usages et déclin",
-          "texte": "Les messageries, découvertes d'abord à Strasbourg avec Gretel, ont tiré l'essor du réseau. En 1986, 1,4 million de terminaux sont connectés ; en 1988, trois millions. Au milieu des années 1990, plus de 20 000 services sont proposés. Puis Internet l'a dépassé : en février 2009, il enregistrait encore 10 millions de connexions par mois, et France Télécom a arrêté le service le 30 juin 2012."
+          "texte": "Les messageries instantanées, nées à Strasbourg avec l'expérience Gretel, ont tiré l'essor du réseau. En 1986, 1,4 million de terminaux sont connectés ; en 1988, trois millions. Au milieu des années 1990, plus de 20 000 services sont proposés. Puis Internet l'a dépassé : en février 2009, il enregistrait encore 10 millions de connexions par mois, et France Télécom a arrêté le service le 30 juin 2012."
         }
       ],
       "anecdotes": [
@@ -4086,7 +4086,7 @@
     "type": "classique",
     "title": "Netscape Navigator",
     "subtitle": "Navigateur web qui a dominé le milieu des années 1990",
-    "summary": "Netscape Navigator est un navigateur web lancé en 1994 par des anciens du navigateur Mosaic. Pour des millions de gens, il a été la première porte d'entrée vers le Web.\nIl domine la seconde moitié des années 1990, puis perd la « guerre des navigateurs » face à Internet Explorer de Microsoft. Son code libéré a donné naissance à Mozilla, puis à Firefox.",
+    "summary": "Netscape Navigator est un navigateur web lancé en 1994 par des anciens du navigateur Mosaic. Pour des millions de gens, il a été la première porte d'entrée vers le Web.\nIl domine le marché au milieu des années 1990, puis perd la « guerre des navigateurs » face à Internet Explorer de Microsoft. Son code libéré a donné naissance à Mozilla, puis à Firefox.",
     "details": {
       "sections": [
         {
@@ -4254,7 +4254,7 @@
     "type": "personnage",
     "title": "Dennis Ritchie",
     "subtitle": "Informaticien américain, 1941-2011",
-    "summary": "Dennis Ritchie est un informaticien américain des Laboratoires Bell. Au début des années 1970, il crée le langage C et aide Ken Thompson à bâtir le système d'exploitation Unix.\nSon nom est resté discret du grand public, mais son travail est partout : C++, C# ou Java s'inspirent du C, et de nombreux systèmes modernes descendent d'Unix.",
+    "summary": "Dennis Ritchie est un informaticien américain des Laboratoires Bell. Au début des années 1970, il crée le langage C et aide Ken Thompson à bâtir le système d'exploitation Unix.\nSon nom est resté peu connu du grand public, mais son travail est partout : C++, C# ou Java s'inspirent du C, et de nombreux systèmes modernes descendent d'Unix.",
     "details": {
       "epoque": "Des années 1960 aux années 2000.",
       "pourquoiCelebre": "Il a créé le langage C et codéveloppé Unix avec Ken Thompson, deux piliers de l'informatique moderne.",
@@ -4364,11 +4364,11 @@
       "sections": [
         {
           "titre": "Un rêve d'intelligence collective",
-          "texte": "Pendant la Seconde Guerre mondiale, Engelbart est technicien radar dans la Navy. Il sait qu'un écran peut afficher des informations, et il lit un article de Vannevar Bush sur l'accès au savoir. Il imagine alors des travailleurs devant des écrans, réfléchissant ensemble à de grands problèmes. À l'époque, les ordinateurs ne sont que des calculateurs géants. Après son doctorat en 1955, il rejoint le SRI et, financé par l'ARPA, crée son centre de recherche et le système NLS."
+          "texte": "À la fin de la Seconde Guerre mondiale, Engelbart est technicien radar dans la Navy. Il sait qu'un écran peut afficher des informations, et il lit un article de Vannevar Bush sur l'accès au savoir. Il imagine alors des travailleurs devant des écrans, réfléchissant ensemble à de grands problèmes. À l'époque, les ordinateurs ne sont que des calculateurs géants. Docteur en 1955, il rejoint le SRI en 1957 et, financé par l'ARPA, crée son centre de recherche et le système NLS."
         },
         {
           "titre": "La souris et la grande démo",
-          "texte": "La première souris est une simple boîte en bois avec deux roues en métal et un bouton. Dans son brevet, elle est présentée comme un simple indicateur de position pour écran. Le 9 décembre 1968, Engelbart la montre en direct avec la métaphore du bureau, la visioconférence, l'hypertexte et le travail à plusieurs sur un même document, avec deux pointeurs. Le 29 octobre 1969, son laboratoire est relié à celui de Leonard Kleinrock : c'est l'un des tout premiers liens d'ARPANET."
+          "texte": "La première souris est une simple boîte en bois avec deux roues en métal et un bouton. Dans son brevet, elle est présentée comme un simple indicateur de position pour écran. Le 9 décembre 1968, Engelbart la montre en direct avec la métaphore du bureau, la visioconférence, l'hypertexte et le travail à plusieurs sur un même document, avec deux pointeurs. Le 29 octobre 1969, son laboratoire est relié à celui de Leonard Kleinrock, à Los Angeles : c'est le tout premier lien d'ARPANET."
         }
       ],
       "anecdotes": [
@@ -4430,7 +4430,7 @@
     "type": "personnage",
     "title": "Robert Noyce",
     "subtitle": "Physicien et entrepreneur américain, 1927-1990",
-    "summary": "Physicien américain, Robert Noyce a reçu le surnom de « maire de la Silicon Valley ». En 1959, chez Fairchild Semiconductor, il conçoit un circuit intégré en silicium, indépendamment de Jack Kilby : tous les composants sont réunis sur une même puce.\nEn 1968, il fonde Intel avec Gordon Moore et en devient le premier PDG, avec un style de direction sans aucun privilège.",
+    "summary": "Physicien américain, Robert Noyce a reçu le surnom de « maire de la Silicon Valley ». En 1959, chez Fairchild Semiconductor, il conçoit un circuit intégré en silicium, indépendamment de Jack Kilby : tous les composants sont réunis sur une même puce.\nEn 1968, il fonde Intel avec Gordon Moore et en devient le premier PDG, avec un style de direction qui refuse les privilèges des patrons.",
     "details": {
       "epoque": "Des années 1950 aux années 1980.",
       "pourquoiCelebre": "Il a inventé le circuit intégré monolithique en silicium, base de toutes les puces, et cofondé Fairchild puis Intel.",
@@ -4456,11 +4456,11 @@
         },
         {
           "titre": "Un patron sans privilèges",
-          "texte": "Noyce est le premier PDG d'Intel jusqu'en 1975. Il traite ses employés comme une famille et refuse les voitures de fonction, les places de parking réservées, les jets privés et les bureaux luxueux. Arthur Rock, président du conseil d'Intel, disait que l'entreprise avait besoin de Noyce, de Moore et d'Andrew Grove, et dans cet ordre : le visionnaire, le virtuose de la technique, puis le gestionnaire. Sous sa direction naît le microprocesseur, conçu par Federico Faggin."
+          "texte": "Noyce est le premier PDG d'Intel jusqu'en 1975. Il traite ses employés comme une famille et refuse les voitures de fonction, les places de parking réservées, les jets privés et les bureaux luxueux. Arthur Rock, président du conseil d'Intel, disait que l'entreprise avait besoin de Noyce, de Moore et d'Andrew Grove, et dans cet ordre : le visionnaire, le virtuose de la technique, puis le gestionnaire. Sous sa direction naît le microprocesseur, imaginé par Ted Hoff et conçu par Federico Faggin."
         }
       ],
       "anecdotes": [
-        "Étudiant au Grinnell College, Noyce a volé un cochon de 25 livres dans la ferme du maire pour le faire rôtir lors d'une fête. Menacé d'expulsion, il n'a été suspendu qu'un semestre : son professeur de physique, président de l'université, ne voulait pas perdre un tel talent."
+        "Étudiant au Grinnell College, Noyce a volé un cochon de 25 livres (environ 11 kg) dans la ferme du maire pour le faire rôtir lors d'une fête. Menacé d'expulsion, il n'a été suspendu qu'un semestre : son professeur de physique, Grant Gale, ne voulait pas perdre un tel talent, et l'université a dédommagé le maire."
       ],
       "wikipedia": "Robert Noyce"
     },
@@ -4518,7 +4518,7 @@
     "type": "personnage",
     "title": "Joseph-Marie Jacquard",
     "subtitle": "Inventeur français, 1752-1834",
-    "summary": "Joseph-Marie Jacquard est un inventeur lyonnais, autodidacte en mécanique. Au début du XIXe siècle, il perfectionne le métier à tisser grâce à des cartes perforées qui indiquent quels fils lever : un seul ouvrier peut alors tisser des motifs complexes.\nLe métier Jacquard est la plus ancienne machine programmable. Il a inspiré Charles Babbage et passe pour un ancêtre de l'ordinateur.",
+    "summary": "Joseph-Marie Jacquard est un inventeur lyonnais, autodidacte en mécanique. Au début du XIXe siècle, il perfectionne le métier à tisser grâce à des cartes perforées qui indiquent quels fils lever : un seul ouvrier peut alors tisser des motifs complexes.\nSon métier passe souvent pour la plus ancienne machine programmable. Il a inspiré Charles Babbage et est vu comme un ancêtre de l'ordinateur.",
     "details": {
       "epoque": "Fin du XVIIIe et début du XIXe siècle.",
       "pourquoiCelebre": "Son métier à tisser, commandé par des cartes perforées, est la plus ancienne machine programmable.",
@@ -4636,7 +4636,7 @@
         }
       ],
       "anecdotes": [
-        "En 1966, l'équipe de McCarthy à Stanford a fait jouer un programme d'échecs contre des joueurs soviétiques : elle a perdu deux parties et en a fait deux nulles. Sa signature sur Usenet disait que celui qui refuse de faire de l'arithmétique est condamné à dire des bêtises."
+        "En 1966, l'équipe de McCarthy à Stanford a opposé son programme d'échecs à un programme soviétique, dans un match à distance : le programme américain a perdu deux parties et en a fait deux nulles. Sa signature sur Usenet disait que celui qui refuse de faire de l'arithmétique est condamné à dire des bêtises."
       ],
       "wikipedia": "John McCarthy"
     },
@@ -4694,7 +4694,7 @@
     "type": "personnage",
     "title": "Alan Kay",
     "subtitle": "Informaticien américain, né en 1940",
-    "summary": "Alan Kay est un informaticien américain né en 1940 à Springfield (Massachusetts). Au centre de recherche Xerox PARC, il dirige la création de Smalltalk, langage qui popularise la programmation orientée objet (il a lui-même inventé l'expression), et de l'écran à fenêtres qui se chevauchent.\nIl a aussi imaginé le Dynabook, ancêtre des portables et des tablettes, conçu comme un outil d'apprentissage pour les enfants.",
+    "summary": "Alan Kay est un informaticien américain né en 1940 à Springfield (Massachusetts). Au centre de recherche Xerox PARC, il dirige la création de Smalltalk, langage qui popularise la programmation orientée objet (il a lui-même inventé l'expression), et de l'interface graphique à fenêtres qui se chevauchent.\nIl a aussi imaginé le Dynabook, ancêtre des portables et des tablettes, conçu comme un outil d'apprentissage pour les enfants.",
     "details": {
       "epoque": "Depuis les années 1970.",
       "pourquoiCelebre": "Il a contribué à créer la programmation orientée objet, les interfaces à fenêtres et l'idée d'ordinateur personnel pour apprendre.",
@@ -4738,7 +4738,7 @@
     "type": "personnage",
     "title": "Seymour Cray",
     "subtitle": "Ingénieur américain, 1925-1996",
-    "summary": "Seymour Cray est un ingénieur américain surnommé « le père du supercalcul ». Pendant près de trois décennies, ses machines ont figuré parmi les ordinateurs les plus rapides du monde.\nIl participe à la conception du CDC 6600, premier superordinateur commercial, puis fonde Cray Research et lance le Cray-1 en 1976. Sa méthode : rendre rapide tout le système, pas seulement le processeur.",
+    "summary": "Seymour Cray est un ingénieur américain surnommé « le père du supercalcul ». Pendant près de trois décennies, ses machines ont figuré parmi les ordinateurs les plus rapides du monde.\nIl conçoit le CDC 6600, premier superordinateur commercial, puis fonde Cray Research et lance le Cray-1 en 1976. Sa méthode : rendre rapide tout le système, pas seulement le processeur.",
     "details": {
       "epoque": "Des années 1950 aux années 1990.",
       "pourquoiCelebre": "Il a conçu les premiers superordinateurs commerciaux et fondé Cray Research.",
@@ -4760,7 +4760,7 @@
         },
         {
           "titre": "Cray Research et le Cray-1",
-          "texte": "En 1972, après l'échec du CDC 8600, Cray quitte Control Data et fonde sa propre société. Le Cray-1, lancé en 1976, devance presque toutes les machines de l'époque. Suivent le Cray-2 en 1985 puis une nouvelle société, Cray Computer Corporation, en 1989 : son Cray-3 ne sera jamais produit et elle fait faillite en 1995. Cray Research contrôlait alors les trois quarts du marché mondial des superordinateurs. Il est mort en 1996, après un accident de voiture."
+          "texte": "En 1972, après l'échec du CDC 8600, Cray quitte Control Data et fonde sa propre société, Cray Research. Le Cray-1, lancé en 1976, devance presque toutes les machines de l'époque. Suivent le Cray-2 en 1985 puis une nouvelle société, Cray Computer Corporation, en 1989 : son Cray-3 n'est jamais produit en série et elle fait faillite en 1995, alors que Cray Research, sa première entreprise, contrôle de son côté les trois quarts du marché mondial des superordinateurs. Il est mort en 1996, après un accident de voiture."
         }
       ],
       "anecdotes": [
@@ -4844,7 +4844,7 @@
         },
         {
           "titre": "Colossus et le Jour J",
-          "texte": "Le Mark 2 entre en service le 1er juin 1944 et fournit des informations vitales avant le Débarquement. Selon Flowers, un message déchiffré, remis à Eisenhower, montrait qu'Hitler ne déplaçait pas de troupes supplémentaires vers la Normandie ; le général aurait dit : « Nous partons demain. » Deux machines sont ensuite envoyées au GCHQ et ne sont retirées du service qu'en 1959 et 1960."
+          "texte": "Le Mark 2 entre en service le 1er juin 1944 et fournit des informations vitales avant le Débarquement. Selon Flowers, un message déchiffré, remis à Eisenhower, confirmait qu'Hitler ne voulait pas envoyer de troupes supplémentaires en Normandie, persuadé que le débarquement prévu là était une ruse ; le général aurait dit : « Nous partons demain. » Deux machines sont ensuite envoyées au GCHQ et ne sont retirées du service qu'en 1959 et 1960."
         }
       ],
       "anecdotes": [
@@ -4862,7 +4862,7 @@
     "type": "personnage",
     "title": "Yann Le Cun",
     "subtitle": "Chercheur franco-américain en intelligence artificielle, né en 1960",
-    "summary": "Yann Le Cun est un chercheur français en intelligence artificielle, né à Soisy-sous-Montmorency. À la fin des années 1980, aux Laboratoires Bell, il met au point LeNet, un réseau de neurones capable de lire des chiffres écrits à la main.\nIl partage avec Yoshua Bengio et Geoffrey Hinton le prix Turing 2018, remis en 2019, pour l'apprentissage profond. En 2013, il est invité à créer le laboratoire d'IA de Facebook, aujourd'hui Meta.",
+    "summary": "Yann Le Cun est un chercheur franco-américain en intelligence artificielle, né à Soisy-sous-Montmorency. À la fin des années 1980, aux Laboratoires Bell, il met au point LeNet, un réseau de neurones capable de lire des chiffres écrits à la main.\nIl partage avec Yoshua Bengio et Geoffrey Hinton le prix Turing 2018, remis en 2019, pour l'apprentissage profond. En 2013, il est invité à créer le laboratoire d'IA de Facebook, aujourd'hui Meta, qu'il annonce quitter fin 2025.",
     "details": {
       "epoque": "Depuis les années 1980.",
       "pourquoiCelebre": "Il est l'un des pères de l'apprentissage profond, notamment grâce aux réseaux de neurones convolutifs pour reconnaître les images.",
@@ -4888,7 +4888,7 @@
         },
         {
           "titre": "De la compression d'images à Facebook",
-          "texte": "Dans les années 1990, Le Cun travaille aussi sur DjVu, un format de compression pour documents numérisés, utilisé par l'Internet Archive. Il rejoint l'université de New York en 2003, y fonde en 2012 le Center for Data Science, puis est invité en 2013 par Mark Zuckerberg à lancer FAIR. En 2016, il occupe la chaire d'informatique du Collège de France. Depuis 2019, il se consacre surtout à l'apprentissage auto-supervisé."
+          "texte": "Dans les années 1990, Le Cun travaille aussi sur DjVu, un format de compression pour documents numérisés, utilisé par l'Internet Archive. Il rejoint l'université de New York en 2003, y fonde en 2012 le Center for Data Science, puis est invité en 2013 par Mark Zuckerberg à lancer FAIR. En 2016, il occupe la chaire d'informatique du Collège de France. Depuis 2019, il se consacre surtout à l'apprentissage auto-supervisé. En novembre 2025, il annonce quitter Meta pour fonder sa propre société, consacrée aux « modèles du monde »."
         }
       ],
       "anecdotes": [
@@ -4919,7 +4919,7 @@
         },
         {
           "titre": "Quelques étapes de son histoire",
-          "texte": "Les premiers programmes étaient écrits en assembleur. En 1952, Alick Glennie écrit un compilateur pour Autocode, et l'équipe de Grace Hopper crée le compilateur du langage A-0 et invente le terme. De 1954 à 1957, l'équipe de John Backus chez IBM développe FORTRAN, avec le premier compilateur complet et optimiseur. COBOL, en 1959, est compilé sur plusieurs architectures. En 1962, deux ingénieurs du MIT, Tim Hart et Mike Levin, écrivent un compilateur de Lisp qui se compile lui-même."
+          "texte": "Les premiers programmes étaient écrits en assembleur. En 1952, Alick Glennie écrit un compilateur pour Autocode, et l'équipe de Grace Hopper crée le compilateur du langage A-0 et invente le terme. De 1954 à 1957, l'équipe de John Backus chez IBM développe FORTRAN, avec le premier compilateur complet et optimiseur. COBOL, conçu en 1959, devient le premier langage compilé sur plusieurs types de machines. En 1962, deux ingénieurs du MIT, Tim Hart et Mike Levin, écrivent un compilateur de Lisp qui se compile lui-même."
         }
       ],
       "anecdotes": [
@@ -4981,7 +4981,7 @@
         }
       ],
       "anecdotes": [
-        "Depuis 1995, la société Surety publie chaque semaine dans la rubrique « Annonces et objets trouvés » du New York Times un certificat cryptographique de ses données. Et dans l'article original de Nakamoto, les mots « block » et « chain » étaient encore séparés : ils n'ont fusionné en « blockchain » qu'en 2016."
+        "Dès 1995, la société Surety a pris l'habitude de publier chaque semaine dans la rubrique « Annonces et objets trouvés » du New York Times un certificat cryptographique de ses données. Et dans l'article original de Nakamoto, les mots « block » et « chain » étaient encore séparés : le mot unique « blockchain » ne s'est imposé que vers 2016."
       ],
       "wikipedia": "Blockchain"
     },
@@ -5000,7 +5000,7 @@
       "sections": [
         {
           "titre": "Un cadenas ouvert pour tous",
-          "texte": "Imagine qu'Alice distribue des cadenas ouverts : n'importe qui peut fermer un coffre avec, mais elle seule possède la clé. Dans RSA, la clé publique chiffre, la clé privée déchiffre. Elle peut aussi servir à signer : Alice signe avec sa clé privée, et chacun vérifie avec la clé publique. RSA sert souvent à transmettre une clé de chiffrement symétrique, avec laquelle l'échange se poursuit. Il est très utilisé dans le commerce en ligne."
+          "texte": "Imagine qu'Alice distribue des cadenas ouverts : n'importe qui peut fermer un coffre avec, mais elle seule possède la clé. Dans RSA, la clé publique chiffre, la clé privée déchiffre. Le système permet aussi de signer : Alice signe avec sa clé privée, et chacun vérifie avec sa clé publique. RSA sert souvent à transmettre une clé de chiffrement symétrique, avec laquelle l'échange se poursuit. Il est très utilisé dans le commerce en ligne."
         },
         {
           "titre": "Le tour de force des nombres premiers",
@@ -5008,7 +5008,7 @@
         },
         {
           "titre": "Des brevets au secret d'État",
-          "texte": "L'idée d'une cryptographie à clés publique et privée est publiée en 1976 par Whitfield Diffie et Martin Hellman, qui ne savent pas la réaliser. Rivest, Shamir et Adleman, au MIT, y parviennent en 1977 ; leur méthode paraît dans Scientific American en août 1977. Le MIT dépose un brevet, délivré en 1983 et expiré en septembre 2000. Entre-temps, on apprend qu'un mathématicien du GCHQ britannique, Clifford Cocks, avait décrit un système équivalent dès 1973, tenu secret jusqu'en 1997."
+          "texte": "L'idée d'une cryptographie à clés publique et privée est publiée en 1976 par Whitfield Diffie et Martin Hellman, qui laissent ouverte la question de sa réalisation. Rivest, Shamir et Adleman, au MIT, y parviennent en 1977 ; leur méthode paraît dans Scientific American en août 1977. Le MIT dépose un brevet, délivré en 1983 et expiré en septembre 2000. Entre-temps, on apprend qu'un mathématicien du GCHQ britannique, Clifford Cocks, avait décrit un système équivalent dès 1973, tenu secret jusqu'en 1997."
         }
       ],
       "anecdotes": [
@@ -5031,11 +5031,11 @@
       "sections": [
         {
           "titre": "Pourquoi un si grand rotor ?",
-          "texte": "Un avion a besoin de vitesse pour voler. L'hélicoptère, lui, fait tourner ses pales : l'air défile sur elles même quand le fuselage est immobile, d'où le vol stationnaire. Les calculs montrent qu'il vaut mieux brasser beaucoup d'air lentement que peu d'air vite : voilà pourquoi les pales sont longues. Pour décoller en pédalant, un athlète de 80 kg aurait besoin d'un rotor de plus de 20 mètres."
+          "texte": "Un avion a besoin de vitesse pour voler. L'hélicoptère, lui, fait tourner ses pales : l'air défile sur elles même quand le fuselage est immobile, d'où le vol stationnaire. Les calculs montrent qu'il vaut mieux brasser beaucoup d'air lentement que peu d'air vite : voilà pourquoi les pales sont longues. Pour décoller en pédalant, un athlète de 80 kg aurait besoin de pales de plus de 20 mètres."
         },
         {
           "titre": "Des essais lents, puis un modèle type",
-          "texte": "Le Gyroplane-Laboratoire de Breguet et Dorand, en 1935, est le premier hélicoptère totalement contrôlable, avec deux rotors tournant en sens inverse. Le Focke-Wulf Fw 61 suit en 1936. Aux États-Unis, Igor Sikorsky met au point le VS-300, dont le rotor principal est complété à l'arrière par un petit rotor qui empêche le fuselage de tourner sur lui-même. Son R-4 est le premier hélicoptère produit en série, en 1942."
+          "texte": "Le Gyroplane-Laboratoire de Breguet et Dorand, en 1935, est souvent présenté comme le premier hélicoptère totalement contrôlable, avec deux rotors tournant en sens inverse. L'Allemand Focke-Wulf Fw 61, que beaucoup d'historiens placent en tête, vole en 1936. Aux États-Unis, Igor Sikorsky met au point le VS-300, dont le rotor principal est complété à l'arrière par un petit rotor qui empêche le fuselage de tourner sur lui-même. Son R-4 est le premier hélicoptère produit en série, en 1942."
         },
         {
           "titre": "Les moteurs, vrai frein du progrès",
@@ -5062,7 +5062,7 @@
       "sections": [
         {
           "titre": "Des tonneaux aux premiers exploits",
-          "texte": "Au début du XVIIe siècle, le Néerlandais Cornelis Drebbel expérimente sur la Tamise une embarcation à rames. En 1775, l'Américain David Bushnell lance la Turtle, ovoïde de bois mue par une hélice à manivelle : un seul homme à bord. En 1864, le Hunley est le premier à envoyer par le fond un navire adverse, en pleine guerre de Sécession. Il disparaît lui aussi dans l'explosion."
+          "texte": "Au début du XVIIe siècle, le Néerlandais Cornelis Drebbel expérimente sur la Tamise une embarcation à rames. En 1775, l'Américain David Bushnell lance la Turtle, ovoïde de bois mue par une hélice à manivelle : un seul homme à bord. En 1864, le Hunley est le premier à envoyer par le fond un navire adverse, en pleine guerre de Sécession. Il sombre lui aussi peu après, avec tout son équipage."
         },
         {
           "titre": "Électricité, double coque et moteur",
@@ -5070,7 +5070,7 @@
         },
         {
           "titre": "L'ère nucléaire",
-          "texte": "L'USS Nautilus (1954) ouvre l'ère de la propulsion nucléaire : le réacteur n'a pas besoin d'air, et l'oxygène est fabriqué à partir de l'eau de mer. Le sous-marin peut rester plongé très longtemps. La plupart des modèles militaires descendent à 300 ou 400 mètres. Le record, 1 027 mètres, appartient au Komsomolets, un engin expérimental."
+          "texte": "L'USS Nautilus (1954) ouvre l'ère de la propulsion nucléaire : le réacteur n'a pas besoin d'air, et l'oxygène est fabriqué à partir de l'eau de mer. Le sous-marin peut rester plongé très longtemps. La plupart des modèles militaires descendent à 300 ou 400 mètres. Le record, 1 027 mètres, est attribué au soviétique Komsomolets, un sous-marin surtout expérimental."
         }
       ],
       "anecdotes": [
@@ -5088,7 +5088,7 @@
     "type": "personnage",
     "title": "Clément Ader",
     "subtitle": "Ingénieur et inventeur français, 1841-1925",
-    "summary": "Clément Ader est un ingénieur toulousain devenu riche grâce au téléphone, qui a consacré sa fortune au rêve de voler. Le 9 octobre 1890, son Éole, une machine à vapeur en forme de chauve-souris, quitte le sol.\nLe vol ne dure qu'une cinquantaine de mètres, sans contrôle. Mais c'est probablement le tout premier décollage, avec un moteur, d'un appareil plus lourd que l'air. Le mot « avion » vient de ses appareils.",
+    "summary": "Clément Ader est un ingénieur toulousain devenu riche grâce au téléphone, qui a consacré sa fortune au rêve de voler. Le 9 octobre 1890, son Éole, une machine à vapeur en forme de chauve-souris, quitte le sol.\nLe saut ne couvre qu'une cinquantaine de mètres, à une vingtaine de centimètres du sol et sans contrôle. Mais c'est probablement le tout premier décollage, avec un moteur, d'un appareil plus lourd que l'air. Le mot « avion » vient de ses appareils.",
     "details": {
       "epoque": "Seconde moitié du XIXe siècle, début du XXe.",
       "pourquoiCelebre": "Pionnier de l'aviation, dont l'Éole a décollé en 1890, et inventeur du théâtrophone.",
@@ -5110,15 +5110,15 @@
       "sections": [
         {
           "titre": "De l'ingénieur du téléphone au rêve du vol",
-          "texte": "Né à Muret, formé à Toulouse, Ader débute comme conducteur de travaux pour les chemins de fer du Midi. Il invente aussi une machine à poser les rails et, en 1868, des vélocipèdes à pneus de caoutchouc. Il fait fortune dans le téléphone naissant, notamment avec le théâtrophone, qui diffuse l'opéra en stéréo en 1881. Cet argent et ses relations lui servent à financer ses recherches sur le vol."
+          "texte": "Né à Muret, formé à Toulouse, Ader débute comme conducteur de travaux pour les chemins de fer du Midi. Il invente aussi une machine à poser les rails et, en 1868, des vélocipèdes aux roues cerclées de caoutchouc plutôt que de fer. Il fait fortune dans le téléphone naissant, notamment avec le théâtrophone, qui diffuse l'opéra en stéréo en 1881. Cet argent et ses relations lui servent à financer ses recherches sur le vol."
         },
         {
           "titre": "Éole, Aquilon et l'échec officiel",
-          "texte": "Après l'Éole, l'armée finance l'Avion III, aussi appelé Aquilon : deux moteurs à vapeur de 30 chevaux, deux hélices, une envergure d'environ 15 mètres. Les essais du 12 et du 14 octobre 1897, à Satory, tournent mal : l'appareil, pris par le vent, sort de la piste. L'armée coupe les crédits et, en 1910, le rapport officiel conclut à l'échec. L'Avion III est exposé au musée des Arts et Métiers, à Paris."
+          "texte": "Les ailes de l'Éole, copiées sur celles de la chauve-souris, se réglaient en vol grâce à six manivelles. Après ce premier appareil, l'armée finance l'Avion III, aussi appelé Aquilon : deux moteurs à vapeur de 30 chevaux, deux hélices, une envergure d'environ 15 mètres. À Satory, le 12 octobre 1897, Ader fait rouler l'appareil sur une piste circulaire. Le 14, devant deux officiels, l'appareil, pris par le vent, sort de la piste. L'armée coupe les crédits et, en 1910, le rapport officiel conclut à l'échec. L'Avion III est exposé au musée des Arts et Métiers, à Paris."
         }
       ],
       "anecdotes": [
-        "Les ailes de l'Éole, copiées sur celles de la chauve-souris, se réglaient en vol grâce à six manivelles. Elles ont pourtant donné au français le mot « avion », que l'on emploie encore aujourd'hui pour désigner un appareil plus lourd que l'air."
+        "Dans son livre L'Aviation militaire, en 1909, Ader décrit déjà le porte-avions moderne : un navire au pont plat, « dégagé de tout obstacle », qui « présentera l'aspect d'une aire d'atterrissage », avec des ascenseurs et un hangar."
       ],
       "wikipedia": "Clément Ader"
     },
@@ -5158,7 +5158,7 @@
         },
         {
           "titre": "Le Blériot XI et la Manche",
-          "texte": "Le Blériot XI, dessiné avec Raymond Saulnier, vole pour la première fois le 23 janvier 1909, avec un moteur Anzani de 25 chevaux et des ailes d'environ huit mètres d'envergure. Blériot, ruiné par ses essais, pense que ce sera son dernier avion. Le 25 juillet 1909, il traverse la Manche et gagne le prix de 1 000 livres du Daily Mail. En 1909, il devient aussi le premier aviateur breveté en France."
+          "texte": "Le Blériot XI, dessiné avec Raymond Saulnier, vole pour la première fois le 23 janvier 1909, avec un moteur Anzani de 25 chevaux et des ailes d'environ huit mètres d'envergure. Blériot, ruiné par ses essais, pense que ce sera son dernier avion. Le 25 juillet 1909, il traverse la Manche et gagne le prix de 1 000 livres du Daily Mail. La même année, il reçoit le brevet de pilote numéro 1 délivré en France."
         }
       ],
       "anecdotes": [
@@ -5176,7 +5176,7 @@
     "type": "personnage",
     "title": "Alberto Santos-Dumont",
     "subtitle": "Pionnier brésilien de l'aviation, 1873-1932",
-    "summary": "Fils d'un planteur de café brésilien, Alberto Santos-Dumont s'installe à Paris et se passionne pour les ballons. Il construit des dirigeables, en gare un devant son immeuble des Champs-Élysées et fait le tour de la tour Eiffel en 1901.\nPuis il se lance dans l'avion : le 23 octobre 1906, son 14-bis décolle seul à Bagatelle devant témoins. Les vols sont validés officiellement, ce qui en fait un héros du Brésil.",
+    "summary": "Fils d'un planteur de café brésilien, Alberto Santos-Dumont s'installe à Paris et se passionne pour les ballons. Il fait construire des dirigeables, en pose un devant son immeuble des Champs-Élysées et fait le tour de la tour Eiffel en 1901.\nPuis il se lance dans l'avion : le 23 octobre 1906, son 14-bis décolle par ses propres moyens à Bagatelle, devant témoins. Ses vols sont les premiers validés officiellement, ce qui fait de lui un héros au Brésil.",
     "details": {
       "epoque": "De 1898 à 1910 pour ses exploits aéronautiques.",
       "pourquoiCelebre": "Pionnier des dirigeables et auteur du premier vol public d'un avion à moteur homologué, avec le 14-bis, en 1906.",
@@ -5198,7 +5198,7 @@
       "sections": [
         {
           "titre": "Le roi des dirigeables",
-          "texte": "À Paris, Santos-Dumont apprend le ballon en 1898 et construit le Brazil, un minuscule ballon de 113 mètres cubes. Entre 1898 et 1907, il fait fabriquer une douzaine de dirigeables. Le 19 octobre 1901, il gagne le prix Deutsch de la Meurthe : 100 000 francs pour aller de Saint-Cloud à la tour Eiffel et revenir en moins de 30 minutes. Son no 9, la Baladeuse, se pose même devant la porte de son immeuble."
+          "texte": "À Paris, Santos-Dumont apprend le ballon en 1898 et fait fabriquer le Brazil, un minuscule ballon de 113 mètres cubes. Entre 1898 et 1907, il fait construire une douzaine de dirigeables. Le 19 octobre 1901, il gagne le prix Deutsch de la Meurthe : 100 000 francs pour aller de Saint-Cloud à la tour Eiffel et revenir en moins de 30 minutes. Son no 9, la Baladeuse, se pose même devant la porte de son immeuble."
         },
         {
           "titre": "14-bis et Demoiselle",
@@ -5246,7 +5246,7 @@
         },
         {
           "titre": "Des machines qui tournent",
-          "texte": "Associé à Matthew Boulton en 1775, Watt fait fabriquer ses machines à Soho. Il adapte la machine pour faire tourner des arbres, et non plus seulement pomper l'eau : elle peut alors entraîner des machines d'usine. Pour la vendre, il compare sa puissance à celle des chevaux : c'est le cheval-vapeur, fixé à 550 livres-pied par seconde. Opposé à la vapeur à haute pression, il aurait freiné des rivaux et son employé William Murdoch."
+          "texte": "Associé à Matthew Boulton en 1775, Watt fait fabriquer ses machines à Soho, près de Birmingham. Il adapte la machine pour qu'elle produise un mouvement de rotation, et non plus seulement qu'elle pompe l'eau : elle peut alors entraîner des machines d'usine. Pour la vendre, il compare sa puissance à celle des chevaux : c'est le cheval-vapeur, fixé à 550 livres-pied par seconde. Opposé à la vapeur à haute pression, il aurait freiné des rivaux et son employé William Murdoch."
         }
       ],
       "anecdotes": [
@@ -5264,7 +5264,7 @@
     "type": "personnage",
     "title": "Étienne Lenoir",
     "subtitle": "Inventeur franco-belge, 1822-1900",
-    "summary": "Étienne Lenoir arrive à Paris à 16 ans, devient garçon de café et fait des expériences dans la cave de son auberge. Autodidacte, il dépose beaucoup de brevets, dont celui du premier moteur à gaz utilisable.\nEn 1860, son moteur à deux temps brûle du gaz d'éclairage enflammé par une étincelle électrique. Il équipe des ateliers, un bateau et une petite voiture, avant d'être dépassé par des moteurs plus efficaces.",
+    "summary": "Étienne Lenoir arrive à Paris à 16 ans, devient garçon de café et fait des expériences dans la cave de l'auberge où il travaille. Autodidacte, il dépose beaucoup de brevets, dont celui du premier moteur à explosion vraiment opérationnel, allumé par une étincelle.\nEn 1860, son moteur à deux temps brûle du gaz d'éclairage enflammé par une étincelle électrique. Il équipe des ateliers, un bateau et une petite voiture, avant d'être dépassé par des moteurs plus efficaces.",
     "details": {
       "epoque": "Milieu du XIXe siècle.",
       "pourquoiCelebre": "Il a mis au point en 1860 le premier moteur à combustion interne commercialisé, à allumage électrique et au gaz d'éclairage.",
@@ -5294,7 +5294,7 @@
         }
       ],
       "anecdotes": [
-        "Pour sa démonstration de 1863, le tsar Alexandre II s'est intéressé à sa voiture et un exemplaire a été envoyé en Russie, où il a disparu. Lenoir n'en fut pas content."
+        "Sa voiture de 1863 attira l'attention du tsar Alexandre II : un exemplaire fut envoyé en Russie, où il disparut sans laisser de trace, au grand mécontentement de Lenoir."
       ],
       "wikipedia": "Étienne Lenoir"
     },
@@ -5317,7 +5317,7 @@
         },
         {
           "titre": "Des échelles pour se comprendre",
-          "texte": "Pour comparer deux thermomètres, il faut une échelle commune. Au début du XVIIIe siècle, Fahrenheit met au point le thermomètre à mercure et son échelle : l'eau gèle à 32 °F et bout à 212 °F. Réaumur propose une échelle de 0 à 80. En 1794, la Commission des poids et mesures fixe le degré comme la centième partie de l'écart entre la glace fondante et l'eau bouillante, ce qui impose le degré Celsius en France."
+          "texte": "Pour comparer deux thermomètres, il faut une échelle commune. Au début du XVIIIe siècle, Fahrenheit met au point le thermomètre à mercure et son échelle : l'eau gèle à 32 °F et bout à 212 °F. Réaumur propose une échelle de 0 à 80. En 1794, la Commission des poids et mesures fixe le degré comme la centième partie de l'écart entre la glace fondante et l'eau bouillante : l'échelle centésimale, notre degré Celsius, s'impose en France."
         },
         {
           "titre": "Comment ça marche, et ses limites",
@@ -5352,11 +5352,11 @@
         },
         {
           "titre": "Du mercure au cadran",
-          "texte": "Le baromètre à mercure est précis, mais encombrant et le mercure est toxique. Au XIXe siècle apparaît le baromètre anéroïde : une boîte métallique presque vide d'air se déforme avec la pression, et une aiguille amplifie ce mouvement sur un cadran. En 1858, l'amiral britannique Fitzroy fait équiper les ports de pêche d'un baromètre pour prévenir les tempêtes."
+          "texte": "Le baromètre à mercure est précis, mais encombrant et le mercure est toxique. Au XIXe siècle apparaît le baromètre anéroïde : une boîte métallique presque vide d'air se déforme avec la pression, et une aiguille amplifie ce mouvement sur un cadran. En 1858, l'amiral britannique Fitzroy a l'idée d'équiper chaque port de pêche d'un baromètre pour prévenir les tempêtes."
         }
       ],
       "anecdotes": [
-        "Dans le quartier de Torricelli, des rumeurs prétendaient qu'il pratiquait la sorcellerie. Il aurait donc gardé son expérience secrète pour éviter d'être arrêté."
+        "En 1675, l'abbé Picard transporte de nuit un baromètre à mercure et voit, à chaque secousse, une lueur bleuâtre éclairer le tube. Ce « baromètre lumineux » intrigue les savants : la lueur vient du frottement du mercure contre le verre, et ces recherches ouvrent l'étude des décharges électriques dans les gaz."
       ],
       "wikipedia": "Baromètre"
     },
@@ -5379,11 +5379,11 @@
         },
         {
           "titre": "Du dragon de bronze aux câbles optiques",
-          "texte": "En 132, le savant chinois Zhang Heng conçoit un vase de bronze de deux mètres de diamètre, orné de huit dragons tenant chacun une boule. Une secousse libère une boule, qui tombe dans la bouche d'un crapaud : on sait dans quelle direction chercher. Le mot « sismomètre » est forgé en 1841. Des instruments sont posés sur la Lune en 1969 et sur Mars en 2018. Aujourd'hui, des fibres optiques inutilisées dans les câbles de télécommunication peuvent aussi servir de capteurs."
+          "texte": "En 132, le savant chinois Zhang Heng conçoit un vase de bronze de deux mètres de diamètre, orné de huit dragons tenant chacun une boule. Une secousse libère une boule, qui tombe dans la bouche d'un crapaud : on sait dans quelle direction chercher. Le mot « sismomètre » est forgé en 1841. Des instruments sont posés sur la Lune en 1969 et sur Mars en 2018. Aujourd'hui, même les câbles de télécommunication peuvent servir de capteurs."
         },
         {
           "titre": "Les câbles qui écoutent la Terre",
-          "texte": "Dans la détection par fibre optique, un appareil envoie des impulsions laser dans le câble, et la lumière réfléchie change légèrement quand le sol vibre. Le long du câble, un point de mesure revient tous les un ou deux mètres, là où les sismomètres classiques sont espacés de plusieurs kilomètres. En 2020, un câble au large du Svalbard a détecté des tremblements de terre, des tempêtes et même les appels de baleines. Revers : chaque fibre produit des téraoctets de données par semaine."
+          "texte": "Dans la détection par fibre optique, on utilise des fibres inutilisées d'un câble : un appareil y envoie des impulsions laser, et la lumière réfléchie change légèrement quand le sol vibre. Le long du câble, un point de mesure revient tous les un ou deux mètres, là où les sismomètres classiques sont espacés de plusieurs kilomètres. En 2020, un câble au large du Svalbard a détecté des tremblements de terre, des tempêtes et même les appels de baleines. Revers : chaque fibre produit des centaines de téraoctets de données par semaine."
         }
       ],
       "anecdotes": [
@@ -5406,7 +5406,7 @@
       "sections": [
         {
           "titre": "Du mètre de la Révolution au SI",
-          "texte": "Au Moyen Âge, chaque région avait ses propres unités. En 1795, la France institue le système décimal : le mètre est fondé sur la taille de la Terre : un dix-millionième de la distance du pôle à l'équateur. Delambre et Méchain la calculent en mesurant l'arc qui va de Dunkerque à Barcelone, de 1792 à 1799. En 1875, la Convention du Mètre crée le Bureau international des poids et mesures. Le SI naît en 1960 : à partir de sept unités de base, il en dérive toutes les autres, comme le newton ou le joule."
+          "texte": "Au Moyen Âge, chaque région avait ses propres unités. En 1795, la France institue le système métrique décimal. Le mètre est fondé sur la taille de la Terre : c'est un dix-millionième de la distance du pôle à l'équateur. Pour fixer sa valeur, Delambre et Méchain mesurent l'arc de méridien qui va de Dunkerque à Barcelone, de 1792 à 1799. En 1875, la Convention du Mètre crée le Bureau international des poids et mesures. Le SI naît en 1960 : à partir de sept unités de base, il en dérive toutes les autres, comme le newton ou le joule."
         },
         {
           "titre": "Des constantes plutôt que des objets",
@@ -5437,7 +5437,7 @@
       "sections": [
         {
           "titre": "Trouver sa longitude grâce à l'heure",
-          "texte": "Pour connaître sa longitude en mer, on compare l'heure locale, quand le Soleil est au plus haut, avec celle du port de départ. Mais chaque seconde d'erreur déplace la position de 463 mètres. Les horloges à pendule étaient déréglées par le roulis. John Harrison construit les grands chronomètres H1, H2 et H3, puis une montre de grand diamètre, la H4, dotée d'un balancier compensé contre les variations de température."
+          "texte": "Pour connaître sa longitude en mer, on compare l'heure locale, quand le Soleil est au plus haut, avec celle du port de départ. Mais chaque seconde d'erreur peut décaler la position de 463 mètres à l'équateur. Les horloges à pendule étaient déréglées par le roulis. John Harrison construit les grands chronomètres H1, H2 et H3, puis une montre de grand diamètre, la H4, dotée d'un balancier compensé contre les variations de température."
         },
         {
           "titre": "Certifier la précision",
@@ -5503,7 +5503,7 @@
         },
         {
           "titre": "Définir la seconde, donner l'heure au monde",
-          "texte": "À la fin des années 1960, la seconde cesse d'être une fraction du jour : elle devient la durée de 9 192 631 770 oscillations de l'atome de césium 133. Le Bureau international des poids et mesures calcule le temps atomique international en calculant la moyenne d'environ 500 horloges, installées dans plus de 70 laboratoires (chiffres de 2016). Les meilleures horloges au césium de 2013 ne dérivent que d'une seconde en 160 millions d'années."
+          "texte": "En 1967, la seconde cesse d'être une fraction du jour ou de l'année : elle devient la durée de 9 192 631 770 oscillations de l'atome de césium 133. Le Bureau international des poids et mesures établit le temps atomique international en faisant la moyenne d'environ 500 horloges, installées dans plus de 70 laboratoires (chiffres de 2016). Les meilleures horloges au césium de 2013 ne dérivent que d'une seconde en 160 millions d'années."
         },
         {
           "titre": "GPS et horloges optiques",
@@ -5542,7 +5542,7 @@
         }
       ],
       "anecdotes": [
-        "Le trébuchet, balance de précision pour peser les pièces de monnaie, est à l'origine de l'expression « espèces sonnantes et trébuchantes » : il servait justement à peser les pièces."
+        "Le trébuchet, petite balance de précision, servait à peser les pièces de monnaie. Il a donné l'expression « espèces sonnantes et trébuchantes » : de l'argent bien réel, en pièces qui ont le bon poids."
       ],
       "wikipedia": "Balance (instrument)"
     },
@@ -5596,7 +5596,7 @@
         },
         {
           "titre": "Des étoiles aux molécules",
-          "texte": "En astronomie, les spectrographes sont montés au foyer des télescopes, y compris dans l'espace : le télescope James-Webb en possède plusieurs, dans le proche et le moyen infrarouge. Les rovers martiens ont emporté un petit spectromètre infrarouge. D'autres spectromètres ne s'intéressent pas à la lumière : le spectromètre de masse trie des molécules selon leur masse, et la résonance magnétique nucléaire sonde l'environnement des atomes."
+          "texte": "En astronomie, les spectrographes sont montés au foyer des télescopes, y compris dans l'espace : le télescope James-Webb en possède plusieurs, dans le proche et le moyen infrarouge. Les rovers martiens Spirit et Opportunity ont chacun emporté un petit spectromètre infrarouge. D'autres spectromètres ne s'intéressent pas à la lumière : le spectromètre de masse trie des molécules selon leur masse, et la résonance magnétique nucléaire sonde l'environnement des atomes."
         },
         {
           "titre": "Spectromètre, spectroscope, spectrographe",
@@ -5618,7 +5618,7 @@
     "type": "vocabulaire",
     "title": "Interface utilisateur",
     "subtitle": "Ce par quoi un humain commande une machine",
-    "summary": "L'interface utilisateur, ou UI, est tout ce qui permet à une personne de dialoguer avec une machine : écran, clavier, souris, boutons, menus. C'est la partie que l'on voit, touche et manipule.\nUne bonne interface est claire, rapide, cohérente, et pardonne les erreurs. Elle est en général étudiée avec l'ergonomie et la psychologie.",
+    "summary": "L'interface utilisateur, ou UI, est tout ce qui permet à une personne de dialoguer avec une machine : écran, clavier, souris, boutons, menus. C'est la partie que l'on voit, touche et manipule.\nUne bonne interface est claire, rapide, cohérente, et pardonne les erreurs. Sa conception fait appel à l'ergonomie et à la psychologie.",
     "details": {
       "definition": "Moyen, matériel ou logiciel, par lequel une personne commande un produit informatique et en reçoit des informations.",
       "exemple": "Sur un smartphone, l'écran tactile, les icônes et les menus forment l'interface : on touche, et l'appareil répond.",
@@ -5643,11 +5643,11 @@
         },
         {
           "titre": "De la carte perforée à l'écran",
-          "texte": "De 1945 à 1968, l'ère du traitement par lots : on préparait des cartes perforées, on les déposait dans une file d'attente et on attendait le résultat imprimé. La machine coûtait si cher que c'était à l'humain de s'adapter à elle. Il fallait souvent des jours pour obtenir une réponse, parfois quelques heures. Les interfaces interactives sont venues plus tard."
+          "texte": "De 1945 à 1968 environ, c'est l'ère du traitement par lots. On perforait ses cartes sur une machine à part, on les déposait dans une file d'attente, puis on attendait le résultat imprimé : parfois un simple avis d'abandon, avec la liste des erreurs. La machine coûtait si cher que c'était à l'humain de s'adapter à elle. La réponse prenait souvent des jours, quelques heures avec de la chance. Les interfaces interactives sont venues ensuite."
         }
       ],
       "anecdotes": [
-        "À l'ère du traitement par lots, le délai pouvait se compter en jours, et la réponse était parfois un simple avis d'abandon, accompagné de la liste des erreurs."
+        "Pour distinguer l'interface de l'« expérience utilisateur », une image célèbre compare l'interface à la cuillère et le produit au bol de céréales : l'expérience utilisateur, c'est ce que l'on ressent en mangeant les céréales avec la cuillère."
       ],
       "wikipedia": "Interface utilisateur"
     },
@@ -5752,7 +5752,7 @@
       "sections": [
         {
           "titre": "Une machine née dans un laboratoire d'étudiants",
-          "texte": "Tout commence en 1985 avec ChipTest, imaginé par trois étudiants dont Feng-hsiung Hsu et Murray Campbell. Son successeur, Deep Thought, fait référence au Guide du voyageur galactique de Douglas Adams. Hsu et Campbell rejoignent IBM en 1989. Après les défaites contre Kasparov, un concours rebaptise la machine Deep Blue, clin d'œil au surnom d'IBM, « Big Blue »."
+          "texte": "Tout commence en 1985 avec ChipTest, imaginé par trois étudiants dont Feng-hsiung Hsu et Murray Campbell. Son successeur, Deep Thought, fait référence au Guide du voyageur galactique de Douglas Adams. Hsu et Campbell rejoignent IBM en 1989. Après la défaite de Deep Thought face à Kasparov cette année-là, un concours rebaptise la machine Deep Blue, clin d'œil au surnom d'IBM, « Big Blue »."
         },
         {
           "titre": "Comment elle « réfléchit »",
@@ -5760,7 +5760,7 @@
         },
         {
           "titre": "Deux matchs, une revanche refusée",
-          "texte": "Au match de 1996, Kasparov s'impose 4 à 2, malgré une première partie perdue. En 1997, la machine a vu sa vitesse doublée et gagne 3,5 à 2,5. Elle puisait dans une bibliothèque d'ouvertures tirée de 700 000 parties de grands maîtres. Kasparov réclame une revanche, mais IBM a démonté la machine : deux de ses armoires sont exposées aujourd'hui dans des musées américains."
+          "texte": "Au match de 1996, Kasparov s'impose 4 à 2, malgré une première partie perdue. En 1997, la machine a vu sa vitesse doublée et gagne 3,5 à 2,5. Elle puisait dans une bibliothèque d'ouvertures tirée de 700 000 parties de grands maîtres. Kasparov réclame une revanche, mais IBM a démonté la machine : ses deux armoires sont aujourd'hui conservées dans des musées américains."
         }
       ],
       "anecdotes": [
@@ -5791,7 +5791,7 @@
         },
         {
           "titre": "Quels matériaux, quelles lumières",
-          "texte": "Le silicium domine, mais d'autres semi-conducteurs, comme le germanium ou l'arséniure de gallium, servent aux diodes laser et aux cellules solaires. Dans une jonction P-N, un électron qui tombe dans un « trou » peut libérer un photon : c'est le principe de la diode électroluminescente. Fabriquer ces cristaux exige une pureté extrême, car le moindre défaut perturbe le comportement du matériau."
+          "texte": "Le silicium domine, mais il existe des dizaines d'autres semi-conducteurs, comme le germanium ou le carbure de silicium. L'arséniure de gallium, le plus utilisé après le silicium, sert aux diodes laser et à certaines cellules solaires. Dans une jonction P-N, un électron qui tombe dans un « trou » peut libérer un photon : c'est le principe de la diode électroluminescente. Fabriquer ces cristaux exige une pureté extrême, car le moindre défaut perturbe le comportement du matériau."
         }
       ],
       "anecdotes": [
@@ -5818,15 +5818,16 @@
         },
         {
           "titre": "Du sable à la puce",
-          "texte": "On l'obtient en chauffant du quartz ou du sable avec du coke dans un four à arc électrique : on arrive à 96-99 % de pureté. Pour l'électronique, il faut bien davantage : il est purifié puis cristallisé en gros cylindres, découpés en fines tranches appelées « wafers ». Moins de 15 % du silicium produit sert ainsi à l'électronique. Le reste va au verre, au ciment ou aux silicones."
+          "texte": "On l'obtient en chauffant du quartz ou du sable avec du coke dans un four à arc électrique : on arrive à 96-99 % de pureté. Pour l'électronique, il faut bien davantage : il est purifié puis cristallisé en gros cylindres, découpés en fines tranches appelées « wafers ». Seule une petite part du silicium produit, moins de 15 %, est ainsi ultrapurifiée pour l'électronique. Le reste sert notamment aux alliages, comme le ferrosilicium, et aux silicones."
         },
         {
           "titre": "Un élément partout, pas seulement dans les puces",
-          "texte": "Sous forme de silice, le silicium compose le verre, connu des Égyptiens dès 1500 av. J.-C. au moins Ses composés entrent dans le mortier, le béton et la porcelaine, et forment les silicones. Certains êtres vivants, comme les diatomées, fabriquent un squelette de silice. Son succès a même donné des surnoms à des régions : Silicon Valley en Californie, Silicon Wadi en Israël, Silicon Fen près de Cambridge."
+          "texte": "Sous forme de silice, le silicium compose le verre, fabriqué par les Égyptiens depuis au moins 1500 av. J.-C. Ses composés entrent dans le mortier, le béton et la porcelaine, et forment les silicones. Certains êtres vivants, comme les diatomées, fabriquent un squelette de silice. Son succès a même donné des surnoms à des régions : Silicon Valley en Californie, Silicon Wadi en Israël, Silicon Fen près de Cambridge."
         }
       ],
       "anecdotes": [
-        "En 1955, Carl Frosch et Lincoln Derick, chez Bell Labs, découvrent par hasard que le silicium se couvre facilement d'une couche de silice isolante. Cet accident est devenu une clé de la fabrication des transistors. Quant à la Silicon Valley, elle a pris son nom de ce matériau, base de l'industrie des puces de la région."
+        "En 1955, Carl Frosch et Lincoln Derick, chez Bell Labs, découvrent par hasard que l'on peut faire croître une couche de silice isolante à la surface du silicium. Cet accident est devenu une clé de la fabrication des transistors.",
+        "En anglais, l'élément s'appelle « silicon » et non « silicium » : en 1817, le chimiste écossais Thomas Thomson change la terminaison choisie par Davy, car il le croit non métallique, comme le bore (boron) et le carbone (carbon)."
       ],
       "wikipedia": "Silicium"
     },
@@ -5849,7 +5850,7 @@
         },
         {
           "titre": "Les étapes d'une révolution discrète",
-          "texte": "En 1981, Gerd Binnig et Heinrich Rohrer, de chez IBM, inventent le microscope à effet tunnel, qui permet de voir des atomes ; ils reçoivent le prix Nobel de physique en 1986. En 1985 sont découverts les fullerènes, des cages de 60 atomes de carbone, puis les nanotubes en 1991. Des produits courants en profitent, comme certaines crèmes solaires. Les effets des nanoparticules sur la santé font l'objet de recherches."
+          "texte": "En 1981, Gerd Binnig et Heinrich Rohrer, chez IBM, inventent le microscope à effet tunnel, qui permet de voir des atomes un par un ; ils reçoivent le prix Nobel de physique en 1986. Son cousin, le microscope à force atomique, observe aussi les matériaux non conducteurs. En 1985 est découvert le C60, une cage de 60 atomes de carbone en forme de ballon de football, premier des fullerènes : ses découvreurs reçoivent le Nobel de chimie en 1996. Les nanotubes de carbone sont attribués au Japonais Sumio Iijima, en 1991."
         },
         {
           "titre": "Des produits, des promesses, des questions",
@@ -5876,15 +5877,15 @@
       "sections": [
         {
           "titre": "Le principe : des qubits et leurs interférences",
-          "texte": "Un qubit, quand on le mesure, donne 0 ou 1 selon une règle de probabilité. Le programme agence les opérations de façon que les bonnes réponses se renforcent, comme des vagues qui s'additionnent, et que les mauvaises s'annulent. Le grand ennemi est la décohérence : le moindre contact avec l'environnement brouille l'état quantique. D'où des machines très isolées, à base de circuits supraconducteurs ou de particules piégées."
+          "texte": "Un qubit, quand on le mesure, donne 0 ou 1 selon une règle de probabilité. Le programme agence les opérations de façon que les bonnes réponses se renforcent, comme des vagues qui s'additionnent, et que les mauvaises s'annulent. Le grand ennemi est la décohérence : le moindre contact avec l'environnement brouille l'état quantique. D'où des machines très isolées, à base de circuits supraconducteurs ou d'ions piégés par des champs électromagnétiques."
         },
         {
           "titre": "À quoi cela servirait, et où en est-on",
-          "texte": "L'idée remonte à Richard Feynman et Yuri Manin, qui voulaient simuler la nature quantique. En 1994, Peter Shor propose une méthode de factorisation rapide, qui menacerait certains systèmes de chiffrement actuels ; les chercheurs travaillent donc déjà à une cryptographie dite post-quantique pour s'en protéger. En 2019, Google annonce une « suprématie quantique » avec 54 qubits ; IBM juge le calcul réalisable bien plus vite sur un supercalculateur classique."
+          "texte": "L'idée remonte à Richard Feynman et Yuri Manin, qui voulaient simuler la nature quantique. En 1994, Peter Shor propose une méthode de factorisation rapide, qui menacerait certains systèmes de chiffrement actuels ; les chercheurs travaillent donc déjà à une cryptographie dite post-quantique pour s'en protéger. En 2019, Google annonce une « suprématie quantique » avec 54 qubits, pour un calcul qui aurait pris selon lui 10 000 ans à un supercalculateur ; IBM réplique qu'il serait faisable en deux jours et demi environ sur sa machine Summit."
         },
         {
           "titre": "D'autres algorithmes, d'autres machines",
-          "texte": "L'algorithme de Grover, en 1996, accélère la recherche dans une liste non triée, comme retrouver un nom dans un annuaire sans ordre. En 1998, une machine à deux qubits montre que le principe fonctionne. Les qubits sont réalisés avec des circuits supraconducteurs ou des ions piégés par des champs électromagnétiques. Ces machines restent surtout des outils de recherche, adaptés à quelques tâches précises."
+          "texte": "L'algorithme de Grover, en 1996, accélère la recherche dans une liste non triée, comme retrouver un nom dans un annuaire sans ordre. La même année, Seth Lloyd montre qu'une telle machine pourrait simuler des systèmes quantiques bien plus efficacement qu'un ordinateur classique, comme l'espérait Feynman. En 1998, une machine à deux qubits prouve que le principe fonctionne. En décembre 2024, Google annonce dans la revue Nature une puce de 105 qubits qui boucle en moins de cinq minutes un calcul hors de portée des meilleurs supercalculateurs."
         }
       ],
       "anecdotes": [
@@ -5915,7 +5916,7 @@
         },
         {
           "titre": "Des usines à la maison",
-          "texte": "Les premiers robots industriels, coûteux, apparaissent au début des années 1970 pour des tâches répétitives ou toxiques, comme souder ou peindre des carrosseries. On en trouve aujourd'hui en chirurgie, dans l'agriculture et chez les particuliers. Le vocabulaire se nuance : un androïde ressemble à un humain, un cyborg mêle organes et pièces artificielles, et un « bot » est un robot logiciel, sans corps."
+          "texte": "Malgré leur coût élevé, les robots industriels se répandent au début des années 1970 pour des tâches répétitives ou toxiques, comme souder ou peindre des carrosseries. On en trouve aujourd'hui en chirurgie, dans l'agriculture et chez les particuliers. Le vocabulaire se nuance : un androïde ressemble à un humain, un cyborg mêle organes et pièces artificielles, et un « bot » est un robot logiciel, sans corps."
         }
       ],
       "anecdotes": [
@@ -5977,7 +5978,7 @@
         },
         {
           "titre": "Quelques repères chiffrés",
-          "texte": "Selon l'AIEA, fin 2024, on comptait environ 415 réacteurs de puissance en service sur la planète et 63 en construction, dont 29 en Chine. En 2023, les États-Unis (près d'un tiers du total mondial) devançaient la Chine, la France et la Russie pour la production d'électricité nucléaire. Construire une centrale prend souvent cinq à dix ans : elle sert donc surtout à fournir en continu la base de la consommation."
+          "texte": "Selon l'AIEA, en novembre 2024, on comptait 415 réacteurs de puissance en service sur la planète et 63 en construction, dont 29 en Chine. En 2023, les États-Unis (près d'un tiers du total mondial) devançaient la Chine, la France et la Russie pour la production d'électricité nucléaire. Construire une centrale prend souvent cinq à dix ans : elle sert donc surtout à fournir en continu la base de la consommation."
         }
       ],
       "anecdotes": [
@@ -6004,7 +6005,7 @@
         },
         {
           "titre": "De Poul La Cour aux géantes de mer",
-          "texte": "Charles Brush construit en 1888 une grande éolienne pour alimenter sa maison. En 1890, le Danois Poul La Cour met au point la première éolienne industrielle productrice d'électricité. Après le choc pétrolier de 1973, le Danemark relance la filière. Installé à Rotterdam en 2019, un prototype nommé Haliade X atteignait 12 MW et 260 m de haut. Comme le vent varie, il faut du stockage ou des centrales d'appoint."
+          "texte": "Dès 1883, une éolienne entraîne une dynamo à l'Exposition internationale d'électricité de Vienne, et en 1888 l'Américain Charles Brush en construit une grande pour alimenter sa maison. En 1890, le Danois Poul La Cour met au point l'une des premières éoliennes « industrielles » productrices d'électricité. Après le choc pétrolier de 1973, le Danemark relance la filière. Installé à Rotterdam en 2019, un prototype nommé Haliade X atteignait 12 MW et 260 m de haut. Comme le vent varie, il faut du stockage ou des centrales d'appoint."
         },
         {
           "titre": "Du moulin à la turbine géante",
@@ -6031,7 +6032,7 @@
       "sections": [
         {
           "titre": "Résister à la poussée de l'eau",
-          "texte": "Le grand défi est la pression de l'eau, qui pousse sur le mur. Elle croît comme le carré de la profondeur de l'eau, mais ne dépend pas du volume stocké : un petit lac profond pousse plus qu'un vaste lac peu profond. Le barrage-poids résiste par sa masse. Le barrage-voûte, courbé, reporte les efforts sur les flancs de la vallée. Le barrage en remblai est un grand tas de terre ou de roches compactées."
+          "texte": "Le grand défi est la poussée de l'eau sur le mur. Elle croît comme le carré de la hauteur de la retenue, mais ne dépend pas du volume stocké : à largeur égale, un petit lac profond pousse plus fort qu'un vaste lac peu profond. Pour y résister, deux stratégies : un ouvrage assez massif pour tenir par son seul poids, ou un mur courbé qui reporte les efforts sur les flancs rocheux de la vallée. Le choix dépend d'abord de la géologie : un barrage-poids en béton exige une solide fondation rocheuse."
         },
         {
           "titre": "Des bienfaits et des coûts",
@@ -6043,7 +6044,7 @@
         }
       ],
       "anecdotes": [
-        "Près d'Aix-en-Provence, François Zola, père de l'écrivain Émile Zola, a bâti de 1843 à 1859 le premier barrage-voûte moderne. Plus ancien encore, Sadd el-Kafara en Égypte, vers 3000 av. J.-C., est aussi le premier à avoir cédé : sa rupture a sans doute stoppé sa construction pour mille ans."
+        "Près d'Aix-en-Provence, François Zola, père de l'écrivain Émile Zola, a bâti de 1843 à 1859 le premier barrage-voûte moderne. Bien plus ancien, Sadd el-Kafara, en Égypte, bâti vers 3000 av. J.-C., a connu la plus ancienne rupture de barrage connue : elle a sans doute freiné la construction de barrages pendant un millénaire."
       ],
       "wikipedia": "Barrage"
     },
@@ -6070,7 +6071,7 @@
         },
         {
           "titre": "Un atout pour l'espace",
-          "texte": "Dans l'espace, la pile à combustible est idéale : l'hydrogène et l'oxygène se trouvent déjà dans les réservoirs, et elle fournit à la fois du courant et de l'eau potable. Le programme Gemini a été la première utilisation commerciale d'une pile, conçue chez General Electric, puis le modèle de Francis Bacon a inspiré celles des missions Apollo. La pile à oxyde solide, elle, travaille vers 600 à 800 °C."
+          "texte": "Dans l'espace, la pile à combustible est idéale : l'hydrogène et l'oxygène se trouvent déjà dans les réservoirs, et elle fournit à la fois du courant et de l'eau potable. Le programme Gemini en a été la première utilisation commerciale, avec une pile conçue chez General Electric. Puis la pile alcaline de l'ingénieur anglais Francis Bacon, qui présente un modèle de 5 kW en 1959, sert de modèle à celles des missions Apollo."
         }
       ],
       "anecdotes": [
@@ -6092,12 +6093,12 @@
     "details": {
       "sections": [
         {
-          "titre": "Un gaz léger, pas une source d'énergie",
-          "texte": "Pour l'isoler, Henry Cavendish le décrit en 1766 comme un « air inflammable », car il brûle en donnant de l'eau ; Lavoisier le baptise ensuite. Le gaz utilisé s'appelle le dihydrogène, H2. Il est incolore, inodore et très inflammable : sa flamme est presque invisible en plein jour. On le fabrique presque toujours à partir de combustibles fossiles, plus rarement par électrolyse de l'eau. Il sert surtout au raffinage du pétrole et aux engrais, via l'ammoniac."
+          "titre": "Un gaz découvert en 1766",
+          "texte": "Henry Cavendish l'isole en 1766 et le nomme « air inflammable », car il brûle en donnant de l'eau ; Lavoisier le baptise ensuite hydrogène. Le gaz courant s'appelle en fait le dihydrogène, H2. Il est incolore, inodore et très inflammable : sa flamme est presque invisible en plein jour. On le fabrique presque toujours à partir de combustibles fossiles, plus rarement par électrolyse de l'eau, plus coûteuse. Il sert surtout au raffinage du pétrole et aux engrais, via l'ammoniac."
         },
         {
           "titre": "Un vecteur d'énergie",
-          "texte": "L'hydrogène n'est pas présent librement en quantité sur Terre : c'est un vecteur d'énergie, qu'il faut d'abord produire, comme une batterie à gaz. Dans une pile à combustible, il redonne de l'électricité en ne rejetant que de l'eau. Son rendement global reste toutefois limité par les pertes à chaque étape, de la production au stockage. L'hydrogène est unique : chacune de ses variantes (isotopes) a son propre nom, protium, deutérium et tritium."
+          "texte": "L'hydrogène n'est pas présent librement en quantité sur Terre : c'est un vecteur d'énergie, qu'il faut d'abord produire, un peu comme on charge une batterie. Dans une pile à combustible, il redonne de l'électricité en ne rejetant que de l'eau. Son rendement global reste toutefois limité par les pertes à chaque étape, de la production au stockage. Autre singularité : c'est le seul élément dont chaque isotope porte un nom propre, protium, deutérium et tritium."
         },
         {
           "titre": "Au cœur des étoiles et des planètes",
@@ -6167,7 +6168,8 @@
         }
       ],
       "anecdotes": [
-        "Les voitures électriques sont si silencieuses à basse vitesse que la réglementation les oblige à émettre un son pour avertir les piétons : aux États-Unis depuis 2019 sous 30 km/h, et en Europe depuis juillet 2019."
+        "Les voitures électriques sont si silencieuses à basse vitesse que la réglementation les oblige à émettre un son pour avertir les piétons : aux États-Unis depuis 2019 sous 30 km/h, et en Europe depuis juillet 2019.",
+        "En 1899, c'est une voiture électrique en forme d'obus, « La Jamais Contente », pilotée par le Belge Camille Jenatzy, qui franchit la première la barre des 100 km/h, avec 105,88 km/h."
       ],
       "wikipedia": "Voiture électrique"
     },
@@ -6194,7 +6196,7 @@
         },
         {
           "titre": "Comment on motorise un train",
-          "texte": "La motorisation répartie place des moteurs sur de nombreux essieux tout au long de la rame, comme sur le Shinkansen. La motorisation concentrée regroupe l'essentiel dans deux motrices aux extrémités, comme sur les TGV. Les trains sur coussin magnétique, comme le Transrapid de Shanghai ouvert en 2004, ne touchent pas le rail et atteignent 400 km/h en service commercial."
+          "texte": "La motorisation répartie place des moteurs sur de nombreux essieux tout au long de la rame, comme sur le Shinkansen. La motorisation concentrée regroupe l'essentiel dans deux motrices aux extrémités, comme sur les TGV. Les trains à sustentation magnétique, eux, ne touchent pas le rail : le Transrapid de Shanghai, ouvert en 2004, a été la première ligne de ce type à grande vitesse, avec 400 km/h en service commercial."
         }
       ],
       "anecdotes": [
@@ -6252,15 +6254,15 @@
         },
         {
           "titre": "De l'Antiquité aux gratte-ciel",
-          "texte": "Vitruve attribue à Archimède un appareil élévateur, en 236 av. J.-C. Au Colisée, environ 25 ascenseurs hissaient des animaux dans l'arène. En 1743, des « chaises volantes » équilibrées par un contrepoids permettent à une favorite de Louis XV de monter à son étage de Versailles. Léon Edoux invente le mot « ascenseur » en 1864 pour son élévateur hydraulique, puis, en 1880, Werner von Siemens dévoile à Mannheim le premier modèle électrique. La tour Eiffel s'ouvre en 1889 avec des ascenseurs hydrauliques."
+          "texte": "L'architecte romain Vitruve attribue à Archimède un appareil élévateur, construit sans doute vers 236 av. J.-C. Au Colisée, environ 25 ascenseurs hissaient des animaux dans l'arène. En 1743, des « chaises volantes » équilibrées par un contrepoids permettent à une favorite de Louis XV de monter à son étage de Versailles. Léon Edoux invente le mot « ascenseur » en 1864 pour son élévateur hydraulique, puis, en 1880, Werner von Siemens dévoile à Mannheim le premier modèle électrique. La tour Eiffel s'ouvre en 1889 avec des ascenseurs hydrauliques."
         },
         {
           "titre": "Paternoster, portes et hydraulique",
-          "texte": "Le paternoster, né en Angleterre en 1884, est une chaîne de cabines ouvertes qui ne s'arrêtent jamais ; il a été abandonné peu à peu, faute de sécurité. En 1887, Alexander Miles brevette des portes qui s'ouvrent et se ferment seules à l'étage, et dès 1924 apparaît un ascenseur sans liftier. Dans le modèle hydraulique, un piston poussé par de l'huile soulève la cabine, solution réservée aux bâtiments de peu d'étages."
+          "texte": "Le paternoster, apparu en Angleterre à la fin du XIXe siècle, est une chaîne de cabines ouvertes qui ne s'arrêtent jamais ; il a été abandonné peu à peu, faute de sécurité. En 1887, Alexander Miles brevette des portes qui s'ouvrent et se ferment seules à l'étage, et dans les années 1920 l'ascenseur sans liftier se répand. Dans le modèle hydraulique, un piston poussé par de l'huile soulève la cabine, solution réservée aux bâtiments de peu d'étages."
         }
       ],
       "anecdotes": [
-        "En 1854, au Crystal Palace de New York, Otis se tient sur une plate-forme de levage et fait trancher à coups de hache la corde qui la soutient : le frein-parachute bloque tout. Quant à l'expression « renvoyer l'ascenseur », elle vient du bouton « Renvoi » des anciens ascenseurs, qui permettait de le renvoyer à l'étage suivant pour diminuer l'attente."
+        "En 1854, au Crystal Palace de New York, Otis se tient sur une plate-forme de levage et fait trancher à coups de hache la corde qui la soutient : le frein-parachute bloque tout. Quant à l'expression « renvoyer l'ascenseur », elle vient du bouton « Renvoi » des anciens ascenseurs, qui permettait de le renvoyer au rez-de-chaussée, d'où venait le plus souvent l'appel suivant, pour diminuer l'attente."
       ],
       "wikipedia": "Ascenseur"
     },
@@ -6274,7 +6276,7 @@
     "type": "classique",
     "title": "Concorde",
     "subtitle": "Avion de ligne supersonique franco-britannique, en service de 1976 à 2003",
-    "summary": "Le Concorde est le premier avion de ligne supersonique franco-britannique. Il croisait à Mach 2,04, soit environ 2 172 km/h, à 16 000 à 18 000 mètres d'altitude, et divisait par deux le temps de traversée de l'Atlantique.\nIl a volé pour la première fois en 1969 et transporté des passagers de 1976 à 2003. Seuls vingt exemplaires ont été construits, dont six pour les essais.",
+    "summary": "Le Concorde est un avion de ligne supersonique franco-britannique. Il croisait à Mach 2,04, soit environ 2 172 km/h, à 16 000 à 18 000 mètres d'altitude, et divisait par deux le temps de traversée de l'Atlantique.\nIl a volé pour la première fois en 1969 et transporté des passagers de 1976 à 2003. Seuls vingt exemplaires ont été construits, dont six pour les essais.",
     "details": {
       "sections": [
         {
@@ -6310,11 +6312,11 @@
       "sections": [
         {
           "titre": "Pourquoi cette bosse ?",
-          "texte": "À l'origine, Juan Trippe, le patron de la compagnie Pan Am, demande à Boeing un avion deux fois plus gros que le 707 pour désengorger les aéroports. Mais on pense alors que les avions supersoniques vont bientôt prendre le relais pour les passagers. Boeing place donc le cockpit au-dessus de la cabine pour pouvoir ouvrir une porte cargo dans le nez, afin de transformer facilement l'avion en cargo si les ventes de passagers baissaient."
+          "texte": "À l'origine, Juan Trippe, le patron de la compagnie Pan Am, demande à Boeing un avion bien plus gros que le 707 pour désengorger les aéroports. Mais on pense alors que les avions supersoniques vont bientôt prendre le relais pour les passagers. Boeing place donc le cockpit au-dessus de la cabine pour pouvoir ouvrir une porte cargo dans le nez, afin de transformer facilement l'avion en cargo si les ventes de passagers baissaient."
         },
         {
           "titre": "Un pari industriel",
-          "texte": "Pan Am commande 25 appareils en avril 1966, pour 525 millions de dollars. Il fallait construire l'avion en 28 mois et une usine géante à Everett, près de Seattle. Les moteurs, des turboréacteurs à double flux comme le JT9D de Pratt & Whitney, devaient offrir une poussée double de celle des anciens, avec un tiers de carburant en moins. Boeing comptait en vendre 400 : il en a construit 1 574, jusqu'au dernier livré en janvier 2023."
+          "texte": "Pan Am commande 25 appareils en avril 1966, pour 525 millions de dollars. Il fallait concevoir l'avion en 28 mois, soit les deux tiers du délai habituel, et bâtir une usine géante à Everett, près de Seattle. Les moteurs, des turboréacteurs à double flux comme le JT9D de Pratt & Whitney, devaient offrir une poussée double de celle des anciens, avec un tiers de carburant en moins. On le croyait condamné à devenir obsolète après 400 ventes : il en a été construit 1 574, jusqu'au dernier livré en janvier 2023."
         },
         {
           "titre": "Des versions pour tous les usages",
@@ -6322,7 +6324,7 @@
         }
       ],
       "anecdotes": [
-        "Pour tenir les délais, les équipes du programme ont été surnommées « Les Incroyables ». À Everett, l'usine, plus grand bâtiment du monde par son volume, était si pressée que une maquette grandeur nature du 747 a été montée avant même que son toit ne soit terminé."
+        "Pour tenir les délais, les équipes du programme ont été surnommées « Les Incroyables ». À Everett, l'usine, plus grand bâtiment du monde par son volume, était si pressée qu'une maquette grandeur nature du 747 y a été montée avant même que son toit ne soit terminé."
       ],
       "wikipedia": "Boeing 747"
     },
@@ -6341,7 +6343,7 @@
       "sections": [
         {
           "titre": "Les quatre temps du moteur",
-          "texte": "L'air entre par l'avant et un compresseur, sorte de roue à pales multiples, l'écrase. Dans la chambre de combustion, le carburant y brûle. Les gaz traversent alors une turbine, qui les freine un peu pour entraîner le compresseur, puis sortent par la tuyère, où ils sont accélérés en jet. Dans les modèles à double flux, une partie de l'air contourne le cœur du moteur et fournit une poussée plus économique."
+          "texte": "L'air entre par l'avant et un compresseur, sorte de roue à pales multiples, l'écrase. Dans la chambre de combustion, le carburant brûle dans cet air comprimé. Les gaz traversent alors une turbine, qui leur prend un peu d'énergie pour entraîner le compresseur, puis sortent par la tuyère, où ils sont accélérés en jet. Dans les modèles à double flux, une partie de l'air contourne le cœur du moteur et fournit une poussée plus économique."
         },
         {
           "titre": "Des premiers essais à l'aviation civile",
@@ -6505,11 +6507,11 @@
         },
         {
           "titre": "De 1881 à aujourd'hui",
-          "texte": "Dès 1881, le Théâtrophone permettait d'écouter l'opéra par téléphone. Dès 1995, RealNetworks retransmet une rencontre de baseball sur Internet. YouTube lance la vidéo en direct en 2008. Selon un rapport de 2018, le streaming représentait 58 % de la bande passante mondiale. Côté musique, les abonnés passent de 8 millions en 2010 à 68 millions en 2015."
+          "texte": "Dès 1881, le Théâtrophone permettait d'écouter l'opéra par téléphone. En 1995, RealNetworks retransmet un match de baseball sur Internet. En 2008, YouTube annonce l'arrivée de la vidéo en direct sur son site. Selon un rapport de 2018, le streaming représentait 58 % de la bande passante mondiale. Côté musique, les abonnés passent de 8 millions en 2010 à 68 millions en 2015."
         }
       ],
       "anecdotes": [
-        "Un soir de juin 1993 (le 24), au Xerox PARC, Severe Tire Damage devient le premier groupe à jouer en direct sur Internet, regardé jusqu'en Australie. Le musicien Russ Haines dit que le concert a utilisé « la moitié de la bande passante d'Internet » pour une vidéo de 152 × 76 pixels."
+        "Le 24 juin 1993, au Xerox PARC, Severe Tire Damage devient le premier groupe à jouer en direct sur Internet, regardé jusqu'en Australie. Selon Russ Haines, membre du groupe, le concert a mobilisé « la moitié de la bande passante d'Internet » pour une vidéo de 152 × 76 pixels."
       ],
       "wikipedia": "Streaming"
     },
@@ -6523,7 +6525,7 @@
     "type": "vocabulaire",
     "title": "Hacker",
     "subtitle": "Passionné d'informatique, mot né au MIT en 1959",
-    "summary": "À l'origine, un hacker est un bidouilleur passionné qui adore comprendre et détourner de façon ingénieuse le fonctionnement des machines. Le mot naît en 1959 chez des étudiants du MIT, dans un club de modélisme ferroviaire.\nAujourd'hui, le grand public l'utilise surtout pour désigner un intrus informatique. Les deux sens coexistent, d'où de fréquentes confusions.",
+    "summary": "À l'origine, un hacker est un bidouilleur passionné qui adore comprendre et détourner de façon ingénieuse le fonctionnement des machines. Ce sens naît en 1959 chez des étudiants du MIT, dans un club de modélisme ferroviaire.\nAujourd'hui, le grand public l'utilise surtout pour désigner un intrus informatique. Les deux sens coexistent, d'où de fréquentes confusions.",
     "details": {
       "definition": "Un hacker est une personne qui explore et détourne avec virtuosité le fonctionnement des systèmes informatiques ; par extension, quelqu'un qui contourne une protection.",
       "exemple": "Un spécialiste engagé par une entreprise pour tester ses défenses, avec son accord et dans des limites fixées, travaille légalement comme hacker « éthique ».",
@@ -6540,11 +6542,11 @@
       "sections": [
         {
           "titre": "Les étudiants du MIT",
-          "texte": "Le dictionnaire du Tech Model Railroad Club, rédigé en 1959, définit le hack comme une entreprise sans but constructif. Ces étudiants bricolaient des circuits téléphoniques pour leurs trains miniatures, puis les premiers ordinateurs. En 1962, certains programment Spacewar!, l'un des premiers jeux vidéo. En 1984, Steven Levy résume leurs valeurs dans une « éthique hacker »."
+          "texte": "Le dictionnaire du Tech Model Railroad Club, rédigé en 1959, définit le hack comme une entreprise sans but constructif, menée pour le plaisir. Ces étudiants bricolaient les circuits à relais de leurs trains miniatures, puis les premiers ordinateurs du MIT. En 1962, certains programment Spacewar!, l'un des premiers jeux vidéo. En 1984, Steven Levy résume leurs valeurs dans une « éthique hacker »."
         },
         {
           "titre": "Un mot, plusieurs sens",
-          "texte": "Dans les années 1980, les arrestations et le film WarGames (1983) associent le mot aux intrusions. Les États-Unis adoptent en 1986 une loi sur la fraude informatique. On distingue depuis le chapeau blanc (professionnel autorisé), le chapeau noir (hors la loi) et le chapeau gris. Les concours de programmation, ou hackathons, ont gardé le sens positif."
+          "texte": "Dans les années 1980, les arrestations et le film WarGames (1983) associent le mot aux intrusions. Les États-Unis adoptent en 1986 une loi sur la fraude informatique. On distingue depuis le chapeau blanc (professionnel autorisé), le chapeau noir (hors la loi) et le chapeau gris, qui agit sans permission mais sans intention de nuire. Les hackathons, rencontres où l'on invente des solutions en équipe, ont gardé le sens positif."
         }
       ],
       "anecdotes": [
@@ -6579,7 +6581,7 @@
       "sections": [
         {
           "titre": "Principe et histoire",
-          "texte": "Le rançongiciel arrive souvent par une pièce jointe ou un lien piégé. Le programme chiffre alors les fichiers, puis affiche les instructions de paiement. Le premier connu, le « cheval de Troie du sida » de Joseph Popp en 1989, demandait 189 dollars, mais sa clé était cachée dans son propre code. En 1996, Adam Young et Moti Yung ont imaginé le chiffrement à clé publique, plus solide."
+          "texte": "Le rançongiciel arrive souvent par une pièce jointe ou un lien piégé. Le programme chiffre alors les fichiers, puis affiche les instructions de paiement. Le premier connu, le « cheval de Troie du sida » de Joseph Popp en 1989, demandait 189 dollars ; mais il utilisait la même clé pour chiffrer et déchiffrer, et cette clé, présente dans son code, a pu être retrouvée. En 1996, Adam Young et Moti Yung proposent d'y employer le chiffrement à clé publique, bien plus difficile à contourner."
         },
         {
           "titre": "Se protéger",
@@ -6601,7 +6603,7 @@
     "type": "vocabulaire",
     "title": "Authentification à deux facteurs",
     "subtitle": "Méthode de connexion exigeant deux preuves d'identité",
-    "summary": "L'authentification à deux facteurs, ou double authentification, demande deux preuves distinctes pour entrer dans un compte : par exemple un mot de passe puis un code temporaire reçu sur le téléphone.\nC'est comme une porte à deux serrures : même si quelqu'un découvre votre mot de passe, il lui manque encore la seconde preuve. Votre carte bancaire au distributeur en est l'exemple le plus ancien.",
+    "summary": "L'authentification à deux facteurs, ou double authentification, demande deux preuves distinctes pour entrer dans un compte : par exemple un mot de passe puis un code temporaire reçu sur le téléphone.\nC'est comme une porte à deux serrures : même si quelqu'un découvre votre mot de passe, il lui manque encore la seconde preuve. Le retrait au distributeur, qui exige la carte bancaire et le code, en est un exemple familier.",
     "details": {
       "definition": "La double authentification (A2F ou 2FA) est une méthode où l'on n'accède à un compte qu'après avoir présenté deux preuves d'identité de nature différente.",
       "exemple": "Au distributeur de billets, il faut la carte (ce que l'on possède) et le code secret (ce que l'on sait). Sur un site, c'est le mot de passe plus un code à usage unique.",
@@ -6622,11 +6624,11 @@
         },
         {
           "titre": "Des limites à connaître",
-          "texte": "Le code par SMS est pratique mais moins solide : un téléphone peut être cloné ou compromis. Des clés physiques compatibles avec la norme FIDO2, prises en charge par les navigateurs courants depuis 2015, offrent une meilleure protection. Ces objets peuvent toutefois se perdre ou se faire voler, d'où l'intérêt d'avoir un moyen de secours."
+          "texte": "Le code par SMS est pratique mais moins solide : un téléphone peut être cloné ou compromis. Les clés physiques de sécurité, aujourd'hui conformes à la norme FIDO2 et reconnues par les navigateurs courants depuis le milieu des années 2010, offrent une meilleure protection. Ces objets peuvent toutefois se perdre ou se faire voler, d'où l'intérêt d'avoir un moyen de secours."
         }
       ],
       "anecdotes": [
-        "Le principe de l'envoi d'un code par un second canal existe depuis 1996 : AT&T décrivait alors un système d'autorisation de transactions fondé sur des échanges de codes avec des messageurs bidirectionnels, les ancêtres du SMS."
+        "L'idée d'un code envoyé par un second canal est décrite dès 1996 : AT&T imaginait alors un système d'autorisation de transactions fondé sur des échanges de codes par bipeurs bidirectionnels, bien avant la généralisation des smartphones."
       ],
       "wikipedia": "Double authentification"
     },
@@ -6735,7 +6737,7 @@
       "sections": [
         {
           "titre": "IPv4 et IPv6",
-          "texte": "L'IPv4 est codée sur 32 bits, soit quatre nombres de 0 à 255 : environ 4 milliards d'adresses possibles. L'IPv4 est employée depuis 1983. Les blocs libres ont été épuisés en février 2011. L'IPv6, codée sur 128 bits, offre un espace immense. Pour gagner du temps, la traduction d'adresses (NAT) permet à de nombreux appareils de partager une adresse publique."
+          "texte": "L'IPv4, employée depuis 1983, est codée sur 32 bits, soit quatre nombres de 0 à 255 : environ 4 milliards d'adresses possibles. En février 2011, il ne restait plus aucun grand bloc libre à distribuer. L'IPv6, codée sur 128 bits, offre un espace immense. En attendant, la traduction d'adresses (NAT) permet à de nombreux appareils de partager une même adresse publique."
         },
         {
           "titre": "Publique, privée, dynamique",
@@ -6743,7 +6745,7 @@
         }
       ],
       "anecdotes": [
-        "Il n'existe pas d'IPv5. Le numéro 5 avait été attribué en 1979 à un protocole expérimental de transmission en continu, l'Internet Stream Protocol, qui n'a jamais été appelé ainsi. La version suivante a donc reçu le numéro 6."
+        "Il n'existe pas d'IPv5. Le numéro de version 5 avait été attribué en 1979 à un protocole expérimental de transmission en continu, l'Internet Stream Protocol, même si personne ne l'a jamais appelé IPv5. La version suivante a donc reçu le numéro 6."
       ],
       "wikipedia": "Adresse IP"
     },
@@ -6757,7 +6759,7 @@
     "type": "vocabulaire",
     "title": "Nom de domaine",
     "subtitle": "Adresse lisible d'un site ou d'un service sur Internet",
-    "summary": "Un nom de domaine est l'adresse lisible d'un site, comme wikipedia.org. Il est bien plus facile à retenir qu'une suite de chiffres comme l'adresse IP du serveur.\nIl se lit de droite à gauche : l'extension (.org, .fr) d'abord, puis le nom choisi, puis d'éventuels sous-domaines. Le premier nom de domaine enregistré au monde date du 15 mars 1985.",
+    "summary": "Un nom de domaine est l'adresse lisible d'un site, comme wikipedia.org. Il est bien plus facile à retenir qu'une suite de chiffres comme l'adresse IP du serveur, et le DNS, sorte d'annuaire d'Internet, se charge de la traduction.\nIl se lit de droite à gauche : l'extension (.org, .fr) d'abord, puis le nom choisi, puis d'éventuels sous-domaines.",
     "details": {
       "definition": "Un nom de domaine est un identifiant du système de noms de domaine (DNS) qui désigne un ensemble de serveurs sur Internet, plus simple à retenir qu'une adresse IP.",
       "exemple": "Dans tour-eiffel.paris.fr, « fr » est l'extension, « paris » le domaine, et « tour-eiffel » un sous-domaine.",
@@ -6795,7 +6797,7 @@
     "subtheme": "Vocabulaire tech",
     "type": "vocabulaire",
     "title": "Serveur informatique",
-    "subtitle": "Machine ou logiciel qui rend un service à des clients, notion née dans les années 1970",
+    "subtitle": "Machine ou logiciel qui rend un service à des clients sur un réseau",
     "summary": "Un serveur est un appareil ou un logiciel qui répond automatiquement aux demandes d'autres appareils, les clients : afficher une page web, livrer un courriel, partager un fichier ou une imprimante.\nLe mot ne désigne pas une taille de machine mais un rôle. Un petit boîtier ou une immense grappe d'ordinateurs peuvent être des serveurs.",
     "details": {
       "definition": "Dispositif, matériel ou logiciel, qui rend des services à un ou plusieurs clients, selon le modèle client-serveur.",
@@ -6813,15 +6815,15 @@
       "sections": [
         {
           "titre": "Le modèle client-serveur",
-          "texte": "Le client envoie une requête dans un format normalisé, le serveur la traite et répond. Un même serveur peut aider des milliers de clients. Il tourne sans arrêt : les constructeurs promettent 99,999 % de disponibilité, soit guère plus de 5 minutes d'arrêt sur une année. Il est souvent dans une baie, avec des disques doublés (RAID) pour éviter les pertes de données."
+          "texte": "Le client envoie une requête dans un format normalisé, le serveur la traite et répond. Un même serveur peut aider des milliers de clients. Il tourne sans arrêt : les constructeurs annoncent souvent 99,999 % de disponibilité, soit à peine plus de 5 minutes d'arrêt par an, même si la réalité est moins brillante. Il est souvent rangé dans une baie, avec des disques doublés (RAID) pour éviter les pertes de données."
         },
         {
           "titre": "Une histoire en quatre étapes",
-          "texte": "Au début des années 1980, les premiers réseaux locaux apparaissent, avec des serveurs de fichiers et d'impression chez Xerox. En 1984, Sun met sur le marché NFS, qui donne accès aux fichiers d'un réseau. À la fin des années 1980, le client-serveur remplace peu à peu les gros ordinateurs centraux. En 1994, plus de 5 000 réseaux sont reliés à Internet."
+          "texte": "En 1980, les premiers réseaux locaux apparaissent : Xerox vend un ensemble de serveurs qui permet aux ordinateurs reliés d'imprimer et d'enregistrer des fichiers. En 1984, Sun met sur le marché NFS, qui donne accès aux fichiers d'un réseau, et publie son protocole. En 1989, 70 % des serveurs servent au partage de fichiers. En 1994, plus de 5 000 réseaux sont reliés à Internet, pour plus de sept millions d'usagers."
         }
       ],
       "anecdotes": [
-        "Le mot « serveur » vient de la théorie des files d'attente : un statisticien l'emploie en 1953 pour désigner celui qui sert les clients au guichet. En informatique, on le trouve dès 1969 dans les textes décrivant ARPANET."
+        "Le mot « serveur » vient de la théorie des files d'attente, où il désigne celui qui sert les clients au guichet ; le statisticien David Kendall l'emploie notamment en 1953. En informatique, on le trouve dès 1969 dans les premiers textes décrivant ARPANET."
       ],
       "wikipedia": "Serveur informatique"
     },
@@ -6852,15 +6854,15 @@
       "sections": [
         {
           "titre": "Un bâtiment pensé pour ne jamais s'arrêter",
-          "texte": "Les serveurs sont empilés dans des baies, sur un plancher surélevé d'environ 60 cm où passent l'air et les câbles. Pour éviter toute coupure, l'alimentation et les équipements sont doublés, avec des batteries et des groupes électrogènes. Les centres sont surveillés par caméras et protégés par des systèmes d'extinction qui n'abîment pas l'électronique, au gaz inerte ou à l'eau ultra-pure."
+          "texte": "Les serveurs sont empilés dans des baies, sur un plancher surélevé d'environ 60 cm où passent l'air et les câbles. Pour éviter toute coupure, l'alimentation et les équipements sont doublés, avec des batteries et des groupes électrogènes. Les centres sont surveillés par caméras et protégés par des systèmes d'extinction qui n'abîment pas l'électronique, au gaz inerte ou en fines gouttelettes d'eau ultra-pure, qui ne conduit pas l'électricité."
         },
         {
           "titre": "Le défi du froid et de l'énergie",
-          "texte": "Les machines chauffent beaucoup : la climatisation maintient environ 20 degrés et représente de 40 à 50 % de la consommation du site. On alterne des couloirs froids et chauds pour ne pas mélanger l'air. D'après l'Agence internationale de l'énergie, les centres de données ont consommé environ 415 térawattheures en 2024, soit près de 1,5 % de l'électricité mondiale."
+          "texte": "Les machines chauffent beaucoup : la climatisation maintient environ 20 degrés et pèse lourd dans la facture, jusqu'à 40 à 50 % de la consommation d'un site selon certaines estimations, bien moins dans les centres géants les plus efficaces. On alterne des couloirs froids et chauds pour ne pas mélanger l'air. D'après l'Agence internationale de l'énergie, les centres de données ont consommé environ 415 térawattheures en 2024, soit près de 1,5 % de l'électricité mondiale."
         }
       ],
       "anecdotes": [
-        "Un serveur de 1U, la plus petite hauteur standard (4,445 cm), est surnommé « boîte à pizza » à cause de sa forme plate et large. Des centaines de ces boîtes s'empilent dans chaque rangée de baies."
+        "Un serveur de 1U, la plus petite hauteur standard (4,445 cm, soit 1,75 pouce), est surnommé « boîte à pizza » à cause de sa forme plate et large. Une baie courante, haute de 42U, peut ainsi en accueillir une quarantaine."
       ],
       "wikipedia": "Centre de données"
     },
@@ -6938,7 +6940,7 @@
         }
       ],
       "anecdotes": [
-        "Le tout premier satellite est apparu dans un roman : « La Lune de briques », écrit par Edward Everett Hale en 1869, raconte la construction et le lancement d'un satellite habité. Arthur C. Clarke a imaginé en 1945 trois satellites géostationnaires pour couvrir toute la planète."
+        "Le premier lancement d'un satellite en orbite a d'abord eu lieu dans la fiction : « La Lune de briques », nouvelle d'Edward Everett Hale parue en 1869, raconte la construction et le lancement d'un satellite habité. Arthur C. Clarke a imaginé en 1945 trois satellites géostationnaires pour couvrir toute la planète."
       ],
       "wikipedia": "Satellite artificiel"
     },
@@ -6951,8 +6953,8 @@
     "subtheme": "Vocabulaire tech",
     "type": "vocabulaire",
     "title": "Émoji",
-    "subtitle": "Pictogramme de message, inventé au Japon à la fin des années 1990",
-    "summary": "Un émoji est un petit pictogramme que l'on glisse dans un message : visage, animal, aliment, objet. Le mot vient du japonais, e (image) et moji (lettre).\nLes premiers jeux d'émojis naissent au Japon sur des téléphones mobiles, dont celui de Shigetaka Kurita en 1999. Depuis 2010, Unicode les intègre, ce qui permet de les lire sur tous les appareils.",
+    "subtitle": "Pictogramme de message, né au Japon et popularisé à la fin des années 1990",
+    "summary": "Un émoji est un petit pictogramme que l'on glisse dans un message : visage, animal, aliment, objet. Le mot vient du japonais, e (image) et moji (lettre).\nLes émojis se répandent au Japon sur les téléphones mobiles à la fin des années 1990, notamment avec le jeu de Shigetaka Kurita en 1999. Depuis 2010, Unicode les intègre, ce qui permet de les lire sur tous les appareils.",
     "details": {
       "definition": "Un émoji est un pictogramme utilisé dans un message électronique ou sur une page web pour exprimer une émotion, un objet ou une idée.",
       "exemple": "Ajouter un visage souriant à la fin d'un message court permet de signaler qu'il est amical, alors que le texte seul pourrait sembler sec.",
@@ -6969,7 +6971,7 @@
       "sections": [
         {
           "titre": "De l'émoticône à l'émoji",
-          "texte": "En 1982, Scott Fahlman propose :-) et :-( pour montrer le ton d'un message. Au Japon, SoftBank lance un jeu d'émojis en 1997, puis Shigetaka Kurita crée pour le service i-mode de NTT DoCoMo 176 pictogrammes de 12 × 12 pixels. Une découverte de 2024 situe même le plus ancien jeu connu sur un appareil Sharp de 1988."
+          "texte": "En 1982, Scott Fahlman propose :-) et :-( pour montrer le ton d'un message. Au Japon, SoftBank lance un jeu d'émojis en 1997, puis Shigetaka Kurita crée pour le service i-mode de NTT DoCoMo 176 pictogrammes de 12 × 12 pixels. Des recherches publiées en 2024 font même remonter le plus ancien jeu connu à un appareil électronique portable de Sharp, le PA-8500, sorti en 1988."
         },
         {
           "titre": "L'arrivée d'Unicode",
@@ -6977,7 +6979,7 @@
         }
       ],
       "anecdotes": [
-        "L'œuvre de Shigetaka Kurita est exposée au Museum of Modern Art de New York. Ses petits pictogrammes de 12 pixels de côté, inspirés des manga et des panneaux de signalisation, y sont présentés comme un jalon du design."
+        "L'œuvre de Shigetaka Kurita est exposée au Museum of Modern Art de New York. Pour dessiner ses pictogrammes de 12 pixels de côté, il s'est inspiré des codes visuels du manga, des caractères chinois, des panneaux de signalisation et des pictogrammes de la météo."
       ],
       "wikipedia": "Émoji"
     },

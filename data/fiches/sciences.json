@@ -3837,7 +3837,7 @@
       "sections": [
         {
           "titre": "Des pompes à vide aux machines à vapeur",
-          "texte": "On fait souvent débuter l'histoire en 1650, quand Otto von Guericke construit la première pompe à vide. Robert Boyle et Robert Hooke bâtissent la leur en 1656 et relient pression et volume des gaz. En 1679, Denis Papin invente une marmite fermée, puis Savery (1697) et Newcomen (1712) construisent les premières machines à vapeur. En 1824, Sadi Carnot, que l'on appelle le « père de la thermodynamique », publie ses Réflexions sur la puissance motrice du feu."
+          "texte": "On fait souvent débuter l'histoire en 1650, quand Otto von Guericke construit la première pompe à vide. Robert Boyle, aidé de Robert Hooke, la perfectionne : leur machine est achevée en 1659 et leur permet de relier pression et volume des gaz. En 1679, Denis Papin invente une marmite fermée, puis Savery (1697) et Newcomen (1712) construisent les premières machines à vapeur. En 1824, Sadi Carnot, que l'on appelle le « père de la thermodynamique », publie ses Réflexions sur la puissance motrice du feu."
         },
         {
           "titre": "Chaleur, température et zéro absolu",
@@ -3863,7 +3863,7 @@
     "type": "classique",
     "title": "L'entropie",
     "subtitle": "La mesure du désordre et de la flèche du temps",
-    "summary": "L'entropie mesure le degré de désordre d'un système : plus elle est élevée, moins l'énergie est utilisable pour produire un travail. Le mot a été inventé par Rudolf Clausius en 1865.\nElle explique pourquoi une tasse de café refroidit toute seule, mais ne se réchauffe jamais spontanément, ni un œuf cassé ne se reforme. C'est ce qui donne un sens à l'écoulement du temps.",
+    "summary": "L'entropie mesure le degré de désordre d'un système : plus elle est élevée, moins l'énergie est utilisable pour produire un travail. Le mot a été inventé par Rudolf Clausius en 1865.\nElle explique pourquoi une tasse de café refroidit toute seule sans jamais se réchauffer spontanément, et pourquoi un œuf cassé ne se reforme pas. C'est ce qui donne un sens à l'écoulement du temps.",
     "details": {
       "sections": [
         {
@@ -3907,7 +3907,7 @@
         }
       ],
       "anecdotes": [
-        "En 1917, Einstein ajoute à ses équations une « constante cosmologique » pour garder un Univers immobile. Quand Hubble et d'autres montrent en 1929 que l'Univers est en expansion, Einstein jugera plus tard cette constante comme la plus grande erreur de sa vie."
+        "En 1917, Einstein ajoute à ses équations une « constante cosmologique » pour garder un Univers immobile. Quand Hubble et d'autres montrent en 1929 que l'Univers est en expansion, la constante devient inutile : Einstein l'aurait ensuite qualifiée de « plus grande erreur » de sa vie."
       ],
       "wikipedia": "Relativité générale"
     },
@@ -3969,7 +3969,7 @@
         }
       ],
       "anecdotes": [
-        "Pendant des décennies, les fabricants de lunettes ont réussi à corriger la vue sans que la théorie de l'époque sache vraiment expliquer pourquoi ces verres marchaient."
+        "Euclide reprenait l'idée de rayons sortant de l'œil, mais il s'en étonnait lui-même : comment un tel rayon pourrait-il atteindre les étoiles instantanément, à chaque clignement d'yeux ?"
       ],
       "wikipedia": "Optique"
     },
@@ -4000,7 +4000,7 @@
         }
       ],
       "anecdotes": [
-        "Trois prix Nobel de physique sont liés à l'effet photoélectrique : Lenard en 1905, Einstein en 1921 et Millikan en 1923. Celui d'Einstein ne récompense pas la relativité, mais la loi de cet effet."
+        "Trois prix Nobel de physique sont liés à l'effet photoélectrique : Lenard en 1905 (pour ses travaux sur les rayons cathodiques), Einstein en 1921 et Millikan en 1923. Celui d'Einstein ne récompense pas la relativité, mais sa loi de l'effet photoélectrique."
       ],
       "wikipedia": "Effet photoélectrique"
     },
@@ -4027,7 +4027,7 @@
         },
         {
           "titre": "À la recherche du chaud",
-          "texte": "En 1986, Bednorz et Müller découvrent des céramiques supraconductrices à une température plus haute que prévu. Puis une céramique appelée YBCO atteint 92 kelvins, au-dessus des 77 kelvins de l'azote liquide, bon marché et facile à produire. Reste que cette « haute température » reste glaciale, au maximum -140 °C. Des fils en niobium-titane, commercialisés dès 1962, servent à fabriquer des aimants très puissants."
+          "texte": "En 1986, Bednorz et Müller découvrent des céramiques supraconductrices à une température plus haute que prévu. Puis une céramique appelée YBCO atteint 92 kelvins, au-dessus des 77 kelvins de l'azote liquide, bon marché et facile à produire. Reste que cette « haute température » reste glaciale : à pression ordinaire, le record ne dépasse pas -140 °C ; on fait mieux seulement sous des pressions colossales. Des fils en niobium-titane, commercialisés dès 1962, servent à fabriquer des aimants très puissants."
         }
       ],
       "anecdotes": [
@@ -4058,7 +4058,7 @@
         },
         {
           "titre": "Presque tous soignent ou fabriquent",
-          "texte": "On compte environ 30 000 accélérateurs dans le monde. Seuls 1 % environ sont des machines de recherche de plus d'un milliard d'électronvolts, comme le Grand collisionneur de hadrons du CERN, qui fait se heurter deux faisceaux de protons de 6,5 TeV chacun. Environ 44 % servent à la radiothérapie et 41 % à implanter des ions dans les composants électroniques. D'autres produisent une lumière très intense, le rayonnement synchrotron, pour étudier la matière."
+          "texte": "On compte environ 30 000 accélérateurs dans le monde. Seuls 1 % environ sont des machines de recherche de plus d'un milliard d'électronvolts, comme le Grand collisionneur de hadrons du CERN, qui fait se heurter deux faisceaux de protons de 6,5 TeV chacun, puis 6,8 TeV depuis 2022. Environ 44 % servent à la radiothérapie et 41 % à implanter des ions dans les composants électroniques. D'autres produisent une lumière très intense, le rayonnement synchrotron, pour étudier la matière."
         }
       ],
       "anecdotes": [
@@ -4085,7 +4085,7 @@
         },
         {
           "titre": "Du LEP au LHC",
-          "texte": "En 1989, le CERN inaugure le LEP, un anneau de 27 kilomètres de circonférence. Son tunnel est ensuite réutilisé par le Grand collisionneur de hadrons, le LHC, mis en service le 10 septembre 2008. Après un incident d'hélium qui l'arrête plusieurs mois, il produit en mars 2010 les collisions les plus énergiques jamais réalisées. Le 4 juillet 2012, une particule compatible avec le boson de Higgs est identifiée, ce qui vaut le prix Nobel 2013 à Englert et Higgs."
+          "texte": "En 1989, le CERN inaugure le LEP, un anneau de 27 kilomètres de circonférence. Son tunnel est ensuite réutilisé par le Grand collisionneur de hadrons, le LHC, mis en service le 10 septembre 2008. Neuf jours plus tard, une fuite d'hélium l'arrête pour plus d'un an. Le 30 mars 2010, il produit les collisions de particules les plus énergiques jamais réalisées jusque-là. Le 4 juillet 2012, une particule compatible avec le boson de Higgs est identifiée, ce qui vaut le prix Nobel 2013 à Englert et Higgs."
         },
         {
           "titre": "Des découvertes... et le Web",
@@ -4116,7 +4116,7 @@
         },
         {
           "titre": "Annihilation et grand mystère",
-          "texte": "Quand une particule rencontre son antiparticule, toute leur masse est convertie en énergie, selon E=mc². Mais on ne peut pas s'en servir comme source d'énergie : la fabriquer coûte bien plus d'énergie qu'on n'en récupère. Selon la théorie du Big Bang, matière et antimatière auraient dû être produites à parts égales, et donc s'annihiler. Pourtant, il reste de la matière. En 1965, Andreï Sakharov explique que la matière et l'antimatière doivent se comporter un tout petit peu différemment."
+          "texte": "Quand une particule rencontre son antiparticule, toute leur masse est convertie en énergie, selon E=mc². Mais on ne peut pas s'en servir comme source d'énergie : la fabriquer coûte bien plus d'énergie qu'on n'en récupère. Selon la théorie du Big Bang, matière et antimatière auraient dû être produites à parts égales, et donc s'annihiler. Pourtant, il reste de la matière. En 1967, Andreï Sakharov explique que la matière et l'antimatière doivent se comporter un tout petit peu différemment."
         },
         {
           "titre": "Pièges et expériences",
@@ -4178,7 +4178,7 @@
         },
         {
           "titre": "Une idée née d'une correspondance avec Einstein",
-          "texte": "Au départ, il y a une lettre d'Einstein du 8 août 1935, qui imagine un baril de poudre à la fois explosé et non explosé. Schrödinger lui répond le 19 août en mettant un chat à la place du baril. Tous deux pensent que la description de Max Born est incomplète. Le vrai sujet n'est donc pas ce qui se passe chez les particules, mais pourquoi nous ne voyons jamais cela dans le monde de tous les jours."
+          "texte": "Au départ, il y a une lettre d'Einstein du 8 août 1935, qui imagine un baril de poudre à la fois explosé et non explosé. Schrödinger lui répond le 19 août en mettant un chat à la place du baril. Tous deux jugent incomplète l'interprétation de la fonction d'onde proposée par Max Born. Le vrai sujet n'est donc pas ce qui se passe chez les particules, mais pourquoi nous ne voyons jamais cela dans le monde de tous les jours."
         },
         {
           "titre": "Les réponses des physiciens",
@@ -4213,7 +4213,7 @@
         },
         {
           "titre": "L'expérience des fentes de Young",
-          "texte": "Une source éclaire une plaque percée de deux fentes minuscules : on observe sur la plaque des bandes claires et sombres, signature d'une onde. Si on réduit l'intensité jusqu'à émettre photon par photon, chaque grain arrive en un point précis, mais, peu à peu, le même motif d'interférence se dessine. Les physiciens parlent parfois de « quanton » pour désigner un objet quantique qui n'est ni vraiment onde ni vraiment corpuscule."
+          "texte": "Une source éclaire une plaque percée de deux fentes minuscules : sur un écran placé derrière, on observe des bandes claires et sombres, signature d'une onde. Si on réduit l'intensité jusqu'à émettre photon par photon, chaque grain arrive en un point précis de l'écran, mais, peu à peu, le même motif d'interférence se dessine. Les physiciens parlent parfois de « quanton » pour désigner un objet quantique qui n'est ni vraiment onde ni vraiment corpuscule."
         }
       ],
       "anecdotes": [
@@ -4236,7 +4236,7 @@
       "sections": [
         {
           "titre": "Une agitation perpétuelle",
-          "texte": "À l'été 1827, Robert Brown observe au microscope de très petites particules qui s'agitent sans cesse dans le fluide de grains de pollen de Clarkia pulchella, plongés dans l'eau. En répétant l'expérience avec du verre ou de la poussière de roche, il écarte l'idée d'un mouvement lié au vivant. Il n'est pas le premier à avoir remarqué ce phénomène : bien avant, Lucrèce décrit des poussières qui dansent dans un rayon de soleil comme preuve de l'existence des atomes."
+          "texte": "À l'été 1827, Robert Brown observe au microscope de très petites particules qui s'agitent sans cesse dans le fluide de grains de pollen de Clarkia pulchella, plongés dans l'eau. En répétant l'expérience avec du verre ou de la poussière de roche, il écarte l'idée d'un mouvement lié au vivant. Il n'est pas le premier à l'avoir remarqué : au XVIIIe siècle, l'abbé John Needham l'avait décrit, en l'attribuant à une activité vitale. Et dès l'Antiquité, Lucrèce voyait dans la danse des poussières d'un rayon de soleil une preuve de l'existence des atomes, même si ce mouvement-là est surtout dû aux courants d'air."
         },
         {
           "titre": "La preuve de l'existence des atomes",
@@ -4267,11 +4267,11 @@
       "sections": [
         {
           "titre": "Des essais dans une cave au Panthéon",
-          "texte": "Foucault s'inspire d'une tige fixée sur l'axe d'un tour, qui continue de vibrer dans le même plan quand l'axe tourne. Il tente un premier essai le 3 janvier 1851, en sous-sol de chez lui, à Paris. Le 3 février, à l'Observatoire, avec l'aide d'Arago, l'invitation promet de venir « voir la Terre tourner ». Quelques mois plus tard, il suspend au dôme du Panthéon une boule de 28 kilos au bout d'un fil de 67 mètres."
+          "texte": "Foucault s'inspire d'une tige fixée sur l'axe d'un tour, qui continue de vibrer dans le même plan quand l'axe tourne. Il tente un premier essai le 3 janvier 1851, dans la cave de sa maison parisienne, avec un pendule de 2 mètres. Le 3 février, il renouvelle l'expérience à l'Observatoire de Paris avec l'aide d'Arago : l'invitation promet de venir « voir la Terre tourner ». Peu après, il suspend sous le dôme du Panthéon une boule de 28 kilos au bout d'un fil de 67 mètres."
         },
         {
           "titre": "Pourquoi le plan tourne",
-          "texte": "Au pôle, le plan d'oscillation fait un tour complet en un jour sidéral, soit 23 h 56 min : le pendule reste fixe par rapport aux étoiles et la Terre tourne dessous. Ailleurs, la rotation est plus lente : il faut diviser par le sinus de la latitude. À 45° de latitude, le « jour pendulaire » dure ainsi 1,4 jour, et à l'équateur le plan ne tourne pas du tout. Une expérience à Colombo, près de l'équateur, a confirmé cette loi."
+          "texte": "Au pôle, le plan d'oscillation fait un tour complet en un jour sidéral, soit 23 h 56 min : le pendule reste fixe par rapport aux étoiles et la Terre tourne dessous. Ailleurs, la rotation est plus lente : il faut diviser cette durée par le sinus de la latitude. À Paris, le tour complet prend ainsi près de 32 heures, et à l'équateur le plan ne tourne pas du tout. Une expérience menée fin 1851 à Colombo, près de l'équateur, a confirmé cette loi."
         },
         {
           "titre": "Une expérience sans explication... au départ",
@@ -4279,7 +4279,8 @@
         }
       ],
       "anecdotes": [
-        "Pour la séance du 3 février 1851 à l'Observatoire, Foucault avait lancé des invitations audacieuses : on y était convié à venir voir la Terre tourner, rien de moins."
+        "Dès 1661, Vincenzo Viviani, un élève de Galilée, avait vu le plan d'un pendule dévier. Mais il n'y voyait qu'une gêne pour ses mesures, qu'il comptait supprimer en suspendant la boule à deux fils au lieu d'un.",
+        "Le 6 avril 2010, le câble du pendule original, exposé au musée des Arts et Métiers à Paris, a cédé : la boule de 1851, irrémédiablement abîmée, est désormais présentée dans une vitrine à côté du pendule actuel."
       ],
       "wikipedia": "Pendule de Foucault"
     },
@@ -4315,11 +4316,11 @@
       "sections": [
         {
           "titre": "Un fils de comte devenu expérimentateur",
-          "texte": "Septième fils du comte de Cork, Boyle naît en 1627 au château de Lismore, en Irlande. Après Eton, il voyage en Europe et découvre à Florence, en 1641, l'œuvre de Galilée, qui lui donne le goût de la méthode expérimentale. Riche, il consacre sa fortune à la science et s'installe à Oxford en 1654. Il est à l'origine de la Royal Society, fondée lors d'une réunion à Londres en 1660. Élu président en 1680, il refuse l'honneur."
+          "texte": "Septième fils du comte de Cork, Boyle naît en 1627 au château de Lismore, en Irlande. Après Eton, il voyage en Europe et découvre à Florence, en 1641, l'œuvre de Galilée, qui lui donne le goût de la méthode expérimentale. Riche, il consacre sa fortune à la science et s'installe à Oxford en 1654. Il compte parmi les fondateurs de la Royal Society, née lors d'une réunion à Londres en 1660. Élu président en 1680, il refuse l'honneur."
         },
         {
           "titre": "L'air, les gaz et le chimiste sceptique",
-          "texte": "Avec Hooke, il améliore la pompe à vide de Guericke et mène de nombreuses expériences sur le vide, ce qui l'oppose à Hobbes. En répondant à un critique, il énonce en 1662 la relation entre pression et volume d'un gaz : si l'on double la pression, le volume est divisé par deux. Mariotte est arrivé au même résultat de son côté, à peu près au même moment : d'où le double nom de la loi. Il rejette les quatre éléments (terre, air, eau, feu) et voit la matière faite de particules."
+          "texte": "Avec Hooke, il améliore la pompe à vide de Guericke et mène de nombreuses expériences sur le vide, ce qui l'oppose à Hobbes. En répondant à un critique, il énonce en 1662 la relation entre pression et volume d'un gaz : si l'on double la pression, le volume est divisé par deux. Le Français Edme Mariotte publie la même loi en 1676, d'où le double nom de « loi de Boyle-Mariotte ». Boyle rejette les quatre éléments (terre, air, eau, feu) et voit la matière faite de particules."
         }
       ],
       "anecdotes": [
@@ -4385,7 +4386,7 @@
         }
       ],
       "anecdotes": [
-        "En 1669, Huygens met au point un objectif de télescope sans défaut de forme et note « Eurêka » à la date du 1er février. Mais Newton souligne que les lentilles produisent des couleurs parasites : Huygens efface son cri de joie et écrit à la place que son invention est devenue inutile, à cause des couleurs parasites que Newton a signalées."
+        "En 1669, Huygens met au point un objectif de télescope corrigé de l'aberration sphérique et note « Eurêka » à la date du 1er février. Mais il lit ensuite un article où Newton montre que les lentilles produisent des couleurs parasites : la mort dans l'âme, il remplace son cri de joie par « Cette invention est inutile à cause de l'aberration newtonienne qui produit des couleurs »."
       ],
       "oeuvres": [
         {
@@ -4447,7 +4448,7 @@
         },
         {
           "titre": "Fossiles et planètes",
-          "texte": "En examinant du bois pétrifié au microscope, Hooke conclut que les fossiles sont les restes d'êtres vivants, dont certains appartiennent à des espèces disparues, deux siècles avant Darwin. Il pense aussi que de grands séismes ont soulevé des montagnes jadis sous l'eau. Côté ciel, il identifie en 1664 la rotation de Mars et de Jupiter. Après le grand incendie de Londres de 1666, il aide à reconstruire la ville comme arpenteur."
+          "texte": "En examinant du bois pétrifié au microscope, Hooke conclut que les fossiles sont les restes d'êtres vivants, dont certains pourraient appartenir à des espèces disparues : une idée très en avance sur son temps. Il pense aussi que de grands séismes ont soulevé des montagnes jadis sous l'eau. Côté ciel, il identifie en 1664 la rotation de Mars et de Jupiter. Après le grand incendie de Londres de 1666, il aide à reconstruire la ville comme arpenteur."
         }
       ],
       "anecdotes": [
@@ -4548,7 +4549,7 @@
     "type": "personnage",
     "title": "Georg Ohm",
     "subtitle": "Physicien allemand, 1789-1854",
-    "summary": "Georg Ohm (1789-1854) est un physicien allemand, fils de serrurier, à l'origine de la loi qui relie tension, courant et résistance. Professeur de lycée, il fabrique son propre matériel pour étudier la pile de Volta.\nEn 1827, son livre montre que le courant dans un circuit est proportionnel à la tension appliquée. Accueillie froidement, sa théorie lui vaut la médaille Copley en 1841, et l'ohm (Ω) mesure aujourd'hui la résistance électrique.",
+    "summary": "Georg Ohm (1789-1854) est un physicien allemand, fils de serrurier, à l'origine de la loi qui relie tension, courant et résistance. Professeur de lycée, il fabrique son propre matériel pour étudier la pile de Volta.\nEn 1827, son livre montre que le courant dans un circuit est proportionnel à la tension appliquée. D'abord accueillie froidement, sa théorie lui vaut pourtant la médaille Copley en 1841, et l'ohm (Ω) mesure aujourd'hui la résistance électrique.",
     "details": {
       "epoque": "Début du XIXe siècle, Allemagne (Bavière).",
       "pourquoiCelebre": "Il a formulé la loi d'Ohm, qui relie la tension, le courant et la résistance d'un circuit.",
@@ -4566,7 +4567,7 @@
       "sections": [
         {
           "titre": "Un étudiant dissipé",
-          "texte": "Le père d'Ohm, serrurier autodidacte, enseigne lui-même à ses fils les mathématiques, la physique, la chimie et la philosophie. À quinze ans, Georg entre à l'université d'Erlangen mais préfère danser, patiner et jouer au billard. Furieux, son père l'envoie enseigner en Suisse. Conseillé de lire Euler, Laplace et Lacroix, Ohm travaille seul, puis obtient son doctorat en 1811."
+          "texte": "Le père d'Ohm, serrurier autodidacte, enseigne lui-même à ses fils les mathématiques, la physique, la chimie et la philosophie. À quinze ans, Georg entre à l'université d'Erlangen mais préfère danser, patiner et jouer au billard. Furieux, son père l'envoie enseigner en Suisse. Sur le conseil de son ancien professeur Langsdorf, Ohm étudie seul Euler, Laplace et Lacroix, puis obtient son doctorat en 1811."
         },
         {
           "titre": "La loi d'Ohm",
@@ -4632,11 +4633,11 @@
         },
         {
           "titre": "Le hasard de février 1896",
-          "texte": "Becquerel suppose que des substances phosphorescentes, exposées au soleil, émettent des rayons proches des rayons X. Il enveloppe des plaques photo de papier noir, pose dessus des sels d'uranium et les expose au soleil. Les 26 et 27 février, le ciel est gris : il range tout dans un tiroir. Le 1er mars, il développe les plaques : les silhouettes sont aussi nettes. En mai, il conclut que le rayonnement vient de l'uranium lui-même."
+          "texte": "Becquerel suppose que des substances phosphorescentes, exposées au soleil, émettent des rayons proches des rayons X. Il enveloppe des plaques photo de papier noir, pose dessus des sels d'uranium et les expose au soleil. Les 26 et 27 février, le ciel est gris : il range tout dans un tiroir. Le 1er mars, il développe les plaques en s'attendant à des images faibles : les silhouettes sont au contraire très nettes. En mai, il conclut que le rayonnement vient de l'uranium lui-même."
         }
       ],
       "anecdotes": [
-        "Au début du XXe siècle, Becquerel garde un morceau de radium dans la poche de son gilet et constate qu'il a été brûlé. Cette observation a ouvert la voie à la radiothérapie, aujourd'hui utilisée contre le cancer."
+        "En 1901, Becquerel garde un morceau de radium dans la poche de son gilet et constate qu'il a été brûlé. Cette observation a contribué à l'essor de la radiothérapie, aujourd'hui utilisée contre le cancer."
       ],
       "oeuvres": [
         {
@@ -4806,15 +4807,15 @@
       "sections": [
         {
           "titre": "Une idée sur une île",
-          "texte": "En 1925, Heisenberg souffre d'un gros rhume des foins. Il se réfugie sur l'île de Helgoland, sans pollen, pour réfléchir à la physique des atomes. Il en rapporte une théorie où les grandeurs sont des tableaux de nombres, les matrices. Schrödinger propose peu après une version par les ondes. On croit d'abord les deux théories rivales, jusqu'à ce que Schrödinger prouve en 1926 qu'elles disent la même chose."
+          "texte": "En 1925, Heisenberg souffre d'un gros rhume des foins. Il se réfugie sur l'île de Helgoland, sans pollen, pour réfléchir à la physique des atomes. Il en rapporte une théorie où les grandeurs sont des tableaux de nombres, que Max Born reconnaît comme des matrices. Schrödinger propose peu après une version par les ondes. On croit d'abord les deux théories rivales, jusqu'à ce que Schrödinger prouve en 1926 qu'elles disent la même chose."
         },
         {
           "titre": "Le principe d'incertitude",
-          "texte": "En 1927, à Copenhague, Heisenberg établit que position et quantité de mouvement ne peuvent être connues précisément ensemble. Ce n'est pas un défaut des appareils : améliorer les instruments n'y change rien, car une particule quantique n'est pas un petit grain classique. Pendant la guerre, il dirige le programme nucléaire allemand, qui n'a abouti ni à un réacteur ni à une bombe ; son rôle fait encore débat."
+          "texte": "En 1927, à Copenhague, Heisenberg établit que position et quantité de mouvement ne peuvent être connues précisément ensemble. Ce n'est pas un défaut des appareils : améliorer les instruments n'y change rien, car une particule quantique n'est pas un petit grain classique. Pendant la guerre, il dirige à partir de 1942 le programme nucléaire allemand, qui n'a abouti ni à un réacteur ni à une bombe ; son rôle fait encore débat."
         }
       ],
       "anecdotes": [
-        "Jeune étudiant, Heisenberg cherche à sauter les deux années de mathématiques. Dans son autobiographie, il raconte que le professeur Lindemann, apprenant qu'il lisait un ouvrage de Hermann Weyl sur la relativité générale, a mis fin à l'entretien en le déclarant « perdu pour les mathématiques »"
+        "Jeune étudiant, Heisenberg cherche à sauter les deux années préparatoires de mathématiques. Dans son autobiographie, il raconte que le professeur Lindemann, apprenant qu'il lisait un ouvrage de Hermann Weyl sur la relativité générale, a mis fin à l'entretien en le déclarant « perdu pour les mathématiques »."
       ],
       "oeuvres": [
         {
@@ -4937,7 +4938,7 @@
         },
         {
           "titre": "Une équation qui voit l'antimatière",
-          "texte": "En 1928, Dirac écrit une équation pour l'électron qui tient compte de la relativité et contient déjà le spin, sa petite rotation propre. Elle admet une solution étrange, qu'il interprète en 1931 comme une particule de même masse mais de charge opposée : le positon. Carl Anderson et Patrick Blackett le repèrent en 1932. Dirac a aussi inventé la notation bra-ket et la « fonction delta », un pic infiniment étroit."
+          "texte": "En 1928, Dirac écrit une équation pour l'électron qui tient compte de la relativité et contient déjà le spin, sa petite rotation propre. Elle admet une solution étrange, qu'il interprète en 1931 comme une particule de même masse mais de charge opposée : le positon. Carl Anderson l'observe en 1932, et Patrick Blackett le confirme peu après. Dirac a aussi inventé la notation bra-ket et la « fonction delta », un pic infiniment étroit."
         }
       ],
       "anecdotes": [
@@ -4999,7 +5000,7 @@
       "sections": [
         {
           "titre": "Un prodige romain",
-          "texte": "Enfant, Fermi achète sur un marché de Rome un gros traité de physique en latin et l'étudie. Un ami de son père, Adolfo Amidei, lui prête des livres de mathématiques qu'il rend après avoir résolu tous les problèmes. À dix-sept ans, il remporte le difficile concours de l'École normale de Pise avec un exposé sur les vibrations d'une corde. Dès 1926, il est professeur de physique théorique à Rome."
+          "texte": "Enfant, Fermi achète sur un marché de Rome un gros traité de physique en latin et l'étudie. Un ami de son père, l'ingénieur Adolfo Amidei, lui prête un livre de géométrie : Fermi le rend deux mois plus tard après en avoir résolu tous les problèmes, et Amidei lui fournit dès lors d'autres ouvrages. À dix-sept ans, il arrive premier au difficile concours de l'École normale de Pise avec une dissertation sur les vibrations d'une corde. Dès 1926, il est professeur de physique théorique à Rome."
         },
         {
           "titre": "Des neutrons à la pile atomique",
@@ -5121,15 +5122,15 @@
       "sections": [
         {
           "titre": "De l'histoire à la physique",
-          "texte": "Louis de Broglie commence par une licence d'histoire, à 18 ans. Son frère aîné Maurice, secrétaire du Congrès Solvay de 1911, lui fait lire les comptes rendus de ces débats de physiciens : Louis parle d'un « coup d'État intérieur ». Il passe sa licence de sciences en 1913. Pendant la guerre, il sert à l'émetteur radio de la tour Eiffel et termine adjudant."
+          "texte": "Louis de Broglie commence par une licence d'histoire, à 18 ans. Son frère aîné Maurice, secrétaire du Congrès Solvay de 1911, lui fait lire les comptes rendus de ces débats de physiciens : une lecture qui provoque chez lui « un coup d'État intérieur ». Il passe sa licence de sciences en 1913. Pendant la guerre, il sert à l'émetteur radio de la tour Eiffel et termine adjudant."
         },
         {
           "titre": "Toute la matière est onde",
-          "texte": "Depuis Einstein, on sait que la lumière est faite de grains, les photons, portés par une onde. De Broglie propose que toute particule, comme l'électron, soit elle aussi accompagnée d'une onde. Sa thèse de 1924 est confirmée par Davisson et Germer, qui obtiennent des interférences avec des électrons envoyés sur un cristal. Schrödinger et Born font de cette onde une onde de probabilité, ce que de Broglie n'a jamais pleinement accepté."
+          "texte": "Depuis Einstein, on sait que la lumière est faite de grains, les photons, portés par une onde. De Broglie propose que toute particule, comme l'électron, soit elle aussi accompagnée d'une onde. Sa thèse de 1924 est confirmée par Davisson et Germer, qui obtiennent des interférences avec des électrons envoyés sur un cristal. Schrödinger s'en inspire pour son équation, puis Max Born fait de cette onde une onde de probabilité, ce que de Broglie n'a jamais pleinement accepté."
         }
       ],
       "anecdotes": [
-        "Élu à l'Académie française en octobre 1944, Louis de Broglie y est reçu en 1945 par son propre frère, Maurice, déjà académicien. Une scène qui ne s'était pas vue depuis trois siècles."
+        "Élu à l'Académie française en octobre 1944, Louis de Broglie y est reçu en 1945 par son propre frère, Maurice, déjà académicien : une scène inédite dans les trois siècles d'histoire de l'Académie."
       ],
       "oeuvres": [
         {
@@ -5185,11 +5186,11 @@
       "sections": [
         {
           "titre": "Un prodige viennois",
-          "texte": "Pauli a pour parrain le physicien Ernst Mach. Au lycée de Vienne, c'est un enfant prodige en mathématiques ; il publie un premier article sur la relativité générale dès la fin de ses études. Étudiant de Sommerfeld à Munich, il rédige à 21 ans, pour une encyclopédie, une synthèse sur la relativité de 237 pages, saluée par Einstein et toujours consultée. Il enseigne à Zurich dès 1928."
+          "texte": "Pauli a pour parrain le physicien Ernst Mach. Au lycée de Vienne, c'est un enfant prodige en mathématiques ; deux mois après son baccalauréat, en 1918, il publie un premier article sur la relativité générale d'Einstein. Étudiant de Sommerfeld à Munich, il rédige à 21 ans, pour une encyclopédie, une synthèse sur la relativité de 237 pages, saluée par Einstein et toujours consultée. Il enseigne à Zurich dès 1928."
         },
         {
           "titre": "Exclusion et neutrino",
-          "texte": "Pauli travaille avec Bohr sur la façon dont les électrons se rangent en couches dans l'atome. Il ajoute une propriété à deux valeurs, que d'autres identifient comme le spin de l'électron, puis énonce son principe d'exclusion. En 1930, il écrit une lettre qui commence par « Chers dames et messieurs radioactifs » pour proposer le neutrino. Il apprend sa détection en 1956 et répond par télégramme : « Tout vient à qui sait attendre. »"
+          "texte": "Pauli travaille avec Bohr sur la façon dont les électrons se rangent en couches dans l'atome. Il ajoute une propriété à deux valeurs, que d'autres identifient comme le spin de l'électron, puis énonce son principe d'exclusion. En 1930, il écrit une lettre qui commence par « Chères dames et chers messieurs radioactifs » pour proposer le neutrino. Il apprend sa détection en 1956 et répond par télégramme : « Tout vient à qui sait attendre. »"
         }
       ],
       "anecdotes": [
@@ -5254,7 +5255,7 @@
         },
         {
           "titre": "Froid absolu et câbles",
-          "texte": "Kelvin montre qu'il existe une température la plus basse possible, le zéro absolu, où l'agitation thermique cesse. Une conséquence de son énoncé du deuxième principe : on ne peut pas faire avancer un navire en prélevant seulement la chaleur de la mer, qui laisserait derrière lui un sillage plus froid. Pour avoir contribué au premier câble transatlantique, il est fait chevalier par la reine Victoria en 1866."
+          "texte": "L'idée d'une température la plus basse possible remontait à Amontons, en 1702 ; Kelvin définit ce zéro absolu comme l'état où cesse toute agitation thermique et en fixe la valeur, environ -273,15 °C. Une conséquence de son énoncé du deuxième principe : on ne peut pas faire avancer un navire en prélevant seulement la chaleur de la mer, qui laisserait derrière lui un sillage plus froid. Pour avoir contribué au premier câble transatlantique, il est fait chevalier par la reine Victoria en 1866."
         }
       ],
       "anecdotes": [
@@ -5320,7 +5321,7 @@
         }
       ],
       "anecdotes": [
-        "Joule refusait la théorie du calorique, où la chaleur ne peut être ni créée ni détruite par les machines, pour une raison aussi religieuse que scientifique : il croyait que seul le Créateur avait le pouvoir de détruire. Une théorie qui supposait de perdre de la « force » lui paraissait donc forcément fausse."
+        "Joule rejetait la théorie du calorique de Carnot et Clapeyron en partie pour une raison religieuse : selon lui, elle impliquait qu'un appareil mal conçu puisse détruire de la « force vive ». Or, écrit-il, « le pouvoir de détruire appartient au Créateur seul » : toute théorie qui exige d'anéantir de la force est donc forcément fausse."
       ],
       "oeuvres": [
         {
@@ -5378,7 +5379,7 @@
       "sections": [
         {
           "titre": "Fils de l'Organisateur de la Victoire",
-          "texte": "Sadi naît à Paris, dans un palais où son père Lazare, membre du Directoire, a son logement de fonction. Son prénom vient du poète persan Saadi de Shiraz. Reçu à l'École polytechnique à seize ans, il défend en 1814 le fort de Vincennes, sa seule bataille. Officier du génie, il voit sa carrière stagner : fils d'un exilé, il est jugé peu sûr. Il quitte l'armée en 1828 après seulement quinze mois de service actif."
+          "texte": "Sadi naît à Paris, dans un palais où son père Lazare, membre du Directoire, a son logement de fonction. Son prénom vient du poète persan Saadi de Shiraz. Reçu à l'École polytechnique à seize ans, il participe en 1814 à la défense du fort de Vincennes, sans doute sa seule bataille. Officier du génie, il voit sa carrière stagner : fils d'un exilé, il est jugé peu sûr. Il quitte l'armée en 1828 après seulement quinze mois de service actif."
         },
         {
           "titre": "La puissance motrice du feu",
@@ -5412,7 +5413,7 @@
     "type": "personnage",
     "title": "John Dalton",
     "subtitle": "Chimiste et physicien britannique, 1766-1844",
-    "summary": "John Dalton, d'humble famille quaker, devient maître d'école très jeune, puis professeur à Manchester. Il a proposé en 1803 que la matière repose sur des atomes dont la masse varie selon l'élément, et qui s'assemblent en proportions simples ; son livre de 1808 donne la première liste de masses atomiques.\nIl a aussi décrit le daltonisme, dont il souffrait, et tenu 57 ans un journal météo de plus de 200 000 mesures.",
+    "summary": "John Dalton, d'humble famille quaker, devient maître d'école très jeune, puis professeur à Manchester. Il a proposé en 1803 que la matière repose sur des atomes dont la masse varie selon l'élément, et qui s'assemblent en proportions simples ; son livre de 1808 dresse une liste de masses atomiques rapportées à celle de l'hydrogène.\nIl a aussi décrit le daltonisme, dont il souffrait, et tenu 57 ans un journal météo de plus de 200 000 mesures.",
     "details": {
       "epoque": "Fin du XVIIIe et début du XIXe siècle (1766-1844).",
       "pourquoiCelebre": "Il est le père de la théorie atomique moderne : chaque élément est fait d'atomes identiques, et les réactions chimiques ne font que les réarranger.",
@@ -5475,7 +5476,7 @@
     "type": "personnage",
     "title": "Humphry Davy",
     "subtitle": "Chimiste britannique, 1778-1829",
-    "summary": "Humphry Davy, fils d'un sculpteur sur bois de Cornouailles, devient apprenti chez un chirurgien et y fait ses premières expériences. Grâce à l'électricité, il isole en 1807 et 1808 le sodium, le potassium, le calcium et d'autres métaux, et fonde l'électrochimie.\nIl est aussi l'inventeur de la lampe de sûreté des mineurs et l'homme qui a fait connaître le « gaz hilarant ».",
+    "summary": "Humphry Davy, fils d'un sculpteur sur bois de Cornouailles, devient apprenti chez un chirurgien et mène chez lui ses premières expériences de chimie. Grâce à l'électricité, il isole en 1807 et 1808 le sodium, le potassium, le calcium et d'autres métaux, et fonde l'électrochimie.\nIl est aussi l'inventeur de la lampe de sûreté des mineurs et l'homme qui a fait connaître le « gaz hilarant ».",
     "details": {
       "epoque": "Fin du XVIIIe et début du XIXe siècle (1778-1829).",
       "pourquoiCelebre": "Il a isolé plusieurs métaux par électrolyse et inventé la lampe de sûreté qui a protégé les mineurs des explosions de grisou.",
@@ -5493,7 +5494,7 @@
       "sections": [
         {
           "titre": "Des métaux arrachés par l'électricité",
-          "texte": "À la Royal Institution de Londres, Davy utilise le courant d'une pile pour décomposer des substances que l'on croyait simples. En 1807, il isole ainsi le potassium et le sodium ; en 1808, le magnésium, le calcium, le strontium et le baryum. Ce moyen d'analyse nouveau, l'électrochimie, lui sert aussi à prouver que le chlore est un élément à part entière."
+          "texte": "À la Royal Institution de Londres, Davy utilise le courant d'une pile pour décomposer des substances que l'on croyait simples. En 1807, il isole ainsi le potassium et le sodium ; en 1808, le magnésium, le calcium, le strontium et le baryum. Il montre aussi que le chlore, que l'on prenait alors pour un composé, est un élément à part entière."
         },
         {
           "titre": "Gaz hilarant et lampe des mineurs",
@@ -6001,7 +6002,7 @@
         },
         {
           "titre": "Du froid, de l'emballage et de la plongée",
-          "texte": "Liquéfié, l'azote sert de réfrigérant. À l'état de gaz, il remplace l'air dans les emballages alimentaires pour mieux conserver les aliments, et protège objets, musées ou métaux de l'oxydation. Les plongeurs le connaissent aussi : respiré sous pression, l'azote de l'air provoque la narcose, perceptible dès 30 mètres, ce qui explique la limite de 60 mètres en France pour la plongée à l'air."
+          "texte": "Liquéfié, l'azote sert de réfrigérant. À l'état de gaz, il remplace l'air dans les emballages alimentaires pour mieux conserver les aliments, et protège objets, musées ou métaux de l'oxydation. Les plongeurs le connaissent aussi : respiré sous pression, l'azote de l'air provoque la narcose, ressentie dès 30 mètres par les plus sensibles et toxique vers 60 mètres. C'est pourquoi la plongée à l'air est limitée à 60 mètres en France."
         }
       ],
       "anecdotes": [
@@ -6059,7 +6060,7 @@
         },
         {
           "titre": "Blanchir et désinfecter",
-          "texte": "Dès 1785, Claude Berthollet emploie le chlore pour blanchir des tissus. En 1789, il prépare dans son laboratoire de Javel une solution qui reste célèbre : l'eau de Javel. Dans les années 1820, Labarraque l'utilise comme désinfectant, bien avant que l'on connaisse les microbes. Aujourd'hui, le chlore purifie l'eau potable et celle des piscines, et sert à fabriquer de nombreux plastiques."
+          "texte": "Dès 1785, Claude Berthollet emploie le chlore pour blanchir des tissus. En 1789, il met au point une solution qui reste célèbre : l'eau de Javel. Dans les années 1820, Labarraque l'utilise comme désinfectant, bien avant que l'on connaisse les microbes. Aujourd'hui, le chlore purifie l'eau potable et celle des piscines, et sert à fabriquer de nombreux plastiques."
         },
         {
           "titre": "Du sel de table à l'arme",
@@ -6067,7 +6068,7 @@
         }
       ],
       "anecdotes": [
-        "L'eau de Javel doit son nom à Javel, une ville aujourd'hui intégrée à Paris, où Claude Berthollet l'a préparée pour la première fois en 1789."
+        "L'eau de Javel doit son nom à Javel, un ancien village aujourd'hui intégré à Paris, où Claude Berthollet avait son laboratoire et l'a préparée pour la première fois en 1789."
       ],
       "wikipedia": "Chlore"
     },
@@ -6098,7 +6099,7 @@
         }
       ],
       "anecdotes": [
-        "Sous une pression extrême, 200 gigapascals, le sodium cesse de se comporter comme un métal : il devient isolant, d'abord noir, puis rouge et translucide, et finalement transparent."
+        "Comprimé au-delà d'un million et demi de fois la pression atmosphérique, le sodium cesse de se comporter comme un métal : il devient isolant, d'abord noir, puis rouge et translucide, et finalement transparent."
       ],
       "wikipedia": "Sodium"
     },
@@ -6148,7 +6149,7 @@
       "sections": [
         {
           "titre": "Un métal noble et malléable",
-          "texte": "L'or est peu sensible à la corrosion : aucun des acides chlorhydrique, nitrique ou sulfurique ne l'attaque seul. Seule l'eau régale, un mélange de deux acides, le dissout ; cette propriété sert à le purifier. Il est le plus malléable des métaux : un gramme peut être battu en une feuille d'un mètre carré. En électronique, sa résistance à la corrosion et sa conductivité en font un contact fiable."
+          "texte": "L'or résiste à la corrosion : les acides chlorhydrique, nitrique ou sulfurique, pris isolément, ne l'attaquent pas. L'eau régale, un mélange d'acides chlorhydrique et nitrique, le dissout, tout comme les solutions de cyanure des mines. Comme l'acide nitrique dissout l'argent et les métaux communs mais pas l'or, il sert depuis longtemps à le purifier. L'or est le plus malléable des métaux : un gramme peut être battu en une feuille d'un mètre carré. En électronique, sa résistance à la corrosion et sa conductivité en font un contact fiable."
         },
         {
           "titre": "Monnaie, pouvoir et conquêtes",
@@ -6160,7 +6161,7 @@
         }
       ],
       "anecdotes": [
-        "Le rêve des alchimistes s'est réalisé en 1980 : Glenn Seaborg a transformé quelques milliers d'atomes de bismuth en or au laboratoire de Berkeley. Une quantité minuscule, mais la transmutation était réelle."
+        "Le rêve des alchimistes a fini par se réaliser, en quantité infime : dès 1924, le Japonais Hantaro Nagaoka obtient de l'or en bombardant du mercure de neutrons, et en 1980, Glenn Seaborg transforme quelques milliers d'atomes de bismuth en or à Berkeley."
       ],
       "wikipedia": "Or"
     },
@@ -6179,7 +6180,7 @@
       "sections": [
         {
           "titre": "De la planète Uranus au métal",
-          "texte": "Le 24 septembre 1789, Klaproth présente à Berlin le résultat de l'analyse d'une roche venue de la mine de Joachimsthal. Il la baptise d'après Uranus, découverte par William Herschel en 1781, mais il n'a isolé qu'un oxyde, pas le métal. Il faut attendre 1841 pour qu'Eugène Péligot obtienne le vrai métal. Cet oxyde servait aux verriers de Bohême, car il donnait aux verres une fine fluorescence et aux émaux une couleur jaune verdâtre."
+          "texte": "Le 24 septembre 1789, Klaproth présente à Berlin le résultat de l'analyse d'une roche venue de la mine de Joachimsthal. Il baptise sa trouvaille d'après Uranus, découverte par William Herschel en 1781, mais il n'a isolé qu'un oxyde, pas le métal. Il faut attendre 1841 pour qu'Eugène Péligot obtienne le vrai métal. Cet oxyde servait aux verriers de Bohême : il donnait aux verres une fine fluorescence et aux émaux une couleur jaune verdâtre."
         },
         {
           "titre": "Une radioactivité découverte par hasard",
@@ -6191,7 +6192,7 @@
         }
       ],
       "anecdotes": [
-        "Le Rhône charrie, lui, chaque jour environ 80 kilos d'uranium, soit près de trente tonnes par an, arrachés aux roches des Alpes."
+        "Le Rhône charrie chaque jour environ 80 kilos d'uranium, soit près de trente tonnes par an, lessivés par les eaux dans les roches des Alpes."
       ],
       "wikipedia": "Uranium"
     },
@@ -6245,7 +6246,7 @@
         },
         {
           "titre": "Une chasse à l'invisible",
-          "texte": "En 1895, lord Rayleigh constate que l'azote extrait de l'air est plus dense que l'azote fabriqué par réaction chimique. Avec William Ramsay, il en conclut qu'un autre gaz s'y cache et l'isole : l'argon, mot grec qui signifie « paresseux ». En 1898, Ramsay sépare l'air liquide par distillation fractionnée et découvre le krypton (le caché), le néon (le nouveau) et le xénon (l'étranger). Rayleigh et Ramsay reçoivent les Nobel 1904."
+          "texte": "En 1895, lord Rayleigh constate que l'azote extrait de l'air est plus dense que l'azote fabriqué par réaction chimique. Avec William Ramsay, il en conclut qu'un autre gaz s'y cache et l'isole : l'argon, mot grec qui signifie « paresseux ». En 1898, Ramsay sépare l'air liquide par distillation fractionnée et découvre le krypton (le caché), le néon (le nouveau) et le xénon (l'étranger). En 1904, Rayleigh reçoit le Nobel de physique et Ramsay celui de chimie."
         },
         {
           "titre": "Pas si inertes, très utiles",
@@ -6284,7 +6285,7 @@
         }
       ],
       "anecdotes": [
-        "Les Romains ne se lavaient pas au savon : ils se massaient d'huile, puis raclaient huile et saleté avec une lame courbe, le strigile. Chez Pline, le savon sert surtout de teinture pour roussir les cheveux, plus utilisée par les hommes de Germanie que par les femmes."
+        "Jusqu'au Ier siècle au moins, les Romains ne se lavaient pas au savon : ils se massaient d'huile, puis raclaient huile et saleté avec une lame courbe, le strigile. Pline décrit d'ailleurs le savon des Gaulois comme une teinture pour roussir les cheveux, plus utilisée par les hommes de Germanie que par les femmes."
       ],
       "wikipedia": "Savon"
     },
@@ -6311,7 +6312,7 @@
         },
         {
           "titre": "Vitraux, cristallo et cristal au plomb",
-          "texte": "Le mot anglais « glass » remonte à glesum, terme né à Trèves, centre verrier de l'Empire romain tardif. Au Moyen Âge, le verre colore les vitraux des cathédrales, jusqu'aux murs de lumière de la Sainte-Chapelle, à Paris. Au XIIIe siècle, Murano devient la capitale du verre et met au point le cristallo, très clair. Vers 1675, George Ravenscroft invente le cristal au plomb. Aujourd'hui, le verre sert aussi de fibre optique et de laine isolante."
+          "texte": "Le mot anglais « glass » remonte à glesum, terme né à Trèves, centre verrier de l'Empire romain tardif. Au Moyen Âge, le verre colore les vitraux des cathédrales, jusqu'aux murs de lumière de la Sainte-Chapelle, à Paris. Dès le XIIIe siècle, l'île de Murano, à Venise, devient un grand centre verrier ; ses artisans y mettront au point le cristallo, un verre incolore très clair. Vers 1675, l'Anglais George Ravenscroft invente le cristal au plomb. Aujourd'hui, le verre sert aussi de fibre optique et de laine isolante."
         }
       ],
       "anecdotes": [
@@ -6351,7 +6352,7 @@
       "sections": [
         {
           "titre": "Ressusciter des animaux disparus",
-          "texte": "Arrivé à Paris en 1795, Cuvier compare le crâne d'un grand squelette découvert au Paraguay à ceux des paresseux actuels : c'est un paresseux géant, qu'il nomme Megatherium. Il décrit aussi Palaeotherium et Pterodactylus. Avec Alexandre Brongniart, il étudie les couches du bassin de Paris et montre que les fossiles servent à dater les terrains. Il donne aussi son nom à la période jurassique, d'après les couches du massif du Jura."
+          "texte": "Arrivé à Paris en 1795, Cuvier compare le crâne d'un grand squelette découvert en Amérique du Sud à ceux des paresseux actuels : c'est un paresseux géant, qu'il nomme Megatherium. Il décrit aussi Palaeotherium et Pterodactylus. Avec Alexandre Brongniart, il étudie les couches du bassin de Paris et montre que les fossiles servent à dater les terrains. Il donne aussi son nom à la période jurassique, d'après les couches du massif du Jura."
         },
         {
           "titre": "Catastrophes, pouvoir et refus de l'évolution",
@@ -6359,7 +6360,7 @@
         }
       ],
       "anecdotes": [
-        "Précepteur en Normandie pendant la Révolution, Cuvier reconnaît dans un voisin discret l'agronome Henri Tessier, qui se cachait sous une fausse identité pour fuir la Terreur. « Je suis connu, donc perdu », soupire Tessier. « Perdu ! Non », répond Cuvier, qui le protège. Tessier le présente aux savants de Paris : « J'ai trouvé une perle dans le fumier de Normandie. »"
+        "Précepteur en Normandie pendant la Révolution, Cuvier reconnaît dans un voisin discret l'agronome Henri Tessier, qui se cachait sous une fausse identité pour fuir la Terreur. « Je suis connu, donc perdu », soupire Tessier. « Perdu ! Non », répond Cuvier, qui le protège. Tessier le recommande aux savants de Paris et écrit à son ami Parmentier : « Je viens de trouver une perle dans le fumier de Normandie. »"
       ],
       "oeuvres": [
         {
@@ -6491,7 +6492,7 @@
         }
       ],
       "anecdotes": [
-        "Dans sa thèse, Monod observe que des bactéries nourries avec deux sucres poussent en deux phases distinctes, l'une après l'autre, chaque sucre ayant sa phase. Il invente un mot pour cela : la diauxie."
+        "En 1949, Monod publie une équation qui prédit la croissance des bactéries. Cette « équation de Monod » sert encore à dimensionner les stations d'épuration, où des bactéries dégradent les eaux usées ; celle de l'agglomération de Calais porte d'ailleurs son nom."
       ],
       "oeuvres": [
         {
@@ -6556,7 +6557,7 @@
         }
       ],
       "anecdotes": [
-        "Sa première thèse portait sur la viscosité de l'eau à haute température, « le problème le plus ennuyeux qu'on puisse imaginer », disait-il. Pendant la bataille d'Angleterre, une bombe est tombée à travers le toit du laboratoire et a détruit son montage, ce qui l'a détourné de la physique."
+        "Son premier projet de thèse portait sur la viscosité de l'eau à haute température, « le problème le plus ennuyeux qu'on puisse imaginer », disait-il. Pendant la bataille d'Angleterre, une bombe est tombée à travers le toit du laboratoire et a détruit son montage, ce qui l'a détourné de la physique."
       ],
       "oeuvres": [
         {
@@ -6605,7 +6606,7 @@
         }
       ],
       "anecdotes": [
-        "En 1869, le médecin suisse Friedrich Miescher isole l'ADN à partir du pus récupéré sur des bandages de plaies infectées. Il trouve cette « nucléine » riche en phosphore dans toutes les cellules, et jusque dans le sperme de saumon."
+        "En 1869, le médecin suisse Friedrich Miescher isole l'ADN à partir du pus récupéré sur des bandages de plaies infectées. Il trouve cette « nucléine » riche en phosphore dans toutes les cellules, et jusque dans la laitance de saumon."
       ],
       "wikipedia": "Génétique"
     },
@@ -6650,7 +6651,7 @@
     "type": "classique",
     "title": "Béton",
     "subtitle": "Le matériau de construction le plus fabriqué au monde",
-    "summary": "Le béton est un mélange de ciment, d'eau, de sable et de gravillons, qui durcit avec le temps. Aucun matériau n'est produit en aussi grande quantité par l'humanité : dans le monde, on en utilise deux fois plus que d'acier, de bois, de plastique et d'aluminium réunis.\nLes Romains en bâtissaient déjà, avec un ingrédient secret : une roche volcanique.",
+    "summary": "Le béton est un mélange de ciment, d'eau, de sable et de gravillons, qui durcit avec le temps. Aucun matériau n'est produit en aussi grande quantité par l'humanité : dans le monde, on en utilise deux fois plus que d'acier, de bois, de plastique et d'aluminium réunis.\nLes Romains en bâtissaient déjà, avec un ingrédient clé : une roche volcanique.",
     "details": {
       "sections": [
         {
@@ -6698,7 +6699,7 @@
         }
       ],
       "anecdotes": [
-        "Le mot « acier » apparaît dans la Chanson de Roland, après 1080. Il vient d'un mot latin qui désignait la pointe d'une arme ou d'un outil tranchant, et il est de la même famille que « acéré »."
+        "Le mot « acier » apparaît après 1080 dans la Chanson de Roland, sous la forme « acer ». Il vient, par le bas latin, du mot acies, qui désignait la pointe d'une arme ou d'un outil, puis son tranchant : il est de la même famille que « acéré »."
       ],
       "wikipedia": "Acier"
     },
@@ -6717,7 +6718,7 @@
       "sections": [
         {
           "titre": "Comment ça marche",
-          "texte": "Il faut un liquide qui contient des ions libres (une solution ou un sel fondu), deux électrodes et un générateur de courant continu. Les ions positifs migrent vers la cathode, reliée au pôle négatif, et les ions négatifs vers l'anode, au pôle positif. Michael Faraday invente le mot en 1834, du grec « ambre » et « dissolution », et énonce deux lois : la quantité de produit est proportionnelle au courant qui passe."
+          "texte": "Il faut un liquide qui contient des ions libres (une solution ou un sel fondu), deux électrodes et un générateur de courant continu. Les ions positifs migrent vers la cathode, reliée au pôle négatif, et les ions négatifs vers l'anode, au pôle positif. Michael Faraday invente le mot en 1834, du grec « ambre » et « dissolution ». Il énonce aussi deux lois, dont la première dit que la quantité de produit formé est proportionnelle à la quantité d'électricité qui a traversé le liquide."
         },
         {
           "titre": "Des découvertes en cascade",
@@ -6752,11 +6753,11 @@
         },
         {
           "titre": "Des alchimistes aux eaux-de-vie",
-          "texte": "Aristote sait déjà que l'eau de mer évaporée puis condensée est douce, mais la vraie distillation apparaît avec les alchimistes d'Alexandrie, au Ier siècle de notre ère. Zosime de Panopolis laisse la première description précise d'un alambic. Vers l'an 800, Jabir ibn Hayyan perfectionne la cornue. Au XIIe siècle, on distille le vin à Salerne : l'« eau ardente » devient boisson, mais aussi remède."
+          "texte": "Aristote sait déjà que l'eau de mer évaporée puis condensée est douce, mais la vraie distillation apparaît avec les alchimistes d'Alexandrie, au Ier siècle de notre ère. Zosime de Panopolis laisse la première description précise d'un alambic. Les textes arabes attribués à Jabir ibn Hayyan font ensuite une large place à la distillation fractionnée. Au XIIe siècle, on distille le vin à Salerne : l'« eau ardente » devient boisson, mais aussi remède."
         },
         {
           "titre": "Livres, alambics et colonnes",
-          "texte": "En 1500, l'Allemand Hieronymus Brunschwig publie le premier livre entièrement consacré à la distillation ; John French publie le sien en 1651. Les alambics en cuivre, encore employés pour le cognac ou le whisky, ont un serpentin refroidi à l'eau. En 1830, Aeneas Coffey fait breveter une colonne à fonctionnement continu, ancêtre des raffineries. Aujourd'hui, la distillation consomme environ 25 % de l'énergie industrielle."
+          "texte": "En 1500, l'Allemand Hieronymus Brunschwig publie le premier livre entièrement consacré à la distillation ; John French publie le sien en 1651. Les alambics en cuivre, encore employés pour le cognac ou le whisky, ont un serpentin refroidi à l'eau. En 1830, Aeneas Coffey fait breveter une colonne à fonctionnement continu, ancêtre des colonnes de raffinerie. Gourmande en chaleur, la distillation absorberait environ un quart de l'énergie consommée par l'industrie."
         }
       ],
       "anecdotes": [
@@ -6783,7 +6784,7 @@
         },
         {
           "titre": "Du monde arabe à l'Europe",
-          "texte": "Le mot vient de l'arabe al-kīmiyā, lui-même issu du grec. L'alchimie se développe dans le monde arabo-musulman, avec Jabir ibn Hayyan, puis arrive en Europe grâce aux traductions latines du XIIe siècle. Les alchimistes gardent le secret de leurs travaux, qu'ils couvrent d'un langage codé et de symboles. Ils attribuent leurs textes à Hermès Trismégiste, figure mythique, dont la célèbre Tablette d'émeraude reste énigmatique."
+          "texte": "Le mot vient de l'arabe al-kīmiyā, lui-même issu du grec. L'alchimie se développe dans le monde arabo-musulman, avec Jabir ibn Hayyan, puis arrive en Europe grâce aux traductions latines du XIIe siècle. Les alchimistes gardent le secret de leurs travaux, qu'ils couvrent d'un langage codé et de symboles, et attribuent volontiers leurs textes à des auteurs célèbres ou mythiques. La figure centrale est Hermès Trismégiste, à qui l'on prête la Tablette d'émeraude, texte bref et énigmatique."
         },
         {
           "titre": "Le divorce avec la chimie",
@@ -6810,7 +6811,7 @@
       "sections": [
         {
           "titre": "Une substance aux trois pouvoirs",
-          "texte": "Les premiers textes qui la mentionnent sont ceux de Zosime de Panopolis, vers l'an 300. Elle est souvent imaginée comme une poudre rouge, d'où vient le mot « élixir », de l'arabe al-iksir. Selon Jabir ibn Hayyan, chaque métal combine quatre qualités (chaud, froid, sec, humide) : en les réarrangeant, on pourrait transformer un métal en un autre. Paracelse croyait, lui, à l'« alkaest », élément dont tous les autres dériveraient."
+          "texte": "Les premiers textes qui la mentionnent sont ceux de Zosime de Panopolis, vers l'an 300. Selon Jabir ibn Hayyan, chaque métal combine quatre qualités (chaud, froid, sec, humide) : en les réarrangeant, on pourrait transformer un métal en un autre. L'agent de ce changement, souvent imaginé comme une poudre rouge tirée de la pierre, s'appelle al-iksir en arabe, d'où notre mot « élixir ». Paracelse croyait, lui, à l'« alkaest », élément dont tous les autres dériveraient."
         },
         {
           "titre": "Sceptiques et charlatans",
@@ -6876,7 +6877,7 @@
         },
         {
           "titre": "Héréditaire ou non ?",
-          "texte": "Une mutation des cellules sexuelles est transmise à l'enfant. Une mutation des autres cellules, dite somatique, n'est pas héréditaire. Elle peut parfois conduire une cellule à se multiplier de façon anormale. Les mutations naissent d'erreurs de copie ou sont favorisées par des agents mutagènes, comme les rayonnements ionisants. En moyenne, chaque être humain transmet environ 60 nouvelles mutations à ses enfants."
+          "texte": "Une mutation des cellules sexuelles peut être transmise à l'enfant. Une mutation des autres cellules, dite somatique, n'est pas héréditaire. Elle peut parfois conduire une cellule à se multiplier de façon anormale. Les mutations naissent d'erreurs de copie ou sont favorisées par des agents mutagènes, comme les rayonnements ionisants. En moyenne, chaque être humain transmet environ 60 nouvelles mutations à ses enfants."
         },
         {
           "titre": "Un moteur de l'évolution",
@@ -6907,7 +6908,7 @@
         },
         {
           "titre": "Un tri qui dépend du milieu",
-          "texte": "Un avantage n'existe que dans un milieu donné. Une fourrure blanche camoufle dans la neige, mais pas si l'environnement devient forestier et sombre. Sous un fort soleil, la peau foncée est un atout ; sous un faible ensoleillement, la peau claire aide à produire la vitamine D. Autre surprise : les yeux des vertébrés et ceux des céphalopodes se ressemblent beaucoup, alors que leur ancêtre commun n'avait pas d'yeux complexes."
+          "texte": "Un avantage n'existe que dans un milieu donné. Une fourrure blanche camoufle dans la neige, mais pas si l'environnement devient forestier et sombre. Sous un fort soleil, la peau foncée est un atout ; sous un faible ensoleillement, la peau claire aide à produire la vitamine D. Des milieux semblables mènent même à des solutions semblables : les yeux des vertébrés et ceux des céphalopodes (pieuvres, calmars) se ressemblent beaucoup, alors que leur ancêtre commun n'avait pas d'yeux complexes. C'est l'évolution convergente."
         },
         {
           "titre": "Une idée plus ancienne que Darwin",
@@ -6929,7 +6930,7 @@
     "type": "classique",
     "title": "Écosystème",
     "subtitle": "Ensemble des êtres vivants d'un lieu et de leur milieu",
-    "summary": "Un écosystème réunit une communauté d'êtres vivants (la biocénose) et le milieu où ils vivent (le biotope), qui échangent sans cesse de l'énergie et de la matière. Une flaque, une prairie, une forêt, et même un simple caillou peuvent être vus comme des écosystèmes.\nLe mot est né en 1935 chez le botaniste britannique Arthur George Tansley, pour souligner l'importance des échanges entre les organismes et leur milieu.",
+    "summary": "Un écosystème réunit une communauté d'êtres vivants (la biocénose) et le milieu où ils vivent (le biotope), qui échangent sans cesse de l'énergie et de la matière. Une flaque, une prairie, une forêt, et même un simple caillou peuvent être vus comme des écosystèmes.\nLe mot apparaît en 1935 sous la plume du botaniste britannique Arthur George Tansley, qui voulait souligner l'importance des échanges entre les organismes et leur milieu.",
     "details": {
       "sections": [
         {
@@ -6946,7 +6947,7 @@
         }
       ],
       "anecdotes": [
-        "Selon l'article anglais, le mot « écosystème » a été imaginé par le botaniste Arthur Roy Clapham, à la demande de Tansley, qui en a ensuite fait un concept central de l'écologie."
+        "Le mot « écosystème » n'est pas de Tansley lui-même : c'est le botaniste Arthur Roy Clapham qui l'a trouvé, à sa demande. Tansley l'a lancé en 1935 et en a fait un concept clé de l'écologie."
       ],
       "wikipedia": "Écosystème"
     },
@@ -7000,7 +7001,7 @@
         },
         {
           "titre": "Chez les animaux et les plantes",
-          "texte": "Les vertébrés reçoivent leur microbiote pendant la gestation, à la naissance et par l'allaitement. Les bovins, eux, comptent sur les microbes de leur rumen pour digérer la cellulose de l'herbe. Les plantes ont aussi leur microbiote : certains arbres pionniers captent ainsi mieux l'azote de l'air. Dans les fromages au lait cru, le microbiote du lait aide à tenir à distance la bactérie Listeria."
+          "texte": "Les mammifères reçoivent leur microbiote pendant la gestation, à la naissance et par l'allaitement. Les bovins, eux, comptent sur les microbes de leur rumen pour digérer la cellulose de l'herbe. Les plantes ont aussi leur microbiote : certains arbres pionniers captent ainsi mieux l'azote de l'air. Dans les fromages au lait cru, le microbiote du lait aide à tenir à distance la bactérie Listeria."
         },
         {
           "titre": "Des alliés chez les insectes et dans le verre",
@@ -7035,7 +7036,7 @@
         },
         {
           "titre": "Des plantes aux animaux d'élevage",
-          "texte": "Les fraisiers lancent des stolons qui s'enracinent, et l'olivier émet des rejets autour de sa souche : ce sont des clones. En laboratoire, la culture in vitro de morceaux de plante produit des « vitroplants », seule méthode possible pour des palmiers comme le dattier. Le clonage végétal a aidé à réimplanter en 2007 une espèce disparue, Cylindrocline lorencei, au conservatoire botanique de Brest."
+          "texte": "Les fraisiers lancent des stolons qui s'enracinent, et l'olivier émet des rejets autour de sa souche : ce sont des clones. En laboratoire, la culture in vitro de morceaux de plante produit des « vitroplants », seule méthode possible pour des palmiers comme le dattier. En 2007, le clonage végétal a permis au conservatoire botanique de Brest de réimplanter, à partir de vieilles graines, une espèce disparue de la nature, Cylindrocline lorencei."
         }
       ],
       "anecdotes": [
@@ -7093,7 +7094,7 @@
         },
         {
           "titre": "Stable, mais pas figé",
-          "texte": "Cannon a choisi le grec hómoios, « semblable », plutôt que « identique » : les valeurs peuvent bouger, mais restent dans une plage. La température varie ainsi au fil de la journée, plus basse la nuit, et le corps relève volontairement son réglage pour produire de la fièvre. Quand l'homéostasie se dérègle, des maladies comme le diabète de type 1 peuvent apparaître."
+          "texte": "Cannon a choisi le grec hómoios, « semblable », plutôt que « identique » : les valeurs peuvent bouger, mais restent dans une plage. La température varie ainsi au fil de la journée, plus basse la nuit, et lors d'une infection l'organisme relève lui-même son réglage pour produire de la fièvre. Quand l'homéostasie se dérègle, des maladies comme le diabète de type 1 peuvent apparaître."
         },
         {
           "titre": "Une idée venue de Grèce",
@@ -7250,7 +7251,7 @@
         },
         {
           "titre": "De l'espace courbe aux nombres premiers",
-          "texte": "Dans sa leçon du 10 juin 1854, il étend à n dimensions la géométrie des surfaces de Gauss, ouvrant la voie aux géométries non euclidiennes. Le texte n'est publié qu'en 1868, deux ans après sa mort. En 1859, il définit une fonction zêta pour étudier comment les nombres premiers se répartissent. L'hypothèse de Riemann figure parmi les 23 problèmes de Hilbert et les 7 problèmes du millénaire."
+          "texte": "Dans sa leçon du 10 juin 1854, il étend à n dimensions la géométrie des surfaces de Gauss, ce qui donne un cadre général aux géométries non euclidiennes. Le texte n'est publié qu'en 1868, deux ans après sa mort. En 1859, il définit une fonction zêta pour étudier comment les nombres premiers se répartissent. L'hypothèse de Riemann figure parmi les 23 problèmes de Hilbert et les 7 problèmes du millénaire."
         }
       ],
       "anecdotes": [
@@ -7311,7 +7312,7 @@
         },
         {
           "titre": "Une théorie qui dérange",
-          "texte": "Le mathématicien Leopold Kronecker rejette ces idées : pour lui, seuls les entiers viennent de Dieu, et tout le reste est une construction humaine. Kronecker dirigeait les mathématiques à Berlin, et Cantor est resté à Halle. La Royal Society lui décerne la médaille Sylvester en 1904, et David Hilbert déclare que nul ne doit nous chasser du paradis que Cantor a créé."
+          "texte": "Le mathématicien Leopold Kronecker rejette ces idées : pour lui, seuls les entiers viennent de Dieu, et tout le reste est une construction humaine. Kronecker, qui dirige les mathématiques à Berlin, ne veut pas de Cantor comme collègue : celui-ci reste toute sa carrière à Halle. La Royal Society lui décerne la médaille Sylvester en 1904, et David Hilbert déclare que nul ne doit nous chasser du paradis que Cantor a créé."
         }
       ],
       "anecdotes": [
@@ -7378,7 +7379,7 @@
         },
         {
           "titre": "Axiomes et logique",
-          "texte": "En 1899, Hilbert remplace les cinq axiomes de la géométrie d'Euclide par vingt, plus rigoureux. Son idée : peu importe ce que sont les objets, seules comptent leurs relations. Il défend aussi la théorie des ensembles de Cantor. Il rêvait de fonder toutes les mathématiques sur la logique, mais, un an après sa célèbre devise, Gödel a démontré que ce rêve était limité."
+          "texte": "En 1899, Hilbert remplace les cinq postulats d'Euclide par vingt axiomes, plus rigoureux. Son idée : peu importe ce que sont les objets, seules comptent leurs relations. Il défend aussi la théorie des ensembles de Cantor. Il rêve d'axiomatiser toutes les mathématiques et d'en prouver la cohérence ; en 1930, il lance : « Nous devons savoir, nous saurons. » Mais dès 1931, Gödel démontre que ce programme ne peut pas aboutir pleinement."
         }
       ],
       "anecdotes": [
@@ -7566,7 +7567,7 @@
         }
       ],
       "anecdotes": [
-        "Pour attirer Lagrange à Berlin, Frédéric II lui écrit qu'un roi de sa grandeur se doit d'avoir à ses côtés le meilleur mathématicien du continent. Lagrange avait d'abord refusé tant qu'Euler y serait."
+        "Pour attirer Lagrange à Berlin en 1766, Frédéric II lui écrit : « Mon désir est que le plus grand roi d'Europe puisse compter parmi sa cour le plus grand mathématicien d'Europe. » Un an plus tôt, Lagrange avait décliné le poste « tant que Monsieur Euler s'y trouvera »."
       ],
       "wikipedia": "Joseph-Louis Lagrange"
     },
@@ -7621,7 +7622,7 @@
       "sections": [
         {
           "titre": "Du cidre normand à l'Académie",
-          "texte": "Fils d'un commerçant de cidre de Beaumont-en-Auge, Laplace est instruit d'abord par son oncle, un abbé. En 1769, il monte à Paris avec une lettre pour d'Alembert, qui n'est convaincu que par un court essai de quatre pages consacré à l'inertie. Il enseigne alors à l'École royale militaire. En 1785, il examine un candidat à l'artillerie : le jeune Napoléon Bonaparte. Il entre à l'Académie des sciences en 1773."
+          "texte": "Fils d'un commerçant de cidre de Beaumont-en-Auge, Laplace est instruit d'abord par son oncle, un abbé. En 1769, il monte à Paris avec une lettre pour d'Alembert, qui n'est convaincu que par un court essai de quatre pages consacré à l'inertie. Il enseigne alors à l'École royale militaire et entre à l'Académie des sciences en 1773, à 24 ans. Examinateur de l'artillerie, il interroge en 1785 un candidat de 16 ans : le jeune Napoléon Bonaparte."
         },
         {
           "titre": "Le ciel, le hasard et le mètre",
@@ -7652,11 +7653,11 @@
         },
         {
           "titre": "Un nombre aux nombreux parrains",
-          "texte": "Napier publie en 1618 des tables de logarithmes sans identifier e. Vers 1690, Leibniz le repère enfin comme base du logarithme naturel et le note b, dans des lettres à Huygens. Euler adopte la lettre e dès 1727 ou 1728, puis prouve en 1737 qu'il est irrationnel et en donne 23 décimales. En 1873, Charles Hermite démontre qu'il est transcendant. On l'appelle aussi nombre d'Euler ou constante de Néper."
+          "texte": "Au début du XVIIe siècle, les tables de logarithmes de Napier frôlent e sans jamais l'identifier. Vers 1690, Leibniz le repère comme base du logarithme naturel et le note b, dans des lettres à Huygens. Euler adopte la lettre e dès 1727 ou 1728, puis prouve en 1737 qu'il est irrationnel et en donne 23 décimales. En 1873, Charles Hermite démontre qu'il est transcendant. On l'appelle aussi nombre d'Euler ou constante de Néper."
         },
         {
           "titre": "Un nombre qui revient partout",
-          "texte": "On retrouve e dans la célèbre identité d'Euler, où e puissance iπ égale −1, dans la formule de Stirling, qui approche les factorielles, et en probabilités ou en combinatoire. La fonction exponentielle, qui élève e à la puissance x, est la seule à être égale à sa propre pente en chaque point. Avec des intérêts continus, un taux R sur t années multiplie le capital par e puissance R fois t."
+          "texte": "On retrouve e dans la célèbre identité d'Euler, où e puissance iπ égale −1, dans la formule de Stirling, qui approche les factorielles, et en probabilités ou en combinatoire. La fonction exponentielle, qui élève e à la puissance x, est la seule fonction valant 1 en 0 à être égale à sa propre pente en chaque point. Avec des intérêts continus, un taux R sur t années multiplie le capital par e puissance R fois t."
         }
       ],
       "anecdotes": [
@@ -7753,7 +7754,7 @@
         }
       ],
       "anecdotes": [
-        "Le même nom désigne deux théorèmes différents : en Allemagne, le « théorème de Thalès » concerne le triangle inscrit dans un demi-cercle, tandis qu'aux États-Unis et en Angleterre, on ne connaissait tout simplement pas de théorème de Thalès."
+        "Le manuel de géométrie de Jacques Hadamard, paru en 1898 et réédité de nombreuses fois, ne cite pas Thalès : il appelle ce résultat le « théorème fondamental » des lignes proportionnelles. Les Allemands, eux, parlent de Strahlensatz, le « théorème des demi-droites »."
       ],
       "wikipedia": "Théorème de Thalès"
     },
@@ -7842,7 +7843,7 @@
         },
         {
           "titre": "Des usages et des pièges",
-          "texte": "On l'emploie en météorologie, démographie, sociologie, marketing, médecine, assurance, génomique. Elle distingue deux erreurs : le faux positif, qui rejette à tort une hypothèse, et le faux négatif. Les biais et les erreurs de mesure compliquent l'analyse. Selon Tukey, on explore d'abord les données pour formuler des hypothèses, puis on les confirme ou les infirme par d'autres expériences."
+          "texte": "On l'emploie en météorologie, démographie, sociologie, marketing, médecine, assurance, génomique. Un test peut se tromper de deux façons : le faux positif rejette à tort l'hypothèse de départ alors qu'elle est vraie, le faux négatif la conserve alors qu'elle est fausse. Les biais et les erreurs de mesure compliquent l'analyse. Selon Tukey, on explore d'abord les données pour formuler des hypothèses, puis on les confirme ou les infirme par d'autres expériences."
         }
       ],
       "anecdotes": [
@@ -7873,7 +7874,7 @@
         },
         {
           "titre": "Quand l'algèbre devient abstraite",
-          "texte": "Abel, puis Galois, montrent qu'aucune formule générale avec des racines ne résout les équations de degré 5 ou plus. Galois y parvient en étudiant comment on peut permuter les solutions. On calcule dès lors sur des objets qui ne sont plus des nombres : Boole crée son algèbre, Hamilton les quaternions, Cayley et Sylvester les matrices. Au XXe siècle, le groupe Bourbaki réécrit les mathématiques sur ces bases."
+          "texte": "Abel, puis Galois, montrent qu'aucune formule générale à base de radicaux (racines carrées, cubiques…) ne résout les équations de degré 5 ou plus. Galois explique pourquoi en étudiant comment on peut permuter les solutions. On calcule dès lors sur des objets qui ne sont plus des nombres : Boole crée son algèbre, Hamilton les quaternions, Cayley et Sylvester les matrices. Au XXe siècle, le groupe Bourbaki réécrit les mathématiques sur ces bases."
         }
       ],
       "anecdotes": [
@@ -7904,7 +7905,7 @@
         },
         {
           "titre": "Une discipline du XXe siècle",
-          "texte": "Poincaré publie Analysis Situs en 1895. Fréchet définit l'espace métrique en 1906, Brouwer démontre l'invariance de la dimension en 1911 et devient le père de la topologie, Hausdorff invente le terme « espace topologique » en 1914. La conjecture de Poincaré, mise à l'honneur en 2000 parmi les sept problèmes dotés du prix du millénaire, est démontrée par Perelman au début du XXIe siècle."
+          "texte": "Poincaré publie Analysis Situs en 1895. Fréchet définit l'espace métrique en 1906 ; Brouwer démontre l'invariance de la dimension en 1911, ce qui lui vaut d'être vu comme le père de la topologie ; Hausdorff invente le terme « espace topologique » en 1914. La conjecture de Poincaré, mise à l'honneur en 2000 parmi les sept problèmes dotés du prix du millénaire, est démontrée par Perelman au début du XXIe siècle."
         }
       ],
       "anecdotes": [
@@ -7931,11 +7932,11 @@
         },
         {
           "titre": "Une dimension qui n'est pas entière",
-          "texte": "Une ligne a pour dimension 1, un carré 2. Chaque côté du flocon de Koch se compose de quatre copies de lui-même, trois fois plus petites : sa dimension se situe entre celle d'une ligne et celle d'une surface. Sa longueur est infinie, car chaque détail réapparaît quand on regarde plus près. Le triangle de Sierpiński compte trois copies réduites de moitié."
+          "texte": "Une ligne a pour dimension 1, un carré 2. Chaque côté du flocon de Koch se compose de quatre copies de lui-même, trois fois plus petites : sa dimension, d'environ 1,26, se situe entre celle d'une ligne et celle d'une surface. Sa longueur est infinie, car chaque détail réapparaît quand on regarde plus près. Le triangle de Sierpiński, fait de trois copies réduites de moitié, a une dimension d'environ 1,58."
         },
         {
           "titre": "Du poumon au téléphone",
-          "texte": "Nuages, flocons de neige, montagnes, réseaux de rivières, brocoli, vaisseaux sanguins et cortex cérébral ont des allures fractales. L'ordinateur imite les arbres et les fougères avec des procédés répétitifs, et fabrique des montagnes en déplaçant au hasard le milieu de triangles de plus en plus petits. Les fractales servent aussi à compresser des images et à concevoir des antennes de téléphones portables."
+          "texte": "Nuages, flocons de neige, montagnes, réseaux de rivières, brocoli, vaisseaux sanguins, poumons et cortex cérébral ont des allures fractales. L'ordinateur imite les arbres et les fougères avec des procédés répétitifs, et fabrique des montagnes en déplaçant au hasard le milieu de triangles de plus en plus petits. Les fractales servent aussi à compresser des images et à concevoir des antennes de téléphones portables."
         }
       ],
       "anecdotes": [
@@ -7989,7 +7990,7 @@
       "sections": [
         {
           "titre": "Zêta et les nombres premiers",
-          "texte": "Euler avait déjà relié la fonction zêta aux nombres premiers, en lien avec le problème de Bâle. Dans son article de 1859, Riemann en tire une formule pour compter les nombres premiers inférieurs à une valeur donnée. Selon cette formule, les zéros de zêta (les valeurs qui l'annulent) gouvernent les écarts des nombres premiers par rapport à leur position attendue."
+          "texte": "Euler avait déjà étudié cette fonction, notamment pour résoudre le problème de Bâle, et montré qu'elle s'écrit comme un produit portant sur tous les nombres premiers. Dans son article de 1859, Riemann en tire une formule pour compter les nombres premiers inférieurs à une valeur donnée. Selon cette formule, les zéros de zêta (les valeurs qui l'annulent) gouvernent les écarts des nombres premiers par rapport à leur position attendue."
         },
         {
           "titre": "Une droite critique",
@@ -8028,7 +8029,7 @@
         },
         {
           "titre": "Un défi hors de portée",
-          "texte": "Deux questions se cachent derrière : toute suite reste-t-elle bornée, et existe-t-il un autre cycle que 4, 2, 1 ? Les ordinateurs ont vérifié la conjecture pour tous les entiers jusqu'à plus de deux mille milliards de milliards, sans preuve générale. Paul Erdős a estimé que les mathématiques n'étaient pas encore prêtes pour de tels problèmes."
+          "texte": "Deux questions se cachent derrière : toute suite reste-t-elle bornée, et existe-t-il un autre cycle que 4, 2, 1 ? Au milieu des années 2020, les ordinateurs avaient vérifié la conjecture pour tous les entiers jusqu'à plus de deux mille milliards de milliards, sans qu'aucune preuve générale existe. Paul Erdős a estimé que les mathématiques n'étaient pas encore prêtes pour de tels problèmes."
         }
       ],
       "anecdotes": [
@@ -8082,7 +8083,7 @@
       "sections": [
         {
           "titre": "Pourquoi l'intuition se trompe",
-          "texte": "On confond deux questions. L'une : deux personnes quelconques du groupe fêtent-elles leur anniversaire le même jour ? L'autre : quelqu'un partage-t-il MA date ? La seconde est bien moins probable : il faudrait réunir au moins 253 personnes pour dépasser une chance sur deux. Dans la première, on compare tous les couples possibles, ce qui fait vite grimper la probabilité."
+          "texte": "On confond deux questions. L'une : deux personnes quelconques du groupe fêtent-elles leur anniversaire le même jour ? L'autre : quelqu'un partage-t-il MA date ? La seconde est bien moins probable : il faudrait réunir au moins 253 personnes pour dépasser une chance sur deux. Dans la première, on compare tous les couples possibles : avec 23 personnes, il y en a déjà 253, ce qui fait vite grimper la probabilité."
         },
         {
           "titre": "Le calcul, pas à pas",
@@ -8113,7 +8114,7 @@
       "sections": [
         {
           "titre": "Pourquoi changer est plus malin",
-          "texte": "Votre premier choix a une chance sur trois d'être la voiture. Si vous avez choisi une chèvre, ce qui arrive deux fois sur trois, le présentateur doit ouvrir l'autre chèvre : la porte restante cache donc la voiture. Beaucoup pensent qu'il reste deux portes à égalité, mais la porte ouverte n'a pas été choisie au hasard, et cette erreur ignore comment elle a été sélectionnée."
+          "texte": "Votre premier choix a une chance sur trois d'être la voiture. Si vous avez choisi une chèvre, ce qui arrive deux fois sur trois, le présentateur doit ouvrir l'autre chèvre : la porte restante cache donc la voiture. Beaucoup pensent qu'il reste deux portes à égalité, mais c'est oublier que le présentateur, qui sait où est la voiture, n'a pas ouvert sa porte au hasard."
         },
         {
           "titre": "Les règles que l'énoncé ne dit pas",
@@ -8121,7 +8122,7 @@
         },
         {
           "titre": "Une polémique mondiale",
-          "texte": "Le problème est posé par Steve Selvin en 1975. Il devient célèbre en 1990, quand Marilyn vos Savant le résout dans sa rubrique du Parade Magazine, à la suite d'une lettre de Craig Whitaker. Environ 10 000 lecteurs, dont près de 1 000 docteurs, lui écrivent, la plupart pour dire qu'elle se trompe. En 1991, le New York Times en fait sa une."
+          "texte": "Le problème est posé par Steve Selvin en 1975. Il devient célèbre en 1990, quand Marilyn vos Savant le résout dans sa rubrique du Parade Magazine, à la suite d'une lettre de Craig Whitaker. Environ 10 000 lecteurs, dont près de 1 000 titulaires d'un doctorat, lui écrivent, la plupart pour dire qu'elle se trompe. En 1991, le New York Times en fait sa une."
         }
       ],
       "anecdotes": [
@@ -8148,7 +8149,7 @@
         },
         {
           "titre": "La conquête de l'Europe",
-          "texte": "Les chiffres apparaissent dans le Codex Vigilanus, en 976, puis Gerbert d'Aurillac, futur pape Sylvestre II, les fait connaître avec son abaque. Fibonacci, qui a étudié à Béjaïa, publie en 1202 son Liber abaci. Pourtant, Florence en interdit l'usage aux marchands, puis partout en 1299. Il faut attendre la Renaissance, l'imprimerie et le commerce pour qu'ils écartent les chiffres romains."
+          "texte": "Les chiffres de 1 à 9 apparaissent en Occident dans le Codex Vigilanus, en 976, puis Gerbert d'Aurillac, futur pape Sylvestre II, contribue à les faire connaître. Fibonacci, qui a étudié à Béjaïa, publie en 1202 son Liber abaci. Pourtant, Florence en interdit l'usage dans les contrats et les documents officiels, puis, en 1299, jusque dans les comptes privés des marchands. Il faut attendre la Renaissance, l'imprimerie et l'essor du commerce pour qu'ils écartent les chiffres romains."
         },
         {
           "titre": "Des mots et des formes",
@@ -8179,7 +8180,7 @@
         },
         {
           "titre": "Que se passe-t-il quand on coupe ?",
-          "texte": "Coupé en deux le long de son milieu, il ne donne pas deux rubans mais un seul, à deux faces, vrillé et deux fois plus long. Coupé à un tiers de la largeur, il donne deux rubans entrelacés : un petit ruban de Möbius et un ruban à deux faces. Deux rubans de Möbius collés par leur bord forment une bouteille de Klein."
+          "texte": "Coupé en deux le long de son milieu, il ne donne pas deux rubans mais un seul, à deux faces, vrillé et deux fois plus long. Coupé à un tiers de la largeur, il donne deux rubans entrelacés : un petit ruban de Möbius et un ruban à deux faces. Deux rubans de Möbius collés par leur bord forment une bouteille de Klein, un objet impossible à construire dans notre espace sans déchirer le papier."
         },
         {
           "titre": "Des mosaïques aux logos",
@@ -8214,11 +8215,11 @@
         },
         {
           "titre": "Qui les a découverts ?",
-          "texte": "Les sources divergent. Selon Proclus, Pythagore les connaissait, mais les pythagoriciens n'auraient maîtrisé que le tétraèdre, le cube et le dodécaèdre. Le mathématicien Théétète d'Athènes aurait découvert l'octaèdre et l'icosaèdre, et surtout il serait le premier à avoir construit les cinq. Une grande partie du dernier livre des Éléments d'Euclide, entièrement consacré à ces solides, viendrait probablement de son travail."
+          "texte": "Les sources divergent. Selon Proclus, Pythagore les connaissait, mais les pythagoriciens n'auraient maîtrisé que le tétraèdre, le cube et le dodécaèdre. Le mathématicien Théétète d'Athènes aurait découvert l'octaèdre et l'icosaèdre, et surtout il serait le premier à avoir construit les cinq. Une grande partie du dernier livre des Éléments d'Euclide, consacré à ces solides, viendrait probablement de son travail."
         }
       ],
       "anecdotes": [
-        "En 1596, dans le Mysterium Cosmographicum, Kepler imagine le Système solaire comme cinq solides de Platon emboîtés entre six sphères, une par planète connue : l'octaèdre pour Mercure, puis l'icosaèdre, le dodécaèdre, le tétraèdre et enfin le cube pour Saturne. L'idée était fausse, mais en la creusant il a compris que les orbites des planètes sont des ellipses et non des cercles, et il a trouvé ses célèbres lois du mouvement planétaire."
+        "En 1596, dans le Mysterium Cosmographicum, Kepler imagine le Système solaire comme cinq solides de Platon emboîtés entre les six sphères des planètes connues : l'octaèdre entre Mercure et Vénus, puis l'icosaèdre, le dodécaèdre, le tétraèdre et enfin le cube, entre Jupiter et Saturne. L'idée était fausse, mais en la creusant il a compris que les orbites des planètes sont des ellipses et non des cercles, et il a trouvé ses célèbres lois du mouvement planétaire."
       ],
       "wikipedia": "Solide de Platon"
     },
@@ -8237,11 +8238,11 @@
       "sections": [
         {
           "titre": "Une légende inventée de toutes pièces",
-          "texte": "Présenté en 1883, le jeu est accompagné d'une légende : à Bénarès, des prêtres déplaceraient jour et nuit 64 disques d'or enfilés sur trois aiguilles de diamant, selon les mêmes règles. L'achèvement de la tour provoquerait la chute des prêtres et la fin du monde. Lucas publie le problème en 1889, puis dans ses Récréations mathématiques (1892, après sa mort). Le jeu doit son nom à la capitale du Vietnam actuel."
+          "texte": "Présenté en 1883, le jeu est accompagné d'une légende : dans un temple de Bénarès, des prêtres déplaceraient jour et nuit 64 disques d'or d'une aiguille de diamant à une autre, selon les mêmes règles. Une fois la tour transportée, la tour et les prêtres tomberaient, et ce serait la fin du monde. Lucas publie le problème en 1889, puis dans ses Récréations mathématiques (1892, après sa mort). Le jeu doit son nom à la capitale du Vietnam actuel."
         },
         {
           "titre": "Une solution qui se répète sur elle-même",
-          "texte": "Pour déplacer n disques : on déplace les n − 1 disques du dessus sur la tige intermédiaire, on pose le plus grand sur la tige d'arrivée, puis on replace les n − 1 autres par-dessus. Cette méthode, la récursivité, est la seule solution la plus courte ; on l'enseigne en informatique. Avec 64 disques, il faudrait des milliards de milliards de coups : à un coup par seconde, 585 milliards d'années, des dizaines de fois l'âge estimé de l'univers."
+          "texte": "Pour déplacer n disques : on déplace les n − 1 disques du dessus sur la tige intermédiaire, on pose le plus grand sur la tige d'arrivée, puis on replace les n − 1 autres par-dessus. Cette méthode donne l'unique solution la plus courte ; c'est un exemple classique de récursivité, qu'on enseigne en informatique. Avec 64 disques, il faudrait des milliards de milliards de coups : à un coup par seconde, 585 milliards d'années, des dizaines de fois l'âge estimé de l'univers."
         }
       ],
       "anecdotes": [
@@ -8286,6 +8287,10 @@
         {
           "titre": "Cirey, un château-laboratoire",
           "texte": "En 1734, elle accueille Voltaire dans son château de Cirey, où ils installent une grande bibliothèque et un laboratoire garni d'instruments scientifiques. Ils y travaillent ensemble autour de Newton. Voltaire publie en 1738 ses Éléments de la philosophie de Newton, et plusieurs chercheurs voient dans les passages techniques la main d'Émilie. Elle meurt à Lunéville en 1749 ; Voltaire fait publier sa traduction des Principia."
+        },
+        {
+          "titre": "Entre Newton et Leibniz",
+          "texte": "En 1740, elle publie les Institutions de physique, vite traduites en allemand et en italien, où elle aborde aussi bien l'espace et le temps que la gravitation de Newton. Elle y défend l'idée de Leibniz selon laquelle la « force vive », notre énergie cinétique, est proportionnelle à la masse et au carré de la vitesse, et en débat avec Mairan, secrétaire perpétuel de l'Académie des sciences. En 1746, l'Académie de Bologne, qui accepte des femmes, l'admet parmi ses membres."
         }
       ],
       "anecdotes": [
@@ -8408,7 +8413,7 @@
         }
       ],
       "anecdotes": [
-        "Fin 1939, il parvient à acquérir le stock mondial d'eau lourde produit en Norvège : 185,5 kg répartis en 26 bidons. Le 18 juin 1940, il envoie Halban et Kowarski en Angleterre à bord du charbonnier Broompark, avec 200 kg d'eau lourde et les documents de l'équipe, pour les mettre hors de portée des Allemands."
+        "Fin 1939, il parvient à acquérir le stock mondial d'eau lourde produit en Norvège : 185,5 kg répartis en 26 bidons. Le 18 juin 1940, il envoie Halban et Kowarski en Angleterre à bord du charbonnier Broompark, avec l'eau lourde, les brevets et les documents de l'équipe, pour les mettre hors de portée des Allemands."
       ],
       "oeuvres": [
         {
@@ -8443,7 +8448,7 @@
     "type": "personnage",
     "title": "Paul Langevin",
     "subtitle": "Physicien français, 1872-1946",
-    "summary": "Paul Langevin, né à Paris dans une famille modeste, est un physicien connu pour sa théorie du magnétisme, son équation décrivant le mouvement brownien et l'invention d'un détecteur ultrasonore de sous-marins, ancêtre du sonar.\nIl a aussi fait connaître en France la relativité d'Einstein. Il enseigne au Collège de France et dirige l'école de physique et chimie de Paris, il fut également un militant pour la paix et contre le fascisme.",
+    "summary": "Paul Langevin, né à Paris dans une famille modeste, est un physicien connu pour sa théorie du magnétisme, son équation décrivant le mouvement brownien et l'invention d'un détecteur ultrasonore de sous-marins, ancêtre du sonar.\nIl a aussi fait connaître en France la relativité d'Einstein. Professeur au Collège de France et directeur de l'École de physique et chimie de Paris, il fut également un militant pour la paix et contre le fascisme.",
     "details": {
       "epoque": "Fin du XIXe siècle et première moitié du XXe siècle.",
       "pourquoiCelebre": "Pionnier de la physique statistique, du sonar et de la diffusion de la relativité en France.",
@@ -8473,7 +8478,7 @@
         }
       ],
       "anecdotes": [
-        "Paul Langevin fut aussi radioamateur : il avait pour indicatif F3ST, jusqu'en septembre 1939."
+        "C'est Pierre Curie, alors chef de travaux à l'École de physique et chimie de Paris, qui convainc le jeune Langevin de choisir la recherche plutôt qu'une carrière d'ingénieur. Une génération plus tard, Langevin rend le même service à l'un de ses élèves de cette école, destiné lui aussi à l'industrie : Frédéric Joliot."
       ],
       "oeuvres": [
         {
@@ -8531,7 +8536,7 @@
       "sections": [
         {
           "titre": "Les atomes existent vraiment",
-          "texte": "Au début du XXe siècle, certains savants doutent encore que les atomes soient réels. Perrin étudie le mouvement brownien, l'agitation incessante de grains minuscules dans un liquide, causée par les molécules. Ses mesures permettent de calculer le nombre d'Avogadro. Au congrès Solvay de 1911, son exposé est si clair que même les sceptiques sont convaincus : Henri Poincaré s'avoue convaincu que les atomes sont bien réels."
+          "texte": "Au début du XXe siècle, certains savants doutent encore que les atomes soient réels. Perrin étudie le mouvement brownien, l'agitation incessante de grains minuscules dans un liquide, causée par les molécules. Ses mesures permettent de calculer le nombre d'Avogadro. Au congrès Solvay de 1911, son exposé est si clair que même les sceptiques sont convaincus : Henri Poincaré admet alors que « l'atome des chimistes est devenu réalité »."
         },
         {
           "titre": "Un bâtisseur de la recherche",
@@ -8637,7 +8642,7 @@
     "type": "personnage",
     "title": "Maria Goeppert-Mayer",
     "subtitle": "Physicienne germano-américaine, 1906-1972",
-    "summary": "Maria Goeppert-Mayer est une physicienne germano-américaine, deuxième femme à recevoir le prix Nobel de physique, après Marie Curie. En 1963, elle le partage avec Hans Jensen pour ses travaux sur la structure en couches du noyau.\nAvant cela, dans sa thèse de 1929, elle avait déjà prédit que des atomes peuvent absorber deux photons à la fois, un phénomène vérifié seulement avec l'arrivée des lasers.",
+    "summary": "Maria Goeppert-Mayer est une physicienne germano-américaine, deuxième femme à recevoir le prix Nobel de physique, après Marie Curie. En 1963, elle le partage avec Hans Jensen pour leurs travaux sur la structure en couches du noyau.\nDès 1929, alors doctorante à Göttingen, elle avait prédit que des atomes peuvent absorber deux photons à la fois, un phénomène vérifié seulement avec l'arrivée des lasers.",
     "details": {
       "epoque": "XXe siècle, de Göttingen aux États-Unis.",
       "pourquoiCelebre": "Elle a expliqué pourquoi certains noyaux atomiques sont particulièrement stables, grâce au modèle en couches.",
@@ -8659,11 +8664,11 @@
       "sections": [
         {
           "titre": "Une prédiction en avance sur son temps",
-          "texte": "Dans sa thèse, soutenue devant trois futurs prix Nobel dont Max Born et James Franck, Maria Goeppert prédit qu'un atome ou une molécule peut absorber deux photons en même temps. Il faudra attendre l'invention des lasers, une trentaine d'années plus tard, pour l'observer : le phénomène exige une lumière très intense. Il sert aujourd'hui en imagerie médicale et en microscopie. Eugene Wigner jugeait cette thèse « claire et concrète »."
+          "texte": "Pendant sa thèse à Göttingen, Maria Goeppert prédit qu'un atome ou une molécule peut absorber deux photons en même temps. Son jury réunit trois prix Nobel : James Franck et Adolf Windaus, déjà récompensés, et Max Born, qui le sera en 1954. Il faudra attendre l'invention des lasers, une trentaine d'années plus tard, pour observer le phénomène, qui exige une lumière très intense. Il sert aujourd'hui en imagerie médicale et en microscopie. Eugene Wigner voyait dans cette thèse « une œuvre de clarté et de concrétude »."
         },
         {
           "titre": "Les nombres magiques du noyau",
-          "texte": "Aux États-Unis, des règles contre le népotisme l'empêchent d'être professeure là où son mari enseigne : elle travaille longtemps sans salaire. À Chicago, elle comprend que les protons et les neutrons s'organisent en couches, un peu comme les électrons, ce qui explique les noyaux particulièrement stables. Trois Allemands, dont Hans Jensen, arrivent indépendamment à la même idée, et elle collabore avec eux. Le prix Nobel de 1963 les récompense."
+          "texte": "Aux États-Unis, des règles contre le népotisme l'empêchent d'être professeure là où son mari enseigne : elle travaille longtemps sans vrai salaire. À Chicago, elle comprend que les protons et les neutrons s'organisent en couches, un peu comme les électrons, ce qui explique les noyaux particulièrement stables. Trois Allemands, dont Hans Jensen, arrivent indépendamment à la même idée, et elle collabore avec eux. Le prix Nobel de 1963 récompense Jensen et elle."
         }
       ],
       "anecdotes": [
@@ -8715,7 +8720,7 @@
         }
       ],
       "anecdotes": [
-        "En 1818, l'Académie lance un concours sur la nature de la lumière. Fresnel propose une théorie ondulatoire. Poisson, partisan de la lumière faite de particules, y voit une absurdité : au centre de l'ombre d'un petit disque, il devrait y avoir un point lumineux. Arago, qui préside le comité, fait l'expérience avec un disque de 2 mm collé sur une vitre avec de la cire : le point brille bel et bien, et la plupart des savants se rallient aux ondes."
+        "En 1818, l'Académie lance un concours sur la nature de la lumière. Fresnel propose une théorie ondulatoire. Poisson, partisan d'une lumière faite de particules, montre qu'elle prédit un point lumineux au centre de l'ombre d'un petit disque, ce qui lui paraît absurde. Arago, qui préside le comité, fait l'expérience avec un disque de 2 mm fixé à la cire sur une vitre : le point brille bel et bien, et la plupart des savants se rallient aux ondes."
       ],
       "wikipedia": "Académie des sciences (France)"
     },
@@ -8734,7 +8739,7 @@
       "sections": [
         {
           "titre": "Du « collège invisible » à la charte royale",
-          "texte": "Dès les années 1640, des savants se réunissent autour de Robert Boyle, qui parle de « notre collège invisible ». Le 28 novembre 1660, douze philosophes de la nature, dont Christopher Wren, Boyle et John Wilkins, se retrouvent au Gresham College pour fonder une société d'apprentissage expérimental. Une charte royale de Charles II est signée le 15 juillet 1662 ; William Brouncker en est le premier président."
+          "texte": "Dès les années 1640, des savants se réunissent autour de Robert Boyle, qui parle de « notre collège invisible ». Le 28 novembre 1660, douze philosophes de la nature, dont Christopher Wren, Boyle et John Wilkins, se retrouvent au Gresham College et décident de fonder un « collège » voué au savoir expérimental. Une charte royale de Charles II est signée le 15 juillet 1662 ; William Brouncker en est le premier président."
         },
         {
           "titre": "Ne croire personne sur parole",
@@ -8769,11 +8774,12 @@
         },
         {
           "titre": "Un mot, et un débat",
-          "texte": "Le mot « révolution » s'applique à la science depuis le XVIIIe siècle : en 1747, Alexis Clairaut l'emploie à propos de Newton, et Kant parle de la « révolution copernicienne ». Alexandre Koyré et Herbert Butterfield popularisent l'expression au XXe siècle. Mais l'idée est critiquée, car elle suggère une rupture totale avec les savoirs anciens, alors que Copernic, Galilée, Kepler et Newton avaient tous étudié dans des universités médiévales."
+          "texte": "Le mot « révolution » s'applique à la science depuis le XVIIIe siècle : en 1747, Alexis Clairaut l'emploie à propos de Newton, et Kant parle de la « révolution copernicienne ». Alexandre Koyré et Herbert Butterfield popularisent l'expression au XXe siècle. Mais l'idée est critiquée, car elle suggère une rupture totale avec les savoirs anciens, alors que Copernic, Galilée, Kepler et Newton avaient tous étudié dans des universités fondées au Moyen Âge."
         }
       ],
       "anecdotes": [
-        "La première trace de l'invention du télescope n'est pas un traité de philosophie naturelle, mais un brevet déposé par un fabricant de lunettes."
+        "La première trace écrite de l'invention du télescope n'est pas un traité savant, mais une demande de brevet déposée en 1608 aux Pays-Bas par un fabricant de lunettes, Hans Lipperhey.",
+        "En 1611, le poète anglais John Donne résume le trouble de son époque : « La nouvelle philosophie met tout en doute, l'élément du feu est tout à fait éteint ; le Soleil est perdu, et la Terre, et nul esprit ne peut dire à l'homme où les chercher. »"
       ],
       "wikipedia": "Révolution scientifique"
     },
@@ -8792,7 +8798,7 @@
       "sections": [
         {
           "titre": "Mille cygnes blancs, un cygne noir",
-          "texte": "Pour Popper, on ne peut jamais prouver que « tous les cygnes sont blancs » : il faudrait observer tous les cygnes du monde. Mais un seul cygne noir suffit à réfuter l'affirmation. Une loi universelle ne se confirme donc jamais définitivement, mais peut se réfuter. Popper présente cette idée en 1934 dans The Logic of Scientific Discovery, pour résoudre le problème de l'induction (Hume) et celui de la démarcation entre science et non-science."
+          "texte": "Pour Popper, on ne peut jamais prouver que « tous les cygnes sont blancs » : il faudrait observer tous les cygnes du monde. Mais un seul cygne noir suffit à réfuter l'affirmation. Une loi universelle ne se confirme donc jamais définitivement, mais peut se réfuter. Popper présente cette idée en 1934 dans Logik der Forschung (traduit en anglais sous le titre The Logic of Scientific Discovery), pour résoudre le problème de l'induction (Hume) et celui de la démarcation entre science et non-science."
         },
         {
           "titre": "Ce qui n'exclut rien n'apprend rien",
@@ -8800,7 +8806,7 @@
         }
       ],
       "anecdotes": [
-        "Pour illustrer son critère, Popper imagine un témoignage très précis : un cygne noir aurait été vu le 16 mai 1934, le matin entre dix et onze heures, à Vienne, dans un jardin public, devant la statue de l'impératrice Élisabeth. Un tel énoncé contredirait logiquement « tous les cygnes sont blancs »."
+        "Pour illustrer son critère, Popper imagine un témoignage très précis : un cygne noir se serait tenu le 16 mai 1934, entre dix et onze heures du matin, devant la statue de l'impératrice Élisabeth, dans le Volksgarten de Vienne. Peu importe que la scène soit inventée : il suffit qu'un tel énoncé soit concevable et vérifiable par l'observation pour que « tous les cygnes sont blancs » soit réfutable."
       ],
       "wikipedia": "Réfutabilité"
     },

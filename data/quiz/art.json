@@ -1666,10 +1666,10 @@
     "domain": "art",
     "format": "qui-suis-je",
     "indices": [
+      "Je conseille de riches collectionneurs américains, comme la famille Havemeyer.",
+      "En 1890, une exposition d'estampes japonaises transforme mon art, et je pratique la gravure.",
       "Je suis née en 1844 en Pennsylvanie, aux États-Unis, dans une famille aisée.",
       "Je m'installe à Paris en 1874 et je deviens l'amie d'Edgar Degas.",
-      "En 1890, une exposition d'estampes japonaises transforme mon art, et je pratique la gravure.",
-      "Je conseille de riches collectionneurs américains, comme la famille Havemeyer.",
       "Je peins surtout des mères avec leurs enfants et j'expose avec les impressionnistes."
     ],
     "reponse": "Mary Cassatt",
@@ -1824,7 +1824,7 @@
     "id": "q-art-117",
     "domain": "art",
     "format": "associer",
-    "question": "Associe chaque peintre au sujet qu'il peint le plus souvent.",
+    "question": "Associe chaque peintre à l'un de ses sujets de prédilection.",
     "paires": [
       {
         "gauche": "Jean-François Millet",
@@ -1834,7 +1834,7 @@
       {
         "gauche": "Jean Siméon Chardin",
         "droite": "Des natures mortes et des scènes domestiques",
-        "explication": "Raies, buffets, cuisinières et enfants jouant aux cartes."
+        "explication": "Raies, buffets, cuisinières et enfants bâtissant des châteaux de cartes."
       },
       {
         "gauche": "Henri de Toulouse-Lautrec",
@@ -1849,7 +1849,7 @@
       {
         "gauche": "Henri Rousseau",
         "droite": "Des jungles imaginaires",
-        "explication": "Des forêts inventées, nées de serres, de revues et de souvenirs."
+        "explication": "Des forêts inventées, nées des serres du Jardin des plantes et de revues illustrées."
       }
     ],
     "explication": "Ces cinq peintres se reconnaissent à leurs sujets favoris : paysans, objets du quotidien, cabarets, mer et jungles rêvées. Tous s'écartent des grands sujets d'histoire, alors considérés comme les plus nobles.",
@@ -1945,7 +1945,7 @@
       "Palla Strozzi"
     ],
     "bonneReponse": 0,
-    "explication": "Dès 1440 environ, Cosme de Médicis charge le moine d'orner le couvent San Marco. Le banquier s'y fait même réserver une cellule, pour s'y retirer du monde. C'est alors la plus vaste décoration jamais imaginée pour un couvent.",
+    "explication": "Dès 1440 environ, Cosme de Médicis charge le frère dominicain d'orner le couvent San Marco. Le banquier s'y fait même réserver une cellule, pour s'y retirer du monde. C'est alors la plus vaste décoration jamais imaginée pour un couvent.",
     "source": "D'après Wikipédia — Fra Angelico"
   },
   {
@@ -2001,7 +2001,7 @@
       "Je naquis en Normandie en 1594 et, vers dix-huit ans, je m'enfuis de chez moi pour Paris.",
       "Après deux voyages ratés, j'arrive à Rome en 1624, où je passerai presque toute ma vie.",
       "Je peins pour quelques amateurs fidèles des tableaux clairs et ordonnés, tirés de la Bible ou de l'Antiquité.",
-      "Louis XIII m'appelle à Paris comme premier peintre du roi, mais je repars à Rome après un peu plus d'un an.",
+      "Louis XIII m'appelle à Paris comme premier peintre du roi, mais je repars pour Rome moins de deux ans plus tard.",
       "Je suis l'auteur des Bergers d'Arcadie."
     ],
     "reponse": "Nicolas Poussin",
@@ -2115,7 +2115,7 @@
       },
       {
         "gauche": "Rubens",
-        "droite": "Albert et Isabelle, souverains des Pays-Bas",
+        "droite": "Albert et Isabelle, archiducs des Pays-Bas espagnols",
         "explication": "Nommé peintre de leur cour en 1609, il garde pourtant son atelier à Anvers."
       },
       {
@@ -2289,7 +2289,7 @@
       "A. Nonyme"
     ],
     "bonneReponse": 0,
-    "explication": "Duchamp signe l'urinoir « R. Mutt 1917 » et le présente comme une œuvre : c'est l'un de ses ready-mades : des objets déjà fabriqués, choisis pour leur neutralité esthétique, qui bousculent l'idée même d'œuvre d'art.",
+    "explication": "Duchamp signe l'urinoir « R. Mutt 1917 » et le présente comme une œuvre. C'est l'un de ses ready-mades, des objets déjà fabriqués, choisis pour leur neutralité esthétique, qui bousculent l'idée même d'œuvre d'art.",
     "source": "D'après Wikipédia — Marcel Duchamp"
   },
   {
@@ -2307,7 +2307,7 @@
     "format": "vrai-faux",
     "affirmation": "Comme Braque et Picasso, Fernand Léger a beaucoup utilisé le collage dans ses tableaux cubistes.",
     "reponse": false,
-    "explication": "Faux : Léger n'a pas utilisé le collage inventé par Braque et Picasso. Son cubisme, surnommé « tubisme » par un critique, joue sur des volumes de tubes et de cylindres, rendus par des aplats de couleurs franches.",
+    "explication": "Faux : Léger n'a pas utilisé le collage inventé par Braque et Picasso. Son cubisme, que des critiques ont surnommé « tubisme », joue sur des volumes de tubes et de cylindres, rendus par des aplats de couleurs franches.",
     "source": "D'après Wikipédia — Fernand Léger"
   },
   {
@@ -2583,9 +2583,9 @@
     "id": "q-art-164",
     "domain": "art",
     "format": "vrai-faux",
-    "affirmation": "Le David en bronze de Donatello est la première statue de ronde-bosse d'un corps nu depuis l'Antiquité.",
+    "affirmation": "Le David en bronze de Donatello est le premier nu masculin sculpté en ronde-bosse depuis l'Antiquité.",
     "reponse": true,
-    "explication": "Réalisé vers 1440 pour la famille Médicis, ce David est vu comme la première sculpture indépendante d'un corps nu depuis l'Antiquité. Donatello s'inspire des modèles romains, mais en les rendant plus réalistes.",
+    "explication": "Réalisé vers 1440 pour la famille Médicis, ce David est considéré comme le premier nu masculin en ronde-bosse, c'est-à-dire une statue isolée qu'on peut voir de tous côtés, depuis l'Antiquité. Donatello y renoue avec les statues grecques et romaines.",
     "source": "D'après Wikipédia — Donatello"
   },
   {
@@ -2644,7 +2644,7 @@
       {
         "gauche": "Roy Lichtenstein",
         "droite": "Les points de trame de la bande dessinée",
-        "explication": "Il imite à la main les points d'impression des comics."
+        "explication": "Il reproduit en peinture, au pochoir, les points d'impression des comics."
       }
     ],
     "explication": "Chacun de ces artistes a développé une signature immédiatement reconnaissable : un matériau, un objet, un support ou un motif répété. Elle permet de les repérer même sans lire la cartouche du tableau.",
@@ -2692,7 +2692,7 @@
         "annee": "1958"
       }
     ],
-    "explication": "Installé à Paris dès 1926, Calder y invente ses mobiles en 1932, puis s'impose après la guerre : rétrospective au MoMA en 1943, prix à Venise en 1952, grand mobile pour l'UNESCO en 1958.",
+    "explication": "Installé à Paris dès 1926, Calder y expose ses premiers mobiles en 1932. Le MoMA lui consacre une rétrospective en pleine guerre, en 1943 ; viennent ensuite le grand prix de la Biennale de Venise en 1952 et le grand mobile du siège de l'UNESCO en 1958.",
     "source": "D'après Wikipédia — Alexander Calder"
   },
   {
@@ -2827,7 +2827,7 @@
       "Vingt-quatre"
     ],
     "bonneReponse": 0,
-    "explication": "Gaudí imagine dix-huit tours : douze pour les apôtres, quatre pour les évangélistes, une pour la Vierge et, au centre, la plus haute pour le Christ, prévue à 172,5 mètres. Toutes n'étaient pas bâties à sa mort, en 1926.",
+    "explication": "Gaudí imagine dix-huit tours : douze pour les apôtres, quatre pour les évangélistes, une pour la Vierge et, au centre, la plus haute pour le Christ, prévue à 172,5 mètres. À sa mort, en 1926, une seule était achevée : la tour Saint-Barnabé.",
     "source": "D'après Wikipédia — Sagrada Família"
   },
   {
@@ -2930,11 +2930,11 @@
       "Enfant, je jouais avec des blocs de bois en forme de cube, de sphère et de triangle.",
       "J'ai travaillé à Chicago dans l'agence de Louis Sullivan, mon « cher maître ».",
       "J'ai refusé d'aller étudier à Paris, pour rester libre.",
-      "J'ai inventé le style Prairie, aux maisons basses et horizontales.",
+      "Je suis la grande figure du style Prairie, aux maisons basses et horizontales.",
       "La Robie House et la maison sur la cascade sont de moi."
     ],
     "reponse": "Frank Lloyd Wright",
-    "explication": "Frank Lloyd Wright invente le style Prairie, puis les maisons « usoniennes » abordables. Pour lui, les formes d'un bâtiment doivent découler de sa fonction et de son site : c'est l'architecture « organique ». Il meurt en 1959.",
+    "explication": "Frank Lloyd Wright est la grande figure du style Prairie, puis il imagine les maisons « usoniennes » abordables. Pour lui, les formes d'un bâtiment doivent découler de sa fonction et de son site : c'est l'architecture « organique ». Il meurt en 1959.",
     "source": "D'après Wikipédia — Frank Lloyd Wright"
   },
   {
@@ -2979,7 +2979,7 @@
       "Pompidou est recouvert de planches de cyprès ; la Menil montre ses poutres et ses conduits de couleur"
     ],
     "bonneReponse": 0,
-    "explication": "Le centre Pompidou (1977) affiche ses tuyaux colorés et son escalator dans un tube. À Houston, la Menil Collection (1986) est calme : planches de cyprès, façades discrètes et lumière du jour savamment filtrée pour mettre les œuvres en valeur.",
+    "explication": "Le centre Pompidou (1977) affiche ses tuyaux colorés et son escalator dans un tube. À Houston, la Menil Collection (ouverte en 1987) est calme : planches de cyprès, façades discrètes et lumière du jour savamment filtrée pour mettre les œuvres en valeur.",
     "source": "D'après Wikipédia — Renzo Piano"
   },
   {
@@ -3111,7 +3111,7 @@
     "format": "vrai-faux",
     "affirmation": "C'est Claude Monet qui a lancé une souscription pour que l'Olympia de Manet entre dans les collections de l'État.",
     "reponse": true,
-    "explication": "En 1889, Monet apprend que la veuve de Manet veut vendre le tableau. Il réunit une souscription de 20 000 francs pour l'offrir à l'État. Le tableau entre au musée du Luxembourg en 1890, avant de passer au Louvre puis à Orsay.",
+    "explication": "En 1889, alors qu'un amateur américain s'intéresse au tableau, Monet lance une souscription pour réunir les 20 000 francs demandés par la veuve de Manet et l'offrir à l'État. Le tableau entre au musée du Luxembourg en 1890, avant de passer au Louvre puis à Orsay.",
     "source": "D'après Wikipédia — Olympia (Manet)"
   },
   {
@@ -3171,7 +3171,7 @@
       "Un portrait de la maîtresse de maison"
     ],
     "bonneReponse": 0,
-    "explication": "Vermeer avait d'abord peint un large cadre ou une carte, puis un panier de linge au sol. En les supprimant, il a obtenu un mur nu qui fait ressortir la silhouette de la servante et accentue l'impression de calme et d'humilité.",
+    "explication": "Vermeer avait d'abord peint un large cadre ou une carte, ainsi qu'un panier de linge au sol. En les supprimant, il a obtenu un mur nu qui fait ressortir la silhouette de la servante et accentue l'impression de calme et d'humilité.",
     "source": "D'après Wikipédia — La Laitière"
   },
   {
@@ -3186,7 +3186,7 @@
       "Il lit l'évangile devant l'autel"
     ],
     "bonneReponse": 0,
-    "explication": "Pie VII est assis derrière l'empereur et se contente de bénir. David l'avait d'abord peint les mains sur les genoux. Napoléon, qui venait voir le travail à l'atelier, voulait un pape au rôle secondaire : c'est lui qui couronne Joséphine.",
+    "explication": "Pie VII est assis derrière l'empereur, qui lui tourne le dos, et se contente de bénir. Un repentir montre que David l'avait d'abord peint les mains posées sur les genoux. Le pape n'a qu'un rôle de second plan : c'est Napoléon qui couronne Joséphine.",
     "source": "D'après Wikipédia — Le Sacre de Napoléon"
   },
   {
@@ -3196,12 +3196,12 @@
     "indices": [
       "Mon peintre rêvait d'une douzaine de panneaux formant une « symphonie en bleu et jaune ».",
       "Mon peintre travaillait dès le lever du soleil, car mes modèles se fanent vite.",
-      "J'ai été conçue pour décorer la chambre d'un ami invité à Arles, Paul Gauguin.",
-      "Je montre des bouquets dans un vase, sur des fonds clairs.",
+      "J'ai été peinte à Arles pour décorer l'atelier que mon peintre comptait partager avec Paul Gauguin.",
+      "Je montre des bouquets dans un vase, sur des fonds jaunes ou bleus.",
       "Je suis une série de tableaux de Vincent van Gogh."
     ],
     "reponse": "Les Tournesols",
-    "explication": "Les Tournesols d'Arles, peints en août 1888, devaient décorer la chambre de Gauguin dans la Maison jaune. Van Gogh en a refait deux copies en janvier 1889 : il refusait de céder l'original à fond jaune que Gauguin lui réclamait.",
+    "explication": "En août 1888, à Arles, Van Gogh peint de grands Tournesols pour décorer la Maison jaune où il attend Gauguin. Celui-ci réclamera plus tard la toile à fond jaune : Van Gogh refuse, mais en peint deux répétitions en janvier 1889 pour lui faire plaisir.",
     "source": "D'après Wikipédia — Les Tournesols"
   },
   {
@@ -3278,10 +3278,10 @@
       {
         "gauche": "Palais d'Hiver (Saint-Pétersbourg)",
         "droite": "Bartolomeo Rastrelli",
-        "explication": "Il le reconstruit en 1754 pour l'impératrice Élisabeth."
+        "explication": "Il le reconstruit à partir de 1754 pour l'impératrice Élisabeth."
       }
     ],
-    "explication": "Chacun de ces lieux porte la marque d'un architecte : Cuypers à Amsterdam, Vasari à Florence, Gehry à Bilbao, Piano et Rogers à Paris, Rastrelli à Saint-Pétersbourg. Les trois derniers ont créé des bâtiments qui ont surpris.",
+    "explication": "Chacun de ces lieux porte la marque d'un architecte : Cuypers à Amsterdam, Vasari à Florence, Gehry à Bilbao, Piano et Rogers à Paris, Rastrelli à Saint-Pétersbourg. Gehry, Piano et Rogers ont signé des bâtiments qui ont d'abord surpris, voire choqué.",
     "source": "D'après Wikipédia — Rijksmuseum Amsterdam"
   },
   {
@@ -3306,7 +3306,7 @@
     "question": "Comment appelle-t-on ces personnages peints de dos, comme le voyageur de Friedrich, qui invitent le spectateur à prendre leur place ?",
     "choix": [
       "Des Rückenfiguren",
-      "Des repoussoirs",
+      "Des staffages",
       "Des putti",
       "Des figures de proue"
     ],
@@ -3404,7 +3404,7 @@
       "William Faulkner"
     ],
     "bonneReponse": 0,
-    "explication": "Selon plusieurs avis, Hopper s'est inspiré de la nouvelle Les Tueurs (1927) d'Hemingway, qu'il admirait. Hopper disait pourtant ne pas avoir voulu peindre un lieu particulièrement triste, même s'il y avait peut-être mis, sans le savoir, la solitude des grandes villes.",
+    "explication": "Selon plusieurs avis, Hopper se serait inspiré de la nouvelle Les Tueurs (1927) d'Hemingway, qu'il admirait. Interrogé sur la solitude du tableau, il disait ne pas l'avoir vu comme particulièrement solitaire, tout en admettant y avoir peut-être peint, sans le vouloir, la solitude d'une grande ville.",
     "source": "D'après Wikipédia — Nighthawks"
   },
   {
@@ -3413,7 +3413,7 @@
     "format": "vrai-faux",
     "affirmation": "L'urinoir original de Fontaine, présenté en 1917, est aujourd'hui exposé dans un grand musée.",
     "reponse": false,
-    "explication": "L'original a disparu peu après 1917 : il ne reste que la photographie d'Alfred Stieglitz. Les urinoirs visibles dans les musées sont des répliques, réalisées avec l'accord de Duchamp dans les années 1950 et 1960.",
+    "explication": "L'original a disparu peu après 1917 : on le connaît surtout par la photographie d'Alfred Stieglitz. Les urinoirs visibles dans les musées sont des répliques, réalisées avec l'accord de Duchamp dans les années 1950 et 1960, d'après cette photo.",
     "source": "D'après Wikipédia — Fontaine (Duchamp)"
   },
   {
@@ -3458,7 +3458,7 @@
         "explication": "Goya montre une nuit de Madrid, éclairée par une lanterne posée à terre."
       }
     ],
-    "explication": "Ces quatre tableaux se reconnaissent à une image simple : un homme de dos, une nuit sous un ciel de jour, un couple de fermiers, une exécution. Chacun a marqué l'histoire de la peinture à sa manière.",
+    "explication": "Ces quatre tableaux se reconnaissent à une image simple : un homme de dos, une nuit sous un ciel de jour, un fermier et sa fille, une exécution. Chacun a marqué l'histoire de la peinture à sa manière.",
     "source": "D'après Wikipédia — El tres de mayo de 1808 en Madrid"
   },
   {
@@ -3581,7 +3581,7 @@
     "format": "vrai-faux",
     "affirmation": "Le mot « rococo » a d'abord été employé comme une moquerie, avant d'être adopté par les spécialistes.",
     "reponse": true,
-    "explication": "Le mot, qui mêle « rocaille » et « baroque », est lancé en dérision par un élève de David, partisan d'un néoclassicisme sévère. Il garde longtemps un sens péjoratif, malgré son succès ensuite. Il faut attendre le milieu du XIXe siècle pour que les spécialistes l'adoptent.",
+    "explication": "Le mot, qui mêle « rocaille » et « baroque », aurait été lancé en dérision vers 1797 par un élève de David, partisan d'un néoclassicisme sévère. Il garde longtemps un sens péjoratif : il faut attendre le milieu du XIXe siècle pour que les historiens de l'art l'adoptent.",
     "source": "D'après Wikipédia — Rococo"
   },
   {
@@ -3596,7 +3596,7 @@
       "Les Rêveries du promeneur solitaire"
     ],
     "bonneReponse": 0,
-    "explication": "Les Poèmes d'Ossian de James Macpherson, présentés comme traduits d'un barde écossais du IIIe siècle, mais librement adaptés, ont nourri le goût romantique pour les légendes nordiques. L'engouement a gagné toute l'Europe.",
+    "explication": "Les Poèmes d'Ossian de James Macpherson, présentés comme la traduction d'un barde écossais du IIIe siècle, étaient en grande partie de sa main. Ils ont pourtant nourri dans toute l'Europe le goût romantique pour les légendes nordiques.",
     "source": "D'après Wikipédia — Peinture romantique"
   },
   {
@@ -3665,7 +3665,7 @@
     "format": "vrai-faux",
     "affirmation": "Les Nabis ont revendiqué publiquement leur nom dès leurs premières expositions.",
     "reponse": false,
-    "explication": "Le nom « nabi », qui signifie « prophète », est resté une plaisanterie entre amis, et n'a jamais été revendiqué lors de leurs expositions. L'usage courant ne se répand qu'après la Seconde Guerre mondiale, surtout à partir des années 1980.",
+    "explication": "Le nom « nabi », qui signifie « prophète », s'employait entre amis, avec une pointe d'humour, et n'a jamais été revendiqué lors de leurs expositions. Les historiens ne l'ont vraiment adopté qu'après la Seconde Guerre mondiale, surtout à partir des années 1980.",
     "source": "D'après Wikipédia — Les Nabis"
   },
   {
@@ -3807,10 +3807,10 @@
     "domain": "art",
     "format": "qui-suis-je",
     "indices": [
-      "Mon nom veut dire « image du monde flottant », un mot au départ chargé de sens bouddhique.",
       "Je suis né à Edo dans les années 1670, avec les estampes en noir et blanc de Moronobu.",
       "Je suis imprimé à quelques centaines d'exemplaires et vendu à bas prix aux citadins.",
       "Mes sujets : belles femmes, acteurs de kabuki, lutteurs de sumo, puis paysages.",
+      "Mon nom veut dire « image du monde flottant », un mot au départ chargé de sens bouddhique.",
       "Hokusai et Hiroshige m'ont rendu célèbre, et j'ai marqué Monet, Degas et Van Gogh."
     ],
     "reponse": "L'ukiyo-e",
@@ -3938,12 +3938,12 @@
         "explication": "Duchamp ajoute moustaches et bouc à l'image en 1919, puis un titre en lettres."
       },
       {
-        "gauche": "Peigne",
-        "droite": "Un peigne en acier",
-        "explication": "Duchamp précise sur l'objet où, quand et à quelle heure il l'a choisi (1916)."
+        "gauche": "Air de Paris",
+        "droite": "Une ampoule de pharmacie en verre",
+        "explication": "Rentré à New York après un séjour à Paris, Duchamp offre cette ampoule à ses amis collectionneurs, les Arensberg."
       }
     ],
-    "explication": "Un ready-made est un objet existant que l'artiste choisit, nomme, date ou signe. Ces quatre exemples, entre 1913 et 1919, montrent la variété des gestes de Duchamp : assembler, détourner, titrer.",
+    "explication": "Un ready-made est un objet existant que l'artiste choisit, nomme, date ou signe. Ces quatre exemples, tous réalisés par Duchamp entre 1913 et 1920, montrent la variété de ses gestes : assembler, détourner une image, ou simplement donner un titre.",
     "source": "D'après Wikipédia — Ready-made"
   },
   {
@@ -3966,14 +3966,14 @@
     "domain": "art",
     "format": "qui-suis-je",
     "indices": [
-      "Je suis né en Bavière et je suis acteur et dramaturge à Munich.",
+      "Je suis né à Prague, mais c'est à Munich que je deviens acteur et dramaturge.",
       "Je ne trouve pas d'éditeur pour mes textes et décide de les imprimer moi-même.",
       "Je découvre qu'un dessin gras sur une pierre peut servir à imprimer.",
-      "Je dépose un brevet à Munich en 1799.",
+      "J'obtiens des autorités bavaroises un brevet exclusif en 1799.",
       "J'ai inventé la lithographie en 1796."
     ],
     "reponse": "Aloys Senefelder",
-    "explication": "Aloys Senefelder, alors âgé de 25 ans, voulait publier ses propres textes. Il met près de trois ans à perfectionner son procédé et obtient un brevet exclusif auprès des autorités bavaroises le 3 septembre 1799.",
+    "explication": "Aloys Senefelder, âgé d'à peine 25 ans, voulait publier ses propres textes. Il met près de trois ans à perfectionner son procédé d'impression sur pierre et obtient un brevet exclusif auprès des autorités bavaroises le 3 septembre 1799.",
     "source": "D'après Wikipédia — Lithographie"
   },
   {
@@ -4023,7 +4023,7 @@
     "choix": [
       "L'air diffuse la lumière du ciel, riche en bleu, sur les objets lointains",
       "Les montagnes sont réellement bleues à cause de leur roche",
-      "Notre œil ne voit mal que les formes éloignées",
+      "Notre œil perçoit mal les couleurs des objets éloignés",
       "Les nuages colorent les sommets"
     ],
     "bonneReponse": 0,
@@ -4051,7 +4051,7 @@
       "Hermann von Helmholtz"
     ],
     "bonneReponse": 0,
-    "explication": "Newton place les couleurs du spectre sur un disque, avec le gris au centre. Goethe écrira plus tard son Traité des couleurs, et Chevreul définira la notion de couleurs complémentaires.",
+    "explication": "Newton place les couleurs du spectre sur le bord d'un disque, avec le gris au centre. Goethe proposera plus tard son propre cercle dans son Traité des couleurs, et Chevreul fondera sur l'observation la notion de couleurs complémentaires.",
     "source": "D'après Wikipédia — Cercle chromatique"
   },
   {
@@ -4111,37 +4111,37 @@
         "annee": "1872"
       }
     ],
-    "explication": "Du prisme de Newton aux couleurs opposées de Hering, le cercle devient un outil d'artiste, puis de savant. Chevreul y introduit les complémentaires, dont s'inspireront les peintres à partir de Delacroix.",
+    "explication": "Newton range d'abord les couleurs du prisme sur un disque, puis peintres et savants s'emparent du cercle. Goethe y oppose les couleurs qui s'appellent dans l'œil, Chevreul l'appuie sur l'observation pour classer les fils de tapisserie, et Hering bâtit le sien sur des couleurs opposées.",
     "source": "D'après Wikipédia — Cercle chromatique"
   },
   {
     "id": "q-art-261",
     "domain": "art",
     "format": "associer",
-    "question": "Associe chaque créateur à ce qui le rend célèbre.",
+    "question": "Associe chaque artiste à son anamorphose.",
     "paires": [
       {
-        "gauche": "Aloys Senefelder",
-        "droite": "La lithographie",
-        "explication": "Il l'invente à Munich à la fin du XVIIIe siècle et la perfectionne ensuite."
-      },
-      {
         "gauche": "Hans Holbein le Jeune",
-        "droite": "L'anamorphose du crâne dans Les Ambassadeurs",
-        "explication": "Le crâne apparaît en regardant le tableau de côté ; l'œuvre date de 1533."
+        "droite": "Le crâne caché des Ambassadeurs",
+        "explication": "Le crâne n'apparaît qu'en regardant le tableau de côté, en vue rasante ; l'œuvre date de 1533."
       },
       {
-        "gauche": "Andrea Pozzo",
-        "droite": "Le faux dôme de Saint-Ignace",
-        "explication": "Il peint un plafond plat pour qu'il ressemble à l'intérieur d'un dôme."
+        "gauche": "Parmigianino",
+        "droite": "Un autoportrait dans un miroir convexe",
+        "explication": "Vers 1524, il peint son reflet avec des bords déformés, comme vu dans un miroir bombé."
       },
       {
-        "gauche": "Henri Chrétien",
-        "droite": "Le CinemaScope",
-        "explication": "Ce procédé de cinéma s'appuie sur l'anamorphose pour élargir l'image."
+        "gauche": "Arthur Mole",
+        "droite": "Des milliers de soldats formant une image",
+        "explication": "Pendant la Première Guerre mondiale, ce photographe américain les place au sol ; vus du haut d'une tour, ils dessinent une image patriotique."
+      },
+      {
+        "gauche": "JR",
+        "droite": "La pyramide du Louvre qui « disparaît »",
+        "explication": "En 2016, il colle sur la pyramide la photo du pavillon situé derrière : depuis un point précis, elle semble s'effacer."
       }
     ],
-    "explication": "Lithographie, anamorphose et cinéma sont reliés par une même idée : transformer une image, par la pierre, la perspective ou l'optique, pour qu'elle apparaisse autrement une fois vue ou projetée.",
+    "explication": "Une anamorphose est une image déformée qui ne se recompose que d'un point de vue précis, ou dans un miroir. De la Renaissance au XXIe siècle, le procédé sert aussi bien à cacher un symbole de la mort qu'à faire « disparaître » un monument.",
     "source": "D'après Wikipédia — Anamorphose"
   }
 ]

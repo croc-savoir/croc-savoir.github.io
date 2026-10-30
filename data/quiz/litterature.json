@@ -1870,7 +1870,7 @@
     "format": "vrai-faux",
     "affirmation": "Chateaubriand a publié lui-même ses Mémoires d'outre-tombe de son vivant.",
     "reponse": false,
-    "explication": "Faux. Chateaubriand meurt en 1848 et les Mémoires d'outre-tombe paraissent à titre posthume, dès 1849. Il y raconte sa vie, de son enfance bretonne à la politique. Il y raconte sa vie, de son enfance bretonne aux événements de 1841.",
+    "explication": "Faux. Chateaubriand meurt en 1848 et les Mémoires d'outre-tombe paraissent à titre posthume, dès 1849. Il y raconte sa vie, de son enfance bretonne à Combourg jusqu'aux événements de 1841, en témoin de tout un demi-siècle d'histoire.",
     "source": "D'après Wikipédia — François-René de Chateaubriand"
   },
   {
@@ -1900,7 +1900,7 @@
       "Le Mercure de France"
     ],
     "bonneReponse": 0,
-    "explication": "Gide fonde en 1908 La Nouvelle Revue française, la NRF, avec des amis comme Roger Martin du Gard ou Paul Valéry. Il en est le chef de file, et la revue devient l'un des centres de la vie littéraire française.",
+    "explication": "Gide fonde en 1908 La Nouvelle Revue française, la NRF, avec un groupe d'amis dont Jacques Copeau et Jean Schlumberger. Il en est le chef de file, et la revue devient l'un des centres de la vie littéraire française.",
     "source": "D'après Wikipédia — André Gide"
   },
   {
@@ -1948,13 +1948,13 @@
     "format": "qcm",
     "question": "Qui joue en public le rôle de l'auteur Émile Ajar, double littéraire de Romain Gary ?",
     "choix": [
-      "Paul Pavlowitch, fils d'un cousin de Gary",
+      "Paul Pavlowitch, fils d'une cousine de Gary",
       "Le fils de Gary, Diego",
       "Un éditeur de Gary",
       "Un acteur recruté pour l'occasion"
     ],
     "bonneReponse": 0,
-    "explication": "Gary fait jouer le rôle d'Ajar à Paul Pavlowitch, le fils d'un de ses cousins. Grâce à cette mystification, La Vie devant soi reçoit le Goncourt en 1975 sans que le jury sache que l'auteur avait déjà été couronné en 1956.",
+    "explication": "Gary fait jouer le rôle d'Ajar à Paul Pavlowitch, le fils d'une de ses cousines. Grâce à cette mystification, La Vie devant soi reçoit le Goncourt en 1975 sans que le jury sache que l'auteur avait déjà été couronné en 1956.",
     "source": "D'après Wikipédia — Romain Gary"
   },
   {
@@ -2023,8 +2023,8 @@
       },
       {
         "gauche": "Prosper Mérimée",
-        "droite": "Carmen",
-        "explication": "Cette nouvelle se déroule en Andalousie et inspire l'opéra de Bizet."
+        "droite": "Colomba",
+        "explication": "Dans ce récit corse, elle pousse son frère à venger leur père."
       },
       {
         "gauche": "Comtesse de Ségur",
@@ -2032,7 +2032,7 @@
         "explication": "Elle est l'héroïne espiègle des Malheurs de Sophie."
       }
     ],
-    "explication": "Chacun de ces écrivains a donné vie à un personnage devenu célèbre : Lupin, le voleur élégant de Leblanc, Zazie, la gamine de Queneau, Carmen, la gitane de Mérimée, et Sophie, la fillette espiègle de la comtesse de Ségur.",
+    "explication": "Chacun de ces écrivains a donné vie à un personnage marquant : Lupin, le voleur élégant de Leblanc, Zazie, la gamine de Queneau, Colomba, l'héroïne corse de Mérimée, et Sophie, la fillette espiègle de la comtesse de Ségur.",
     "source": "D'après Wikipédia — Maurice Leblanc"
   },
   {
@@ -2126,7 +2126,7 @@
         "annee": "1965"
       }
     ],
-    "explication": "Queneau publie son premier roman, Le Chiendent, en 1933. Pierrot mon ami lui apporte un premier succès, Exercices de style le fait connaître, puis Zazie dans le métro le rend populaire. Cent mille milliards de poèmes naît dans l'Oulipo.",
+    "explication": "Queneau publie son premier roman, Le Chiendent, en 1933. Pierrot mon ami lui apporte un premier succès, Exercices de style le fait connaître, puis Zazie dans le métro le rend populaire. Cent mille milliards de poèmes accompagne la naissance de l'Oulipo, avant Les Fleurs bleues.",
     "source": "D'après Wikipédia — Raymond Queneau"
   },
   {
@@ -2271,15 +2271,15 @@
     "id": "q-litterature-146",
     "domain": "litterature",
     "format": "qcm",
-    "question": "Sous quel pseudonyme Charlotte Brontë publie-t-elle Jane Eyre en 1847 ?",
+    "question": "Quelle école de son enfance Charlotte Brontë a-t-elle transposée dans Jane Eyre sous le nom de Lowood ?",
     "choix": [
-      "Currer Bell",
-      "Ellis Bell",
-      "Acton Bell",
-      "Charles Brontë"
+      "L'école de Cowan Bridge",
+      "Le pensionnat Heger, à Bruxelles",
+      "L'école de Roe Head, à Mirfield",
+      "Une école de charité de Londres"
     ],
     "bonneReponse": 0,
-    "explication": "Chaque sœur garde l'initiale de son prénom (C, E, A) et partage le nom de famille Bell. Charlotte est donc Currer Bell. Les trois se cachent derrière des noms masculins à cause des préjugés contre les femmes auteurs.",
+    "explication": "À Cowan Bridge, école pour filles de pasteurs aux conditions très dures, Charlotte perd ses deux sœurs aînées. Elle en fait Lowood, et son directeur, le révérend Carus Wilson, devient le sévère M. Brocklehurst, au point qu'il menacera de porter plainte.",
     "source": "D'après Wikipédia — Charlotte Brontë"
   },
   {
@@ -2301,7 +2301,7 @@
       {
         "gauche": "Anne",
         "droite": "Acton Bell",
-        "explication": "Elle publie ainsi ses poèmes en 1846 avec ses sœurs."
+        "explication": "Elle signe ainsi son roman Agnes Grey, en 1847."
       }
     ],
     "explication": "En 1846, les trois sœurs publient un recueil de poèmes à compte d'auteur sous des noms d'hommes, en conservant leurs initiales. Charlotte devient Currer, Emily devient Ellis et Anne devient Acton, avec le même nom de famille.",
@@ -2371,7 +2371,7 @@
     "id": "q-litterature-151",
     "domain": "litterature",
     "format": "vrai-faux",
-    "affirmation": "L'idée de la réaction nucléaire en chaîne est venue au physicien Leó Szilárd en lisant un roman de H. G. Wells.",
+    "affirmation": "Un roman de H. G. Wells a inspiré au physicien Leó Szilárd l'idée de la réaction nucléaire en chaîne.",
     "reponse": true,
     "explication": "Vrai. Dans La Destruction libératrice (1914), Wells imagine des bombes à désintégration atomique qui explosent pendant des jours. Szilárd a reconnu que ce roman lui avait inspiré sa théorie de la réaction en chaîne.",
     "source": "D'après Wikipédia — H. G. Wells"
@@ -2403,7 +2403,7 @@
       "Eschyle met des humains en scène, Sophocle uniquement des dieux"
     ],
     "bonneReponse": 0,
-    "explication": "Eschyle compose des trilogies liées, comme l'Orestie, qui suivent une malédiction sur plusieurs générations. Sophocle renonce à cette forme : chaque pièce tourne autour d'un héros, souvent seul face à un choix moral, avec un troisième acteur.",
+    "explication": "Eschyle compose des trilogies liées, comme l'Orestie, qui suivent une malédiction sur plusieurs générations. Sophocle rompt avec cette forme : chaque pièce tourne autour d'un héros, souvent seul face à un choix moral. Aristote lui attribue aussi l'ajout d'un troisième acteur.",
     "source": "D'après Wikipédia — Sophocle"
   },
   {
@@ -2425,7 +2425,7 @@
     "id": "q-litterature-155",
     "domain": "litterature",
     "format": "qcm",
-    "question": "Quelle image Sainte-Beuve a-t-il employée à propos d'Alfred de Vigny retiré dans son manoir de Charente ?",
+    "question": "Quelle image Sainte-Beuve a-t-il employée en 1837 à propos d'Alfred de Vigny, poète distant et secret ?",
     "choix": [
       "Une tour d'ivoire",
       "Un cabinet noir",
@@ -2433,7 +2433,7 @@
       "Une maison du berger"
     ],
     "bonneReponse": 0,
-    "explication": "Sainte-Beuve parle de la « tour d'ivoire » de Vigny, qui se retire au Maine-Giraud, loin des salons parisiens. L'expression est restée pour désigner une personne coupée du monde et de ses préoccupations.",
+    "explication": "Dans un poème de 1837, Sainte-Beuve montre Vigny rentrant « comme en sa tour d'ivoire ». L'expression est restée pour désigner une personne coupée du monde. Vigny se retirera ensuite souvent dans son manoir du Maine-Giraud, en Charente.",
     "source": "D'après Wikipédia — Alfred de Vigny"
   },
   {
@@ -2455,7 +2455,7 @@
     "id": "q-litterature-157",
     "domain": "litterature",
     "format": "qcm",
-    "question": "Quel compositeur a tiré du poème Clair de lune de Verlaine le troisième mouvement de sa Suite bergamasque ?",
+    "question": "Quel compositeur a baptisé « bergamasque » une suite pour piano, en écho au poème Clair de lune de Verlaine et à ses « masques et bergamasques » ?",
     "choix": [
       "Claude Debussy",
       "Maurice Ravel",
@@ -2463,14 +2463,14 @@
       "Camille Saint-Saëns"
     ],
     "bonneReponse": 0,
-    "explication": "Le poème Clair de lune, tiré des Fêtes galantes, a inspiré à Claude Debussy le célèbre troisième mouvement de sa Suite bergamasque. La musicalité des vers de Verlaine séduit de nombreux compositeurs, dont Fauré et Reynaldo Hahn.",
+    "explication": "La Suite bergamasque de Claude Debussy reprend un mot du poème Clair de lune, tiré des Fêtes galantes. Son troisième mouvement, le célèbre Clair de lune, doit sans doute aussi son titre à Verlaine, dont la musicalité séduit aussi Fauré et Reynaldo Hahn.",
     "source": "D'après Wikipédia — Suite bergamasque"
   },
   {
     "id": "q-litterature-158",
     "domain": "litterature",
     "format": "qcm",
-    "question": "En 1874, Mallarmé rédige seul, sous des pseudonymes féminins comme « Miss Satin », un autre type de publication. Laquelle ?",
+    "question": "En 1874, Mallarmé rédige seul, sous des pseudonymes féminins comme « Miss Satin », les huit numéros d'une publication. De quel genre ?",
     "choix": [
       "Une revue de mode, La Dernière Mode",
       "Un journal de cuisine",
@@ -2562,7 +2562,7 @@
     "format": "vrai-faux",
     "affirmation": "Marivaux a écrit sa première pièce en une semaine, après qu'on l'a mis au défi.",
     "reponse": true,
-    "explication": "Vrai. À Limoges, le jeune Pierre Carlet déclare Molière dépassé. Mis au défi, il compose en sept jours sa première comédie, jouée en 1708. Il ne prendra le nom de Marivaux que quelques années plus tard.",
+    "explication": "Vrai. Dans un salon de Limoges, le jeune Pierre Carlet déclare Molière dépassé. Mis au défi, il écrit en une semaine sa première comédie, Le Père prudent et équitable, jouée par des amateurs. Il ne signera « de Marivaux » qu'en 1716.",
     "source": "D'après Wikipédia — Marivaux"
   },
   {
@@ -2587,7 +2587,7 @@
     "id": "q-litterature-167",
     "domain": "litterature",
     "format": "associer",
-    "question": "Associe chaque auteur à sa pièce la plus célèbre.",
+    "question": "Associe chaque auteur à l'une de ses pièces les plus célèbres.",
     "paires": [
       {
         "gauche": "Edmond Rostand",
@@ -2656,8 +2656,8 @@
       "Je suis né en 1913 à Basse-Pointe, en Martinique.",
       "J'ai étudié à Paris, au lycée Louis-le-Grand puis à l'École normale supérieure.",
       "Avec Senghor et Damas, j'ai lancé le journal L'Étudiant noir.",
-      "J'ai été maire de Fort-de-France pendant cinquante-six ans.",
-      "Mon long poème de 1939 sera préfacé par le surréaliste André Breton."
+      "Mon long poème de 1939 sera préfacé par le surréaliste André Breton.",
+      "J'ai été maire de Fort-de-France pendant cinquante-six ans."
     ],
     "reponse": "Aimé Césaire",
     "explication": "Aimé Césaire, poète de la négritude, est aussi député et maire de Fort-de-France de 1945 à 2001. Son long poème de 1939 est l'un des textes fondateurs de la littérature antillaise.",
@@ -2744,7 +2744,7 @@
       "Salinas"
     ],
     "bonneReponse": 0,
-    "explication": "Faulkner invente le comté de Yoknapatawpha, qui reflète celui où il a vécu presque toute sa vie, dans le Mississippi. Il y fait revenir les mêmes familles de roman en roman, dès Étendards dans la poussière (1927).",
+    "explication": "Faulkner invente le comté de Yoknapatawpha, inspiré de celui où il a vécu presque toute sa vie, dans le Mississippi. Il y fait revenir les mêmes familles de roman en roman, dès Étendards dans la poussière, écrit en 1927.",
     "source": "D'après Wikipédia — William Faulkner"
   },
   {
@@ -2867,13 +2867,13 @@
     "format": "qcm",
     "question": "Pourquoi Ivan Tourgueniev est-il emprisonné un mois en 1852 ?",
     "choix": [
-      "Pour un hommage publié à la mort de Gogol, interdit par la censure de Saint-Pétersbourg",
+      "Pour un hommage à Gogol publié malgré la censure",
       "Pour avoir libéré ses serfs",
       "Pour une pièce critiquant le tsar",
       "Pour un duel avec Tolstoï"
     ],
     "bonneReponse": 0,
-    "explication": "Son hommage à Gogol, refusé par la censure de Saint-Pétersbourg, paraît à Moscou. Le censeur est renvoyé et Tourgueniev, tenu pour responsable, fait un mois de prison puis presque deux ans d'exil. Il y écrit Moumou.",
+    "explication": "Son hommage à Gogol, refusé par la censure de Saint-Pétersbourg, paraît à Moscou. Le censeur est renvoyé et Tourgueniev, tenu pour responsable, fait un mois de prison puis près de deux ans d'exil sur son domaine. C'est à cette époque qu'il écrit Moumou.",
     "source": "D'après Wikipédia — Ivan Tourgueniev"
   },
   {
@@ -2885,7 +2885,7 @@
       "Les Jours des Tourbine",
       "Le Maître et Marguerite",
       "Cœur de chien",
-      "Le Revizor"
+      "La Fuite"
     ],
     "bonneReponse": 0,
     "explication": "Tirée de La Garde blanche, la pièce Les Jours des Tourbine plaisait à Staline, qui l'aurait vue au moins quinze fois. Cela n'a pas empêché le pouvoir d'interdire d'autres œuvres de Boulgakov, dont certaines paraîtront longtemps après sa mort.",
@@ -2912,7 +2912,7 @@
     "format": "vrai-faux",
     "affirmation": "Le prénom Italo a été choisi par sa mère pour rappeler à Calvino son héritage italien, alors qu'il est né à Cuba.",
     "reponse": true,
-    "explication": "Vrai. Italo Calvino naît à Cuba en 1923, puis grandit à Sanremo. Sa mère, Eva, lui choisit ce prénom rare pour lui rappeler ses origines. Devenu adulte sous Mussolini, il trouvait qu'il sonnait « nationaliste belliqueux ».",
+    "explication": "Vrai. Italo Calvino naît à Cuba en 1923, puis est élevé à Sanremo. Sa mère, Eva, lui choisit ce prénom rare pour lui rappeler ses origines. Ayant grandi dans l'Italie de Mussolini, il trouvait que ce prénom sonnait « nationaliste belliqueux ».",
     "source": "D'après Wikipédia — Italo Calvino"
   },
   {
@@ -2942,7 +2942,7 @@
         "annee": "1936"
       }
     ],
-    "explication": "Faulkner enchaîne ses grands romans à un rythme rare : quatre en quatre ans, de 1929 à 1932, puis Absalon, Absalon ! en 1936. Le premier de la liste, Le Bruit et la Fureur, est resté son livre le plus célèbre.",
+    "explication": "Faulkner enchaîne ses grands romans à un rythme rare : quatre en quatre ans, de 1929 à 1932, puis Absalon, Absalon ! en 1936. Le Bruit et la Fureur, qui ouvre la série, reste l'un de ses livres les plus célèbres.",
     "source": "D'après Wikipédia — William Faulkner"
   },
   {
@@ -3031,7 +3031,7 @@
     "format": "vrai-faux",
     "affirmation": "Avec La Main gauche de la nuit, Ursula K. Le Guin devient la première femme à remporter, pour un même livre, le Hugo et le Nebula du meilleur roman.",
     "reponse": true,
-    "explication": "C'est exact : en 1969, La Main gauche de la nuit lui vaut les deux grands prix de la science-fiction. Elle les remportera de nouveau pour Les Dépossédés en 1974, une première pour un écrivain.",
+    "explication": "C'est exact : parue en 1969, La Main gauche de la nuit lui vaut les deux grands prix de la science-fiction. Elle réussit de nouveau ce doublé avec Les Dépossédés (1974) et devient le premier écrivain, homme ou femme, à l'obtenir deux fois.",
     "source": "D'après Wikipédia — Ursula K. Le Guin"
   },
   {

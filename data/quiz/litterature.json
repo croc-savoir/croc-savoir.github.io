@@ -3236,7 +3236,7 @@
       {
         "gauche": "Laurine de Marelle",
         "droite": "La petite fille qui invente le surnom Bel Ami",
-        "explication": "Elle donne son surnom au héros."
+        "explication": "C'est la fille de Clotilde de Marelle, maîtresse de Duroy."
       }
     ],
     "explication": "Le roman de Maupassant met en scène un journal parisien : le patron, un journaliste influent, sa femme qui écrit à sa place, et une fillette qui trouve le surnom du héros, Bel-Ami.",
@@ -3291,7 +3291,7 @@
     "id": "q-litterature-208",
     "domain": "litterature",
     "format": "qcm",
-    "question": "Qui finance en grande partie la création de Cyrano de Bergerac en puisant dans sa dot ?",
+    "question": "Quelle personne a contribué au financement de la création de Cyrano de Bergerac en puisant dans sa dot ?",
     "choix": [
       "Rosemonde Gérard, la femme d'Edmond Rostand",
       "Sarah Bernhardt, grande actrice de l'époque",
@@ -3299,7 +3299,7 @@
       "Le ministre Alfred Rambaud"
     ],
     "bonneReponse": 0,
-    "explication": "L'administrateur de la Comédie-Française annonçait deux ou trois ans d'attente. Pour jouer plus vite à la Porte-Saint-Martin, la poétesse Rosemonde Gérard, épouse de Rostand, a apporté deux cent mille francs-or tirés de sa dot.",
+    "explication": "La Comédie-Française annonçait deux ou trois ans d'attente. Pour jouer plus vite à la Porte-Saint-Martin, Coquelin aide à trouver un commanditaire, et la poétesse Rosemonde Gérard, épouse de Rostand, apporte deux cent mille francs-or tirés de sa dot.",
     "source": "D'après Wikipédia — Cyrano de Bergerac (Rostand)"
   },
   {
@@ -3354,7 +3354,7 @@
     "question": "Quel titre Jean-Paul Sartre avait-il d'abord choisi pour La Nausée ?",
     "choix": [
       "Melancholia",
-      "Factum",
+      "Le Marronnier",
       "Bouville",
       "L'Existence"
     ],
@@ -3411,7 +3411,7 @@
     "id": "q-litterature-216",
     "domain": "litterature",
     "format": "qcm",
-    "question": "Quel jeune poète aurait écrit « Je serai Chateaubriand ou rien » ?",
+    "question": "Quel jeune poète aurait écrit « Je veux être Chateaubriand ou rien » ?",
     "choix": [
       "Victor Hugo",
       "Alfred de Musset",
@@ -3442,11 +3442,11 @@
     "domain": "litterature",
     "format": "qui-suis-je",
     "indices": [
-      "Je suis né en 1874, dans un roman de 1905.",
-      "Mon créateur est Maurice Leblanc.",
+      "Je suis né en 1874 et je suis apparu pour la première fois en 1905, dans une nouvelle du magazine Je sais tout.",
       "Je me déguise à la perfection et prends de multiples identités.",
+      "L'Aiguille creuse d'Étretat a été mon repaire secret.",
       "J'ai affronté un détective anglais rebaptisé « Herlock Sholmès ».",
-      "Je suis le plus célèbre gentleman cambrioleur de la littérature française."
+      "Créé par Maurice Leblanc, je suis le plus célèbre gentleman cambrioleur de la littérature française."
     ],
     "reponse": "Arsène Lupin",
     "explication": "Arsène Lupin apparaît en 1905 dans Je sais tout. Il affronte Herlock Sholmès, nom donné à Sherlock Holmes après des objections de Conan Doyle. Plus tard, il devient plutôt détective que voleur.",
@@ -3577,7 +3577,7 @@
       "Gardien"
     ],
     "bonneReponse": 0,
-    "explication": "Beaucoup de noms du livre sont de simples mots hindi désignant l'espèce : Baloo signifie « ours » et Bagheera « panthère ». Kipling a en revanche inventé Mowgli, et Kaa imite le sifflement d'un gros serpent.",
+    "explication": "Beaucoup de noms du livre sont de simples mots hindi désignant l'espèce : Baloo signifie « ours » et Bagheera « panthère ». Kipling affirmait en revanche avoir inventé Mowgli, et Kaa imite le sifflement d'un gros serpent.",
     "source": "D'après Wikipédia — Le Livre de la jungle"
   },
   {
@@ -3595,10 +3595,10 @@
     "format": "qui-suis-je",
     "indices": [
       "Je suis en partie inspiré d'un ami de mon créateur, qui avait perdu une jambe.",
-      "Je suis le cuisinier du navire Hispaniola.",
       "Je prépare en secret une mutinerie pour m'emparer d'un trésor.",
-      "Je me déplace avec une béquille, et on me représente souvent avec un perroquet sur l'épaule.",
-      "Le jeune Jim Hawkins m'aime bien, malgré mes mensonges."
+      "Le jeune Jim Hawkins m'aime bien, malgré mes mensonges.",
+      "Je suis le cuisinier du navire Hispaniola.",
+      "Je me déplace avec une béquille, et on me représente souvent avec un perroquet sur l'épaule."
     ],
     "reponse": "Long John Silver",
     "explication": "Long John Silver, cuisinier truculent de L'Île au trésor, a fixé l'image du pirate unijambiste. Stevenson s'est inspiré en partie de son ami William Ernest Henley, amputé d'une jambe.",
@@ -3616,7 +3616,7 @@
       "Les Éloïs viennent de Mars ; les Morlocks sont nés sur Terre"
     ],
     "bonneReponse": 0,
-    "explication": "Dans l'an 802 701, l'humanité s'est divisée : les Éloïs descendent des classes riches, les Morlocks des classes ouvrières. Wells y transpose les inégalités de son époque, et le voyageur perd sa machine chez les Morlocks, sous terre.",
+    "explication": "Dans l'an 802 701, l'humanité s'est divisée : les Éloïs descendent des classes riches, les Morlocks des classes ouvrières. Wells y transpose les inégalités de son époque. Ce sont d'ailleurs les Morlocks qui s'emparent de la machine du voyageur.",
     "source": "D'après Wikipédia — La Machine à explorer le temps"
   },
   {
@@ -3706,7 +3706,7 @@
       "1"
     ],
     "bonneReponse": 0,
-    "explication": "Après des siècles de calculs, Deep Thought répond simplement « 42 ». Il fait alors construire la Terre, un second superordinateur chargé de trouver la question, détruite par les Vogons juste avant la fin.",
+    "explication": "Après sept millions et demi d'années de calcul, Deep Thought répond simplement « 42 ». Il conçoit alors la Terre, un second superordinateur chargé de trouver la question, que les Vogons détruisent juste avant la fin du calcul.",
     "source": "D'après Wikipédia — Le Guide du voyageur galactique"
   },
   {
@@ -3929,22 +3929,22 @@
     "id": "q-litterature-249",
     "domain": "litterature",
     "format": "qcm",
-    "question": "Quel mot courant apparaîtrait pour la première fois dans les Métamorphoses d'Ovide, sans doute créé par lui ?",
+    "question": "Dans les Métamorphoses d'Ovide, quel dieu, pourtant mineur, ne cesse de mettre les autres divinités en difficulté ?",
     "choix": [
-      "« Métamorphose »",
-      "« Épopée »",
-      "« Hexamètre »",
-      "« Mythologie »"
+      "Cupidon, le dieu de l'amour",
+      "Mercure, le messager des dieux",
+      "Vulcain, le dieu forgeron",
+      "Janus, le dieu aux deux visages"
     ],
     "bonneReponse": 0,
-    "explication": "Avant Ovide, on parlait de « transformation ». Le mot « métamorphose » semble avoir été forgé par le poète pour son recueil d'environ 250 récits, où des personnages se changent en autre chose.",
+    "explication": "L'amour est le thème qui revient sans cesse dans le poème. Cupidon, dieu mineur du panthéon, déroute et ridiculise les grands dieux. Apollon en fait surtout les frais : frappé par sa flèche, il poursuit en vain la nymphe Daphné, changée en laurier.",
     "source": "D'après Wikipédia — Métamorphoses (Ovide)"
   },
   {
     "id": "q-litterature-250",
     "domain": "litterature",
     "format": "qcm",
-    "question": "Dans Macbeth, quel événement les sorcières annoncent-elles comme impossible avant la défaite du héros ?",
+    "question": "Dans Macbeth, selon les sorcières, Macbeth ne sera vaincu que si un événement impossible se produit. Lequel ?",
     "choix": [
       "Que la forêt de Birnam marche vers Dunsinane",
       "Que la mer envahisse le château d'Inverness",
@@ -3952,7 +3952,7 @@
       "Que Banquo revienne d'entre les morts"
     ],
     "bonneReponse": 0,
-    "explication": "Rassuré, Macbeth se croit invincible. Mais l'armée de Malcolm avance cachée derrière des branches coupées dans le bois de Birnam : la prophétie se réalise de façon inattendue, comme celle de l'homme « non né d'une femme ».",
+    "explication": "Rassuré, Macbeth se croit invincible. Mais l'armée de Malcolm avance cachée derrière des branches coupées dans le bois de Birnam : la prophétie se réalise de façon inattendue, comme celle de l'homme « non né d'une femme », Macduff, né par césarienne.",
     "source": "D'après Wikipédia — Macbeth (Shakespeare)"
   },
   {
@@ -3961,7 +3961,7 @@
     "format": "vrai-faux",
     "affirmation": "Au théâtre, une superstition veut qu'on évite de prononcer le nom de Macbeth et qu'on parle plutôt de « la pièce écossaise ».",
     "reponse": true,
-    "explication": "La pièce passe pour maudite chez les gens de théâtre : on dit « la pièce écossaise » plutôt que son titre. Elle est pourtant l'une des tragédies les plus jouées de Shakespeare, et aussi la plus brève.",
+    "explication": "La pièce passe pour maudite chez les gens de théâtre : on dit « la pièce écossaise » plutôt que son titre. Elle est pourtant l'une des tragédies les plus populaires de Shakespeare, et aussi la plus courte.",
     "source": "D'après Wikipédia — Macbeth (Shakespeare)"
   },
   {
@@ -4104,7 +4104,7 @@
     "id": "q-litterature-259",
     "domain": "litterature",
     "format": "qcm",
-    "question": "À qui attribue-t-on la première utilisation du mot « dystopia », dans un discours au Parlement britannique en 1868 ?",
+    "question": "Quel philosophe emploie le mot « dystopia » dans un discours au Parlement britannique en 1868, pour l'opposer à « utopia » ?",
     "choix": [
       "John Stuart Mill",
       "Thomas More",
@@ -4112,7 +4112,7 @@
       "George Orwell"
     ],
     "bonneReponse": 0,
-    "explication": "John Stuart Mill emploie « dystopia » pour s'opposer à « utopia », mot créé par Thomas More. Bentham avait proposé dès 1818 le terme voisin « cacotopie », mais c'est dystopie qui s'est imposé.",
+    "explication": "John Stuart Mill forge ce contraire d'« utopia », le mot de Thomas More, en 1868 ; une forme « dustopia » avait déjà paru en 1747. Bentham avait proposé dès 1818 le terme voisin « cacotopie », mais c'est dystopie qui s'est imposé.",
     "source": "D'après Wikipédia — Dystopie"
   },
   {
@@ -4172,7 +4172,7 @@
       "Victor Hugo"
     ],
     "bonneReponse": 0,
-    "explication": "Ronsard, fidèle au programme de la Pléiade, a le premier introduit l'ode en français, en s'inspirant des Grecs et des Latins. Malherbe, Boileau et Hugo ont ensuite repris ou renouvelé ce genre.",
+    "explication": "Ronsard, fidèle au programme de la Pléiade, a le premier introduit l'ode en français, en s'inspirant des Grecs et des Latins. Après lui, Malherbe l'a pratiquée, Boileau en a fixé les règles et Victor Hugo l'a renouvelée avec ses Odes et Ballades.",
     "source": "D'après Wikipédia — Ode"
   },
   {
@@ -4218,9 +4218,9 @@
     "id": "q-litterature-267",
     "domain": "litterature",
     "format": "vrai-faux",
-    "affirmation": "Un écrivain déjà couronné par le prix Goncourt peut aussi recevoir le prix Renaudot.",
+    "affirmation": "Un même roman peut recevoir, la même année, le prix Goncourt et le prix Renaudot.",
     "reponse": false,
-    "explication": "Il est reconnu qu'un lauréat d'un autre grand prix (Goncourt, Femina, Interallié, Médicis) ne peut pas recevoir le Renaudot. Le jury choisit donc un autre livre si son premier favori est couronné ailleurs.",
+    "explication": "Le Renaudot ne se cumule pas avec les autres grands prix (Goncourt, Femina, Interallié, Médicis) : ses jurés prévoient un second choix si leur favori est couronné ailleurs. En 2018, ils ont même créé un prix spécial pour Le Lambeau, déjà lauréat du Femina.",
     "source": "D'après Wikipédia — Prix Renaudot"
   },
   {
@@ -4232,7 +4232,7 @@
       {
         "gauche": "Les Beaux Quartiers",
         "droite": "Louis Aragon",
-        "explication": "Ce roman d'Aragon, publié chez Denoël, reçoit le prix Renaudot en 1936, devant d'autres titres."
+        "explication": "Ce roman d'Aragon, publié chez Denoël, reçoit le prix Renaudot en 1936."
       },
       {
         "gauche": "Les Choses",
@@ -4247,7 +4247,7 @@
       {
         "gauche": "Suite française",
         "droite": "Irène Némirovsky",
-        "explication": "Irène Némirovsky est couronnée par le prix Renaudot en 2004 pour ce roman publié chez Denoël."
+        "explication": "Irène Némirovsky reçoit à titre posthume le prix Renaudot en 2004 pour ce roman publié chez Denoël."
       }
     ],
     "explication": "Le Renaudot, créé en 1926 par des journalistes, a récompensé des romans très divers, de ceux d'Aragon et de Perec à ceux d'Annie Ernaux et d'Irène Némirovsky.",
@@ -4265,7 +4265,7 @@
       "Un académicien étranger invité"
     ],
     "bonneReponse": 0,
-    "explication": "L'Académie compte quarante fauteuils. En 1855, Arsène Houssaye invente l'expression pour les écrivains méritants jamais élus : Molière, Balzac, Flaubert, Zola ou Proust n'ont jamais siégé sous la Coupole.",
+    "explication": "L'Académie compte quarante fauteuils. En 1855, Arsène Houssaye invente l'expression pour les écrivains méritants jamais élus : Molière, Balzac, Flaubert ou Proust n'ont jamais été académiciens, et Zola a échoué malgré 25 candidatures.",
     "source": "D'après Wikipédia — Académie française"
   },
   {
@@ -4287,7 +4287,7 @@
     "id": "q-litterature-271",
     "domain": "litterature",
     "format": "qcm",
-    "question": "Dans La Modification de Michel Butor, à quelle personne le narrateur s'adresse-t-il à son héros ?",
+    "question": "Dans La Modification de Michel Butor, à quelle personne le héros est-il désigné tout au long du récit ?",
     "choix": [
       "À la deuxième personne du pluriel, « vous »",
       "À la première personne, « je »",
@@ -4409,7 +4409,7 @@
         "annee": "1980"
       }
     ],
-    "explication": "Fondée en 1635, l'Académie publie son Dictionnaire en 1694, est supprimée en 1793 par la Convention, puis rétablie en 1803 au sein de l'Institut de France. En 1980, elle accueille sa première femme.",
+    "explication": "Fondée en 1635, l'Académie publie son Dictionnaire en 1694, est supprimée en 1793 par la Convention, puis rétablie en 1803 au sein de l'Institut de France. En 1980, elle élit sa première femme, Marguerite Yourcenar.",
     "source": "D'après Wikipédia — Académie française"
   },
   {

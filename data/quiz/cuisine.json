@@ -661,8 +661,8 @@
       },
       {
         "gauche": "Paris-Brest",
-        "droite": "Crème mousseline pralinée",
-        "explication": "Couronne de pâte à choux fourrée d'une crème au praliné."
+        "droite": "Couronne à la crème pralinée",
+        "explication": "Couronne de pâte à choux fourrée d'une crème mousseline au praliné."
       },
       {
         "gauche": "Mille-feuille",
@@ -671,7 +671,7 @@
       },
       {
         "gauche": "Éclair",
-        "droite": "Pâte à choux",
+        "droite": "Pâte à choux allongée et glacée",
         "explication": "Coque allongée de pâte à choux, fourrée de crème et glacée."
       },
       {
@@ -688,11 +688,11 @@
     "domain": "cuisine",
     "format": "qui-suis-je",
     "indices": [
-      "Je suis né en 1924, sur une idée d'un journaliste et critique d'art.",
-      "Je concerne des dizaines de métiers, de la cuisine à la reliure.",
-      "Mon concours a lieu tous les trois ou quatre ans.",
-      "Mes médailles sont remises à la Sorbonne puis à l'Élysée.",
-      "Le président de la République porte aussi mon titre, d'office."
+      "Je suis né en octobre 1924 à l'hôtel de ville de Paris, sur une idée du journaliste Lucien Klotz.",
+      "Le président de la République me porte d'office, à titre honoraire.",
+      "Mes médailles sont remises à la Sorbonne, puis à l'Élysée.",
+      "Tous les trois ou quatre ans, je récompense des artisans, métier par métier, de la cuisine à la reliure.",
+      "On m'abrège souvent en trois lettres : MOF."
     ],
     "reponse": "Meilleur ouvrier de France",
     "explication": "Le titre de Meilleur ouvrier de France, créé en 1924 par Lucien Klotz, récompense des chefs-d'œuvre dans de nombreux métiers. Il est particulièrement reconnu dans les métiers de bouche.",
@@ -779,7 +779,7 @@
     "format": "vrai-faux",
     "affirmation": "À l'origine, le cassoulet ne se préparait pas avec des haricots mais plutôt avec des fèves.",
     "reponse": true,
-    "explication": "Le haricot vient d'Amérique du Sud et n'est arrivé en Europe qu'au XVIe siècle. Les ragoûts médiévaux de ce type se faisaient donc avec des fèves, que la légende de Castelnaudary, située pendant la guerre de Cent Ans, oublie.",
+    "explication": "Le haricot, venu d'Amérique, n'est arrivé en Europe qu'au XVIe siècle. Les ragoûts médiévaux de ce type, comme celui que la légende place à Castelnaudary pendant la guerre de Cent Ans, se faisaient donc avec des fèves, remplacées plus tard par le haricot blanc.",
     "source": "D'après Wikipédia — Cassoulet"
   },
   {
@@ -879,7 +879,7 @@
       {
         "gauche": "Ploye",
         "droite": "Nouveau-Brunswick",
-        "explication": "Galette de sarrasin très répandue dans les régions francophones du Canada."
+        "explication": "Galette de sarrasin très répandue dans les régions francophones du Nouveau-Brunswick."
       },
       {
         "gauche": "Memil-buchimgae",
@@ -925,11 +925,11 @@
     "domain": "cuisine",
     "format": "qui-suis-je",
     "indices": [
-      "Je suis un plat de gratin dont l'invention est récente, dans les années 1980.",
+      "Je suis un gratin d'invention récente : je date des années 1980.",
       "Je descends d'une recette cuite dans une poêle à très long manche, la péla.",
-      "Mon nom vient du mot « tartifla », qui signifie pomme de terre en savoyard.",
       "J'associe pommes de terre, oignons, lardons et un fromage qui grille sur le dessus.",
-      "Ce fromage est le reblochon."
+      "Mon nom vient du mot « tartifla », qui signifie pomme de terre en savoyard.",
+      "Mon fromage est le reblochon."
     ],
     "reponse": "La tartiflette",
     "explication": "La tartiflette s'inspire de la péla haut-savoyarde, mais elle n'est devenue célèbre qu'avec les stations de ski des années 1980. Le reblochon, coupé en deux, fond et grille sur les pommes de terre, oignons et lardons.",
@@ -946,11 +946,11 @@
         "annee": "1651"
       },
       {
-        "label": "Première recette de fondue moderne, au fromage et au vin sans œufs",
+        "label": "Première recette publiée sous le nom de fondue, au fromage et au vin sans œufs",
         "annee": "1875"
       },
       {
-        "label": "La maïzena arrive en Suisse",
+        "label": "La fécule de maïs arrive en Suisse",
         "annee": "1905"
       },
       {
@@ -958,7 +958,7 @@
         "annee": "1939"
       }
     ],
-    "explication": "Le « ramequin » de 1651 ressemble déjà à une fondue. La recette moderne au vin date de 1875, la maïzena de 1905 stabilise le mélange, et l'Union suisse du fromage fait connaître la fondue à l'étranger en 1939.",
+    "explication": "Le « ramequin » de 1651 annonce déjà la fondue. La première recette publiée sous le nom de fondue, au vin et sans œufs, date de 1875 ; la fécule de maïs, arrivée en Suisse en 1905, stabilise le mélange, et l'Union suisse du fromage la fait connaître à New York en 1939.",
     "source": "D'après Wikipédia — Fondue savoyarde"
   },
   {
@@ -1083,8 +1083,8 @@
       "Plusieurs pays revendiquent mon origine, sans preuve décisive.",
       "La plus ancienne recette proche de moi connue vient d'un livre de cuisine d'Alep, au XIIIe siècle, et ne contient pas d'ail.",
       "Je suis une purée froide ou tiède, mêlée à de la pâte de sésame et du citron.",
-      "Mon nom signifie « pois chiche » en arabe.",
-      "On me sert avec de l'huile d'olive et du pain pita."
+      "On me sert avec de l'huile d'olive et du pain pita.",
+      "Mon nom signifie « pois chiche » en arabe."
     ],
     "reponse": "Le houmous",
     "explication": "Le houmous est une purée de pois chiches au tahini, à l'ail et au citron. Son nom signifie simplement « pois chiche » en arabe. Une recette du XIIIe siècle, sans ail, en est la plus ancienne trace connue.",
@@ -1310,7 +1310,7 @@
     "id": "q-cuisine-085",
     "domain": "cuisine",
     "format": "qcm",
-    "question": "Que signifie à l'origine le mot hongrois gulyás, à l'origine du goulasch ?",
+    "question": "Que signifie le mot hongrois gulyás, qui a donné son nom au goulasch ?",
     "choix": [
       "Le bouvier, gardien de troupeaux de bovins",
       "Le paprika rouge",
@@ -1370,7 +1370,7 @@
     "id": "q-cuisine-089",
     "domain": "cuisine",
     "format": "qcm",
-    "question": "Quel ingrédient du kimchi, venu d'Amérique, était inconnu en Corée avant le début du XVIIe siècle ?",
+    "question": "Quel ingrédient, devenu incontournable dans le kimchi, était inconnu en Corée avant le début du XVIIe siècle ?",
     "choix": [
       "Le piment",
       "L'ail",
@@ -1423,7 +1423,7 @@
       "Bahadur Shah Zafar"
     ],
     "bonneReponse": 0,
-    "explication": "Dans une lettre à son fils, Aurangzeb se souvient du goût de son biryani en hiver et réclame son cuisinier, Saliman. Le prince refuse de s'en séparer. L'empereur lui demande alors d'envoyer au moins un élève de ce cuisinier.",
+    "explication": "Dans une lettre à son fils, Aurangzeb se souvient du biryani qu'il goûtait chez lui en hiver, préparé par le cuisinier Saliman. Il aurait voulu le prendre à son service, mais le prince a refusé de s'en séparer : l'empereur lui demande donc au moins un élève de ce cuisinier.",
     "source": "D'après Wikipédia — Biryani"
   },
   {
@@ -1462,16 +1462,16 @@
     "format": "vrai-faux",
     "affirmation": "Le pad thaï est un plat millénaire, qui existait déjà il y a plusieurs siècles en Thaïlande.",
     "reponse": false,
-    "explication": "Les nouilles de riz sautées viennent de Chine depuis des siècles, mais le pad thaï lui-même a été inventé au milieu du XXe siècle. Une chercheuse y voit même un outil de construction nationale, créé dans les années 1930.",
+    "explication": "Les nouilles de riz sautées sont arrivées de Chine il y a des siècles, mais le pad thaï lui-même date du XXe siècle. L'auteur américain Mark Padoongpatt situe même sa création dans les années 1930, comme un outil pour exalter le nationalisme thaïlandais.",
     "source": "D'après Wikipédia — Phat thai"
   },
   {
     "id": "q-cuisine-096",
     "domain": "cuisine",
     "format": "vrai-faux",
-    "affirmation": "Le naan au fromage (cheese naan) est une invention parisienne des années 1970.",
+    "affirmation": "Le naan au fromage (cheese naan) n'est pas né en Inde, mais à Paris.",
     "reponse": true,
-    "explication": "Le cheese naan serait né à Paris : l'origine la plus probable est attribuée à André Risser, qui aurait garni les naan de fromage à tartiner en 1967, craignant que les Français n'apprécient pas la cuisine indienne. Une autre version cite une famille de Bombay.",
+    "explication": "Le cheese naan est une création parisienne. L'hypothèse la plus probable l'attribue à André Risser qui, en 1967, inquiet de l'accueil de la cuisine indienne par les Français, aurait garni les naan de fromage à tartiner. Une autre version cite une famille venue de Bombay, en 1976.",
     "source": "D'après Wikipédia — Naan"
   },
   {
@@ -1660,7 +1660,7 @@
       "Noire et dure"
     ],
     "bonneReponse": 0,
-    "explication": "La croûte uniformément blanche est récente : elle vient de la moisissure Penicillium candidum, qui a remplacé Penicillium album, grise-bleutée. Cette blancheur ne s'impose qu'entre les deux guerres, et jusque vers 1960 on s'en méfiait.",
+    "explication": "La croûte toute blanche est récente : elle vient de la moisissure Penicillium candidum, qui a supplanté Penicillium album, dont la croûte virait au gris-bleu. Le blanc ne s'impose que dans l'entre-deux-guerres, et ce teint pâle, jadis regardé avec suspicion, ne devient immaculé que vers 1960.",
     "source": "D'après Wikipédia — Camembert de Normandie"
   },
   {

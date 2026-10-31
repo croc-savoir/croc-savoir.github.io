@@ -3009,7 +3009,7 @@
       "D'une auberge de Rouen"
     ],
     "bonneReponse": 0,
-    "explication": "Au XVIe siècle, un « restaurant » est un aliment fortifiant, puis un bouillon concentré. Au milieu du XVIIIe siècle, le mot désigne le lieu qui le vend, à l'origine des restaurants modernes.",
+    "explication": "Le mot vient du verbe « restaurer », remettre en état. Au XVIe siècle, un « restaurant » est un aliment qui redonne des forces ; au XVIIe, un bouillon de viande concentré ; au milieu du XVIIIe, le lieu qui le vend, ancêtre de nos restaurants.",
     "source": "D'après Wikipédia — Restaurant"
   },
   {
@@ -3048,7 +3048,7 @@
     "format": "vrai-faux",
     "affirmation": "Avant l'arrivée de Colomb, on ne cultivait la pomme de terre qu'en Amérique du Sud.",
     "reponse": true,
-    "explication": "Vrai. Avant l'échange colombien, la pomme de terre restait cantonnée à l'Amérique du Sud. Elle est ensuite devenue un aliment de base en Europe, où sa dépendance a même conduit à la grande famine irlandaise des années 1840.",
+    "explication": "Vrai. Avant 1492, la pomme de terre ne poussait qu'en Amérique du Sud. Elle est ensuite devenue un aliment de base en Europe : l'Irlande en dépendait tant que, dans les années 1840, le mildiou qui ravagea les récoltes provoqua la grande famine.",
     "source": "D'après Wikipédia — Échange colombien"
   },
   {
@@ -3194,11 +3194,11 @@
     "domain": "cuisine",
     "format": "qui-suis-je",
     "indices": [
-      "Je suis la partie extérieure d'un fruit, pas sa pulpe.",
-      "Je me prélève avec un zesteur, une râpe ou un économe.",
-      "Sous moi, il y a une couche blanche, parfois amère.",
-      "On me confit pour faire des orangettes ou on me glisse dans le thé Earl Grey.",
-      "Je viens du citron, de l'orange ou de la bergamote."
+      "Je suis une fine couche extérieure, pas la pulpe du fruit.",
+      "Sous moi se cache une couche blanche, l'albédo, souvent amère.",
+      "On me prélève avec une râpe, un économe ou un petit couteau.",
+      "Je parfume les tartes au citron, et ma version à la bergamote parfume le thé Earl Grey.",
+      "Je suis la peau colorée du citron ou de l'orange, et un ustensile porte presque mon nom."
     ],
     "reponse": "Le zeste",
     "explication": "Le zeste est la couche colorée et parfumée de l'écorce des agrumes, aussi appelée flavedo. Sous lui se trouve l'albédo, blanc et souvent amer, que l'on évite généralement de prélever.",
@@ -3225,7 +3225,7 @@
     "format": "difference",
     "question": "Quelle est la différence entre mariner et faire des pickles ?",
     "choix": [
-      "Une marinade dure quelques heures à un jour pour parfumer ; les pickles se font en des mois pour conserver",
+      "La marinade dure quelques heures à un jour, pour parfumer ; le pickle s'étend sur des mois, pour conserver",
       "Les pickles utilisent de l'huile, la marinade du vinaigre",
       "La marinade se fait avec de la viande, les pickles avec du poisson",
       "La marinade se fait après la cuisson, les pickles avant"

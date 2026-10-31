@@ -3003,9 +3003,9 @@
     "id": "q-histoire-189",
     "domain": "histoire",
     "format": "vrai-faux",
-    "affirmation": "Louise Michel s'est rendue aux autorités pour faire libérer sa mère après la Semaine sanglante.",
+    "affirmation": "Louise Michel s'est rendue aux autorités pendant la Semaine sanglante pour faire libérer sa mère.",
     "reponse": true,
-    "explication": "Combattante de la Commune de Paris, Louise Michel se livre le 24 mai 1871 pour que sa mère soit libérée. Elle est ensuite déportée en Nouvelle-Calédonie, où elle devient anarchiste.",
+    "explication": "Combattante de la Commune de Paris, Louise Michel se livre le 24 mai 1871, en pleine Semaine sanglante, pour que sa mère soit libérée. Devant le conseil de guerre, elle réclame la mort ; elle est finalement déportée en Nouvelle-Calédonie, où elle devient anarchiste.",
     "source": "D'après Wikipédia — Louise Michel"
   },
   {
@@ -3068,13 +3068,13 @@
     "format": "qcm",
     "question": "Quel incident, survenu à Prague le 23 mai 1618, déclenche la guerre de Trente Ans ?",
     "choix": [
-      "La défenestration de deux émissaires de l'empereur",
+      "La défenestration de deux émissaires catholiques des Habsbourg",
       "Le siège du château de Prague par l'armée suédoise",
       "L'assassinat du roi de Bohême",
       "Le sac de la ville par des mercenaires"
     ],
     "bonneReponse": 0,
-    "explication": "Des nobles tchèques jettent par une fenêtre du château deux émissaires catholiques de Ferdinand II, qui survivent en tombant sur un tas d'ordures. Cet incident presque anodin déclenche pourtant un conflit de trente ans.",
+    "explication": "Des nobles tchèques jettent par une fenêtre du château deux émissaires catholiques de Ferdinand II, alors roi de Bohême, et leur secrétaire, qui survivent en tombant sur un tas d'ordures. Cet incident presque anodin déclenche pourtant un conflit de trente ans.",
     "source": "D'après Wikipédia — Guerre de Trente Ans"
   },
   {
@@ -3133,7 +3133,7 @@
         "annee": "1565"
       },
       {
-        "label": "Les Ottomans prennent Chypre à Venise",
+        "label": "Les Ottomans envahissent Chypre, possession vénitienne",
         "annee": "1570"
       },
       {
@@ -3149,7 +3149,7 @@
         "annee": "1574"
       }
     ],
-    "explication": "La perte de Chypre en 1570 pousse le pape à former la Sainte-Ligue, victorieuse en 1571. Mais Venise traite avec les Ottomans en 1573, la Ligue se défait, et Tunis tombe en 1574 : la victoire a eu peu de suites territoriales.",
+    "explication": "L'invasion de Chypre en 1570 pousse le pape à former la Sainte-Ligue, victorieuse en 1571. Mais Venise traite avec les Ottomans en 1573 et leur cède l'île, la Ligue se défait, et Tunis tombe en 1574 : la victoire a eu peu de suites territoriales.",
     "source": "D'après Wikipédia — Bataille de Lépante"
   },
   {
@@ -3257,7 +3257,7 @@
       "L'Hercule de la liberté"
     ],
     "bonneReponse": 0,
-    "explication": "Saint-Just, le plus jeune élu de la Convention, est surnommé l'Archange de la Terreur pour son intransigeance. « L'Ami du peuple » renvoie à Marat, et « l'Hercule de la liberté » à Mirabeau.",
+    "explication": "Saint-Just, le plus jeune élu de la Convention, est parfois surnommé l'Archange de la Terreur pour l'intransigeance de ses principes. « L'Ami du peuple », lui, est le titre du journal de Marat, auquel ce surnom est resté attaché.",
     "source": "D'après Wikipédia — Louis Antoine de Saint-Just"
   },
   {
@@ -3427,7 +3427,7 @@
       {
         "gauche": "Matthias Erzberger",
         "droite": "Civil qui conduit la délégation allemande",
-        "explication": "Il signe pour l'Allemagne, et non un chef militaire."
+        "explication": "C'est ce civil, et non un chef militaire, qui signe pour l'Allemagne."
       },
       {
         "gauche": "Maxime Weygand",
@@ -3462,7 +3462,7 @@
     "id": "q-histoire-218",
     "domain": "histoire",
     "format": "qcm",
-    "question": "Quel texte publié par Charles X le 25 juillet 1830 provoque les Trois Glorieuses ?",
+    "question": "Quelles mesures, signées par Charles X le 25 juillet 1830, provoquent les Trois Glorieuses ?",
     "choix": [
       "Les ordonnances de Saint-Cloud",
       "La loi sur le sacrilège",
@@ -3509,7 +3509,7 @@
       "La création de la Sécurité sociale"
     ],
     "bonneReponse": 0,
-    "explication": "Après la grève de mai-juin 1936, les accords de Matignon instaurent deux semaines de congés payés et la semaine de 40 heures. Le gouvernement de Léon Blum est le premier dirigé par un socialiste.",
+    "explication": "Après la grève de mai-juin 1936, les accords de Matignon augmentent les salaires, puis des lois votées en juin instaurent deux semaines de congés payés et la semaine de 40 heures. Le gouvernement de Léon Blum est le premier dirigé par un socialiste.",
     "source": "D'après Wikipédia — Front populaire (France)"
   },
   {
@@ -3766,7 +3766,7 @@
       "Le crime contre l'humanité"
     ],
     "bonneReponse": 3,
-    "explication": "Quatre accusations visent les dirigeants nazis : conspiration, agression, violation des lois de la guerre et atteinte à l'humanité. Ce dernier point, en partie nouveau en droit, est appliqué pour la première fois à Nuremberg.",
+    "explication": "Quatre chefs d'accusation visent les dirigeants nazis : complot, crimes contre la paix, crimes de guerre et crimes contre l'humanité. Cette dernière notion, en partie nouvelle en droit, est appliquée pour la première fois à Nuremberg.",
     "source": "D'après Wikipédia — Procès de Nuremberg"
   },
   {
@@ -3955,7 +3955,7 @@
       "Nikolaï Ryjkov"
     ],
     "bonneReponse": 0,
-    "explication": "Dernier dirigeant de l'URSS, Gorbatchev remet son pouvoir à Boris Eltsine, qui préside alors la fédération de Russie. Le soir même, le drapeau soviétique est abaissé du Kremlin et remplacé par le drapeau russe.",
+    "explication": "Dernier dirigeant de l'URSS, Gorbatchev remet son pouvoir à Boris Eltsine, qui préside alors la fédération de Russie. Le soir même, le drapeau soviétique est abaissé du Kremlin pour la dernière fois, puis remplacé par le drapeau russe.",
     "source": "D'après Wikipédia — Dislocation de l'URSS"
   },
   {
@@ -3992,9 +3992,9 @@
     "id": "q-histoire-253",
     "domain": "histoire",
     "format": "vrai-faux",
-    "affirmation": "La ville de Saïgon a été rebaptisée Hô Chi Minh-Ville en l'honneur du dirigeant vietnamien, en 1975.",
+    "affirmation": "La ville de Saïgon a été rebaptisée Hô Chi Minh-Ville en l'honneur du dirigeant vietnamien, après la victoire du Nord en 1975.",
     "reponse": true,
-    "explication": "Après la victoire du Nord, Saïgon, plus grande ville du Viêt Nam, prend le nom de Hô Chi Minh-Ville en 1975. Le dirigeant était mort en 1969, six ans plus tôt.",
+    "explication": "Après la prise de Saïgon par le Nord en 1975, la plus grande ville du Viêt Nam prend le nom de Hô Chi Minh-Ville. Le dirigeant n'a pas vu cette victoire : il était mort en 1969, six ans plus tôt.",
     "source": "D'après Wikipédia — Hô Chi Minh"
   },
   {
@@ -4054,7 +4054,7 @@
       "Rambouillet"
     ],
     "bonneReponse": 0,
-    "explication": "Les protocoles de Sèvres sont signés du 21 au 24 octobre 1956 dans un pavillon qui avait été la maison d'édition de Jules Verne. Ils prévoient qu'Israël attaque d'abord l'Égypte, puis que Paris et Londres interviennent.",
+    "explication": "Les protocoles de Sèvres sont conclus au terme d'entretiens secrets menés du 21 au 24 octobre 1956, dans un pavillon qui avait abrité la maison d'édition des livres de Jules Verne. Ils prévoient qu'Israël attaque d'abord l'Égypte, puis que Paris et Londres interviennent.",
     "source": "D'après Wikipédia — Crise du canal de Suez"
   },
   {
@@ -4173,7 +4173,7 @@
         "explication": "Il mène la guérilla qui chasse Batista."
       }
     ],
-    "explication": "Ces dirigeants incarnent la guerre froide et la décolonisation : de l'Afrique à l'Asie, de l'Europe de l'Est à l'Amérique latine, leurs pays ont cherché leur voie entre les deux blocs.",
+    "explication": "Ces dirigeants ont marqué l'époque de la guerre froide et de la décolonisation, de l'Afrique à l'Asie, de l'Europe de l'Est à l'Amérique latine : indépendance arrachée, révolution armée ou tentative de réforme, chacun a durablement pesé sur le destin de son pays.",
     "source": "D'après Wikipédia — Hô Chi Minh"
   }
 ]

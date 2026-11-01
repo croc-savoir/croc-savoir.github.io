@@ -2910,7 +2910,7 @@
     "id": "q-animaux-188",
     "domain": "animaux",
     "format": "qcm",
-    "question": "Combien de temps une salamandre tachetée a-t-elle vécu en captivité à Göttingen, de 1863 à 1913 ?",
+    "question": "Combien de temps a vécu la salamandre tachetée gardée à partir de 1863 dans un terrarium du musée zoologique de Göttingen ?",
     "choix": [
       "Cinquante ans",
       "Douze ans",
@@ -2918,7 +2918,7 @@
       "Quatre-vingts ans"
     ],
     "bonneReponse": 0,
-    "explication": "Cette salamandre tachetée a passé cinquante ans dans un terrarium, une longévité exceptionnelle pour un amphibien. En nature, on a attesté plus de 30 ans de vie. Ses couleurs jaune et noir avertissent les prédateurs de sa toxicité.",
+    "explication": "Maintenue de 1863 à 1913, cette salamandre tachetée a vécu cinquante ans en captivité, une longévité exceptionnelle pour un amphibien. Dans la nature, elle pourrait dépasser 30 ans. Ses couleurs jaune et noir avertissent les prédateurs de sa toxicité.",
     "source": "D'après Wikipédia — Salamandra salamandra"
   },
   {
@@ -2945,7 +2945,7 @@
       {
         "gauche": "Le python réticulé",
         "droite": "Le serpent le plus long du monde",
-        "explication": "Il dépasse régulièrement 6 m, plus long que l'anaconda."
+        "explication": "C'est le seul serpent actuel à dépasser régulièrement 6 m : il est plus long que l'anaconda."
       },
       {
         "gauche": "L'anaconda vert",
@@ -3080,10 +3080,10 @@
     "format": "difference",
     "question": "Quelle est la différence entre un marlin et un espadon ?",
     "choix": [
-      "Le marlin a un rostre plus court et conique, avec des dents ; l'espadon a un rostre aplati et pas de dents adulte",
+      "Le marlin a un rostre plus court et rond, avec des dents ; l'espadon a un rostre aplati et plus de dents à l'âge adulte",
       "Le marlin vit en eau douce, l'espadon en mer",
       "Le marlin est un requin, l'espadon un poisson osseux",
-      "Le marlin a un rostre aplati, l'espadon un rostre conique et denté"
+      "Le marlin a un rostre aplati, l'espadon un rostre rond et denté"
     ],
     "bonneReponse": 0,
     "explication": "L'espadon a un rostre aplati, une peau lisse et plus de dents à l'âge adulte. Le marlin a un rostre rond, des dents et une peau à petites pointes en V. Cette confusion est ancienne : elle a touché la première traduction française du Vieil Homme et la Mer.",
@@ -3290,7 +3290,7 @@
         "explication": "Il avance lentement, bouche béante, et les lames de ses branchies retiennent le plancton."
       }
     ],
-    "explication": "Chez les grands animaux marins, la nourriture façonne les records : une pêche en équipe à coups de bulles, des plongées profondes, des chants variés et une gueule faite pour filtrer l'eau, chacun avec sa spécialité.",
+    "explication": "Quatre géants marins, quatre spécialités : la baleine à bosse pêche en équipe grâce à ses bulles, l'éléphant de mer descend plus bas que tout autre phoque, le béluga bavarde sans cesse et le requin pèlerin filtre l'eau comme une passoire.",
     "source": "D'après Wikipédia — Baleine à bosse"
   },
   {
@@ -3314,7 +3314,7 @@
     "format": "vrai-faux",
     "affirmation": "Aux XVIIe et XVIIIe siècles, sur la côte atlantique des États-Unis, le homard était considéré comme un plat de luxe réservé aux riches.",
     "reponse": false,
-    "explication": "C'est l'inverse : le homard était si abondant qu'on le jugeait bon pour les pauvres, voire pour fertiliser les champs. Dans le Massachusetts, une loi a même limité à deux fois par semaine les repas où on en servait.",
+    "explication": "C'est l'inverse : le homard était si abondant qu'on le jugeait bon pour les pauvres et les prisonniers, voire pour fertiliser les champs. On raconte même qu'une loi du Massachusetts limitait à deux par semaine les repas où on en servait.",
     "source": "D'après Wikipédia — Homard"
   },
   {
@@ -3448,7 +3448,7 @@
     "format": "vrai-faux",
     "affirmation": "Les huîtres perlières sont de proches cousines des huîtres comestibles.",
     "reponse": false,
-    "explication": "Les huîtres perlières appartiennent à une autre famille que les vraies huîtres comestibles. La plus grande, Pinctada maxima, a la taille d'une assiette. Les vraies huîtres, elles, forment des récifs et filtrent l'eau.",
+    "explication": "Les huîtres perlières forment une famille à part, les Ptériidés, distincte de celle des vraies huîtres comestibles, les Ostréidés. La plus grande, Pinctada maxima, a la taille d'une assiette. Presque tous les mollusques à coquille peuvent d'ailleurs fabriquer des perles.",
     "source": "D'après Wikipédia — Huître"
   },
   {
@@ -3478,7 +3478,7 @@
       "Je pêche mes proies avec une canne à pêche lumineuse au-dessus de ma bouche."
     ],
     "reponse": "La baudroie abyssale",
-    "explication": "Seule la femelle porte la canne à pêche, une nageoire dorsale transformée dont le leurre brille grâce à des bactéries. Elle attend sa proie sans dépenser d'énergie. Elle n'a été filmée vivante que deux fois.",
+    "explication": "Seule la femelle porte la canne à pêche, une nageoire dorsale transformée dont le leurre brille grâce à des bactéries. Elle attend sa proie sans dépenser d'énergie. Jusqu'en 2025, ce poisson des abysses n'avait été filmé vivant que deux fois.",
     "source": "D'après Wikipédia — Melanocetus"
   },
   {
@@ -3698,15 +3698,15 @@
     "id": "q-animaux-238",
     "domain": "animaux",
     "format": "qcm",
-    "question": "Quel grillon d'Europe est le seul à se creuser un terrier ?",
+    "question": "Quel grillon se creuse un terrier, devant lequel le mâle chante pour attirer les femelles ?",
     "choix": [
       "Le grillon champêtre",
-      "Le grillon des cheminées",
-      "Le grillon d'eau",
-      "Le grillon des bois"
+      "Le grillon domestique",
+      "Le grillon des bois",
+      "Le grillon d'Italie"
     ],
     "bonneReponse": 0,
-    "explication": "Le grillon champêtre creuse un conduit de 20 à 30 cm de long avec ses mandibules, terminé par une chambre où il s'abrite et passe l'hiver. Il ne vole ni ne grimpe, ce qui rend sa recolonisation lente.",
+    "explication": "Le grillon champêtre creuse avec ses mandibules un conduit de 20 à 30 cm, terminé par une chambre où il s'abrite et passe l'hiver. Le mâle chante sur une petite plate-forme de terre battue devant l'entrée. Incapable de voler, l'espèce recolonise difficilement.",
     "source": "D'après Wikipédia — Gryllus campestris"
   },
   {
@@ -3737,15 +3737,15 @@
     "id": "q-animaux-241",
     "domain": "animaux",
     "format": "qcm",
-    "question": "Pourquoi le chat peut-il ronronner mais pas rugir ?",
+    "question": "Où a-t-on trouvé le plus ancien indice connu d'un chat apprivoisé, inhumé près d'une tombe humaine vers 7500 av. J.-C. ?",
     "choix": [
-      "Son os hyoïde est entièrement ossifié",
-      "Ses cordes vocales sont trop courtes",
-      "Sa langue est trop rugueuse",
-      "Son larynx est trop proche de son nez"
+      "À Chypre",
+      "En Égypte",
+      "En Grèce",
+      "En Chine"
     ],
     "bonneReponse": 0,
-    "explication": "L'os hyoïde du chat domestique, qui soutient la langue et le larynx, est entièrement ossifié. Cette particularité lui permet de ronronner, mais pas de rugir comme les grands félins.",
+    "explication": "À Shillourokambos, à Chypre, un chat sauvage africain a été enterré près d'une tombe néolithique vers 7500 av. J.-C. L'île n'avait pas de félin sauvage : il y avait donc été apporté. On a longtemps cru que la domestication avait commencé en Égypte.",
     "source": "D'après Wikipédia — Chat"
   },
   {
@@ -3760,7 +3760,7 @@
       "Quatorze mois"
     ],
     "bonneReponse": 0,
-    "explication": "La jument porte son petit pendant onze mois. Le poulain, très vite capable de se lever et de courir, est conçu pour suivre le troupeau et fuir : c'est la clé de survie d'un herbivore qui n'a que la vitesse pour se défendre.",
+    "explication": "La jument porte son petit pendant onze mois. Le poulain, capable de se lever et de courir peu après sa naissance, peut aussitôt suivre le troupeau : un atout vital pour un herbivore dont la fuite est la principale défense.",
     "source": "D'après Wikipédia — Cheval"
   },
   {
@@ -3816,7 +3816,7 @@
     "evenements": [
       {
         "label": "Un pou figure dans la Micrographia de Robert Hooke",
-        "annee": "1667"
+        "annee": "1665"
       },
       {
         "label": "Malpighi consacre une étude au ver à soie",
@@ -3831,11 +3831,11 @@
         "annee": "2003"
       },
       {
-        "label": "Le génome du ver à soie est publié",
-        "annee": "2008"
+        "label": "Une première version du génome du ver à soie est publiée",
+        "annee": "2004"
       }
     ],
-    "explication": "Hooke observe un pou au microscope en 1667, Malpighi étudie le ver à soie en 1669, Dubois décrit la luciférase en 1887, Brady publie en 2003 son étude sur les fourmis légionnaires et le génome du bombyx paraît en 2008.",
+    "explication": "Hooke publie en 1665 la gravure d'un pou vu au microscope, Malpighi étudie le ver à soie en 1669, Dubois décrit la luciférase en 1887, Brady publie en 2003 son étude sur les fourmis légionnaires et une première version du génome du bombyx paraît en 2004.",
     "source": "D'après Wikipédia — Entomologie"
   },
   {
@@ -3889,7 +3889,7 @@
       "Un sanglier en forêt"
     ],
     "bonneReponse": 0,
-    "explication": "Le 13 octobre 1131, un cochon qui divaguait dans Paris fit chuter le prince Philippe, qui en mourut. Un édit royal interdit alors de laisser vaguer les porcs, sauf ceux des moines Antonins, qui portaient une clochette.",
+    "explication": "Le 13 octobre 1131, un cochon qui divaguait dans Paris fit chuter le prince Philippe, qui en mourut. Un édit royal interdit alors de laisser divaguer les porcs dans la ville, sauf ceux des moines Antonins.",
     "source": "D'après Wikipédia — Porc"
   },
   {
@@ -3935,7 +3935,7 @@
     "id": "q-animaux-254",
     "domain": "animaux",
     "format": "qcm",
-    "question": "Combien de lapins sauvages européens importés en 1874 ont donné naissance aux millions de lapins d'Australie ?",
+    "question": "Combien de lapins de garenne, lâchés en Australie en 1859, ont suffi à y déclencher une invasion de lapins ?",
     "choix": [
       "Vingt-quatre",
       "Deux cent quarante",
@@ -3943,7 +3943,7 @@
       "Douze"
     ],
     "bonneReponse": 0,
-    "explication": "Il en a suffi de vingt-quatre, arrivés en 1874 : sans prédateurs ni virus pour limiter leur multiplication, ils ont fini par être jusqu'à trente millions. Un couple peut avoir cinq portées par an, jusqu'à douze petits chacune.",
+    "explication": "Il en a suffi de vingt-quatre, lâchés en 1859 : sans prédateurs ni virus pour freiner leur multiplication, ils se sont bientôt comptés par centaines de millions. Un couple peut avoir cinq portées par an, jusqu'à douze petits chacune.",
     "source": "D'après Wikipédia — Lapin"
   },
   {
@@ -3955,7 +3955,7 @@
       "Son cri ressemble à celui du porc et il vient d'Amérique, alors appelée les Indes",
       "Il vient réellement du sous-continent indien",
       "Il a été élevé d'abord comme cochon",
-      "Il fut rapporté par la Compagnie des Indes"
+      "Il se roule dans la boue comme un porc"
     ],
     "bonneReponse": 0,
     "explication": "Le cochon d'Inde n'est ni un porc ni originaire d'Inde. Son nom vient de son cri, semblable au grognement d'un porc, et de son origine sud-américaine, région que l'on appelait autrefois les Indes. Il est domestiqué dans les Andes.",

@@ -1612,7 +1612,7 @@
       "Le porc aux défenses"
     ],
     "bonneReponse": 0,
-    "explication": "« Sanglier » vient du latin singularis porcus, « porc solitaire », qui désignait d'abord le mâle vivant seul. On le trouve dès le XIIe siècle en ancien français.",
+    "explication": "« Sanglier » vient du latin singularis porcus, « porc solitaire », qui désignait d'abord le mâle vivant seul. Le mot est attesté vers 1140 en ancien français, sous les formes sengler et senglier.",
     "source": "D'après Wikipédia — Sanglier"
   },
   {
@@ -1634,7 +1634,7 @@
     "id": "q-animaux-105",
     "domain": "animaux",
     "format": "qcm",
-    "question": "Quel chimpanzé a été envoyé en orbite en 1961, quelques mois avant Youri Gagarine ?",
+    "question": "Quel chimpanzé a été envoyé dans l'espace en janvier 1961, moins de trois mois avant Youri Gagarine ?",
     "choix": [
       "Ham",
       "Washoe",
@@ -1642,7 +1642,7 @@
       "Loulis"
     ],
     "bonneReponse": 0,
-    "explication": "Ham a effectué en 1961 un vol orbital dans un engin américain, avant le premier vol humain de Gagarine. Washoe, elle, est connue pour avoir appris environ 250 signes du langage des signes.",
+    "explication": "Le 31 janvier 1961, Ham a effectué un vol suborbital à bord d'une capsule américaine Mercury, avant le premier vol humain de Gagarine en avril. Washoe, elle, est connue pour avoir appris environ 250 signes du langage des signes.",
     "source": "D'après Wikipédia — Pan troglodytes"
   },
   {
@@ -1669,10 +1669,10 @@
       "Hannon de Carthage",
       "Pythéas de Marseille",
       "Ulysse",
-      "Magellan"
+      "Néarque"
     ],
     "bonneReponse": 0,
-    "explication": "Le récit du périple d'Hannon, navigateur carthaginois, évoque des « femmes velues » appelées Gorillae. Ce nom a été repris au XIXe siècle pour désigner les grands singes d'Afrique.",
+    "explication": "Le récit du périple d'Hannon, navigateur carthaginois, évoque des « femmes velues » appelées Gorillae, un nom sans doute né d'une erreur de copiste. Il a été repris en 1847 pour désigner les grands singes d'Afrique.",
     "source": "D'après Wikipédia — Gorille"
   },
   {
@@ -1687,7 +1687,7 @@
       "Par un chant identique pour toute la troupe"
     ],
     "bonneReponse": 0,
-    "explication": "La femelle ne semble pas utiliser l'équivalent d'un prénom pour son petit : elle émet plutôt une vocalise qui la désigne, elle. C'est ainsi qu'elle attire son attention.",
+    "explication": "La femelle grand dauphin ne semble pas employer l'équivalent d'un prénom pour son petit : pour l'appeler ou attirer son attention, elle émet plutôt une vocalise qui la désigne, elle. Elle peut aussi le confier à d'autres femelles quand elle part chasser.",
     "source": "D'après Wikipédia — Dauphin"
   },
   {
@@ -1702,7 +1702,7 @@
       "Géant du froid"
     ],
     "bonneReponse": 0,
-    "explication": "Odobenus vient du grec odous, « dent », et baino, « marcher », car le morse plante ses défenses dans la glace pour se hisser hors de l'eau.",
+    "explication": "Odobenus vient du grec odous, « dent », et baino, « marcher », car le morse plante ses défenses dans la glace pour se hisser hors de l'eau. Son nom complet, Odobenus rosmarus, pourrait se traduire par « cheval marin qui marche sur ses dents ».",
     "source": "D'après Wikipédia — Morse (animal)"
   },
   {
@@ -1756,7 +1756,7 @@
     "format": "vrai-faux",
     "affirmation": "On peut monter un lama comme un cheval.",
     "reponse": false,
-    "explication": "Le lama ne porte qu'une vingtaine de kilos, environ le quart de son poids : il sert de bête de somme chez les Incas et dans les Andes, mais ne peut pas être monté.",
+    "explication": "Le lama est une bête de somme, utilisée dès l'époque des Incas : il porte environ 25 à 30 % de son poids sur une dizaine de kilomètres. Il n'est pas assez robuste pour servir de monture et, en randonnée, il se contente de porter les sacs.",
     "source": "D'après Wikipédia — Lama (animal)"
   },
   {
@@ -1804,7 +1804,7 @@
         "explication": "Sans dents, il capture ses proies avec sa langue collante."
       }
     ],
-    "explication": "Chacun de ces mammifères a un trait marquant : vertèbres du cou comptées, rôle de sentinelle, langue géante ou régime exclusivement fait d'insectes.",
+    "explication": "Chacun de ces mammifères a un trait marquant : un cou à seulement six vertèbres, un tour de garde dressé sur ses pattes, une langue démesurée ou un appétit record pour les fourmis.",
     "source": "D'après Wikipédia — Fourmilier"
   },
   {
@@ -1842,11 +1842,11 @@
     "domain": "animaux",
     "format": "qui-suis-je",
     "indices": [
-      "Je ne vis plus que sur une île au sud de l'Australie.",
-      "Je pèse environ 6 à 8 kg, avec un pelage noir.",
-      "Mes mâchoires sont les plus puissantes des mammifères, rapportées à ma taille.",
-      "Un cancer contagieux a fait chuter ma population depuis 1996.",
-      "Mon nom vient d'un cri strident entendu la nuit."
+      "Rapportée à ma taille, ma morsure compte parmi les plus puissantes des mammifères.",
+      "Je pèse environ 6 à 8 kg, mais je suis né en ne pesant qu'environ 0,2 g.",
+      "Un cancer contagieux, transmis par morsure, a fait chuter ma population depuis 1996.",
+      "Mon cri strident, entendu la nuit, a effrayé les premiers Européens.",
+      "Je ne vis plus que sur une île au sud de l'Australie."
     ],
     "reponse": "Le diable de Tasmanie",
     "explication": "Le diable de Tasmanie est devenu le plus grand marsupial carnivore existant après l'extinction du thylacine en 1936. Protégé depuis 1941, il est touché depuis 1996 par une tumeur faciale contagieuse.",
@@ -1901,7 +1901,7 @@
     "id": "q-animaux-121",
     "domain": "animaux",
     "format": "qcm",
-    "question": "Comment reconnaît-on la trompe d'un éléphant d'Asie de celle d'un éléphant d'Afrique ?",
+    "question": "Comment distingue-t-on la trompe d'un éléphant d'Asie de celle d'un éléphant d'Afrique ?",
     "choix": [
       "Elle se termine par un seul appendice en forme de doigt",
       "Elle se termine par deux appendices en forme de doigts",
@@ -1957,8 +1957,8 @@
     "format": "qui-suis-je",
     "indices": [
       "Mon nom grec est formé de « lion » et de « tacheté », et il désignait d'abord le guépard.",
-      "Mes rosettes n'ont pas de point au centre, contrairement à celles de mon cousin d'Amérique.",
-      "L'un de mes semblables a été retrouvé à 5 700 mètres, en haut du Kilimandjaro.",
+      "Mes rosettes n'ont en général pas de point au centre, contrairement à celles de mon cousin d'Amérique.",
+      "La carcasse de l'un de mes semblables a été retrouvée à 5 700 mètres d'altitude, sur le Kilimandjaro.",
       "Je grimpe dans les arbres avec des proies parfois plus lourdes que moi.",
       "Quand je suis tout noir, on m'appelle panthère."
     ],
@@ -2017,7 +2017,7 @@
     "format": "vrai-faux",
     "affirmation": "La panthère des neiges rugit comme le lion et le tigre.",
     "reponse": false,
-    "explication": "Malgré un os hyoïde en partie ossifié, la panthère des neiges ne sait pas rugir, car ses cordes vocales sont trop courtes. Sa longue queue lui sert de balancier et de couverture quand elle dort.",
+    "explication": "Malgré un os hyoïde en partie ossifié, la panthère des neiges ne sait pas rugir : ses cordes vocales, longues de 9 mm seulement, opposent trop peu de résistance à l'air. Elle se distingue ainsi du lion et du tigre, ses cousins du genre Panthera.",
     "source": "D'après Wikipédia — Panthère des neiges"
   },
   {
@@ -2172,7 +2172,7 @@
       "Seul le caribou porte des bois, le renne en est dépourvu"
     ],
     "bonneReponse": 0,
-    "explication": "Renne et caribou désignent la même espèce, Rangifer tarandus : « renne » est le nom européen et « caribou » le nom canadien, qui vient du micmac. Chez eux, mâles comme femelles peuvent porter des bois.",
+    "explication": "Renne et caribou désignent la même espèce, Rangifer tarandus : « renne » est le nom européen et « caribou » le nom nord-américain, qui vient du micmac. Chez eux, mâles comme femelles peuvent porter des bois, un cas unique chez les cervidés.",
     "source": "D'après Wikipédia — Rangifer tarandus"
   },
   {
@@ -2194,7 +2194,7 @@
     "id": "q-animaux-140",
     "domain": "animaux",
     "format": "qcm",
-    "question": "Qu'a découvert la dessinatrice animalière Jemima Blackburn en 1871 à propos du coucou gris ?",
+    "question": "Qu'a observé et dessiné la dessinatrice animalière Jemima Blackburn en 1871 à propos du coucou gris ?",
     "choix": [
       "Que le jeune coucou éjecte lui-même les autres petits du nid",
       "Que les parents adoptifs laissent mourir leurs propres petits",
@@ -2202,7 +2202,7 @@
       "Que le coucou pond ses œufs dans des nids de rapaces"
     ],
     "bonneReponse": 0,
-    "explication": "Jusqu'au XIXe siècle, on pensait que les parents adoptifs sacrifiaient leurs petits. En 1871, Jemima Blackburn comprend que c'est le poussin coucou qui jette hors du nid les œufs et poussins de l'espèce hôte, quelques heures après sa naissance.",
+    "explication": "On croyait que les parents adoptifs laissaient mourir leurs propres petits. Edward Jenner avait décrit le vrai coupable dès 1788, sans convaincre. En 1871, Jemima Blackburn observe et dessine le poussin coucou jetant hors du nid les œufs de son hôte, peu après l'éclosion.",
     "source": "D'après Wikipédia — Coucou gris"
   },
   {
@@ -2336,7 +2336,7 @@
     "choix": [
       "Bec osseux",
       "Oiseau du fruit",
-      "Grand croasseur",
+      "Plume de feu",
       "Roi de la forêt"
     ],
     "bonneReponse": 0,
@@ -2385,7 +2385,7 @@
         "annee": "2013"
       }
     ],
-    "explication": "En 1800, Thomas Davies décrit l'oiseau devant la Linnean Society, mais Latham le nomme en premier (1801), et son nom prévaut. Les passereaux ne l'accueillent qu'en 1840. Fenton enregistre l'oiseau flûtiste en 1969.",
+    "explication": "En 1800, Thomas Davies présente l'oiseau à la Linnean Society, mais son texte ne paraît qu'en 1802 : le nom publié par Latham dès 1801 l'emporte donc. Les ménures ne rejoignent les passereaux qu'en 1840, et Fenton enregistre l'oiseau flûtiste en 1969.",
     "source": "D'après Wikipédia — Menura"
   },
   {

@@ -3441,7 +3441,7 @@
     "id": "q-cinema-217",
     "domain": "cinema",
     "format": "qcm",
-    "question": "D'où vient le nom d'Indiana Jones ?",
+    "question": "D'où vient le prénom du héros Indiana Jones ?",
     "choix": [
       "Du chien de George Lucas",
       "D'un oncle de Steven Spielberg",
@@ -3449,7 +3449,7 @@
       "D'un personnage de western des années 1950"
     ],
     "bonneReponse": 0,
-    "explication": "Le héros s'appelait d'abord Indiana Smith. Son nom vient du chien de George Lucas, un malamute d'Alaska. Spielberg a conseillé de passer à Jones car Smith ressemblait trop au titre du film Nevada Smith.",
+    "explication": "Le héros s'appelait d'abord Indiana Smith. Son prénom vient du chien de George Lucas, un malamute d'Alaska. Spielberg a conseillé de passer à Jones car Smith ressemblait trop au titre du film Nevada Smith.",
     "source": "D'après Wikipédia — Les Aventuriers de l'arche perdue"
   },
   {
@@ -3666,7 +3666,7 @@
     "id": "q-cinema-231",
     "domain": "cinema",
     "format": "qcm",
-    "question": "Quel effet technique Hitchcock invente-t-il pour traduire le vertige dans Sueurs froides ?",
+    "question": "Quel effet technique, utilisé pour la première fois au cinéma, Hitchcock emploie-t-il pour traduire le vertige dans Sueurs froides ?",
     "choix": [
       "Un travelling arrière combiné à un zoom avant",
       "Un ralenti associé à une image floue",
@@ -3674,7 +3674,7 @@
       "Un long plan-séquence filmé à l'épaule"
     ],
     "bonneReponse": 0,
-    "explication": "La caméra recule pendant que l'objectif zoome en avant : le décor semble s'étirer et se déformer. Utilisé pour la première fois dans un film, ce procédé est resté connu sous le nom d'effet Vertigo, repris ensuite par de nombreux cinéastes.",
+    "explication": "La caméra recule pendant que l'objectif zoome en avant : le décor semble s'étirer et se déformer, comme si la cage d'escalier s'allongeait. Inauguré dans ce film, ce procédé est resté connu sous le nom d'effet Vertigo, ou travelling contrarié, et a été repris par de nombreux cinéastes.",
     "source": "D'après Wikipédia — Sueurs froides"
   },
   {
@@ -3701,7 +3701,7 @@
     "format": "vrai-faux",
     "affirmation": "Frank Sinatra a finalement joué le rôle de Terry Malloy dans Sur les quais.",
     "reponse": false,
-    "explication": "Faux : Sinatra avait donné son accord de principe, mais Elia Kazan voulait Marlon Brando, qui avait d'abord refusé. Après un essai avec Paul Newman et Joanne Woodward, Brando accepte et obtient l'Oscar du meilleur acteur.",
+    "explication": "Faux : Sinatra avait donné son accord de principe, mais Kazan voulait Marlon Brando, qui avait d'abord refusé. Un essai filmé avec Paul Newman et Joanne Woodward convainc le producteur, puis Brando revient sur son refus et décroche l'Oscar du meilleur acteur.",
     "source": "D'après Wikipédia — Sur les quais"
   },
   {
@@ -3766,7 +3766,7 @@
         "explication": "Elle est Garance, la femme libre et mystérieuse, aimée par quatre hommes dans le Paris des années 1820."
       }
     ],
-    "explication": "Quatre classiques, quatre vedettes : une comédie musicale américaine, un thriller d'Hitchcock, un film japonais de Kurosawa et un chef-d'œuvre français tourné sous l'Occupation, en pleine guerre.",
+    "explication": "Quatre classiques, quatre vedettes : une comédie musicale américaine, un thriller d'Hitchcock, un film japonais de Kurosawa et un chef-d'œuvre français de Marcel Carné, tourné sous l'Occupation.",
     "source": "D'après Wikipédia — Chantons sous la pluie"
   },
   {
@@ -3775,7 +3775,7 @@
     "format": "qui-suis-je",
     "indices": [
       "Je suis né en 1917, dans une famille d'agriculteurs normands.",
-      "J'ai été boulanger à Rouen avant de me lancer dans la musique.",
+      "J'ai été boulanger à Rouen, où je jouais aussi de la trompette dans un petit trio.",
       "Mon idole s'appelait Fernandel, et j'ai d'abord signé mes premiers numéros sous le nom d'Andrel.",
       "Je me fais connaître avec la chanson Les Crayons.",
       "Dans Le Corniaud et La Grande Vadrouille, je fais équipe avec Louis de Funès."
@@ -3841,7 +3841,7 @@
       "Il reçoit le prix du jury"
     ],
     "bonneReponse": 0,
-    "explication": "Le film de Luc Besson ouvre le Festival de Cannes 1988, le jour même de sa sortie en France. La presse le reçoit froidement, mais le public suit : plus de 9 millions de spectateurs français, un record pour un film français des années 1980.",
+    "explication": "Le film de Luc Besson ouvre le Festival de Cannes 1988, le jour même de sa sortie en France. La presse le reçoit froidement, mais le public suit : plus de 9 millions de spectateurs, ce qui en fait le plus gros succès français des années 1980.",
     "source": "D'après Wikipédia — Le Grand Bleu"
   },
   {
@@ -3887,15 +3887,15 @@
     "id": "q-cinema-244",
     "domain": "cinema",
     "format": "qcm",
-    "question": "Quelle règle protège le cinéma sud-coréen face aux films américains ?",
+    "question": "Quelle règle a longtemps protégé le cinéma sud-coréen face aux films américains ?",
     "choix": [
-      "Un film coréen doit rester à l'affiche des salles pendant au moins 40 % de l'année",
-      "Les films étrangers sont toujours interdits aux moins de 18 ans",
-      "Les films américains doivent être doublés en coréen",
-      "Chaque film étranger doit être produit avec un studio coréen"
+      "Les salles devaient programmer des films coréens au moins 40 % de l'année",
+      "Les films étrangers étaient interdits aux moins de 18 ans",
+      "Les films américains devaient être doublés en coréen",
+      "Chaque film étranger devait être coproduit avec un studio coréen"
     ],
     "bonneReponse": 0,
-    "explication": "Un système de quotas impose aux salles de montrer un film coréen pendant au moins 40 % de l'année. Aujourd'hui, la part de marché des films coréens dans leur pays dépasse même les 50 %, ce qui est rare dans le monde.",
+    "explication": "Ce quota d'écran obligeait les salles à montrer des films coréens 146 jours par an, soit 40 % de l'année. Sous la pression des États-Unis, il a été réduit de moitié en 2006, mais les films coréens ont souvent dépassé la moitié des entrées dans leur pays, un cas rare.",
     "source": "D'après Wikipédia — Cinéma sud-coréen"
   },
   {
@@ -3932,7 +3932,7 @@
     "id": "q-cinema-247",
     "domain": "cinema",
     "format": "qcm",
-    "question": "Quel film de Fritz Lang, sorti en 1927, introduit au cinéma la ville futuriste, les androïdes et la peur d'un système oppressif ?",
+    "question": "Quel film muet allemand, sorti en 1927, impose au cinéma la ville futuriste, les androïdes et la peur d'un système oppressif ?",
     "choix": [
       "Metropolis",
       "Aelita",
@@ -3940,7 +3940,7 @@
       "L'Homme invisible"
     ],
     "bonneReponse": 0,
-    "explication": "Metropolis apporte au genre une ambiance sombre et une lecture sociale : oppression du système, androïdes, opulence technologique. Son influence sur la science-fiction des décennies suivantes a été considérable.",
+    "explication": "Metropolis, de Fritz Lang, apporte au genre une ambiance sombre et une lecture sociale : oppression du système, androïdes, opulence technologique. Son influence sur la science-fiction des décennies suivantes a été considérable.",
     "source": "D'après Wikipédia — Film de science-fiction"
   },
   {
@@ -4020,8 +4020,8 @@
       },
       {
         "gauche": "La Tour infernale (1974)",
-        "droite": "Un feu géant au sommet d'une tour californienne",
-        "explication": "Paul Newman et Steve McQueen mènent la lutte contre les flammes."
+        "droite": "Un incendie géant dans un gratte-ciel de San Francisco",
+        "explication": "Paul Newman et Steve McQueen luttent contre les flammes pour sauver les invités pris au piège tout en haut."
       }
     ],
     "explication": "Ces quatre films des années 1970 ont installé la formule du genre : une catastrophe spectaculaire, une distribution de vedettes et plusieurs destins croisés. Airport a lancé la mode dès 1970.",
@@ -4231,7 +4231,7 @@
       "Collectionner les timbres"
     ],
     "bonneReponse": 0,
-    "explication": "Pignon, employé du ministère des Finances, construit des maquettes en allumettes. Brochant croit tenir le champion de la soirée, sans se douter que sa maladresse va ruiner sa soirée.",
+    "explication": "Pignon, employé du ministère des Finances, construit des maquettes en allumettes. Brochant croit tenir le champion de son prochain dîner, sans se douter que les gaffes en série de son invité vont ruiner sa soirée.",
     "source": "D'après Wikipédia — Le Dîner de cons (film)"
   },
   {
@@ -4303,7 +4303,7 @@
     "id": "q-cinema-270",
     "domain": "cinema",
     "format": "qcm",
-    "question": "De quel auteur ancien Michel Audiard aurait-il tiré une célèbre réplique des Tontons flingueurs sur l'audace des imbéciles ?",
+    "question": "De quel auteur Michel Audiard aurait-il tiré une célèbre réplique des Tontons flingueurs sur l'audace des imbéciles ?",
     "choix": [
       "Saint Thomas d'Aquin",
       "Blaise Pascal",
@@ -4350,7 +4350,7 @@
       "Ils sont tous les deux architectes"
     ],
     "bonneReponse": 0,
-    "explication": "L'actrice française et l'architecte japonais restent anonymes, dans une vision égalitaire de l'après-bombe. À la fin, elle dit s'appeler « Hiroshima », et lui « Nevers », le nom de la ville natale de la jeune femme.",
+    "explication": "L'actrice française et l'architecte japonais restent anonymes, dans une vision égalitaire de l'après-bombe. À la fin, elle le nomme « Hiroshima », et lui l'appelle « Nevers », du nom de la ville natale de la jeune femme.",
     "source": "D'après Wikipédia — Hiroshima, mon amour"
   },
   {
@@ -4380,7 +4380,7 @@
         "annee": "1964"
       }
     ],
-    "explication": "Hiroshima mon amour (1959) et À bout de souffle (1960) lancent la Nouvelle Vague. Jules et Jim (1962), Les Tontons flingueurs (1963) puis Les Parapluies de Cherbourg (1964) suivent en quelques années.",
+    "explication": "Hiroshima mon amour (1959) et À bout de souffle (1960) font connaître la Nouvelle Vague dans le monde. Suivent Jules et Jim (1962), la comédie populaire Les Tontons flingueurs (1963), puis Les Parapluies de Cherbourg, Palme d'or 1964.",
     "source": "D'après Wikipédia — Les Parapluies de Cherbourg"
   },
   {
@@ -4422,7 +4422,7 @@
       "Parce que des cinéastes et critiques français l'ont repéré dans les films américains des années 1910 à 1940",
       "Parce qu'il a été inventé par D. W. Griffith à Hollywood",
       "Parce que les studios américains l'imposaient à tous leurs réalisateurs",
-      "Parce qu'il servait à filmer les cow-boys américains au galop"
+      "Parce qu'un studio de Hollywood l'avait fait breveter"
     ],
     "bonneReponse": 0,
     "explication": "Ce sont des Français qui ont baptisé ce cadrage, typique à leurs yeux des films américains, notamment ceux de Thomas H. Ince. Il avait un atout dans les westerns : il montrait en entier le pistolet à la ceinture.",
@@ -4525,7 +4525,7 @@
     "id": "q-cinema-285",
     "domain": "cinema",
     "format": "qcm",
-    "question": "Quel compositeur a écrit en 1908 la première musique originale pour un film, L'Assassinat du duc de Guise ?",
+    "question": "Quel compositeur célèbre a écrit en 1908 la musique de L'Assassinat du duc de Guise, considérée comme la première partition originale pour un film ?",
     "choix": [
       "Camille Saint-Saëns",
       "Erik Satie",
@@ -4533,7 +4533,7 @@
       "Maurice Ravel"
     ],
     "bonneReponse": 0,
-    "explication": "La société Le Film d'art a demandé la partition à Camille Saint-Saëns, compositeur de renom. Avant cela, la musique était improvisée au piano ou empruntée au répertoire classique. Cette partition inaugure le genre.",
+    "explication": "La société Le Film d'art a demandé la partition à Camille Saint-Saëns, compositeur de renom. Jusque-là, les projections étaient surtout accompagnées au piano, en improvisant ou en puisant dans le répertoire classique.",
     "source": "D'après Wikipédia — Musique de film"
   },
   {
@@ -4557,7 +4557,7 @@
     "format": "vrai-faux",
     "affirmation": "Dans A Chess Dispute, tourné en 1903, la bagarre des deux joueurs reste presque entièrement hors-champ.",
     "reponse": true,
-    "explication": "Les joueurs roulent à terre sous le cadre : on ne voit que des jambes, un torse et des vêtements qui volent. Cacher l'essentiel fait le gag, dans un film de 1903 déjà très ancien dans l'usage dramatique du hors-champ.",
+    "explication": "Les joueurs roulent à terre sous le cadre : on ne voit que des jambes, un torse et des vêtements qui volent. Cacher l'essentiel fait le gag : ce film de Robert William Paul est l'une des plus anciennes utilisations dramatiques du hors-champ.",
     "source": "D'après Wikipédia — Hors-champ"
   },
   {
@@ -4587,7 +4587,7 @@
       "Easy Rider"
     ],
     "bonneReponse": 0,
-    "explication": "The Italian Job laisse le car des voleurs suspendu au bord d'un précipice, sans montrer la suite. Le mot « cliffhanger » vient de cette image de personnage suspendu à une falaise. Le film laisse volontairement le spectateur sur sa faim.",
+    "explication": "The Italian Job, avec Michael Caine et Noël Coward, laisse le car des voleurs en équilibre au bord d'un précipice, sans montrer la suite. Il illustre au sens propre le mot « cliffhanger », apparu vers 1936 pour désigner les fins en suspens des serials.",
     "source": "D'après Wikipédia — Cliffhanger"
   },
   {

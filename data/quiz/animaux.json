@@ -4703,24 +4703,24 @@
     "id": "q-animaux-302",
     "domain": "animaux",
     "format": "vrai-faux",
-    "affirmation": "Le prix Nobel de 1973 attribué à Lorenz, Tinbergen et von Frisch est le seul jamais remis à des spécialistes du comportement.",
+    "affirmation": "Une oie qui couve et commence à ramener dans le nid un œuf qui en a roulé termine son geste même si l'expérimentateur retire l'œuf en cours de route.",
     "reponse": true,
-    "explication": "Les trois fondateurs de l'éthologie moderne ont été récompensés en médecine, en 1973, pour leurs travaux sur l'organisation du comportement individuel et social. C'est le seul Nobel décerné dans ce domaine.",
+    "explication": "Ce geste est une « coordination héréditaire » : une fois déclenché, ce comportement inné va jusqu'au bout, même s'il a perdu toute utilité. L'oie doit l'achever avant de pouvoir recommencer, et il ne se déclenche que si elle est en train de couver.",
     "source": "D'après Wikipédia — Instinct"
   },
   {
     "id": "q-animaux-303",
     "domain": "animaux",
     "format": "qcm",
-    "question": "Quel oiseau construit son nid en cousant deux grandes feuilles ensemble ?",
+    "question": "Les célèbres « nids d'hirondelles » comestibles sont en réalité fabriqués par quels oiseaux ?",
     "choix": [
-      "La fauvette couturière",
-      "La sylvette couronnée",
-      "Le tisserin social",
-      "Le martin-pêcheur"
+      "Des martinets, avec leur salive",
+      "Des hirondelles, avec de la boue",
+      "Des tisserins, avec des feuilles",
+      "Des fauvettes couturières, avec des fibres"
     ],
     "bonneReponse": 0,
-    "explication": "La fauvette couturière perce des trous le long de deux grandes feuilles avec son bec, puis les coud avec des fibres végétales pour former un cône. La sylvette couronnée, elle, bâtit un nid d'argile.",
+    "explication": "Ces nids comestibles sont l'œuvre de petits martinets, les salanganes, qui les bâtissent uniquement avec leur salive durcie. On les appelle à tort « nids d'hirondelles » : martinets et hirondelles se ressemblent, mais ne sont pas proches parents.",
     "source": "D'après Wikipédia — Nid"
   },
   {
@@ -4750,7 +4750,7 @@
         "explication": "Il creuse un tunnel terminé par une chambre où il pond."
       }
     ],
-    "explication": "Chaque oiseau a un style de nid caractéristique : cousu, modelé en argile, collectif ou creusé. Ces savoir-faire sont largement innés, ce qui illustre le rôle de l'instinct dans la construction.",
+    "explication": "Chaque espèce a un style de nid caractéristique : cousu, modelé en argile, collectif ou creusé dans une berge. Les biologistes rattachent cette construction à un « instinct de nidification », qui pousse l'oiseau à bâtir un abri pour ses œufs.",
     "source": "D'après Wikipédia — Nid"
   },
   {
@@ -4762,7 +4762,7 @@
       "L'angle de l'axe de la danse par rapport à la verticale",
       "La vitesse du frétillement",
       "L'odeur portée par la danseuse",
-      "La durée de la danse"
+      "Le nombre d'abeilles qui suivent la danseuse"
     ],
     "bonneReponse": 0,
     "explication": "Karl von Frisch a montré que l'axe de la danse, comparé à la verticale du rayon, donne la direction par rapport au soleil. La vitesse du frétillement indique la distance, et l'odeur la nature des fleurs.",
@@ -4787,7 +4787,7 @@
     "id": "q-animaux-307",
     "domain": "animaux",
     "format": "qcm",
-    "question": "Parmi ces poissons, lequel peut produire jusqu'à 600 volts ?",
+    "question": "Parmi ces poissons, lequel produit les décharges électriques au voltage le plus élevé ?",
     "choix": [
       "L'anguille électrique",
       "La torpille",
@@ -4795,7 +4795,7 @@
       "Le poisson-éléphant"
     ],
     "bonneReponse": 0,
-    "explication": "L'anguille électrique peut atteindre 600 volts, le silure électrique 350 et la torpille 200, mais avec un courant plus intense. Le poisson-éléphant, lui, n'émet qu'un courant très faible pour s'orienter.",
+    "explication": "L'anguille électrique dépasse les 600 volts, et certaines mesures atteignent 860 volts. Le silure électrique monte à 350 volts et la torpille à 200, avec un courant plus intense. Le poisson-éléphant n'émet qu'un faible courant pour s'orienter.",
     "source": "D'après Wikipédia — Poisson électrique"
   },
   {
@@ -4899,13 +4899,13 @@
     "format": "qcm",
     "question": "Pourquoi E. O. Wilson, à 18 ans, passe-t-il de la collection de mouches à celle des fourmis ?",
     "choix": [
-      "Les épingles à insectes manquaient pendant la guerre",
+      "La guerre avait provoqué une pénurie d'épingles à insectes",
       "Un professeur le lui a ordonné",
       "Il avait peur des mouches",
       "Il avait découvert une espèce de fourmi inconnue"
     ],
     "bonneReponse": 0,
-    "explication": "Pendant la Seconde Guerre mondiale, les épingles à insectes se faisaient rares. Les fourmis, elles, se rangent dans de petits tubes : Wilson s'y consacre et devient le plus grand spécialiste mondial de ces insectes.",
+    "explication": "La Seconde Guerre mondiale avait provoqué une pénurie d'épingles à insectes. Les fourmis, elles, se conservent dans de petits tubes : Wilson s'y consacre et deviendra le plus grand spécialiste mondial de ces insectes.",
     "source": "D'après Wikipédia — Edward Osborne Wilson"
   },
   {
@@ -4936,7 +4936,7 @@
       {
         "gauche": "Edward O. Wilson",
         "droite": "Les fourmis",
-        "explication": "Il a découvert leurs phéromones et publié The Ants."
+        "explication": "Il a montré le rôle des phéromones dans leur communication et coécrit The Ants."
       },
       {
         "gauche": "Frans de Waal",
@@ -4959,7 +4959,7 @@
       "En faisant bouillir des aliments dans du vinaigre"
     ],
     "bonneReponse": 0,
-    "explication": "Les petits tubes percés protégeaient la viande des mouvements de l'estomac, mais laissaient passer le suc gastrique. Régurgitée à moitié digérée, elle prouvait une action chimique, et non un simple broyage mécanique.",
+    "explication": "Les petits tubes percés protégeaient la viande du broyage par l'estomac, tout en laissant passer le suc gastrique. Quand la buse les régurgitait, la viande avait pourtant été digérée : preuve d'une action chimique, et non d'un simple broyage mécanique.",
     "source": "D'après Wikipédia — René-Antoine Ferchault de Réaumur"
   },
   {

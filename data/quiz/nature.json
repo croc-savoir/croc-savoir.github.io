@@ -2860,7 +2860,7 @@
     "id": "q-nature-182",
     "domain": "nature",
     "format": "qcm",
-    "question": "Quelle plante pourrait être la plus ancienne culture connue, d'après des restes trouvés à Jéricho en 2006 ?",
+    "question": "Quelle plante pourrait être la plus ancienne culture connue, d'après des restes trouvés près de Jéricho et publiés en 2006 ?",
     "choix": [
       "Le figuier",
       "Le blé amidonnier",
@@ -2868,7 +2868,7 @@
       "Le lin"
     ],
     "bonneReponse": 0,
-    "explication": "Des figues vieilles d'environ 9400 av. J.-C. appartiennent à une variété mutante qui ne se reproduit que par boutures : elle était donc cultivée. Elles précèdent de plusieurs siècles la culture des céréales.",
+    "explication": "Ces figues, datées d'environ 9400 av. J.-C., appartiennent à une variété mutante que les insectes ne peuvent pas polliniser : ces figuiers ne se multiplient que par boutures, donc grâce à l'homme. Ils étaient cultivés plusieurs siècles avant les premières céréales.",
     "source": "D'après Wikipédia — Néolithique"
   },
   {
@@ -2894,7 +2894,7 @@
         "annee": "1858"
       }
     ],
-    "explication": "En 1672, Grew baptise le cambium ; en 1758, Duhamel montre qu'il fabrique le bois ; en 1812, Sprengel y voit une « sève formatrice » ; en 1858, Nägeli forge les mots xylème et phloème.",
+    "explication": "En 1672, Grew baptise le cambium ; en 1758, Duhamel montre avec ses fils d'argent que le bois naît à son niveau ; en 1812, Sprengel y voit une « sève formatrice » ; en 1858, Nägeli forge les mots xylème et phloème, quand on admet enfin que cette zone est faite de cellules.",
     "source": "D'après Wikipédia — Cambium"
   },
   {
@@ -2903,7 +2903,7 @@
     "format": "vrai-faux",
     "affirmation": "La pomme de terre est une racine renflée.",
     "reponse": false,
-    "explication": "C'est un tubercule, c'est-à-dire une tige souterraine gorgée de réserves : elle porte des bourgeons, appelés « yeux », ce qu'une racine ne fait jamais. Les racines n'ont ni feuilles ni bourgeons.",
+    "explication": "C'est un tubercule, c'est-à-dire une tige souterraine gorgée de réserves. Ses « yeux » sont des bourgeons disposés en spirale, d'où repartent de nouvelles tiges : une organisation typique d'une tige. C'est la patate douce, elle, qui est une racine renflée.",
     "source": "D'après Wikipédia — Tige"
   },
   {
@@ -2912,13 +2912,13 @@
     "format": "qcm",
     "question": "Quelle caractéristique distingue fondamentalement une racine d'une tige ?",
     "choix": [
-      "Elle ne porte ni feuilles ni bourgeons",
+      "Elle n'a ni nœuds, ni feuilles, ni bourgeons axillaires",
       "Elle est toujours enterrée",
       "Elle ne contient aucun vaisseau",
       "Elle ne grossit jamais"
     ],
     "bonneReponse": 0,
-    "explication": "Une racine n'a ni feuilles ni bourgeons, alors que la tige les porte à ses nœuds. Elle n'est pas toujours souterraine : il existe des racines aériennes, chez les palétuviers ou les plantes épiphytes, et des tiges souterraines.",
+    "explication": "La tige porte des feuilles et des bourgeons à ses nœuds ; la racine n'a ni nœuds ni feuilles, et des bourgeons n'y naissent qu'exceptionnellement, comme chez les plantes qui drageonnent. Elle n'est pas toujours souterraine : palétuviers et épiphytes ont des racines aériennes.",
     "source": "D'après Wikipédia — Racine (botanique)"
   },
   {
@@ -3039,7 +3039,7 @@
     "id": "q-nature-193",
     "domain": "nature",
     "format": "qcm",
-    "question": "Que signifie le nom savant de la tomate, Solanum lycopersicum, mot à mot ?",
+    "question": "Que signifie mot à mot lycopersicum, l'épithète du nom savant de la tomate, Solanum lycopersicum ?",
     "choix": [
       "Pêche de loup",
       "Pomme d'or",
@@ -3107,7 +3107,7 @@
       "La patate douce est une graine de la famille de l'igname, la pomme de terre un tubercule"
     ],
     "bonneReponse": 0,
-    "explication": "Les deux plantes ne sont que de lointaines cousines, toutes deux de l'ordre des Solanales. La patate douce appartient à la famille des liserons ; la pomme de terre est une solanacée, comme la tomate. Elles n'ont de commun que leur nom.",
+    "explication": "Les deux plantes ne sont que de lointaines cousines, toutes deux de l'ordre des Solanales : la patate douce appartient à la famille des liserons, la pomme de terre est une solanacée, comme la tomate. Leurs noms se ressemblent, car « patate » vient du taïno batata, qui désignait la patate douce.",
     "source": "D'après Wikipédia — Patate douce"
   },
   {
@@ -3122,7 +3122,7 @@
       "La campagne d'Égypte"
     ],
     "bonneReponse": 0,
-    "explication": "Le blocus continental interdisait les marchandises britanniques, y compris le sucre de canne des Antilles. Pour compenser la pénurie, l'empereur soutient la betterave sucrière, et de nombreuses usines voient le jour en quelques années.",
+    "explication": "Le blocus continental fermait le continent aux marchandises britanniques ; en retour, la flotte anglaise coupait la France du sucre de canne des Antilles. Pour compenser la pénurie, l'empereur soutient la betterave sucrière, et de nombreuses usines voient le jour en quelques années.",
     "source": "D'après Wikipédia — Betterave"
   },
   {
@@ -3152,7 +3152,7 @@
         "annee": "1812"
       }
     ],
-    "explication": "Le sucre de betterave s'est imposé en deux siècles : de l'intuition d'Olivier de Serres à l'extraction industrielle de Delessert, le blocus de 1806 a joué le rôle d'accélérateur en privant l'Europe du sucre de canne.",
+    "explication": "Le sucre de betterave s'est imposé en deux siècles : de l'intuition d'Olivier de Serres à l'extraction industrielle de Delessert, en passant par Marggraf et la fabrique d'Achard. Le blocus de 1806 a servi d'accélérateur en privant la France du sucre de canne des Antilles.",
     "source": "D'après Wikipédia — Betterave"
   },
   {
@@ -3208,7 +3208,7 @@
     "domain": "nature",
     "format": "qui-suis-je",
     "indices": [
-      "Un naturaliste suédois m'a d'abord classé dans un autre genre que celui où je suis aujourd'hui.",
+      "Un naturaliste suédois m'a rangé dans un genre qui a ensuite été fusionné avec un autre, en 1818.",
       "Une de mes variétés a été redécouverte en Assam en 1823 par le major Robert Bruce.",
       "Mon nom savant signifie mot à mot « camélia chinois ».",
       "Mes feuilles, plus ou moins oxydées, donnent le thé noir, l'oolong, le thé vert ou le thé blanc."
@@ -3264,7 +3264,7 @@
         "explication": "Il pousse encore à l'état sauvage dans ces forêts, ainsi qu'au Bangladesh."
       }
     ],
-    "explication": "Aucune de ces cultures n'est née là où on la consomme le plus. Les marins, marchands et conquérants les ont déplacées sur tous les continents, parfois en quelques décennies comme l'ananas ou la canne.",
+    "explication": "Toutes ces plantes sont nées loin de l'Europe. Marins, marchands et conquérants les ont ensuite transportées d'un continent à l'autre : l'ananas, que les Européens découvrent en Guadeloupe en 1493, est déjà cultivé en Inde vers 1550.",
     "source": "D'après Wikipédia — Canne à sucre"
   },
   {
@@ -3318,7 +3318,7 @@
     "format": "vrai-faux",
     "affirmation": "Le bananier est un arbre dont le tronc est en bois.",
     "reponse": false,
-    "explication": "Le bananier peut atteindre 9 m mais n'est pas un arbre : son « tronc » est un faux-tronc, formé des pétioles de ses feuilles qui s'emboîtent. Sa vraie tige est courte et souterraine. C'est la plus grande plante herbacée.",
+    "explication": "Le bananier peut atteindre 9 m mais n'est pas un arbre : son « tronc » est un faux-tronc, formé des pétioles de ses feuilles qui s'emboîtent. Sa vraie tige est courte et souterraine. C'est la plus grande plante herbacée à fleurs.",
     "source": "D'après Wikipédia — Banane"
   },
   {
@@ -3348,7 +3348,7 @@
       "Le ginkgo"
     ],
     "bonneReponse": 0,
-    "explication": "Le cryptomère (Cryptomeria japonica) couvre 22 000 des 31 000 hectares de forêt de la métropole de Tokyo. La maladie y touchait 25 millions de personnes en 2015. Son nom courant de « cèdre » prête à confusion : les vrais cèdres ne sont pas allergisants.",
+    "explication": "Le cryptomère (Cryptomeria japonica) couvre 22 000 des 31 000 hectares de forêt de la métropole de Tokyo. En 2015, le kafunshō touchait 25 millions de Japonais. Son nom courant de « cèdre » prête à confusion : les vrais cèdres ne sont pas allergisants.",
     "source": "D'après Wikipédia — Pollinose"
   },
   {
@@ -3724,11 +3724,11 @@
         "annee": "1938"
       },
       {
-        "label": "Les intoxications de Pont-Saint-Esprit",
+        "label": "Les intoxications de Pont-Saint-Esprit, imputées sans preuve à l'ergot",
         "annee": "1951"
       }
     ],
-    "explication": "Le lien entre l'ergot et les épidémies apparaît en 1676, le cycle du champignon est décrit en 1853. Stoll isole l'ergotamine en 1918, Hofmann synthétise le LSD en 1938, et le pain de Pont-Saint-Esprit rend malade en 1951.",
+    "explication": "Dès 1676, un texte relie l'ergot aux épidémies, et le cycle du champignon est décrit en 1853. Stoll isole l'ergotamine en 1918, Hofmann synthétise le LSD en 1938. En 1951, le pain de Pont-Saint-Esprit rend malades des centaines de personnes : on soupçonne l'ergot, sans preuve.",
     "source": "D'après Wikipédia — Ergot du seigle"
   },
   {
@@ -3781,11 +3781,11 @@
     "domain": "nature",
     "format": "qui-suis-je",
     "indices": [
-      "Je n'ai ni pied ni chapeau séparés.",
+      "Le calendrier républicain me consacrait un jour du mois de fructidor.",
       "Mon nom savant, Lycoperdon, vient du grec.",
-      "Chez les Britanniques, on m'appelle puffball.",
-      "En vieillissant, je deviens un sac de poussière brune, des millions de spores.",
-      "Le calendrier républicain a consacré un jour du mois de fructidor à mon nom."
+      "Les Britanniques m'appellent puffball.",
+      "Je n'ai ni pied ni chapeau séparés.",
+      "Vieille, je deviens un sac de poussière brune qui s'échappe en nuage quand on me presse."
     ],
     "reponse": "La vesse-de-loup",
     "explication": "La vesse-de-loup se transforme en sac plein de spores qui jaillissent quand on appuie dessus. Lycoperdon signifie « pet de loup », et le 3e jour de fructidor du calendrier républicain lui était consacré.",
@@ -3875,7 +3875,7 @@
     "format": "vrai-faux",
     "affirmation": "Sur une montagne, les étages de végétation commencent plus bas sur le versant ombragé (ubac) que sur le versant ensoleillé (adret).",
     "reponse": true,
-    "explication": "Sur les pentes tournées vers le nord, à l'ombre, chaque étage démarre plus bas que sur les pentes sud. Il en va de même quand on remonte vers les hautes latitudes : sous nos climats, le froid est le facteur décisif.",
+    "explication": "Sur les pentes tournées vers le nord, à l'ombre, chaque étage démarre plus bas que sur les pentes sud. De même, les limites des étages s'abaissent à mesure qu'on va vers les hautes latitudes : sous nos climats, c'est le froid qui décide.",
     "source": "D'après Wikipédia — Étagement altitudinal"
   },
   {
@@ -4076,11 +4076,11 @@
     "domain": "nature",
     "format": "qui-suis-je",
     "indices": [
-      "Mon nom japonais est formé de deux mots, « port » et « vague ».",
       "En eau profonde, je ne dépasse pas quelques décimètres de hauteur.",
       "Je peux filer à plus de 800 km/h.",
-      "Un terme trompeur, « raz-de-marée », a été abandonné au profit de mon nom en 1963.",
-      "On m'illustre souvent à tort avec La Grande Vague de Kanagawa."
+      "On m'illustre souvent à tort avec La Grande Vague de Kanagawa.",
+      "Mon nom japonais est formé de deux mots, « port » et « vague ».",
+      "Un terme trompeur, « raz-de-marée », a été abandonné au profit de mon nom en 1963."
     ],
     "reponse": "Le tsunami",
     "explication": "Le tsunami est une série d'ondes très longues créées par un déplacement d'eau. Près des côtes, il ralentit et grandit, jusqu'à dépasser parfois 30 m. La Grande Vague de Kanagawa montre, elle, une vague scélérate.",

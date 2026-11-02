@@ -4092,7 +4092,7 @@
     "format": "vrai-faux",
     "affirmation": "Un cri ou un bruit très fort peut déclencher une avalanche.",
     "reponse": false,
-    "explication": "C'est une idée reçue : la pression d'une onde sonore est des milliers de fois trop faible. Une avalanche part d'une surcharge de neige, d'un redoux, de la pluie, d'un séisme, ou d'un skieur qui rompt la couche fragile.",
+    "explication": "C'est une idée reçue : la pression d'une onde sonore, même celle d'un cri puissant, est bien trop faible, de plusieurs ordres de grandeur, pour rompre le manteau. Une avalanche part d'une surcharge de neige, d'un redoux, de la pluie, d'un séisme, ou du passage d'un skieur qui rompt une couche fragile.",
     "source": "D'après Wikipédia — Avalanche"
   },
   {
@@ -4107,7 +4107,7 @@
       "Du sel marin"
     ],
     "bonneReponse": 0,
-    "explication": "Les crues apportent environ 2 millions de tonnes de limon venu de l'Himalaya. Mais quand moussons et fonte des neiges se cumulent, comme en 1998, 66 % du pays peut se retrouver sous l'eau.",
+    "explication": "Les crues apportent chaque année d'énormes quantités de limon arraché à l'Himalaya, qui fertilisent les terres. Mais quand moussons et fonte des neiges se cumulent, la crue tourne à la catastrophe : en 1998, 66 % du pays s'est retrouvé sous l'eau.",
     "source": "D'après Wikipédia — Inondation"
   },
   {
@@ -4260,7 +4260,7 @@
       "De moins de cinquante centimètres"
     ],
     "bonneReponse": 0,
-    "explication": "Gravats, limons et déchets organiques étaient nivelés sur place et réutilisés en remblais. Résultat : entre huit et douze mètres gagnés en deux mille ans, soit quatre à six millimètres par an. Une vraie mine d informations pour les archéologues.",
+    "explication": "Gravats, limons et déchets organiques étaient nivelés sur place et réutilisés en remblais. Résultat : en moyenne huit à douze mètres gagnés en deux mille ans, soit quatre à six millimètres par an. Une vraie mine d'informations pour les archéologues.",
     "source": "D'après Wikipédia — Sédimentation"
   },
   {
@@ -4389,13 +4389,13 @@
     "format": "qcm",
     "question": "Qu'a réalisé Conrad Gessner en 1545 avec sa Bibliotheca universalis ?",
     "choix": [
-      "Le premier grand catalogue bibliographique des livres imprimés",
-      "Le premier atlas des montagnes des Alpes",
-      "Le premier herbier illustré de la flore suisse",
-      "Le premier dictionnaire de la langue allemande"
+      "Une immense bibliographie recensant quelque 1 800 auteurs et leurs œuvres",
+      "Un atlas des montagnes des Alpes",
+      "Un herbier illustré de la flore suisse",
+      "Un dictionnaire de la langue allemande"
     ],
     "bonneReponse": 0,
-    "explication": "À l'époque, les catalogues de livres n'existaient pas. Gessner recense les auteurs et leurs œuvres en latin, grec et hébreu, avec des détails de publication, ce qui en fait un pionnier de la recherche bibliographique européenne.",
+    "explication": "À l'époque, les catalogues bibliographiques n'existaient pas. Sur 1 264 pages, Gessner recense des auteurs de langue latine, grecque et hébraïque, avec leurs œuvres et des détails de publication : il est tenu pour le fondateur de la recherche bibliographique en Europe.",
     "source": "D'après Wikipédia — Conrad Gessner"
   },
   {
@@ -4425,7 +4425,7 @@
       "Seuls comptent les caractères de la racine"
     ],
     "bonneReponse": 0,
-    "explication": "Jussieu juge les caractères d'une plante d'importance inégale : il les pèse au lieu de les compter, comme le faisait le système de Linné avec les étamines. Son Genera plantarum de 1789 décrit ainsi 100 familles de plantes.",
+    "explication": "Pour Jussieu, les caractères d'une plante n'ont pas tous la même importance : il faut les peser au lieu de les compter, contrairement au système de Linné, qui classait les plantes selon le nombre de leurs étamines. Son Genera plantarum de 1789 décrit ainsi 100 familles de plantes.",
     "source": "D'après Wikipédia — Antoine-Laurent de Jussieu"
   },
   {
@@ -4449,7 +4449,7 @@
     "format": "vrai-faux",
     "affirmation": "Aimé Bonpland et Alexander von Humboldt ont atteint le sommet du Chimborazo en 1802.",
     "reponse": false,
-    "explication": "Les deux savants ont gravi le Chimborazo (6 310 m) en juin 1802 sans atteindre le sommet. Ils sont pourtant devenus les hommes les plus hauts du monde, un record battu en 1804 par Gay-Lussac, en montgolfière.",
+    "explication": "En juin 1802, les deux savants grimpent jusqu'à près de 5 900 mètres sur le Chimborazo, sans atteindre le sommet. C'est tout de même un record d'altitude pour l'époque, battu seulement en 1804 par Gay-Lussac, en montgolfière.",
     "source": "D'après Wikipédia — Aimé Bonpland"
   },
   {
@@ -4524,7 +4524,7 @@
       "Des herbes aromatiques"
     ],
     "bonneReponse": 0,
-    "explication": "Les légumineuses, comme les arachides, enrichissent le sol en azote. Alterner avec elles améliore la récolte de coton et donne aux fermiers un revenu en plus. Carver a aussi fait connaître la patate douce.",
+    "explication": "Les légumineuses, comme les arachides, enrichissent le sol en azote. Alterner avec elles améliore la récolte de coton et donne aux fermiers un revenu en plus. Carver a aussi encouragé la culture de la patate douce, qui n'est pas une légumineuse.",
     "source": "D'après Wikipédia — George Washington Carver"
   },
   {
@@ -4731,7 +4731,7 @@
       "Le pavot"
     ],
     "bonneReponse": 0,
-    "explication": "Des scientifiques russes ont fait germer Silene stenophylla à partir d'une graine retrouvée dans un terrier, sous le sol gelé. Le palmier dattier de Judée, lui, ne datait que d'environ 2 000 ans.",
+    "explication": "En 2012, des scientifiques russes ont régénéré Silene stenophylla en cultivant en éprouvette des tissus d'une graine enfouie dans un terrier, sous le sol gelé de Sibérie. Le palmier dattier de Judée, lui, est né d'une graine d'environ 2 000 ans seulement.",
     "source": "D'après Wikipédia — Banque de graines"
   },
   {
@@ -4785,7 +4785,7 @@
       "Des filets qui retiennent le sable"
     ],
     "bonneReponse": 0,
-    "explication": "Le paysan creuse un trou, le garnit de terre et de compost (paille, cendres, déjections animales). Il absorbe l'eau de ruissellement et favorise la repousse des arbres. Avec les cordons pierreux, la technique a réhabilité plus de 300 000 hectares.",
+    "explication": "Le paysan creuse un trou, le garnit de terre et de compost (paille, cendres, déjections animales). Il absorbe l'eau de ruissellement et favorise la repousse des arbres. Avec les cordons pierreux et les demi-lunes, cette technique a réhabilité plus de 300 000 hectares.",
     "source": "D'après Wikipédia — Désertification"
   },
   {
@@ -4909,11 +4909,11 @@
     "domain": "nature",
     "format": "qui-suis-je",
     "indices": [
+      "Darwin m'esquissait dès 1859 sous le nom d'« économie de la nature ».",
+      "Un biologiste allemand m'a donné mon nom en 1866.",
       "Mon nom vient de deux mots grecs signifiant « maison » et « étude ».",
-      "Un biologiste allemand m'a nommée en 1866.",
-      "Darwin décrivait déjà une « économie de la nature » en 1859.",
-      "J'étudie les liens des êtres vivants entre eux et avec le milieu où ils vivent.",
-      "On me confond souvent avec un mouvement politique, alors que je suis une science."
+      "On me confond souvent avec un mouvement politique, alors que je suis une science.",
+      "J'étudie les liens des êtres vivants entre eux et avec le milieu où ils vivent."
     ],
     "reponse": "L'écologie",
     "explication": "Ernst Haeckel a créé le mot en 1866. L'écologie étudie les écosystèmes, c'est-à-dire les êtres vivants et leur milieu. Elle se distingue de l'écologisme et de l'écologie politique, qui sont des courants militants.",
@@ -4961,7 +4961,7 @@
       "L'agroforesterie se pratique uniquement sous les tropiques"
     ],
     "bonneReponse": 0,
-    "explication": "Le nom peut prêter à confusion : en agroforesterie, les arbres sont espacés, souvent alignés, et cohabitent avec des cultures ou des animaux. Ils occupent en général bien moins de la moitié de la surface cultivée.",
+    "explication": "Le nom peut prêter à confusion : en agroforesterie, les arbres sont espacés, souvent alignés, et cohabitent avec des cultures ou des animaux. Ils n'occupent en général que 20 à 30 % de la surface agricole, souvent moins.",
     "source": "D'après Wikipédia — Agroforesterie"
   },
   {

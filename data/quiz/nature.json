@@ -1784,7 +1784,7 @@
       "Les illustrateurs de la Belle Époque"
     ],
     "bonneReponse": 0,
-    "explication": "Menés par Théodore Rousseau, les peintres de Barbizon protestent contre les plantations de résineux. En 1853, des sanctuaires échappent aux forestiers : la « réserve artistique », première réserve naturelle au monde.",
+    "explication": "Menés par Théodore Rousseau, les peintres de Barbizon protestent contre les plantations de résineux. En 1853, 624 ha de sanctuaires échappent aux forestiers : cette « réserve artistique » est souvent présentée comme la première réserve naturelle au monde.",
     "source": "D'après Wikipédia — Forêt de Fontainebleau"
   },
   {
@@ -1933,7 +1933,7 @@
       "Un colorant rouge"
     ],
     "bonneReponse": 0,
-    "explication": "En chauffant l'écorce sans air, ils obtenaient un brai, ou goudron de bouleau. C'est la plus ancienne colle connue : on en a retrouvé des traces à Königsaue, en Allemagne, et Ötzi s'en servait encore pour ses flèches.",
+    "explication": "En chauffant l'écorce sans air, ils obtenaient un brai, ou goudron de bouleau : l'une des plus anciennes colles connues. On en a trouvé des traces d'environ 45 000 ans à Königsaue, en Allemagne, et Ötzi s'en servait encore pour fixer ses pointes de flèches.",
     "source": "D'après Wikipédia — Bouleau"
   },
   {
@@ -1963,7 +1963,7 @@
       "La Russie"
     ],
     "bonneReponse": 0,
-    "explication": "C'est en Suède, en 2004, que ce petit épicéa de haute montagne a été repéré. Selon la datation au carbone 14, il aurait de 7 890 à 9 550 ans, d'après les auteurs. Il survit en remplaçant ses tiges mortes par de nouvelles.",
+    "explication": "C'est en Suède, en 2004, que ce petit épicéa a été repéré, à 950 m d'altitude. Une datation au carbone 14 lui donne de 7 890 à 9 550 ans selon les sources. Sa longévité tient à sa souche : il remplace sans cesse ses tiges mortes par de nouvelles.",
     "source": "D'après Wikipédia — Épicéa commun"
   },
   {
@@ -2008,14 +2008,14 @@
       "Hastings"
     ],
     "bonneReponse": 0,
-    "explication": "Le bois d'if, dur, élastique et durable, a donné aux Gallois puis aux Anglais le longbow. Son emploi fut décisif à Crécy en 1346, au prix de la quasi-disparition des vastes forêts d'ifs d'Europe.",
+    "explication": "Dur, souple et durable, le bois d'if a donné aux Gallois puis aux Anglais leur arc long, le longbow, décisif à Crécy en 1346. La fabrication des arcs a contribué, avec l'arrachage des ifs toxiques pour le bétail, à la disparition des forêts d'ifs d'Europe.",
     "source": "D'après Wikipédia — If commun"
   },
   {
     "id": "q-nature-128",
     "domain": "nature",
     "format": "qcm",
-    "question": "Quel bois est le seul autorisé comme support des icônes dans l'art sacré orthodoxe ?",
+    "question": "Dans l'art sacré orthodoxe, quel bois est le support traditionnel des icônes ?",
     "choix": [
       "Le tilleul",
       "Le chêne",
@@ -2023,7 +2023,7 @@
       "Le noyer"
     ],
     "bonneReponse": 0,
-    "explication": "Tendre, homogène et sans nœuds, le bois de tilleul se sculpte et se peint très bien. Il fut aussi le bois des retables de Veit Stoss et de Tilman Riemenschneider, et celui de Grinling Gibbons en Angleterre.",
+    "explication": "Tendre, homogène et presque sans fil, le tilleul se travaille et se prépare très bien : il est le support par excellence des icônes. C'est aussi le bois des retables de Veit Stoss et de Tilman Riemenschneider, et celui du sculpteur Grinling Gibbons en Angleterre.",
     "source": "D'après Wikipédia — Tilia"
   },
   {
@@ -2073,7 +2073,7 @@
       "On m'a longtemps cherché dans l'Himalaya, sans succès.",
       "Mon nom latin évoque le cheval et la châtaigne.",
       "Mes graines brillantes servent au jeu des conkers.",
-      "Un de mes cousins se dressait devant la fenêtre de l'Annexe secrète, à Amsterdam.",
+      "L'un des miens se dressait devant la fenêtre de l'Annexe secrète, à Amsterdam.",
       "Mes fleurs en pyramide blanche ombragent parcs et avenues d'Europe."
     ],
     "reponse": "Le marronnier d'Inde",
@@ -2092,7 +2092,7 @@
       "Fruit du soleil"
     ],
     "bonneReponse": 0,
-    "explication": "Juglans viendrait de Jovis glans, « gland de Jupiter ». Les Romains parlaient aussi de nux Gallica, la « noix gauloise », d'où l'anglais walnut, la « noix étrangère ».",
+    "explication": "Juglans viendrait de Jovis glans, « gland de Jupiter ». Les Romains appelaient aussi la noix nux Gallica, « noix gauloise ». Quant à l'anglais walnut, il signifie « noix étrangère », car elle était arrivée de Gaule et d'Italie.",
     "source": "D'après Wikipédia — Noyer"
   },
   {
@@ -2114,7 +2114,7 @@
     "id": "q-nature-135",
     "domain": "nature",
     "format": "frise",
-    "question": "Remets dans l'ordre ces étapes de l'arrivée du marronnier en France.",
+    "question": "Remets dans l'ordre ces étapes du voyage du marronnier jusqu'à Paris.",
     "evenements": [
       {
         "label": "Un jeune marronnier est introduit à Constantinople",
@@ -2153,7 +2153,7 @@
     "id": "q-nature-137",
     "domain": "nature",
     "format": "vrai-faux",
-    "affirmation": "La figue est un fruit unique, comme une pomme ou une poire, au sens botanique.",
+    "affirmation": "Au sens botanique, la figue est un fruit unique, comme une cerise ou une prune.",
     "reponse": false,
     "explication": "La figue est une infrutescence (un sycone) : un réceptacle charnu refermé sur des centaines de minuscules fleurs. Chez certains figuiers, une micro-guêpe pénètre par une petite ouverture pour les polliniser.",
     "source": "D'après Wikipédia — Ficus carica"
@@ -2167,7 +2167,7 @@
       {
         "gauche": "Le hêtre",
         "droite": "Les bâtonnets des runes germaniques",
-        "explication": "Buchstabe, « lettre », veut dire « bâton de hêtre » en allemand."
+        "explication": "En allemand, Buchstabe, « lettre », signifie mot à mot « bâton de hêtre »."
       },
       {
         "gauche": "L'if",
@@ -2182,7 +2182,7 @@
       {
         "gauche": "Le tilleul",
         "droite": "Le support des icônes orthodoxes",
-        "explication": "Tendre et homogène, c'est le seul bois autorisé pour les icônes."
+        "explication": "Tendre et homogène, c'est le support traditionnel des icônes."
       }
     ],
     "explication": "Chaque arbre a laissé sa marque dans l'histoire : le hêtre dans l'écriture, l'if à la guerre, le cèdre dans l'architecture sacrée et le tilleul dans l'art religieux.",
@@ -2207,7 +2207,7 @@
     "id": "q-nature-140",
     "domain": "nature",
     "format": "qcm",
-    "question": "Le pigment qui rend le bleuet bleu, la protocyanine, a quelle couleur chez certaines roses ?",
+    "question": "Le bleu du bleuet vient de la protocyanine, un assemblage bâti autour d'un pigment que l'on trouve aussi chez les roses. Quelle couleur ce pigment donne-t-il aux roses ?",
     "choix": [
       "Jaune",
       "Rouge",
@@ -2215,7 +2215,7 @@
       "Vert"
     ],
     "bonneReponse": 1,
-    "explication": "La protocyanine est un pigment dont la teinte dépend de la plante : bleue dans le bleuet, elle est rouge chez les roses. Cette fleur de moisson, dont le nom français est attesté dès 1380, a aussi été appelée casse-lunettes.",
+    "explication": "Chez le bleuet, ce pigment est associé à d'autres molécules et à des métaux, ce qui le fait virer au bleu ; chez la rose, il donne du rouge. Cette fleur des moissons, nommée « bleuet » dès 1380, a aussi été appelée casse-lunettes.",
     "source": "D'après Wikipédia — Cyanus segetum"
   },
   {
@@ -2430,11 +2430,11 @@
     "domain": "nature",
     "format": "qui-suis-je",
     "indices": [
-      "Mon nom vient du latin digitus.",
-      "Je suis une plante bisannuelle : la première année, je ne forme qu'une rosette de feuilles.",
-      "En 1785, William Withering a décrit mes effets sur le cœur.",
-      "On m'appelle gant de renard en anglais.",
-      "Mes grappes de fleurs pourpres ressemblent à des doigts de gant."
+      "Je suis bisannuelle : la première année, je ne forme qu'une rosette de feuilles veloutées.",
+      "En 1785, le médecin anglais William Withering a publié ses essais sur mes effets sur le cœur.",
+      "En anglais, on m'appelle foxglove, le « gant de renard ».",
+      "Mes grappes de fleurs pourpres ressemblent à des doigts de gant.",
+      "Mon nom vient du latin digitus, « doigt »."
     ],
     "reponse": "La digitale",
     "explication": "La digitale pourpre doit son nom au latin digitus, « doigt ». Très toxique, elle a donné la digitaline, un médicament du cœur, grâce aux essais de Withering puis à l'isolement du principe actif par Nativelle en 1868.",
@@ -2493,7 +2493,7 @@
       "Zarparān"
     ],
     "bonneReponse": 2,
-    "explication": "Piper vient du latin piper, issu du grec, lui-même tiré du sanskrit pippali, le poivre long. Les autres mots proposés désignent le lotus bleu, le gingembre et le safran, trois plantes dont les noms voyagent aussi.",
+    "explication": "Piper vient du latin piper, issu du grec peperi, lui-même tiré du sanskrit pippali, le poivre long. Nīlōtpala (le lotus bleu) et Śṛṅgavera (le gingembre) sont aussi des mots sanskrits, tandis que zarparān est un mot persan lié au nom du safran.",
     "source": "D'après Wikipédia — Piper (genre)"
   },
   {
@@ -2545,7 +2545,7 @@
     "id": "q-nature-161",
     "domain": "nature",
     "format": "vrai-faux",
-    "affirmation": "Sur un houx, tous les pieds, mâles comme femelles, portent des fruits rouges.",
+    "affirmation": "Chez le houx, tous les pieds, mâles comme femelles, portent des fruits rouges.",
     "reponse": false,
     "explication": "Le houx est dioïque : il existe des pieds mâles et des pieds femelles. Seuls les pieds femelles portent les fruits rouges, les cenelles, et ils ont besoin d'un pied mâle à proximité pour fructifier.",
     "source": "D'après Wikipédia — Houx"

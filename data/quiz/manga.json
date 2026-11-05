@@ -501,7 +501,7 @@
     "id": "q-manga-031",
     "domain": "manga",
     "format": "qcm",
-    "question": "Combien d'exemplaires a atteint le numéro record du Weekly Shōnen Jump en 1995 ?",
+    "question": "Quel tirage a atteint le numéro record du Weekly Shōnen Jump, daté de début 1995 ?",
     "choix": [
       "~650 000",
       "~2 millions",
@@ -509,7 +509,7 @@
       "~15 millions"
     ],
     "bonneReponse": 2,
-    "explication": "Au début de l'année 1995, le Weekly Shōnen Jump atteint 6,53 millions d'exemplaires vendus chaque semaine, un record jamais égalé pour un magazine de bande dessinée. Il publiait alors Dragon Ball et Slam Dunk. La fin de Dragon Ball, en 1995, entraîne une baisse des ventes.",
+    "explication": "Le numéro double daté de début 1995 du Weekly Shōnen Jump est tiré à 6,53 millions d'exemplaires, un record jamais égalé pour un magazine de manga. Il publiait alors Dragon Ball et Slam Dunk. La fin de Dragon Ball, au printemps 1995, entraîne une baisse durable des ventes.",
     "source": "D'après Wikipédia — Weekly Shōnen Jump"
   },
   {
@@ -533,7 +533,7 @@
     "format": "vrai-faux",
     "affirmation": "Le Kamehameha, l'attaque de Goku, porte le nom d'un roi d'Hawaï.",
     "reponse": true,
-    "explication": "C'est l'épouse d'Akira Toriyama qui a proposé ce nom : Kamehameha Ier est le roi qui a unifié l'archipel d'Hawaï au début du XIXe siècle. Toriyama trouvait que le mot sonnait comme une attaque puissante. Il est devenu l'une des techniques les plus imitées dans les cours de récré.",
+    "explication": "C'est l'épouse d'Akira Toriyama qui a proposé ce nom, celui de Kamehameha Ier, le roi qui a unifié l'archipel d'Hawaï au début du XIXe siècle. Le choix tombe bien : « kame » signifie « tortue » en japonais, et la technique est enseignée à Goku par Tortue Géniale.",
     "source": "D'après Wikipédia — Son Goku"
   },
   {
@@ -672,7 +672,7 @@
       "Je suis un mangaka japonais né en 1945.",
       "J'ai créé le démon Devilman et l'héroïne Cutie Honey.",
       "J'ai inventé le robot géant piloté de l'intérieur, avec Mazinger Z.",
-      "Mon robot Goldorak a conquis les enfants français en 1978."
+      "En 1978, les enfants français découvrent Goldorak, robot géant né de mon univers."
     ],
     "reponse": "Gō Nagai",
     "explication": "Gō Nagai a révolutionné le manga des années 1970. Avec Mazinger Z (1972), il invente l'idée du héros installé dans le cockpit d'un robot géant, reprise ensuite par Goldorak, Gundam ou Evangelion. Il en aurait eu l'idée dans un embouteillage, en rêvant d'une voiture géante.",
@@ -699,7 +699,7 @@
     "format": "vrai-faux",
     "affirmation": "Le créateur d'Albator a travaillé avec le groupe français Daft Punk.",
     "reponse": true,
-    "explication": "Fans d'Albator depuis l'enfance, les deux membres de Daft Punk ont confié à Leiji Matsumoto les images d'Interstella 5555 (2003), un film d'animation sans dialogues qui met en images tout leur album Discovery. Les clips de One More Time et Aerodynamic en sont extraits.",
+    "explication": "Fans d'Albator depuis l'enfance, les deux membres de Daft Punk ont fait appel à Leiji Matsumoto pour superviser Interstella 5555 (2003), un film d'animation sans dialogues qui met en images tout leur album Discovery. Les clips de One More Time et Aerodynamic en sont extraits.",
     "source": "D'après Wikipédia — Interstella 5555: The Story of the Secret Star System"
   },
   {
@@ -744,7 +744,7 @@
       "Riyoko Ikeda, créatrice de La Rose de Versailles"
     ],
     "bonneReponse": 0,
-    "explication": "Yoshihiro Togashi, auteur de YuYu Hakusho puis de Hunter × Hunter, a épousé en 1999 Naoko Takeuchi, la créatrice de Sailor Moon. Ce couple de stars du manga cumule des centaines de millions de volumes vendus.",
+    "explication": "Yoshihiro Togashi, auteur de YuYu Hakusho puis de Hunter × Hunter, a épousé en 1999 Naoko Takeuchi, la créatrice de Sailor Moon. À eux deux, ces stars du Weekly Shōnen Jump et du shōjo ont vendu bien plus de cent millions de volumes à travers le monde.",
     "source": "D'après Wikipédia — Yoshihiro Togashi"
   },
   {
@@ -773,7 +773,7 @@
       "Mes films Perfect Blue et Paprika ont inspiré des cinéastes d'Hollywood."
     ],
     "reponse": "Satoshi Kon",
-    "explication": "Satoshi Kon a signé Perfect Blue (1997), Millennium Actress (2001), Tokyo Godfathers (2003) et Paprika (2006). Darren Aronofsky a acheté les droits de Perfect Blue pour en reproduire une scène dans Requiem for a Dream, et Inception est souvent comparé à Paprika.",
+    "explication": "Satoshi Kon a signé Perfect Blue (1997), Millennium Actress (2001), Tokyo Godfathers (2003) et Paprika (2006). Darren Aronofsky reprend un plan de Perfect Blue dans Requiem for a Dream, et Inception de Christopher Nolan est souvent comparé à Paprika. Kon est mort d'un cancer en 2010.",
     "source": "D'après Wikipédia — Satoshi Kon"
   },
   {
@@ -788,7 +788,7 @@
       "Jirō Taniguchi"
     ],
     "bonneReponse": 0,
-    "explication": "Avec l'accord de la famille d'Osamu Tezuka, Naoki Urasawa reprend dans Pluto (2003-2009) l'épisode « Le plus grand robot du monde » d'Astro, transformé en enquête policière sur des meurtres de robots. L'auteur de Monster et 20th Century Boys y rend hommage à son maître.",
+    "explication": "Avec l'accord de Makoto Tezuka, fils d'Osamu Tezuka, Naoki Urasawa reprend dans Pluto (2003-2009) l'épisode « Le robot le plus fort du monde » d'Astro, transformé en enquête policière sur des meurtres de robots. L'auteur de Monster rend ainsi hommage au manga qui l'avait fait dessiner à quatre ans.",
     "source": "D'après Wikipédia — Pluto (manga)"
   },
   {
@@ -804,7 +804,7 @@
     "id": "q-manga-052",
     "domain": "manga",
     "format": "qcm",
-    "question": "Quel mangaka, très admiré en France, a écrit Quartier lointain et Le Gourmet solitaire ?",
+    "question": "Quel mangaka, très admiré en France, a signé Quartier lointain et dessiné Le Gourmet solitaire ?",
     "choix": [
       "Jirō Taniguchi",
       "Naoki Urasawa",
@@ -935,7 +935,7 @@
       "Makoto Yukimura"
     ],
     "bonneReponse": 0,
-    "explication": "Kentaro Miura a publié Berserk à partir de 1989, jusqu'à sa mort en 2021 à 54 ans. Son ami d'enfance, le mangaka Kōji Mori, qui connaissait la fin prévue, poursuit la série avec ses assistants. L'œuvre a inspiré les jeux vidéo Dark Souls et Elden Ring.",
+    "explication": "Kentaro Miura a publié Berserk à partir de 1989, jusqu'à sa mort en 2021 à 54 ans. Son ami d'enfance, le mangaka Kōji Mori, qui connaissait la fin prévue, poursuit la série avec les anciens assistants de Miura. L'œuvre a inspiré les jeux vidéo Dark Souls et Elden Ring.",
     "source": "D'après Wikipédia — Berserk"
   },
   {
@@ -1094,12 +1094,12 @@
     "question": "Qu'a de particulier le début de Frieren ?",
     "choix": [
       "L'histoire commence après la victoire des héros contre le Roi démon",
-      "Le héros meurt dès la première page",
+      "L'héroïne a perdu la mémoire",
       "Il n'y a aucun dialogue",
       "Tout se passe dans un seul village"
     ],
     "bonneReponse": 0,
-    "explication": "Frieren commence là où les récits de fantasy s'arrêtent : le Roi démon vient d'être vaincu. L'elfe Frieren, qui vit plus de mille ans, voit ses compagnons humains vieillir et mourir, et part comprendre ceux qu'elle n'a pas su connaître. L'anime de 2023 a été acclamé.",
+    "explication": "Frieren commence là où les récits de fantasy s'arrêtent : le Roi démon vient d'être vaincu. L'elfe Frieren, qui a déjà vécu plus de mille ans, voit ses compagnons humains vieillir et mourir, et part comprendre ceux qu'elle n'a pas su connaître. Le manga a reçu le prix Manga Taishō en 2021.",
     "source": "D'après Wikipédia — Frieren"
   },
   {
@@ -1136,7 +1136,7 @@
     "id": "q-manga-073",
     "domain": "manga",
     "format": "qcm",
-    "question": "Dans Mon voisin Totoro, quel étrange véhicule transporte Totoro et les deux sœurs ?",
+    "question": "Dans Mon voisin Totoro, quel étrange véhicule vient chercher Totoro à l'arrêt de bus, puis emmène les deux sœurs ?",
     "choix": [
       "Un chat-autobus, le Chatbus",
       "Un train volant",
@@ -1153,7 +1153,7 @@
     "format": "vrai-faux",
     "affirmation": "Totoro est devenu le logo du Studio Ghibli.",
     "reponse": true,
-    "explication": "La silhouette de Totoro orne le logo du studio depuis le film de 1988. Pourtant, Mon voisin Totoro n'a été qu'un succès modeste au cinéma, sorti en programme double avec Le Tombeau des lucioles. Ce sont les diffusions à la télévision et les peluches qui en ont fait une icône.",
+    "explication": "La silhouette bleue de Totoro orne le logo du studio, qui ouvre ses films. Pourtant, Mon voisin Totoro (1988) n'a été qu'un succès modeste au cinéma, sorti en programme double avec Le Tombeau des lucioles. Ce sont les diffusions à la télévision et les peluches qui en ont fait une icône.",
     "source": "D'après Wikipédia — Mon voisin Totoro"
   },
   {
@@ -1192,7 +1192,7 @@
     "format": "vrai-faux",
     "affirmation": "Pour empêcher qu'on coupe Princesse Mononoké aux États-Unis, le producteur de Ghibli aurait envoyé un sabre japonais au distributeur.",
     "reponse": true,
-    "explication": "Selon le producteur Toshio Suzuki, quand le distributeur américain Miramax a voulu raccourcir le film, Ghibli lui a fait parvenir un vrai sabre accompagné du message « Pas de coupure ». Princesse Mononoké (1997) est sorti intact, avec des dialogues anglais écrits par l'auteur Neil Gaiman.",
+    "explication": "Selon l'histoire racontée par Hayao Miyazaki, quand le distributeur américain Miramax a voulu raccourcir le film, son producteur Toshio Suzuki lui a fait parvenir un sabre japonais avec le message « Pas de coupure ». Princesse Mononoké (1997) est sorti intact, avec des dialogues anglais signés Neil Gaiman.",
     "source": "D'après Wikipédia — Princesse Mononoké"
   },
   {
@@ -1267,7 +1267,7 @@
       "Madhouse"
     ],
     "bonneReponse": 0,
-    "explication": "Fondé en 1956, Toei Animation est le plus ancien grand studio d'animation japonais. Il a produit une grande partie des dessins animés vus en France, de Goldorak aux Chevaliers du Zodiaque. Hayao Miyazaki et Isao Takahata y ont fait leurs débuts dans les années 1960.",
+    "explication": "Créé sous ce nom en 1956, Toei Animation est l'un des plus anciens studios d'animation japonais. Il a produit une grande partie des dessins animés vus en France, de Goldorak aux Chevaliers du Zodiaque. Hayao Miyazaki et Isao Takahata y ont fait leurs débuts dans les années 1960.",
     "source": "D'après Wikipédia — Toei Animation"
   },
   {
@@ -1312,14 +1312,14 @@
       "À cause d'un bug de diffusion"
     ],
     "bonneReponse": 0,
-    "explication": "Le 16 décembre 1997, une explosion animée clignote en rouge et bleu pendant plusieurs secondes. Des enfants sensibles à la lumière font des malaises et des convulsions ; près de 700 sont hospitalisés. L'anime est suspendu quatre mois, et des règles sur les flashs sont adoptées.",
+    "explication": "Le 16 décembre 1997, une explosion animée clignote en rouge et bleu pendant plusieurs secondes. Des enfants sensibles à la lumière font des malaises et des convulsions ; près de 700 sont conduits à l'hôpital. L'anime est suspendu quatre mois, et des règles sur les flashs sont adoptées.",
     "source": "D'après Wikipédia — Dennō Senshi Porigon"
   },
   {
     "id": "q-manga-086",
     "domain": "manga",
     "format": "qcm",
-    "question": "En quelle année a eu lieu la première Japan Expo, à Paris ?",
+    "question": "En quelle année a eu lieu la première Japan Expo, en région parisienne ?",
     "choix": [
       "1999",
       "1985",
@@ -1327,7 +1327,7 @@
       "2012"
     ],
     "bonneReponse": 0,
-    "explication": "Organisée par une petite association de fans en 1999, la première Japan Expo accueille quelques milliers de visiteurs. Installé depuis au parc des expositions de Paris-Nord Villepinte, le salon attire aujourd'hui plus de 200 000 visiteurs chaque été, avec cosplayeurs, mangakas invités et concerts.",
+    "explication": "Organisée par une petite association de fans en 1999, la première Japan Expo accueille quelques milliers de visiteurs. Installé depuis au parc des expositions de Paris-Nord Villepinte, le salon dépasse les 200 000 visiteurs par édition depuis les années 2010, avec cosplayeurs, mangakas invités et concerts.",
     "source": "D'après Wikipédia — Japan Expo"
   },
   {
@@ -1420,7 +1420,7 @@
       "Cosy et playground"
     ],
     "bonneReponse": 0,
-    "explication": "Le Japonais Nobuyuki Takahashi invente le mot en 1984, après avoir vu des fans déguisés à une convention de science-fiction à Los Angeles. Le cosplay consiste à incarner un personnage en reproduisant fidèlement son costume, souvent fabriqué soi-même pendant des mois.",
+    "explication": "« Cosplay » contracte les mots anglais costume et play (« jouer »). Le Japonais Nobuyuki Takahashi l'invente en 1984, après avoir vu des fans déguisés à une convention de science-fiction à Los Angeles. Le cosplayeur reproduit fidèlement le costume d'un personnage, souvent fabriqué lui-même.",
     "source": "D'après Wikipédia — Cosplay"
   },
   {
@@ -1435,7 +1435,7 @@
       "Un manga dessiné par des amateurs"
     ],
     "bonneReponse": 0,
-    "explication": "Au Japon, les chapitres paraissent d'abord dans des magazines épais et bon marché, comme le Weekly Shōnen Jump, puis sont regroupés par dizaines dans des volumes reliés : les tankōbon. Ce sont ces volumes que l'on achète en librairie, en France comme au Japon.",
+    "explication": "Au Japon, les chapitres paraissent d'abord dans des magazines épais et bon marché, comme le Weekly Shōnen Jump, puis sont regroupés, une dizaine à la fois, dans des volumes reliés : les tankōbon. Ce sont ces volumes que l'on achète en librairie, en France comme au Japon.",
     "source": "D'après Wikipédia — Tankōbon"
   },
   {
@@ -1520,12 +1520,12 @@
       },
       {
         "gauche": "-kun",
-        "droite": "Garçons, cadets",
+        "droite": "Garçons, camarades, cadets",
         "explication": "Il s'emploie pour un jeune garçon, un camarade ou un subordonné."
       },
       {
         "gauche": "-chan",
-        "droite": "Enfants, proches, affection",
+        "droite": "Tendresse, affection",
         "explication": "Il exprime la tendresse, pour un enfant, une amie ou même un animal."
       },
       {
@@ -1614,7 +1614,7 @@
       "Takuya Mitsuda"
     ],
     "bonneReponse": 0,
-    "explication": "Magi est signé Shinobu Ohtaka, qui avait débuté chez Square Enix avec la comédie Sumomomo Momomo. En 2009, elle rejoint le Weekly Shōnen Sunday pour réaliser son rêve : publier un grand shōnen. Magi y paraît jusqu'en 2017.",
+    "explication": "Magi est écrit et dessiné par Shinobu Ohtaka, déjà autrice de la comédie Sumomomo Momomo. Paru de 2009 à 2017 dans le Weekly Shōnen Sunday, ce récit d'aventure inspiré des Mille et Une Nuits reçoit en 2014 le prix Shōgakukan dans la catégorie shōnen.",
     "source": "D'après Wikipédia — Magi (manga)"
   },
   {
@@ -1659,7 +1659,7 @@
       "2018"
     ],
     "bonneReponse": 0,
-    "explication": "La série commence en mai 2016 dans le Weekly Shōnen Sunday, après un premier chapitre unique paru en 2015. Elle s'achève en janvier 2025 avec 37 tomes, et a été adaptée la même année, en 2021, en anime et en drama.",
+    "explication": "La série commence en mai 2016 dans le Weekly Shōnen Sunday, après un premier chapitre unique paru en 2015. Elle s'achève en janvier 2025 avec 37 tomes. Entre-temps, l'année 2021 a vu naître à la fois une adaptation en anime et un drama avec de vrais acteurs.",
     "source": "D'après Wikipédia — Komi cherche ses mots"
   },
   {

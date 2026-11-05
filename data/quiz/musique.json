@@ -4845,38 +4845,38 @@
         "annee": "1743"
       },
       {
-        "label": "Concert du centenaire avec 2750 choristes",
+        "label": "Exécution géante à Londres avec 2 750 choristes",
         "annee": "1859"
       }
     ],
-    "explication": "Haendel écrit le Messie à l'automne 1741. Il est créé à Dublin en avril 1742, puis donné à Londres en 1743, où il fait polémique. En 1859, le centenaire réunit 2750 choristes et 460 musiciens.",
+    "explication": "Haendel écrit le Messie à la fin de l'été 1741. Il est créé à Dublin en avril 1742, puis donné à Londres en 1743, où il fait polémique. En 1859, une exécution géante à Londres réunit 2 750 choristes et 460 musiciens.",
     "source": "D'après Wikipédia — Messiah"
   },
   {
     "id": "q-musique-307",
     "domain": "musique",
     "format": "associer",
-    "question": "Associe chaque opéra à l'œuvre dont il s'inspire.",
+    "question": "Associe chaque opéra à l'auteur de l'œuvre littéraire dont il s'inspire.",
     "paires": [
       {
         "gauche": "Les Noces de Figaro",
-        "droite": "Le Mariage de Figaro, de Beaumarchais",
-        "explication": "Mozart et Da Ponte adaptent la comédie de Beaumarchais en retirant ses références politiques."
+        "droite": "Beaumarchais",
+        "explication": "Mozart et Da Ponte adaptent sa comédie Le Mariage de Figaro en retirant ses références politiques."
       },
       {
         "gauche": "La traviata",
-        "droite": "La Dame aux camélias, d'Alexandre Dumas fils",
-        "explication": "Verdi voit la pièce à Paris, puis en tire un opéra pour le théâtre de Venise."
+        "droite": "Alexandre Dumas fils",
+        "explication": "Verdi voit sa pièce La Dame aux camélias à Paris, puis en tire un opéra pour Venise."
       },
       {
         "gauche": "Tosca",
-        "droite": "La Tosca, de Victorien Sardou",
-        "explication": "Puccini a vu cette pièce jouée par Sarah Bernhardt et finit par en obtenir les droits."
+        "droite": "Victorien Sardou",
+        "explication": "Puccini a vu sa pièce La Tosca, jouée par Sarah Bernhardt, et finit par en obtenir les droits."
       },
       {
         "gauche": "La Bohème",
-        "droite": "Scènes de la vie de bohème, d'Henry Murger",
-        "explication": "Ce livre, suite de scènes sans intrigue unique, fournit à Puccini ses personnages."
+        "droite": "Henry Murger",
+        "explication": "Ses Scènes de la vie de bohème, suite d'épisodes sans intrigue unique, fournissent à Puccini ses personnages."
       }
     ],
     "explication": "Ces quatre opéras viennent d'œuvres littéraires, souvent du théâtre. Les librettistes les ont resserrées pour la scène lyrique : Da Ponte a même retiré tout le contenu politique de la pièce de Beaumarchais pour Mozart.",
@@ -4964,7 +4964,7 @@
     "id": "q-musique-314",
     "domain": "musique",
     "format": "qcm",
-    "question": "Quel poème de Yoko Ono, publié dans son livre Grapefruit, a inspiré le thème de la chanson Imagine ?",
+    "question": "Quel poème de Yoko Ono, reproduit au dos de la pochette de l'album Imagine, a inspiré le thème de la chanson ?",
     "choix": [
       "Cloud Piece (« Pièce nuage »)",
       "Rain Piece (« Pièce pluie »)",
@@ -4972,7 +4972,7 @@
       "Wind Piece (« Pièce vent »)"
     ],
     "bonneReponse": 0,
-    "explication": "Ce texte de trois lignes, publié en 1964, demande d'imaginer des nuages qui goutte à goutte tombent. Il est reproduit au dos de la pochette de l'album Imagine, où Lennon reconnaissait l'influence de Yoko Ono.",
+    "explication": "Ce texte de trois lignes, paru en 1964 dans le livre Grapefruit, invite à imaginer des nuages qui tombent goutte à goutte. Lennon reconnaîtra plus tard qu'une grande partie de la chanson venait de Yoko Ono, créditée comme coautrice depuis 2017.",
     "source": "D'après Wikipédia — Imagine"
   },
   {
@@ -4987,7 +4987,7 @@
       "Béla Lugosi"
     ],
     "bonneReponse": 0,
-    "explication": "Rod Temperton, auteur de la chanson, voulait une personnalité connue. Vincent Price a enregistré son passage en deux prises. Temperton avait écrit ce texte parlé dans un taxi, en route vers le studio.",
+    "explication": "Rod Temperton, auteur de la chanson, voulait qu'une personnalité connue dise le texte final. C'est l'acteur Vincent Price qui l'enregistre, en deux prises seulement. Temperton avait écrit ce passage parlé dans un taxi, en route vers le studio.",
     "source": "D'après Wikipédia — Thriller (album)"
   },
   {
@@ -5033,7 +5033,7 @@
     "id": "q-musique-319",
     "domain": "musique",
     "format": "qcm",
-    "question": "À qui est destiné le sifflement à 20 kHz qui clôt l'album Sgt. Pepper's Lonely Hearts Club Band, des Beatles ?",
+    "question": "À qui est destiné le sifflement très aigu qui clôt l'album Sgt. Pepper's Lonely Hearts Club Band, des Beatles ?",
     "choix": [
       "Aux chiens",
       "Aux chats",
@@ -5041,7 +5041,7 @@
       "Aux chauves-souris"
     ],
     "bonneReponse": 0,
-    "explication": "Ce son est trop aigu pour l'oreille humaine, mais les Beatles l'ont ajouté pour faire aboyer les chiens. Il suit l'accord final joué sur tous les pianos du studio et précède une boucle sans fin dans le dernier sillon du disque.",
+    "explication": "Ce son est trop aigu pour la plupart des oreilles humaines, mais les Beatles l'ont ajouté pour faire aboyer les chiens. Il suit l'accord final joué sur tous les pianos du studio et précède une boucle sans fin dans le dernier sillon du disque.",
     "source": "D'après Wikipédia — Sgt. Pepper's Lonely Hearts Club Band (album)"
   },
   {

@@ -1728,7 +1728,7 @@
     "format": "qcm",
     "question": "Pourquoi le jeune organiste Gabriel Fauré est-il prié de démissionner de son poste à Rennes, au début de 1870 ?",
     "choix": [
-      "Il arrive jouer la messe en tenue de soirée, après une nuit de bal",
+      "Il vient jouer la messe en tenue de soirée, après une nuit de bal",
       "Il a joué une œuvre profane pendant la messe de Noël",
       "Il refuse de jouer lors des enterrements",
       "Il arrive systématiquement en retard au service du soir"
@@ -1898,12 +1898,12 @@
       {
         "gauche": "Les Indes galantes",
         "droite": "Jean-Philippe Rameau",
-        "explication": "Opéra-ballet de Rameau qui fait connaître son nouveau style harmonique, très applaudi par le public."
+        "explication": "Opéra-ballet de 1735 où Rameau fait entrer son style audacieux dans un genre plus léger, avec un grand succès."
       },
       {
         "gauche": "Didon et Énée",
         "droite": "Henry Purcell",
-        "explication": "Opéra de chambre d'environ une heure, joué dans un pensionnat de jeunes filles à Chelsea."
+        "explication": "Opéra de chambre de moins d'une heure, joué dans un pensionnat de jeunes filles à Chelsea."
       },
       {
         "gauche": "Lucia di Lammermoor",
@@ -1995,7 +1995,7 @@
       "Didon et Énée est écrit pour des instruments seuls, King Arthur pour des voix seules"
     ],
     "bonneReponse": 0,
-    "explication": "Didon et Énée est un opéra de chambre d'environ une heure, entièrement chanté en récitatifs et airs. Dans King Arthur ou The Fairy Queen, les rôles principaux sont parlés et les chanteurs interviennent dans de courtes scènes musicales.",
+    "explication": "Didon et Énée est un opéra de chambre de moins d'une heure, entièrement chanté en récitatifs et airs. Dans King Arthur ou The Fairy Queen, les rôles principaux sont parlés et des chanteurs interviennent dans de courtes scènes musicales.",
     "source": "D'après Wikipédia — Henry Purcell"
   },
   {
@@ -2010,7 +2010,7 @@
       "Hans von Bülow"
     ],
     "bonneReponse": 0,
-    "explication": "Robert Schumann, qui dirigeait une revue musicale, salue en 1853 le jeune Brahms, âgé de vingt ans, comme un élu. L'article le rend célèbre, mais lui met aussi une énorme pression : il craint de ne pas être à la hauteur de telles attentes.",
+    "explication": "Dans la revue qu'il avait fondée, Robert Schumann salue en 1853 le jeune Brahms, âgé de vingt ans, comme un élu. L'article le rend célèbre, mais lui met aussi une énorme pression : il craint de ne pas être à la hauteur de telles attentes.",
     "source": "D'après Wikipédia — Johannes Brahms"
   },
   {
@@ -2073,7 +2073,7 @@
       "La Grande"
     ],
     "bonneReponse": 1,
-    "explication": "Bruckner juge cette symphonie insuffisante et écrit « annulée » sur sa première page, avec un symbole barré. On l'appelle depuis Die Nullte, la « numéro zéro ». On compte donc neuf symphonies numérotées, plus celle-ci.",
+    "explication": "Bruckner juge cette symphonie insuffisante et écrit « annulée » sur sa première page, avec un symbole barré. On l'appelle depuis Die Nullte, la « numéro zéro ». Elle s'ajoute à ses neuf symphonies numérotées, dont la dernière est restée inachevée, et à une symphonie d'études plus ancienne.",
     "source": "D'après Wikipédia — Anton Bruckner"
   },
   {
@@ -2397,7 +2397,7 @@
       {
         "gauche": "Deep Purple",
         "droite": "Machine Head",
-        "explication": "Enregistré à Montreux en 1972, il contient Smoke on the Water."
+        "explication": "Enregistré à Montreux et sorti en 1972, il contient Smoke on the Water."
       },
       {
         "gauche": "Fleetwood Mac",
@@ -2417,7 +2417,7 @@
     "id": "q-musique-153",
     "domain": "musique",
     "format": "qcm",
-    "question": "À quoi le nom du groupe U2 ferait-il référence, selon l'article de Wikipédia ?",
+    "question": "À quoi le nom du groupe U2 fait-il notamment référence ?",
     "choix": [
       "À un avion espion américain",
       "À une rue de Dublin",
@@ -2425,7 +2425,7 @@
       "À un ancien professeur du lycée"
     ],
     "bonneReponse": 0,
-    "explication": "Le nom a été suggéré par Steve Averill, ami du groupe. Il évoque un avion espion américain abattu en URSS avant la naissance de Bono, et il se prononce aussi comme « you too » (toi aussi). Cette ambiguïté a séduit le groupe.",
+    "explication": "Suggéré en 1978 par Steve Averill, ami du groupe, le nom évoque l'avion espion américain U-2, abattu au-dessus de l'URSS en 1960. Il se prononce aussi comme « you too » (toi aussi). Le groupe l'a retenu parmi six propositions, notamment parce que c'était celle qu'il détestait le moins.",
     "source": "D'après Wikipédia — U2"
   },
   {
@@ -2496,8 +2496,8 @@
     "domain": "musique",
     "format": "qui-suis-je",
     "indices": [
-      "Je suis né d'une petite annonce publiée dans un journal de Los Angeles par un batteur danois, en 1981.",
       "Mon deuxième album a été enregistré à Copenhague, en 1984.",
+      "Je suis né d'une petite annonce publiée dans un journal de Los Angeles par un batteur danois, en 1981.",
       "Je fais partie des « Big Four » du thrash metal, avec Slayer, Megadeth et Anthrax.",
       "Mon album de 1986, Master of Puppets, est l'un des plus influents du genre.",
       "Mon album de 1991 est surnommé le « Black Album »."
@@ -2578,7 +2578,7 @@
       "On Every Street"
     ],
     "bonneReponse": 0,
-    "explication": "Brothers in Arms (1985) a été l'un des premiers grands albums du CD. Son son très soigné servait à faire la démonstration des nouveaux lecteurs, et il s'est parfois vendu avec l'appareil. Il contient Money for Nothing.",
+    "explication": "Brothers in Arms (1985) est le premier album de l'histoire à dépasser le million d'exemplaires vendus sur CD, un format alors tout neuf. Son son très soigné servait à faire la démonstration des nouveaux lecteurs, et il était parfois vendu avec l'appareil.",
     "source": "D'après Wikipédia — Dire Straits"
   },
   {
@@ -2653,7 +2653,7 @@
       "Il a maintenu son concert au lendemain de l'assassinat de Martin Luther King, et la soirée s'est déroulée dans le calme",
       "Il a offert gratuitement les places aux habitants",
       "Il a remplacé au dernier moment un autre artiste",
-      "Il a interrompu son concert pour calmer la foule"
+      "Il a déplacé son concert dans un stade pour accueillir toute la ville"
     ],
     "bonneReponse": 0,
     "explication": "La ville connaissait des émeutes. Le concert a failli être annulé, mais James Brown a tenu à le maintenir. Le maire a ouvert la soirée par un appel au calme, et le public est resté sans débordements.",
@@ -2686,7 +2686,7 @@
       "Dans Bodyguard, je reprends une chanson de Dolly Parton."
     ],
     "reponse": "Whitney Houston",
-    "explication": "Whitney Houston a chanté très jeune dans une chorale d'église. Son premier album de 1985 reste l'un des meilleurs débuts d'une chanteuse solo. Dans Bodyguard, elle a repris I Will Always Love You, écrite par Dolly Parton.",
+    "explication": "Whitney Houston a chanté très jeune dans une chorale d'église. Son premier album, sorti en 1985, reste le plus vendu de tous les premiers albums d'artistes solo. Dans Bodyguard, elle reprend I Will Always Love You, écrite par Dolly Parton.",
     "source": "D'après Wikipédia — Whitney Houston"
   },
   {
@@ -2804,8 +2804,8 @@
     "question": "D'où vient le nom de scène Jay-Z, adopté par Shawn Carter ?",
     "choix": [
       "De son surnom d'enfance « Jazzy », en hommage à son mentor Jaz-O",
-      "D'une station de métro de Brooklyn",
-      "De ses initiales, J et Z, pour Jay-Zee",
+      "D'un personnage de bande dessinée",
+      "Du nom de son premier groupe de rap",
       "D'un nom de code donné par un producteur"
     ],
     "bonneReponse": 0,
@@ -2851,7 +2851,7 @@
     "id": "q-musique-181",
     "domain": "musique",
     "format": "qcm",
-    "question": "Comment s'appellent les danseuses qui chantent et dansent avec Claude François depuis 1966 ?",
+    "question": "Comment s'appellent les danseuses qui chantent et dansent avec Claude François à partir de 1966 ?",
     "choix": [
       "Les Claudettes",
       "Les Clodines",
@@ -2937,7 +2937,7 @@
       "La presse m'a surnommée le « Piaf d'Avignon »."
     ],
     "reponse": "Mireille Mathieu",
-    "explication": "Mireille Mathieu, née à Avignon en 1946, est repérée en 1965 à la télévision par l'imprésario Johnny Stark. Elle conquiert la France, puis l'Allemagne et le Royaume-Uni avec un répertoire d'environ 1 200 chansons.",
+    "explication": "Mireille Mathieu, née à Avignon en 1946, est révélée en 1965 par l'émission de télévision Le Jeu de la chance, puis prise en main par l'imprésario Johnny Stark. Elle conquiert la France, l'Allemagne et le Royaume-Uni, avec un répertoire d'environ 1 200 chansons.",
     "source": "D'après Wikipédia — Mireille Mathieu"
   },
   {

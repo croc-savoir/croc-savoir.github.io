@@ -4230,17 +4230,17 @@
       "Les instruments n'avaient pas assez de cordes"
     ],
     "bonneReponse": 0,
-    "explication": "À l'époque, les intervalles de l'octave n'étaient pas égaux : plus on s'éloignait de la tonalité de départ, plus les autres sonnaient faux. Le tempérament égal du XVIIIe siècle a rendu la modulation courante.",
+    "explication": "À l'époque, les intervalles de l'octave n'étaient pas égaux : plus on s'éloignait de la tonalité de départ, plus les autres sonnaient faux. À partir du XVIIIe siècle, de nouveaux accords, sur la voie du tempérament égal, ont rendu la modulation courante.",
     "source": "D'après Wikipédia — Modulation (musique)"
   },
   {
     "id": "q-musique-269",
     "domain": "musique",
     "format": "frise",
-    "question": "Remets ces moments de l'histoire des instruments dans l'ordre chronologique.",
+    "question": "Remets ces moments de l'histoire du ukulélé dans l'ordre chronologique.",
     "evenements": [
       {
-        "label": "Arrivée du ukulélé à Hawaï",
+        "label": "Arrivée à Hawaï de la braguinha de Madère, ancêtre du ukulélé",
         "annee": "1879"
       },
       {
@@ -4260,7 +4260,7 @@
         "annee": "1993"
       }
     ],
-    "explication": "Le ukulélé arrive à Hawaï en 1879 et séduit les États-Unis en 1915. Il gagne le Japon en 1929, puis un renouveau naît avec l'orchestre britannique de 1985 et le medley d'Israel Kamakawiwoʻole en 1993.",
+    "explication": "La braguinha de Madère débarque à Hawaï en 1879 et y devient le ukulélé, qui séduit les États-Unis en 1915. Il gagne le Japon en 1929, puis renaît avec l'orchestre britannique fondé en 1985 et le medley d'Israel Kamakawiwoʻole en 1993.",
     "source": "D'après Wikipédia — Ukulélé"
   },
   {
@@ -4335,7 +4335,7 @@
       "Benoît XII"
     ],
     "bonneReponse": 0,
-    "explication": "Jean XXII jugeait ces voix multiples frivoles et gênantes pour comprendre les textes sacrés, et il les a dénoncées dans une bulle en 1324. Son successeur Clément VI, lui, s'y montrait indulgent.",
+    "explication": "Jean XXII jugeait ces voix multiples frivoles et gênantes pour comprendre les textes sacrés, et il les a dénoncées dans une bulle en 1324. Quelques années plus tard, le pape Clément VI se montrait au contraire indulgent envers elles.",
     "source": "D'après Wikipédia — Polyphonie"
   },
   {
@@ -4350,7 +4350,7 @@
       "Alouette"
     ],
     "bonneReponse": 0,
-    "explication": "Dans Frère Jacques, chaque groupe démarre la même mélodie un peu après le précédent. Son auteur serait très vraisemblablement Jean-Philippe Rameau, selon Wikipédia, et on le chante souvent en groupe.",
+    "explication": "Dans Frère Jacques, chaque groupe démarre la même mélodie un peu après le précédent, et les voix s'emboîtent. C'est le canon le plus simple, à l'unisson. On attribue parfois cette chanson à Jean-Philippe Rameau, sans certitude.",
     "source": "D'après Wikipédia — Canon (musique)"
   },
   {
@@ -4372,9 +4372,9 @@
     "id": "q-musique-276",
     "domain": "musique",
     "format": "vrai-faux",
-    "affirmation": "Dans la suite baroque classique, la gigue est une danse d'origine espagnole.",
-    "reponse": false,
-    "explication": "La gigue est d'origine anglaise et vive. La danse espagnole de la suite est la sarabande, lente et solennelle. L'allemande est modérée, et la courante, vive, est d'origine française.",
+    "affirmation": "Arnold Schönberg a composé une Suite pour piano, inspirée de la suite baroque, entièrement écrite selon sa méthode des douze sons.",
+    "reponse": true,
+    "explication": "C'est la Suite op. 25 : sous des titres anciens (prélude, gavotte, musette, menuet, gigue), Schönberg y applique pour la première fois sa technique dodécaphonique à toute une œuvre. Preuve que la suite a survécu bien après l'époque baroque.",
     "source": "D'après Wikipédia — Suite (musique)"
   },
   {
@@ -4443,22 +4443,22 @@
     "format": "vrai-faux",
     "affirmation": "Longtemps, la valse a été jugée inconvenante parce que les danseurs se tenaient face à face, enlacés.",
     "reponse": true,
-    "explication": "Ce couple fermé choquait, contrairement aux danses jugées bienséantes comme le menuet ou la gavotte. La valse s'est pourtant imposée à Vienne dès les années 1780, puis dans toute l'Occident.",
+    "explication": "Ce couple fermé choquait, contrairement aux danses jugées bienséantes comme le menuet ou la gavotte. La valse s'est pourtant imposée à Vienne dès les années 1780, puis dans tout l'Occident.",
     "source": "D'après Wikipédia — Valse"
   },
   {
     "id": "q-musique-281",
     "domain": "musique",
     "format": "qcm",
-    "question": "Quelle danse remplace le menuet dans les symphonies après Beethoven ?",
+    "question": "Quel mouvement, plus vif, remplace peu à peu le menuet dans les symphonies à partir de Beethoven ?",
     "choix": [
       "Le scherzo",
       "La gigue",
       "La sarabande",
-      "La valse"
+      "La chaconne"
     ],
     "bonneReponse": 0,
-    "explication": "Le scherzo est une version plus vive du menuet, que l'on retrouve déjà chez Haydn. Le menuet, danse noble de la cour de Louis XIV, a longtemps été le troisième mouvement de la symphonie classique.",
+    "explication": "Le scherzo, souvent couplé lui aussi à un trio, est une forme plus vive du menuet, dont on trouve déjà l'idée chez Haydn. Le menuet et son trio, installés par Johann Stamitz, étaient jusque-là le troisième mouvement habituel de la symphonie.",
     "source": "D'après Wikipédia — Menuet"
   },
   {
@@ -4481,10 +4481,10 @@
     "domain": "musique",
     "format": "qui-suis-je",
     "indices": [
+      "Le moine italien Guido d'Arezzo est associé à mon invention, au XIe siècle.",
+      "Sans moi, il faudrait une portée d'au moins onze lignes pour noter toutes les notes.",
       "On me dessine au tout début de chaque portée.",
       "Mon dessin dérive d'une lettre : G, C ou F.",
-      "Une disposition attribuée au moine italien Guido d'Arezzo est à l'origine de ma place.",
-      "Sans moi, il faudrait une portée d'au moins onze lignes pour noter toutes les notes.",
       "Je suis de sol, d'ut ou de fa."
     ],
     "reponse": "La clé",

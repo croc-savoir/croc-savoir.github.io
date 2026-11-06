@@ -4,7 +4,7 @@
  *   et à mesure (stale-while-revalidate), pour supporter l'ajout de
  *   nouveaux domaines/lots sans jamais devoir republier le service worker.
  * ================================================================= */
-const SHELL_VERSION = 'v89';
+const SHELL_VERSION = 'v90';
 const SHELL_CACHE = `culture-g-shell-${SHELL_VERSION}`;
 const DATA_CACHE = 'culture-g-data';
 
@@ -49,7 +49,8 @@ const SHELL_FILES = [
 self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open(SHELL_CACHE)
-      .then(cache => cache.addAll(SHELL_FILES).then(() => Promise.allSettled(OPTIONAL_FILES.map(f => cache.add(f)))))
+      // cache: 'reload' : on ignore le cache HTTP du navigateur (GitHub Pages le garde 10 min), sinon on risque de figer d'anciens fichiers.
+      .then(cache => cache.addAll(SHELL_FILES.map(f => new Request(f, { cache: 'reload' }))).then(() => Promise.allSettled(OPTIONAL_FILES.map(f => cache.add(new Request(f, { cache: 'reload' }))))))
       .then(() => self.skipWaiting())
   );
 });

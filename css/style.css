@@ -1197,6 +1197,6 @@ html.style-cartoon :is(.topbar__logo, .home-hero__logo, .pc-nav__logo img) { fil
 .notif-hint:empty { display: none; }
 
 /* Niveau d'une fiche : 1 à 3 étoiles (incontournable, approfondi, expert) */
-.niveau { font-size: 11px; letter-spacing: 1px; color: var(--accent-2); white-space: nowrap; font-weight: 600; margin-left: 4px; vertical-align: 1px; }
+.niveau { font-size: 14px; letter-spacing: 1px; color: var(--accent-2); white-space: nowrap; font-weight: 600; margin-left: 4px; vertical-align: 1px; }
 .fiche-card__niveau { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--text-muted); margin: -4px 0 10px; }
-.fiche-card__niveau .niveau { margin-left: 0; font-size: 14px; }
+.fiche-card__niveau .niveau { margin-left: 0; font-size: 18px; }

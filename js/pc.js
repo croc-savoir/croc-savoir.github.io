@@ -132,7 +132,7 @@ const PC = (() => {
       const box = document.createElement('div');
       box.className = 'pc-panel';
       box.innerHTML = `<h4 class="pc-panel__title">Dans la même rubrique</h4>` +
-        picks.map(f => `<button type="button" class="pc-link" data-fid="${escapeHTML(f.id)}"><span>${escapeHTML(f.title)}</span><span>›</span></button>`).join('');
+        picks.map(f => `<button type="button" class="pc-link" data-fid="${escapeHTML(f.id)}"><span>${escapeHTML(f.title)} ${DataStore.etoiles(f)}</span><span>›</span></button>`).join('');
       box.addEventListener('click', (e) => {
         const b = e.target.closest('.pc-link');
         if (b) Fiches.openLinked(b.dataset.fid);

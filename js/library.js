@@ -50,7 +50,7 @@ const Library = (() => {
     item.innerHTML = `
       <span class="lib-row__emoji">${dom?.emoji || '📄'}</span>
       <span class="lib-row__text">
-        <span class="fiche-list-item__title">${escapeHTML(f.title)}</span>
+        <span class="fiche-list-item__title">${escapeHTML(f.title)} ${DataStore.etoiles(f)}</span>
         <span class="fiche-list-item__type">${escapeHTML(dom?.label || '')}${f.subtheme ? ` · ${escapeHTML(f.subtheme)}` : ''}</span>
       </span>
       ${Store.isFavorite(f.id) ? '<span class="lib-row__star">★</span>' : ''}`;

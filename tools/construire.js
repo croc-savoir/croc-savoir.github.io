@@ -12,6 +12,7 @@ const { DATA, domaines, chargerTout } = require('./lib');
 const APP = path.join(DATA, 'app');
 const DETAILS = path.join(APP, 'details');
 
+const normTitre = s => (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, ' ').trim();
 const empreinte = (s) => crypto.createHash('sha1').update(s).digest('hex').slice(0, 10);
 
 function generer() {
@@ -32,7 +33,11 @@ function generer() {
       }
       fiches.push(leger);
     }
-    quiz.push(...tout[d.id].quiz);
+    const parTitre = new Map(tout[d.id].fiches.map(f => [normTitre(f.title), f.notoriete]));
+    for (const q of tout[d.id].quiz) {
+      const n = parTitre.get(normTitre(String(q.source || '').split('—').pop().split(' / ')[0]));
+      quiz.push(n ? { ...q, notoriete: n } : q);
+    }
     if (Object.keys(det).length) {
       const contenu = JSON.stringify(det);
       hashes[d.id] = empreinte(contenu);

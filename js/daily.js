@@ -40,6 +40,17 @@ const Daily = (() => {
   }
 
   // ---------- Tirage ----------
+  // Favorise les niveaux faciles : incontournable 55 %, approfondi 35 %, expert 10 % (si le niveau est vide, on passe au suivant).
+  function pickParNiveau(pool) {
+    const r = Math.random();
+    const voulu = r < 0.55 ? 1 : r < 0.9 ? 2 : 3;
+    for (const n of [voulu, 1, 2, 3]) {
+      const sel = pool.filter(f => DataStore.niveauDe(f) === n);
+      if (sel.length) return sel[Math.floor(Math.random() * sel.length)];
+    }
+    return pool[Math.floor(Math.random() * pool.length)];
+  }
+
   function buildSession() {
     const domains = QuizGen.shuffle(DataStore.getDomains().map(d => d.id));
     const fiches = [];
@@ -49,7 +60,7 @@ const Daily = (() => {
       if (!all.length) continue;
       const unseen = all.filter(f => !Store.isFicheSeen(f.id));
       const pool = unseen.length ? unseen : all;
-      fiches.push(pool[Math.floor(Math.random() * pool.length)]);
+      fiches.push(pickParNiveau(pool));
     }
 
     const quiz = [];

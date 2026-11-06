@@ -116,7 +116,7 @@ const DataStore = (() => {
 
   // Compteurs de fiches/questions affichés pendant le remplissage du contenu.
   // Passer à false pour les retirer de toute l'appli.
-  const COMPTEURS = true;
+  const COMPTEURS = false;
   function compte(n, mot) {
     if (!COMPTEURS) return '';
     return `${n.toLocaleString('fr-FR')} ${mot}${n > 1 ? 's' : ''}`;
@@ -133,8 +133,18 @@ const DataStore = (() => {
     return counts;
   }
 
+  // Niveau d'une fiche : 1 = incontournable, 2 = approfondi, 3 = expert (champ « notoriete »).
+  const NIVEAUX = { 1: 'Incontournable', 2: 'Approfondi', 3: 'Expert' };
+  const niveauDe = f => (f && NIVEAUX[f.notoriete]) ? f.notoriete : 2;
+  function etoiles(f) {
+    const n = niveauDe(f);
+    return `<span class="niveau" role="img" aria-label="Niveau ${n} sur 3 : ${NIVEAUX[n].toLowerCase()}" title="${NIVEAUX[n]}">${'★'.repeat(n)}${'☆'.repeat(3 - n)}</span>`;
+  }
+
   function subthemesFor(domainId) {
-    const fiches = fichesByDomain[domainId] || [];
+    // Triées par niveau croissant (les incontournables d'abord), ordre d'origine conservé à niveau égal.
+    const fiches = (fichesByDomain[domainId] || []).map((f, i) => [f, i])
+      .sort((a, b) => niveauDe(a[0]) - niveauDe(b[0]) || a[1] - b[1]).map(x => x[0]);
     const map = new Map();
     fiches.forEach(f => {
       const key = f.subtheme || 'Général';
@@ -165,6 +175,6 @@ const DataStore = (() => {
     getDomains, getDomain,
     getFiches, getQuiz,
     getAllFiches, getAllQuiz, getAllQuizById,
-    domainCounts, compte, subthemesFor, ficheById, ficheByTitle, loadDetails,
+    domainCounts, compte, niveauDe, niveauNom: f => NIVEAUX[niveauDe(f)], etoiles, subthemesFor, ficheById, ficheByTitle, loadDetails,
   };
 })();

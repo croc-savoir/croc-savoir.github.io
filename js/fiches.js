@@ -140,6 +140,7 @@ const Fiches = (() => {
       <button type="button" class="fav-btn" aria-label="Ajouter aux favoris"></button>
       <div class="fiche-card__type">${DataStore.getDomain(fiche.domain)?.emoji || ''} ${escapeHTML(TYPE_LABELS[fiche.type] || 'Fiche')}${fiche.subtheme ? ` · ${escapeHTML(fiche.subtheme)}` : ''}</div>
       <h3 class="fiche-card__title">${escapeHTML(fiche.title)}</h3>
+      <div class="fiche-card__niveau">${DataStore.etoiles(fiche)} <span>${escapeHTML(DataStore.niveauNom(fiche))}</span></div>
       ${fiche.subtitle ? `<p class="fiche-card__subtitle">${escapeHTML(fiche.subtitle)}</p>` : ''}
       <div class="fiche-card__summary">${paragraphs(fiche.summary)}</div>
       ${hasDetails(fiche) ? `<button type="button" class="btn btn-ghost btn-approfondir" style="margin-top:14px;width:100%;">🔎 Approfondir</button>
@@ -215,7 +216,8 @@ const Fiches = (() => {
   let lastShownId = null;
 
   function buildAleaPool() {
-    aleaPool = QuizGen.shuffle(DataStore.getAllFiches());
+    // Les fiches « expert » restent possibles mais moins fréquentes (environ une sur trois).
+    aleaPool = QuizGen.shuffle(DataStore.getAllFiches().filter(f => DataStore.niveauDe(f) < 3 || Math.random() < 0.35));
     if (aleaPool.length > 1 && aleaPool[0].id === lastShownId) {
       aleaPool.push(aleaPool.shift());
     }
@@ -331,7 +333,7 @@ const Fiches = (() => {
         const item = document.createElement('button');
         item.type = 'button';
         item.className = 'fiche-list-item';
-        item.innerHTML = `<span class="fiche-list-item__title">${escapeHTML(f.title)}</span><span class="fiche-list-item__type">${escapeHTML(TYPE_LABELS[f.type] || '')}</span>`;
+        item.innerHTML = `<span class="fiche-list-item__title">${escapeHTML(f.title)} ${DataStore.etoiles(f)}</span><span class="fiche-list-item__type">${escapeHTML(TYPE_LABELS[f.type] || '')}</span>`;
         item.addEventListener('click', () => {
           goDeeper({ level: 'fiche', domainId: themeState.domainId, subtheme: themeState.subtheme, ficheId: f.id });
         });
@@ -373,7 +375,7 @@ const Fiches = (() => {
         const item = document.createElement('button');
         item.type = 'button';
         item.className = 'fiche-list-item';
-        item.innerHTML = `<span class="fiche-list-item__title">${escapeHTML(f.title)}</span><span class="fiche-list-item__type">${escapeHTML(TYPE_LABELS[f.type] || '')}${label ? '' : ` · ${escapeHTML(f.subtheme || 'Général')}`}</span>`;
+        item.innerHTML = `<span class="fiche-list-item__title">${escapeHTML(f.title)} ${DataStore.etoiles(f)}</span><span class="fiche-list-item__type">${escapeHTML(TYPE_LABELS[f.type] || '')}${label ? '' : ` · ${escapeHTML(f.subtheme || 'Général')}`}</span>`;
         item.addEventListener('click', () => {
           goDeeper({ level: 'fiche', domainId: themeState.domainId, subtheme: f.subtheme, ficheId: f.id, chip: themeState.chip });
         });

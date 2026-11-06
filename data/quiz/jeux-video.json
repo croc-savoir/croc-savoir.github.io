@@ -4810,13 +4810,13 @@
     "format": "qcm",
     "question": "Pourquoi le salon de Cologne s'appelle-t-il Gamescom et non « Games Convention » ?",
     "choix": [
-      "La ville de Leipzig refusait qu'il reprenne le nom de son propre salon",
+      "Leipzig, où se tenait la Games Convention, refusait qu'il en reprenne le nom",
       "Le nom était déjà déposé par une chaîne de télévision",
       "Les organisateurs voulaient un nom plus court pour l'international",
       "Un jeu vidéo portait déjà ce nom"
     ],
     "bonneReponse": 0,
-    "explication": "Leipzig, qui organisait la Games Convention depuis 2002, a refusé que l'événement de Cologne porte ce nom. Le syndicat des éditeurs a donc choisi « GamesCom ». Leipzig a finalement renoncé à son salon, remplacé par un événement en ligne.",
+    "explication": "La foire de Leipzig, qui accueillait la Games Convention depuis 2002, s'est opposée au départ du salon et a refusé que l'événement de Cologne porte ce nom. Le syndicat des éditeurs a donc choisi « GamesCom ». Leipzig a finalement renoncé à son salon, remplacé par un événement en ligne.",
     "source": "D'après Wikipédia — Gamescom"
   },
   {
@@ -4957,13 +4957,13 @@
     "format": "difference",
     "question": "Quelle est la différence entre un jeu de bac à sable et un jeu en monde ouvert ?",
     "choix": [
-      "Le monde ouvert se parcourt librement, le bac à sable laisse en plus créer et inventer ses objectifs",
+      "Le monde ouvert désigne la liberté de se déplacer, le bac à sable celle de créer et de se fixer ses objectifs",
       "Le bac à sable est toujours en 3D, le monde ouvert toujours en 2D",
       "Le monde ouvert n'a jamais de scénario, le bac à sable en a toujours un",
       "Il n'y en a aucune, ce sont deux noms du même genre"
     ],
     "bonneReponse": 0,
-    "explication": "Adventure sur Atari 2600 se parcourt presque librement mais n'est pas un bac à sable, car les actions y sont limitées. Dans un vrai bac à sable, comme Minecraft, le joueur dispose d'outils pour créer et se fixer ses buts.",
+    "explication": "Adventure sur Atari 2600 se parcourt presque librement mais n'est pas un bac à sable, car les actions y sont limitées. Dans un vrai bac à sable, comme Minecraft, le joueur dispose d'outils pour créer et se fixer ses buts, parfois dans un espace réduit.",
     "source": "D'après Wikipédia — Jeu sandbox"
   },
   {
@@ -4990,7 +4990,7 @@
       {
         "gauche": "E3",
         "droite": "Los Angeles",
-        "explication": "L'E3 se tenait au Los Angeles Convention Center."
+        "explication": "L'E3 se tenait presque toujours au Los Angeles Convention Center."
       },
       {
         "gauche": "Gamescom",
@@ -5019,8 +5019,8 @@
       "Mon nom vient de l'aviation du début du XXe siècle.",
       "Mon premier prototype pour un jeu vidéo, en 1968, portait une balle de golf au bout du manche.",
       "L'Atari CX40, livré avec la console de 1977, m'a longtemps servi de modèle.",
-      "Je suis un manche monté sur un socle que l'on incline pour diriger.",
-      "Les Airbus ont un petit cousin de moi à la place du volant."
+      "Les Airbus ont un petit cousin de moi à la place du manche à volant.",
+      "Je suis un manche monté sur un socle que l'on incline pour diriger."
     ],
     "reponse": "Joystick",
     "explication": "Le joystick vient des commandes d'avion, avec le Blériot VIII en 1908. Ralph Baer fabrique le premier prototype pour jeu vidéo en 1968, puis la manette l'a remplacé sur consoles. Il reste roi des simulateurs de vol.",
@@ -5068,7 +5068,7 @@
       "Une taxe sur les jeux violents"
     ],
     "bonneReponse": 0,
-    "explication": "Après les auditions de 1993 sur la violence, citant Mortal Kombat et Doom, un sénateur a menacé en février 1994 de proposer une commission fédérale de classification. L'industrie a préféré créer son propre système volontaire.",
+    "explication": "Après les auditions de 1993 sur la violence, citant Mortal Kombat et Night Trap, le sénateur Joe Lieberman a menacé en février 1994 de proposer une commission fédérale de classification. L'industrie a préféré créer son propre système volontaire.",
     "source": "D'après Wikipédia — Entertainment Software Rating Board"
   }
 ]

@@ -4177,9 +4177,9 @@
     "indices": [
       "Je suis née en 1969 à Osaka, pour louer et réparer des jukeboxes.",
       "Mon nom est formé à partir des noms de mes fondateurs.",
-      "J'ai créé Castlevania, Gradius et Metal Gear.",
-      "Je publie aussi le jeu de cartes Yu-Gi-Oh!.",
-      "Je suis connue pour Dance Dance Revolution et Silent Hill."
+      "Je suis connue pour le jeu de danse Dance Dance Revolution.",
+      "Je publie le jeu de cartes Yu-Gi-Oh!.",
+      "J'ai créé Castlevania, Silent Hill et Metal Gear."
     ],
     "reponse": "Konami",
     "explication": "Konami naît d'une affaire de jukeboxes avant de passer aux bornes d'arcade en 1973, puis aux consoles. Elle est à l'origine de séries comme Castlevania, Metal Gear, Silent Hill et du jeu de cartes Yu-Gi-Oh!.",
@@ -4219,15 +4219,15 @@
     "id": "q-jeux-video-259",
     "domain": "jeux-video",
     "format": "difference",
-    "question": "Quelle est la différence entre Namco et Bandai avant leur fusion en 2005 ?",
+    "question": "Avant leur fusion en 2005, qu'est-ce qui distinguait surtout Namco de Bandai ?",
     "choix": [
-      "Namco faisait des jeux vidéo et d'arcade, Bandai des jouets",
-      "Namco faisait des jouets, Bandai des jeux d'arcade",
+      "Namco était surtout connue pour ses jeux vidéo et d'arcade, Bandai pour ses jouets",
+      "Namco était surtout connue pour ses jouets, Bandai pour ses jeux d'arcade",
       "Namco était américaine, Bandai japonaise",
       "Il n'y avait aucune différence"
     ],
     "bonneReponse": 0,
-    "explication": "Namco, fondée en 1955, fait du jeu vidéo depuis 1974, notamment Pac-Man. Bandai est un fabricant de jouets. Leur fusion en 2005 crée un groupe, dont la branche jeux vidéo naît en 2006.",
+    "explication": "Namco, fondée en 1955, fait du jeu vidéo depuis 1974, notamment Pac-Man. Bandai est avant tout un fabricant de jouets, doté d'une petite branche jeux vidéo. Leur fusion en 2005 crée un groupe, dont la branche jeux vidéo commune naît en 2006.",
     "source": "D'après Wikipédia — Bandai Namco Entertainment"
   },
   {
@@ -4257,7 +4257,7 @@
       "Donkey Kong Country"
     ],
     "bonneReponse": 0,
-    "explication": "Nomura a puisé dans Super Mario 64 pour Kingdom Hearts, développé avec Disney. Il a convaincu le studio d'utiliser des héros originaux, comme Sora, plutôt que de ne reprendre que des personnages existants.",
+    "explication": "Nomura a puisé dans Super Mario 64 pour Kingdom Hearts, développé avec Disney. Il a convaincu Disney d'ajouter des héros originaux, comme Sora, plutôt que de ne reprendre que des personnages existants.",
     "source": "D'après Wikipédia — Tetsuya Nomura"
   },
   {
@@ -4342,7 +4342,7 @@
     "id": "q-jeux-video-268",
     "domain": "jeux-video",
     "format": "qcm",
-    "question": "Quel produit exportait la première société créée par Peter Molyneux, avant Bullfrog ?",
+    "question": "Quel produit exportait Taurus, la société fondée par Peter Molyneux avant Bullfrog ?",
     "choix": [
       "Des haricots à la sauce tomate",
       "Des disquettes de jeux",
@@ -4357,7 +4357,7 @@
     "id": "q-jeux-video-269",
     "domain": "jeux-video",
     "format": "qcm",
-    "question": "Sur quel sujet Warren Spector, futur créateur de Deus Ex, a-t-il écrit sa thèse universitaire ?",
+    "question": "À quel sujet Warren Spector, futur créateur de Deus Ex, a-t-il consacré son mémoire universitaire ?",
     "choix": [
       "L'histoire des dessins animés de Warner Bros.",
       "Les films de science-fiction des années 1950",
@@ -4365,7 +4365,7 @@
       "Les bandes dessinées de super-héros"
     ],
     "bonneReponse": 0,
-    "explication": "Spector se destinait à la critique de cinéma. Sa thèse, soutenue en 1980 à l'université du Texas, était une histoire critique des dessins animés de Warner Bros. Il est entré dans le jeu vidéo en 1989.",
+    "explication": "Spector se destinait à la critique de cinéma. Son mémoire de master, soutenu en 1980 à l'université du Texas, était une histoire critique des dessins animés de Warner Bros. Il est entré dans le jeu vidéo en 1989.",
     "source": "D'après Wikipédia — Warren Spector"
   },
   {

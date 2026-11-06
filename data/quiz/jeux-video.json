@@ -3085,7 +3085,7 @@
     "id": "q-jeux-video-190",
     "domain": "jeux-video",
     "format": "qcm",
-    "question": "Quel mini-jeu de cartes de The Witcher 3 est devenu un jeu à part entière en 2017 ?",
+    "question": "Quel mini-jeu de cartes de The Witcher 3 est devenu un jeu à part entière ?",
     "choix": [
       "Gwent",
       "Triple Triad",
@@ -3093,7 +3093,7 @@
       "Pazaak"
     ],
     "bonneReponse": 0,
-    "explication": "Geralt peut jouer à Gwent avec les habitants du Continent. Ce passe-temps a été développé en jeu indépendant, Gwent: The Witcher Card Game, lancé à l'été 2017 par le studio polonais CD Projekt RED.",
+    "explication": "Geralt peut jouer au Gwent avec les habitants du Continent. Ce passe-temps a été développé en jeu indépendant, Gwent: The Witcher Card Game, ouvert à tous en version bêta dès 2017 puis sorti officiellement en 2018 par le studio polonais CD Projekt RED.",
     "source": "D'après Wikipédia — The Witcher 3: Wild Hunt"
   },
   {
@@ -3168,7 +3168,7 @@
       "Un jeu de plateformes"
     ],
     "bonneReponse": 0,
-    "explication": "Le projet de Bungie, d'abord nommé « Blam! », était un jeu de stratégie en temps réel. Il est devenu un jeu de tir à la troisième, puis à la première personne, avant de sortir avec la console Xbox en novembre 2001.",
+    "explication": "Le projet de Bungie, connu sous les noms de code « Monkey Nuts » puis « Blam! », était d'abord un jeu de stratégie en temps réel. Il est devenu un jeu de tir à la troisième, puis à la première personne, avant de sortir avec la console Xbox en novembre 2001.",
     "source": "D'après Wikipédia — Halo (série de jeux vidéo)"
   },
   {
@@ -3263,7 +3263,7 @@
     "domain": "jeux-video",
     "format": "qui-suis-je",
     "indices": [
-      "Mon premier compositeur est Kevin Riepl, et Steve Jablonsky signe celui de ma suite.",
+      "Kevin Riepl compose ma première musique, et Steve Jablonsky celle de ma suite en 2008.",
       "Microsoft a racheté mes droits en janvier 2014.",
       "Mon héros s'appelle Marcus Fenix.",
       "Mes ennemis, les Locustes, surgissent du sous-sol de la planète Sera.",
@@ -3282,12 +3282,12 @@
       {
         "gauche": "Nathan Drake",
         "droite": "Uncharted",
-        "explication": "Chasseur de trésors guidé par Sully, il parcourt le monde sur la piste d'Eldorado."
+        "explication": "Avec son vieil ami Victor « Sully » Sullivan, ce chasseur de trésors parcourt le monde, notamment sur la piste de l'Eldorado."
       },
       {
         "gauche": "Aloy",
         "droite": "Horizon Zero Dawn",
-        "explication": "Chasseuse d'une tribu Nora, elle explore un monde dominé par des machines géantes."
+        "explication": "Paria rejetée par la tribu Nora, elle chasse les machines géantes qui dominent un monde post-apocalyptique."
       },
       {
         "gauche": "Jack Carver",
@@ -3386,9 +3386,9 @@
     "id": "q-jeux-video-209",
     "domain": "jeux-video",
     "format": "vrai-faux",
-    "affirmation": "Dans Roblox, une grande partie des jeux sont créés par les joueurs eux-mêmes.",
+    "affirmation": "Jusqu'en 2016, Roblox proposait une seconde monnaie gratuite, les Tickets, à côté des Robux.",
     "reponse": true,
-    "explication": "Roblox est une plateforme de création : grâce au logiciel Roblox Studio, chacun peut programmer et publier son propre jeu, que d'autres joueurs viennent visiter. Les créateurs peuvent gagner des Robux, la monnaie du site.",
+    "explication": "On recevait dix Tickets par jour rien qu'en se connectant, et il en fallait vingt pour un Robux. Ce système faisait baisser les profits de la plateforme : les Tickets ont disparu le 14 avril 2016, laissant le Robux comme seule monnaie.",
     "source": "D'après Wikipédia — Roblox"
   },
   {
@@ -3443,9 +3443,9 @@
     "indices": [
       "Mon développement commence en 2010, à la maison, avec deux frères canadiens.",
       "Mon nom de travail était « Turbo Super Mega ».",
-      "Mon style est copié sur les dessins animés des années 1930 et mon orchestre est un big band de jazz.",
+      "Mon style s'inspire des dessins animés des années 1930, et ma musique est jouée par un big band de jazz.",
       "Mon héros a une tasse à la place de la tête et un frère nommé Mugman.",
-      "Un pari perdu au casino contre le Diable m'a lancé dans une chasse aux contrats d'âme."
+      "Mes héros perdent un pari contre le Diable au casino et doivent récupérer des contrats d'âme."
     ],
     "reponse": "Cuphead",
     "explication": "Cuphead, sorti le 29 septembre 2017, est l'œuvre des frères Moldenhauer. Ils ont hypothéqué leurs maisons pour le financer, avec un style de dessin animé « rubber hose » entièrement dessiné à la main.",
@@ -3458,7 +3458,7 @@
     "question": "Quelle récompense Hades a-t-il été le premier jeu vidéo à remporter ?",
     "choix": [
       "Un prix Hugo",
-      "Un prix Nebula",
+      "Un Oscar",
       "Un prix Pulitzer",
       "Un prix Goncourt"
     ],
@@ -3624,7 +3624,7 @@
       {
         "gauche": "Shadow of the Colossus",
         "droite": "Kow Otani",
-        "explication": "Sa musique n'apparaît qu'aux moments clés, le reste du jeu étant silencieux."
+        "explication": "Sa musique surgit surtout pendant les combats contre les colosses, l'exploration se faisant presque sans musique."
       },
       {
         "gauche": "Hades",
@@ -3692,7 +3692,7 @@
       "Elle fonctionne sans fil, sans aucune manette"
     ],
     "bonneReponse": 0,
-    "explication": "La GameCube est la première console de salon de Nintendo à utiliser des disques : un format mini-disque d'environ 1,5 Go, conçu avec Panasonic. Dans la plupart des modèles, elle ne lit pourtant ni DVD ni CD de film.",
+    "explication": "La GameCube est la première console de salon de Nintendo à utiliser des disques optiques : un format mini-disque d'environ 1,5 Go, conçu avec Panasonic. Dans la plupart des modèles, elle ne lit pourtant ni DVD ni CD de film.",
     "source": "D'après Wikipédia — Nintendo GameCube"
   },
   {
@@ -3819,7 +3819,7 @@
     "id": "q-jeux-video-235",
     "domain": "jeux-video",
     "format": "vrai-faux",
-    "affirmation": "À sa sortie en 1990, la Neo-Geo AES était vendue avec un jeu inclus.",
+    "affirmation": "À sa sortie au Japon en 1990, la Neo-Geo AES était vendue avec un jeu inclus.",
     "reponse": false,
     "explication": "Au départ, aucun jeu n'était vendu avec la console : il fallait les louer. La vente de jeux n'a commencé qu'en juillet 1991, avec 17 titres. Ces jeux étaient identiques à ceux des bornes d'arcade Neo-Geo MVS.",
     "source": "D'après Wikipédia — Neo-Geo AES"
@@ -3837,9 +3837,9 @@
     "id": "q-jeux-video-237",
     "domain": "jeux-video",
     "format": "vrai-faux",
-    "affirmation": "Le Steam Deck fonctionne sous Windows.",
+    "affirmation": "Le Steam Deck est livré avec Windows comme système d'exploitation.",
     "reponse": false,
-    "explication": "Le Steam Deck utilise SteamOS, un système basé sur Linux. Pour faire tourner les jeux écrits pour Windows, Valve a développé Proton, une couche de compatibilité. Un mode bureau permet aussi d'y installer d'autres logiciels.",
+    "explication": "Le Steam Deck est livré avec SteamOS, un système basé sur Linux. Pour faire tourner les jeux écrits pour Windows, Valve a développé Proton, une couche de compatibilité. Un mode bureau permet aussi d'y installer d'autres logiciels.",
     "source": "D'après Wikipédia — Steam Deck"
   },
   {
@@ -3961,7 +3961,7 @@
       "Pour contrer des fuites sur son nom et son design",
       "Parce que la console avait été retardée",
       "Parce que la manette devait être vendue seule",
-      "À cause de l'annulation d'un salon de jeux"
+      "Pour recueillir l'avis des joueurs avant de finaliser son design"
     ],
     "bonneReponse": 0,
     "explication": "Sony voulait montrer la manette en même temps que la date et l'architecture de la console, en juin 2020. Par crainte que des personnes informées ne divulguent son design et son nom, l'entreprise la révèle deux mois plus tôt sur son blog.",
@@ -3986,7 +3986,7 @@
     "id": "q-jeux-video-245",
     "domain": "jeux-video",
     "format": "vrai-faux",
-    "affirmation": "Au lancement, Nintendo vendait la Famicom plus cher que son coût de fabrication, pour gagner de l'argent dès la console.",
+    "affirmation": "Nintendo vendait la Famicom plus cher que son coût de fabrication, pour gagner de l'argent dès la console.",
     "reponse": false,
     "explication": "Au contraire : pour rendre la console abordable, la Famicom était cédée sous son coût de production. Nintendo comptait sur la vente des jeux, en cartouches, pour dégager ses bénéfices, et non sur la machine.",
     "source": "D'après Wikipédia — Nintendo Entertainment System"
@@ -4003,7 +4003,7 @@
       "Gunpei Yokoi"
     ],
     "bonneReponse": 0,
-    "explication": "Le projet s'appelait GameCom. L'épouse de Masayuki Uemura, le concepteur, suggère Famicom, de « Family Computer », en jugeant que la console n'est ni un ordinateur personnel ni vraiment un ordinateur familial.",
+    "explication": "Le projet s'appelait GameCom. L'épouse de Masayuki Uemura, le concepteur, suggère Famicom, de « Family Computer » : selon elle, la machine n'est pas vraiment un ordinateur personnel, un « pasokon » ; mieux vaut parler d'ordinateur familial.",
     "source": "D'après Wikipédia — Nintendo Entertainment System"
   },
   {
@@ -4059,7 +4059,7 @@
     "choix": [
       "Celui d'Onimusha: Warlords, où les ennemis restaient en l'air",
       "Celui de Resident Evil, où les portes ne s'ouvraient pas",
-      "Celui de Street Fighter II, né des enchaînements de coups",
+      "Celui de Mega Man, où le héros restait collé aux murs",
       "Celui de Pac-Man, qui plante au niveau 256"
     ],
     "bonneReponse": 0,

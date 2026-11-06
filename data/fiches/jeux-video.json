@@ -12193,7 +12193,7 @@
         },
         {
           "titre": "Des micro-ordinateurs au Konami Code",
-          "texte": "Sur les micro-ordinateurs des années 1980, on trichait en modifiant des valeurs avec des instructions POKE, publiées dans les magazines. Les codes ont ensuite été vendus comme produits : guides et cartouches comme le Game Genie. Plus tard, beaucoup de jeux les ont retirés, car les succès à débloquer et les parties en ligne rendent la triche injuste."
+          "texte": "Sur les micro-ordinateurs des années 1980, on trichait en modifiant des valeurs en mémoire avec des instructions POKE, publiées dans les magazines. Les développeurs cachent aussi leurs propres codes : le Konami Code, glissé en 1986 par Kazuhisa Hashimoto dans la version NES de Gradius, est l'un des plus anciens connus. La triche devient ensuite un produit vendu : guides et cartouches comme le Game Genie. Plus tard, beaucoup de jeux ont retiré leurs codes, car les succès suivis en temps réel et les parties en ligne rendent la triche injuste."
         }
       ],
       "anecdotes": [
@@ -12267,7 +12267,7 @@
       "sections": [
         {
           "titre": "Des parties de Doom aux Quake movies",
-          "texte": "Tout commence quand Doom (1993) permet d'enregistrer ses parties et de les rejouer : on se filme alors pour battre des records de vitesse. Avec Quake, des clans y ajoutent une histoire, et naissent les « Quake movies ». Ces films sont partagés sur des sites, une communauté se forme. Le terme machinima apparaît quand le procédé s'étend à d'autres jeux que Quake."
+          "texte": "Dès 1992, Stunt Island laisse le joueur placer des caméras pour filmer ses propres cascades. Mais le vrai tournant vient de Doom (1993), qui permet d'enregistrer ses parties et de les rejouer : les joueurs s'en servent d'abord pour montrer leurs records de vitesse. Avec Quake, des clans y ajoutent une histoire, et naissent les « Quake movies ». Ces films sont partagés sur des sites, une communauté se forme. Le terme machinima apparaît quand le procédé s'étend à d'autres jeux que Quake."
         },
         {
           "titre": "Du cinéma à petit budget",
@@ -12275,7 +12275,7 @@
         }
       ],
       "anecdotes": [
-        "Le mot devait s'écrire « machinema ». C'est Hugh Hancock qui, par inadvertance, a remplacé le « e » par un « i ». Le premier inventeur du terme, Anthony Bailey, a trouvé la modification intéressante et l'a adoptée."
+        "Le mot devait s'écrire « machinema ». Son inventeur, Anthony Bailey, l'a soumis à Hugh Hancock, qui a remplacé par inadvertance le « e » par un « i ». Bailey a trouvé la modification intéressante et l'a adoptée."
       ],
       "wikipedia": "Machinima"
     },
@@ -12289,7 +12289,7 @@
     "type": "vocabulaire",
     "title": "Cinématique",
     "subtitle": "Séquence filmée qui raconte l'histoire d'un jeu",
-    "summary": "Une cinématique est une séquence de jeu vidéo où le joueur lâche presque la manette pour regarder un extrait animé. Elle sert à raconter l'histoire, présenter des personnages, installer l'ambiance ou récompenser le joueur.\nLe nom vient du cinéma, dont elle emprunte les prises de vues. On en trouve souvent au début et à la fin d'un jeu.",
+    "summary": "Une cinématique est une séquence de jeu vidéo pendant laquelle le joueur, le plus souvent passif, regarde un extrait animé. Elle sert à raconter l'histoire, présenter des personnages, installer l'ambiance ou récompenser le joueur.\nLe nom vient du cinéma, dont elle emprunte les prises de vues. On en trouve souvent au début et à la fin d'un jeu.",
     "details": {
       "definition": "Une cinématique (scène cinématique, cutscene en anglais) est une séquence non interactive d'un jeu vidéo qui interrompt le jeu pour faire avancer le récit.",
       "exemple": "Dans Donkey Kong (1981), de courtes scènes montrent le gorille s'enfuir avec Pauline, ce qui raconte une histoire complète en images.",
@@ -12346,6 +12346,10 @@
         {
           "titre": "Une boîte pour aller plus vite",
           "texte": "Pour savoir si deux objets se touchent, un jeu doit vérifier une foule de couples : avec n objets, il faut n(n-1)/2 tests, ce qui explose vite. Les moteurs écartent donc d'abord les objets lointains. Pour ceux qui restent proches, ils testent d'abord des volumes englobants très simples, comme des boîtes, avant un calcul plus précis. Ces tests simples ont l'avantage d'être rapides."
+        },
+        {
+          "titre": "Quelques pixels pour survivre",
+          "texte": "Dans les shoot them up sortis après 2000, et surtout dans les manic shooters qui couvrent l'écran de projectiles, la hitbox du vaisseau ne mesure souvent que quelques pixels de large. C'est ce qui permet au joueur de se faufiler entre des nuées de tirs qui sembleraient impossibles à éviter si tout le dessin du vaisseau comptait."
         }
       ],
       "wikipedia": "Masque de collision"
@@ -12381,7 +12385,7 @@
         },
         {
           "titre": "Guider le joueur",
-          "texte": "Un bon niveau oriente sans le dire. Dans les jeux de plateformes, des objets sont placés de sorte qu'en les ramassant le joueur avance dans la bonne direction. La lumière et les couleurs vives servent aussi de guides, tandis que la peinture jaune est parfois jugée trop voyante. Aujourd'hui, le chargement continu des zones, le level streaming, masque les écrans d'attente."
+          "texte": "Un bon niveau oriente sans le dire. Dans les jeux de plateformes, des objets sont placés de sorte qu'en les ramassant le joueur avance dans la bonne direction. La lumière et les couleurs vives servent aussi de guides ; beaucoup de jeux récents balisent même le chemin avec de la peinture jaune, un procédé souvent critiqué pour son manque de subtilité. Enfin, le chargement continu des zones, ou level streaming, évite les écrans d'attente entre deux niveaux."
         }
       ],
       "anecdotes": [
@@ -12416,7 +12420,7 @@
       "sections": [
         {
           "titre": "De Spacewar! à Doom",
-          "texte": "Dès 1962, des étudiants du MIT améliorent Spacewar!, qui devient ainsi le premier jeu vidéo à être modifié par d'autres. En 1983, Lode Runner propose un éditeur de niveaux. Pour Doom (1993), id Software place niveaux et graphismes dans un fichier WAD (« Where's All the Data? »), séparé du moteur. Il suffit alors de changer ce fichier pour modifier le jeu, ce qui déclenche une vague de mods."
+          "texte": "Né au MIT en 1962, Spacewar! est sans cesse retouché par les programmeurs des campus qui y ont accès : il est souvent vu comme le premier jeu vidéo modifié par d'autres que ses auteurs. En 1983, Lode Runner propose un éditeur de niveaux. Pour Doom (1993), id Software place niveaux et graphismes dans un fichier WAD (« Where's All the Data? »), séparé du moteur. Il suffit alors de changer ce fichier pour modifier le jeu, ce qui déclenche une vague de mods."
         },
         {
           "titre": "Quand le mod devient un jeu",
@@ -12463,7 +12467,7 @@
         }
       ],
       "anecdotes": [
-        "Livré gratuitement avec Windows en 1990, le Solitaire a été joué par plus de 400 millions de personnes en 2007, ce qui en fait l'un des jeux d'ordinateur les plus joués."
+        "Livré gratuitement avec Windows en 1990, le Solitaire est souvent considéré comme le premier grand succès du jeu occasionnel sur ordinateur : en 2007, plus de 400 millions de personnes y avaient déjà joué."
       ],
       "wikipedia": "Casual game"
     },
@@ -12477,7 +12481,7 @@
     "type": "vocabulaire",
     "title": "E3",
     "subtitle": "Salon américain du jeu vidéo, de 1995 à 2021",
-    "summary": "L'E3 (Electronic Entertainment Expo) était le grand rendez-vous annuel de l'industrie du jeu vidéo. Chaque année, à Los Angeles, constructeurs et éditeurs y dévoilaient leurs consoles et leurs jeux à venir devant la presse.\nPendant plus de vingt ans, c'est là que se jouait la « guerre des consoles ». Après plusieurs annulations, l'arrêt définitif du salon a été annoncé le 12 décembre 2023.",
+    "summary": "L'E3 (Electronic Entertainment Expo) était le grand rendez-vous annuel de l'industrie du jeu vidéo. Chaque année, le plus souvent à Los Angeles, constructeurs et éditeurs y dévoilaient leurs consoles et leurs jeux à venir devant la presse.\nPendant plus de vingt ans, c'est là que se jouait la « guerre des consoles ». Après plusieurs annulations, l'arrêt définitif du salon a été annoncé le 12 décembre 2023.",
     "details": {
       "definition": "Salon professionnel annuel du jeu vidéo, organisé à Los Angeles, où l'on présentait à la presse et aux détaillants les machines et les jeux de l'année à venir.",
       "exemple": "Chaque début d'été, Nintendo, Sony et Microsoft tenaient une conférence retransmise sur Internet pour annoncer leurs jeux : on disait alors que tel constructeur avait « gagné l'E3 ».",
@@ -12494,7 +12498,7 @@
       "sections": [
         {
           "titre": "Pourquoi un salon à part",
-          "texte": "Avant 1995, les éditeurs de jeux exposaient dans des salons généralistes comme le CES, où ils se sentaient mal traités. Le patron de Sega America raconte qu'en 1991 son stand, installé sous une tente, avait même été inondé par la pluie. Le syndicat des éditeurs et le magazine GamePro ont donc monté leur propre salon, tenu du 11 au 13 mai 1995 à Los Angeles, qui a attiré plus de 40 000 visiteurs."
+          "texte": "Avant 1995, les éditeurs de jeux exposaient dans des salons généralistes comme le CES, où ils se sentaient mal traités. Le patron de Sega America raconte qu'en 1991 son stand, installé sous une tente, avait même été inondé par la pluie. Le syndicat des éditeurs américains et le créateur du magazine GamePro ont donc monté leur propre salon, tenu du 11 au 13 mai 1995 à Los Angeles, qui a attiré plus de 40 000 visiteurs."
         },
         {
           "titre": "Des années fastes puis un lent déclin",
@@ -12732,11 +12736,11 @@
         },
         {
           "titre": "Dans les salles d'arcade et à la maison",
-          "texte": "Sega sort en 1968 MotoPolo, avec des joysticks, puis en 1969 le jeu Missile, où apparaît le premier bouton de tir connu. L'Atari CX40, livré avec la console de 1977, a longtemps servi de standard. Le joystick analogique, sensible à la force de l'inclinaison, arrive avec Space Harrier en 1985. Dans les années 1990, les joueurs de simulateurs de vol et de jeux spatiaux comme Wing Commander s'équipent massivement."
+          "texte": "Sega sort en 1968 MotoPolo, un jeu électromécanique à joysticks, puis en 1969 le jeu Missile, dont le joystick porte le premier bouton de tir connu. L'Atari CX40, livré avec la console de 1977, a longtemps servi de standard. En 1985, Space Harrier adopte un vrai manche analogique, qui mesure aussi la force de l'inclinaison. Dans les années 1990, les joueurs de simulateurs de vol et de jeux spatiaux comme Wing Commander s'équipent massivement."
         }
       ],
       "anecdotes": [
-        "En 1968, Ralph Baer a fabriqué le premier prototype de joystick pour jeu vidéo en fixant une balle de golf au bout du manche, car il travaillait alors sur un jeu de golf. Dans l'aviation, le joystick a aussi connu une seconde vie : les avions Airbus récents remplacent le volant par un petit manche latéral."
+        "En 1968, Ralph Baer a fabriqué le premier prototype de joystick pour jeu vidéo en fixant une balle de golf au bout du manche, car il travaillait alors sur un jeu de golf. Dans l'aviation, le joystick a aussi connu une seconde vie : les Airbus conçus depuis les années 1980 remplacent le manche à volant classique par un petit manche latéral."
       ],
       "wikipedia": "Joystick"
     },
@@ -12775,7 +12779,7 @@
         }
       ],
       "anecdotes": [
-        "Avant les jeux vidéo, les flippers ont eux aussi été vus comme un danger. Apparus avec des lumières en 1933, ils ont été interdits par plusieurs villes et États américains, les jugeant immoraux pour la jeunesse, et certaines interdictions ont duré jusqu'aux années 1960 et 1970. Les premiers flippers n'avaient d'ailleurs pas de palettes : elles ne sont apparues qu'en 1947."
+        "Avant les jeux vidéo, les flippers ont eux aussi fait peur. Dès 1933, quand apparaissent les modèles électriques à lumières, ils passent pour des jeux de hasard : plusieurs villes et États américains les interdisent, les jugeant immoraux pour la jeunesse, et certaines interdictions durent jusqu'aux années 1960 et 1970. Ces flippers n'avaient d'ailleurs pas encore de palettes : elles ne sont apparues qu'en 1947."
       ],
       "wikipedia": "Jeu vidéo d'arcade"
     },
@@ -12806,11 +12810,11 @@
       "sections": [
         {
           "titre": "Des penny arcades aux salles vidéo",
-          "texte": "Le terme « penny arcade » apparaît vers 1905-1910 pour désigner les lieux de machines à pièces. Dans les années 1960, des jeux électromécaniques comme les tirs de Sega les remplacent peu à peu. Les jeux vidéo arrivent à la fin des années 1970 avec Space Invaders, puis explosent en 1980 avec Pac-Man. Les bornes envahissent aussi supermarchés, restaurants et stations-service : le nombre de salles en Amérique du Nord plus que double entre 1980 et 1982, jusqu'à 13 000."
+          "texte": "Le terme « penny arcade » apparaît vers 1905-1910 pour désigner les lieux de machines à pièces. Entre les années 1940 et 1960, les machines mécaniques laissent place aux jeux électromécaniques, comme les jeux de tir de Sega. Les jeux vidéo arrivent à la fin des années 1970 avec Space Invaders, puis explosent en 1980 avec Pac-Man. Les bornes envahissent aussi supermarchés, restaurants et stations-service : le nombre de salles en Amérique du Nord plus que double entre 1980 et 1982, jusqu'à 13 000."
         },
         {
           "titre": "Déclin et survivance",
-          "texte": "Le boom retombe au milieu des années 1980, puis Street Fighter II et Mortal Kombat relancent les salles au début des années 1990. Mais le secteur s'effondre à partir de 1994 : les consoles proposent des adaptations fidèles de jeux d'arcade, ce qui prive les exploitants de leurs clients. Beaucoup de salles se transforment en centres de loisirs. Le Japon en compte encore bien plus que l'Europe ou l'Amérique du Nord."
+          "texte": "Le boom retombe au milieu des années 1980, puis Street Fighter II et Mortal Kombat relancent les salles au début des années 1990. Mais à partir de 1994, le secteur plonge dans une crise profonde : les consoles proposent des adaptations fidèles de jeux d'arcade, ce qui prive les exploitants de leurs clients. Beaucoup de salles se transforment en centres de loisirs. Le Japon en compte encore bien plus que l'Europe ou l'Amérique du Nord."
         }
       ],
       "anecdotes": [

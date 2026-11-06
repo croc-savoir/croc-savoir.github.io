@@ -1196,7 +1196,8 @@ html.style-cartoon :is(.topbar__logo, .home-hero__logo, .pc-nav__logo img) { fil
 .notif-hint { margin: 0; max-width: 340px; text-align: center; font-size: 12px; line-height: 1.4; color: var(--text-faint); }
 .notif-hint:empty { display: none; }
 
-/* Niveau d'une fiche : 1 à 3 étoiles (incontournable, approfondi, expert) */
-.niveau { font-size: 14px; letter-spacing: 1px; color: var(--accent-2); white-space: nowrap; font-weight: 600; margin-left: 4px; vertical-align: 1px; }
-.fiche-card__niveau { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--text-muted); margin: -4px 0 10px; }
-.fiche-card__niveau .niveau { margin-left: 0; font-size: 18px; }
+/* Niveau d'une fiche : étiquette colorée (incontournable, approfondi, expert) */
+.niveau { display: inline-block; padding: 1px 9px; border-radius: 8px; border: 2.5px solid #171c2b; font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: .04em; color: #171c2b; box-shadow: 0 2px 0 #171c2b; white-space: nowrap; margin-left: 4px; vertical-align: 1px; }
+.niveau.n1 { background: #6fe3a5; } .niveau.n2 { background: #ffc93c; } .niveau.n3 { background: #ff8a7a; }
+.fiche-card__niveau { margin: -4px 0 10px; }
+.fiche-card__niveau .niveau { margin-left: 0; font-size: 12px; }

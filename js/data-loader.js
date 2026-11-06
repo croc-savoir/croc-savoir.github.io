@@ -138,7 +138,7 @@ const DataStore = (() => {
   const niveauDe = f => (f && NIVEAUX[f.notoriete]) ? f.notoriete : 2;
   function etoiles(f) {
     const n = niveauDe(f);
-    return `<span class="niveau" role="img" aria-label="Niveau ${n} sur 3 : ${NIVEAUX[n].toLowerCase()}" title="${NIVEAUX[n]}">${'★'.repeat(n)}</span>`;
+    return `<span class="niveau n${n}" title="Niveau ${n} sur 3">${NIVEAUX[n]}</span>`;
   }
 
   function subthemesFor(domainId) {

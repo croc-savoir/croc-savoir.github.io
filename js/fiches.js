@@ -140,7 +140,7 @@ const Fiches = (() => {
       <button type="button" class="fav-btn" aria-label="Ajouter aux favoris"></button>
       <div class="fiche-card__type">${DataStore.getDomain(fiche.domain)?.emoji || ''} ${escapeHTML(TYPE_LABELS[fiche.type] || 'Fiche')}${fiche.subtheme ? ` · ${escapeHTML(fiche.subtheme)}` : ''}</div>
       <h3 class="fiche-card__title">${escapeHTML(fiche.title)}</h3>
-      <div class="fiche-card__niveau">${DataStore.etoiles(fiche)} <span>${escapeHTML(DataStore.niveauNom(fiche))}</span></div>
+      <div class="fiche-card__niveau">${DataStore.etoiles(fiche)}</div>
       ${fiche.subtitle ? `<p class="fiche-card__subtitle">${escapeHTML(fiche.subtitle)}</p>` : ''}
       <div class="fiche-card__summary">${paragraphs(fiche.summary)}</div>
       ${hasDetails(fiche) ? `<button type="button" class="btn btn-ghost btn-approfondir" style="margin-top:14px;width:100%;">🔎 Approfondir</button>

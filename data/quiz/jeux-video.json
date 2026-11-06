@@ -1750,7 +1750,7 @@
     "id": "q-jeux-video-107",
     "domain": "jeux-video",
     "format": "associer",
-    "question": "Associe chaque studio à un jeu qui a marqué ses débuts.",
+    "question": "Associe chaque studio au jeu qui l'a fait connaître.",
     "paires": [
       {
         "gauche": "Maxis",
@@ -1770,7 +1770,7 @@
       {
         "gauche": "Naughty Dog",
         "droite": "Crash Bandicoot",
-        "explication": "Crash Bandicoot, en 1996, est le premier jeu en 3D du studio."
+        "explication": "Crash Bandicoot, en 1996, est le premier jeu en 3D du studio et son premier grand succès."
       }
     ],
     "explication": "Ces studios se sont fait connaître avec des jeux très différents : une simulation de ville, un jeu modifiable en shareware, un jeu de plateformes à défilement et un jeu de plateformes en 3D sur PlayStation.",
@@ -1813,7 +1813,7 @@
     "indices": [
       "Je suis né en 1996 en Belgique.",
       "Mon fondateur s'appelle Swen Vincke.",
-      "J'ai créé les séries Divinity.",
+      "J'ai créé la série Divinity.",
       "J'ai financé Divinity: Original Sin avec un Kickstarter.",
       "Mon jeu Baldur's Gate 3 a été élu jeu de l'année aux Game Awards en 2023."
     ],
@@ -1840,7 +1840,7 @@
     "id": "q-jeux-video-111",
     "domain": "jeux-video",
     "format": "vrai-faux",
-    "affirmation": "Le premier championnat du monde de League of Legends, en 2011, s'est tenu dans un petit événement lors d'une conférence en Suède.",
+    "affirmation": "Le premier championnat du monde de League of Legends, en 2011, était un petit événement organisé lors d'une conférence en Suède.",
     "reponse": true,
     "explication": "Ce premier Worlds, en 2011, restait modeste. Riot a ensuite voulu rivaliser avec les sports traditionnels : dès 2012, le tournoi remplit le Galen Center de Los Angeles avec un million de dollars à gagner.",
     "source": "D'après Wikipédia — Riot Games"
@@ -1849,7 +1849,7 @@
     "id": "q-jeux-video-112",
     "domain": "jeux-video",
     "format": "qcm",
-    "question": "Quel pays a poussé Harmonix à se recentrer sur le jeu vidéo en 1997 ?",
+    "question": "Dans quel pays les fondateurs de Harmonix ont-ils compris, en 1997, qu'ils devaient se recentrer sur le jeu vidéo ?",
     "choix": [
       "Le Japon",
       "La Corée du Sud",
@@ -1857,7 +1857,7 @@
       "L'Allemagne"
     ],
     "bonneReponse": 0,
-    "explication": "En 1997, les fondateurs découvrent au Japon le karaoké et des jeux musicaux comme PaRappa the Rapper, Beatmania ou Dance Dance Revolution. Ils comprennent ce qui plaît, se recentrent sur le jeu vidéo et se séparent de 40 % de l'équipe.",
+    "explication": "En 1997, les fondateurs découvrent au Japon le karaoké et des jeux musicaux comme PaRappa the Rapper, Beatmania ou Dance Dance Revolution. Ils comprennent ce qui plaît, se recentrent sur le jeu vidéo et se séparent d'environ 40 % de l'équipe.",
     "source": "D'après Wikipédia — Harmonix Music Systems"
   },
   {
@@ -1965,7 +1965,7 @@
       "Un scrolling vertical"
     ],
     "bonneReponse": 0,
-    "explication": "En réglant la vitesse du héros et la forme des pentes, Naka a obtenu un tour complet à 360 degrés. Il a ainsi prouvé que la Mega Drive pouvait faire courir un personnage très vite, une qualité centrale de Sonic.",
+    "explication": "Au salon AM Show de 1988, Naka avait été impressionné par les déplacements en diagonale sur les pentes de ce jeu de Capcom. En le portant, il a modifié la vitesse du héros et le relief jusqu'à obtenir une boucle complète à 360 degrés, figure qui deviendra emblématique de Sonic.",
     "source": "D'après Wikipédia — Yuji Naka"
   },
   {
@@ -2043,9 +2043,9 @@
     "id": "q-jeux-video-125",
     "domain": "jeux-video",
     "format": "vrai-faux",
-    "affirmation": "Le terme « survival horror » a été inventé par Capcom pour promouvoir Resident Evil.",
+    "affirmation": "L'expression « survival horror » a été employée pour la première fois lors de la sortie japonaise de Resident Evil, en 1996.",
     "reponse": true,
-    "explication": "Vrai. Resident Evil, dirigé par Shinji Mikami et sorti en 1996, est le premier jeu présenté comme un survival horror. Capcom a créé cette expression pour le promouvoir, et elle a ensuite désigné tout un genre.",
+    "explication": "Vrai. L'expression a accompagné la sortie japonaise de Resident Evil, dirigé par Shinji Mikami, en 1996. Elle a ensuite désigné tout un genre, et on l'a appliquée après coup à des jeux plus anciens, comme Alone in the Dark, sorti en 1992.",
     "source": "D'après Wikipédia — Shinji Mikami"
   },
   {
@@ -2120,7 +2120,7 @@
       "Cent fois"
     ],
     "bonneReponse": 0,
-    "explication": "Toby Fox visait 5 000 dollars en juin 2013 et a atteint ce but le jour du lancement. La campagne s'est terminée le 24 juillet avec plusieurs dizaines de milliers de dollars, soit plus de dix fois la somme demandée.",
+    "explication": "Toby Fox visait 5 000 dollars en juin 2013 et a atteint ce but le jour du lancement. À la clôture, le 24 juillet, la campagne avait réuni 51 124 dollars grâce à 2 398 contributeurs, soit plus de dix fois la somme demandée.",
     "source": "D'après Wikipédia — Toby Fox"
   },
   {
@@ -2138,13 +2138,13 @@
     "format": "difference",
     "question": "Quelle est la différence entre Deltarune et une suite d'Undertale ?",
     "choix": [
-      "Deltarune se passe dans un univers différent, avec d'autres personnages",
+      "Deltarune se passe dans un univers différent, où les personnages ont une autre vie",
       "Deltarune se déroule avant Undertale dans le même monde",
       "Deltarune est un remake d'Undertale avec une nouvelle musique",
       "Deltarune est un jeu créé par une autre équipe"
     ],
     "bonneReponse": 0,
-    "explication": "Toby Fox précise que Deltarune n'est pas le monde d'Undertale : c'est un univers distinct, avec des personnages qui ont vécu leur propre vie. Son idée est née d'un rêve fiévreux en 2011, avant même Undertale.",
+    "explication": "Toby Fox précise que Deltarune n'est pas le monde d'Undertale : c'est un univers distinct, où des visages familiers, comme Toriel ou Sans, mènent une tout autre vie. L'idée du jeu lui est venue d'un rêve fiévreux en 2011, avant même Undertale.",
     "source": "D'après Wikipédia — Toby Fox"
   },
   {
@@ -2246,13 +2246,13 @@
     "format": "qcm",
     "question": "Quel personnage servait de skateur provisoire dans le prototype de Tony Hawk's Pro Skater ?",
     "choix": [
-      "Le héros du jeu Apocalypse, inspiré de Bruce Willis",
+      "Le personnage de Bruce Willis dans le jeu Apocalypse",
       "Un clone de Mario",
       "Un personnage inspiré de Michael Jackson",
       "Un chien en baskets"
     ],
     "bonneReponse": 0,
-    "explication": "Neversoft a réutilisé le moteur de son jeu de tir Apocalypse, et son héros, le personnage de Bruce Willis, a servi de skateur de test avant que Tony Hawk ne rejoigne le projet.",
+    "explication": "Neversoft a réutilisé, en le modifiant, le moteur de son jeu de tir Apocalypse. Le héros de ce jeu, qui avait les traits de Bruce Willis, a servi de skateur provisoire dans le prototype, avant que Tony Hawk ne rejoigne le projet.",
     "source": "D'après Wikipédia — Tony Hawk's Skateboarding"
   },
   {
@@ -2267,7 +2267,7 @@
       "Au film Fantasia"
     ],
     "bonneReponse": 0,
-    "explication": "Dans la dernière scène, Rayman envoie les magiciens dans l'espace, où des diablotins s'en servent comme instruments. C'est une parodie du film Le Voyage dans la Lune, un clin d'œil rare dans un jeu de plates-formes.",
+    "explication": "Après chaque boss, Rayman et ses amis envoient d'un coup de poing un magicien dans l'espace, où des diablotins s'en servent comme instruments. La scène parodie Le Voyage dans la Lune, le célèbre film de Georges Méliès sorti en 1902.",
     "source": "D'après Wikipédia — Rayman Legends"
   },
   {
@@ -2538,11 +2538,11 @@
     "domain": "jeux-video",
     "format": "qui-suis-je",
     "indices": [
-      "Au Japon, mon titre signifie « Château démoniaque Dracula ».",
-      "Mon premier jeu est sorti en 1986 sur Famicom.",
-      "Mon nom occidental est une contraction de « Castle of Transylvania ».",
+      "Ma série est née en 1986 sur Famicom, chez Konami.",
+      "Mon épisode Symphony of the Night, en 1997, a donné son nom à un genre de jeu, avec Super Metroid.",
       "La famille Belmont y manie un fouet pour chasser les vampires.",
-      "Mon épisode Symphony of the Night, en 1997, a inspiré un genre de jeu."
+      "Au Japon, mon titre signifie « Château démoniaque Dracula ».",
+      "Mon nom occidental est une contraction de « Castle of Transylvania »."
     ],
     "reponse": "Castlevania",
     "explication": "Castlevania, de Konami, mêle plateformes et horreur gothique autour du comte Dracula. Symphony of the Night, avec son château en labyrinthe, a donné son nom au genre « metroidvania ».",
@@ -2717,7 +2717,7 @@
         "explication": "Le clan dont le château est menacé, dans un Japon fantastique inspiré de l'époque Sengoku."
       }
     ],
-    "explication": "Ces cinq univers, tous de fantasy sombre ou historique, ont chacun une identité forte : royaume brisé, terre nordique, ville gothique ou Japon féodal. Aucun ne ressemble aux autres.",
+    "explication": "Quatre de ces mondes sortent des studios FromSoftware de Hidetaka Miyazaki : Lordran, Yharnam, Ashina et l'Entre-terre. Bordeciel, lui, est la province nordique de Tamriel imaginée par Bethesda pour Skyrim.",
     "source": "D'après Wikipédia — Elden Ring"
   },
   {
@@ -2890,9 +2890,9 @@
     "indices": [
       "Annoncé en 1998, j'ai mis neuf ans à sortir.",
       "Pendant six ans sans nouvelles, j'ai figuré dans la liste des « vaporwares » de Wired News.",
+      "Mon style de bande dessinée s'inspire de Norman Rockwell.",
       "Deux équipes, RED et BLU, s'y affrontent.",
-      "Neuf classes de personnages, du Scout au Spy, s'y partagent les rôles.",
-      "Mon style de bande dessinée s'inspire de Norman Rockwell."
+      "Neuf classes de personnages, du Scout au Spy, s'y partagent les rôles."
     ],
     "reponse": "Team Fortress 2",
     "explication": "Team Fortress 2, de Valve, sort le 10 octobre 2007 après neuf ans de développement. Son style cartoon s'inspire de Leyendecker, Cornwell et Rockwell. Il est devenu gratuit en 2011 et passe pour un ancêtre des hero shooters.",

@@ -497,13 +497,13 @@
     "format": "qcm",
     "question": "Quel jeu Atari de 1982, développé en 5 semaines, est associé au krach du jeu vidéo ?",
     "choix": [
-      "Pac-Man",
+      "Centipede",
       "E.T. l'extra-terrestre",
       "Pong",
       "Asteroids"
     ],
     "bonneReponse": 1,
-    "explication": "Pour sortir à Noël 1982, le jeu E.T. l'extra-terrestre est programmé en seulement cinq semaines par Howard Scott Warshaw. Confus et frustrant, il est un échec : Atari enterre des milliers de cartouches invendues dans une décharge d'Alamogordo, au Nouveau-Mexique, retrouvées lors de fouilles en 2014. Le krach de 1983 suit.",
+    "explication": "Pour sortir à Noël 1982, le jeu E.T. l'extra-terrestre est programmé en seulement cinq semaines par Howard Scott Warshaw. Confus et frustrant, il est un échec : Atari enterre des cartouches invendues, dont de nombreux E.T., dans une décharge du Nouveau-Mexique, retrouvées lors de fouilles en 2014. Le krach de 1983 suit.",
     "source": "D'après Wikipédia — E.T. the Extra-Terrestrial (jeu vidéo)"
   },
   {
@@ -611,7 +611,7 @@
       "D'un mot japonais qui signifie « rond »"
     ],
     "bonneReponse": 0,
-    "explication": "Kirby rend hommage à John Kirby, avocat de Nintendo lors du procès lancé par Universal, qui accusait Donkey Kong de copier King Kong. Nintendo a gagné. Le personnage n'était au départ qu'une boule provisoire, que l'équipe a fini par garder.",
+    "explication": "Le nom de Kirby serait un hommage à John Kirby, avocat de Nintendo lors du procès lancé par Universal, qui accusait Donkey Kong de copier King Kong. Nintendo a gagné. Le personnage n'était au départ qu'une boule provisoire, que l'équipe a fini par garder.",
     "source": "D'après Wikipédia — Kirby (personnage)"
   },
   {
@@ -620,7 +620,7 @@
     "format": "vrai-faux",
     "affirmation": "C'est Shenmue, le jeu de Yu Suzuki, qui a donné le nom de « QTE » aux scènes où il faut appuyer sur la bonne touche au bon moment.",
     "reponse": true,
-    "explication": "Vrai. Avec Shenmue (1999), sur Dreamcast, Yu Suzuki baptise ces séquences « Quick Time Event ». Le principe est ensuite repris par de nombreux jeux, de Resident Evil 4 à God of War. Shenmue était alors le jeu le plus cher jamais développé.",
+    "explication": "Vrai. Avec Shenmue (1999), sur Dreamcast, Yu Suzuki baptise ces séquences « Quick Time Event ». Le principe est ensuite repris par de nombreux jeux, de Resident Evil 4 à God of War. Shenmue passait alors pour le jeu le plus cher jamais développé.",
     "source": "D'après Wikipédia — Yū Suzuki"
   },
   {
@@ -742,13 +742,13 @@
     "format": "qcm",
     "question": "À quoi ressemblait le premier héros imaginé par Toby Gard, avant Lara Croft ?",
     "choix": [
-      "Un aventurier avec un fouet et un chapeau",
+      "Un aventurier masculin, trop proche d'Indiana Jones",
       "Un robot explorateur",
       "Une princesse égyptienne",
       "Un chevalier en armure"
     ],
     "bonneReponse": 0,
-    "explication": "Toby Gard pensait d'abord à un aventurier masculin, avec fouet et chapeau, jugé trop proche d'Indiana Jones. Il choisit une héroïne, d'abord nommée Laura Cruz, puis Lara Croft, un nom plus britannique. Tomb Raider sort en 1996.",
+    "explication": "Toby Gard pensait d'abord à un héros masculin, mais il le juge trop proche d'Indiana Jones. Il choisit alors une héroïne, d'abord nommée Laura Cruz, puis Lara Croft, un nom plus britannique trouvé dans l'annuaire. Tomb Raider sort en 1996, chez Core Design.",
     "source": "D'après Wikipédia — Lara Croft"
   },
   {
@@ -1088,7 +1088,7 @@
         "annee": "2007"
       }
     ],
-    "explication": "1987 : Final Fantasy, dernier espoir de Sakaguchi, est un succès. 1993 : Doom popularise le jeu de tir à la première personne. 1996 : Resident Evil définit le survival horror. 1998 : Half-Life raconte une histoire sans couper l'action. 2004 : World of Warcraft. 2007 : Portal et ses portails.",
+    "explication": "1987 : Final Fantasy, pari de Sakaguchi prêt à quitter le métier en cas d'échec, est un succès. 1993 : Doom popularise le jeu de tir à la première personne. 1996 : Resident Evil lance le survival horror. 1998 : Half-Life raconte une histoire sans couper l'action. 2004 : World of Warcraft. 2007 : Portal.",
     "source": "D'après Wikipédia — Doom (jeu vidéo, 1993)"
   },
   {
@@ -1118,7 +1118,7 @@
       "Du nom de code d'un processeur Intel"
     ],
     "bonneReponse": 0,
-    "explication": "La Xbox est conçue comme un PC, avec une version de Windows et DirectX, la technologie qui fait tourner les jeux sur ordinateur. Son nom est la contraction de « DirectX Box », et le grand X du logo rappelle cette origine. Elle sort en 2001 face à la PlayStation 2.",
+    "explication": "La Xbox est conçue comme un PC, avec une version de Windows et DirectX, la technologie qui fait tourner les jeux sur ordinateur. Son nom est la contraction de « DirectX Box », nom de code du projet chez Microsoft. Elle sort en 2001 face à la PlayStation 2, alors reine du marché.",
     "source": "D'après Wikipédia — Xbox (console)"
   },
   {
@@ -1133,7 +1133,7 @@
       "Comme une suite officielle de Doom"
     ],
     "bonneReponse": 0,
-    "explication": "Counter-Strike est d'abord un « mod » de Half-Life, créé par deux passionnés, Minh Le et Jess Cliffe. Devant son succès, Valve, le studio de Half-Life, en rachète les droits, et la version officielle sort en 2000. Il oppose terroristes et antiterroristes en manches courtes.",
+    "explication": "Counter-Strike est d'abord un « mod » de Half-Life, créé par deux passionnés, Minh Le et Jess Cliffe. Devant son succès, Valve, le studio de Half-Life, en rachète les droits, et la version officielle sort en 2000. Il oppose terroristes et antiterroristes en manches rapides.",
     "source": "D'après Wikipédia — Counter-Strike (jeu vidéo)"
   },
   {
@@ -1193,7 +1193,7 @@
       "De « Cape Comics »"
     ],
     "bonneReponse": 0,
-    "explication": "Capcom est la contraction de « Capsule Computers », le nom donné à ses premières machines d'arcade. La capsule évoquait un contenant rempli de divertissement, protégé contre le piratage. Fondée en 1983 à Osaka, Capcom crée ensuite Street Fighter et Resident Evil.",
+    "explication": "Capcom est la contraction de « Capsule Computers », le nom donné à ses premières machines d'arcade. La capsule évoquait un contenant rempli de divertissement, protégé contre le piratage. Installée à Osaka et nommée Capcom en 1983, la société crée ensuite Street Fighter et Resident Evil.",
     "source": "D'après Wikipédia — Capcom"
   },
   {
@@ -1256,7 +1256,7 @@
     "format": "vrai-faux",
     "affirmation": "Among Us a connu un succès immédiat dès sa sortie en 2018.",
     "reponse": false,
-    "explication": "Faux. À sa sortie en 2018, Among Us ne réunit que quelques dizaines de joueurs à la fois, et le studio Innersloth songe plusieurs fois à l'abandonner. Le succès arrive en 2020, pendant la pandémie, quand de grands streamers y jouent sur Twitch et YouTube.",
+    "explication": "Faux. À sa sortie en 2018, Among Us ne réunit que 30 à 50 joueurs à la fois, et son programmeur y voit un échec. Le studio Innersloth continue pourtant à le mettre à jour. Le succès arrive en 2020, pendant la pandémie, quand de grands streamers y jouent sur Twitch et YouTube.",
     "source": "D'après Wikipédia — Among Us"
   },
   {
@@ -1370,7 +1370,7 @@
     "id": "q-jeux-video-083",
     "domain": "jeux-video",
     "format": "qcm",
-    "question": "Dans quel jeu de 1979 un développeur a-t-il caché son nom dans une salle secrète, lançant la tradition des Easter eggs ?",
+    "question": "Dans quel jeu Atari un développeur a-t-il caché son nom dans une salle secrète, rendant célèbres les Easter eggs ?",
     "choix": [
       "Adventure, sur Atari 2600",
       "Pong",
@@ -1378,7 +1378,7 @@
       "Pac-Man"
     ],
     "bonneReponse": 0,
-    "explication": "Atari ne citait pas ses développeurs. Warren Robinett cache donc son nom dans une salle secrète d'Adventure (1979). Plutôt que de retirer ce secret, trop coûteux à effacer, Atari décide d'encourager ces « œufs de Pâques » que les joueurs doivent dénicher.",
+    "explication": "Atari ne citait pas ses développeurs. Warren Robinett cache donc son nom dans une salle secrète d'Adventure (1980). Plutôt que de retirer ce secret, trop coûteux à effacer, Atari décide d'encourager ces « œufs de Pâques » que les joueurs doivent dénicher.",
     "source": "D'après Wikipédia — Easter egg"
   },
   {
@@ -1400,9 +1400,9 @@
     "id": "q-jeux-video-085",
     "domain": "jeux-video",
     "format": "vrai-faux",
-    "affirmation": "On trouve déjà un boss dans un jeu vidéo de 1974.",
+    "affirmation": "On trouve déjà un boss dans un jeu vidéo des années 1970.",
     "reponse": true,
-    "explication": "Dans dnd, un jeu de rôle inspiré de Donjons et Dragons créé en 1974 sur le système informatique PLATO, chaque trésor est gardé par un monstre plus fort que les autres, jusqu'au Dragon d'or final. Le principe se généralise ensuite dans les années 1980.",
+    "explication": "Vrai. dnd, un jeu de rôle inspiré de Donjons et Dragons créé vers 1975 sur le système informatique PLATO, est considéré comme le premier jeu à avoir un boss : un dragon d'or garde l'objet final de la quête. Le principe se généralise dans les années 1980.",
     "source": "D'après Wikipédia — Boss"
   },
   {
@@ -1456,7 +1456,7 @@
       "Porygon"
     ],
     "bonneReponse": 0,
-    "explication": "MissingNo., pour « numéro manquant », apparaît dans Pokémon Rouge et Bleu quand le jeu cherche un Pokémon qui n'existe pas. En 1999, Nintendo lui-même prévenait que tout contact pouvait effacer la sauvegarde ou brouiller les graphismes.",
+    "explication": "MissingNo., pour « numéro manquant », apparaît dans Pokémon Rouge et Bleu quand le jeu cherche un Pokémon qui n'existe pas. Il prend la forme d'un amas de pixels brouillés. En 1999, Nintendo lui-même prévenait que tout contact pouvait effacer la sauvegarde ou brouiller les graphismes.",
     "source": "D'après Wikipédia — MissingNo."
   },
   {
@@ -1480,7 +1480,7 @@
       "Miss.Tic"
     ],
     "bonneReponse": 0,
-    "explication": "Invader, né à Paris en 1969, colle ses mosaïques inspirées des aliens pixelisés de Space Invaders (1978) dans de nombreuses métropoles du monde. Ses petits carreaux carrés imitent les pixels : le pixel art des premiers jeux est ainsi descendu dans la rue.",
+    "explication": "Invader, artiste français né en 1969, colle ses mosaïques inspirées des aliens pixelisés de Space Invaders (1978) dans de nombreuses métropoles du monde. Ses petits carreaux carrés imitent les pixels : le pixel art des premiers jeux est ainsi descendu dans la rue.",
     "source": "D'après Wikipédia — Invader (artiste)"
   },
   {
@@ -1565,7 +1565,7 @@
       {
         "gauche": "Nobuo Uematsu",
         "droite": "Final Fantasy",
-        "explication": "Recruté chez Square par Hironobu Sakaguchi, il signe la musique de Final Fantasy dès le premier épisode, en 1987."
+        "explication": "Entré chez Square en 1986, il y rencontre Hironobu Sakaguchi et signe la musique de Final Fantasy dès le premier épisode, en 1987."
       },
       {
         "gauche": "Kōichi Sugiyama",
@@ -1575,7 +1575,7 @@
       {
         "gauche": "Lorien Testard",
         "droite": "Clair Obscur: Expedition 33",
-        "explication": "Recruté sur un forum, ce compositeur français signe en 2025 une bande originale écoutée des centaines de millions de fois."
+        "explication": "Pour son premier grand projet, ce compositeur français signe en 2025 une bande originale saluée dans le monde entier."
       }
     ],
     "explication": "Ces compositeurs ont donné une identité sonore à leurs jeux. Kondō, Uematsu et Sugiyama ont créé des mélodies avec des machines aux sons très limités, puis les ont vues jouées par des orchestres. Lorien Testard illustre le succès récent d'une bande originale française.",
@@ -1705,7 +1705,7 @@
     "id": "q-jeux-video-104",
     "domain": "jeux-video",
     "format": "qcm",
-    "question": "Quel jeu Nintendo la démo envoyée à Nintendo en 1990 par l'équipe d'id Software reproduisait-elle sur PC ?",
+    "question": "En 1990, les futurs fondateurs d'id Software envoient à Nintendo une démo reproduisant sur PC un de ses jeux. Lequel ?",
     "choix": [
       "Super Mario Bros. 3",
       "The Legend of Zelda",
@@ -1713,7 +1713,7 @@
       "Donkey Kong"
     ],
     "bonneReponse": 0,
-    "explication": "Carmack et Hall avaient recopié le premier niveau de Super Mario Bros. 3 sur PC, avec un personnage de Romero à la place de Mario. Nintendo a refusé : ses jeux devaient rester sur ses consoles. La démo a été retrouvée en 2021.",
+    "explication": "Carmack et Hall, alors employés de Softdisk, avaient recopié le premier niveau de Super Mario Bros. 3 sur PC, avec Dangerous Dave, un personnage de Romero, à la place de Mario. Nintendo a refusé : ses jeux devaient rester sur ses consoles. Une copie de la démo a été retrouvée en 2021.",
     "source": "D'après Wikipédia — Id Software"
   },
   {

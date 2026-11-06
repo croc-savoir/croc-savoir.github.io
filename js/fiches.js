@@ -355,7 +355,8 @@ const Fiches = (() => {
   function renderDomainPC(root) {
     const domain = DataStore.getDomain(themeState.domainId);
     const map = DataStore.subthemesFor(themeState.domainId);
-    const all = [...map.values()].flat();
+    // « Tout » : d'abord tous les niveaux 1 (rubrique après rubrique), puis tous les niveaux 2, puis les 3.
+    const all = [...map.values()].flat().map((f, i) => [f, i]).sort((x, y) => DataStore.niveauDe(x[0]) - DataStore.niveauDe(y[0]) || x[1] - y[1]).map(x => x[0]);
     const head = document.createElement('div');
     head.className = 'pc-head';
     head.innerHTML = `<h1 class="pc-head__title">${domain.emoji} ${escapeHTML(domain.label)}</h1>

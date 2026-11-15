@@ -50,8 +50,8 @@ const Library = (() => {
     item.innerHTML = `
       <span class="lib-row__emoji">${dom?.emoji || '📄'}</span>
       <span class="lib-row__text">
-        <span class="fiche-list-item__title">${escapeHTML(f.title)} ${DataStore.etoiles(f)}</span>
-        <span class="fiche-list-item__type">${escapeHTML(dom?.label || '')}${f.subtheme ? ` · ${escapeHTML(f.subtheme)}` : ''}</span>
+        <span class="fiche-list-item__title">${escapeHTML(f.title)}</span>
+        <span class="fiche-list-item__type">${escapeHTML(dom?.label || '')}${f.subtheme ? ` · ${escapeHTML(f.subtheme)}` : ''} ${DataStore.etoiles(f)}</span>
       </span>
       ${Store.isFavorite(f.id) ? '<span class="lib-row__star">★</span>' : ''}`;
     item.addEventListener('click', () => onOpen(f));
@@ -97,7 +97,7 @@ const Library = (() => {
     document.getElementById('search-clear').hidden = !lastQuery;
     const q = lastQuery.trim();
     if (!q) {
-      root.appendChild(emptyState('🔍', 'Tape un mot : <strong>Napoléon</strong>, <strong>volcan</strong>, <strong>jazz</strong>, <strong>Zelda</strong>…'));
+      root.appendChild(emptyState('🔍', 'Tape un mot : <strong>Napoléon</strong>, <strong>volcan</strong>, <strong>Dragon Ball</strong>, <strong>Zelda</strong>…'));
       return;
     }
     const results = search(q);

@@ -292,6 +292,9 @@ const Fiches = (() => {
 
   function renderTheme() {
     try { sessionStorage.setItem(THEME_KEY, JSON.stringify(themeState)); } catch (e) { /* stockage indisponible */ }
+    // La barre de recherche n'a pas sa place sur une fiche ouverte : elle reste sur les listes.
+    const pill = document.querySelector('[data-screen="fiches-theme"] .search-pill');
+    if (pill) pill.style.display = themeState.level === 'fiche' ? 'none' : '';
     const root = document.getElementById('fiches-theme-content');
     root.innerHTML = '';
 
@@ -352,7 +355,7 @@ const Fiches = (() => {
         const item = document.createElement('button');
         item.type = 'button';
         item.className = 'fiche-list-item';
-        item.innerHTML = `<span class="fiche-list-item__title">${escapeHTML(f.title)} ${DataStore.etoiles(f)}</span><span class="fiche-list-item__type">${escapeHTML(TYPE_LABELS[f.type] || '')}</span>`;
+        item.innerHTML = `<span class="fiche-list-item__title">${escapeHTML(f.title)}</span><span class="fiche-list-item__type">${escapeHTML(TYPE_LABELS[f.type] || '')} ${DataStore.etoiles(f)}</span>`;
         item.addEventListener('click', () => {
           goDeeper({ level: 'fiche', domainId: themeState.domainId, subtheme: themeState.subtheme, ficheId: f.id });
         });
@@ -395,7 +398,7 @@ const Fiches = (() => {
         const item = document.createElement('button');
         item.type = 'button';
         item.className = 'fiche-list-item';
-        item.innerHTML = `<span class="fiche-list-item__title">${escapeHTML(f.title)} ${DataStore.etoiles(f)}</span><span class="fiche-list-item__type">${escapeHTML(TYPE_LABELS[f.type] || '')}${label ? '' : ` · ${escapeHTML(f.subtheme || 'Général')}`}</span>`;
+        item.innerHTML = `<span class="fiche-list-item__title">${escapeHTML(f.title)}</span><span class="fiche-list-item__type">${escapeHTML(TYPE_LABELS[f.type] || '')}${label ? '' : ` · ${escapeHTML(f.subtheme || 'Général')}`} ${DataStore.etoiles(f)}</span>`;
         item.addEventListener('click', () => {
           goDeeper({ level: 'fiche', domainId: themeState.domainId, subtheme: f.subtheme, ficheId: f.id, chip: themeState.chip });
         });

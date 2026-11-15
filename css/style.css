@@ -1207,3 +1207,6 @@ html.style-cartoon :is(.topbar__logo, .home-hero__logo, .pc-nav__logo img) { fil
 .lecture-bar { position: fixed; top: 0; left: 0; right: 0; height: 4px; z-index: 40; pointer-events: none; background: rgba(0,0,0,.25); }
 .lecture-bar[hidden] { display: none; }
 .lecture-bar i { display: block; height: 100%; width: 0; background: #ffc93c; border-radius: 0 3px 3px 0; }
+
+/* Étiquette de niveau sur la ligne du type, sans coller au titre */
+.fiche-list-item__type .niveau { margin-left: 8px; }

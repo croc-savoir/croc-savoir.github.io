@@ -113,9 +113,21 @@ const App = (() => {
     }
   }
 
+  // Petit glissement de l'écran visible pour sentir qu'on change de page (désactivé si l'appareil demande moins d'animations).
+  function transition(sens) {
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    requestAnimationFrame(() => {
+      const el = document.querySelector('.screen:not([hidden])');
+      if (!el || !el.animate) return;
+      const dx = sens === 'avant' ? 36 : -36;
+      el.animate([{ opacity: 0, transform: `translateX(${dx}px)` }, { opacity: 1, transform: 'none' }], { duration: 260, easing: 'cubic-bezier(.2,.8,.25,1)' });
+    });
+  }
+
   // Un écran descend d'un niveau interne : « up » sera appelé au retour.
   function pushInner(up) {
     inner.push({ up, y: window.scrollY });   // on note où l'on était pour y revenir au retour
+    if (!restauration) transition('avant');
     history.pushState({ screen: current, inner: inner.length }, '', `#${current}`);
     window.scrollTo(0, 0);
   }
@@ -204,6 +216,7 @@ const App = (() => {
       if (inner.length && st.screen === current && (st.inner || 0) < inner.length) {
         const niveau = inner.pop();
         niveau.up();
+        transition('arriere');
         // Retour à la même position dans la liste (et une 2e fois après le dessin, au cas où la page se rallonge).
         window.scrollTo(0, niveau.y);
         requestAnimationFrame(() => window.scrollTo(0, niveau.y));

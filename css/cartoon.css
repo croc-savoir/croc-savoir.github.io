@@ -137,8 +137,8 @@ html.style-cartoon .serie-end.is-perfect .serie-end__scorecard { box-shadow: 0 0
  * Les couleurs d'accent (bleu foncé pour le texte) sont réglées en JavaScript (setAccentVar).
  * ===================================================================== */
 html.style-cartoon.theme-clair {
-  scrollbar-color: #b9b19f #f3efe6;
-  --bg: #f3efe6; --bg-soft: #fffaf0; --bg-elevated: #fff3da; --card: #ffffff; --card-hover: #fff8ea; --ink: #171c2b;
+  scrollbar-color: #c9aeae #ecdcdc;
+  --bg: #ecdcdc; --bg-soft: #f4e8e7; --bg-elevated: #efdcd8; --card: #f8eeed; --card-hover: #f4e8e7; --ink: #171c2b;
   --border: #171c2b; --border-soft: #171c2b;
   --text: #1d2333; --text-muted: #46506a; --text-faint: #6b7590;
   --accent-2: #2a62c4; --accent-pale: #1d3f7a;
@@ -173,10 +173,3 @@ html.style-cartoon.theme-clair .credits, html.style-cartoon.theme-clair .credits
   html.style-cartoon.theme-clair .serie-end__scorecard { background: linear-gradient(160deg, hsl(var(--score-h) 80% 85% / .75), #fff); }
 }
 
-/* PROVISOIRE : 6 variantes du thème clair, à tester sur téléphone (bouton de thème, bas de l'accueil) */
-html.style-cartoon.theme-clair.tv-1 { --bg: #efe6d2; --bg-soft: #f6ecd6; --bg-elevated: #f3e6c8; --card: #fbf4e4; --card-hover: #f6ecd6; }
-html.style-cartoon.theme-clair.tv-2 { --bg: #e2d7bf; --bg-soft: #ecdfc6; --bg-elevated: #e8d9b9; --card: #f3e9d3; --card-hover: #ede0c6; }
-html.style-cartoon.theme-clair.tv-3 { --bg: #dde3ec; --bg-soft: #e7ecf3; --bg-elevated: #dbe3ef; --card: #eef2f8; --card-hover: #e7edf6; }
-html.style-cartoon.theme-clair.tv-4 { --bg: #dae9df; --bg-soft: #e5f0e9; --bg-elevated: #d6e8dc; --card: #eef6f0; --card-hover: #e5f0e9; }
-html.style-cartoon.theme-clair.tv-5 { --bg: #d9d8dc; --bg-soft: #e5e4e8; --bg-elevated: #dddce1; --card: #ecebee; --card-hover: #e5e4e8; }
-html.style-cartoon.theme-clair.tv-6 { --bg: #ecdcdc; --bg-soft: #f4e8e7; --bg-elevated: #efdcd8; --card: #f8eeed; --card-hover: #f4e8e7; }

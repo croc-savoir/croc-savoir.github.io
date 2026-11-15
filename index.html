@@ -21,7 +21,7 @@
 <link rel="stylesheet" href="css/pc.css">
 <script>document.documentElement.classList.add('style-cartoon');</script>
 <!-- THÈME CLAIR : réglage « auto » (celui du téléphone/ordinateur), « clair » ou « sombre » (bouton en bas de l'accueil) -->
-<script>try{var c=localStorage.getItem('culture-g:theme')||'auto';if(c.indexOf('clair')===0||(c==='auto'&&matchMedia('(prefers-color-scheme: light)').matches)){document.documentElement.classList.add('theme-clair');var m=c.match(/^clair([1-6])$/);if(m)document.documentElement.classList.add('tv-'+m[1]);}}catch(e){}</script>
+<script>try{var c=localStorage.getItem('culture-g:theme')||'auto';if(c.indexOf('clair')===0||(c==='auto'&&matchMedia('(prefers-color-scheme: light)').matches))document.documentElement.classList.add('theme-clair');}catch(e){}</script>
 </head>
 <body>
 

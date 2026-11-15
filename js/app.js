@@ -28,18 +28,14 @@ const App = (() => {
 
   // ---------- Thème clair / sombre ----------
   const THEME_KEY = 'culture-g:theme';
-  // PROVISOIRE : on teste 6 variantes de clair sur téléphone (clair1 à clair6) avant d'en garder une.
-  const VARIANTES = { 1: 'Crème', 2: 'Sable', 3: 'Bleu gris', 4: 'Menthe', 5: 'Gris perle', 6: 'Rosé' };
-  const THEME_LABELS = { auto: '🌓 Thème : Auto', clair: '☀️ Clair 0 · Actuel (blanc)', sombre: '🌙 Thème : Sombre' };
-  Object.keys(VARIANTES).forEach(n => { THEME_LABELS['clair' + n] = `☀️ Clair ${n} · ${VARIANTES[n]}`; });
-  const THEME_SUITE = { auto: 'clair', clair: 'clair1', clair1: 'clair2', clair2: 'clair3', clair3: 'clair4', clair4: 'clair5', clair5: 'clair6', clair6: 'sombre', sombre: 'auto' };
-  const themeChoisi = () => { try { return localStorage.getItem(THEME_KEY) || 'auto'; } catch (e) { return 'auto'; } };
+  const THEME_LABELS = { auto: '🌓 Thème : Auto', clair: '☀️ Thème : Clair', sombre: '🌙 Thème : Sombre' };
+  const THEME_SUITE = { auto: 'clair', clair: 'sombre', sombre: 'auto' };
+  const themeChoisi = () => { try { const v = localStorage.getItem(THEME_KEY) || 'auto'; return v.startsWith('clair') ? 'clair' : v; } catch (e) { return 'auto'; } };   // (« clair1 » à « clair6 » : anciens essais, = clair)
   function appliquerTheme() {
     const choix = themeChoisi();
-    const clair = choix.startsWith('clair') || (choix === 'auto' && window.matchMedia('(prefers-color-scheme: light)').matches);
+    const clair = choix === 'clair' || (choix === 'auto' && window.matchMedia('(prefers-color-scheme: light)').matches);
     const root = document.documentElement;
     root.classList.toggle('theme-clair', clair);
-    for (let n = 1; n <= 6; n++) root.classList.toggle('tv-' + n, choix === 'clair' + n);
     const meta = document.querySelector('meta[name="theme-color"]');
     if (meta) meta.setAttribute('content', clair ? (getComputedStyle(root).getPropertyValue('--bg').trim() || '#f3efe6') : '#0a0e1a');
     setAccentVar('blue');

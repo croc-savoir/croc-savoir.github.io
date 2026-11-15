@@ -28,14 +28,20 @@ const App = (() => {
 
   // ---------- Thème clair / sombre ----------
   const THEME_KEY = 'culture-g:theme';
-  const THEME_LABELS = { auto: '🌓 Thème : Auto', clair: '☀️ Thème : Clair', sombre: '🌙 Thème : Sombre' };
+  // PROVISOIRE : on teste 6 variantes de clair sur téléphone (clair1 à clair6) avant d'en garder une.
+  const VARIANTES = { 1: 'Crème', 2: 'Sable', 3: 'Bleu gris', 4: 'Menthe', 5: 'Gris perle', 6: 'Rosé' };
+  const THEME_LABELS = { auto: '🌓 Thème : Auto', clair: '☀️ Clair 0 · Actuel (blanc)', sombre: '🌙 Thème : Sombre' };
+  Object.keys(VARIANTES).forEach(n => { THEME_LABELS['clair' + n] = `☀️ Clair ${n} · ${VARIANTES[n]}`; });
+  const THEME_SUITE = { auto: 'clair', clair: 'clair1', clair1: 'clair2', clair2: 'clair3', clair3: 'clair4', clair4: 'clair5', clair5: 'clair6', clair6: 'sombre', sombre: 'auto' };
   const themeChoisi = () => { try { return localStorage.getItem(THEME_KEY) || 'auto'; } catch (e) { return 'auto'; } };
   function appliquerTheme() {
     const choix = themeChoisi();
-    const clair = choix === 'clair' || (choix === 'auto' && window.matchMedia('(prefers-color-scheme: light)').matches);
-    document.documentElement.classList.toggle('theme-clair', clair);
+    const clair = choix.startsWith('clair') || (choix === 'auto' && window.matchMedia('(prefers-color-scheme: light)').matches);
+    const root = document.documentElement;
+    root.classList.toggle('theme-clair', clair);
+    for (let n = 1; n <= 6; n++) root.classList.toggle('tv-' + n, choix === 'clair' + n);
     const meta = document.querySelector('meta[name="theme-color"]');
-    if (meta) meta.setAttribute('content', clair ? '#f3efe6' : '#0a0e1a');
+    if (meta) meta.setAttribute('content', clair ? (getComputedStyle(root).getPropertyValue('--bg').trim() || '#f3efe6') : '#0a0e1a');
     setAccentVar('blue');
     const btn = document.getElementById('theme-btn');
     if (btn) btn.textContent = THEME_LABELS[choix] || THEME_LABELS.auto;
@@ -43,7 +49,7 @@ const App = (() => {
   function wireTheme() {
     const btn = document.getElementById('theme-btn');
     if (btn) btn.addEventListener('click', () => {
-      const suite = { auto: 'clair', clair: 'sombre', sombre: 'auto' }[themeChoisi()] || 'auto';
+      const suite = THEME_SUITE[themeChoisi()] || 'auto';
       try { localStorage.setItem(THEME_KEY, suite); } catch (e) { /* stockage indisponible */ }
       appliquerTheme();
     });

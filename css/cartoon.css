@@ -145,7 +145,7 @@ html.style-cartoon.theme-clair {
   --success: #1f9d5c; --success-bg: rgba(31, 157, 92, 0.18); --danger: #d63c3c; --danger-bg: rgba(214, 60, 60, 0.16);
   --shadow-soft: 0 4px 0 #171c2b; --shadow-lift: 0 5px 0 #171c2b;
 }
-html.style-cartoon.theme-clair body { background: linear-gradient(180deg, #faf6ec, #ece5d4) fixed, var(--bg); }
+html.style-cartoon.theme-clair body { background: linear-gradient(180deg, var(--bg-soft), var(--bg)) fixed, var(--bg); }
 html.style-cartoon.theme-clair .screen-bar { background: var(--bg-soft); }
 html.style-cartoon.theme-clair :is(.home-card, .daily-card, .mode-card, .fiche-card, .quiz-card, .serie-end, .serie-end__scorecard, .search-pill) { box-shadow: 0 4px 0 var(--ink); }
 html.style-cartoon.theme-clair .btn-ghost { background: #fff3da; color: var(--ink); }
@@ -172,3 +172,11 @@ html.style-cartoon.theme-clair .credits, html.style-cartoon.theme-clair .credits
   html.style-cartoon.theme-clair .domain-tile:not([data-g]) { --t1: #ffffff; --t2: #efe8d8; color: var(--ink); }
   html.style-cartoon.theme-clair .serie-end__scorecard { background: linear-gradient(160deg, hsl(var(--score-h) 80% 85% / .75), #fff); }
 }
+
+/* PROVISOIRE : 6 variantes du thème clair, à tester sur téléphone (bouton de thème, bas de l'accueil) */
+html.style-cartoon.theme-clair.tv-1 { --bg: #efe6d2; --bg-soft: #f6ecd6; --bg-elevated: #f3e6c8; --card: #fbf4e4; --card-hover: #f6ecd6; }
+html.style-cartoon.theme-clair.tv-2 { --bg: #e2d7bf; --bg-soft: #ecdfc6; --bg-elevated: #e8d9b9; --card: #f3e9d3; --card-hover: #ede0c6; }
+html.style-cartoon.theme-clair.tv-3 { --bg: #dde3ec; --bg-soft: #e7ecf3; --bg-elevated: #dbe3ef; --card: #eef2f8; --card-hover: #e7edf6; }
+html.style-cartoon.theme-clair.tv-4 { --bg: #dae9df; --bg-soft: #e5f0e9; --bg-elevated: #d6e8dc; --card: #eef6f0; --card-hover: #e5f0e9; }
+html.style-cartoon.theme-clair.tv-5 { --bg: #d9d8dc; --bg-soft: #e5e4e8; --bg-elevated: #dddce1; --card: #ecebee; --card-hover: #e5e4e8; }
+html.style-cartoon.theme-clair.tv-6 { --bg: #ecdcdc; --bg-soft: #f4e8e7; --bg-elevated: #efdcd8; --card: #f8eeed; --card-hover: #f4e8e7; }

@@ -85,7 +85,7 @@ const App = (() => {
 
   // Un écran descend d'un niveau interne : « up » sera appelé au retour.
   function pushInner(up) {
-    inner.push(up);
+    inner.push({ up, y: window.scrollY });   // on note où l'on était pour y revenir au retour
     history.pushState({ screen: current, inner: inner.length }, '', `#${current}`);
     window.scrollTo(0, 0);
   }
@@ -172,8 +172,11 @@ const App = (() => {
       const statsEl = document.getElementById('view-stats');
       const st = e.state || { screen: 'home' };
       if (inner.length && st.screen === current && (st.inner || 0) < inner.length) {
-        inner.pop()();
-        window.scrollTo(0, 0);
+        const niveau = inner.pop();
+        niveau.up();
+        // Retour à la même position dans la liste (et une 2e fois après le dessin, au cas où la page se rallonge).
+        window.scrollTo(0, niveau.y);
+        requestAnimationFrame(() => window.scrollTo(0, niveau.y));
         return;
       }
       statsEl.hidden = st.overlay !== 'stats';
@@ -193,18 +196,55 @@ const App = (() => {
   }
 
   // Reconstruit la pile d'écrans (accueil → menu → écran) pour que « retour » fonctionne normalement.
-  function restaurerEcran(voulu) {
-    const sauve = voulu === 'fiches-theme' ? Fiches.lireTheme() : null;
+  let restauration = false;   // vrai pendant qu'on rejoue l'écran après un rafraîchissement (les écrans reprennent alors où ils en étaient)
+  function restaurerEcran(voulu, sauve, serie) {
     const chaine = [];
     for (let n = voulu; n && n !== 'home'; n = screenEl(n)?.dataset.back) chaine.unshift(n);
-    chaine.forEach(n => go(n));
-    if (sauve) Fiches.restoreTheme(sauve);
+    restauration = true;
+    try {
+      chaine.forEach(n => go(n));
+      if (sauve) Fiches.restoreTheme(sauve);
+      if (serie) Series.restaurerSerie(serie);
+    } catch (e) { console.error('restauration', e); }   // une restauration ratée ne doit jamais bloquer l'appli
+    finally { restauration = false; }
+  }
+
+  // Repères de lecture : fine barre de progression en haut quand on lit une fiche, bouton pour remonter.
+  function wireLecture() {
+    const bar = document.createElement('div');
+    bar.className = 'lecture-bar';
+    bar.hidden = true;
+    bar.innerHTML = '<i></i>';
+    const top = document.createElement('button');
+    top.type = 'button';
+    top.className = 'to-top';
+    top.setAttribute('aria-label', 'Remonter en haut de la page');
+    top.textContent = '↑';
+    top.hidden = true;
+    top.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+    document.body.append(bar, top);
+    let attente = false;
+    const maj = () => {
+      attente = false;
+      const reste = document.documentElement.scrollHeight - window.innerHeight;
+      const y = window.scrollY;
+      const lit = !!document.querySelector('.screen:not([hidden]) .fiche-card');
+      bar.hidden = !(lit && reste > window.innerHeight * 0.8);
+      if (!bar.hidden) bar.firstChild.style.width = Math.min(100, Math.max(0, (y / reste) * 100)) + '%';
+      top.hidden = !(lit && y > 700);   // seulement en lisant une fiche (évite de gêner les boutons des quiz)
+    };
+    window.addEventListener('scroll', () => { if (!attente) { attente = true; requestAnimationFrame(maj); } }, { passive: true });
+    document.addEventListener('screenchange', maj);
   }
 
   async function init() {
-    const voulu = location.hash.slice(1);   // à lire avant que l'adresse soit remise à #home
+    // À lire avant que l'adresse soit remise à #home et que l'affichage de l'accueil efface les mémoires.
+    const voulu = location.hash.slice(1);
+    const sauveTheme = voulu === 'fiches-theme' ? Fiches.lireTheme() : null;
+    const sauveSerie = voulu === 'quiz-theme' ? Series.lireSerie() : null;
     setAccentVar('blue');
     wireNav();
+    wireLecture();
     registerServiceWorker();
 
     document.getElementById('home-greeting').textContent = 'Chargement…';
@@ -216,7 +256,7 @@ const App = (() => {
 
     // Rafraîchissement : on retourne à l'écran où l'on était (écran dans l'adresse, #nom).
     if (voulu && voulu !== 'home' && screenEl(voulu) && !new URLSearchParams(location.search).get('go')) {
-      restaurerEcran(voulu);
+      restaurerEcran(voulu, sauveTheme, sauveSerie);
     }
 
     // Ouverture depuis la notification du rappel quotidien
@@ -231,5 +271,5 @@ const App = (() => {
 
   document.addEventListener('DOMContentLoaded', init);
 
-  return { go, back, pushInner, openStats, closeStats, showErrorReview, toast, setAccentVar };
+  return { isRestoring: () => restauration, go, back, pushInner, openStats, closeStats, showErrorReview, toast, setAccentVar };
 })();

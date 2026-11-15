@@ -23,7 +23,7 @@ const Quiz = (() => {
   // A "session" drives one container: a pool of items + a cursor, replayed
   // one at a time. `loop: true` reshuffles forever (Aléatoire); `loop: false`
   // shows a completion screen at the end (Par thème / Revoir mes erreurs).
-  function createSession(container, pool, { loop, weighted, emptyMsg, onFinishedLabel, onBack }) {
+  function createSession(container, pool, { loop, weighted, emptyMsg, onFinishedLabel, onBack, memoKey, premierId }) {
     const state = { pool: pool.slice(), index: 0 };
 
     function order(items) {
@@ -34,6 +34,11 @@ const Quiz = (() => {
     }
 
     state.pool = order(state.pool);
+    // Reprise après un rafraîchissement : la question où l'on était passe en premier.
+    if (premierId) {
+      const k = state.pool.findIndex(it => it.id === premierId);
+      if (k > 0) state.pool.unshift(state.pool.splice(k, 1)[0]);
+    }
 
     function renderEmpty() {
       container.innerHTML = '';
@@ -71,6 +76,7 @@ const Quiz = (() => {
         else { renderFinished(); return; }
       }
       const item = state.pool[state.index];
+      if (memoKey) { try { sessionStorage.setItem(memoKey, item.id); } catch (e) { /* stockage indisponible */ } }
       container.innerHTML = '';
       renderQuestion(item, container, next);
     }
@@ -565,8 +571,11 @@ const Quiz = (() => {
   // ---------------- Entrées publiques ----------------
   function initAleatoire() {
     const container = document.getElementById('quiz-aleatoire-stage');
+    const CLE = 'culture-g:quiz-alea';
+    let premierId = null;
+    if (App.isRestoring()) { try { premierId = sessionStorage.getItem(CLE); } catch (e) { /* rien */ } }
     createSession(container, DataStore.getAllQuiz(), {
-      loop: true, weighted: true,
+      loop: true, weighted: true, memoKey: CLE, premierId,
       emptyMsg: 'Aucune question pour le moment. Ajoute du contenu dans data/quiz/.',
     });
   }

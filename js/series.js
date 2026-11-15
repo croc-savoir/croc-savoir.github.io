@@ -179,6 +179,26 @@ const Series = (() => {
 
   // =====================  SÉRIES  =====================
   let st = { level: 'domains', domainId: null };
+  const SERIE_KEY = 'culture-g:serie';
+  function lireSerie() { try { return JSON.parse(sessionStorage.getItem(SERIE_KEY) || 'null'); } catch (e) { return null; } }
+  function ecrireSerie(s) { try { if (s) sessionStorage.setItem(SERIE_KEY, JSON.stringify(s)); else sessionStorage.removeItem(SERIE_KEY); } catch (e) { /* rien */ } }
+  // Quand on quitte l'écran des séries, la série mémorisée n'a plus lieu d'être reprise.
+  document.addEventListener('screenchange', (e) => { if (e.detail !== 'quiz-theme') ecrireSerie(null); });
+
+  // Après un rafraîchissement : on rejoue la descente (thème → durée → questions) pour que « retour » marche.
+  function restaurerSerie(s) {
+    const byId = DataStore.getAllQuizById();
+    const items = (s.ids || []).map(id => byId[id]);
+    if (!items.length || items.some(x => !x)) return;
+    let prev = { ...st };
+    App.pushInner(() => { st = prev; renderSeries(); });
+    st = { level: 'lengths', domainId: s.domainId };
+    prev = { ...st };
+    App.pushInner(() => { st = prev; renderSeries(); });
+    st = { level: 'play', domainId: s.domainId, n: s.n, items, reprise: { results: s.results || [], given: s.given || [] } };
+    ecrireSerie(s);   // la restauration passe par le menu (qui efface la mémoire) : on la remet
+    renderSeries();
+  }
   const seriesRoot = () => document.getElementById('quiz-theme-content');
 
   function initSeries() {
@@ -202,6 +222,7 @@ const Series = (() => {
   }
 
   function renderSeries() {
+    if (st.level !== 'play') ecrireSerie(null);   // on n'est plus dans une série
     const root = seriesRoot();
     root.innerHTML = '';
 
@@ -259,9 +280,13 @@ const Series = (() => {
     }
 
     if (st.level === 'play') {
+      const rep = st.reprise || { results: [], given: [] };
       playItems(root, st.items, {
-        onQuit: () => App.back(),
+        index: rep.results.length, results: rep.results, given: rep.given,
+        onStep: (done, results, given) => ecrireSerie({ domainId: st.domainId, n: st.n, ids: st.items.map(q => q.id), results: results.slice(0, done), given: given.slice(0, done) }),
+        onQuit: () => { ecrireSerie(null); App.back(); },
         onFinish: (results, given) => {
+          ecrireSerie(null);
           renderEnd(root, st.items, results, {
             title: `${labelFor(st.domainId)} · ${st.items.length} questions`,
             given,
@@ -281,6 +306,7 @@ const Series = (() => {
     const pool = poolFor(domainId);
     const items = SRS.pickWeighted(pool, it => Store.getQuizMeta(it.id), Math.min(n, pool.length));
     st = { level: 'play', domainId, n, items };
+    ecrireSerie({ domainId, n, ids: items.map(q => q.id), results: [], given: [] });
     renderSeries();
     window.scrollTo(0, 0);
   }
@@ -409,5 +435,5 @@ const Series = (() => {
     }
   }
 
-  return { initSeries, initJour, updateHomeCard };
+  return { initSeries, initJour, updateHomeCard, lireSerie, restaurerSerie };
 })();

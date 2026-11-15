@@ -1197,17 +1197,13 @@ html.style-cartoon :is(.topbar__logo, .home-hero__logo, .pc-nav__logo img) { fil
 .notif-hint:empty { display: none; }
 
 /* Niveau d'une fiche : étiquette colorée (incontournable, approfondi, expert) */
-.niveau { display: inline-block; padding: 1px 9px; border-radius: 8px; border: 2.5px solid #171c2b; font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: .04em; color: #171c2b; box-shadow: 0 2px 0 #171c2b; white-space: nowrap; margin-left: 4px; vertical-align: 1px; }
+.niveau { display: inline-block; padding: 1px 9px; border-radius: 8px; border: 2.5px solid #171c2b; font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: .04em; color: #171c2b !important; box-shadow: 0 2px 0 #171c2b; white-space: nowrap; margin-left: 4px; vertical-align: 1px; }
 .niveau.n1 { background: #6fe3a5; } .niveau.n2 { background: #ffc93c; } .niveau.n3 { background: #ff8a7a; }
 .fiche-card__niveau { margin: -4px 0 10px; }
 .fiche-card__niveau .niveau { margin-left: 0; font-size: 12px; }
 
-/* Fiches voisines (téléphone) */
-.voisines { margin: 18px 0 8px; }
-.voisines__titre { margin: 0 0 8px; font-size: 13px; text-transform: uppercase; letter-spacing: .05em; color: var(--text-muted); }
 
-/* Repères de lecture : progression de la fiche + bouton pour remonter */
+/* Repère de lecture : progression de la fiche */
 .lecture-bar { position: fixed; top: 0; left: 0; right: 0; height: 4px; z-index: 40; pointer-events: none; background: rgba(0,0,0,.25); }
-.lecture-bar[hidden], .to-top[hidden] { display: none; }
+.lecture-bar[hidden] { display: none; }
 .lecture-bar i { display: block; height: 100%; width: 0; background: #ffc93c; border-radius: 0 3px 3px 0; }
-.to-top { position: fixed; right: 16px; bottom: calc(24px + var(--safe-bottom, 0px)); z-index: 28; width: 46px; height: 46px; border-radius: 50%; border: 2.5px solid #171c2b; background: #ffc93c; color: #171c2b; font-size: 22px; font-weight: 900; line-height: 1; box-shadow: 0 3px 0 #171c2b; cursor: pointer; }

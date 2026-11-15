@@ -20,6 +20,8 @@
 <!-- VERSION ORDINATEUR (≥ 1024 px de large ; le téléphone n'est pas concerné) -->
 <link rel="stylesheet" href="css/pc.css">
 <script>document.documentElement.classList.add('style-cartoon');</script>
+<!-- THÈME CLAIR : réglage « auto » (celui du téléphone/ordinateur), « clair » ou « sombre » (bouton en bas de l'accueil) -->
+<script>try{var c=localStorage.getItem('culture-g:theme')||'auto';if(c==='clair'||(c==='auto'&&matchMedia('(prefers-color-scheme: light)').matches))document.documentElement.classList.add('theme-clair');}catch(e){}</script>
 </head>
 <body>
 
@@ -117,6 +119,7 @@
         <button class="notif-btn" type="button">🔔 Activer le rappel de midi</button>
         <p class="notif-hint"></p>
       </div>
+      <div class="notif-row"><button class="notif-btn" type="button" id="theme-btn">🌓 Thème : Auto</button></div>
       <p class="credits">Icônes des thèmes : <a href="https://openmoji.org" target="_blank" rel="noopener">OpenMoji</a> (CC BY-SA 4.0) · autres dessins : maison</p>
     </div>
   </section>

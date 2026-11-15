@@ -90,9 +90,7 @@ const Fiches = (() => {
     const overlay = document.createElement('div');
     overlay.className = 'fiche-modal';
     overlay.innerHTML = `<div class="fiche-modal__panel"><button type="button" class="fiche-modal__close">✕ Fermer</button><div class="fiche-modal__body"></div></div>`;
-    const corps = overlay.querySelector('.fiche-modal__body');
-    corps.appendChild(renderCard(f));
-    if (!isPC()) { const v = voisinesBlock(f); if (v) corps.appendChild(v); }
+    overlay.querySelector('.fiche-modal__body').appendChild(renderCard(f));
     const close = () => overlay.remove();
     overlay.addEventListener('click', e => { if (e.target === overlay || e.target.closest('.fiche-modal__close')) close(); });
     document.body.appendChild(overlay);
@@ -200,40 +198,9 @@ const Fiches = (() => {
 
   // Sur ordinateur : la fiche à gauche, un panneau « liens + mini-quiz » à droite (cf. pc.js).
   const isPC = () => window.matchMedia('(min-width: 1024px)').matches;
-  // Sur téléphone : quelques fiches voisines (même rubrique, les suivantes dans l'ordre de la liste) sous la fiche,
-  // pour enchaîner sans repasser par la liste.
-  function voisinesBlock(fiche) {
-    const liste = DataStore.subthemesFor(fiche.domain).get(fiche.subtheme || 'Général') || [];
-    const i = liste.findIndex(f => f.id === fiche.id);
-    if (i < 0 || liste.length < 2) return null;
-    const picks = [];
-    for (let k = 1; k < liste.length && picks.length < 5; k++) picks.push(liste[(i + k) % liste.length]);
-    const box = document.createElement('section');
-    box.className = 'voisines';
-    box.innerHTML = '<h4 class="voisines__titre">Dans la même rubrique</h4>';
-    const list = document.createElement('div');
-    list.className = 'fiche-list';
-    picks.forEach(f => {
-      const b = document.createElement('button');
-      b.type = 'button';
-      b.className = 'fiche-list-item';
-      b.innerHTML = `<span class="fiche-list-item__title">${escapeHTML(f.title)} ${DataStore.etoiles(f)}</span><span class="fiche-list-item__type">${escapeHTML(TYPE_LABELS[f.type] || '')}</span>`;
-      b.addEventListener('click', () => openLinked(f.id));
-      list.appendChild(b);
-    });
-    box.appendChild(list);
-    return box;
-  }
-
   function cardWithAside(fiche) {
     const card = renderCard(fiche);
-    if (!isPC() || typeof PC === 'undefined') {
-      const v = voisinesBlock(fiche);
-      if (!v) return card;
-      const col = document.createElement('div');
-      col.append(card, v);
-      return col;
-    }
+    if (!isPC() || typeof PC === 'undefined') return card;
     const layout = document.createElement('div');
     layout.className = 'fiche-layout';
     layout.appendChild(card);

@@ -130,3 +130,45 @@ html.style-cartoon .serie-end__bar i { border-radius: 0; background: linear-grad
 html.style-cartoon .serie-recap__chips b { border: 2.5px solid var(--ink); box-shadow: 0 2px 0 var(--ink); }
 html.style-cartoon .serie-end.is-perfect .serie-end__value { -webkit-text-stroke: 3px var(--ink); text-shadow: none; color: transparent; }
 html.style-cartoon .serie-end.is-perfect .serie-end__scorecard { box-shadow: 0 0 30px rgba(255, 120, 20, .5), 0 4px 0 var(--ink); }
+
+
+/* =====================================================================
+ * THÈME CLAIR (classe « theme-clair » sur <html>) : papier chaud, mêmes contours épais et ombres nettes.
+ * Les couleurs d'accent (bleu foncé pour le texte) sont réglées en JavaScript (setAccentVar).
+ * ===================================================================== */
+html.style-cartoon.theme-clair {
+  scrollbar-color: #b9b19f #f3efe6;
+  --bg: #f3efe6; --bg-soft: #fffaf0; --bg-elevated: #fff3da; --card: #ffffff; --card-hover: #fff8ea; --ink: #171c2b;
+  --border: #171c2b; --border-soft: #171c2b;
+  --text: #1d2333; --text-muted: #46506a; --text-faint: #6b7590;
+  --accent-2: #2a62c4; --accent-pale: #1d3f7a;
+  --success: #1f9d5c; --success-bg: rgba(31, 157, 92, 0.18); --danger: #d63c3c; --danger-bg: rgba(214, 60, 60, 0.16);
+  --shadow-soft: 0 4px 0 #171c2b; --shadow-lift: 0 5px 0 #171c2b;
+}
+html.style-cartoon.theme-clair body { background: linear-gradient(180deg, #faf6ec, #ece5d4) fixed, var(--bg); }
+html.style-cartoon.theme-clair .screen-bar { background: var(--bg-soft); }
+html.style-cartoon.theme-clair :is(.home-card, .daily-card, .mode-card, .fiche-card, .quiz-card, .serie-end, .serie-end__scorecard, .search-pill) { box-shadow: 0 4px 0 var(--ink); }
+html.style-cartoon.theme-clair .btn-ghost { background: #fff3da; color: var(--ink); }
+html.style-cartoon.theme-clair .btn-ghost:hover { background: #ffe9b8; color: var(--ink); }
+html.style-cartoon.theme-clair .domain-tile__label { color: var(--ink); }
+html.style-cartoon.theme-clair .pair-item.is-linked { background: #d6e5ff; }
+html.style-cartoon.theme-clair .opt-btn.is-selected .opt-letter { color: #fff; border-color: #fff; }
+html.style-cartoon.theme-clair .serie-rec__tag { color: #a85a00; }
+html.style-cartoon.theme-clair .serie-rec__a.is-ok strong { color: #14764a; }
+html.style-cartoon.theme-clair .serie-rec__a.is-ko strong { color: #b32727; }
+html.style-cartoon.theme-clair .serie-rec.is-ok { background: rgba(71, 208, 138, 0.28); }
+html.style-cartoon.theme-clair .serie-rec.is-ko { background: rgba(255, 107, 107, 0.26); }
+html.style-cartoon.theme-clair .fav-btn { background: rgba(23, 28, 43, 0.06); }
+html.style-cartoon.theme-clair .fiche-card { background: var(--card); }
+html.style-cartoon.theme-clair .daily-card.is-done { background: var(--card); color: var(--text); }
+html.style-cartoon.theme-clair .toast { background: #171c2b; color: #fff; }
+html.style-cartoon.theme-clair .fiche-modal { background: rgba(23, 28, 43, 0.55); }
+html.style-cartoon.theme-clair .serie-bar { background: #e9e1cf; }
+html.style-cartoon.theme-clair .serie-end__bar { background: #e9e1cf; }
+html.style-cartoon.theme-clair .stat-tile, html.style-cartoon.theme-clair .domain-bar { color: var(--text); }
+html.style-cartoon.theme-clair .credits, html.style-cartoon.theme-clair .credits a { color: var(--text-muted); }
+@media (min-width: 1024px) {
+  html.style-cartoon.theme-clair .pc-nav { background: rgba(255, 250, 240, 0.94); }
+  html.style-cartoon.theme-clair .domain-tile:not([data-g]) { --t1: #ffffff; --t2: #efe8d8; color: var(--ink); }
+  html.style-cartoon.theme-clair .serie-end__scorecard { background: linear-gradient(160deg, hsl(var(--score-h) 80% 85% / .75), #fff); }
+}

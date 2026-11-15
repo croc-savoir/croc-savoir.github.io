@@ -12,15 +12,45 @@ const App = (() => {
 
   function setAccentVar(name) {
     const root = document.documentElement;
+    const clair = root.classList.contains('theme-clair');
     const palettes = {
       pink: { a: '#e0568c', a2: '#ff8fb8', ap: '#ffd3e6', rgb: '224, 86, 140' },
       blue: { a: '#2f7bff', a2: '#5cc8ff', ap: '#cfe8ff', rgb: '47, 123, 255' },
     };
-    const p = palettes[name] || palettes.blue;
+    let p = palettes[name] || palettes.blue;
+    // Thème clair : les accents « clairs » (texte bleu pâle) deviennent des bleus foncés lisibles sur fond clair.
+    if (clair) p = { ...p, a2: '#2a62c4', ap: '#1d3f7a' };
     root.style.setProperty('--accent', p.a);
     root.style.setProperty('--accent-2', p.a2);
     root.style.setProperty('--accent-pale', p.ap);
     root.style.setProperty('--accent-rgb', p.rgb);
+  }
+
+  // ---------- Thème clair / sombre ----------
+  const THEME_KEY = 'culture-g:theme';
+  const THEME_LABELS = { auto: '🌓 Thème : Auto', clair: '☀️ Thème : Clair', sombre: '🌙 Thème : Sombre' };
+  const themeChoisi = () => { try { return localStorage.getItem(THEME_KEY) || 'auto'; } catch (e) { return 'auto'; } };
+  function appliquerTheme() {
+    const choix = themeChoisi();
+    const clair = choix === 'clair' || (choix === 'auto' && window.matchMedia('(prefers-color-scheme: light)').matches);
+    document.documentElement.classList.toggle('theme-clair', clair);
+    const meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) meta.setAttribute('content', clair ? '#f3efe6' : '#0a0e1a');
+    setAccentVar('blue');
+    const btn = document.getElementById('theme-btn');
+    if (btn) btn.textContent = THEME_LABELS[choix] || THEME_LABELS.auto;
+  }
+  function wireTheme() {
+    const btn = document.getElementById('theme-btn');
+    if (btn) btn.addEventListener('click', () => {
+      const suite = { auto: 'clair', clair: 'sombre', sombre: 'auto' }[themeChoisi()] || 'auto';
+      try { localStorage.setItem(THEME_KEY, suite); } catch (e) { /* stockage indisponible */ }
+      appliquerTheme();
+    });
+    // En mode « auto », on suit le réglage de l'appareil quand il change.
+    const mq = window.matchMedia('(prefers-color-scheme: light)');
+    (mq.addEventListener ? mq.addEventListener.bind(mq, 'change') : mq.addListener.bind(mq))(() => { if (themeChoisi() === 'auto') appliquerTheme(); });
+    appliquerTheme();
   }
 
   function toast(msg, ms = 2200) {
@@ -215,14 +245,7 @@ const App = (() => {
     bar.className = 'lecture-bar';
     bar.hidden = true;
     bar.innerHTML = '<i></i>';
-    const top = document.createElement('button');
-    top.type = 'button';
-    top.className = 'to-top';
-    top.setAttribute('aria-label', 'Remonter en haut de la page');
-    top.textContent = '↑';
-    top.hidden = true;
-    top.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
-    document.body.append(bar, top);
+    document.body.append(bar);
     let attente = false;
     const maj = () => {
       attente = false;
@@ -231,7 +254,6 @@ const App = (() => {
       const lit = !!document.querySelector('.screen:not([hidden]) .fiche-card');
       bar.hidden = !(lit && reste > window.innerHeight * 0.8);
       if (!bar.hidden) bar.firstChild.style.width = Math.min(100, Math.max(0, (y / reste) * 100)) + '%';
-      top.hidden = !(lit && y > 700);   // seulement en lisant une fiche (évite de gêner les boutons des quiz)
     };
     window.addEventListener('scroll', () => { if (!attente) { attente = true; requestAnimationFrame(maj); } }, { passive: true });
     document.addEventListener('screenchange', maj);
@@ -242,7 +264,7 @@ const App = (() => {
     const voulu = location.hash.slice(1);
     const sauveTheme = voulu === 'fiches-theme' ? Fiches.lireTheme() : null;
     const sauveSerie = voulu === 'quiz-theme' ? Series.lireSerie() : null;
-    setAccentVar('blue');
+    wireTheme();
     wireNav();
     wireLecture();
     registerServiceWorker();

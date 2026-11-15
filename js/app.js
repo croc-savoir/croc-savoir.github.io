@@ -192,7 +192,17 @@ const App = (() => {
     }
   }
 
+  // Reconstruit la pile d'écrans (accueil → menu → écran) pour que « retour » fonctionne normalement.
+  function restaurerEcran(voulu) {
+    const sauve = voulu === 'fiches-theme' ? Fiches.lireTheme() : null;
+    const chaine = [];
+    for (let n = voulu; n && n !== 'home'; n = screenEl(n)?.dataset.back) chaine.unshift(n);
+    chaine.forEach(n => go(n));
+    if (sauve) Fiches.restoreTheme(sauve);
+  }
+
   async function init() {
+    const voulu = location.hash.slice(1);   // à lire avant que l'adresse soit remise à #home
     setAccentVar('blue');
     wireNav();
     registerServiceWorker();
@@ -203,6 +213,11 @@ const App = (() => {
     history.replaceState({ screen: 'home' }, '', '#home');
     renderHome();
     render('home');
+
+    // Rafraîchissement : on retourne à l'écran où l'on était (écran dans l'adresse, #nom).
+    if (voulu && voulu !== 'home' && screenEl(voulu) && !new URLSearchParams(location.search).get('go')) {
+      restaurerEcran(voulu);
+    }
 
     // Ouverture depuis la notification du rappel quotidien
     if (new URLSearchParams(location.search).get('go') === 'daily') {

@@ -272,7 +272,26 @@ const Fiches = (() => {
     renderTheme();
   }
 
+  // Position « par thème » mémorisée pour retrouver la même page après un rafraîchissement.
+  const THEME_KEY = 'culture-g:theme';
+  function lireTheme() {
+    try { return JSON.parse(sessionStorage.getItem(THEME_KEY) || 'null'); } catch (e) { return null; }
+  }
+  // Rejoue la descente (thème → rubrique → fiche) pour que le bouton retour fonctionne comme avant.
+  function restoreTheme(saved) {
+    if (!saved || !saved.domainId || !DataStore.getDomain(saved.domainId)) return;
+    if (saved.level === 'domains') return;
+    goDeeper({ level: 'subthemes', domainId: saved.domainId, subtheme: null, ficheId: null });
+    if (saved.level === 'fiches' && !isPC()) {
+      goDeeper({ level: 'fiches', domainId: saved.domainId, subtheme: saved.subtheme, ficheId: null });
+    } else if (saved.level === 'fiche' && DataStore.ficheById(saved.ficheId)) {
+      if (!isPC()) goDeeper({ level: 'fiches', domainId: saved.domainId, subtheme: saved.subtheme, ficheId: null });
+      goDeeper({ level: 'fiche', domainId: saved.domainId, subtheme: saved.subtheme, ficheId: saved.ficheId, chip: saved.chip });
+    }
+  }
+
   function renderTheme() {
+    try { sessionStorage.setItem(THEME_KEY, JSON.stringify(themeState)); } catch (e) { /* stockage indisponible */ }
     const root = document.getElementById('fiches-theme-content');
     root.innerHTML = '';
 
@@ -418,5 +437,5 @@ const Fiches = (() => {
     return row;
   }
 
-  return { initAleatoire, initTheme, renderCard, cardWithAside, openLinked, openDomain, TYPE_LABELS };
+  return { initAleatoire, initTheme, lireTheme, restoreTheme, renderCard, cardWithAside, openLinked, openDomain, TYPE_LABELS };
 })();
